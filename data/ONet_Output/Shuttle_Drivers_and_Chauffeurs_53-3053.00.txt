@@ -92,3 +92,11 @@ Drive a motor vehicle to transport passengers on a planned or scheduled basis. M
 - Vans (Tool type: Minivans or vans)
 - Wheelchair lifts (Tool type: Lifts)
 - Wheelchair restraint systems (Tool type: Wheelchair accessories)
+
+# WORK CONTEXT
+- No specific work context listed.
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Social

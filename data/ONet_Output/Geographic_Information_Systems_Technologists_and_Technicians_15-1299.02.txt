@@ -222,3 +222,11 @@ Assist scientists or related professionals in building, maintaining, modifying, 
 - Plotters (Tool type: Plotter printers)
 - Portable data collectors (Tool type: Portable data input terminals)
 - Synthetic aperture radar SAR (Tool type: Radarbased surveillance systems)
+
+# WORK CONTEXT
+- No specific work context listed.
+
+# INTERESTS (RIASEC)
+- Primary Interest: Conventional
+- Secondary Interest: Investigative
+- Tertiary Interest: Realistic

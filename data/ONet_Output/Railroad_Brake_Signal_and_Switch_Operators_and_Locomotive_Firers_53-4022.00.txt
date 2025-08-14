@@ -140,3 +140,11 @@ Operate or monitor railroad track switches or locomotive instruments. May couple
 - Temperature gauges (Tool type: Temperature gauge)
 - Track switches (Tool type: Rail switching systems)
 - Track switching systems (Tool type: Rail switching systems)
+
+# WORK CONTEXT
+- No specific work context listed.
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Unknown (0)
