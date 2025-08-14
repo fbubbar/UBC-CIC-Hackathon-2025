@@ -1,12 +1,10 @@
 import { BedrockAgentClient, IngestKnowledgeBaseDocumentsCommand } from "@aws-sdk/client-bedrock-agent"
 import { ListObjectsV2Command, S3Client } from '@aws-sdk/client-s3';
-import * as fs from 'fs'
-import * as path from 'path'
+import { config } from 'dotenv';
 
-// Bucket information from amplify outputs
-const BUCKET_NAME = 'amplify-ubccicgenaihackathon202-databucket76dba918-u4tbp0b8ey8w';
-const KNOWLEDGE_BASE_ID = 'BEAQP7IZHR';
-const DATA_SOURCE_ID = 'PBLLIR7W05'
+config()
+
+const bucketName = process.env.BUCKET_NAME;
 
 // Initialize clients
 const bedrockClient = new BedrockAgentClient({ region: 'us-west-2' });
@@ -19,7 +17,7 @@ async function listAllObjects() {
   
   do {
     const command = new ListObjectsV2Command({
-      Bucket: BUCKET_NAME,
+      Bucket: bucketName,
       ContinuationToken: continuationToken,
     });
     
@@ -54,8 +52,8 @@ async function ingestDocuments(objects) {
       .filter(obj => !obj.Key.endsWith('.metadata.json'))
       .map(obj => {        
         // Create paths for content and metadata
-        const contentUri = `s3://${BUCKET_NAME}/${obj.Key}`;
-        const metadataUri = `s3://${BUCKET_NAME}/${obj.Key}.metadata.json`;
+        const contentUri = `s3://${bucketName}/${obj.Key}`;
+        const metadataUri = `s3://${bucketName}/${obj.Key}.metadata.json`;
         
         return {
           metadata: {
@@ -77,8 +75,8 @@ async function ingestDocuments(objects) {
 
     try {
       const command = new IngestKnowledgeBaseDocumentsCommand({
-        knowledgeBaseId: KNOWLEDGE_BASE_ID,
-        dataSourceId: DATA_SOURCE_ID,
+        knowledgeBaseId: process.env.KB_ID,
+        dataSourceId: process.env.DATA_SOURCE_ID,
         documents: dataSourceObjects
       });
       
@@ -99,7 +97,7 @@ async function ingestDocuments(objects) {
 // Main execution function
 async function main() {
   try {
-    console.log(`Starting ingestion of documents from bucket: ${BUCKET_NAME}`);
+    console.log(`Starting ingestion of documents from bucket: ${bucketName}`);
     const objects = await listAllObjects();
     
     if (objects.length === 0) {
