@@ -1,12 +1,9 @@
 "use client";
 
 import React from "react";
-import { useAuthenticator } from "@aws-amplify/ui-react";
 import Link from "next/link";
 
 export default function IntakeForm() {
-  const { user } = useAuthenticator();
-
   return (
     <div className="min-h-screen bg-gray-100">
       {/* Header */}
@@ -17,22 +14,20 @@ export default function IntakeForm() {
               <h1 className="text-xl font-semibold text-gray-900">
                 Intake Form
               </h1>
-              <p className="text-sm text-gray-600">
-                Welcome, {user?.signInDetails?.loginId}
-              </p>
+              <p className="text-sm text-gray-600">Fill out the intake form</p>
             </div>
             <div className="flex items-center space-x-4">
+              <Link
+                href="/"
+                className="bg-gray-500 text-white px-4 py-2 rounded-md hover:bg-gray-600 text-sm font-medium"
+              >
+                Home
+              </Link>
               <Link
                 href="/dashboard"
                 className="bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600 text-sm font-medium"
               >
                 Dashboard
-              </Link>
-              <Link
-                href="/results"
-                className="bg-green-500 text-white px-4 py-2 rounded-md hover:bg-green-600 text-sm font-medium"
-              >
-                Results
               </Link>
             </div>
           </div>

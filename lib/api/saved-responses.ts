@@ -14,8 +14,7 @@ export class SavedResponsesService {
         answer: item.answer || '',
         fileName: item.fileName || '',
         savedAt: item.savedAt || new Date().toISOString(),
-        tags: item.tags || [],
-        userId: item.userId || undefined,
+        tags: (item.tags || []).filter((tag): tag is string => tag !== null),
       }));
     } catch (error) {
       console.error('Error fetching saved responses:', error);
@@ -34,8 +33,7 @@ export class SavedResponsesService {
         answer: data.answer || '',
         fileName: data.fileName || '',
         savedAt: data.savedAt || new Date().toISOString(),
-        tags: data.tags || [],
-        userId: data.userId || undefined,
+        tags: (data.tags || []).filter((tag): tag is string => tag !== null),
       };
     } catch (error) {
       console.error('Error fetching saved response:', error);
@@ -65,8 +63,7 @@ export class SavedResponsesService {
         answer: data.answer || '',
         fileName: data.fileName || '',
         savedAt: data.savedAt || new Date().toISOString(),
-        tags: data.tags || [],
-        userId: data.userId || undefined,
+        tags: (data.tags || []).filter((tag): tag is string => tag !== null),
       };
     } catch (error) {
       console.error('Error creating saved response:', error);
@@ -103,8 +100,7 @@ export class SavedResponsesService {
         answer: data.answer || '',
         fileName: data.fileName || '',
         savedAt: data.savedAt || new Date().toISOString(),
-        tags: data.tags || [],
-        userId: data.userId || undefined,
+        tags: (data.tags || []).filter((tag): tag is string => tag !== null),
       };
     } catch (error) {
       console.error('Error updating saved response:', error);

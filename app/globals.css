@@ -12,7 +12,7 @@
 
 html {
   background: #001B3D url('/backdrop.png') no-repeat center center fixed !important;
-  background-size: cover !important;
+  background-size: 120vw 120vh !important;
   min-height: 100vh;
 }
 

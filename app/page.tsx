@@ -16,12 +16,20 @@ export default function Home() {
               </h1>
               <p className="text-sm text-gray-600">Welcome to our platform</p>
             </div>
-            <Link
-              href="/login"
-              className="bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600 text-sm font-medium"
-            >
-              Login
-            </Link>
+            <div className="flex items-center space-x-4">
+              <Link
+                href="/dashboard"
+                className="bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600 text-sm font-medium"
+              >
+                Dashboard
+              </Link>
+              <Link
+                href="/intake-form"
+                className="bg-green-500 text-white px-4 py-2 rounded-md hover:bg-green-600 text-sm font-medium"
+              >
+                Intake Form
+              </Link>
+            </div>
           </div>
         </div>
       </header>
@@ -34,14 +42,24 @@ export default function Home() {
               Welcome to Our Platform
             </h2>
             <p className="text-lg text-gray-600 mb-8">
-              This is the public home page. Login to access the full features.
+              Upload PDFs and ask questions to get AI-powered answers. Navigate
+              to the dashboard to start analyzing documents or fill out the
+              intake form.
             </p>
-            <Link
-              href="/login"
-              className="bg-blue-500 text-white px-6 py-3 rounded-md hover:bg-blue-600 text-lg font-medium"
-            >
-              Get Started
-            </Link>
+            <div className="flex justify-center space-x-4">
+              <Link
+                href="/dashboard"
+                className="bg-blue-500 text-white px-6 py-3 rounded-md hover:bg-blue-600 text-lg font-medium"
+              >
+                Go to Dashboard
+              </Link>
+              <Link
+                href="/intake-form"
+                className="bg-green-500 text-white px-6 py-3 rounded-md hover:bg-green-600 text-lg font-medium"
+              >
+                Intake Form
+              </Link>
+            </div>
           </div>
         </div>
       </main>
