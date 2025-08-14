@@ -4,8 +4,11 @@ import React, { useState, useEffect } from "react";
 import Link from "next/link";
 import styles from "./form.module.css";
 import QuestionaireQ from "./QuestionaireQ";
+import { useCareerAnalysis } from "../../hooks/useCareerAnalysis";
 
 export default function IntakeForm() {
+  const careerAnalysisMutation = useCareerAnalysis();
+
   const questions = [
     "I see myself build Kitchen Cabinets",
     "I see myself developing a new medicine",
@@ -127,23 +130,35 @@ export default function IntakeForm() {
   };
 
   const handleSubmit = () => {
-    // Stub for submission logic
-    const formData = {
-      firstName,
-      lastName,
-      email,
-      resumeFile,
-      questionnaireResponses: userResponses,
-      softSkills: softSkills.split(",").map((skill) => skill.trim()),
-      careerProspects: careerProspects
-        .split(",")
-        .map((prospect) => prospect.trim()),
-    };
+    // Format all form data into a single text query
+    const questionnaireText = questions
+      .map((question, index) => `${question}: ${userResponses[index]}`)
+      .join(". ");
+    
+    const softSkillsList = softSkills.split(",").map((skill) => skill.trim()).join(", ");
+    const careerProspectsList = careerProspects
+      .split(",")
+      .map((prospect) => prospect.trim())
+      .join(", ");
 
-    console.log("Form submitted:", formData);
-    // TODO: Implement actual submission logic
+    const queryText = `
+Personal Information: Name: ${firstName} ${lastName}, Email: ${email}.
+Questionnaire Responses: ${questionnaireText}
+Soft Skills: ${softSkillsList}
+Career Interests: ${careerProspectsList}
+    `.trim();
 
-    window.location.href = "/dashboard";
+    console.log("Submitting career analysis query:", queryText);
+
+    console.log("About to call mutation...");
+    console.log("Mutation object:", careerAnalysisMutation);
+    
+    try {
+      careerAnalysisMutation.mutate({ query: queryText });
+      console.log("Mutation called successfully");
+    } catch (error) {
+      console.error("Error calling mutation:", error);
+    }
   };
 
   // Keyboard navigation
@@ -274,10 +289,10 @@ export default function IntakeForm() {
           Back
         </div>
         <div
-          className={`button glass ${!nextPageEnabled ? styles.disabled : ""}`}
+          className={`button glass ${!nextPageEnabled || careerAnalysisMutation.isPending ? styles.disabled : ""}`}
           onClick={isLastPage ? handleSubmit : handleNext}
         >
-          {isLastPage ? "Submit" : "Next"}
+          {isLastPage ? (careerAnalysisMutation.isPending ? "Analyzing..." : "Submit") : "Next"}
         </div>
       </div>
     </div>
