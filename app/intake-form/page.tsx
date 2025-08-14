@@ -2,15 +2,16 @@
 
 import React, { useState, useEffect } from "react";
 import Link from "next/link";
+import { useRouter } from "next/navigation";
 import styles from "./form.module.css";
 import QuestionaireQ from "./QuestionaireQ";
-import { useCareerAnalysis } from "../../hooks/useCareerAnalysis";
+import { generateMockCareerAnalysis } from "../../lib/mockCareerData";
 
 export default function IntakeForm() {
-  const careerAnalysisMutation = useCareerAnalysis();
+  const router = useRouter();
 
   const questions = [
-    "I see myself build Kitchen Cabinets",
+    "I see myself building kitchen cabinets",
     "I see myself developing a new medicine",
     "I see myself studying ways to reduce water pollution.",
     "I see myself writing books or plays.",
@@ -130,35 +131,27 @@ export default function IntakeForm() {
   };
 
   const handleSubmit = () => {
-    // Format all form data into a single text query
-    const questionnaireText = questions
-      .map((question, index) => `${question}: ${userResponses[index]}`)
-      .join(". ");
+    // Create form data object
+    const formData = {
+      firstName,
+      lastName,
+      email,
+      questionnaireResponses: userResponses,
+      softSkills: softSkills.split(",").map((skill) => skill.trim()).filter(skill => skill),
+      careerProspects: careerProspects.split(",").map((prospect) => prospect.trim()).filter(prospect => prospect),
+    };
+
+    console.log("Form data:", formData);
+
+    // Generate mock career analysis
+    const analysisResult = generateMockCareerAnalysis(formData);
     
-    const softSkillsList = softSkills.split(",").map((skill) => skill.trim()).join(", ");
-    const careerProspectsList = careerProspects
-      .split(",")
-      .map((prospect) => prospect.trim())
-      .join(", ");
+    // Store results in localStorage for the results page
+    localStorage.setItem('careerAnalysisResult', JSON.stringify(analysisResult));
+    localStorage.setItem('userFormData', JSON.stringify(formData));
 
-    const queryText = `
-Personal Information: Name: ${firstName} ${lastName}, Email: ${email}.
-Questionnaire Responses: ${questionnaireText}
-Soft Skills: ${softSkillsList}
-Career Interests: ${careerProspectsList}
-    `.trim();
-
-    console.log("Submitting career analysis query:", queryText);
-
-    console.log("About to call mutation...");
-    console.log("Mutation object:", careerAnalysisMutation);
-    
-    try {
-      careerAnalysisMutation.mutate({ query: queryText });
-      console.log("Mutation called successfully");
-    } catch (error) {
-      console.error("Error calling mutation:", error);
-    }
+    // Navigate to results page
+    router.push('/results');
   };
 
   // Keyboard navigation
@@ -289,10 +282,10 @@ Career Interests: ${careerProspectsList}
           Back
         </div>
         <div
-          className={`button glass ${!nextPageEnabled || careerAnalysisMutation.isPending ? styles.disabled : ""}`}
+          className={`button glass ${!nextPageEnabled ? styles.disabled : ""}`}
           onClick={isLastPage ? handleSubmit : handleNext}
         >
-          {isLastPage ? (careerAnalysisMutation.isPending ? "Analyzing..." : "Submit") : "Next"}
+          {isLastPage ? "Submit" : "Next"}
         </div>
       </div>
     </div>

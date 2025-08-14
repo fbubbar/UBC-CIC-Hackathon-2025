@@ -19,17 +19,23 @@ const DashboardContent = () => {
   });
 
   const jobsData: { [key: string]: JobData } = {
-    "ui-ux-designer": {
-      title: "UI/UX Designer",
-      tags: ["Building", "Design", "Tech"],
+    "software-developer": {
+      title: "Software Developer",
+      tags: ["Technology", "Problem Solving", "Innovation"],
       description:
-        "A UI/UX designer creates intuitive, visually appealing, and user-friendly digital experiences by combining design principles with user research. They focus on understanding user needs, crafting wireframes and prototypes, and refining interfaces for both aesthetics and functionality. The goal is to ensure every interaction feels seamless and engaging.",
+        "Design, develop, and maintain software applications and systems. Create efficient, scalable solutions to complex technical problems while collaborating with cross-functional teams.",
     },
-    "product-manager": {
-      title: "Product Manager",
-      tags: ["Building", "Tech"],
+    "ux-ui-designer": {
+      title: "UX/UI Designer",
+      tags: ["Design", "User Research", "Creativity"],
       description:
-        "A product manager guides a product's vision, strategy, and development from concept to launch. They act as the link between business, design, and engineering teams, prioritizing features based on user needs and company goals. The role centers on delivering products that solve problems, delight users, and drive business impact.",
+        "Create intuitive, visually appealing, and user-friendly digital experiences by combining design principles with user research and testing.",
+    },
+    "data-scientist": {
+      title: "Data Scientist",
+      tags: ["Analytics", "Machine Learning", "Statistics"],
+      description:
+        "Analyze complex data sets to extract insights, build predictive models, and drive data-driven decision making across organizations.",
     },
   };
 
@@ -101,46 +107,22 @@ const DashboardContent = () => {
       {currentView === "cards" ? (
         <main className="cardsMainContent">
           <div className="jobCardsGrid">
-            <div
-              className="jobCard glass"
-              onClick={() => handleJobSelect("ui-ux-designer")}
-            >
-              <h3>UI/UX Designer</h3>
-              <div className="tags">
-                <span className="tag glass">Building</span>
-                <span className="tag glass">Design</span>
-                <span className="tag glass">Tech</span>
+            {Object.entries(jobsData).map(([key, job]) => (
+              <div
+                key={key}
+                className="jobCard glass"
+                onClick={() => handleJobSelect(key)}
+              >
+                <h3>{job.title}</h3>
+                <div className="tags">
+                  {job.tags.map((tag, index) => (
+                    <span key={index} className="tag glass">{tag}</span>
+                  ))}
+                </div>
+                <p>{job.description}</p>
+                <div className="cardArrow">→</div>
               </div>
-              <p>
-                A UI/UX designer creates intuitive, visually appealing, and
-                user-friendly digital experiences by combining design principles
-                with user research. They focus on understanding user needs,
-                crafting wireframes and prototypes, and refining interfaces for
-                both aesthetics and functionality. The goal is to ensure every
-                interaction feels seamless and engaging.
-              </p>
-              <div className="cardArrow">→</div>
-            </div>
-
-            <div
-              className="jobCard glass"
-              onClick={() => handleJobSelect("product-manager")}
-            >
-              <h3>Product Manager</h3>
-              <div className="tags">
-                <span className="tag glass">Building</span>
-                <span className="tag glass">Tech</span>
-              </div>
-              <p>
-                A product manager guides a product's vision, strategy, and
-                development from concept to launch. They act as the link between
-                business, design, and engineering teams, prioritizing features
-                based on user needs and company goals. The role centers on
-                delivering products that solve problems, delight users, and
-                drive business impact.
-              </p>
-              <div className="cardArrow">→</div>
-            </div>
+            ))}
           </div>
         </main>
       ) : (
