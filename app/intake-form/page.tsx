@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import Link from "next/link";
 import styles from "./form.module.css";
 import QuestionaireQ from "./QuestionaireQ";
@@ -33,9 +33,11 @@ export default function IntakeForm() {
 
   /* 1. basic responses */
   const [firstName, setFirstName] = useState("");
-  const [resumseFile, setResumseFile] = useState(null);
+  const [lastName, setLastName] = useState("");
+  const [email, setEmail] = useState("");
+  const [resumeFile, setResumeFile] = useState<File | null>(null);
 
-  /* 2. questionaire responses */
+  /* 2. questionnaire responses */
   const [currentQuestion, setCurrentQuestion] = useState(0);
   const [userResponses, setUserResponses] = useState(
     Array(questions.length).fill("")
@@ -56,6 +58,129 @@ export default function IntakeForm() {
     setUserResponses(newUserResponse);
   };
 
+  const validateCurrentPage = () => {
+    switch (currentPage) {
+      case 0:
+        return (
+          firstName.trim() !== "" &&
+          lastName.trim() !== "" &&
+          email.trim() !== ""
+        );
+      case 1:
+        return userResponses[currentQuestion].trim() !== "";
+      case 2:
+        return softSkills.trim() !== "";
+      case 3:
+        return careerProspects.trim() !== "";
+      default:
+        return false;
+    }
+  };
+
+  useEffect(() => {
+    setNextPageEnabled(validateCurrentPage());
+  }, [
+    currentPage,
+    firstName,
+    lastName,
+    email,
+    resumeFile,
+    userResponses,
+    softSkills,
+    careerProspects,
+    currentQuestion,
+  ]);
+
+  const handleNext = () => {
+    if (currentPage === 1) {
+      // On questionnaire page
+      if (currentQuestion < questions.length - 1) {
+        // Move to next question
+        setCurrentQuestion(currentQuestion + 1);
+      } else {
+        // All questions answered, move to next page
+        setCurrentPage(currentPage + 1);
+      }
+    } else if (currentPage < 3) {
+      // On other pages, move to next page
+      setCurrentPage(currentPage + 1);
+      if (currentPage === 0) {
+        setCurrentQuestion(0);
+      }
+    }
+  };
+
+  const handleBack = () => {
+    if (currentPage === 1) {
+      // On questionnaire page
+      if (currentQuestion > 0) {
+        // Move to previous question
+        setCurrentQuestion(currentQuestion - 1);
+      } else {
+        // On first question, go back to previous page
+        setCurrentPage(currentPage - 1);
+      }
+    } else if (currentPage > 0) {
+      // On other pages, move to previous page
+      setCurrentPage(currentPage - 1);
+    }
+  };
+
+  const handleSubmit = () => {
+    // Stub for submission logic
+    const formData = {
+      firstName,
+      lastName,
+      email,
+      resumeFile,
+      questionnaireResponses: userResponses,
+      softSkills: softSkills.split(",").map((skill) => skill.trim()),
+      careerProspects: careerProspects
+        .split(",")
+        .map((prospect) => prospect.trim()),
+    };
+
+    console.log("Form submitted:", formData);
+    // TODO: Implement actual submission logic
+  };
+
+  // Keyboard navigation
+  useEffect(() => {
+    const handleKeyDown = (event: KeyboardEvent) => {
+      // Only handle arrow keys if not focused on an input
+      if (document.activeElement?.tagName === "INPUT") {
+        return;
+      }
+
+      const isLastPage = currentPage === 3;
+      const isBackDisabled =
+        currentPage === 0 || (currentPage === 1 && currentQuestion === 0);
+
+      if (event.key === "ArrowRight") {
+        event.preventDefault();
+        if (nextPageEnabled) {
+          if (isLastPage) {
+            handleSubmit();
+          } else {
+            handleNext();
+          }
+        }
+      } else if (event.key === "ArrowLeft") {
+        event.preventDefault();
+        if (!isBackDisabled) {
+          handleBack();
+        }
+      }
+    };
+
+    window.addEventListener("keydown", handleKeyDown);
+    return () => window.removeEventListener("keydown", handleKeyDown);
+  }, [currentPage, currentQuestion, nextPageEnabled]);
+
+  const isLastPage = currentPage === 3;
+  const isBackDisabled =
+    currentPage === 0 || (currentPage === 1 && currentQuestion === 0);
+
   return (
     <div className={styles.container}>
       {currentPage === 0 && (
@@ -65,65 +190,88 @@ export default function IntakeForm() {
               className={`${styles.input} glass`}
               id="firstName"
               placeholder="First Name"
-            ></input>
+              value={firstName}
+              onChange={(e) => setFirstName(e.target.value)}
+            />
             <input
               className={`${styles.input} glass`}
               id="lastName"
               placeholder="Last Name"
-            ></input>
+              value={lastName}
+              onChange={(e) => setLastName(e.target.value)}
+            />
           </div>
 
           <input
             className={`${styles.input} glass`}
             id="email"
             placeholder="Email"
-          ></input>
+            type="email"
+            value={email}
+            onChange={(e) => setEmail(e.target.value)}
+          />
           <input
             type="file"
             accept=".pdf"
             id="resumeUpload"
+            style={{ height: "4rem" }}
             className={styles.fileInput}
-          ></input>
+            onChange={(e) => setResumeFile(e.target.files?.[0] || null)}
+          />
         </div>
       )}
+
       {currentPage === 1 && (
-        <div id="questionaire">
+        <div id="questionnaire">
+          <div className={styles.questionProgress}>
+            Question {currentQuestion + 1} of {questions.length}
+          </div>
           <QuestionaireQ
             question={questions[currentQuestion]}
             setUserResponse={(userResponse: string) =>
               setSpecificQuestionResponse(currentQuestion, userResponse)
             }
-          ></QuestionaireQ>
+            currentResponse={userResponses[currentQuestion]}
+          />
         </div>
       )}
+
       {currentPage === 2 && (
         <div>
           <input
             className={`${styles.input} glass`}
             id="softSkills"
+            style={{ width: "30rem" }}
             placeholder="Type soft skills separated by commas"
-          ></input>
+            value={softSkills}
+            onChange={(e) => setSoftSkills(e.target.value)}
+          />
         </div>
       )}
+
       {currentPage === 3 && (
         <input
           className={`${styles.input} glass`}
           id="prospects"
+          style={{ width: "30rem" }}
           placeholder="Type careers that interest you separated by commas"
-        ></input>
+          value={careerProspects}
+          onChange={(e) => setCareerProspects(e.target.value)}
+        />
       )}
+
       <div className={styles.buttonContainer}>
         <div
-          className={`button glass ${currentPage === 0 ? styles.disabled : ""}`}
-          onClick={() => currentPage > 0 && setCurrentPage(currentPage - 1)}
+          className={`button glass ${isBackDisabled ? styles.disabled : ""}`}
+          onClick={handleBack}
         >
           Back
         </div>
         <div
-          className={`button glass ${nextPageEnabled ? "" : styles.disabled}`}
-          onClick={() => nextPageEnabled && setCurrentPage(currentPage + 1)}
+          className={`button glass ${!nextPageEnabled ? styles.disabled : ""}`}
+          onClick={isLastPage ? handleSubmit : handleNext}
         >
-          Next
+          {isLastPage ? "Submit" : "Next"}
         </div>
       </div>
     </div>
