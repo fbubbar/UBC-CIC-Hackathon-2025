@@ -18,6 +18,42 @@ Diagnose, treat, and help prevent mental disorders.
 - Prepare and submit case reports or summaries to government or mental health agencies.
 - Serve on committees to promote or maintain community mental health services or delivery systems.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Therapy and Counseling (Importance: 4.94/5 | Level: 6.72/7)
+- Psychology (Importance: 4.9/5 | Level: 6.6/7)
+- Medicine and Dentistry (Importance: 4.75/5 | Level: 5.82/7)
+- English Language (Importance: 4.27/5 | Level: 5.05/7)
+- Biology (Importance: 3.81/5 | Level: 4.57/7)
+- Education and Training (Importance: 3.67/5 | Level: 5.0/7)
+- Customer and Personal Service (Importance: 3.66/5 | Level: 4.92/7)
+- Sociology and Anthropology (Importance: 3.53/5 | Level: 4.46/7)
+- Administration and Management (Importance: 3.23/5 | Level: 3.43/7)
+- Philosophy and Theology (Importance: 3.04/5 | Level: 4.11/7)
+- Computers and Electronics (Importance: 3.02/5 | Level: 3.72/7)
+- Chemistry (Importance: 2.92/5 | Level: 3.68/7)
+- Law and Government (Importance: 2.8/5 | Level: 3.21/7)
+- Public Safety and Security (Importance: 2.66/5 | Level: 2.5/7)
+- Mathematics (Importance: 2.61/5 | Level: 3.03/7)
+- Administrative (Importance: 2.58/5 | Level: 2.97/7)
+- Personnel and Human Resources (Importance: 2.37/5 | Level: 2.75/7)
+- Foreign Language (Importance: 2.15/5 | Level: 1.86/7)
+- Economics and Accounting (Importance: 2.11/5 | Level: 1.54/7)
+- Geography (Importance: 2.0/5 | Level: 2.06/7)
+- Communications and Media (Importance: 1.99/5 | Level: 2.02/7)
+- Sales and Marketing (Importance: 1.97/5 | Level: 1.61/7)
+- Telecommunications (Importance: 1.76/5 | Level: 0.98/7)
+- Physics (Importance: 1.7/5 | Level: 1.37/7)
+- History and Archeology (Importance: 1.66/5 | Level: 1.17/7)
+- Transportation (Importance: 1.58/5 | Level: 1.27/7)
+- Engineering and Technology (Importance: 1.23/5 | Level: 0.62/7)
+- Fine Arts (Importance: 1.19/5 | Level: 0.35/7)
+- Mechanical (Importance: 1.16/5 | Level: 0.24/7)
+- Production and Processing (Importance: 1.16/5 | Level: 0.48/7)
+- Design (Importance: 1.07/5 | Level: 0.17/7)
+- Building and Construction (Importance: 1.05/5 | Level: 0.05/7)
+- Food Production (Importance: 1.01/5 | Level: 0.04/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Active Listening (Importance: 4.62/5 | Level: 5.0/7)
@@ -160,3 +196,25 @@ Diagnose, treat, and help prevent mental disorders.
 - Primary Interest: Investigative
 - Secondary Interest: Social
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Clinical Neuropsychologists
+- Neuropsychologists
+- Neurologists
+- Pediatricians, General
+- Advanced Practice Psychiatric Nurses
+- Family Medicine Physicians
+- General Internal Medicine Physicians
+- Pediatric Surgeons
+- Clinical Nurse Specialists
+- Clinical and Counseling Psychologists
+- Emergency Medicine Physicians
+- Nurse Practitioners
+- Psychiatric Technicians
+- Cardiologists
+- Physical Medicine and Rehabilitation Physicians
+- Genetic Counselors
+- Orthopedic Surgeons, Except Pediatric
+- Obstetricians and Gynecologists
+- Naturopathic Physicians
+- Acute Care Nurses

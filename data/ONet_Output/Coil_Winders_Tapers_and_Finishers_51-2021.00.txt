@@ -17,6 +17,42 @@ Wind wire coils used in electrical components, such as resistors and transformer
 - Apply solutions or paints to wired electrical components, using hand tools, and bake components.
 - Disassemble and assemble motors, and repair and maintain electrical components and machinery parts, using hand tools.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Education and Training (Importance: 3.69/5 | Level: 4.26/7)
+- English Language (Importance: 3.65/5 | Level: 4.43/7)
+- Mathematics (Importance: 3.62/5 | Level: 4.22/7)
+- Administration and Management (Importance: 3.61/5 | Level: 4.35/7)
+- Production and Processing (Importance: 3.53/5 | Level: 4.17/7)
+- Mechanical (Importance: 3.47/5 | Level: 4.34/7)
+- Design (Importance: 3.29/5 | Level: 3.69/7)
+- Computers and Electronics (Importance: 3.1/5 | Level: 3.39/7)
+- Customer and Personal Service (Importance: 2.89/5 | Level: 2.28/7)
+- Engineering and Technology (Importance: 2.77/5 | Level: 3.13/7)
+- Physics (Importance: 2.75/5 | Level: 3.37/7)
+- Administrative (Importance: 2.7/5 | Level: 2.27/7)
+- Transportation (Importance: 2.6/5 | Level: 2.22/7)
+- Law and Government (Importance: 2.41/5 | Level: 2.24/7)
+- Chemistry (Importance: 2.4/5 | Level: 2.83/7)
+- Personnel and Human Resources (Importance: 2.29/5 | Level: 2.15/7)
+- Psychology (Importance: 2.25/5 | Level: 2.13/7)
+- Public Safety and Security (Importance: 2.12/5 | Level: 1.81/7)
+- Economics and Accounting (Importance: 2.1/5 | Level: 1.81/7)
+- Medicine and Dentistry (Importance: 2.1/5 | Level: 1.59/7)
+- Building and Construction (Importance: 2.06/5 | Level: 1.93/7)
+- Sales and Marketing (Importance: 1.91/5 | Level: 1.79/7)
+- Therapy and Counseling (Importance: 1.89/5 | Level: 1.55/7)
+- Foreign Language (Importance: 1.85/5 | Level: 1.7/7)
+- Communications and Media (Importance: 1.85/5 | Level: 1.9/7)
+- Sociology and Anthropology (Importance: 1.81/5 | Level: 1.63/7)
+- Geography (Importance: 1.66/5 | Level: 1.1/7)
+- Telecommunications (Importance: 1.49/5 | Level: 0.93/7)
+- Biology (Importance: 1.48/5 | Level: 0.92/7)
+- Philosophy and Theology (Importance: 1.46/5 | Level: 0.76/7)
+- Food Production (Importance: 1.45/5 | Level: 0.91/7)
+- History and Archeology (Importance: 1.45/5 | Level: 1.12/7)
+- Fine Arts (Importance: 1.45/5 | Level: 0.9/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Monitoring (Importance: 3.12/5 | Level: 3.0/7)
@@ -165,3 +201,25 @@ Wind wire coils used in electrical components, such as resistors and transformer
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Electrical and Electronic Equipment Assemblers
+- Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders
+- Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers
+- Tool Grinders, Filers, and Sharpeners
+- Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Cutting and Slicing Machine Setters, Operators, and Tenders
+- Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic
+- Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Engine and Other Machine Assemblers
+- Electric Motor, Power Tool, and Related Repairers
+- Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+- Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic
+- Forging Machine Setters, Operators, and Tenders, Metal and Plastic
+- Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic
+- Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+- Timing Device Assemblers and Adjusters
+- Rolling Machine Setters, Operators, and Tenders, Metal and Plastic
+- Grinding and Polishing Workers, Hand
+- Machine Feeders and Offbearers

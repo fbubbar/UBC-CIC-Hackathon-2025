@@ -36,6 +36,42 @@ Coordinate activities in resident facilities in secondary school and college dor
 - Sort and distribute mail.
 - Inventory, pack, and remove items left behind by former residents.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.45/5 | Level: 5.73/7)
+- Administration and Management (Importance: 4.21/5 | Level: 4.27/7)
+- Public Safety and Security (Importance: 4.05/5 | Level: 3.51/7)
+- Education and Training (Importance: 3.99/5 | Level: 4.7/7)
+- English Language (Importance: 3.92/5 | Level: 3.6/7)
+- Sociology and Anthropology (Importance: 3.74/5 | Level: 3.06/7)
+- Administrative (Importance: 3.51/5 | Level: 3.71/7)
+- Personnel and Human Resources (Importance: 3.48/5 | Level: 3.67/7)
+- Therapy and Counseling (Importance: 3.45/5 | Level: 3.54/7)
+- Psychology (Importance: 3.17/5 | Level: 4.72/7)
+- Communications and Media (Importance: 3.1/5 | Level: 3.04/7)
+- Computers and Electronics (Importance: 3.07/5 | Level: 3.52/7)
+- Law and Government (Importance: 3.01/5 | Level: 2.25/7)
+- Telecommunications (Importance: 2.79/5 | Level: 1.46/7)
+- Medicine and Dentistry (Importance: 2.79/5 | Level: 2.71/7)
+- Transportation (Importance: 2.53/5 | Level: 1.35/7)
+- Economics and Accounting (Importance: 2.47/5 | Level: 1.81/7)
+- Philosophy and Theology (Importance: 2.38/5 | Level: 3.06/7)
+- Food Production (Importance: 2.28/5 | Level: 1.29/7)
+- Mathematics (Importance: 2.25/5 | Level: 2.19/7)
+- Production and Processing (Importance: 2.0/5 | Level: 1.74/7)
+- Design (Importance: 1.97/5 | Level: 1.28/7)
+- Sales and Marketing (Importance: 1.83/5 | Level: 1.41/7)
+- Mechanical (Importance: 1.8/5 | Level: 0.62/7)
+- Engineering and Technology (Importance: 1.79/5 | Level: 1.31/7)
+- Foreign Language (Importance: 1.75/5 | Level: 1.41/7)
+- Fine Arts (Importance: 1.74/5 | Level: 1.38/7)
+- Geography (Importance: 1.66/5 | Level: 1.94/7)
+- Building and Construction (Importance: 1.59/5 | Level: 0.86/7)
+- Biology (Importance: 1.59/5 | Level: 0.54/7)
+- History and Archeology (Importance: 1.54/5 | Level: 1.19/7)
+- Chemistry (Importance: 1.51/5 | Level: 0.96/7)
+- Physics (Importance: 1.5/5 | Level: 0.94/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Social Perceptiveness (Importance: 4.0/5 | Level: 3.5/7)
@@ -173,3 +209,25 @@ Coordinate activities in resident facilities in secondary school and college dor
 - Primary Interest: Social
 - Secondary Interest: Conventional
 - Tertiary Interest: Enterprising
+
+# RELATED OCCUPATIONS
+- Social and Community Service Managers
+- Rehabilitation Counselors
+- First-Line Supervisors of Personal Service Workers
+- Child, Family, and School Social Workers
+- Social and Human Service Assistants
+- First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services
+- Educational, Guidance, and Career Counselors and Advisors
+- Patient Representatives
+- Recreation Workers
+- First-Line Supervisors of Housekeeping and Janitorial Workers
+- Home Health Aides
+- Education Administrators, Kindergarten through Secondary
+- Education Administrators, Postsecondary
+- Personal Care Aides
+- Education and Childcare Administrators, Preschool and Daycare
+- Directors, Religious Activities and Education
+- Mental Health Counselors
+- Mental Health and Substance Abuse Social Workers
+- Health Education Specialists
+- Eligibility Interviewers, Government Programs

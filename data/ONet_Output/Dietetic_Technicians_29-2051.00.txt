@@ -19,6 +19,42 @@ Assist in the provision of food service and nutritional programs, under the supe
 - Refer patients to other relevant services to provide continuity of care.
 - Deliver speeches on diet, nutrition, or health to promote healthy eating habits and illness prevention and treatment.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.78/5 | Level: 5.6/7)
+- English Language (Importance: 4.54/5 | Level: 4.16/7)
+- Education and Training (Importance: 4.2/5 | Level: 5.18/7)
+- Mathematics (Importance: 3.97/5 | Level: 3.63/7)
+- Public Safety and Security (Importance: 3.96/5 | Level: 3.5/7)
+- Administration and Management (Importance: 3.93/5 | Level: 3.95/7)
+- Food Production (Importance: 3.91/5 | Level: 3.42/7)
+- Administrative (Importance: 3.81/5 | Level: 4.45/7)
+- Computers and Electronics (Importance: 3.77/5 | Level: 4.15/7)
+- Production and Processing (Importance: 3.59/5 | Level: 3.68/7)
+- Personnel and Human Resources (Importance: 3.41/5 | Level: 3.21/7)
+- Law and Government (Importance: 3.13/5 | Level: 2.22/7)
+- Communications and Media (Importance: 2.87/5 | Level: 2.65/7)
+- Psychology (Importance: 2.83/5 | Level: 3.11/7)
+- Therapy and Counseling (Importance: 2.7/5 | Level: 2.88/7)
+- Medicine and Dentistry (Importance: 2.67/5 | Level: 2.12/7)
+- Economics and Accounting (Importance: 2.5/5 | Level: 2.3/7)
+- Sales and Marketing (Importance: 2.47/5 | Level: 2.15/7)
+- Telecommunications (Importance: 2.47/5 | Level: 1.71/7)
+- Chemistry (Importance: 2.42/5 | Level: 2.5/7)
+- Sociology and Anthropology (Importance: 2.39/5 | Level: 2.19/7)
+- Biology (Importance: 2.32/5 | Level: 1.82/7)
+- Mechanical (Importance: 2.32/5 | Level: 1.75/7)
+- Philosophy and Theology (Importance: 2.13/5 | Level: 2.04/7)
+- Transportation (Importance: 2.12/5 | Level: 1.6/7)
+- Design (Importance: 2.11/5 | Level: 1.08/7)
+- Foreign Language (Importance: 2.1/5 | Level: 1.66/7)
+- Building and Construction (Importance: 1.95/5 | Level: 1.56/7)
+- Engineering and Technology (Importance: 1.89/5 | Level: 1.6/7)
+- Geography (Importance: 1.85/5 | Level: 1.65/7)
+- History and Archeology (Importance: 1.75/5 | Level: 1.0/7)
+- Fine Arts (Importance: 1.63/5 | Level: 0.94/7)
+- Physics (Importance: 1.62/5 | Level: 0.95/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Speaking (Importance: 3.38/5 | Level: 3.25/7)
@@ -165,3 +201,25 @@ Assist in the provision of food service and nutritional programs, under the supe
 - Primary Interest: Social
 - Secondary Interest: Realistic
 - Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Dietitians and Nutritionists
+- Health Education Specialists
+- Psychiatric Technicians
+- Nursing Assistants
+- Home Health Aides
+- Exercise Physiologists
+- Community Health Workers
+- Registered Nurses
+- Medical Assistants
+- Licensed Practical and Licensed Vocational Nurses
+- Emergency Medicine Physicians
+- Preventive Medicine Physicians
+- Family and Consumer Sciences Teachers, Postsecondary
+- Clinical Nurse Specialists
+- Recreational Therapists
+- Psychiatric Aides
+- Pharmacists
+- Nurse Practitioners
+- Cardiologists
+- Pharmacy Technicians

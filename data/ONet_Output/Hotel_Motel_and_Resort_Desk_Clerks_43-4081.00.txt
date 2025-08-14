@@ -26,6 +26,42 @@ Accommodate hotel, motel, and resort patrons by registering and assigning rooms 
 - Deposit guests' valuables in hotel safes or safe-deposit boxes.
 - Plan, schedule or supervise the work of other employees.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.35/5 | Level: 4.38/7)
+- English Language (Importance: 4.19/5 | Level: 4.07/7)
+- Public Safety and Security (Importance: 3.67/5 | Level: 3.14/7)
+- Administrative (Importance: 3.64/5 | Level: 4.23/7)
+- Computers and Electronics (Importance: 3.35/5 | Level: 3.31/7)
+- Administration and Management (Importance: 3.18/5 | Level: 2.81/7)
+- Mathematics (Importance: 3.05/5 | Level: 2.98/7)
+- Sales and Marketing (Importance: 2.87/5 | Level: 2.68/7)
+- Economics and Accounting (Importance: 2.82/5 | Level: 2.71/7)
+- Telecommunications (Importance: 2.59/5 | Level: 1.11/7)
+- Personnel and Human Resources (Importance: 2.55/5 | Level: 2.03/7)
+- Education and Training (Importance: 2.53/5 | Level: 2.38/7)
+- Communications and Media (Importance: 2.46/5 | Level: 2.05/7)
+- Law and Government (Importance: 2.31/5 | Level: 1.6/7)
+- Psychology (Importance: 2.16/5 | Level: 1.88/7)
+- Transportation (Importance: 2.15/5 | Level: 1.74/7)
+- Production and Processing (Importance: 2.06/5 | Level: 1.76/7)
+- Foreign Language (Importance: 2.03/5 | Level: 1.73/7)
+- Mechanical (Importance: 2.03/5 | Level: 1.62/7)
+- Engineering and Technology (Importance: 2.02/5 | Level: 1.39/7)
+- Chemistry (Importance: 1.9/5 | Level: 1.72/7)
+- Geography (Importance: 1.89/5 | Level: 1.61/7)
+- Food Production (Importance: 1.88/5 | Level: 1.66/7)
+- Sociology and Anthropology (Importance: 1.79/5 | Level: 1.34/7)
+- Medicine and Dentistry (Importance: 1.72/5 | Level: 1.48/7)
+- Therapy and Counseling (Importance: 1.69/5 | Level: 1.25/7)
+- Philosophy and Theology (Importance: 1.61/5 | Level: 1.35/7)
+- Physics (Importance: 1.6/5 | Level: 0.56/7)
+- Building and Construction (Importance: 1.47/5 | Level: 0.9/7)
+- Design (Importance: 1.41/5 | Level: 0.84/7)
+- History and Archeology (Importance: 1.37/5 | Level: 0.75/7)
+- Biology (Importance: 1.27/5 | Level: 0.55/7)
+- Fine Arts (Importance: 1.24/5 | Level: 0.45/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Speaking (Importance: 3.75/5 | Level: 3.0/7)
@@ -155,3 +191,25 @@ Accommodate hotel, motel, and resort patrons by registering and assigning rooms 
 - Primary Interest: Conventional
 - Secondary Interest: Social
 - Tertiary Interest: Enterprising
+
+# RELATED OCCUPATIONS
+- Lodging Managers
+- Concierges
+- Receptionists and Information Clerks
+- Locker Room, Coatroom, and Dressing Room Attendants
+- Counter and Rental Clerks
+- Baggage Porters and Bellhops
+- Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop
+- Reservation and Transportation Ticket Agents and Travel Clerks
+- Cashiers
+- Passenger Attendants
+- Food Servers, Nonrestaurant
+- Customer Service Representatives
+- Maids and Housekeeping Cleaners
+- Ushers, Lobby Attendants, and Ticket Takers
+- Parking Attendants
+- Medical Secretaries and Administrative Assistants
+- First-Line Supervisors of Housekeeping and Janitorial Workers
+- Dining Room and Cafeteria Attendants and Bartender Helpers
+- Office Clerks, General
+- Food Service Managers

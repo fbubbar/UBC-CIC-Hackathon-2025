@@ -26,6 +26,42 @@ Direct activities such as autopsies, pathological and toxicological analyses, an
 - Collect wills, burial instructions, and other documentation needed for investigations and for handling of the remains.
 - Record the disposition of minor children, as well as details of arrangements made for their care.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- English Language (Importance: 4.6/5 | Level: 4.85/7)
+- Medicine and Dentistry (Importance: 4.55/5 | Level: 5.1/7)
+- Customer and Personal Service (Importance: 4.42/5 | Level: 5.74/7)
+- Law and Government (Importance: 4.15/5 | Level: 4.55/7)
+- Administration and Management (Importance: 3.9/5 | Level: 4.5/7)
+- Biology (Importance: 3.9/5 | Level: 4.85/7)
+- Education and Training (Importance: 3.85/5 | Level: 4.85/7)
+- Administrative (Importance: 3.8/5 | Level: 4.7/7)
+- Public Safety and Security (Importance: 3.75/5 | Level: 4.05/7)
+- Sociology and Anthropology (Importance: 3.55/5 | Level: 4.15/7)
+- Computers and Electronics (Importance: 3.55/5 | Level: 4.26/7)
+- Therapy and Counseling (Importance: 3.45/5 | Level: 4.2/7)
+- Psychology (Importance: 3.45/5 | Level: 4.8/7)
+- Transportation (Importance: 3.37/5 | Level: 3.6/7)
+- Personnel and Human Resources (Importance: 3.32/5 | Level: 4.15/7)
+- Communications and Media (Importance: 3.3/5 | Level: 3.65/7)
+- Economics and Accounting (Importance: 3.16/5 | Level: 3.4/7)
+- Telecommunications (Importance: 2.95/5 | Level: 2.3/7)
+- Chemistry (Importance: 2.9/5 | Level: 3.25/7)
+- Mathematics (Importance: 2.65/5 | Level: 2.95/7)
+- Physics (Importance: 2.61/5 | Level: 2.6/7)
+- Geography (Importance: 2.47/5 | Level: 3.0/7)
+- Production and Processing (Importance: 2.3/5 | Level: 2.25/7)
+- Engineering and Technology (Importance: 2.26/5 | Level: 2.26/7)
+- Philosophy and Theology (Importance: 2.16/5 | Level: 2.45/7)
+- Design (Importance: 2.1/5 | Level: 1.75/7)
+- Foreign Language (Importance: 2.0/5 | Level: 1.4/7)
+- Mechanical (Importance: 2.0/5 | Level: 1.9/7)
+- History and Archeology (Importance: 1.89/5 | Level: 2.05/7)
+- Building and Construction (Importance: 1.75/5 | Level: 1.45/7)
+- Sales and Marketing (Importance: 1.7/5 | Level: 1.5/7)
+- Fine Arts (Importance: 1.35/5 | Level: 0.7/7)
+- Food Production (Importance: 1.15/5 | Level: 0.5/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Speaking (Importance: 4.12/5 | Level: 4.0/7)
@@ -202,3 +238,25 @@ Direct activities such as autopsies, pathological and toxicological analyses, an
 - Primary Interest: Investigative
 - Secondary Interest: Conventional
 - Tertiary Interest: Realistic
+
+# RELATED OCCUPATIONS
+- Police Identification and Records Officers
+- Detectives and Criminal Investigators
+- Medical Records Specialists
+- Forensic Science Technicians
+- Police and Sheriff's Patrol Officers
+- Private Detectives and Investigators
+- Compliance Officers
+- Government Property Inspectors and Investigators
+- Environmental Compliance Inspectors
+- Regulatory Affairs Specialists
+- Administrative Law Judges, Adjudicators, and Hearing Officers
+- Patient Representatives
+- Medical Assistants
+- Emergency Medicine Physicians
+- Physicians, Pathologists
+- Preventive Medicine Physicians
+- Clinical Research Coordinators
+- Lawyers
+- Medical Secretaries and Administrative Assistants
+- Physician Assistants

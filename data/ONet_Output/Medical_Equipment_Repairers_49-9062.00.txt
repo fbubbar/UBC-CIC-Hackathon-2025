@@ -26,6 +26,42 @@ Test, adjust, or repair biomedical or electromedical equipment.
 - Supervise or advise subordinate personnel.
 - Make computations relating to load requirements of wiring or equipment, using algebraic expressions and standard formulas.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 4.17/5 | Level: 4.75/7)
+- Computers and Electronics (Importance: 3.94/5 | Level: 4.34/7)
+- Customer and Personal Service (Importance: 3.87/5 | Level: 4.36/7)
+- English Language (Importance: 3.58/5 | Level: 2.76/7)
+- Engineering and Technology (Importance: 3.39/5 | Level: 3.37/7)
+- Mathematics (Importance: 3.03/5 | Level: 3.02/7)
+- Public Safety and Security (Importance: 2.47/5 | Level: 2.19/7)
+- Education and Training (Importance: 2.46/5 | Level: 2.09/7)
+- Production and Processing (Importance: 2.45/5 | Level: 2.83/7)
+- Physics (Importance: 2.45/5 | Level: 2.53/7)
+- Administrative (Importance: 2.42/5 | Level: 2.2/7)
+- Design (Importance: 2.31/5 | Level: 2.53/7)
+- Telecommunications (Importance: 2.3/5 | Level: 1.71/7)
+- Transportation (Importance: 2.29/5 | Level: 1.77/7)
+- Administration and Management (Importance: 2.23/5 | Level: 2.16/7)
+- Sales and Marketing (Importance: 2.1/5 | Level: 1.75/7)
+- Building and Construction (Importance: 2.08/5 | Level: 2.37/7)
+- Law and Government (Importance: 2.03/5 | Level: 1.75/7)
+- Chemistry (Importance: 2.03/5 | Level: 2.6/7)
+- Medicine and Dentistry (Importance: 1.97/5 | Level: 1.57/7)
+- Personnel and Human Resources (Importance: 1.81/5 | Level: 1.27/7)
+- Geography (Importance: 1.77/5 | Level: 1.42/7)
+- Communications and Media (Importance: 1.75/5 | Level: 1.12/7)
+- Economics and Accounting (Importance: 1.72/5 | Level: 0.93/7)
+- Biology (Importance: 1.62/5 | Level: 1.25/7)
+- Sociology and Anthropology (Importance: 1.48/5 | Level: 0.68/7)
+- Psychology (Importance: 1.46/5 | Level: 0.85/7)
+- Philosophy and Theology (Importance: 1.41/5 | Level: 0.99/7)
+- Foreign Language (Importance: 1.29/5 | Level: 0.48/7)
+- Therapy and Counseling (Importance: 1.27/5 | Level: 0.49/7)
+- History and Archeology (Importance: 1.26/5 | Level: 0.55/7)
+- Food Production (Importance: 1.12/5 | Level: 0.37/7)
+- Fine Arts (Importance: 1.07/5 | Level: 0.11/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Repairing (Importance: 4.25/5 | Level: 4.0/7)
@@ -236,3 +272,25 @@ Test, adjust, or repair biomedical or electromedical equipment.
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Calibration Technologists and Technicians
+- Electrical and Electronic Engineering Technologists and Technicians
+- Aerospace Engineering and Operations Technologists and Technicians
+- Electrical and Electronics Repairers, Commercial and Industrial Equipment
+- Robotics Technicians
+- Mechanical Engineering Technologists and Technicians
+- Electrical and Electronics Installers and Repairers, Transportation Equipment
+- Medical Appliance Technicians
+- Photonics Technicians
+- Avionics Technicians
+- Automotive Engineering Technicians
+- Computer, Automated Teller, and Office Machine Repairers
+- Bioengineers and Biomedical Engineers
+- Maintenance and Repair Workers, General
+- Nanotechnology Engineering Technologists and Technicians
+- Electromechanical Equipment Assemblers
+- Industrial Machinery Mechanics
+- Industrial Engineering Technologists and Technicians
+- Electric Motor, Power Tool, and Related Repairers
+- Medical Equipment Preparers

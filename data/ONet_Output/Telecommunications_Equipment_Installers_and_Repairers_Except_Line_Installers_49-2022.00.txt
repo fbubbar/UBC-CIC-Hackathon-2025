@@ -45,6 +45,42 @@ Install, set up, rearrange, or remove switching, distribution, routing, and dial
 - Provide input into the design and manufacturing of new equipment.
 - Address special issues or situations, such as illegal or unauthorized use of equipment, or cases of electrical or acoustic shock.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.43/5 | Level: 4.76/7)
+- Telecommunications (Importance: 4.38/5 | Level: 4.44/7)
+- Computers and Electronics (Importance: 4.2/5 | Level: 4.55/7)
+- English Language (Importance: 4.0/5 | Level: 3.45/7)
+- Mathematics (Importance: 3.49/5 | Level: 3.31/7)
+- Public Safety and Security (Importance: 3.34/5 | Level: 3.19/7)
+- Mechanical (Importance: 3.21/5 | Level: 3.69/7)
+- Engineering and Technology (Importance: 3.17/5 | Level: 3.46/7)
+- Education and Training (Importance: 3.02/5 | Level: 3.16/7)
+- Administrative (Importance: 2.89/5 | Level: 3.06/7)
+- Administration and Management (Importance: 2.87/5 | Level: 3.26/7)
+- Communications and Media (Importance: 2.8/5 | Level: 2.45/7)
+- Sales and Marketing (Importance: 2.69/5 | Level: 3.13/7)
+- Production and Processing (Importance: 2.61/5 | Level: 2.79/7)
+- Personnel and Human Resources (Importance: 2.49/5 | Level: 1.98/7)
+- Transportation (Importance: 2.39/5 | Level: 2.21/7)
+- Design (Importance: 2.32/5 | Level: 2.31/7)
+- Law and Government (Importance: 2.31/5 | Level: 1.81/7)
+- Geography (Importance: 2.18/5 | Level: 2.24/7)
+- Building and Construction (Importance: 2.12/5 | Level: 1.74/7)
+- Physics (Importance: 2.09/5 | Level: 1.8/7)
+- Psychology (Importance: 1.87/5 | Level: 1.59/7)
+- Economics and Accounting (Importance: 1.76/5 | Level: 1.02/7)
+- Sociology and Anthropology (Importance: 1.55/5 | Level: 1.03/7)
+- Chemistry (Importance: 1.53/5 | Level: 0.88/7)
+- Biology (Importance: 1.53/5 | Level: 0.82/7)
+- Foreign Language (Importance: 1.43/5 | Level: 0.43/7)
+- Therapy and Counseling (Importance: 1.41/5 | Level: 0.78/7)
+- Medicine and Dentistry (Importance: 1.26/5 | Level: 0.42/7)
+- History and Archeology (Importance: 1.21/5 | Level: 0.46/7)
+- Philosophy and Theology (Importance: 1.18/5 | Level: 0.3/7)
+- Fine Arts (Importance: 1.18/5 | Level: 0.25/7)
+- Food Production (Importance: 1.13/5 | Level: 0.26/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Troubleshooting (Importance: 3.88/5 | Level: 3.75/7)
@@ -201,3 +237,25 @@ Install, set up, rearrange, or remove switching, distribution, routing, and dial
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Telecommunications Line Installers and Repairers
+- Radio, Cellular, and Tower Equipment Installers and Repairers
+- Electrical and Electronics Repairers, Commercial and Industrial Equipment
+- Audiovisual Equipment Installers and Repairers
+- Telecommunications Engineering Specialists
+- Power Distributors and Dispatchers
+- Electrical and Electronics Installers and Repairers, Transportation Equipment
+- Computer, Automated Teller, and Office Machine Repairers
+- Electronic Equipment Installers and Repairers, Motor Vehicles
+- Security and Fire Alarm Systems Installers
+- Electrical and Electronic Engineering Technologists and Technicians
+- Computer Network Support Specialists
+- Electronics Engineers, Except Computer
+- Electrical and Electronics Repairers, Powerhouse, Substation, and Relay
+- Avionics Technicians
+- Broadcast Technicians
+- Computer Network Architects
+- Electrical Power-Line Installers and Repairers
+- Signal and Track Switch Repairers
+- Calibration Technologists and Technicians

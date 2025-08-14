@@ -27,6 +27,42 @@ Gather, analyze, or evaluate information from a variety of sources, such as law 
 - Gather and evaluate information, using tools such as aerial photographs, radar equipment, or sensitive radio equipment.
 - Operate cameras, radios, or other surveillance equipment to intercept communications or document activities.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- English Language (Importance: 4.26/5 | Level: 4.57/7)
+- Law and Government (Importance: 4.14/5 | Level: 4.26/7)
+- Public Safety and Security (Importance: 3.78/5 | Level: 4.0/7)
+- Administrative (Importance: 3.48/5 | Level: 4.65/7)
+- Computers and Electronics (Importance: 3.48/5 | Level: 4.55/7)
+- Communications and Media (Importance: 3.26/5 | Level: 3.43/7)
+- Customer and Personal Service (Importance: 3.17/5 | Level: 4.26/7)
+- Telecommunications (Importance: 3.13/5 | Level: 3.22/7)
+- Education and Training (Importance: 2.74/5 | Level: 3.78/7)
+- Mathematics (Importance: 2.7/5 | Level: 3.17/7)
+- Geography (Importance: 2.65/5 | Level: 3.35/7)
+- Sociology and Anthropology (Importance: 2.61/5 | Level: 3.14/7)
+- Psychology (Importance: 2.57/5 | Level: 2.86/7)
+- Administration and Management (Importance: 2.52/5 | Level: 2.87/7)
+- Philosophy and Theology (Importance: 2.23/5 | Level: 2.45/7)
+- Foreign Language (Importance: 2.22/5 | Level: 1.96/7)
+- Personnel and Human Resources (Importance: 2.13/5 | Level: 2.39/7)
+- Transportation (Importance: 2.13/5 | Level: 2.3/7)
+- Economics and Accounting (Importance: 2.09/5 | Level: 2.04/7)
+- History and Archeology (Importance: 2.05/5 | Level: 2.13/7)
+- Production and Processing (Importance: 2.05/5 | Level: 2.13/7)
+- Engineering and Technology (Importance: 2.0/5 | Level: 2.04/7)
+- Design (Importance: 1.82/5 | Level: 1.73/7)
+- Therapy and Counseling (Importance: 1.61/5 | Level: 1.13/7)
+- Chemistry (Importance: 1.52/5 | Level: 1.22/7)
+- Physics (Importance: 1.5/5 | Level: 0.95/7)
+- Sales and Marketing (Importance: 1.45/5 | Level: 1.0/7)
+- Mechanical (Importance: 1.39/5 | Level: 0.83/7)
+- Medicine and Dentistry (Importance: 1.39/5 | Level: 1.04/7)
+- Fine Arts (Importance: 1.35/5 | Level: 0.74/7)
+- Biology (Importance: 1.32/5 | Level: 0.95/7)
+- Building and Construction (Importance: 1.22/5 | Level: 0.39/7)
+- Food Production (Importance: 1.17/5 | Level: 0.43/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Reading Comprehension (Importance: 4.25/5 | Level: 4.88/7)
@@ -227,3 +263,25 @@ Gather, analyze, or evaluate information from a variety of sources, such as law 
 - Primary Interest: Investigative
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Information Security Engineers
+- Private Detectives and Investigators
+- Penetration Testers
+- Detectives and Criminal Investigators
+- Information Security Analysts
+- Data Scientists
+- Fraud Examiners, Investigators and Analysts
+- Security Management Specialists
+- Business Intelligence Analysts
+- Forensic Science Technicians
+- Digital Forensics Analysts
+- Security Managers
+- Management Analysts
+- Statistical Assistants
+- Financial Risk Specialists
+- Police Identification and Records Officers
+- Retail Loss Prevention Specialists
+- Gambling Surveillance Officers and Gambling Investigators
+- Social Science Research Assistants
+- Health Information Technologists and Medical Registrars

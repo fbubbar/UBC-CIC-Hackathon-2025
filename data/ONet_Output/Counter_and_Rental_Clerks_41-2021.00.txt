@@ -22,6 +22,42 @@ Receive orders, generally in person, for repairs, rentals, and services. May des
 - Recommend and provide advice on a wide variety of products and services.
 - Allocate equipment to participants in sporting events or recreational activities.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.45/5 | Level: 4.4/7)
+- English Language (Importance: 3.72/5 | Level: 3.01/7)
+- Administrative (Importance: 3.5/5 | Level: 3.93/7)
+- Sales and Marketing (Importance: 3.42/5 | Level: 3.48/7)
+- Administration and Management (Importance: 3.05/5 | Level: 3.46/7)
+- Mathematics (Importance: 3.01/5 | Level: 2.37/7)
+- Transportation (Importance: 2.74/5 | Level: 2.46/7)
+- Computers and Electronics (Importance: 2.65/5 | Level: 3.05/7)
+- Public Safety and Security (Importance: 2.5/5 | Level: 2.06/7)
+- Production and Processing (Importance: 2.5/5 | Level: 1.83/7)
+- Communications and Media (Importance: 2.41/5 | Level: 1.98/7)
+- Economics and Accounting (Importance: 2.33/5 | Level: 1.85/7)
+- Education and Training (Importance: 2.31/5 | Level: 1.97/7)
+- Telecommunications (Importance: 2.16/5 | Level: 1.38/7)
+- Personnel and Human Resources (Importance: 2.08/5 | Level: 1.77/7)
+- Psychology (Importance: 2.06/5 | Level: 1.78/7)
+- Design (Importance: 1.88/5 | Level: 1.37/7)
+- Geography (Importance: 1.85/5 | Level: 1.46/7)
+- Law and Government (Importance: 1.83/5 | Level: 1.23/7)
+- Mechanical (Importance: 1.76/5 | Level: 1.34/7)
+- Sociology and Anthropology (Importance: 1.7/5 | Level: 1.21/7)
+- Philosophy and Theology (Importance: 1.64/5 | Level: 1.03/7)
+- Foreign Language (Importance: 1.64/5 | Level: 0.94/7)
+- Chemistry (Importance: 1.62/5 | Level: 1.31/7)
+- Food Production (Importance: 1.4/5 | Level: 0.68/7)
+- Engineering and Technology (Importance: 1.4/5 | Level: 0.69/7)
+- Physics (Importance: 1.33/5 | Level: 0.61/7)
+- Fine Arts (Importance: 1.31/5 | Level: 0.61/7)
+- Therapy and Counseling (Importance: 1.28/5 | Level: 0.53/7)
+- Medicine and Dentistry (Importance: 1.26/5 | Level: 0.52/7)
+- Biology (Importance: 1.22/5 | Level: 0.54/7)
+- Building and Construction (Importance: 1.18/5 | Level: 0.5/7)
+- History and Archeology (Importance: 1.05/5 | Level: 0.05/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Active Listening (Importance: 3.75/5 | Level: 3.12/7)
@@ -151,3 +187,25 @@ Receive orders, generally in person, for repairs, rentals, and services. May des
 - Primary Interest: Conventional
 - Secondary Interest: Enterprising
 - Tertiary Interest: Social
+
+# RELATED OCCUPATIONS
+- Retail Salespersons
+- Cashiers
+- Door-to-Door Sales Workers, News and Street Vendors, and Related Workers
+- Stockers and Order Fillers
+- Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel
+- Customer Service Representatives
+- Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products
+- Telemarketers
+- Parts Salespersons
+- Order Clerks
+- Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products
+- First-Line Supervisors of Non-Retail Sales Workers
+- Receptionists and Information Clerks
+- Wholesale and Retail Buyers, Except Farm Products
+- Shipping, Receiving, and Inventory Clerks
+- Hotel, Motel, and Resort Desk Clerks
+- First-Line Supervisors of Retail Sales Workers
+- Procurement Clerks
+- Postal Service Clerks
+- Demonstrators and Product Promoters

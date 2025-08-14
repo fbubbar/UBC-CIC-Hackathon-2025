@@ -21,6 +21,42 @@ Instruct and advise individuals and families engaged in agriculture, agricultura
 - Collaborate with social service and health care professionals to advise individuals and families on home management practices, such as budget planning, meal preparation, and time management.
 - Provide direct assistance to farmers by performing activities such as purchasing or selling products and supplies, supervising properties, and collecting soil and herbage samples for testing.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Education and Training (Importance: 4.15/5 | Level: 5.78/7)
+- English Language (Importance: 3.93/5 | Level: 4.74/7)
+- Food Production (Importance: 3.88/5 | Level: 4.68/7)
+- Customer and Personal Service (Importance: 3.8/5 | Level: 5.0/7)
+- Biology (Importance: 3.67/5 | Level: 4.37/7)
+- Communications and Media (Importance: 3.48/5 | Level: 3.63/7)
+- Administration and Management (Importance: 3.3/5 | Level: 4.0/7)
+- Computers and Electronics (Importance: 3.22/5 | Level: 4.0/7)
+- Administrative (Importance: 3.08/5 | Level: 4.04/7)
+- Mathematics (Importance: 2.89/5 | Level: 3.93/7)
+- Personnel and Human Resources (Importance: 2.81/5 | Level: 3.27/7)
+- Law and Government (Importance: 2.78/5 | Level: 3.0/7)
+- Economics and Accounting (Importance: 2.73/5 | Level: 2.73/7)
+- Psychology (Importance: 2.7/5 | Level: 3.26/7)
+- Chemistry (Importance: 2.67/5 | Level: 3.74/7)
+- Sales and Marketing (Importance: 2.65/5 | Level: 3.38/7)
+- Public Safety and Security (Importance: 2.52/5 | Level: 2.92/7)
+- Geography (Importance: 2.48/5 | Level: 3.52/7)
+- Production and Processing (Importance: 2.38/5 | Level: 2.19/7)
+- Sociology and Anthropology (Importance: 2.37/5 | Level: 3.07/7)
+- Engineering and Technology (Importance: 2.33/5 | Level: 2.74/7)
+- Mechanical (Importance: 2.22/5 | Level: 2.59/7)
+- Transportation (Importance: 2.15/5 | Level: 2.15/7)
+- Telecommunications (Importance: 1.93/5 | Level: 1.37/7)
+- Philosophy and Theology (Importance: 1.89/5 | Level: 2.11/7)
+- Physics (Importance: 1.89/5 | Level: 2.3/7)
+- Foreign Language (Importance: 1.85/5 | Level: 1.63/7)
+- Design (Importance: 1.85/5 | Level: 1.89/7)
+- Building and Construction (Importance: 1.81/5 | Level: 1.81/7)
+- History and Archeology (Importance: 1.74/5 | Level: 1.67/7)
+- Therapy and Counseling (Importance: 1.67/5 | Level: 1.78/7)
+- Medicine and Dentistry (Importance: 1.59/5 | Level: 1.11/7)
+- Fine Arts (Importance: 1.22/5 | Level: 0.56/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Active Listening (Importance: 4.38/5 | Level: 4.12/7)
@@ -147,3 +183,25 @@ Instruct and advise individuals and families engaged in agriculture, agricultura
 - Primary Interest: Social
 - Secondary Interest: Investigative
 - Tertiary Interest: Realistic
+
+# RELATED OCCUPATIONS
+- Agricultural Sciences Teachers, Postsecondary
+- Management Analysts
+- Career/Technical Education Teachers, Postsecondary
+- Range Managers
+- Business Teachers, Postsecondary
+- Career/Technical Education Teachers, Middle School
+- Soil and Plant Scientists
+- Career/Technical Education Teachers, Secondary School
+- Health Education Specialists
+- Instructional Coordinators
+- First-Line Supervisors of Farming, Fishing, and Forestry Workers
+- Agricultural Inspectors
+- Agricultural Engineers
+- Agricultural Technicians
+- Forest and Conservation Technicians
+- Community Health Workers
+- Environmental Science Teachers, Postsecondary
+- Forestry and Conservation Science Teachers, Postsecondary
+- Conservation Scientists
+- Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel

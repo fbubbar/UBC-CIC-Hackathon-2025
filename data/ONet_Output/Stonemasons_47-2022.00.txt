@@ -23,6 +23,42 @@ Build stone structures, such as piers, walls, and abutments. Lay walks, curbston
 - Position mold along guidelines of wall, press mold in place, and remove mold and paper from wall.
 - Line interiors of molds with treated paper and fill molds with composition-stone mixture.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mathematics (Importance: 4.15/5 | Level: 4.54/7)
+- Building and Construction (Importance: 3.99/5 | Level: 5.53/7)
+- Public Safety and Security (Importance: 3.45/5 | Level: 3.14/7)
+- Design (Importance: 3.38/5 | Level: 3.21/7)
+- Mechanical (Importance: 3.33/5 | Level: 3.76/7)
+- Education and Training (Importance: 3.22/5 | Level: 4.02/7)
+- English Language (Importance: 2.94/5 | Level: 2.11/7)
+- Psychology (Importance: 2.53/5 | Level: 2.46/7)
+- Physics (Importance: 2.33/5 | Level: 1.72/7)
+- Transportation (Importance: 2.32/5 | Level: 1.98/7)
+- Law and Government (Importance: 2.26/5 | Level: 1.67/7)
+- Chemistry (Importance: 2.23/5 | Level: 2.25/7)
+- Communications and Media (Importance: 2.21/5 | Level: 1.94/7)
+- Engineering and Technology (Importance: 2.08/5 | Level: 2.15/7)
+- Administration and Management (Importance: 2.03/5 | Level: 1.39/7)
+- Foreign Language (Importance: 2.02/5 | Level: 0.64/7)
+- Administrative (Importance: 1.96/5 | Level: 0.82/7)
+- Geography (Importance: 1.65/5 | Level: 1.02/7)
+- Telecommunications (Importance: 1.64/5 | Level: 0.4/7)
+- Production and Processing (Importance: 1.56/5 | Level: 0.9/7)
+- Customer and Personal Service (Importance: 1.52/5 | Level: 0.89/7)
+- Sales and Marketing (Importance: 1.36/5 | Level: 0.58/7)
+- Personnel and Human Resources (Importance: 1.29/5 | Level: 0.59/7)
+- Therapy and Counseling (Importance: 1.28/5 | Level: 0.56/7)
+- Economics and Accounting (Importance: 1.25/5 | Level: 0.33/7)
+- Food Production (Importance: 1.2/5 | Level: 0.39/7)
+- Computers and Electronics (Importance: 1.18/5 | Level: 0.17/7)
+- Sociology and Anthropology (Importance: 1.11/5 | Level: 0.17/7)
+- History and Archeology (Importance: 1.08/5 | Level: 0.13/7)
+- Fine Arts (Importance: 1.04/5 | Level: 0.06/7)
+- Biology (Importance: 1.04/5 | Level: 0.05/7)
+- Medicine and Dentistry (Importance: 1.03/5 | Level: 0.05/7)
+- Philosophy and Theology (Importance: 1.02/5 | Level: 0.05/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Critical Thinking (Importance: 3.62/5 | Level: 3.0/7)
@@ -256,3 +292,25 @@ Build stone structures, such as piers, walls, and abutments. Lay walks, curbston
 - Primary Interest: Realistic
 - Secondary Interest: Unknown (0)
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters
+- Brickmasons and Blockmasons
+- Terrazzo Workers and Finishers
+- Stone Cutters and Carvers, Manufacturing
+- Cement Masons and Concrete Finishers
+- Tile and Stone Setters
+- Segmental Pavers
+- Floor Layers, Except Carpet, Wood, and Hard Tiles
+- Drywall and Ceiling Tile Installers
+- Carpenters
+- Plasterers and Stucco Masons
+- Structural Iron and Steel Workers
+- Refractory Materials Repairers, Except Brickmasons
+- Construction Laborers
+- Helpers--Carpenters
+- Reinforcing Iron and Rebar Workers
+- Roofers
+- Rock Splitters, Quarry
+- Structural Metal Fabricators and Fitters
+- Molders, Shapers, and Casters, Except Metal and Plastic

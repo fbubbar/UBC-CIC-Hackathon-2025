@@ -26,6 +26,42 @@ Conduct research on nuclear engineering projects or apply principles and theory 
 - Design or direct nuclear research projects to develop, test, modify, or discover new uses for theoretical models.
 - Keep abreast of developments and changes in the nuclear field by reading technical journals or by independent study and research.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Engineering and Technology (Importance: 4.57/5 | Level: 6.0/7)
+- Physics (Importance: 4.55/5 | Level: 5.33/7)
+- Mathematics (Importance: 4.4/5 | Level: 5.71/7)
+- English Language (Importance: 4.05/5 | Level: 4.75/7)
+- Public Safety and Security (Importance: 3.95/5 | Level: 4.67/7)
+- Chemistry (Importance: 3.86/5 | Level: 5.1/7)
+- Computers and Electronics (Importance: 3.67/5 | Level: 4.9/7)
+- Design (Importance: 3.67/5 | Level: 4.76/7)
+- Mechanical (Importance: 3.48/5 | Level: 4.57/7)
+- Education and Training (Importance: 3.4/5 | Level: 5.0/7)
+- Administration and Management (Importance: 3.33/5 | Level: 4.14/7)
+- Law and Government (Importance: 3.21/5 | Level: 3.7/7)
+- Building and Construction (Importance: 3.0/5 | Level: 4.4/7)
+- Production and Processing (Importance: 2.76/5 | Level: 3.33/7)
+- Biology (Importance: 2.76/5 | Level: 3.9/7)
+- Personnel and Human Resources (Importance: 2.48/5 | Level: 2.95/7)
+- Customer and Personal Service (Importance: 2.24/5 | Level: 2.81/7)
+- Economics and Accounting (Importance: 2.19/5 | Level: 2.38/7)
+- Psychology (Importance: 2.19/5 | Level: 2.52/7)
+- Administrative (Importance: 2.14/5 | Level: 3.71/7)
+- Communications and Media (Importance: 2.1/5 | Level: 2.24/7)
+- Telecommunications (Importance: 2.05/5 | Level: 2.0/7)
+- Transportation (Importance: 2.0/5 | Level: 2.1/7)
+- Geography (Importance: 1.95/5 | Level: 2.67/7)
+- Sales and Marketing (Importance: 1.81/5 | Level: 2.19/7)
+- Sociology and Anthropology (Importance: 1.71/5 | Level: 1.62/7)
+- History and Archeology (Importance: 1.57/5 | Level: 1.57/7)
+- Foreign Language (Importance: 1.52/5 | Level: 1.1/7)
+- Medicine and Dentistry (Importance: 1.5/5 | Level: 1.05/7)
+- Therapy and Counseling (Importance: 1.38/5 | Level: 1.1/7)
+- Philosophy and Theology (Importance: 1.29/5 | Level: 0.9/7)
+- Food Production (Importance: 1.19/5 | Level: 0.33/7)
+- Fine Arts (Importance: 1.1/5 | Level: 0.33/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Science (Importance: 4.12/5 | Level: 4.38/7)
@@ -179,3 +215,25 @@ Conduct research on nuclear engineering projects or apply principles and theory 
 - Primary Interest: Investigative
 - Secondary Interest: Realistic
 - Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Nuclear Power Reactor Operators
+- Nuclear Technicians
+- Chemical Engineers
+- Nuclear Monitoring Technicians
+- Environmental Engineers
+- Geothermal Production Managers
+- Power Plant Operators
+- Fuel Cell Engineers
+- Biofuels/Biodiesel Technology and Product Development Managers
+- Electrical Engineers
+- Nanotechnology Engineering Technologists and Technicians
+- Aerospace Engineers
+- Environmental Engineering Technologists and Technicians
+- Mining and Geological Engineers, Including Mining Safety Engineers
+- Hydroelectric Plant Technicians
+- Biomass Power Plant Managers
+- Petroleum Engineers
+- Nanosystems Engineers
+- Biomass Plant Technicians
+- Mechanical Engineers

@@ -16,6 +16,42 @@ Build or repair equipment such as furnaces, kilns, cupolas, boilers, converters,
 - Dump and tamp clay in molds, using tamping tools.
 - Transfer clay structures to curing ovens, melting tanks, and drawing kilns, using forklifts.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 3.53/5 | Level: 4.27/7)
+- Production and Processing (Importance: 2.98/5 | Level: 2.5/7)
+- Public Safety and Security (Importance: 2.74/5 | Level: 2.44/7)
+- English Language (Importance: 2.68/5 | Level: 2.82/7)
+- Mathematics (Importance: 2.59/5 | Level: 2.57/7)
+- Chemistry (Importance: 2.47/5 | Level: 2.07/7)
+- Design (Importance: 2.42/5 | Level: 2.21/7)
+- Education and Training (Importance: 2.41/5 | Level: 2.38/7)
+- Building and Construction (Importance: 2.26/5 | Level: 1.91/7)
+- Engineering and Technology (Importance: 2.23/5 | Level: 2.18/7)
+- Administration and Management (Importance: 2.1/5 | Level: 1.48/7)
+- Transportation (Importance: 1.9/5 | Level: 1.3/7)
+- Customer and Personal Service (Importance: 1.88/5 | Level: 1.35/7)
+- Communications and Media (Importance: 1.83/5 | Level: 1.1/7)
+- Computers and Electronics (Importance: 1.71/5 | Level: 1.22/7)
+- Physics (Importance: 1.67/5 | Level: 1.1/7)
+- Personnel and Human Resources (Importance: 1.64/5 | Level: 0.92/7)
+- Law and Government (Importance: 1.61/5 | Level: 1.2/7)
+- Sales and Marketing (Importance: 1.49/5 | Level: 0.44/7)
+- Administrative (Importance: 1.48/5 | Level: 0.77/7)
+- Geography (Importance: 1.36/5 | Level: 0.48/7)
+- Telecommunications (Importance: 1.28/5 | Level: 0.48/7)
+- Medicine and Dentistry (Importance: 1.27/5 | Level: 0.23/7)
+- Food Production (Importance: 1.2/5 | Level: 0.22/7)
+- Biology (Importance: 1.19/5 | Level: 0.38/7)
+- Psychology (Importance: 1.17/5 | Level: 0.43/7)
+- Sociology and Anthropology (Importance: 1.14/5 | Level: 0.27/7)
+- History and Archeology (Importance: 1.11/5 | Level: 0.22/7)
+- Economics and Accounting (Importance: 1.04/5 | Level: 0.08/7)
+- Philosophy and Theology (Importance: 1.03/5 | Level: 0.07/7)
+- Fine Arts (Importance: 1.01/5 | Level: 0.02/7)
+- Foreign Language (Importance: 1.01/5 | Level: 0.02/7)
+- Therapy and Counseling (Importance: 1.01/5 | Level: 0.01/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Operations Monitoring (Importance: 3.25/5 | Level: 3.25/7)
@@ -159,3 +195,25 @@ Build or repair equipment such as furnaces, kilns, cupolas, boilers, converters,
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Brickmasons and Blockmasons
+- Molders, Shapers, and Casters, Except Metal and Plastic
+- Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters
+- Foundry Mold and Coremakers
+- Terrazzo Workers and Finishers
+- Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic
+- Metal-Refining Furnace Operators and Tenders
+- Structural Metal Fabricators and Fitters
+- Cement Masons and Concrete Finishers
+- Boilermakers
+- Pourers and Casters, Metal
+- Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic
+- Insulation Workers, Floor, Ceiling, and Wall
+- Sheet Metal Workers
+- Plating Machine Setters, Operators, and Tenders, Metal and Plastic
+- Grinding and Polishing Workers, Hand
+- Fiberglass Laminators and Fabricators
+- Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+- Coating, Painting, and Spraying Machine Setters, Operators, and Tenders
+- Maintenance Workers, Machinery

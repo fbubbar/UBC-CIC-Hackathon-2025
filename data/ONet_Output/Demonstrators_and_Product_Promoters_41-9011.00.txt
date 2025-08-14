@@ -27,6 +27,42 @@ Demonstrate merchandise and answer questions for the purpose of creating public 
 - Recommend product or service improvements to employers.
 - Wear costumes or sign boards and walk in public to promote merchandise, services, or events.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.02/5 | Level: 4.09/7)
+- Sales and Marketing (Importance: 3.7/5 | Level: 3.67/7)
+- English Language (Importance: 3.7/5 | Level: 3.69/7)
+- Food Production (Importance: 3.29/5 | Level: 3.27/7)
+- Public Safety and Security (Importance: 3.0/5 | Level: 2.83/7)
+- Psychology (Importance: 2.54/5 | Level: 2.59/7)
+- Administrative (Importance: 2.5/5 | Level: 2.61/7)
+- Communications and Media (Importance: 2.45/5 | Level: 2.73/7)
+- Computers and Electronics (Importance: 2.44/5 | Level: 2.83/7)
+- Education and Training (Importance: 2.29/5 | Level: 2.5/7)
+- Administration and Management (Importance: 2.27/5 | Level: 2.43/7)
+- Mathematics (Importance: 2.13/5 | Level: 2.43/7)
+- Telecommunications (Importance: 2.12/5 | Level: 0.98/7)
+- Sociology and Anthropology (Importance: 2.06/5 | Level: 1.94/7)
+- Transportation (Importance: 2.06/5 | Level: 1.91/7)
+- Personnel and Human Resources (Importance: 1.95/5 | Level: 1.73/7)
+- Production and Processing (Importance: 1.73/5 | Level: 1.74/7)
+- Design (Importance: 1.63/5 | Level: 1.28/7)
+- Economics and Accounting (Importance: 1.61/5 | Level: 0.87/7)
+- Law and Government (Importance: 1.51/5 | Level: 0.75/7)
+- Foreign Language (Importance: 1.5/5 | Level: 0.63/7)
+- Mechanical (Importance: 1.5/5 | Level: 0.61/7)
+- Chemistry (Importance: 1.5/5 | Level: 0.88/7)
+- Biology (Importance: 1.43/5 | Level: 0.79/7)
+- Engineering and Technology (Importance: 1.38/5 | Level: 0.81/7)
+- Geography (Importance: 1.32/5 | Level: 0.55/7)
+- Medicine and Dentistry (Importance: 1.27/5 | Level: 0.42/7)
+- Therapy and Counseling (Importance: 1.22/5 | Level: 0.22/7)
+- Philosophy and Theology (Importance: 1.2/5 | Level: 0.35/7)
+- Fine Arts (Importance: 1.12/5 | Level: 0.24/7)
+- History and Archeology (Importance: 1.03/5 | Level: 0.04/7)
+- Physics (Importance: 1.02/5 | Level: 0.02/7)
+- Building and Construction (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Speaking (Importance: 3.88/5 | Level: 3.88/7)
@@ -154,3 +190,25 @@ Demonstrate merchandise and answer questions for the purpose of creating public 
 - Primary Interest: Enterprising
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Door-to-Door Sales Workers, News and Street Vendors, and Related Workers
+- Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel
+- Retail Salespersons
+- Counter and Rental Clerks
+- Merchandise Displayers and Window Trimmers
+- Telemarketers
+- Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop
+- Customer Service Representatives
+- Stockers and Order Fillers
+- Parts Salespersons
+- Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products
+- Advertising Sales Agents
+- Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products
+- Wholesale and Retail Buyers, Except Farm Products
+- Meeting, Convention, and Event Planners
+- First-Line Supervisors of Non-Retail Sales Workers
+- Driver/Sales Workers
+- First-Line Supervisors of Retail Sales Workers
+- Cashiers
+- Sales Engineers

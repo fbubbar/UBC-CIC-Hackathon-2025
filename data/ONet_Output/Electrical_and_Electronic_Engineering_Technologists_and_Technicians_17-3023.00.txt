@@ -36,6 +36,42 @@ Apply electrical and electronic theory and related knowledge, usually under the 
 - Participate in the development or testing of electrical aspects of new green technologies, such as lighting, optical data storage devices, and energy efficient televisions.
 - Review, develop, or prepare maintenance standards.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Computers and Electronics (Importance: 4.38/5 | Level: 5.24/7)
+- Engineering and Technology (Importance: 4.36/5 | Level: 5.11/7)
+- English Language (Importance: 3.76/5 | Level: 3.88/7)
+- Design (Importance: 3.62/5 | Level: 4.67/7)
+- Mathematics (Importance: 3.52/5 | Level: 4.39/7)
+- Customer and Personal Service (Importance: 3.3/5 | Level: 4.02/7)
+- Mechanical (Importance: 3.29/5 | Level: 4.46/7)
+- Production and Processing (Importance: 3.21/5 | Level: 3.5/7)
+- Telecommunications (Importance: 3.13/5 | Level: 3.36/7)
+- Physics (Importance: 3.07/5 | Level: 3.82/7)
+- Public Safety and Security (Importance: 2.95/5 | Level: 3.09/7)
+- Administration and Management (Importance: 2.76/5 | Level: 3.08/7)
+- Administrative (Importance: 2.7/5 | Level: 3.3/7)
+- Education and Training (Importance: 2.69/5 | Level: 3.31/7)
+- Law and Government (Importance: 2.37/5 | Level: 2.38/7)
+- Communications and Media (Importance: 2.27/5 | Level: 2.38/7)
+- Chemistry (Importance: 2.27/5 | Level: 2.76/7)
+- Building and Construction (Importance: 2.25/5 | Level: 2.34/7)
+- Sales and Marketing (Importance: 2.02/5 | Level: 1.94/7)
+- Personnel and Human Resources (Importance: 1.99/5 | Level: 2.05/7)
+- Transportation (Importance: 1.91/5 | Level: 1.8/7)
+- Economics and Accounting (Importance: 1.86/5 | Level: 1.29/7)
+- Psychology (Importance: 1.72/5 | Level: 1.52/7)
+- Geography (Importance: 1.7/5 | Level: 1.58/7)
+- Foreign Language (Importance: 1.47/5 | Level: 0.94/7)
+- Sociology and Anthropology (Importance: 1.37/5 | Level: 0.74/7)
+- Biology (Importance: 1.29/5 | Level: 0.7/7)
+- Philosophy and Theology (Importance: 1.22/5 | Level: 0.52/7)
+- Therapy and Counseling (Importance: 1.22/5 | Level: 0.53/7)
+- Medicine and Dentistry (Importance: 1.21/5 | Level: 0.44/7)
+- Food Production (Importance: 1.2/5 | Level: 0.34/7)
+- History and Archeology (Importance: 1.16/5 | Level: 0.32/7)
+- Fine Arts (Importance: 1.05/5 | Level: 0.09/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Reading Comprehension (Importance: 3.88/5 | Level: 4.0/7)
@@ -274,3 +310,25 @@ Apply electrical and electronic theory and related knowledge, usually under the 
 - Primary Interest: Realistic
 - Secondary Interest: Investigative
 - Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Calibration Technologists and Technicians
+- Electronics Engineers, Except Computer
+- Mechanical Engineering Technologists and Technicians
+- Robotics Technicians
+- Electrical and Electronics Repairers, Commercial and Industrial Equipment
+- Aerospace Engineering and Operations Technologists and Technicians
+- Electrical and Electronics Installers and Repairers, Transportation Equipment
+- Electro-Mechanical and Mechatronics Technologists and Technicians
+- Electromechanical Equipment Assemblers
+- Industrial Engineering Technologists and Technicians
+- Electrical Engineers
+- Mechanical Engineers
+- Mechatronics Engineers
+- Computer Hardware Engineers
+- Lighting Technicians
+- Photonics Technicians
+- Automotive Engineering Technicians
+- Avionics Technicians
+- Electrical and Electronics Drafters
+- Software Developers

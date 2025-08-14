@@ -19,6 +19,42 @@ Assist patients in obtaining services, understanding policies and making health 
 - Collect and report data on topics, such as patient encounters or inter-institutional problems, making recommendations for change when appropriate.
 - Teach patients to use home health care equipment.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.43/5 | Level: 5.38/7)
+- Medicine and Dentistry (Importance: 3.85/5 | Level: 3.2/7)
+- Sociology and Anthropology (Importance: 3.79/5 | Level: 3.53/7)
+- Administrative (Importance: 3.66/5 | Level: 3.64/7)
+- Psychology (Importance: 3.6/5 | Level: 4.16/7)
+- Administration and Management (Importance: 3.43/5 | Level: 3.57/7)
+- Computers and Electronics (Importance: 3.39/5 | Level: 3.62/7)
+- English Language (Importance: 3.3/5 | Level: 3.12/7)
+- Education and Training (Importance: 3.2/5 | Level: 3.83/7)
+- Therapy and Counseling (Importance: 3.02/5 | Level: 2.91/7)
+- Telecommunications (Importance: 2.86/5 | Level: 1.78/7)
+- Mathematics (Importance: 2.75/5 | Level: 2.93/7)
+- Public Safety and Security (Importance: 2.72/5 | Level: 2.63/7)
+- Personnel and Human Resources (Importance: 2.62/5 | Level: 2.71/7)
+- Communications and Media (Importance: 2.57/5 | Level: 2.47/7)
+- Economics and Accounting (Importance: 2.28/5 | Level: 2.44/7)
+- Foreign Language (Importance: 2.28/5 | Level: 1.63/7)
+- Law and Government (Importance: 2.18/5 | Level: 2.16/7)
+- Philosophy and Theology (Importance: 2.1/5 | Level: 3.0/7)
+- Production and Processing (Importance: 2.07/5 | Level: 1.9/7)
+- Transportation (Importance: 1.92/5 | Level: 1.37/7)
+- Sales and Marketing (Importance: 1.83/5 | Level: 2.23/7)
+- Biology (Importance: 1.73/5 | Level: 1.22/7)
+- Chemistry (Importance: 1.68/5 | Level: 1.25/7)
+- Geography (Importance: 1.64/5 | Level: 1.25/7)
+- Mechanical (Importance: 1.56/5 | Level: 1.04/7)
+- Engineering and Technology (Importance: 1.56/5 | Level: 1.35/7)
+- Physics (Importance: 1.26/5 | Level: 0.75/7)
+- Design (Importance: 1.22/5 | Level: 0.32/7)
+- History and Archeology (Importance: 1.15/5 | Level: 0.3/7)
+- Food Production (Importance: 1.05/5 | Level: 0.07/7)
+- Fine Arts (Importance: 1.01/5 | Level: 0.0/7)
+- Building and Construction (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Active Listening (Importance: 4.12/5 | Level: 4.0/7)
@@ -171,3 +207,25 @@ Assist patients in obtaining services, understanding policies and making health 
 - Primary Interest: Social
 - Secondary Interest: Investigative
 - Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Health Information Technologists and Medical Registrars
+- Health Informatics Specialists
+- Medical Records Specialists
+- Community Health Workers
+- Health Education Specialists
+- Medical and Health Services Managers
+- Social and Human Service Assistants
+- Medical Assistants
+- Nursing Assistants
+- Eligibility Interviewers, Government Programs
+- Emergency Medicine Physicians
+- Clinical Nurse Specialists
+- Healthcare Social Workers
+- Mental Health and Substance Abuse Social Workers
+- Rehabilitation Counselors
+- Medical Secretaries and Administrative Assistants
+- Registered Nurses
+- Mental Health Counselors
+- Acute Care Nurses
+- Psychiatric Technicians

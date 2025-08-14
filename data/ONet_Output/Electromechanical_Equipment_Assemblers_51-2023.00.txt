@@ -20,6 +20,42 @@ Assemble or modify electromechanical equipment or devices, such as servomechanis
 - Operate small cranes to transport or position large parts.
 - Pack or fold insulation between panels.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Production and Processing (Importance: 3.27/5 | Level: 3.01/7)
+- Mechanical (Importance: 3.21/5 | Level: 3.69/7)
+- Computers and Electronics (Importance: 3.08/5 | Level: 3.63/7)
+- English Language (Importance: 2.99/5 | Level: 2.87/7)
+- Engineering and Technology (Importance: 2.87/5 | Level: 3.2/7)
+- Design (Importance: 2.57/5 | Level: 2.55/7)
+- Mathematics (Importance: 2.56/5 | Level: 2.71/7)
+- Public Safety and Security (Importance: 2.38/5 | Level: 2.07/7)
+- Education and Training (Importance: 2.27/5 | Level: 2.49/7)
+- Customer and Personal Service (Importance: 2.15/5 | Level: 1.34/7)
+- Administration and Management (Importance: 2.0/5 | Level: 1.21/7)
+- Telecommunications (Importance: 1.84/5 | Level: 1.47/7)
+- Communications and Media (Importance: 1.7/5 | Level: 1.24/7)
+- Administrative (Importance: 1.69/5 | Level: 0.99/7)
+- Building and Construction (Importance: 1.66/5 | Level: 1.2/7)
+- Chemistry (Importance: 1.64/5 | Level: 1.44/7)
+- Physics (Importance: 1.58/5 | Level: 1.47/7)
+- Transportation (Importance: 1.51/5 | Level: 0.81/7)
+- Foreign Language (Importance: 1.46/5 | Level: 0.72/7)
+- Personnel and Human Resources (Importance: 1.46/5 | Level: 0.7/7)
+- Economics and Accounting (Importance: 1.36/5 | Level: 0.43/7)
+- Sales and Marketing (Importance: 1.36/5 | Level: 0.68/7)
+- Law and Government (Importance: 1.35/5 | Level: 0.71/7)
+- Biology (Importance: 1.32/5 | Level: 0.52/7)
+- Therapy and Counseling (Importance: 1.32/5 | Level: 0.52/7)
+- Psychology (Importance: 1.24/5 | Level: 0.45/7)
+- Fine Arts (Importance: 1.22/5 | Level: 0.32/7)
+- Medicine and Dentistry (Importance: 1.21/5 | Level: 0.38/7)
+- Food Production (Importance: 1.21/5 | Level: 0.39/7)
+- Geography (Importance: 1.18/5 | Level: 0.43/7)
+- History and Archeology (Importance: 1.16/5 | Level: 0.38/7)
+- Philosophy and Theology (Importance: 1.14/5 | Level: 0.4/7)
+- Sociology and Anthropology (Importance: 1.14/5 | Level: 0.44/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Quality Control Analysis (Importance: 3.25/5 | Level: 3.25/7)
@@ -188,3 +224,25 @@ Assemble or modify electromechanical equipment or devices, such as servomechanis
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Electrical and Electronic Equipment Assemblers
+- Engine and Other Machine Assemblers
+- Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+- Calibration Technologists and Technicians
+- Timing Device Assemblers and Adjusters
+- Electric Motor, Power Tool, and Related Repairers
+- Electrical and Electronic Engineering Technologists and Technicians
+- Industrial Machinery Mechanics
+- Robotics Technicians
+- Electrical and Electronics Repairers, Commercial and Industrial Equipment
+- Machinists
+- Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders
+- Millwrights
+- Electrical and Electronics Installers and Repairers, Transportation Equipment
+- Computer Numerically Controlled Tool Operators
+- Team Assemblers
+- Electronics Engineers, Except Computer
+- Control and Valve Installers and Repairers, Except Mechanical Door
+- Computer Numerically Controlled Tool Programmers
+- Model Makers, Metal and Plastic

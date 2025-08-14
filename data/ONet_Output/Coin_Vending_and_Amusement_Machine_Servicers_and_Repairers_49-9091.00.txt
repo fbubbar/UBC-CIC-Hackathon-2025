@@ -24,6 +24,42 @@ Install, service, adjust, or repair coin, vending, or amusement machines includi
 - Refer to manuals and wiring diagrams to gather information needed to repair machines.
 - Install machines, making the necessary water and electrical connections in compliance with codes.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Computers and Electronics (Importance: 3.98/5 | Level: 3.95/7)
+- Mechanical (Importance: 3.5/5 | Level: 4.19/7)
+- Customer and Personal Service (Importance: 3.47/5 | Level: 3.66/7)
+- English Language (Importance: 3.0/5 | Level: 2.58/7)
+- Engineering and Technology (Importance: 2.53/5 | Level: 2.72/7)
+- Administrative (Importance: 2.52/5 | Level: 2.72/7)
+- Sales and Marketing (Importance: 2.51/5 | Level: 2.06/7)
+- Mathematics (Importance: 2.4/5 | Level: 2.41/7)
+- Administration and Management (Importance: 2.38/5 | Level: 2.52/7)
+- Production and Processing (Importance: 2.29/5 | Level: 2.33/7)
+- Public Safety and Security (Importance: 2.23/5 | Level: 1.95/7)
+- Psychology (Importance: 2.13/5 | Level: 2.06/7)
+- Personnel and Human Resources (Importance: 2.13/5 | Level: 2.25/7)
+- Economics and Accounting (Importance: 2.08/5 | Level: 1.83/7)
+- Education and Training (Importance: 2.01/5 | Level: 2.2/7)
+- Transportation (Importance: 1.96/5 | Level: 1.78/7)
+- Building and Construction (Importance: 1.95/5 | Level: 1.8/7)
+- Communications and Media (Importance: 1.87/5 | Level: 1.21/7)
+- Chemistry (Importance: 1.84/5 | Level: 1.47/7)
+- Food Production (Importance: 1.82/5 | Level: 1.52/7)
+- Physics (Importance: 1.8/5 | Level: 1.72/7)
+- Telecommunications (Importance: 1.71/5 | Level: 1.06/7)
+- Design (Importance: 1.56/5 | Level: 1.7/7)
+- Law and Government (Importance: 1.55/5 | Level: 1.48/7)
+- Sociology and Anthropology (Importance: 1.51/5 | Level: 0.87/7)
+- Medicine and Dentistry (Importance: 1.51/5 | Level: 1.06/7)
+- Therapy and Counseling (Importance: 1.49/5 | Level: 1.37/7)
+- Philosophy and Theology (Importance: 1.46/5 | Level: 1.25/7)
+- Geography (Importance: 1.36/5 | Level: 0.65/7)
+- Biology (Importance: 1.32/5 | Level: 0.97/7)
+- History and Archeology (Importance: 1.21/5 | Level: 0.85/7)
+- Foreign Language (Importance: 1.21/5 | Level: 0.56/7)
+- Fine Arts (Importance: 1.17/5 | Level: 0.17/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Repairing (Importance: 3.5/5 | Level: 3.0/7)
@@ -196,3 +232,25 @@ Install, service, adjust, or repair coin, vending, or amusement machines includi
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Computer, Automated Teller, and Office Machine Repairers
+- Industrial Machinery Mechanics
+- Maintenance Workers, Machinery
+- Paper Goods Machine Setters, Operators, and Tenders
+- Packaging and Filling Machine Operators and Tenders
+- Machine Feeders and Offbearers
+- Watch and Clock Repairers
+- Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders
+- Office Machine Operators, Except Computer
+- Home Appliance Repairers
+- Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic
+- Farm Equipment Mechanics and Service Technicians
+- Electromechanical Equipment Assemblers
+- Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers
+- Electric Motor, Power Tool, and Related Repairers
+- Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Adhesive Bonding Machine Operators and Tenders
+- Mobile Heavy Equipment Mechanics, Except Engines
+- Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic

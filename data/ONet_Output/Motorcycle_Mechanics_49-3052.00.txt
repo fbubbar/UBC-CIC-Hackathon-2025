@@ -19,6 +19,42 @@ Diagnose, adjust, repair, or overhaul motorcycles, scooters, mopeds, dirt bikes,
 - Reassemble and test subassembly units.
 - Hammer out dents and bends in frames and weld tears and breaks.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 4.81/5 | Level: 6.4/7)
+- English Language (Importance: 3.53/5 | Level: 3.51/7)
+- Customer and Personal Service (Importance: 3.37/5 | Level: 3.32/7)
+- Computers and Electronics (Importance: 3.31/5 | Level: 3.58/7)
+- Mathematics (Importance: 3.13/5 | Level: 3.34/7)
+- Education and Training (Importance: 3.08/5 | Level: 3.32/7)
+- Sales and Marketing (Importance: 2.52/5 | Level: 2.29/7)
+- Engineering and Technology (Importance: 2.44/5 | Level: 2.02/7)
+- Transportation (Importance: 2.41/5 | Level: 1.95/7)
+- Physics (Importance: 2.41/5 | Level: 2.83/7)
+- Production and Processing (Importance: 2.37/5 | Level: 2.36/7)
+- Public Safety and Security (Importance: 2.36/5 | Level: 2.01/7)
+- Law and Government (Importance: 2.36/5 | Level: 1.81/7)
+- Design (Importance: 2.28/5 | Level: 2.11/7)
+- Administrative (Importance: 2.25/5 | Level: 1.51/7)
+- Personnel and Human Resources (Importance: 1.96/5 | Level: 1.92/7)
+- Chemistry (Importance: 1.95/5 | Level: 1.83/7)
+- Administration and Management (Importance: 1.89/5 | Level: 2.11/7)
+- Communications and Media (Importance: 1.76/5 | Level: 1.26/7)
+- Foreign Language (Importance: 1.58/5 | Level: 0.59/7)
+- Telecommunications (Importance: 1.55/5 | Level: 1.02/7)
+- Economics and Accounting (Importance: 1.44/5 | Level: 0.49/7)
+- Geography (Importance: 1.39/5 | Level: 0.81/7)
+- Sociology and Anthropology (Importance: 1.34/5 | Level: 0.59/7)
+- Building and Construction (Importance: 1.3/5 | Level: 0.74/7)
+- Psychology (Importance: 1.25/5 | Level: 0.51/7)
+- Biology (Importance: 1.25/5 | Level: 0.5/7)
+- Philosophy and Theology (Importance: 1.21/5 | Level: 0.37/7)
+- Food Production (Importance: 1.1/5 | Level: 0.29/7)
+- Medicine and Dentistry (Importance: 1.06/5 | Level: 0.11/7)
+- Therapy and Counseling (Importance: 1.06/5 | Level: 0.13/7)
+- History and Archeology (Importance: 1.05/5 | Level: 0.09/7)
+- Fine Arts (Importance: 1.05/5 | Level: 0.09/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Troubleshooting (Importance: 3.88/5 | Level: 3.88/7)
@@ -228,3 +264,25 @@ Diagnose, adjust, repair, or overhaul motorcycles, scooters, mopeds, dirt bikes,
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Bicycle Repairers
+- Outdoor Power Equipment and Other Small Engine Mechanics
+- Motorboat Mechanics and Service Technicians
+- Automotive Service Technicians and Mechanics
+- Bus and Truck Mechanics and Diesel Engine Specialists
+- Mobile Heavy Equipment Mechanics, Except Engines
+- Rail Car Repairers
+- Electric Motor, Power Tool, and Related Repairers
+- Tire Repairers and Changers
+- Engine and Other Machine Assemblers
+- Automotive Body and Related Repairers
+- Recreational Vehicle Service Technicians
+- Aircraft Mechanics and Service Technicians
+- Industrial Machinery Mechanics
+- Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+- Electronic Equipment Installers and Repairers, Motor Vehicles
+- Maintenance Workers, Machinery
+- Avionics Technicians
+- Farm Equipment Mechanics and Service Technicians
+- Control and Valve Installers and Repairers, Except Mechanical Door

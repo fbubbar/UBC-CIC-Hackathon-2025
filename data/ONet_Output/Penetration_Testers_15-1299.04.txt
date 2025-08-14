@@ -28,6 +28,10 @@ Evaluate network system security by conducting simulated internal and external c
 - Update corporate policies to improve cyber security.
 - Write audit reports to communicate technical and procedural findings and recommend solutions.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- No specific knowledge areas listed.
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - No specific skills listed.
@@ -110,3 +114,25 @@ Evaluate network system security by conducting simulated internal and external c
 - Primary Interest: Investigative
 - Secondary Interest: Conventional
 - Tertiary Interest: Realistic
+
+# RELATED OCCUPATIONS
+- Information Security Engineers
+- Information Security Analysts
+- Software Quality Assurance Analysts and Testers
+- Computer Systems Analysts
+- Computer Systems Engineers/Architects
+- Validation Engineers
+- Software Developers
+- Database Administrators
+- Computer Network Support Specialists
+- Blockchain Engineers
+- Security Management Specialists
+- Security Managers
+- Digital Forensics Analysts
+- Network and Computer Systems Administrators
+- Intelligence Analysts
+- Computer Hardware Engineers
+- Computer Network Architects
+- Health and Safety Engineers, Except Mining Safety Engineers and Inspectors
+- Quality Control Analysts
+- Database Architects

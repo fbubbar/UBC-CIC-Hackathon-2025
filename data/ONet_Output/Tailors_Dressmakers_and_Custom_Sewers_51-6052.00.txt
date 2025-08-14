@@ -28,6 +28,42 @@ Design, make, alter, repair, or fit garments.
 - Put in padding and shaping materials.
 - Sew buttonholes and attach buttons to finish garments.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.05/5 | Level: 4.7/7)
+- English Language (Importance: 3.56/5 | Level: 3.57/7)
+- Production and Processing (Importance: 3.32/5 | Level: 3.19/7)
+- Administration and Management (Importance: 3.19/5 | Level: 3.28/7)
+- Economics and Accounting (Importance: 3.16/5 | Level: 2.84/7)
+- Design (Importance: 2.96/5 | Level: 3.57/7)
+- Mathematics (Importance: 2.95/5 | Level: 2.81/7)
+- Sales and Marketing (Importance: 2.76/5 | Level: 2.94/7)
+- Personnel and Human Resources (Importance: 2.73/5 | Level: 2.5/7)
+- Administrative (Importance: 2.63/5 | Level: 3.01/7)
+- Education and Training (Importance: 2.49/5 | Level: 2.26/7)
+- Mechanical (Importance: 2.35/5 | Level: 1.9/7)
+- Public Safety and Security (Importance: 2.0/5 | Level: 1.58/7)
+- Communications and Media (Importance: 1.98/5 | Level: 1.83/7)
+- Psychology (Importance: 1.9/5 | Level: 1.43/7)
+- Engineering and Technology (Importance: 1.89/5 | Level: 1.55/7)
+- Computers and Electronics (Importance: 1.73/5 | Level: 1.27/7)
+- Telecommunications (Importance: 1.63/5 | Level: 0.94/7)
+- Foreign Language (Importance: 1.6/5 | Level: 0.92/7)
+- Transportation (Importance: 1.5/5 | Level: 0.84/7)
+- Sociology and Anthropology (Importance: 1.48/5 | Level: 0.84/7)
+- Physics (Importance: 1.47/5 | Level: 0.72/7)
+- Medicine and Dentistry (Importance: 1.4/5 | Level: 0.61/7)
+- Law and Government (Importance: 1.39/5 | Level: 0.62/7)
+- Philosophy and Theology (Importance: 1.39/5 | Level: 0.78/7)
+- Chemistry (Importance: 1.37/5 | Level: 0.74/7)
+- Building and Construction (Importance: 1.35/5 | Level: 0.57/7)
+- Food Production (Importance: 1.31/5 | Level: 0.42/7)
+- Fine Arts (Importance: 1.3/5 | Level: 0.58/7)
+- Therapy and Counseling (Importance: 1.29/5 | Level: 0.78/7)
+- History and Archeology (Importance: 1.26/5 | Level: 0.4/7)
+- Biology (Importance: 1.21/5 | Level: 0.42/7)
+- Geography (Importance: 1.03/5 | Level: 0.07/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Time Management (Importance: 3.12/5 | Level: 2.88/7)
@@ -174,3 +210,25 @@ Design, make, alter, repair, or fit garments.
 - Primary Interest: Realistic
 - Secondary Interest: Artistic
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Sewers, Hand
+- Sewing Machine Operators
+- Fabric and Apparel Patternmakers
+- Shoe and Leather Workers and Repairers
+- Pressers, Textile, Garment, and Related Materials
+- Fashion Designers
+- Upholsterers
+- Patternmakers, Metal and Plastic
+- Shoe Machine Operators and Tenders
+- Textile Knitting and Weaving Machine Setters, Operators, and Tenders
+- Laundry and Dry-Cleaning Workers
+- Painting, Coating, and Decorating Workers
+- Jewelers and Precious Stone and Metal Workers
+- Cutters and Trimmers, Hand
+- Print Binding and Finishing Workers
+- Molders, Shapers, and Casters, Except Metal and Plastic
+- Patternmakers, Wood
+- Cutting and Slicing Machine Setters, Operators, and Tenders
+- Layout Workers, Metal and Plastic
+- Textile Bleaching and Dyeing Machine Operators and Tenders

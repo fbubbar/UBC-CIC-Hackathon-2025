@@ -28,6 +28,42 @@ Clean and repair septic tanks, sewer lines, or drains. May patch walls and parti
 - Break asphalt and other pavement so that pipes can be accessed, using airhammers, picks, and shovels.
 - Tap mainline sewers to install sewer saddles.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 3.94/5 | Level: 4.47/7)
+- Transportation (Importance: 3.52/5 | Level: 3.76/7)
+- Mechanical (Importance: 3.49/5 | Level: 4.03/7)
+- English Language (Importance: 3.39/5 | Level: 2.85/7)
+- Public Safety and Security (Importance: 3.38/5 | Level: 2.88/7)
+- Mathematics (Importance: 3.19/5 | Level: 2.91/7)
+- Administration and Management (Importance: 3.04/5 | Level: 3.05/7)
+- Education and Training (Importance: 2.81/5 | Level: 2.99/7)
+- Building and Construction (Importance: 2.8/5 | Level: 2.88/7)
+- Law and Government (Importance: 2.61/5 | Level: 2.26/7)
+- Engineering and Technology (Importance: 2.57/5 | Level: 2.98/7)
+- Production and Processing (Importance: 2.54/5 | Level: 2.29/7)
+- Design (Importance: 2.49/5 | Level: 2.41/7)
+- Personnel and Human Resources (Importance: 2.47/5 | Level: 2.27/7)
+- Physics (Importance: 2.39/5 | Level: 2.59/7)
+- Administrative (Importance: 2.38/5 | Level: 2.36/7)
+- Chemistry (Importance: 2.31/5 | Level: 2.34/7)
+- Computers and Electronics (Importance: 2.22/5 | Level: 2.59/7)
+- Sales and Marketing (Importance: 2.18/5 | Level: 1.21/7)
+- Telecommunications (Importance: 2.14/5 | Level: 1.4/7)
+- Geography (Importance: 2.13/5 | Level: 2.28/7)
+- Economics and Accounting (Importance: 2.03/5 | Level: 1.28/7)
+- Biology (Importance: 1.88/5 | Level: 1.79/7)
+- Communications and Media (Importance: 1.87/5 | Level: 1.72/7)
+- Psychology (Importance: 1.85/5 | Level: 1.63/7)
+- Medicine and Dentistry (Importance: 1.61/5 | Level: 0.76/7)
+- Sociology and Anthropology (Importance: 1.38/5 | Level: 0.74/7)
+- Therapy and Counseling (Importance: 1.35/5 | Level: 0.57/7)
+- Foreign Language (Importance: 1.32/5 | Level: 0.44/7)
+- History and Archeology (Importance: 1.24/5 | Level: 0.56/7)
+- Food Production (Importance: 1.15/5 | Level: 0.09/7)
+- Philosophy and Theology (Importance: 1.15/5 | Level: 0.29/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.01/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Operation and Control (Importance: 3.88/5 | Level: 3.0/7)
@@ -165,3 +201,25 @@ Clean and repair septic tanks, sewer lines, or drains. May patch walls and parti
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Plumbers, Pipefitters, and Steamfitters
+- Pipelayers
+- Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters
+- Water and Wastewater Treatment Plant and System Operators
+- Cleaners of Vehicles and Equipment
+- Maintenance and Repair Workers, General
+- Construction Laborers
+- Operating Engineers and Other Construction Equipment Operators
+- Pump Operators, Except Wellhead Pumpers
+- Excavating and Loading Machine and Dragline Operators, Surface Mining
+- Control and Valve Installers and Repairers, Except Mechanical Door
+- Earth Drillers, Except Oil and Gas
+- Service Unit Operators, Oil and Gas
+- Hazardous Materials Removal Workers
+- Helpers--Extraction Workers
+- Maintenance Workers, Machinery
+- Rotary Drill Operators, Oil and Gas
+- Roustabouts, Oil and Gas
+- Highway Maintenance Workers
+- Mobile Heavy Equipment Mechanics, Except Engines

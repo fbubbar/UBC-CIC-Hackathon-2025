@@ -34,6 +34,42 @@ Prepare detailed drawings of architectural and structural features of buildings 
 - Represent architect or engineer on construction site, ensuring builder compliance with design specifications and advising on design corrections, under supervision.
 - Review rough sketches, drawings, specifications, and other engineering data to ensure that they conform to design concepts.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Design (Importance: 4.32/5 | Level: 6.01/7)
+- Building and Construction (Importance: 4.25/5 | Level: 5.02/7)
+- Engineering and Technology (Importance: 4.19/5 | Level: 5.44/7)
+- English Language (Importance: 3.81/5 | Level: 3.94/7)
+- Computers and Electronics (Importance: 3.79/5 | Level: 4.81/7)
+- Mathematics (Importance: 3.58/5 | Level: 4.12/7)
+- Public Safety and Security (Importance: 3.13/5 | Level: 3.29/7)
+- Administration and Management (Importance: 3.03/5 | Level: 3.35/7)
+- Customer and Personal Service (Importance: 3.03/5 | Level: 3.25/7)
+- Geography (Importance: 2.86/5 | Level: 3.58/7)
+- Education and Training (Importance: 2.83/5 | Level: 3.48/7)
+- Law and Government (Importance: 2.79/5 | Level: 2.66/7)
+- Sales and Marketing (Importance: 2.62/5 | Level: 2.38/7)
+- Physics (Importance: 2.62/5 | Level: 2.7/7)
+- Mechanical (Importance: 2.52/5 | Level: 2.77/7)
+- Production and Processing (Importance: 2.49/5 | Level: 2.38/7)
+- Administrative (Importance: 2.46/5 | Level: 3.08/7)
+- Transportation (Importance: 2.41/5 | Level: 2.46/7)
+- Communications and Media (Importance: 2.32/5 | Level: 2.27/7)
+- Economics and Accounting (Importance: 2.07/5 | Level: 1.42/7)
+- Telecommunications (Importance: 2.06/5 | Level: 1.67/7)
+- Personnel and Human Resources (Importance: 1.8/5 | Level: 1.49/7)
+- Chemistry (Importance: 1.64/5 | Level: 1.47/7)
+- Fine Arts (Importance: 1.6/5 | Level: 1.33/7)
+- Foreign Language (Importance: 1.57/5 | Level: 1.38/7)
+- Psychology (Importance: 1.49/5 | Level: 1.17/7)
+- History and Archeology (Importance: 1.48/5 | Level: 0.93/7)
+- Philosophy and Theology (Importance: 1.48/5 | Level: 0.97/7)
+- Biology (Importance: 1.44/5 | Level: 0.85/7)
+- Sociology and Anthropology (Importance: 1.39/5 | Level: 0.68/7)
+- Medicine and Dentistry (Importance: 1.39/5 | Level: 0.65/7)
+- Therapy and Counseling (Importance: 1.26/5 | Level: 0.53/7)
+- Food Production (Importance: 1.05/5 | Level: 0.1/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Reading Comprehension (Importance: 3.62/5 | Level: 3.75/7)
@@ -188,3 +224,25 @@ Prepare detailed drawings of architectural and structural features of buildings 
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Artistic
+
+# RELATED OCCUPATIONS
+- Mechanical Drafters
+- Electrical and Electronics Drafters
+- Civil Engineering Technologists and Technicians
+- Mechanical Engineering Technologists and Technicians
+- Civil Engineers
+- Architectural and Engineering Managers
+- Architects, Except Landscape and Naval
+- Layout Workers, Metal and Plastic
+- Electrical and Electronic Engineering Technologists and Technicians
+- Surveying and Mapping Technicians
+- Industrial Engineers
+- Mechanical Engineers
+- Commercial and Industrial Designers
+- Calibration Technologists and Technicians
+- Electronics Engineers, Except Computer
+- Construction and Building Inspectors
+- Construction Managers
+- Electrical Engineers
+- Computer Numerically Controlled Tool Programmers
+- Software Developers

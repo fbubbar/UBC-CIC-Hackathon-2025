@@ -25,6 +25,42 @@ Operate telephone business systems equipment or switchboards to relay incoming, 
 - Keep records of calls placed and charges incurred.
 - Place orders, such as for equipment, supplies, or catering for meetings.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.34/5 | Level: 5.46/7)
+- English Language (Importance: 3.85/5 | Level: 3.45/7)
+- Administrative (Importance: 3.68/5 | Level: 4.63/7)
+- Computers and Electronics (Importance: 3.49/5 | Level: 3.57/7)
+- Telecommunications (Importance: 3.34/5 | Level: 1.82/7)
+- Administration and Management (Importance: 2.79/5 | Level: 2.79/7)
+- Communications and Media (Importance: 2.73/5 | Level: 2.46/7)
+- Public Safety and Security (Importance: 2.54/5 | Level: 1.66/7)
+- Personnel and Human Resources (Importance: 2.52/5 | Level: 1.89/7)
+- Mathematics (Importance: 2.45/5 | Level: 2.86/7)
+- Psychology (Importance: 2.33/5 | Level: 2.26/7)
+- Economics and Accounting (Importance: 1.96/5 | Level: 1.04/7)
+- Education and Training (Importance: 1.94/5 | Level: 1.98/7)
+- Law and Government (Importance: 1.94/5 | Level: 1.45/7)
+- Therapy and Counseling (Importance: 1.77/5 | Level: 1.78/7)
+- Mechanical (Importance: 1.77/5 | Level: 1.41/7)
+- Engineering and Technology (Importance: 1.49/5 | Level: 1.22/7)
+- Foreign Language (Importance: 1.49/5 | Level: 0.74/7)
+- Philosophy and Theology (Importance: 1.49/5 | Level: 1.05/7)
+- Sales and Marketing (Importance: 1.47/5 | Level: 0.85/7)
+- Sociology and Anthropology (Importance: 1.47/5 | Level: 1.05/7)
+- Production and Processing (Importance: 1.33/5 | Level: 0.49/7)
+- Geography (Importance: 1.3/5 | Level: 0.45/7)
+- Medicine and Dentistry (Importance: 1.19/5 | Level: 0.21/7)
+- Transportation (Importance: 1.16/5 | Level: 0.22/7)
+- Food Production (Importance: 1.08/5 | Level: 0.09/7)
+- History and Archeology (Importance: 1.06/5 | Level: 0.06/7)
+- Chemistry (Importance: 1.05/5 | Level: 0.1/7)
+- Physics (Importance: 1.01/5 | Level: 0.01/7)
+- Fine Arts (Importance: 1.01/5 | Level: 0.01/7)
+- Building and Construction (Importance: 1.01/5 | Level: 0.03/7)
+- Design (Importance: 1.0/5 | Level: 0.0/7)
+- Biology (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Active Listening (Importance: 4.0/5 | Level: 3.0/7)
@@ -154,3 +190,25 @@ Operate telephone business systems equipment or switchboards to relay incoming, 
 - Primary Interest: Conventional
 - Secondary Interest: Realistic
 - Tertiary Interest: Enterprising
+
+# RELATED OCCUPATIONS
+- Telephone Operators
+- Receptionists and Information Clerks
+- Office Clerks, General
+- Customer Service Representatives
+- Public Safety Telecommunicators
+- Telemarketers
+- Dispatchers, Except Police, Fire, and Ambulance
+- Secretaries and Administrative Assistants, Except Legal, Medical, and Executive
+- Medical Secretaries and Administrative Assistants
+- Executive Secretaries and Executive Administrative Assistants
+- Telecommunications Equipment Installers and Repairers, Except Line Installers
+- First-Line Supervisors of Office and Administrative Support Workers
+- Administrative Services Managers
+- Data Entry Keyers
+- Brokerage Clerks
+- Postal Service Clerks
+- Word Processors and Typists
+- Mail Clerks and Mail Machine Operators, Except Postal Service
+- Telecommunications Engineering Specialists
+- Billing and Posting Clerks

@@ -20,6 +20,42 @@ Manage biofuels production and plant operations. Collect and process information
 - Prepare and manage biofuels plant or unit budgets.
 - Conduct cost, material, and efficiency studies for biofuels production plants or operations.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Production and Processing (Importance: 4.73/5 | Level: 5.6/7)
+- Administration and Management (Importance: 4.08/5 | Level: 4.96/7)
+- Mechanical (Importance: 4.04/5 | Level: 5.41/7)
+- Chemistry (Importance: 3.68/5 | Level: 4.68/7)
+- Engineering and Technology (Importance: 3.68/5 | Level: 4.79/7)
+- Mathematics (Importance: 3.49/5 | Level: 4.46/7)
+- Computers and Electronics (Importance: 3.33/5 | Level: 3.96/7)
+- Personnel and Human Resources (Importance: 3.32/5 | Level: 3.99/7)
+- Physics (Importance: 3.28/5 | Level: 3.63/7)
+- Administrative (Importance: 3.26/5 | Level: 4.28/7)
+- Education and Training (Importance: 3.23/5 | Level: 4.47/7)
+- English Language (Importance: 3.23/5 | Level: 3.56/7)
+- Design (Importance: 3.19/5 | Level: 4.04/7)
+- Public Safety and Security (Importance: 3.13/5 | Level: 3.65/7)
+- Customer and Personal Service (Importance: 3.04/5 | Level: 4.03/7)
+- Economics and Accounting (Importance: 3.01/5 | Level: 2.98/7)
+- Biology (Importance: 2.98/5 | Level: 3.27/7)
+- Building and Construction (Importance: 2.82/5 | Level: 3.91/7)
+- Food Production (Importance: 2.71/5 | Level: 3.3/7)
+- Transportation (Importance: 2.66/5 | Level: 3.26/7)
+- Psychology (Importance: 2.65/5 | Level: 3.19/7)
+- Law and Government (Importance: 2.5/5 | Level: 2.77/7)
+- Sales and Marketing (Importance: 2.44/5 | Level: 2.81/7)
+- Geography (Importance: 2.09/5 | Level: 2.18/7)
+- Communications and Media (Importance: 1.98/5 | Level: 1.89/7)
+- Telecommunications (Importance: 1.81/5 | Level: 1.44/7)
+- Sociology and Anthropology (Importance: 1.8/5 | Level: 1.67/7)
+- Therapy and Counseling (Importance: 1.4/5 | Level: 1.08/7)
+- Medicine and Dentistry (Importance: 1.35/5 | Level: 0.64/7)
+- Philosophy and Theology (Importance: 1.33/5 | Level: 0.75/7)
+- Foreign Language (Importance: 1.26/5 | Level: 0.46/7)
+- History and Archeology (Importance: 1.25/5 | Level: 0.44/7)
+- Fine Arts (Importance: 1.03/5 | Level: 0.03/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Critical Thinking (Importance: 3.88/5 | Level: 3.88/7)
@@ -161,3 +197,25 @@ Manage biofuels production and plant operations. Collect and process information
 - Primary Interest: Enterprising
 - Secondary Interest: Conventional
 - Tertiary Interest: Realistic
+
+# RELATED OCCUPATIONS
+- Biofuels Processing Technicians
+- Biofuels/Biodiesel Technology and Product Development Managers
+- Biomass Power Plant Managers
+- Geothermal Production Managers
+- Biomass Plant Technicians
+- Hydroelectric Production Managers
+- Power Plant Operators
+- Industrial Production Managers
+- Chemical Engineers
+- Manufacturing Engineers
+- Petroleum Pump System Operators, Refinery Operators, and Gaugers
+- Gas Plant Operators
+- Chemical Plant and System Operators
+- Hydroelectric Plant Technicians
+- Wind Energy Development Managers
+- Water and Wastewater Treatment Plant and System Operators
+- Energy Engineers, Except Wind and Solar
+- Wind Energy Operations Managers
+- Agricultural Engineers
+- Industrial Engineers

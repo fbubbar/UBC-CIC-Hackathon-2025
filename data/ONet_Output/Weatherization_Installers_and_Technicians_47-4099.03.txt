@@ -26,6 +26,42 @@ Perform a variety of activities to weatherize homes and make them more energy ef
 - Install storm windows or storm doors and verify proper fit.
 - Wrap water heaters with water heater blankets.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Building and Construction (Importance: 4.13/5 | Level: 4.35/7)
+- Customer and Personal Service (Importance: 3.91/5 | Level: 4.22/7)
+- Mechanical (Importance: 3.57/5 | Level: 4.04/7)
+- Administration and Management (Importance: 3.52/5 | Level: 3.7/7)
+- Education and Training (Importance: 3.43/5 | Level: 3.77/7)
+- Mathematics (Importance: 3.3/5 | Level: 3.57/7)
+- English Language (Importance: 3.22/5 | Level: 3.09/7)
+- Public Safety and Security (Importance: 3.13/5 | Level: 3.48/7)
+- Administrative (Importance: 3.09/5 | Level: 3.74/7)
+- Computers and Electronics (Importance: 3.04/5 | Level: 3.43/7)
+- Production and Processing (Importance: 3.0/5 | Level: 3.26/7)
+- Design (Importance: 3.0/5 | Level: 3.52/7)
+- Economics and Accounting (Importance: 3.0/5 | Level: 3.22/7)
+- Engineering and Technology (Importance: 2.96/5 | Level: 3.13/7)
+- Transportation (Importance: 2.78/5 | Level: 2.52/7)
+- Personnel and Human Resources (Importance: 2.74/5 | Level: 2.78/7)
+- Law and Government (Importance: 2.61/5 | Level: 2.35/7)
+- Physics (Importance: 2.52/5 | Level: 2.48/7)
+- Chemistry (Importance: 2.39/5 | Level: 2.39/7)
+- Sales and Marketing (Importance: 2.35/5 | Level: 2.61/7)
+- Telecommunications (Importance: 2.09/5 | Level: 1.39/7)
+- Medicine and Dentistry (Importance: 2.04/5 | Level: 1.57/7)
+- Psychology (Importance: 1.91/5 | Level: 1.74/7)
+- Geography (Importance: 1.91/5 | Level: 1.65/7)
+- Communications and Media (Importance: 1.87/5 | Level: 1.78/7)
+- Foreign Language (Importance: 1.87/5 | Level: 1.26/7)
+- Therapy and Counseling (Importance: 1.83/5 | Level: 1.39/7)
+- Biology (Importance: 1.7/5 | Level: 1.39/7)
+- Sociology and Anthropology (Importance: 1.65/5 | Level: 1.3/7)
+- Philosophy and Theology (Importance: 1.52/5 | Level: 0.96/7)
+- Food Production (Importance: 1.48/5 | Level: 0.96/7)
+- History and Archeology (Importance: 1.36/5 | Level: 0.83/7)
+- Fine Arts (Importance: 1.26/5 | Level: 0.48/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Monitoring (Importance: 3.38/5 | Level: 3.25/7)
@@ -211,3 +247,25 @@ Perform a variety of activities to weatherize homes and make them more energy ef
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Insulation Workers, Floor, Ceiling, and Wall
+- Insulation Workers, Mechanical
+- Solar Thermal Installers and Technicians
+- Maintenance and Repair Workers, General
+- Plumbers, Pipefitters, and Steamfitters
+- Heating, Air Conditioning, and Refrigeration Mechanics and Installers
+- Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters
+- Solar Photovoltaic Installers
+- Geothermal Technicians
+- Helpers--Installation, Maintenance, and Repair Workers
+- Solar Energy Installation Managers
+- Construction and Building Inspectors
+- Energy Auditors
+- Boilermakers
+- Energy Engineers, Except Wind and Solar
+- Wind Turbine Service Technicians
+- Roofers
+- Construction Managers
+- Sheet Metal Workers
+- Stationary Engineers and Boiler Operators

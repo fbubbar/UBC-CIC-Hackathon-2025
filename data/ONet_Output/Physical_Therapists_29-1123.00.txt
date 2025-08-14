@@ -30,6 +30,42 @@ Assess, plan, organize, and participate in rehabilitative programs that improve 
 - Participate in community or community agency activities or help to formulate public policy.
 - Direct group rehabilitation activities.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.61/5 | Level: 5.59/7)
+- Therapy and Counseling (Importance: 4.59/5 | Level: 5.2/7)
+- Medicine and Dentistry (Importance: 4.57/5 | Level: 4.62/7)
+- Psychology (Importance: 4.11/5 | Level: 5.19/7)
+- Education and Training (Importance: 3.98/5 | Level: 5.13/7)
+- English Language (Importance: 3.98/5 | Level: 4.14/7)
+- Biology (Importance: 3.7/5 | Level: 3.5/7)
+- Administration and Management (Importance: 3.2/5 | Level: 3.19/7)
+- Physics (Importance: 3.2/5 | Level: 3.13/7)
+- Sociology and Anthropology (Importance: 3.12/5 | Level: 3.39/7)
+- Administrative (Importance: 3.08/5 | Level: 3.82/7)
+- Personnel and Human Resources (Importance: 2.87/5 | Level: 2.78/7)
+- Law and Government (Importance: 2.78/5 | Level: 2.66/7)
+- Computers and Electronics (Importance: 2.77/5 | Level: 2.85/7)
+- Public Safety and Security (Importance: 2.72/5 | Level: 2.27/7)
+- Mathematics (Importance: 2.65/5 | Level: 3.08/7)
+- Communications and Media (Importance: 2.64/5 | Level: 2.78/7)
+- Sales and Marketing (Importance: 2.62/5 | Level: 2.94/7)
+- Chemistry (Importance: 2.42/5 | Level: 2.71/7)
+- Economics and Accounting (Importance: 2.36/5 | Level: 2.04/7)
+- Mechanical (Importance: 2.09/5 | Level: 1.7/7)
+- Philosophy and Theology (Importance: 2.04/5 | Level: 2.24/7)
+- Telecommunications (Importance: 1.93/5 | Level: 1.24/7)
+- Foreign Language (Importance: 1.91/5 | Level: 1.43/7)
+- Production and Processing (Importance: 1.67/5 | Level: 1.31/7)
+- Engineering and Technology (Importance: 1.66/5 | Level: 1.19/7)
+- Transportation (Importance: 1.52/5 | Level: 1.19/7)
+- Geography (Importance: 1.38/5 | Level: 0.72/7)
+- Building and Construction (Importance: 1.37/5 | Level: 0.61/7)
+- Design (Importance: 1.34/5 | Level: 0.79/7)
+- Fine Arts (Importance: 1.31/5 | Level: 0.44/7)
+- Food Production (Importance: 1.07/5 | Level: 0.22/7)
+- History and Archeology (Importance: 1.06/5 | Level: 0.18/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Critical Thinking (Importance: 4.0/5 | Level: 3.88/7)
@@ -260,3 +296,25 @@ Assess, plan, organize, and participate in rehabilitative programs that improve 
 - Primary Interest: Social
 - Secondary Interest: Investigative
 - Tertiary Interest: Realistic
+
+# RELATED OCCUPATIONS
+- Physical Medicine and Rehabilitation Physicians
+- Occupational Therapists
+- Emergency Medicine Physicians
+- Clinical Nurse Specialists
+- Advanced Practice Psychiatric Nurses
+- Nurse Practitioners
+- Orthopedic Surgeons, Except Pediatric
+- Acute Care Nurses
+- Pediatric Surgeons
+- Recreational Therapists
+- Physical Therapist Assistants
+- Physical Therapist Aides
+- Respiratory Therapists
+- Occupational Therapy Assistants
+- Occupational Therapy Aides
+- Psychiatric Technicians
+- Family Medicine Physicians
+- Registered Nurses
+- Pediatricians, General
+- Radiation Therapists

@@ -29,6 +29,42 @@ Set up, operate, or tend heating equipment, such as heat-treating furnaces, flam
 - Clean oxides and scales from parts or fittings, using steam sprays or chemical and water baths.
 - Stamp heat-treatment identification marks on parts, using hammers and punches.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Production and Processing (Importance: 3.93/5 | Level: 4.22/7)
+- Mathematics (Importance: 3.25/5 | Level: 3.15/7)
+- Education and Training (Importance: 2.85/5 | Level: 3.12/7)
+- Administration and Management (Importance: 2.75/5 | Level: 2.35/7)
+- Chemistry (Importance: 2.71/5 | Level: 3.16/7)
+- Mechanical (Importance: 2.59/5 | Level: 2.75/7)
+- Customer and Personal Service (Importance: 2.58/5 | Level: 2.51/7)
+- Engineering and Technology (Importance: 2.56/5 | Level: 2.5/7)
+- Design (Importance: 2.46/5 | Level: 2.38/7)
+- Physics (Importance: 2.42/5 | Level: 2.21/7)
+- Public Safety and Security (Importance: 2.41/5 | Level: 1.97/7)
+- Computers and Electronics (Importance: 2.34/5 | Level: 1.95/7)
+- English Language (Importance: 2.34/5 | Level: 2.23/7)
+- Psychology (Importance: 1.93/5 | Level: 1.78/7)
+- Communications and Media (Importance: 1.91/5 | Level: 1.49/7)
+- Administrative (Importance: 1.84/5 | Level: 1.25/7)
+- Sales and Marketing (Importance: 1.83/5 | Level: 1.08/7)
+- Law and Government (Importance: 1.76/5 | Level: 1.06/7)
+- Transportation (Importance: 1.66/5 | Level: 1.25/7)
+- Building and Construction (Importance: 1.56/5 | Level: 1.12/7)
+- Personnel and Human Resources (Importance: 1.54/5 | Level: 1.01/7)
+- Economics and Accounting (Importance: 1.52/5 | Level: 0.65/7)
+- Sociology and Anthropology (Importance: 1.41/5 | Level: 0.43/7)
+- Medicine and Dentistry (Importance: 1.33/5 | Level: 0.55/7)
+- Telecommunications (Importance: 1.33/5 | Level: 0.54/7)
+- Foreign Language (Importance: 1.22/5 | Level: 0.34/7)
+- Food Production (Importance: 1.22/5 | Level: 0.32/7)
+- Biology (Importance: 1.22/5 | Level: 0.55/7)
+- Therapy and Counseling (Importance: 1.22/5 | Level: 0.44/7)
+- Geography (Importance: 1.22/5 | Level: 0.55/7)
+- Philosophy and Theology (Importance: 1.21/5 | Level: 0.73/7)
+- History and Archeology (Importance: 1.01/5 | Level: 0.02/7)
+- Fine Arts (Importance: 1.01/5 | Level: 0.02/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Operation and Control (Importance: 3.75/5 | Level: 3.88/7)
@@ -185,3 +221,25 @@ Set up, operate, or tend heating equipment, such as heat-treating furnaces, flam
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Metal-Refining Furnace Operators and Tenders
+- Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders
+- Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic
+- Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders
+- Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders
+- Plating Machine Setters, Operators, and Tenders, Metal and Plastic
+- Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders
+- Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders
+- Cooling and Freezing Equipment Operators and Tenders
+- Forging Machine Setters, Operators, and Tenders, Metal and Plastic
+- Welders, Cutters, Solderers, and Brazers
+- Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers
+- Rolling Machine Setters, Operators, and Tenders, Metal and Plastic
+- Chemical Equipment Operators and Tenders
+- Adhesive Bonding Machine Operators and Tenders
+- Textile Bleaching and Dyeing Machine Operators and Tenders
+- Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic
+- Refractory Materials Repairers, Except Brickmasons
+- Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Cutting and Slicing Machine Setters, Operators, and Tenders

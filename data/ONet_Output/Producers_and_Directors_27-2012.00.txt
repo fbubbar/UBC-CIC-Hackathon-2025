@@ -36,6 +36,42 @@ Produce or direct stage, television, radio, video, or film productions for enter
 - Hold auditions for parts or negotiate contracts with actors determined suitable for specific roles.
 - Select plays, scripts, books, news content, or ideas to be produced.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Communications and Media (Importance: 4.72/5 | Level: 4.96/7)
+- English Language (Importance: 3.86/5 | Level: 3.97/7)
+- Telecommunications (Importance: 3.74/5 | Level: 3.5/7)
+- Computers and Electronics (Importance: 3.57/5 | Level: 3.95/7)
+- Administration and Management (Importance: 3.35/5 | Level: 3.19/7)
+- Customer and Personal Service (Importance: 3.17/5 | Level: 2.84/7)
+- Fine Arts (Importance: 2.81/5 | Level: 2.97/7)
+- Engineering and Technology (Importance: 2.71/5 | Level: 2.53/7)
+- Sales and Marketing (Importance: 2.52/5 | Level: 2.36/7)
+- Administrative (Importance: 2.47/5 | Level: 3.09/7)
+- Education and Training (Importance: 2.41/5 | Level: 2.48/7)
+- Production and Processing (Importance: 2.24/5 | Level: 1.89/7)
+- Law and Government (Importance: 2.22/5 | Level: 2.1/7)
+- Geography (Importance: 2.17/5 | Level: 2.4/7)
+- Personnel and Human Resources (Importance: 2.14/5 | Level: 1.99/7)
+- Design (Importance: 2.13/5 | Level: 1.73/7)
+- Mathematics (Importance: 2.12/5 | Level: 2.0/7)
+- Sociology and Anthropology (Importance: 2.09/5 | Level: 2.28/7)
+- Foreign Language (Importance: 2.07/5 | Level: 1.55/7)
+- Psychology (Importance: 2.01/5 | Level: 2.06/7)
+- Philosophy and Theology (Importance: 2.0/5 | Level: 2.25/7)
+- History and Archeology (Importance: 1.87/5 | Level: 1.61/7)
+- Economics and Accounting (Importance: 1.79/5 | Level: 1.24/7)
+- Public Safety and Security (Importance: 1.64/5 | Level: 0.86/7)
+- Transportation (Importance: 1.6/5 | Level: 1.23/7)
+- Mechanical (Importance: 1.53/5 | Level: 0.94/7)
+- Therapy and Counseling (Importance: 1.34/5 | Level: 0.85/7)
+- Physics (Importance: 1.31/5 | Level: 0.64/7)
+- Building and Construction (Importance: 1.17/5 | Level: 0.33/7)
+- Medicine and Dentistry (Importance: 1.14/5 | Level: 0.34/7)
+- Food Production (Importance: 1.14/5 | Level: 0.21/7)
+- Biology (Importance: 1.1/5 | Level: 0.15/7)
+- Chemistry (Importance: 1.02/5 | Level: 0.05/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Active Listening (Importance: 4.38/5 | Level: 4.38/7)
@@ -237,3 +273,25 @@ Produce or direct stage, television, radio, video, or film productions for enter
 - Primary Interest: Artistic
 - Secondary Interest: Enterprising
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Media Technical Directors/Managers
+- Media Programming Directors
+- Film and Video Editors
+- Art Directors
+- Talent Directors
+- Broadcast Announcers and Radio Disc Jockeys
+- Music Directors and Composers
+- Writers and Authors
+- Editors
+- News Analysts, Reporters, and Journalists
+- Special Effects Artists and Animators
+- Audio and Video Technicians
+- Poets, Lyricists and Creative Writers
+- Public Relations Specialists
+- Camera Operators, Television, Video, and Film
+- Sound Engineering Technicians
+- Actors
+- Graphic Designers
+- Video Game Designers
+- Information Technology Project Managers

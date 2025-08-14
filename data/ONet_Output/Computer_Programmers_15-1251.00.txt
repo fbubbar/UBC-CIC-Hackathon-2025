@@ -23,6 +23,42 @@ Create, modify, and test the code and scripts that allow computer applications t
 - Train users on the use and function of computer programs.
 - Collaborate with computer manufacturers and other users to develop new programming methods.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Computers and Electronics (Importance: 4.87/5 | Level: 6.16/7)
+- Mathematics (Importance: 3.53/5 | Level: 4.54/7)
+- Engineering and Technology (Importance: 3.47/5 | Level: 4.15/7)
+- English Language (Importance: 3.41/5 | Level: 3.78/7)
+- Customer and Personal Service (Importance: 3.3/5 | Level: 3.08/7)
+- Administration and Management (Importance: 3.26/5 | Level: 2.63/7)
+- Design (Importance: 2.88/5 | Level: 3.29/7)
+- Education and Training (Importance: 2.79/5 | Level: 2.93/7)
+- Geography (Importance: 2.75/5 | Level: 3.74/7)
+- Administrative (Importance: 2.74/5 | Level: 3.22/7)
+- Production and Processing (Importance: 2.55/5 | Level: 2.56/7)
+- Economics and Accounting (Importance: 2.47/5 | Level: 2.13/7)
+- Communications and Media (Importance: 2.43/5 | Level: 2.57/7)
+- Telecommunications (Importance: 2.4/5 | Level: 2.07/7)
+- Physics (Importance: 2.11/5 | Level: 2.07/7)
+- Sales and Marketing (Importance: 2.07/5 | Level: 2.25/7)
+- Psychology (Importance: 2.04/5 | Level: 1.76/7)
+- Sociology and Anthropology (Importance: 2.0/5 | Level: 1.84/7)
+- Personnel and Human Resources (Importance: 2.0/5 | Level: 2.12/7)
+- Transportation (Importance: 1.69/5 | Level: 0.82/7)
+- Foreign Language (Importance: 1.64/5 | Level: 1.2/7)
+- Fine Arts (Importance: 1.55/5 | Level: 1.37/7)
+- Mechanical (Importance: 1.53/5 | Level: 0.93/7)
+- Medicine and Dentistry (Importance: 1.46/5 | Level: 0.65/7)
+- Public Safety and Security (Importance: 1.45/5 | Level: 0.72/7)
+- Law and Government (Importance: 1.39/5 | Level: 0.8/7)
+- Chemistry (Importance: 1.15/5 | Level: 0.29/7)
+- Therapy and Counseling (Importance: 1.09/5 | Level: 0.16/7)
+- History and Archeology (Importance: 1.06/5 | Level: 0.16/7)
+- Philosophy and Theology (Importance: 1.05/5 | Level: 0.16/7)
+- Biology (Importance: 1.0/5 | Level: 0.01/7)
+- Food Production (Importance: 1.0/5 | Level: 0.01/7)
+- Building and Construction (Importance: 1.0/5 | Level: 0.01/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Programming (Importance: 4.75/5 | Level: 4.88/7)
@@ -425,3 +461,25 @@ Create, modify, and test the code and scripts that allow computer applications t
 - Primary Interest: Conventional
 - Secondary Interest: Investigative
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Software Developers
+- Web and Digital Interface Designers
+- Computer Systems Engineers/Architects
+- Computer Systems Analysts
+- Database Administrators
+- Database Architects
+- Software Quality Assurance Analysts and Testers
+- Computer Hardware Engineers
+- Blockchain Engineers
+- Computer Network Architects
+- Computer Numerically Controlled Tool Programmers
+- Web Developers
+- Network and Computer Systems Administrators
+- Web Administrators
+- Computer and Information Systems Managers
+- Data Warehousing Specialists
+- Computer and Information Research Scientists
+- Computer User Support Specialists
+- Information Security Engineers
+- Computer Science Teachers, Postsecondary

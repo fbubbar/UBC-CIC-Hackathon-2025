@@ -26,6 +26,10 @@ Conduct investigations on computer-based crimes establishing documentary or phys
 - Write reports, sign affidavits, or give depositions for legal proceedings.
 - Write technical summaries to report findings.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- No specific knowledge areas listed.
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - No specific skills listed.
@@ -105,3 +109,25 @@ Conduct investigations on computer-based crimes establishing documentary or phys
 - Primary Interest: Investigative
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Information Security Analysts
+- Information Security Engineers
+- Penetration Testers
+- Computer Systems Analysts
+- Document Management Specialists
+- Forensic Science Technicians
+- Computer Network Support Specialists
+- Business Intelligence Analysts
+- Geographic Information Systems Technologists and Technicians
+- Search Marketing Strategists
+- Intelligence Analysts
+- Security Management Specialists
+- Security Managers
+- Computer and Information Systems Managers
+- Bioinformatics Technicians
+- Police Identification and Records Officers
+- Gambling Surveillance Officers and Gambling Investigators
+- Database Administrators
+- Computer Network Architects
+- Fraud Examiners, Investigators and Analysts

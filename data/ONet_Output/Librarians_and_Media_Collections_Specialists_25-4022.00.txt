@@ -36,6 +36,42 @@ Administer and maintain libraries or collections of information, for public or p
 - Maintain hardware and software, including computers, media equipment, scanners, color copiers, and color laser printers.
 - Train faculty and media staff on the use of software and audio-visual equipment.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.61/5 | Level: 5.44/7)
+- English Language (Importance: 4.39/5 | Level: 4.81/7)
+- Computers and Electronics (Importance: 4.04/5 | Level: 4.8/7)
+- Education and Training (Importance: 3.97/5 | Level: 4.81/7)
+- Administrative (Importance: 3.84/5 | Level: 4.81/7)
+- Communications and Media (Importance: 3.27/5 | Level: 3.28/7)
+- Administration and Management (Importance: 3.25/5 | Level: 3.6/7)
+- Psychology (Importance: 2.71/5 | Level: 2.63/7)
+- Public Safety and Security (Importance: 2.65/5 | Level: 2.31/7)
+- Mathematics (Importance: 2.65/5 | Level: 2.95/7)
+- Sales and Marketing (Importance: 2.58/5 | Level: 2.71/7)
+- Personnel and Human Resources (Importance: 2.56/5 | Level: 2.18/7)
+- Sociology and Anthropology (Importance: 2.52/5 | Level: 2.62/7)
+- Law and Government (Importance: 2.51/5 | Level: 2.28/7)
+- Geography (Importance: 2.49/5 | Level: 3.23/7)
+- History and Archeology (Importance: 2.42/5 | Level: 2.4/7)
+- Telecommunications (Importance: 2.32/5 | Level: 1.71/7)
+- Production and Processing (Importance: 2.28/5 | Level: 1.86/7)
+- Economics and Accounting (Importance: 2.27/5 | Level: 1.61/7)
+- Philosophy and Theology (Importance: 2.19/5 | Level: 2.26/7)
+- Design (Importance: 2.05/5 | Level: 1.66/7)
+- Engineering and Technology (Importance: 1.8/5 | Level: 1.3/7)
+- Fine Arts (Importance: 1.73/5 | Level: 1.43/7)
+- Mechanical (Importance: 1.66/5 | Level: 1.06/7)
+- Therapy and Counseling (Importance: 1.63/5 | Level: 1.31/7)
+- Foreign Language (Importance: 1.62/5 | Level: 1.03/7)
+- Chemistry (Importance: 1.5/5 | Level: 0.95/7)
+- Transportation (Importance: 1.41/5 | Level: 0.88/7)
+- Biology (Importance: 1.4/5 | Level: 0.49/7)
+- Building and Construction (Importance: 1.35/5 | Level: 0.56/7)
+- Medicine and Dentistry (Importance: 1.35/5 | Level: 0.68/7)
+- Physics (Importance: 1.32/5 | Level: 0.59/7)
+- Food Production (Importance: 1.19/5 | Level: 0.1/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Speaking (Importance: 3.88/5 | Level: 3.5/7)
@@ -263,3 +299,25 @@ Administer and maintain libraries or collections of information, for public or p
 - Primary Interest: Conventional
 - Secondary Interest: Social
 - Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Library Technicians
+- Library Assistants, Clerical
+- Library Science Teachers, Postsecondary
+- Archivists
+- Instructional Coordinators
+- Social Science Research Assistants
+- Document Management Specialists
+- Web Administrators
+- Computer User Support Specialists
+- Database Administrators
+- Management Analysts
+- Computer Science Teachers, Postsecondary
+- File Clerks
+- Teaching Assistants, Special Education
+- Secretaries and Administrative Assistants, Except Legal, Medical, and Executive
+- Curators
+- Education Administrators, Postsecondary
+- Education Teachers, Postsecondary
+- Health Informatics Specialists
+- Media Programming Directors

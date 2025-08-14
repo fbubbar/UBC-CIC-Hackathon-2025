@@ -20,6 +20,42 @@ Research, study, and prepare maps and other spatial data in digital or graphic f
 - Select aerial photographic and remote sensing techniques and plotting equipment needed to meet required standards of accuracy.
 - Travel over photographed areas to observe, identify, record, and verify all relevant features.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Geography (Importance: 4.51/5 | Level: 6.25/7)
+- Computers and Electronics (Importance: 4.22/5 | Level: 4.92/7)
+- English Language (Importance: 3.54/5 | Level: 4.11/7)
+- Design (Importance: 3.36/5 | Level: 4.27/7)
+- Mathematics (Importance: 3.33/5 | Level: 4.25/7)
+- Customer and Personal Service (Importance: 2.92/5 | Level: 3.06/7)
+- Engineering and Technology (Importance: 2.84/5 | Level: 2.99/7)
+- Education and Training (Importance: 2.75/5 | Level: 3.95/7)
+- Administration and Management (Importance: 2.65/5 | Level: 3.33/7)
+- Law and Government (Importance: 2.6/5 | Level: 2.52/7)
+- Production and Processing (Importance: 2.47/5 | Level: 2.67/7)
+- Administrative (Importance: 2.44/5 | Level: 3.6/7)
+- Communications and Media (Importance: 2.37/5 | Level: 2.89/7)
+- Transportation (Importance: 2.24/5 | Level: 2.15/7)
+- Personnel and Human Resources (Importance: 2.21/5 | Level: 2.38/7)
+- Public Safety and Security (Importance: 2.1/5 | Level: 1.46/7)
+- Telecommunications (Importance: 2.06/5 | Level: 1.75/7)
+- Building and Construction (Importance: 1.99/5 | Level: 1.33/7)
+- Physics (Importance: 1.68/5 | Level: 1.49/7)
+- History and Archeology (Importance: 1.62/5 | Level: 1.25/7)
+- Mechanical (Importance: 1.57/5 | Level: 1.07/7)
+- Sales and Marketing (Importance: 1.55/5 | Level: 0.89/7)
+- Psychology (Importance: 1.49/5 | Level: 0.89/7)
+- Economics and Accounting (Importance: 1.44/5 | Level: 0.87/7)
+- Biology (Importance: 1.38/5 | Level: 0.89/7)
+- Sociology and Anthropology (Importance: 1.38/5 | Level: 0.57/7)
+- Foreign Language (Importance: 1.34/5 | Level: 0.56/7)
+- Therapy and Counseling (Importance: 1.25/5 | Level: 0.54/7)
+- Philosophy and Theology (Importance: 1.13/5 | Level: 0.49/7)
+- Chemistry (Importance: 1.02/5 | Level: 0.06/7)
+- Fine Arts (Importance: 1.01/5 | Level: 0.01/7)
+- Food Production (Importance: 1.0/5 | Level: 0.01/7)
+- Medicine and Dentistry (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Reading Comprehension (Importance: 4.0/5 | Level: 4.12/7)
@@ -238,3 +274,25 @@ Research, study, and prepare maps and other spatial data in digital or graphic f
 - Primary Interest: Conventional
 - Secondary Interest: Investigative
 - Tertiary Interest: Realistic
+
+# RELATED OCCUPATIONS
+- Surveying and Mapping Technicians
+- Geodetic Surveyors
+- Geographic Information Systems Technologists and Technicians
+- Surveyors
+- Remote Sensing Technicians
+- Geographers
+- Remote Sensing Scientists and Technologists
+- Geological Technicians, Except Hydrologic Technicians
+- Architectural and Civil Drafters
+- Data Scientists
+- Electrical and Electronics Drafters
+- Statistical Assistants
+- Calibration Technologists and Technicians
+- Database Architects
+- Geoscientists, Except Hydrologists and Geographers
+- Civil Engineering Technologists and Technicians
+- Software Developers
+- Hydrologic Technicians
+- Hydrologists
+- Electrical and Electronic Engineering Technologists and Technicians

@@ -18,6 +18,42 @@ Install, diagnose, or repair communications, sound, security, or navigation equi
 - Replace and clean electrical or electronic components.
 - Build fiberglass or wooden enclosures for sound components, and fit them to automobile dimensions.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 4.08/5 | Level: 4.83/7)
+- Computers and Electronics (Importance: 4.03/5 | Level: 4.35/7)
+- Mathematics (Importance: 3.56/5 | Level: 4.18/7)
+- Customer and Personal Service (Importance: 3.56/5 | Level: 3.09/7)
+- English Language (Importance: 3.32/5 | Level: 2.92/7)
+- Engineering and Technology (Importance: 3.21/5 | Level: 3.63/7)
+- Education and Training (Importance: 3.11/5 | Level: 3.35/7)
+- Administration and Management (Importance: 2.88/5 | Level: 2.92/7)
+- Sales and Marketing (Importance: 2.82/5 | Level: 2.41/7)
+- Design (Importance: 2.69/5 | Level: 3.22/7)
+- Public Safety and Security (Importance: 2.54/5 | Level: 2.14/7)
+- Transportation (Importance: 2.42/5 | Level: 1.86/7)
+- Building and Construction (Importance: 2.39/5 | Level: 1.96/7)
+- Administrative (Importance: 2.19/5 | Level: 1.5/7)
+- Communications and Media (Importance: 2.17/5 | Level: 1.43/7)
+- Physics (Importance: 2.14/5 | Level: 1.98/7)
+- Telecommunications (Importance: 2.06/5 | Level: 1.54/7)
+- Personnel and Human Resources (Importance: 2.01/5 | Level: 1.31/7)
+- Chemistry (Importance: 2.01/5 | Level: 1.9/7)
+- Economics and Accounting (Importance: 1.82/5 | Level: 0.92/7)
+- Production and Processing (Importance: 1.72/5 | Level: 1.06/7)
+- Law and Government (Importance: 1.49/5 | Level: 0.8/7)
+- Medicine and Dentistry (Importance: 1.39/5 | Level: 0.39/7)
+- Foreign Language (Importance: 1.36/5 | Level: 0.87/7)
+- Psychology (Importance: 1.34/5 | Level: 0.51/7)
+- Sociology and Anthropology (Importance: 1.31/5 | Level: 0.51/7)
+- Fine Arts (Importance: 1.26/5 | Level: 0.41/7)
+- Philosophy and Theology (Importance: 1.15/5 | Level: 0.55/7)
+- History and Archeology (Importance: 1.14/5 | Level: 0.41/7)
+- Therapy and Counseling (Importance: 1.14/5 | Level: 0.29/7)
+- Geography (Importance: 1.08/5 | Level: 0.1/7)
+- Biology (Importance: 1.01/5 | Level: 0.02/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Troubleshooting (Importance: 3.62/5 | Level: 3.62/7)
@@ -167,3 +203,25 @@ Install, diagnose, or repair communications, sound, security, or navigation equi
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Electrical and Electronics Installers and Repairers, Transportation Equipment
+- Electric Motor, Power Tool, and Related Repairers
+- Automotive Service Technicians and Mechanics
+- Electrical and Electronics Repairers, Commercial and Industrial Equipment
+- Avionics Technicians
+- Radio, Cellular, and Tower Equipment Installers and Repairers
+- Audiovisual Equipment Installers and Repairers
+- Security and Fire Alarm Systems Installers
+- Lighting Technicians
+- Electromechanical Equipment Assemblers
+- Electrical and Electronic Engineering Technologists and Technicians
+- Telecommunications Equipment Installers and Repairers, Except Line Installers
+- Calibration Technologists and Technicians
+- Control and Valve Installers and Repairers, Except Mechanical Door
+- Engine and Other Machine Assemblers
+- Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+- Electrical and Electronic Equipment Assemblers
+- Automotive Engineering Technicians
+- Computer, Automated Teller, and Office Machine Repairers
+- Electronics Engineers, Except Computer

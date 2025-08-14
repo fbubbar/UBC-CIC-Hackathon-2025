@@ -27,6 +27,42 @@ Evaluate materials and develop machinery and processes to manufacture materials 
 - Write for technical magazines, journals, and trade association publications.
 - Teach in colleges and universities.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Engineering and Technology (Importance: 4.29/5 | Level: 5.45/7)
+- Chemistry (Importance: 4.25/5 | Level: 5.8/7)
+- Physics (Importance: 4.19/5 | Level: 5.47/7)
+- Production and Processing (Importance: 4.1/5 | Level: 4.85/7)
+- Mathematics (Importance: 4.1/5 | Level: 5.35/7)
+- English Language (Importance: 3.86/5 | Level: 4.8/7)
+- Design (Importance: 3.62/5 | Level: 4.9/7)
+- Computers and Electronics (Importance: 3.38/5 | Level: 4.65/7)
+- Mechanical (Importance: 3.1/5 | Level: 4.4/7)
+- Customer and Personal Service (Importance: 3.1/5 | Level: 3.75/7)
+- Administration and Management (Importance: 3.0/5 | Level: 4.1/7)
+- Education and Training (Importance: 2.86/5 | Level: 4.3/7)
+- Personnel and Human Resources (Importance: 2.6/5 | Level: 3.2/7)
+- Administrative (Importance: 2.52/5 | Level: 3.29/7)
+- Sales and Marketing (Importance: 2.48/5 | Level: 3.1/7)
+- Public Safety and Security (Importance: 2.38/5 | Level: 2.5/7)
+- Communications and Media (Importance: 2.29/5 | Level: 2.67/7)
+- Economics and Accounting (Importance: 2.24/5 | Level: 2.5/7)
+- Building and Construction (Importance: 2.19/5 | Level: 2.43/7)
+- Law and Government (Importance: 2.14/5 | Level: 2.57/7)
+- Biology (Importance: 1.95/5 | Level: 2.0/7)
+- Foreign Language (Importance: 1.9/5 | Level: 2.05/7)
+- Psychology (Importance: 1.76/5 | Level: 1.57/7)
+- Transportation (Importance: 1.71/5 | Level: 1.67/7)
+- Medicine and Dentistry (Importance: 1.67/5 | Level: 1.38/7)
+- Telecommunications (Importance: 1.65/5 | Level: 1.4/7)
+- Philosophy and Theology (Importance: 1.48/5 | Level: 1.19/7)
+- Geography (Importance: 1.48/5 | Level: 1.67/7)
+- History and Archeology (Importance: 1.33/5 | Level: 0.86/7)
+- Fine Arts (Importance: 1.29/5 | Level: 0.62/7)
+- Sociology and Anthropology (Importance: 1.29/5 | Level: 0.62/7)
+- Food Production (Importance: 1.19/5 | Level: 0.3/7)
+- Therapy and Counseling (Importance: 1.19/5 | Level: 0.57/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Complex Problem Solving (Importance: 4.0/5 | Level: 4.0/7)
@@ -333,3 +369,25 @@ Evaluate materials and develop machinery and processes to manufacture materials 
 - Primary Interest: Realistic
 - Secondary Interest: Investigative
 - Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Materials Scientists
+- Chemical Engineers
+- Manufacturing Engineers
+- Industrial Engineers
+- Mechanical Engineers
+- Nanosystems Engineers
+- Nanotechnology Engineering Technologists and Technicians
+- Bioengineers and Biomedical Engineers
+- Electrical Engineers
+- Commercial and Industrial Designers
+- Industrial Engineering Technologists and Technicians
+- Mechanical Engineering Technologists and Technicians
+- Chemical Technicians
+- Chemists
+- Microsystems Engineers
+- Electrical and Electronic Engineering Technologists and Technicians
+- Mechatronics Engineers
+- Architectural and Engineering Managers
+- Calibration Technologists and Technicians
+- Electronics Engineers, Except Computer

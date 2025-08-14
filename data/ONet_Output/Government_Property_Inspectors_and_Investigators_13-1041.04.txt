@@ -19,6 +19,42 @@ Investigate or inspect government property to ensure compliance with contract ag
 - Coordinate with or assist law enforcement agencies in matters of mutual concern.
 - Monitor investigations of suspected offenders to ensure that they are conducted in accordance with constitutional requirements.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- English Language (Importance: 4.42/5 | Level: 3.92/7)
+- Customer and Personal Service (Importance: 4.33/5 | Level: 5.73/7)
+- Public Safety and Security (Importance: 4.25/5 | Level: 4.57/7)
+- Building and Construction (Importance: 3.99/5 | Level: 4.34/7)
+- Law and Government (Importance: 3.79/5 | Level: 3.73/7)
+- Administrative (Importance: 3.66/5 | Level: 4.84/7)
+- Engineering and Technology (Importance: 3.5/5 | Level: 4.21/7)
+- Computers and Electronics (Importance: 3.49/5 | Level: 4.46/7)
+- Design (Importance: 3.41/5 | Level: 3.95/7)
+- Education and Training (Importance: 3.23/5 | Level: 4.16/7)
+- Mathematics (Importance: 3.1/5 | Level: 3.21/7)
+- Mechanical (Importance: 3.09/5 | Level: 3.4/7)
+- Administration and Management (Importance: 2.93/5 | Level: 2.88/7)
+- Chemistry (Importance: 2.84/5 | Level: 3.04/7)
+- Personnel and Human Resources (Importance: 2.83/5 | Level: 3.0/7)
+- Geography (Importance: 2.69/5 | Level: 2.18/7)
+- Psychology (Importance: 2.61/5 | Level: 2.99/7)
+- Foreign Language (Importance: 2.59/5 | Level: 2.7/7)
+- Biology (Importance: 2.54/5 | Level: 2.8/7)
+- Economics and Accounting (Importance: 2.52/5 | Level: 2.47/7)
+- Communications and Media (Importance: 2.51/5 | Level: 2.79/7)
+- Physics (Importance: 2.51/5 | Level: 2.73/7)
+- Transportation (Importance: 2.44/5 | Level: 2.4/7)
+- Sociology and Anthropology (Importance: 2.16/5 | Level: 1.98/7)
+- Production and Processing (Importance: 2.0/5 | Level: 2.03/7)
+- Sales and Marketing (Importance: 1.96/5 | Level: 2.3/7)
+- Telecommunications (Importance: 1.91/5 | Level: 1.1/7)
+- Philosophy and Theology (Importance: 1.56/5 | Level: 1.08/7)
+- History and Archeology (Importance: 1.52/5 | Level: 1.14/7)
+- Medicine and Dentistry (Importance: 1.43/5 | Level: 0.65/7)
+- Therapy and Counseling (Importance: 1.36/5 | Level: 0.82/7)
+- Food Production (Importance: 1.35/5 | Level: 0.48/7)
+- Fine Arts (Importance: 1.27/5 | Level: 0.53/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Active Listening (Importance: 4.12/5 | Level: 4.12/7)
@@ -161,3 +197,25 @@ Investigate or inspect government property to ensure compliance with contract ag
 - Primary Interest: Conventional
 - Secondary Interest: Enterprising
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Construction and Building Inspectors
+- Environmental Compliance Inspectors
+- Occupational Health and Safety Specialists
+- Compliance Managers
+- Aviation Inspectors
+- Health and Safety Engineers, Except Mining Safety Engineers and Inspectors
+- Compliance Officers
+- Civil Engineering Technologists and Technicians
+- Fire Inspectors and Investigators
+- Customs Brokers
+- Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation
+- Construction Managers
+- Security Management Specialists
+- Agricultural Inspectors
+- Facilities Managers
+- Occupational Health and Safety Technicians
+- Regulatory Affairs Specialists
+- Brownfield Redevelopment Specialists and Site Managers
+- Title Examiners, Abstractors, and Searchers
+- Civil Engineers

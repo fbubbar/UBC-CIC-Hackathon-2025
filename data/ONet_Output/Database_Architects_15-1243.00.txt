@@ -31,6 +31,42 @@ Design strategies for enterprise databases, data warehouse systems, and multidim
 - Establish and calculate optimum values for database parameters, using manuals and calculators.
 - Train users and answer questions.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Computers and Electronics (Importance: 4.3/5 | Level: 6.0/7)
+- Engineering and Technology (Importance: 3.95/5 | Level: 5.19/7)
+- Design (Importance: 3.71/5 | Level: 4.67/7)
+- Mathematics (Importance: 3.67/5 | Level: 4.81/7)
+- English Language (Importance: 3.14/5 | Level: 4.0/7)
+- Administration and Management (Importance: 2.86/5 | Level: 4.1/7)
+- Education and Training (Importance: 2.62/5 | Level: 4.19/7)
+- Customer and Personal Service (Importance: 2.33/5 | Level: 3.1/7)
+- Law and Government (Importance: 2.24/5 | Level: 2.67/7)
+- Telecommunications (Importance: 2.05/5 | Level: 2.24/7)
+- Communications and Media (Importance: 2.0/5 | Level: 2.14/7)
+- Production and Processing (Importance: 2.0/5 | Level: 2.05/7)
+- Public Safety and Security (Importance: 1.95/5 | Level: 2.24/7)
+- Economics and Accounting (Importance: 1.86/5 | Level: 1.81/7)
+- Administrative (Importance: 1.81/5 | Level: 2.29/7)
+- Personnel and Human Resources (Importance: 1.76/5 | Level: 2.29/7)
+- Psychology (Importance: 1.67/5 | Level: 1.57/7)
+- Geography (Importance: 1.65/5 | Level: 1.8/7)
+- Sales and Marketing (Importance: 1.62/5 | Level: 1.67/7)
+- Foreign Language (Importance: 1.38/5 | Level: 0.75/7)
+- Sociology and Anthropology (Importance: 1.33/5 | Level: 0.95/7)
+- Physics (Importance: 1.25/5 | Level: 0.9/7)
+- Transportation (Importance: 1.24/5 | Level: 0.48/7)
+- Mechanical (Importance: 1.19/5 | Level: 0.52/7)
+- Chemistry (Importance: 1.19/5 | Level: 0.57/7)
+- Therapy and Counseling (Importance: 1.15/5 | Level: 0.4/7)
+- History and Archeology (Importance: 1.14/5 | Level: 0.38/7)
+- Medicine and Dentistry (Importance: 1.14/5 | Level: 0.43/7)
+- Fine Arts (Importance: 1.14/5 | Level: 0.29/7)
+- Philosophy and Theology (Importance: 1.1/5 | Level: 0.33/7)
+- Building and Construction (Importance: 1.1/5 | Level: 0.19/7)
+- Biology (Importance: 1.1/5 | Level: 0.33/7)
+- Food Production (Importance: 1.05/5 | Level: 0.2/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Complex Problem Solving (Importance: 3.88/5 | Level: 4.0/7)
@@ -466,3 +502,25 @@ Design strategies for enterprise databases, data warehouse systems, and multidim
 - Primary Interest: Conventional
 - Secondary Interest: Investigative
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Software Developers
+- Database Administrators
+- Data Warehousing Specialists
+- Computer Systems Engineers/Architects
+- Computer Systems Analysts
+- Blockchain Engineers
+- Information Security Engineers
+- Data Scientists
+- Network and Computer Systems Administrators
+- Software Quality Assurance Analysts and Testers
+- Computer Programmers
+- Computer Network Architects
+- Web and Digital Interface Designers
+- Computer and Information Systems Managers
+- Computer Hardware Engineers
+- Project Management Specialists
+- Document Management Specialists
+- Geographic Information Systems Technologists and Technicians
+- Web Developers
+- Operations Research Analysts

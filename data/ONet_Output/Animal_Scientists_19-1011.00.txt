@@ -15,6 +15,42 @@ Conduct research in the genetics, nutrition, reproduction, growth, and developme
 - Determine genetic composition of animal populations and heritability of traits, using principles of genetics.
 - Crossbreed animals with existing strains or cross strains to obtain new combinations of desirable characteristics.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Biology (Importance: 4.64/5 | Level: 5.87/7)
+- Mathematics (Importance: 4.13/5 | Level: 5.48/7)
+- English Language (Importance: 4.09/5 | Level: 4.82/7)
+- Chemistry (Importance: 4.04/5 | Level: 5.09/7)
+- Food Production (Importance: 3.83/5 | Level: 4.61/7)
+- Education and Training (Importance: 3.45/5 | Level: 4.77/7)
+- Customer and Personal Service (Importance: 3.39/5 | Level: 4.27/7)
+- Computers and Electronics (Importance: 3.35/5 | Level: 4.43/7)
+- Sales and Marketing (Importance: 3.13/5 | Level: 3.91/7)
+- Administration and Management (Importance: 3.0/5 | Level: 3.91/7)
+- Production and Processing (Importance: 2.83/5 | Level: 3.17/7)
+- Communications and Media (Importance: 2.82/5 | Level: 3.14/7)
+- Engineering and Technology (Importance: 2.52/5 | Level: 3.13/7)
+- Administrative (Importance: 2.43/5 | Level: 3.14/7)
+- Economics and Accounting (Importance: 2.43/5 | Level: 2.7/7)
+- Law and Government (Importance: 2.32/5 | Level: 2.5/7)
+- Physics (Importance: 2.32/5 | Level: 2.87/7)
+- Personnel and Human Resources (Importance: 2.3/5 | Level: 3.3/7)
+- Telecommunications (Importance: 2.18/5 | Level: 1.59/7)
+- Medicine and Dentistry (Importance: 2.18/5 | Level: 2.13/7)
+- Psychology (Importance: 2.13/5 | Level: 2.65/7)
+- Public Safety and Security (Importance: 2.1/5 | Level: 1.9/7)
+- Transportation (Importance: 2.09/5 | Level: 2.52/7)
+- Foreign Language (Importance: 2.0/5 | Level: 2.3/7)
+- Mechanical (Importance: 1.96/5 | Level: 2.35/7)
+- Geography (Importance: 1.91/5 | Level: 2.3/7)
+- Design (Importance: 1.86/5 | Level: 2.0/7)
+- Building and Construction (Importance: 1.74/5 | Level: 1.7/7)
+- Sociology and Anthropology (Importance: 1.61/5 | Level: 1.22/7)
+- Therapy and Counseling (Importance: 1.61/5 | Level: 1.22/7)
+- Philosophy and Theology (Importance: 1.57/5 | Level: 1.22/7)
+- History and Archeology (Importance: 1.43/5 | Level: 1.13/7)
+- Fine Arts (Importance: 1.22/5 | Level: 0.48/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Reading Comprehension (Importance: 4.12/5 | Level: 4.88/7)
@@ -232,3 +268,25 @@ Conduct research in the genetics, nutrition, reproduction, growth, and developme
 - Primary Interest: Investigative
 - Secondary Interest: Realistic
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Soil and Plant Scientists
+- Food Scientists and Technologists
+- Microbiologists
+- Biochemists and Biophysicists
+- Veterinarians
+- Agricultural Sciences Teachers, Postsecondary
+- Geneticists
+- Farmers, Ranchers, and Other Agricultural Managers
+- Biologists
+- Zoologists and Wildlife Biologists
+- Agricultural Technicians
+- Animal Breeders
+- Farmworkers, Farm, Ranch, and Aquacultural Animals
+- Food Science Technicians
+- Dietitians and Nutritionists
+- Biological Technicians
+- Agricultural Inspectors
+- Veterinary Assistants and Laboratory Animal Caretakers
+- Veterinary Technologists and Technicians
+- Medical Scientists, Except Epidemiologists

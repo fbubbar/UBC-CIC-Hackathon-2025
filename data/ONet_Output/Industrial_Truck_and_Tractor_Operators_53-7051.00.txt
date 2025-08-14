@@ -15,6 +15,42 @@ Operate industrial trucks or tractors equipped to move materials around a wareho
 - Operate or tend automatic stacking, loading, packaging, or cutting machines.
 - Turn valves and open chutes to dump, spray, or release materials from dump cars or storage bins into hoppers.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mathematics (Importance: 3.01/5 | Level: 2.71/7)
+- English Language (Importance: 2.82/5 | Level: 2.6/7)
+- Production and Processing (Importance: 2.8/5 | Level: 3.32/7)
+- Transportation (Importance: 2.75/5 | Level: 1.96/7)
+- Customer and Personal Service (Importance: 2.53/5 | Level: 2.42/7)
+- Administration and Management (Importance: 2.49/5 | Level: 1.83/7)
+- Administrative (Importance: 2.34/5 | Level: 1.46/7)
+- Public Safety and Security (Importance: 2.32/5 | Level: 1.74/7)
+- Education and Training (Importance: 2.27/5 | Level: 2.33/7)
+- Mechanical (Importance: 2.17/5 | Level: 2.02/7)
+- Law and Government (Importance: 2.11/5 | Level: 1.45/7)
+- Building and Construction (Importance: 2.06/5 | Level: 1.7/7)
+- Computers and Electronics (Importance: 1.86/5 | Level: 1.48/7)
+- Personnel and Human Resources (Importance: 1.84/5 | Level: 0.55/7)
+- Engineering and Technology (Importance: 1.79/5 | Level: 0.97/7)
+- Communications and Media (Importance: 1.75/5 | Level: 0.99/7)
+- Sales and Marketing (Importance: 1.69/5 | Level: 1.14/7)
+- Telecommunications (Importance: 1.59/5 | Level: 0.6/7)
+- Design (Importance: 1.53/5 | Level: 0.84/7)
+- Economics and Accounting (Importance: 1.39/5 | Level: 0.53/7)
+- Biology (Importance: 1.37/5 | Level: 0.16/7)
+- Chemistry (Importance: 1.36/5 | Level: 0.39/7)
+- Food Production (Importance: 1.32/5 | Level: 0.42/7)
+- Geography (Importance: 1.28/5 | Level: 0.54/7)
+- Psychology (Importance: 1.26/5 | Level: 0.5/7)
+- Physics (Importance: 1.25/5 | Level: 0.37/7)
+- Therapy and Counseling (Importance: 1.24/5 | Level: 0.39/7)
+- Sociology and Anthropology (Importance: 1.24/5 | Level: 0.25/7)
+- Philosophy and Theology (Importance: 1.11/5 | Level: 0.45/7)
+- Medicine and Dentistry (Importance: 1.01/5 | Level: 0.03/7)
+- Foreign Language (Importance: 1.01/5 | Level: 0.03/7)
+- History and Archeology (Importance: 1.0/5 | Level: 0.0/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Operation and Control (Importance: 3.88/5 | Level: 3.0/7)
@@ -186,3 +222,25 @@ Operate industrial trucks or tractors equipped to move materials around a wareho
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Hoist and Winch Operators
+- Crane and Tower Operators
+- Laborers and Freight, Stock, and Material Movers, Hand
+- Loading and Moving Machine Operators, Underground Mining
+- Tank Car, Truck, and Ship Loaders
+- Operating Engineers and Other Construction Equipment Operators
+- Riggers
+- Pile Driver Operators
+- Excavating and Loading Machine and Dragline Operators, Surface Mining
+- Mobile Heavy Equipment Mechanics, Except Engines
+- Heavy and Tractor-Trailer Truck Drivers
+- Conveyor Operators and Tenders
+- Bus and Truck Mechanics and Diesel Engine Specialists
+- Machine Feeders and Offbearers
+- Agricultural Equipment Operators
+- Continuous Mining Machine Operators
+- Engine and Other Machine Assemblers
+- Paving, Surfacing, and Tamping Equipment Operators
+- Helpers--Production Workers
+- Outdoor Power Equipment and Other Small Engine Mechanics

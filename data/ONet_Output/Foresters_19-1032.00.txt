@@ -31,6 +31,42 @@ Manage public and private forested lands for economic, recreational, and conserv
 - Contact local forest owners and gain permission to take inventory of the type, amount, and location of all standing timber on the property.
 - Develop new techniques for wood or residue use.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 3.9/5 | Level: 5.05/7)
+- English Language (Importance: 3.8/5 | Level: 4.14/7)
+- Administration and Management (Importance: 3.78/5 | Level: 4.42/7)
+- Biology (Importance: 3.72/5 | Level: 4.37/7)
+- Law and Government (Importance: 3.43/5 | Level: 3.87/7)
+- Mathematics (Importance: 3.33/5 | Level: 4.21/7)
+- Geography (Importance: 3.29/5 | Level: 3.86/7)
+- Public Safety and Security (Importance: 3.27/5 | Level: 3.62/7)
+- Education and Training (Importance: 3.11/5 | Level: 3.87/7)
+- Computers and Electronics (Importance: 3.01/5 | Level: 3.43/7)
+- Administrative (Importance: 2.99/5 | Level: 3.86/7)
+- Communications and Media (Importance: 2.78/5 | Level: 3.05/7)
+- Production and Processing (Importance: 2.76/5 | Level: 3.03/7)
+- Transportation (Importance: 2.59/5 | Level: 2.67/7)
+- Engineering and Technology (Importance: 2.57/5 | Level: 2.89/7)
+- Mechanical (Importance: 2.34/5 | Level: 2.7/7)
+- Economics and Accounting (Importance: 2.3/5 | Level: 2.2/7)
+- Personnel and Human Resources (Importance: 2.21/5 | Level: 2.39/7)
+- Sales and Marketing (Importance: 2.2/5 | Level: 2.18/7)
+- Chemistry (Importance: 2.14/5 | Level: 2.51/7)
+- Telecommunications (Importance: 2.1/5 | Level: 1.68/7)
+- History and Archeology (Importance: 2.07/5 | Level: 2.1/7)
+- Building and Construction (Importance: 1.92/5 | Level: 2.08/7)
+- Design (Importance: 1.74/5 | Level: 1.48/7)
+- Physics (Importance: 1.74/5 | Level: 1.45/7)
+- Sociology and Anthropology (Importance: 1.66/5 | Level: 1.3/7)
+- Food Production (Importance: 1.6/5 | Level: 1.39/7)
+- Psychology (Importance: 1.55/5 | Level: 1.18/7)
+- Foreign Language (Importance: 1.49/5 | Level: 0.96/7)
+- Philosophy and Theology (Importance: 1.47/5 | Level: 1.07/7)
+- Therapy and Counseling (Importance: 1.31/5 | Level: 0.66/7)
+- Medicine and Dentistry (Importance: 1.26/5 | Level: 0.85/7)
+- Fine Arts (Importance: 1.03/5 | Level: 0.01/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Active Listening (Importance: 4.0/5 | Level: 4.0/7)
@@ -184,3 +220,25 @@ Manage public and private forested lands for economic, recreational, and conserv
 - Primary Interest: Realistic
 - Secondary Interest: Investigative
 - Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Forest and Conservation Technicians
+- Range Managers
+- Conservation Scientists
+- Environmental Restoration Planners
+- Forest and Conservation Workers
+- Soil and Plant Scientists
+- Environmental Scientists and Specialists, Including Health
+- Industrial Ecologists
+- Forest Fire Inspectors and Prevention Specialists
+- Brownfield Redevelopment Specialists and Site Managers
+- First-Line Supervisors of Farming, Fishing, and Forestry Workers
+- Fallers
+- Zoologists and Wildlife Biologists
+- Environmental Science and Protection Technicians, Including Health
+- Precision Agriculture Technicians
+- Chief Sustainability Officers
+- Agricultural Engineers
+- Water Resource Specialists
+- Hydrologists
+- Environmental Engineers

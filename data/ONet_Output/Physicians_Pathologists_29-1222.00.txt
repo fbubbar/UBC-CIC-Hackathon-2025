@@ -25,6 +25,42 @@ Diagnose diseases and conduct lab tests using organs, body tissues, and fluids. 
 - Conduct research and present scientific findings.
 - Testify in depositions or trials as an expert witness.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Medicine and Dentistry (Importance: 4.85/5 | Level: 5.97/7)
+- Biology (Importance: 4.51/5 | Level: 5.98/7)
+- English Language (Importance: 4.26/5 | Level: 4.67/7)
+- Education and Training (Importance: 3.41/5 | Level: 4.57/7)
+- Customer and Personal Service (Importance: 3.4/5 | Level: 4.23/7)
+- Chemistry (Importance: 3.17/5 | Level: 3.94/7)
+- Administration and Management (Importance: 3.13/5 | Level: 3.76/7)
+- Computers and Electronics (Importance: 3.12/5 | Level: 3.79/7)
+- Administrative (Importance: 2.79/5 | Level: 3.19/7)
+- Personnel and Human Resources (Importance: 2.67/5 | Level: 2.76/7)
+- Mathematics (Importance: 2.56/5 | Level: 3.0/7)
+- Public Safety and Security (Importance: 2.43/5 | Level: 2.56/7)
+- Communications and Media (Importance: 2.36/5 | Level: 2.22/7)
+- Law and Government (Importance: 2.36/5 | Level: 2.62/7)
+- Production and Processing (Importance: 2.32/5 | Level: 2.23/7)
+- Economics and Accounting (Importance: 2.27/5 | Level: 2.04/7)
+- Telecommunications (Importance: 2.22/5 | Level: 1.33/7)
+- Psychology (Importance: 2.16/5 | Level: 2.49/7)
+- Physics (Importance: 2.15/5 | Level: 2.09/7)
+- Sales and Marketing (Importance: 2.14/5 | Level: 2.17/7)
+- Engineering and Technology (Importance: 2.05/5 | Level: 1.53/7)
+- Therapy and Counseling (Importance: 1.76/5 | Level: 1.69/7)
+- Sociology and Anthropology (Importance: 1.75/5 | Level: 1.32/7)
+- Transportation (Importance: 1.71/5 | Level: 1.2/7)
+- Mechanical (Importance: 1.62/5 | Level: 1.12/7)
+- Philosophy and Theology (Importance: 1.49/5 | Level: 1.13/7)
+- Design (Importance: 1.49/5 | Level: 1.02/7)
+- Geography (Importance: 1.43/5 | Level: 1.02/7)
+- Foreign Language (Importance: 1.39/5 | Level: 0.56/7)
+- History and Archeology (Importance: 1.28/5 | Level: 0.62/7)
+- Building and Construction (Importance: 1.16/5 | Level: 0.26/7)
+- Food Production (Importance: 1.1/5 | Level: 0.18/7)
+- Fine Arts (Importance: 1.05/5 | Level: 0.1/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Reading Comprehension (Importance: 4.25/5 | Level: 5.62/7)
@@ -301,3 +337,25 @@ Diagnose diseases and conduct lab tests using organs, body tissues, and fluids. 
 - Primary Interest: Investigative
 - Secondary Interest: Realistic
 - Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Pediatric Surgeons
+- Cardiologists
+- Histotechnologists
+- Medical and Clinical Laboratory Technologists
+- Radiologists
+- Emergency Medicine Physicians
+- Allergists and Immunologists
+- Orthopedic Surgeons, Except Pediatric
+- Clinical Neuropsychologists
+- Cytotechnologists
+- Medical and Clinical Laboratory Technicians
+- Histology Technicians
+- Ophthalmologists, Except Pediatric
+- Dermatologists
+- Neuropsychologists
+- General Internal Medicine Physicians
+- Neurologists
+- Medical Scientists, Except Epidemiologists
+- Urologists
+- Clinical Nurse Specialists

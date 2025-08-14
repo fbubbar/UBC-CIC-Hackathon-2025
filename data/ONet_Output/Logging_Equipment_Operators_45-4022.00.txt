@@ -15,6 +15,42 @@ Drive logging tractor or wheeled vehicle equipped with one or more accessories, 
 - Drive and maneuver tractors and tree harvesters to shear the tops off of trees, cut and limb the trees, and cut the logs into desired lengths.
 - Calculate total board feet, cordage, or other wood measurement units, using conversion tables.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 4.21/5 | Level: 4.65/7)
+- Public Safety and Security (Importance: 3.5/5 | Level: 2.96/7)
+- Production and Processing (Importance: 3.38/5 | Level: 3.69/7)
+- Transportation (Importance: 2.66/5 | Level: 2.36/7)
+- Administration and Management (Importance: 2.3/5 | Level: 2.11/7)
+- Customer and Personal Service (Importance: 2.08/5 | Level: 1.34/7)
+- Engineering and Technology (Importance: 2.0/5 | Level: 1.77/7)
+- Mathematics (Importance: 1.92/5 | Level: 1.12/7)
+- Physics (Importance: 1.92/5 | Level: 1.72/7)
+- English Language (Importance: 1.9/5 | Level: 1.15/7)
+- Education and Training (Importance: 1.9/5 | Level: 1.46/7)
+- Law and Government (Importance: 1.88/5 | Level: 1.23/7)
+- Geography (Importance: 1.81/5 | Level: 2.01/7)
+- Design (Importance: 1.7/5 | Level: 1.39/7)
+- Psychology (Importance: 1.59/5 | Level: 0.99/7)
+- Biology (Importance: 1.56/5 | Level: 1.02/7)
+- Medicine and Dentistry (Importance: 1.52/5 | Level: 0.4/7)
+- Building and Construction (Importance: 1.5/5 | Level: 0.98/7)
+- Computers and Electronics (Importance: 1.49/5 | Level: 0.98/7)
+- Personnel and Human Resources (Importance: 1.48/5 | Level: 0.75/7)
+- Communications and Media (Importance: 1.24/5 | Level: 0.77/7)
+- Telecommunications (Importance: 1.24/5 | Level: 0.4/7)
+- Sales and Marketing (Importance: 1.18/5 | Level: 0.54/7)
+- Therapy and Counseling (Importance: 1.16/5 | Level: 0.32/7)
+- Administrative (Importance: 1.09/5 | Level: 0.15/7)
+- Economics and Accounting (Importance: 1.09/5 | Level: 0.03/7)
+- Chemistry (Importance: 1.07/5 | Level: 0.27/7)
+- Sociology and Anthropology (Importance: 1.03/5 | Level: 0.06/7)
+- History and Archeology (Importance: 1.01/5 | Level: 0.02/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+- Foreign Language (Importance: 1.0/5 | Level: 0.0/7)
+- Philosophy and Theology (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Operation and Control (Importance: 4.0/5 | Level: 4.0/7)
@@ -164,3 +200,25 @@ Drive logging tractor or wheeled vehicle equipped with one or more accessories, 
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Operating Engineers and Other Construction Equipment Operators
+- Continuous Mining Machine Operators
+- Loading and Moving Machine Operators, Underground Mining
+- Excavating and Loading Machine and Dragline Operators, Surface Mining
+- Hoist and Winch Operators
+- Industrial Truck and Tractor Operators
+- Agricultural Equipment Operators
+- Crane and Tower Operators
+- Fallers
+- Log Graders and Scalers
+- Mobile Heavy Equipment Mechanics, Except Engines
+- Tank Car, Truck, and Ship Loaders
+- Conveyor Operators and Tenders
+- Earth Drillers, Except Oil and Gas
+- Helpers--Extraction Workers
+- Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+- Laborers and Freight, Stock, and Material Movers, Hand
+- Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic
+- Bus and Truck Mechanics and Diesel Engine Specialists
+- Industrial Machinery Mechanics

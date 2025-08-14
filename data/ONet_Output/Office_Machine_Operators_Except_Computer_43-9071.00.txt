@@ -24,6 +24,42 @@ Operate one or more of a variety of office machines, such as photocopying, photo
 - Cut copies apart and write identifying information, such as page numbers or titles, on copies.
 - Move heat units and clamping frames over screen beds to form Braille impressions on pages, raising frames to release individual copies.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- English Language (Importance: 3.87/5 | Level: 3.56/7)
+- Customer and Personal Service (Importance: 3.75/5 | Level: 3.64/7)
+- Production and Processing (Importance: 3.42/5 | Level: 2.85/7)
+- Computers and Electronics (Importance: 3.03/5 | Level: 3.03/7)
+- Mathematics (Importance: 2.92/5 | Level: 2.64/7)
+- Administrative (Importance: 2.67/5 | Level: 3.05/7)
+- Communications and Media (Importance: 2.31/5 | Level: 1.71/7)
+- Mechanical (Importance: 2.3/5 | Level: 1.82/7)
+- Administration and Management (Importance: 2.19/5 | Level: 1.77/7)
+- Design (Importance: 2.19/5 | Level: 1.72/7)
+- Telecommunications (Importance: 2.14/5 | Level: 1.22/7)
+- Education and Training (Importance: 1.9/5 | Level: 1.15/7)
+- Psychology (Importance: 1.89/5 | Level: 1.08/7)
+- Public Safety and Security (Importance: 1.83/5 | Level: 0.99/7)
+- Economics and Accounting (Importance: 1.72/5 | Level: 0.92/7)
+- Personnel and Human Resources (Importance: 1.69/5 | Level: 1.19/7)
+- Sales and Marketing (Importance: 1.62/5 | Level: 0.86/7)
+- Fine Arts (Importance: 1.58/5 | Level: 0.93/7)
+- Physics (Importance: 1.58/5 | Level: 0.66/7)
+- Engineering and Technology (Importance: 1.55/5 | Level: 0.99/7)
+- Sociology and Anthropology (Importance: 1.5/5 | Level: 0.59/7)
+- Law and Government (Importance: 1.49/5 | Level: 0.69/7)
+- Philosophy and Theology (Importance: 1.43/5 | Level: 0.65/7)
+- Transportation (Importance: 1.31/5 | Level: 0.79/7)
+- Therapy and Counseling (Importance: 1.25/5 | Level: 0.44/7)
+- Geography (Importance: 1.25/5 | Level: 0.56/7)
+- Building and Construction (Importance: 1.23/5 | Level: 0.23/7)
+- Foreign Language (Importance: 1.21/5 | Level: 0.39/7)
+- History and Archeology (Importance: 1.13/5 | Level: 0.31/7)
+- Medicine and Dentistry (Importance: 1.03/5 | Level: 0.03/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+- Chemistry (Importance: 1.0/5 | Level: 0.0/7)
+- Biology (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Operation and Control (Importance: 3.25/5 | Level: 2.62/7)
@@ -165,3 +201,25 @@ Operate one or more of a variety of office machines, such as photocopying, photo
 - Primary Interest: Conventional
 - Secondary Interest: Realistic
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Prepress Technicians and Workers
+- Printing Press Operators
+- Data Entry Keyers
+- Photographic Process Workers and Processing Machine Operators
+- Print Binding and Finishing Workers
+- Computer, Automated Teller, and Office Machine Repairers
+- Postal Service Mail Sorters, Processors, and Processing Machine Operators
+- Paper Goods Machine Setters, Operators, and Tenders
+- Mail Clerks and Mail Machine Operators, Except Postal Service
+- Coin, Vending, and Amusement Machine Servicers and Repairers
+- Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic
+- File Clerks
+- Production, Planning, and Expediting Clerks
+- Machine Feeders and Offbearers
+- Camera and Photographic Equipment Repairers
+- Computer Numerically Controlled Tool Operators
+- Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Adhesive Bonding Machine Operators and Tenders
+- Industrial Machinery Mechanics
+- Shipping, Receiving, and Inventory Clerks

@@ -22,6 +22,42 @@ Investigate and describe the determinants and distribution of disease, disabilit
 - Teach principles of medicine and medical and laboratory procedures to physicians, residents, students, and technicians.
 - Prepare and analyze samples to study effects of drugs, gases, pesticides, or microorganisms on cell structure and tissue.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mathematics (Importance: 4.5/5 | Level: 5.32/7)
+- Biology (Importance: 4.26/5 | Level: 5.63/7)
+- Medicine and Dentistry (Importance: 4.0/5 | Level: 4.11/7)
+- English Language (Importance: 4.0/5 | Level: 4.63/7)
+- Computers and Electronics (Importance: 3.53/5 | Level: 4.89/7)
+- Communications and Media (Importance: 3.47/5 | Level: 3.89/7)
+- Education and Training (Importance: 3.42/5 | Level: 4.84/7)
+- Sociology and Anthropology (Importance: 3.16/5 | Level: 4.32/7)
+- Administration and Management (Importance: 3.0/5 | Level: 4.11/7)
+- Public Safety and Security (Importance: 2.79/5 | Level: 3.11/7)
+- Psychology (Importance: 2.63/5 | Level: 3.37/7)
+- Law and Government (Importance: 2.58/5 | Level: 2.74/7)
+- Customer and Personal Service (Importance: 2.58/5 | Level: 3.42/7)
+- Geography (Importance: 2.39/5 | Level: 3.42/7)
+- Personnel and Human Resources (Importance: 2.37/5 | Level: 2.84/7)
+- Administrative (Importance: 2.32/5 | Level: 3.53/7)
+- Chemistry (Importance: 2.21/5 | Level: 2.74/7)
+- Telecommunications (Importance: 2.21/5 | Level: 1.89/7)
+- Economics and Accounting (Importance: 2.05/5 | Level: 2.16/7)
+- Philosophy and Theology (Importance: 1.95/5 | Level: 2.0/7)
+- Therapy and Counseling (Importance: 1.79/5 | Level: 1.53/7)
+- Engineering and Technology (Importance: 1.79/5 | Level: 1.58/7)
+- History and Archeology (Importance: 1.74/5 | Level: 1.68/7)
+- Sales and Marketing (Importance: 1.74/5 | Level: 1.63/7)
+- Production and Processing (Importance: 1.74/5 | Level: 1.42/7)
+- Design (Importance: 1.63/5 | Level: 1.26/7)
+- Foreign Language (Importance: 1.56/5 | Level: 1.44/7)
+- Food Production (Importance: 1.47/5 | Level: 0.95/7)
+- Physics (Importance: 1.47/5 | Level: 1.05/7)
+- Transportation (Importance: 1.47/5 | Level: 1.32/7)
+- Building and Construction (Importance: 1.26/5 | Level: 0.53/7)
+- Mechanical (Importance: 1.21/5 | Level: 0.42/7)
+- Fine Arts (Importance: 1.11/5 | Level: 0.21/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Complex Problem Solving (Importance: 4.25/5 | Level: 4.5/7)
@@ -172,3 +208,25 @@ Investigate and describe the determinants and distribution of disease, disabilit
 - Primary Interest: Investigative
 - Secondary Interest: Social
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Preventive Medicine Physicians
+- Medical Scientists, Except Epidemiologists
+- Clinical Nurse Specialists
+- Geneticists
+- Emergency Medicine Physicians
+- Physicians, Pathologists
+- Clinical Neuropsychologists
+- General Internal Medicine Physicians
+- Microbiologists
+- Neuropsychologists
+- Allergists and Immunologists
+- Health Informatics Specialists
+- Clinical Research Coordinators
+- Cardiologists
+- Genetic Counselors
+- Health Information Technologists and Medical Registrars
+- Nurse Practitioners
+- Health Specialties Teachers, Postsecondary
+- Health Education Specialists
+- Neurologists

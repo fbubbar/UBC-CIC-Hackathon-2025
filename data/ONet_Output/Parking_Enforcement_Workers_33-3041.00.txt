@@ -28,6 +28,42 @@ Patrol assigned area, such as public parking lot or city streets to issue ticket
 - Provide assistance to motorists needing help with problems, such as flat tires, keys locked in cars, or dead batteries.
 - Assign and review the work of subordinates.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- English Language (Importance: 3.77/5 | Level: 3.56/7)
+- Public Safety and Security (Importance: 3.73/5 | Level: 3.25/7)
+- Law and Government (Importance: 3.29/5 | Level: 3.81/7)
+- Computers and Electronics (Importance: 3.14/5 | Level: 3.61/7)
+- Education and Training (Importance: 3.09/5 | Level: 3.06/7)
+- Psychology (Importance: 2.76/5 | Level: 2.36/7)
+- Foreign Language (Importance: 2.74/5 | Level: 3.41/7)
+- Transportation (Importance: 2.72/5 | Level: 1.88/7)
+- Administration and Management (Importance: 2.68/5 | Level: 2.56/7)
+- Communications and Media (Importance: 2.59/5 | Level: 2.92/7)
+- Mathematics (Importance: 2.57/5 | Level: 2.49/7)
+- Personnel and Human Resources (Importance: 2.43/5 | Level: 2.33/7)
+- Customer and Personal Service (Importance: 2.35/5 | Level: 2.91/7)
+- Sociology and Anthropology (Importance: 2.32/5 | Level: 2.2/7)
+- Physics (Importance: 2.31/5 | Level: 1.78/7)
+- Medicine and Dentistry (Importance: 2.29/5 | Level: 2.57/7)
+- Administrative (Importance: 2.28/5 | Level: 2.54/7)
+- Telecommunications (Importance: 2.21/5 | Level: 2.25/7)
+- Production and Processing (Importance: 2.2/5 | Level: 2.33/7)
+- Economics and Accounting (Importance: 2.12/5 | Level: 2.16/7)
+- Engineering and Technology (Importance: 2.11/5 | Level: 2.37/7)
+- Therapy and Counseling (Importance: 2.08/5 | Level: 2.62/7)
+- History and Archeology (Importance: 2.04/5 | Level: 2.08/7)
+- Biology (Importance: 2.01/5 | Level: 2.03/7)
+- Geography (Importance: 2.01/5 | Level: 1.96/7)
+- Mechanical (Importance: 2.0/5 | Level: 1.94/7)
+- Philosophy and Theology (Importance: 1.88/5 | Level: 2.13/7)
+- Chemistry (Importance: 1.83/5 | Level: 1.67/7)
+- Fine Arts (Importance: 1.81/5 | Level: 1.6/7)
+- Design (Importance: 1.71/5 | Level: 1.76/7)
+- Building and Construction (Importance: 1.68/5 | Level: 1.71/7)
+- Sales and Marketing (Importance: 1.48/5 | Level: 0.77/7)
+- Food Production (Importance: 1.42/5 | Level: 0.83/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Monitoring (Importance: 3.25/5 | Level: 3.0/7)
@@ -162,3 +198,25 @@ Patrol assigned area, such as public parking lot or city streets to issue ticket
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Parking Attendants
+- Security Guards
+- Transit and Railroad Police
+- Railroad Conductors and Yardmasters
+- Shuttle Drivers and Chauffeurs
+- Highway Maintenance Workers
+- Dispatchers, Except Police, Fire, and Ambulance
+- Traffic Technicians
+- Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation
+- Crossing Guards and Flaggers
+- First-Line Supervisors of Material-Moving Machine and Vehicle Operators
+- Police and Sheriff's Patrol Officers
+- Passenger Attendants
+- Transportation Security Screeners
+- Compliance Officers
+- Light Truck Drivers
+- Bus Drivers, Transit and Intercity
+- Taxi Drivers
+- Air Traffic Controllers
+- Transportation, Storage, and Distribution Managers

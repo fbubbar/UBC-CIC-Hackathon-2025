@@ -44,6 +44,42 @@ Diagnose, adjust, repair, or overhaul aircraft engines and assemblies, such as h
 - Remove, inspect, repair, and install in-flight refueling stores and external fuel tanks.
 - Prepare and paint aircraft surfaces.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 4.71/5 | Level: 6.85/7)
+- English Language (Importance: 3.73/5 | Level: 2.98/7)
+- Engineering and Technology (Importance: 3.39/5 | Level: 3.97/7)
+- Customer and Personal Service (Importance: 3.28/5 | Level: 3.58/7)
+- Mathematics (Importance: 3.2/5 | Level: 3.7/7)
+- Public Safety and Security (Importance: 3.13/5 | Level: 3.21/7)
+- Transportation (Importance: 2.96/5 | Level: 3.24/7)
+- Administration and Management (Importance: 2.92/5 | Level: 2.61/7)
+- Design (Importance: 2.91/5 | Level: 3.22/7)
+- Physics (Importance: 2.91/5 | Level: 3.42/7)
+- Chemistry (Importance: 2.83/5 | Level: 3.64/7)
+- Production and Processing (Importance: 2.81/5 | Level: 2.98/7)
+- Computers and Electronics (Importance: 2.69/5 | Level: 2.88/7)
+- Education and Training (Importance: 2.59/5 | Level: 2.88/7)
+- Administrative (Importance: 2.56/5 | Level: 2.5/7)
+- Law and Government (Importance: 2.48/5 | Level: 2.34/7)
+- Psychology (Importance: 2.17/5 | Level: 2.09/7)
+- Telecommunications (Importance: 2.15/5 | Level: 1.55/7)
+- Building and Construction (Importance: 1.94/5 | Level: 1.85/7)
+- Personnel and Human Resources (Importance: 1.78/5 | Level: 1.29/7)
+- Communications and Media (Importance: 1.78/5 | Level: 0.99/7)
+- Sales and Marketing (Importance: 1.61/5 | Level: 1.34/7)
+- Economics and Accounting (Importance: 1.57/5 | Level: 0.97/7)
+- Therapy and Counseling (Importance: 1.41/5 | Level: 0.83/7)
+- Geography (Importance: 1.4/5 | Level: 0.78/7)
+- Medicine and Dentistry (Importance: 1.35/5 | Level: 0.41/7)
+- Sociology and Anthropology (Importance: 1.3/5 | Level: 0.34/7)
+- Foreign Language (Importance: 1.29/5 | Level: 0.55/7)
+- Biology (Importance: 1.21/5 | Level: 0.42/7)
+- Philosophy and Theology (Importance: 1.12/5 | Level: 0.26/7)
+- History and Archeology (Importance: 1.04/5 | Level: 0.12/7)
+- Food Production (Importance: 1.04/5 | Level: 0.07/7)
+- Fine Arts (Importance: 1.04/5 | Level: 0.1/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Equipment Maintenance (Importance: 4.25/5 | Level: 4.75/7)
@@ -323,3 +359,25 @@ Diagnose, adjust, repair, or overhaul aircraft engines and assemblies, such as h
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+- Avionics Technicians
+- Aircraft Service Attendants
+- Engine and Other Machine Assemblers
+- Aerospace Engineering and Operations Technologists and Technicians
+- Motorboat Mechanics and Service Technicians
+- Electro-Mechanical and Mechatronics Technologists and Technicians
+- Mobile Heavy Equipment Mechanics, Except Engines
+- Bus and Truck Mechanics and Diesel Engine Specialists
+- Rail Car Repairers
+- Aerospace Engineers
+- Electric Motor, Power Tool, and Related Repairers
+- Automotive Service Technicians and Mechanics
+- Industrial Machinery Mechanics
+- Control and Valve Installers and Repairers, Except Mechanical Door
+- Ship Engineers
+- Maintenance Workers, Machinery
+- Stationary Engineers and Boiler Operators
+- Electrical and Electronics Repairers, Commercial and Industrial Equipment
+- Millwrights

@@ -34,6 +34,42 @@ Compute, classify, and record numerical data to keep financial records complete.
 - Compile statistical, financial, accounting, or auditing reports and tables pertaining to such matters as cash receipts, expenditures, accounts payable and receivable, and profits and losses.
 - Maintain inventory records.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.18/5 | Level: 4.4/7)
+- Administrative (Importance: 3.89/5 | Level: 4.83/7)
+- Mathematics (Importance: 3.82/5 | Level: 3.56/7)
+- English Language (Importance: 3.36/5 | Level: 3.21/7)
+- Economics and Accounting (Importance: 3.35/5 | Level: 3.34/7)
+- Computers and Electronics (Importance: 3.17/5 | Level: 3.87/7)
+- Administration and Management (Importance: 2.87/5 | Level: 2.44/7)
+- Education and Training (Importance: 2.66/5 | Level: 2.74/7)
+- Personnel and Human Resources (Importance: 2.15/5 | Level: 1.87/7)
+- Law and Government (Importance: 2.05/5 | Level: 1.64/7)
+- Telecommunications (Importance: 2.01/5 | Level: 0.8/7)
+- Sales and Marketing (Importance: 1.85/5 | Level: 1.47/7)
+- Psychology (Importance: 1.78/5 | Level: 1.52/7)
+- Communications and Media (Importance: 1.74/5 | Level: 1.27/7)
+- Public Safety and Security (Importance: 1.71/5 | Level: 1.15/7)
+- Production and Processing (Importance: 1.68/5 | Level: 1.27/7)
+- Geography (Importance: 1.57/5 | Level: 1.0/7)
+- Mechanical (Importance: 1.48/5 | Level: 0.63/7)
+- Sociology and Anthropology (Importance: 1.39/5 | Level: 0.66/7)
+- Transportation (Importance: 1.26/5 | Level: 0.4/7)
+- Therapy and Counseling (Importance: 1.22/5 | Level: 0.54/7)
+- Food Production (Importance: 1.19/5 | Level: 0.4/7)
+- Medicine and Dentistry (Importance: 1.19/5 | Level: 0.38/7)
+- Foreign Language (Importance: 1.14/5 | Level: 0.28/7)
+- Philosophy and Theology (Importance: 1.14/5 | Level: 0.33/7)
+- Physics (Importance: 1.12/5 | Level: 0.11/7)
+- Chemistry (Importance: 1.11/5 | Level: 0.22/7)
+- Engineering and Technology (Importance: 1.1/5 | Level: 0.1/7)
+- Design (Importance: 1.1/5 | Level: 0.05/7)
+- Building and Construction (Importance: 1.1/5 | Level: 0.18/7)
+- History and Archeology (Importance: 1.0/5 | Level: 0.01/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+- Biology (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Mathematics (Importance: 3.38/5 | Level: 3.38/7)
@@ -265,3 +301,25 @@ Compute, classify, and record numerical data to keep financial records complete.
 - Primary Interest: Conventional
 - Secondary Interest: Enterprising
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Billing and Posting Clerks
+- Payroll and Timekeeping Clerks
+- Brokerage Clerks
+- Credit Authorizers, Checkers, and Clerks
+- Office Clerks, General
+- Tellers
+- Loan Interviewers and Clerks
+- File Clerks
+- Insurance Claims and Policy Processing Clerks
+- New Accounts Clerks
+- Accountants and Auditors
+- Statistical Assistants
+- Financial Managers
+- Credit Analysts
+- Tax Examiners and Collectors, and Revenue Agents
+- Correspondence Clerks
+- Tax Preparers
+- Bill and Account Collectors
+- Loan Officers
+- Securities, Commodities, and Financial Services Sales Agents

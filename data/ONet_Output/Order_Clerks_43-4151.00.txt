@@ -25,6 +25,42 @@ Receive and process incoming orders for materials, merchandise, classified ads, 
 - Recommend type of packing or labeling needed on order.
 - Attempt to sell additional merchandise or services to prospective or current customers by telephone or through visits.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.36/5 | Level: 5.3/7)
+- Production and Processing (Importance: 4.16/5 | Level: 4.67/7)
+- Computers and Electronics (Importance: 4.05/5 | Level: 4.93/7)
+- Education and Training (Importance: 3.92/5 | Level: 5.09/7)
+- English Language (Importance: 3.81/5 | Level: 4.41/7)
+- Administrative (Importance: 3.74/5 | Level: 4.28/7)
+- Mathematics (Importance: 3.67/5 | Level: 4.15/7)
+- Sales and Marketing (Importance: 3.61/5 | Level: 3.96/7)
+- Transportation (Importance: 3.42/5 | Level: 3.43/7)
+- Public Safety and Security (Importance: 3.31/5 | Level: 3.99/7)
+- Personnel and Human Resources (Importance: 3.22/5 | Level: 3.49/7)
+- Administration and Management (Importance: 3.18/5 | Level: 3.37/7)
+- Engineering and Technology (Importance: 3.1/5 | Level: 3.67/7)
+- Economics and Accounting (Importance: 2.66/5 | Level: 2.4/7)
+- Communications and Media (Importance: 2.35/5 | Level: 1.36/7)
+- Law and Government (Importance: 2.21/5 | Level: 2.37/7)
+- Mechanical (Importance: 2.18/5 | Level: 2.31/7)
+- Design (Importance: 1.83/5 | Level: 1.28/7)
+- Psychology (Importance: 1.76/5 | Level: 1.06/7)
+- Food Production (Importance: 1.7/5 | Level: 1.28/7)
+- Telecommunications (Importance: 1.65/5 | Level: 0.8/7)
+- Physics (Importance: 1.55/5 | Level: 0.9/7)
+- Foreign Language (Importance: 1.5/5 | Level: 0.75/7)
+- Building and Construction (Importance: 1.49/5 | Level: 0.49/7)
+- Sociology and Anthropology (Importance: 1.49/5 | Level: 0.98/7)
+- Geography (Importance: 1.4/5 | Level: 0.84/7)
+- Chemistry (Importance: 1.26/5 | Level: 0.41/7)
+- Fine Arts (Importance: 1.03/5 | Level: 0.05/7)
+- Therapy and Counseling (Importance: 1.03/5 | Level: 0.07/7)
+- Medicine and Dentistry (Importance: 1.02/5 | Level: 0.04/7)
+- Biology (Importance: 1.02/5 | Level: 0.03/7)
+- Philosophy and Theology (Importance: 1.01/5 | Level: 0.02/7)
+- History and Archeology (Importance: 1.01/5 | Level: 0.02/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Active Listening (Importance: 4.0/5 | Level: 3.62/7)
@@ -160,3 +196,25 @@ Receive and process incoming orders for materials, merchandise, classified ads, 
 - Primary Interest: Conventional
 - Secondary Interest: Enterprising
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Shipping, Receiving, and Inventory Clerks
+- Postal Service Clerks
+- Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel
+- Customer Service Representatives
+- Procurement Clerks
+- Production, Planning, and Expediting Clerks
+- Counter and Rental Clerks
+- Stockers and Order Fillers
+- Billing and Posting Clerks
+- Office Clerks, General
+- Postmasters and Mail Superintendents
+- Purchasing Agents, Except Wholesale, Retail, and Farm Products
+- Advertising Sales Agents
+- Cashiers
+- Wholesale and Retail Buyers, Except Farm Products
+- Mail Clerks and Mail Machine Operators, Except Postal Service
+- Purchasing Managers
+- Driver/Sales Workers
+- Sales Managers
+- First-Line Supervisors of Non-Retail Sales Workers

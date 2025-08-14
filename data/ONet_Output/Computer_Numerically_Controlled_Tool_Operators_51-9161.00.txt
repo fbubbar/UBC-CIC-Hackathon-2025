@@ -33,6 +33,42 @@ Operate computer-controlled tools, machines, or robots to machine or process par
 - Lay out and mark areas of parts to be shot peened and fill hoppers with shot.
 - Examine electronic components for defects or completeness of laser-beam trimming, using microscopes.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mathematics (Importance: 4.16/5 | Level: 4.58/7)
+- Production and Processing (Importance: 4.05/5 | Level: 3.97/7)
+- Mechanical (Importance: 3.81/5 | Level: 5.0/7)
+- English Language (Importance: 3.3/5 | Level: 3.22/7)
+- Engineering and Technology (Importance: 3.29/5 | Level: 3.63/7)
+- Education and Training (Importance: 3.11/5 | Level: 3.69/7)
+- Design (Importance: 3.09/5 | Level: 3.38/7)
+- Administration and Management (Importance: 3.01/5 | Level: 3.08/7)
+- Computers and Electronics (Importance: 2.96/5 | Level: 3.24/7)
+- Physics (Importance: 2.56/5 | Level: 2.59/7)
+- Administrative (Importance: 2.43/5 | Level: 1.83/7)
+- Personnel and Human Resources (Importance: 2.39/5 | Level: 1.7/7)
+- Customer and Personal Service (Importance: 2.28/5 | Level: 1.91/7)
+- Chemistry (Importance: 2.24/5 | Level: 2.57/7)
+- Public Safety and Security (Importance: 2.13/5 | Level: 1.88/7)
+- Economics and Accounting (Importance: 1.96/5 | Level: 1.07/7)
+- Psychology (Importance: 1.95/5 | Level: 2.02/7)
+- Communications and Media (Importance: 1.88/5 | Level: 1.35/7)
+- Sales and Marketing (Importance: 1.83/5 | Level: 1.38/7)
+- Transportation (Importance: 1.82/5 | Level: 1.19/7)
+- Law and Government (Importance: 1.73/5 | Level: 1.26/7)
+- Building and Construction (Importance: 1.68/5 | Level: 1.21/7)
+- Telecommunications (Importance: 1.65/5 | Level: 1.04/7)
+- Philosophy and Theology (Importance: 1.45/5 | Level: 0.84/7)
+- Sociology and Anthropology (Importance: 1.45/5 | Level: 0.67/7)
+- Foreign Language (Importance: 1.37/5 | Level: 0.69/7)
+- History and Archeology (Importance: 1.35/5 | Level: 0.53/7)
+- Geography (Importance: 1.34/5 | Level: 0.58/7)
+- Therapy and Counseling (Importance: 1.31/5 | Level: 0.68/7)
+- Biology (Importance: 1.29/5 | Level: 0.53/7)
+- Medicine and Dentistry (Importance: 1.25/5 | Level: 0.41/7)
+- Fine Arts (Importance: 1.17/5 | Level: 0.32/7)
+- Food Production (Importance: 1.12/5 | Level: 0.14/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Operation and Control (Importance: 4.12/5 | Level: 3.88/7)
@@ -269,3 +305,25 @@ Operate computer-controlled tools, machines, or robots to machine or process par
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic
+- Machinists
+- Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Computer Numerically Controlled Tool Programmers
+- Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Tool Grinders, Filers, and Sharpeners
+- Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders
+- Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+- Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic
+- Industrial Machinery Mechanics
+- Electromechanical Equipment Assemblers
+- Robotics Technicians
+- Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+- Tool and Die Makers
+- Electrical and Electronic Equipment Assemblers
+- Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic
+- Forging Machine Setters, Operators, and Tenders, Metal and Plastic
+- Cutting and Slicing Machine Setters, Operators, and Tenders

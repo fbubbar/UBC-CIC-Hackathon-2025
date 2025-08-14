@@ -29,6 +29,42 @@ Teach courses in the agricultural sciences. Includes teachers of agronomy, dairy
 - Compile bibliographies of specialized materials for outside reading assignments.
 - Perform administrative duties, such as serving as department head.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Biology (Importance: 4.32/5 | Level: 5.42/7)
+- Education and Training (Importance: 4.13/5 | Level: 5.97/7)
+- English Language (Importance: 3.96/5 | Level: 5.2/7)
+- Administration and Management (Importance: 3.92/5 | Level: 3.9/7)
+- Customer and Personal Service (Importance: 3.59/5 | Level: 4.78/7)
+- Food Production (Importance: 3.51/5 | Level: 4.05/7)
+- Communications and Media (Importance: 3.4/5 | Level: 3.94/7)
+- Mathematics (Importance: 3.3/5 | Level: 4.62/7)
+- Geography (Importance: 3.28/5 | Level: 4.28/7)
+- Computers and Electronics (Importance: 3.21/5 | Level: 4.54/7)
+- Administrative (Importance: 3.05/5 | Level: 4.02/7)
+- Law and Government (Importance: 3.04/5 | Level: 2.68/7)
+- Personnel and Human Resources (Importance: 3.04/5 | Level: 3.73/7)
+- Public Safety and Security (Importance: 2.98/5 | Level: 3.38/7)
+- Chemistry (Importance: 2.89/5 | Level: 3.68/7)
+- Psychology (Importance: 2.86/5 | Level: 2.8/7)
+- Economics and Accounting (Importance: 2.84/5 | Level: 3.14/7)
+- Transportation (Importance: 2.83/5 | Level: 2.99/7)
+- Engineering and Technology (Importance: 2.8/5 | Level: 3.46/7)
+- Physics (Importance: 2.52/5 | Level: 3.07/7)
+- Sales and Marketing (Importance: 2.5/5 | Level: 2.9/7)
+- Mechanical (Importance: 2.47/5 | Level: 2.72/7)
+- Production and Processing (Importance: 2.41/5 | Level: 2.55/7)
+- Sociology and Anthropology (Importance: 2.41/5 | Level: 2.37/7)
+- History and Archeology (Importance: 2.25/5 | Level: 2.82/7)
+- Philosophy and Theology (Importance: 2.2/5 | Level: 2.73/7)
+- Design (Importance: 2.18/5 | Level: 3.01/7)
+- Telecommunications (Importance: 2.15/5 | Level: 2.1/7)
+- Foreign Language (Importance: 2.02/5 | Level: 2.06/7)
+- Building and Construction (Importance: 1.98/5 | Level: 1.86/7)
+- Therapy and Counseling (Importance: 1.85/5 | Level: 1.88/7)
+- Medicine and Dentistry (Importance: 1.78/5 | Level: 1.24/7)
+- Fine Arts (Importance: 1.64/5 | Level: 1.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Instructing (Importance: 4.38/5 | Level: 4.75/7)
@@ -191,3 +227,25 @@ Teach courses in the agricultural sciences. Includes teachers of agronomy, dairy
 - Primary Interest: Social
 - Secondary Interest: Investigative
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Environmental Science Teachers, Postsecondary
+- Forestry and Conservation Science Teachers, Postsecondary
+- Biological Science Teachers, Postsecondary
+- Family and Consumer Sciences Teachers, Postsecondary
+- Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary
+- Career/Technical Education Teachers, Middle School
+- Farm and Home Management Educators
+- Soil and Plant Scientists
+- Career/Technical Education Teachers, Postsecondary
+- Farmers, Ranchers, and Other Agricultural Managers
+- Agricultural Technicians
+- Agricultural Engineers
+- Health Specialties Teachers, Postsecondary
+- Chemistry Teachers, Postsecondary
+- Recreation and Fitness Studies Teachers, Postsecondary
+- Economics Teachers, Postsecondary
+- Career/Technical Education Teachers, Secondary School
+- Animal Scientists
+- Natural Sciences Managers
+- Conservation Scientists

@@ -35,6 +35,42 @@ Drive a tractor-trailer combination or a truck with a capacity of at least 26,00
 - Operate idle reduction systems or auxiliary power systems to generate power from alternative sources, such as fuel cells, to reduce idling time, to heat or cool truck cabins, or to provide power for other equipment.
 - Give directions to laborers who are packing goods and moving them onto trailers.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Transportation (Importance: 4.02/5 | Level: 3.85/7)
+- Public Safety and Security (Importance: 3.87/5 | Level: 3.25/7)
+- Customer and Personal Service (Importance: 3.69/5 | Level: 4.13/7)
+- English Language (Importance: 3.56/5 | Level: 3.2/7)
+- Law and Government (Importance: 3.05/5 | Level: 2.59/7)
+- Mechanical (Importance: 2.82/5 | Level: 3.16/7)
+- Telecommunications (Importance: 2.77/5 | Level: 2.2/7)
+- Education and Training (Importance: 2.76/5 | Level: 3.06/7)
+- Administration and Management (Importance: 2.74/5 | Level: 2.3/7)
+- Mathematics (Importance: 2.66/5 | Level: 2.39/7)
+- Geography (Importance: 2.54/5 | Level: 2.49/7)
+- Computers and Electronics (Importance: 2.41/5 | Level: 2.76/7)
+- Administrative (Importance: 2.28/5 | Level: 1.95/7)
+- Personnel and Human Resources (Importance: 2.15/5 | Level: 1.64/7)
+- Production and Processing (Importance: 2.07/5 | Level: 1.94/7)
+- Physics (Importance: 1.95/5 | Level: 1.41/7)
+- Communications and Media (Importance: 1.92/5 | Level: 1.58/7)
+- Economics and Accounting (Importance: 1.9/5 | Level: 1.61/7)
+- Building and Construction (Importance: 1.81/5 | Level: 1.33/7)
+- Engineering and Technology (Importance: 1.8/5 | Level: 1.52/7)
+- Sales and Marketing (Importance: 1.77/5 | Level: 1.35/7)
+- Psychology (Importance: 1.56/5 | Level: 1.17/7)
+- Design (Importance: 1.55/5 | Level: 1.08/7)
+- Chemistry (Importance: 1.52/5 | Level: 1.03/7)
+- Foreign Language (Importance: 1.48/5 | Level: 0.67/7)
+- Food Production (Importance: 1.47/5 | Level: 0.95/7)
+- Medicine and Dentistry (Importance: 1.45/5 | Level: 0.93/7)
+- Philosophy and Theology (Importance: 1.44/5 | Level: 1.0/7)
+- Therapy and Counseling (Importance: 1.36/5 | Level: 0.91/7)
+- Biology (Importance: 1.33/5 | Level: 0.68/7)
+- Sociology and Anthropology (Importance: 1.32/5 | Level: 0.67/7)
+- History and Archeology (Importance: 1.25/5 | Level: 0.44/7)
+- Fine Arts (Importance: 1.12/5 | Level: 0.15/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Operation and Control (Importance: 3.75/5 | Level: 3.62/7)
@@ -199,3 +235,25 @@ Drive a tractor-trailer combination or a truck with a capacity of at least 26,00
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Industrial Truck and Tractor Operators
+- Light Truck Drivers
+- Tank Car, Truck, and Ship Loaders
+- Bus and Truck Mechanics and Diesel Engine Specialists
+- Loading and Moving Machine Operators, Underground Mining
+- Laborers and Freight, Stock, and Material Movers, Hand
+- Taxi Drivers
+- Shuttle Drivers and Chauffeurs
+- Refuse and Recyclable Material Collectors
+- Rail Yard Engineers, Dinkey Operators, and Hostlers
+- Locomotive Engineers
+- Railroad Brake, Signal, and Switch Operators and Locomotive Firers
+- Operating Engineers and Other Construction Equipment Operators
+- Highway Maintenance Workers
+- Dispatchers, Except Police, Fire, and Ambulance
+- Bus Drivers, Transit and Intercity
+- Hoist and Winch Operators
+- Crane and Tower Operators
+- Railroad Conductors and Yardmasters
+- Pile Driver Operators

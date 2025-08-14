@@ -30,6 +30,42 @@ Patrol assigned area to prevent fish and game law violations. Investigate report
 - Perform facilities maintenance work, such as constructing or repairing structures or controlling weeds or pests.
 - Participate in firefighting efforts.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Law and Government (Importance: 4.6/5 | Level: 4.92/7)
+- Public Safety and Security (Importance: 4.49/5 | Level: 5.42/7)
+- Biology (Importance: 4.14/5 | Level: 4.68/7)
+- English Language (Importance: 4.14/5 | Level: 4.37/7)
+- Customer and Personal Service (Importance: 4.11/5 | Level: 5.48/7)
+- Psychology (Importance: 3.76/5 | Level: 4.16/7)
+- Geography (Importance: 3.64/5 | Level: 4.32/7)
+- Sociology and Anthropology (Importance: 3.42/5 | Level: 3.52/7)
+- Education and Training (Importance: 3.39/5 | Level: 3.91/7)
+- Administration and Management (Importance: 3.05/5 | Level: 3.23/7)
+- Administrative (Importance: 3.03/5 | Level: 3.82/7)
+- Computers and Electronics (Importance: 3.02/5 | Level: 3.62/7)
+- Communications and Media (Importance: 3.02/5 | Level: 3.23/7)
+- Mathematics (Importance: 2.88/5 | Level: 3.48/7)
+- Personnel and Human Resources (Importance: 2.84/5 | Level: 3.53/7)
+- Telecommunications (Importance: 2.72/5 | Level: 2.33/7)
+- Medicine and Dentistry (Importance: 2.66/5 | Level: 2.64/7)
+- Transportation (Importance: 2.66/5 | Level: 3.38/7)
+- Mechanical (Importance: 2.53/5 | Level: 2.8/7)
+- Sales and Marketing (Importance: 2.44/5 | Level: 2.13/7)
+- Therapy and Counseling (Importance: 2.41/5 | Level: 2.67/7)
+- Chemistry (Importance: 2.33/5 | Level: 2.69/7)
+- History and Archeology (Importance: 2.29/5 | Level: 2.45/7)
+- Physics (Importance: 2.26/5 | Level: 2.38/7)
+- Foreign Language (Importance: 2.21/5 | Level: 1.69/7)
+- Economics and Accounting (Importance: 2.16/5 | Level: 1.56/7)
+- Design (Importance: 2.12/5 | Level: 2.17/7)
+- Food Production (Importance: 2.1/5 | Level: 2.17/7)
+- Philosophy and Theology (Importance: 2.1/5 | Level: 2.44/7)
+- Engineering and Technology (Importance: 1.94/5 | Level: 2.0/7)
+- Building and Construction (Importance: 1.9/5 | Level: 2.0/7)
+- Production and Processing (Importance: 1.83/5 | Level: 1.4/7)
+- Fine Arts (Importance: 1.15/5 | Level: 0.39/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Active Listening (Importance: 3.88/5 | Level: 3.75/7)
@@ -187,3 +223,25 @@ Patrol assigned area to prevent fish and game law violations. Investigate report
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Range Managers
+- Conservation Scientists
+- Forest and Conservation Technicians
+- Forest and Conservation Workers
+- Forest Fire Inspectors and Prevention Specialists
+- Park Naturalists
+- Fishing and Hunting Workers
+- Environmental Scientists and Specialists, Including Health
+- Environmental Compliance Inspectors
+- Police and Sheriff's Patrol Officers
+- Zoologists and Wildlife Biologists
+- Animal Control Workers
+- Environmental Restoration Planners
+- Foresters
+- Biologists
+- Forestry and Conservation Science Teachers, Postsecondary
+- Transit and Railroad Police
+- Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers
+- First-Line Supervisors of Firefighting and Prevention Workers
+- First-Line Supervisors of Farming, Fishing, and Forestry Workers

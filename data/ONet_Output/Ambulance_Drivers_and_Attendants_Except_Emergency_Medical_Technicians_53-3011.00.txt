@@ -17,6 +17,42 @@ Drive ambulance or assist ambulance driver in transporting sick, injured, or con
 - Administer first aid, such as bandaging, splinting, or administering oxygen.
 - Restrain or shackle violent patients.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 3.95/5 | Level: 4.64/7)
+- English Language (Importance: 3.87/5 | Level: 3.23/7)
+- Public Safety and Security (Importance: 3.72/5 | Level: 2.98/7)
+- Administration and Management (Importance: 3.35/5 | Level: 3.18/7)
+- Law and Government (Importance: 3.29/5 | Level: 2.78/7)
+- Transportation (Importance: 3.25/5 | Level: 2.86/7)
+- Education and Training (Importance: 3.24/5 | Level: 3.43/7)
+- Medicine and Dentistry (Importance: 3.08/5 | Level: 3.0/7)
+- Telecommunications (Importance: 2.96/5 | Level: 1.47/7)
+- Administrative (Importance: 2.89/5 | Level: 3.18/7)
+- Communications and Media (Importance: 2.65/5 | Level: 2.54/7)
+- Computers and Electronics (Importance: 2.59/5 | Level: 2.74/7)
+- Psychology (Importance: 2.59/5 | Level: 3.85/7)
+- Mathematics (Importance: 2.51/5 | Level: 2.49/7)
+- Mechanical (Importance: 2.42/5 | Level: 2.22/7)
+- Geography (Importance: 2.38/5 | Level: 2.46/7)
+- Foreign Language (Importance: 2.38/5 | Level: 1.5/7)
+- Personnel and Human Resources (Importance: 2.33/5 | Level: 1.76/7)
+- Therapy and Counseling (Importance: 2.23/5 | Level: 2.07/7)
+- Biology (Importance: 2.11/5 | Level: 1.75/7)
+- Chemistry (Importance: 1.92/5 | Level: 1.52/7)
+- Economics and Accounting (Importance: 1.88/5 | Level: 0.9/7)
+- Engineering and Technology (Importance: 1.83/5 | Level: 1.65/7)
+- Production and Processing (Importance: 1.81/5 | Level: 1.17/7)
+- Sales and Marketing (Importance: 1.68/5 | Level: 1.03/7)
+- Philosophy and Theology (Importance: 1.62/5 | Level: 1.15/7)
+- Physics (Importance: 1.62/5 | Level: 1.23/7)
+- Sociology and Anthropology (Importance: 1.59/5 | Level: 1.18/7)
+- Food Production (Importance: 1.5/5 | Level: 0.5/7)
+- History and Archeology (Importance: 1.42/5 | Level: 0.67/7)
+- Design (Importance: 1.38/5 | Level: 0.6/7)
+- Building and Construction (Importance: 1.3/5 | Level: 0.52/7)
+- Fine Arts (Importance: 1.25/5 | Level: 0.33/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Critical Thinking (Importance: 3.5/5 | Level: 3.0/7)
@@ -144,3 +180,25 @@ Drive ambulance or assist ambulance driver in transporting sick, injured, or con
 - Primary Interest: Realistic
 - Secondary Interest: Social
 - Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Emergency Medical Technicians
+- Paramedics
+- Orderlies
+- Nursing Assistants
+- Home Health Aides
+- Surgical Assistants
+- Medical Assistants
+- Public Safety Telecommunicators
+- Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers
+- Personal Care Aides
+- Emergency Medicine Physicians
+- Emergency Management Directors
+- Surgical Technologists
+- Licensed Practical and Licensed Vocational Nurses
+- Physical Therapist Aides
+- Registered Nurses
+- Anesthesiologist Assistants
+- Medical and Health Services Managers
+- Dispatchers, Except Police, Fire, and Ambulance
+- Cardiovascular Technologists and Technicians

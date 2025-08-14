@@ -39,6 +39,42 @@ Sell goods for wholesalers or manufacturers where technical or scientific knowle
 - Present information to customers about the energy efficiency or environmental impact of scientific or technical products.
 - Inform customers about issues related to responsible use and disposal of products, such as waste reduction or product or byproduct recycling or disposal.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.42/5 | Level: 4.58/7)
+- Sales and Marketing (Importance: 4.31/5 | Level: 4.78/7)
+- English Language (Importance: 3.66/5 | Level: 3.66/7)
+- Administration and Management (Importance: 3.17/5 | Level: 3.59/7)
+- Mathematics (Importance: 3.16/5 | Level: 3.69/7)
+- Production and Processing (Importance: 3.1/5 | Level: 3.38/7)
+- Computers and Electronics (Importance: 3.03/5 | Level: 3.81/7)
+- Administrative (Importance: 2.85/5 | Level: 3.32/7)
+- Engineering and Technology (Importance: 2.61/5 | Level: 2.65/7)
+- Education and Training (Importance: 2.59/5 | Level: 2.76/7)
+- Psychology (Importance: 2.54/5 | Level: 2.55/7)
+- Communications and Media (Importance: 2.46/5 | Level: 2.3/7)
+- Telecommunications (Importance: 2.44/5 | Level: 1.84/7)
+- Economics and Accounting (Importance: 2.36/5 | Level: 1.97/7)
+- Transportation (Importance: 2.27/5 | Level: 2.1/7)
+- Chemistry (Importance: 2.17/5 | Level: 2.06/7)
+- Design (Importance: 2.16/5 | Level: 2.06/7)
+- Geography (Importance: 2.06/5 | Level: 1.86/7)
+- Personnel and Human Resources (Importance: 2.05/5 | Level: 1.63/7)
+- Law and Government (Importance: 1.93/5 | Level: 1.84/7)
+- Mechanical (Importance: 1.91/5 | Level: 1.61/7)
+- Sociology and Anthropology (Importance: 1.83/5 | Level: 1.55/7)
+- Public Safety and Security (Importance: 1.66/5 | Level: 1.28/7)
+- Foreign Language (Importance: 1.57/5 | Level: 0.99/7)
+- Building and Construction (Importance: 1.56/5 | Level: 1.13/7)
+- Therapy and Counseling (Importance: 1.47/5 | Level: 0.96/7)
+- Medicine and Dentistry (Importance: 1.46/5 | Level: 0.81/7)
+- Physics (Importance: 1.35/5 | Level: 0.66/7)
+- Philosophy and Theology (Importance: 1.3/5 | Level: 0.88/7)
+- Food Production (Importance: 1.28/5 | Level: 0.52/7)
+- Biology (Importance: 1.25/5 | Level: 0.55/7)
+- History and Archeology (Importance: 1.18/5 | Level: 0.47/7)
+- Fine Arts (Importance: 1.1/5 | Level: 0.17/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Speaking (Importance: 4.25/5 | Level: 4.0/7)
@@ -213,3 +249,25 @@ Sell goods for wholesalers or manufacturers where technical or scientific knowle
 - Primary Interest: Enterprising
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products
+- Sales Engineers
+- Solar Sales Representatives and Assessors
+- Wholesale and Retail Buyers, Except Farm Products
+- Industrial Production Managers
+- Purchasing Agents, Except Wholesale, Retail, and Farm Products
+- Sales Managers
+- First-Line Supervisors of Non-Retail Sales Workers
+- Advertising Sales Agents
+- Purchasing Managers
+- Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel
+- Retail Salespersons
+- Counter and Rental Clerks
+- Logisticians
+- Parts Salespersons
+- Industrial Engineers
+- Production, Planning, and Expediting Clerks
+- Telemarketers
+- Door-to-Door Sales Workers, News and Street Vendors, and Related Workers
+- Calibration Technologists and Technicians

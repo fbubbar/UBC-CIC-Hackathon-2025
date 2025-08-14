@@ -27,6 +27,42 @@ Develop quantitative techniques to inform securities investing, equities investi
 - Assess the potential impact of climate change on business financial issues, such as damage repairs, insurance costs, or potential disruptions of daily activities.
 - Analyze pricing or risks of carbon trading products.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mathematics (Importance: 4.63/5 | Level: 6.05/7)
+- Economics and Accounting (Importance: 4.2/5 | Level: 5.3/7)
+- Computers and Electronics (Importance: 3.7/5 | Level: 5.3/7)
+- English Language (Importance: 3.05/5 | Level: 3.75/7)
+- Engineering and Technology (Importance: 2.7/5 | Level: 3.15/7)
+- Design (Importance: 2.1/5 | Level: 2.45/7)
+- Administration and Management (Importance: 2.1/5 | Level: 2.75/7)
+- Customer and Personal Service (Importance: 2.05/5 | Level: 2.05/7)
+- Education and Training (Importance: 2.05/5 | Level: 1.95/7)
+- Psychology (Importance: 2.05/5 | Level: 2.2/7)
+- Communications and Media (Importance: 2.0/5 | Level: 1.95/7)
+- Personnel and Human Resources (Importance: 2.0/5 | Level: 2.0/7)
+- Law and Government (Importance: 1.9/5 | Level: 1.6/7)
+- Sales and Marketing (Importance: 1.85/5 | Level: 2.15/7)
+- Sociology and Anthropology (Importance: 1.7/5 | Level: 1.35/7)
+- Production and Processing (Importance: 1.7/5 | Level: 1.25/7)
+- Administrative (Importance: 1.5/5 | Level: 1.5/7)
+- Telecommunications (Importance: 1.37/5 | Level: 0.8/7)
+- Geography (Importance: 1.35/5 | Level: 1.05/7)
+- Physics (Importance: 1.3/5 | Level: 0.9/7)
+- History and Archeology (Importance: 1.25/5 | Level: 0.55/7)
+- Transportation (Importance: 1.16/5 | Level: 0.5/7)
+- Foreign Language (Importance: 1.1/5 | Level: 0.3/7)
+- Building and Construction (Importance: 1.1/5 | Level: 0.2/7)
+- Mechanical (Importance: 1.05/5 | Level: 0.15/7)
+- Medicine and Dentistry (Importance: 1.05/5 | Level: 0.15/7)
+- Philosophy and Theology (Importance: 1.05/5 | Level: 0.15/7)
+- Fine Arts (Importance: 1.05/5 | Level: 0.1/7)
+- Public Safety and Security (Importance: 1.05/5 | Level: 0.15/7)
+- Chemistry (Importance: 1.05/5 | Level: 0.2/7)
+- Biology (Importance: 1.05/5 | Level: 0.2/7)
+- Therapy and Counseling (Importance: 1.05/5 | Level: 0.15/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Mathematics (Importance: 4.38/5 | Level: 5.0/7)
@@ -173,3 +209,25 @@ Develop quantitative techniques to inform securities investing, equities investi
 - Primary Interest: Investigative
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Data Scientists
+- Financial Risk Specialists
+- Financial and Investment Analysts
+- Operations Research Analysts
+- Statistical Assistants
+- Statisticians
+- Investment Fund Managers
+- Business Intelligence Analysts
+- Management Analysts
+- Credit Analysts
+- Economists
+- Actuaries
+- Database Architects
+- Biostatisticians
+- Computer Systems Analysts
+- Penetration Testers
+- Software Developers
+- Mathematicians
+- Securities, Commodities, and Financial Services Sales Agents
+- Data Warehousing Specialists

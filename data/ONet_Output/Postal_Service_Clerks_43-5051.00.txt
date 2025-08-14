@@ -25,6 +25,42 @@ Perform any combination of tasks in a United States Postal Service (USPS) post o
 - Cash money orders.
 - Order retail items and other supplies for office use.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 3.96/5 | Level: 4.1/7)
+- English Language (Importance: 3.4/5 | Level: 3.45/7)
+- Mathematics (Importance: 3.35/5 | Level: 3.18/7)
+- Sales and Marketing (Importance: 3.03/5 | Level: 2.98/7)
+- Administrative (Importance: 3.02/5 | Level: 3.58/7)
+- Transportation (Importance: 3.0/5 | Level: 3.07/7)
+- Computers and Electronics (Importance: 3.0/5 | Level: 3.59/7)
+- Administration and Management (Importance: 2.94/5 | Level: 2.97/7)
+- Public Safety and Security (Importance: 2.92/5 | Level: 2.45/7)
+- Production and Processing (Importance: 2.82/5 | Level: 2.75/7)
+- Education and Training (Importance: 2.66/5 | Level: 2.82/7)
+- Personnel and Human Resources (Importance: 2.39/5 | Level: 2.0/7)
+- Psychology (Importance: 2.37/5 | Level: 1.8/7)
+- Economics and Accounting (Importance: 2.33/5 | Level: 2.07/7)
+- Mechanical (Importance: 2.2/5 | Level: 1.6/7)
+- Communications and Media (Importance: 2.16/5 | Level: 1.88/7)
+- Telecommunications (Importance: 2.12/5 | Level: 1.7/7)
+- Law and Government (Importance: 2.03/5 | Level: 1.92/7)
+- Sociology and Anthropology (Importance: 1.86/5 | Level: 1.47/7)
+- Engineering and Technology (Importance: 1.84/5 | Level: 1.36/7)
+- Geography (Importance: 1.75/5 | Level: 1.63/7)
+- Design (Importance: 1.6/5 | Level: 0.99/7)
+- Therapy and Counseling (Importance: 1.55/5 | Level: 1.19/7)
+- Philosophy and Theology (Importance: 1.53/5 | Level: 1.38/7)
+- Physics (Importance: 1.51/5 | Level: 1.04/7)
+- Chemistry (Importance: 1.44/5 | Level: 0.93/7)
+- Foreign Language (Importance: 1.44/5 | Level: 0.65/7)
+- Medicine and Dentistry (Importance: 1.43/5 | Level: 0.53/7)
+- Building and Construction (Importance: 1.34/5 | Level: 0.27/7)
+- History and Archeology (Importance: 1.18/5 | Level: 0.31/7)
+- Food Production (Importance: 1.17/5 | Level: 0.38/7)
+- Biology (Importance: 1.12/5 | Level: 0.25/7)
+- Fine Arts (Importance: 1.11/5 | Level: 0.21/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Active Listening (Importance: 3.38/5 | Level: 3.12/7)
@@ -158,3 +194,25 @@ Perform any combination of tasks in a United States Postal Service (USPS) post o
 - Primary Interest: Conventional
 - Secondary Interest: Realistic
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Postal Service Mail Carriers
+- Mail Clerks and Mail Machine Operators, Except Postal Service
+- Shipping, Receiving, and Inventory Clerks
+- Postal Service Mail Sorters, Processors, and Processing Machine Operators
+- Postmasters and Mail Superintendents
+- Couriers and Messengers
+- Order Clerks
+- Cargo and Freight Agents
+- Stockers and Order Fillers
+- Office Clerks, General
+- Billing and Posting Clerks
+- Counter and Rental Clerks
+- Freight Forwarders
+- Light Truck Drivers
+- Procurement Clerks
+- Cashiers
+- Tellers
+- File Clerks
+- Switchboard Operators, Including Answering Service
+- Production, Planning, and Expediting Clerks

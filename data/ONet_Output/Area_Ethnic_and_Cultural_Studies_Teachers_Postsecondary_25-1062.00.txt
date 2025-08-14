@@ -29,6 +29,42 @@ Teach courses pertaining to the culture and development of an area, an ethnic gr
 - Act as advisers to student organizations.
 - Provide professional consulting services to government or industry.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Education and Training (Importance: 4.63/5 | Level: 6.0/7)
+- English Language (Importance: 4.58/5 | Level: 5.98/7)
+- Sociology and Anthropology (Importance: 3.73/5 | Level: 5.07/7)
+- History and Archeology (Importance: 3.58/5 | Level: 4.6/7)
+- Foreign Language (Importance: 3.55/5 | Level: 4.44/7)
+- Communications and Media (Importance: 3.42/5 | Level: 4.49/7)
+- Computers and Electronics (Importance: 3.26/5 | Level: 3.79/7)
+- Philosophy and Theology (Importance: 3.06/5 | Level: 4.7/7)
+- Administrative (Importance: 3.01/5 | Level: 3.49/7)
+- Psychology (Importance: 2.89/5 | Level: 3.58/7)
+- Geography (Importance: 2.81/5 | Level: 4.15/7)
+- Customer and Personal Service (Importance: 2.7/5 | Level: 3.35/7)
+- Administration and Management (Importance: 2.68/5 | Level: 2.84/7)
+- Law and Government (Importance: 2.65/5 | Level: 3.0/7)
+- Fine Arts (Importance: 2.42/5 | Level: 2.36/7)
+- Personnel and Human Resources (Importance: 2.36/5 | Level: 2.7/7)
+- Therapy and Counseling (Importance: 2.19/5 | Level: 2.4/7)
+- Mathematics (Importance: 2.04/5 | Level: 2.11/7)
+- Public Safety and Security (Importance: 1.97/5 | Level: 1.88/7)
+- Telecommunications (Importance: 1.95/5 | Level: 1.39/7)
+- Transportation (Importance: 1.75/5 | Level: 1.68/7)
+- Economics and Accounting (Importance: 1.74/5 | Level: 1.51/7)
+- Sales and Marketing (Importance: 1.58/5 | Level: 1.31/7)
+- Design (Importance: 1.45/5 | Level: 1.04/7)
+- Production and Processing (Importance: 1.35/5 | Level: 0.5/7)
+- Biology (Importance: 1.34/5 | Level: 0.67/7)
+- Engineering and Technology (Importance: 1.3/5 | Level: 0.63/7)
+- Medicine and Dentistry (Importance: 1.17/5 | Level: 0.29/7)
+- Mechanical (Importance: 1.11/5 | Level: 0.23/7)
+- Chemistry (Importance: 1.09/5 | Level: 0.17/7)
+- Food Production (Importance: 1.06/5 | Level: 0.17/7)
+- Physics (Importance: 1.04/5 | Level: 0.09/7)
+- Building and Construction (Importance: 1.01/5 | Level: 0.02/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Reading Comprehension (Importance: 4.25/5 | Level: 4.88/7)
@@ -190,3 +226,25 @@ Teach courses pertaining to the culture and development of an area, an ethnic gr
 - Primary Interest: Social
 - Secondary Interest: Investigative
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- History Teachers, Postsecondary
+- Anthropology and Archeology Teachers, Postsecondary
+- Sociology Teachers, Postsecondary
+- English Language and Literature Teachers, Postsecondary
+- Philosophy and Religion Teachers, Postsecondary
+- Foreign Language and Literature Teachers, Postsecondary
+- Political Science Teachers, Postsecondary
+- Education Teachers, Postsecondary
+- Geography Teachers, Postsecondary
+- Communications Teachers, Postsecondary
+- Middle School Teachers, Except Special and Career/Technical Education
+- Secondary School Teachers, Except Special and Career/Technical Education
+- Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors
+- Social Work Teachers, Postsecondary
+- Teaching Assistants, Postsecondary
+- Psychology Teachers, Postsecondary
+- Family and Consumer Sciences Teachers, Postsecondary
+- Library Science Teachers, Postsecondary
+- Law Teachers, Postsecondary
+- Elementary School Teachers, Except Special Education

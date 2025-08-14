@@ -25,6 +25,42 @@ Install and repair telecommunications cable, including fiber optics.
 - Fill and tamp holes, using cement, earth, and tamping devices.
 - Dig holes for power poles, using power augers or shovels, set poles in place with cranes, and hoist poles upright, using winches.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Telecommunications (Importance: 4.49/5 | Level: 5.54/7)
+- Customer and Personal Service (Importance: 4.39/5 | Level: 4.35/7)
+- English Language (Importance: 3.74/5 | Level: 3.78/7)
+- Public Safety and Security (Importance: 3.39/5 | Level: 3.63/7)
+- Computers and Electronics (Importance: 3.26/5 | Level: 3.96/7)
+- Mechanical (Importance: 3.22/5 | Level: 3.47/7)
+- Education and Training (Importance: 3.19/5 | Level: 3.6/7)
+- Communications and Media (Importance: 3.14/5 | Level: 2.77/7)
+- Administration and Management (Importance: 2.92/5 | Level: 2.71/7)
+- Engineering and Technology (Importance: 2.86/5 | Level: 2.77/7)
+- Mathematics (Importance: 2.74/5 | Level: 2.95/7)
+- Design (Importance: 2.73/5 | Level: 2.98/7)
+- Production and Processing (Importance: 2.7/5 | Level: 2.63/7)
+- Sales and Marketing (Importance: 2.68/5 | Level: 2.32/7)
+- Transportation (Importance: 2.66/5 | Level: 2.39/7)
+- Building and Construction (Importance: 2.62/5 | Level: 2.54/7)
+- Personnel and Human Resources (Importance: 2.24/5 | Level: 1.72/7)
+- Administrative (Importance: 2.12/5 | Level: 1.87/7)
+- Law and Government (Importance: 1.89/5 | Level: 1.15/7)
+- Geography (Importance: 1.88/5 | Level: 1.37/7)
+- Physics (Importance: 1.83/5 | Level: 1.7/7)
+- Psychology (Importance: 1.78/5 | Level: 1.08/7)
+- Economics and Accounting (Importance: 1.77/5 | Level: 0.92/7)
+- Chemistry (Importance: 1.67/5 | Level: 1.17/7)
+- Foreign Language (Importance: 1.47/5 | Level: 0.91/7)
+- Therapy and Counseling (Importance: 1.44/5 | Level: 0.79/7)
+- Medicine and Dentistry (Importance: 1.22/5 | Level: 0.2/7)
+- Philosophy and Theology (Importance: 1.2/5 | Level: 0.48/7)
+- History and Archeology (Importance: 1.16/5 | Level: 0.16/7)
+- Biology (Importance: 1.16/5 | Level: 0.24/7)
+- Sociology and Anthropology (Importance: 1.13/5 | Level: 0.24/7)
+- Food Production (Importance: 1.07/5 | Level: 0.11/7)
+- Fine Arts (Importance: 1.01/5 | Level: 0.01/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Speaking (Importance: 3.12/5 | Level: 2.75/7)
@@ -217,3 +253,25 @@ Install and repair telecommunications cable, including fiber optics.
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Telecommunications Equipment Installers and Repairers, Except Line Installers
+- Electrical Power-Line Installers and Repairers
+- Radio, Cellular, and Tower Equipment Installers and Repairers
+- Audiovisual Equipment Installers and Repairers
+- Electrical and Electronics Installers and Repairers, Transportation Equipment
+- Electricians
+- Electrical and Electronics Repairers, Commercial and Industrial Equipment
+- Telecommunications Engineering Specialists
+- Security and Fire Alarm Systems Installers
+- Electronic Equipment Installers and Repairers, Motor Vehicles
+- Power Distributors and Dispatchers
+- Helpers--Electricians
+- Lighting Technicians
+- Hoist and Winch Operators
+- Signal and Track Switch Repairers
+- Electrical and Electronics Repairers, Powerhouse, Substation, and Relay
+- Electric Motor, Power Tool, and Related Repairers
+- Pipelayers
+- Electrical and Electronic Equipment Assemblers
+- Electromechanical Equipment Assemblers

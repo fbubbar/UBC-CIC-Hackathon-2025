@@ -29,6 +29,42 @@ Fabricate, position, align, and fit parts of structural metal products.
 - Preheat workpieces to make them malleable, using hand torches or furnaces.
 - Install boilers, containers, and other structures.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mathematics (Importance: 3.39/5 | Level: 3.25/7)
+- Production and Processing (Importance: 3.31/5 | Level: 2.93/7)
+- Mechanical (Importance: 3.3/5 | Level: 3.42/7)
+- English Language (Importance: 3.04/5 | Level: 2.46/7)
+- Administration and Management (Importance: 2.87/5 | Level: 2.35/7)
+- Education and Training (Importance: 2.81/5 | Level: 2.85/7)
+- Design (Importance: 2.77/5 | Level: 2.92/7)
+- Public Safety and Security (Importance: 2.73/5 | Level: 2.44/7)
+- Customer and Personal Service (Importance: 2.63/5 | Level: 1.92/7)
+- Engineering and Technology (Importance: 2.59/5 | Level: 2.36/7)
+- Building and Construction (Importance: 2.34/5 | Level: 2.04/7)
+- Administrative (Importance: 2.28/5 | Level: 1.37/7)
+- Computers and Electronics (Importance: 2.26/5 | Level: 2.06/7)
+- Personnel and Human Resources (Importance: 2.08/5 | Level: 1.28/7)
+- Transportation (Importance: 2.01/5 | Level: 1.0/7)
+- Physics (Importance: 1.95/5 | Level: 1.67/7)
+- Economics and Accounting (Importance: 1.81/5 | Level: 1.23/7)
+- Communications and Media (Importance: 1.65/5 | Level: 1.02/7)
+- Sales and Marketing (Importance: 1.64/5 | Level: 0.92/7)
+- Chemistry (Importance: 1.59/5 | Level: 1.0/7)
+- Law and Government (Importance: 1.45/5 | Level: 0.5/7)
+- Foreign Language (Importance: 1.41/5 | Level: 0.49/7)
+- Telecommunications (Importance: 1.28/5 | Level: 0.31/7)
+- Psychology (Importance: 1.25/5 | Level: 0.63/7)
+- Therapy and Counseling (Importance: 1.21/5 | Level: 0.42/7)
+- Geography (Importance: 1.19/5 | Level: 0.33/7)
+- Medicine and Dentistry (Importance: 1.17/5 | Level: 0.34/7)
+- Food Production (Importance: 1.14/5 | Level: 0.26/7)
+- Fine Arts (Importance: 1.09/5 | Level: 0.17/7)
+- Biology (Importance: 1.07/5 | Level: 0.16/7)
+- Philosophy and Theology (Importance: 1.05/5 | Level: 0.1/7)
+- History and Archeology (Importance: 1.05/5 | Level: 0.07/7)
+- Sociology and Anthropology (Importance: 1.05/5 | Level: 0.14/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Critical Thinking (Importance: 3.0/5 | Level: 2.38/7)
@@ -214,3 +250,25 @@ Fabricate, position, align, and fit parts of structural metal products.
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Structural Iron and Steel Workers
+- Layout Workers, Metal and Plastic
+- Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+- Sheet Metal Workers
+- Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders
+- Welders, Cutters, Solderers, and Brazers
+- Millwrights
+- Reinforcing Iron and Rebar Workers
+- Boilermakers
+- Tool and Die Makers
+- Engine and Other Machine Assemblers
+- Model Makers, Metal and Plastic
+- Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+- Carpenters
+- Molders, Shapers, and Casters, Except Metal and Plastic
+- Cabinetmakers and Bench Carpenters
+- Grinding and Polishing Workers, Hand
+- Drywall and Ceiling Tile Installers
+- Electrical and Electronic Equipment Assemblers
+- Patternmakers, Wood

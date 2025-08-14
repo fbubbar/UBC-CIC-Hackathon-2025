@@ -20,6 +20,42 @@ Coordinate, regulate, or distribute electricity or steam.
 - Inspect equipment to ensure that specifications are met or to detect any defects.
 - Tend auxiliary equipment used in the power distribution process.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- English Language (Importance: 3.86/5 | Level: 3.46/7)
+- Public Safety and Security (Importance: 3.66/5 | Level: 3.59/7)
+- Mathematics (Importance: 3.53/5 | Level: 4.24/7)
+- Computers and Electronics (Importance: 3.48/5 | Level: 3.84/7)
+- Telecommunications (Importance: 3.47/5 | Level: 3.04/7)
+- Engineering and Technology (Importance: 3.45/5 | Level: 3.24/7)
+- Customer and Personal Service (Importance: 3.36/5 | Level: 4.75/7)
+- Mechanical (Importance: 3.29/5 | Level: 3.81/7)
+- Education and Training (Importance: 3.19/5 | Level: 3.5/7)
+- Physics (Importance: 3.11/5 | Level: 3.79/7)
+- Administrative (Importance: 2.96/5 | Level: 3.05/7)
+- Administration and Management (Importance: 2.75/5 | Level: 2.48/7)
+- Law and Government (Importance: 2.64/5 | Level: 2.62/7)
+- Geography (Importance: 2.53/5 | Level: 2.67/7)
+- Communications and Media (Importance: 2.43/5 | Level: 2.46/7)
+- Psychology (Importance: 2.36/5 | Level: 2.47/7)
+- Production and Processing (Importance: 2.3/5 | Level: 2.62/7)
+- Building and Construction (Importance: 2.28/5 | Level: 2.24/7)
+- Chemistry (Importance: 2.14/5 | Level: 1.95/7)
+- Design (Importance: 2.07/5 | Level: 2.01/7)
+- Economics and Accounting (Importance: 2.0/5 | Level: 1.5/7)
+- Personnel and Human Resources (Importance: 1.94/5 | Level: 1.45/7)
+- Transportation (Importance: 1.71/5 | Level: 1.62/7)
+- Sales and Marketing (Importance: 1.71/5 | Level: 1.32/7)
+- Sociology and Anthropology (Importance: 1.47/5 | Level: 0.7/7)
+- Therapy and Counseling (Importance: 1.32/5 | Level: 0.78/7)
+- History and Archeology (Importance: 1.17/5 | Level: 0.36/7)
+- Medicine and Dentistry (Importance: 1.16/5 | Level: 0.41/7)
+- Philosophy and Theology (Importance: 1.09/5 | Level: 0.31/7)
+- Food Production (Importance: 1.06/5 | Level: 0.12/7)
+- Foreign Language (Importance: 1.04/5 | Level: 0.07/7)
+- Biology (Importance: 1.01/5 | Level: 0.04/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Critical Thinking (Importance: 3.62/5 | Level: 3.75/7)
@@ -157,3 +193,25 @@ Coordinate, regulate, or distribute electricity or steam.
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Power Plant Operators
+- Hydroelectric Plant Technicians
+- Electrical and Electronics Repairers, Powerhouse, Substation, and Relay
+- Stationary Engineers and Boiler Operators
+- Electrical and Electronics Installers and Repairers, Transportation Equipment
+- Geothermal Technicians
+- Gas Plant Operators
+- Electrical and Electronics Repairers, Commercial and Industrial Equipment
+- Electrical and Electronic Engineering Technologists and Technicians
+- Biomass Plant Technicians
+- Electrical Engineers
+- Telecommunications Equipment Installers and Repairers, Except Line Installers
+- Control and Valve Installers and Repairers, Except Mechanical Door
+- Petroleum Pump System Operators, Refinery Operators, and Gaugers
+- Lighting Technicians
+- Electronics Engineers, Except Computer
+- Wind Turbine Service Technicians
+- Biomass Power Plant Managers
+- Electric Motor, Power Tool, and Related Repairers
+- Electrical Power-Line Installers and Repairers

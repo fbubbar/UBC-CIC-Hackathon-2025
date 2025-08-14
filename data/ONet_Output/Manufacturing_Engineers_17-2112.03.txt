@@ -30,6 +30,42 @@ Design, integrate, or improve manufacturing systems or related processes. May wo
 - Read current literature, talk with colleagues, participate in educational programs, attend meetings or workshops, or participate in professional organizations or conferences to keep abreast of developments in the manufacturing field.
 - Redesign packaging for manufactured products to minimize raw material use or waste.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Production and Processing (Importance: 4.42/5 | Level: 4.92/7)
+- Engineering and Technology (Importance: 4.42/5 | Level: 5.35/7)
+- Mechanical (Importance: 4.08/5 | Level: 5.15/7)
+- Design (Importance: 4.0/5 | Level: 4.92/7)
+- Mathematics (Importance: 3.96/5 | Level: 5.12/7)
+- Computers and Electronics (Importance: 3.81/5 | Level: 4.73/7)
+- English Language (Importance: 3.77/5 | Level: 4.38/7)
+- Physics (Importance: 3.42/5 | Level: 4.35/7)
+- Administration and Management (Importance: 3.23/5 | Level: 4.35/7)
+- Education and Training (Importance: 3.15/5 | Level: 4.27/7)
+- Public Safety and Security (Importance: 2.85/5 | Level: 3.42/7)
+- Administrative (Importance: 2.77/5 | Level: 3.73/7)
+- Law and Government (Importance: 2.76/5 | Level: 3.08/7)
+- Economics and Accounting (Importance: 2.62/5 | Level: 2.62/7)
+- Chemistry (Importance: 2.58/5 | Level: 3.27/7)
+- Customer and Personal Service (Importance: 2.54/5 | Level: 2.85/7)
+- Transportation (Importance: 2.5/5 | Level: 3.08/7)
+- Building and Construction (Importance: 2.48/5 | Level: 3.0/7)
+- Personnel and Human Resources (Importance: 2.38/5 | Level: 3.27/7)
+- Psychology (Importance: 2.25/5 | Level: 2.8/7)
+- Communications and Media (Importance: 2.24/5 | Level: 2.58/7)
+- Sales and Marketing (Importance: 2.08/5 | Level: 2.62/7)
+- Telecommunications (Importance: 2.04/5 | Level: 1.85/7)
+- Therapy and Counseling (Importance: 1.62/5 | Level: 1.62/7)
+- Biology (Importance: 1.6/5 | Level: 1.6/7)
+- Geography (Importance: 1.6/5 | Level: 1.56/7)
+- Foreign Language (Importance: 1.54/5 | Level: 1.46/7)
+- Philosophy and Theology (Importance: 1.54/5 | Level: 1.23/7)
+- Sociology and Anthropology (Importance: 1.44/5 | Level: 1.2/7)
+- Medicine and Dentistry (Importance: 1.36/5 | Level: 0.73/7)
+- Food Production (Importance: 1.27/5 | Level: 0.65/7)
+- History and Archeology (Importance: 1.15/5 | Level: 0.5/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Mathematics (Importance: 4.0/5 | Level: 4.5/7)
@@ -177,3 +213,25 @@ Design, integrate, or improve manufacturing systems or related processes. May wo
 - Primary Interest: Realistic
 - Secondary Interest: Investigative
 - Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Industrial Engineers
+- Industrial Production Managers
+- Chemical Engineers
+- Mechatronics Engineers
+- Mechanical Engineers
+- Materials Engineers
+- Automotive Engineers
+- Electronics Engineers, Except Computer
+- Validation Engineers
+- Human Factors Engineers and Ergonomists
+- Industrial Engineering Technologists and Technicians
+- Mechanical Engineering Technologists and Technicians
+- Electrical and Electronic Engineering Technologists and Technicians
+- Electrical Engineers
+- Microsystems Engineers
+- Robotics Engineers
+- Aerospace Engineering and Operations Technologists and Technicians
+- Robotics Technicians
+- Automotive Engineering Technicians
+- Calibration Technologists and Technicians

@@ -22,6 +22,42 @@ Shape molten glass according to patterns.
 - Cut lengths of tubing to specified sizes, using files or cutting wheels.
 - Place rubber hoses on ends of tubing and charge tubing with gas.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Production and Processing (Importance: 3.82/5 | Level: 4.61/7)
+- Design (Importance: 3.72/5 | Level: 4.46/7)
+- Mechanical (Importance: 3.22/5 | Level: 4.19/7)
+- Customer and Personal Service (Importance: 3.15/5 | Level: 3.23/7)
+- Engineering and Technology (Importance: 3.15/5 | Level: 4.31/7)
+- Mathematics (Importance: 3.09/5 | Level: 3.45/7)
+- English Language (Importance: 3.04/5 | Level: 3.1/7)
+- Education and Training (Importance: 2.99/5 | Level: 3.96/7)
+- Building and Construction (Importance: 2.86/5 | Level: 3.28/7)
+- Personnel and Human Resources (Importance: 2.71/5 | Level: 2.78/7)
+- Computers and Electronics (Importance: 2.69/5 | Level: 3.03/7)
+- Public Safety and Security (Importance: 2.61/5 | Level: 2.39/7)
+- Physics (Importance: 2.58/5 | Level: 3.05/7)
+- Sales and Marketing (Importance: 2.53/5 | Level: 2.94/7)
+- Administration and Management (Importance: 2.5/5 | Level: 2.69/7)
+- Chemistry (Importance: 2.48/5 | Level: 3.07/7)
+- Administrative (Importance: 2.34/5 | Level: 1.91/7)
+- Economics and Accounting (Importance: 2.08/5 | Level: 2.26/7)
+- Fine Arts (Importance: 1.76/5 | Level: 1.19/7)
+- Food Production (Importance: 1.74/5 | Level: 1.04/7)
+- Psychology (Importance: 1.59/5 | Level: 1.77/7)
+- Sociology and Anthropology (Importance: 1.49/5 | Level: 0.63/7)
+- Communications and Media (Importance: 1.45/5 | Level: 0.8/7)
+- Medicine and Dentistry (Importance: 1.45/5 | Level: 0.89/7)
+- Telecommunications (Importance: 1.4/5 | Level: 0.72/7)
+- Transportation (Importance: 1.38/5 | Level: 0.81/7)
+- Biology (Importance: 1.37/5 | Level: 0.74/7)
+- History and Archeology (Importance: 1.23/5 | Level: 0.6/7)
+- Law and Government (Importance: 1.18/5 | Level: 0.54/7)
+- Therapy and Counseling (Importance: 1.17/5 | Level: 0.66/7)
+- Philosophy and Theology (Importance: 1.09/5 | Level: 0.14/7)
+- Foreign Language (Importance: 1.06/5 | Level: 0.07/7)
+- Geography (Importance: 1.06/5 | Level: 0.18/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Operation and Control (Importance: 3.38/5 | Level: 2.88/7)
@@ -165,3 +201,25 @@ Shape molten glass according to patterns.
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Molders, Shapers, and Casters, Except Metal and Plastic
+- Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic
+- Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders
+- Cutting and Slicing Machine Setters, Operators, and Tenders
+- Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders
+- Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic
+- Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+- Tool and Die Makers
+- Machine Feeders and Offbearers
+- Stone Cutters and Carvers, Manufacturing
+- Grinding and Polishing Workers, Hand
+- Ophthalmic Laboratory Technicians
+- Metal-Refining Furnace Operators and Tenders
+- Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers
+- Welders, Cutters, Solderers, and Brazers
+- Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Industrial Machinery Mechanics
+- Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic
+- Engine and Other Machine Assemblers
+- Sheet Metal Workers

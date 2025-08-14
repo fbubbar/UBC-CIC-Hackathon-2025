@@ -23,6 +23,42 @@ Observe, research, and interpret astronomical phenomena to increase basic knowle
 - Conduct question-and-answer presentations on astronomy topics with public audiences.
 - Direct the operations of a planetarium.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Physics (Importance: 4.96/5 | Level: 6.57/7)
+- Mathematics (Importance: 4.91/5 | Level: 6.43/7)
+- Computers and Electronics (Importance: 4.17/5 | Level: 5.74/7)
+- English Language (Importance: 4.04/5 | Level: 4.83/7)
+- Education and Training (Importance: 3.35/5 | Level: 4.65/7)
+- Engineering and Technology (Importance: 3.22/5 | Level: 4.0/7)
+- Chemistry (Importance: 3.0/5 | Level: 4.09/7)
+- Communications and Media (Importance: 2.43/5 | Level: 2.74/7)
+- Administration and Management (Importance: 2.39/5 | Level: 3.35/7)
+- Design (Importance: 2.35/5 | Level: 2.74/7)
+- Personnel and Human Resources (Importance: 2.22/5 | Level: 2.65/7)
+- Administrative (Importance: 2.09/5 | Level: 2.61/7)
+- Telecommunications (Importance: 2.04/5 | Level: 1.65/7)
+- Geography (Importance: 1.96/5 | Level: 2.35/7)
+- Mechanical (Importance: 1.91/5 | Level: 2.13/7)
+- Biology (Importance: 1.83/5 | Level: 1.78/7)
+- Economics and Accounting (Importance: 1.82/5 | Level: 1.82/7)
+- Law and Government (Importance: 1.74/5 | Level: 1.48/7)
+- Customer and Personal Service (Importance: 1.74/5 | Level: 1.74/7)
+- Production and Processing (Importance: 1.74/5 | Level: 1.43/7)
+- Sales and Marketing (Importance: 1.68/5 | Level: 1.5/7)
+- Foreign Language (Importance: 1.65/5 | Level: 1.35/7)
+- Building and Construction (Importance: 1.65/5 | Level: 1.61/7)
+- Public Safety and Security (Importance: 1.65/5 | Level: 1.22/7)
+- Transportation (Importance: 1.61/5 | Level: 1.3/7)
+- Sociology and Anthropology (Importance: 1.57/5 | Level: 1.09/7)
+- Psychology (Importance: 1.57/5 | Level: 1.13/7)
+- History and Archeology (Importance: 1.48/5 | Level: 1.13/7)
+- Therapy and Counseling (Importance: 1.39/5 | Level: 1.0/7)
+- Philosophy and Theology (Importance: 1.39/5 | Level: 1.0/7)
+- Fine Arts (Importance: 1.3/5 | Level: 0.65/7)
+- Medicine and Dentistry (Importance: 1.13/5 | Level: 0.22/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Science (Importance: 4.25/5 | Level: 5.12/7)
@@ -211,3 +247,25 @@ Observe, research, and interpret astronomical phenomena to increase basic knowle
 - Primary Interest: Investigative
 - Secondary Interest: Realistic
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Physicists
+- Mathematicians
+- Physics Teachers, Postsecondary
+- Geoscientists, Except Hydrologists and Geographers
+- Biochemists and Biophysicists
+- Data Scientists
+- Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary
+- Atmospheric and Space Scientists
+- Nanosystems Engineers
+- Bioinformatics Scientists
+- Computer and Information Research Scientists
+- Nanotechnology Engineering Technologists and Technicians
+- Chemists
+- Statisticians
+- Hydrologists
+- Engineering Teachers, Postsecondary
+- Materials Scientists
+- Molecular and Cellular Biologists
+- Mathematical Science Teachers, Postsecondary
+- Geneticists

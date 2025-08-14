@@ -35,6 +35,42 @@ Set up, operate, or tend metal or plastic molding, casting, or coremaking machin
 - Pour or load metal or sand into melting pots, furnaces, molds, or hoppers, using shovels, ladles, or machines.
 - Skim or pour dross, slag, or impurities from molten metal, using ladles, rakes, hoes, spatulas, or spoons.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Production and Processing (Importance: 3.54/5 | Level: 3.25/7)
+- Mechanical (Importance: 3.48/5 | Level: 3.82/7)
+- Mathematics (Importance: 3.09/5 | Level: 2.85/7)
+- English Language (Importance: 2.86/5 | Level: 2.5/7)
+- Administration and Management (Importance: 2.52/5 | Level: 2.36/7)
+- Physics (Importance: 2.48/5 | Level: 2.42/7)
+- Computers and Electronics (Importance: 2.37/5 | Level: 2.07/7)
+- Engineering and Technology (Importance: 2.37/5 | Level: 2.55/7)
+- Education and Training (Importance: 2.33/5 | Level: 2.63/7)
+- Customer and Personal Service (Importance: 2.12/5 | Level: 1.62/7)
+- Public Safety and Security (Importance: 2.1/5 | Level: 1.5/7)
+- Chemistry (Importance: 2.06/5 | Level: 2.42/7)
+- Design (Importance: 2.01/5 | Level: 1.71/7)
+- Psychology (Importance: 1.94/5 | Level: 1.81/7)
+- Administrative (Importance: 1.87/5 | Level: 1.0/7)
+- Personnel and Human Resources (Importance: 1.59/5 | Level: 0.88/7)
+- Communications and Media (Importance: 1.37/5 | Level: 0.76/7)
+- Medicine and Dentistry (Importance: 1.32/5 | Level: 0.63/7)
+- Law and Government (Importance: 1.31/5 | Level: 0.52/7)
+- Telecommunications (Importance: 1.29/5 | Level: 0.36/7)
+- Economics and Accounting (Importance: 1.27/5 | Level: 0.28/7)
+- Transportation (Importance: 1.26/5 | Level: 0.42/7)
+- Therapy and Counseling (Importance: 1.25/5 | Level: 0.56/7)
+- Sales and Marketing (Importance: 1.22/5 | Level: 0.36/7)
+- Sociology and Anthropology (Importance: 1.18/5 | Level: 0.44/7)
+- Philosophy and Theology (Importance: 1.14/5 | Level: 0.21/7)
+- Building and Construction (Importance: 1.14/5 | Level: 0.36/7)
+- Food Production (Importance: 1.13/5 | Level: 0.25/7)
+- Foreign Language (Importance: 1.12/5 | Level: 0.26/7)
+- Biology (Importance: 1.09/5 | Level: 0.23/7)
+- Geography (Importance: 1.09/5 | Level: 0.17/7)
+- History and Archeology (Importance: 1.07/5 | Level: 0.14/7)
+- Fine Arts (Importance: 1.01/5 | Level: 0.02/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Operations Monitoring (Importance: 3.38/5 | Level: 3.88/7)
@@ -206,3 +242,25 @@ Set up, operate, or tend metal or plastic molding, casting, or coremaking machin
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic
+- Molders, Shapers, and Casters, Except Metal and Plastic
+- Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers
+- Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders
+- Forging Machine Setters, Operators, and Tenders, Metal and Plastic
+- Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic
+- Rolling Machine Setters, Operators, and Tenders, Metal and Plastic
+- Tool and Die Makers
+- Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic
+- Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Adhesive Bonding Machine Operators and Tenders
+- Grinding and Polishing Workers, Hand
+- Cutting and Slicing Machine Setters, Operators, and Tenders
+- Industrial Machinery Mechanics
+- Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+- Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic
+- Tool Grinders, Filers, and Sharpeners
+- Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders

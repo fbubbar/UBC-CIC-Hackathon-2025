@@ -19,6 +19,42 @@ Research conditions in local, regional, national, or online markets. Gather info
 - Direct trained survey interviewers.
 - Develop and implement procedures for identifying advertising needs.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- English Language (Importance: 4.3/5 | Level: 5.32/7)
+- Customer and Personal Service (Importance: 4.17/5 | Level: 5.57/7)
+- Sales and Marketing (Importance: 4.09/5 | Level: 5.3/7)
+- Mathematics (Importance: 4.04/5 | Level: 5.13/7)
+- Administration and Management (Importance: 3.74/5 | Level: 4.61/7)
+- Communications and Media (Importance: 3.5/5 | Level: 4.39/7)
+- Administrative (Importance: 3.39/5 | Level: 4.43/7)
+- Computers and Electronics (Importance: 3.24/5 | Level: 4.45/7)
+- Sociology and Anthropology (Importance: 3.22/5 | Level: 4.3/7)
+- Psychology (Importance: 3.17/5 | Level: 3.7/7)
+- Economics and Accounting (Importance: 3.09/5 | Level: 3.48/7)
+- Education and Training (Importance: 2.74/5 | Level: 3.48/7)
+- Law and Government (Importance: 2.65/5 | Level: 2.7/7)
+- Personnel and Human Resources (Importance: 2.61/5 | Level: 3.22/7)
+- Geography (Importance: 2.59/5 | Level: 3.48/7)
+- Production and Processing (Importance: 2.13/5 | Level: 2.04/7)
+- Telecommunications (Importance: 2.09/5 | Level: 1.61/7)
+- Philosophy and Theology (Importance: 2.0/5 | Level: 2.32/7)
+- Engineering and Technology (Importance: 1.91/5 | Level: 1.78/7)
+- Design (Importance: 1.87/5 | Level: 1.74/7)
+- History and Archeology (Importance: 1.73/5 | Level: 1.82/7)
+- Public Safety and Security (Importance: 1.61/5 | Level: 1.09/7)
+- Foreign Language (Importance: 1.55/5 | Level: 1.09/7)
+- Transportation (Importance: 1.52/5 | Level: 0.96/7)
+- Fine Arts (Importance: 1.27/5 | Level: 0.68/7)
+- Medicine and Dentistry (Importance: 1.22/5 | Level: 0.52/7)
+- Physics (Importance: 1.22/5 | Level: 0.39/7)
+- Biology (Importance: 1.17/5 | Level: 0.57/7)
+- Therapy and Counseling (Importance: 1.13/5 | Level: 0.3/7)
+- Food Production (Importance: 1.09/5 | Level: 0.18/7)
+- Chemistry (Importance: 1.09/5 | Level: 0.26/7)
+- Mechanical (Importance: 1.09/5 | Level: 0.26/7)
+- Building and Construction (Importance: 1.04/5 | Level: 0.22/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Writing (Importance: 4.0/5 | Level: 4.12/7)
@@ -278,3 +314,25 @@ Research conditions in local, regional, national, or online markets. Gather info
 - Primary Interest: Enterprising
 - Secondary Interest: Conventional
 - Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Marketing Managers
+- Business Intelligence Analysts
+- Advertising and Promotions Managers
+- Search Marketing Strategists
+- Management Analysts
+- Sales Managers
+- Data Scientists
+- Public Relations Managers
+- Advertising Sales Agents
+- Financial and Investment Analysts
+- Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel
+- Public Relations Specialists
+- Securities, Commodities, and Financial Services Sales Agents
+- Survey Researchers
+- Business Teachers, Postsecondary
+- Financial Risk Specialists
+- Writers and Authors
+- Personal Financial Advisors
+- Online Merchants
+- Investment Fund Managers

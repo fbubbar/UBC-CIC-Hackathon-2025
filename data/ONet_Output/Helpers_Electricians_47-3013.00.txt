@@ -31,6 +31,42 @@ Help electricians by performing duties requiring less skill. Duties include usin
 - Operate heavy equipment, such as backhoes.
 - Operate cutting torches and welding equipment, while working with conduit and metal components to construct devices associated with electrical functions.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Building and Construction (Importance: 3.98/5 | Level: 4.35/7)
+- Mechanical (Importance: 3.9/5 | Level: 4.27/7)
+- Public Safety and Security (Importance: 3.89/5 | Level: 3.95/7)
+- Design (Importance: 3.8/5 | Level: 4.06/7)
+- Customer and Personal Service (Importance: 3.79/5 | Level: 3.86/7)
+- Administration and Management (Importance: 3.73/5 | Level: 3.99/7)
+- Education and Training (Importance: 3.63/5 | Level: 3.89/7)
+- English Language (Importance: 3.57/5 | Level: 3.13/7)
+- Mathematics (Importance: 3.53/5 | Level: 3.87/7)
+- Engineering and Technology (Importance: 3.33/5 | Level: 3.95/7)
+- Physics (Importance: 3.25/5 | Level: 3.37/7)
+- Transportation (Importance: 3.22/5 | Level: 2.85/7)
+- Telecommunications (Importance: 2.87/5 | Level: 2.76/7)
+- Computers and Electronics (Importance: 2.78/5 | Level: 3.18/7)
+- Production and Processing (Importance: 2.75/5 | Level: 2.65/7)
+- Communications and Media (Importance: 2.7/5 | Level: 2.64/7)
+- Administrative (Importance: 2.69/5 | Level: 2.5/7)
+- Economics and Accounting (Importance: 2.54/5 | Level: 2.0/7)
+- Personnel and Human Resources (Importance: 2.54/5 | Level: 2.27/7)
+- Law and Government (Importance: 2.36/5 | Level: 2.23/7)
+- Sales and Marketing (Importance: 2.25/5 | Level: 2.19/7)
+- Geography (Importance: 2.25/5 | Level: 2.23/7)
+- Chemistry (Importance: 2.19/5 | Level: 2.27/7)
+- Psychology (Importance: 1.98/5 | Level: 1.78/7)
+- Sociology and Anthropology (Importance: 1.87/5 | Level: 1.6/7)
+- Therapy and Counseling (Importance: 1.84/5 | Level: 1.63/7)
+- Foreign Language (Importance: 1.76/5 | Level: 1.13/7)
+- Medicine and Dentistry (Importance: 1.75/5 | Level: 1.54/7)
+- Biology (Importance: 1.67/5 | Level: 1.28/7)
+- Fine Arts (Importance: 1.41/5 | Level: 0.8/7)
+- Food Production (Importance: 1.4/5 | Level: 0.64/7)
+- History and Archeology (Importance: 1.37/5 | Level: 0.76/7)
+- Philosophy and Theology (Importance: 1.35/5 | Level: 0.84/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Active Listening (Importance: 3.25/5 | Level: 2.88/7)
@@ -274,3 +310,25 @@ Help electricians by performing duties requiring less skill. Duties include usin
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters
+- Helpers--Installation, Maintenance, and Repair Workers
+- Electricians
+- Helpers--Carpenters
+- Boilermakers
+- Millwrights
+- Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons
+- Electrical Power-Line Installers and Repairers
+- Lighting Technicians
+- Helpers--Extraction Workers
+- Plumbers, Pipefitters, and Steamfitters
+- Electrical and Electronics Installers and Repairers, Transportation Equipment
+- Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+- Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders
+- Electric Motor, Power Tool, and Related Repairers
+- Riggers
+- Structural Metal Fabricators and Fitters
+- Carpenters
+- Maintenance and Repair Workers, General
+- Structural Iron and Steel Workers

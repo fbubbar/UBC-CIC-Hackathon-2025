@@ -21,6 +21,42 @@ Develop programs to control machining or processing of materials by automatic ma
 - Draw machine tool paths on pattern film according to guidelines for tool speed and efficiency, using colored markers.
 - Enter coordinates of hole locations into program memories by depressing pedals or buttons of programmers.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Computers and Electronics (Importance: 4.11/5 | Level: 4.96/7)
+- Mechanical (Importance: 4.08/5 | Level: 4.96/7)
+- Mathematics (Importance: 3.91/5 | Level: 4.07/7)
+- Production and Processing (Importance: 3.84/5 | Level: 3.95/7)
+- Engineering and Technology (Importance: 3.75/5 | Level: 4.07/7)
+- Design (Importance: 3.74/5 | Level: 4.31/7)
+- English Language (Importance: 3.17/5 | Level: 3.54/7)
+- Administration and Management (Importance: 3.08/5 | Level: 2.68/7)
+- Education and Training (Importance: 2.98/5 | Level: 3.58/7)
+- Administrative (Importance: 2.76/5 | Level: 2.76/7)
+- Customer and Personal Service (Importance: 2.67/5 | Level: 2.45/7)
+- Public Safety and Security (Importance: 2.64/5 | Level: 2.88/7)
+- Physics (Importance: 2.42/5 | Level: 2.75/7)
+- Personnel and Human Resources (Importance: 2.21/5 | Level: 1.96/7)
+- Communications and Media (Importance: 2.15/5 | Level: 2.19/7)
+- Chemistry (Importance: 2.06/5 | Level: 1.81/7)
+- Psychology (Importance: 1.97/5 | Level: 1.82/7)
+- Building and Construction (Importance: 1.87/5 | Level: 1.66/7)
+- Economics and Accounting (Importance: 1.82/5 | Level: 1.13/7)
+- Sales and Marketing (Importance: 1.76/5 | Level: 1.26/7)
+- Transportation (Importance: 1.74/5 | Level: 1.33/7)
+- Telecommunications (Importance: 1.7/5 | Level: 1.56/7)
+- Therapy and Counseling (Importance: 1.62/5 | Level: 1.19/7)
+- Philosophy and Theology (Importance: 1.57/5 | Level: 1.45/7)
+- Law and Government (Importance: 1.55/5 | Level: 1.37/7)
+- History and Archeology (Importance: 1.52/5 | Level: 0.83/7)
+- Sociology and Anthropology (Importance: 1.51/5 | Level: 0.93/7)
+- Foreign Language (Importance: 1.5/5 | Level: 0.7/7)
+- Medicine and Dentistry (Importance: 1.48/5 | Level: 0.67/7)
+- Fine Arts (Importance: 1.48/5 | Level: 0.76/7)
+- Geography (Importance: 1.48/5 | Level: 0.87/7)
+- Food Production (Importance: 1.38/5 | Level: 0.38/7)
+- Biology (Importance: 1.38/5 | Level: 0.57/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Programming (Importance: 4.12/5 | Level: 4.12/7)
@@ -236,3 +272,25 @@ Develop programs to control machining or processing of materials by automatic ma
 - Primary Interest: Conventional
 - Secondary Interest: Realistic
 - Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Computer Numerically Controlled Tool Operators
+- Machinists
+- Robotics Technicians
+- Electromechanical Equipment Assemblers
+- Mechanical Engineering Technologists and Technicians
+- Mechanical Drafters
+- Electrical and Electronic Engineering Technologists and Technicians
+- Calibration Technologists and Technicians
+- Model Makers, Metal and Plastic
+- Patternmakers, Metal and Plastic
+- Software Developers
+- Mechatronics Engineers
+- Computer Programmers
+- Electrical and Electronic Equipment Assemblers
+- Engine and Other Machine Assemblers
+- Electronics Engineers, Except Computer
+- Computer Hardware Engineers
+- Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+- Electrical and Electronics Drafters
+- Electrical and Electronics Repairers, Commercial and Industrial Equipment

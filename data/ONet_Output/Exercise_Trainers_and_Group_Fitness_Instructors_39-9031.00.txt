@@ -27,6 +27,42 @@ Instruct or coach groups or individuals in exercise activities for the primary p
 - Massage body parts to relieve soreness, strains, and bruises.
 - Organize and conduct competitions and tournaments.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.0/5 | Level: 4.19/7)
+- English Language (Importance: 3.76/5 | Level: 3.62/7)
+- Education and Training (Importance: 3.52/5 | Level: 4.25/7)
+- Psychology (Importance: 3.1/5 | Level: 3.24/7)
+- Sales and Marketing (Importance: 2.76/5 | Level: 3.38/7)
+- Medicine and Dentistry (Importance: 2.57/5 | Level: 2.14/7)
+- Biology (Importance: 2.48/5 | Level: 2.38/7)
+- Therapy and Counseling (Importance: 2.43/5 | Level: 2.48/7)
+- Administration and Management (Importance: 2.38/5 | Level: 2.52/7)
+- Computers and Electronics (Importance: 2.29/5 | Level: 2.57/7)
+- Administrative (Importance: 2.24/5 | Level: 2.43/7)
+- Communications and Media (Importance: 2.24/5 | Level: 2.19/7)
+- Public Safety and Security (Importance: 2.19/5 | Level: 1.71/7)
+- Sociology and Anthropology (Importance: 2.14/5 | Level: 2.0/7)
+- Personnel and Human Resources (Importance: 2.1/5 | Level: 2.14/7)
+- Economics and Accounting (Importance: 2.0/5 | Level: 1.76/7)
+- Mathematics (Importance: 2.0/5 | Level: 1.76/7)
+- Law and Government (Importance: 1.81/5 | Level: 1.33/7)
+- Physics (Importance: 1.81/5 | Level: 1.38/7)
+- Telecommunications (Importance: 1.71/5 | Level: 0.76/7)
+- Production and Processing (Importance: 1.71/5 | Level: 1.24/7)
+- Fine Arts (Importance: 1.71/5 | Level: 1.29/7)
+- Mechanical (Importance: 1.71/5 | Level: 1.15/7)
+- Design (Importance: 1.67/5 | Level: 0.95/7)
+- Chemistry (Importance: 1.57/5 | Level: 1.29/7)
+- Transportation (Importance: 1.43/5 | Level: 0.71/7)
+- Foreign Language (Importance: 1.43/5 | Level: 0.71/7)
+- Food Production (Importance: 1.43/5 | Level: 0.81/7)
+- Engineering and Technology (Importance: 1.43/5 | Level: 0.9/7)
+- Philosophy and Theology (Importance: 1.38/5 | Level: 1.05/7)
+- Geography (Importance: 1.33/5 | Level: 0.71/7)
+- History and Archeology (Importance: 1.29/5 | Level: 0.67/7)
+- Building and Construction (Importance: 1.14/5 | Level: 0.19/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Instructing (Importance: 4.0/5 | Level: 3.62/7)
@@ -185,3 +221,25 @@ Instruct or coach groups or individuals in exercise activities for the primary p
 - Primary Interest: Social
 - Secondary Interest: Realistic
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Exercise Physiologists
+- Fitness and Wellness Coordinators
+- Coaches and Scouts
+- Self-Enrichment Teachers
+- Recreational Therapists
+- Physical Therapist Assistants
+- Physical Therapist Aides
+- Recreation Workers
+- Occupational Therapy Aides
+- Occupational Therapy Assistants
+- Athletic Trainers
+- Training and Development Specialists
+- Recreation and Fitness Studies Teachers, Postsecondary
+- Training and Development Managers
+- Adapted Physical Education Specialists
+- Dietitians and Nutritionists
+- Occupational Therapists
+- Physical Therapists
+- Health Education Specialists
+- Animal Trainers

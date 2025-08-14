@@ -19,6 +19,42 @@ Perform routine medical laboratory tests for the diagnosis, treatment, and preve
 - Test raw materials, processes, or finished products to determine quality or quantity of materials or characteristics of a substance.
 - Analyze and record test data to issue reports that use charts, graphs, or narratives.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Biology (Importance: 3.73/5 | Level: 4.32/7)
+- Chemistry (Importance: 3.73/5 | Level: 4.43/7)
+- English Language (Importance: 3.59/5 | Level: 3.9/7)
+- Mathematics (Importance: 3.5/5 | Level: 4.13/7)
+- Customer and Personal Service (Importance: 3.49/5 | Level: 4.3/7)
+- Public Safety and Security (Importance: 3.44/5 | Level: 3.22/7)
+- Administrative (Importance: 3.34/5 | Level: 3.85/7)
+- Medicine and Dentistry (Importance: 3.27/5 | Level: 3.27/7)
+- Education and Training (Importance: 2.98/5 | Level: 3.05/7)
+- Computers and Electronics (Importance: 2.91/5 | Level: 3.79/7)
+- Production and Processing (Importance: 2.9/5 | Level: 3.12/7)
+- Law and Government (Importance: 2.55/5 | Level: 2.31/7)
+- Mechanical (Importance: 2.53/5 | Level: 2.52/7)
+- Administration and Management (Importance: 2.21/5 | Level: 1.96/7)
+- Engineering and Technology (Importance: 2.19/5 | Level: 1.8/7)
+- Telecommunications (Importance: 2.17/5 | Level: 1.01/7)
+- Physics (Importance: 2.16/5 | Level: 1.94/7)
+- Psychology (Importance: 2.01/5 | Level: 2.26/7)
+- Communications and Media (Importance: 1.89/5 | Level: 1.32/7)
+- Personnel and Human Resources (Importance: 1.78/5 | Level: 1.29/7)
+- Transportation (Importance: 1.72/5 | Level: 1.12/7)
+- Sociology and Anthropology (Importance: 1.68/5 | Level: 1.47/7)
+- Foreign Language (Importance: 1.59/5 | Level: 0.87/7)
+- Therapy and Counseling (Importance: 1.58/5 | Level: 1.03/7)
+- Philosophy and Theology (Importance: 1.48/5 | Level: 0.85/7)
+- Economics and Accounting (Importance: 1.45/5 | Level: 0.74/7)
+- Sales and Marketing (Importance: 1.29/5 | Level: 0.65/7)
+- Design (Importance: 1.12/5 | Level: 0.24/7)
+- Geography (Importance: 1.09/5 | Level: 0.17/7)
+- Food Production (Importance: 1.07/5 | Level: 0.14/7)
+- History and Archeology (Importance: 1.06/5 | Level: 0.17/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+- Building and Construction (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Active Listening (Importance: 3.88/5 | Level: 3.12/7)
@@ -243,3 +279,25 @@ Perform routine medical laboratory tests for the diagnosis, treatment, and preve
 - Primary Interest: Realistic
 - Secondary Interest: Investigative
 - Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Histology Technicians
+- Histotechnologists
+- Medical and Clinical Laboratory Technologists
+- Cytogenetic Technologists
+- Cardiovascular Technologists and Technicians
+- Cytotechnologists
+- Phlebotomists
+- Nuclear Medicine Technologists
+- Neurodiagnostic Technologists
+- Radiologic Technologists and Technicians
+- Physicians, Pathologists
+- Biological Technicians
+- Surgical Technologists
+- Microbiologists
+- Medical Equipment Preparers
+- Cardiologists
+- Surgical Assistants
+- Diagnostic Medical Sonographers
+- Anesthesiologist Assistants
+- Calibration Technologists and Technicians

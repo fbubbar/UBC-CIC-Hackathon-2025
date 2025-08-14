@@ -20,6 +20,42 @@ Help extraction craft workers, such as earth drillers, blasters and explosives w
 - Dismantle extracting and boring equipment used for excavation, using hand tools.
 - Dig trenches.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 4.04/5 | Level: 4.44/7)
+- English Language (Importance: 3.53/5 | Level: 2.71/7)
+- Transportation (Importance: 3.34/5 | Level: 3.31/7)
+- Mathematics (Importance: 3.03/5 | Level: 2.82/7)
+- Public Safety and Security (Importance: 2.93/5 | Level: 3.32/7)
+- Administration and Management (Importance: 2.93/5 | Level: 2.63/7)
+- Education and Training (Importance: 2.86/5 | Level: 2.61/7)
+- Production and Processing (Importance: 2.81/5 | Level: 2.93/7)
+- Customer and Personal Service (Importance: 2.77/5 | Level: 2.94/7)
+- Engineering and Technology (Importance: 2.56/5 | Level: 2.86/7)
+- Personnel and Human Resources (Importance: 2.48/5 | Level: 1.92/7)
+- Physics (Importance: 2.42/5 | Level: 2.46/7)
+- Chemistry (Importance: 2.35/5 | Level: 2.22/7)
+- Building and Construction (Importance: 2.23/5 | Level: 2.49/7)
+- Law and Government (Importance: 2.17/5 | Level: 1.94/7)
+- Sales and Marketing (Importance: 2.16/5 | Level: 1.75/7)
+- Economics and Accounting (Importance: 2.15/5 | Level: 1.68/7)
+- Administrative (Importance: 2.13/5 | Level: 1.65/7)
+- Computers and Electronics (Importance: 2.06/5 | Level: 1.59/7)
+- Design (Importance: 1.96/5 | Level: 1.55/7)
+- Telecommunications (Importance: 1.92/5 | Level: 0.82/7)
+- Geography (Importance: 1.87/5 | Level: 1.38/7)
+- Communications and Media (Importance: 1.79/5 | Level: 1.21/7)
+- Medicine and Dentistry (Importance: 1.57/5 | Level: 0.8/7)
+- Biology (Importance: 1.56/5 | Level: 1.0/7)
+- Psychology (Importance: 1.54/5 | Level: 1.25/7)
+- Foreign Language (Importance: 1.35/5 | Level: 0.52/7)
+- Food Production (Importance: 1.26/5 | Level: 0.26/7)
+- Sociology and Anthropology (Importance: 1.2/5 | Level: 0.43/7)
+- Therapy and Counseling (Importance: 1.19/5 | Level: 0.37/7)
+- History and Archeology (Importance: 1.03/5 | Level: 0.03/7)
+- Philosophy and Theology (Importance: 1.0/5 | Level: 0.0/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Monitoring (Importance: 3.75/5 | Level: 3.12/7)
@@ -161,3 +197,25 @@ Help extraction craft workers, such as earth drillers, blasters and explosives w
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Helpers--Installation, Maintenance, and Repair Workers
+- Helpers--Production Workers
+- Earth Drillers, Except Oil and Gas
+- Rotary Drill Operators, Oil and Gas
+- Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters
+- Helpers--Carpenters
+- Continuous Mining Machine Operators
+- Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons
+- Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters
+- Helpers--Electricians
+- Roustabouts, Oil and Gas
+- Excavating and Loading Machine and Dragline Operators, Surface Mining
+- Operating Engineers and Other Construction Equipment Operators
+- Maintenance Workers, Machinery
+- Hoist and Winch Operators
+- Construction Laborers
+- Laborers and Freight, Stock, and Material Movers, Hand
+- Machine Feeders and Offbearers
+- Tool Grinders, Filers, and Sharpeners
+- Service Unit Operators, Oil and Gas

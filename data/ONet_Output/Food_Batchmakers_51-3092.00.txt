@@ -31,6 +31,42 @@ Set up and operate equipment that mixes or blends ingredients used in the manufa
 - Formulate or modify recipes for specific kinds of food products.
 - Inspect and pack the final product.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Public Safety and Security (Importance: 4.29/5 | Level: 4.02/7)
+- Food Production (Importance: 4.26/5 | Level: 4.19/7)
+- Production and Processing (Importance: 4.21/5 | Level: 3.86/7)
+- Education and Training (Importance: 3.57/5 | Level: 3.74/7)
+- English Language (Importance: 3.47/5 | Level: 3.51/7)
+- Administration and Management (Importance: 3.15/5 | Level: 3.54/7)
+- Mechanical (Importance: 3.15/5 | Level: 3.13/7)
+- Mathematics (Importance: 3.12/5 | Level: 3.04/7)
+- Computers and Electronics (Importance: 3.09/5 | Level: 3.13/7)
+- Administrative (Importance: 2.91/5 | Level: 3.24/7)
+- Customer and Personal Service (Importance: 2.9/5 | Level: 3.01/7)
+- Engineering and Technology (Importance: 2.61/5 | Level: 2.78/7)
+- Personnel and Human Resources (Importance: 2.58/5 | Level: 1.82/7)
+- Chemistry (Importance: 2.49/5 | Level: 3.39/7)
+- Psychology (Importance: 2.47/5 | Level: 2.38/7)
+- Law and Government (Importance: 2.42/5 | Level: 2.35/7)
+- Physics (Importance: 2.4/5 | Level: 2.57/7)
+- Economics and Accounting (Importance: 2.36/5 | Level: 1.78/7)
+- Biology (Importance: 2.35/5 | Level: 2.32/7)
+- Design (Importance: 2.33/5 | Level: 1.82/7)
+- Communications and Media (Importance: 2.2/5 | Level: 1.87/7)
+- Transportation (Importance: 2.17/5 | Level: 1.58/7)
+- Sociology and Anthropology (Importance: 2.09/5 | Level: 1.87/7)
+- Sales and Marketing (Importance: 2.07/5 | Level: 1.46/7)
+- Telecommunications (Importance: 1.83/5 | Level: 1.02/7)
+- Building and Construction (Importance: 1.8/5 | Level: 1.02/7)
+- Geography (Importance: 1.68/5 | Level: 1.32/7)
+- Therapy and Counseling (Importance: 1.59/5 | Level: 1.05/7)
+- Medicine and Dentistry (Importance: 1.5/5 | Level: 0.71/7)
+- Philosophy and Theology (Importance: 1.49/5 | Level: 0.74/7)
+- Foreign Language (Importance: 1.43/5 | Level: 0.84/7)
+- History and Archeology (Importance: 1.26/5 | Level: 0.26/7)
+- Fine Arts (Importance: 1.13/5 | Level: 0.25/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Operations Monitoring (Importance: 3.25/5 | Level: 3.0/7)
@@ -186,3 +222,25 @@ Set up and operate equipment that mixes or blends ingredients used in the manufa
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Food Cooking Machine Operators and Tenders
+- Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders
+- Mixing and Blending Machine Setters, Operators, and Tenders
+- Bakers
+- Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders
+- Graders and Sorters, Agricultural Products
+- Cooling and Freezing Equipment Operators and Tenders
+- Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders
+- Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders
+- Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders
+- Packaging and Filling Machine Operators and Tenders
+- Cooks, Restaurant
+- Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders
+- Packers and Packagers, Hand
+- Machine Feeders and Offbearers
+- Cutting and Slicing Machine Setters, Operators, and Tenders
+- Textile Bleaching and Dyeing Machine Operators and Tenders
+- Rolling Machine Setters, Operators, and Tenders, Metal and Plastic
+- Adhesive Bonding Machine Operators and Tenders
+- Food Science Technicians

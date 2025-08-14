@@ -17,6 +17,42 @@ Help painters, paperhangers, plasterers, or stucco masons by performing duties r
 - Remove articles such as cabinets, metal furniture, and paint containers from stripping tanks after prescribed periods of time.
 - Pour specified amounts of chemical solutions into stripping tanks.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Building and Construction (Importance: 3.13/5 | Level: 3.59/7)
+- English Language (Importance: 3.1/5 | Level: 2.09/7)
+- Administration and Management (Importance: 2.26/5 | Level: 2.25/7)
+- Public Safety and Security (Importance: 2.21/5 | Level: 1.75/7)
+- Mathematics (Importance: 2.2/5 | Level: 1.74/7)
+- Customer and Personal Service (Importance: 2.18/5 | Level: 1.71/7)
+- Design (Importance: 2.14/5 | Level: 1.98/7)
+- Education and Training (Importance: 2.02/5 | Level: 1.72/7)
+- Transportation (Importance: 1.99/5 | Level: 1.25/7)
+- Mechanical (Importance: 1.89/5 | Level: 1.44/7)
+- Personnel and Human Resources (Importance: 1.86/5 | Level: 0.88/7)
+- Engineering and Technology (Importance: 1.84/5 | Level: 0.82/7)
+- Administrative (Importance: 1.77/5 | Level: 0.73/7)
+- Foreign Language (Importance: 1.76/5 | Level: 0.77/7)
+- Production and Processing (Importance: 1.73/5 | Level: 0.98/7)
+- Sales and Marketing (Importance: 1.68/5 | Level: 0.78/7)
+- Chemistry (Importance: 1.62/5 | Level: 1.04/7)
+- Economics and Accounting (Importance: 1.57/5 | Level: 0.81/7)
+- Physics (Importance: 1.42/5 | Level: 0.62/7)
+- Psychology (Importance: 1.41/5 | Level: 0.8/7)
+- Law and Government (Importance: 1.31/5 | Level: 0.6/7)
+- Geography (Importance: 1.21/5 | Level: 0.31/7)
+- Computers and Electronics (Importance: 1.21/5 | Level: 0.34/7)
+- Telecommunications (Importance: 1.15/5 | Level: 0.17/7)
+- Food Production (Importance: 1.14/5 | Level: 0.24/7)
+- Philosophy and Theology (Importance: 1.11/5 | Level: 0.3/7)
+- Sociology and Anthropology (Importance: 1.11/5 | Level: 0.24/7)
+- Medicine and Dentistry (Importance: 1.1/5 | Level: 0.18/7)
+- Biology (Importance: 1.09/5 | Level: 0.17/7)
+- Therapy and Counseling (Importance: 1.09/5 | Level: 0.18/7)
+- Communications and Media (Importance: 1.08/5 | Level: 0.13/7)
+- History and Archeology (Importance: 1.03/5 | Level: 0.14/7)
+- Fine Arts (Importance: 1.03/5 | Level: 0.1/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Coordination (Importance: 3.0/5 | Level: 2.62/7)
@@ -184,3 +220,25 @@ Help painters, paperhangers, plasterers, or stucco masons by performing duties r
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters
+- Helpers--Carpenters
+- Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters
+- Plasterers and Stucco Masons
+- Painters, Construction and Maintenance
+- Helpers--Installation, Maintenance, and Repair Workers
+- Helpers--Roofers
+- Helpers--Electricians
+- Helpers--Production Workers
+- Helpers--Extraction Workers
+- Carpenters
+- Roofers
+- Painting, Coating, and Decorating Workers
+- Drywall and Ceiling Tile Installers
+- Cement Masons and Concrete Finishers
+- Brickmasons and Blockmasons
+- Insulation Workers, Floor, Ceiling, and Wall
+- Terrazzo Workers and Finishers
+- Construction Laborers
+- Paperhangers

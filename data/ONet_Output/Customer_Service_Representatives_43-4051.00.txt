@@ -19,6 +19,42 @@ Interact with customers to provide basic or scripted information in response to 
 - Obtain and examine all relevant information to assess validity of complaints and to determine possible causes, such as extreme weather conditions that could increase utility bills.
 - Recommend improvements in products, packaging, shipping, service, or billing methods and procedures to prevent future problems.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.7/5 | Level: 5.67/7)
+- English Language (Importance: 3.92/5 | Level: 3.47/7)
+- Administration and Management (Importance: 3.51/5 | Level: 3.4/7)
+- Sales and Marketing (Importance: 3.45/5 | Level: 3.71/7)
+- Mathematics (Importance: 3.34/5 | Level: 3.38/7)
+- Administrative (Importance: 3.29/5 | Level: 3.78/7)
+- Computers and Electronics (Importance: 3.28/5 | Level: 3.49/7)
+- Economics and Accounting (Importance: 2.91/5 | Level: 2.38/7)
+- Public Safety and Security (Importance: 2.82/5 | Level: 1.96/7)
+- Education and Training (Importance: 2.55/5 | Level: 1.81/7)
+- Personnel and Human Resources (Importance: 2.46/5 | Level: 1.67/7)
+- Telecommunications (Importance: 2.39/5 | Level: 1.33/7)
+- Psychology (Importance: 2.22/5 | Level: 2.04/7)
+- Transportation (Importance: 2.13/5 | Level: 1.43/7)
+- Communications and Media (Importance: 2.13/5 | Level: 1.59/7)
+- Production and Processing (Importance: 2.01/5 | Level: 1.4/7)
+- Law and Government (Importance: 1.99/5 | Level: 1.11/7)
+- Sociology and Anthropology (Importance: 1.75/5 | Level: 1.53/7)
+- Medicine and Dentistry (Importance: 1.69/5 | Level: 0.79/7)
+- Geography (Importance: 1.63/5 | Level: 1.22/7)
+- Engineering and Technology (Importance: 1.6/5 | Level: 0.79/7)
+- Therapy and Counseling (Importance: 1.58/5 | Level: 0.79/7)
+- Foreign Language (Importance: 1.45/5 | Level: 0.66/7)
+- Philosophy and Theology (Importance: 1.44/5 | Level: 0.73/7)
+- Mechanical (Importance: 1.34/5 | Level: 0.4/7)
+- Building and Construction (Importance: 1.31/5 | Level: 0.45/7)
+- Chemistry (Importance: 1.3/5 | Level: 0.71/7)
+- Physics (Importance: 1.29/5 | Level: 0.43/7)
+- Design (Importance: 1.29/5 | Level: 0.49/7)
+- Biology (Importance: 1.25/5 | Level: 0.53/7)
+- Food Production (Importance: 1.14/5 | Level: 0.21/7)
+- History and Archeology (Importance: 1.08/5 | Level: 0.14/7)
+- Fine Arts (Importance: 1.07/5 | Level: 0.05/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Service Orientation (Importance: 4.0/5 | Level: 3.62/7)
@@ -250,3 +286,25 @@ Interact with customers to provide basic or scripted information in response to 
 - Primary Interest: Conventional
 - Secondary Interest: Enterprising
 - Tertiary Interest: Social
+
+# RELATED OCCUPATIONS
+- Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel
+- Telemarketers
+- Insurance Claims and Policy Processing Clerks
+- New Accounts Clerks
+- Credit Authorizers, Checkers, and Clerks
+- Billing and Posting Clerks
+- Receptionists and Information Clerks
+- Brokerage Clerks
+- Bill and Account Collectors
+- Order Clerks
+- First-Line Supervisors of Non-Retail Sales Workers
+- First-Line Supervisors of Office and Administrative Support Workers
+- Counter and Rental Clerks
+- Office Clerks, General
+- Eligibility Interviewers, Government Programs
+- Correspondence Clerks
+- Management Analysts
+- Sales Managers
+- Procurement Clerks
+- Insurance Sales Agents

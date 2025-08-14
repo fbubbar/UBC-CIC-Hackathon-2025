@@ -36,6 +36,42 @@ Teach or instruct individuals or groups for the primary purpose of self-enrichme
 - Participate in publicity planning and student recruitment.
 - Write instructional articles on designated subjects.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Education and Training (Importance: 4.27/5 | Level: 5.7/7)
+- Customer and Personal Service (Importance: 3.49/5 | Level: 4.09/7)
+- English Language (Importance: 3.25/5 | Level: 4.31/7)
+- Sociology and Anthropology (Importance: 2.48/5 | Level: 2.69/7)
+- Computers and Electronics (Importance: 2.46/5 | Level: 2.63/7)
+- Psychology (Importance: 2.45/5 | Level: 3.08/7)
+- Mathematics (Importance: 2.44/5 | Level: 2.28/7)
+- Foreign Language (Importance: 2.44/5 | Level: 2.24/7)
+- Communications and Media (Importance: 2.43/5 | Level: 2.47/7)
+- Sales and Marketing (Importance: 2.42/5 | Level: 2.21/7)
+- Geography (Importance: 2.19/5 | Level: 2.31/7)
+- Fine Arts (Importance: 2.17/5 | Level: 2.11/7)
+- Administration and Management (Importance: 2.07/5 | Level: 1.82/7)
+- Public Safety and Security (Importance: 2.04/5 | Level: 1.55/7)
+- Administrative (Importance: 2.02/5 | Level: 2.17/7)
+- Law and Government (Importance: 1.92/5 | Level: 2.07/7)
+- Physics (Importance: 1.89/5 | Level: 1.26/7)
+- Philosophy and Theology (Importance: 1.69/5 | Level: 1.44/7)
+- Personnel and Human Resources (Importance: 1.68/5 | Level: 1.48/7)
+- Therapy and Counseling (Importance: 1.66/5 | Level: 1.43/7)
+- History and Archeology (Importance: 1.64/5 | Level: 1.11/7)
+- Engineering and Technology (Importance: 1.61/5 | Level: 0.83/7)
+- Production and Processing (Importance: 1.57/5 | Level: 1.32/7)
+- Mechanical (Importance: 1.56/5 | Level: 1.37/7)
+- Biology (Importance: 1.48/5 | Level: 0.57/7)
+- Medicine and Dentistry (Importance: 1.42/5 | Level: 0.82/7)
+- Transportation (Importance: 1.4/5 | Level: 0.73/7)
+- Telecommunications (Importance: 1.26/5 | Level: 0.26/7)
+- Economics and Accounting (Importance: 1.23/5 | Level: 0.38/7)
+- Chemistry (Importance: 1.19/5 | Level: 0.69/7)
+- Design (Importance: 1.11/5 | Level: 0.31/7)
+- Food Production (Importance: 1.02/5 | Level: 0.04/7)
+- Building and Construction (Importance: 1.01/5 | Level: 0.01/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Speaking (Importance: 3.62/5 | Level: 3.62/7)
@@ -189,3 +225,25 @@ Teach or instruct individuals or groups for the primary purpose of self-enrichme
 - Primary Interest: Social
 - Secondary Interest: Artistic
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Secondary School Teachers, Except Special and Career/Technical Education
+- Special Education Teachers, Elementary School
+- Middle School Teachers, Except Special and Career/Technical Education
+- Elementary School Teachers, Except Special Education
+- Tutors
+- Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors
+- Art, Drama, and Music Teachers, Postsecondary
+- Special Education Teachers, Kindergarten
+- Special Education Teachers, Secondary School
+- Teaching Assistants, Special Education
+- Instructional Coordinators
+- Special Education Teachers, Middle School
+- Kindergarten Teachers, Except Special Education
+- Career/Technical Education Teachers, Secondary School
+- Career/Technical Education Teachers, Middle School
+- Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education
+- Recreation and Fitness Studies Teachers, Postsecondary
+- Teaching Assistants, Postsecondary
+- Adapted Physical Education Specialists
+- Career/Technical Education Teachers, Postsecondary

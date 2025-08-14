@@ -32,6 +32,42 @@ Teach courses in computer science. May specialize in a field of computer science
 - Provide professional consulting services to government or industry.
 - Act as advisers to student organizations.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Computers and Electronics (Importance: 4.8/5 | Level: 6.46/7)
+- Education and Training (Importance: 4.77/5 | Level: 6.44/7)
+- English Language (Importance: 4.18/5 | Level: 5.14/7)
+- Customer and Personal Service (Importance: 4.05/5 | Level: 5.32/7)
+- Mathematics (Importance: 3.88/5 | Level: 4.76/7)
+- Engineering and Technology (Importance: 3.82/5 | Level: 4.27/7)
+- Administration and Management (Importance: 3.77/5 | Level: 4.17/7)
+- Design (Importance: 3.5/5 | Level: 3.89/7)
+- Administrative (Importance: 3.5/5 | Level: 4.37/7)
+- Public Safety and Security (Importance: 3.49/5 | Level: 3.69/7)
+- Communications and Media (Importance: 3.37/5 | Level: 3.96/7)
+- Personnel and Human Resources (Importance: 3.3/5 | Level: 4.14/7)
+- Telecommunications (Importance: 3.3/5 | Level: 3.48/7)
+- Economics and Accounting (Importance: 3.05/5 | Level: 2.95/7)
+- Law and Government (Importance: 3.02/5 | Level: 3.35/7)
+- Psychology (Importance: 2.85/5 | Level: 2.76/7)
+- Sales and Marketing (Importance: 2.65/5 | Level: 3.63/7)
+- Physics (Importance: 2.49/5 | Level: 2.62/7)
+- Production and Processing (Importance: 2.46/5 | Level: 2.73/7)
+- Therapy and Counseling (Importance: 2.2/5 | Level: 2.24/7)
+- Philosophy and Theology (Importance: 2.15/5 | Level: 2.27/7)
+- Geography (Importance: 2.13/5 | Level: 2.13/7)
+- Sociology and Anthropology (Importance: 2.08/5 | Level: 1.97/7)
+- Mechanical (Importance: 1.91/5 | Level: 1.65/7)
+- Foreign Language (Importance: 1.88/5 | Level: 1.46/7)
+- Transportation (Importance: 1.75/5 | Level: 1.46/7)
+- Chemistry (Importance: 1.7/5 | Level: 1.28/7)
+- Fine Arts (Importance: 1.67/5 | Level: 0.94/7)
+- History and Archeology (Importance: 1.6/5 | Level: 1.17/7)
+- Building and Construction (Importance: 1.59/5 | Level: 0.9/7)
+- Food Production (Importance: 1.48/5 | Level: 0.97/7)
+- Biology (Importance: 1.47/5 | Level: 0.81/7)
+- Medicine and Dentistry (Importance: 1.21/5 | Level: 0.28/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Instructing (Importance: 4.12/5 | Level: 4.75/7)
@@ -215,3 +251,25 @@ Teach courses in computer science. May specialize in a field of computer science
 - Primary Interest: Social
 - Secondary Interest: Investigative
 - Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Computer and Information Systems Managers
+- Library Science Teachers, Postsecondary
+- Mathematical Science Teachers, Postsecondary
+- Business Teachers, Postsecondary
+- Engineering Teachers, Postsecondary
+- Software Developers
+- Physics Teachers, Postsecondary
+- Computer and Information Research Scientists
+- Computer Systems Engineers/Architects
+- Computer Hardware Engineers
+- Career/Technical Education Teachers, Middle School
+- Career/Technical Education Teachers, Secondary School
+- Instructional Coordinators
+- Career/Technical Education Teachers, Postsecondary
+- Computer Systems Analysts
+- Teaching Assistants, Postsecondary
+- Secondary School Teachers, Except Special and Career/Technical Education
+- Management Analysts
+- Tutors
+- Computer Programmers

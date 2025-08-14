@@ -23,6 +23,10 @@ Make immediate medical decisions and act to prevent death or further disability.
 - Select, request, perform, or interpret diagnostic procedures, such as laboratory tests, electrocardiograms, emergency ultrasounds, and radiographs.
 - Stabilize patients in critical condition.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- No specific knowledge areas listed.
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - No specific skills listed.
@@ -39,3 +43,25 @@ Make immediate medical decisions and act to prevent death or further disability.
 - Primary Interest: Investigative
 - Secondary Interest: Social
 - Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Family Medicine Physicians
+- General Internal Medicine Physicians
+- Anesthesiologists
+- Pediatricians, General
+- Physician Assistants
+- Physical Medicine and Rehabilitation Physicians
+- Psychiatrists
+- Obstetricians and Gynecologists
+- Pediatric Surgeons
+- Hospitalists
+- Paramedics
+- Nurse Practitioners
+- Clinical Nurse Specialists
+- Registered Nurses
+- Acute Care Nurses
+- Advanced Practice Psychiatric Nurses
+- Neurologists
+- Critical Care Nurses
+- Urologists
+- Emergency Medical Technicians

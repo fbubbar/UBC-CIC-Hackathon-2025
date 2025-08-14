@@ -23,6 +23,42 @@ Assist mentally impaired or emotionally disturbed patients, working under direct
 - Perform nursing duties, such as administering medications, measuring vital signs, collecting specimens, or drawing blood samples.
 - Interview patients upon admission and record information.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Psychology (Importance: 4.05/5 | Level: 4.46/7)
+- Customer and Personal Service (Importance: 3.58/5 | Level: 4.06/7)
+- Therapy and Counseling (Importance: 3.13/5 | Level: 3.57/7)
+- English Language (Importance: 3.11/5 | Level: 2.45/7)
+- Administrative (Importance: 2.99/5 | Level: 3.09/7)
+- Sociology and Anthropology (Importance: 2.98/5 | Level: 2.62/7)
+- Public Safety and Security (Importance: 2.86/5 | Level: 2.63/7)
+- Administration and Management (Importance: 2.52/5 | Level: 2.14/7)
+- Philosophy and Theology (Importance: 2.46/5 | Level: 2.66/7)
+- Education and Training (Importance: 2.45/5 | Level: 2.64/7)
+- Medicine and Dentistry (Importance: 2.36/5 | Level: 2.01/7)
+- Computers and Electronics (Importance: 2.34/5 | Level: 2.67/7)
+- Personnel and Human Resources (Importance: 2.27/5 | Level: 1.54/7)
+- Communications and Media (Importance: 2.21/5 | Level: 1.91/7)
+- Mathematics (Importance: 2.06/5 | Level: 1.47/7)
+- Transportation (Importance: 1.79/5 | Level: 1.14/7)
+- Foreign Language (Importance: 1.79/5 | Level: 0.94/7)
+- Law and Government (Importance: 1.75/5 | Level: 0.96/7)
+- Telecommunications (Importance: 1.75/5 | Level: 0.58/7)
+- Chemistry (Importance: 1.67/5 | Level: 1.28/7)
+- Economics and Accounting (Importance: 1.62/5 | Level: 0.93/7)
+- History and Archeology (Importance: 1.61/5 | Level: 1.09/7)
+- Biology (Importance: 1.57/5 | Level: 1.01/7)
+- Sales and Marketing (Importance: 1.55/5 | Level: 1.04/7)
+- Geography (Importance: 1.55/5 | Level: 0.97/7)
+- Mechanical (Importance: 1.44/5 | Level: 0.35/7)
+- Food Production (Importance: 1.43/5 | Level: 0.68/7)
+- Fine Arts (Importance: 1.35/5 | Level: 0.48/7)
+- Engineering and Technology (Importance: 1.3/5 | Level: 0.8/7)
+- Building and Construction (Importance: 1.28/5 | Level: 0.6/7)
+- Physics (Importance: 1.23/5 | Level: 0.26/7)
+- Design (Importance: 1.14/5 | Level: 0.23/7)
+- Production and Processing (Importance: 1.13/5 | Level: 0.19/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Speaking (Importance: 3.88/5 | Level: 3.0/7)
@@ -152,3 +188,25 @@ Assist mentally impaired or emotionally disturbed patients, working under direct
 - Primary Interest: Social
 - Secondary Interest: Investigative
 - Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Psychiatric Technicians
+- Occupational Therapy Aides
+- Physical Therapist Aides
+- Nursing Assistants
+- Home Health Aides
+- Occupational Therapy Assistants
+- Physical Therapist Assistants
+- Registered Nurses
+- Licensed Practical and Licensed Vocational Nurses
+- Medical Assistants
+- Emergency Medicine Physicians
+- Advanced Practice Psychiatric Nurses
+- Mental Health and Substance Abuse Social Workers
+- Mental Health Counselors
+- Healthcare Social Workers
+- Clinical Nurse Specialists
+- Acute Care Nurses
+- Recreational Therapists
+- Psychiatrists
+- Nurse Practitioners

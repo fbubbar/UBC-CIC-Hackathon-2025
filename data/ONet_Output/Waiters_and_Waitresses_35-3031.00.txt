@@ -31,6 +31,42 @@ Take orders and serve food and beverages to patrons at tables in dining establis
 - Provide guests with information about local areas, including directions.
 - Garnish and decorate dishes in preparation for serving.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.37/5 | Level: 4.17/7)
+- English Language (Importance: 3.75/5 | Level: 2.93/7)
+- Sales and Marketing (Importance: 3.47/5 | Level: 2.73/7)
+- Food Production (Importance: 3.25/5 | Level: 2.65/7)
+- Administration and Management (Importance: 2.91/5 | Level: 2.01/7)
+- Mathematics (Importance: 2.69/5 | Level: 2.38/7)
+- Personnel and Human Resources (Importance: 2.61/5 | Level: 1.93/7)
+- Psychology (Importance: 2.52/5 | Level: 2.75/7)
+- Computers and Electronics (Importance: 2.49/5 | Level: 2.37/7)
+- Education and Training (Importance: 2.46/5 | Level: 2.22/7)
+- Production and Processing (Importance: 2.27/5 | Level: 1.34/7)
+- Public Safety and Security (Importance: 2.14/5 | Level: 1.62/7)
+- Foreign Language (Importance: 2.13/5 | Level: 1.33/7)
+- Economics and Accounting (Importance: 2.05/5 | Level: 1.4/7)
+- Administrative (Importance: 1.9/5 | Level: 0.96/7)
+- Sociology and Anthropology (Importance: 1.84/5 | Level: 1.16/7)
+- Communications and Media (Importance: 1.83/5 | Level: 1.13/7)
+- Law and Government (Importance: 1.82/5 | Level: 1.14/7)
+- Transportation (Importance: 1.77/5 | Level: 0.92/7)
+- Design (Importance: 1.65/5 | Level: 0.68/7)
+- Telecommunications (Importance: 1.63/5 | Level: 0.76/7)
+- Geography (Importance: 1.48/5 | Level: 0.75/7)
+- Engineering and Technology (Importance: 1.46/5 | Level: 0.61/7)
+- Chemistry (Importance: 1.46/5 | Level: 0.74/7)
+- Medicine and Dentistry (Importance: 1.42/5 | Level: 0.47/7)
+- Therapy and Counseling (Importance: 1.41/5 | Level: 0.71/7)
+- Philosophy and Theology (Importance: 1.38/5 | Level: 0.69/7)
+- Building and Construction (Importance: 1.37/5 | Level: 0.4/7)
+- Mechanical (Importance: 1.35/5 | Level: 0.46/7)
+- Biology (Importance: 1.31/5 | Level: 0.54/7)
+- Physics (Importance: 1.3/5 | Level: 0.49/7)
+- Fine Arts (Importance: 1.27/5 | Level: 0.44/7)
+- History and Archeology (Importance: 1.14/5 | Level: 0.27/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Active Listening (Importance: 3.75/5 | Level: 2.88/7)
@@ -155,3 +191,25 @@ Take orders and serve food and beverages to patrons at tables in dining establis
 - Primary Interest: Social
 - Secondary Interest: Conventional
 - Tertiary Interest: Enterprising
+
+# RELATED OCCUPATIONS
+- Dining Room and Cafeteria Attendants and Bartender Helpers
+- Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop
+- Fast Food and Counter Workers
+- Food Servers, Nonrestaurant
+- Bartenders
+- Baristas
+- Cooks, Short Order
+- Food Preparation Workers
+- Food Service Managers
+- First-Line Supervisors of Food Preparation and Serving Workers
+- Cooks, Private Household
+- Chefs and Head Cooks
+- Cooks, Restaurant
+- Cooks, Institution and Cafeteria
+- Cooks, Fast Food
+- Locker Room, Coatroom, and Dressing Room Attendants
+- Concierges
+- Hotel, Motel, and Resort Desk Clerks
+- Cashiers
+- Dishwashers

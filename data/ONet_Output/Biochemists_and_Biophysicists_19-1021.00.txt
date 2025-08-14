@@ -30,6 +30,42 @@ Study the chemical composition or physical principles of living cells and organi
 - Investigate the nature, composition, or expression of genes or research how genetic engineering can impact these processes.
 - Produce pharmaceutically or industrially useful proteins, using recombinant DNA technology.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Biology (Importance: 4.65/5 | Level: 6.45/7)
+- Chemistry (Importance: 4.35/5 | Level: 5.65/7)
+- English Language (Importance: 4.3/5 | Level: 5.3/7)
+- Mathematics (Importance: 4.3/5 | Level: 5.8/7)
+- Physics (Importance: 4.05/5 | Level: 5.6/7)
+- Education and Training (Importance: 3.7/5 | Level: 4.85/7)
+- Computers and Electronics (Importance: 3.55/5 | Level: 5.1/7)
+- Engineering and Technology (Importance: 3.37/5 | Level: 4.1/7)
+- Administration and Management (Importance: 2.95/5 | Level: 3.95/7)
+- Medicine and Dentistry (Importance: 2.9/5 | Level: 3.3/7)
+- Mechanical (Importance: 2.55/5 | Level: 3.4/7)
+- Design (Importance: 2.45/5 | Level: 3.1/7)
+- Administrative (Importance: 2.15/5 | Level: 2.65/7)
+- Communications and Media (Importance: 2.15/5 | Level: 2.4/7)
+- Personnel and Human Resources (Importance: 2.05/5 | Level: 2.55/7)
+- Public Safety and Security (Importance: 2.05/5 | Level: 1.95/7)
+- Telecommunications (Importance: 2.0/5 | Level: 1.55/7)
+- Production and Processing (Importance: 1.9/5 | Level: 1.9/7)
+- Law and Government (Importance: 1.85/5 | Level: 1.8/7)
+- Building and Construction (Importance: 1.8/5 | Level: 1.7/7)
+- Economics and Accounting (Importance: 1.7/5 | Level: 1.4/7)
+- Psychology (Importance: 1.7/5 | Level: 1.8/7)
+- Therapy and Counseling (Importance: 1.5/5 | Level: 1.55/7)
+- Foreign Language (Importance: 1.45/5 | Level: 0.85/7)
+- Sales and Marketing (Importance: 1.45/5 | Level: 1.05/7)
+- Customer and Personal Service (Importance: 1.45/5 | Level: 1.1/7)
+- Philosophy and Theology (Importance: 1.45/5 | Level: 0.95/7)
+- Sociology and Anthropology (Importance: 1.4/5 | Level: 1.05/7)
+- Transportation (Importance: 1.4/5 | Level: 0.9/7)
+- History and Archeology (Importance: 1.3/5 | Level: 0.65/7)
+- Food Production (Importance: 1.3/5 | Level: 0.4/7)
+- Fine Arts (Importance: 1.25/5 | Level: 0.8/7)
+- Geography (Importance: 1.1/5 | Level: 0.5/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Science (Importance: 4.75/5 | Level: 5.12/7)
@@ -376,3 +412,25 @@ Study the chemical composition or physical principles of living cells and organi
 - Primary Interest: Investigative
 - Secondary Interest: Realistic
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Molecular and Cellular Biologists
+- Microbiologists
+- Geneticists
+- Medical Scientists, Except Epidemiologists
+- Chemists
+- Bioengineers and Biomedical Engineers
+- Bioinformatics Scientists
+- Physicists
+- Medical and Clinical Laboratory Technicians
+- Animal Scientists
+- Biological Technicians
+- Medical and Clinical Laboratory Technologists
+- Cytogenetic Technologists
+- Histotechnologists
+- Biologists
+- Nanotechnology Engineering Technologists and Technicians
+- Histology Technicians
+- Nanosystems Engineers
+- Data Scientists
+- Chemistry Teachers, Postsecondary

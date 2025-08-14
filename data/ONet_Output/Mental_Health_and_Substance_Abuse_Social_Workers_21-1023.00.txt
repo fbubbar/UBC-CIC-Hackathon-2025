@@ -19,6 +19,42 @@ Assess and treat individuals with mental, emotional, or substance abuse problems
 - Plan or conduct programs to prevent substance abuse, combat social problems, or improve health or counseling services in community.
 - Develop or advise on social policy or assist in community development.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Therapy and Counseling (Importance: 4.83/5 | Level: 6.57/7)
+- Psychology (Importance: 4.66/5 | Level: 6.24/7)
+- English Language (Importance: 3.9/5 | Level: 4.41/7)
+- Customer and Personal Service (Importance: 3.8/5 | Level: 4.91/7)
+- Education and Training (Importance: 3.68/5 | Level: 4.26/7)
+- Sociology and Anthropology (Importance: 3.61/5 | Level: 3.66/7)
+- Public Safety and Security (Importance: 3.3/5 | Level: 3.12/7)
+- Medicine and Dentistry (Importance: 3.04/5 | Level: 2.59/7)
+- Philosophy and Theology (Importance: 3.0/5 | Level: 3.32/7)
+- Administration and Management (Importance: 2.98/5 | Level: 2.86/7)
+- Law and Government (Importance: 2.97/5 | Level: 2.49/7)
+- Administrative (Importance: 2.94/5 | Level: 3.49/7)
+- Computers and Electronics (Importance: 2.8/5 | Level: 3.39/7)
+- Communications and Media (Importance: 2.64/5 | Level: 2.59/7)
+- Personnel and Human Resources (Importance: 2.54/5 | Level: 2.22/7)
+- Transportation (Importance: 1.85/5 | Level: 1.25/7)
+- Mathematics (Importance: 1.81/5 | Level: 1.6/7)
+- Telecommunications (Importance: 1.81/5 | Level: 0.86/7)
+- Biology (Importance: 1.76/5 | Level: 1.2/7)
+- Foreign Language (Importance: 1.52/5 | Level: 0.87/7)
+- Sales and Marketing (Importance: 1.46/5 | Level: 0.95/7)
+- Geography (Importance: 1.46/5 | Level: 1.23/7)
+- History and Archeology (Importance: 1.43/5 | Level: 0.93/7)
+- Chemistry (Importance: 1.37/5 | Level: 0.72/7)
+- Fine Arts (Importance: 1.32/5 | Level: 0.49/7)
+- Economics and Accounting (Importance: 1.23/5 | Level: 0.38/7)
+- Engineering and Technology (Importance: 1.12/5 | Level: 0.27/7)
+- Mechanical (Importance: 1.11/5 | Level: 0.34/7)
+- Production and Processing (Importance: 1.1/5 | Level: 0.17/7)
+- Food Production (Importance: 1.1/5 | Level: 0.29/7)
+- Design (Importance: 1.06/5 | Level: 0.24/7)
+- Building and Construction (Importance: 1.06/5 | Level: 0.14/7)
+- Physics (Importance: 1.01/5 | Level: 0.04/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Social Perceptiveness (Importance: 4.25/5 | Level: 5.12/7)
@@ -151,3 +187,25 @@ Assess and treat individuals with mental, emotional, or substance abuse problems
 - Primary Interest: Social
 - Secondary Interest: Investigative
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Mental Health Counselors
+- Healthcare Social Workers
+- Marriage and Family Therapists
+- Substance Abuse and Behavioral Disorder Counselors
+- Rehabilitation Counselors
+- Clinical and Counseling Psychologists
+- Child, Family, and School Social Workers
+- Psychiatrists
+- Advanced Practice Psychiatric Nurses
+- Clinical Neuropsychologists
+- Psychiatric Technicians
+- Psychiatric Aides
+- Social and Human Service Assistants
+- Emergency Medicine Physicians
+- Community Health Workers
+- Recreational Therapists
+- Occupational Therapy Aides
+- Occupational Therapy Assistants
+- Occupational Therapists
+- Educational, Guidance, and Career Counselors and Advisors

@@ -27,6 +27,42 @@ Identify, remove, pack, transport, or dispose of hazardous materials, including 
 - Apply bioremediation techniques to hazardous wastes to allow naturally occurring bacteria to break down toxic substances.
 - Package, store, or move irradiated fuel elements in the underwater storage basins of nuclear reactor plants, using machines or equipment.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Public Safety and Security (Importance: 3.6/5 | Level: 4.43/7)
+- Administration and Management (Importance: 3.46/5 | Level: 3.65/7)
+- Transportation (Importance: 3.41/5 | Level: 3.62/7)
+- Customer and Personal Service (Importance: 3.4/5 | Level: 3.88/7)
+- Building and Construction (Importance: 3.24/5 | Level: 3.51/7)
+- Mechanical (Importance: 3.1/5 | Level: 3.82/7)
+- English Language (Importance: 3.09/5 | Level: 3.58/7)
+- Mathematics (Importance: 2.84/5 | Level: 2.98/7)
+- Chemistry (Importance: 2.58/5 | Level: 3.61/7)
+- Administrative (Importance: 2.58/5 | Level: 2.86/7)
+- Law and Government (Importance: 2.57/5 | Level: 2.38/7)
+- Engineering and Technology (Importance: 2.56/5 | Level: 2.61/7)
+- Personnel and Human Resources (Importance: 2.53/5 | Level: 2.57/7)
+- Education and Training (Importance: 2.52/5 | Level: 3.08/7)
+- Design (Importance: 2.51/5 | Level: 2.72/7)
+- Physics (Importance: 2.41/5 | Level: 2.87/7)
+- Sales and Marketing (Importance: 2.33/5 | Level: 2.31/7)
+- Foreign Language (Importance: 2.27/5 | Level: 1.44/7)
+- Telecommunications (Importance: 2.26/5 | Level: 1.58/7)
+- Biology (Importance: 2.23/5 | Level: 1.9/7)
+- Production and Processing (Importance: 2.17/5 | Level: 2.17/7)
+- Medicine and Dentistry (Importance: 2.12/5 | Level: 1.62/7)
+- Computers and Electronics (Importance: 2.06/5 | Level: 2.08/7)
+- Psychology (Importance: 2.06/5 | Level: 2.32/7)
+- Economics and Accounting (Importance: 2.04/5 | Level: 1.84/7)
+- Food Production (Importance: 1.95/5 | Level: 1.9/7)
+- Geography (Importance: 1.8/5 | Level: 1.86/7)
+- Communications and Media (Importance: 1.75/5 | Level: 1.76/7)
+- Fine Arts (Importance: 1.74/5 | Level: 0.96/7)
+- Philosophy and Theology (Importance: 1.7/5 | Level: 1.17/7)
+- Therapy and Counseling (Importance: 1.69/5 | Level: 1.27/7)
+- Sociology and Anthropology (Importance: 1.67/5 | Level: 1.2/7)
+- History and Archeology (Importance: 1.53/5 | Level: 0.81/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Monitoring (Importance: 3.62/5 | Level: 3.12/7)
@@ -267,3 +303,25 @@ Identify, remove, pack, transport, or dispose of hazardous materials, including 
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Recycling and Reclamation Workers
+- Highway Maintenance Workers
+- Water and Wastewater Treatment Plant and System Operators
+- Septic Tank Servicers and Sewer Pipe Cleaners
+- Refuse and Recyclable Material Collectors
+- Insulation Workers, Floor, Ceiling, and Wall
+- Construction Laborers
+- Explosives Workers, Ordnance Handling Experts, and Blasters
+- Cleaners of Vehicles and Equipment
+- Recycling Coordinators
+- Environmental Science and Protection Technicians, Including Health
+- Environmental Engineers
+- Environmental Engineering Technologists and Technicians
+- Operating Engineers and Other Construction Equipment Operators
+- Occupational Health and Safety Specialists
+- Maintenance and Repair Workers, General
+- Nuclear Monitoring Technicians
+- Health and Safety Engineers, Except Mining Safety Engineers and Inspectors
+- Helpers--Extraction Workers
+- Service Unit Operators, Oil and Gas

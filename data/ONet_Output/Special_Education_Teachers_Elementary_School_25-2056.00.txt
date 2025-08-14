@@ -36,6 +36,10 @@ Teach academic, social, and life skills to elementary school students with learn
 - Teach socially acceptable behavior, employing techniques such as behavior modification or positive reinforcement.
 - Teach students personal development skills, such as goal setting, independence, or self-advocacy.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- No specific knowledge areas listed.
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - No specific skills listed.
@@ -132,3 +136,25 @@ Teach academic, social, and life skills to elementary school students with learn
 - Primary Interest: Social
 - Secondary Interest: Investigative
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Special Education Teachers, Kindergarten
+- Special Education Teachers, Secondary School
+- Special Education Teachers, Middle School
+- Special Education Teachers, Preschool
+- Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors
+- Tutors
+- Teaching Assistants, Special Education
+- Elementary School Teachers, Except Special Education
+- Kindergarten Teachers, Except Special Education
+- Adapted Physical Education Specialists
+- Middle School Teachers, Except Special and Career/Technical Education
+- Secondary School Teachers, Except Special and Career/Technical Education
+- Education Teachers, Postsecondary
+- Career/Technical Education Teachers, Middle School
+- School Psychologists
+- Preschool Teachers, Except Special Education
+- Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education
+- Instructional Coordinators
+- Educational, Guidance, and Career Counselors and Advisors
+- Self-Enrichment Teachers

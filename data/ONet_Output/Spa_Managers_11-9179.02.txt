@@ -27,6 +27,42 @@ Plan, direct, or coordinate activities of a spa facility. Coordinate programs, s
 - Check spa equipment to ensure proper functioning.
 - Develop staff service or retail goals and guide staff in goal achievement.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Administrative (Importance: 4.38/5 | Level: 4.97/7)
+- Customer and Personal Service (Importance: 4.29/5 | Level: 5.22/7)
+- Administration and Management (Importance: 4.18/5 | Level: 4.18/7)
+- English Language (Importance: 3.92/5 | Level: 3.8/7)
+- Education and Training (Importance: 3.67/5 | Level: 4.73/7)
+- Personnel and Human Resources (Importance: 3.56/5 | Level: 4.37/7)
+- Sales and Marketing (Importance: 3.43/5 | Level: 3.9/7)
+- Mathematics (Importance: 3.38/5 | Level: 4.08/7)
+- Economics and Accounting (Importance: 3.22/5 | Level: 3.45/7)
+- Psychology (Importance: 2.84/5 | Level: 2.91/7)
+- Communications and Media (Importance: 2.8/5 | Level: 3.03/7)
+- Computers and Electronics (Importance: 2.57/5 | Level: 3.17/7)
+- Therapy and Counseling (Importance: 2.55/5 | Level: 2.61/7)
+- Telecommunications (Importance: 2.38/5 | Level: 1.61/7)
+- Medicine and Dentistry (Importance: 2.2/5 | Level: 1.35/7)
+- Public Safety and Security (Importance: 1.85/5 | Level: 1.23/7)
+- Production and Processing (Importance: 1.83/5 | Level: 1.38/7)
+- Law and Government (Importance: 1.73/5 | Level: 1.19/7)
+- Sociology and Anthropology (Importance: 1.68/5 | Level: 1.17/7)
+- Chemistry (Importance: 1.68/5 | Level: 1.43/7)
+- Mechanical (Importance: 1.67/5 | Level: 1.39/7)
+- Biology (Importance: 1.57/5 | Level: 1.01/7)
+- Design (Importance: 1.46/5 | Level: 0.92/7)
+- Geography (Importance: 1.45/5 | Level: 0.88/7)
+- Engineering and Technology (Importance: 1.37/5 | Level: 0.81/7)
+- Transportation (Importance: 1.36/5 | Level: 0.95/7)
+- Foreign Language (Importance: 1.35/5 | Level: 0.81/7)
+- Philosophy and Theology (Importance: 1.28/5 | Level: 0.59/7)
+- Food Production (Importance: 1.08/5 | Level: 0.24/7)
+- Physics (Importance: 1.04/5 | Level: 0.04/7)
+- Building and Construction (Importance: 1.01/5 | Level: 0.01/7)
+- History and Archeology (Importance: 1.0/5 | Level: 0.01/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Speaking (Importance: 4.0/5 | Level: 4.0/7)
@@ -173,3 +209,25 @@ Plan, direct, or coordinate activities of a spa facility. Coordinate programs, s
 - Primary Interest: Enterprising
 - Secondary Interest: Conventional
 - Tertiary Interest: Social
+
+# RELATED OCCUPATIONS
+- Fitness and Wellness Coordinators
+- First-Line Supervisors of Personal Service Workers
+- Lodging Managers
+- First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services
+- Massage Therapists
+- Skincare Specialists
+- Hairdressers, Hairstylists, and Cosmetologists
+- Concierges
+- First-Line Supervisors of Housekeeping and Janitorial Workers
+- First-Line Supervisors of Office and Administrative Support Workers
+- Medical and Health Services Managers
+- Locker Room, Coatroom, and Dressing Room Attendants
+- Hotel, Motel, and Resort Desk Clerks
+- Food Service Managers
+- Barbers
+- Receptionists and Information Clerks
+- Exercise Trainers and Group Fitness Instructors
+- Training and Development Managers
+- Medical Secretaries and Administrative Assistants
+- First-Line Supervisors of Non-Retail Sales Workers

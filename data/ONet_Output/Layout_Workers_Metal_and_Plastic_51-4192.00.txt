@@ -20,6 +20,42 @@ Lay out reference points and dimensions on metal or plastic stock or workpieces,
 - Add dimensional details to blueprints or drawings made by other workers.
 - Apply pigment to layout surfaces, using paint brushes.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mathematics (Importance: 4.07/5 | Level: 4.18/7)
+- Design (Importance: 3.78/5 | Level: 4.55/7)
+- Mechanical (Importance: 3.51/5 | Level: 4.01/7)
+- Production and Processing (Importance: 3.36/5 | Level: 3.4/7)
+- Engineering and Technology (Importance: 3.31/5 | Level: 4.14/7)
+- English Language (Importance: 3.31/5 | Level: 3.71/7)
+- Building and Construction (Importance: 3.29/5 | Level: 4.18/7)
+- Administration and Management (Importance: 3.28/5 | Level: 2.72/7)
+- Computers and Electronics (Importance: 3.08/5 | Level: 3.07/7)
+- Education and Training (Importance: 3.03/5 | Level: 3.27/7)
+- Customer and Personal Service (Importance: 2.95/5 | Level: 3.19/7)
+- Public Safety and Security (Importance: 2.43/5 | Level: 2.47/7)
+- Personnel and Human Resources (Importance: 2.39/5 | Level: 1.9/7)
+- Transportation (Importance: 2.31/5 | Level: 2.3/7)
+- Physics (Importance: 2.29/5 | Level: 2.3/7)
+- Administrative (Importance: 2.13/5 | Level: 1.97/7)
+- Sales and Marketing (Importance: 1.89/5 | Level: 1.63/7)
+- Communications and Media (Importance: 1.87/5 | Level: 1.42/7)
+- Economics and Accounting (Importance: 1.82/5 | Level: 1.02/7)
+- Psychology (Importance: 1.8/5 | Level: 1.71/7)
+- Chemistry (Importance: 1.78/5 | Level: 1.72/7)
+- Law and Government (Importance: 1.7/5 | Level: 1.21/7)
+- Telecommunications (Importance: 1.69/5 | Level: 1.17/7)
+- Geography (Importance: 1.65/5 | Level: 1.32/7)
+- Sociology and Anthropology (Importance: 1.43/5 | Level: 0.78/7)
+- Philosophy and Theology (Importance: 1.37/5 | Level: 0.63/7)
+- Biology (Importance: 1.29/5 | Level: 0.59/7)
+- Food Production (Importance: 1.27/5 | Level: 0.47/7)
+- Medicine and Dentistry (Importance: 1.18/5 | Level: 0.41/7)
+- Foreign Language (Importance: 1.1/5 | Level: 0.25/7)
+- Therapy and Counseling (Importance: 1.1/5 | Level: 0.19/7)
+- Fine Arts (Importance: 1.05/5 | Level: 0.11/7)
+- History and Archeology (Importance: 1.05/5 | Level: 0.12/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Mathematics (Importance: 3.12/5 | Level: 3.12/7)
@@ -152,3 +188,25 @@ Lay out reference points and dimensions on metal or plastic stock or workpieces,
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Structural Metal Fabricators and Fitters
+- Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+- Patternmakers, Metal and Plastic
+- Model Makers, Metal and Plastic
+- Sheet Metal Workers
+- Tool and Die Makers
+- Patternmakers, Wood
+- Engine and Other Machine Assemblers
+- Structural Iron and Steel Workers
+- Molders, Shapers, and Casters, Except Metal and Plastic
+- Model Makers, Wood
+- Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders
+- Carpenters
+- Machinists
+- Boilermakers
+- Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic
+- Cabinetmakers and Bench Carpenters
+- Electrical and Electronic Equipment Assemblers
+- Mechanical Drafters
+- Electromechanical Equipment Assemblers

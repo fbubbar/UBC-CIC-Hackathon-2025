@@ -31,6 +31,42 @@ Apply hard tile, stone, and comparable materials to walls, floors, ceilings, cou
 - Select and order tile and other items to be installed, such as bathroom accessories, walls, panels, and cabinets, according to specifications.
 - Build underbeds and install anchor bolts, wires, and brackets.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Building and Construction (Importance: 3.97/5 | Level: 3.88/7)
+- Mathematics (Importance: 3.35/5 | Level: 3.27/7)
+- Customer and Personal Service (Importance: 3.04/5 | Level: 2.99/7)
+- Design (Importance: 3.01/5 | Level: 3.33/7)
+- Administration and Management (Importance: 2.57/5 | Level: 2.73/7)
+- Mechanical (Importance: 2.57/5 | Level: 2.28/7)
+- English Language (Importance: 2.52/5 | Level: 2.04/7)
+- Education and Training (Importance: 2.45/5 | Level: 2.8/7)
+- Economics and Accounting (Importance: 2.44/5 | Level: 2.27/7)
+- Production and Processing (Importance: 2.4/5 | Level: 2.4/7)
+- Transportation (Importance: 2.4/5 | Level: 2.18/7)
+- Sales and Marketing (Importance: 2.37/5 | Level: 2.05/7)
+- Public Safety and Security (Importance: 2.15/5 | Level: 1.93/7)
+- Engineering and Technology (Importance: 2.08/5 | Level: 2.04/7)
+- Administrative (Importance: 2.04/5 | Level: 1.92/7)
+- Physics (Importance: 1.95/5 | Level: 1.36/7)
+- Personnel and Human Resources (Importance: 1.95/5 | Level: 1.74/7)
+- Chemistry (Importance: 1.9/5 | Level: 1.75/7)
+- Foreign Language (Importance: 1.76/5 | Level: 1.18/7)
+- Communications and Media (Importance: 1.72/5 | Level: 1.35/7)
+- Law and Government (Importance: 1.6/5 | Level: 1.13/7)
+- Telecommunications (Importance: 1.49/5 | Level: 0.53/7)
+- Therapy and Counseling (Importance: 1.49/5 | Level: 0.74/7)
+- Psychology (Importance: 1.44/5 | Level: 0.87/7)
+- Geography (Importance: 1.4/5 | Level: 1.02/7)
+- Food Production (Importance: 1.37/5 | Level: 0.29/7)
+- Computers and Electronics (Importance: 1.32/5 | Level: 0.53/7)
+- Sociology and Anthropology (Importance: 1.31/5 | Level: 0.59/7)
+- Medicine and Dentistry (Importance: 1.24/5 | Level: 0.43/7)
+- History and Archeology (Importance: 1.22/5 | Level: 0.34/7)
+- Philosophy and Theology (Importance: 1.22/5 | Level: 0.5/7)
+- Biology (Importance: 1.19/5 | Level: 0.28/7)
+- Fine Arts (Importance: 1.16/5 | Level: 0.19/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Active Listening (Importance: 3.12/5 | Level: 3.0/7)
@@ -259,3 +295,25 @@ Apply hard tile, stone, and comparable materials to walls, floors, ceilings, cou
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Floor Layers, Except Carpet, Wood, and Hard Tiles
+- Terrazzo Workers and Finishers
+- Brickmasons and Blockmasons
+- Carpet Installers
+- Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters
+- Drywall and Ceiling Tile Installers
+- Cement Masons and Concrete Finishers
+- Plasterers and Stucco Masons
+- Floor Sanders and Finishers
+- Stonemasons
+- Stone Cutters and Carvers, Manufacturing
+- Insulation Workers, Floor, Ceiling, and Wall
+- Furniture Finishers
+- Carpenters
+- Segmental Pavers
+- Molders, Shapers, and Casters, Except Metal and Plastic
+- Roofers
+- Glaziers
+- Insulation Workers, Mechanical
+- Tapers

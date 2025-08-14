@@ -23,6 +23,42 @@ Manage operations at geothermal power generation facilities. Maintain and monito
 - Obtain permits for constructing, upgrading, or operating geothermal power plants.
 - Troubleshoot and make minor repairs to geothermal plant instrumentation or electrical systems.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 4.4/5 | Level: 5.89/7)
+- Administration and Management (Importance: 4.21/5 | Level: 4.63/7)
+- Production and Processing (Importance: 4.0/5 | Level: 4.64/7)
+- Public Safety and Security (Importance: 3.9/5 | Level: 4.64/7)
+- Mathematics (Importance: 3.89/5 | Level: 4.63/7)
+- Engineering and Technology (Importance: 3.81/5 | Level: 4.83/7)
+- English Language (Importance: 3.75/5 | Level: 3.84/7)
+- Personnel and Human Resources (Importance: 3.69/5 | Level: 4.36/7)
+- Education and Training (Importance: 3.55/5 | Level: 5.36/7)
+- Physics (Importance: 3.54/5 | Level: 4.68/7)
+- Design (Importance: 3.5/5 | Level: 3.95/7)
+- Chemistry (Importance: 3.46/5 | Level: 4.56/7)
+- Administrative (Importance: 3.45/5 | Level: 4.59/7)
+- Computers and Electronics (Importance: 3.36/5 | Level: 4.2/7)
+- Law and Government (Importance: 3.36/5 | Level: 3.54/7)
+- Building and Construction (Importance: 3.25/5 | Level: 4.53/7)
+- Economics and Accounting (Importance: 3.07/5 | Level: 3.04/7)
+- Psychology (Importance: 2.94/5 | Level: 3.56/7)
+- Customer and Personal Service (Importance: 2.93/5 | Level: 3.1/7)
+- Telecommunications (Importance: 2.8/5 | Level: 2.92/7)
+- Transportation (Importance: 2.63/5 | Level: 2.31/7)
+- Communications and Media (Importance: 2.41/5 | Level: 2.52/7)
+- Therapy and Counseling (Importance: 2.27/5 | Level: 2.76/7)
+- Biology (Importance: 2.21/5 | Level: 2.81/7)
+- Sociology and Anthropology (Importance: 2.12/5 | Level: 2.21/7)
+- Philosophy and Theology (Importance: 2.02/5 | Level: 2.79/7)
+- Geography (Importance: 2.01/5 | Level: 2.45/7)
+- Medicine and Dentistry (Importance: 1.86/5 | Level: 1.65/7)
+- Sales and Marketing (Importance: 1.79/5 | Level: 1.35/7)
+- Foreign Language (Importance: 1.77/5 | Level: 1.34/7)
+- History and Archeology (Importance: 1.64/5 | Level: 0.73/7)
+- Fine Arts (Importance: 1.15/5 | Level: 0.24/7)
+- Food Production (Importance: 1.14/5 | Level: 0.17/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Critical Thinking (Importance: 4.0/5 | Level: 3.88/7)
@@ -145,3 +181,25 @@ Manage operations at geothermal power generation facilities. Maintain and monito
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Enterprising
+
+# RELATED OCCUPATIONS
+- Hydroelectric Production Managers
+- Biomass Power Plant Managers
+- Biofuels Production Managers
+- Power Plant Operators
+- Wind Energy Operations Managers
+- Energy Engineers, Except Wind and Solar
+- Water and Wastewater Treatment Plant and System Operators
+- Gas Plant Operators
+- Industrial Production Managers
+- Quality Control Systems Managers
+- Geothermal Technicians
+- Hydroelectric Plant Technicians
+- Biomass Plant Technicians
+- Biofuels/Biodiesel Technology and Product Development Managers
+- Wind Energy Development Managers
+- Biofuels Processing Technicians
+- Water/Wastewater Engineers
+- Petroleum Engineers
+- Wind Energy Engineers
+- Wind Turbine Service Technicians

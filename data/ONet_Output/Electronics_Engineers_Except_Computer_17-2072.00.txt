@@ -26,6 +26,42 @@ Research, design, develop, or test electronic components and systems for commerc
 - Represent employer at conferences, meetings, boards, panels, committees, or working groups to present, explain, or defend findings or recommendations, negotiate compromises or agreements, or exchange information.
 - Research or develop new green electronics technologies, such as lighting, optical data storage devices, or energy efficient televisions.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Engineering and Technology (Importance: 4.75/5 | Level: 6.24/7)
+- Computers and Electronics (Importance: 4.55/5 | Level: 6.05/7)
+- Design (Importance: 4.34/5 | Level: 6.18/7)
+- Mathematics (Importance: 4.04/5 | Level: 5.38/7)
+- English Language (Importance: 3.75/5 | Level: 4.01/7)
+- Mechanical (Importance: 3.2/5 | Level: 4.28/7)
+- Physics (Importance: 3.17/5 | Level: 4.49/7)
+- Education and Training (Importance: 3.01/5 | Level: 3.74/7)
+- Production and Processing (Importance: 2.82/5 | Level: 2.84/7)
+- Administration and Management (Importance: 2.72/5 | Level: 3.54/7)
+- Law and Government (Importance: 2.65/5 | Level: 2.57/7)
+- Customer and Personal Service (Importance: 2.62/5 | Level: 2.57/7)
+- Telecommunications (Importance: 2.51/5 | Level: 1.83/7)
+- Public Safety and Security (Importance: 2.4/5 | Level: 2.4/7)
+- Chemistry (Importance: 2.4/5 | Level: 2.68/7)
+- Sales and Marketing (Importance: 2.16/5 | Level: 2.1/7)
+- Building and Construction (Importance: 2.11/5 | Level: 2.02/7)
+- Personnel and Human Resources (Importance: 2.11/5 | Level: 2.14/7)
+- Administrative (Importance: 2.1/5 | Level: 2.77/7)
+- Economics and Accounting (Importance: 1.94/5 | Level: 1.66/7)
+- Communications and Media (Importance: 1.76/5 | Level: 1.37/7)
+- Foreign Language (Importance: 1.51/5 | Level: 1.02/7)
+- Psychology (Importance: 1.5/5 | Level: 1.33/7)
+- Geography (Importance: 1.48/5 | Level: 1.15/7)
+- Transportation (Importance: 1.42/5 | Level: 0.72/7)
+- Therapy and Counseling (Importance: 1.4/5 | Level: 0.59/7)
+- Biology (Importance: 1.35/5 | Level: 0.48/7)
+- Sociology and Anthropology (Importance: 1.33/5 | Level: 0.79/7)
+- Medicine and Dentistry (Importance: 1.31/5 | Level: 0.39/7)
+- History and Archeology (Importance: 1.15/5 | Level: 0.38/7)
+- Fine Arts (Importance: 1.13/5 | Level: 0.13/7)
+- Philosophy and Theology (Importance: 1.09/5 | Level: 0.36/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Complex Problem Solving (Importance: 4.0/5 | Level: 4.12/7)
@@ -197,3 +233,25 @@ Research, design, develop, or test electronic components and systems for commerc
 - Primary Interest: Realistic
 - Secondary Interest: Investigative
 - Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Electrical and Electronic Engineering Technologists and Technicians
+- Computer Hardware Engineers
+- Electrical Engineers
+- Microsystems Engineers
+- Mechatronics Engineers
+- Radio Frequency Identification Device Specialists
+- Mechanical Engineers
+- Robotics Engineers
+- Photonics Engineers
+- Industrial Engineers
+- Electrical and Electronics Repairers, Commercial and Industrial Equipment
+- Calibration Technologists and Technicians
+- Software Developers
+- Robotics Technicians
+- Mechanical Engineering Technologists and Technicians
+- Electrical and Electronics Drafters
+- Electro-Mechanical and Mechatronics Technologists and Technicians
+- Electromechanical Equipment Assemblers
+- Aerospace Engineering and Operations Technologists and Technicians
+- Photonics Technicians

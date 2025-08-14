@@ -17,6 +17,42 @@ Conduct research in fundamental mathematics or in application of mathematical te
 - Develop computational methods for solving problems that occur in areas of science and engineering or that come from applications in business or industry.
 - Design, analyze, and decipher encryption systems designed to transmit military, political, financial, or law-enforcement-related information in code.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mathematics (Importance: 5.0/5 | Level: 6.83/7)
+- English Language (Importance: 3.79/5 | Level: 4.46/7)
+- Computers and Electronics (Importance: 3.46/5 | Level: 4.88/7)
+- Education and Training (Importance: 3.17/5 | Level: 4.75/7)
+- Engineering and Technology (Importance: 2.77/5 | Level: 3.67/7)
+- Physics (Importance: 2.71/5 | Level: 3.88/7)
+- Administration and Management (Importance: 2.17/5 | Level: 2.71/7)
+- Foreign Language (Importance: 2.0/5 | Level: 2.42/7)
+- Design (Importance: 1.92/5 | Level: 2.0/7)
+- Communications and Media (Importance: 1.88/5 | Level: 1.83/7)
+- Biology (Importance: 1.88/5 | Level: 2.29/7)
+- Customer and Personal Service (Importance: 1.83/5 | Level: 1.88/7)
+- Chemistry (Importance: 1.83/5 | Level: 1.92/7)
+- Economics and Accounting (Importance: 1.75/5 | Level: 1.67/7)
+- Administrative (Importance: 1.67/5 | Level: 1.17/7)
+- Personnel and Human Resources (Importance: 1.62/5 | Level: 1.54/7)
+- Public Safety and Security (Importance: 1.62/5 | Level: 1.08/7)
+- Law and Government (Importance: 1.58/5 | Level: 1.17/7)
+- Psychology (Importance: 1.54/5 | Level: 1.17/7)
+- Telecommunications (Importance: 1.54/5 | Level: 1.35/7)
+- Medicine and Dentistry (Importance: 1.54/5 | Level: 0.67/7)
+- Sales and Marketing (Importance: 1.5/5 | Level: 1.29/7)
+- Transportation (Importance: 1.42/5 | Level: 1.12/7)
+- Mechanical (Importance: 1.38/5 | Level: 0.88/7)
+- Production and Processing (Importance: 1.3/5 | Level: 0.83/7)
+- Philosophy and Theology (Importance: 1.29/5 | Level: 0.71/7)
+- History and Archeology (Importance: 1.29/5 | Level: 0.79/7)
+- Sociology and Anthropology (Importance: 1.29/5 | Level: 1.0/7)
+- Geography (Importance: 1.25/5 | Level: 0.88/7)
+- Therapy and Counseling (Importance: 1.12/5 | Level: 0.33/7)
+- Food Production (Importance: 1.08/5 | Level: 0.17/7)
+- Fine Arts (Importance: 1.04/5 | Level: 0.08/7)
+- Building and Construction (Importance: 1.04/5 | Level: 0.21/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Mathematics (Importance: 5.0/5 | Level: 6.0/7)
@@ -220,3 +256,25 @@ Conduct research in fundamental mathematics or in application of mathematical te
 - Primary Interest: Investigative
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Data Scientists
+- Physicists
+- Statisticians
+- Computer and Information Research Scientists
+- Bioinformatics Scientists
+- Biostatisticians
+- Operations Research Analysts
+- Bioinformatics Technicians
+- Astronomers
+- Mathematical Science Teachers, Postsecondary
+- Biochemists and Biophysicists
+- Physics Teachers, Postsecondary
+- Financial Quantitative Analysts
+- Geoscientists, Except Hydrologists and Geographers
+- Software Developers
+- Geneticists
+- Statistical Assistants
+- Molecular and Cellular Biologists
+- Bioengineers and Biomedical Engineers
+- Nanosystems Engineers

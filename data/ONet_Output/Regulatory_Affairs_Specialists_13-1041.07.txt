@@ -36,6 +36,42 @@ Coordinate and document internal regulatory processes, such as internal audits, 
 - Determine regulations or procedures related to the management, collection, reuse, recovery, or recycling of packaging waste.
 - Determine the legal implications of the production, supply, or use of ozone-depleting substances or equipment containing such substances.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- English Language (Importance: 4.5/5 | Level: 4.55/7)
+- Law and Government (Importance: 4.1/5 | Level: 4.55/7)
+- Biology (Importance: 3.45/5 | Level: 3.85/7)
+- Computers and Electronics (Importance: 3.4/5 | Level: 3.6/7)
+- Administration and Management (Importance: 3.37/5 | Level: 4.05/7)
+- Administrative (Importance: 3.17/5 | Level: 4.11/7)
+- Medicine and Dentistry (Importance: 2.79/5 | Level: 2.9/7)
+- Chemistry (Importance: 2.79/5 | Level: 3.35/7)
+- Communications and Media (Importance: 2.65/5 | Level: 2.8/7)
+- Production and Processing (Importance: 2.6/5 | Level: 3.1/7)
+- Education and Training (Importance: 2.6/5 | Level: 3.3/7)
+- Engineering and Technology (Importance: 2.58/5 | Level: 2.55/7)
+- Mathematics (Importance: 2.55/5 | Level: 3.45/7)
+- Customer and Personal Service (Importance: 2.45/5 | Level: 2.8/7)
+- Telecommunications (Importance: 2.05/5 | Level: 1.25/7)
+- Public Safety and Security (Importance: 2.0/5 | Level: 1.75/7)
+- Design (Importance: 2.0/5 | Level: 1.45/7)
+- Foreign Language (Importance: 2.0/5 | Level: 1.75/7)
+- Sales and Marketing (Importance: 1.84/5 | Level: 1.79/7)
+- Personnel and Human Resources (Importance: 1.84/5 | Level: 2.0/7)
+- Geography (Importance: 1.75/5 | Level: 1.6/7)
+- Psychology (Importance: 1.67/5 | Level: 1.47/7)
+- Physics (Importance: 1.65/5 | Level: 1.25/7)
+- Economics and Accounting (Importance: 1.47/5 | Level: 0.89/7)
+- Mechanical (Importance: 1.45/5 | Level: 0.85/7)
+- Sociology and Anthropology (Importance: 1.45/5 | Level: 0.8/7)
+- Transportation (Importance: 1.3/5 | Level: 0.9/7)
+- Food Production (Importance: 1.25/5 | Level: 0.65/7)
+- Therapy and Counseling (Importance: 1.2/5 | Level: 0.5/7)
+- History and Archeology (Importance: 1.15/5 | Level: 0.5/7)
+- Philosophy and Theology (Importance: 1.15/5 | Level: 0.4/7)
+- Building and Construction (Importance: 1.1/5 | Level: 0.15/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Writing (Importance: 4.0/5 | Level: 4.12/7)
@@ -180,3 +216,25 @@ Coordinate and document internal regulatory processes, such as internal audits, 
 - Primary Interest: Conventional
 - Secondary Interest: Enterprising
 - Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Regulatory Affairs Managers
+- Compliance Managers
+- Environmental Compliance Inspectors
+- Government Property Inspectors and Investigators
+- Quality Control Systems Managers
+- Compliance Officers
+- Document Management Specialists
+- Coroners
+- Equal Opportunity Representatives and Officers
+- Customs Brokers
+- Clinical Data Managers
+- Health Information Technologists and Medical Registrars
+- Management Analysts
+- Financial Risk Specialists
+- Quality Control Analysts
+- Clinical Research Coordinators
+- Project Management Specialists
+- Information Security Engineers
+- Medical Records Specialists
+- Environmental Scientists and Specialists, Including Health

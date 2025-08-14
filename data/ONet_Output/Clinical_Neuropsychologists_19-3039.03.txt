@@ -24,6 +24,42 @@ Assess and diagnose patients with neurobehavioral problems related to acquired o
 - Identify and communicate risks associated with specific neurological surgical procedures, such as epilepsy surgery.
 - Provide psychotherapy, behavior therapy, or other counseling interventions to patients with neurological disorders.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Psychology (Importance: 5.0/5 | Level: 6.96/7)
+- Therapy and Counseling (Importance: 4.74/5 | Level: 6.25/7)
+- English Language (Importance: 4.57/5 | Level: 5.71/7)
+- Education and Training (Importance: 4.52/5 | Level: 5.92/7)
+- Medicine and Dentistry (Importance: 4.3/5 | Level: 4.54/7)
+- Biology (Importance: 3.78/5 | Level: 4.58/7)
+- Customer and Personal Service (Importance: 3.73/5 | Level: 4.96/7)
+- Mathematics (Importance: 3.65/5 | Level: 4.71/7)
+- Sociology and Anthropology (Importance: 3.39/5 | Level: 4.58/7)
+- Computers and Electronics (Importance: 3.04/5 | Level: 4.0/7)
+- Administrative (Importance: 2.91/5 | Level: 4.25/7)
+- Administration and Management (Importance: 2.82/5 | Level: 3.62/7)
+- Law and Government (Importance: 2.7/5 | Level: 3.42/7)
+- Public Safety and Security (Importance: 2.32/5 | Level: 2.21/7)
+- Personnel and Human Resources (Importance: 2.23/5 | Level: 2.78/7)
+- Philosophy and Theology (Importance: 2.13/5 | Level: 2.71/7)
+- Communications and Media (Importance: 2.13/5 | Level: 2.46/7)
+- Economics and Accounting (Importance: 1.95/5 | Level: 1.96/7)
+- Foreign Language (Importance: 1.7/5 | Level: 1.58/7)
+- History and Archeology (Importance: 1.57/5 | Level: 1.38/7)
+- Telecommunications (Importance: 1.57/5 | Level: 0.79/7)
+- Sales and Marketing (Importance: 1.5/5 | Level: 1.58/7)
+- Chemistry (Importance: 1.48/5 | Level: 1.25/7)
+- Geography (Importance: 1.43/5 | Level: 1.29/7)
+- Engineering and Technology (Importance: 1.35/5 | Level: 0.62/7)
+- Production and Processing (Importance: 1.26/5 | Level: 0.58/7)
+- Physics (Importance: 1.17/5 | Level: 0.5/7)
+- Transportation (Importance: 1.17/5 | Level: 0.42/7)
+- Mechanical (Importance: 1.14/5 | Level: 0.35/7)
+- Design (Importance: 1.04/5 | Level: 0.17/7)
+- Building and Construction (Importance: 1.04/5 | Level: 0.08/7)
+- Food Production (Importance: 1.0/5 | Level: 0.04/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.04/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Active Listening (Importance: 4.38/5 | Level: 4.5/7)
@@ -165,3 +201,25 @@ Assess and diagnose patients with neurobehavioral problems related to acquired o
 - Primary Interest: Investigative
 - Secondary Interest: Social
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Neuropsychologists
+- Psychiatrists
+- Neurologists
+- Clinical Nurse Specialists
+- Pediatricians, General
+- Advanced Practice Psychiatric Nurses
+- Clinical and Counseling Psychologists
+- General Internal Medicine Physicians
+- Physical Medicine and Rehabilitation Physicians
+- Psychiatric Technicians
+- Family Medicine Physicians
+- Allergists and Immunologists
+- Nurse Practitioners
+- Emergency Medicine Physicians
+- Anesthesiologists
+- Physicians, Pathologists
+- Genetic Counselors
+- Audiologists
+- Mental Health and Substance Abuse Social Workers
+- Occupational Therapists

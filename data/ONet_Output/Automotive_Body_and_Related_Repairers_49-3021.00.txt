@@ -31,6 +31,42 @@ Repair and refinish automotive vehicle bodies and straighten vehicle frames.
 - Cut openings in vehicle bodies for the installation of customized windows, using templates and power shears or chisels.
 - Measure and mark vinyl material and cut material to size for roof installation, using rules, straightedges, and hand shears.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 3.58/5 | Level: 4.1/7)
+- Customer and Personal Service (Importance: 3.25/5 | Level: 2.7/7)
+- Production and Processing (Importance: 3.13/5 | Level: 2.68/7)
+- Mathematics (Importance: 3.0/5 | Level: 3.29/7)
+- English Language (Importance: 2.96/5 | Level: 3.6/7)
+- Transportation (Importance: 2.95/5 | Level: 3.1/7)
+- Engineering and Technology (Importance: 2.75/5 | Level: 3.0/7)
+- Public Safety and Security (Importance: 2.56/5 | Level: 2.06/7)
+- Education and Training (Importance: 2.53/5 | Level: 2.91/7)
+- Administration and Management (Importance: 2.48/5 | Level: 2.25/7)
+- Computers and Electronics (Importance: 2.37/5 | Level: 2.37/7)
+- Physics (Importance: 2.31/5 | Level: 2.07/7)
+- Building and Construction (Importance: 2.22/5 | Level: 2.0/7)
+- Law and Government (Importance: 2.18/5 | Level: 1.57/7)
+- Chemistry (Importance: 2.11/5 | Level: 2.58/7)
+- Design (Importance: 1.92/5 | Level: 1.81/7)
+- Sales and Marketing (Importance: 1.77/5 | Level: 0.91/7)
+- Economics and Accounting (Importance: 1.64/5 | Level: 0.43/7)
+- Administrative (Importance: 1.64/5 | Level: 0.5/7)
+- Personnel and Human Resources (Importance: 1.55/5 | Level: 0.76/7)
+- Communications and Media (Importance: 1.5/5 | Level: 0.75/7)
+- Psychology (Importance: 1.49/5 | Level: 0.9/7)
+- Fine Arts (Importance: 1.46/5 | Level: 0.7/7)
+- Foreign Language (Importance: 1.46/5 | Level: 0.79/7)
+- Telecommunications (Importance: 1.43/5 | Level: 0.7/7)
+- Geography (Importance: 1.16/5 | Level: 0.29/7)
+- Therapy and Counseling (Importance: 1.12/5 | Level: 0.37/7)
+- Sociology and Anthropology (Importance: 1.11/5 | Level: 0.11/7)
+- Biology (Importance: 1.05/5 | Level: 0.11/7)
+- Philosophy and Theology (Importance: 1.0/5 | Level: 0.0/7)
+- History and Archeology (Importance: 1.0/5 | Level: 0.0/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+- Medicine and Dentistry (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Repairing (Importance: 3.25/5 | Level: 3.25/7)
@@ -272,3 +308,25 @@ Repair and refinish automotive vehicle bodies and straighten vehicle frames.
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Automotive Service Technicians and Mechanics
+- Rail Car Repairers
+- Tire Builders
+- Engine and Other Machine Assemblers
+- Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+- Electric Motor, Power Tool, and Related Repairers
+- Grinding and Polishing Workers, Hand
+- Automotive Glass Installers and Repairers
+- Motorcycle Mechanics
+- Bus and Truck Mechanics and Diesel Engine Specialists
+- Coating, Painting, and Spraying Machine Setters, Operators, and Tenders
+- Furniture Finishers
+- Structural Metal Fabricators and Fitters
+- Molders, Shapers, and Casters, Except Metal and Plastic
+- Tire Repairers and Changers
+- Maintenance Workers, Machinery
+- Industrial Machinery Mechanics
+- Upholsterers
+- Sheet Metal Workers
+- Mobile Heavy Equipment Mechanics, Except Engines

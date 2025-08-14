@@ -26,6 +26,42 @@ Mix and serve drinks to patrons, directly or through waitstaff.
 - Plan bar menus.
 - Prepare appetizers such as pickles, cheese, and cold meats.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.44/5 | Level: 4.95/7)
+- English Language (Importance: 3.63/5 | Level: 3.75/7)
+- Education and Training (Importance: 3.16/5 | Level: 3.39/7)
+- Sales and Marketing (Importance: 3.14/5 | Level: 3.04/7)
+- Administration and Management (Importance: 2.99/5 | Level: 2.23/7)
+- Public Safety and Security (Importance: 2.98/5 | Level: 2.21/7)
+- Mathematics (Importance: 2.96/5 | Level: 2.62/7)
+- Personnel and Human Resources (Importance: 2.79/5 | Level: 2.05/7)
+- Law and Government (Importance: 2.66/5 | Level: 2.29/7)
+- Sociology and Anthropology (Importance: 2.47/5 | Level: 2.16/7)
+- Food Production (Importance: 2.46/5 | Level: 1.53/7)
+- Economics and Accounting (Importance: 2.42/5 | Level: 1.35/7)
+- Psychology (Importance: 2.39/5 | Level: 2.15/7)
+- Computers and Electronics (Importance: 2.35/5 | Level: 2.01/7)
+- Communications and Media (Importance: 2.28/5 | Level: 1.69/7)
+- Production and Processing (Importance: 2.28/5 | Level: 1.69/7)
+- Administrative (Importance: 2.13/5 | Level: 2.28/7)
+- Telecommunications (Importance: 2.1/5 | Level: 1.3/7)
+- Therapy and Counseling (Importance: 1.9/5 | Level: 1.52/7)
+- Geography (Importance: 1.79/5 | Level: 1.69/7)
+- Foreign Language (Importance: 1.74/5 | Level: 1.06/7)
+- Engineering and Technology (Importance: 1.71/5 | Level: 0.9/7)
+- Chemistry (Importance: 1.54/5 | Level: 1.87/7)
+- Physics (Importance: 1.44/5 | Level: 0.55/7)
+- Philosophy and Theology (Importance: 1.43/5 | Level: 1.06/7)
+- Medicine and Dentistry (Importance: 1.39/5 | Level: 0.76/7)
+- Mechanical (Importance: 1.38/5 | Level: 0.8/7)
+- Fine Arts (Importance: 1.38/5 | Level: 0.35/7)
+- Design (Importance: 1.38/5 | Level: 0.63/7)
+- History and Archeology (Importance: 1.37/5 | Level: 0.5/7)
+- Building and Construction (Importance: 1.34/5 | Level: 0.67/7)
+- Biology (Importance: 1.29/5 | Level: 0.42/7)
+- Transportation (Importance: 1.22/5 | Level: 0.95/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Active Listening (Importance: 3.75/5 | Level: 3.12/7)
@@ -191,3 +227,25 @@ Mix and serve drinks to patrons, directly or through waitstaff.
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Enterprising
+
+# RELATED OCCUPATIONS
+- Waiters and Waitresses
+- Dining Room and Cafeteria Attendants and Bartender Helpers
+- Fast Food and Counter Workers
+- Baristas
+- Food Preparation Workers
+- Cooks, Short Order
+- Food Service Managers
+- Chefs and Head Cooks
+- Cooks, Restaurant
+- First-Line Supervisors of Food Preparation and Serving Workers
+- Food Servers, Nonrestaurant
+- Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop
+- Cooks, Private Household
+- Cooks, Institution and Cafeteria
+- Locker Room, Coatroom, and Dressing Room Attendants
+- Maids and Housekeeping Cleaners
+- Cooks, Fast Food
+- Dishwashers
+- Door-to-Door Sales Workers, News and Street Vendors, and Related Workers
+- Bakers

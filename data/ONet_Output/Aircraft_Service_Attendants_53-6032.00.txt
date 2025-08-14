@@ -24,6 +24,10 @@ Service aircraft with fuel. May de-ice aircraft, refill water and cooling agents
 - Tow aircraft to gates or hangars using tugs, tractors, or other vehicles.
 - Wash the aircraft exteriors using lifts, cranes, detergent, or other equipment.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- No specific knowledge areas listed.
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - No specific skills listed.
@@ -50,3 +54,25 @@ Service aircraft with fuel. May de-ice aircraft, refill water and cooling agents
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Aircraft Mechanics and Service Technicians
+- Avionics Technicians
+- Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+- Commercial Pilots
+- Rail Car Repairers
+- Cleaners of Vehicles and Equipment
+- Bus and Truck Mechanics and Diesel Engine Specialists
+- Automotive and Watercraft Service Attendants
+- Aircraft Cargo Handling Supervisors
+- Maintenance and Repair Workers, General
+- Airline Pilots, Copilots, and Flight Engineers
+- Ship Engineers
+- Aerospace Engineers
+- Mobile Heavy Equipment Mechanics, Except Engines
+- Aerospace Engineering and Operations Technologists and Technicians
+- Electro-Mechanical and Mechatronics Technologists and Technicians
+- Maintenance Workers, Machinery
+- Industrial Truck and Tractor Operators
+- Stationary Engineers and Boiler Operators
+- Highway Maintenance Workers

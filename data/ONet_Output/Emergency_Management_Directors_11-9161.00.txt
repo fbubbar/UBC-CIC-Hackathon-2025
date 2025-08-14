@@ -29,6 +29,42 @@ Plan and direct disaster response or crisis management activities, provide disas
 - Develop and implement training procedures and strategies for radiological protection, detection, and decontamination.
 - Inventory and distribute nuclear, biological, and chemical detection and contamination equipment, providing instruction in its maintenance and use.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Public Safety and Security (Importance: 4.71/5 | Level: 5.09/7)
+- Administration and Management (Importance: 4.24/5 | Level: 4.95/7)
+- Law and Government (Importance: 4.18/5 | Level: 4.36/7)
+- Communications and Media (Importance: 4.05/5 | Level: 4.05/7)
+- English Language (Importance: 3.95/5 | Level: 4.67/7)
+- Telecommunications (Importance: 3.91/5 | Level: 4.09/7)
+- Customer and Personal Service (Importance: 3.91/5 | Level: 5.73/7)
+- Education and Training (Importance: 3.86/5 | Level: 5.68/7)
+- Personnel and Human Resources (Importance: 3.5/5 | Level: 4.59/7)
+- Computers and Electronics (Importance: 3.5/5 | Level: 4.68/7)
+- Transportation (Importance: 3.32/5 | Level: 3.82/7)
+- Geography (Importance: 3.27/5 | Level: 4.27/7)
+- Administrative (Importance: 3.14/5 | Level: 4.32/7)
+- Psychology (Importance: 2.9/5 | Level: 3.59/7)
+- Economics and Accounting (Importance: 2.9/5 | Level: 3.32/7)
+- Sociology and Anthropology (Importance: 2.82/5 | Level: 3.36/7)
+- Mathematics (Importance: 2.68/5 | Level: 3.5/7)
+- Building and Construction (Importance: 2.64/5 | Level: 2.86/7)
+- Sales and Marketing (Importance: 2.59/5 | Level: 3.5/7)
+- Engineering and Technology (Importance: 2.59/5 | Level: 2.73/7)
+- Therapy and Counseling (Importance: 2.38/5 | Level: 3.09/7)
+- Production and Processing (Importance: 2.29/5 | Level: 2.73/7)
+- Mechanical (Importance: 2.27/5 | Level: 2.41/7)
+- Foreign Language (Importance: 2.27/5 | Level: 1.91/7)
+- Chemistry (Importance: 2.27/5 | Level: 2.82/7)
+- Physics (Importance: 2.18/5 | Level: 2.09/7)
+- Design (Importance: 2.1/5 | Level: 2.43/7)
+- Medicine and Dentistry (Importance: 2.05/5 | Level: 2.18/7)
+- History and Archeology (Importance: 2.05/5 | Level: 2.32/7)
+- Biology (Importance: 2.05/5 | Level: 2.41/7)
+- Philosophy and Theology (Importance: 1.9/5 | Level: 2.23/7)
+- Food Production (Importance: 1.77/5 | Level: 2.0/7)
+- Fine Arts (Importance: 1.24/5 | Level: 0.48/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Service Orientation (Importance: 4.25/5 | Level: 5.25/7)
@@ -168,3 +204,25 @@ Plan and direct disaster response or crisis management activities, provide disas
 - Primary Interest: Enterprising
 - Secondary Interest: Conventional
 - Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Business Continuity Planners
+- Security Managers
+- Health and Safety Engineers, Except Mining Safety Engineers and Inspectors
+- Security Management Specialists
+- Information Security Engineers
+- Management Analysts
+- Forest Fire Inspectors and Prevention Specialists
+- Compliance Managers
+- Loss Prevention Managers
+- Occupational Health and Safety Specialists
+- Public Safety Telecommunicators
+- Emergency Medicine Physicians
+- Emergency Medical Technicians
+- Medical and Health Services Managers
+- Paramedics
+- Ambulance Drivers and Attendants, Except Emergency Medical Technicians
+- First-Line Supervisors of Firefighting and Prevention Workers
+- Occupational Health and Safety Technicians
+- Social and Community Service Managers
+- Fire Inspectors and Investigators

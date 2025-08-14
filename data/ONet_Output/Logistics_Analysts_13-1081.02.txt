@@ -37,6 +37,42 @@ Analyze product delivery or supply chain processes to identify or recommend chan
 - Compare locations or environmental policies of carriers or suppliers to make transportation decisions with lower environmental impact.
 - Arrange for sale or lease of excess storage or transport capacity to minimize losses or inefficiencies associated with empty space.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- English Language (Importance: 4.18/5 | Level: 4.27/7)
+- Computers and Electronics (Importance: 3.86/5 | Level: 4.77/7)
+- Transportation (Importance: 3.82/5 | Level: 3.73/7)
+- Mathematics (Importance: 3.62/5 | Level: 4.95/7)
+- Administration and Management (Importance: 3.5/5 | Level: 4.14/7)
+- Customer and Personal Service (Importance: 3.45/5 | Level: 4.27/7)
+- Education and Training (Importance: 3.14/5 | Level: 4.05/7)
+- Geography (Importance: 3.05/5 | Level: 3.64/7)
+- Administrative (Importance: 3.05/5 | Level: 4.36/7)
+- Production and Processing (Importance: 3.05/5 | Level: 3.68/7)
+- Law and Government (Importance: 3.0/5 | Level: 3.18/7)
+- Telecommunications (Importance: 2.77/5 | Level: 2.14/7)
+- Public Safety and Security (Importance: 2.77/5 | Level: 2.95/7)
+- Communications and Media (Importance: 2.77/5 | Level: 2.77/7)
+- Economics and Accounting (Importance: 2.5/5 | Level: 2.68/7)
+- Engineering and Technology (Importance: 2.41/5 | Level: 2.82/7)
+- Personnel and Human Resources (Importance: 2.18/5 | Level: 2.68/7)
+- Mechanical (Importance: 1.95/5 | Level: 1.77/7)
+- Foreign Language (Importance: 1.95/5 | Level: 1.82/7)
+- Design (Importance: 1.86/5 | Level: 1.82/7)
+- Psychology (Importance: 1.82/5 | Level: 1.77/7)
+- Sales and Marketing (Importance: 1.77/5 | Level: 1.59/7)
+- Physics (Importance: 1.73/5 | Level: 1.27/7)
+- Sociology and Anthropology (Importance: 1.59/5 | Level: 1.59/7)
+- Philosophy and Theology (Importance: 1.45/5 | Level: 1.23/7)
+- Building and Construction (Importance: 1.45/5 | Level: 0.95/7)
+- Chemistry (Importance: 1.45/5 | Level: 0.91/7)
+- Therapy and Counseling (Importance: 1.41/5 | Level: 0.86/7)
+- Food Production (Importance: 1.41/5 | Level: 0.77/7)
+- History and Archeology (Importance: 1.41/5 | Level: 0.95/7)
+- Biology (Importance: 1.32/5 | Level: 0.73/7)
+- Medicine and Dentistry (Importance: 1.23/5 | Level: 0.32/7)
+- Fine Arts (Importance: 1.09/5 | Level: 0.23/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Critical Thinking (Importance: 4.0/5 | Level: 4.12/7)
@@ -202,3 +238,25 @@ Analyze product delivery or supply chain processes to identify or recommend chan
 - Primary Interest: Conventional
 - Secondary Interest: Enterprising
 - Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Supply Chain Managers
+- Logisticians
+- Logistics Engineers
+- Transportation, Storage, and Distribution Managers
+- Procurement Clerks
+- Purchasing Managers
+- Production, Planning, and Expediting Clerks
+- Purchasing Agents, Except Wholesale, Retail, and Farm Products
+- Industrial Production Managers
+- Management Analysts
+- Cargo and Freight Agents
+- Business Intelligence Analysts
+- Shipping, Receiving, and Inventory Clerks
+- Project Management Specialists
+- Freight Forwarders
+- Industrial Engineers
+- Computer Systems Analysts
+- Data Warehousing Specialists
+- Business Continuity Planners
+- Power Distributors and Dispatchers

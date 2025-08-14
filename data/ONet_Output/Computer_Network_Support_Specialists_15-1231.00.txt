@@ -32,6 +32,42 @@ Analyze, test, troubleshoot, and evaluate existing network systems, such as loca
 - Create or revise user instructions, procedures, or manuals.
 - Run monthly network reports.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Computers and Electronics (Importance: 4.96/5 | Level: 6.58/7)
+- Telecommunications (Importance: 3.79/5 | Level: 4.69/7)
+- Customer and Personal Service (Importance: 3.45/5 | Level: 3.78/7)
+- Engineering and Technology (Importance: 3.4/5 | Level: 4.12/7)
+- English Language (Importance: 3.31/5 | Level: 3.35/7)
+- Administration and Management (Importance: 3.12/5 | Level: 3.72/7)
+- Communications and Media (Importance: 2.99/5 | Level: 3.45/7)
+- Education and Training (Importance: 2.95/5 | Level: 3.42/7)
+- Administrative (Importance: 2.91/5 | Level: 3.71/7)
+- Design (Importance: 2.63/5 | Level: 3.09/7)
+- Production and Processing (Importance: 2.61/5 | Level: 2.68/7)
+- Public Safety and Security (Importance: 2.51/5 | Level: 2.38/7)
+- Mathematics (Importance: 2.45/5 | Level: 3.08/7)
+- Mechanical (Importance: 2.18/5 | Level: 2.23/7)
+- Personnel and Human Resources (Importance: 1.96/5 | Level: 1.93/7)
+- Law and Government (Importance: 1.9/5 | Level: 1.45/7)
+- Psychology (Importance: 1.85/5 | Level: 1.36/7)
+- Economics and Accounting (Importance: 1.78/5 | Level: 1.03/7)
+- Building and Construction (Importance: 1.65/5 | Level: 1.45/7)
+- Geography (Importance: 1.35/5 | Level: 0.95/7)
+- Sales and Marketing (Importance: 1.34/5 | Level: 0.54/7)
+- Foreign Language (Importance: 1.27/5 | Level: 0.52/7)
+- Physics (Importance: 1.27/5 | Level: 0.49/7)
+- Sociology and Anthropology (Importance: 1.23/5 | Level: 0.48/7)
+- Chemistry (Importance: 1.17/5 | Level: 0.45/7)
+- Transportation (Importance: 1.16/5 | Level: 0.24/7)
+- Therapy and Counseling (Importance: 1.13/5 | Level: 0.34/7)
+- History and Archeology (Importance: 1.12/5 | Level: 0.23/7)
+- Philosophy and Theology (Importance: 1.05/5 | Level: 0.1/7)
+- Fine Arts (Importance: 1.05/5 | Level: 0.09/7)
+- Medicine and Dentistry (Importance: 1.01/5 | Level: 0.01/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+- Biology (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Critical Thinking (Importance: 3.75/5 | Level: 3.75/7)
@@ -303,3 +339,25 @@ Analyze, test, troubleshoot, and evaluate existing network systems, such as loca
 - Primary Interest: Conventional
 - Secondary Interest: Investigative
 - Tertiary Interest: Realistic
+
+# RELATED OCCUPATIONS
+- Network and Computer Systems Administrators
+- Computer Network Architects
+- Information Security Engineers
+- Computer User Support Specialists
+- Software Developers
+- Telecommunications Engineering Specialists
+- Information Security Analysts
+- Computer Systems Analysts
+- Computer Systems Engineers/Architects
+- Database Administrators
+- Telecommunications Equipment Installers and Repairers, Except Line Installers
+- Penetration Testers
+- Computer and Information Systems Managers
+- Web Administrators
+- Broadcast Technicians
+- Database Architects
+- Software Quality Assurance Analysts and Testers
+- Blockchain Engineers
+- Radio Frequency Identification Device Specialists
+- Computer Hardware Engineers

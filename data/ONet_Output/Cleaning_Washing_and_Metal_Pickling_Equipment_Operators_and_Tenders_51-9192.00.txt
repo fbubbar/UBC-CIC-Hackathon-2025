@@ -17,6 +17,42 @@ Operate or tend machines to wash or clean products, such as barrels or kegs, gla
 - Adjust, clean, and lubricate mechanical parts of machines, using hand tools and grease guns.
 - Load machines with objects to be processed and unload them after cleaning, placing them on conveyors or racks.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Production and Processing (Importance: 3.93/5 | Level: 3.45/7)
+- English Language (Importance: 3.01/5 | Level: 2.61/7)
+- Public Safety and Security (Importance: 2.77/5 | Level: 1.42/7)
+- Psychology (Importance: 2.72/5 | Level: 3.11/7)
+- Education and Training (Importance: 2.48/5 | Level: 2.25/7)
+- Chemistry (Importance: 2.4/5 | Level: 2.28/7)
+- Mechanical (Importance: 2.36/5 | Level: 2.8/7)
+- Administration and Management (Importance: 2.2/5 | Level: 2.34/7)
+- Customer and Personal Service (Importance: 2.09/5 | Level: 1.73/7)
+- Mathematics (Importance: 2.0/5 | Level: 2.05/7)
+- Engineering and Technology (Importance: 1.97/5 | Level: 2.05/7)
+- Food Production (Importance: 1.92/5 | Level: 1.31/7)
+- Personnel and Human Resources (Importance: 1.67/5 | Level: 1.13/7)
+- Physics (Importance: 1.65/5 | Level: 1.31/7)
+- Biology (Importance: 1.56/5 | Level: 1.05/7)
+- Computers and Electronics (Importance: 1.55/5 | Level: 0.82/7)
+- Foreign Language (Importance: 1.49/5 | Level: 0.75/7)
+- Transportation (Importance: 1.42/5 | Level: 0.46/7)
+- Building and Construction (Importance: 1.41/5 | Level: 0.5/7)
+- Administrative (Importance: 1.39/5 | Level: 0.66/7)
+- Sociology and Anthropology (Importance: 1.38/5 | Level: 0.59/7)
+- Medicine and Dentistry (Importance: 1.33/5 | Level: 0.75/7)
+- Economics and Accounting (Importance: 1.33/5 | Level: 0.35/7)
+- Design (Importance: 1.31/5 | Level: 0.52/7)
+- Law and Government (Importance: 1.29/5 | Level: 0.41/7)
+- Geography (Importance: 1.28/5 | Level: 0.62/7)
+- Sales and Marketing (Importance: 1.27/5 | Level: 0.46/7)
+- Communications and Media (Importance: 1.24/5 | Level: 0.33/7)
+- Therapy and Counseling (Importance: 1.21/5 | Level: 0.4/7)
+- Telecommunications (Importance: 1.19/5 | Level: 0.29/7)
+- History and Archeology (Importance: 1.13/5 | Level: 0.2/7)
+- Philosophy and Theology (Importance: 1.11/5 | Level: 0.22/7)
+- Fine Arts (Importance: 1.05/5 | Level: 0.09/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Operation and Control (Importance: 3.25/5 | Level: 3.0/7)
@@ -150,3 +186,25 @@ Operate or tend machines to wash or clean products, such as barrels or kegs, gla
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders
+- Mixing and Blending Machine Setters, Operators, and Tenders
+- Textile Bleaching and Dyeing Machine Operators and Tenders
+- Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders
+- Cleaners of Vehicles and Equipment
+- Chemical Plant and System Operators
+- Laundry and Dry-Cleaning Workers
+- Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders
+- Cooling and Freezing Equipment Operators and Tenders
+- Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic
+- Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders
+- Chemical Equipment Operators and Tenders
+- Adhesive Bonding Machine Operators and Tenders
+- Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders
+- Packaging and Filling Machine Operators and Tenders
+- Machine Feeders and Offbearers
+- Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Metal-Refining Furnace Operators and Tenders
+- Food Cooking Machine Operators and Tenders
+- Plating Machine Setters, Operators, and Tenders, Metal and Plastic

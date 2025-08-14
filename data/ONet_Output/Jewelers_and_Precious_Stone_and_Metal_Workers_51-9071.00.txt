@@ -35,6 +35,42 @@ Design, fabricate, adjust, repair, or appraise jewelry, gold, silver, other prec
 - Rotate molds to distribute alloys and to prevent formation of air pockets.
 - Rout out locations where parts are to be joined to items, using routing machines.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 3.54/5 | Level: 3.62/7)
+- Production and Processing (Importance: 3.53/5 | Level: 3.93/7)
+- Design (Importance: 3.3/5 | Level: 3.42/7)
+- Mechanical (Importance: 3.16/5 | Level: 3.76/7)
+- Sales and Marketing (Importance: 2.92/5 | Level: 3.15/7)
+- English Language (Importance: 2.9/5 | Level: 2.68/7)
+- Mathematics (Importance: 2.85/5 | Level: 3.09/7)
+- Administration and Management (Importance: 2.62/5 | Level: 2.67/7)
+- Chemistry (Importance: 2.57/5 | Level: 3.21/7)
+- Engineering and Technology (Importance: 2.47/5 | Level: 3.04/7)
+- Economics and Accounting (Importance: 2.44/5 | Level: 1.85/7)
+- Education and Training (Importance: 2.32/5 | Level: 2.33/7)
+- Fine Arts (Importance: 2.27/5 | Level: 2.44/7)
+- Public Safety and Security (Importance: 2.23/5 | Level: 1.99/7)
+- Transportation (Importance: 2.17/5 | Level: 1.98/7)
+- Administrative (Importance: 2.15/5 | Level: 2.17/7)
+- Personnel and Human Resources (Importance: 2.13/5 | Level: 1.87/7)
+- Physics (Importance: 2.12/5 | Level: 2.15/7)
+- Computers and Electronics (Importance: 1.94/5 | Level: 1.81/7)
+- Building and Construction (Importance: 1.93/5 | Level: 1.59/7)
+- Law and Government (Importance: 1.91/5 | Level: 1.73/7)
+- Communications and Media (Importance: 1.72/5 | Level: 1.4/7)
+- Telecommunications (Importance: 1.57/5 | Level: 0.74/7)
+- Psychology (Importance: 1.55/5 | Level: 1.2/7)
+- History and Archeology (Importance: 1.48/5 | Level: 0.86/7)
+- Geography (Importance: 1.35/5 | Level: 0.67/7)
+- Sociology and Anthropology (Importance: 1.33/5 | Level: 0.69/7)
+- Foreign Language (Importance: 1.31/5 | Level: 0.87/7)
+- Philosophy and Theology (Importance: 1.29/5 | Level: 0.71/7)
+- Therapy and Counseling (Importance: 1.2/5 | Level: 0.42/7)
+- Medicine and Dentistry (Importance: 1.14/5 | Level: 0.23/7)
+- Food Production (Importance: 1.12/5 | Level: 0.18/7)
+- Biology (Importance: 1.11/5 | Level: 0.19/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Critical Thinking (Importance: 3.0/5 | Level: 3.12/7)
@@ -263,3 +299,25 @@ Design, fabricate, adjust, repair, or appraise jewelry, gold, silver, other prec
 - Primary Interest: Realistic
 - Secondary Interest: Artistic
 - Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Gem and Diamond Workers
+- Etchers and Engravers
+- Grinding and Polishing Workers, Hand
+- Molders, Shapers, and Casters, Except Metal and Plastic
+- Stone Cutters and Carvers, Manufacturing
+- Painting, Coating, and Decorating Workers
+- Shoe and Leather Workers and Repairers
+- Sewers, Hand
+- Craft Artists
+- Tool and Die Makers
+- Patternmakers, Metal and Plastic
+- Tool Grinders, Filers, and Sharpeners
+- Furniture Finishers
+- Cabinetmakers and Bench Carpenters
+- Cutters and Trimmers, Hand
+- Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Layout Workers, Metal and Plastic
+- Patternmakers, Wood
+- Structural Metal Fabricators and Fitters
+- Glass Blowers, Molders, Benders, and Finishers

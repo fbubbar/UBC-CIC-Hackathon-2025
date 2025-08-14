@@ -30,6 +30,42 @@ Teach courses pertaining to education, such as counseling, curriculum, guidance,
 - Act as advisers to student organizations.
 - Provide professional consulting services to government or industry.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- English Language (Importance: 4.59/5 | Level: 5.9/7)
+- Education and Training (Importance: 4.58/5 | Level: 6.27/7)
+- Psychology (Importance: 4.23/5 | Level: 4.89/7)
+- Sociology and Anthropology (Importance: 3.71/5 | Level: 5.06/7)
+- Administration and Management (Importance: 3.67/5 | Level: 4.16/7)
+- Communications and Media (Importance: 3.67/5 | Level: 4.76/7)
+- Mathematics (Importance: 3.41/5 | Level: 4.29/7)
+- Customer and Personal Service (Importance: 3.28/5 | Level: 3.96/7)
+- Personnel and Human Resources (Importance: 3.15/5 | Level: 4.06/7)
+- Computers and Electronics (Importance: 3.11/5 | Level: 3.75/7)
+- Philosophy and Theology (Importance: 3.05/5 | Level: 4.59/7)
+- Therapy and Counseling (Importance: 2.53/5 | Level: 2.82/7)
+- Administrative (Importance: 2.48/5 | Level: 2.87/7)
+- Law and Government (Importance: 2.34/5 | Level: 2.34/7)
+- History and Archeology (Importance: 2.16/5 | Level: 2.33/7)
+- Telecommunications (Importance: 2.06/5 | Level: 1.14/7)
+- Public Safety and Security (Importance: 2.02/5 | Level: 1.63/7)
+- Biology (Importance: 1.79/5 | Level: 1.44/7)
+- Sales and Marketing (Importance: 1.75/5 | Level: 1.8/7)
+- Geography (Importance: 1.62/5 | Level: 1.38/7)
+- Fine Arts (Importance: 1.54/5 | Level: 0.69/7)
+- Engineering and Technology (Importance: 1.54/5 | Level: 0.8/7)
+- Transportation (Importance: 1.54/5 | Level: 1.06/7)
+- Medicine and Dentistry (Importance: 1.53/5 | Level: 1.07/7)
+- Foreign Language (Importance: 1.53/5 | Level: 0.79/7)
+- Economics and Accounting (Importance: 1.52/5 | Level: 1.05/7)
+- Design (Importance: 1.28/5 | Level: 0.56/7)
+- Production and Processing (Importance: 1.27/5 | Level: 0.8/7)
+- Physics (Importance: 1.26/5 | Level: 0.52/7)
+- Mechanical (Importance: 1.21/5 | Level: 0.41/7)
+- Building and Construction (Importance: 1.14/5 | Level: 0.27/7)
+- Chemistry (Importance: 1.02/5 | Level: 0.05/7)
+- Food Production (Importance: 1.01/5 | Level: 0.03/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Speaking (Importance: 4.62/5 | Level: 4.88/7)
@@ -194,3 +230,25 @@ Teach courses pertaining to education, such as counseling, curriculum, guidance,
 - Primary Interest: Social
 - Secondary Interest: Investigative
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Instructional Coordinators
+- Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors
+- Sociology Teachers, Postsecondary
+- Psychology Teachers, Postsecondary
+- Teaching Assistants, Postsecondary
+- Social Work Teachers, Postsecondary
+- Library Science Teachers, Postsecondary
+- Family and Consumer Sciences Teachers, Postsecondary
+- Education Administrators, Postsecondary
+- Communications Teachers, Postsecondary
+- Special Education Teachers, Elementary School
+- Teaching Assistants, Special Education
+- Special Education Teachers, Kindergarten
+- Elementary School Teachers, Except Special Education
+- Secondary School Teachers, Except Special and Career/Technical Education
+- Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education
+- Middle School Teachers, Except Special and Career/Technical Education
+- Special Education Teachers, Secondary School
+- Tutors
+- Career/Technical Education Teachers, Middle School

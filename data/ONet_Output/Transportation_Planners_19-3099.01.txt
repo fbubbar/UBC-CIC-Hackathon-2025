@@ -28,6 +28,42 @@ Prepare studies for proposed transportation projects. Gather, compile, and analy
 - Direct urban traffic counting programs.
 - Represent jurisdictions in the legislative or administrative approval of land development projects.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Transportation (Importance: 4.84/5 | Level: 4.95/7)
+- English Language (Importance: 3.89/5 | Level: 4.45/7)
+- Mathematics (Importance: 3.85/5 | Level: 4.9/7)
+- Geography (Importance: 3.7/5 | Level: 5.25/7)
+- Law and Government (Importance: 3.68/5 | Level: 3.8/7)
+- Computers and Electronics (Importance: 3.47/5 | Level: 4.9/7)
+- Administration and Management (Importance: 3.4/5 | Level: 4.55/7)
+- Engineering and Technology (Importance: 3.3/5 | Level: 4.05/7)
+- Customer and Personal Service (Importance: 3.1/5 | Level: 4.3/7)
+- Design (Importance: 3.0/5 | Level: 3.85/7)
+- Communications and Media (Importance: 2.9/5 | Level: 2.8/7)
+- Economics and Accounting (Importance: 2.9/5 | Level: 3.1/7)
+- Public Safety and Security (Importance: 2.75/5 | Level: 2.75/7)
+- Sociology and Anthropology (Importance: 2.74/5 | Level: 3.65/7)
+- Personnel and Human Resources (Importance: 2.5/5 | Level: 3.1/7)
+- Administrative (Importance: 2.5/5 | Level: 3.55/7)
+- Psychology (Importance: 2.45/5 | Level: 3.15/7)
+- Education and Training (Importance: 2.37/5 | Level: 3.15/7)
+- Sales and Marketing (Importance: 2.2/5 | Level: 2.9/7)
+- Building and Construction (Importance: 2.1/5 | Level: 2.4/7)
+- History and Archeology (Importance: 2.05/5 | Level: 2.6/7)
+- Production and Processing (Importance: 1.95/5 | Level: 1.55/7)
+- Physics (Importance: 1.8/5 | Level: 1.6/7)
+- Telecommunications (Importance: 1.7/5 | Level: 0.95/7)
+- Chemistry (Importance: 1.6/5 | Level: 1.1/7)
+- Philosophy and Theology (Importance: 1.53/5 | Level: 1.8/7)
+- Biology (Importance: 1.5/5 | Level: 1.35/7)
+- Foreign Language (Importance: 1.35/5 | Level: 0.85/7)
+- Mechanical (Importance: 1.3/5 | Level: 0.6/7)
+- Medicine and Dentistry (Importance: 1.1/5 | Level: 0.2/7)
+- Food Production (Importance: 1.1/5 | Level: 0.5/7)
+- Fine Arts (Importance: 1.1/5 | Level: 0.25/7)
+- Therapy and Counseling (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Writing (Importance: 4.0/5 | Level: 4.12/7)
@@ -180,3 +216,25 @@ Prepare studies for proposed transportation projects. Gather, compile, and analy
 - Primary Interest: Investigative
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Transportation Engineers
+- Urban and Regional Planners
+- Transportation, Storage, and Distribution Managers
+- Logistics Engineers
+- Logisticians
+- Traffic Technicians
+- Civil Engineers
+- Logistics Analysts
+- Project Management Specialists
+- Civil Engineering Technologists and Technicians
+- Chief Sustainability Officers
+- Climate Change Policy Analysts
+- Environmental Scientists and Specialists, Including Health
+- Management Analysts
+- Brownfield Redevelopment Specialists and Site Managers
+- Industrial Ecologists
+- Sustainability Specialists
+- Operations Research Analysts
+- Facilities Managers
+- Surveying and Mapping Technicians

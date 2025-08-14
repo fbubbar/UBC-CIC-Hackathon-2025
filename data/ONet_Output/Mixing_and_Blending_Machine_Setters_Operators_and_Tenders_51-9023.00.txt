@@ -26,6 +26,42 @@ Set up, operate, or tend machines to mix or blend materials, such as chemicals, 
 - Test samples of materials or products to ensure compliance with specifications, using test equipment.
 - Open valves to drain slurry from mixers into storage tanks.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Production and Processing (Importance: 4.31/5 | Level: 4.46/7)
+- English Language (Importance: 2.96/5 | Level: 2.39/7)
+- Mechanical (Importance: 2.75/5 | Level: 2.77/7)
+- Public Safety and Security (Importance: 2.7/5 | Level: 2.41/7)
+- Mathematics (Importance: 2.63/5 | Level: 2.54/7)
+- Chemistry (Importance: 2.62/5 | Level: 2.67/7)
+- Education and Training (Importance: 2.37/5 | Level: 2.3/7)
+- Administration and Management (Importance: 2.21/5 | Level: 1.84/7)
+- Law and Government (Importance: 2.07/5 | Level: 1.22/7)
+- Personnel and Human Resources (Importance: 2.02/5 | Level: 1.63/7)
+- Engineering and Technology (Importance: 1.87/5 | Level: 1.87/7)
+- Computers and Electronics (Importance: 1.86/5 | Level: 1.35/7)
+- Sales and Marketing (Importance: 1.83/5 | Level: 1.41/7)
+- Physics (Importance: 1.83/5 | Level: 1.53/7)
+- Customer and Personal Service (Importance: 1.82/5 | Level: 1.24/7)
+- Food Production (Importance: 1.78/5 | Level: 1.42/7)
+- Economics and Accounting (Importance: 1.69/5 | Level: 1.28/7)
+- Administrative (Importance: 1.69/5 | Level: 0.99/7)
+- Psychology (Importance: 1.64/5 | Level: 1.01/7)
+- Biology (Importance: 1.53/5 | Level: 0.94/7)
+- Medicine and Dentistry (Importance: 1.52/5 | Level: 1.02/7)
+- Geography (Importance: 1.52/5 | Level: 0.87/7)
+- Communications and Media (Importance: 1.49/5 | Level: 0.88/7)
+- Philosophy and Theology (Importance: 1.48/5 | Level: 0.77/7)
+- Design (Importance: 1.46/5 | Level: 0.88/7)
+- Foreign Language (Importance: 1.39/5 | Level: 0.68/7)
+- Telecommunications (Importance: 1.37/5 | Level: 0.73/7)
+- Transportation (Importance: 1.31/5 | Level: 0.61/7)
+- Sociology and Anthropology (Importance: 1.28/5 | Level: 0.41/7)
+- History and Archeology (Importance: 1.24/5 | Level: 0.71/7)
+- Therapy and Counseling (Importance: 1.22/5 | Level: 0.61/7)
+- Building and Construction (Importance: 1.21/5 | Level: 0.68/7)
+- Fine Arts (Importance: 1.15/5 | Level: 0.39/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Operation and Control (Importance: 3.62/5 | Level: 3.12/7)
@@ -167,3 +203,25 @@ Set up, operate, or tend machines to mix or blend materials, such as chemicals, 
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders
+- Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders
+- Food Batchmakers
+- Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders
+- Machine Feeders and Offbearers
+- Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders
+- Adhesive Bonding Machine Operators and Tenders
+- Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders
+- Textile Bleaching and Dyeing Machine Operators and Tenders
+- Chemical Equipment Operators and Tenders
+- Packaging and Filling Machine Operators and Tenders
+- Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Cutting and Slicing Machine Setters, Operators, and Tenders
+- Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders
+- Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers
+- Molders, Shapers, and Casters, Except Metal and Plastic
+- Grinding and Polishing Workers, Hand
+- Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic
+- Plating Machine Setters, Operators, and Tenders, Metal and Plastic
+- Rolling Machine Setters, Operators, and Tenders, Metal and Plastic

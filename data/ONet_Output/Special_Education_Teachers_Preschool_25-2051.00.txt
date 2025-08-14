@@ -42,6 +42,42 @@ Teach academic, social, and life skills to preschool-aged students with learning
 - Coordinate placement of students with special needs into mainstream classes.
 - Serve meals or snacks in accordance with nutritional guidelines.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- English Language (Importance: 4.5/5 | Level: 4.1/7)
+- Education and Training (Importance: 4.23/5 | Level: 4.29/7)
+- Psychology (Importance: 3.82/5 | Level: 3.81/7)
+- Public Safety and Security (Importance: 3.38/5 | Level: 2.53/7)
+- Therapy and Counseling (Importance: 3.28/5 | Level: 3.19/7)
+- Computers and Electronics (Importance: 3.25/5 | Level: 3.52/7)
+- Administrative (Importance: 3.09/5 | Level: 3.94/7)
+- Customer and Personal Service (Importance: 3.06/5 | Level: 3.54/7)
+- Sociology and Anthropology (Importance: 2.98/5 | Level: 2.84/7)
+- Medicine and Dentistry (Importance: 2.94/5 | Level: 2.12/7)
+- Philosophy and Theology (Importance: 2.91/5 | Level: 2.77/7)
+- Mathematics (Importance: 2.85/5 | Level: 2.79/7)
+- Communications and Media (Importance: 2.77/5 | Level: 2.43/7)
+- Law and Government (Importance: 2.66/5 | Level: 1.97/7)
+- Foreign Language (Importance: 2.56/5 | Level: 1.65/7)
+- Administration and Management (Importance: 2.4/5 | Level: 1.6/7)
+- Transportation (Importance: 2.39/5 | Level: 1.28/7)
+- Geography (Importance: 2.32/5 | Level: 1.95/7)
+- History and Archeology (Importance: 2.15/5 | Level: 1.84/7)
+- Telecommunications (Importance: 2.15/5 | Level: 0.83/7)
+- Biology (Importance: 1.73/5 | Level: 1.09/7)
+- Personnel and Human Resources (Importance: 1.69/5 | Level: 0.91/7)
+- Fine Arts (Importance: 1.63/5 | Level: 0.77/7)
+- Chemistry (Importance: 1.4/5 | Level: 0.76/7)
+- Physics (Importance: 1.28/5 | Level: 0.35/7)
+- Food Production (Importance: 1.27/5 | Level: 0.58/7)
+- Mechanical (Importance: 1.21/5 | Level: 0.32/7)
+- Engineering and Technology (Importance: 1.17/5 | Level: 0.38/7)
+- Sales and Marketing (Importance: 1.17/5 | Level: 0.44/7)
+- Production and Processing (Importance: 1.16/5 | Level: 0.25/7)
+- Design (Importance: 1.15/5 | Level: 0.33/7)
+- Economics and Accounting (Importance: 1.05/5 | Level: 0.11/7)
+- Building and Construction (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Speaking (Importance: 4.12/5 | Level: 4.25/7)
@@ -202,3 +238,25 @@ Teach academic, social, and life skills to preschool-aged students with learning
 - Primary Interest: Social
 - Secondary Interest: Artistic
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Special Education Teachers, Elementary School
+- Special Education Teachers, Kindergarten
+- Special Education Teachers, Middle School
+- Special Education Teachers, Secondary School
+- Teaching Assistants, Special Education
+- Kindergarten Teachers, Except Special Education
+- Elementary School Teachers, Except Special Education
+- Preschool Teachers, Except Special Education
+- Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors
+- Adapted Physical Education Specialists
+- Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education
+- Middle School Teachers, Except Special and Career/Technical Education
+- Secondary School Teachers, Except Special and Career/Technical Education
+- Tutors
+- Education Teachers, Postsecondary
+- School Psychologists
+- Instructional Coordinators
+- Educational, Guidance, and Career Counselors and Advisors
+- Self-Enrichment Teachers
+- Career/Technical Education Teachers, Middle School

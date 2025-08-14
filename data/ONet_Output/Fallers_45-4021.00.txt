@@ -24,6 +24,42 @@ Use axes or chainsaws to fell trees using knowledge of tree characteristics and 
 - Work as a member of a team, rotating between chain saw operation and skidder operation.
 - Place supporting limbs or poles under felled trees to avoid splitting undersides, and to prevent logs from rolling.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 2.86/5 | Level: 3.56/7)
+- Production and Processing (Importance: 2.73/5 | Level: 2.7/7)
+- Administration and Management (Importance: 2.5/5 | Level: 1.96/7)
+- Public Safety and Security (Importance: 2.43/5 | Level: 1.71/7)
+- Customer and Personal Service (Importance: 2.35/5 | Level: 1.89/7)
+- Mathematics (Importance: 2.23/5 | Level: 1.35/7)
+- Economics and Accounting (Importance: 2.18/5 | Level: 1.05/7)
+- Law and Government (Importance: 2.1/5 | Level: 1.45/7)
+- Education and Training (Importance: 2.07/5 | Level: 2.06/7)
+- Engineering and Technology (Importance: 2.07/5 | Level: 1.24/7)
+- Transportation (Importance: 2.07/5 | Level: 1.46/7)
+- Physics (Importance: 1.86/5 | Level: 0.73/7)
+- Design (Importance: 1.84/5 | Level: 0.96/7)
+- Biology (Importance: 1.83/5 | Level: 1.31/7)
+- Geography (Importance: 1.81/5 | Level: 1.41/7)
+- Chemistry (Importance: 1.63/5 | Level: 0.7/7)
+- English Language (Importance: 1.62/5 | Level: 0.74/7)
+- Communications and Media (Importance: 1.61/5 | Level: 0.93/7)
+- Administrative (Importance: 1.6/5 | Level: 0.71/7)
+- Sales and Marketing (Importance: 1.6/5 | Level: 0.59/7)
+- Medicine and Dentistry (Importance: 1.54/5 | Level: 0.8/7)
+- Personnel and Human Resources (Importance: 1.53/5 | Level: 0.51/7)
+- Psychology (Importance: 1.52/5 | Level: 0.54/7)
+- Food Production (Importance: 1.43/5 | Level: 0.44/7)
+- Sociology and Anthropology (Importance: 1.38/5 | Level: 0.47/7)
+- Therapy and Counseling (Importance: 1.37/5 | Level: 0.48/7)
+- Foreign Language (Importance: 1.36/5 | Level: 0.63/7)
+- Philosophy and Theology (Importance: 1.35/5 | Level: 0.48/7)
+- Computers and Electronics (Importance: 1.21/5 | Level: 0.32/7)
+- Telecommunications (Importance: 1.18/5 | Level: 0.18/7)
+- Building and Construction (Importance: 1.17/5 | Level: 0.26/7)
+- History and Archeology (Importance: 1.03/5 | Level: 0.07/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Operation and Control (Importance: 3.38/5 | Level: 2.88/7)
@@ -204,3 +240,25 @@ Use axes or chainsaws to fell trees using knowledge of tree characteristics and 
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Tree Trimmers and Pruners
+- Logging Equipment Operators
+- Log Graders and Scalers
+- Forest and Conservation Workers
+- Landscaping and Groundskeeping Workers
+- Sawing Machine Setters, Operators, and Tenders, Wood
+- Farmworkers and Laborers, Crop, Nursery, and Greenhouse
+- Rock Splitters, Quarry
+- Forest and Conservation Technicians
+- Agricultural Equipment Operators
+- Foresters
+- Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+- Operating Engineers and Other Construction Equipment Operators
+- First-Line Supervisors of Farming, Fishing, and Forestry Workers
+- Helpers--Extraction Workers
+- Riggers
+- Carpenters
+- Hoist and Winch Operators
+- Earth Drillers, Except Oil and Gas
+- Rail-Track Laying and Maintenance Equipment Operators

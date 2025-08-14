@@ -36,6 +36,42 @@ Directly supervise and coordinate activities of workers in assigned gambling are
 - Interview and hire workers.
 - Train, supervise, schedule, and evaluate workers.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.47/5 | Level: 5.5/7)
+- Mathematics (Importance: 3.86/5 | Level: 3.84/7)
+- English Language (Importance: 3.86/5 | Level: 3.67/7)
+- Administration and Management (Importance: 3.84/5 | Level: 3.7/7)
+- Computers and Electronics (Importance: 3.7/5 | Level: 4.33/7)
+- Education and Training (Importance: 3.49/5 | Level: 4.14/7)
+- Economics and Accounting (Importance: 3.43/5 | Level: 3.19/7)
+- Public Safety and Security (Importance: 3.33/5 | Level: 3.19/7)
+- Sales and Marketing (Importance: 3.3/5 | Level: 3.35/7)
+- Personnel and Human Resources (Importance: 3.29/5 | Level: 3.99/7)
+- Administrative (Importance: 3.13/5 | Level: 3.67/7)
+- Psychology (Importance: 3.05/5 | Level: 3.72/7)
+- Production and Processing (Importance: 2.92/5 | Level: 3.39/7)
+- Law and Government (Importance: 2.62/5 | Level: 2.66/7)
+- Engineering and Technology (Importance: 2.5/5 | Level: 2.59/7)
+- Communications and Media (Importance: 2.34/5 | Level: 2.01/7)
+- Therapy and Counseling (Importance: 2.2/5 | Level: 1.99/7)
+- Mechanical (Importance: 2.18/5 | Level: 1.62/7)
+- Sociology and Anthropology (Importance: 2.1/5 | Level: 1.93/7)
+- Foreign Language (Importance: 1.97/5 | Level: 0.99/7)
+- Telecommunications (Importance: 1.95/5 | Level: 1.35/7)
+- Transportation (Importance: 1.74/5 | Level: 1.17/7)
+- Food Production (Importance: 1.73/5 | Level: 1.21/7)
+- Geography (Importance: 1.72/5 | Level: 1.6/7)
+- Design (Importance: 1.7/5 | Level: 1.38/7)
+- Building and Construction (Importance: 1.48/5 | Level: 0.89/7)
+- History and Archeology (Importance: 1.47/5 | Level: 1.02/7)
+- Philosophy and Theology (Importance: 1.26/5 | Level: 0.75/7)
+- Physics (Importance: 1.24/5 | Level: 0.46/7)
+- Chemistry (Importance: 1.21/5 | Level: 0.36/7)
+- Medicine and Dentistry (Importance: 1.15/5 | Level: 0.27/7)
+- Biology (Importance: 1.07/5 | Level: 0.13/7)
+- Fine Arts (Importance: 1.01/5 | Level: 0.02/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Service Orientation (Importance: 3.88/5 | Level: 3.5/7)
@@ -166,3 +202,25 @@ Directly supervise and coordinate activities of workers in assigned gambling are
 - Primary Interest: Enterprising
 - Secondary Interest: Conventional
 - Tertiary Interest: Realistic
+
+# RELATED OCCUPATIONS
+- Gambling Managers
+- Gambling Change Persons and Booth Cashiers
+- Gambling Cage Workers
+- Gambling and Sports Book Writers and Runners
+- Gambling Dealers
+- First-Line Supervisors of Office and Administrative Support Workers
+- Gambling Surveillance Officers and Gambling Investigators
+- First-Line Supervisors of Mechanics, Installers, and Repairers
+- First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand
+- First-Line Supervisors of Retail Sales Workers
+- First-Line Supervisors of Non-Retail Sales Workers
+- First-Line Supervisors of Housekeeping and Janitorial Workers
+- First-Line Supervisors of Food Preparation and Serving Workers
+- First-Line Supervisors of Material-Moving Machine and Vehicle Operators
+- First-Line Supervisors of Production and Operating Workers
+- Cashiers
+- Coin, Vending, and Amusement Machine Servicers and Repairers
+- Tellers
+- Amusement and Recreation Attendants
+- First-Line Supervisors of Personal Service Workers

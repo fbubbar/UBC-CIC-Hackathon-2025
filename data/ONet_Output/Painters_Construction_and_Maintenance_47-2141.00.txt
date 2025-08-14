@@ -25,6 +25,42 @@ Paint walls, equipment, buildings, bridges, and other structural surfaces, using
 - Spray or brush hot plastics or pitch onto surfaces.
 - Bake finishes on painted or enameled articles, using baking ovens.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Public Safety and Security (Importance: 3.89/5 | Level: 3.71/7)
+- Administration and Management (Importance: 3.73/5 | Level: 3.59/7)
+- English Language (Importance: 3.59/5 | Level: 3.23/7)
+- Customer and Personal Service (Importance: 3.52/5 | Level: 4.08/7)
+- Building and Construction (Importance: 3.44/5 | Level: 3.8/7)
+- Education and Training (Importance: 3.38/5 | Level: 3.46/7)
+- Administrative (Importance: 3.17/5 | Level: 2.52/7)
+- Transportation (Importance: 3.05/5 | Level: 2.87/7)
+- Law and Government (Importance: 2.97/5 | Level: 2.88/7)
+- Mechanical (Importance: 2.96/5 | Level: 3.13/7)
+- Economics and Accounting (Importance: 2.9/5 | Level: 2.09/7)
+- Mathematics (Importance: 2.9/5 | Level: 2.92/7)
+- Production and Processing (Importance: 2.84/5 | Level: 3.02/7)
+- Sales and Marketing (Importance: 2.7/5 | Level: 2.38/7)
+- Personnel and Human Resources (Importance: 2.51/5 | Level: 2.3/7)
+- Chemistry (Importance: 2.48/5 | Level: 2.63/7)
+- Engineering and Technology (Importance: 2.41/5 | Level: 2.41/7)
+- Design (Importance: 2.4/5 | Level: 2.66/7)
+- Foreign Language (Importance: 2.32/5 | Level: 2.22/7)
+- Physics (Importance: 2.29/5 | Level: 2.29/7)
+- Communications and Media (Importance: 2.24/5 | Level: 1.98/7)
+- Computers and Electronics (Importance: 2.17/5 | Level: 2.01/7)
+- Psychology (Importance: 2.1/5 | Level: 2.28/7)
+- Telecommunications (Importance: 1.91/5 | Level: 1.33/7)
+- Biology (Importance: 1.81/5 | Level: 1.57/7)
+- Therapy and Counseling (Importance: 1.78/5 | Level: 1.6/7)
+- Geography (Importance: 1.74/5 | Level: 1.12/7)
+- Philosophy and Theology (Importance: 1.72/5 | Level: 1.34/7)
+- History and Archeology (Importance: 1.65/5 | Level: 1.11/7)
+- Sociology and Anthropology (Importance: 1.65/5 | Level: 1.34/7)
+- Medicine and Dentistry (Importance: 1.58/5 | Level: 0.84/7)
+- Food Production (Importance: 1.55/5 | Level: 0.9/7)
+- Fine Arts (Importance: 1.42/5 | Level: 0.6/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Active Listening (Importance: 3.0/5 | Level: 3.0/7)
@@ -236,3 +272,25 @@ Paint walls, equipment, buildings, bridges, and other structural surfaces, using
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Painting, Coating, and Decorating Workers
+- Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons
+- Plasterers and Stucco Masons
+- Coating, Painting, and Spraying Machine Setters, Operators, and Tenders
+- Furniture Finishers
+- Insulation Workers, Floor, Ceiling, and Wall
+- Roofers
+- Drywall and Ceiling Tile Installers
+- Paperhangers
+- Molders, Shapers, and Casters, Except Metal and Plastic
+- Carpenters
+- Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters
+- Tile and Stone Setters
+- Helpers--Roofers
+- Cement Masons and Concrete Finishers
+- Helpers--Carpenters
+- Terrazzo Workers and Finishers
+- Floor Layers, Except Carpet, Wood, and Hard Tiles
+- Stone Cutters and Carvers, Manufacturing
+- Tapers

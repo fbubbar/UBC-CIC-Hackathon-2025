@@ -17,6 +17,42 @@ Install, repair, or adjust audio or television receivers, stereo systems, camcor
 - Disassemble entertainment equipment and repair or replace loose, worn, or defective components and wiring, using hand tools and soldering irons.
 - Compute cost estimates for labor and materials.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Computers and Electronics (Importance: 4.26/5 | Level: 4.67/7)
+- Customer and Personal Service (Importance: 4.11/5 | Level: 4.23/7)
+- Telecommunications (Importance: 3.32/5 | Level: 3.35/7)
+- Mechanical (Importance: 3.27/5 | Level: 3.89/7)
+- English Language (Importance: 3.23/5 | Level: 2.98/7)
+- Engineering and Technology (Importance: 3.2/5 | Level: 3.37/7)
+- Administration and Management (Importance: 3.12/5 | Level: 3.35/7)
+- Building and Construction (Importance: 3.07/5 | Level: 3.23/7)
+- Production and Processing (Importance: 2.95/5 | Level: 2.48/7)
+- Mathematics (Importance: 2.91/5 | Level: 3.36/7)
+- Sales and Marketing (Importance: 2.9/5 | Level: 2.52/7)
+- Communications and Media (Importance: 2.76/5 | Level: 2.42/7)
+- Design (Importance: 2.64/5 | Level: 2.79/7)
+- Administrative (Importance: 2.35/5 | Level: 2.45/7)
+- Education and Training (Importance: 2.33/5 | Level: 2.37/7)
+- Public Safety and Security (Importance: 2.14/5 | Level: 1.62/7)
+- Physics (Importance: 2.08/5 | Level: 1.91/7)
+- Geography (Importance: 1.83/5 | Level: 0.98/7)
+- Transportation (Importance: 1.77/5 | Level: 1.49/7)
+- Psychology (Importance: 1.74/5 | Level: 1.18/7)
+- Sociology and Anthropology (Importance: 1.69/5 | Level: 0.83/7)
+- Personnel and Human Resources (Importance: 1.59/5 | Level: 0.91/7)
+- Foreign Language (Importance: 1.5/5 | Level: 0.66/7)
+- Economics and Accounting (Importance: 1.42/5 | Level: 0.75/7)
+- Law and Government (Importance: 1.37/5 | Level: 0.56/7)
+- Fine Arts (Importance: 1.34/5 | Level: 0.35/7)
+- Therapy and Counseling (Importance: 1.33/5 | Level: 0.54/7)
+- Philosophy and Theology (Importance: 1.23/5 | Level: 0.55/7)
+- Chemistry (Importance: 1.17/5 | Level: 0.44/7)
+- History and Archeology (Importance: 1.13/5 | Level: 0.39/7)
+- Medicine and Dentistry (Importance: 1.06/5 | Level: 0.07/7)
+- Biology (Importance: 1.05/5 | Level: 0.06/7)
+- Food Production (Importance: 1.02/5 | Level: 0.05/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Repairing (Importance: 3.62/5 | Level: 3.38/7)
@@ -178,3 +214,25 @@ Install, repair, or adjust audio or television receivers, stereo systems, camcor
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Radio, Cellular, and Tower Equipment Installers and Repairers
+- Telecommunications Equipment Installers and Repairers, Except Line Installers
+- Electrical and Electronics Repairers, Commercial and Industrial Equipment
+- Telecommunications Line Installers and Repairers
+- Electronic Equipment Installers and Repairers, Motor Vehicles
+- Computer, Automated Teller, and Office Machine Repairers
+- Camera and Photographic Equipment Repairers
+- Audio and Video Technicians
+- Electrical and Electronics Installers and Repairers, Transportation Equipment
+- Security and Fire Alarm Systems Installers
+- Electrical and Electronic Engineering Technologists and Technicians
+- Electronics Engineers, Except Computer
+- Broadcast Technicians
+- Calibration Technologists and Technicians
+- Radio Frequency Identification Device Specialists
+- Lighting Technicians
+- Electromechanical Equipment Assemblers
+- Telecommunications Engineering Specialists
+- Avionics Technicians
+- Motion Picture Projectionists

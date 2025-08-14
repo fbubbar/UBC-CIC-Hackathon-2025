@@ -24,6 +24,42 @@ Plan, direct, or coordinate one or more administrative services of an organizati
 - Represent work unit at meetings or conferences and serve as liaison for requests or complaints.
 - Supervise administrative staff and provide training and orientation to new staff.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.44/5 | Level: 5.17/7)
+- Administration and Management (Importance: 4.24/5 | Level: 4.56/7)
+- English Language (Importance: 4.03/5 | Level: 3.86/7)
+- Administrative (Importance: 3.9/5 | Level: 5.18/7)
+- Personnel and Human Resources (Importance: 3.35/5 | Level: 4.12/7)
+- Computers and Electronics (Importance: 3.35/5 | Level: 4.15/7)
+- Public Safety and Security (Importance: 3.29/5 | Level: 3.29/7)
+- Mathematics (Importance: 3.26/5 | Level: 3.54/7)
+- Economics and Accounting (Importance: 2.92/5 | Level: 3.14/7)
+- Production and Processing (Importance: 2.89/5 | Level: 3.02/7)
+- Law and Government (Importance: 2.88/5 | Level: 2.66/7)
+- Education and Training (Importance: 2.84/5 | Level: 3.05/7)
+- Telecommunications (Importance: 2.63/5 | Level: 2.19/7)
+- Communications and Media (Importance: 2.4/5 | Level: 2.2/7)
+- Mechanical (Importance: 2.33/5 | Level: 2.25/7)
+- Building and Construction (Importance: 2.29/5 | Level: 2.17/7)
+- Design (Importance: 2.1/5 | Level: 2.01/7)
+- Psychology (Importance: 2.07/5 | Level: 1.99/7)
+- Engineering and Technology (Importance: 2.06/5 | Level: 1.62/7)
+- Sales and Marketing (Importance: 1.95/5 | Level: 2.0/7)
+- Transportation (Importance: 1.94/5 | Level: 1.41/7)
+- Medicine and Dentistry (Importance: 1.78/5 | Level: 1.08/7)
+- Sociology and Anthropology (Importance: 1.76/5 | Level: 1.45/7)
+- Therapy and Counseling (Importance: 1.74/5 | Level: 1.39/7)
+- Physics (Importance: 1.6/5 | Level: 1.14/7)
+- Chemistry (Importance: 1.52/5 | Level: 1.33/7)
+- Geography (Importance: 1.51/5 | Level: 1.1/7)
+- Philosophy and Theology (Importance: 1.49/5 | Level: 1.31/7)
+- History and Archeology (Importance: 1.42/5 | Level: 0.77/7)
+- Foreign Language (Importance: 1.37/5 | Level: 0.75/7)
+- Biology (Importance: 1.37/5 | Level: 0.74/7)
+- Food Production (Importance: 1.27/5 | Level: 0.61/7)
+- Fine Arts (Importance: 1.13/5 | Level: 0.21/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Time Management (Importance: 4.0/5 | Level: 4.0/7)
@@ -195,3 +231,25 @@ Plan, direct, or coordinate one or more administrative services of an organizati
 - Primary Interest: Enterprising
 - Secondary Interest: Conventional
 - Tertiary Interest: Social
+
+# RELATED OCCUPATIONS
+- First-Line Supervisors of Office and Administrative Support Workers
+- General and Operations Managers
+- Executive Secretaries and Executive Administrative Assistants
+- Facilities Managers
+- Project Management Specialists
+- Document Management Specialists
+- Compliance Managers
+- First-Line Supervisors of Non-Retail Sales Workers
+- Human Resources Specialists
+- Human Resources Managers
+- Management Analysts
+- Secretaries and Administrative Assistants, Except Legal, Medical, and Executive
+- Chief Executives
+- Office Clerks, General
+- Human Resources Assistants, Except Payroll and Timekeeping
+- Medical and Health Services Managers
+- Information Technology Project Managers
+- First-Line Supervisors of Housekeeping and Janitorial Workers
+- Health Information Technologists and Medical Registrars
+- Payroll and Timekeeping Clerks

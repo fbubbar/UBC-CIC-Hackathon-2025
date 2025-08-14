@@ -18,6 +18,42 @@ Diagnose, treat, and provide preventive care to individuals and families across 
 - Train residents, medical students, and other health care professionals.
 - Prepare government or organizational reports which include birth, death, and disease statistics, workforce evaluations, or medical status of individuals.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Medicine and Dentistry (Importance: 5.0/5 | Level: 5.89/7)
+- English Language (Importance: 4.67/5 | Level: 5.16/7)
+- Therapy and Counseling (Importance: 4.56/5 | Level: 5.36/7)
+- Psychology (Importance: 4.49/5 | Level: 5.58/7)
+- Biology (Importance: 4.46/5 | Level: 5.69/7)
+- Customer and Personal Service (Importance: 3.66/5 | Level: 5.73/7)
+- Computers and Electronics (Importance: 3.4/5 | Level: 3.35/7)
+- Mathematics (Importance: 3.29/5 | Level: 3.38/7)
+- Education and Training (Importance: 3.22/5 | Level: 4.35/7)
+- Sociology and Anthropology (Importance: 3.14/5 | Level: 2.97/7)
+- Law and Government (Importance: 3.06/5 | Level: 3.33/7)
+- Telecommunications (Importance: 2.99/5 | Level: 1.09/7)
+- Chemistry (Importance: 2.96/5 | Level: 3.05/7)
+- Communications and Media (Importance: 2.92/5 | Level: 2.9/7)
+- Administrative (Importance: 2.89/5 | Level: 3.63/7)
+- Public Safety and Security (Importance: 2.71/5 | Level: 2.91/7)
+- Administration and Management (Importance: 2.43/5 | Level: 2.61/7)
+- Personnel and Human Resources (Importance: 2.39/5 | Level: 2.57/7)
+- Foreign Language (Importance: 2.29/5 | Level: 1.54/7)
+- Philosophy and Theology (Importance: 2.11/5 | Level: 2.76/7)
+- Physics (Importance: 1.99/5 | Level: 1.44/7)
+- Sales and Marketing (Importance: 1.87/5 | Level: 1.05/7)
+- History and Archeology (Importance: 1.86/5 | Level: 1.52/7)
+- Engineering and Technology (Importance: 1.68/5 | Level: 1.01/7)
+- Production and Processing (Importance: 1.57/5 | Level: 1.32/7)
+- Transportation (Importance: 1.45/5 | Level: 1.03/7)
+- Economics and Accounting (Importance: 1.45/5 | Level: 0.71/7)
+- Geography (Importance: 1.43/5 | Level: 1.01/7)
+- Mechanical (Importance: 1.15/5 | Level: 0.29/7)
+- Food Production (Importance: 1.12/5 | Level: 0.17/7)
+- Fine Arts (Importance: 1.12/5 | Level: 0.16/7)
+- Design (Importance: 1.08/5 | Level: 0.12/7)
+- Building and Construction (Importance: 1.04/5 | Level: 0.08/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Critical Thinking (Importance: 4.38/5 | Level: 4.5/7)
@@ -220,3 +256,25 @@ Diagnose, treat, and provide preventive care to individuals and families across 
 - Primary Interest: Social
 - Secondary Interest: Investigative
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Emergency Medicine Physicians
+- Pediatricians, General
+- General Internal Medicine Physicians
+- Obstetricians and Gynecologists
+- Pediatric Surgeons
+- Physician Assistants
+- Psychiatrists
+- Cardiologists
+- Advanced Practice Psychiatric Nurses
+- Hospitalists
+- Nurse Practitioners
+- Neurologists
+- Clinical Nurse Specialists
+- Orthopedic Surgeons, Except Pediatric
+- Registered Nurses
+- Nurse Midwives
+- Preventive Medicine Physicians
+- Anesthesiologists
+- Acute Care Nurses
+- Paramedics

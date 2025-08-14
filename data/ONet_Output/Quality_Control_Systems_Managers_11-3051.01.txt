@@ -33,6 +33,42 @@ Plan, direct, or coordinate quality assurance programs. Formulate quality contro
 - Review and approve quality plans submitted by contractors.
 - Audit and inspect subcontractor facilities including external laboratories.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Production and Processing (Importance: 4.12/5 | Level: 4.6/7)
+- Education and Training (Importance: 4.07/5 | Level: 5.03/7)
+- English Language (Importance: 4.06/5 | Level: 4.5/7)
+- Chemistry (Importance: 3.89/5 | Level: 4.8/7)
+- Customer and Personal Service (Importance: 3.77/5 | Level: 4.59/7)
+- Administration and Management (Importance: 3.72/5 | Level: 4.19/7)
+- Mathematics (Importance: 3.59/5 | Level: 4.2/7)
+- Engineering and Technology (Importance: 3.52/5 | Level: 4.05/7)
+- Public Safety and Security (Importance: 3.47/5 | Level: 3.56/7)
+- Computers and Electronics (Importance: 3.32/5 | Level: 3.97/7)
+- Personnel and Human Resources (Importance: 3.2/5 | Level: 3.75/7)
+- Administrative (Importance: 2.96/5 | Level: 3.72/7)
+- Biology (Importance: 2.87/5 | Level: 2.74/7)
+- Law and Government (Importance: 2.87/5 | Level: 2.88/7)
+- Physics (Importance: 2.79/5 | Level: 2.99/7)
+- Design (Importance: 2.47/5 | Level: 2.86/7)
+- Psychology (Importance: 2.33/5 | Level: 2.36/7)
+- Mechanical (Importance: 2.26/5 | Level: 2.75/7)
+- Food Production (Importance: 2.24/5 | Level: 1.63/7)
+- Communications and Media (Importance: 2.22/5 | Level: 2.15/7)
+- Transportation (Importance: 2.1/5 | Level: 2.41/7)
+- Therapy and Counseling (Importance: 1.96/5 | Level: 2.28/7)
+- Economics and Accounting (Importance: 1.95/5 | Level: 1.61/7)
+- Medicine and Dentistry (Importance: 1.93/5 | Level: 1.38/7)
+- Building and Construction (Importance: 1.79/5 | Level: 1.44/7)
+- Sociology and Anthropology (Importance: 1.76/5 | Level: 1.5/7)
+- Sales and Marketing (Importance: 1.63/5 | Level: 1.56/7)
+- Telecommunications (Importance: 1.57/5 | Level: 0.99/7)
+- Geography (Importance: 1.56/5 | Level: 1.51/7)
+- Philosophy and Theology (Importance: 1.5/5 | Level: 1.04/7)
+- Foreign Language (Importance: 1.41/5 | Level: 1.09/7)
+- History and Archeology (Importance: 1.13/5 | Level: 0.44/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.04/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Reading Comprehension (Importance: 4.0/5 | Level: 4.12/7)
@@ -205,3 +241,25 @@ Plan, direct, or coordinate quality assurance programs. Formulate quality contro
 - Primary Interest: Conventional
 - Secondary Interest: Enterprising
 - Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Quality Control Analysts
+- Validation Engineers
+- Industrial Engineers
+- Industrial Production Managers
+- Software Quality Assurance Analysts and Testers
+- Health and Safety Engineers, Except Mining Safety Engineers and Inspectors
+- Manufacturing Engineers
+- Chemical Technicians
+- Regulatory Affairs Managers
+- Compliance Managers
+- Industrial Engineering Technologists and Technicians
+- Calibration Technologists and Technicians
+- Chemists
+- Food Science Technicians
+- Project Management Specialists
+- Environmental Engineering Technologists and Technicians
+- First-Line Supervisors of Production and Operating Workers
+- Natural Sciences Managers
+- Regulatory Affairs Specialists
+- Software Developers

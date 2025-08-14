@@ -23,6 +23,42 @@ Inspect equipment or goods in connection with the safe transport of cargo or peo
 - Measure vessels' holds and depths of fuel and water in tanks, using sounding lines and tape measures.
 - Visually inspect cargo for damage upon arrival or discharge.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Transportation (Importance: 3.91/5 | Level: 4.04/7)
+- English Language (Importance: 3.84/5 | Level: 4.3/7)
+- Customer and Personal Service (Importance: 3.52/5 | Level: 4.33/7)
+- Mathematics (Importance: 3.21/5 | Level: 3.94/7)
+- Public Safety and Security (Importance: 3.18/5 | Level: 3.78/7)
+- Administration and Management (Importance: 3.05/5 | Level: 3.57/7)
+- Mechanical (Importance: 3.02/5 | Level: 3.32/7)
+- Law and Government (Importance: 3.02/5 | Level: 2.98/7)
+- Engineering and Technology (Importance: 2.75/5 | Level: 3.48/7)
+- Computers and Electronics (Importance: 2.7/5 | Level: 3.42/7)
+- Telecommunications (Importance: 2.69/5 | Level: 2.01/7)
+- Education and Training (Importance: 2.65/5 | Level: 3.24/7)
+- Production and Processing (Importance: 2.63/5 | Level: 3.04/7)
+- Administrative (Importance: 2.52/5 | Level: 3.19/7)
+- Geography (Importance: 2.4/5 | Level: 2.72/7)
+- Chemistry (Importance: 2.38/5 | Level: 2.43/7)
+- Sales and Marketing (Importance: 2.37/5 | Level: 2.33/7)
+- Physics (Importance: 2.33/5 | Level: 2.88/7)
+- Economics and Accounting (Importance: 2.31/5 | Level: 2.18/7)
+- Communications and Media (Importance: 2.23/5 | Level: 2.06/7)
+- Personnel and Human Resources (Importance: 2.21/5 | Level: 2.44/7)
+- Design (Importance: 2.03/5 | Level: 2.19/7)
+- Building and Construction (Importance: 1.94/5 | Level: 1.8/7)
+- Biology (Importance: 1.75/5 | Level: 1.31/7)
+- Foreign Language (Importance: 1.68/5 | Level: 1.56/7)
+- Food Production (Importance: 1.66/5 | Level: 1.56/7)
+- Psychology (Importance: 1.45/5 | Level: 1.41/7)
+- Sociology and Anthropology (Importance: 1.38/5 | Level: 0.65/7)
+- History and Archeology (Importance: 1.17/5 | Level: 0.37/7)
+- Philosophy and Theology (Importance: 1.11/5 | Level: 0.18/7)
+- Fine Arts (Importance: 1.04/5 | Level: 0.09/7)
+- Medicine and Dentistry (Importance: 1.02/5 | Level: 0.04/7)
+- Therapy and Counseling (Importance: 1.02/5 | Level: 0.04/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Writing (Importance: 3.62/5 | Level: 3.5/7)
@@ -102,3 +138,25 @@ Inspect equipment or goods in connection with the safe transport of cargo or peo
 - Primary Interest: Conventional
 - Secondary Interest: Realistic
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation
+- Aviation Inspectors
+- Construction and Building Inspectors
+- Aircraft Cargo Handling Supervisors
+- Ship Engineers
+- Cargo and Freight Agents
+- First-Line Supervisors of Material-Moving Machine and Vehicle Operators
+- Railroad Conductors and Yardmasters
+- Inspectors, Testers, Sorters, Samplers, and Weighers
+- Airfield Operations Specialists
+- Locomotive Engineers
+- Transportation, Storage, and Distribution Managers
+- Agricultural Inspectors
+- Shipping, Receiving, and Inventory Clerks
+- Tank Car, Truck, and Ship Loaders
+- Marine Engineers and Naval Architects
+- Freight Forwarders
+- First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand
+- Government Property Inspectors and Investigators
+- Occupational Health and Safety Specialists

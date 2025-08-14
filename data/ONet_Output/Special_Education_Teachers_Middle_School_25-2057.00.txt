@@ -46,6 +46,42 @@ Teach academic, social, and life skills to middle school students with learning,
 - Provide additional instruction in vocational areas.
 - Visit schools to tutor students with sensory impairments and to consult with teachers regarding students' special needs.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Education and Training (Importance: 4.77/5 | Level: 5.05/7)
+- English Language (Importance: 4.75/5 | Level: 4.86/7)
+- Psychology (Importance: 3.95/5 | Level: 4.72/7)
+- Customer and Personal Service (Importance: 3.58/5 | Level: 4.27/7)
+- Mathematics (Importance: 3.55/5 | Level: 3.92/7)
+- Computers and Electronics (Importance: 3.44/5 | Level: 4.02/7)
+- Therapy and Counseling (Importance: 3.3/5 | Level: 3.8/7)
+- Administrative (Importance: 3.3/5 | Level: 4.17/7)
+- Public Safety and Security (Importance: 3.18/5 | Level: 2.41/7)
+- Geography (Importance: 2.9/5 | Level: 3.48/7)
+- Sociology and Anthropology (Importance: 2.78/5 | Level: 2.73/7)
+- Administration and Management (Importance: 2.67/5 | Level: 2.71/7)
+- History and Archeology (Importance: 2.62/5 | Level: 2.59/7)
+- Communications and Media (Importance: 2.59/5 | Level: 1.9/7)
+- Personnel and Human Resources (Importance: 2.37/5 | Level: 2.04/7)
+- Law and Government (Importance: 2.37/5 | Level: 1.84/7)
+- Biology (Importance: 2.3/5 | Level: 2.26/7)
+- Physics (Importance: 2.03/5 | Level: 1.45/7)
+- Telecommunications (Importance: 1.84/5 | Level: 0.76/7)
+- Chemistry (Importance: 1.84/5 | Level: 1.35/7)
+- Fine Arts (Importance: 1.8/5 | Level: 0.97/7)
+- Philosophy and Theology (Importance: 1.79/5 | Level: 1.75/7)
+- Medicine and Dentistry (Importance: 1.73/5 | Level: 0.99/7)
+- Transportation (Importance: 1.71/5 | Level: 0.96/7)
+- Foreign Language (Importance: 1.67/5 | Level: 1.17/7)
+- Engineering and Technology (Importance: 1.6/5 | Level: 0.74/7)
+- Design (Importance: 1.57/5 | Level: 0.69/7)
+- Economics and Accounting (Importance: 1.42/5 | Level: 0.53/7)
+- Food Production (Importance: 1.39/5 | Level: 0.75/7)
+- Sales and Marketing (Importance: 1.36/5 | Level: 0.65/7)
+- Mechanical (Importance: 1.33/5 | Level: 0.4/7)
+- Building and Construction (Importance: 1.27/5 | Level: 0.27/7)
+- Production and Processing (Importance: 1.21/5 | Level: 0.51/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Speaking (Importance: 4.12/5 | Level: 4.0/7)
@@ -222,3 +258,25 @@ Teach academic, social, and life skills to middle school students with learning,
 - Primary Interest: Social
 - Secondary Interest: Investigative
 - Tertiary Interest: Artistic
+
+# RELATED OCCUPATIONS
+- Special Education Teachers, Elementary School
+- Special Education Teachers, Kindergarten
+- Special Education Teachers, Secondary School
+- Special Education Teachers, Preschool
+- Teaching Assistants, Special Education
+- Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors
+- Elementary School Teachers, Except Special Education
+- Middle School Teachers, Except Special and Career/Technical Education
+- Kindergarten Teachers, Except Special Education
+- Secondary School Teachers, Except Special and Career/Technical Education
+- Tutors
+- Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education
+- Education Teachers, Postsecondary
+- Preschool Teachers, Except Special Education
+- Career/Technical Education Teachers, Middle School
+- Adapted Physical Education Specialists
+- School Psychologists
+- Self-Enrichment Teachers
+- Instructional Coordinators
+- Teaching Assistants, Postsecondary

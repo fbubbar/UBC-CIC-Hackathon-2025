@@ -31,6 +31,42 @@ Perform laboratory and field tests to monitor the environment and investigate so
 - Examine and analyze material for presence and concentration of contaminants, such as asbestos, using variety of microscopes.
 - Distribute permits, closure plans, or cleanup plans.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 3.64/5 | Level: 4.64/7)
+- Chemistry (Importance: 3.48/5 | Level: 4.27/7)
+- English Language (Importance: 3.48/5 | Level: 3.82/7)
+- Biology (Importance: 3.43/5 | Level: 4.55/7)
+- Law and Government (Importance: 3.41/5 | Level: 3.55/7)
+- Computers and Electronics (Importance: 3.36/5 | Level: 4.05/7)
+- Mathematics (Importance: 3.36/5 | Level: 4.0/7)
+- Public Safety and Security (Importance: 3.05/5 | Level: 3.64/7)
+- Engineering and Technology (Importance: 3.05/5 | Level: 3.64/7)
+- Administration and Management (Importance: 2.82/5 | Level: 3.41/7)
+- Administrative (Importance: 2.68/5 | Level: 3.27/7)
+- Education and Training (Importance: 2.67/5 | Level: 3.5/7)
+- Communications and Media (Importance: 2.55/5 | Level: 2.59/7)
+- Personnel and Human Resources (Importance: 2.52/5 | Level: 2.91/7)
+- Physics (Importance: 2.5/5 | Level: 3.41/7)
+- Geography (Importance: 2.43/5 | Level: 3.0/7)
+- Transportation (Importance: 2.41/5 | Level: 2.73/7)
+- Mechanical (Importance: 2.33/5 | Level: 3.05/7)
+- Production and Processing (Importance: 2.24/5 | Level: 2.27/7)
+- Telecommunications (Importance: 2.14/5 | Level: 1.32/7)
+- Building and Construction (Importance: 2.14/5 | Level: 2.23/7)
+- Design (Importance: 2.14/5 | Level: 2.64/7)
+- Psychology (Importance: 2.09/5 | Level: 2.05/7)
+- Sales and Marketing (Importance: 2.05/5 | Level: 2.32/7)
+- Economics and Accounting (Importance: 2.0/5 | Level: 2.05/7)
+- Sociology and Anthropology (Importance: 1.77/5 | Level: 1.59/7)
+- History and Archeology (Importance: 1.68/5 | Level: 1.5/7)
+- Medicine and Dentistry (Importance: 1.68/5 | Level: 1.09/7)
+- Food Production (Importance: 1.64/5 | Level: 1.18/7)
+- Foreign Language (Importance: 1.52/5 | Level: 0.86/7)
+- Therapy and Counseling (Importance: 1.48/5 | Level: 0.9/7)
+- Philosophy and Theology (Importance: 1.32/5 | Level: 0.59/7)
+- Fine Arts (Importance: 1.14/5 | Level: 0.27/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Reading Comprehension (Importance: 4.0/5 | Level: 4.12/7)
@@ -259,3 +295,25 @@ Perform laboratory and field tests to monitor the environment and investigate so
 - Primary Interest: Investigative
 - Secondary Interest: Realistic
 - Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Environmental Scientists and Specialists, Including Health
+- Environmental Engineering Technologists and Technicians
+- Environmental Engineers
+- Environmental Compliance Inspectors
+- Water and Wastewater Treatment Plant and System Operators
+- Brownfield Redevelopment Specialists and Site Managers
+- Geological Technicians, Except Hydrologic Technicians
+- Water/Wastewater Engineers
+- Conservation Scientists
+- Water Resource Specialists
+- Nuclear Monitoring Technicians
+- Industrial Ecologists
+- Hazardous Materials Removal Workers
+- Occupational Health and Safety Specialists
+- Chemical Technicians
+- Health and Safety Engineers, Except Mining Safety Engineers and Inspectors
+- Agricultural Technicians
+- Hydrologic Technicians
+- Hydrologists
+- Occupational Health and Safety Technicians

@@ -24,6 +24,42 @@ Administer anesthetics and analgesics for pain management prior to, during, or a
 - Schedule and maintain use of surgical suite, including operating, wash-up, waiting rooms, or anesthetic and sterilizing equipment.
 - Conduct medical research to aid in controlling and curing disease, to investigate new medications, and to develop and test new medical techniques.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Medicine and Dentistry (Importance: 4.88/5 | Level: 6.46/7)
+- Biology (Importance: 4.27/5 | Level: 5.03/7)
+- English Language (Importance: 3.68/5 | Level: 4.19/7)
+- Chemistry (Importance: 3.62/5 | Level: 4.39/7)
+- Customer and Personal Service (Importance: 3.57/5 | Level: 4.63/7)
+- Psychology (Importance: 3.43/5 | Level: 4.66/7)
+- Physics (Importance: 3.23/5 | Level: 3.8/7)
+- Education and Training (Importance: 3.15/5 | Level: 4.3/7)
+- Mathematics (Importance: 3.15/5 | Level: 3.59/7)
+- Administration and Management (Importance: 3.12/5 | Level: 3.35/7)
+- Computers and Electronics (Importance: 2.75/5 | Level: 3.5/7)
+- Therapy and Counseling (Importance: 2.56/5 | Level: 3.03/7)
+- Law and Government (Importance: 2.48/5 | Level: 2.65/7)
+- Engineering and Technology (Importance: 2.31/5 | Level: 2.54/7)
+- Mechanical (Importance: 2.17/5 | Level: 2.36/7)
+- Personnel and Human Resources (Importance: 2.14/5 | Level: 2.64/7)
+- Economics and Accounting (Importance: 2.05/5 | Level: 1.77/7)
+- Administrative (Importance: 2.02/5 | Level: 2.04/7)
+- Sociology and Anthropology (Importance: 2.0/5 | Level: 1.85/7)
+- Public Safety and Security (Importance: 1.94/5 | Level: 1.78/7)
+- Communications and Media (Importance: 1.9/5 | Level: 1.9/7)
+- Foreign Language (Importance: 1.87/5 | Level: 1.55/7)
+- Telecommunications (Importance: 1.84/5 | Level: 1.17/7)
+- Production and Processing (Importance: 1.76/5 | Level: 1.59/7)
+- Philosophy and Theology (Importance: 1.55/5 | Level: 1.63/7)
+- Sales and Marketing (Importance: 1.36/5 | Level: 0.84/7)
+- Design (Importance: 1.3/5 | Level: 0.65/7)
+- Geography (Importance: 1.23/5 | Level: 0.59/7)
+- Transportation (Importance: 1.21/5 | Level: 0.56/7)
+- History and Archeology (Importance: 1.17/5 | Level: 0.29/7)
+- Building and Construction (Importance: 1.15/5 | Level: 0.39/7)
+- Fine Arts (Importance: 1.06/5 | Level: 0.11/7)
+- Food Production (Importance: 1.02/5 | Level: 0.06/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Critical Thinking (Importance: 4.5/5 | Level: 4.38/7)
@@ -190,3 +226,25 @@ Administer anesthetics and analgesics for pain management prior to, during, or a
 - Primary Interest: Investigative
 - Secondary Interest: Social
 - Tertiary Interest: Realistic
+
+# RELATED OCCUPATIONS
+- Emergency Medicine Physicians
+- Pediatric Surgeons
+- Orthopedic Surgeons, Except Pediatric
+- Cardiologists
+- Nurse Anesthetists
+- Anesthesiologist Assistants
+- General Internal Medicine Physicians
+- Obstetricians and Gynecologists
+- Nurse Practitioners
+- Physician Assistants
+- Paramedics
+- Clinical Nurse Specialists
+- Urologists
+- Registered Nurses
+- Surgical Assistants
+- Critical Care Nurses
+- Family Medicine Physicians
+- Acute Care Nurses
+- Emergency Medical Technicians
+- Nurse Midwives

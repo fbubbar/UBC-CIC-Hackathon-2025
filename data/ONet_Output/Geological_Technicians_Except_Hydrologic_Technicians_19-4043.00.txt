@@ -35,6 +35,42 @@ Assist scientists or engineers in the use of electronic, sonic, or nuclear measu
 - Conduct geophysical surveys of potential sites for wind farms or solar installations to determine their suitability.
 - Evaluate and interpret seismic data with the aid of computers.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Computers and Electronics (Importance: 3.55/5 | Level: 4.52/7)
+- Engineering and Technology (Importance: 3.46/5 | Level: 4.28/7)
+- Mathematics (Importance: 3.46/5 | Level: 4.43/7)
+- English Language (Importance: 3.45/5 | Level: 3.91/7)
+- Chemistry (Importance: 3.17/5 | Level: 3.65/7)
+- Physics (Importance: 3.14/5 | Level: 3.94/7)
+- Geography (Importance: 3.11/5 | Level: 4.43/7)
+- Customer and Personal Service (Importance: 2.62/5 | Level: 2.84/7)
+- Mechanical (Importance: 2.55/5 | Level: 3.38/7)
+- Public Safety and Security (Importance: 2.54/5 | Level: 2.41/7)
+- Administration and Management (Importance: 2.53/5 | Level: 2.93/7)
+- Design (Importance: 2.53/5 | Level: 2.71/7)
+- Production and Processing (Importance: 2.44/5 | Level: 2.45/7)
+- Administrative (Importance: 2.41/5 | Level: 2.84/7)
+- Law and Government (Importance: 2.26/5 | Level: 2.21/7)
+- Education and Training (Importance: 2.24/5 | Level: 2.65/7)
+- History and Archeology (Importance: 2.04/5 | Level: 2.06/7)
+- Transportation (Importance: 2.01/5 | Level: 2.17/7)
+- Sales and Marketing (Importance: 1.96/5 | Level: 1.72/7)
+- Communications and Media (Importance: 1.95/5 | Level: 2.03/7)
+- Telecommunications (Importance: 1.94/5 | Level: 1.43/7)
+- Building and Construction (Importance: 1.92/5 | Level: 1.84/7)
+- Personnel and Human Resources (Importance: 1.71/5 | Level: 1.78/7)
+- Biology (Importance: 1.7/5 | Level: 1.6/7)
+- Economics and Accounting (Importance: 1.6/5 | Level: 1.17/7)
+- Foreign Language (Importance: 1.51/5 | Level: 1.1/7)
+- Psychology (Importance: 1.39/5 | Level: 0.8/7)
+- Sociology and Anthropology (Importance: 1.28/5 | Level: 0.59/7)
+- Philosophy and Theology (Importance: 1.24/5 | Level: 0.56/7)
+- Medicine and Dentistry (Importance: 1.18/5 | Level: 0.34/7)
+- Therapy and Counseling (Importance: 1.17/5 | Level: 0.38/7)
+- Fine Arts (Importance: 1.12/5 | Level: 0.24/7)
+- Food Production (Importance: 1.08/5 | Level: 0.12/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Reading Comprehension (Importance: 3.75/5 | Level: 4.0/7)
@@ -214,3 +250,25 @@ Assist scientists or engineers in the use of electronic, sonic, or nuclear measu
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Calibration Technologists and Technicians
+- Surveying and Mapping Technicians
+- Geodetic Surveyors
+- Environmental Science and Protection Technicians, Including Health
+- Environmental Engineering Technologists and Technicians
+- Remote Sensing Scientists and Technologists
+- Hydrologic Technicians
+- Chemical Technicians
+- Remote Sensing Technicians
+- Mechanical Engineering Technologists and Technicians
+- Geoscientists, Except Hydrologists and Geographers
+- Petroleum Engineers
+- Hydrologists
+- Mining and Geological Engineers, Including Mining Safety Engineers
+- Electrical and Electronic Engineering Technologists and Technicians
+- Aerospace Engineering and Operations Technologists and Technicians
+- Geothermal Technicians
+- Electrical Engineers
+- Electrical and Electronics Repairers, Commercial and Industrial Equipment
+- Nuclear Monitoring Technicians

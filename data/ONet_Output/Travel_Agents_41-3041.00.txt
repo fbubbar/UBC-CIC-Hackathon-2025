@@ -14,6 +14,42 @@ Plan and sell transportation and accommodations for customers. Determine destina
 - Print or request transportation carrier tickets, using computer printer system or system link to travel carrier.
 - Provide customer with brochures and publications containing travel information, such as local customs, points of interest, or foreign country regulations.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.25/5 | Level: 4.76/7)
+- English Language (Importance: 3.97/5 | Level: 4.27/7)
+- Sales and Marketing (Importance: 3.88/5 | Level: 4.5/7)
+- Geography (Importance: 3.43/5 | Level: 3.69/7)
+- Computers and Electronics (Importance: 3.36/5 | Level: 3.99/7)
+- Telecommunications (Importance: 3.17/5 | Level: 3.46/7)
+- Administrative (Importance: 3.17/5 | Level: 4.06/7)
+- Transportation (Importance: 3.09/5 | Level: 2.49/7)
+- Administration and Management (Importance: 2.89/5 | Level: 3.38/7)
+- Communications and Media (Importance: 2.85/5 | Level: 3.29/7)
+- Economics and Accounting (Importance: 2.72/5 | Level: 2.64/7)
+- Education and Training (Importance: 2.63/5 | Level: 3.32/7)
+- Foreign Language (Importance: 2.28/5 | Level: 2.37/7)
+- Mathematics (Importance: 2.06/5 | Level: 2.28/7)
+- Personnel and Human Resources (Importance: 1.95/5 | Level: 2.02/7)
+- Public Safety and Security (Importance: 1.89/5 | Level: 1.61/7)
+- Engineering and Technology (Importance: 1.87/5 | Level: 1.49/7)
+- Production and Processing (Importance: 1.81/5 | Level: 1.48/7)
+- Law and Government (Importance: 1.72/5 | Level: 1.64/7)
+- Psychology (Importance: 1.7/5 | Level: 1.43/7)
+- History and Archeology (Importance: 1.6/5 | Level: 0.91/7)
+- Sociology and Anthropology (Importance: 1.52/5 | Level: 1.08/7)
+- Philosophy and Theology (Importance: 1.36/5 | Level: 0.9/7)
+- Design (Importance: 1.17/5 | Level: 0.28/7)
+- Food Production (Importance: 1.08/5 | Level: 0.09/7)
+- Therapy and Counseling (Importance: 1.03/5 | Level: 0.07/7)
+- Fine Arts (Importance: 1.02/5 | Level: 0.04/7)
+- Mechanical (Importance: 1.02/5 | Level: 0.05/7)
+- Physics (Importance: 1.01/5 | Level: 0.01/7)
+- Chemistry (Importance: 1.01/5 | Level: 0.01/7)
+- Building and Construction (Importance: 1.01/5 | Level: 0.02/7)
+- Biology (Importance: 1.01/5 | Level: 0.01/7)
+- Medicine and Dentistry (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Service Orientation (Importance: 4.12/5 | Level: 4.0/7)
@@ -157,3 +193,25 @@ Plan and sell transportation and accommodations for customers. Determine destina
 - Primary Interest: Enterprising
 - Secondary Interest: Conventional
 - Tertiary Interest: Social
+
+# RELATED OCCUPATIONS
+- Reservation and Transportation Ticket Agents and Travel Clerks
+- Travel Guides
+- Counter and Rental Clerks
+- Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel
+- Concierges
+- Customer Service Representatives
+- Telemarketers
+- Tour Guides and Escorts
+- Retail Salespersons
+- Receptionists and Information Clerks
+- Insurance Sales Agents
+- Advertising Sales Agents
+- Telephone Operators
+- Freight Forwarders
+- Hotel, Motel, and Resort Desk Clerks
+- Meeting, Convention, and Event Planners
+- Cargo and Freight Agents
+- Door-to-Door Sales Workers, News and Street Vendors, and Related Workers
+- Customs Brokers
+- Real Estate Sales Agents

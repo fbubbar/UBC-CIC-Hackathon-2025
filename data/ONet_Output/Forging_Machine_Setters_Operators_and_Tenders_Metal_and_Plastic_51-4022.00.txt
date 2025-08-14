@@ -19,6 +19,42 @@ Set up, operate, or tend forging machines to taper, shape, or form metal or plas
 - Select, align, and bolt positioning fixtures, stops, and specified dies to rams and anvils, forging rolls, or presses and hammers.
 - Sharpen cutting tools and drill bits, using bench grinders.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Production and Processing (Importance: 4.16/5 | Level: 4.41/7)
+- Mathematics (Importance: 3.64/5 | Level: 3.66/7)
+- Education and Training (Importance: 3.58/5 | Level: 3.59/7)
+- Mechanical (Importance: 3.48/5 | Level: 4.32/7)
+- Engineering and Technology (Importance: 3.24/5 | Level: 3.42/7)
+- Design (Importance: 3.03/5 | Level: 3.13/7)
+- English Language (Importance: 2.91/5 | Level: 2.72/7)
+- Computers and Electronics (Importance: 2.9/5 | Level: 3.01/7)
+- Administration and Management (Importance: 2.88/5 | Level: 3.58/7)
+- Customer and Personal Service (Importance: 2.79/5 | Level: 2.81/7)
+- Administrative (Importance: 2.71/5 | Level: 2.63/7)
+- Transportation (Importance: 2.65/5 | Level: 2.38/7)
+- Chemistry (Importance: 2.51/5 | Level: 2.28/7)
+- Public Safety and Security (Importance: 2.49/5 | Level: 2.3/7)
+- Physics (Importance: 2.45/5 | Level: 2.2/7)
+- Sales and Marketing (Importance: 2.39/5 | Level: 1.68/7)
+- Building and Construction (Importance: 2.16/5 | Level: 2.21/7)
+- Personnel and Human Resources (Importance: 2.07/5 | Level: 1.81/7)
+- Communications and Media (Importance: 2.05/5 | Level: 1.91/7)
+- Law and Government (Importance: 1.94/5 | Level: 1.49/7)
+- Psychology (Importance: 1.9/5 | Level: 1.69/7)
+- Economics and Accounting (Importance: 1.77/5 | Level: 1.05/7)
+- Food Production (Importance: 1.73/5 | Level: 1.14/7)
+- Therapy and Counseling (Importance: 1.6/5 | Level: 1.04/7)
+- Telecommunications (Importance: 1.56/5 | Level: 0.94/7)
+- Foreign Language (Importance: 1.51/5 | Level: 0.88/7)
+- Medicine and Dentistry (Importance: 1.47/5 | Level: 0.94/7)
+- History and Archeology (Importance: 1.44/5 | Level: 0.65/7)
+- Fine Arts (Importance: 1.34/5 | Level: 0.67/7)
+- Biology (Importance: 1.34/5 | Level: 0.67/7)
+- Sociology and Anthropology (Importance: 1.34/5 | Level: 0.78/7)
+- Philosophy and Theology (Importance: 1.27/5 | Level: 0.55/7)
+- Geography (Importance: 1.27/5 | Level: 0.55/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Operations Monitoring (Importance: 3.25/5 | Level: 3.0/7)
@@ -178,3 +214,25 @@ Set up, operate, or tend forging machines to taper, shape, or form metal or plas
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic
+- Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+- Tool and Die Makers
+- Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Rolling Machine Setters, Operators, and Tenders, Metal and Plastic
+- Grinding and Polishing Workers, Hand
+- Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic
+- Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic
+- Tool Grinders, Filers, and Sharpeners
+- Cutting and Slicing Machine Setters, Operators, and Tenders
+- Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders
+- Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic
+- Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders
+- Industrial Machinery Mechanics
+- Paper Goods Machine Setters, Operators, and Tenders
+- Maintenance Workers, Machinery
+- Machine Feeders and Offbearers
+- Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers

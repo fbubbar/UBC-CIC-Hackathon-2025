@@ -31,6 +31,42 @@ Monitor safety of the aircraft cabin. Provide services to airline passengers, ex
 - Take inventory of headsets, alcoholic beverages, and money collected.
 - Sell alcoholic beverages to passengers.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.51/5 | Level: 5.42/7)
+- Public Safety and Security (Importance: 4.48/5 | Level: 4.11/7)
+- English Language (Importance: 4.45/5 | Level: 3.89/7)
+- Transportation (Importance: 3.49/5 | Level: 2.61/7)
+- Psychology (Importance: 3.34/5 | Level: 3.67/7)
+- Geography (Importance: 3.3/5 | Level: 3.69/7)
+- Computers and Electronics (Importance: 3.2/5 | Level: 3.81/7)
+- Personnel and Human Resources (Importance: 3.04/5 | Level: 3.12/7)
+- Foreign Language (Importance: 2.96/5 | Level: 3.04/7)
+- Law and Government (Importance: 2.9/5 | Level: 2.93/7)
+- Administration and Management (Importance: 2.89/5 | Level: 2.6/7)
+- Therapy and Counseling (Importance: 2.88/5 | Level: 2.08/7)
+- Education and Training (Importance: 2.88/5 | Level: 2.87/7)
+- Communications and Media (Importance: 2.85/5 | Level: 2.81/7)
+- Medicine and Dentistry (Importance: 2.82/5 | Level: 2.22/7)
+- Sales and Marketing (Importance: 2.76/5 | Level: 2.94/7)
+- Sociology and Anthropology (Importance: 2.68/5 | Level: 2.63/7)
+- Administrative (Importance: 2.25/5 | Level: 2.17/7)
+- Telecommunications (Importance: 2.24/5 | Level: 1.27/7)
+- Food Production (Importance: 2.18/5 | Level: 1.76/7)
+- Engineering and Technology (Importance: 2.11/5 | Level: 1.88/7)
+- Mathematics (Importance: 2.06/5 | Level: 1.92/7)
+- Economics and Accounting (Importance: 2.02/5 | Level: 1.46/7)
+- Philosophy and Theology (Importance: 1.98/5 | Level: 1.8/7)
+- Design (Importance: 1.93/5 | Level: 1.77/7)
+- Production and Processing (Importance: 1.89/5 | Level: 1.76/7)
+- Physics (Importance: 1.88/5 | Level: 1.4/7)
+- Mechanical (Importance: 1.82/5 | Level: 1.47/7)
+- History and Archeology (Importance: 1.58/5 | Level: 0.51/7)
+- Chemistry (Importance: 1.54/5 | Level: 1.29/7)
+- Fine Arts (Importance: 1.43/5 | Level: 0.73/7)
+- Building and Construction (Importance: 1.41/5 | Level: 0.75/7)
+- Biology (Importance: 1.32/5 | Level: 0.49/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Speaking (Importance: 4.12/5 | Level: 3.75/7)
@@ -188,3 +224,25 @@ Monitor safety of the aircraft cabin. Provide services to airline passengers, ex
 - Primary Interest: Conventional
 - Secondary Interest: Realistic
 - Tertiary Interest: Social
+
+# RELATED OCCUPATIONS
+- Passenger Attendants
+- Reservation and Transportation Ticket Agents and Travel Clerks
+- Airfield Operations Specialists
+- First-Line Supervisors of Passenger Attendants
+- Baggage Porters and Bellhops
+- Transportation Security Screeners
+- Aircraft Cargo Handling Supervisors
+- Air Traffic Controllers
+- Ushers, Lobby Attendants, and Ticket Takers
+- Locker Room, Coatroom, and Dressing Room Attendants
+- Airline Pilots, Copilots, and Flight Engineers
+- Commercial Pilots
+- Bus Drivers, Transit and Intercity
+- Shuttle Drivers and Chauffeurs
+- Aircraft Service Attendants
+- Railroad Conductors and Yardmasters
+- Dispatchers, Except Police, Fire, and Ambulance
+- Ambulance Drivers and Attendants, Except Emergency Medical Technicians
+- Subway and Streetcar Operators
+- Security Guards

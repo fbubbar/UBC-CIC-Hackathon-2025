@@ -23,6 +23,10 @@ Compile, process, and maintain medical records of hospital and clinic patients i
 - Schedule medical appointments for patients.
 - Transcribe medical reports.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- No specific knowledge areas listed.
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - No specific skills listed.
@@ -173,3 +177,25 @@ Compile, process, and maintain medical records of hospital and clinic patients i
 - Primary Interest: Conventional
 - Secondary Interest: Investigative
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Medical Transcriptionists
+- Health Information Technologists and Medical Registrars
+- Medical Assistants
+- Medical Secretaries and Administrative Assistants
+- File Clerks
+- Patient Representatives
+- Document Management Specialists
+- Health Informatics Specialists
+- Statistical Assistants
+- Pharmacy Technicians
+- Physician Assistants
+- Emergency Medicine Physicians
+- Clinical Nurse Specialists
+- Family Medicine Physicians
+- Management Analysts
+- Phlebotomists
+- Nurse Practitioners
+- Registered Nurses
+- Cardiovascular Technologists and Technicians
+- Office Clerks, General

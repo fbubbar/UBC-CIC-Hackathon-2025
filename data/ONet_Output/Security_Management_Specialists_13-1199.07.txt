@@ -29,6 +29,10 @@ Conduct security assessments for organizations, and design security systems and 
 - Test security measures for final acceptance and implement or provide procedures for ongoing monitoring and evaluation of the measures.
 - Train personnel in security procedures or use of security equipment.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- No specific knowledge areas listed.
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - No specific skills listed.
@@ -114,3 +118,25 @@ Conduct security assessments for organizations, and design security systems and 
 - Primary Interest: Conventional
 - Secondary Interest: Investigative
 - Tertiary Interest: Realistic
+
+# RELATED OCCUPATIONS
+- Security Managers
+- Security and Fire Alarm Systems Installers
+- Health and Safety Engineers, Except Mining Safety Engineers and Inspectors
+- Management Analysts
+- Compliance Managers
+- Occupational Health and Safety Specialists
+- Retail Loss Prevention Specialists
+- Fire-Prevention and Protection Engineers
+- Emergency Management Directors
+- Gambling Surveillance Officers and Gambling Investigators
+- Information Security Engineers
+- Information Security Analysts
+- Penetration Testers
+- First-Line Supervisors of Security Workers
+- Computer Systems Analysts
+- Digital Forensics Analysts
+- Computer and Information Systems Managers
+- Network and Computer Systems Administrators
+- Computer Systems Engineers/Architects
+- Security Guards

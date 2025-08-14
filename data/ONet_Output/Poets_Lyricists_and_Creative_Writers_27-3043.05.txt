@@ -22,6 +22,42 @@ Create original written works, such as scripts, essays, prose, poetry or song ly
 - Teach writing classes.
 - Collaborate with other writers on specific projects.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- English Language (Importance: 4.68/5 | Level: 6.09/7)
+- Communications and Media (Importance: 4.05/5 | Level: 5.45/7)
+- Computers and Electronics (Importance: 3.36/5 | Level: 4.05/7)
+- Administrative (Importance: 3.27/5 | Level: 4.23/7)
+- Sales and Marketing (Importance: 3.23/5 | Level: 3.81/7)
+- Fine Arts (Importance: 3.09/5 | Level: 3.59/7)
+- Psychology (Importance: 2.77/5 | Level: 3.33/7)
+- History and Archeology (Importance: 2.77/5 | Level: 3.5/7)
+- Sociology and Anthropology (Importance: 2.62/5 | Level: 3.86/7)
+- Philosophy and Theology (Importance: 2.5/5 | Level: 3.73/7)
+- Administration and Management (Importance: 2.48/5 | Level: 3.05/7)
+- Customer and Personal Service (Importance: 2.45/5 | Level: 2.36/7)
+- Education and Training (Importance: 2.27/5 | Level: 2.82/7)
+- Economics and Accounting (Importance: 2.23/5 | Level: 1.86/7)
+- Foreign Language (Importance: 2.05/5 | Level: 2.14/7)
+- Geography (Importance: 1.95/5 | Level: 2.91/7)
+- Production and Processing (Importance: 1.91/5 | Level: 1.73/7)
+- Law and Government (Importance: 1.86/5 | Level: 1.82/7)
+- Telecommunications (Importance: 1.67/5 | Level: 1.14/7)
+- Transportation (Importance: 1.64/5 | Level: 1.27/7)
+- Therapy and Counseling (Importance: 1.59/5 | Level: 1.41/7)
+- Design (Importance: 1.55/5 | Level: 1.05/7)
+- Public Safety and Security (Importance: 1.5/5 | Level: 0.91/7)
+- Mathematics (Importance: 1.45/5 | Level: 1.0/7)
+- Medicine and Dentistry (Importance: 1.27/5 | Level: 0.59/7)
+- Engineering and Technology (Importance: 1.23/5 | Level: 0.5/7)
+- Personnel and Human Resources (Importance: 1.18/5 | Level: 0.5/7)
+- Biology (Importance: 1.14/5 | Level: 0.32/7)
+- Physics (Importance: 1.09/5 | Level: 0.27/7)
+- Mechanical (Importance: 1.05/5 | Level: 0.09/7)
+- Building and Construction (Importance: 1.0/5 | Level: 0.0/7)
+- Chemistry (Importance: 1.0/5 | Level: 0.0/7)
+- Food Production (Importance: 1.0/5 | Level: 0.05/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Writing (Importance: 4.75/5 | Level: 5.75/7)
@@ -164,3 +200,25 @@ Create original written works, such as scripts, essays, prose, poetry or song ly
 - Primary Interest: Artistic
 - Secondary Interest: Investigative
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Writers and Authors
+- Editors
+- News Analysts, Reporters, and Journalists
+- Producers and Directors
+- Proofreaders and Copy Markers
+- Technical Writers
+- English Language and Literature Teachers, Postsecondary
+- Fine Artists, Including Painters, Sculptors, and Illustrators
+- Film and Video Editors
+- Music Directors and Composers
+- Actors
+- Art Directors
+- Historians
+- Broadcast Announcers and Radio Disc Jockeys
+- Graphic Designers
+- Talent Directors
+- Public Relations Specialists
+- Special Effects Artists and Animators
+- Curators
+- Video Game Designers

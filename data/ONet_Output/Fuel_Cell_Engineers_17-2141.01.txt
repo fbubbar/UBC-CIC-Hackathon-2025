@@ -32,6 +32,42 @@ Design, evaluate, modify, or construct fuel cell components or systems for trans
 - Integrate electric drive subsystems with other vehicle systems to optimize performance or mitigate faults.
 - Develop or evaluate systems or methods of hydrogen storage for fuel cell applications.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Engineering and Technology (Importance: 4.64/5 | Level: 6.0/7)
+- Chemistry (Importance: 3.95/5 | Level: 5.23/7)
+- Design (Importance: 3.86/5 | Level: 4.82/7)
+- Mathematics (Importance: 3.86/5 | Level: 5.14/7)
+- Physics (Importance: 3.64/5 | Level: 5.27/7)
+- Computers and Electronics (Importance: 3.48/5 | Level: 4.68/7)
+- Mechanical (Importance: 3.45/5 | Level: 4.82/7)
+- Production and Processing (Importance: 3.29/5 | Level: 4.14/7)
+- English Language (Importance: 3.14/5 | Level: 3.64/7)
+- Administration and Management (Importance: 2.82/5 | Level: 3.91/7)
+- Education and Training (Importance: 2.32/5 | Level: 3.05/7)
+- Administrative (Importance: 2.14/5 | Level: 2.77/7)
+- Building and Construction (Importance: 2.14/5 | Level: 2.41/7)
+- Personnel and Human Resources (Importance: 2.09/5 | Level: 2.27/7)
+- Transportation (Importance: 2.09/5 | Level: 2.05/7)
+- Economics and Accounting (Importance: 2.05/5 | Level: 1.91/7)
+- Public Safety and Security (Importance: 2.05/5 | Level: 1.91/7)
+- Customer and Personal Service (Importance: 2.0/5 | Level: 2.23/7)
+- Communications and Media (Importance: 1.91/5 | Level: 2.0/7)
+- Telecommunications (Importance: 1.82/5 | Level: 1.45/7)
+- Sales and Marketing (Importance: 1.82/5 | Level: 2.0/7)
+- Law and Government (Importance: 1.59/5 | Level: 1.18/7)
+- Foreign Language (Importance: 1.5/5 | Level: 0.86/7)
+- Geography (Importance: 1.38/5 | Level: 1.41/7)
+- Sociology and Anthropology (Importance: 1.27/5 | Level: 0.59/7)
+- Philosophy and Theology (Importance: 1.18/5 | Level: 0.36/7)
+- Psychology (Importance: 1.18/5 | Level: 0.45/7)
+- Biology (Importance: 1.14/5 | Level: 0.41/7)
+- Medicine and Dentistry (Importance: 1.14/5 | Level: 0.32/7)
+- Therapy and Counseling (Importance: 1.14/5 | Level: 0.32/7)
+- Food Production (Importance: 1.09/5 | Level: 0.23/7)
+- History and Archeology (Importance: 1.09/5 | Level: 0.23/7)
+- Fine Arts (Importance: 1.05/5 | Level: 0.09/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Critical Thinking (Importance: 4.0/5 | Level: 4.25/7)
@@ -202,3 +238,25 @@ Design, evaluate, modify, or construct fuel cell components or systems for trans
 - Primary Interest: Realistic
 - Secondary Interest: Investigative
 - Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Automotive Engineers
+- Chemical Engineers
+- Mechanical Engineers
+- Microsystems Engineers
+- Biofuels/Biodiesel Technology and Product Development Managers
+- Electrical Engineers
+- Aerospace Engineers
+- Electronics Engineers, Except Computer
+- Nuclear Engineers
+- Materials Scientists
+- Electrical and Electronic Engineering Technologists and Technicians
+- Biomass Plant Technicians
+- Solar Energy Systems Engineers
+- Mechanical Engineering Technologists and Technicians
+- Automotive Engineering Technicians
+- Nanosystems Engineers
+- Aerospace Engineering and Operations Technologists and Technicians
+- Mechatronics Engineers
+- Manufacturing Engineers
+- Electro-Mechanical and Mechatronics Technologists and Technicians

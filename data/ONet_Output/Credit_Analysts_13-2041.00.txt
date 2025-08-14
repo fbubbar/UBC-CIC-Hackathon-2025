@@ -17,6 +17,42 @@ Analyze credit data and financial statements of individuals or firms to determin
 - Review individual or commercial customer files to identify and select delinquent accounts for collection.
 - Confer with credit association and other business representatives to exchange credit information.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Economics and Accounting (Importance: 4.5/5 | Level: 5.2/7)
+- Mathematics (Importance: 3.9/5 | Level: 4.75/7)
+- English Language (Importance: 3.9/5 | Level: 4.2/7)
+- Law and Government (Importance: 3.28/5 | Level: 3.75/7)
+- Administrative (Importance: 3.0/5 | Level: 4.15/7)
+- Computers and Electronics (Importance: 2.85/5 | Level: 3.0/7)
+- Customer and Personal Service (Importance: 2.85/5 | Level: 2.75/7)
+- Administration and Management (Importance: 2.8/5 | Level: 2.95/7)
+- Production and Processing (Importance: 2.15/5 | Level: 2.0/7)
+- Education and Training (Importance: 2.1/5 | Level: 2.05/7)
+- Sales and Marketing (Importance: 2.05/5 | Level: 2.05/7)
+- Communications and Media (Importance: 2.05/5 | Level: 1.6/7)
+- Public Safety and Security (Importance: 1.8/5 | Level: 1.05/7)
+- Geography (Importance: 1.8/5 | Level: 1.75/7)
+- Building and Construction (Importance: 1.8/5 | Level: 1.15/7)
+- Personnel and Human Resources (Importance: 1.6/5 | Level: 1.6/7)
+- Telecommunications (Importance: 1.58/5 | Level: 0.5/7)
+- Sociology and Anthropology (Importance: 1.55/5 | Level: 1.1/7)
+- History and Archeology (Importance: 1.5/5 | Level: 0.9/7)
+- Psychology (Importance: 1.45/5 | Level: 0.7/7)
+- Philosophy and Theology (Importance: 1.3/5 | Level: 0.5/7)
+- Engineering and Technology (Importance: 1.3/5 | Level: 0.9/7)
+- Design (Importance: 1.3/5 | Level: 0.65/7)
+- Transportation (Importance: 1.25/5 | Level: 0.5/7)
+- Medicine and Dentistry (Importance: 1.25/5 | Level: 0.5/7)
+- Foreign Language (Importance: 1.2/5 | Level: 0.45/7)
+- Mechanical (Importance: 1.15/5 | Level: 0.2/7)
+- Physics (Importance: 1.1/5 | Level: 0.2/7)
+- Therapy and Counseling (Importance: 1.1/5 | Level: 0.25/7)
+- Chemistry (Importance: 1.05/5 | Level: 0.11/7)
+- Biology (Importance: 1.05/5 | Level: 0.1/7)
+- Fine Arts (Importance: 1.05/5 | Level: 0.05/7)
+- Food Production (Importance: 1.05/5 | Level: 0.05/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Critical Thinking (Importance: 3.88/5 | Level: 4.0/7)
@@ -166,3 +202,25 @@ Analyze credit data and financial statements of individuals or firms to determin
 - Primary Interest: Conventional
 - Secondary Interest: Enterprising
 - Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Credit Authorizers, Checkers, and Clerks
+- Loan Officers
+- Loan Interviewers and Clerks
+- Credit Counselors
+- Financial and Investment Analysts
+- Financial Risk Specialists
+- Financial Examiners
+- Personal Financial Advisors
+- Securities, Commodities, and Financial Services Sales Agents
+- Accountants and Auditors
+- Bill and Account Collectors
+- Financial Managers
+- Bookkeeping, Accounting, and Auditing Clerks
+- Investment Fund Managers
+- Insurance Underwriters
+- Tellers
+- Tax Examiners and Collectors, and Revenue Agents
+- Budget Analysts
+- Tax Preparers
+- Insurance Claims and Policy Processing Clerks

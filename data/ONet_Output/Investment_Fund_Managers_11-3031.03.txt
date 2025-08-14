@@ -26,6 +26,42 @@ Plan, direct, or coordinate investment strategy or operations for a large pool o
 - Identify group or individual target investors for a specific fund.
 - Direct activities of accounting or operations departments.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Economics and Accounting (Importance: 4.67/5 | Level: 5.48/7)
+- English Language (Importance: 4.36/5 | Level: 4.9/7)
+- Mathematics (Importance: 4.34/5 | Level: 5.46/7)
+- Customer and Personal Service (Importance: 3.67/5 | Level: 4.55/7)
+- Administration and Management (Importance: 3.19/5 | Level: 4.67/7)
+- Law and Government (Importance: 3.14/5 | Level: 3.64/7)
+- Computers and Electronics (Importance: 3.1/5 | Level: 3.5/7)
+- Sales and Marketing (Importance: 3.01/5 | Level: 4.07/7)
+- Education and Training (Importance: 2.56/5 | Level: 3.1/7)
+- Communications and Media (Importance: 2.54/5 | Level: 2.92/7)
+- Personnel and Human Resources (Importance: 2.38/5 | Level: 3.08/7)
+- Psychology (Importance: 2.31/5 | Level: 2.69/7)
+- History and Archeology (Importance: 2.09/5 | Level: 2.42/7)
+- Geography (Importance: 1.95/5 | Level: 2.21/7)
+- Telecommunications (Importance: 1.89/5 | Level: 1.67/7)
+- Sociology and Anthropology (Importance: 1.89/5 | Level: 2.16/7)
+- Administrative (Importance: 1.74/5 | Level: 1.96/7)
+- Production and Processing (Importance: 1.63/5 | Level: 1.39/7)
+- Transportation (Importance: 1.62/5 | Level: 1.22/7)
+- Engineering and Technology (Importance: 1.52/5 | Level: 1.18/7)
+- Public Safety and Security (Importance: 1.41/5 | Level: 0.64/7)
+- Medicine and Dentistry (Importance: 1.35/5 | Level: 0.82/7)
+- Physics (Importance: 1.27/5 | Level: 0.57/7)
+- Therapy and Counseling (Importance: 1.27/5 | Level: 0.61/7)
+- Philosophy and Theology (Importance: 1.23/5 | Level: 0.87/7)
+- Foreign Language (Importance: 1.23/5 | Level: 0.56/7)
+- Biology (Importance: 1.18/5 | Level: 0.62/7)
+- Design (Importance: 1.18/5 | Level: 0.3/7)
+- Fine Arts (Importance: 1.13/5 | Level: 0.39/7)
+- Chemistry (Importance: 1.1/5 | Level: 0.3/7)
+- Mechanical (Importance: 1.09/5 | Level: 0.24/7)
+- Food Production (Importance: 1.03/5 | Level: 0.05/7)
+- Building and Construction (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Critical Thinking (Importance: 4.0/5 | Level: 4.0/7)
@@ -159,3 +195,25 @@ Plan, direct, or coordinate investment strategy or operations for a large pool o
 - Primary Interest: Enterprising
 - Secondary Interest: Conventional
 - Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Financial and Investment Analysts
+- Financial Risk Specialists
+- Personal Financial Advisors
+- Securities, Commodities, and Financial Services Sales Agents
+- Financial Managers
+- Financial Quantitative Analysts
+- Credit Analysts
+- Financial Examiners
+- Management Analysts
+- Treasurers and Controllers
+- Accountants and Auditors
+- Business Intelligence Analysts
+- Loan Officers
+- Budget Analysts
+- Economists
+- Actuaries
+- Brokerage Clerks
+- Compensation, Benefits, and Job Analysis Specialists
+- Market Research Analysts and Marketing Specialists
+- Chief Executives

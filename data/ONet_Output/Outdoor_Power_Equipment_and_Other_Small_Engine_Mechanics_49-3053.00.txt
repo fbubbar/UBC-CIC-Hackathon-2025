@@ -20,6 +20,42 @@ Diagnose, adjust, repair, or overhaul small engines used to power lawn mowers, c
 - Sell parts and equipment.
 - Grind, ream, rebore, and re-tap parts to obtain specified clearances, using grinders, lathes, taps, reamers, boring machines, and micrometers.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 4.35/5 | Level: 5.61/7)
+- Customer and Personal Service (Importance: 3.46/5 | Level: 3.53/7)
+- English Language (Importance: 3.42/5 | Level: 3.32/7)
+- Engineering and Technology (Importance: 3.18/5 | Level: 3.36/7)
+- Education and Training (Importance: 3.17/5 | Level: 2.98/7)
+- Transportation (Importance: 3.15/5 | Level: 3.14/7)
+- Sales and Marketing (Importance: 3.1/5 | Level: 2.94/7)
+- Computers and Electronics (Importance: 2.96/5 | Level: 2.84/7)
+- Administration and Management (Importance: 2.93/5 | Level: 2.69/7)
+- Physics (Importance: 2.86/5 | Level: 3.32/7)
+- Production and Processing (Importance: 2.84/5 | Level: 2.17/7)
+- Design (Importance: 2.76/5 | Level: 3.19/7)
+- Public Safety and Security (Importance: 2.73/5 | Level: 2.26/7)
+- Mathematics (Importance: 2.66/5 | Level: 2.59/7)
+- Law and Government (Importance: 2.61/5 | Level: 2.33/7)
+- Geography (Importance: 2.47/5 | Level: 1.85/7)
+- Chemistry (Importance: 2.47/5 | Level: 2.84/7)
+- Administrative (Importance: 2.36/5 | Level: 1.94/7)
+- Economics and Accounting (Importance: 2.35/5 | Level: 1.57/7)
+- Building and Construction (Importance: 2.29/5 | Level: 1.92/7)
+- Telecommunications (Importance: 2.29/5 | Level: 1.18/7)
+- Personnel and Human Resources (Importance: 2.27/5 | Level: 1.75/7)
+- Communications and Media (Importance: 2.2/5 | Level: 2.01/7)
+- Psychology (Importance: 2.1/5 | Level: 1.65/7)
+- Therapy and Counseling (Importance: 2.09/5 | Level: 1.17/7)
+- Sociology and Anthropology (Importance: 2.05/5 | Level: 1.6/7)
+- Medicine and Dentistry (Importance: 1.69/5 | Level: 0.64/7)
+- Biology (Importance: 1.66/5 | Level: 1.09/7)
+- History and Archeology (Importance: 1.62/5 | Level: 0.84/7)
+- Food Production (Importance: 1.61/5 | Level: 0.39/7)
+- Philosophy and Theology (Importance: 1.5/5 | Level: 0.76/7)
+- Foreign Language (Importance: 1.49/5 | Level: 0.46/7)
+- Fine Arts (Importance: 1.3/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Equipment Maintenance (Importance: 3.88/5 | Level: 3.62/7)
@@ -232,3 +268,25 @@ Diagnose, adjust, repair, or overhaul small engines used to power lawn mowers, c
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Motorcycle Mechanics
+- Bus and Truck Mechanics and Diesel Engine Specialists
+- Electric Motor, Power Tool, and Related Repairers
+- Motorboat Mechanics and Service Technicians
+- Farm Equipment Mechanics and Service Technicians
+- Mobile Heavy Equipment Mechanics, Except Engines
+- Engine and Other Machine Assemblers
+- Maintenance Workers, Machinery
+- Industrial Machinery Mechanics
+- Automotive Service Technicians and Mechanics
+- Rail Car Repairers
+- Control and Valve Installers and Repairers, Except Mechanical Door
+- Home Appliance Repairers
+- Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+- Aircraft Mechanics and Service Technicians
+- Bicycle Repairers
+- Tool Grinders, Filers, and Sharpeners
+- Industrial Truck and Tractor Operators
+- Cleaners of Vehicles and Equipment
+- Millwrights

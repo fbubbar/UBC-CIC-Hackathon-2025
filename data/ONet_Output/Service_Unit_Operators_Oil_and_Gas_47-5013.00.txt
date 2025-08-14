@@ -25,6 +25,42 @@ Operate equipment to increase oil flow from producing wells or to remove stuck p
 - Monitor sound wave-generating or detecting mechanisms to determine well fluid levels.
 - Insert detection instruments into wells with obstructions.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 4.05/5 | Level: 5.2/7)
+- Mathematics (Importance: 3.85/5 | Level: 4.19/7)
+- Customer and Personal Service (Importance: 3.68/5 | Level: 4.67/7)
+- Engineering and Technology (Importance: 3.37/5 | Level: 4.72/7)
+- Public Safety and Security (Importance: 3.25/5 | Level: 3.35/7)
+- Education and Training (Importance: 3.21/5 | Level: 3.74/7)
+- English Language (Importance: 3.15/5 | Level: 3.17/7)
+- Sales and Marketing (Importance: 3.14/5 | Level: 3.24/7)
+- Chemistry (Importance: 3.14/5 | Level: 3.15/7)
+- Administration and Management (Importance: 3.12/5 | Level: 3.72/7)
+- Transportation (Importance: 3.12/5 | Level: 3.47/7)
+- Production and Processing (Importance: 3.07/5 | Level: 3.45/7)
+- Physics (Importance: 2.9/5 | Level: 3.6/7)
+- Personnel and Human Resources (Importance: 2.87/5 | Level: 2.55/7)
+- Computers and Electronics (Importance: 2.84/5 | Level: 2.96/7)
+- Administrative (Importance: 2.78/5 | Level: 2.62/7)
+- Design (Importance: 2.76/5 | Level: 3.07/7)
+- Psychology (Importance: 2.66/5 | Level: 3.05/7)
+- Building and Construction (Importance: 2.33/5 | Level: 2.65/7)
+- Economics and Accounting (Importance: 2.33/5 | Level: 1.58/7)
+- Law and Government (Importance: 1.86/5 | Level: 1.96/7)
+- Geography (Importance: 1.84/5 | Level: 1.82/7)
+- Medicine and Dentistry (Importance: 1.82/5 | Level: 1.49/7)
+- Foreign Language (Importance: 1.8/5 | Level: 1.42/7)
+- Communications and Media (Importance: 1.77/5 | Level: 1.45/7)
+- Telecommunications (Importance: 1.75/5 | Level: 0.89/7)
+- Sociology and Anthropology (Importance: 1.61/5 | Level: 1.24/7)
+- Biology (Importance: 1.5/5 | Level: 1.35/7)
+- History and Archeology (Importance: 1.32/5 | Level: 0.79/7)
+- Philosophy and Theology (Importance: 1.27/5 | Level: 0.55/7)
+- Food Production (Importance: 1.27/5 | Level: 0.55/7)
+- Therapy and Counseling (Importance: 1.18/5 | Level: 0.5/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Operations Monitoring (Importance: 4.0/5 | Level: 3.62/7)
@@ -189,3 +225,25 @@ Operate equipment to increase oil flow from producing wells or to remove stuck p
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Rotary Drill Operators, Oil and Gas
+- Roustabouts, Oil and Gas
+- Wellhead Pumpers
+- Petroleum Pump System Operators, Refinery Operators, and Gaugers
+- Earth Drillers, Except Oil and Gas
+- Helpers--Extraction Workers
+- Gas Plant Operators
+- Pump Operators, Except Wellhead Pumpers
+- Gas Compressor and Gas Pumping Station Operators
+- Power Plant Operators
+- Hoist and Winch Operators
+- Operating Engineers and Other Construction Equipment Operators
+- Industrial Machinery Mechanics
+- Septic Tank Servicers and Sewer Pipe Cleaners
+- Continuous Mining Machine Operators
+- Hydroelectric Plant Technicians
+- Chemical Plant and System Operators
+- Excavating and Loading Machine and Dragline Operators, Surface Mining
+- Engine and Other Machine Assemblers
+- Maintenance Workers, Machinery

@@ -17,6 +17,42 @@ Conduct organizational studies and evaluations, design systems and procedures, c
 - Design, evaluate, recommend, and approve changes of forms and reports.
 - Recommend purchase of storage equipment and design area layout to locate equipment in space available.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- English Language (Importance: 4.71/5 | Level: 5.33/7)
+- Administration and Management (Importance: 4.38/5 | Level: 4.9/7)
+- Customer and Personal Service (Importance: 4.0/5 | Level: 5.29/7)
+- Mathematics (Importance: 3.62/5 | Level: 4.57/7)
+- Education and Training (Importance: 3.6/5 | Level: 5.25/7)
+- Computers and Electronics (Importance: 3.5/5 | Level: 4.24/7)
+- Economics and Accounting (Importance: 3.48/5 | Level: 4.05/7)
+- Personnel and Human Resources (Importance: 3.33/5 | Level: 4.38/7)
+- Law and Government (Importance: 3.33/5 | Level: 3.48/7)
+- Sales and Marketing (Importance: 3.3/5 | Level: 4.45/7)
+- Psychology (Importance: 3.1/5 | Level: 3.62/7)
+- Communications and Media (Importance: 3.05/5 | Level: 3.71/7)
+- Sociology and Anthropology (Importance: 3.0/5 | Level: 3.9/7)
+- Production and Processing (Importance: 2.9/5 | Level: 3.71/7)
+- Administrative (Importance: 2.81/5 | Level: 4.29/7)
+- Public Safety and Security (Importance: 2.65/5 | Level: 3.1/7)
+- Design (Importance: 2.45/5 | Level: 2.7/7)
+- Geography (Importance: 2.4/5 | Level: 2.71/7)
+- Telecommunications (Importance: 2.38/5 | Level: 1.9/7)
+- Transportation (Importance: 2.24/5 | Level: 1.9/7)
+- Therapy and Counseling (Importance: 2.14/5 | Level: 2.29/7)
+- Engineering and Technology (Importance: 2.1/5 | Level: 2.19/7)
+- Foreign Language (Importance: 2.0/5 | Level: 2.24/7)
+- Philosophy and Theology (Importance: 2.0/5 | Level: 2.33/7)
+- History and Archeology (Importance: 1.95/5 | Level: 1.9/7)
+- Building and Construction (Importance: 1.71/5 | Level: 1.48/7)
+- Mechanical (Importance: 1.6/5 | Level: 1.6/7)
+- Chemistry (Importance: 1.48/5 | Level: 1.29/7)
+- Physics (Importance: 1.43/5 | Level: 1.0/7)
+- Food Production (Importance: 1.4/5 | Level: 0.8/7)
+- Medicine and Dentistry (Importance: 1.38/5 | Level: 0.71/7)
+- Fine Arts (Importance: 1.38/5 | Level: 0.95/7)
+- Biology (Importance: 1.38/5 | Level: 0.81/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Critical Thinking (Importance: 4.12/5 | Level: 4.12/7)
@@ -341,3 +377,25 @@ Conduct organizational studies and evaluations, design systems and procedures, c
 - Primary Interest: Conventional
 - Secondary Interest: Investigative
 - Tertiary Interest: Enterprising
+
+# RELATED OCCUPATIONS
+- Project Management Specialists
+- Business Intelligence Analysts
+- Information Technology Project Managers
+- Training and Development Managers
+- Data Scientists
+- Computer Systems Analysts
+- Document Management Specialists
+- Operations Research Analysts
+- Chief Executives
+- Industrial-Organizational Psychologists
+- Health Information Technologists and Medical Registrars
+- Administrative Services Managers
+- Compliance Managers
+- Business Teachers, Postsecondary
+- Computer and Information Systems Managers
+- First-Line Supervisors of Office and Administrative Support Workers
+- Business Continuity Planners
+- Information Security Engineers
+- Statistical Assistants
+- Financial Risk Specialists

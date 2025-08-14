@@ -30,6 +30,42 @@ Expedite and route movement of incoming and outgoing cargo and freight shipments
 - Attach address labels, identification codes, and shipping instructions to containers.
 - Open cargo containers and unwrap contents, using steel cutters, crowbars, or other hand tools.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Transportation (Importance: 4.57/5 | Level: 4.58/7)
+- Geography (Importance: 4.5/5 | Level: 4.37/7)
+- Public Safety and Security (Importance: 4.03/5 | Level: 3.63/7)
+- English Language (Importance: 3.92/5 | Level: 3.1/7)
+- Administration and Management (Importance: 3.89/5 | Level: 4.23/7)
+- Education and Training (Importance: 3.47/5 | Level: 3.39/7)
+- Law and Government (Importance: 3.45/5 | Level: 3.55/7)
+- Telecommunications (Importance: 3.43/5 | Level: 1.95/7)
+- Customer and Personal Service (Importance: 3.38/5 | Level: 3.62/7)
+- Administrative (Importance: 3.38/5 | Level: 3.79/7)
+- Communications and Media (Importance: 3.0/5 | Level: 2.73/7)
+- Production and Processing (Importance: 2.91/5 | Level: 2.55/7)
+- Economics and Accounting (Importance: 2.8/5 | Level: 2.43/7)
+- Sales and Marketing (Importance: 2.76/5 | Level: 2.67/7)
+- Mathematics (Importance: 2.72/5 | Level: 3.08/7)
+- Mechanical (Importance: 2.59/5 | Level: 2.73/7)
+- Computers and Electronics (Importance: 2.46/5 | Level: 2.87/7)
+- Personnel and Human Resources (Importance: 2.44/5 | Level: 1.91/7)
+- Engineering and Technology (Importance: 2.43/5 | Level: 2.32/7)
+- Building and Construction (Importance: 1.96/5 | Level: 1.55/7)
+- Psychology (Importance: 1.95/5 | Level: 1.58/7)
+- Foreign Language (Importance: 1.85/5 | Level: 1.83/7)
+- Sociology and Anthropology (Importance: 1.69/5 | Level: 1.53/7)
+- Biology (Importance: 1.66/5 | Level: 0.9/7)
+- Therapy and Counseling (Importance: 1.65/5 | Level: 1.27/7)
+- History and Archeology (Importance: 1.64/5 | Level: 1.26/7)
+- Food Production (Importance: 1.63/5 | Level: 1.09/7)
+- Design (Importance: 1.4/5 | Level: 1.08/7)
+- Chemistry (Importance: 1.37/5 | Level: 1.02/7)
+- Medicine and Dentistry (Importance: 1.27/5 | Level: 0.72/7)
+- Fine Arts (Importance: 1.27/5 | Level: 0.69/7)
+- Physics (Importance: 1.1/5 | Level: 0.49/7)
+- Philosophy and Theology (Importance: 1.1/5 | Level: 0.17/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Speaking (Importance: 3.62/5 | Level: 3.0/7)
@@ -169,3 +205,25 @@ Expedite and route movement of incoming and outgoing cargo and freight shipments
 - Primary Interest: Conventional
 - Secondary Interest: Enterprising
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Freight Forwarders
+- Shipping, Receiving, and Inventory Clerks
+- Customs Brokers
+- Postal Service Clerks
+- Aircraft Cargo Handling Supervisors
+- Postal Service Mail Carriers
+- Light Truck Drivers
+- Postal Service Mail Sorters, Processors, and Processing Machine Operators
+- Dispatchers, Except Police, Fire, and Ambulance
+- Order Clerks
+- Transportation, Storage, and Distribution Managers
+- Logistics Analysts
+- Transportation Inspectors
+- Logisticians
+- Couriers and Messengers
+- Purchasing Agents, Except Wholesale, Retail, and Farm Products
+- Railroad Conductors and Yardmasters
+- Reservation and Transportation Ticket Agents and Travel Clerks
+- First-Line Supervisors of Material-Moving Machine and Vehicle Operators
+- Heavy and Tractor-Trailer Truck Drivers

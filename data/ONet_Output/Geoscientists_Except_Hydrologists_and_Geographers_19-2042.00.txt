@@ -38,6 +38,42 @@ Study the composition, structure, and other physical aspects of the Earth. May u
 - Develop applied software for the analysis and interpretation of geological data.
 - Determine methods to incorporate geomethane or methane hydrates into global energy production or evaluate the potential environmental impacts of such incorporation.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Geography (Importance: 4.0/5 | Level: 5.78/7)
+- Mathematics (Importance: 3.83/5 | Level: 4.81/7)
+- English Language (Importance: 3.83/5 | Level: 4.5/7)
+- Chemistry (Importance: 3.8/5 | Level: 4.47/7)
+- Physics (Importance: 3.65/5 | Level: 4.22/7)
+- Computers and Electronics (Importance: 3.57/5 | Level: 4.72/7)
+- Education and Training (Importance: 3.23/5 | Level: 4.31/7)
+- Engineering and Technology (Importance: 3.23/5 | Level: 3.84/7)
+- Biology (Importance: 2.94/5 | Level: 3.75/7)
+- Law and Government (Importance: 2.87/5 | Level: 3.29/7)
+- Administration and Management (Importance: 2.77/5 | Level: 3.69/7)
+- Public Safety and Security (Importance: 2.55/5 | Level: 2.59/7)
+- Communications and Media (Importance: 2.48/5 | Level: 2.78/7)
+- Customer and Personal Service (Importance: 2.42/5 | Level: 2.94/7)
+- Administrative (Importance: 2.42/5 | Level: 3.47/7)
+- History and Archeology (Importance: 2.32/5 | Level: 3.44/7)
+- Economics and Accounting (Importance: 2.29/5 | Level: 2.22/7)
+- Personnel and Human Resources (Importance: 2.26/5 | Level: 2.97/7)
+- Mechanical (Importance: 2.19/5 | Level: 2.56/7)
+- Design (Importance: 2.16/5 | Level: 2.65/7)
+- Foreign Language (Importance: 2.13/5 | Level: 2.41/7)
+- Transportation (Importance: 2.0/5 | Level: 2.0/7)
+- Telecommunications (Importance: 1.9/5 | Level: 1.59/7)
+- Sales and Marketing (Importance: 1.81/5 | Level: 1.94/7)
+- Building and Construction (Importance: 1.71/5 | Level: 1.66/7)
+- Psychology (Importance: 1.71/5 | Level: 1.5/7)
+- Sociology and Anthropology (Importance: 1.61/5 | Level: 1.66/7)
+- Production and Processing (Importance: 1.58/5 | Level: 1.38/7)
+- Philosophy and Theology (Importance: 1.48/5 | Level: 1.25/7)
+- Therapy and Counseling (Importance: 1.26/5 | Level: 0.59/7)
+- Medicine and Dentistry (Importance: 1.23/5 | Level: 0.53/7)
+- Fine Arts (Importance: 1.23/5 | Level: 0.32/7)
+- Food Production (Importance: 1.16/5 | Level: 0.34/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Reading Comprehension (Importance: 4.12/5 | Level: 4.88/7)
@@ -436,3 +472,25 @@ Study the composition, structure, and other physical aspects of the Earth. May u
 - Primary Interest: Investigative
 - Secondary Interest: Realistic
 - Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Hydrologists
+- Industrial Ecologists
+- Conservation Scientists
+- Soil and Plant Scientists
+- Biologists
+- Geographers
+- Environmental Scientists and Specialists, Including Health
+- Mining and Geological Engineers, Including Mining Safety Engineers
+- Data Scientists
+- Atmospheric and Space Scientists
+- Geological Technicians, Except Hydrologic Technicians
+- Geodetic Surveyors
+- Petroleum Engineers
+- Hydrologic Technicians
+- Surveying and Mapping Technicians
+- Environmental Restoration Planners
+- Environmental Science and Protection Technicians, Including Health
+- Water Resource Specialists
+- Surveyors
+- Chemists

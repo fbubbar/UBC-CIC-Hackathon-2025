@@ -44,6 +44,42 @@ Apply principles and processes of natural ecosystems to develop models for effic
 - Conduct analyses to determine the maximum amount of work that can be accomplished for a given amount of energy in a system, such as industrial production systems and waste treatment systems.
 - Investigate the adaptability of various animal and plant species to changed environmental conditions.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mathematics (Importance: 4.26/5 | Level: 5.48/7)
+- Engineering and Technology (Importance: 4.04/5 | Level: 5.09/7)
+- Chemistry (Importance: 3.52/5 | Level: 4.61/7)
+- Computers and Electronics (Importance: 3.36/5 | Level: 4.65/7)
+- Physics (Importance: 3.26/5 | Level: 4.26/7)
+- English Language (Importance: 3.23/5 | Level: 4.3/7)
+- Production and Processing (Importance: 3.22/5 | Level: 3.87/7)
+- Design (Importance: 3.17/5 | Level: 4.17/7)
+- Biology (Importance: 3.13/5 | Level: 4.26/7)
+- Geography (Importance: 2.91/5 | Level: 4.13/7)
+- Law and Government (Importance: 2.91/5 | Level: 3.43/7)
+- Administration and Management (Importance: 2.83/5 | Level: 3.78/7)
+- Education and Training (Importance: 2.83/5 | Level: 3.87/7)
+- Transportation (Importance: 2.7/5 | Level: 2.95/7)
+- Communications and Media (Importance: 2.67/5 | Level: 2.91/7)
+- Building and Construction (Importance: 2.43/5 | Level: 2.7/7)
+- Economics and Accounting (Importance: 2.35/5 | Level: 2.78/7)
+- Food Production (Importance: 2.26/5 | Level: 2.13/7)
+- Mechanical (Importance: 2.26/5 | Level: 2.43/7)
+- Sociology and Anthropology (Importance: 2.14/5 | Level: 2.96/7)
+- Psychology (Importance: 2.13/5 | Level: 2.48/7)
+- Administrative (Importance: 2.09/5 | Level: 3.05/7)
+- Customer and Personal Service (Importance: 2.09/5 | Level: 2.48/7)
+- Telecommunications (Importance: 1.96/5 | Level: 1.39/7)
+- Sales and Marketing (Importance: 1.96/5 | Level: 2.22/7)
+- Public Safety and Security (Importance: 1.87/5 | Level: 1.7/7)
+- Personnel and Human Resources (Importance: 1.78/5 | Level: 1.83/7)
+- Foreign Language (Importance: 1.52/5 | Level: 1.13/7)
+- History and Archeology (Importance: 1.48/5 | Level: 1.52/7)
+- Philosophy and Theology (Importance: 1.39/5 | Level: 1.17/7)
+- Medicine and Dentistry (Importance: 1.26/5 | Level: 0.61/7)
+- Fine Arts (Importance: 1.22/5 | Level: 0.48/7)
+- Therapy and Counseling (Importance: 1.04/5 | Level: 0.13/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Reading Comprehension (Importance: 4.12/5 | Level: 4.75/7)
@@ -199,3 +235,25 @@ Apply principles and processes of natural ecosystems to develop models for effic
 - Primary Interest: Investigative
 - Secondary Interest: Realistic
 - Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Environmental Scientists and Specialists, Including Health
+- Conservation Scientists
+- Environmental Restoration Planners
+- Water Resource Specialists
+- Soil and Plant Scientists
+- Hydrologists
+- Environmental Engineers
+- Climate Change Policy Analysts
+- Environmental Science and Protection Technicians, Including Health
+- Brownfield Redevelopment Specialists and Site Managers
+- Sustainability Specialists
+- Chief Sustainability Officers
+- Geoscientists, Except Hydrologists and Geographers
+- Agricultural Engineers
+- Biofuels/Biodiesel Technology and Product Development Managers
+- Environmental Economists
+- Water/Wastewater Engineers
+- Range Managers
+- Hydrologic Technicians
+- Environmental Engineering Technologists and Technicians

@@ -21,6 +21,42 @@ Write technical materials, such as equipment manuals, appendices, or operating a
 - Review published materials and recommend revisions or changes in scope, format, content, and methods of reproduction and binding.
 - Confer with customer representatives, vendors, plant executives, or publisher to establish technical specifications and to determine subject material to be developed for publication.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- English Language (Importance: 4.81/5 | Level: 5.39/7)
+- Computers and Electronics (Importance: 4.29/5 | Level: 4.86/7)
+- Administrative (Importance: 3.76/5 | Level: 5.15/7)
+- Communications and Media (Importance: 3.25/5 | Level: 4.17/7)
+- Administration and Management (Importance: 3.24/5 | Level: 3.82/7)
+- Public Safety and Security (Importance: 3.17/5 | Level: 3.56/7)
+- Education and Training (Importance: 3.16/5 | Level: 4.13/7)
+- Production and Processing (Importance: 3.13/5 | Level: 3.05/7)
+- Customer and Personal Service (Importance: 2.98/5 | Level: 2.58/7)
+- Mathematics (Importance: 2.93/5 | Level: 3.36/7)
+- Engineering and Technology (Importance: 2.88/5 | Level: 3.22/7)
+- Mechanical (Importance: 2.84/5 | Level: 2.88/7)
+- Telecommunications (Importance: 2.42/5 | Level: 2.47/7)
+- Design (Importance: 2.41/5 | Level: 2.67/7)
+- Transportation (Importance: 2.32/5 | Level: 1.24/7)
+- Law and Government (Importance: 2.29/5 | Level: 1.9/7)
+- Medicine and Dentistry (Importance: 2.02/5 | Level: 0.98/7)
+- Sales and Marketing (Importance: 2.02/5 | Level: 1.39/7)
+- Chemistry (Importance: 1.8/5 | Level: 1.36/7)
+- Psychology (Importance: 1.77/5 | Level: 1.63/7)
+- Economics and Accounting (Importance: 1.74/5 | Level: 1.0/7)
+- Physics (Importance: 1.67/5 | Level: 1.42/7)
+- Personnel and Human Resources (Importance: 1.6/5 | Level: 1.17/7)
+- Building and Construction (Importance: 1.42/5 | Level: 0.68/7)
+- Biology (Importance: 1.31/5 | Level: 0.61/7)
+- Sociology and Anthropology (Importance: 1.27/5 | Level: 0.69/7)
+- Geography (Importance: 1.21/5 | Level: 0.64/7)
+- Foreign Language (Importance: 1.17/5 | Level: 0.27/7)
+- Fine Arts (Importance: 1.12/5 | Level: 0.23/7)
+- History and Archeology (Importance: 1.1/5 | Level: 0.25/7)
+- Therapy and Counseling (Importance: 1.09/5 | Level: 0.23/7)
+- Philosophy and Theology (Importance: 1.02/5 | Level: 0.1/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Writing (Importance: 4.88/5 | Level: 5.0/7)
@@ -201,3 +237,25 @@ Write technical materials, such as equipment manuals, appendices, or operating a
 - Primary Interest: Conventional
 - Secondary Interest: Artistic
 - Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Document Management Specialists
+- Editors
+- Project Management Specialists
+- Management Analysts
+- Clinical Data Managers
+- Social Science Research Assistants
+- Proofreaders and Copy Markers
+- Data Scientists
+- Writers and Authors
+- Electrical and Electronics Drafters
+- Statistical Assistants
+- Industrial Engineers
+- Software Developers
+- Information Technology Project Managers
+- Correspondence Clerks
+- Computer Systems Analysts
+- File Clerks
+- Operations Research Analysts
+- Database Administrators
+- Web and Digital Interface Designers

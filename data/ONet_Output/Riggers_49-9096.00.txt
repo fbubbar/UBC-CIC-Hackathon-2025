@@ -20,6 +20,42 @@ Set up or repair rigging for construction projects, manufacturing plants, loggin
 - Clean and dress machine surfaces and component parts.
 - Install ground rigging for yarding lines, attaching chokers to logs and to the lines.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 3.71/5 | Level: 4.31/7)
+- Public Safety and Security (Importance: 3.65/5 | Level: 3.54/7)
+- Production and Processing (Importance: 3.62/5 | Level: 3.39/7)
+- Customer and Personal Service (Importance: 3.53/5 | Level: 3.85/7)
+- Administration and Management (Importance: 3.43/5 | Level: 3.59/7)
+- Design (Importance: 3.34/5 | Level: 3.84/7)
+- English Language (Importance: 3.33/5 | Level: 3.28/7)
+- Education and Training (Importance: 3.25/5 | Level: 3.71/7)
+- Mathematics (Importance: 3.19/5 | Level: 3.56/7)
+- Building and Construction (Importance: 3.19/5 | Level: 4.42/7)
+- Engineering and Technology (Importance: 3.19/5 | Level: 3.69/7)
+- Sales and Marketing (Importance: 2.9/5 | Level: 2.47/7)
+- Computers and Electronics (Importance: 2.82/5 | Level: 3.3/7)
+- Transportation (Importance: 2.8/5 | Level: 2.79/7)
+- Physics (Importance: 2.48/5 | Level: 2.9/7)
+- Administrative (Importance: 2.45/5 | Level: 2.42/7)
+- Personnel and Human Resources (Importance: 2.23/5 | Level: 2.18/7)
+- Economics and Accounting (Importance: 2.14/5 | Level: 1.66/7)
+- Psychology (Importance: 2.13/5 | Level: 2.33/7)
+- Geography (Importance: 2.03/5 | Level: 1.94/7)
+- Communications and Media (Importance: 1.99/5 | Level: 2.02/7)
+- Chemistry (Importance: 1.89/5 | Level: 2.05/7)
+- Telecommunications (Importance: 1.84/5 | Level: 1.39/7)
+- Law and Government (Importance: 1.8/5 | Level: 1.63/7)
+- Sociology and Anthropology (Importance: 1.71/5 | Level: 1.47/7)
+- Medicine and Dentistry (Importance: 1.61/5 | Level: 1.06/7)
+- History and Archeology (Importance: 1.6/5 | Level: 0.94/7)
+- Therapy and Counseling (Importance: 1.58/5 | Level: 0.95/7)
+- Biology (Importance: 1.56/5 | Level: 1.09/7)
+- Food Production (Importance: 1.39/5 | Level: 0.65/7)
+- Foreign Language (Importance: 1.34/5 | Level: 0.56/7)
+- Fine Arts (Importance: 1.27/5 | Level: 0.57/7)
+- Philosophy and Theology (Importance: 1.27/5 | Level: 0.54/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Operation and Control (Importance: 3.25/5 | Level: 3.25/7)
@@ -167,3 +203,25 @@ Set up or repair rigging for construction projects, manufacturing plants, loggin
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Hoist and Winch Operators
+- Industrial Truck and Tractor Operators
+- Millwrights
+- Crane and Tower Operators
+- Mobile Heavy Equipment Mechanics, Except Engines
+- Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+- Maintenance Workers, Machinery
+- Operating Engineers and Other Construction Equipment Operators
+- Structural Iron and Steel Workers
+- Structural Metal Fabricators and Fitters
+- Roustabouts, Oil and Gas
+- Pile Driver Operators
+- Excavating and Loading Machine and Dragline Operators, Surface Mining
+- Industrial Machinery Mechanics
+- Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+- Electrical Power-Line Installers and Repairers
+- Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders
+- Helpers--Installation, Maintenance, and Repair Workers
+- Lighting Technicians
+- Dredge Operators

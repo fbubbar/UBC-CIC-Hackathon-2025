@@ -30,6 +30,42 @@ Diagnose, manage, and treat disorders and diseases of the brain, spinal cord, an
 - Perform specialized treatments in areas such as sleep disorders, neuroimmunology, neuro-oncology, behavioral neurology, and neurogenetics.
 - Prescribe or administer treatments, such as transcranial magnetic stimulation, vagus nerve stimulation, and deep brain stimulation.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Medicine and Dentistry (Importance: 4.84/5 | Level: 6.45/7)
+- English Language (Importance: 4.2/5 | Level: 5.31/7)
+- Psychology (Importance: 4.14/5 | Level: 5.74/7)
+- Biology (Importance: 4.08/5 | Level: 5.14/7)
+- Therapy and Counseling (Importance: 3.96/5 | Level: 5.44/7)
+- Education and Training (Importance: 3.74/5 | Level: 4.97/7)
+- Computers and Electronics (Importance: 3.73/5 | Level: 4.71/7)
+- Chemistry (Importance: 3.61/5 | Level: 4.63/7)
+- Customer and Personal Service (Importance: 3.6/5 | Level: 4.45/7)
+- Mathematics (Importance: 3.51/5 | Level: 4.49/7)
+- Administration and Management (Importance: 3.17/5 | Level: 3.82/7)
+- Sociology and Anthropology (Importance: 2.75/5 | Level: 3.07/7)
+- Law and Government (Importance: 2.75/5 | Level: 3.19/7)
+- Personnel and Human Resources (Importance: 2.75/5 | Level: 3.66/7)
+- Administrative (Importance: 2.7/5 | Level: 3.53/7)
+- Philosophy and Theology (Importance: 2.62/5 | Level: 3.46/7)
+- Communications and Media (Importance: 2.55/5 | Level: 2.94/7)
+- Foreign Language (Importance: 2.45/5 | Level: 2.66/7)
+- Public Safety and Security (Importance: 2.25/5 | Level: 1.95/7)
+- Economics and Accounting (Importance: 2.06/5 | Level: 2.07/7)
+- Telecommunications (Importance: 2.02/5 | Level: 1.47/7)
+- Engineering and Technology (Importance: 2.0/5 | Level: 1.85/7)
+- Physics (Importance: 1.91/5 | Level: 1.94/7)
+- Transportation (Importance: 1.86/5 | Level: 1.83/7)
+- Sales and Marketing (Importance: 1.47/5 | Level: 1.17/7)
+- Geography (Importance: 1.33/5 | Level: 0.65/7)
+- Design (Importance: 1.25/5 | Level: 0.5/7)
+- Mechanical (Importance: 1.21/5 | Level: 0.37/7)
+- Production and Processing (Importance: 1.2/5 | Level: 0.38/7)
+- History and Archeology (Importance: 1.11/5 | Level: 0.18/7)
+- Building and Construction (Importance: 1.09/5 | Level: 0.39/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Active Listening (Importance: 4.25/5 | Level: 4.5/7)
@@ -198,3 +234,25 @@ Diagnose, manage, and treat disorders and diseases of the brain, spinal cord, an
 - Primary Interest: Investigative
 - Secondary Interest: Social
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Pediatric Surgeons
+- Emergency Medicine Physicians
+- Cardiologists
+- Orthopedic Surgeons, Except Pediatric
+- General Internal Medicine Physicians
+- Clinical Neuropsychologists
+- Psychiatrists
+- Pediatricians, General
+- Neuropsychologists
+- Physical Medicine and Rehabilitation Physicians
+- Family Medicine Physicians
+- Obstetricians and Gynecologists
+- Urologists
+- Allergists and Immunologists
+- Ophthalmologists, Except Pediatric
+- Chiropractors
+- Nurse Practitioners
+- Dermatologists
+- Anesthesiologists
+- Clinical Nurse Specialists

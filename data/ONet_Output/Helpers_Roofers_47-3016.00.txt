@@ -24,6 +24,42 @@ Help roofers by performing duties requiring less skill. Duties include using, su
 - Chop tar into small pieces, and heat chopped tar in kettles.
 - Clear drains and downspouts and clean gutters.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Building and Construction (Importance: 3.85/5 | Level: 3.95/7)
+- Administration and Management (Importance: 3.62/5 | Level: 2.46/7)
+- Customer and Personal Service (Importance: 3.5/5 | Level: 3.21/7)
+- Public Safety and Security (Importance: 3.4/5 | Level: 3.19/7)
+- Mathematics (Importance: 3.39/5 | Level: 4.26/7)
+- Transportation (Importance: 3.29/5 | Level: 2.38/7)
+- Mechanical (Importance: 3.28/5 | Level: 2.74/7)
+- Education and Training (Importance: 3.01/5 | Level: 3.22/7)
+- English Language (Importance: 2.85/5 | Level: 1.86/7)
+- Medicine and Dentistry (Importance: 2.79/5 | Level: 1.87/7)
+- Personnel and Human Resources (Importance: 2.64/5 | Level: 1.17/7)
+- Design (Importance: 2.4/5 | Level: 1.71/7)
+- Sales and Marketing (Importance: 2.33/5 | Level: 1.45/7)
+- Chemistry (Importance: 2.12/5 | Level: 1.93/7)
+- Physics (Importance: 2.09/5 | Level: 1.04/7)
+- Psychology (Importance: 2.05/5 | Level: 2.17/7)
+- Production and Processing (Importance: 2.01/5 | Level: 0.68/7)
+- Foreign Language (Importance: 1.95/5 | Level: 1.78/7)
+- Telecommunications (Importance: 1.89/5 | Level: 0.77/7)
+- Administrative (Importance: 1.89/5 | Level: 1.03/7)
+- Economics and Accounting (Importance: 1.86/5 | Level: 0.84/7)
+- Engineering and Technology (Importance: 1.79/5 | Level: 1.05/7)
+- Sociology and Anthropology (Importance: 1.71/5 | Level: 0.62/7)
+- Philosophy and Theology (Importance: 1.69/5 | Level: 1.18/7)
+- Therapy and Counseling (Importance: 1.59/5 | Level: 0.91/7)
+- Law and Government (Importance: 1.54/5 | Level: 0.54/7)
+- Geography (Importance: 1.52/5 | Level: 0.41/7)
+- Communications and Media (Importance: 1.51/5 | Level: 0.88/7)
+- Biology (Importance: 1.32/5 | Level: 0.54/7)
+- Computers and Electronics (Importance: 1.3/5 | Level: 0.38/7)
+- Fine Arts (Importance: 1.24/5 | Level: 0.14/7)
+- History and Archeology (Importance: 1.2/5 | Level: 0.24/7)
+- Food Production (Importance: 1.18/5 | Level: 0.42/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Coordination (Importance: 3.25/5 | Level: 3.75/7)
@@ -231,3 +267,25 @@ Help roofers by performing duties requiring less skill. Duties include using, su
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Roofers
+- Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons
+- Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters
+- Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters
+- Helpers--Carpenters
+- Plasterers and Stucco Masons
+- Insulation Workers, Floor, Ceiling, and Wall
+- Helpers--Electricians
+- Drywall and Ceiling Tile Installers
+- Carpenters
+- Painters, Construction and Maintenance
+- Insulation Workers, Mechanical
+- Helpers--Installation, Maintenance, and Repair Workers
+- Cement Masons and Concrete Finishers
+- Structural Iron and Steel Workers
+- Helpers--Extraction Workers
+- Construction Laborers
+- Terrazzo Workers and Finishers
+- Floor Layers, Except Carpet, Wood, and Hard Tiles
+- Tile and Stone Setters

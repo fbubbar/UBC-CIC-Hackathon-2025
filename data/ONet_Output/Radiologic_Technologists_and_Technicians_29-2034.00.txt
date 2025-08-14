@@ -36,6 +36,42 @@ Take x-rays and CAT scans or administer nonradioactive materials into patient's 
 - Perform supervisory duties, such as developing departmental operating budget, coordinating purchases of supplies or equipment, or preparing work schedules.
 - Provide students or other technicians and technologists with suggestions of additional views, alternate positioning, or improved techniques to ensure the images produced are of the highest quality.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Medicine and Dentistry (Importance: 4.27/5 | Level: 4.21/7)
+- Customer and Personal Service (Importance: 4.17/5 | Level: 4.95/7)
+- English Language (Importance: 4.14/5 | Level: 3.69/7)
+- Computers and Electronics (Importance: 3.88/5 | Level: 4.09/7)
+- Administrative (Importance: 3.5/5 | Level: 3.49/7)
+- Education and Training (Importance: 3.4/5 | Level: 3.55/7)
+- Public Safety and Security (Importance: 3.31/5 | Level: 3.27/7)
+- Psychology (Importance: 3.3/5 | Level: 4.0/7)
+- Physics (Importance: 3.18/5 | Level: 3.02/7)
+- Biology (Importance: 3.1/5 | Level: 3.3/7)
+- Mathematics (Importance: 2.91/5 | Level: 3.15/7)
+- Administration and Management (Importance: 2.88/5 | Level: 2.39/7)
+- Telecommunications (Importance: 2.75/5 | Level: 1.87/7)
+- Engineering and Technology (Importance: 2.63/5 | Level: 2.41/7)
+- Communications and Media (Importance: 2.35/5 | Level: 2.21/7)
+- Sociology and Anthropology (Importance: 2.26/5 | Level: 1.99/7)
+- Personnel and Human Resources (Importance: 2.22/5 | Level: 2.01/7)
+- Therapy and Counseling (Importance: 2.19/5 | Level: 1.93/7)
+- Chemistry (Importance: 2.16/5 | Level: 2.74/7)
+- Mechanical (Importance: 2.15/5 | Level: 1.66/7)
+- Production and Processing (Importance: 2.09/5 | Level: 1.88/7)
+- Transportation (Importance: 2.07/5 | Level: 1.58/7)
+- Law and Government (Importance: 2.02/5 | Level: 1.8/7)
+- Foreign Language (Importance: 1.74/5 | Level: 1.09/7)
+- Economics and Accounting (Importance: 1.74/5 | Level: 1.03/7)
+- Philosophy and Theology (Importance: 1.66/5 | Level: 1.7/7)
+- Sales and Marketing (Importance: 1.47/5 | Level: 0.82/7)
+- Design (Importance: 1.45/5 | Level: 0.88/7)
+- Geography (Importance: 1.36/5 | Level: 0.9/7)
+- History and Archeology (Importance: 1.32/5 | Level: 0.71/7)
+- Building and Construction (Importance: 1.15/5 | Level: 0.25/7)
+- Fine Arts (Importance: 1.02/5 | Level: 0.02/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Active Listening (Importance: 3.75/5 | Level: 3.75/7)
@@ -236,3 +272,25 @@ Take x-rays and CAT scans or administer nonradioactive materials into patient's 
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Cardiovascular Technologists and Technicians
+- Diagnostic Medical Sonographers
+- Magnetic Resonance Imaging Technologists
+- Radiation Therapists
+- Neurodiagnostic Technologists
+- Nuclear Medicine Technologists
+- Ophthalmic Medical Technologists
+- Endoscopy Technicians
+- Surgical Technologists
+- Medical and Clinical Laboratory Technicians
+- Radiologists
+- Cardiologists
+- Pediatric Surgeons
+- Histotechnologists
+- Emergency Medicine Physicians
+- Medical and Clinical Laboratory Technologists
+- Surgical Assistants
+- Orthopedic Surgeons, Except Pediatric
+- Ophthalmic Medical Technicians
+- Anesthesiologist Assistants

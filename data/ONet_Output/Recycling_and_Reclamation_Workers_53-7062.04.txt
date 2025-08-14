@@ -20,6 +20,42 @@ Prepare and sort materials or products for recycling. Identify and remove hazard
 - Collect recyclable materials from curbside for delivery to designated facilities.
 - Operate automated refuse or manual recycling collection vehicles.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Production and Processing (Importance: 3.88/5 | Level: 4.75/7)
+- Mechanical (Importance: 3.51/5 | Level: 3.99/7)
+- Administration and Management (Importance: 3.49/5 | Level: 3.1/7)
+- Public Safety and Security (Importance: 3.48/5 | Level: 3.57/7)
+- Education and Training (Importance: 3.35/5 | Level: 3.85/7)
+- Customer and Personal Service (Importance: 3.21/5 | Level: 3.53/7)
+- English Language (Importance: 3.1/5 | Level: 3.66/7)
+- Personnel and Human Resources (Importance: 3.02/5 | Level: 2.69/7)
+- Sales and Marketing (Importance: 2.95/5 | Level: 3.04/7)
+- Engineering and Technology (Importance: 2.62/5 | Level: 2.76/7)
+- Mathematics (Importance: 2.59/5 | Level: 2.34/7)
+- Administrative (Importance: 2.55/5 | Level: 2.6/7)
+- Transportation (Importance: 2.52/5 | Level: 2.17/7)
+- Psychology (Importance: 2.41/5 | Level: 2.31/7)
+- Law and Government (Importance: 2.25/5 | Level: 1.84/7)
+- Physics (Importance: 2.21/5 | Level: 2.04/7)
+- Computers and Electronics (Importance: 2.18/5 | Level: 2.19/7)
+- Telecommunications (Importance: 1.96/5 | Level: 1.74/7)
+- Building and Construction (Importance: 1.89/5 | Level: 1.89/7)
+- Communications and Media (Importance: 1.83/5 | Level: 1.36/7)
+- Chemistry (Importance: 1.79/5 | Level: 1.61/7)
+- Economics and Accounting (Importance: 1.74/5 | Level: 1.31/7)
+- Design (Importance: 1.62/5 | Level: 1.23/7)
+- Therapy and Counseling (Importance: 1.52/5 | Level: 0.9/7)
+- Geography (Importance: 1.52/5 | Level: 1.1/7)
+- Medicine and Dentistry (Importance: 1.47/5 | Level: 1.04/7)
+- History and Archeology (Importance: 1.43/5 | Level: 0.64/7)
+- Sociology and Anthropology (Importance: 1.43/5 | Level: 0.56/7)
+- Biology (Importance: 1.4/5 | Level: 0.87/7)
+- Foreign Language (Importance: 1.36/5 | Level: 0.66/7)
+- Food Production (Importance: 1.3/5 | Level: 0.63/7)
+- Fine Arts (Importance: 1.28/5 | Level: 0.59/7)
+- Philosophy and Theology (Importance: 1.21/5 | Level: 0.61/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Operation and Control (Importance: 3.25/5 | Level: 2.75/7)
@@ -168,3 +204,25 @@ Prepare and sort materials or products for recycling. Identify and remove hazard
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Recycling Coordinators
+- Hazardous Materials Removal Workers
+- Refuse and Recyclable Material Collectors
+- Laborers and Freight, Stock, and Material Movers, Hand
+- Packaging and Filling Machine Operators and Tenders
+- Machine Feeders and Offbearers
+- Cleaners of Vehicles and Equipment
+- Helpers--Extraction Workers
+- Helpers--Production Workers
+- Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders
+- Water and Wastewater Treatment Plant and System Operators
+- Laundry and Dry-Cleaning Workers
+- Maintenance and Repair Workers, General
+- Maintenance Workers, Machinery
+- Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders
+- Conveyor Operators and Tenders
+- Industrial Machinery Mechanics
+- Industrial Truck and Tractor Operators
+- Septic Tank Servicers and Sewer Pipe Cleaners
+- Tank Car, Truck, and Ship Loaders

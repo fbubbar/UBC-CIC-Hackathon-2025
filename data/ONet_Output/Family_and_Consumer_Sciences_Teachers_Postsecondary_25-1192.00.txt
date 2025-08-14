@@ -29,6 +29,42 @@ Teach courses in childcare, family relations, finance, nutrition, and related su
 - Write grant proposals to procure external research funding.
 - Provide professional consulting services to government or industry.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- English Language (Importance: 4.56/5 | Level: 5.72/7)
+- Education and Training (Importance: 4.28/5 | Level: 5.45/7)
+- Customer and Personal Service (Importance: 3.74/5 | Level: 4.58/7)
+- Psychology (Importance: 3.59/5 | Level: 3.86/7)
+- Administration and Management (Importance: 3.56/5 | Level: 3.5/7)
+- Mathematics (Importance: 3.46/5 | Level: 4.13/7)
+- Computers and Electronics (Importance: 3.44/5 | Level: 4.45/7)
+- Administrative (Importance: 3.4/5 | Level: 4.08/7)
+- Sociology and Anthropology (Importance: 3.29/5 | Level: 3.84/7)
+- Communications and Media (Importance: 3.17/5 | Level: 3.22/7)
+- Law and Government (Importance: 3.08/5 | Level: 2.7/7)
+- Public Safety and Security (Importance: 2.87/5 | Level: 2.54/7)
+- Philosophy and Theology (Importance: 2.79/5 | Level: 3.82/7)
+- Personnel and Human Resources (Importance: 2.73/5 | Level: 3.08/7)
+- Therapy and Counseling (Importance: 2.62/5 | Level: 3.21/7)
+- Sales and Marketing (Importance: 2.47/5 | Level: 2.53/7)
+- Telecommunications (Importance: 2.23/5 | Level: 1.02/7)
+- Design (Importance: 2.09/5 | Level: 1.7/7)
+- History and Archeology (Importance: 2.09/5 | Level: 1.71/7)
+- Economics and Accounting (Importance: 2.06/5 | Level: 1.81/7)
+- Biology (Importance: 2.05/5 | Level: 1.82/7)
+- Foreign Language (Importance: 2.04/5 | Level: 1.74/7)
+- Production and Processing (Importance: 2.03/5 | Level: 1.33/7)
+- Transportation (Importance: 2.0/5 | Level: 1.21/7)
+- Medicine and Dentistry (Importance: 1.96/5 | Level: 1.0/7)
+- Food Production (Importance: 1.96/5 | Level: 1.38/7)
+- Chemistry (Importance: 1.91/5 | Level: 1.47/7)
+- Engineering and Technology (Importance: 1.81/5 | Level: 1.24/7)
+- Geography (Importance: 1.8/5 | Level: 1.84/7)
+- Fine Arts (Importance: 1.71/5 | Level: 1.28/7)
+- Building and Construction (Importance: 1.57/5 | Level: 0.77/7)
+- Mechanical (Importance: 1.27/5 | Level: 0.46/7)
+- Physics (Importance: 1.23/5 | Level: 0.38/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Speaking (Importance: 4.12/5 | Level: 4.75/7)
@@ -201,3 +237,25 @@ Teach courses in childcare, family relations, finance, nutrition, and related su
 - Primary Interest: Social
 - Secondary Interest: Investigative
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Recreation and Fitness Studies Teachers, Postsecondary
+- Education Teachers, Postsecondary
+- Career/Technical Education Teachers, Middle School
+- Secondary School Teachers, Except Special and Career/Technical Education
+- Social Work Teachers, Postsecondary
+- Agricultural Sciences Teachers, Postsecondary
+- Instructional Coordinators
+- Sociology Teachers, Postsecondary
+- Career/Technical Education Teachers, Secondary School
+- Health Specialties Teachers, Postsecondary
+- Middle School Teachers, Except Special and Career/Technical Education
+- Special Education Teachers, Elementary School
+- Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors
+- Psychology Teachers, Postsecondary
+- Special Education Teachers, Secondary School
+- Elementary School Teachers, Except Special Education
+- Business Teachers, Postsecondary
+- Health Education Specialists
+- Library Science Teachers, Postsecondary
+- Special Education Teachers, Kindergarten

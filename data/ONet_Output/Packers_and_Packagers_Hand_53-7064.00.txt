@@ -18,6 +18,42 @@ Pack or package by hand a wide variety of products and materials.
 - Load materials and products into package processing equipment.
 - Transport packages to customers' vehicles.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Production and Processing (Importance: 3.97/5 | Level: 3.75/7)
+- Customer and Personal Service (Importance: 3.2/5 | Level: 3.12/7)
+- English Language (Importance: 2.98/5 | Level: 2.44/7)
+- Administrative (Importance: 2.79/5 | Level: 1.98/7)
+- Mathematics (Importance: 2.73/5 | Level: 2.6/7)
+- Public Safety and Security (Importance: 2.7/5 | Level: 3.01/7)
+- Mechanical (Importance: 2.63/5 | Level: 2.57/7)
+- Computers and Electronics (Importance: 2.56/5 | Level: 2.18/7)
+- Chemistry (Importance: 2.45/5 | Level: 1.86/7)
+- Transportation (Importance: 2.36/5 | Level: 1.65/7)
+- Building and Construction (Importance: 2.31/5 | Level: 1.56/7)
+- Engineering and Technology (Importance: 2.26/5 | Level: 1.96/7)
+- Education and Training (Importance: 2.15/5 | Level: 1.66/7)
+- Design (Importance: 2.1/5 | Level: 1.51/7)
+- Administration and Management (Importance: 2.08/5 | Level: 1.77/7)
+- Personnel and Human Resources (Importance: 2.05/5 | Level: 1.47/7)
+- Food Production (Importance: 1.94/5 | Level: 1.23/7)
+- Psychology (Importance: 1.89/5 | Level: 1.65/7)
+- Law and Government (Importance: 1.88/5 | Level: 1.25/7)
+- Sales and Marketing (Importance: 1.88/5 | Level: 1.26/7)
+- Telecommunications (Importance: 1.84/5 | Level: 0.73/7)
+- Economics and Accounting (Importance: 1.78/5 | Level: 1.17/7)
+- Foreign Language (Importance: 1.74/5 | Level: 1.23/7)
+- Communications and Media (Importance: 1.73/5 | Level: 1.29/7)
+- Physics (Importance: 1.72/5 | Level: 1.04/7)
+- Sociology and Anthropology (Importance: 1.68/5 | Level: 1.02/7)
+- History and Archeology (Importance: 1.66/5 | Level: 0.65/7)
+- Medicine and Dentistry (Importance: 1.63/5 | Level: 0.96/7)
+- Philosophy and Theology (Importance: 1.51/5 | Level: 0.66/7)
+- Geography (Importance: 1.51/5 | Level: 0.8/7)
+- Fine Arts (Importance: 1.48/5 | Level: 0.59/7)
+- Therapy and Counseling (Importance: 1.47/5 | Level: 0.88/7)
+- Biology (Importance: 1.41/5 | Level: 0.74/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Monitoring (Importance: 3.0/5 | Level: 2.12/7)
@@ -172,3 +208,25 @@ Pack or package by hand a wide variety of products and materials.
 - Primary Interest: Conventional
 - Secondary Interest: Realistic
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Packaging and Filling Machine Operators and Tenders
+- Machine Feeders and Offbearers
+- Laborers and Freight, Stock, and Material Movers, Hand
+- Cutting and Slicing Machine Setters, Operators, and Tenders
+- Adhesive Bonding Machine Operators and Tenders
+- Graders and Sorters, Agricultural Products
+- Paper Goods Machine Setters, Operators, and Tenders
+- Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders
+- Cutters and Trimmers, Hand
+- Grinding and Polishing Workers, Hand
+- Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders
+- Molders, Shapers, and Casters, Except Metal and Plastic
+- Helpers--Production Workers
+- Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders
+- Weighers, Measurers, Checkers, and Samplers, Recordkeeping
+- Laundry and Dry-Cleaning Workers
+- Mixing and Blending Machine Setters, Operators, and Tenders
+- Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders
+- Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+- Maintenance Workers, Machinery

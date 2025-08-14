@@ -22,6 +22,42 @@ Conduct chemical and physical laboratory tests to assist scientists in making qu
 - Design or fabricate experimental apparatus to develop new products or processes.
 - Develop new chemical engineering processes or production techniques.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Chemistry (Importance: 3.81/5 | Level: 4.81/7)
+- English Language (Importance: 3.52/5 | Level: 3.25/7)
+- Mathematics (Importance: 3.39/5 | Level: 3.62/7)
+- Computers and Electronics (Importance: 3.11/5 | Level: 3.38/7)
+- Production and Processing (Importance: 2.97/5 | Level: 3.08/7)
+- Administrative (Importance: 2.94/5 | Level: 3.23/7)
+- Education and Training (Importance: 2.66/5 | Level: 3.27/7)
+- Customer and Personal Service (Importance: 2.41/5 | Level: 2.19/7)
+- Engineering and Technology (Importance: 2.4/5 | Level: 2.55/7)
+- Mechanical (Importance: 2.19/5 | Level: 2.23/7)
+- Transportation (Importance: 2.11/5 | Level: 2.42/7)
+- Physics (Importance: 2.04/5 | Level: 1.68/7)
+- Communications and Media (Importance: 1.93/5 | Level: 1.88/7)
+- Public Safety and Security (Importance: 1.9/5 | Level: 1.49/7)
+- Administration and Management (Importance: 1.88/5 | Level: 1.72/7)
+- Law and Government (Importance: 1.82/5 | Level: 1.53/7)
+- Personnel and Human Resources (Importance: 1.74/5 | Level: 1.31/7)
+- Design (Importance: 1.71/5 | Level: 1.44/7)
+- Biology (Importance: 1.62/5 | Level: 1.71/7)
+- Telecommunications (Importance: 1.61/5 | Level: 0.95/7)
+- Geography (Importance: 1.59/5 | Level: 1.28/7)
+- Psychology (Importance: 1.48/5 | Level: 0.61/7)
+- Foreign Language (Importance: 1.48/5 | Level: 0.49/7)
+- Sales and Marketing (Importance: 1.46/5 | Level: 0.81/7)
+- Building and Construction (Importance: 1.38/5 | Level: 0.86/7)
+- Fine Arts (Importance: 1.23/5 | Level: 0.11/7)
+- Sociology and Anthropology (Importance: 1.21/5 | Level: 0.21/7)
+- Economics and Accounting (Importance: 1.15/5 | Level: 0.19/7)
+- Philosophy and Theology (Importance: 1.11/5 | Level: 0.44/7)
+- Therapy and Counseling (Importance: 1.03/5 | Level: 0.06/7)
+- Food Production (Importance: 1.01/5 | Level: 0.02/7)
+- Medicine and Dentistry (Importance: 1.0/5 | Level: 0.01/7)
+- History and Archeology (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Science (Importance: 4.12/5 | Level: 4.12/7)
@@ -333,3 +369,25 @@ Conduct chemical and physical laboratory tests to assist scientists in making qu
 - Primary Interest: Investigative
 - Secondary Interest: Realistic
 - Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Calibration Technologists and Technicians
+- Nanotechnology Engineering Technologists and Technicians
+- Industrial Engineering Technologists and Technicians
+- Histotechnologists
+- Quality Control Analysts
+- Medical and Clinical Laboratory Technicians
+- Food Science Technicians
+- Mechanical Engineering Technologists and Technicians
+- Automotive Engineering Technicians
+- Agricultural Technicians
+- Chemists
+- Chemical Engineers
+- Materials Engineers
+- Chemical Plant and System Operators
+- Materials Scientists
+- Inspectors, Testers, Sorters, Samplers, and Weighers
+- Industrial Engineers
+- Chemical Equipment Operators and Tenders
+- Environmental Science and Protection Technicians, Including Health
+- Medical and Clinical Laboratory Technologists

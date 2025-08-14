@@ -22,6 +22,42 @@ Operate or tend machinery at surface mining site, equipped with scoops, shovels,
 - Drive machines to work sites.
 - Perform manual labor to prepare or finish sites, such as shoveling materials by hand.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 3.24/5 | Level: 3.79/7)
+- Building and Construction (Importance: 3.17/5 | Level: 3.61/7)
+- Public Safety and Security (Importance: 2.97/5 | Level: 3.07/7)
+- English Language (Importance: 2.65/5 | Level: 2.13/7)
+- Mathematics (Importance: 2.63/5 | Level: 2.6/7)
+- Design (Importance: 2.41/5 | Level: 2.3/7)
+- Administration and Management (Importance: 2.4/5 | Level: 2.34/7)
+- Transportation (Importance: 2.29/5 | Level: 2.13/7)
+- Customer and Personal Service (Importance: 2.26/5 | Level: 2.05/7)
+- Education and Training (Importance: 2.22/5 | Level: 2.25/7)
+- Engineering and Technology (Importance: 2.1/5 | Level: 2.18/7)
+- Production and Processing (Importance: 1.94/5 | Level: 1.51/7)
+- Physics (Importance: 1.92/5 | Level: 1.58/7)
+- Personnel and Human Resources (Importance: 1.85/5 | Level: 1.15/7)
+- Chemistry (Importance: 1.82/5 | Level: 1.75/7)
+- Law and Government (Importance: 1.81/5 | Level: 1.42/7)
+- Computers and Electronics (Importance: 1.64/5 | Level: 1.24/7)
+- Psychology (Importance: 1.63/5 | Level: 1.54/7)
+- Telecommunications (Importance: 1.6/5 | Level: 0.88/7)
+- Administrative (Importance: 1.56/5 | Level: 0.88/7)
+- Sales and Marketing (Importance: 1.53/5 | Level: 0.89/7)
+- Economics and Accounting (Importance: 1.49/5 | Level: 0.65/7)
+- Geography (Importance: 1.45/5 | Level: 0.91/7)
+- Communications and Media (Importance: 1.44/5 | Level: 0.92/7)
+- Therapy and Counseling (Importance: 1.34/5 | Level: 0.62/7)
+- Foreign Language (Importance: 1.33/5 | Level: 0.41/7)
+- Biology (Importance: 1.3/5 | Level: 0.81/7)
+- Philosophy and Theology (Importance: 1.26/5 | Level: 0.58/7)
+- Medicine and Dentistry (Importance: 1.25/5 | Level: 0.41/7)
+- Sociology and Anthropology (Importance: 1.22/5 | Level: 0.57/7)
+- Food Production (Importance: 1.1/5 | Level: 0.19/7)
+- History and Archeology (Importance: 1.09/5 | Level: 0.16/7)
+- Fine Arts (Importance: 1.06/5 | Level: 0.06/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Operation and Control (Importance: 4.12/5 | Level: 3.62/7)
@@ -197,3 +233,25 @@ Operate or tend machinery at surface mining site, equipped with scoops, shovels,
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Operating Engineers and Other Construction Equipment Operators
+- Construction Laborers
+- Hoist and Winch Operators
+- Continuous Mining Machine Operators
+- Mobile Heavy Equipment Mechanics, Except Engines
+- Crane and Tower Operators
+- Industrial Truck and Tractor Operators
+- Loading and Moving Machine Operators, Underground Mining
+- Pile Driver Operators
+- Maintenance Workers, Machinery
+- Earth Drillers, Except Oil and Gas
+- Paving, Surfacing, and Tamping Equipment Operators
+- Helpers--Extraction Workers
+- Millwrights
+- Riggers
+- Industrial Machinery Mechanics
+- Rail-Track Laying and Maintenance Equipment Operators
+- Dredge Operators
+- Laborers and Freight, Stock, and Material Movers, Hand
+- Woodworking Machine Setters, Operators, and Tenders, Except Sawing

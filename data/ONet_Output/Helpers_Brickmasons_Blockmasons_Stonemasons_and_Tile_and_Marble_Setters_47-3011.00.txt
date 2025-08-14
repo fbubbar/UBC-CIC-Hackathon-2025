@@ -21,6 +21,42 @@ Help brickmasons, blockmasons, stonemasons, or tile and marble setters by perfor
 - Remove damaged tile, brick, or mortar, and clean or prepare surfaces, using pliers, hammers, chisels, drills, wire brushes, or metal wire anchors.
 - Correct surface imperfections or fill chipped, cracked, or broken bricks or tiles, using fillers, adhesives, or grouting materials.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Building and Construction (Importance: 4.22/5 | Level: 4.67/7)
+- Mechanical (Importance: 3.2/5 | Level: 3.71/7)
+- Design (Importance: 3.12/5 | Level: 2.98/7)
+- Mathematics (Importance: 3.02/5 | Level: 2.63/7)
+- English Language (Importance: 2.99/5 | Level: 2.29/7)
+- Public Safety and Security (Importance: 2.72/5 | Level: 2.03/7)
+- Production and Processing (Importance: 2.41/5 | Level: 2.05/7)
+- Chemistry (Importance: 2.25/5 | Level: 2.02/7)
+- Administration and Management (Importance: 2.24/5 | Level: 1.62/7)
+- Customer and Personal Service (Importance: 2.21/5 | Level: 1.89/7)
+- Engineering and Technology (Importance: 2.19/5 | Level: 2.48/7)
+- Education and Training (Importance: 2.03/5 | Level: 1.65/7)
+- Transportation (Importance: 1.98/5 | Level: 1.28/7)
+- Physics (Importance: 1.71/5 | Level: 1.61/7)
+- Law and Government (Importance: 1.65/5 | Level: 0.95/7)
+- Personnel and Human Resources (Importance: 1.45/5 | Level: 0.8/7)
+- Telecommunications (Importance: 1.43/5 | Level: 0.33/7)
+- Foreign Language (Importance: 1.42/5 | Level: 0.6/7)
+- Medicine and Dentistry (Importance: 1.41/5 | Level: 0.29/7)
+- Geography (Importance: 1.4/5 | Level: 0.37/7)
+- Administrative (Importance: 1.4/5 | Level: 0.64/7)
+- Economics and Accounting (Importance: 1.39/5 | Level: 0.61/7)
+- Psychology (Importance: 1.39/5 | Level: 0.85/7)
+- Sales and Marketing (Importance: 1.38/5 | Level: 0.66/7)
+- Communications and Media (Importance: 1.33/5 | Level: 0.26/7)
+- Fine Arts (Importance: 1.3/5 | Level: 0.34/7)
+- Therapy and Counseling (Importance: 1.28/5 | Level: 0.31/7)
+- Computers and Electronics (Importance: 1.26/5 | Level: 0.51/7)
+- Sociology and Anthropology (Importance: 1.25/5 | Level: 0.41/7)
+- Biology (Importance: 1.23/5 | Level: 0.37/7)
+- Food Production (Importance: 1.19/5 | Level: 0.31/7)
+- History and Archeology (Importance: 1.19/5 | Level: 0.19/7)
+- Philosophy and Theology (Importance: 1.19/5 | Level: 0.12/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Operation and Control (Importance: 3.0/5 | Level: 2.38/7)
@@ -185,3 +221,25 @@ Help brickmasons, blockmasons, stonemasons, or tile and marble setters by perfor
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Helpers--Carpenters
+- Brickmasons and Blockmasons
+- Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons
+- Terrazzo Workers and Finishers
+- Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters
+- Helpers--Installation, Maintenance, and Repair Workers
+- Tile and Stone Setters
+- Refractory Materials Repairers, Except Brickmasons
+- Plasterers and Stucco Masons
+- Cement Masons and Concrete Finishers
+- Stonemasons
+- Floor Layers, Except Carpet, Wood, and Hard Tiles
+- Helpers--Production Workers
+- Helpers--Roofers
+- Construction Laborers
+- Carpenters
+- Helpers--Extraction Workers
+- Drywall and Ceiling Tile Installers
+- Insulation Workers, Floor, Ceiling, and Wall
+- Structural Iron and Steel Workers

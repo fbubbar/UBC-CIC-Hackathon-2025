@@ -23,6 +23,42 @@ Diagnose, inspect, adjust, repair, or overhaul recreational vehicles including t
 - Refinish wood surfaces on cabinets, doors, moldings, or floors, using power sanders, putty, spray equipment, brushes, paints, or varnishes.
 - Seal open sides of modular units to prepare them for shipment, using polyethylene sheets, nails, and hammers.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 4.04/5 | Level: 4.98/7)
+- Customer and Personal Service (Importance: 4.03/5 | Level: 4.19/7)
+- Administration and Management (Importance: 3.0/5 | Level: 2.34/7)
+- Building and Construction (Importance: 2.76/5 | Level: 3.1/7)
+- Production and Processing (Importance: 2.69/5 | Level: 2.46/7)
+- English Language (Importance: 2.64/5 | Level: 2.13/7)
+- Sales and Marketing (Importance: 2.6/5 | Level: 2.19/7)
+- Engineering and Technology (Importance: 2.42/5 | Level: 3.0/7)
+- Computers and Electronics (Importance: 2.42/5 | Level: 2.2/7)
+- Education and Training (Importance: 2.27/5 | Level: 2.16/7)
+- Public Safety and Security (Importance: 2.24/5 | Level: 2.04/7)
+- Transportation (Importance: 2.23/5 | Level: 1.83/7)
+- Design (Importance: 2.23/5 | Level: 2.09/7)
+- Chemistry (Importance: 2.13/5 | Level: 2.18/7)
+- Mathematics (Importance: 2.11/5 | Level: 1.66/7)
+- Administrative (Importance: 2.07/5 | Level: 1.4/7)
+- Telecommunications (Importance: 1.93/5 | Level: 1.48/7)
+- Personnel and Human Resources (Importance: 1.9/5 | Level: 1.19/7)
+- Physics (Importance: 1.72/5 | Level: 1.24/7)
+- Psychology (Importance: 1.62/5 | Level: 1.02/7)
+- Law and Government (Importance: 1.62/5 | Level: 0.84/7)
+- Communications and Media (Importance: 1.57/5 | Level: 0.85/7)
+- Economics and Accounting (Importance: 1.47/5 | Level: 0.66/7)
+- Geography (Importance: 1.28/5 | Level: 0.37/7)
+- Foreign Language (Importance: 1.27/5 | Level: 0.49/7)
+- Sociology and Anthropology (Importance: 1.18/5 | Level: 0.18/7)
+- Medicine and Dentistry (Importance: 1.14/5 | Level: 0.22/7)
+- Biology (Importance: 1.14/5 | Level: 0.21/7)
+- Philosophy and Theology (Importance: 1.06/5 | Level: 0.16/7)
+- History and Archeology (Importance: 1.06/5 | Level: 0.11/7)
+- Therapy and Counseling (Importance: 1.06/5 | Level: 0.16/7)
+- Food Production (Importance: 1.01/5 | Level: 0.02/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Repairing (Importance: 3.88/5 | Level: 3.88/7)
@@ -273,3 +309,25 @@ Diagnose, inspect, adjust, repair, or overhaul recreational vehicles including t
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Motorboat Mechanics and Service Technicians
+- Motorcycle Mechanics
+- Bus and Truck Mechanics and Diesel Engine Specialists
+- Outdoor Power Equipment and Other Small Engine Mechanics
+- Electric Motor, Power Tool, and Related Repairers
+- Automotive Service Technicians and Mechanics
+- Mobile Heavy Equipment Mechanics, Except Engines
+- Rail Car Repairers
+- Maintenance and Repair Workers, General
+- Helpers--Installation, Maintenance, and Repair Workers
+- Farm Equipment Mechanics and Service Technicians
+- Electronic Equipment Installers and Repairers, Motor Vehicles
+- Engine and Other Machine Assemblers
+- Home Appliance Repairers
+- Bicycle Repairers
+- Automotive Body and Related Repairers
+- Heating, Air Conditioning, and Refrigeration Mechanics and Installers
+- Aircraft Mechanics and Service Technicians
+- Electrical and Electronics Installers and Repairers, Transportation Equipment
+- Manufactured Building and Mobile Home Installers

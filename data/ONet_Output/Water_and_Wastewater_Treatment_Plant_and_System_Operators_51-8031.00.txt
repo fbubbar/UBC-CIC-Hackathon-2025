@@ -14,6 +14,42 @@ Operate or control an entire process or system of machines, often through the us
 - Clean and maintain tanks, filter beds, and other work areas, using hand tools and power tools.
 - Direct and coordinate plant workers engaged in routine operations and maintenance activities.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Chemistry (Importance: 3.98/5 | Level: 4.71/7)
+- Biology (Importance: 3.9/5 | Level: 4.11/7)
+- Mechanical (Importance: 3.89/5 | Level: 4.47/7)
+- Mathematics (Importance: 3.62/5 | Level: 4.21/7)
+- Public Safety and Security (Importance: 3.48/5 | Level: 4.1/7)
+- Production and Processing (Importance: 3.46/5 | Level: 3.94/7)
+- Engineering and Technology (Importance: 3.42/5 | Level: 3.66/7)
+- Administration and Management (Importance: 3.33/5 | Level: 2.84/7)
+- Computers and Electronics (Importance: 3.23/5 | Level: 4.02/7)
+- Education and Training (Importance: 3.13/5 | Level: 4.23/7)
+- Administrative (Importance: 3.1/5 | Level: 3.3/7)
+- English Language (Importance: 3.05/5 | Level: 2.8/7)
+- Customer and Personal Service (Importance: 3.0/5 | Level: 3.73/7)
+- Physics (Importance: 2.89/5 | Level: 3.81/7)
+- Personnel and Human Resources (Importance: 2.54/5 | Level: 2.2/7)
+- Law and Government (Importance: 2.52/5 | Level: 2.87/7)
+- Building and Construction (Importance: 2.46/5 | Level: 2.59/7)
+- Design (Importance: 2.28/5 | Level: 2.43/7)
+- Telecommunications (Importance: 2.25/5 | Level: 1.42/7)
+- Geography (Importance: 2.19/5 | Level: 2.72/7)
+- Economics and Accounting (Importance: 2.19/5 | Level: 1.66/7)
+- Communications and Media (Importance: 2.19/5 | Level: 1.64/7)
+- Psychology (Importance: 1.97/5 | Level: 1.96/7)
+- Transportation (Importance: 1.85/5 | Level: 1.29/7)
+- Sociology and Anthropology (Importance: 1.48/5 | Level: 0.85/7)
+- Philosophy and Theology (Importance: 1.38/5 | Level: 0.76/7)
+- Sales and Marketing (Importance: 1.38/5 | Level: 0.59/7)
+- History and Archeology (Importance: 1.35/5 | Level: 0.59/7)
+- Medicine and Dentistry (Importance: 1.34/5 | Level: 0.57/7)
+- Food Production (Importance: 1.28/5 | Level: 0.62/7)
+- Foreign Language (Importance: 1.17/5 | Level: 0.22/7)
+- Therapy and Counseling (Importance: 1.14/5 | Level: 0.28/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Operations Monitoring (Importance: 3.88/5 | Level: 3.75/7)
@@ -216,3 +252,25 @@ Operate or control an entire process or system of machines, often through the us
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Chemical Plant and System Operators
+- Biomass Plant Technicians
+- Power Plant Operators
+- Hydroelectric Plant Technicians
+- Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders
+- Chemical Equipment Operators and Tenders
+- Petroleum Pump System Operators, Refinery Operators, and Gaugers
+- Gas Plant Operators
+- Stationary Engineers and Boiler Operators
+- Gas Compressor and Gas Pumping Station Operators
+- Water/Wastewater Engineers
+- Pump Operators, Except Wellhead Pumpers
+- Septic Tank Servicers and Sewer Pipe Cleaners
+- Geothermal Technicians
+- Geothermal Production Managers
+- Environmental Science and Protection Technicians, Including Health
+- Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders
+- Environmental Engineers
+- Biofuels Processing Technicians
+- Wellhead Pumpers

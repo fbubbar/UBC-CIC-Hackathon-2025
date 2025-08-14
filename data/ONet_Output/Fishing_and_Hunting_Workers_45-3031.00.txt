@@ -36,6 +36,42 @@ Hunt, trap, catch, or gather wild animals or aquatic animals and plants. May use
 - Direct fishing or hunting operations, and supervise crew members.
 - Oversee the purchase of supplies, gear, and equipment.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Law and Government (Importance: 3.19/5 | Level: 3.0/7)
+- Mechanical (Importance: 3.17/5 | Level: 3.75/7)
+- Geography (Importance: 2.95/5 | Level: 3.02/7)
+- Production and Processing (Importance: 2.94/5 | Level: 2.83/7)
+- Biology (Importance: 2.79/5 | Level: 2.76/7)
+- Customer and Personal Service (Importance: 2.7/5 | Level: 2.76/7)
+- English Language (Importance: 2.67/5 | Level: 2.51/7)
+- Food Production (Importance: 2.64/5 | Level: 2.64/7)
+- Public Safety and Security (Importance: 2.59/5 | Level: 2.59/7)
+- Administration and Management (Importance: 2.55/5 | Level: 2.57/7)
+- Transportation (Importance: 2.53/5 | Level: 2.48/7)
+- Computers and Electronics (Importance: 2.51/5 | Level: 2.47/7)
+- Education and Training (Importance: 2.37/5 | Level: 2.73/7)
+- Sales and Marketing (Importance: 2.32/5 | Level: 2.24/7)
+- Telecommunications (Importance: 2.21/5 | Level: 1.42/7)
+- Mathematics (Importance: 2.15/5 | Level: 1.98/7)
+- Chemistry (Importance: 2.02/5 | Level: 1.92/7)
+- Economics and Accounting (Importance: 1.99/5 | Level: 1.39/7)
+- Building and Construction (Importance: 1.95/5 | Level: 2.1/7)
+- Engineering and Technology (Importance: 1.94/5 | Level: 1.94/7)
+- Personnel and Human Resources (Importance: 1.92/5 | Level: 1.56/7)
+- Psychology (Importance: 1.89/5 | Level: 1.87/7)
+- Communications and Media (Importance: 1.83/5 | Level: 1.47/7)
+- Administrative (Importance: 1.79/5 | Level: 1.77/7)
+- Design (Importance: 1.71/5 | Level: 1.54/7)
+- Medicine and Dentistry (Importance: 1.59/5 | Level: 1.1/7)
+- Physics (Importance: 1.58/5 | Level: 1.21/7)
+- Sociology and Anthropology (Importance: 1.56/5 | Level: 0.91/7)
+- Foreign Language (Importance: 1.38/5 | Level: 0.59/7)
+- Therapy and Counseling (Importance: 1.29/5 | Level: 0.64/7)
+- History and Archeology (Importance: 1.25/5 | Level: 0.53/7)
+- Philosophy and Theology (Importance: 1.17/5 | Level: 0.41/7)
+- Fine Arts (Importance: 1.02/5 | Level: 0.02/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Critical Thinking (Importance: 3.0/5 | Level: 2.38/7)
@@ -428,3 +464,25 @@ Hunt, trap, catch, or gather wild animals or aquatic animals and plants. May use
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Farmworkers, Farm, Ranch, and Aquacultural Animals
+- Sailors and Marine Oilers
+- Captains, Mates, and Pilots of Water Vessels
+- Motorboat Operators
+- Meat, Poultry, and Fish Cutters and Trimmers
+- Farmworkers and Laborers, Crop, Nursery, and Greenhouse
+- Agricultural Equipment Operators
+- Laborers and Freight, Stock, and Material Movers, Hand
+- Forest and Conservation Workers
+- Fish and Game Wardens
+- Riggers
+- Commercial Divers
+- Dredge Operators
+- Hoist and Winch Operators
+- Helpers--Extraction Workers
+- First-Line Supervisors of Farming, Fishing, and Forestry Workers
+- Fallers
+- Machine Feeders and Offbearers
+- Zoologists and Wildlife Biologists
+- Roustabouts, Oil and Gas

@@ -25,6 +25,42 @@ Set up, operate, or tend machines that knit, loop, weave, or draw in textiles.
 - Clean, oil, and lubricate machines, using air hoses, cleaning solutions, rags, oil cans, or grease guns.
 - Adjust machine heating mechanisms, tensions, and speeds to produce specified products.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Production and Processing (Importance: 3.39/5 | Level: 3.7/7)
+- English Language (Importance: 3.17/5 | Level: 2.9/7)
+- Mechanical (Importance: 2.99/5 | Level: 2.51/7)
+- Public Safety and Security (Importance: 2.64/5 | Level: 2.14/7)
+- Education and Training (Importance: 2.63/5 | Level: 2.35/7)
+- Computers and Electronics (Importance: 2.47/5 | Level: 2.03/7)
+- Customer and Personal Service (Importance: 2.3/5 | Level: 1.03/7)
+- Administration and Management (Importance: 2.19/5 | Level: 1.75/7)
+- Mathematics (Importance: 2.05/5 | Level: 1.54/7)
+- Design (Importance: 1.99/5 | Level: 1.29/7)
+- Engineering and Technology (Importance: 1.87/5 | Level: 1.4/7)
+- Chemistry (Importance: 1.65/5 | Level: 1.15/7)
+- Sales and Marketing (Importance: 1.59/5 | Level: 1.08/7)
+- Administrative (Importance: 1.58/5 | Level: 0.89/7)
+- Economics and Accounting (Importance: 1.58/5 | Level: 0.44/7)
+- Personnel and Human Resources (Importance: 1.53/5 | Level: 1.16/7)
+- Communications and Media (Importance: 1.48/5 | Level: 0.46/7)
+- Medicine and Dentistry (Importance: 1.48/5 | Level: 0.33/7)
+- Telecommunications (Importance: 1.41/5 | Level: 0.46/7)
+- Transportation (Importance: 1.34/5 | Level: 0.12/7)
+- Psychology (Importance: 1.3/5 | Level: 0.38/7)
+- Sociology and Anthropology (Importance: 1.3/5 | Level: 0.06/7)
+- Therapy and Counseling (Importance: 1.26/5 | Level: 0.19/7)
+- Physics (Importance: 1.23/5 | Level: 0.51/7)
+- Law and Government (Importance: 1.2/5 | Level: 0.18/7)
+- Philosophy and Theology (Importance: 1.18/5 | Level: 0.34/7)
+- Foreign Language (Importance: 1.15/5 | Level: 0.17/7)
+- Food Production (Importance: 1.09/5 | Level: 0.0/7)
+- History and Archeology (Importance: 1.07/5 | Level: 0.1/7)
+- Building and Construction (Importance: 1.03/5 | Level: 0.08/7)
+- Fine Arts (Importance: 1.02/5 | Level: 0.03/7)
+- Geography (Importance: 1.02/5 | Level: 0.05/7)
+- Biology (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Operations Monitoring (Importance: 3.38/5 | Level: 3.12/7)
@@ -182,3 +218,25 @@ Set up, operate, or tend machines that knit, loop, weave, or draw in textiles.
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders
+- Sewing Machine Operators
+- Textile Cutting Machine Setters, Operators, and Tenders
+- Paper Goods Machine Setters, Operators, and Tenders
+- Shoe Machine Operators and Tenders
+- Textile Bleaching and Dyeing Machine Operators and Tenders
+- Cutting and Slicing Machine Setters, Operators, and Tenders
+- Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers
+- Adhesive Bonding Machine Operators and Tenders
+- Print Binding and Finishing Workers
+- Industrial Machinery Mechanics
+- Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+- Machine Feeders and Offbearers
+- Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic
+- Cutters and Trimmers, Hand
+- Grinding and Polishing Workers, Hand
+- Rolling Machine Setters, Operators, and Tenders, Metal and Plastic
+- Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic
+- Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic

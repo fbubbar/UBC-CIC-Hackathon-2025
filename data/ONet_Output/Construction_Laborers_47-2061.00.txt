@@ -33,6 +33,42 @@ Perform tasks involving physical labor at construction sites. May operate hand a
 - Apply caulking compounds by hand or caulking guns to protect against entry of water or air.
 - Tend machines that pump concrete, grout, cement, sand, plaster, or stucco through spray guns for application to ceilings or walls.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Building and Construction (Importance: 3.98/5 | Level: 4.74/7)
+- Public Safety and Security (Importance: 3.17/5 | Level: 3.43/7)
+- Mechanical (Importance: 3.03/5 | Level: 3.47/7)
+- Customer and Personal Service (Importance: 2.79/5 | Level: 2.57/7)
+- Education and Training (Importance: 2.36/5 | Level: 2.33/7)
+- Administration and Management (Importance: 2.28/5 | Level: 1.76/7)
+- Design (Importance: 2.23/5 | Level: 1.99/7)
+- Mathematics (Importance: 2.2/5 | Level: 2.22/7)
+- English Language (Importance: 2.09/5 | Level: 2.01/7)
+- Engineering and Technology (Importance: 2.08/5 | Level: 1.8/7)
+- Production and Processing (Importance: 1.93/5 | Level: 1.8/7)
+- Transportation (Importance: 1.84/5 | Level: 1.62/7)
+- Philosophy and Theology (Importance: 1.73/5 | Level: 1.36/7)
+- Administrative (Importance: 1.64/5 | Level: 1.09/7)
+- Physics (Importance: 1.58/5 | Level: 1.02/7)
+- Communications and Media (Importance: 1.57/5 | Level: 1.28/7)
+- Psychology (Importance: 1.51/5 | Level: 0.79/7)
+- Computers and Electronics (Importance: 1.51/5 | Level: 0.92/7)
+- Personnel and Human Resources (Importance: 1.5/5 | Level: 0.83/7)
+- Medicine and Dentistry (Importance: 1.49/5 | Level: 0.87/7)
+- Chemistry (Importance: 1.48/5 | Level: 1.13/7)
+- Geography (Importance: 1.48/5 | Level: 1.0/7)
+- Sociology and Anthropology (Importance: 1.44/5 | Level: 0.89/7)
+- Law and Government (Importance: 1.43/5 | Level: 0.78/7)
+- History and Archeology (Importance: 1.43/5 | Level: 0.66/7)
+- Foreign Language (Importance: 1.43/5 | Level: 0.73/7)
+- Telecommunications (Importance: 1.43/5 | Level: 0.77/7)
+- Therapy and Counseling (Importance: 1.43/5 | Level: 0.8/7)
+- Economics and Accounting (Importance: 1.42/5 | Level: 0.75/7)
+- Biology (Importance: 1.39/5 | Level: 0.64/7)
+- Fine Arts (Importance: 1.38/5 | Level: 0.68/7)
+- Sales and Marketing (Importance: 1.35/5 | Level: 0.63/7)
+- Food Production (Importance: 1.24/5 | Level: 0.61/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Speaking (Importance: 3.25/5 | Level: 2.88/7)
@@ -318,3 +354,25 @@ Perform tasks involving physical labor at construction sites. May operate hand a
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Paving, Surfacing, and Tamping Equipment Operators
+- Excavating and Loading Machine and Dragline Operators, Surface Mining
+- Cement Masons and Concrete Finishers
+- Pipelayers
+- Maintenance Workers, Machinery
+- Brickmasons and Blockmasons
+- Structural Iron and Steel Workers
+- Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters
+- Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+- Carpenters
+- Operating Engineers and Other Construction Equipment Operators
+- Drywall and Ceiling Tile Installers
+- Hoist and Winch Operators
+- Insulation Workers, Floor, Ceiling, and Wall
+- Plumbers, Pipefitters, and Steamfitters
+- Grinding and Polishing Workers, Hand
+- Sheet Metal Workers
+- Machine Feeders and Offbearers
+- Laborers and Freight, Stock, and Material Movers, Hand
+- Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters

@@ -20,6 +20,42 @@ Conduct hearings to recommend or make decisions on claims concerning government 
 - Schedule hearings.
 - Conduct studies of appeals procedures in field agencies to ensure adherence to legal requirements and to facilitate determination of cases.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Law and Government (Importance: 4.84/5 | Level: 4.94/7)
+- English Language (Importance: 4.12/5 | Level: 4.62/7)
+- Customer and Personal Service (Importance: 3.87/5 | Level: 4.36/7)
+- Administrative (Importance: 3.43/5 | Level: 4.19/7)
+- Medicine and Dentistry (Importance: 3.32/5 | Level: 2.62/7)
+- Administration and Management (Importance: 3.27/5 | Level: 3.4/7)
+- Computers and Electronics (Importance: 2.75/5 | Level: 3.16/7)
+- Mathematics (Importance: 2.68/5 | Level: 2.41/7)
+- Therapy and Counseling (Importance: 2.57/5 | Level: 2.81/7)
+- Personnel and Human Resources (Importance: 2.5/5 | Level: 2.83/7)
+- Psychology (Importance: 2.47/5 | Level: 2.51/7)
+- Public Safety and Security (Importance: 2.44/5 | Level: 1.93/7)
+- Education and Training (Importance: 2.39/5 | Level: 2.29/7)
+- Communications and Media (Importance: 2.2/5 | Level: 2.12/7)
+- Transportation (Importance: 1.9/5 | Level: 1.51/7)
+- Sociology and Anthropology (Importance: 1.74/5 | Level: 1.34/7)
+- Biology (Importance: 1.72/5 | Level: 0.97/7)
+- Economics and Accounting (Importance: 1.71/5 | Level: 0.87/7)
+- Telecommunications (Importance: 1.67/5 | Level: 0.96/7)
+- Production and Processing (Importance: 1.61/5 | Level: 1.27/7)
+- Philosophy and Theology (Importance: 1.6/5 | Level: 1.35/7)
+- Mechanical (Importance: 1.46/5 | Level: 0.47/7)
+- Building and Construction (Importance: 1.34/5 | Level: 0.22/7)
+- Foreign Language (Importance: 1.32/5 | Level: 0.46/7)
+- Geography (Importance: 1.27/5 | Level: 0.66/7)
+- Engineering and Technology (Importance: 1.25/5 | Level: 0.3/7)
+- History and Archeology (Importance: 1.21/5 | Level: 0.51/7)
+- Chemistry (Importance: 1.13/5 | Level: 0.37/7)
+- Design (Importance: 1.12/5 | Level: 0.24/7)
+- Physics (Importance: 1.01/5 | Level: 0.02/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+- Sales and Marketing (Importance: 1.0/5 | Level: 0.0/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Critical Thinking (Importance: 4.25/5 | Level: 5.12/7)
@@ -154,3 +190,25 @@ Conduct hearings to recommend or make decisions on claims concerning government 
 - Primary Interest: Conventional
 - Secondary Interest: Enterprising
 - Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Judges, Magistrate Judges, and Magistrates
+- Judicial Law Clerks
+- Lawyers
+- Arbitrators, Mediators, and Conciliators
+- Claims Adjusters, Examiners, and Investigators
+- Equal Opportunity Representatives and Officers
+- Probation Officers and Correctional Treatment Specialists
+- Labor Relations Specialists
+- Fraud Examiners, Investigators and Analysts
+- Chief Executives
+- Paralegals and Legal Assistants
+- Court, Municipal, and License Clerks
+- Legal Secretaries and Administrative Assistants
+- Compliance Officers
+- Title Examiners, Abstractors, and Searchers
+- Coroners
+- Eligibility Interviewers, Government Programs
+- Court Reporters and Simultaneous Captioners
+- Detectives and Criminal Investigators
+- Police and Sheriff's Patrol Officers

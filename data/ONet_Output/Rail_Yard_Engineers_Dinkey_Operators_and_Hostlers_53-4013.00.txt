@@ -29,6 +29,42 @@ Drive switching or other locomotive or dinkey engines within railroad yard, indu
 - Operate flatcars equipped with derricks or railcars to transport personnel or equipment.
 - Provide assistance in the installation or repair of rails and ties.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Transportation (Importance: 4.15/5 | Level: 4.28/7)
+- Public Safety and Security (Importance: 3.64/5 | Level: 3.4/7)
+- Administration and Management (Importance: 3.22/5 | Level: 3.3/7)
+- Mechanical (Importance: 3.14/5 | Level: 3.54/7)
+- English Language (Importance: 3.1/5 | Level: 2.68/7)
+- Customer and Personal Service (Importance: 3.01/5 | Level: 3.36/7)
+- Education and Training (Importance: 2.96/5 | Level: 3.11/7)
+- Administrative (Importance: 2.95/5 | Level: 2.79/7)
+- Law and Government (Importance: 2.64/5 | Level: 2.26/7)
+- Mathematics (Importance: 2.37/5 | Level: 2.25/7)
+- Telecommunications (Importance: 2.31/5 | Level: 1.59/7)
+- Computers and Electronics (Importance: 2.3/5 | Level: 1.95/7)
+- Engineering and Technology (Importance: 2.25/5 | Level: 2.1/7)
+- Geography (Importance: 2.17/5 | Level: 2.17/7)
+- Personnel and Human Resources (Importance: 2.09/5 | Level: 1.44/7)
+- Sales and Marketing (Importance: 2.02/5 | Level: 1.24/7)
+- Communications and Media (Importance: 2.02/5 | Level: 1.42/7)
+- Physics (Importance: 1.87/5 | Level: 1.7/7)
+- Economics and Accounting (Importance: 1.86/5 | Level: 1.05/7)
+- Production and Processing (Importance: 1.85/5 | Level: 1.8/7)
+- Psychology (Importance: 1.63/5 | Level: 1.62/7)
+- Building and Construction (Importance: 1.61/5 | Level: 1.09/7)
+- Design (Importance: 1.49/5 | Level: 0.78/7)
+- Medicine and Dentistry (Importance: 1.32/5 | Level: 0.55/7)
+- Chemistry (Importance: 1.27/5 | Level: 0.66/7)
+- Therapy and Counseling (Importance: 1.25/5 | Level: 0.64/7)
+- Sociology and Anthropology (Importance: 1.22/5 | Level: 0.55/7)
+- Food Production (Importance: 1.19/5 | Level: 0.36/7)
+- Philosophy and Theology (Importance: 1.18/5 | Level: 0.56/7)
+- Foreign Language (Importance: 1.14/5 | Level: 0.21/7)
+- Biology (Importance: 1.13/5 | Level: 0.36/7)
+- History and Archeology (Importance: 1.1/5 | Level: 0.17/7)
+- Fine Arts (Importance: 1.01/5 | Level: 0.06/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Operation and Control (Importance: 3.75/5 | Level: 3.62/7)
@@ -191,3 +227,25 @@ Drive switching or other locomotive or dinkey engines within railroad yard, indu
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Locomotive Engineers
+- Railroad Brake, Signal, and Switch Operators and Locomotive Firers
+- Railroad Conductors and Yardmasters
+- Bus and Truck Mechanics and Diesel Engine Specialists
+- Industrial Truck and Tractor Operators
+- Operating Engineers and Other Construction Equipment Operators
+- Heavy and Tractor-Trailer Truck Drivers
+- Tank Car, Truck, and Ship Loaders
+- Hoist and Winch Operators
+- Loading and Moving Machine Operators, Underground Mining
+- Ship Engineers
+- Crane and Tower Operators
+- Rail Car Repairers
+- Excavating and Loading Machine and Dragline Operators, Surface Mining
+- Dispatchers, Except Police, Fire, and Ambulance
+- Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation
+- Subway and Streetcar Operators
+- Signal and Track Switch Repairers
+- Laborers and Freight, Stock, and Material Movers, Hand
+- Mobile Heavy Equipment Mechanics, Except Engines

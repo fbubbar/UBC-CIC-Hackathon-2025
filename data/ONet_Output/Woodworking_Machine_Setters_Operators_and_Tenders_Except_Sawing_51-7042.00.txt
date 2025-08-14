@@ -31,6 +31,42 @@ Set up, operate, or tend woodworking machines, such as drill presses, lathes, sh
 - Set up, program, or control computer-aided design (CAD) or computer numerical control (CNC) machines.
 - Control hoists to remove parts or products from work stations.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 3.26/5 | Level: 3.63/7)
+- Production and Processing (Importance: 2.95/5 | Level: 2.9/7)
+- Mathematics (Importance: 2.92/5 | Level: 2.87/7)
+- Public Safety and Security (Importance: 2.51/5 | Level: 2.2/7)
+- Building and Construction (Importance: 2.37/5 | Level: 2.19/7)
+- Education and Training (Importance: 2.35/5 | Level: 2.64/7)
+- Design (Importance: 2.3/5 | Level: 2.02/7)
+- English Language (Importance: 2.28/5 | Level: 2.07/7)
+- Administration and Management (Importance: 1.98/5 | Level: 1.49/7)
+- Transportation (Importance: 1.95/5 | Level: 1.41/7)
+- Engineering and Technology (Importance: 1.9/5 | Level: 1.57/7)
+- Customer and Personal Service (Importance: 1.8/5 | Level: 1.57/7)
+- Computers and Electronics (Importance: 1.78/5 | Level: 1.59/7)
+- Chemistry (Importance: 1.73/5 | Level: 1.83/7)
+- Sales and Marketing (Importance: 1.66/5 | Level: 0.86/7)
+- Personnel and Human Resources (Importance: 1.65/5 | Level: 0.88/7)
+- Physics (Importance: 1.56/5 | Level: 1.28/7)
+- Medicine and Dentistry (Importance: 1.4/5 | Level: 0.58/7)
+- Administrative (Importance: 1.38/5 | Level: 0.59/7)
+- Psychology (Importance: 1.36/5 | Level: 0.68/7)
+- Communications and Media (Importance: 1.28/5 | Level: 0.7/7)
+- Economics and Accounting (Importance: 1.26/5 | Level: 0.64/7)
+- Therapy and Counseling (Importance: 1.21/5 | Level: 0.48/7)
+- Biology (Importance: 1.19/5 | Level: 0.41/7)
+- Telecommunications (Importance: 1.15/5 | Level: 0.15/7)
+- Foreign Language (Importance: 1.12/5 | Level: 0.18/7)
+- Philosophy and Theology (Importance: 1.11/5 | Level: 0.26/7)
+- Law and Government (Importance: 1.1/5 | Level: 0.27/7)
+- Sociology and Anthropology (Importance: 1.07/5 | Level: 0.08/7)
+- Geography (Importance: 1.03/5 | Level: 0.09/7)
+- Food Production (Importance: 1.02/5 | Level: 0.03/7)
+- History and Archeology (Importance: 1.0/5 | Level: 0.0/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Operations Monitoring (Importance: 3.62/5 | Level: 3.5/7)
@@ -216,3 +252,25 @@ Set up, operate, or tend woodworking machines, such as drill presses, lathes, sh
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Sawing Machine Setters, Operators, and Tenders, Wood
+- Cutting and Slicing Machine Setters, Operators, and Tenders
+- Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic
+- Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic
+- Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Textile Cutting Machine Setters, Operators, and Tenders
+- Forging Machine Setters, Operators, and Tenders, Metal and Plastic
+- Rolling Machine Setters, Operators, and Tenders, Metal and Plastic
+- Grinding and Polishing Workers, Hand
+- Tool Grinders, Filers, and Sharpeners
+- Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Tool and Die Makers
+- Machine Feeders and Offbearers
+- Shoe Machine Operators and Tenders
+- Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders
+- Cutters and Trimmers, Hand
+- Paper Goods Machine Setters, Operators, and Tenders
+- Industrial Machinery Mechanics

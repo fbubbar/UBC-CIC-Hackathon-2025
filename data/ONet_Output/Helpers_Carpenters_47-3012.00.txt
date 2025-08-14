@@ -24,6 +24,42 @@ Help carpenters by performing duties requiring less skill. Duties include using,
 - Cut tile or linoleum to fit and spread adhesives on flooring for installation.
 - Cover surfaces with laminated plastic covering material.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Building and Construction (Importance: 4.59/5 | Level: 5.38/7)
+- Mechanical (Importance: 4.09/5 | Level: 4.92/7)
+- Mathematics (Importance: 4.09/5 | Level: 3.59/7)
+- Transportation (Importance: 3.95/5 | Level: 3.16/7)
+- English Language (Importance: 3.92/5 | Level: 3.88/7)
+- Customer and Personal Service (Importance: 3.5/5 | Level: 3.89/7)
+- Production and Processing (Importance: 3.33/5 | Level: 3.48/7)
+- Design (Importance: 3.27/5 | Level: 3.56/7)
+- Public Safety and Security (Importance: 3.21/5 | Level: 4.21/7)
+- Administration and Management (Importance: 3.14/5 | Level: 3.16/7)
+- Education and Training (Importance: 3.07/5 | Level: 3.32/7)
+- Telecommunications (Importance: 3.01/5 | Level: 1.81/7)
+- Law and Government (Importance: 2.86/5 | Level: 1.79/7)
+- Engineering and Technology (Importance: 2.82/5 | Level: 3.14/7)
+- Chemistry (Importance: 2.57/5 | Level: 3.15/7)
+- Communications and Media (Importance: 2.28/5 | Level: 1.47/7)
+- Economics and Accounting (Importance: 2.07/5 | Level: 1.3/7)
+- Physics (Importance: 2.04/5 | Level: 2.35/7)
+- Administrative (Importance: 2.0/5 | Level: 2.26/7)
+- Personnel and Human Resources (Importance: 1.96/5 | Level: 1.28/7)
+- Psychology (Importance: 1.85/5 | Level: 2.15/7)
+- Sales and Marketing (Importance: 1.84/5 | Level: 1.37/7)
+- Foreign Language (Importance: 1.74/5 | Level: 1.1/7)
+- Computers and Electronics (Importance: 1.73/5 | Level: 1.63/7)
+- Medicine and Dentistry (Importance: 1.7/5 | Level: 1.36/7)
+- Geography (Importance: 1.66/5 | Level: 0.67/7)
+- Biology (Importance: 1.61/5 | Level: 0.81/7)
+- Therapy and Counseling (Importance: 1.53/5 | Level: 1.08/7)
+- Sociology and Anthropology (Importance: 1.44/5 | Level: 1.16/7)
+- History and Archeology (Importance: 1.39/5 | Level: 0.47/7)
+- Philosophy and Theology (Importance: 1.24/5 | Level: 0.75/7)
+- Fine Arts (Importance: 1.19/5 | Level: 0.37/7)
+- Food Production (Importance: 1.11/5 | Level: 0.28/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Speaking (Importance: 3.0/5 | Level: 2.38/7)
@@ -195,3 +231,25 @@ Help carpenters by performing duties requiring less skill. Duties include using,
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters
+- Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters
+- Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons
+- Helpers--Installation, Maintenance, and Repair Workers
+- Helpers--Electricians
+- Helpers--Extraction Workers
+- Helpers--Production Workers
+- Carpenters
+- Helpers--Roofers
+- Structural Iron and Steel Workers
+- Cabinetmakers and Bench Carpenters
+- Brickmasons and Blockmasons
+- Structural Metal Fabricators and Fitters
+- Plasterers and Stucco Masons
+- Boilermakers
+- Drywall and Ceiling Tile Installers
+- Layout Workers, Metal and Plastic
+- Cement Masons and Concrete Finishers
+- Reinforcing Iron and Rebar Workers
+- Terrazzo Workers and Finishers

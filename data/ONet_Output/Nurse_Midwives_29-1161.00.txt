@@ -27,6 +27,42 @@ Diagnose and coordinate all aspects of the birthing process, either independentl
 - Conduct clinical research on topics such as maternal or infant health care, contraceptive methods, breastfeeding, and gynecological care.
 - Manage newborn care during the first weeks of life.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Medicine and Dentistry (Importance: 4.82/5 | Level: 5.73/7)
+- Psychology (Importance: 4.33/5 | Level: 5.42/7)
+- Customer and Personal Service (Importance: 4.19/5 | Level: 5.44/7)
+- English Language (Importance: 4.18/5 | Level: 4.64/7)
+- Biology (Importance: 4.06/5 | Level: 4.67/7)
+- Sociology and Anthropology (Importance: 3.81/5 | Level: 4.97/7)
+- Therapy and Counseling (Importance: 3.73/5 | Level: 5.15/7)
+- Education and Training (Importance: 3.67/5 | Level: 5.0/7)
+- Mathematics (Importance: 3.12/5 | Level: 3.61/7)
+- Law and Government (Importance: 3.06/5 | Level: 3.24/7)
+- Computers and Electronics (Importance: 2.91/5 | Level: 3.42/7)
+- Chemistry (Importance: 2.9/5 | Level: 3.82/7)
+- Administration and Management (Importance: 2.82/5 | Level: 3.36/7)
+- Public Safety and Security (Importance: 2.76/5 | Level: 2.79/7)
+- Administrative (Importance: 2.66/5 | Level: 3.38/7)
+- Personnel and Human Resources (Importance: 2.66/5 | Level: 3.38/7)
+- Communications and Media (Importance: 2.61/5 | Level: 2.64/7)
+- Philosophy and Theology (Importance: 2.61/5 | Level: 3.67/7)
+- Foreign Language (Importance: 2.52/5 | Level: 2.42/7)
+- Telecommunications (Importance: 2.12/5 | Level: 1.03/7)
+- Sales and Marketing (Importance: 2.09/5 | Level: 2.73/7)
+- Economics and Accounting (Importance: 2.09/5 | Level: 1.67/7)
+- Physics (Importance: 1.88/5 | Level: 1.53/7)
+- History and Archeology (Importance: 1.79/5 | Level: 1.52/7)
+- Transportation (Importance: 1.78/5 | Level: 1.44/7)
+- Geography (Importance: 1.64/5 | Level: 1.55/7)
+- Production and Processing (Importance: 1.61/5 | Level: 1.19/7)
+- Mechanical (Importance: 1.48/5 | Level: 0.97/7)
+- Engineering and Technology (Importance: 1.45/5 | Level: 0.76/7)
+- Design (Importance: 1.21/5 | Level: 0.48/7)
+- Fine Arts (Importance: 1.18/5 | Level: 0.36/7)
+- Food Production (Importance: 1.16/5 | Level: 0.42/7)
+- Building and Construction (Importance: 1.06/5 | Level: 0.13/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Speaking (Importance: 4.12/5 | Level: 4.12/7)
@@ -204,3 +240,25 @@ Diagnose and coordinate all aspects of the birthing process, either independentl
 - Primary Interest: Social
 - Secondary Interest: Investigative
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Midwives
+- Nurse Practitioners
+- Registered Nurses
+- Clinical Nurse Specialists
+- Obstetricians and Gynecologists
+- Acute Care Nurses
+- Critical Care Nurses
+- Advanced Practice Psychiatric Nurses
+- Licensed Practical and Licensed Vocational Nurses
+- Nurse Anesthetists
+- Emergency Medicine Physicians
+- Family Medicine Physicians
+- Pediatricians, General
+- Paramedics
+- Anesthesiologists
+- Psychiatrists
+- General Internal Medicine Physicians
+- Physician Assistants
+- Neurologists
+- Hospitalists

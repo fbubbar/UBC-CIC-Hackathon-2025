@@ -36,6 +36,42 @@ Use hand-welding, flame-cutting, hand-soldering, or brazing equipment to weld or
 - Operate metal shaping, straightening, and bending machines, such as brakes and shears.
 - Analyze engineering drawings, blueprints, specifications, sketches, work orders, and material safety data sheets to plan layout, assembly, and operations.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Production and Processing (Importance: 3.49/5 | Level: 3.36/7)
+- Mechanical (Importance: 3.1/5 | Level: 3.18/7)
+- Mathematics (Importance: 2.94/5 | Level: 2.21/7)
+- English Language (Importance: 2.87/5 | Level: 2.25/7)
+- Design (Importance: 2.82/5 | Level: 2.59/7)
+- Engineering and Technology (Importance: 2.58/5 | Level: 2.71/7)
+- Education and Training (Importance: 2.53/5 | Level: 2.58/7)
+- Public Safety and Security (Importance: 2.51/5 | Level: 1.9/7)
+- Customer and Personal Service (Importance: 2.49/5 | Level: 2.1/7)
+- Administration and Management (Importance: 2.44/5 | Level: 2.16/7)
+- Building and Construction (Importance: 2.39/5 | Level: 2.05/7)
+- Physics (Importance: 2.14/5 | Level: 1.81/7)
+- Administrative (Importance: 2.0/5 | Level: 1.41/7)
+- Personnel and Human Resources (Importance: 1.99/5 | Level: 1.13/7)
+- Computers and Electronics (Importance: 1.97/5 | Level: 1.67/7)
+- Chemistry (Importance: 1.94/5 | Level: 1.56/7)
+- Psychology (Importance: 1.83/5 | Level: 1.4/7)
+- Transportation (Importance: 1.72/5 | Level: 0.68/7)
+- Law and Government (Importance: 1.71/5 | Level: 0.9/7)
+- Communications and Media (Importance: 1.52/5 | Level: 0.61/7)
+- Sales and Marketing (Importance: 1.51/5 | Level: 0.84/7)
+- Economics and Accounting (Importance: 1.44/5 | Level: 0.36/7)
+- Foreign Language (Importance: 1.37/5 | Level: 0.4/7)
+- Medicine and Dentistry (Importance: 1.32/5 | Level: 0.5/7)
+- Sociology and Anthropology (Importance: 1.31/5 | Level: 0.56/7)
+- Telecommunications (Importance: 1.19/5 | Level: 0.19/7)
+- Philosophy and Theology (Importance: 1.16/5 | Level: 0.24/7)
+- Biology (Importance: 1.16/5 | Level: 0.2/7)
+- Food Production (Importance: 1.14/5 | Level: 0.04/7)
+- Therapy and Counseling (Importance: 1.13/5 | Level: 0.28/7)
+- Geography (Importance: 1.09/5 | Level: 0.14/7)
+- Fine Arts (Importance: 1.08/5 | Level: 0.04/7)
+- History and Archeology (Importance: 1.07/5 | Level: 0.07/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Quality Control Analysis (Importance: 3.12/5 | Level: 3.0/7)
@@ -293,3 +329,25 @@ Use hand-welding, flame-cutting, hand-soldering, or brazing equipment to weld or
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders
+- Structural Metal Fabricators and Fitters
+- Boilermakers
+- Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+- Engine and Other Machine Assemblers
+- Electrical and Electronic Equipment Assemblers
+- Tool and Die Makers
+- Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+- Electric Motor, Power Tool, and Related Repairers
+- Tool Grinders, Filers, and Sharpeners
+- Grinding and Polishing Workers, Hand
+- Forging Machine Setters, Operators, and Tenders, Metal and Plastic
+- Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic
+- Industrial Machinery Mechanics
+- Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic
+- Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Machinists
+- Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic

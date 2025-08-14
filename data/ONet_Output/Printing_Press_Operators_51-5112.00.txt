@@ -29,6 +29,42 @@ Set up and operate digital, letterpress, lithographic, flexographic, gravure, or
 - Control workflow scheduling or job tracking, using computer database software.
 - Set up or operate auxiliary equipment, such as cutting, folding, plate-making, drilling, or laminating machines.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 3.83/5 | Level: 4.28/7)
+- Production and Processing (Importance: 3.66/5 | Level: 3.63/7)
+- Customer and Personal Service (Importance: 2.86/5 | Level: 2.57/7)
+- English Language (Importance: 2.8/5 | Level: 2.72/7)
+- Computers and Electronics (Importance: 2.75/5 | Level: 2.87/7)
+- Mathematics (Importance: 2.74/5 | Level: 2.17/7)
+- Chemistry (Importance: 2.47/5 | Level: 2.52/7)
+- Public Safety and Security (Importance: 2.1/5 | Level: 1.88/7)
+- Administration and Management (Importance: 2.08/5 | Level: 2.05/7)
+- Education and Training (Importance: 2.08/5 | Level: 2.2/7)
+- Engineering and Technology (Importance: 1.88/5 | Level: 1.68/7)
+- Design (Importance: 1.6/5 | Level: 1.1/7)
+- Administrative (Importance: 1.5/5 | Level: 1.03/7)
+- Personnel and Human Resources (Importance: 1.44/5 | Level: 0.72/7)
+- Sales and Marketing (Importance: 1.42/5 | Level: 0.95/7)
+- Communications and Media (Importance: 1.32/5 | Level: 0.48/7)
+- Physics (Importance: 1.26/5 | Level: 0.59/7)
+- Law and Government (Importance: 1.24/5 | Level: 0.38/7)
+- Economics and Accounting (Importance: 1.21/5 | Level: 0.36/7)
+- Fine Arts (Importance: 1.2/5 | Level: 0.24/7)
+- Building and Construction (Importance: 1.17/5 | Level: 0.37/7)
+- Psychology (Importance: 1.13/5 | Level: 0.32/7)
+- Transportation (Importance: 1.09/5 | Level: 0.27/7)
+- Telecommunications (Importance: 1.07/5 | Level: 0.1/7)
+- Geography (Importance: 1.07/5 | Level: 0.07/7)
+- Food Production (Importance: 1.06/5 | Level: 0.19/7)
+- Philosophy and Theology (Importance: 1.01/5 | Level: 0.04/7)
+- Medicine and Dentistry (Importance: 1.01/5 | Level: 0.01/7)
+- Foreign Language (Importance: 1.01/5 | Level: 0.01/7)
+- Sociology and Anthropology (Importance: 1.01/5 | Level: 0.01/7)
+- Therapy and Counseling (Importance: 1.01/5 | Level: 0.02/7)
+- History and Archeology (Importance: 1.0/5 | Level: 0.0/7)
+- Biology (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Quality Control Analysis (Importance: 3.88/5 | Level: 3.25/7)
@@ -257,3 +293,25 @@ Set up and operate digital, letterpress, lithographic, flexographic, gravure, or
 - Primary Interest: Conventional
 - Secondary Interest: Realistic
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Paper Goods Machine Setters, Operators, and Tenders
+- Prepress Technicians and Workers
+- Photographic Process Workers and Processing Machine Operators
+- Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic
+- Adhesive Bonding Machine Operators and Tenders
+- Print Binding and Finishing Workers
+- Cutting and Slicing Machine Setters, Operators, and Tenders
+- Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic
+- Rolling Machine Setters, Operators, and Tenders, Metal and Plastic
+- Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Etchers and Engravers
+- Textile Cutting Machine Setters, Operators, and Tenders
+- Office Machine Operators, Except Computer
+- Machine Feeders and Offbearers
+- Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders
+- Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic
+- Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Textile Bleaching and Dyeing Machine Operators and Tenders
+- Industrial Machinery Mechanics

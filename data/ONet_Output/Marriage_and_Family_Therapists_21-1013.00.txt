@@ -21,6 +21,42 @@ Diagnose and treat mental and emotional disorders, whether cognitive, affective,
 - Gather information from doctors, schools, social workers, juvenile counselors, law enforcement personnel, and others to make recommendations to courts for resolution of child custody or visitation disputes.
 - Write evaluations of parents and children for use by courts deciding divorce and custody cases, testifying in court if necessary.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Therapy and Counseling (Importance: 5.0/5 | Level: 6.81/7)
+- Psychology (Importance: 4.93/5 | Level: 6.37/7)
+- Customer and Personal Service (Importance: 4.0/5 | Level: 5.76/7)
+- Sociology and Anthropology (Importance: 3.88/5 | Level: 4.26/7)
+- English Language (Importance: 3.64/5 | Level: 3.94/7)
+- Administrative (Importance: 3.4/5 | Level: 4.04/7)
+- Law and Government (Importance: 3.28/5 | Level: 3.21/7)
+- Philosophy and Theology (Importance: 3.16/5 | Level: 4.04/7)
+- Education and Training (Importance: 2.94/5 | Level: 3.58/7)
+- Computers and Electronics (Importance: 2.88/5 | Level: 3.03/7)
+- Public Safety and Security (Importance: 2.61/5 | Level: 1.96/7)
+- Medicine and Dentistry (Importance: 2.42/5 | Level: 2.28/7)
+- Communications and Media (Importance: 2.4/5 | Level: 2.17/7)
+- Telecommunications (Importance: 2.37/5 | Level: 1.12/7)
+- Administration and Management (Importance: 2.17/5 | Level: 1.98/7)
+- History and Archeology (Importance: 1.92/5 | Level: 1.57/7)
+- Mathematics (Importance: 1.85/5 | Level: 1.41/7)
+- Transportation (Importance: 1.83/5 | Level: 1.16/7)
+- Sales and Marketing (Importance: 1.73/5 | Level: 1.33/7)
+- Geography (Importance: 1.66/5 | Level: 1.26/7)
+- Biology (Importance: 1.62/5 | Level: 1.19/7)
+- Fine Arts (Importance: 1.56/5 | Level: 0.89/7)
+- Personnel and Human Resources (Importance: 1.5/5 | Level: 0.89/7)
+- Economics and Accounting (Importance: 1.45/5 | Level: 0.76/7)
+- Foreign Language (Importance: 1.41/5 | Level: 0.71/7)
+- Mechanical (Importance: 1.23/5 | Level: 0.33/7)
+- Production and Processing (Importance: 1.18/5 | Level: 0.17/7)
+- Chemistry (Importance: 1.14/5 | Level: 0.38/7)
+- Physics (Importance: 1.11/5 | Level: 0.22/7)
+- Design (Importance: 1.03/5 | Level: 0.05/7)
+- Food Production (Importance: 1.02/5 | Level: 0.03/7)
+- Engineering and Technology (Importance: 1.01/5 | Level: 0.01/7)
+- Building and Construction (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Active Listening (Importance: 4.88/5 | Level: 5.0/7)
@@ -168,3 +204,25 @@ Diagnose and treat mental and emotional disorders, whether cognitive, affective,
 - Primary Interest: Social
 - Secondary Interest: Investigative
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Mental Health and Substance Abuse Social Workers
+- Mental Health Counselors
+- Clinical and Counseling Psychologists
+- Child, Family, and School Social Workers
+- Healthcare Social Workers
+- Rehabilitation Counselors
+- Social and Human Service Assistants
+- Substance Abuse and Behavioral Disorder Counselors
+- Recreational Therapists
+- School Psychologists
+- Psychiatric Technicians
+- Psychiatrists
+- Clinical Neuropsychologists
+- Educational, Guidance, and Career Counselors and Advisors
+- Neuropsychologists
+- Art Therapists
+- Occupational Therapists
+- Occupational Therapy Assistants
+- Family Medicine Physicians
+- Advanced Practice Psychiatric Nurses

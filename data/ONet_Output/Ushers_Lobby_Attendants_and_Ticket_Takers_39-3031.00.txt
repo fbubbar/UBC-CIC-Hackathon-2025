@@ -29,6 +29,42 @@ Assist patrons at entertainment events by performing duties, such as collecting 
 - Page individuals wanted at the box office.
 - Schedule or manage staff, such as volunteer usher corps.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.25/5 | Level: 4.35/7)
+- English Language (Importance: 3.39/5 | Level: 2.85/7)
+- Public Safety and Security (Importance: 3.24/5 | Level: 2.88/7)
+- Communications and Media (Importance: 3.07/5 | Level: 2.52/7)
+- Sales and Marketing (Importance: 2.9/5 | Level: 2.8/7)
+- Administration and Management (Importance: 2.65/5 | Level: 1.81/7)
+- Computers and Electronics (Importance: 2.47/5 | Level: 2.21/7)
+- Education and Training (Importance: 2.41/5 | Level: 2.1/7)
+- Economics and Accounting (Importance: 2.37/5 | Level: 1.81/7)
+- Mathematics (Importance: 2.32/5 | Level: 2.08/7)
+- Administrative (Importance: 2.23/5 | Level: 2.11/7)
+- Psychology (Importance: 2.18/5 | Level: 1.94/7)
+- Food Production (Importance: 2.09/5 | Level: 1.42/7)
+- Telecommunications (Importance: 1.96/5 | Level: 0.98/7)
+- Personnel and Human Resources (Importance: 1.94/5 | Level: 1.66/7)
+- History and Archeology (Importance: 1.92/5 | Level: 1.67/7)
+- Geography (Importance: 1.84/5 | Level: 1.45/7)
+- Law and Government (Importance: 1.67/5 | Level: 1.09/7)
+- Fine Arts (Importance: 1.67/5 | Level: 1.12/7)
+- Transportation (Importance: 1.64/5 | Level: 1.11/7)
+- Sociology and Anthropology (Importance: 1.59/5 | Level: 1.27/7)
+- Production and Processing (Importance: 1.57/5 | Level: 1.14/7)
+- Engineering and Technology (Importance: 1.56/5 | Level: 1.1/7)
+- Mechanical (Importance: 1.55/5 | Level: 0.94/7)
+- Philosophy and Theology (Importance: 1.51/5 | Level: 1.02/7)
+- Physics (Importance: 1.39/5 | Level: 0.66/7)
+- Foreign Language (Importance: 1.29/5 | Level: 0.33/7)
+- Chemistry (Importance: 1.24/5 | Level: 0.53/7)
+- Biology (Importance: 1.24/5 | Level: 0.48/7)
+- Design (Importance: 1.22/5 | Level: 0.56/7)
+- Therapy and Counseling (Importance: 1.19/5 | Level: 0.38/7)
+- Medicine and Dentistry (Importance: 1.17/5 | Level: 0.38/7)
+- Building and Construction (Importance: 1.15/5 | Level: 0.2/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Social Perceptiveness (Importance: 3.38/5 | Level: 3.0/7)
@@ -146,3 +182,25 @@ Assist patrons at entertainment events by performing duties, such as collecting 
 - Primary Interest: Social
 - Secondary Interest: Conventional
 - Tertiary Interest: Enterprising
+
+# RELATED OCCUPATIONS
+- Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop
+- Baggage Porters and Bellhops
+- Hotel, Motel, and Resort Desk Clerks
+- Passenger Attendants
+- Reservation and Transportation Ticket Agents and Travel Clerks
+- Locker Room, Coatroom, and Dressing Room Attendants
+- Counter and Rental Clerks
+- Receptionists and Information Clerks
+- Cashiers
+- Flight Attendants
+- Concierges
+- Tour Guides and Escorts
+- Lodging Managers
+- Meeting, Convention, and Event Planners
+- First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services
+- Amusement and Recreation Attendants
+- Travel Guides
+- Parking Attendants
+- Dining Room and Cafeteria Attendants and Bartender Helpers
+- First-Line Supervisors of Personal Service Workers

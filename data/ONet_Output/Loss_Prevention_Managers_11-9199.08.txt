@@ -33,6 +33,42 @@ Plan and direct policies, procedures, or systems to prevent the loss of assets. 
 - Advise retail establishments on development of loss-investigation procedures.
 - Maintain databases such as bad check logs, reports on multiple offenders, and alarm activation lists.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Public Safety and Security (Importance: 4.14/5 | Level: 4.64/7)
+- Law and Government (Importance: 3.91/5 | Level: 4.05/7)
+- Administration and Management (Importance: 3.81/5 | Level: 4.71/7)
+- English Language (Importance: 3.77/5 | Level: 4.41/7)
+- Education and Training (Importance: 3.73/5 | Level: 5.09/7)
+- Customer and Personal Service (Importance: 3.55/5 | Level: 4.52/7)
+- Psychology (Importance: 3.5/5 | Level: 4.32/7)
+- Computers and Electronics (Importance: 3.45/5 | Level: 4.0/7)
+- Personnel and Human Resources (Importance: 3.43/5 | Level: 4.18/7)
+- Mathematics (Importance: 3.23/5 | Level: 4.14/7)
+- Administrative (Importance: 3.09/5 | Level: 4.0/7)
+- Communications and Media (Importance: 2.91/5 | Level: 2.82/7)
+- Economics and Accounting (Importance: 2.73/5 | Level: 2.82/7)
+- Sociology and Anthropology (Importance: 2.64/5 | Level: 2.82/7)
+- Telecommunications (Importance: 2.55/5 | Level: 2.5/7)
+- Building and Construction (Importance: 2.55/5 | Level: 2.77/7)
+- Transportation (Importance: 2.41/5 | Level: 2.18/7)
+- Engineering and Technology (Importance: 2.32/5 | Level: 2.5/7)
+- Design (Importance: 2.27/5 | Level: 2.68/7)
+- Mechanical (Importance: 2.23/5 | Level: 2.18/7)
+- Therapy and Counseling (Importance: 2.18/5 | Level: 2.18/7)
+- Production and Processing (Importance: 2.14/5 | Level: 1.95/7)
+- Sales and Marketing (Importance: 2.0/5 | Level: 2.41/7)
+- Geography (Importance: 2.0/5 | Level: 2.0/7)
+- Food Production (Importance: 1.77/5 | Level: 1.32/7)
+- Foreign Language (Importance: 1.76/5 | Level: 1.73/7)
+- Physics (Importance: 1.76/5 | Level: 1.48/7)
+- Medicine and Dentistry (Importance: 1.59/5 | Level: 1.18/7)
+- Philosophy and Theology (Importance: 1.45/5 | Level: 1.36/7)
+- Chemistry (Importance: 1.45/5 | Level: 1.0/7)
+- History and Archeology (Importance: 1.32/5 | Level: 0.5/7)
+- Biology (Importance: 1.32/5 | Level: 0.68/7)
+- Fine Arts (Importance: 1.09/5 | Level: 0.18/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Speaking (Importance: 4.0/5 | Level: 4.0/7)
@@ -168,3 +204,25 @@ Plan and direct policies, procedures, or systems to prevent the loss of assets. 
 - Primary Interest: Conventional
 - Secondary Interest: Enterprising
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Compliance Managers
+- Financial Risk Specialists
+- Management Analysts
+- Security Management Specialists
+- Security Managers
+- Emergency Management Directors
+- Health and Safety Engineers, Except Mining Safety Engineers and Inspectors
+- Information Security Engineers
+- Fraud Examiners, Investigators and Analysts
+- Business Continuity Planners
+- Retail Loss Prevention Specialists
+- Information Security Analysts
+- Private Detectives and Investigators
+- Medical and Health Services Managers
+- Occupational Health and Safety Specialists
+- Compensation, Benefits, and Job Analysis Specialists
+- Occupational Health and Safety Technicians
+- Environmental Compliance Inspectors
+- Social and Community Service Managers
+- Recycling Coordinators

@@ -30,6 +30,42 @@ Operate or control petroleum refining or processing units. May specialize in con
 - Prepare calculations for receipts and deliveries of oil and oil products.
 - Lower thermometers into tanks to obtain temperature readings.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Production and Processing (Importance: 3.61/5 | Level: 3.4/7)
+- Public Safety and Security (Importance: 3.58/5 | Level: 3.84/7)
+- Mechanical (Importance: 3.55/5 | Level: 4.28/7)
+- Administration and Management (Importance: 3.52/5 | Level: 4.07/7)
+- Mathematics (Importance: 3.22/5 | Level: 3.43/7)
+- English Language (Importance: 3.2/5 | Level: 3.2/7)
+- Computers and Electronics (Importance: 2.99/5 | Level: 3.35/7)
+- Chemistry (Importance: 2.95/5 | Level: 3.4/7)
+- Education and Training (Importance: 2.87/5 | Level: 3.16/7)
+- Engineering and Technology (Importance: 2.61/5 | Level: 2.73/7)
+- Law and Government (Importance: 2.57/5 | Level: 2.36/7)
+- Transportation (Importance: 2.48/5 | Level: 2.26/7)
+- Customer and Personal Service (Importance: 2.4/5 | Level: 2.32/7)
+- Psychology (Importance: 2.2/5 | Level: 1.75/7)
+- Administrative (Importance: 2.19/5 | Level: 1.94/7)
+- Design (Importance: 2.15/5 | Level: 2.06/7)
+- Telecommunications (Importance: 2.04/5 | Level: 1.52/7)
+- Personnel and Human Resources (Importance: 2.03/5 | Level: 1.72/7)
+- Building and Construction (Importance: 2.02/5 | Level: 2.41/7)
+- Physics (Importance: 1.99/5 | Level: 2.37/7)
+- Economics and Accounting (Importance: 1.69/5 | Level: 1.0/7)
+- Biology (Importance: 1.51/5 | Level: 1.37/7)
+- Sales and Marketing (Importance: 1.43/5 | Level: 0.76/7)
+- Geography (Importance: 1.41/5 | Level: 0.69/7)
+- Foreign Language (Importance: 1.36/5 | Level: 0.64/7)
+- Sociology and Anthropology (Importance: 1.36/5 | Level: 0.8/7)
+- Medicine and Dentistry (Importance: 1.26/5 | Level: 0.39/7)
+- Communications and Media (Importance: 1.25/5 | Level: 0.64/7)
+- Therapy and Counseling (Importance: 1.23/5 | Level: 0.72/7)
+- History and Archeology (Importance: 1.21/5 | Level: 0.41/7)
+- Philosophy and Theology (Importance: 1.17/5 | Level: 0.3/7)
+- Food Production (Importance: 1.09/5 | Level: 0.25/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Operations Monitoring (Importance: 4.0/5 | Level: 4.62/7)
@@ -179,3 +215,25 @@ Operate or control petroleum refining or processing units. May specialize in con
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Gas Plant Operators
+- Gas Compressor and Gas Pumping Station Operators
+- Wellhead Pumpers
+- Power Plant Operators
+- Chemical Plant and System Operators
+- Pump Operators, Except Wellhead Pumpers
+- Biomass Plant Technicians
+- Stationary Engineers and Boiler Operators
+- Biofuels Processing Technicians
+- Water and Wastewater Treatment Plant and System Operators
+- Chemical Equipment Operators and Tenders
+- Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders
+- Service Unit Operators, Oil and Gas
+- Power Distributors and Dispatchers
+- Hydroelectric Plant Technicians
+- Biomass Power Plant Managers
+- Petroleum Engineers
+- Geothermal Technicians
+- Rotary Drill Operators, Oil and Gas
+- Control and Valve Installers and Repairers, Except Mechanical Door

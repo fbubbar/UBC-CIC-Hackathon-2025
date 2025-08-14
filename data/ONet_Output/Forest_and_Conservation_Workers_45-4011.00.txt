@@ -23,6 +23,42 @@ Under supervision, perform manual labor necessary to develop, maintain, or prote
 - Provide assistance to forest survey crews by clearing site-lines, holding measuring tools, or setting stakes.
 - Sort tree seedlings, discarding substandard seedlings, according to standard charts or verbal instructions.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Public Safety and Security (Importance: 3.48/5 | Level: 3.6/7)
+- English Language (Importance: 3.47/5 | Level: 3.81/7)
+- Customer and Personal Service (Importance: 3.19/5 | Level: 4.07/7)
+- Administration and Management (Importance: 3.18/5 | Level: 2.77/7)
+- Geography (Importance: 3.04/5 | Level: 3.36/7)
+- Biology (Importance: 3.02/5 | Level: 3.14/7)
+- Communications and Media (Importance: 2.88/5 | Level: 2.52/7)
+- Transportation (Importance: 2.85/5 | Level: 3.4/7)
+- Education and Training (Importance: 2.82/5 | Level: 3.58/7)
+- Computers and Electronics (Importance: 2.72/5 | Level: 3.38/7)
+- Law and Government (Importance: 2.72/5 | Level: 3.17/7)
+- Personnel and Human Resources (Importance: 2.7/5 | Level: 2.77/7)
+- Mechanical (Importance: 2.69/5 | Level: 2.89/7)
+- Administrative (Importance: 2.48/5 | Level: 2.75/7)
+- Mathematics (Importance: 2.37/5 | Level: 2.3/7)
+- Psychology (Importance: 2.27/5 | Level: 2.51/7)
+- Telecommunications (Importance: 2.14/5 | Level: 2.23/7)
+- Chemistry (Importance: 1.92/5 | Level: 2.03/7)
+- Physics (Importance: 1.91/5 | Level: 1.67/7)
+- History and Archeology (Importance: 1.91/5 | Level: 1.63/7)
+- Building and Construction (Importance: 1.91/5 | Level: 1.87/7)
+- Design (Importance: 1.85/5 | Level: 1.62/7)
+- Engineering and Technology (Importance: 1.77/5 | Level: 1.84/7)
+- Production and Processing (Importance: 1.66/5 | Level: 1.58/7)
+- Medicine and Dentistry (Importance: 1.65/5 | Level: 1.44/7)
+- Economics and Accounting (Importance: 1.64/5 | Level: 1.19/7)
+- Therapy and Counseling (Importance: 1.64/5 | Level: 1.4/7)
+- Sociology and Anthropology (Importance: 1.36/5 | Level: 0.74/7)
+- Sales and Marketing (Importance: 1.23/5 | Level: 0.52/7)
+- Foreign Language (Importance: 1.15/5 | Level: 0.25/7)
+- Philosophy and Theology (Importance: 1.14/5 | Level: 0.4/7)
+- Fine Arts (Importance: 1.1/5 | Level: 0.21/7)
+- Food Production (Importance: 1.07/5 | Level: 0.13/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Monitoring (Importance: 3.12/5 | Level: 2.88/7)
@@ -180,3 +216,25 @@ Under supervision, perform manual labor necessary to develop, maintain, or prote
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Forest and Conservation Technicians
+- Foresters
+- Farmworkers and Laborers, Crop, Nursery, and Greenhouse
+- Range Managers
+- Tree Trimmers and Pruners
+- Conservation Scientists
+- Pesticide Handlers, Sprayers, and Applicators, Vegetation
+- First-Line Supervisors of Farming, Fishing, and Forestry Workers
+- First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers
+- Agricultural Technicians
+- Forest Fire Inspectors and Prevention Specialists
+- Fallers
+- Landscaping and Groundskeeping Workers
+- Agricultural Equipment Operators
+- Soil and Plant Scientists
+- Environmental Restoration Planners
+- Firefighters
+- Fish and Game Wardens
+- Farmers, Ranchers, and Other Agricultural Managers
+- Farmworkers, Farm, Ranch, and Aquacultural Animals

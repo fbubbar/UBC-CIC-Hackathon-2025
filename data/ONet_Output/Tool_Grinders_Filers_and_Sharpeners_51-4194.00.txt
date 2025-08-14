@@ -24,6 +24,42 @@ Perform precision smoothing, sharpening, polishing, or grinding of metal objects
 - Place workpieces in electroplating solutions or apply pigments to surfaces of workpieces to highlight ridges and grooves.
 - Straighten workpieces and remove dents, using straightening presses and hammers.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 3.61/5 | Level: 4.16/7)
+- Mathematics (Importance: 3.49/5 | Level: 3.89/7)
+- English Language (Importance: 3.13/5 | Level: 3.02/7)
+- Production and Processing (Importance: 2.9/5 | Level: 3.23/7)
+- Education and Training (Importance: 2.73/5 | Level: 3.22/7)
+- Customer and Personal Service (Importance: 2.69/5 | Level: 2.48/7)
+- Administration and Management (Importance: 2.48/5 | Level: 2.44/7)
+- Engineering and Technology (Importance: 2.47/5 | Level: 2.73/7)
+- Design (Importance: 2.41/5 | Level: 2.53/7)
+- Computers and Electronics (Importance: 2.17/5 | Level: 1.99/7)
+- Administrative (Importance: 2.09/5 | Level: 2.03/7)
+- Chemistry (Importance: 2.06/5 | Level: 1.93/7)
+- Public Safety and Security (Importance: 2.05/5 | Level: 1.75/7)
+- Transportation (Importance: 2.04/5 | Level: 1.59/7)
+- Economics and Accounting (Importance: 2.03/5 | Level: 1.4/7)
+- Personnel and Human Resources (Importance: 1.99/5 | Level: 1.62/7)
+- Physics (Importance: 1.88/5 | Level: 1.56/7)
+- Sales and Marketing (Importance: 1.87/5 | Level: 1.79/7)
+- Law and Government (Importance: 1.85/5 | Level: 1.47/7)
+- Psychology (Importance: 1.61/5 | Level: 1.08/7)
+- Communications and Media (Importance: 1.59/5 | Level: 1.09/7)
+- Geography (Importance: 1.53/5 | Level: 0.85/7)
+- Foreign Language (Importance: 1.5/5 | Level: 0.79/7)
+- Biology (Importance: 1.42/5 | Level: 0.73/7)
+- Building and Construction (Importance: 1.4/5 | Level: 0.68/7)
+- Food Production (Importance: 1.4/5 | Level: 0.68/7)
+- Sociology and Anthropology (Importance: 1.37/5 | Level: 0.63/7)
+- Telecommunications (Importance: 1.34/5 | Level: 0.34/7)
+- Medicine and Dentistry (Importance: 1.3/5 | Level: 0.61/7)
+- Therapy and Counseling (Importance: 1.3/5 | Level: 0.48/7)
+- History and Archeology (Importance: 1.27/5 | Level: 0.52/7)
+- Philosophy and Theology (Importance: 1.24/5 | Level: 0.31/7)
+- Fine Arts (Importance: 1.23/5 | Level: 0.45/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Operations Monitoring (Importance: 3.88/5 | Level: 3.62/7)
@@ -161,3 +197,25 @@ Perform precision smoothing, sharpening, polishing, or grinding of metal objects
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Grinding and Polishing Workers, Hand
+- Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic
+- Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+- Cutting and Slicing Machine Setters, Operators, and Tenders
+- Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Tool and Die Makers
+- Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic
+- Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders
+- Rolling Machine Setters, Operators, and Tenders, Metal and Plastic
+- Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Forging Machine Setters, Operators, and Tenders, Metal and Plastic
+- Maintenance Workers, Machinery
+- Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders
+- Textile Cutting Machine Setters, Operators, and Tenders
+- Sawing Machine Setters, Operators, and Tenders, Wood
+- Machine Feeders and Offbearers
+- Industrial Machinery Mechanics
+- Paper Goods Machine Setters, Operators, and Tenders

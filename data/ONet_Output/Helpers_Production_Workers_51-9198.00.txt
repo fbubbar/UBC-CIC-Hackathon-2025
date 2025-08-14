@@ -36,6 +36,42 @@ Help production workers by performing duties requiring less skill. Duties includ
 - Break up defective products for reprocessing.
 - Cut or break flashing from materials or products.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 3.05/5 | Level: 2.64/7)
+- Production and Processing (Importance: 2.74/5 | Level: 2.74/7)
+- Mathematics (Importance: 2.74/5 | Level: 2.52/7)
+- English Language (Importance: 2.69/5 | Level: 2.43/7)
+- Public Safety and Security (Importance: 2.58/5 | Level: 1.85/7)
+- Education and Training (Importance: 2.35/5 | Level: 2.17/7)
+- Administration and Management (Importance: 2.14/5 | Level: 1.38/7)
+- Computers and Electronics (Importance: 2.02/5 | Level: 1.61/7)
+- Transportation (Importance: 1.98/5 | Level: 1.27/7)
+- Engineering and Technology (Importance: 1.92/5 | Level: 1.65/7)
+- Customer and Personal Service (Importance: 1.92/5 | Level: 1.21/7)
+- Design (Importance: 1.88/5 | Level: 1.27/7)
+- Building and Construction (Importance: 1.85/5 | Level: 1.33/7)
+- Chemistry (Importance: 1.8/5 | Level: 1.54/7)
+- Communications and Media (Importance: 1.79/5 | Level: 1.15/7)
+- Personnel and Human Resources (Importance: 1.76/5 | Level: 1.03/7)
+- Law and Government (Importance: 1.73/5 | Level: 1.0/7)
+- Psychology (Importance: 1.7/5 | Level: 1.21/7)
+- Physics (Importance: 1.6/5 | Level: 0.9/7)
+- Sales and Marketing (Importance: 1.59/5 | Level: 0.71/7)
+- Telecommunications (Importance: 1.59/5 | Level: 0.89/7)
+- Food Production (Importance: 1.54/5 | Level: 0.79/7)
+- Administrative (Importance: 1.52/5 | Level: 0.71/7)
+- Medicine and Dentistry (Importance: 1.52/5 | Level: 0.6/7)
+- Sociology and Anthropology (Importance: 1.45/5 | Level: 0.54/7)
+- Therapy and Counseling (Importance: 1.42/5 | Level: 0.55/7)
+- Foreign Language (Importance: 1.36/5 | Level: 0.47/7)
+- Economics and Accounting (Importance: 1.35/5 | Level: 0.61/7)
+- History and Archeology (Importance: 1.29/5 | Level: 0.34/7)
+- Geography (Importance: 1.28/5 | Level: 0.44/7)
+- Philosophy and Theology (Importance: 1.23/5 | Level: 0.51/7)
+- Fine Arts (Importance: 1.22/5 | Level: 0.33/7)
+- Biology (Importance: 1.21/5 | Level: 0.43/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Active Listening (Importance: 2.88/5 | Level: 2.0/7)
@@ -189,3 +225,25 @@ Help production workers by performing duties requiring less skill. Duties includ
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Helpers--Installation, Maintenance, and Repair Workers
+- Helpers--Extraction Workers
+- Machine Feeders and Offbearers
+- Helpers--Carpenters
+- Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters
+- Maintenance Workers, Machinery
+- Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons
+- Laborers and Freight, Stock, and Material Movers, Hand
+- Adhesive Bonding Machine Operators and Tenders
+- Packers and Packagers, Hand
+- Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+- Paper Goods Machine Setters, Operators, and Tenders
+- Cutting and Slicing Machine Setters, Operators, and Tenders
+- Packaging and Filling Machine Operators and Tenders
+- Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters
+- Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders
+- Laundry and Dry-Cleaning Workers
+- Grinding and Polishing Workers, Hand
+- Tool Grinders, Filers, and Sharpeners
+- Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic

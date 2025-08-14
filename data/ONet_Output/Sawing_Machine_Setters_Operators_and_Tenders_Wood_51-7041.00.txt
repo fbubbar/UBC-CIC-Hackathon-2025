@@ -28,6 +28,42 @@ Set up, operate, or tend wood sawing machines. May operate computer numerically 
 - Unclamp and remove finished workpieces from tables.
 - Dispose of waste material after completing work assignments.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Production and Processing (Importance: 3.24/5 | Level: 2.81/7)
+- Mechanical (Importance: 3.21/5 | Level: 3.38/7)
+- Public Safety and Security (Importance: 2.65/5 | Level: 1.73/7)
+- Mathematics (Importance: 2.59/5 | Level: 1.94/7)
+- Education and Training (Importance: 2.29/5 | Level: 1.81/7)
+- English Language (Importance: 2.22/5 | Level: 1.58/7)
+- Design (Importance: 2.11/5 | Level: 1.63/7)
+- Engineering and Technology (Importance: 2.08/5 | Level: 1.75/7)
+- Building and Construction (Importance: 1.87/5 | Level: 1.84/7)
+- Psychology (Importance: 1.78/5 | Level: 1.27/7)
+- Computers and Electronics (Importance: 1.77/5 | Level: 1.17/7)
+- Transportation (Importance: 1.68/5 | Level: 1.05/7)
+- Telecommunications (Importance: 1.67/5 | Level: 0.97/7)
+- Administration and Management (Importance: 1.54/5 | Level: 0.88/7)
+- Customer and Personal Service (Importance: 1.45/5 | Level: 0.6/7)
+- Sociology and Anthropology (Importance: 1.41/5 | Level: 0.47/7)
+- Medicine and Dentistry (Importance: 1.32/5 | Level: 0.41/7)
+- Communications and Media (Importance: 1.32/5 | Level: 0.51/7)
+- Law and Government (Importance: 1.28/5 | Level: 0.46/7)
+- Chemistry (Importance: 1.2/5 | Level: 0.51/7)
+- Foreign Language (Importance: 1.19/5 | Level: 0.38/7)
+- Sales and Marketing (Importance: 1.18/5 | Level: 0.29/7)
+- Administrative (Importance: 1.15/5 | Level: 0.27/7)
+- Physics (Importance: 1.15/5 | Level: 0.57/7)
+- Economics and Accounting (Importance: 1.12/5 | Level: 0.21/7)
+- Personnel and Human Resources (Importance: 1.11/5 | Level: 0.19/7)
+- Geography (Importance: 1.1/5 | Level: 0.1/7)
+- Biology (Importance: 1.1/5 | Level: 0.19/7)
+- Philosophy and Theology (Importance: 1.02/5 | Level: 0.04/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.1/7)
+- History and Archeology (Importance: 1.0/5 | Level: 0.0/7)
+- Therapy and Counseling (Importance: 1.0/5 | Level: 0.0/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Operation and Control (Importance: 3.12/5 | Level: 3.0/7)
@@ -181,3 +217,25 @@ Set up, operate, or tend wood sawing machines. May operate computer numerically 
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+- Cutting and Slicing Machine Setters, Operators, and Tenders
+- Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic
+- Grinding and Polishing Workers, Hand
+- Cutters and Trimmers, Hand
+- Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic
+- Textile Cutting Machine Setters, Operators, and Tenders
+- Tool Grinders, Filers, and Sharpeners
+- Shoe Machine Operators and Tenders
+- Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Tool and Die Makers
+- Rolling Machine Setters, Operators, and Tenders, Metal and Plastic
+- Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Forging Machine Setters, Operators, and Tenders, Metal and Plastic
+- Paper Goods Machine Setters, Operators, and Tenders
+- Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders
+- Machine Feeders and Offbearers
+- Sewing Machine Operators

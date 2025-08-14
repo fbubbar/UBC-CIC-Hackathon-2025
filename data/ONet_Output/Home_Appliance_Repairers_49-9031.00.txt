@@ -35,6 +35,42 @@ Repair, adjust, or install all types of electric or gas household appliances, su
 - Measure, cut, and thread pipe, and connect it to feeder lines and equipment or appliances, using rules and hand tools.
 - Assemble new or reconditioned appliances.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.07/5 | Level: 4.73/7)
+- Mechanical (Importance: 4.0/5 | Level: 4.4/7)
+- English Language (Importance: 3.44/5 | Level: 2.9/7)
+- Administration and Management (Importance: 3.41/5 | Level: 3.21/7)
+- Administrative (Importance: 3.4/5 | Level: 3.79/7)
+- Computers and Electronics (Importance: 3.36/5 | Level: 4.18/7)
+- Sales and Marketing (Importance: 3.18/5 | Level: 2.91/7)
+- Engineering and Technology (Importance: 3.0/5 | Level: 3.1/7)
+- Mathematics (Importance: 2.91/5 | Level: 2.86/7)
+- Education and Training (Importance: 2.68/5 | Level: 2.98/7)
+- Economics and Accounting (Importance: 2.47/5 | Level: 1.78/7)
+- Transportation (Importance: 2.43/5 | Level: 1.99/7)
+- Personnel and Human Resources (Importance: 2.42/5 | Level: 2.26/7)
+- Psychology (Importance: 2.31/5 | Level: 1.94/7)
+- Geography (Importance: 2.23/5 | Level: 1.92/7)
+- Physics (Importance: 2.21/5 | Level: 2.22/7)
+- Design (Importance: 2.17/5 | Level: 1.99/7)
+- Production and Processing (Importance: 2.1/5 | Level: 2.04/7)
+- Chemistry (Importance: 2.08/5 | Level: 2.06/7)
+- Public Safety and Security (Importance: 2.08/5 | Level: 1.68/7)
+- Foreign Language (Importance: 2.02/5 | Level: 1.03/7)
+- Telecommunications (Importance: 1.76/5 | Level: 0.82/7)
+- Law and Government (Importance: 1.75/5 | Level: 1.2/7)
+- Communications and Media (Importance: 1.68/5 | Level: 1.06/7)
+- Building and Construction (Importance: 1.6/5 | Level: 1.32/7)
+- Sociology and Anthropology (Importance: 1.52/5 | Level: 0.8/7)
+- Biology (Importance: 1.49/5 | Level: 0.79/7)
+- Food Production (Importance: 1.28/5 | Level: 0.54/7)
+- Therapy and Counseling (Importance: 1.21/5 | Level: 0.48/7)
+- Philosophy and Theology (Importance: 1.19/5 | Level: 0.39/7)
+- Medicine and Dentistry (Importance: 1.13/5 | Level: 0.27/7)
+- History and Archeology (Importance: 1.0/5 | Level: 0.0/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Repairing (Importance: 3.88/5 | Level: 3.88/7)
@@ -191,3 +227,25 @@ Repair, adjust, or install all types of electric or gas household appliances, su
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Heating, Air Conditioning, and Refrigeration Mechanics and Installers
+- Electric Motor, Power Tool, and Related Repairers
+- Control and Valve Installers and Repairers, Except Mechanical Door
+- Cleaners of Vehicles and Equipment
+- Industrial Machinery Mechanics
+- Outdoor Power Equipment and Other Small Engine Mechanics
+- Electrical and Electronics Installers and Repairers, Transportation Equipment
+- Automotive Service Technicians and Mechanics
+- Engine and Other Machine Assemblers
+- Electronic Equipment Installers and Repairers, Motor Vehicles
+- Maintenance and Repair Workers, General
+- Electromechanical Equipment Assemblers
+- Helpers--Installation, Maintenance, and Repair Workers
+- Farm Equipment Mechanics and Service Technicians
+- Maintenance Workers, Machinery
+- Lighting Technicians
+- Electrical and Electronics Repairers, Commercial and Industrial Equipment
+- Calibration Technologists and Technicians
+- Plumbers, Pipefitters, and Steamfitters
+- Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders

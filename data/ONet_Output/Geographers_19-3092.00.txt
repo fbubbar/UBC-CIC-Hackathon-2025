@@ -18,6 +18,42 @@ Study the nature and use of areas of the Earth's surface, relating and interpret
 - Conduct field work at outdoor sites.
 - Provide consulting services in fields such as resource development and management, business location and market area analysis, environmental hazards, regional cultural history, and urban social planning.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Geography (Importance: 4.85/5 | Level: 6.79/7)
+- English Language (Importance: 3.84/5 | Level: 4.75/7)
+- Computers and Electronics (Importance: 3.75/5 | Level: 5.0/7)
+- Education and Training (Importance: 3.55/5 | Level: 5.35/7)
+- Sociology and Anthropology (Importance: 3.45/5 | Level: 4.95/7)
+- Mathematics (Importance: 3.0/5 | Level: 4.1/7)
+- History and Archeology (Importance: 2.9/5 | Level: 3.6/7)
+- Law and Government (Importance: 2.85/5 | Level: 3.2/7)
+- Communications and Media (Importance: 2.8/5 | Level: 3.6/7)
+- Biology (Importance: 2.68/5 | Level: 3.4/7)
+- Administration and Management (Importance: 2.65/5 | Level: 3.7/7)
+- Administrative (Importance: 2.63/5 | Level: 3.9/7)
+- Customer and Personal Service (Importance: 2.5/5 | Level: 2.85/7)
+- Design (Importance: 2.47/5 | Level: 3.05/7)
+- Personnel and Human Resources (Importance: 2.4/5 | Level: 3.0/7)
+- Telecommunications (Importance: 2.32/5 | Level: 1.65/7)
+- Engineering and Technology (Importance: 2.32/5 | Level: 2.45/7)
+- Psychology (Importance: 2.26/5 | Level: 2.7/7)
+- Transportation (Importance: 2.21/5 | Level: 2.35/7)
+- Physics (Importance: 2.11/5 | Level: 2.5/7)
+- Public Safety and Security (Importance: 2.11/5 | Level: 2.1/7)
+- Economics and Accounting (Importance: 2.05/5 | Level: 1.6/7)
+- Foreign Language (Importance: 2.0/5 | Level: 2.1/7)
+- Philosophy and Theology (Importance: 2.0/5 | Level: 2.7/7)
+- Chemistry (Importance: 1.95/5 | Level: 1.95/7)
+- Production and Processing (Importance: 1.58/5 | Level: 1.25/7)
+- Sales and Marketing (Importance: 1.55/5 | Level: 1.45/7)
+- Building and Construction (Importance: 1.45/5 | Level: 0.85/7)
+- Therapy and Counseling (Importance: 1.45/5 | Level: 0.85/7)
+- Mechanical (Importance: 1.35/5 | Level: 0.85/7)
+- Fine Arts (Importance: 1.35/5 | Level: 0.7/7)
+- Medicine and Dentistry (Importance: 1.21/5 | Level: 0.55/7)
+- Food Production (Importance: 1.15/5 | Level: 0.5/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Writing (Importance: 4.12/5 | Level: 4.88/7)
@@ -268,3 +304,25 @@ Study the nature and use of areas of the Earth's surface, relating and interpret
 - Primary Interest: Investigative
 - Secondary Interest: Realistic
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Geographic Information Systems Technologists and Technicians
+- Geography Teachers, Postsecondary
+- Geoscientists, Except Hydrologists and Geographers
+- Data Scientists
+- Cartographers and Photogrammetrists
+- Anthropologists and Archeologists
+- Geodetic Surveyors
+- Historians
+- Remote Sensing Scientists and Technologists
+- Statisticians
+- Surveying and Mapping Technicians
+- Conservation Scientists
+- Hydrologists
+- Atmospheric and Space Scientists
+- Hydrologic Technicians
+- Social Science Research Assistants
+- Sociologists
+- Environmental Economists
+- Survey Researchers
+- Anthropology and Archeology Teachers, Postsecondary

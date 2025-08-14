@@ -24,6 +24,42 @@ Assist judges in court or by conducting research or preparing legal documents.
 - Maintain judges' law libraries by assembling or updating appropriate documents.
 - Perform courtroom duties, including calling calendars, administering oaths, and swearing in jury panels and witnesses.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Law and Government (Importance: 4.88/5 | Level: 5.21/7)
+- English Language (Importance: 4.45/5 | Level: 5.08/7)
+- Administrative (Importance: 3.5/5 | Level: 3.61/7)
+- Computers and Electronics (Importance: 2.88/5 | Level: 3.32/7)
+- Public Safety and Security (Importance: 2.74/5 | Level: 2.01/7)
+- Administration and Management (Importance: 2.26/5 | Level: 1.79/7)
+- Communications and Media (Importance: 2.23/5 | Level: 2.22/7)
+- Customer and Personal Service (Importance: 2.0/5 | Level: 1.94/7)
+- History and Archeology (Importance: 1.79/5 | Level: 1.78/7)
+- Economics and Accounting (Importance: 1.75/5 | Level: 1.01/7)
+- Mathematics (Importance: 1.68/5 | Level: 1.15/7)
+- Philosophy and Theology (Importance: 1.65/5 | Level: 1.28/7)
+- Psychology (Importance: 1.54/5 | Level: 1.0/7)
+- Telecommunications (Importance: 1.51/5 | Level: 0.55/7)
+- Personnel and Human Resources (Importance: 1.51/5 | Level: 1.09/7)
+- Geography (Importance: 1.49/5 | Level: 0.96/7)
+- Education and Training (Importance: 1.44/5 | Level: 0.65/7)
+- Foreign Language (Importance: 1.43/5 | Level: 0.51/7)
+- Sociology and Anthropology (Importance: 1.35/5 | Level: 0.69/7)
+- Transportation (Importance: 1.31/5 | Level: 0.63/7)
+- Design (Importance: 1.2/5 | Level: 0.2/7)
+- Therapy and Counseling (Importance: 1.17/5 | Level: 0.39/7)
+- Medicine and Dentistry (Importance: 1.16/5 | Level: 0.43/7)
+- Biology (Importance: 1.09/5 | Level: 0.18/7)
+- Building and Construction (Importance: 1.08/5 | Level: 0.08/7)
+- Sales and Marketing (Importance: 1.08/5 | Level: 0.08/7)
+- Mechanical (Importance: 1.07/5 | Level: 0.14/7)
+- Chemistry (Importance: 1.07/5 | Level: 0.15/7)
+- Physics (Importance: 1.02/5 | Level: 0.04/7)
+- Engineering and Technology (Importance: 1.0/5 | Level: 0.0/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+- Production and Processing (Importance: 1.0/5 | Level: 0.0/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Reading Comprehension (Importance: 4.5/5 | Level: 4.88/7)
@@ -170,3 +206,25 @@ Assist judges in court or by conducting research or preparing legal documents.
 - Primary Interest: Conventional
 - Secondary Interest: Enterprising
 - Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Lawyers
+- Judges, Magistrate Judges, and Magistrates
+- Administrative Law Judges, Adjudicators, and Hearing Officers
+- Paralegals and Legal Assistants
+- Legal Secretaries and Administrative Assistants
+- Court Reporters and Simultaneous Captioners
+- Arbitrators, Mediators, and Conciliators
+- Equal Opportunity Representatives and Officers
+- Law Teachers, Postsecondary
+- Fraud Examiners, Investigators and Analysts
+- Court, Municipal, and License Clerks
+- Title Examiners, Abstractors, and Searchers
+- Bailiffs
+- Compliance Officers
+- Private Detectives and Investigators
+- Probation Officers and Correctional Treatment Specialists
+- Detectives and Criminal Investigators
+- Police and Sheriff's Patrol Officers
+- Eligibility Interviewers, Government Programs
+- Claims Adjusters, Examiners, and Investigators

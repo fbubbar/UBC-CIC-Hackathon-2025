@@ -19,6 +19,42 @@ Feed materials into or remove materials from machines or equipment that is autom
 - Open and close gates of belt and pneumatic conveyors on machines that are fed directly from preceding machines.
 - Add chemicals, solutions, or ingredients to machines or equipment as required by the manufacturing process.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Production and Processing (Importance: 3.44/5 | Level: 3.43/7)
+- Mechanical (Importance: 3.1/5 | Level: 3.18/7)
+- Mathematics (Importance: 3.02/5 | Level: 2.94/7)
+- English Language (Importance: 2.9/5 | Level: 2.58/7)
+- Public Safety and Security (Importance: 2.73/5 | Level: 2.63/7)
+- Education and Training (Importance: 2.69/5 | Level: 2.89/7)
+- Administrative (Importance: 2.57/5 | Level: 2.27/7)
+- Administration and Management (Importance: 2.51/5 | Level: 2.38/7)
+- Computers and Electronics (Importance: 2.39/5 | Level: 2.24/7)
+- Personnel and Human Resources (Importance: 2.28/5 | Level: 1.51/7)
+- Transportation (Importance: 2.27/5 | Level: 1.91/7)
+- Customer and Personal Service (Importance: 2.22/5 | Level: 1.75/7)
+- Engineering and Technology (Importance: 2.19/5 | Level: 1.89/7)
+- Design (Importance: 2.12/5 | Level: 1.81/7)
+- Economics and Accounting (Importance: 2.02/5 | Level: 1.23/7)
+- Communications and Media (Importance: 1.96/5 | Level: 1.51/7)
+- Law and Government (Importance: 1.87/5 | Level: 1.53/7)
+- Sales and Marketing (Importance: 1.73/5 | Level: 1.09/7)
+- Psychology (Importance: 1.71/5 | Level: 1.13/7)
+- Chemistry (Importance: 1.69/5 | Level: 1.48/7)
+- Food Production (Importance: 1.68/5 | Level: 1.05/7)
+- Telecommunications (Importance: 1.67/5 | Level: 1.07/7)
+- Physics (Importance: 1.53/5 | Level: 1.11/7)
+- Building and Construction (Importance: 1.51/5 | Level: 0.87/7)
+- Medicine and Dentistry (Importance: 1.48/5 | Level: 0.75/7)
+- Philosophy and Theology (Importance: 1.45/5 | Level: 0.82/7)
+- Sociology and Anthropology (Importance: 1.43/5 | Level: 0.86/7)
+- Geography (Importance: 1.43/5 | Level: 0.8/7)
+- Therapy and Counseling (Importance: 1.42/5 | Level: 0.7/7)
+- Foreign Language (Importance: 1.31/5 | Level: 0.4/7)
+- Biology (Importance: 1.26/5 | Level: 0.41/7)
+- History and Archeology (Importance: 1.19/5 | Level: 0.43/7)
+- Fine Arts (Importance: 1.18/5 | Level: 0.27/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Operations Monitoring (Importance: 3.38/5 | Level: 3.38/7)
@@ -148,3 +184,25 @@ Feed materials into or remove materials from machines or equipment that is autom
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Cutting and Slicing Machine Setters, Operators, and Tenders
+- Adhesive Bonding Machine Operators and Tenders
+- Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders
+- Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders
+- Paper Goods Machine Setters, Operators, and Tenders
+- Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+- Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Packers and Packagers, Hand
+- Rolling Machine Setters, Operators, and Tenders, Metal and Plastic
+- Laborers and Freight, Stock, and Material Movers, Hand
+- Grinding and Polishing Workers, Hand
+- Packaging and Filling Machine Operators and Tenders
+- Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers
+- Textile Cutting Machine Setters, Operators, and Tenders
+- Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic
+- Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic
+- Cutters and Trimmers, Hand
+- Industrial Machinery Mechanics
+- Maintenance Workers, Machinery

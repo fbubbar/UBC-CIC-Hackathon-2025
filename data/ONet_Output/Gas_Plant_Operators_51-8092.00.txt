@@ -25,6 +25,42 @@ Distribute or process gas for utility companies and others by controlling compre
 - Operate construction equipment to install and maintain gas distribution systems.
 - Change charts in recording meters.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Public Safety and Security (Importance: 3.94/5 | Level: 4.42/7)
+- Mechanical (Importance: 3.75/5 | Level: 4.57/7)
+- English Language (Importance: 3.59/5 | Level: 3.86/7)
+- Computers and Electronics (Importance: 3.4/5 | Level: 3.94/7)
+- Mathematics (Importance: 3.17/5 | Level: 3.54/7)
+- Engineering and Technology (Importance: 3.14/5 | Level: 3.89/7)
+- Production and Processing (Importance: 3.13/5 | Level: 3.64/7)
+- Customer and Personal Service (Importance: 3.04/5 | Level: 3.53/7)
+- Administrative (Importance: 3.01/5 | Level: 3.46/7)
+- Education and Training (Importance: 2.84/5 | Level: 3.38/7)
+- Physics (Importance: 2.83/5 | Level: 3.35/7)
+- Law and Government (Importance: 2.77/5 | Level: 3.06/7)
+- Transportation (Importance: 2.75/5 | Level: 3.1/7)
+- Design (Importance: 2.68/5 | Level: 2.93/7)
+- Telecommunications (Importance: 2.67/5 | Level: 3.02/7)
+- Geography (Importance: 2.6/5 | Level: 2.87/7)
+- Administration and Management (Importance: 2.51/5 | Level: 2.24/7)
+- Personnel and Human Resources (Importance: 2.48/5 | Level: 2.29/7)
+- Building and Construction (Importance: 2.41/5 | Level: 2.45/7)
+- Chemistry (Importance: 2.38/5 | Level: 2.86/7)
+- Communications and Media (Importance: 2.38/5 | Level: 2.51/7)
+- Psychology (Importance: 2.19/5 | Level: 2.28/7)
+- Economics and Accounting (Importance: 2.06/5 | Level: 1.66/7)
+- Sociology and Anthropology (Importance: 1.64/5 | Level: 1.07/7)
+- Biology (Importance: 1.64/5 | Level: 1.1/7)
+- Sales and Marketing (Importance: 1.56/5 | Level: 1.2/7)
+- Therapy and Counseling (Importance: 1.52/5 | Level: 1.0/7)
+- Medicine and Dentistry (Importance: 1.45/5 | Level: 0.92/7)
+- Philosophy and Theology (Importance: 1.37/5 | Level: 0.55/7)
+- Foreign Language (Importance: 1.36/5 | Level: 0.54/7)
+- History and Archeology (Importance: 1.26/5 | Level: 0.38/7)
+- Fine Arts (Importance: 1.25/5 | Level: 0.36/7)
+- Food Production (Importance: 1.04/5 | Level: 0.09/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Operations Monitoring (Importance: 4.12/5 | Level: 4.38/7)
@@ -182,3 +218,25 @@ Distribute or process gas for utility companies and others by controlling compre
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Power Plant Operators
+- Petroleum Pump System Operators, Refinery Operators, and Gaugers
+- Gas Compressor and Gas Pumping Station Operators
+- Biomass Plant Technicians
+- Stationary Engineers and Boiler Operators
+- Chemical Plant and System Operators
+- Wellhead Pumpers
+- Hydroelectric Plant Technicians
+- Power Distributors and Dispatchers
+- Pump Operators, Except Wellhead Pumpers
+- Water and Wastewater Treatment Plant and System Operators
+- Geothermal Technicians
+- Biomass Power Plant Managers
+- Control and Valve Installers and Repairers, Except Mechanical Door
+- Biofuels Processing Technicians
+- Geothermal Production Managers
+- Chemical Equipment Operators and Tenders
+- Service Unit Operators, Oil and Gas
+- Wind Turbine Service Technicians
+- Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders

@@ -31,6 +31,42 @@ Design, develop, or supervise the production of materials, devices, or systems o
 - Design nanoparticle catalysts to detect or remove chemical or other pollutants from water, soil, or air.
 - Develop green building nanocoatings, such as self-cleaning, anti-stain, depolluting, anti-fogging, anti-icing, antimicrobial, moisture-resistant, or ultraviolet protectant coatings.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Engineering and Technology (Importance: 4.62/5 | Level: 5.81/7)
+- Physics (Importance: 4.6/5 | Level: 5.9/7)
+- Chemistry (Importance: 4.29/5 | Level: 5.76/7)
+- Mathematics (Importance: 4.14/5 | Level: 5.52/7)
+- Computers and Electronics (Importance: 3.81/5 | Level: 4.67/7)
+- English Language (Importance: 3.52/5 | Level: 4.24/7)
+- Education and Training (Importance: 3.43/5 | Level: 4.71/7)
+- Design (Importance: 3.38/5 | Level: 4.38/7)
+- Production and Processing (Importance: 3.38/5 | Level: 3.9/7)
+- Mechanical (Importance: 3.1/5 | Level: 4.24/7)
+- Administration and Management (Importance: 3.0/5 | Level: 3.86/7)
+- Biology (Importance: 2.85/5 | Level: 3.52/7)
+- Customer and Personal Service (Importance: 2.48/5 | Level: 2.33/7)
+- Administrative (Importance: 2.43/5 | Level: 3.29/7)
+- Public Safety and Security (Importance: 2.38/5 | Level: 2.71/7)
+- Personnel and Human Resources (Importance: 2.25/5 | Level: 2.57/7)
+- Communications and Media (Importance: 2.14/5 | Level: 2.1/7)
+- Economics and Accounting (Importance: 2.05/5 | Level: 2.0/7)
+- Sales and Marketing (Importance: 2.0/5 | Level: 1.86/7)
+- Medicine and Dentistry (Importance: 1.95/5 | Level: 2.0/7)
+- Telecommunications (Importance: 1.86/5 | Level: 1.52/7)
+- Building and Construction (Importance: 1.76/5 | Level: 1.52/7)
+- Law and Government (Importance: 1.65/5 | Level: 1.62/7)
+- Psychology (Importance: 1.62/5 | Level: 1.1/7)
+- Foreign Language (Importance: 1.48/5 | Level: 1.0/7)
+- Transportation (Importance: 1.29/5 | Level: 0.48/7)
+- Philosophy and Theology (Importance: 1.24/5 | Level: 0.67/7)
+- Sociology and Anthropology (Importance: 1.24/5 | Level: 0.62/7)
+- Food Production (Importance: 1.19/5 | Level: 0.52/7)
+- Geography (Importance: 1.19/5 | Level: 0.52/7)
+- History and Archeology (Importance: 1.14/5 | Level: 0.29/7)
+- Therapy and Counseling (Importance: 1.1/5 | Level: 0.29/7)
+- Fine Arts (Importance: 1.05/5 | Level: 0.1/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Speaking (Importance: 4.0/5 | Level: 4.25/7)
@@ -281,3 +317,25 @@ Design, develop, or supervise the production of materials, devices, or systems o
 - Primary Interest: Investigative
 - Secondary Interest: Realistic
 - Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Nanotechnology Engineering Technologists and Technicians
+- Materials Scientists
+- Microsystems Engineers
+- Bioengineers and Biomedical Engineers
+- Chemical Engineers
+- Biofuels/Biodiesel Technology and Product Development Managers
+- Materials Engineers
+- Photonics Technicians
+- Chemists
+- Photonics Engineers
+- Robotics Engineers
+- Manufacturing Engineers
+- Mechatronics Engineers
+- Industrial Engineering Technologists and Technicians
+- Bioinformatics Scientists
+- Biochemists and Biophysicists
+- Electronics Engineers, Except Computer
+- Fuel Cell Engineers
+- Molecular and Cellular Biologists
+- Nuclear Engineers

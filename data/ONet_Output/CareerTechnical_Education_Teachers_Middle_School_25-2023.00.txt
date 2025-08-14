@@ -37,6 +37,42 @@ Teach occupational, vocational, career, or technical subjects to students at the
 - Sponsor extracurricular activities, such as clubs, student organizations, and academic contests.
 - Perform administrative duties, such as school library assistance, hall and cafeteria monitoring, and bus loading and unloading.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- English Language (Importance: 4.46/5 | Level: 4.53/7)
+- Education and Training (Importance: 4.23/5 | Level: 4.57/7)
+- Psychology (Importance: 3.73/5 | Level: 4.07/7)
+- Computers and Electronics (Importance: 3.57/5 | Level: 4.22/7)
+- Administrative (Importance: 3.45/5 | Level: 4.06/7)
+- Administration and Management (Importance: 3.4/5 | Level: 3.27/7)
+- Customer and Personal Service (Importance: 3.23/5 | Level: 3.62/7)
+- Engineering and Technology (Importance: 3.12/5 | Level: 3.06/7)
+- Public Safety and Security (Importance: 3.11/5 | Level: 2.33/7)
+- Mathematics (Importance: 2.98/5 | Level: 3.44/7)
+- Design (Importance: 2.91/5 | Level: 3.44/7)
+- Sociology and Anthropology (Importance: 2.79/5 | Level: 3.24/7)
+- Communications and Media (Importance: 2.77/5 | Level: 2.89/7)
+- Law and Government (Importance: 2.7/5 | Level: 2.65/7)
+- Economics and Accounting (Importance: 2.68/5 | Level: 2.49/7)
+- Personnel and Human Resources (Importance: 2.63/5 | Level: 3.11/7)
+- Mechanical (Importance: 2.61/5 | Level: 2.85/7)
+- Building and Construction (Importance: 2.52/5 | Level: 2.42/7)
+- Production and Processing (Importance: 2.45/5 | Level: 2.39/7)
+- Therapy and Counseling (Importance: 2.44/5 | Level: 2.53/7)
+- History and Archeology (Importance: 2.41/5 | Level: 2.24/7)
+- Biology (Importance: 2.4/5 | Level: 2.2/7)
+- Transportation (Importance: 2.37/5 | Level: 1.78/7)
+- Food Production (Importance: 2.36/5 | Level: 1.74/7)
+- Telecommunications (Importance: 2.31/5 | Level: 1.35/7)
+- Philosophy and Theology (Importance: 2.23/5 | Level: 2.26/7)
+- Sales and Marketing (Importance: 2.17/5 | Level: 2.21/7)
+- Chemistry (Importance: 2.08/5 | Level: 2.52/7)
+- Foreign Language (Importance: 2.06/5 | Level: 1.63/7)
+- Geography (Importance: 2.03/5 | Level: 2.57/7)
+- Fine Arts (Importance: 1.8/5 | Level: 1.47/7)
+- Physics (Importance: 1.64/5 | Level: 1.46/7)
+- Medicine and Dentistry (Importance: 1.56/5 | Level: 0.83/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Speaking (Importance: 4.12/5 | Level: 4.0/7)
@@ -331,3 +367,25 @@ Teach occupational, vocational, career, or technical subjects to students at the
 - Primary Interest: Social
 - Secondary Interest: Unknown (0)
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Career/Technical Education Teachers, Secondary School
+- Special Education Teachers, Elementary School
+- Middle School Teachers, Except Special and Career/Technical Education
+- Secondary School Teachers, Except Special and Career/Technical Education
+- Career/Technical Education Teachers, Postsecondary
+- Elementary School Teachers, Except Special Education
+- Special Education Teachers, Secondary School
+- Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education
+- Instructional Coordinators
+- Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors
+- Teaching Assistants, Special Education
+- Teaching Assistants, Postsecondary
+- Special Education Teachers, Kindergarten
+- Tutors
+- Education Teachers, Postsecondary
+- Computer Science Teachers, Postsecondary
+- Special Education Teachers, Middle School
+- Family and Consumer Sciences Teachers, Postsecondary
+- Business Teachers, Postsecondary
+- Kindergarten Teachers, Except Special Education

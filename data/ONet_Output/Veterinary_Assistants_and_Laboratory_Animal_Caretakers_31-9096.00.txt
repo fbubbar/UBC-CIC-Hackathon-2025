@@ -34,6 +34,42 @@ Feed, water, and examine pets and other nonfarm animals for signs of illness, di
 - Administer anesthetics during surgery and monitor the effects on animals.
 - Groom, trim, or clip animals' coats.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.33/5 | Level: 4.64/7)
+- English Language (Importance: 3.83/5 | Level: 3.79/7)
+- Biology (Importance: 3.56/5 | Level: 3.63/7)
+- Administrative (Importance: 3.51/5 | Level: 4.08/7)
+- Medicine and Dentistry (Importance: 3.5/5 | Level: 3.76/7)
+- Computers and Electronics (Importance: 3.18/5 | Level: 4.03/7)
+- Mathematics (Importance: 2.87/5 | Level: 3.12/7)
+- Communications and Media (Importance: 2.63/5 | Level: 2.51/7)
+- Sales and Marketing (Importance: 2.6/5 | Level: 2.66/7)
+- Telecommunications (Importance: 2.58/5 | Level: 1.65/7)
+- Chemistry (Importance: 2.48/5 | Level: 2.76/7)
+- Administration and Management (Importance: 2.46/5 | Level: 2.35/7)
+- Education and Training (Importance: 2.38/5 | Level: 2.44/7)
+- Psychology (Importance: 2.35/5 | Level: 1.99/7)
+- Mechanical (Importance: 2.34/5 | Level: 2.05/7)
+- Public Safety and Security (Importance: 2.18/5 | Level: 1.94/7)
+- Therapy and Counseling (Importance: 2.18/5 | Level: 1.92/7)
+- Law and Government (Importance: 2.14/5 | Level: 1.73/7)
+- Production and Processing (Importance: 2.08/5 | Level: 1.69/7)
+- Personnel and Human Resources (Importance: 1.98/5 | Level: 1.61/7)
+- Economics and Accounting (Importance: 1.95/5 | Level: 1.62/7)
+- Geography (Importance: 1.9/5 | Level: 1.86/7)
+- Foreign Language (Importance: 1.8/5 | Level: 1.36/7)
+- Sociology and Anthropology (Importance: 1.74/5 | Level: 1.44/7)
+- Engineering and Technology (Importance: 1.67/5 | Level: 1.23/7)
+- Physics (Importance: 1.6/5 | Level: 1.14/7)
+- Food Production (Importance: 1.58/5 | Level: 1.01/7)
+- Philosophy and Theology (Importance: 1.5/5 | Level: 1.18/7)
+- Design (Importance: 1.47/5 | Level: 0.88/7)
+- Transportation (Importance: 1.47/5 | Level: 1.12/7)
+- History and Archeology (Importance: 1.37/5 | Level: 0.69/7)
+- Building and Construction (Importance: 1.37/5 | Level: 0.62/7)
+- Fine Arts (Importance: 1.27/5 | Level: 0.51/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Active Listening (Importance: 3.5/5 | Level: 3.25/7)
@@ -202,3 +238,25 @@ Feed, water, and examine pets and other nonfarm animals for signs of illness, di
 - Primary Interest: Realistic
 - Secondary Interest: Investigative
 - Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Veterinary Technologists and Technicians
+- Animal Caretakers
+- Medical Assistants
+- Paramedics
+- Surgical Assistants
+- Licensed Practical and Licensed Vocational Nurses
+- Phlebotomists
+- Nursing Assistants
+- Emergency Medical Technicians
+- Home Health Aides
+- Veterinarians
+- Emergency Medicine Physicians
+- Pharmacists
+- Allergists and Immunologists
+- Registered Nurses
+- Physician Assistants
+- Nurse Practitioners
+- Medical and Clinical Laboratory Technologists
+- Cardiovascular Technologists and Technicians
+- Medical and Clinical Laboratory Technicians

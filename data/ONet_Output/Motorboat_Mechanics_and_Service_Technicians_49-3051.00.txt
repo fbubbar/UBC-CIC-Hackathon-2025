@@ -19,6 +19,42 @@ Repair and adjust electrical and mechanical equipment of inboard or inboard-outb
 - Adjust generators and replace faulty wiring, using hand tools and soldering irons.
 - Repair or rework parts, using machine tools such as lathes, mills, drills, or grinders.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 4.79/5 | Level: 6.26/7)
+- Customer and Personal Service (Importance: 3.93/5 | Level: 4.42/7)
+- Computers and Electronics (Importance: 3.5/5 | Level: 3.84/7)
+- English Language (Importance: 3.49/5 | Level: 3.14/7)
+- Mathematics (Importance: 3.34/5 | Level: 3.42/7)
+- Engineering and Technology (Importance: 3.26/5 | Level: 3.8/7)
+- Transportation (Importance: 3.08/5 | Level: 3.34/7)
+- Administration and Management (Importance: 3.06/5 | Level: 3.05/7)
+- Physics (Importance: 3.03/5 | Level: 3.44/7)
+- Education and Training (Importance: 2.94/5 | Level: 3.33/7)
+- Administrative (Importance: 2.73/5 | Level: 2.76/7)
+- Design (Importance: 2.72/5 | Level: 3.16/7)
+- Public Safety and Security (Importance: 2.59/5 | Level: 2.36/7)
+- Chemistry (Importance: 2.52/5 | Level: 2.97/7)
+- Building and Construction (Importance: 2.46/5 | Level: 2.81/7)
+- Sales and Marketing (Importance: 2.43/5 | Level: 2.32/7)
+- Law and Government (Importance: 2.4/5 | Level: 2.04/7)
+- Production and Processing (Importance: 2.39/5 | Level: 2.6/7)
+- Economics and Accounting (Importance: 2.17/5 | Level: 1.45/7)
+- Personnel and Human Resources (Importance: 2.05/5 | Level: 1.7/7)
+- Telecommunications (Importance: 1.92/5 | Level: 1.56/7)
+- Psychology (Importance: 1.92/5 | Level: 1.72/7)
+- Geography (Importance: 1.92/5 | Level: 1.46/7)
+- Communications and Media (Importance: 1.92/5 | Level: 1.49/7)
+- Biology (Importance: 1.66/5 | Level: 1.18/7)
+- Sociology and Anthropology (Importance: 1.51/5 | Level: 0.97/7)
+- Therapy and Counseling (Importance: 1.25/5 | Level: 0.52/7)
+- Medicine and Dentistry (Importance: 1.19/5 | Level: 0.28/7)
+- History and Archeology (Importance: 1.19/5 | Level: 0.31/7)
+- Food Production (Importance: 1.19/5 | Level: 0.34/7)
+- Philosophy and Theology (Importance: 1.18/5 | Level: 0.34/7)
+- Foreign Language (Importance: 1.11/5 | Level: 0.18/7)
+- Fine Arts (Importance: 1.11/5 | Level: 0.17/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Repairing (Importance: 4.0/5 | Level: 4.0/7)
@@ -205,3 +241,25 @@ Repair and adjust electrical and mechanical equipment of inboard or inboard-outb
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Bus and Truck Mechanics and Diesel Engine Specialists
+- Motorcycle Mechanics
+- Electric Motor, Power Tool, and Related Repairers
+- Outdoor Power Equipment and Other Small Engine Mechanics
+- Automotive Service Technicians and Mechanics
+- Aircraft Mechanics and Service Technicians
+- Engine and Other Machine Assemblers
+- Mobile Heavy Equipment Mechanics, Except Engines
+- Control and Valve Installers and Repairers, Except Mechanical Door
+- Ship Engineers
+- Rail Car Repairers
+- Avionics Technicians
+- Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+- Riggers
+- Industrial Machinery Mechanics
+- Maintenance Workers, Machinery
+- Farm Equipment Mechanics and Service Technicians
+- Recreational Vehicle Service Technicians
+- Marine Engineers and Naval Architects
+- Electrical and Electronics Installers and Repairers, Transportation Equipment

@@ -25,6 +25,10 @@ Research, design, and develop computer and network software or specialized utili
 - Supervise the work of programmers, technologists and technicians and other engineering and scientific personnel.
 - Train users to use new or modified equipment.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- No specific knowledge areas listed.
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - No specific skills listed.
@@ -478,3 +482,25 @@ Research, design, and develop computer and network software or specialized utili
 - Primary Interest: Investigative
 - Secondary Interest: Conventional
 - Tertiary Interest: Realistic
+
+# RELATED OCCUPATIONS
+- Computer Systems Engineers/Architects
+- Computer Programmers
+- Computer Systems Analysts
+- Computer Hardware Engineers
+- Software Quality Assurance Analysts and Testers
+- Database Architects
+- Database Administrators
+- Computer Network Architects
+- Web Developers
+- Information Security Engineers
+- Electronics Engineers, Except Computer
+- Network and Computer Systems Administrators
+- Mechatronics Engineers
+- Web and Digital Interface Designers
+- Computer and Information Systems Managers
+- Computer User Support Specialists
+- Blockchain Engineers
+- Computer Network Support Specialists
+- Electrical and Electronic Engineering Technologists and Technicians
+- Mechanical Engineering Technologists and Technicians

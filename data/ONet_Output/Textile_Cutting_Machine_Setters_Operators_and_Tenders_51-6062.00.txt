@@ -24,6 +24,42 @@ Set up, operate, or tend machines that cut textiles.
 - Operate machines for test runs to verify adjustments and to obtain product samples.
 - Install, level, and align components, such as gears, chains, guides, dies, cutters, or needles, to set up machinery for operation.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Production and Processing (Importance: 3.28/5 | Level: 2.71/7)
+- Mathematics (Importance: 2.87/5 | Level: 2.8/7)
+- Mechanical (Importance: 2.82/5 | Level: 3.05/7)
+- English Language (Importance: 2.6/5 | Level: 1.7/7)
+- Design (Importance: 2.45/5 | Level: 2.03/7)
+- Education and Training (Importance: 2.22/5 | Level: 2.2/7)
+- Administration and Management (Importance: 2.21/5 | Level: 2.29/7)
+- Computers and Electronics (Importance: 2.07/5 | Level: 1.9/7)
+- Public Safety and Security (Importance: 2.03/5 | Level: 1.49/7)
+- Engineering and Technology (Importance: 2.02/5 | Level: 1.87/7)
+- Administrative (Importance: 1.93/5 | Level: 1.85/7)
+- Building and Construction (Importance: 1.9/5 | Level: 1.9/7)
+- Customer and Personal Service (Importance: 1.88/5 | Level: 1.13/7)
+- Psychology (Importance: 1.6/5 | Level: 1.02/7)
+- Physics (Importance: 1.57/5 | Level: 1.24/7)
+- Law and Government (Importance: 1.57/5 | Level: 0.95/7)
+- Economics and Accounting (Importance: 1.56/5 | Level: 0.63/7)
+- Sales and Marketing (Importance: 1.43/5 | Level: 0.57/7)
+- Foreign Language (Importance: 1.43/5 | Level: 0.37/7)
+- Chemistry (Importance: 1.41/5 | Level: 0.9/7)
+- Sociology and Anthropology (Importance: 1.38/5 | Level: 0.74/7)
+- Therapy and Counseling (Importance: 1.38/5 | Level: 0.73/7)
+- Transportation (Importance: 1.37/5 | Level: 0.74/7)
+- Personnel and Human Resources (Importance: 1.34/5 | Level: 0.51/7)
+- Philosophy and Theology (Importance: 1.27/5 | Level: 0.51/7)
+- Communications and Media (Importance: 1.26/5 | Level: 0.35/7)
+- Geography (Importance: 1.26/5 | Level: 0.53/7)
+- Medicine and Dentistry (Importance: 1.19/5 | Level: 0.29/7)
+- Telecommunications (Importance: 1.16/5 | Level: 0.35/7)
+- Food Production (Importance: 1.1/5 | Level: 0.25/7)
+- Biology (Importance: 1.1/5 | Level: 0.29/7)
+- History and Archeology (Importance: 1.01/5 | Level: 0.0/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Operations Monitoring (Importance: 3.75/5 | Level: 3.75/7)
@@ -157,3 +193,25 @@ Set up, operate, or tend machines that cut textiles.
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Cutting and Slicing Machine Setters, Operators, and Tenders
+- Paper Goods Machine Setters, Operators, and Tenders
+- Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+- Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic
+- Cutters and Trimmers, Hand
+- Adhesive Bonding Machine Operators and Tenders
+- Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Machine Feeders and Offbearers
+- Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic
+- Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Sawing Machine Setters, Operators, and Tenders, Wood
+- Tool Grinders, Filers, and Sharpeners
+- Shoe Machine Operators and Tenders
+- Grinding and Polishing Workers, Hand
+- Sewing Machine Operators
+- Rolling Machine Setters, Operators, and Tenders, Metal and Plastic
+- Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers
+- Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders
+- Industrial Machinery Mechanics

@@ -25,6 +25,42 @@ Raise, place, and unite iron or steel girders, columns, and other structural mem
 - Insert sealing strips, wiring, insulating material, ladders, flanges, gauges, or valves, depending on types of structures being assembled.
 - Place blocks under reinforcing bars used to reinforce floors.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Building and Construction (Importance: 4.58/5 | Level: 6.14/7)
+- Mechanical (Importance: 3.67/5 | Level: 3.8/7)
+- Mathematics (Importance: 3.48/5 | Level: 3.68/7)
+- Public Safety and Security (Importance: 3.31/5 | Level: 3.01/7)
+- Administration and Management (Importance: 3.01/5 | Level: 2.73/7)
+- English Language (Importance: 2.89/5 | Level: 2.88/7)
+- Customer and Personal Service (Importance: 2.87/5 | Level: 3.29/7)
+- Design (Importance: 2.83/5 | Level: 2.52/7)
+- Education and Training (Importance: 2.75/5 | Level: 2.82/7)
+- Transportation (Importance: 2.45/5 | Level: 2.18/7)
+- Engineering and Technology (Importance: 2.36/5 | Level: 3.1/7)
+- Personnel and Human Resources (Importance: 2.3/5 | Level: 2.09/7)
+- Physics (Importance: 2.29/5 | Level: 1.9/7)
+- Psychology (Importance: 2.06/5 | Level: 1.83/7)
+- Production and Processing (Importance: 1.97/5 | Level: 1.74/7)
+- Chemistry (Importance: 1.91/5 | Level: 1.54/7)
+- Administrative (Importance: 1.65/5 | Level: 1.04/7)
+- Communications and Media (Importance: 1.55/5 | Level: 0.87/7)
+- Medicine and Dentistry (Importance: 1.52/5 | Level: 0.67/7)
+- Sales and Marketing (Importance: 1.49/5 | Level: 0.79/7)
+- Therapy and Counseling (Importance: 1.39/5 | Level: 1.06/7)
+- Foreign Language (Importance: 1.39/5 | Level: 0.59/7)
+- Telecommunications (Importance: 1.37/5 | Level: 0.56/7)
+- Law and Government (Importance: 1.36/5 | Level: 0.55/7)
+- Computers and Electronics (Importance: 1.32/5 | Level: 0.58/7)
+- Sociology and Anthropology (Importance: 1.27/5 | Level: 0.49/7)
+- Economics and Accounting (Importance: 1.25/5 | Level: 0.43/7)
+- Geography (Importance: 1.19/5 | Level: 0.33/7)
+- Biology (Importance: 1.17/5 | Level: 0.35/7)
+- Philosophy and Theology (Importance: 1.14/5 | Level: 0.27/7)
+- History and Archeology (Importance: 1.0/5 | Level: 0.05/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Operation and Control (Importance: 3.62/5 | Level: 3.0/7)
@@ -217,3 +253,25 @@ Raise, place, and unite iron or steel girders, columns, and other structural mem
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Reinforcing Iron and Rebar Workers
+- Structural Metal Fabricators and Fitters
+- Sheet Metal Workers
+- Millwrights
+- Carpenters
+- Boilermakers
+- Drywall and Ceiling Tile Installers
+- Layout Workers, Metal and Plastic
+- Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+- Construction Laborers
+- Brickmasons and Blockmasons
+- Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+- Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders
+- Plumbers, Pipefitters, and Steamfitters
+- Riggers
+- Cement Masons and Concrete Finishers
+- Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters
+- Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters
+- Pipelayers
+- Maintenance and Repair Workers, General

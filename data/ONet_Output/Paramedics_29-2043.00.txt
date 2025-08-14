@@ -19,6 +19,10 @@ Administer basic or advanced emergency medical care and assess injuries and illn
 - Perform emergency invasive intervention before delivering patient to an acute care facility.
 - Perform emergency pharmacological interventions.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- No specific knowledge areas listed.
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - No specific skills listed.
@@ -157,3 +161,25 @@ Administer basic or advanced emergency medical care and assess injuries and illn
 - Primary Interest: Social
 - Secondary Interest: Realistic
 - Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Emergency Medical Technicians
+- Registered Nurses
+- Critical Care Nurses
+- Licensed Practical and Licensed Vocational Nurses
+- Acute Care Nurses
+- Surgical Assistants
+- Respiratory Therapists
+- Nursing Assistants
+- Medical Assistants
+- Ambulance Drivers and Attendants, Except Emergency Medical Technicians
+- Emergency Medicine Physicians
+- Anesthesiologists
+- Anesthesiologist Assistants
+- Nurse Anesthetists
+- Nurse Practitioners
+- Clinical Nurse Specialists
+- Family Medicine Physicians
+- Nurse Midwives
+- Physician Assistants
+- Psychiatric Technicians

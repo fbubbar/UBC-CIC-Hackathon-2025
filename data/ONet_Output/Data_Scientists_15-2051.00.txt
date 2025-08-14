@@ -22,6 +22,10 @@ Develop and implement a set of techniques or analytics applications to transform
 - Test, validate, and reformulate models to ensure accurate prediction of outcomes of interest.
 - Write new functions or applications in programming languages to conduct analyses.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- No specific knowledge areas listed.
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - No specific skills listed.
@@ -122,3 +126,25 @@ Develop and implement a set of techniques or analytics applications to transform
 - Primary Interest: Investigative
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Statisticians
+- Financial Quantitative Analysts
+- Statistical Assistants
+- Operations Research Analysts
+- Bioinformatics Technicians
+- Mathematicians
+- Bioinformatics Scientists
+- Biostatisticians
+- Computer and Information Research Scientists
+- Business Intelligence Analysts
+- Clinical Data Managers
+- Database Architects
+- Management Analysts
+- Geographic Information Systems Technologists and Technicians
+- Social Science Research Assistants
+- Computer Systems Analysts
+- Survey Researchers
+- Bioengineers and Biomedical Engineers
+- Data Warehousing Specialists
+- Market Research Analysts and Marketing Specialists

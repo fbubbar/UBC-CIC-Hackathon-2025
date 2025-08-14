@@ -34,6 +34,42 @@ Perform engineering duties in planning and designing tools, engines, machines, a
 - Establish or coordinate the maintenance or safety procedures, service schedule, or supply of materials required to maintain machines or equipment in the prescribed condition.
 - Solicit new business.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Design (Importance: 4.5/5 | Level: 6.04/7)
+- Engineering and Technology (Importance: 4.46/5 | Level: 5.65/7)
+- Production and Processing (Importance: 4.34/5 | Level: 4.49/7)
+- Mechanical (Importance: 4.23/5 | Level: 5.15/7)
+- English Language (Importance: 4.06/5 | Level: 3.9/7)
+- Mathematics (Importance: 3.88/5 | Level: 4.8/7)
+- Public Safety and Security (Importance: 3.73/5 | Level: 4.08/7)
+- Computers and Electronics (Importance: 3.63/5 | Level: 4.51/7)
+- Education and Training (Importance: 3.39/5 | Level: 3.84/7)
+- Physics (Importance: 3.38/5 | Level: 4.56/7)
+- Administrative (Importance: 3.22/5 | Level: 3.94/7)
+- Administration and Management (Importance: 3.21/5 | Level: 3.76/7)
+- Customer and Personal Service (Importance: 3.09/5 | Level: 3.17/7)
+- Building and Construction (Importance: 2.68/5 | Level: 2.78/7)
+- Personnel and Human Resources (Importance: 2.65/5 | Level: 2.82/7)
+- Chemistry (Importance: 2.63/5 | Level: 3.01/7)
+- Law and Government (Importance: 2.62/5 | Level: 2.6/7)
+- Sales and Marketing (Importance: 2.48/5 | Level: 2.35/7)
+- Economics and Accounting (Importance: 2.39/5 | Level: 2.25/7)
+- Communications and Media (Importance: 2.32/5 | Level: 2.29/7)
+- Telecommunications (Importance: 2.3/5 | Level: 2.24/7)
+- Transportation (Importance: 2.13/5 | Level: 2.36/7)
+- Psychology (Importance: 2.08/5 | Level: 1.94/7)
+- Biology (Importance: 1.85/5 | Level: 1.6/7)
+- Sociology and Anthropology (Importance: 1.83/5 | Level: 1.26/7)
+- Geography (Importance: 1.76/5 | Level: 1.48/7)
+- Foreign Language (Importance: 1.64/5 | Level: 1.44/7)
+- Medicine and Dentistry (Importance: 1.63/5 | Level: 1.04/7)
+- Philosophy and Theology (Importance: 1.5/5 | Level: 1.5/7)
+- Therapy and Counseling (Importance: 1.42/5 | Level: 1.0/7)
+- History and Archeology (Importance: 1.32/5 | Level: 0.48/7)
+- Fine Arts (Importance: 1.32/5 | Level: 0.65/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Critical Thinking (Importance: 3.88/5 | Level: 4.12/7)
@@ -306,3 +342,25 @@ Perform engineering duties in planning and designing tools, engines, machines, a
 - Primary Interest: Realistic
 - Secondary Interest: Investigative
 - Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Mechanical Engineering Technologists and Technicians
+- Electrical Engineers
+- Mechatronics Engineers
+- Electrical and Electronic Engineering Technologists and Technicians
+- Calibration Technologists and Technicians
+- Electronics Engineers, Except Computer
+- Aerospace Engineering and Operations Technologists and Technicians
+- Automotive Engineers
+- Industrial Engineers
+- Fuel Cell Engineers
+- Aerospace Engineers
+- Stationary Engineers and Boiler Operators
+- Industrial Engineering Technologists and Technicians
+- Industrial Machinery Mechanics
+- Manufacturing Engineers
+- Automotive Engineering Technicians
+- Robotics Technicians
+- Engine and Other Machine Assemblers
+- Electrical and Electronics Repairers, Commercial and Industrial Equipment
+- Heating, Air Conditioning, and Refrigeration Mechanics and Installers

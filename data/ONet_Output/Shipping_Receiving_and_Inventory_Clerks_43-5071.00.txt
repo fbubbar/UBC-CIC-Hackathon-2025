@@ -17,6 +17,42 @@ Verify and maintain records on incoming and outgoing shipments involving invento
 - Compute amounts, such as space available, shipping, storage, or demurrage charges, using computer or price list.
 - Compare shipping routes or methods to determine which have the least environmental impact.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Administrative (Importance: 3.44/5 | Level: 4.13/7)
+- Computers and Electronics (Importance: 3.14/5 | Level: 3.46/7)
+- Production and Processing (Importance: 3.08/5 | Level: 2.98/7)
+- Mathematics (Importance: 3.04/5 | Level: 2.72/7)
+- English Language (Importance: 3.03/5 | Level: 3.08/7)
+- Administration and Management (Importance: 2.99/5 | Level: 2.84/7)
+- Customer and Personal Service (Importance: 2.9/5 | Level: 3.08/7)
+- Education and Training (Importance: 2.89/5 | Level: 3.22/7)
+- Transportation (Importance: 2.84/5 | Level: 3.08/7)
+- Public Safety and Security (Importance: 2.7/5 | Level: 2.73/7)
+- Mechanical (Importance: 2.52/5 | Level: 2.33/7)
+- Economics and Accounting (Importance: 2.47/5 | Level: 2.67/7)
+- Telecommunications (Importance: 2.39/5 | Level: 1.66/7)
+- Personnel and Human Resources (Importance: 2.23/5 | Level: 2.23/7)
+- Engineering and Technology (Importance: 2.14/5 | Level: 2.05/7)
+- Sales and Marketing (Importance: 2.12/5 | Level: 1.84/7)
+- Communications and Media (Importance: 2.1/5 | Level: 2.21/7)
+- Psychology (Importance: 1.87/5 | Level: 2.03/7)
+- Geography (Importance: 1.8/5 | Level: 1.34/7)
+- Sociology and Anthropology (Importance: 1.75/5 | Level: 1.36/7)
+- Building and Construction (Importance: 1.68/5 | Level: 1.23/7)
+- Law and Government (Importance: 1.67/5 | Level: 1.24/7)
+- Design (Importance: 1.63/5 | Level: 1.23/7)
+- Therapy and Counseling (Importance: 1.61/5 | Level: 1.19/7)
+- Food Production (Importance: 1.59/5 | Level: 0.73/7)
+- Physics (Importance: 1.54/5 | Level: 0.85/7)
+- Foreign Language (Importance: 1.54/5 | Level: 0.74/7)
+- Chemistry (Importance: 1.49/5 | Level: 0.87/7)
+- Medicine and Dentistry (Importance: 1.48/5 | Level: 0.62/7)
+- Biology (Importance: 1.33/5 | Level: 0.56/7)
+- History and Archeology (Importance: 1.32/5 | Level: 0.53/7)
+- Fine Arts (Importance: 1.32/5 | Level: 0.62/7)
+- Philosophy and Theology (Importance: 1.31/5 | Level: 0.55/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Speaking (Importance: 3.25/5 | Level: 3.0/7)
@@ -187,3 +223,25 @@ Verify and maintain records on incoming and outgoing shipments involving invento
 - Primary Interest: Conventional
 - Secondary Interest: Realistic
 - Tertiary Interest: Enterprising
+
+# RELATED OCCUPATIONS
+- Postal Service Clerks
+- Cargo and Freight Agents
+- Stockers and Order Fillers
+- Postal Service Mail Sorters, Processors, and Processing Machine Operators
+- Laborers and Freight, Stock, and Material Movers, Hand
+- Weighers, Measurers, Checkers, and Samplers, Recordkeeping
+- Mail Clerks and Mail Machine Operators, Except Postal Service
+- Production, Planning, and Expediting Clerks
+- Freight Forwarders
+- Order Clerks
+- Procurement Clerks
+- Packers and Packagers, Hand
+- Logistics Analysts
+- Transportation, Storage, and Distribution Managers
+- Tank Car, Truck, and Ship Loaders
+- Postal Service Mail Carriers
+- Dispatchers, Except Police, Fire, and Ambulance
+- Couriers and Messengers
+- Packaging and Filling Machine Operators and Tenders
+- Machine Feeders and Offbearers

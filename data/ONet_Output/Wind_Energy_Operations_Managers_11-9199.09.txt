@@ -22,6 +22,42 @@ Manage wind field operations, including personnel, maintenance activities, finan
 - Manage warranty repair or replacement services.
 - Develop processes or procedures for wind operations, including transitioning from construction to commercial operations.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Administration and Management (Importance: 4.09/5 | Level: 5.05/7)
+- Mechanical (Importance: 3.92/5 | Level: 5.0/7)
+- Engineering and Technology (Importance: 3.63/5 | Level: 4.81/7)
+- Public Safety and Security (Importance: 3.5/5 | Level: 4.41/7)
+- Personnel and Human Resources (Importance: 3.48/5 | Level: 4.09/7)
+- Administrative (Importance: 3.32/5 | Level: 4.3/7)
+- Computers and Electronics (Importance: 3.22/5 | Level: 3.8/7)
+- Customer and Personal Service (Importance: 3.22/5 | Level: 3.67/7)
+- Mathematics (Importance: 3.18/5 | Level: 4.08/7)
+- Production and Processing (Importance: 3.1/5 | Level: 3.4/7)
+- Telecommunications (Importance: 3.03/5 | Level: 3.76/7)
+- English Language (Importance: 2.98/5 | Level: 3.36/7)
+- Economics and Accounting (Importance: 2.98/5 | Level: 3.37/7)
+- Physics (Importance: 2.93/5 | Level: 3.9/7)
+- Education and Training (Importance: 2.82/5 | Level: 3.77/7)
+- Design (Importance: 2.74/5 | Level: 3.48/7)
+- Law and Government (Importance: 2.73/5 | Level: 3.41/7)
+- Psychology (Importance: 2.55/5 | Level: 2.72/7)
+- Building and Construction (Importance: 2.42/5 | Level: 3.07/7)
+- Transportation (Importance: 2.3/5 | Level: 3.03/7)
+- Communications and Media (Importance: 2.27/5 | Level: 2.21/7)
+- Therapy and Counseling (Importance: 2.11/5 | Level: 2.07/7)
+- Geography (Importance: 2.01/5 | Level: 2.18/7)
+- Medicine and Dentistry (Importance: 2.0/5 | Level: 1.6/7)
+- Chemistry (Importance: 1.81/5 | Level: 2.24/7)
+- Biology (Importance: 1.63/5 | Level: 1.51/7)
+- History and Archeology (Importance: 1.6/5 | Level: 1.15/7)
+- Sales and Marketing (Importance: 1.6/5 | Level: 1.84/7)
+- Sociology and Anthropology (Importance: 1.57/5 | Level: 1.09/7)
+- Foreign Language (Importance: 1.38/5 | Level: 0.63/7)
+- Philosophy and Theology (Importance: 1.25/5 | Level: 0.55/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Active Listening (Importance: 4.0/5 | Level: 4.0/7)
@@ -181,3 +217,25 @@ Manage wind field operations, including personnel, maintenance activities, finan
 - Primary Interest: Enterprising
 - Secondary Interest: Conventional
 - Tertiary Interest: Realistic
+
+# RELATED OCCUPATIONS
+- Wind Energy Development Managers
+- Wind Turbine Service Technicians
+- Wind Energy Engineers
+- Hydroelectric Production Managers
+- Geothermal Production Managers
+- Biomass Power Plant Managers
+- Energy Engineers, Except Wind and Solar
+- Biofuels Production Managers
+- Solar Energy Systems Engineers
+- Solar Energy Installation Managers
+- Hydroelectric Plant Technicians
+- Power Plant Operators
+- Geothermal Technicians
+- Electrical Engineers
+- Power Distributors and Dispatchers
+- Biomass Plant Technicians
+- Industrial Production Managers
+- Construction Managers
+- Biofuels/Biodiesel Technology and Product Development Managers
+- Stationary Engineers and Boiler Operators

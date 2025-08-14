@@ -18,6 +18,42 @@ Maintain a sterile field to provide support for physicians and nurses during end
 - Position or transport patients in accordance with instructions from medical personnel.
 - Read current literature, talk with colleagues, or participate in professional organizations or conferences to keep abreast of developments in endoscopy.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- English Language (Importance: 3.85/5 | Level: 3.92/7)
+- Medicine and Dentistry (Importance: 3.46/5 | Level: 3.73/7)
+- Customer and Personal Service (Importance: 3.46/5 | Level: 4.04/7)
+- Education and Training (Importance: 3.38/5 | Level: 3.88/7)
+- Computers and Electronics (Importance: 3.31/5 | Level: 3.77/7)
+- Production and Processing (Importance: 3.0/5 | Level: 3.31/7)
+- Administration and Management (Importance: 2.96/5 | Level: 2.92/7)
+- Biology (Importance: 2.92/5 | Level: 3.04/7)
+- Public Safety and Security (Importance: 2.88/5 | Level: 2.84/7)
+- Administrative (Importance: 2.88/5 | Level: 3.32/7)
+- Mechanical (Importance: 2.65/5 | Level: 2.62/7)
+- Psychology (Importance: 2.65/5 | Level: 3.58/7)
+- Chemistry (Importance: 2.58/5 | Level: 3.15/7)
+- Personnel and Human Resources (Importance: 2.5/5 | Level: 2.35/7)
+- Engineering and Technology (Importance: 2.42/5 | Level: 2.54/7)
+- Telecommunications (Importance: 2.23/5 | Level: 1.62/7)
+- Mathematics (Importance: 2.19/5 | Level: 1.88/7)
+- Economics and Accounting (Importance: 2.15/5 | Level: 1.73/7)
+- Law and Government (Importance: 2.12/5 | Level: 1.77/7)
+- Communications and Media (Importance: 2.12/5 | Level: 1.62/7)
+- Sociology and Anthropology (Importance: 2.08/5 | Level: 2.0/7)
+- Therapy and Counseling (Importance: 2.08/5 | Level: 1.96/7)
+- Foreign Language (Importance: 2.04/5 | Level: 1.65/7)
+- Transportation (Importance: 2.0/5 | Level: 1.27/7)
+- Physics (Importance: 1.85/5 | Level: 1.65/7)
+- Philosophy and Theology (Importance: 1.73/5 | Level: 1.35/7)
+- Sales and Marketing (Importance: 1.73/5 | Level: 1.35/7)
+- Design (Importance: 1.69/5 | Level: 1.54/7)
+- Geography (Importance: 1.62/5 | Level: 1.04/7)
+- Building and Construction (Importance: 1.46/5 | Level: 0.73/7)
+- History and Archeology (Importance: 1.38/5 | Level: 0.65/7)
+- Food Production (Importance: 1.36/5 | Level: 0.64/7)
+- Fine Arts (Importance: 1.15/5 | Level: 0.31/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Reading Comprehension (Importance: 3.62/5 | Level: 4.0/7)
@@ -164,3 +200,25 @@ Maintain a sterile field to provide support for physicians and nurses during end
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Surgical Technologists
+- Cardiovascular Technologists and Technicians
+- Radiologic Technologists and Technicians
+- Surgical Assistants
+- Diagnostic Medical Sonographers
+- Medical Equipment Preparers
+- Neurodiagnostic Technologists
+- Ophthalmic Medical Technologists
+- Ophthalmic Medical Technicians
+- Medical and Clinical Laboratory Technicians
+- Pediatric Surgeons
+- Orthopedic Surgeons, Except Pediatric
+- Cardiologists
+- Anesthesiologist Assistants
+- Medical Assistants
+- Histotechnologists
+- Medical and Clinical Laboratory Technologists
+- Radiation Therapists
+- Respiratory Therapists
+- Ophthalmologists, Except Pediatric

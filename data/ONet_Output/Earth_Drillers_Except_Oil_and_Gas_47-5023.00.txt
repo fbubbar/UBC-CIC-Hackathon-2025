@@ -35,6 +35,42 @@ Operate a variety of drills such as rotary, churn, and pneumatic to tap subsurfa
 - Retract augers to force discharge dirt from holes.
 - Monitor drilling operations, by checking gauges and listening to equipment to assess drilling conditions and to determine the need to adjust drilling or alter equipment.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 3.5/5 | Level: 4.54/7)
+- Administration and Management (Importance: 3.32/5 | Level: 2.82/7)
+- Transportation (Importance: 3.31/5 | Level: 3.45/7)
+- Public Safety and Security (Importance: 3.3/5 | Level: 3.3/7)
+- Design (Importance: 3.08/5 | Level: 3.25/7)
+- Mathematics (Importance: 2.98/5 | Level: 3.12/7)
+- Production and Processing (Importance: 2.93/5 | Level: 2.85/7)
+- Law and Government (Importance: 2.83/5 | Level: 2.81/7)
+- Customer and Personal Service (Importance: 2.79/5 | Level: 2.44/7)
+- English Language (Importance: 2.77/5 | Level: 2.6/7)
+- Engineering and Technology (Importance: 2.76/5 | Level: 3.15/7)
+- Education and Training (Importance: 2.68/5 | Level: 2.61/7)
+- Administrative (Importance: 2.36/5 | Level: 2.03/7)
+- Physics (Importance: 2.26/5 | Level: 2.67/7)
+- Geography (Importance: 2.2/5 | Level: 1.95/7)
+- Psychology (Importance: 2.12/5 | Level: 1.97/7)
+- Chemistry (Importance: 2.07/5 | Level: 2.2/7)
+- Telecommunications (Importance: 2.01/5 | Level: 1.5/7)
+- Building and Construction (Importance: 1.99/5 | Level: 2.06/7)
+- Biology (Importance: 1.84/5 | Level: 1.4/7)
+- Medicine and Dentistry (Importance: 1.8/5 | Level: 1.4/7)
+- Economics and Accounting (Importance: 1.75/5 | Level: 0.36/7)
+- Communications and Media (Importance: 1.66/5 | Level: 1.15/7)
+- Personnel and Human Resources (Importance: 1.64/5 | Level: 1.07/7)
+- Sales and Marketing (Importance: 1.6/5 | Level: 0.55/7)
+- Computers and Electronics (Importance: 1.48/5 | Level: 1.22/7)
+- Therapy and Counseling (Importance: 1.44/5 | Level: 0.87/7)
+- Sociology and Anthropology (Importance: 1.41/5 | Level: 0.6/7)
+- Foreign Language (Importance: 1.39/5 | Level: 0.61/7)
+- Philosophy and Theology (Importance: 1.3/5 | Level: 0.51/7)
+- History and Archeology (Importance: 1.3/5 | Level: 0.51/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Operations Monitoring (Importance: 4.0/5 | Level: 4.0/7)
@@ -187,3 +223,25 @@ Operate a variety of drills such as rotary, churn, and pneumatic to tap subsurfa
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Rotary Drill Operators, Oil and Gas
+- Helpers--Extraction Workers
+- Continuous Mining Machine Operators
+- Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Excavating and Loading Machine and Dragline Operators, Surface Mining
+- Operating Engineers and Other Construction Equipment Operators
+- Explosives Workers, Ordnance Handling Experts, and Blasters
+- Roustabouts, Oil and Gas
+- Construction Laborers
+- Service Unit Operators, Oil and Gas
+- Maintenance Workers, Machinery
+- Hoist and Winch Operators
+- Pile Driver Operators
+- Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+- Tool Grinders, Filers, and Sharpeners
+- Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders
+- Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic
+- Rail-Track Laying and Maintenance Equipment Operators
+- Paving, Surfacing, and Tamping Equipment Operators
+- Grinding and Polishing Workers, Hand

@@ -22,6 +22,42 @@ Plan, develop, or conduct surveys. May analyze and interpret the meaning of surv
 - Collaborate with other researchers in the planning, implementation, and evaluation of surveys.
 - Hire and train recruiters and data collectors.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- English Language (Importance: 4.38/5 | Level: 4.62/7)
+- Mathematics (Importance: 4.33/5 | Level: 4.96/7)
+- Customer and Personal Service (Importance: 3.46/5 | Level: 4.04/7)
+- Administration and Management (Importance: 3.38/5 | Level: 4.12/7)
+- Computers and Electronics (Importance: 3.33/5 | Level: 4.12/7)
+- Sociology and Anthropology (Importance: 3.25/5 | Level: 4.08/7)
+- Communications and Media (Importance: 3.04/5 | Level: 3.04/7)
+- Psychology (Importance: 2.96/5 | Level: 3.17/7)
+- Administrative (Importance: 2.88/5 | Level: 3.88/7)
+- Sales and Marketing (Importance: 2.83/5 | Level: 3.67/7)
+- Education and Training (Importance: 2.78/5 | Level: 3.88/7)
+- Personnel and Human Resources (Importance: 2.59/5 | Level: 3.29/7)
+- Law and Government (Importance: 2.58/5 | Level: 2.79/7)
+- Geography (Importance: 2.38/5 | Level: 3.29/7)
+- Economics and Accounting (Importance: 2.25/5 | Level: 2.29/7)
+- Production and Processing (Importance: 2.12/5 | Level: 1.92/7)
+- Telecommunications (Importance: 2.0/5 | Level: 1.75/7)
+- Philosophy and Theology (Importance: 1.96/5 | Level: 1.92/7)
+- History and Archeology (Importance: 1.88/5 | Level: 1.67/7)
+- Design (Importance: 1.75/5 | Level: 1.42/7)
+- Foreign Language (Importance: 1.61/5 | Level: 1.13/7)
+- Public Safety and Security (Importance: 1.61/5 | Level: 1.0/7)
+- Engineering and Technology (Importance: 1.46/5 | Level: 0.79/7)
+- Transportation (Importance: 1.29/5 | Level: 0.62/7)
+- Medicine and Dentistry (Importance: 1.21/5 | Level: 0.29/7)
+- Fine Arts (Importance: 1.17/5 | Level: 0.17/7)
+- Therapy and Counseling (Importance: 1.17/5 | Level: 0.54/7)
+- Physics (Importance: 1.08/5 | Level: 0.21/7)
+- Biology (Importance: 1.08/5 | Level: 0.08/7)
+- Mechanical (Importance: 1.04/5 | Level: 0.08/7)
+- Chemistry (Importance: 1.0/5 | Level: 0.0/7)
+- Building and Construction (Importance: 1.0/5 | Level: 0.0/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Critical Thinking (Importance: 4.12/5 | Level: 4.25/7)
@@ -230,3 +266,25 @@ Plan, develop, or conduct surveys. May analyze and interpret the meaning of surv
 - Primary Interest: Investigative
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Data Scientists
+- Social Science Research Assistants
+- Statistical Assistants
+- Management Analysts
+- Statisticians
+- Sociologists
+- Market Research Analysts and Marketing Specialists
+- Business Intelligence Analysts
+- Biostatisticians
+- Industrial-Organizational Psychologists
+- Interviewers, Except Eligibility and Loan
+- Clinical Data Managers
+- Health Information Technologists and Medical Registrars
+- Operations Research Analysts
+- Clinical Research Coordinators
+- Eligibility Interviewers, Government Programs
+- Instructional Coordinators
+- Intelligence Analysts
+- Geodetic Surveyors
+- Financial Quantitative Analysts

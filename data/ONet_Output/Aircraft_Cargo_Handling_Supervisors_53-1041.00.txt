@@ -12,6 +12,42 @@ Supervise and coordinate the activities of ground crew in the loading, unloading
 - Calculate load weights for different aircraft compartments, using charts and computers.
 - Accompany aircraft as a member of the flight crew to monitor and handle cargo in flight.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.65/5 | Level: 5.62/7)
+- Public Safety and Security (Importance: 4.4/5 | Level: 4.88/7)
+- Transportation (Importance: 4.31/5 | Level: 4.36/7)
+- English Language (Importance: 4.29/5 | Level: 4.36/7)
+- Administration and Management (Importance: 3.76/5 | Level: 4.32/7)
+- Administrative (Importance: 3.72/5 | Level: 4.26/7)
+- Personnel and Human Resources (Importance: 3.49/5 | Level: 3.84/7)
+- Mathematics (Importance: 3.45/5 | Level: 3.94/7)
+- Education and Training (Importance: 3.43/5 | Level: 4.44/7)
+- Computers and Electronics (Importance: 3.42/5 | Level: 4.03/7)
+- Telecommunications (Importance: 3.4/5 | Level: 3.11/7)
+- Production and Processing (Importance: 3.19/5 | Level: 3.53/7)
+- Geography (Importance: 3.17/5 | Level: 3.52/7)
+- Law and Government (Importance: 2.9/5 | Level: 3.23/7)
+- Psychology (Importance: 2.8/5 | Level: 3.23/7)
+- Communications and Media (Importance: 2.71/5 | Level: 2.58/7)
+- Economics and Accounting (Importance: 2.52/5 | Level: 2.16/7)
+- Mechanical (Importance: 2.36/5 | Level: 2.55/7)
+- Physics (Importance: 2.27/5 | Level: 2.1/7)
+- Foreign Language (Importance: 2.21/5 | Level: 2.18/7)
+- Engineering and Technology (Importance: 2.17/5 | Level: 2.52/7)
+- Sales and Marketing (Importance: 2.17/5 | Level: 1.92/7)
+- Chemistry (Importance: 2.02/5 | Level: 1.54/7)
+- Therapy and Counseling (Importance: 1.99/5 | Level: 1.75/7)
+- Biology (Importance: 1.9/5 | Level: 1.22/7)
+- Food Production (Importance: 1.76/5 | Level: 1.18/7)
+- Design (Importance: 1.73/5 | Level: 1.24/7)
+- Building and Construction (Importance: 1.63/5 | Level: 0.94/7)
+- Medicine and Dentistry (Importance: 1.63/5 | Level: 1.18/7)
+- Sociology and Anthropology (Importance: 1.55/5 | Level: 0.91/7)
+- History and Archeology (Importance: 1.4/5 | Level: 0.74/7)
+- Fine Arts (Importance: 1.26/5 | Level: 0.42/7)
+- Philosophy and Theology (Importance: 1.26/5 | Level: 0.2/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Critical Thinking (Importance: 3.75/5 | Level: 3.5/7)
@@ -148,3 +184,25 @@ Supervise and coordinate the activities of ground crew in the loading, unloading
 - Primary Interest: Enterprising
 - Secondary Interest: Conventional
 - Tertiary Interest: Realistic
+
+# RELATED OCCUPATIONS
+- First-Line Supervisors of Material-Moving Machine and Vehicle Operators
+- Airfield Operations Specialists
+- First-Line Supervisors of Passenger Attendants
+- First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand
+- Transportation Inspectors
+- Transportation, Storage, and Distribution Managers
+- Dispatchers, Except Police, Fire, and Ambulance
+- Industrial Truck and Tractor Operators
+- Cargo and Freight Agents
+- First-Line Supervisors of Production and Operating Workers
+- Commercial Pilots
+- Railroad Conductors and Yardmasters
+- Air Traffic Controllers
+- First-Line Supervisors of Mechanics, Installers, and Repairers
+- Aircraft Service Attendants
+- Laborers and Freight, Stock, and Material Movers, Hand
+- First-Line Supervisors of Construction Trades and Extraction Workers
+- Freight Forwarders
+- Tank Car, Truck, and Ship Loaders
+- First-Line Supervisors of Farming, Fishing, and Forestry Workers

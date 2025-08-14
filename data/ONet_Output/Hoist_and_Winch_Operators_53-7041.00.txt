@@ -19,6 +19,42 @@ Operate or tend hoists or winches to lift and pull loads using power-operated ca
 - Repair, maintain, and adjust equipment, using hand tools.
 - Tend auxiliary equipment, such as jacks, slings, cables, or stop blocks, to facilitate moving items or materials for further processing.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 3.09/5 | Level: 4.02/7)
+- Customer and Personal Service (Importance: 2.88/5 | Level: 3.12/7)
+- English Language (Importance: 2.63/5 | Level: 1.83/7)
+- Public Safety and Security (Importance: 2.61/5 | Level: 3.1/7)
+- Transportation (Importance: 2.57/5 | Level: 2.57/7)
+- Administration and Management (Importance: 2.49/5 | Level: 2.71/7)
+- Engineering and Technology (Importance: 2.47/5 | Level: 2.39/7)
+- Education and Training (Importance: 2.46/5 | Level: 2.16/7)
+- Mathematics (Importance: 2.26/5 | Level: 2.23/7)
+- Production and Processing (Importance: 2.13/5 | Level: 2.42/7)
+- Physics (Importance: 2.12/5 | Level: 2.19/7)
+- Design (Importance: 2.0/5 | Level: 2.31/7)
+- Building and Construction (Importance: 1.95/5 | Level: 1.42/7)
+- Personnel and Human Resources (Importance: 1.69/5 | Level: 1.14/7)
+- Computers and Electronics (Importance: 1.64/5 | Level: 1.27/7)
+- Telecommunications (Importance: 1.6/5 | Level: 0.63/7)
+- Chemistry (Importance: 1.58/5 | Level: 0.84/7)
+- Law and Government (Importance: 1.37/5 | Level: 0.72/7)
+- Medicine and Dentistry (Importance: 1.35/5 | Level: 0.57/7)
+- Sales and Marketing (Importance: 1.27/5 | Level: 0.33/7)
+- Administrative (Importance: 1.27/5 | Level: 0.41/7)
+- Therapy and Counseling (Importance: 1.26/5 | Level: 0.46/7)
+- Communications and Media (Importance: 1.17/5 | Level: 0.25/7)
+- Economics and Accounting (Importance: 1.16/5 | Level: 0.31/7)
+- Psychology (Importance: 1.16/5 | Level: 0.29/7)
+- Geography (Importance: 1.15/5 | Level: 0.3/7)
+- Sociology and Anthropology (Importance: 1.13/5 | Level: 0.29/7)
+- Biology (Importance: 1.11/5 | Level: 0.23/7)
+- Foreign Language (Importance: 1.11/5 | Level: 0.18/7)
+- History and Archeology (Importance: 1.09/5 | Level: 0.15/7)
+- Food Production (Importance: 1.08/5 | Level: 0.19/7)
+- Philosophy and Theology (Importance: 1.06/5 | Level: 0.12/7)
+- Fine Arts (Importance: 1.06/5 | Level: 0.09/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Critical Thinking (Importance: 3.75/5 | Level: 2.62/7)
@@ -147,3 +183,25 @@ Operate or tend hoists or winches to lift and pull loads using power-operated ca
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Riggers
+- Industrial Truck and Tractor Operators
+- Crane and Tower Operators
+- Operating Engineers and Other Construction Equipment Operators
+- Excavating and Loading Machine and Dragline Operators, Surface Mining
+- Mobile Heavy Equipment Mechanics, Except Engines
+- Laborers and Freight, Stock, and Material Movers, Hand
+- Pile Driver Operators
+- Roustabouts, Oil and Gas
+- Maintenance Workers, Machinery
+- Loading and Moving Machine Operators, Underground Mining
+- Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+- Conveyor Operators and Tenders
+- Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Construction Laborers
+- Industrial Machinery Mechanics
+- Dredge Operators
+- Millwrights
+- Electrical Power-Line Installers and Repairers
+- Tank Car, Truck, and Ship Loaders

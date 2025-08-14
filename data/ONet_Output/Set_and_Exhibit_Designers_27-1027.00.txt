@@ -33,6 +33,42 @@ Design special exhibits and sets for film, video, television, and theater produc
 - Coordinate the removal of sets, props, and exhibits after productions or events are complete.
 - Provide supportive materials for exhibits and displays, such as press kits, advertising, publicity notices, posters, brochures, catalogues, and invitations.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Fine Arts (Importance: 4.95/5 | Level: 6.57/7)
+- Design (Importance: 4.9/5 | Level: 5.76/7)
+- Computers and Electronics (Importance: 3.81/5 | Level: 4.67/7)
+- Building and Construction (Importance: 3.52/5 | Level: 4.29/7)
+- History and Archeology (Importance: 3.43/5 | Level: 4.24/7)
+- English Language (Importance: 3.24/5 | Level: 3.62/7)
+- Communications and Media (Importance: 3.14/5 | Level: 3.33/7)
+- Mathematics (Importance: 3.05/5 | Level: 3.19/7)
+- Production and Processing (Importance: 3.05/5 | Level: 3.43/7)
+- Administration and Management (Importance: 3.0/5 | Level: 3.57/7)
+- Engineering and Technology (Importance: 2.95/5 | Level: 3.48/7)
+- Mechanical (Importance: 2.9/5 | Level: 3.38/7)
+- Sociology and Anthropology (Importance: 2.81/5 | Level: 3.05/7)
+- Psychology (Importance: 2.76/5 | Level: 2.76/7)
+- Education and Training (Importance: 2.62/5 | Level: 3.48/7)
+- Customer and Personal Service (Importance: 2.48/5 | Level: 2.71/7)
+- Physics (Importance: 2.43/5 | Level: 2.62/7)
+- Philosophy and Theology (Importance: 2.43/5 | Level: 3.0/7)
+- Geography (Importance: 2.24/5 | Level: 2.76/7)
+- Economics and Accounting (Importance: 2.24/5 | Level: 1.57/7)
+- Administrative (Importance: 2.19/5 | Level: 2.19/7)
+- Public Safety and Security (Importance: 2.19/5 | Level: 2.33/7)
+- Personnel and Human Resources (Importance: 2.11/5 | Level: 2.3/7)
+- Sales and Marketing (Importance: 2.1/5 | Level: 2.1/7)
+- Telecommunications (Importance: 1.9/5 | Level: 1.52/7)
+- Foreign Language (Importance: 1.71/5 | Level: 1.33/7)
+- Chemistry (Importance: 1.67/5 | Level: 1.81/7)
+- Transportation (Importance: 1.67/5 | Level: 1.57/7)
+- Law and Government (Importance: 1.52/5 | Level: 1.24/7)
+- Therapy and Counseling (Importance: 1.33/5 | Level: 0.71/7)
+- Medicine and Dentistry (Importance: 1.29/5 | Level: 0.52/7)
+- Biology (Importance: 1.19/5 | Level: 0.33/7)
+- Food Production (Importance: 1.1/5 | Level: 0.25/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Reading Comprehension (Importance: 3.88/5 | Level: 4.0/7)
@@ -187,3 +223,25 @@ Design special exhibits and sets for film, video, television, and theater produc
 - Primary Interest: Artistic
 - Secondary Interest: Unknown (0)
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Interior Designers
+- Fine Artists, Including Painters, Sculptors, and Illustrators
+- Graphic Designers
+- Commercial and Industrial Designers
+- Craft Artists
+- Art Directors
+- Fashion Designers
+- Museum Technicians and Conservators
+- Merchandise Displayers and Window Trimmers
+- Architects, Except Landscape and Naval
+- Landscape Architects
+- Costume Attendants
+- Special Effects Artists and Animators
+- Fabric and Apparel Patternmakers
+- Curators
+- Model Makers, Wood
+- Layout Workers, Metal and Plastic
+- Architecture Teachers, Postsecondary
+- Video Game Designers
+- Architectural and Civil Drafters

@@ -21,6 +21,10 @@ Diagnose and perform surgery to treat and prevent rheumatic and other diseases i
 - Provide consultation and surgical assistance to other physicians and surgeons.
 - Refer patient to medical specialist or other practitioners when necessary.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- No specific knowledge areas listed.
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - No specific skills listed.
@@ -235,3 +239,25 @@ Diagnose and perform surgery to treat and prevent rheumatic and other diseases i
 - Primary Interest: Investigative
 - Secondary Interest: Realistic
 - Tertiary Interest: Social
+
+# RELATED OCCUPATIONS
+- Pediatric Surgeons
+- Ophthalmologists, Except Pediatric
+- Anesthesiologists
+- Urologists
+- Oral and Maxillofacial Surgeons
+- Dermatologists
+- Physical Medicine and Rehabilitation Physicians
+- Neurologists
+- Podiatrists
+- General Internal Medicine Physicians
+- Emergency Medicine Physicians
+- Cardiologists
+- Medical Assistants
+- Chiropractors
+- Obstetricians and Gynecologists
+- Anesthesiologist Assistants
+- Radiologists
+- Pediatricians, General
+- Family Medicine Physicians
+- Physician Assistants

@@ -26,6 +26,42 @@ Assist faculty or other instructional staff in postsecondary institutions by per
 - Provide instructors with assistance in the use of audiovisual equipment.
 - Assist faculty members or staff with student conferences.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- English Language (Importance: 4.68/5 | Level: 5.5/7)
+- Education and Training (Importance: 4.45/5 | Level: 5.15/7)
+- Computers and Electronics (Importance: 3.52/5 | Level: 3.88/7)
+- Mathematics (Importance: 3.27/5 | Level: 3.71/7)
+- Communications and Media (Importance: 2.91/5 | Level: 2.89/7)
+- Psychology (Importance: 2.65/5 | Level: 2.93/7)
+- Administrative (Importance: 2.64/5 | Level: 2.85/7)
+- Sociology and Anthropology (Importance: 2.48/5 | Level: 2.33/7)
+- Customer and Personal Service (Importance: 2.38/5 | Level: 2.48/7)
+- Biology (Importance: 2.37/5 | Level: 2.05/7)
+- Administration and Management (Importance: 2.29/5 | Level: 1.79/7)
+- History and Archeology (Importance: 2.29/5 | Level: 2.31/7)
+- Public Safety and Security (Importance: 2.24/5 | Level: 1.37/7)
+- Philosophy and Theology (Importance: 2.2/5 | Level: 2.57/7)
+- Fine Arts (Importance: 2.17/5 | Level: 1.78/7)
+- Design (Importance: 2.16/5 | Level: 2.08/7)
+- Geography (Importance: 2.15/5 | Level: 2.65/7)
+- Chemistry (Importance: 2.02/5 | Level: 1.79/7)
+- Physics (Importance: 1.93/5 | Level: 1.57/7)
+- Engineering and Technology (Importance: 1.85/5 | Level: 1.42/7)
+- Personnel and Human Resources (Importance: 1.77/5 | Level: 1.11/7)
+- Therapy and Counseling (Importance: 1.75/5 | Level: 1.62/7)
+- Medicine and Dentistry (Importance: 1.66/5 | Level: 0.96/7)
+- Production and Processing (Importance: 1.64/5 | Level: 0.82/7)
+- Foreign Language (Importance: 1.63/5 | Level: 1.26/7)
+- Transportation (Importance: 1.61/5 | Level: 0.97/7)
+- Telecommunications (Importance: 1.57/5 | Level: 0.57/7)
+- Mechanical (Importance: 1.51/5 | Level: 1.04/7)
+- Law and Government (Importance: 1.41/5 | Level: 0.67/7)
+- Sales and Marketing (Importance: 1.38/5 | Level: 0.5/7)
+- Building and Construction (Importance: 1.35/5 | Level: 0.52/7)
+- Economics and Accounting (Importance: 1.3/5 | Level: 0.45/7)
+- Food Production (Importance: 1.14/5 | Level: 0.21/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Reading Comprehension (Importance: 3.88/5 | Level: 4.25/7)
@@ -185,3 +221,25 @@ Assist faculty or other instructional staff in postsecondary institutions by per
 - Primary Interest: Social
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Tutors
+- Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education
+- Secondary School Teachers, Except Special and Career/Technical Education
+- Middle School Teachers, Except Special and Career/Technical Education
+- Elementary School Teachers, Except Special Education
+- Career/Technical Education Teachers, Middle School
+- Education Teachers, Postsecondary
+- Instructional Coordinators
+- Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors
+- Teaching Assistants, Special Education
+- Special Education Teachers, Elementary School
+- Mathematical Science Teachers, Postsecondary
+- Special Education Teachers, Secondary School
+- Sociology Teachers, Postsecondary
+- Psychology Teachers, Postsecondary
+- Library Science Teachers, Postsecondary
+- Special Education Teachers, Kindergarten
+- Biological Science Teachers, Postsecondary
+- Special Education Teachers, Middle School
+- Anthropology and Archeology Teachers, Postsecondary

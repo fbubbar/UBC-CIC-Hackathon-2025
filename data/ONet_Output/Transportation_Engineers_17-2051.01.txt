@@ -32,6 +32,42 @@ Develop plans for surface transportation projects, according to established engi
 - Develop or assist in the development of transportation-related computer software or computer processes.
 - Develop plans to deconstruct damaged or obsolete roadways or other transportation structures in a manner that is environmentally sound or prepares the land for sustainable development.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Engineering and Technology (Importance: 4.9/5 | Level: 6.45/7)
+- Design (Importance: 4.77/5 | Level: 6.14/7)
+- Transportation (Importance: 4.55/5 | Level: 5.14/7)
+- Building and Construction (Importance: 4.23/5 | Level: 5.05/7)
+- Mathematics (Importance: 4.18/5 | Level: 5.05/7)
+- English Language (Importance: 3.73/5 | Level: 3.86/7)
+- Physics (Importance: 3.68/5 | Level: 4.45/7)
+- Administration and Management (Importance: 3.5/5 | Level: 4.45/7)
+- Customer and Personal Service (Importance: 3.5/5 | Level: 4.41/7)
+- Computers and Electronics (Importance: 3.45/5 | Level: 4.55/7)
+- Law and Government (Importance: 3.38/5 | Level: 4.0/7)
+- Public Safety and Security (Importance: 3.32/5 | Level: 3.68/7)
+- Education and Training (Importance: 3.0/5 | Level: 4.27/7)
+- Communications and Media (Importance: 2.86/5 | Level: 2.95/7)
+- Geography (Importance: 2.77/5 | Level: 3.86/7)
+- Economics and Accounting (Importance: 2.68/5 | Level: 2.95/7)
+- Production and Processing (Importance: 2.68/5 | Level: 3.18/7)
+- Administrative (Importance: 2.55/5 | Level: 3.41/7)
+- Mechanical (Importance: 2.5/5 | Level: 3.14/7)
+- Sales and Marketing (Importance: 2.45/5 | Level: 3.0/7)
+- Chemistry (Importance: 2.29/5 | Level: 2.82/7)
+- Personnel and Human Resources (Importance: 2.24/5 | Level: 2.91/7)
+- Psychology (Importance: 2.18/5 | Level: 2.32/7)
+- Telecommunications (Importance: 2.05/5 | Level: 1.82/7)
+- Biology (Importance: 1.91/5 | Level: 2.0/7)
+- History and Archeology (Importance: 1.82/5 | Level: 2.23/7)
+- Sociology and Anthropology (Importance: 1.77/5 | Level: 1.68/7)
+- Philosophy and Theology (Importance: 1.5/5 | Level: 0.91/7)
+- Therapy and Counseling (Importance: 1.32/5 | Level: 0.82/7)
+- Foreign Language (Importance: 1.18/5 | Level: 0.32/7)
+- Medicine and Dentistry (Importance: 1.14/5 | Level: 0.27/7)
+- Fine Arts (Importance: 1.09/5 | Level: 0.14/7)
+- Food Production (Importance: 1.09/5 | Level: 0.27/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Writing (Importance: 4.0/5 | Level: 4.12/7)
@@ -176,3 +212,25 @@ Develop plans for surface transportation projects, according to established engi
 - Primary Interest: Realistic
 - Secondary Interest: Investigative
 - Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Civil Engineers
+- Transportation Planners
+- Civil Engineering Technologists and Technicians
+- Traffic Technicians
+- Highway Maintenance Workers
+- Construction Managers
+- Construction and Building Inspectors
+- Environmental Engineers
+- Water/Wastewater Engineers
+- Industrial Engineers
+- Logistics Engineers
+- Transportation, Storage, and Distribution Managers
+- Aerospace Engineers
+- Facilities Managers
+- Mining and Geological Engineers, Including Mining Safety Engineers
+- Solar Energy Installation Managers
+- Architectural and Civil Drafters
+- Architectural and Engineering Managers
+- Architects, Except Landscape and Naval
+- Wind Energy Engineers

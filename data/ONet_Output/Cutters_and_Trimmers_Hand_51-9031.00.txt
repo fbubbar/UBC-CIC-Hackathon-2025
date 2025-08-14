@@ -24,6 +24,42 @@ Use hand tools or hand-held power tools to cut and trim a variety of manufacture
 - Route items to provide cutouts for parts, using portable routers, grinders, and hand tools.
 - Transport items to work or storage areas, using carts.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Production and Processing (Importance: 3.25/5 | Level: 2.76/7)
+- Mathematics (Importance: 2.42/5 | Level: 1.81/7)
+- English Language (Importance: 2.18/5 | Level: 1.39/7)
+- Public Safety and Security (Importance: 2.14/5 | Level: 0.96/7)
+- Computers and Electronics (Importance: 1.95/5 | Level: 0.64/7)
+- Administration and Management (Importance: 1.86/5 | Level: 1.56/7)
+- Education and Training (Importance: 1.85/5 | Level: 1.61/7)
+- Psychology (Importance: 1.81/5 | Level: 0.47/7)
+- Sociology and Anthropology (Importance: 1.78/5 | Level: 0.42/7)
+- Design (Importance: 1.78/5 | Level: 1.35/7)
+- Personnel and Human Resources (Importance: 1.64/5 | Level: 0.29/7)
+- Transportation (Importance: 1.62/5 | Level: 1.09/7)
+- Foreign Language (Importance: 1.6/5 | Level: 1.04/7)
+- Mechanical (Importance: 1.56/5 | Level: 0.69/7)
+- Physics (Importance: 1.44/5 | Level: 0.72/7)
+- Engineering and Technology (Importance: 1.39/5 | Level: 0.58/7)
+- Building and Construction (Importance: 1.34/5 | Level: 0.43/7)
+- Customer and Personal Service (Importance: 1.33/5 | Level: 0.5/7)
+- Telecommunications (Importance: 1.23/5 | Level: 0.32/7)
+- Communications and Media (Importance: 1.16/5 | Level: 0.29/7)
+- Chemistry (Importance: 1.16/5 | Level: 0.28/7)
+- Philosophy and Theology (Importance: 1.14/5 | Level: 0.33/7)
+- Medicine and Dentistry (Importance: 1.11/5 | Level: 0.1/7)
+- Administrative (Importance: 1.1/5 | Level: 0.17/7)
+- Sales and Marketing (Importance: 1.09/5 | Level: 0.09/7)
+- Law and Government (Importance: 1.08/5 | Level: 0.11/7)
+- Therapy and Counseling (Importance: 1.08/5 | Level: 0.09/7)
+- Economics and Accounting (Importance: 1.07/5 | Level: 0.09/7)
+- Biology (Importance: 1.07/5 | Level: 0.09/7)
+- Geography (Importance: 1.07/5 | Level: 0.09/7)
+- History and Archeology (Importance: 1.06/5 | Level: 0.08/7)
+- Food Production (Importance: 1.05/5 | Level: 0.11/7)
+- Fine Arts (Importance: 1.04/5 | Level: 0.08/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Active Listening (Importance: 2.88/5 | Level: 2.88/7)
@@ -163,3 +199,25 @@ Use hand tools or hand-held power tools to cut and trim a variety of manufacture
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Cutting and Slicing Machine Setters, Operators, and Tenders
+- Grinding and Polishing Workers, Hand
+- Sewing Machine Operators
+- Sawing Machine Setters, Operators, and Tenders, Wood
+- Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+- Textile Cutting Machine Setters, Operators, and Tenders
+- Shoe Machine Operators and Tenders
+- Machine Feeders and Offbearers
+- Molders, Shapers, and Casters, Except Metal and Plastic
+- Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic
+- Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Tool Grinders, Filers, and Sharpeners
+- Painting, Coating, and Decorating Workers
+- Adhesive Bonding Machine Operators and Tenders
+- Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic
+- Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Packers and Packagers, Hand
+- Paper Goods Machine Setters, Operators, and Tenders
+- Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders
+- Foundry Mold and Coremakers

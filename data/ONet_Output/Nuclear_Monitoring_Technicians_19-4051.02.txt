@@ -22,6 +22,42 @@ Collect and test samples to monitor results of nuclear experiments and contamina
 - Enter data into computers to record characteristics of nuclear events or to locate coordinates of particles.
 - Calibrate and maintain chemical instrumentation sensing elements and sampling system equipment, using calibration instruments and hand tools.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mathematics (Importance: 3.28/5 | Level: 4.3/7)
+- Physics (Importance: 3.28/5 | Level: 3.65/7)
+- Public Safety and Security (Importance: 3.14/5 | Level: 3.35/7)
+- Chemistry (Importance: 3.08/5 | Level: 3.59/7)
+- English Language (Importance: 3.03/5 | Level: 3.35/7)
+- Computers and Electronics (Importance: 3.0/5 | Level: 3.82/7)
+- Education and Training (Importance: 2.79/5 | Level: 3.22/7)
+- Mechanical (Importance: 2.71/5 | Level: 3.04/7)
+- Customer and Personal Service (Importance: 2.5/5 | Level: 2.71/7)
+- Law and Government (Importance: 2.49/5 | Level: 2.7/7)
+- Administration and Management (Importance: 2.45/5 | Level: 2.2/7)
+- Administrative (Importance: 2.39/5 | Level: 2.39/7)
+- Telecommunications (Importance: 2.26/5 | Level: 2.17/7)
+- Engineering and Technology (Importance: 2.22/5 | Level: 2.4/7)
+- Biology (Importance: 2.19/5 | Level: 2.32/7)
+- Communications and Media (Importance: 1.89/5 | Level: 1.75/7)
+- Design (Importance: 1.86/5 | Level: 1.73/7)
+- Psychology (Importance: 1.79/5 | Level: 1.63/7)
+- Transportation (Importance: 1.78/5 | Level: 1.65/7)
+- Building and Construction (Importance: 1.78/5 | Level: 1.62/7)
+- Personnel and Human Resources (Importance: 1.75/5 | Level: 1.19/7)
+- Production and Processing (Importance: 1.66/5 | Level: 1.29/7)
+- Medicine and Dentistry (Importance: 1.53/5 | Level: 0.96/7)
+- Therapy and Counseling (Importance: 1.45/5 | Level: 0.85/7)
+- Sociology and Anthropology (Importance: 1.42/5 | Level: 0.77/7)
+- Economics and Accounting (Importance: 1.36/5 | Level: 0.55/7)
+- Geography (Importance: 1.34/5 | Level: 0.72/7)
+- History and Archeology (Importance: 1.19/5 | Level: 0.38/7)
+- Philosophy and Theology (Importance: 1.19/5 | Level: 0.51/7)
+- Foreign Language (Importance: 1.08/5 | Level: 0.08/7)
+- Sales and Marketing (Importance: 1.06/5 | Level: 0.17/7)
+- Food Production (Importance: 1.02/5 | Level: 0.06/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Active Listening (Importance: 3.88/5 | Level: 3.88/7)
@@ -186,3 +222,25 @@ Collect and test samples to monitor results of nuclear experiments and contamina
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Nuclear Technicians
+- Environmental Science and Protection Technicians, Including Health
+- Nuclear Medicine Technologists
+- Nuclear Power Reactor Operators
+- Calibration Technologists and Technicians
+- Environmental Engineering Technologists and Technicians
+- Occupational Health and Safety Specialists
+- Chemical Technicians
+- Medical and Clinical Laboratory Technicians
+- Occupational Health and Safety Technicians
+- Nuclear Engineers
+- Non-Destructive Testing Specialists
+- Power Plant Operators
+- Water and Wastewater Treatment Plant and System Operators
+- Chemists
+- Nanotechnology Engineering Technologists and Technicians
+- Chemical Plant and System Operators
+- Geological Technicians, Except Hydrologic Technicians
+- Health and Safety Engineers, Except Mining Safety Engineers and Inspectors
+- Aerospace Engineering and Operations Technologists and Technicians

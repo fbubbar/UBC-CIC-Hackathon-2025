@@ -25,6 +25,42 @@ Plan, direct, or coordinate activities in such fields as architecture and engine
 - Evaluate environmental regulations or social pressures related to environmental issues to inform strategic or operational decision-making.
 - Solicit project support by conferring with officials or providing information to the public.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Design (Importance: 4.32/5 | Level: 5.45/7)
+- Engineering and Technology (Importance: 4.29/5 | Level: 5.35/7)
+- Mathematics (Importance: 3.92/5 | Level: 4.91/7)
+- Administration and Management (Importance: 3.89/5 | Level: 4.46/7)
+- English Language (Importance: 3.87/5 | Level: 4.33/7)
+- Customer and Personal Service (Importance: 3.82/5 | Level: 5.21/7)
+- Mechanical (Importance: 3.66/5 | Level: 3.93/7)
+- Computers and Electronics (Importance: 3.38/5 | Level: 4.48/7)
+- Production and Processing (Importance: 3.21/5 | Level: 4.13/7)
+- Physics (Importance: 3.18/5 | Level: 3.89/7)
+- Administrative (Importance: 3.16/5 | Level: 4.22/7)
+- Public Safety and Security (Importance: 3.06/5 | Level: 3.43/7)
+- Building and Construction (Importance: 3.02/5 | Level: 3.59/7)
+- Law and Government (Importance: 2.94/5 | Level: 3.36/7)
+- Economics and Accounting (Importance: 2.85/5 | Level: 2.92/7)
+- Sales and Marketing (Importance: 2.82/5 | Level: 3.08/7)
+- Personnel and Human Resources (Importance: 2.77/5 | Level: 3.78/7)
+- Transportation (Importance: 2.53/5 | Level: 2.59/7)
+- Education and Training (Importance: 2.4/5 | Level: 3.54/7)
+- Chemistry (Importance: 2.39/5 | Level: 2.92/7)
+- Telecommunications (Importance: 2.39/5 | Level: 2.28/7)
+- Communications and Media (Importance: 2.36/5 | Level: 2.45/7)
+- Geography (Importance: 2.27/5 | Level: 3.08/7)
+- Psychology (Importance: 1.86/5 | Level: 1.93/7)
+- Fine Arts (Importance: 1.85/5 | Level: 1.82/7)
+- Foreign Language (Importance: 1.68/5 | Level: 1.17/7)
+- Sociology and Anthropology (Importance: 1.66/5 | Level: 1.45/7)
+- Philosophy and Theology (Importance: 1.61/5 | Level: 1.39/7)
+- Biology (Importance: 1.58/5 | Level: 1.46/7)
+- History and Archeology (Importance: 1.57/5 | Level: 1.13/7)
+- Medicine and Dentistry (Importance: 1.52/5 | Level: 1.06/7)
+- Therapy and Counseling (Importance: 1.3/5 | Level: 0.56/7)
+- Food Production (Importance: 1.03/5 | Level: 0.08/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Reading Comprehension (Importance: 4.12/5 | Level: 4.38/7)
@@ -266,3 +302,25 @@ Plan, direct, or coordinate activities in such fields as architecture and engine
 - Primary Interest: Enterprising
 - Secondary Interest: Conventional
 - Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Project Management Specialists
+- Industrial Engineers
+- Electrical Engineers
+- Logistics Engineers
+- Mechatronics Engineers
+- Engineering Teachers, Postsecondary
+- Civil Engineers
+- Electronics Engineers, Except Computer
+- Natural Sciences Managers
+- Biofuels/Biodiesel Technology and Product Development Managers
+- Civil Engineering Technologists and Technicians
+- Mechanical Engineering Technologists and Technicians
+- Industrial Engineering Technologists and Technicians
+- Manufacturing Engineers
+- Sales Engineers
+- Construction Managers
+- Architectural and Civil Drafters
+- Electrical and Electronic Engineering Technologists and Technicians
+- Mechanical Engineers
+- Software Developers

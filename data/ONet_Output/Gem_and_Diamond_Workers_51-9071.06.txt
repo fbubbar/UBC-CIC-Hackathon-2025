@@ -20,6 +20,42 @@ Fabricate, finish, or evaluate the quality of gems and diamonds used in jewelry 
 - Select shaping wheels for tasks, and mix and apply abrasives, bort, or polishing compounds.
 - Dismantle lapping, boring, cutting, polishing, and shaping equipment and machinery to clean and lubricate it.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 3.57/5 | Level: 3.1/7)
+- Production and Processing (Importance: 3.21/5 | Level: 3.72/7)
+- English Language (Importance: 3.05/5 | Level: 3.32/7)
+- Mathematics (Importance: 3.01/5 | Level: 3.21/7)
+- Sales and Marketing (Importance: 2.99/5 | Level: 3.13/7)
+- Administration and Management (Importance: 2.76/5 | Level: 3.12/7)
+- Education and Training (Importance: 2.68/5 | Level: 2.22/7)
+- Economics and Accounting (Importance: 2.41/5 | Level: 1.97/7)
+- Design (Importance: 2.39/5 | Level: 2.12/7)
+- Computers and Electronics (Importance: 2.31/5 | Level: 2.44/7)
+- Administrative (Importance: 2.28/5 | Level: 2.63/7)
+- Telecommunications (Importance: 2.24/5 | Level: 2.08/7)
+- Communications and Media (Importance: 2.03/5 | Level: 1.79/7)
+- Mechanical (Importance: 1.97/5 | Level: 1.84/7)
+- Public Safety and Security (Importance: 1.87/5 | Level: 1.24/7)
+- Personnel and Human Resources (Importance: 1.84/5 | Level: 1.65/7)
+- Transportation (Importance: 1.8/5 | Level: 1.54/7)
+- Law and Government (Importance: 1.75/5 | Level: 1.28/7)
+- Engineering and Technology (Importance: 1.73/5 | Level: 1.47/7)
+- Psychology (Importance: 1.73/5 | Level: 1.49/7)
+- Geography (Importance: 1.64/5 | Level: 1.63/7)
+- Chemistry (Importance: 1.48/5 | Level: 1.37/7)
+- Foreign Language (Importance: 1.38/5 | Level: 0.67/7)
+- Physics (Importance: 1.3/5 | Level: 0.66/7)
+- Building and Construction (Importance: 1.29/5 | Level: 0.29/7)
+- Sociology and Anthropology (Importance: 1.28/5 | Level: 0.65/7)
+- Therapy and Counseling (Importance: 1.17/5 | Level: 0.6/7)
+- Philosophy and Theology (Importance: 1.1/5 | Level: 0.2/7)
+- History and Archeology (Importance: 1.08/5 | Level: 0.23/7)
+- Fine Arts (Importance: 1.08/5 | Level: 0.11/7)
+- Medicine and Dentistry (Importance: 1.07/5 | Level: 0.07/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+- Biology (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Quality Control Analysis (Importance: 3.38/5 | Level: 3.5/7)
@@ -186,3 +222,25 @@ Fabricate, finish, or evaluate the quality of gems and diamonds used in jewelry 
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Jewelers and Precious Stone and Metal Workers
+- Grinding and Polishing Workers, Hand
+- Etchers and Engravers
+- Stone Cutters and Carvers, Manufacturing
+- Tool Grinders, Filers, and Sharpeners
+- Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Cutting and Slicing Machine Setters, Operators, and Tenders
+- Cutters and Trimmers, Hand
+- Molders, Shapers, and Casters, Except Metal and Plastic
+- Tool and Die Makers
+- Ophthalmic Laboratory Technicians
+- Painting, Coating, and Decorating Workers
+- Shoe Machine Operators and Tenders
+- Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic
+- Rock Splitters, Quarry
+- Shoe and Leather Workers and Repairers
+- Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Plating Machine Setters, Operators, and Tenders, Metal and Plastic
+- Watch and Clock Repairers
+- Timing Device Assemblers and Adjusters

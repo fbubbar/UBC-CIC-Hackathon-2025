@@ -19,6 +19,42 @@ Clean dishes, kitchen, food preparation equipment, or utensils.
 - Load or unload trucks that deliver or pick up food or supplies.
 - Set up banquet tables.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Administration and Management (Importance: 3.79/5 | Level: 2.57/7)
+- English Language (Importance: 3.33/5 | Level: 2.63/7)
+- Public Safety and Security (Importance: 3.11/5 | Level: 1.81/7)
+- Customer and Personal Service (Importance: 3.02/5 | Level: 2.66/7)
+- Education and Training (Importance: 2.84/5 | Level: 2.88/7)
+- Food Production (Importance: 2.59/5 | Level: 2.03/7)
+- Transportation (Importance: 2.56/5 | Level: 2.34/7)
+- Law and Government (Importance: 2.52/5 | Level: 1.99/7)
+- Production and Processing (Importance: 2.38/5 | Level: 1.68/7)
+- Personnel and Human Resources (Importance: 2.33/5 | Level: 1.95/7)
+- Mathematics (Importance: 2.27/5 | Level: 1.15/7)
+- Foreign Language (Importance: 2.16/5 | Level: 1.92/7)
+- Chemistry (Importance: 2.12/5 | Level: 1.46/7)
+- Psychology (Importance: 2.0/5 | Level: 1.44/7)
+- Telecommunications (Importance: 1.98/5 | Level: 1.18/7)
+- Communications and Media (Importance: 1.97/5 | Level: 1.33/7)
+- Sales and Marketing (Importance: 1.9/5 | Level: 1.5/7)
+- Mechanical (Importance: 1.86/5 | Level: 0.82/7)
+- Computers and Electronics (Importance: 1.84/5 | Level: 1.34/7)
+- Administrative (Importance: 1.7/5 | Level: 1.32/7)
+- Therapy and Counseling (Importance: 1.7/5 | Level: 1.01/7)
+- Economics and Accounting (Importance: 1.67/5 | Level: 1.1/7)
+- Physics (Importance: 1.6/5 | Level: 0.48/7)
+- Sociology and Anthropology (Importance: 1.5/5 | Level: 0.83/7)
+- Medicine and Dentistry (Importance: 1.49/5 | Level: 0.5/7)
+- Engineering and Technology (Importance: 1.41/5 | Level: 0.95/7)
+- Fine Arts (Importance: 1.4/5 | Level: 0.75/7)
+- Biology (Importance: 1.37/5 | Level: 0.22/7)
+- Geography (Importance: 1.36/5 | Level: 0.55/7)
+- Building and Construction (Importance: 1.31/5 | Level: 0.39/7)
+- Design (Importance: 1.28/5 | Level: 0.47/7)
+- History and Archeology (Importance: 1.05/5 | Level: 0.11/7)
+- Philosophy and Theology (Importance: 1.05/5 | Level: 0.08/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Time Management (Importance: 2.88/5 | Level: 2.12/7)
@@ -141,3 +177,25 @@ Clean dishes, kitchen, food preparation equipment, or utensils.
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Cleaners of Vehicles and Equipment
+- Laundry and Dry-Cleaning Workers
+- Food Preparation Workers
+- Janitors and Cleaners, Except Maids and Housekeeping Cleaners
+- Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders
+- Maids and Housekeeping Cleaners
+- Dining Room and Cafeteria Attendants and Bartender Helpers
+- Fast Food and Counter Workers
+- Cooks, Short Order
+- Food Servers, Nonrestaurant
+- Laborers and Freight, Stock, and Material Movers, Hand
+- Packaging and Filling Machine Operators and Tenders
+- Machine Feeders and Offbearers
+- Food Cooking Machine Operators and Tenders
+- Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders
+- Packers and Packagers, Hand
+- Recycling and Reclamation Workers
+- Helpers--Production Workers
+- Mixing and Blending Machine Setters, Operators, and Tenders
+- Cooks, Fast Food

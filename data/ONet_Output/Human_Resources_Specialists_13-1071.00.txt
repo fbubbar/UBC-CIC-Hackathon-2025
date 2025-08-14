@@ -32,6 +32,42 @@ Recruit, screen, interview, or place individuals within an organization. May per
 - Coordinate with outside staffing agencies to secure temporary employees, based on departmental needs.
 - Evaluate selection or testing techniques by conducting research or follow-up activities and conferring with management or supervisory personnel.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Personnel and Human Resources (Importance: 4.62/5 | Level: 5.67/7)
+- Administrative (Importance: 3.94/5 | Level: 5.27/7)
+- Administration and Management (Importance: 3.83/5 | Level: 3.91/7)
+- English Language (Importance: 3.81/5 | Level: 3.62/7)
+- Customer and Personal Service (Importance: 3.49/5 | Level: 3.72/7)
+- Law and Government (Importance: 3.3/5 | Level: 2.96/7)
+- Education and Training (Importance: 3.07/5 | Level: 4.02/7)
+- Computers and Electronics (Importance: 2.67/5 | Level: 2.8/7)
+- Communications and Media (Importance: 2.54/5 | Level: 2.55/7)
+- Mathematics (Importance: 2.33/5 | Level: 2.53/7)
+- Public Safety and Security (Importance: 2.19/5 | Level: 1.79/7)
+- Psychology (Importance: 2.19/5 | Level: 2.63/7)
+- Telecommunications (Importance: 1.98/5 | Level: 0.97/7)
+- Economics and Accounting (Importance: 1.81/5 | Level: 1.2/7)
+- Therapy and Counseling (Importance: 1.68/5 | Level: 1.89/7)
+- Sociology and Anthropology (Importance: 1.64/5 | Level: 1.08/7)
+- Sales and Marketing (Importance: 1.62/5 | Level: 1.08/7)
+- Philosophy and Theology (Importance: 1.53/5 | Level: 1.9/7)
+- Production and Processing (Importance: 1.39/5 | Level: 0.72/7)
+- Transportation (Importance: 1.35/5 | Level: 0.64/7)
+- Foreign Language (Importance: 1.35/5 | Level: 0.45/7)
+- Geography (Importance: 1.25/5 | Level: 0.57/7)
+- Engineering and Technology (Importance: 1.23/5 | Level: 0.45/7)
+- Design (Importance: 1.22/5 | Level: 0.36/7)
+- Medicine and Dentistry (Importance: 1.13/5 | Level: 0.22/7)
+- Building and Construction (Importance: 1.1/5 | Level: 0.1/7)
+- Chemistry (Importance: 1.09/5 | Level: 0.19/7)
+- Mechanical (Importance: 1.08/5 | Level: 0.11/7)
+- Food Production (Importance: 1.08/5 | Level: 0.11/7)
+- History and Archeology (Importance: 1.07/5 | Level: 0.2/7)
+- Biology (Importance: 1.05/5 | Level: 0.09/7)
+- Physics (Importance: 1.04/5 | Level: 0.05/7)
+- Fine Arts (Importance: 1.02/5 | Level: 0.02/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Speaking (Importance: 4.12/5 | Level: 4.0/7)
@@ -321,3 +357,25 @@ Recruit, screen, interview, or place individuals within an organization. May per
 - Primary Interest: Enterprising
 - Secondary Interest: Conventional
 - Tertiary Interest: Social
+
+# RELATED OCCUPATIONS
+- Human Resources Assistants, Except Payroll and Timekeeping
+- Human Resources Managers
+- Eligibility Interviewers, Government Programs
+- Compensation, Benefits, and Job Analysis Specialists
+- First-Line Supervisors of Office and Administrative Support Workers
+- Training and Development Managers
+- Compensation and Benefits Managers
+- Industrial-Organizational Psychologists
+- Administrative Services Managers
+- Training and Development Specialists
+- Management Analysts
+- Executive Secretaries and Executive Administrative Assistants
+- First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services
+- First-Line Supervisors of Non-Retail Sales Workers
+- Labor Relations Specialists
+- Project Management Specialists
+- Social and Community Service Managers
+- Payroll and Timekeeping Clerks
+- First-Line Supervisors of Passenger Attendants
+- Equal Opportunity Representatives and Officers

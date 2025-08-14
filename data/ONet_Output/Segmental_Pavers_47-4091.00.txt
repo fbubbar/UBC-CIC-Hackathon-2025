@@ -18,6 +18,42 @@ Lay out, cut, and place segmental paving units. Includes installers of bedding a
 - Resurface an outside area with cobblestones, terracotta tiles, concrete or other materials.
 - Cement the edges of the paved area.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 3.72/5 | Level: 3.92/7)
+- Building and Construction (Importance: 3.09/5 | Level: 3.33/7)
+- Administration and Management (Importance: 2.98/5 | Level: 3.06/7)
+- Transportation (Importance: 2.98/5 | Level: 3.19/7)
+- Customer and Personal Service (Importance: 2.97/5 | Level: 3.82/7)
+- Public Safety and Security (Importance: 2.66/5 | Level: 2.51/7)
+- Design (Importance: 2.52/5 | Level: 2.3/7)
+- Engineering and Technology (Importance: 2.49/5 | Level: 2.99/7)
+- Mathematics (Importance: 2.45/5 | Level: 2.13/7)
+- Education and Training (Importance: 2.18/5 | Level: 2.21/7)
+- Chemistry (Importance: 2.1/5 | Level: 2.05/7)
+- Economics and Accounting (Importance: 2.0/5 | Level: 0.86/7)
+- Law and Government (Importance: 1.94/5 | Level: 1.25/7)
+- English Language (Importance: 1.9/5 | Level: 1.51/7)
+- Sales and Marketing (Importance: 1.79/5 | Level: 1.17/7)
+- Physics (Importance: 1.78/5 | Level: 1.69/7)
+- Geography (Importance: 1.77/5 | Level: 1.63/7)
+- Production and Processing (Importance: 1.75/5 | Level: 1.61/7)
+- Therapy and Counseling (Importance: 1.7/5 | Level: 1.2/7)
+- Psychology (Importance: 1.68/5 | Level: 1.44/7)
+- Telecommunications (Importance: 1.62/5 | Level: 1.0/7)
+- History and Archeology (Importance: 1.56/5 | Level: 0.73/7)
+- Personnel and Human Resources (Importance: 1.54/5 | Level: 0.98/7)
+- Communications and Media (Importance: 1.5/5 | Level: 0.97/7)
+- Biology (Importance: 1.48/5 | Level: 0.9/7)
+- Medicine and Dentistry (Importance: 1.48/5 | Level: 1.19/7)
+- Administrative (Importance: 1.42/5 | Level: 0.84/7)
+- Computers and Electronics (Importance: 1.42/5 | Level: 0.86/7)
+- Foreign Language (Importance: 1.37/5 | Level: 0.61/7)
+- Philosophy and Theology (Importance: 1.34/5 | Level: 1.01/7)
+- Sociology and Anthropology (Importance: 1.22/5 | Level: 0.23/7)
+- Fine Arts (Importance: 1.17/5 | Level: 0.55/7)
+- Food Production (Importance: 1.03/5 | Level: 0.09/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Active Listening (Importance: 3.5/5 | Level: 3.0/7)
@@ -177,3 +213,25 @@ Lay out, cut, and place segmental paving units. Includes installers of bedding a
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Cement Masons and Concrete Finishers
+- Paving, Surfacing, and Tamping Equipment Operators
+- Terrazzo Workers and Finishers
+- Tile and Stone Setters
+- Floor Layers, Except Carpet, Wood, and Hard Tiles
+- Stonemasons
+- Construction Laborers
+- Brickmasons and Blockmasons
+- Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters
+- Plasterers and Stucco Masons
+- Roofers
+- Drywall and Ceiling Tile Installers
+- Carpenters
+- Insulation Workers, Floor, Ceiling, and Wall
+- Carpet Installers
+- Stone Cutters and Carvers, Manufacturing
+- Rail-Track Laying and Maintenance Equipment Operators
+- Floor Sanders and Finishers
+- Rock Splitters, Quarry
+- Pipelayers

@@ -23,6 +23,42 @@ Diagnose, treat, and help prevent diseases and injuries in children. May refer p
 - Conduct research to study anatomy and develop or test medications, treatments, or procedures to prevent or control disease or injury.
 - Prepare government or organizational reports of birth, death, and disease statistics, workforce evaluations, or medical status of individuals.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Medicine and Dentistry (Importance: 5.0/5 | Level: 5.68/7)
+- Therapy and Counseling (Importance: 4.49/5 | Level: 6.02/7)
+- Biology (Importance: 4.41/5 | Level: 4.1/7)
+- Psychology (Importance: 4.34/5 | Level: 5.36/7)
+- Customer and Personal Service (Importance: 4.25/5 | Level: 5.62/7)
+- English Language (Importance: 3.77/5 | Level: 4.11/7)
+- Sociology and Anthropology (Importance: 3.37/5 | Level: 3.44/7)
+- Education and Training (Importance: 3.26/5 | Level: 4.16/7)
+- Personnel and Human Resources (Importance: 3.23/5 | Level: 4.29/7)
+- Computers and Electronics (Importance: 3.14/5 | Level: 3.66/7)
+- Mathematics (Importance: 3.14/5 | Level: 3.09/7)
+- Administration and Management (Importance: 2.93/5 | Level: 3.41/7)
+- Public Safety and Security (Importance: 2.85/5 | Level: 2.89/7)
+- Chemistry (Importance: 2.83/5 | Level: 3.36/7)
+- Law and Government (Importance: 2.75/5 | Level: 2.45/7)
+- Communications and Media (Importance: 2.72/5 | Level: 2.62/7)
+- Economics and Accounting (Importance: 2.54/5 | Level: 2.46/7)
+- Administrative (Importance: 2.47/5 | Level: 2.97/7)
+- Foreign Language (Importance: 2.4/5 | Level: 2.61/7)
+- Telecommunications (Importance: 2.03/5 | Level: 1.37/7)
+- Philosophy and Theology (Importance: 1.97/5 | Level: 2.58/7)
+- Sales and Marketing (Importance: 1.89/5 | Level: 1.89/7)
+- Transportation (Importance: 1.8/5 | Level: 1.64/7)
+- Production and Processing (Importance: 1.77/5 | Level: 1.33/7)
+- Physics (Importance: 1.72/5 | Level: 1.57/7)
+- Mechanical (Importance: 1.71/5 | Level: 1.33/7)
+- Engineering and Technology (Importance: 1.58/5 | Level: 1.19/7)
+- Geography (Importance: 1.4/5 | Level: 1.11/7)
+- History and Archeology (Importance: 1.31/5 | Level: 0.9/7)
+- Building and Construction (Importance: 1.16/5 | Level: 0.45/7)
+- Food Production (Importance: 1.01/5 | Level: 0.02/7)
+- Fine Arts (Importance: 1.01/5 | Level: 0.01/7)
+- Design (Importance: 1.01/5 | Level: 0.04/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Judgment and Decision Making (Importance: 4.25/5 | Level: 4.38/7)
@@ -230,3 +266,25 @@ Diagnose, treat, and help prevent diseases and injuries in children. May refer p
 - Primary Interest: Social
 - Secondary Interest: Investigative
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Emergency Medicine Physicians
+- Pediatric Surgeons
+- General Internal Medicine Physicians
+- Family Medicine Physicians
+- Neurologists
+- Psychiatrists
+- Obstetricians and Gynecologists
+- Cardiologists
+- Nurse Practitioners
+- Allergists and Immunologists
+- Clinical Neuropsychologists
+- Orthopedic Surgeons, Except Pediatric
+- Clinical Nurse Specialists
+- Urologists
+- Physician Assistants
+- Advanced Practice Psychiatric Nurses
+- Dermatologists
+- Neuropsychologists
+- Nurse Midwives
+- Naturopathic Physicians

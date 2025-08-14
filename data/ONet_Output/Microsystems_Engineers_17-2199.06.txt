@@ -37,6 +37,42 @@ Research, design, develop, or test microelectromechanical systems (MEMS) devices
 - Design sensors or switches that require little or no power to operate for environmental monitoring or industrial metering applications.
 - Research or develop emerging microelectromechanical (MEMS) systems to convert nontraditional energy sources into power, such as ambient energy harvesters that convert environmental vibrations into usable energy.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Computers and Electronics (Importance: 4.62/5 | Level: 6.0/7)
+- Engineering and Technology (Importance: 4.6/5 | Level: 6.17/7)
+- Mathematics (Importance: 4.07/5 | Level: 5.65/7)
+- Physics (Importance: 3.96/5 | Level: 5.4/7)
+- Design (Importance: 3.92/5 | Level: 5.21/7)
+- English Language (Importance: 3.47/5 | Level: 4.45/7)
+- Production and Processing (Importance: 3.25/5 | Level: 3.79/7)
+- Mechanical (Importance: 3.19/5 | Level: 4.32/7)
+- Administration and Management (Importance: 2.99/5 | Level: 4.07/7)
+- Chemistry (Importance: 2.98/5 | Level: 3.83/7)
+- Customer and Personal Service (Importance: 2.67/5 | Level: 3.23/7)
+- Telecommunications (Importance: 2.67/5 | Level: 3.0/7)
+- Public Safety and Security (Importance: 2.51/5 | Level: 2.76/7)
+- Personnel and Human Resources (Importance: 2.37/5 | Level: 3.01/7)
+- Economics and Accounting (Importance: 2.15/5 | Level: 2.34/7)
+- Sales and Marketing (Importance: 2.15/5 | Level: 2.21/7)
+- Communications and Media (Importance: 2.14/5 | Level: 2.38/7)
+- Administrative (Importance: 2.12/5 | Level: 2.75/7)
+- Law and Government (Importance: 2.1/5 | Level: 2.22/7)
+- Education and Training (Importance: 1.89/5 | Level: 2.08/7)
+- Biology (Importance: 1.88/5 | Level: 2.19/7)
+- Medicine and Dentistry (Importance: 1.57/5 | Level: 1.0/7)
+- Geography (Importance: 1.51/5 | Level: 1.38/7)
+- Transportation (Importance: 1.44/5 | Level: 1.25/7)
+- Psychology (Importance: 1.34/5 | Level: 1.0/7)
+- Sociology and Anthropology (Importance: 1.34/5 | Level: 0.67/7)
+- Foreign Language (Importance: 1.31/5 | Level: 0.87/7)
+- Building and Construction (Importance: 1.27/5 | Level: 0.93/7)
+- Philosophy and Theology (Importance: 1.17/5 | Level: 0.49/7)
+- Therapy and Counseling (Importance: 1.16/5 | Level: 0.45/7)
+- History and Archeology (Importance: 1.15/5 | Level: 0.43/7)
+- Fine Arts (Importance: 1.13/5 | Level: 0.27/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Critical Thinking (Importance: 4.0/5 | Level: 4.12/7)
@@ -300,3 +336,25 @@ Research, design, develop, or test microelectromechanical systems (MEMS) devices
 - Primary Interest: Investigative
 - Secondary Interest: Realistic
 - Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Electronics Engineers, Except Computer
+- Photonics Engineers
+- Mechatronics Engineers
+- Nanosystems Engineers
+- Materials Scientists
+- Radio Frequency Identification Device Specialists
+- Robotics Engineers
+- Electrical Engineers
+- Mechanical Engineers
+- Manufacturing Engineers
+- Electrical and Electronic Engineering Technologists and Technicians
+- Photonics Technicians
+- Computer Hardware Engineers
+- Mechanical Engineering Technologists and Technicians
+- Robotics Technicians
+- Electro-Mechanical and Mechatronics Technologists and Technicians
+- Electrical and Electronics Repairers, Commercial and Industrial Equipment
+- Chemical Engineers
+- Calibration Technologists and Technicians
+- Software Developers

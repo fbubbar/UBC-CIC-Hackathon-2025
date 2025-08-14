@@ -28,6 +28,42 @@ Represent clients in criminal and civil litigation and other legal proceedings, 
 - Act as agent, trustee, guardian, or executor for businesses or individuals.
 - Help develop federal and state programs, draft and interpret laws and legislation, and establish enforcement procedures.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Law and Government (Importance: 4.98/5 | Level: 5.93/7)
+- English Language (Importance: 4.66/5 | Level: 5.57/7)
+- Customer and Personal Service (Importance: 4.0/5 | Level: 5.01/7)
+- Administrative (Importance: 3.2/5 | Level: 3.68/7)
+- Computers and Electronics (Importance: 3.07/5 | Level: 3.48/7)
+- Communications and Media (Importance: 3.02/5 | Level: 3.42/7)
+- Administration and Management (Importance: 2.77/5 | Level: 3.12/7)
+- Education and Training (Importance: 2.58/5 | Level: 2.95/7)
+- Personnel and Human Resources (Importance: 2.39/5 | Level: 2.52/7)
+- Public Safety and Security (Importance: 2.35/5 | Level: 1.6/7)
+- Mathematics (Importance: 2.31/5 | Level: 2.32/7)
+- Psychology (Importance: 2.28/5 | Level: 2.43/7)
+- Economics and Accounting (Importance: 2.18/5 | Level: 1.81/7)
+- Sociology and Anthropology (Importance: 2.12/5 | Level: 1.96/7)
+- Sales and Marketing (Importance: 1.91/5 | Level: 1.72/7)
+- Telecommunications (Importance: 1.78/5 | Level: 0.7/7)
+- Therapy and Counseling (Importance: 1.72/5 | Level: 1.02/7)
+- History and Archeology (Importance: 1.69/5 | Level: 1.28/7)
+- Production and Processing (Importance: 1.52/5 | Level: 1.06/7)
+- Geography (Importance: 1.47/5 | Level: 0.93/7)
+- Philosophy and Theology (Importance: 1.41/5 | Level: 1.09/7)
+- Transportation (Importance: 1.36/5 | Level: 0.73/7)
+- Foreign Language (Importance: 1.25/5 | Level: 0.37/7)
+- Medicine and Dentistry (Importance: 1.19/5 | Level: 0.28/7)
+- Engineering and Technology (Importance: 1.17/5 | Level: 0.3/7)
+- Chemistry (Importance: 1.13/5 | Level: 0.27/7)
+- Fine Arts (Importance: 1.1/5 | Level: 0.1/7)
+- Design (Importance: 1.04/5 | Level: 0.09/7)
+- Biology (Importance: 1.04/5 | Level: 0.07/7)
+- Mechanical (Importance: 1.02/5 | Level: 0.05/7)
+- Building and Construction (Importance: 1.02/5 | Level: 0.05/7)
+- Physics (Importance: 1.0/5 | Level: 0.0/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Speaking (Importance: 4.62/5 | Level: 4.88/7)
@@ -270,3 +306,25 @@ Represent clients in criminal and civil litigation and other legal proceedings, 
 - Primary Interest: Enterprising
 - Secondary Interest: Conventional
 - Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Judicial Law Clerks
+- Administrative Law Judges, Adjudicators, and Hearing Officers
+- Arbitrators, Mediators, and Conciliators
+- Judges, Magistrate Judges, and Magistrates
+- Claims Adjusters, Examiners, and Investigators
+- Fraud Examiners, Investigators and Analysts
+- Equal Opportunity Representatives and Officers
+- Labor Relations Specialists
+- Law Teachers, Postsecondary
+- Chief Executives
+- Paralegals and Legal Assistants
+- Legal Secretaries and Administrative Assistants
+- Title Examiners, Abstractors, and Searchers
+- Court, Municipal, and License Clerks
+- Private Detectives and Investigators
+- Detectives and Criminal Investigators
+- Court Reporters and Simultaneous Captioners
+- Eligibility Interviewers, Government Programs
+- Compliance Officers
+- Tax Examiners and Collectors, and Revenue Agents

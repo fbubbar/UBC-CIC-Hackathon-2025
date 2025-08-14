@@ -16,6 +16,42 @@ Line and cover structures with insulating materials. May work with batt, roll, o
 - Remove old insulation, such as asbestos, following safety procedures.
 - Prepare surfaces for insulation application by brushing or spreading on adhesives, cement, or asphalt, or by attaching metal pins to surfaces.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Building and Construction (Importance: 3.35/5 | Level: 3.53/7)
+- Customer and Personal Service (Importance: 3.04/5 | Level: 2.77/7)
+- Mechanical (Importance: 3.02/5 | Level: 3.25/7)
+- English Language (Importance: 2.91/5 | Level: 2.41/7)
+- Administration and Management (Importance: 2.78/5 | Level: 2.52/7)
+- Transportation (Importance: 2.61/5 | Level: 2.65/7)
+- Mathematics (Importance: 2.51/5 | Level: 2.23/7)
+- Public Safety and Security (Importance: 2.48/5 | Level: 2.18/7)
+- Design (Importance: 2.29/5 | Level: 2.36/7)
+- Education and Training (Importance: 2.28/5 | Level: 1.84/7)
+- Production and Processing (Importance: 2.16/5 | Level: 1.71/7)
+- Physics (Importance: 2.12/5 | Level: 2.1/7)
+- Sales and Marketing (Importance: 2.04/5 | Level: 1.35/7)
+- Personnel and Human Resources (Importance: 1.98/5 | Level: 1.13/7)
+- Law and Government (Importance: 1.95/5 | Level: 1.27/7)
+- Engineering and Technology (Importance: 1.83/5 | Level: 1.49/7)
+- Administrative (Importance: 1.77/5 | Level: 0.91/7)
+- Computers and Electronics (Importance: 1.65/5 | Level: 1.06/7)
+- Psychology (Importance: 1.61/5 | Level: 1.11/7)
+- Chemistry (Importance: 1.5/5 | Level: 1.52/7)
+- Economics and Accounting (Importance: 1.46/5 | Level: 0.73/7)
+- Foreign Language (Importance: 1.41/5 | Level: 0.62/7)
+- Telecommunications (Importance: 1.39/5 | Level: 0.3/7)
+- Communications and Media (Importance: 1.23/5 | Level: 0.54/7)
+- Geography (Importance: 1.22/5 | Level: 0.61/7)
+- Medicine and Dentistry (Importance: 1.12/5 | Level: 0.25/7)
+- Sociology and Anthropology (Importance: 1.11/5 | Level: 0.29/7)
+- Therapy and Counseling (Importance: 1.11/5 | Level: 0.3/7)
+- Philosophy and Theology (Importance: 1.1/5 | Level: 0.12/7)
+- Biology (Importance: 1.09/5 | Level: 0.18/7)
+- History and Archeology (Importance: 1.08/5 | Level: 0.17/7)
+- Food Production (Importance: 1.01/5 | Level: 0.01/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Operation and Control (Importance: 3.0/5 | Level: 3.0/7)
@@ -160,3 +196,25 @@ Line and cover structures with insulating materials. May work with batt, roll, o
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Insulation Workers, Mechanical
+- Floor Layers, Except Carpet, Wood, and Hard Tiles
+- Drywall and Ceiling Tile Installers
+- Sheet Metal Workers
+- Roofers
+- Plasterers and Stucco Masons
+- Brickmasons and Blockmasons
+- Tile and Stone Setters
+- Carpenters
+- Plumbers, Pipefitters, and Steamfitters
+- Carpet Installers
+- Fiberglass Laminators and Fabricators
+- Pipelayers
+- Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters
+- Molders, Shapers, and Casters, Except Metal and Plastic
+- Tapers
+- Structural Metal Fabricators and Fitters
+- Construction Laborers
+- Solar Thermal Installers and Technicians
+- Cement Masons and Concrete Finishers

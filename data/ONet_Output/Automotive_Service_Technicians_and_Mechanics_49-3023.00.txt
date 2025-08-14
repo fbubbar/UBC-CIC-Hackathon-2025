@@ -36,6 +36,42 @@ Diagnose, adjust, repair, or overhaul automotive vehicles.
 - Repair or rebuild transmissions.
 - Retrofit vehicle fuel systems with aftermarket products, such as vapor transfer devices, evaporation control devices, swirlers, lean burn devices, and friction reduction devices, to enhance combustion and fuel efficiency.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 4.8/5 | Level: 6.28/7)
+- Customer and Personal Service (Importance: 3.29/5 | Level: 3.13/7)
+- Computers and Electronics (Importance: 3.26/5 | Level: 3.61/7)
+- Engineering and Technology (Importance: 3.02/5 | Level: 3.05/7)
+- English Language (Importance: 2.94/5 | Level: 2.76/7)
+- Transportation (Importance: 2.81/5 | Level: 2.82/7)
+- Education and Training (Importance: 2.78/5 | Level: 2.45/7)
+- Public Safety and Security (Importance: 2.74/5 | Level: 2.05/7)
+- Mathematics (Importance: 2.65/5 | Level: 2.58/7)
+- Physics (Importance: 2.5/5 | Level: 2.51/7)
+- Production and Processing (Importance: 2.35/5 | Level: 1.69/7)
+- Design (Importance: 2.34/5 | Level: 1.45/7)
+- Administration and Management (Importance: 2.33/5 | Level: 2.52/7)
+- Chemistry (Importance: 2.28/5 | Level: 2.63/7)
+- Administrative (Importance: 2.16/5 | Level: 2.39/7)
+- Sales and Marketing (Importance: 2.11/5 | Level: 1.47/7)
+- Telecommunications (Importance: 2.04/5 | Level: 1.31/7)
+- Law and Government (Importance: 1.98/5 | Level: 1.24/7)
+- Building and Construction (Importance: 1.83/5 | Level: 1.25/7)
+- Personnel and Human Resources (Importance: 1.67/5 | Level: 0.79/7)
+- Economics and Accounting (Importance: 1.57/5 | Level: 0.98/7)
+- Communications and Media (Importance: 1.49/5 | Level: 1.02/7)
+- Geography (Importance: 1.37/5 | Level: 0.49/7)
+- Psychology (Importance: 1.27/5 | Level: 0.52/7)
+- Medicine and Dentistry (Importance: 1.19/5 | Level: 0.34/7)
+- Therapy and Counseling (Importance: 1.18/5 | Level: 0.44/7)
+- Foreign Language (Importance: 1.18/5 | Level: 0.32/7)
+- Biology (Importance: 1.12/5 | Level: 0.21/7)
+- Sociology and Anthropology (Importance: 1.12/5 | Level: 0.23/7)
+- Food Production (Importance: 1.09/5 | Level: 0.15/7)
+- History and Archeology (Importance: 1.06/5 | Level: 0.12/7)
+- Fine Arts (Importance: 1.03/5 | Level: 0.06/7)
+- Philosophy and Theology (Importance: 1.03/5 | Level: 0.09/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Repairing (Importance: 3.75/5 | Level: 3.75/7)
@@ -461,3 +497,25 @@ Diagnose, adjust, repair, or overhaul automotive vehicles.
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Rail Car Repairers
+- Bus and Truck Mechanics and Diesel Engine Specialists
+- Electric Motor, Power Tool, and Related Repairers
+- Engine and Other Machine Assemblers
+- Motorboat Mechanics and Service Technicians
+- Motorcycle Mechanics
+- Control and Valve Installers and Repairers, Except Mechanical Door
+- Automotive Engineering Technicians
+- Automotive Body and Related Repairers
+- Electronic Equipment Installers and Repairers, Motor Vehicles
+- Mobile Heavy Equipment Mechanics, Except Engines
+- Industrial Machinery Mechanics
+- Outdoor Power Equipment and Other Small Engine Mechanics
+- Aircraft Mechanics and Service Technicians
+- Maintenance Workers, Machinery
+- Electrical and Electronics Installers and Repairers, Transportation Equipment
+- Automotive Engineers
+- Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+- Avionics Technicians
+- Tire Repairers and Changers

@@ -36,6 +36,42 @@ Apply theory and principles of mechanical engineering to modify, develop, test, 
 - Discuss changes in design, method of manufacture and assembly, or drafting techniques and procedures with staff and coordinate corrections.
 - Monitor, inspect, or test mechanical equipment.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Engineering and Technology (Importance: 4.15/5 | Level: 4.92/7)
+- Mechanical (Importance: 4.14/5 | Level: 5.19/7)
+- Design (Importance: 4.01/5 | Level: 4.8/7)
+- Mathematics (Importance: 3.66/5 | Level: 4.14/7)
+- English Language (Importance: 3.49/5 | Level: 3.69/7)
+- Computers and Electronics (Importance: 3.37/5 | Level: 4.02/7)
+- Production and Processing (Importance: 3.3/5 | Level: 3.36/7)
+- Physics (Importance: 3.21/5 | Level: 4.11/7)
+- Administrative (Importance: 3.02/5 | Level: 3.26/7)
+- Administration and Management (Importance: 2.84/5 | Level: 3.04/7)
+- Customer and Personal Service (Importance: 2.84/5 | Level: 2.87/7)
+- Education and Training (Importance: 2.63/5 | Level: 3.47/7)
+- Building and Construction (Importance: 2.51/5 | Level: 2.08/7)
+- Law and Government (Importance: 2.48/5 | Level: 2.48/7)
+- Public Safety and Security (Importance: 2.47/5 | Level: 2.54/7)
+- Chemistry (Importance: 2.36/5 | Level: 2.96/7)
+- Communications and Media (Importance: 2.16/5 | Level: 1.71/7)
+- Telecommunications (Importance: 2.02/5 | Level: 1.48/7)
+- Economics and Accounting (Importance: 2.02/5 | Level: 1.46/7)
+- Transportation (Importance: 1.85/5 | Level: 1.58/7)
+- Personnel and Human Resources (Importance: 1.79/5 | Level: 1.41/7)
+- Food Production (Importance: 1.66/5 | Level: 0.97/7)
+- Geography (Importance: 1.53/5 | Level: 1.1/7)
+- Foreign Language (Importance: 1.44/5 | Level: 0.87/7)
+- Psychology (Importance: 1.43/5 | Level: 1.11/7)
+- Sales and Marketing (Importance: 1.4/5 | Level: 0.68/7)
+- History and Archeology (Importance: 1.36/5 | Level: 0.62/7)
+- Medicine and Dentistry (Importance: 1.35/5 | Level: 0.66/7)
+- Philosophy and Theology (Importance: 1.31/5 | Level: 0.64/7)
+- Biology (Importance: 1.28/5 | Level: 0.56/7)
+- Therapy and Counseling (Importance: 1.24/5 | Level: 0.5/7)
+- Sociology and Anthropology (Importance: 1.22/5 | Level: 0.34/7)
+- Fine Arts (Importance: 1.03/5 | Level: 0.05/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Critical Thinking (Importance: 3.75/5 | Level: 3.88/7)
@@ -369,3 +405,25 @@ Apply theory and principles of mechanical engineering to modify, develop, test, 
 - Primary Interest: Realistic
 - Secondary Interest: Investigative
 - Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Calibration Technologists and Technicians
+- Electrical and Electronic Engineering Technologists and Technicians
+- Aerospace Engineering and Operations Technologists and Technicians
+- Robotics Technicians
+- Industrial Engineering Technologists and Technicians
+- Automotive Engineering Technicians
+- Mechanical Drafters
+- Photonics Technicians
+- Civil Engineering Technologists and Technicians
+- Nanotechnology Engineering Technologists and Technicians
+- Mechatronics Engineers
+- Mechanical Engineers
+- Industrial Engineers
+- Electronics Engineers, Except Computer
+- Manufacturing Engineers
+- Electrical and Electronics Repairers, Commercial and Industrial Equipment
+- Electrical Engineers
+- Electrical and Electronics Drafters
+- Aerospace Engineers
+- Software Developers

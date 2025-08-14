@@ -24,6 +24,42 @@ Answer inquiries and provide information to the general public, customers, visit
 - Enroll individuals to participate in programs and notify them of their acceptance.
 - Take orders for merchandise or materials and send them to the proper departments to be filled.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.21/5 | Level: 3.83/7)
+- Administrative (Importance: 3.87/5 | Level: 4.53/7)
+- English Language (Importance: 3.73/5 | Level: 3.12/7)
+- Computers and Electronics (Importance: 3.4/5 | Level: 3.65/7)
+- Mathematics (Importance: 2.73/5 | Level: 2.71/7)
+- Public Safety and Security (Importance: 2.72/5 | Level: 2.35/7)
+- Administration and Management (Importance: 2.67/5 | Level: 1.96/7)
+- Telecommunications (Importance: 2.66/5 | Level: 1.45/7)
+- Personnel and Human Resources (Importance: 2.55/5 | Level: 1.46/7)
+- Communications and Media (Importance: 2.5/5 | Level: 2.39/7)
+- Education and Training (Importance: 2.47/5 | Level: 2.34/7)
+- Law and Government (Importance: 2.32/5 | Level: 1.32/7)
+- Medicine and Dentistry (Importance: 2.01/5 | Level: 1.73/7)
+- Production and Processing (Importance: 1.92/5 | Level: 0.77/7)
+- Foreign Language (Importance: 1.87/5 | Level: 1.19/7)
+- Sociology and Anthropology (Importance: 1.84/5 | Level: 0.96/7)
+- Psychology (Importance: 1.79/5 | Level: 1.38/7)
+- Economics and Accounting (Importance: 1.72/5 | Level: 0.96/7)
+- Sales and Marketing (Importance: 1.65/5 | Level: 1.4/7)
+- Transportation (Importance: 1.48/5 | Level: 0.64/7)
+- Engineering and Technology (Importance: 1.45/5 | Level: 0.88/7)
+- Physics (Importance: 1.33/5 | Level: 0.45/7)
+- Philosophy and Theology (Importance: 1.26/5 | Level: 0.35/7)
+- Therapy and Counseling (Importance: 1.26/5 | Level: 0.57/7)
+- Design (Importance: 1.25/5 | Level: 0.41/7)
+- Geography (Importance: 1.25/5 | Level: 0.42/7)
+- Chemistry (Importance: 1.24/5 | Level: 0.55/7)
+- Food Production (Importance: 1.2/5 | Level: 0.35/7)
+- Mechanical (Importance: 1.19/5 | Level: 0.3/7)
+- History and Archeology (Importance: 1.19/5 | Level: 0.25/7)
+- Building and Construction (Importance: 1.19/5 | Level: 0.21/7)
+- Fine Arts (Importance: 1.18/5 | Level: 0.18/7)
+- Biology (Importance: 1.13/5 | Level: 0.21/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Speaking (Importance: 3.88/5 | Level: 3.0/7)
@@ -184,3 +220,25 @@ Answer inquiries and provide information to the general public, customers, visit
 - Primary Interest: Conventional
 - Secondary Interest: Enterprising
 - Tertiary Interest: Social
+
+# RELATED OCCUPATIONS
+- Medical Secretaries and Administrative Assistants
+- Office Clerks, General
+- Customer Service Representatives
+- Secretaries and Administrative Assistants, Except Legal, Medical, and Executive
+- Switchboard Operators, Including Answering Service
+- Executive Secretaries and Executive Administrative Assistants
+- Counter and Rental Clerks
+- Interviewers, Except Eligibility and Loan
+- Patient Representatives
+- Correspondence Clerks
+- Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel
+- Administrative Services Managers
+- First-Line Supervisors of Office and Administrative Support Workers
+- Telemarketers
+- Hotel, Motel, and Resort Desk Clerks
+- Medical Records Specialists
+- Eligibility Interviewers, Government Programs
+- Billing and Posting Clerks
+- Human Resources Assistants, Except Payroll and Timekeeping
+- Insurance Claims and Policy Processing Clerks

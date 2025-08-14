@@ -18,6 +18,42 @@ Read meter and record consumption of electricity, gas, water, or steam.
 - Perform preventative maintenance or minor repairs on meters.
 - Report lost or broken keys.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 3.71/5 | Level: 4.19/7)
+- Public Safety and Security (Importance: 3.47/5 | Level: 3.09/7)
+- English Language (Importance: 3.35/5 | Level: 2.82/7)
+- Mathematics (Importance: 3.07/5 | Level: 2.85/7)
+- Mechanical (Importance: 2.92/5 | Level: 2.67/7)
+- Computers and Electronics (Importance: 2.85/5 | Level: 3.16/7)
+- Administration and Management (Importance: 2.58/5 | Level: 2.57/7)
+- Administrative (Importance: 2.51/5 | Level: 2.6/7)
+- Transportation (Importance: 2.34/5 | Level: 1.86/7)
+- Building and Construction (Importance: 2.34/5 | Level: 2.13/7)
+- Education and Training (Importance: 2.2/5 | Level: 1.88/7)
+- Physics (Importance: 2.19/5 | Level: 1.95/7)
+- Law and Government (Importance: 2.19/5 | Level: 1.75/7)
+- Engineering and Technology (Importance: 2.11/5 | Level: 2.05/7)
+- Design (Importance: 2.11/5 | Level: 1.75/7)
+- Telecommunications (Importance: 2.09/5 | Level: 1.35/7)
+- Chemistry (Importance: 2.02/5 | Level: 1.82/7)
+- Production and Processing (Importance: 1.95/5 | Level: 1.57/7)
+- Personnel and Human Resources (Importance: 1.95/5 | Level: 1.41/7)
+- Communications and Media (Importance: 1.84/5 | Level: 1.48/7)
+- Biology (Importance: 1.75/5 | Level: 1.23/7)
+- Foreign Language (Importance: 1.74/5 | Level: 0.95/7)
+- Geography (Importance: 1.71/5 | Level: 1.22/7)
+- Economics and Accounting (Importance: 1.68/5 | Level: 1.15/7)
+- Psychology (Importance: 1.47/5 | Level: 0.72/7)
+- Sales and Marketing (Importance: 1.42/5 | Level: 1.1/7)
+- Medicine and Dentistry (Importance: 1.39/5 | Level: 0.56/7)
+- Food Production (Importance: 1.31/5 | Level: 0.46/7)
+- Therapy and Counseling (Importance: 1.19/5 | Level: 0.37/7)
+- Philosophy and Theology (Importance: 1.18/5 | Level: 0.45/7)
+- Sociology and Anthropology (Importance: 1.1/5 | Level: 0.19/7)
+- Fine Arts (Importance: 1.05/5 | Level: 0.1/7)
+- History and Archeology (Importance: 1.01/5 | Level: 0.03/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Time Management (Importance: 3.0/5 | Level: 2.62/7)
@@ -162,3 +198,25 @@ Read meter and record consumption of electricity, gas, water, or steam.
 - Primary Interest: Conventional
 - Secondary Interest: Realistic
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Control and Valve Installers and Repairers, Except Mechanical Door
+- Power Distributors and Dispatchers
+- Electrical and Electronics Repairers, Powerhouse, Substation, and Relay
+- Electrical and Electronics Repairers, Commercial and Industrial Equipment
+- Electrical and Electronics Installers and Repairers, Transportation Equipment
+- Power Plant Operators
+- Calibration Technologists and Technicians
+- Inspectors, Testers, Sorters, Samplers, and Weighers
+- Stationary Engineers and Boiler Operators
+- Septic Tank Servicers and Sewer Pipe Cleaners
+- Gas Plant Operators
+- Electric Motor, Power Tool, and Related Repairers
+- Telecommunications Equipment Installers and Repairers, Except Line Installers
+- Electrical and Electronic Engineering Technologists and Technicians
+- Plumbers, Pipefitters, and Steamfitters
+- Geothermal Technicians
+- Maintenance and Repair Workers, General
+- Pump Operators, Except Wellhead Pumpers
+- Gas Compressor and Gas Pumping Station Operators
+- Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation

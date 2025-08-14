@@ -22,6 +22,42 @@ Draw and construct sets of precision master fabric patterns or layouts. May also
 - Trace outlines of paper onto cardboard patterns, and cut patterns into parts to make templates.
 - Trace outlines of specified patterns onto material, and cut fabric, using scissors.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Design (Importance: 4.2/5 | Level: 4.39/7)
+- Mathematics (Importance: 3.97/5 | Level: 3.98/7)
+- English Language (Importance: 3.91/5 | Level: 4.01/7)
+- Production and Processing (Importance: 3.86/5 | Level: 3.64/7)
+- Education and Training (Importance: 3.38/5 | Level: 3.5/7)
+- Engineering and Technology (Importance: 2.9/5 | Level: 2.99/7)
+- Computers and Electronics (Importance: 2.89/5 | Level: 3.14/7)
+- Administration and Management (Importance: 2.83/5 | Level: 3.02/7)
+- Mechanical (Importance: 2.78/5 | Level: 2.9/7)
+- Administrative (Importance: 2.65/5 | Level: 2.83/7)
+- Psychology (Importance: 2.23/5 | Level: 1.82/7)
+- Customer and Personal Service (Importance: 2.11/5 | Level: 1.56/7)
+- Foreign Language (Importance: 2.01/5 | Level: 1.73/7)
+- Sales and Marketing (Importance: 1.99/5 | Level: 1.45/7)
+- Fine Arts (Importance: 1.88/5 | Level: 1.59/7)
+- Transportation (Importance: 1.79/5 | Level: 1.23/7)
+- Personnel and Human Resources (Importance: 1.76/5 | Level: 0.95/7)
+- Public Safety and Security (Importance: 1.73/5 | Level: 1.05/7)
+- Telecommunications (Importance: 1.72/5 | Level: 0.87/7)
+- Sociology and Anthropology (Importance: 1.69/5 | Level: 1.28/7)
+- Chemistry (Importance: 1.59/5 | Level: 0.93/7)
+- Communications and Media (Importance: 1.55/5 | Level: 1.08/7)
+- Physics (Importance: 1.5/5 | Level: 1.37/7)
+- Therapy and Counseling (Importance: 1.41/5 | Level: 0.91/7)
+- History and Archeology (Importance: 1.38/5 | Level: 0.61/7)
+- Law and Government (Importance: 1.37/5 | Level: 0.78/7)
+- Economics and Accounting (Importance: 1.36/5 | Level: 0.53/7)
+- Biology (Importance: 1.28/5 | Level: 0.36/7)
+- Building and Construction (Importance: 1.21/5 | Level: 0.4/7)
+- Philosophy and Theology (Importance: 1.2/5 | Level: 0.68/7)
+- Geography (Importance: 1.16/5 | Level: 0.38/7)
+- Medicine and Dentistry (Importance: 1.0/5 | Level: 0.0/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Critical Thinking (Importance: 3.75/5 | Level: 3.38/7)
@@ -159,3 +195,25 @@ Draw and construct sets of precision master fabric patterns or layouts. May also
 - Primary Interest: Realistic
 - Secondary Interest: Artistic
 - Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Patternmakers, Metal and Plastic
+- Sewers, Hand
+- Patternmakers, Wood
+- Fashion Designers
+- Tailors, Dressmakers, and Custom Sewers
+- Layout Workers, Metal and Plastic
+- Cutters and Trimmers, Hand
+- Sewing Machine Operators
+- Etchers and Engravers
+- Molders, Shapers, and Casters, Except Metal and Plastic
+- Commercial and Industrial Designers
+- Model Makers, Wood
+- Model Makers, Metal and Plastic
+- Painting, Coating, and Decorating Workers
+- Tool and Die Makers
+- Shoe Machine Operators and Tenders
+- Shoe and Leather Workers and Repairers
+- Textile Cutting Machine Setters, Operators, and Tenders
+- Stone Cutters and Carvers, Manufacturing
+- Print Binding and Finishing Workers

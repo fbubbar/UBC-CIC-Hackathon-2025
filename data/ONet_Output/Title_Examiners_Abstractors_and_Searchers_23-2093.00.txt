@@ -22,6 +22,42 @@ Search real estate records, examine titles, or summarize pertinent legal or insu
 - Assess fees related to registration of property-related documents.
 - Summarize pertinent legal or insurance details, or sections of statutes or case law from reference books for use in examinations or as proofs or ready reference.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- English Language (Importance: 3.61/5 | Level: 3.57/7)
+- Law and Government (Importance: 3.53/5 | Level: 4.05/7)
+- Administrative (Importance: 3.15/5 | Level: 4.42/7)
+- Customer and Personal Service (Importance: 3.11/5 | Level: 2.99/7)
+- Computers and Electronics (Importance: 3.01/5 | Level: 3.31/7)
+- Mathematics (Importance: 2.61/5 | Level: 3.17/7)
+- Geography (Importance: 2.31/5 | Level: 2.65/7)
+- Production and Processing (Importance: 2.31/5 | Level: 2.28/7)
+- Education and Training (Importance: 1.99/5 | Level: 2.11/7)
+- Administration and Management (Importance: 1.83/5 | Level: 2.09/7)
+- Sales and Marketing (Importance: 1.77/5 | Level: 1.55/7)
+- Communications and Media (Importance: 1.72/5 | Level: 1.08/7)
+- Telecommunications (Importance: 1.62/5 | Level: 0.87/7)
+- Economics and Accounting (Importance: 1.56/5 | Level: 0.69/7)
+- Transportation (Importance: 1.53/5 | Level: 1.19/7)
+- Public Safety and Security (Importance: 1.49/5 | Level: 0.84/7)
+- Engineering and Technology (Importance: 1.48/5 | Level: 0.69/7)
+- Design (Importance: 1.33/5 | Level: 0.71/7)
+- Personnel and Human Resources (Importance: 1.26/5 | Level: 0.5/7)
+- Psychology (Importance: 1.22/5 | Level: 0.56/7)
+- History and Archeology (Importance: 1.18/5 | Level: 0.4/7)
+- Sociology and Anthropology (Importance: 1.13/5 | Level: 0.37/7)
+- Physics (Importance: 1.09/5 | Level: 0.18/7)
+- Building and Construction (Importance: 1.09/5 | Level: 0.18/7)
+- Mechanical (Importance: 1.09/5 | Level: 0.27/7)
+- Therapy and Counseling (Importance: 1.0/5 | Level: 0.01/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+- Foreign Language (Importance: 1.0/5 | Level: 0.0/7)
+- Biology (Importance: 1.0/5 | Level: 0.0/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+- Philosophy and Theology (Importance: 1.0/5 | Level: 0.0/7)
+- Chemistry (Importance: 1.0/5 | Level: 0.0/7)
+- Medicine and Dentistry (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Reading Comprehension (Importance: 4.12/5 | Level: 3.88/7)
@@ -161,3 +197,25 @@ Search real estate records, examine titles, or summarize pertinent legal or insu
 - Primary Interest: Conventional
 - Secondary Interest: Enterprising
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Paralegals and Legal Assistants
+- Appraisers and Assessors of Real Estate
+- Court, Municipal, and License Clerks
+- File Clerks
+- Appraisers of Personal and Business Property
+- Legal Secretaries and Administrative Assistants
+- Court Reporters and Simultaneous Captioners
+- Government Property Inspectors and Investigators
+- Insurance Claims and Policy Processing Clerks
+- Credit Authorizers, Checkers, and Clerks
+- Judicial Law Clerks
+- Lawyers
+- Administrative Law Judges, Adjudicators, and Hearing Officers
+- Compliance Officers
+- Tax Examiners and Collectors, and Revenue Agents
+- Medical Records Specialists
+- Claims Adjusters, Examiners, and Investigators
+- Correspondence Clerks
+- Loan Interviewers and Clerks
+- Document Management Specialists

@@ -30,6 +30,42 @@ Sell merchandise, such as furniture, motor vehicles, appliances, or apparel to c
 - Rent merchandise to customers.
 - Estimate cost of repair or alteration of merchandise.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Sales and Marketing (Importance: 4.52/5 | Level: 4.51/7)
+- Customer and Personal Service (Importance: 4.34/5 | Level: 4.06/7)
+- English Language (Importance: 3.67/5 | Level: 3.23/7)
+- Administration and Management (Importance: 3.04/5 | Level: 2.92/7)
+- Mathematics (Importance: 3.03/5 | Level: 2.98/7)
+- Administrative (Importance: 3.01/5 | Level: 3.2/7)
+- Psychology (Importance: 2.89/5 | Level: 2.92/7)
+- Computers and Electronics (Importance: 2.75/5 | Level: 3.05/7)
+- Education and Training (Importance: 2.69/5 | Level: 2.29/7)
+- Communications and Media (Importance: 2.45/5 | Level: 2.21/7)
+- Public Safety and Security (Importance: 2.35/5 | Level: 1.9/7)
+- Economics and Accounting (Importance: 2.28/5 | Level: 1.69/7)
+- Production and Processing (Importance: 2.25/5 | Level: 2.01/7)
+- Telecommunications (Importance: 2.05/5 | Level: 1.09/7)
+- Design (Importance: 1.99/5 | Level: 1.31/7)
+- Law and Government (Importance: 1.96/5 | Level: 1.48/7)
+- Transportation (Importance: 1.95/5 | Level: 1.23/7)
+- Engineering and Technology (Importance: 1.89/5 | Level: 1.42/7)
+- Sociology and Anthropology (Importance: 1.87/5 | Level: 1.59/7)
+- Personnel and Human Resources (Importance: 1.85/5 | Level: 1.66/7)
+- Mechanical (Importance: 1.81/5 | Level: 1.67/7)
+- Medicine and Dentistry (Importance: 1.75/5 | Level: 1.05/7)
+- Foreign Language (Importance: 1.74/5 | Level: 1.28/7)
+- Fine Arts (Importance: 1.7/5 | Level: 0.8/7)
+- Therapy and Counseling (Importance: 1.63/5 | Level: 1.16/7)
+- Geography (Importance: 1.61/5 | Level: 0.98/7)
+- Philosophy and Theology (Importance: 1.48/5 | Level: 0.86/7)
+- Building and Construction (Importance: 1.43/5 | Level: 0.77/7)
+- Chemistry (Importance: 1.39/5 | Level: 0.73/7)
+- Physics (Importance: 1.37/5 | Level: 0.76/7)
+- Food Production (Importance: 1.36/5 | Level: 0.52/7)
+- History and Archeology (Importance: 1.26/5 | Level: 0.59/7)
+- Biology (Importance: 1.17/5 | Level: 0.32/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Persuasion (Importance: 3.88/5 | Level: 4.0/7)
@@ -235,3 +271,25 @@ Sell merchandise, such as furniture, motor vehicles, appliances, or apparel to c
 - Primary Interest: Enterprising
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Counter and Rental Clerks
+- Door-to-Door Sales Workers, News and Street Vendors, and Related Workers
+- Stockers and Order Fillers
+- Demonstrators and Product Promoters
+- First-Line Supervisors of Retail Sales Workers
+- Parts Salespersons
+- Cashiers
+- Customer Service Representatives
+- Telemarketers
+- Order Clerks
+- Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products
+- Wholesale and Retail Buyers, Except Farm Products
+- Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products
+- Merchandise Displayers and Window Trimmers
+- Advertising Sales Agents
+- Sales Managers
+- Buyers and Purchasing Agents, Farm Products
+- Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel
+- Shipping, Receiving, and Inventory Clerks
+- Purchasing Agents, Except Wholesale, Retail, and Farm Products

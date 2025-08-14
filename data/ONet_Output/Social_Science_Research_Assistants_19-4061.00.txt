@@ -28,6 +28,42 @@ Assist social scientists in laboratory, survey, and other social science researc
 - Perform needs assessments or consult with clients to determine the types of research and information required.
 - Allocate and manage laboratory space and resources.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- English Language (Importance: 4.25/5 | Level: 4.71/7)
+- Computers and Electronics (Importance: 3.47/5 | Level: 4.17/7)
+- Administrative (Importance: 3.24/5 | Level: 4.54/7)
+- Mathematics (Importance: 3.09/5 | Level: 4.07/7)
+- Customer and Personal Service (Importance: 3.02/5 | Level: 3.34/7)
+- Education and Training (Importance: 2.92/5 | Level: 3.24/7)
+- Psychology (Importance: 2.53/5 | Level: 2.64/7)
+- Administration and Management (Importance: 2.47/5 | Level: 2.65/7)
+- Law and Government (Importance: 2.16/5 | Level: 1.82/7)
+- Communications and Media (Importance: 2.15/5 | Level: 1.74/7)
+- Sociology and Anthropology (Importance: 2.12/5 | Level: 2.59/7)
+- Economics and Accounting (Importance: 2.1/5 | Level: 2.39/7)
+- Biology (Importance: 2.02/5 | Level: 1.62/7)
+- Medicine and Dentistry (Importance: 1.92/5 | Level: 0.89/7)
+- Personnel and Human Resources (Importance: 1.92/5 | Level: 1.98/7)
+- Therapy and Counseling (Importance: 1.92/5 | Level: 1.5/7)
+- Philosophy and Theology (Importance: 1.81/5 | Level: 1.7/7)
+- Telecommunications (Importance: 1.78/5 | Level: 1.08/7)
+- Chemistry (Importance: 1.75/5 | Level: 1.17/7)
+- Public Safety and Security (Importance: 1.73/5 | Level: 1.4/7)
+- Foreign Language (Importance: 1.53/5 | Level: 1.02/7)
+- Design (Importance: 1.52/5 | Level: 0.82/7)
+- Sales and Marketing (Importance: 1.43/5 | Level: 1.49/7)
+- Transportation (Importance: 1.43/5 | Level: 0.98/7)
+- History and Archeology (Importance: 1.42/5 | Level: 1.05/7)
+- Geography (Importance: 1.41/5 | Level: 1.1/7)
+- Mechanical (Importance: 1.29/5 | Level: 0.52/7)
+- Physics (Importance: 1.27/5 | Level: 0.31/7)
+- Production and Processing (Importance: 1.24/5 | Level: 0.46/7)
+- Engineering and Technology (Importance: 1.22/5 | Level: 0.37/7)
+- Fine Arts (Importance: 1.2/5 | Level: 0.36/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+- Building and Construction (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Reading Comprehension (Importance: 4.0/5 | Level: 4.75/7)
@@ -172,3 +208,25 @@ Assist social scientists in laboratory, survey, and other social science researc
 - Primary Interest: Investigative
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Data Scientists
+- Clinical Data Managers
+- Statisticians
+- Survey Researchers
+- Clinical Research Coordinators
+- Statistical Assistants
+- Health Informatics Specialists
+- Teaching Assistants, Postsecondary
+- Sociologists
+- Bioinformatics Technicians
+- Management Analysts
+- Biostatisticians
+- Education Administrators, Postsecondary
+- Health Information Technologists and Medical Registrars
+- Instructional Coordinators
+- Executive Secretaries and Executive Administrative Assistants
+- Secretaries and Administrative Assistants, Except Legal, Medical, and Executive
+- Education Teachers, Postsecondary
+- Interviewers, Except Eligibility and Loan
+- Librarians and Media Collections Specialists

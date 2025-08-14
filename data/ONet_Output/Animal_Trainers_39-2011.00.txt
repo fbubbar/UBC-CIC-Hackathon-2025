@@ -21,6 +21,42 @@ Train animals for riding, harness, security, performance, or obedience, or for a
 - Train dogs in human assistance or property protection duties.
 - Organize or conduct animal shows.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.05/5 | Level: 4.23/7)
+- Education and Training (Importance: 3.6/5 | Level: 4.31/7)
+- Psychology (Importance: 3.19/5 | Level: 3.67/7)
+- Administration and Management (Importance: 3.12/5 | Level: 2.91/7)
+- English Language (Importance: 3.11/5 | Level: 3.04/7)
+- Sales and Marketing (Importance: 2.82/5 | Level: 2.77/7)
+- Administrative (Importance: 2.74/5 | Level: 3.42/7)
+- Personnel and Human Resources (Importance: 2.67/5 | Level: 2.18/7)
+- Biology (Importance: 2.59/5 | Level: 2.08/7)
+- Public Safety and Security (Importance: 2.52/5 | Level: 2.39/7)
+- Economics and Accounting (Importance: 2.47/5 | Level: 2.18/7)
+- Computers and Electronics (Importance: 2.4/5 | Level: 2.52/7)
+- Sociology and Anthropology (Importance: 2.36/5 | Level: 2.07/7)
+- Law and Government (Importance: 2.31/5 | Level: 2.2/7)
+- Mathematics (Importance: 2.15/5 | Level: 1.99/7)
+- Medicine and Dentistry (Importance: 2.07/5 | Level: 1.92/7)
+- Therapy and Counseling (Importance: 2.05/5 | Level: 2.12/7)
+- Production and Processing (Importance: 2.01/5 | Level: 1.57/7)
+- Communications and Media (Importance: 2.0/5 | Level: 2.05/7)
+- Mechanical (Importance: 1.93/5 | Level: 1.69/7)
+- Engineering and Technology (Importance: 1.81/5 | Level: 1.57/7)
+- Transportation (Importance: 1.77/5 | Level: 1.46/7)
+- Geography (Importance: 1.75/5 | Level: 1.46/7)
+- Building and Construction (Importance: 1.73/5 | Level: 1.33/7)
+- Telecommunications (Importance: 1.68/5 | Level: 0.88/7)
+- Design (Importance: 1.64/5 | Level: 1.51/7)
+- Foreign Language (Importance: 1.48/5 | Level: 0.88/7)
+- Chemistry (Importance: 1.45/5 | Level: 0.91/7)
+- Philosophy and Theology (Importance: 1.42/5 | Level: 0.91/7)
+- History and Archeology (Importance: 1.3/5 | Level: 0.64/7)
+- Physics (Importance: 1.28/5 | Level: 0.39/7)
+- Fine Arts (Importance: 1.18/5 | Level: 0.34/7)
+- Food Production (Importance: 1.16/5 | Level: 0.24/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Instructing (Importance: 3.75/5 | Level: 3.12/7)
@@ -173,3 +209,25 @@ Train animals for riding, harness, security, performance, or obedience, or for a
 - Primary Interest: Realistic
 - Secondary Interest: Social
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Animal Caretakers
+- Animal Breeders
+- Animal Control Workers
+- Veterinary Assistants and Laboratory Animal Caretakers
+- Exercise Trainers and Group Fitness Instructors
+- Farmworkers, Farm, Ranch, and Aquacultural Animals
+- Veterinary Technologists and Technicians
+- Umpires, Referees, and Other Sports Officials
+- Athletes and Sports Competitors
+- Self-Enrichment Teachers
+- Veterinarians
+- Athletic Trainers
+- Animal Scientists
+- Training and Development Specialists
+- Coaches and Scouts
+- Training and Development Managers
+- Exercise Physiologists
+- Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers
+- Amusement and Recreation Attendants
+- Zoologists and Wildlife Biologists

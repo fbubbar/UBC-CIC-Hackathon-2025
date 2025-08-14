@@ -36,6 +36,42 @@ Perform surveying and mapping duties, usually under the direction of an engineer
 - Set out and recover stakes, marks, or other monumentation.
 - Supervise or coordinate activities of workers engaged in surveying, plotting data, drafting maps, or producing blueprints, photostats, or photographs.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Computers and Electronics (Importance: 4.15/5 | Level: 5.08/7)
+- Geography (Importance: 3.86/5 | Level: 5.52/7)
+- Mathematics (Importance: 3.66/5 | Level: 4.28/7)
+- English Language (Importance: 3.59/5 | Level: 3.76/7)
+- Engineering and Technology (Importance: 3.49/5 | Level: 3.84/7)
+- Design (Importance: 3.29/5 | Level: 4.04/7)
+- Customer and Personal Service (Importance: 3.17/5 | Level: 3.29/7)
+- Administrative (Importance: 2.92/5 | Level: 3.55/7)
+- Law and Government (Importance: 2.77/5 | Level: 2.67/7)
+- Administration and Management (Importance: 2.67/5 | Level: 2.95/7)
+- Building and Construction (Importance: 2.63/5 | Level: 2.79/7)
+- Public Safety and Security (Importance: 2.6/5 | Level: 2.45/7)
+- Education and Training (Importance: 2.54/5 | Level: 2.62/7)
+- History and Archeology (Importance: 2.25/5 | Level: 2.21/7)
+- Physics (Importance: 2.22/5 | Level: 2.46/7)
+- Transportation (Importance: 2.19/5 | Level: 2.22/7)
+- Communications and Media (Importance: 2.19/5 | Level: 2.25/7)
+- Production and Processing (Importance: 2.04/5 | Level: 1.73/7)
+- Telecommunications (Importance: 1.92/5 | Level: 1.5/7)
+- Mechanical (Importance: 1.92/5 | Level: 1.81/7)
+- Personnel and Human Resources (Importance: 1.92/5 | Level: 1.55/7)
+- Economics and Accounting (Importance: 1.9/5 | Level: 1.31/7)
+- Biology (Importance: 1.68/5 | Level: 1.34/7)
+- Sales and Marketing (Importance: 1.68/5 | Level: 1.37/7)
+- Chemistry (Importance: 1.61/5 | Level: 1.26/7)
+- Psychology (Importance: 1.54/5 | Level: 1.02/7)
+- Foreign Language (Importance: 1.51/5 | Level: 0.9/7)
+- Sociology and Anthropology (Importance: 1.46/5 | Level: 0.71/7)
+- Philosophy and Theology (Importance: 1.39/5 | Level: 0.75/7)
+- Therapy and Counseling (Importance: 1.31/5 | Level: 0.66/7)
+- Medicine and Dentistry (Importance: 1.31/5 | Level: 0.52/7)
+- Fine Arts (Importance: 1.25/5 | Level: 0.49/7)
+- Food Production (Importance: 1.13/5 | Level: 0.24/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Reading Comprehension (Importance: 3.88/5 | Level: 3.75/7)
@@ -269,3 +305,25 @@ Perform surveying and mapping duties, usually under the direction of an engineer
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Cartographers and Photogrammetrists
+- Geodetic Surveyors
+- Geographic Information Systems Technologists and Technicians
+- Surveyors
+- Geological Technicians, Except Hydrologic Technicians
+- Architectural and Civil Drafters
+- Civil Engineering Technologists and Technicians
+- Geographers
+- Remote Sensing Technicians
+- Remote Sensing Scientists and Technologists
+- Electrical and Electronics Drafters
+- Geoscientists, Except Hydrologists and Geographers
+- Data Scientists
+- Civil Engineers
+- Statistical Assistants
+- Traffic Technicians
+- Calibration Technologists and Technicians
+- Hydrologists
+- Hydrologic Technicians
+- Mining and Geological Engineers, Including Mining Safety Engineers

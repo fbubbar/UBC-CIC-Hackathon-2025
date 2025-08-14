@@ -36,6 +36,42 @@ Control and extinguish fires or respond to emergency situations where life, prop
 - Search to locate fire survivors.
 - Train new employees to control and suppress fires.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Public Safety and Security (Importance: 4.53/5 | Level: 5.2/7)
+- Customer and Personal Service (Importance: 4.19/5 | Level: 5.89/7)
+- Education and Training (Importance: 4.13/5 | Level: 4.94/7)
+- Building and Construction (Importance: 4.03/5 | Level: 4.08/7)
+- English Language (Importance: 3.91/5 | Level: 3.74/7)
+- Mechanical (Importance: 3.78/5 | Level: 4.43/7)
+- Medicine and Dentistry (Importance: 3.62/5 | Level: 3.73/7)
+- Telecommunications (Importance: 3.58/5 | Level: 3.39/7)
+- Administration and Management (Importance: 3.43/5 | Level: 3.5/7)
+- Transportation (Importance: 3.42/5 | Level: 3.69/7)
+- Law and Government (Importance: 3.4/5 | Level: 3.56/7)
+- Chemistry (Importance: 3.33/5 | Level: 3.75/7)
+- Psychology (Importance: 3.24/5 | Level: 4.48/7)
+- Mathematics (Importance: 3.16/5 | Level: 3.51/7)
+- Personnel and Human Resources (Importance: 2.92/5 | Level: 2.7/7)
+- Physics (Importance: 2.88/5 | Level: 3.45/7)
+- Computers and Electronics (Importance: 2.85/5 | Level: 3.35/7)
+- Geography (Importance: 2.84/5 | Level: 2.92/7)
+- Administrative (Importance: 2.83/5 | Level: 3.27/7)
+- Communications and Media (Importance: 2.76/5 | Level: 2.91/7)
+- Therapy and Counseling (Importance: 2.68/5 | Level: 3.22/7)
+- Engineering and Technology (Importance: 2.55/5 | Level: 2.76/7)
+- Biology (Importance: 2.46/5 | Level: 2.33/7)
+- Design (Importance: 2.41/5 | Level: 2.7/7)
+- Sociology and Anthropology (Importance: 2.11/5 | Level: 1.97/7)
+- Economics and Accounting (Importance: 1.94/5 | Level: 1.44/7)
+- Production and Processing (Importance: 1.93/5 | Level: 1.72/7)
+- Philosophy and Theology (Importance: 1.78/5 | Level: 1.6/7)
+- Foreign Language (Importance: 1.67/5 | Level: 1.14/7)
+- Sales and Marketing (Importance: 1.55/5 | Level: 1.03/7)
+- Food Production (Importance: 1.47/5 | Level: 0.77/7)
+- History and Archeology (Importance: 1.46/5 | Level: 0.9/7)
+- Fine Arts (Importance: 1.13/5 | Level: 0.18/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Critical Thinking (Importance: 3.88/5 | Level: 3.75/7)
@@ -353,3 +389,25 @@ Control and extinguish fires or respond to emergency situations where life, prop
 - Primary Interest: Realistic
 - Secondary Interest: Unknown (0)
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- First-Line Supervisors of Firefighting and Prevention Workers
+- Forest Fire Inspectors and Prevention Specialists
+- Fire Inspectors and Investigators
+- Fire-Prevention and Protection Engineers
+- Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers
+- Occupational Health and Safety Specialists
+- Hazardous Materials Removal Workers
+- Emergency Medical Technicians
+- Ambulance Drivers and Attendants, Except Emergency Medical Technicians
+- Paramedics
+- Ship Engineers
+- Security Guards
+- Forest and Conservation Workers
+- Stationary Engineers and Boiler Operators
+- Occupational Health and Safety Technicians
+- Electrical Power-Line Installers and Repairers
+- Emergency Management Directors
+- Forest and Conservation Technicians
+- Locomotive Engineers
+- Sailors and Marine Oilers

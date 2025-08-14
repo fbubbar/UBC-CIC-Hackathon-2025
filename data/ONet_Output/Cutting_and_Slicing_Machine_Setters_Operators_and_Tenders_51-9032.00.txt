@@ -31,6 +31,42 @@ Set up, operate, or tend machines that cut or slice materials, such as glass, st
 - Tighten pulleys or add abrasives to maintain cutting speeds.
 - Cut stock manually to prepare for machine cutting, using tools such as knives, cleavers, handsaws, or hammers and chisels.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Production and Processing (Importance: 3.49/5 | Level: 3.25/7)
+- Mathematics (Importance: 3.21/5 | Level: 2.82/7)
+- Mechanical (Importance: 3.08/5 | Level: 3.21/7)
+- English Language (Importance: 2.74/5 | Level: 2.16/7)
+- Administration and Management (Importance: 2.67/5 | Level: 2.72/7)
+- Education and Training (Importance: 2.59/5 | Level: 2.44/7)
+- Customer and Personal Service (Importance: 2.53/5 | Level: 1.98/7)
+- Public Safety and Security (Importance: 2.4/5 | Level: 1.94/7)
+- Computers and Electronics (Importance: 2.36/5 | Level: 2.41/7)
+- Engineering and Technology (Importance: 2.08/5 | Level: 1.95/7)
+- Administrative (Importance: 2.05/5 | Level: 1.35/7)
+- Design (Importance: 2.02/5 | Level: 1.53/7)
+- Personnel and Human Resources (Importance: 1.9/5 | Level: 1.2/7)
+- Sales and Marketing (Importance: 1.77/5 | Level: 0.96/7)
+- Chemistry (Importance: 1.71/5 | Level: 1.41/7)
+- Physics (Importance: 1.7/5 | Level: 1.15/7)
+- Transportation (Importance: 1.62/5 | Level: 0.74/7)
+- Psychology (Importance: 1.6/5 | Level: 0.99/7)
+- Economics and Accounting (Importance: 1.51/5 | Level: 0.87/7)
+- Building and Construction (Importance: 1.46/5 | Level: 0.75/7)
+- Sociology and Anthropology (Importance: 1.42/5 | Level: 0.56/7)
+- Telecommunications (Importance: 1.32/5 | Level: 0.51/7)
+- Food Production (Importance: 1.28/5 | Level: 0.46/7)
+- Foreign Language (Importance: 1.23/5 | Level: 0.39/7)
+- Medicine and Dentistry (Importance: 1.21/5 | Level: 0.3/7)
+- Law and Government (Importance: 1.19/5 | Level: 0.39/7)
+- Therapy and Counseling (Importance: 1.18/5 | Level: 0.37/7)
+- Communications and Media (Importance: 1.17/5 | Level: 0.3/7)
+- Philosophy and Theology (Importance: 1.16/5 | Level: 0.33/7)
+- Biology (Importance: 1.12/5 | Level: 0.23/7)
+- History and Archeology (Importance: 1.1/5 | Level: 0.17/7)
+- Geography (Importance: 1.1/5 | Level: 0.22/7)
+- Fine Arts (Importance: 1.07/5 | Level: 0.11/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Operations Monitoring (Importance: 3.75/5 | Level: 3.62/7)
@@ -180,3 +216,25 @@ Set up, operate, or tend machines that cut or slice materials, such as glass, st
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+- Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Textile Cutting Machine Setters, Operators, and Tenders
+- Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic
+- Paper Goods Machine Setters, Operators, and Tenders
+- Sawing Machine Setters, Operators, and Tenders, Wood
+- Adhesive Bonding Machine Operators and Tenders
+- Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic
+- Rolling Machine Setters, Operators, and Tenders, Metal and Plastic
+- Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Grinding and Polishing Workers, Hand
+- Cutters and Trimmers, Hand
+- Tool Grinders, Filers, and Sharpeners
+- Machine Feeders and Offbearers
+- Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders
+- Shoe Machine Operators and Tenders
+- Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders
+- Tool and Die Makers
+- Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers

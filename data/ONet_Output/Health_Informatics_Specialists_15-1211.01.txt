@@ -23,6 +23,42 @@ Apply knowledge of nursing and informatics to assist in the design, development,
 - Provide consultation to nurses regarding hardware or software configuration.
 - Plan, install, repair, or troubleshoot telehealth technology applications or systems in homes.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Computers and Electronics (Importance: 4.2/5 | Level: 5.1/7)
+- English Language (Importance: 4.05/5 | Level: 4.76/7)
+- Medicine and Dentistry (Importance: 3.7/5 | Level: 4.05/7)
+- Education and Training (Importance: 3.67/5 | Level: 4.9/7)
+- Customer and Personal Service (Importance: 3.55/5 | Level: 4.24/7)
+- Administration and Management (Importance: 3.48/5 | Level: 4.1/7)
+- Mathematics (Importance: 3.24/5 | Level: 4.14/7)
+- Design (Importance: 3.19/5 | Level: 3.33/7)
+- Psychology (Importance: 3.15/5 | Level: 3.9/7)
+- Administrative (Importance: 3.1/5 | Level: 4.71/7)
+- Engineering and Technology (Importance: 3.1/5 | Level: 3.86/7)
+- Sociology and Anthropology (Importance: 3.0/5 | Level: 3.76/7)
+- Communications and Media (Importance: 2.95/5 | Level: 3.0/7)
+- Public Safety and Security (Importance: 2.9/5 | Level: 3.1/7)
+- Biology (Importance: 2.71/5 | Level: 2.57/7)
+- Telecommunications (Importance: 2.7/5 | Level: 2.05/7)
+- Personnel and Human Resources (Importance: 2.5/5 | Level: 3.5/7)
+- Law and Government (Importance: 2.35/5 | Level: 2.19/7)
+- Production and Processing (Importance: 2.1/5 | Level: 2.38/7)
+- Therapy and Counseling (Importance: 2.1/5 | Level: 2.38/7)
+- Sales and Marketing (Importance: 2.0/5 | Level: 2.76/7)
+- Economics and Accounting (Importance: 1.9/5 | Level: 1.76/7)
+- Philosophy and Theology (Importance: 1.81/5 | Level: 1.9/7)
+- Mechanical (Importance: 1.5/5 | Level: 1.05/7)
+- Foreign Language (Importance: 1.33/5 | Level: 0.71/7)
+- Geography (Importance: 1.29/5 | Level: 0.95/7)
+- History and Archeology (Importance: 1.24/5 | Level: 0.33/7)
+- Fine Arts (Importance: 1.24/5 | Level: 0.57/7)
+- Physics (Importance: 1.19/5 | Level: 0.43/7)
+- Chemistry (Importance: 1.19/5 | Level: 0.48/7)
+- Building and Construction (Importance: 1.19/5 | Level: 0.29/7)
+- Transportation (Importance: 1.1/5 | Level: 0.19/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Reading Comprehension (Importance: 4.38/5 | Level: 4.88/7)
@@ -197,3 +233,25 @@ Apply knowledge of nursing and informatics to assist in the design, development,
 - Primary Interest: Investigative
 - Secondary Interest: Conventional
 - Tertiary Interest: Social
+
+# RELATED OCCUPATIONS
+- Medical and Health Services Managers
+- Health Education Specialists
+- Health Information Technologists and Medical Registrars
+- Clinical Data Managers
+- Nurse Practitioners
+- Patient Representatives
+- Clinical Research Coordinators
+- Medical Records Specialists
+- Social Science Research Assistants
+- Computer Systems Analysts
+- Clinical Nurse Specialists
+- Nursing Instructors and Teachers, Postsecondary
+- Registered Nurses
+- Preventive Medicine Physicians
+- Emergency Medicine Physicians
+- Acute Care Nurses
+- Clinical Neuropsychologists
+- Licensed Practical and Licensed Vocational Nurses
+- Advanced Practice Psychiatric Nurses
+- Critical Care Nurses

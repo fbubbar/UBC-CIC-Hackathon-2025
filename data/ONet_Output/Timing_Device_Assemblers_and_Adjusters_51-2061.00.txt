@@ -23,6 +23,42 @@ Perform precision assembling or adjusting, within narrow tolerances, of timing d
 - Review blueprints, sketches, or work orders to gather information about tasks to be completed.
 - Tighten or replace loose jewels, using watchmakers' tools.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 3.61/5 | Level: 4.64/7)
+- Mathematics (Importance: 3.02/5 | Level: 3.21/7)
+- Production and Processing (Importance: 2.8/5 | Level: 3.27/7)
+- Engineering and Technology (Importance: 2.72/5 | Level: 3.51/7)
+- Education and Training (Importance: 2.62/5 | Level: 3.24/7)
+- Customer and Personal Service (Importance: 2.41/5 | Level: 2.47/7)
+- Computers and Electronics (Importance: 2.29/5 | Level: 2.04/7)
+- Administration and Management (Importance: 2.02/5 | Level: 1.45/7)
+- Physics (Importance: 1.97/5 | Level: 1.84/7)
+- English Language (Importance: 1.95/5 | Level: 1.96/7)
+- Sales and Marketing (Importance: 1.89/5 | Level: 1.18/7)
+- Psychology (Importance: 1.86/5 | Level: 1.64/7)
+- Design (Importance: 1.83/5 | Level: 1.46/7)
+- Building and Construction (Importance: 1.7/5 | Level: 1.41/7)
+- Personnel and Human Resources (Importance: 1.68/5 | Level: 1.14/7)
+- Public Safety and Security (Importance: 1.62/5 | Level: 1.28/7)
+- Administrative (Importance: 1.59/5 | Level: 0.95/7)
+- Communications and Media (Importance: 1.39/5 | Level: 0.69/7)
+- Chemistry (Importance: 1.36/5 | Level: 1.05/7)
+- Transportation (Importance: 1.35/5 | Level: 0.77/7)
+- Telecommunications (Importance: 1.31/5 | Level: 0.29/7)
+- Sociology and Anthropology (Importance: 1.28/5 | Level: 0.56/7)
+- Economics and Accounting (Importance: 1.26/5 | Level: 0.44/7)
+- Law and Government (Importance: 1.15/5 | Level: 0.31/7)
+- Foreign Language (Importance: 1.15/5 | Level: 0.25/7)
+- Geography (Importance: 1.04/5 | Level: 0.09/7)
+- Medicine and Dentistry (Importance: 1.0/5 | Level: 0.0/7)
+- History and Archeology (Importance: 1.0/5 | Level: 0.0/7)
+- Philosophy and Theology (Importance: 1.0/5 | Level: 0.0/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+- Biology (Importance: 1.0/5 | Level: 0.0/7)
+- Therapy and Counseling (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Repairing (Importance: 3.38/5 | Level: 3.12/7)
@@ -228,3 +264,25 @@ Perform precision assembling or adjusting, within narrow tolerances, of timing d
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Watch and Clock Repairers
+- Electromechanical Equipment Assemblers
+- Engine and Other Machine Assemblers
+- Electrical and Electronic Equipment Assemblers
+- Electric Motor, Power Tool, and Related Repairers
+- Calibration Technologists and Technicians
+- Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Grinding and Polishing Workers, Hand
+- Industrial Machinery Mechanics
+- Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+- Coil Winders, Tapers, and Finishers
+- Tool Grinders, Filers, and Sharpeners
+- Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic
+- Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Tool and Die Makers
+- Control and Valve Installers and Repairers, Except Mechanical Door
+- Machinists
+- Layout Workers, Metal and Plastic
+- Ophthalmic Laboratory Technicians

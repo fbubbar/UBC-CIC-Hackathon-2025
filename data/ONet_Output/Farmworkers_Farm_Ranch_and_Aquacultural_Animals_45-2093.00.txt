@@ -25,6 +25,42 @@ Attend to live farm, ranch, open range or aquacultural animals that may include 
 - Groom, clip, trim, or castrate animals, dock ears and tails, or shear coats to collect hair.
 - Spray livestock with disinfectants and insecticides, or dip or bathe animals.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Production and Processing (Importance: 3.2/5 | Level: 3.47/7)
+- Biology (Importance: 3.16/5 | Level: 3.03/7)
+- Administration and Management (Importance: 3.15/5 | Level: 3.17/7)
+- English Language (Importance: 3.14/5 | Level: 3.04/7)
+- Mechanical (Importance: 3.12/5 | Level: 3.92/7)
+- Food Production (Importance: 3.05/5 | Level: 3.11/7)
+- Mathematics (Importance: 3.0/5 | Level: 3.03/7)
+- Public Safety and Security (Importance: 2.97/5 | Level: 2.83/7)
+- Transportation (Importance: 2.81/5 | Level: 2.7/7)
+- Economics and Accounting (Importance: 2.77/5 | Level: 2.36/7)
+- Sales and Marketing (Importance: 2.72/5 | Level: 2.65/7)
+- Administrative (Importance: 2.72/5 | Level: 2.91/7)
+- Education and Training (Importance: 2.62/5 | Level: 2.96/7)
+- Law and Government (Importance: 2.53/5 | Level: 2.55/7)
+- Chemistry (Importance: 2.52/5 | Level: 2.9/7)
+- Building and Construction (Importance: 2.41/5 | Level: 2.84/7)
+- Personnel and Human Resources (Importance: 2.36/5 | Level: 2.51/7)
+- Customer and Personal Service (Importance: 2.29/5 | Level: 2.67/7)
+- Psychology (Importance: 2.26/5 | Level: 2.95/7)
+- Computers and Electronics (Importance: 2.26/5 | Level: 2.53/7)
+- Design (Importance: 2.14/5 | Level: 2.07/7)
+- Geography (Importance: 2.09/5 | Level: 2.08/7)
+- Communications and Media (Importance: 2.08/5 | Level: 1.56/7)
+- Engineering and Technology (Importance: 2.07/5 | Level: 2.14/7)
+- Telecommunications (Importance: 2.07/5 | Level: 1.29/7)
+- Physics (Importance: 2.05/5 | Level: 2.1/7)
+- History and Archeology (Importance: 1.89/5 | Level: 1.46/7)
+- Medicine and Dentistry (Importance: 1.8/5 | Level: 1.66/7)
+- Sociology and Anthropology (Importance: 1.62/5 | Level: 1.11/7)
+- Philosophy and Theology (Importance: 1.59/5 | Level: 1.07/7)
+- Therapy and Counseling (Importance: 1.52/5 | Level: 0.74/7)
+- Foreign Language (Importance: 1.43/5 | Level: 0.86/7)
+- Fine Arts (Importance: 1.16/5 | Level: 0.33/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Critical Thinking (Importance: 3.38/5 | Level: 3.0/7)
@@ -196,3 +232,25 @@ Attend to live farm, ranch, open range or aquacultural animals that may include 
 - Primary Interest: Realistic
 - Secondary Interest: Unknown (0)
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Animal Breeders
+- Farmworkers and Laborers, Crop, Nursery, and Greenhouse
+- Agricultural Equipment Operators
+- Meat, Poultry, and Fish Cutters and Trimmers
+- Slaughterers and Meat Packers
+- Graders and Sorters, Agricultural Products
+- Fishing and Hunting Workers
+- Laborers and Freight, Stock, and Material Movers, Hand
+- Animal Caretakers
+- Agricultural Technicians
+- Farmers, Ranchers, and Other Agricultural Managers
+- Animal Scientists
+- First-Line Supervisors of Farming, Fishing, and Forestry Workers
+- Farm Equipment Mechanics and Service Technicians
+- Machine Feeders and Offbearers
+- Helpers--Production Workers
+- Packers and Packagers, Hand
+- Buyers and Purchasing Agents, Farm Products
+- Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders
+- Agricultural Inspectors

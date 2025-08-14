@@ -13,6 +13,42 @@ Appraise automobile or other vehicle damage to determine repair costs for insura
 - Determine salvage value on total-loss vehicle.
 - Arrange to have damage appraised by another appraiser to resolve disagreement with shop on repair cost.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.23/5 | Level: 5.78/7)
+- English Language (Importance: 3.81/5 | Level: 3.48/7)
+- Computers and Electronics (Importance: 3.36/5 | Level: 3.87/7)
+- Mechanical (Importance: 3.23/5 | Level: 4.28/7)
+- Administrative (Importance: 3.15/5 | Level: 3.54/7)
+- Education and Training (Importance: 2.95/5 | Level: 3.14/7)
+- Law and Government (Importance: 2.76/5 | Level: 2.62/7)
+- Mathematics (Importance: 2.74/5 | Level: 2.63/7)
+- Transportation (Importance: 2.47/5 | Level: 1.99/7)
+- Administration and Management (Importance: 2.35/5 | Level: 2.61/7)
+- Communications and Media (Importance: 2.27/5 | Level: 1.69/7)
+- Production and Processing (Importance: 2.25/5 | Level: 1.94/7)
+- Economics and Accounting (Importance: 2.21/5 | Level: 1.73/7)
+- Telecommunications (Importance: 2.2/5 | Level: 1.31/7)
+- Foreign Language (Importance: 1.98/5 | Level: 1.28/7)
+- Design (Importance: 1.86/5 | Level: 1.41/7)
+- Engineering and Technology (Importance: 1.86/5 | Level: 1.61/7)
+- Personnel and Human Resources (Importance: 1.84/5 | Level: 1.0/7)
+- Sales and Marketing (Importance: 1.82/5 | Level: 1.46/7)
+- Public Safety and Security (Importance: 1.8/5 | Level: 1.21/7)
+- Physics (Importance: 1.75/5 | Level: 1.36/7)
+- Psychology (Importance: 1.59/5 | Level: 1.31/7)
+- Geography (Importance: 1.43/5 | Level: 1.03/7)
+- Chemistry (Importance: 1.32/5 | Level: 0.5/7)
+- Building and Construction (Importance: 1.17/5 | Level: 0.21/7)
+- Medicine and Dentistry (Importance: 1.04/5 | Level: 0.1/7)
+- History and Archeology (Importance: 1.01/5 | Level: 0.01/7)
+- Food Production (Importance: 1.01/5 | Level: 0.02/7)
+- Sociology and Anthropology (Importance: 1.01/5 | Level: 0.03/7)
+- Therapy and Counseling (Importance: 1.01/5 | Level: 0.03/7)
+- Philosophy and Theology (Importance: 1.0/5 | Level: 0.0/7)
+- Biology (Importance: 1.0/5 | Level: 0.0/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Writing (Importance: 3.75/5 | Level: 3.25/7)
@@ -148,3 +184,25 @@ Appraise automobile or other vehicle damage to determine repair costs for insura
 - Primary Interest: Conventional
 - Secondary Interest: Realistic
 - Tertiary Interest: Enterprising
+
+# RELATED OCCUPATIONS
+- Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation
+- Appraisers of Personal and Business Property
+- Automotive Body and Related Repairers
+- Automotive Service Technicians and Mechanics
+- Automotive Engineering Technicians
+- Cost Estimators
+- Appraisers and Assessors of Real Estate
+- Claims Adjusters, Examiners, and Investigators
+- Insurance Claims and Policy Processing Clerks
+- Credit Authorizers, Checkers, and Clerks
+- Motorcycle Mechanics
+- Automotive Glass Installers and Repairers
+- Parts Salespersons
+- Electronic Equipment Installers and Repairers, Motor Vehicles
+- Rail Car Repairers
+- Aviation Inspectors
+- Electrical and Electronics Repairers, Commercial and Industrial Equipment
+- Inspectors, Testers, Sorters, Samplers, and Weighers
+- Electric Motor, Power Tool, and Related Repairers
+- Recreational Vehicle Service Technicians

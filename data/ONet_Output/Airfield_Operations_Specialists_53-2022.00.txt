@@ -33,6 +33,42 @@ Ensure the safe takeoff and landing of commercial and military aircraft. Duties 
 - Coordinate changes to flight itineraries with appropriate Air Traffic Control (ATC) agencies.
 - Check military flight plans with civilian agencies.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Public Safety and Security (Importance: 4.45/5 | Level: 4.56/7)
+- Transportation (Importance: 4.25/5 | Level: 4.4/7)
+- English Language (Importance: 4.18/5 | Level: 3.82/7)
+- Customer and Personal Service (Importance: 4.03/5 | Level: 4.38/7)
+- Education and Training (Importance: 3.74/5 | Level: 4.74/7)
+- Telecommunications (Importance: 3.65/5 | Level: 2.97/7)
+- Administration and Management (Importance: 3.59/5 | Level: 3.83/7)
+- Law and Government (Importance: 3.37/5 | Level: 2.99/7)
+- Administrative (Importance: 3.36/5 | Level: 3.92/7)
+- Computers and Electronics (Importance: 3.29/5 | Level: 3.67/7)
+- Mathematics (Importance: 3.08/5 | Level: 2.7/7)
+- Communications and Media (Importance: 3.07/5 | Level: 3.2/7)
+- Personnel and Human Resources (Importance: 2.94/5 | Level: 3.02/7)
+- Geography (Importance: 2.64/5 | Level: 2.81/7)
+- Mechanical (Importance: 2.61/5 | Level: 2.83/7)
+- Engineering and Technology (Importance: 2.44/5 | Level: 2.38/7)
+- Production and Processing (Importance: 2.34/5 | Level: 2.0/7)
+- Building and Construction (Importance: 2.24/5 | Level: 1.91/7)
+- Psychology (Importance: 2.2/5 | Level: 1.8/7)
+- Biology (Importance: 2.18/5 | Level: 1.95/7)
+- Sales and Marketing (Importance: 2.17/5 | Level: 1.42/7)
+- Economics and Accounting (Importance: 2.16/5 | Level: 1.28/7)
+- Chemistry (Importance: 2.11/5 | Level: 1.63/7)
+- Physics (Importance: 2.06/5 | Level: 1.67/7)
+- Design (Importance: 1.97/5 | Level: 2.03/7)
+- Medicine and Dentistry (Importance: 1.78/5 | Level: 1.21/7)
+- Foreign Language (Importance: 1.75/5 | Level: 0.99/7)
+- Therapy and Counseling (Importance: 1.68/5 | Level: 1.04/7)
+- Sociology and Anthropology (Importance: 1.41/5 | Level: 0.57/7)
+- History and Archeology (Importance: 1.39/5 | Level: 0.66/7)
+- Philosophy and Theology (Importance: 1.26/5 | Level: 0.52/7)
+- Food Production (Importance: 1.02/5 | Level: 0.03/7)
+- Fine Arts (Importance: 1.01/5 | Level: 0.01/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Active Listening (Importance: 4.0/5 | Level: 4.0/7)
@@ -186,3 +222,25 @@ Ensure the safe takeoff and landing of commercial and military aircraft. Duties 
 - Primary Interest: Conventional
 - Secondary Interest: Realistic
 - Tertiary Interest: Enterprising
+
+# RELATED OCCUPATIONS
+- Air Traffic Controllers
+- Aircraft Cargo Handling Supervisors
+- Commercial Pilots
+- Airline Pilots, Copilots, and Flight Engineers
+- First-Line Supervisors of Passenger Attendants
+- Aviation Inspectors
+- Transportation, Storage, and Distribution Managers
+- Railroad Conductors and Yardmasters
+- Flight Attendants
+- First-Line Supervisors of Material-Moving Machine and Vehicle Operators
+- First-Line Supervisors of Security Workers
+- Dispatchers, Except Police, Fire, and Ambulance
+- Facilities Managers
+- Aircraft Service Attendants
+- First-Line Supervisors of Firefighting and Prevention Workers
+- Transportation Inspectors
+- Locomotive Engineers
+- Ship Engineers
+- First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand
+- Traffic Technicians

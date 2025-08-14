@@ -33,6 +33,42 @@ Set up, operate, and maintain the electronic equipment used to acquire, edit, an
 - Prepare reports outlining past and future programs, including content.
 - Discuss production requirements with clients.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Computers and Electronics (Importance: 4.51/5 | Level: 5.61/7)
+- Telecommunications (Importance: 4.2/5 | Level: 4.46/7)
+- Engineering and Technology (Importance: 3.81/5 | Level: 4.01/7)
+- Communications and Media (Importance: 3.54/5 | Level: 3.75/7)
+- English Language (Importance: 3.45/5 | Level: 3.74/7)
+- Design (Importance: 2.82/5 | Level: 3.22/7)
+- Mathematics (Importance: 2.79/5 | Level: 2.85/7)
+- Education and Training (Importance: 2.71/5 | Level: 2.83/7)
+- Mechanical (Importance: 2.68/5 | Level: 3.09/7)
+- Customer and Personal Service (Importance: 2.49/5 | Level: 2.54/7)
+- Production and Processing (Importance: 2.46/5 | Level: 2.45/7)
+- Administration and Management (Importance: 2.25/5 | Level: 2.42/7)
+- Public Safety and Security (Importance: 2.23/5 | Level: 2.3/7)
+- Administrative (Importance: 2.21/5 | Level: 2.51/7)
+- Law and Government (Importance: 1.97/5 | Level: 2.15/7)
+- Personnel and Human Resources (Importance: 1.97/5 | Level: 2.03/7)
+- Building and Construction (Importance: 1.95/5 | Level: 2.29/7)
+- Geography (Importance: 1.91/5 | Level: 1.63/7)
+- Physics (Importance: 1.79/5 | Level: 1.39/7)
+- Transportation (Importance: 1.74/5 | Level: 1.31/7)
+- Psychology (Importance: 1.52/5 | Level: 1.08/7)
+- Chemistry (Importance: 1.52/5 | Level: 1.44/7)
+- Sales and Marketing (Importance: 1.51/5 | Level: 0.89/7)
+- Economics and Accounting (Importance: 1.47/5 | Level: 0.71/7)
+- Foreign Language (Importance: 1.3/5 | Level: 0.32/7)
+- Philosophy and Theology (Importance: 1.19/5 | Level: 0.51/7)
+- Therapy and Counseling (Importance: 1.18/5 | Level: 0.36/7)
+- Sociology and Anthropology (Importance: 1.17/5 | Level: 0.3/7)
+- Medicine and Dentistry (Importance: 1.16/5 | Level: 0.18/7)
+- Biology (Importance: 1.11/5 | Level: 0.17/7)
+- Fine Arts (Importance: 1.09/5 | Level: 0.19/7)
+- History and Archeology (Importance: 1.07/5 | Level: 0.19/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Critical Thinking (Importance: 3.75/5 | Level: 3.38/7)
@@ -192,3 +228,25 @@ Set up, operate, and maintain the electronic equipment used to acquire, edit, an
 - Primary Interest: Conventional
 - Secondary Interest: Realistic
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Audio and Video Technicians
+- Sound Engineering Technicians
+- Electrical and Electronic Engineering Technologists and Technicians
+- Calibration Technologists and Technicians
+- Robotics Technicians
+- Electrical and Electronics Repairers, Commercial and Industrial Equipment
+- Power Distributors and Dispatchers
+- Lighting Technicians
+- Audiovisual Equipment Installers and Repairers
+- Telecommunications Engineering Specialists
+- Media Technical Directors/Managers
+- Electronics Engineers, Except Computer
+- Radio, Cellular, and Tower Equipment Installers and Repairers
+- Camera Operators, Television, Video, and Film
+- Telecommunications Equipment Installers and Repairers, Except Line Installers
+- Software Developers
+- Radio Frequency Identification Device Specialists
+- Computer Network Support Specialists
+- Computer Network Architects
+- Computer Systems Engineers/Architects

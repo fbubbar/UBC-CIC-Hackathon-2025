@@ -20,6 +20,42 @@ Perform nonroutine or precision functions involving the preparation of large por
 - Trim, clean, or cure animal hides.
 - Wrap dressed carcasses or meat cuts.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 3.62/5 | Level: 3.61/7)
+- Food Production (Importance: 3.43/5 | Level: 4.05/7)
+- Production and Processing (Importance: 3.29/5 | Level: 3.13/7)
+- English Language (Importance: 3.12/5 | Level: 2.53/7)
+- Law and Government (Importance: 2.79/5 | Level: 2.29/7)
+- Mathematics (Importance: 2.69/5 | Level: 2.56/7)
+- Administrative (Importance: 2.5/5 | Level: 2.0/7)
+- Administration and Management (Importance: 2.47/5 | Level: 2.05/7)
+- Sales and Marketing (Importance: 2.41/5 | Level: 2.29/7)
+- Public Safety and Security (Importance: 2.39/5 | Level: 2.32/7)
+- Personnel and Human Resources (Importance: 2.03/5 | Level: 1.5/7)
+- Engineering and Technology (Importance: 2.0/5 | Level: 1.92/7)
+- Mechanical (Importance: 1.96/5 | Level: 1.96/7)
+- Biology (Importance: 1.95/5 | Level: 1.84/7)
+- Foreign Language (Importance: 1.88/5 | Level: 1.1/7)
+- Chemistry (Importance: 1.85/5 | Level: 1.52/7)
+- Economics and Accounting (Importance: 1.81/5 | Level: 1.23/7)
+- Education and Training (Importance: 1.8/5 | Level: 1.36/7)
+- Design (Importance: 1.69/5 | Level: 1.29/7)
+- Computers and Electronics (Importance: 1.68/5 | Level: 1.78/7)
+- Building and Construction (Importance: 1.64/5 | Level: 1.2/7)
+- Physics (Importance: 1.62/5 | Level: 1.11/7)
+- Transportation (Importance: 1.53/5 | Level: 1.08/7)
+- History and Archeology (Importance: 1.53/5 | Level: 1.05/7)
+- Medicine and Dentistry (Importance: 1.48/5 | Level: 0.85/7)
+- Geography (Importance: 1.44/5 | Level: 0.73/7)
+- Psychology (Importance: 1.43/5 | Level: 0.86/7)
+- Sociology and Anthropology (Importance: 1.4/5 | Level: 0.9/7)
+- Therapy and Counseling (Importance: 1.37/5 | Level: 0.56/7)
+- Philosophy and Theology (Importance: 1.21/5 | Level: 0.42/7)
+- Telecommunications (Importance: 1.16/5 | Level: 0.21/7)
+- Communications and Media (Importance: 1.13/5 | Level: 0.4/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Speaking (Importance: 2.75/5 | Level: 1.88/7)
@@ -166,3 +202,25 @@ Perform nonroutine or precision functions involving the preparation of large por
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Meat, Poultry, and Fish Cutters and Trimmers
+- Butchers and Meat Cutters
+- Farmworkers, Farm, Ranch, and Aquacultural Animals
+- Graders and Sorters, Agricultural Products
+- Animal Breeders
+- Food Preparation Workers
+- Packers and Packagers, Hand
+- Cooks, Restaurant
+- Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders
+- Farmworkers and Laborers, Crop, Nursery, and Greenhouse
+- Animal Scientists
+- Packaging and Filling Machine Operators and Tenders
+- Cooks, Short Order
+- Food Batchmakers
+- Bakers
+- Fishing and Hunting Workers
+- Food Cooking Machine Operators and Tenders
+- Cutting and Slicing Machine Setters, Operators, and Tenders
+- Cooks, Institution and Cafeteria
+- Laundry and Dry-Cleaning Workers

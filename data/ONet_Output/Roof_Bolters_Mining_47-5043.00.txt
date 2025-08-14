@@ -20,6 +20,42 @@ Operate machinery to install roof support bolts in underground mine.
 - Remove drill bits from chucks after drilling holes, and insert bolts into chucks.
 - Tighten ends of anchored truss bolts, using turnbuckles.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Production and Processing (Importance: 3.69/5 | Level: 3.79/7)
+- Education and Training (Importance: 3.52/5 | Level: 3.68/7)
+- Public Safety and Security (Importance: 3.45/5 | Level: 3.51/7)
+- Mechanical (Importance: 3.45/5 | Level: 3.95/7)
+- Administration and Management (Importance: 2.95/5 | Level: 2.09/7)
+- Law and Government (Importance: 2.95/5 | Level: 3.14/7)
+- English Language (Importance: 2.63/5 | Level: 2.41/7)
+- Customer and Personal Service (Importance: 2.52/5 | Level: 2.08/7)
+- Personnel and Human Resources (Importance: 2.51/5 | Level: 1.41/7)
+- Transportation (Importance: 2.48/5 | Level: 2.1/7)
+- Engineering and Technology (Importance: 2.46/5 | Level: 2.53/7)
+- Design (Importance: 2.28/5 | Level: 2.25/7)
+- Mathematics (Importance: 2.19/5 | Level: 1.69/7)
+- Sales and Marketing (Importance: 2.17/5 | Level: 1.75/7)
+- Computers and Electronics (Importance: 2.08/5 | Level: 1.99/7)
+- Building and Construction (Importance: 2.02/5 | Level: 1.64/7)
+- Geography (Importance: 1.95/5 | Level: 1.76/7)
+- Telecommunications (Importance: 1.86/5 | Level: 1.08/7)
+- Administrative (Importance: 1.85/5 | Level: 1.65/7)
+- Chemistry (Importance: 1.79/5 | Level: 1.53/7)
+- Physics (Importance: 1.72/5 | Level: 1.56/7)
+- Communications and Media (Importance: 1.65/5 | Level: 1.39/7)
+- Economics and Accounting (Importance: 1.62/5 | Level: 1.24/7)
+- Psychology (Importance: 1.59/5 | Level: 1.03/7)
+- Medicine and Dentistry (Importance: 1.37/5 | Level: 0.82/7)
+- Therapy and Counseling (Importance: 1.36/5 | Level: 0.8/7)
+- Biology (Importance: 1.27/5 | Level: 0.53/7)
+- Foreign Language (Importance: 1.18/5 | Level: 0.18/7)
+- Sociology and Anthropology (Importance: 1.18/5 | Level: 0.35/7)
+- Food Production (Importance: 1.09/5 | Level: 0.09/7)
+- History and Archeology (Importance: 1.08/5 | Level: 0.15/7)
+- Philosophy and Theology (Importance: 1.03/5 | Level: 0.07/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Operation and Control (Importance: 3.62/5 | Level: 3.12/7)
@@ -143,3 +179,25 @@ Operate machinery to install roof support bolts in underground mine.
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Continuous Mining Machine Operators
+- Earth Drillers, Except Oil and Gas
+- Structural Iron and Steel Workers
+- Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+- Riggers
+- Hoist and Winch Operators
+- Helpers--Extraction Workers
+- Reinforcing Iron and Rebar Workers
+- Explosives Workers, Ordnance Handling Experts, and Blasters
+- Rotary Drill Operators, Oil and Gas
+- Sheet Metal Workers
+- Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+- Operating Engineers and Other Construction Equipment Operators
+- Carpenters
+- Rail-Track Laying and Maintenance Equipment Operators
+- Excavating and Loading Machine and Dragline Operators, Surface Mining
+- Crane and Tower Operators
+- Pile Driver Operators
+- Forging Machine Setters, Operators, and Tenders, Metal and Plastic
+- Structural Metal Fabricators and Fitters

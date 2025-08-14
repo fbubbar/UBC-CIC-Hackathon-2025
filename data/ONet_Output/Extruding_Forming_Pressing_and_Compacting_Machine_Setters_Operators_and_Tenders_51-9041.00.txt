@@ -32,6 +32,42 @@ Set up, operate, or tend machines, such as glass-forming machines, plodder machi
 - Swab molds with solutions to prevent products from sticking.
 - Install, align, and adjust neck rings, press plungers, and feeder tubes.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Production and Processing (Importance: 3.67/5 | Level: 3.72/7)
+- Mechanical (Importance: 3.55/5 | Level: 3.25/7)
+- Computers and Electronics (Importance: 3.13/5 | Level: 3.05/7)
+- Mathematics (Importance: 2.92/5 | Level: 2.75/7)
+- Engineering and Technology (Importance: 2.85/5 | Level: 2.81/7)
+- Food Production (Importance: 2.84/5 | Level: 2.3/7)
+- English Language (Importance: 2.83/5 | Level: 2.5/7)
+- Public Safety and Security (Importance: 2.79/5 | Level: 2.43/7)
+- Education and Training (Importance: 2.73/5 | Level: 2.64/7)
+- Administration and Management (Importance: 2.6/5 | Level: 2.8/7)
+- Chemistry (Importance: 2.55/5 | Level: 2.5/7)
+- Administrative (Importance: 2.44/5 | Level: 1.44/7)
+- Physics (Importance: 2.33/5 | Level: 2.06/7)
+- Customer and Personal Service (Importance: 2.3/5 | Level: 1.87/7)
+- Design (Importance: 2.23/5 | Level: 2.08/7)
+- Telecommunications (Importance: 2.08/5 | Level: 1.24/7)
+- Personnel and Human Resources (Importance: 2.06/5 | Level: 1.38/7)
+- Communications and Media (Importance: 2.04/5 | Level: 1.59/7)
+- Transportation (Importance: 2.01/5 | Level: 1.34/7)
+- Medicine and Dentistry (Importance: 1.91/5 | Level: 1.2/7)
+- Building and Construction (Importance: 1.91/5 | Level: 1.68/7)
+- Sales and Marketing (Importance: 1.91/5 | Level: 1.12/7)
+- Psychology (Importance: 1.82/5 | Level: 1.31/7)
+- Biology (Importance: 1.82/5 | Level: 1.48/7)
+- Economics and Accounting (Importance: 1.81/5 | Level: 1.12/7)
+- Foreign Language (Importance: 1.78/5 | Level: 1.28/7)
+- Sociology and Anthropology (Importance: 1.67/5 | Level: 0.96/7)
+- Geography (Importance: 1.66/5 | Level: 0.93/7)
+- Law and Government (Importance: 1.6/5 | Level: 1.03/7)
+- Philosophy and Theology (Importance: 1.59/5 | Level: 1.06/7)
+- History and Archeology (Importance: 1.47/5 | Level: 0.85/7)
+- Fine Arts (Importance: 1.41/5 | Level: 0.58/7)
+- Therapy and Counseling (Importance: 1.33/5 | Level: 0.76/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Operation and Control (Importance: 3.75/5 | Level: 3.62/7)
@@ -177,3 +213,25 @@ Set up, operate, or tend machines, such as glass-forming machines, plodder machi
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers
+- Machine Feeders and Offbearers
+- Cutting and Slicing Machine Setters, Operators, and Tenders
+- Paper Goods Machine Setters, Operators, and Tenders
+- Adhesive Bonding Machine Operators and Tenders
+- Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders
+- Rolling Machine Setters, Operators, and Tenders, Metal and Plastic
+- Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic
+- Packaging and Filling Machine Operators and Tenders
+- Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+- Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders
+- Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic
+- Industrial Machinery Mechanics
+- Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders
+- Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic
+- Molders, Shapers, and Casters, Except Metal and Plastic
+- Forging Machine Setters, Operators, and Tenders, Metal and Plastic
+- Grinding and Polishing Workers, Hand
+- Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic

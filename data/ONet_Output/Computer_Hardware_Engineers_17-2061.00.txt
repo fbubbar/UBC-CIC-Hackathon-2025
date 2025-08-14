@@ -24,6 +24,42 @@ Research, design, develop, or test computer or computer-related equipment for co
 - Analyze information to determine, recommend, and plan layout, including type of computers and peripheral equipment modifications.
 - Recommend purchase of equipment to control dust, temperature, and humidity in area of system installation.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Computers and Electronics (Importance: 4.71/5 | Level: 6.5/7)
+- Engineering and Technology (Importance: 4.66/5 | Level: 6.38/7)
+- Mathematics (Importance: 4.14/5 | Level: 5.72/7)
+- Design (Importance: 4.14/5 | Level: 5.79/7)
+- English Language (Importance: 3.79/5 | Level: 4.41/7)
+- Physics (Importance: 3.43/5 | Level: 4.59/7)
+- Telecommunications (Importance: 3.1/5 | Level: 4.0/7)
+- Education and Training (Importance: 2.9/5 | Level: 4.41/7)
+- Production and Processing (Importance: 2.83/5 | Level: 3.48/7)
+- Administration and Management (Importance: 2.72/5 | Level: 3.54/7)
+- Communications and Media (Importance: 2.38/5 | Level: 2.62/7)
+- Administrative (Importance: 2.31/5 | Level: 2.66/7)
+- Public Safety and Security (Importance: 2.28/5 | Level: 2.79/7)
+- Law and Government (Importance: 2.25/5 | Level: 2.66/7)
+- Customer and Personal Service (Importance: 2.21/5 | Level: 2.69/7)
+- Personnel and Human Resources (Importance: 2.14/5 | Level: 2.66/7)
+- Mechanical (Importance: 2.07/5 | Level: 2.59/7)
+- Sales and Marketing (Importance: 2.04/5 | Level: 2.61/7)
+- Chemistry (Importance: 2.03/5 | Level: 2.34/7)
+- Economics and Accounting (Importance: 1.9/5 | Level: 2.0/7)
+- Psychology (Importance: 1.71/5 | Level: 1.76/7)
+- Transportation (Importance: 1.52/5 | Level: 1.14/7)
+- Foreign Language (Importance: 1.48/5 | Level: 1.24/7)
+- Biology (Importance: 1.41/5 | Level: 0.9/7)
+- Medicine and Dentistry (Importance: 1.38/5 | Level: 0.59/7)
+- Sociology and Anthropology (Importance: 1.31/5 | Level: 0.59/7)
+- Geography (Importance: 1.31/5 | Level: 0.97/7)
+- Therapy and Counseling (Importance: 1.25/5 | Level: 0.57/7)
+- Philosophy and Theology (Importance: 1.24/5 | Level: 0.48/7)
+- Building and Construction (Importance: 1.24/5 | Level: 0.55/7)
+- History and Archeology (Importance: 1.17/5 | Level: 0.45/7)
+- Fine Arts (Importance: 1.1/5 | Level: 0.24/7)
+- Food Production (Importance: 1.07/5 | Level: 0.14/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Critical Thinking (Importance: 4.0/5 | Level: 4.12/7)
@@ -289,3 +325,25 @@ Research, design, develop, or test computer or computer-related equipment for co
 - Primary Interest: Realistic
 - Secondary Interest: Investigative
 - Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Software Developers
+- Electronics Engineers, Except Computer
+- Electrical and Electronic Engineering Technologists and Technicians
+- Computer Systems Engineers/Architects
+- Calibration Technologists and Technicians
+- Robotics Technicians
+- Microsystems Engineers
+- Mechatronics Engineers
+- Mechanical Engineering Technologists and Technicians
+- Robotics Engineers
+- Electrical and Electronics Drafters
+- Radio Frequency Identification Device Specialists
+- Software Quality Assurance Analysts and Testers
+- Computer Network Architects
+- Mechanical Engineers
+- Electrical Engineers
+- Computer Systems Analysts
+- Electrical and Electronics Repairers, Commercial and Industrial Equipment
+- Aerospace Engineering and Operations Technologists and Technicians
+- Information Security Engineers

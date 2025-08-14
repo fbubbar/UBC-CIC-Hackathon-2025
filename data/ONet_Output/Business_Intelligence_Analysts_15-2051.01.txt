@@ -23,6 +23,42 @@ Produce financial and market intelligence by querying data repositories and gene
 - Create or review technical design documentation to ensure the accurate development of reporting solutions.
 - Analyze technology trends to identify markets for future product development or to improve sales of existing products.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Computers and Electronics (Importance: 4.29/5 | Level: 5.41/7)
+- Mathematics (Importance: 3.82/5 | Level: 4.67/7)
+- English Language (Importance: 3.77/5 | Level: 4.41/7)
+- Administration and Management (Importance: 3.14/5 | Level: 4.14/7)
+- Customer and Personal Service (Importance: 3.1/5 | Level: 3.76/7)
+- Economics and Accounting (Importance: 3.0/5 | Level: 3.59/7)
+- Communications and Media (Importance: 2.59/5 | Level: 2.95/7)
+- Education and Training (Importance: 2.5/5 | Level: 3.32/7)
+- Sales and Marketing (Importance: 2.45/5 | Level: 3.14/7)
+- Administrative (Importance: 2.43/5 | Level: 3.64/7)
+- Design (Importance: 2.43/5 | Level: 2.5/7)
+- Engineering and Technology (Importance: 2.36/5 | Level: 2.77/7)
+- Sociology and Anthropology (Importance: 2.23/5 | Level: 2.59/7)
+- Geography (Importance: 2.23/5 | Level: 3.45/7)
+- Psychology (Importance: 2.18/5 | Level: 2.41/7)
+- Law and Government (Importance: 2.14/5 | Level: 2.36/7)
+- Personnel and Human Resources (Importance: 1.91/5 | Level: 2.23/7)
+- Production and Processing (Importance: 1.75/5 | Level: 1.57/7)
+- History and Archeology (Importance: 1.73/5 | Level: 1.77/7)
+- Telecommunications (Importance: 1.55/5 | Level: 1.14/7)
+- Public Safety and Security (Importance: 1.55/5 | Level: 1.0/7)
+- Fine Arts (Importance: 1.5/5 | Level: 1.0/7)
+- Philosophy and Theology (Importance: 1.45/5 | Level: 1.23/7)
+- Foreign Language (Importance: 1.36/5 | Level: 0.77/7)
+- Therapy and Counseling (Importance: 1.18/5 | Level: 0.32/7)
+- Transportation (Importance: 1.18/5 | Level: 0.55/7)
+- Medicine and Dentistry (Importance: 1.18/5 | Level: 0.45/7)
+- Building and Construction (Importance: 1.14/5 | Level: 0.45/7)
+- Mechanical (Importance: 1.14/5 | Level: 0.32/7)
+- Food Production (Importance: 1.14/5 | Level: 0.55/7)
+- Physics (Importance: 1.09/5 | Level: 0.27/7)
+- Biology (Importance: 1.09/5 | Level: 0.36/7)
+- Chemistry (Importance: 1.09/5 | Level: 0.27/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Reading Comprehension (Importance: 4.0/5 | Level: 4.25/7)
@@ -332,3 +368,25 @@ Produce financial and market intelligence by querying data repositories and gene
 - Primary Interest: Conventional
 - Secondary Interest: Investigative
 - Tertiary Interest: Enterprising
+
+# RELATED OCCUPATIONS
+- Data Scientists
+- Market Research Analysts and Marketing Specialists
+- Computer Systems Analysts
+- Marketing Managers
+- Statistical Assistants
+- Search Marketing Strategists
+- Document Management Specialists
+- Operations Research Analysts
+- Financial Risk Specialists
+- Clinical Data Managers
+- Management Analysts
+- Software Developers
+- Information Security Engineers
+- Database Architects
+- Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel
+- Computer Systems Engineers/Architects
+- Database Administrators
+- Financial and Investment Analysts
+- Data Warehousing Specialists
+- Logistics Analysts

@@ -27,6 +27,42 @@ Keep buildings in clean and orderly condition. Perform heavy cleaning duties, su
 - Mow or trim lawns or shrubbery, using mowers or hand or power trimmers, and clear debris from grounds.
 - Steam-clean or shampoo carpets.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Public Safety and Security (Importance: 3.36/5 | Level: 2.64/7)
+- Administration and Management (Importance: 3.15/5 | Level: 2.82/7)
+- English Language (Importance: 2.94/5 | Level: 1.99/7)
+- Customer and Personal Service (Importance: 2.68/5 | Level: 2.1/7)
+- Transportation (Importance: 2.31/5 | Level: 1.54/7)
+- Law and Government (Importance: 2.28/5 | Level: 1.3/7)
+- Telecommunications (Importance: 2.2/5 | Level: 1.2/7)
+- Personnel and Human Resources (Importance: 2.06/5 | Level: 1.05/7)
+- Communications and Media (Importance: 1.97/5 | Level: 1.13/7)
+- Administrative (Importance: 1.91/5 | Level: 1.39/7)
+- Physics (Importance: 1.9/5 | Level: 1.24/7)
+- Education and Training (Importance: 1.89/5 | Level: 1.23/7)
+- Economics and Accounting (Importance: 1.8/5 | Level: 0.57/7)
+- Mechanical (Importance: 1.8/5 | Level: 1.2/7)
+- Chemistry (Importance: 1.76/5 | Level: 0.89/7)
+- Production and Processing (Importance: 1.76/5 | Level: 1.2/7)
+- Philosophy and Theology (Importance: 1.67/5 | Level: 0.7/7)
+- Computers and Electronics (Importance: 1.62/5 | Level: 1.25/7)
+- Mathematics (Importance: 1.61/5 | Level: 1.06/7)
+- Engineering and Technology (Importance: 1.35/5 | Level: 0.47/7)
+- Food Production (Importance: 1.34/5 | Level: 0.26/7)
+- Foreign Language (Importance: 1.29/5 | Level: 0.22/7)
+- Psychology (Importance: 1.29/5 | Level: 0.29/7)
+- Geography (Importance: 1.24/5 | Level: 0.47/7)
+- Medicine and Dentistry (Importance: 1.22/5 | Level: 0.23/7)
+- Therapy and Counseling (Importance: 1.17/5 | Level: 0.18/7)
+- Building and Construction (Importance: 1.16/5 | Level: 0.19/7)
+- Design (Importance: 1.13/5 | Level: 0.14/7)
+- Sales and Marketing (Importance: 1.08/5 | Level: 0.08/7)
+- Sociology and Anthropology (Importance: 1.02/5 | Level: 0.06/7)
+- History and Archeology (Importance: 1.01/5 | Level: 0.01/7)
+- Fine Arts (Importance: 1.01/5 | Level: 0.01/7)
+- Biology (Importance: 1.01/5 | Level: 0.04/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Speaking (Importance: 3.0/5 | Level: 2.12/7)
@@ -179,3 +215,25 @@ Keep buildings in clean and orderly condition. Perform heavy cleaning duties, su
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Maids and Housekeeping Cleaners
+- Cleaners of Vehicles and Equipment
+- Laundry and Dry-Cleaning Workers
+- Dishwashers
+- Septic Tank Servicers and Sewer Pipe Cleaners
+- Recycling and Reclamation Workers
+- Maintenance and Repair Workers, General
+- Floor Sanders and Finishers
+- Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders
+- Landscaping and Groundskeeping Workers
+- Hazardous Materials Removal Workers
+- Carpet Installers
+- Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons
+- Construction Laborers
+- Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters
+- Furniture Finishers
+- Cement Masons and Concrete Finishers
+- Roustabouts, Oil and Gas
+- Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters
+- Grinding and Polishing Workers, Hand

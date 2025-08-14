@@ -17,6 +17,42 @@ Plan, direct, or coordinate medically-approved recreation programs for patients 
 - Prepare and submit reports and charts to treatment team to reflect patients' reactions and evidence of progress or regression.
 - Develop discharge plans for patients.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Psychology (Importance: 4.55/5 | Level: 5.97/7)
+- Therapy and Counseling (Importance: 4.53/5 | Level: 5.76/7)
+- Customer and Personal Service (Importance: 4.42/5 | Level: 5.26/7)
+- Education and Training (Importance: 4.16/5 | Level: 5.21/7)
+- English Language (Importance: 4.08/5 | Level: 4.53/7)
+- Sociology and Anthropology (Importance: 3.46/5 | Level: 4.11/7)
+- Administration and Management (Importance: 3.37/5 | Level: 4.08/7)
+- Medicine and Dentistry (Importance: 3.16/5 | Level: 3.0/7)
+- Public Safety and Security (Importance: 3.0/5 | Level: 2.82/7)
+- Administrative (Importance: 2.89/5 | Level: 3.66/7)
+- Computers and Electronics (Importance: 2.84/5 | Level: 3.45/7)
+- Personnel and Human Resources (Importance: 2.84/5 | Level: 3.34/7)
+- Sales and Marketing (Importance: 2.71/5 | Level: 3.11/7)
+- Law and Government (Importance: 2.68/5 | Level: 2.5/7)
+- Philosophy and Theology (Importance: 2.55/5 | Level: 3.47/7)
+- Fine Arts (Importance: 2.55/5 | Level: 2.45/7)
+- Communications and Media (Importance: 2.53/5 | Level: 2.68/7)
+- Transportation (Importance: 2.47/5 | Level: 2.61/7)
+- Economics and Accounting (Importance: 2.24/5 | Level: 2.13/7)
+- Biology (Importance: 2.21/5 | Level: 1.95/7)
+- Mathematics (Importance: 2.11/5 | Level: 2.27/7)
+- Production and Processing (Importance: 2.05/5 | Level: 1.84/7)
+- Foreign Language (Importance: 2.03/5 | Level: 1.82/7)
+- Telecommunications (Importance: 2.03/5 | Level: 1.24/7)
+- Engineering and Technology (Importance: 1.92/5 | Level: 1.63/7)
+- Geography (Importance: 1.92/5 | Level: 1.78/7)
+- History and Archeology (Importance: 1.86/5 | Level: 1.66/7)
+- Food Production (Importance: 1.73/5 | Level: 1.32/7)
+- Design (Importance: 1.73/5 | Level: 1.32/7)
+- Mechanical (Importance: 1.66/5 | Level: 1.24/7)
+- Physics (Importance: 1.58/5 | Level: 1.03/7)
+- Chemistry (Importance: 1.58/5 | Level: 1.16/7)
+- Building and Construction (Importance: 1.54/5 | Level: 0.95/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Service Orientation (Importance: 4.12/5 | Level: 4.25/7)
@@ -186,3 +222,25 @@ Plan, direct, or coordinate medically-approved recreation programs for patients 
 - Primary Interest: Social
 - Secondary Interest: Investigative
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Occupational Therapists
+- Psychiatric Technicians
+- Occupational Therapy Assistants
+- Physical Therapist Assistants
+- Occupational Therapy Aides
+- Physical Therapists
+- Art Therapists
+- Physical Therapist Aides
+- Rehabilitation Counselors
+- Music Therapists
+- Emergency Medicine Physicians
+- Physical Medicine and Rehabilitation Physicians
+- Psychiatric Aides
+- Mental Health Counselors
+- Mental Health and Substance Abuse Social Workers
+- Clinical and Counseling Psychologists
+- Advanced Practice Psychiatric Nurses
+- Psychiatrists
+- Clinical Neuropsychologists
+- Marriage and Family Therapists

@@ -17,6 +17,42 @@ Plan, implement, upgrade, or monitor security measures for the protection of com
 - Coordinate implementation of computer system plan with establishment personnel and outside vendors.
 - Train users and promote security awareness to ensure system security and to improve server and network efficiency.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Computers and Electronics (Importance: 4.35/5 | Level: 5.97/7)
+- English Language (Importance: 4.26/5 | Level: 4.2/7)
+- Administration and Management (Importance: 3.68/5 | Level: 3.79/7)
+- Telecommunications (Importance: 3.64/5 | Level: 3.95/7)
+- Engineering and Technology (Importance: 3.64/5 | Level: 3.88/7)
+- Customer and Personal Service (Importance: 3.42/5 | Level: 4.14/7)
+- Public Safety and Security (Importance: 3.27/5 | Level: 3.34/7)
+- Education and Training (Importance: 3.19/5 | Level: 4.24/7)
+- Mathematics (Importance: 2.87/5 | Level: 3.53/7)
+- Communications and Media (Importance: 2.8/5 | Level: 2.61/7)
+- Law and Government (Importance: 2.7/5 | Level: 2.82/7)
+- Administrative (Importance: 2.69/5 | Level: 3.13/7)
+- Personnel and Human Resources (Importance: 2.44/5 | Level: 3.02/7)
+- Production and Processing (Importance: 2.41/5 | Level: 2.24/7)
+- Design (Importance: 2.4/5 | Level: 2.76/7)
+- Economics and Accounting (Importance: 2.29/5 | Level: 2.17/7)
+- Psychology (Importance: 2.09/5 | Level: 2.44/7)
+- Sociology and Anthropology (Importance: 1.71/5 | Level: 1.58/7)
+- Mechanical (Importance: 1.68/5 | Level: 1.34/7)
+- Transportation (Importance: 1.61/5 | Level: 0.86/7)
+- Geography (Importance: 1.59/5 | Level: 1.25/7)
+- Sales and Marketing (Importance: 1.51/5 | Level: 0.92/7)
+- Physics (Importance: 1.37/5 | Level: 0.82/7)
+- Building and Construction (Importance: 1.34/5 | Level: 1.03/7)
+- Foreign Language (Importance: 1.31/5 | Level: 0.67/7)
+- Chemistry (Importance: 1.23/5 | Level: 0.56/7)
+- Philosophy and Theology (Importance: 1.19/5 | Level: 0.5/7)
+- History and Archeology (Importance: 1.13/5 | Level: 0.3/7)
+- Therapy and Counseling (Importance: 1.1/5 | Level: 0.29/7)
+- Medicine and Dentistry (Importance: 1.06/5 | Level: 0.08/7)
+- Biology (Importance: 1.04/5 | Level: 0.08/7)
+- Food Production (Importance: 1.02/5 | Level: 0.06/7)
+- Fine Arts (Importance: 1.02/5 | Level: 0.04/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Reading Comprehension (Importance: 4.0/5 | Level: 4.12/7)
@@ -371,3 +407,25 @@ Plan, implement, upgrade, or monitor security measures for the protection of com
 - Primary Interest: Conventional
 - Secondary Interest: Investigative
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Information Security Engineers
+- Penetration Testers
+- Digital Forensics Analysts
+- Computer Systems Analysts
+- Network and Computer Systems Administrators
+- Computer Network Support Specialists
+- Database Administrators
+- Computer Systems Engineers/Architects
+- Computer Network Architects
+- Blockchain Engineers
+- Security Management Specialists
+- Security Managers
+- Software Developers
+- Computer and Information Systems Managers
+- Database Architects
+- First-Line Supervisors of Security Workers
+- Computer User Support Specialists
+- Document Management Specialists
+- Intelligence Analysts
+- Telecommunications Engineering Specialists

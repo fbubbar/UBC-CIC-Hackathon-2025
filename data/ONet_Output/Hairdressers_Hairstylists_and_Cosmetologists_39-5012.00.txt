@@ -28,6 +28,42 @@ Provide beauty services, such as cutting, coloring, and styling hair, and massag
 - Give facials to patrons, using special compounds, such as lotions and creams.
 - Attach wigs or hairpieces to model heads and dress wigs and hairpieces according to instructions, samples, sketches or photographs.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.43/5 | Level: 4.71/7)
+- Sales and Marketing (Importance: 3.67/5 | Level: 3.89/7)
+- Administration and Management (Importance: 3.01/5 | Level: 2.95/7)
+- Education and Training (Importance: 2.97/5 | Level: 3.08/7)
+- English Language (Importance: 2.87/5 | Level: 1.86/7)
+- Chemistry (Importance: 2.79/5 | Level: 2.79/7)
+- Administrative (Importance: 2.54/5 | Level: 2.81/7)
+- Economics and Accounting (Importance: 2.53/5 | Level: 2.08/7)
+- Personnel and Human Resources (Importance: 2.53/5 | Level: 2.27/7)
+- Mathematics (Importance: 2.19/5 | Level: 2.09/7)
+- Production and Processing (Importance: 2.15/5 | Level: 1.9/7)
+- Computers and Electronics (Importance: 2.09/5 | Level: 2.28/7)
+- Law and Government (Importance: 2.01/5 | Level: 1.51/7)
+- Public Safety and Security (Importance: 2.0/5 | Level: 1.43/7)
+- Psychology (Importance: 2.0/5 | Level: 1.63/7)
+- Communications and Media (Importance: 1.93/5 | Level: 1.47/7)
+- Mechanical (Importance: 1.87/5 | Level: 1.11/7)
+- Transportation (Importance: 1.75/5 | Level: 0.94/7)
+- Engineering and Technology (Importance: 1.72/5 | Level: 1.11/7)
+- Design (Importance: 1.64/5 | Level: 0.81/7)
+- Biology (Importance: 1.61/5 | Level: 1.11/7)
+- Therapy and Counseling (Importance: 1.42/5 | Level: 0.75/7)
+- Sociology and Anthropology (Importance: 1.36/5 | Level: 0.62/7)
+- Food Production (Importance: 1.29/5 | Level: 0.39/7)
+- Telecommunications (Importance: 1.29/5 | Level: 0.4/7)
+- Foreign Language (Importance: 1.27/5 | Level: 0.43/7)
+- Physics (Importance: 1.22/5 | Level: 0.32/7)
+- Fine Arts (Importance: 1.18/5 | Level: 0.34/7)
+- Building and Construction (Importance: 1.18/5 | Level: 0.28/7)
+- Medicine and Dentistry (Importance: 1.12/5 | Level: 0.34/7)
+- Philosophy and Theology (Importance: 1.03/5 | Level: 0.06/7)
+- History and Archeology (Importance: 1.02/5 | Level: 0.03/7)
+- Geography (Importance: 1.0/5 | Level: 0.01/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Active Listening (Importance: 3.88/5 | Level: 3.0/7)
@@ -178,3 +214,25 @@ Provide beauty services, such as cutting, coloring, and styling hair, and massag
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Social
+
+# RELATED OCCUPATIONS
+- Barbers
+- Skincare Specialists
+- Shampooers
+- Makeup Artists, Theatrical and Performance
+- Manicurists and Pedicurists
+- Tailors, Dressmakers, and Custom Sewers
+- Sewers, Hand
+- Retail Salespersons
+- Spa Managers
+- Fashion Designers
+- Painting, Coating, and Decorating Workers
+- Laundry and Dry-Cleaning Workers
+- Floral Designers
+- Painters, Construction and Maintenance
+- Shoe and Leather Workers and Repairers
+- Jewelers and Precious Stone and Metal Workers
+- Maids and Housekeeping Cleaners
+- Furniture Finishers
+- Opticians, Dispensing
+- Costume Attendants

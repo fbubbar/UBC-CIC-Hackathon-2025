@@ -16,6 +16,42 @@ Conduct research into physical phenomena, develop theories on the basis of obser
 - Develop theories and laws on the basis of observation and experiments, and apply these theories and laws to problems in areas such as nuclear energy, optics, and aerospace technology.
 - Collaborate with other scientists in the design, development, and testing of experimental, industrial, or medical equipment, instrumentation, and procedures.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Physics (Importance: 4.92/5 | Level: 6.81/7)
+- Mathematics (Importance: 4.82/5 | Level: 6.59/7)
+- Engineering and Technology (Importance: 4.54/5 | Level: 6.04/7)
+- Computers and Electronics (Importance: 4.38/5 | Level: 5.81/7)
+- English Language (Importance: 3.69/5 | Level: 4.93/7)
+- Education and Training (Importance: 3.41/5 | Level: 5.05/7)
+- Chemistry (Importance: 3.21/5 | Level: 4.3/7)
+- Administration and Management (Importance: 2.65/5 | Level: 3.81/7)
+- Communications and Media (Importance: 2.61/5 | Level: 3.22/7)
+- Design (Importance: 2.47/5 | Level: 3.16/7)
+- Production and Processing (Importance: 2.32/5 | Level: 2.36/7)
+- Administrative (Importance: 2.29/5 | Level: 2.82/7)
+- Personnel and Human Resources (Importance: 2.26/5 | Level: 2.66/7)
+- Law and Government (Importance: 2.19/5 | Level: 1.96/7)
+- Public Safety and Security (Importance: 2.17/5 | Level: 1.84/7)
+- Customer and Personal Service (Importance: 2.15/5 | Level: 2.59/7)
+- Mechanical (Importance: 2.08/5 | Level: 1.99/7)
+- Economics and Accounting (Importance: 2.01/5 | Level: 1.84/7)
+- Psychology (Importance: 2.0/5 | Level: 1.93/7)
+- Telecommunications (Importance: 1.76/5 | Level: 1.61/7)
+- Sales and Marketing (Importance: 1.7/5 | Level: 1.42/7)
+- Biology (Importance: 1.63/5 | Level: 1.13/7)
+- Therapy and Counseling (Importance: 1.58/5 | Level: 1.5/7)
+- Philosophy and Theology (Importance: 1.52/5 | Level: 1.23/7)
+- Sociology and Anthropology (Importance: 1.44/5 | Level: 0.87/7)
+- Transportation (Importance: 1.38/5 | Level: 0.85/7)
+- Building and Construction (Importance: 1.34/5 | Level: 1.04/7)
+- Geography (Importance: 1.32/5 | Level: 1.06/7)
+- History and Archeology (Importance: 1.27/5 | Level: 0.54/7)
+- Foreign Language (Importance: 1.25/5 | Level: 0.41/7)
+- Medicine and Dentistry (Importance: 1.19/5 | Level: 0.38/7)
+- Fine Arts (Importance: 1.08/5 | Level: 0.16/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Science (Importance: 4.62/5 | Level: 5.75/7)
@@ -314,3 +350,25 @@ Conduct research into physical phenomena, develop theories on the basis of obser
 - Primary Interest: Investigative
 - Secondary Interest: Realistic
 - Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Mathematicians
+- Astronomers
+- Data Scientists
+- Physics Teachers, Postsecondary
+- Biochemists and Biophysicists
+- Chemists
+- Nanosystems Engineers
+- Materials Scientists
+- Geoscientists, Except Hydrologists and Geographers
+- Molecular and Cellular Biologists
+- Nanotechnology Engineering Technologists and Technicians
+- Computer and Information Research Scientists
+- Nuclear Engineers
+- Bioengineers and Biomedical Engineers
+- Bioinformatics Scientists
+- Statisticians
+- Aerospace Engineers
+- Microsystems Engineers
+- Chemical Engineers
+- Hydrologists

@@ -24,6 +24,42 @@ Diagnose, treat, and prevent disorders by stimulating specific acupuncture point
 - Treat medical conditions, using techniques such as acupressure, shiatsu, or tuina.
 - Apply moxibustion directly or indirectly to patients using Chinese, non-scarring, stick, or pole moxa.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Medicine and Dentistry (Importance: 4.59/5 | Level: 4.79/7)
+- Customer and Personal Service (Importance: 4.15/5 | Level: 5.17/7)
+- Therapy and Counseling (Importance: 4.07/5 | Level: 5.0/7)
+- Psychology (Importance: 3.9/5 | Level: 5.52/7)
+- Sales and Marketing (Importance: 3.64/5 | Level: 4.31/7)
+- Education and Training (Importance: 3.61/5 | Level: 4.92/7)
+- English Language (Importance: 3.6/5 | Level: 3.75/7)
+- Administration and Management (Importance: 3.21/5 | Level: 3.39/7)
+- Biology (Importance: 2.96/5 | Level: 3.87/7)
+- Administrative (Importance: 2.85/5 | Level: 3.83/7)
+- Computers and Electronics (Importance: 2.82/5 | Level: 3.15/7)
+- Economics and Accounting (Importance: 2.6/5 | Level: 2.37/7)
+- Sociology and Anthropology (Importance: 2.58/5 | Level: 3.01/7)
+- Personnel and Human Resources (Importance: 2.53/5 | Level: 3.09/7)
+- Philosophy and Theology (Importance: 2.49/5 | Level: 4.02/7)
+- Law and Government (Importance: 2.42/5 | Level: 2.53/7)
+- Public Safety and Security (Importance: 2.39/5 | Level: 2.41/7)
+- Communications and Media (Importance: 2.31/5 | Level: 2.5/7)
+- Foreign Language (Importance: 2.07/5 | Level: 1.81/7)
+- Mathematics (Importance: 2.07/5 | Level: 2.02/7)
+- Production and Processing (Importance: 1.95/5 | Level: 2.06/7)
+- Chemistry (Importance: 1.82/5 | Level: 1.72/7)
+- Telecommunications (Importance: 1.79/5 | Level: 1.02/7)
+- History and Archeology (Importance: 1.77/5 | Level: 1.3/7)
+- Geography (Importance: 1.72/5 | Level: 1.68/7)
+- Transportation (Importance: 1.6/5 | Level: 0.96/7)
+- Physics (Importance: 1.57/5 | Level: 0.87/7)
+- Mechanical (Importance: 1.46/5 | Level: 0.83/7)
+- Engineering and Technology (Importance: 1.43/5 | Level: 0.75/7)
+- Fine Arts (Importance: 1.4/5 | Level: 0.65/7)
+- Food Production (Importance: 1.39/5 | Level: 0.95/7)
+- Design (Importance: 1.27/5 | Level: 0.42/7)
+- Building and Construction (Importance: 1.24/5 | Level: 0.7/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Active Listening (Importance: 3.88/5 | Level: 4.0/7)
@@ -220,3 +256,25 @@ Diagnose, treat, and prevent disorders by stimulating specific acupuncture point
 - Primary Interest: Social
 - Secondary Interest: Investigative
 - Tertiary Interest: Realistic
+
+# RELATED OCCUPATIONS
+- Naturopathic Physicians
+- Chiropractors
+- Emergency Medicine Physicians
+- Cardiologists
+- General Internal Medicine Physicians
+- Nurse Practitioners
+- Physical Medicine and Rehabilitation Physicians
+- Massage Therapists
+- Family Medicine Physicians
+- Allergists and Immunologists
+- Pediatric Surgeons
+- Orthopedic Surgeons, Except Pediatric
+- Psychiatrists
+- Dermatologists
+- Obstetricians and Gynecologists
+- Neurologists
+- Recreational Therapists
+- Urologists
+- Pediatricians, General
+- Advanced Practice Psychiatric Nurses

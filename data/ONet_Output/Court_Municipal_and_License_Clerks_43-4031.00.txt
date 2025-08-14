@@ -36,6 +36,42 @@ Perform clerical duties for courts of law, municipalities, or governmental licen
 - Plan or direct the maintenance, filing, safekeeping, or computerization of all municipal documents.
 - Prepare dockets or calendars of cases to be called.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.47/5 | Level: 5.24/7)
+- Administrative (Importance: 4.3/5 | Level: 5.69/7)
+- Law and Government (Importance: 4.1/5 | Level: 4.06/7)
+- English Language (Importance: 4.05/5 | Level: 4.09/7)
+- Administration and Management (Importance: 3.46/5 | Level: 3.49/7)
+- Computers and Electronics (Importance: 3.4/5 | Level: 3.74/7)
+- Mathematics (Importance: 2.89/5 | Level: 2.9/7)
+- Personnel and Human Resources (Importance: 2.83/5 | Level: 2.94/7)
+- Public Safety and Security (Importance: 2.73/5 | Level: 2.32/7)
+- Economics and Accounting (Importance: 2.68/5 | Level: 2.58/7)
+- Education and Training (Importance: 2.63/5 | Level: 2.65/7)
+- Telecommunications (Importance: 2.37/5 | Level: 1.45/7)
+- Communications and Media (Importance: 2.32/5 | Level: 2.31/7)
+- Psychology (Importance: 2.07/5 | Level: 1.85/7)
+- Production and Processing (Importance: 1.92/5 | Level: 1.59/7)
+- Transportation (Importance: 1.74/5 | Level: 1.15/7)
+- Sociology and Anthropology (Importance: 1.71/5 | Level: 0.93/7)
+- Foreign Language (Importance: 1.67/5 | Level: 0.72/7)
+- Engineering and Technology (Importance: 1.54/5 | Level: 0.72/7)
+- Therapy and Counseling (Importance: 1.54/5 | Level: 0.86/7)
+- Geography (Importance: 1.48/5 | Level: 0.94/7)
+- History and Archeology (Importance: 1.41/5 | Level: 0.71/7)
+- Sales and Marketing (Importance: 1.35/5 | Level: 0.69/7)
+- Philosophy and Theology (Importance: 1.29/5 | Level: 0.48/7)
+- Medicine and Dentistry (Importance: 1.24/5 | Level: 0.36/7)
+- Design (Importance: 1.22/5 | Level: 0.3/7)
+- Mechanical (Importance: 1.2/5 | Level: 0.3/7)
+- Building and Construction (Importance: 1.15/5 | Level: 0.29/7)
+- Biology (Importance: 1.1/5 | Level: 0.14/7)
+- Chemistry (Importance: 1.08/5 | Level: 0.09/7)
+- Physics (Importance: 1.08/5 | Level: 0.08/7)
+- Fine Arts (Importance: 1.06/5 | Level: 0.08/7)
+- Food Production (Importance: 1.04/5 | Level: 0.04/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Speaking (Importance: 3.62/5 | Level: 3.62/7)
@@ -191,3 +227,25 @@ Perform clerical duties for courts of law, municipalities, or governmental licen
 - Primary Interest: Conventional
 - Secondary Interest: Enterprising
 - Tertiary Interest: Social
+
+# RELATED OCCUPATIONS
+- Legal Secretaries and Administrative Assistants
+- Compliance Officers
+- Office Clerks, General
+- Title Examiners, Abstractors, and Searchers
+- Paralegals and Legal Assistants
+- Secretaries and Administrative Assistants, Except Legal, Medical, and Executive
+- Correspondence Clerks
+- Executive Secretaries and Executive Administrative Assistants
+- Insurance Claims and Policy Processing Clerks
+- Receptionists and Information Clerks
+- Judicial Law Clerks
+- Court Reporters and Simultaneous Captioners
+- Administrative Law Judges, Adjudicators, and Hearing Officers
+- Lawyers
+- Administrative Services Managers
+- Eligibility Interviewers, Government Programs
+- Tax Examiners and Collectors, and Revenue Agents
+- Judges, Magistrate Judges, and Magistrates
+- File Clerks
+- First-Line Supervisors of Office and Administrative Support Workers

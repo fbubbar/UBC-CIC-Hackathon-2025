@@ -27,6 +27,42 @@ Directly supervise and coordinate activities of retail sales workers in an estab
 - Establish credit policies and operating procedures.
 - Plan budgets and authorize payments and merchandise returns.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.82/5 | Level: 5.63/7)
+- Administration and Management (Importance: 4.48/5 | Level: 4.26/7)
+- Sales and Marketing (Importance: 3.93/5 | Level: 3.63/7)
+- English Language (Importance: 3.86/5 | Level: 3.37/7)
+- Education and Training (Importance: 3.6/5 | Level: 4.16/7)
+- Personnel and Human Resources (Importance: 3.33/5 | Level: 3.04/7)
+- Computers and Electronics (Importance: 3.31/5 | Level: 3.86/7)
+- Mathematics (Importance: 3.31/5 | Level: 3.57/7)
+- Economics and Accounting (Importance: 3.21/5 | Level: 3.65/7)
+- Administrative (Importance: 3.18/5 | Level: 3.96/7)
+- Public Safety and Security (Importance: 2.88/5 | Level: 2.76/7)
+- Production and Processing (Importance: 2.78/5 | Level: 2.71/7)
+- Foreign Language (Importance: 2.58/5 | Level: 1.55/7)
+- Communications and Media (Importance: 2.45/5 | Level: 2.06/7)
+- Psychology (Importance: 2.17/5 | Level: 1.76/7)
+- Law and Government (Importance: 2.16/5 | Level: 1.71/7)
+- Therapy and Counseling (Importance: 2.14/5 | Level: 2.03/7)
+- Food Production (Importance: 1.9/5 | Level: 1.31/7)
+- Telecommunications (Importance: 1.85/5 | Level: 0.84/7)
+- Medicine and Dentistry (Importance: 1.73/5 | Level: 1.08/7)
+- Sociology and Anthropology (Importance: 1.62/5 | Level: 1.1/7)
+- Engineering and Technology (Importance: 1.46/5 | Level: 0.85/7)
+- Philosophy and Theology (Importance: 1.42/5 | Level: 1.02/7)
+- Design (Importance: 1.38/5 | Level: 0.99/7)
+- Transportation (Importance: 1.34/5 | Level: 0.82/7)
+- Mechanical (Importance: 1.34/5 | Level: 0.67/7)
+- Fine Arts (Importance: 1.26/5 | Level: 0.38/7)
+- Geography (Importance: 1.21/5 | Level: 0.43/7)
+- Chemistry (Importance: 1.19/5 | Level: 0.38/7)
+- Physics (Importance: 1.16/5 | Level: 0.28/7)
+- Building and Construction (Importance: 1.16/5 | Level: 0.35/7)
+- History and Archeology (Importance: 1.15/5 | Level: 0.3/7)
+- Biology (Importance: 1.07/5 | Level: 0.12/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Active Listening (Importance: 3.88/5 | Level: 3.62/7)
@@ -262,3 +298,25 @@ Directly supervise and coordinate activities of retail sales workers in an estab
 - Primary Interest: Enterprising
 - Secondary Interest: Conventional
 - Tertiary Interest: Social
+
+# RELATED OCCUPATIONS
+- First-Line Supervisors of Non-Retail Sales Workers
+- First-Line Supervisors of Office and Administrative Support Workers
+- First-Line Supervisors of Food Preparation and Serving Workers
+- First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services
+- First-Line Supervisors of Housekeeping and Janitorial Workers
+- First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand
+- Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel
+- First-Line Supervisors of Mechanics, Installers, and Repairers
+- First-Line Supervisors of Material-Moving Machine and Vehicle Operators
+- First-Line Supervisors of Personal Service Workers
+- General and Operations Managers
+- Sales Managers
+- Retail Salespersons
+- Cashiers
+- Counter and Rental Clerks
+- First-Line Supervisors of Passenger Attendants
+- First-Line Supervisors of Production and Operating Workers
+- First-Line Supervisors of Security Workers
+- Stockers and Order Fillers
+- Procurement Clerks

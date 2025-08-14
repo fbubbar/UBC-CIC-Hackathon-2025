@@ -31,6 +31,42 @@ Operate or maintain stationary engines, boilers, or other mechanical equipment t
 - Operate mechanical hoppers and provide assistance in their adjustment and repair.
 - Ignite fuel in burners, using torches or flames.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 4.06/5 | Level: 4.9/7)
+- Chemistry (Importance: 3.4/5 | Level: 4.43/7)
+- Public Safety and Security (Importance: 3.32/5 | Level: 3.96/7)
+- Physics (Importance: 3.18/5 | Level: 3.72/7)
+- Engineering and Technology (Importance: 3.16/5 | Level: 3.62/7)
+- English Language (Importance: 3.1/5 | Level: 2.97/7)
+- Computers and Electronics (Importance: 3.08/5 | Level: 3.31/7)
+- Mathematics (Importance: 3.07/5 | Level: 3.53/7)
+- Production and Processing (Importance: 3.06/5 | Level: 2.76/7)
+- Building and Construction (Importance: 2.97/5 | Level: 3.71/7)
+- Administration and Management (Importance: 2.92/5 | Level: 2.98/7)
+- Education and Training (Importance: 2.71/5 | Level: 3.58/7)
+- Law and Government (Importance: 2.64/5 | Level: 2.61/7)
+- Design (Importance: 2.62/5 | Level: 3.0/7)
+- Communications and Media (Importance: 2.41/5 | Level: 2.37/7)
+- Administrative (Importance: 2.35/5 | Level: 2.15/7)
+- Telecommunications (Importance: 2.27/5 | Level: 2.27/7)
+- Transportation (Importance: 2.15/5 | Level: 2.08/7)
+- Personnel and Human Resources (Importance: 1.99/5 | Level: 1.17/7)
+- Psychology (Importance: 1.86/5 | Level: 1.97/7)
+- Biology (Importance: 1.79/5 | Level: 1.46/7)
+- Geography (Importance: 1.7/5 | Level: 1.16/7)
+- Customer and Personal Service (Importance: 1.63/5 | Level: 1.03/7)
+- Economics and Accounting (Importance: 1.62/5 | Level: 0.75/7)
+- Therapy and Counseling (Importance: 1.49/5 | Level: 0.97/7)
+- Sociology and Anthropology (Importance: 1.45/5 | Level: 0.91/7)
+- Philosophy and Theology (Importance: 1.28/5 | Level: 0.77/7)
+- Medicine and Dentistry (Importance: 1.25/5 | Level: 0.52/7)
+- Food Production (Importance: 1.23/5 | Level: 0.3/7)
+- Sales and Marketing (Importance: 1.19/5 | Level: 0.26/7)
+- History and Archeology (Importance: 1.13/5 | Level: 0.28/7)
+- Foreign Language (Importance: 1.02/5 | Level: 0.02/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Operations Monitoring (Importance: 4.0/5 | Level: 3.88/7)
@@ -225,3 +261,25 @@ Operate or maintain stationary engines, boilers, or other mechanical equipment t
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Power Plant Operators
+- Biomass Plant Technicians
+- Control and Valve Installers and Repairers, Except Mechanical Door
+- Hydroelectric Plant Technicians
+- Gas Compressor and Gas Pumping Station Operators
+- Geothermal Technicians
+- Heating, Air Conditioning, and Refrigeration Mechanics and Installers
+- Gas Plant Operators
+- Mechanical Engineers
+- Power Distributors and Dispatchers
+- Industrial Machinery Mechanics
+- Engine and Other Machine Assemblers
+- Ship Engineers
+- Pump Operators, Except Wellhead Pumpers
+- Petroleum Pump System Operators, Refinery Operators, and Gaugers
+- Electrical and Electronics Repairers, Powerhouse, Substation, and Relay
+- Plumbers, Pipefitters, and Steamfitters
+- Water and Wastewater Treatment Plant and System Operators
+- Chemical Plant and System Operators
+- Maintenance Workers, Machinery

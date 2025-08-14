@@ -18,6 +18,42 @@ Conduct qualitative and quantitative chemical analyses or experiments in laborat
 - Direct, coordinate, or advise personnel in test procedures for analyzing components or physical properties of materials.
 - Purchase laboratory supplies, such as chemicals, when supplies are low or near their expiration date.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Chemistry (Importance: 4.92/5 | Level: 5.98/7)
+- English Language (Importance: 4.01/5 | Level: 4.12/7)
+- Mathematics (Importance: 3.79/5 | Level: 4.55/7)
+- Production and Processing (Importance: 3.46/5 | Level: 3.6/7)
+- Administration and Management (Importance: 3.39/5 | Level: 3.49/7)
+- Computers and Electronics (Importance: 3.39/5 | Level: 4.31/7)
+- Administrative (Importance: 3.34/5 | Level: 4.23/7)
+- Physics (Importance: 3.15/5 | Level: 3.72/7)
+- Engineering and Technology (Importance: 2.98/5 | Level: 3.39/7)
+- Mechanical (Importance: 2.7/5 | Level: 2.73/7)
+- Education and Training (Importance: 2.69/5 | Level: 3.87/7)
+- Law and Government (Importance: 2.64/5 | Level: 3.23/7)
+- Public Safety and Security (Importance: 2.59/5 | Level: 2.72/7)
+- Customer and Personal Service (Importance: 2.57/5 | Level: 2.46/7)
+- Biology (Importance: 2.42/5 | Level: 2.97/7)
+- Design (Importance: 2.08/5 | Level: 2.33/7)
+- Transportation (Importance: 2.05/5 | Level: 2.0/7)
+- Personnel and Human Resources (Importance: 2.0/5 | Level: 1.92/7)
+- Economics and Accounting (Importance: 2.0/5 | Level: 1.35/7)
+- Psychology (Importance: 1.94/5 | Level: 2.29/7)
+- Sales and Marketing (Importance: 1.81/5 | Level: 1.5/7)
+- Communications and Media (Importance: 1.78/5 | Level: 2.01/7)
+- Foreign Language (Importance: 1.65/5 | Level: 1.68/7)
+- Philosophy and Theology (Importance: 1.62/5 | Level: 1.17/7)
+- Geography (Importance: 1.59/5 | Level: 1.49/7)
+- Sociology and Anthropology (Importance: 1.47/5 | Level: 1.02/7)
+- Medicine and Dentistry (Importance: 1.45/5 | Level: 0.66/7)
+- History and Archeology (Importance: 1.39/5 | Level: 0.79/7)
+- Telecommunications (Importance: 1.37/5 | Level: 0.57/7)
+- Food Production (Importance: 1.35/5 | Level: 0.49/7)
+- Building and Construction (Importance: 1.32/5 | Level: 0.63/7)
+- Therapy and Counseling (Importance: 1.22/5 | Level: 0.61/7)
+- Fine Arts (Importance: 1.14/5 | Level: 0.29/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Science (Importance: 4.12/5 | Level: 5.12/7)
@@ -353,3 +389,25 @@ Conduct qualitative and quantitative chemical analyses or experiments in laborat
 - Primary Interest: Investigative
 - Secondary Interest: Realistic
 - Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Chemical Engineers
+- Biochemists and Biophysicists
+- Microbiologists
+- Materials Scientists
+- Bioengineers and Biomedical Engineers
+- Materials Engineers
+- Food Scientists and Technologists
+- Medical and Clinical Laboratory Technologists
+- Industrial Engineers
+- Natural Sciences Managers
+- Chemical Technicians
+- Nanotechnology Engineering Technologists and Technicians
+- Chemical Plant and System Operators
+- Food Science Technicians
+- Calibration Technologists and Technicians
+- Quality Control Analysts
+- Industrial Engineering Technologists and Technicians
+- Nanosystems Engineers
+- Medical and Clinical Laboratory Technicians
+- Agricultural Technicians

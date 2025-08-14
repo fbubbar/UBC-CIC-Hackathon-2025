@@ -22,6 +22,10 @@ Apply knowledge of healthcare and information systems to assist in the design, d
 - Train medical records staff.
 - Write or maintain archived procedures, procedural codes, or queries for applications.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- No specific knowledge areas listed.
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - No specific skills listed.
@@ -172,3 +176,25 @@ Apply knowledge of healthcare and information systems to assist in the design, d
 - Primary Interest: Conventional
 - Secondary Interest: Investigative
 - Tertiary Interest: Social
+
+# RELATED OCCUPATIONS
+- Medical Records Specialists
+- Clinical Data Managers
+- Health Informatics Specialists
+- Patient Representatives
+- Clinical Research Coordinators
+- Document Management Specialists
+- Statistical Assistants
+- Computer Systems Analysts
+- Database Administrators
+- Administrative Services Managers
+- Management Analysts
+- Clinical Nurse Specialists
+- Medical and Health Services Managers
+- Preventive Medicine Physicians
+- Genetic Counselors
+- Bioinformatics Technicians
+- Regulatory Affairs Specialists
+- Medical Transcriptionists
+- Medical Assistants
+- Operations Research Analysts

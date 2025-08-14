@@ -17,6 +17,42 @@ Provide personalized assistance to individuals with disabilities or illness who 
 - Plan, shop for, or prepare nutritious meals or assist families in planning, shopping for, or preparing nutritious meals.
 - Transport clients to locations outside the home, such as to physicians' offices or on outings, using a motor vehicle.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- English Language (Importance: 3.63/5 | Level: 3.59/7)
+- Transportation (Importance: 3.44/5 | Level: 3.25/7)
+- Customer and Personal Service (Importance: 3.42/5 | Level: 4.44/7)
+- Education and Training (Importance: 3.41/5 | Level: 3.08/7)
+- Psychology (Importance: 3.41/5 | Level: 4.26/7)
+- Public Safety and Security (Importance: 3.19/5 | Level: 1.65/7)
+- Food Production (Importance: 2.99/5 | Level: 2.64/7)
+- Therapy and Counseling (Importance: 2.97/5 | Level: 3.48/7)
+- Administration and Management (Importance: 2.94/5 | Level: 2.21/7)
+- Personnel and Human Resources (Importance: 2.91/5 | Level: 2.84/7)
+- Sociology and Anthropology (Importance: 2.79/5 | Level: 1.82/7)
+- Foreign Language (Importance: 2.71/5 | Level: 1.11/7)
+- Computers and Electronics (Importance: 2.56/5 | Level: 2.86/7)
+- Medicine and Dentistry (Importance: 2.54/5 | Level: 1.69/7)
+- Philosophy and Theology (Importance: 2.5/5 | Level: 2.78/7)
+- Administrative (Importance: 2.41/5 | Level: 1.72/7)
+- Design (Importance: 2.38/5 | Level: 2.1/7)
+- Mathematics (Importance: 2.3/5 | Level: 1.19/7)
+- Production and Processing (Importance: 2.3/5 | Level: 2.03/7)
+- Building and Construction (Importance: 2.28/5 | Level: 2.04/7)
+- Engineering and Technology (Importance: 2.15/5 | Level: 2.1/7)
+- Sales and Marketing (Importance: 2.14/5 | Level: 2.12/7)
+- Chemistry (Importance: 2.11/5 | Level: 1.44/7)
+- Mechanical (Importance: 2.11/5 | Level: 0.71/7)
+- Biology (Importance: 2.07/5 | Level: 1.09/7)
+- Telecommunications (Importance: 1.99/5 | Level: 1.1/7)
+- Economics and Accounting (Importance: 1.92/5 | Level: 1.76/7)
+- Communications and Media (Importance: 1.88/5 | Level: 1.18/7)
+- Law and Government (Importance: 1.84/5 | Level: 0.99/7)
+- Physics (Importance: 1.77/5 | Level: 0.56/7)
+- History and Archeology (Importance: 1.77/5 | Level: 0.98/7)
+- Fine Arts (Importance: 1.7/5 | Level: 0.87/7)
+- Geography (Importance: 1.34/5 | Level: 0.8/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Service Orientation (Importance: 4.0/5 | Level: 3.88/7)
@@ -170,3 +206,25 @@ Provide personalized assistance to individuals with disabilities or illness who 
 - Primary Interest: Social
 - Secondary Interest: Conventional
 - Tertiary Interest: Realistic
+
+# RELATED OCCUPATIONS
+- Home Health Aides
+- Nursing Assistants
+- Child, Family, and School Social Workers
+- Nannies
+- Psychiatric Aides
+- Social and Human Service Assistants
+- Occupational Therapy Aides
+- Rehabilitation Counselors
+- Licensed Practical and Licensed Vocational Nurses
+- Physical Therapist Aides
+- Healthcare Social Workers
+- Mental Health Counselors
+- Mental Health and Substance Abuse Social Workers
+- Community Health Workers
+- Psychiatric Technicians
+- Emergency Medicine Physicians
+- Childcare Workers
+- First-Line Supervisors of Personal Service Workers
+- Clinical Nurse Specialists
+- Social and Community Service Managers

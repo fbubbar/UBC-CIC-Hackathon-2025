@@ -26,6 +26,42 @@ Assemble, install, repair, or maintain electric or hydraulic freight or passenge
 - Assemble electrically powered stairs, steel frameworks, and tracks, and install associated motors and electrical wiring.
 - Cut prefabricated sections of framework, rails, and other components to specified dimensions.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 4.33/5 | Level: 5.19/7)
+- Customer and Personal Service (Importance: 3.77/5 | Level: 4.36/7)
+- Building and Construction (Importance: 3.65/5 | Level: 4.44/7)
+- Public Safety and Security (Importance: 3.57/5 | Level: 4.27/7)
+- Computers and Electronics (Importance: 3.4/5 | Level: 3.6/7)
+- Mathematics (Importance: 3.25/5 | Level: 4.11/7)
+- Engineering and Technology (Importance: 3.17/5 | Level: 3.94/7)
+- English Language (Importance: 3.12/5 | Level: 2.91/7)
+- Administration and Management (Importance: 3.06/5 | Level: 3.76/7)
+- Design (Importance: 2.96/5 | Level: 3.87/7)
+- Administrative (Importance: 2.93/5 | Level: 3.14/7)
+- Education and Training (Importance: 2.91/5 | Level: 3.31/7)
+- Physics (Importance: 2.82/5 | Level: 3.81/7)
+- Transportation (Importance: 2.71/5 | Level: 2.72/7)
+- Telecommunications (Importance: 2.68/5 | Level: 2.7/7)
+- Law and Government (Importance: 2.5/5 | Level: 2.55/7)
+- Sales and Marketing (Importance: 2.49/5 | Level: 3.23/7)
+- Personnel and Human Resources (Importance: 2.45/5 | Level: 2.45/7)
+- Chemistry (Importance: 2.42/5 | Level: 2.91/7)
+- Production and Processing (Importance: 2.31/5 | Level: 2.47/7)
+- Economics and Accounting (Importance: 1.86/5 | Level: 1.57/7)
+- Medicine and Dentistry (Importance: 1.81/5 | Level: 1.38/7)
+- Geography (Importance: 1.78/5 | Level: 1.62/7)
+- Psychology (Importance: 1.76/5 | Level: 1.27/7)
+- Communications and Media (Importance: 1.74/5 | Level: 1.62/7)
+- Philosophy and Theology (Importance: 1.5/5 | Level: 1.05/7)
+- Foreign Language (Importance: 1.46/5 | Level: 0.92/7)
+- Sociology and Anthropology (Importance: 1.45/5 | Level: 0.92/7)
+- Therapy and Counseling (Importance: 1.42/5 | Level: 0.84/7)
+- Biology (Importance: 1.39/5 | Level: 0.78/7)
+- History and Archeology (Importance: 1.39/5 | Level: 0.77/7)
+- Fine Arts (Importance: 1.39/5 | Level: 0.77/7)
+- Food Production (Importance: 1.38/5 | Level: 0.76/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Troubleshooting (Importance: 4.0/5 | Level: 4.0/7)
@@ -207,3 +243,25 @@ Assemble, install, repair, or maintain electric or hydraulic freight or passenge
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Maintenance and Repair Workers, General
+- Mobile Heavy Equipment Mechanics, Except Engines
+- Millwrights
+- Mechanical Door Repairers
+- Rail Car Repairers
+- Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+- Engine and Other Machine Assemblers
+- Electrical and Electronics Installers and Repairers, Transportation Equipment
+- Industrial Machinery Mechanics
+- Structural Iron and Steel Workers
+- Control and Valve Installers and Repairers, Except Mechanical Door
+- Riggers
+- Hoist and Winch Operators
+- Helpers--Installation, Maintenance, and Repair Workers
+- Bus and Truck Mechanics and Diesel Engine Specialists
+- Heating, Air Conditioning, and Refrigeration Mechanics and Installers
+- Plumbers, Pipefitters, and Steamfitters
+- Electrical Power-Line Installers and Repairers
+- Electric Motor, Power Tool, and Related Repairers
+- Crane and Tower Operators

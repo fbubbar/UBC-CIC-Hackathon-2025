@@ -33,6 +33,42 @@ Teach courses in biological sciences. Includes both teachers primarily engaged i
 - Act as advisers to student organizations.
 - Provide professional consulting services to government or industry.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Biology (Importance: 4.98/5 | Level: 6.77/7)
+- English Language (Importance: 4.38/5 | Level: 5.49/7)
+- Mathematics (Importance: 4.16/5 | Level: 4.99/7)
+- Chemistry (Importance: 4.09/5 | Level: 4.62/7)
+- Education and Training (Importance: 4.06/5 | Level: 5.73/7)
+- Computers and Electronics (Importance: 3.77/5 | Level: 4.35/7)
+- Administrative (Importance: 3.22/5 | Level: 3.62/7)
+- Medicine and Dentistry (Importance: 3.17/5 | Level: 3.13/7)
+- Communications and Media (Importance: 3.06/5 | Level: 3.81/7)
+- Geography (Importance: 3.0/5 | Level: 3.68/7)
+- Physics (Importance: 2.96/5 | Level: 3.44/7)
+- Engineering and Technology (Importance: 2.91/5 | Level: 2.73/7)
+- Psychology (Importance: 2.86/5 | Level: 3.5/7)
+- Administration and Management (Importance: 2.63/5 | Level: 3.18/7)
+- Personnel and Human Resources (Importance: 2.59/5 | Level: 3.09/7)
+- Sociology and Anthropology (Importance: 2.45/5 | Level: 2.88/7)
+- Mechanical (Importance: 2.25/5 | Level: 2.5/7)
+- Public Safety and Security (Importance: 2.22/5 | Level: 1.83/7)
+- Customer and Personal Service (Importance: 2.18/5 | Level: 2.34/7)
+- Philosophy and Theology (Importance: 2.14/5 | Level: 2.86/7)
+- Therapy and Counseling (Importance: 2.11/5 | Level: 2.34/7)
+- History and Archeology (Importance: 2.06/5 | Level: 2.23/7)
+- Telecommunications (Importance: 1.89/5 | Level: 1.29/7)
+- Law and Government (Importance: 1.88/5 | Level: 1.71/7)
+- Economics and Accounting (Importance: 1.82/5 | Level: 1.59/7)
+- Transportation (Importance: 1.77/5 | Level: 1.42/7)
+- Design (Importance: 1.6/5 | Level: 1.84/7)
+- Building and Construction (Importance: 1.58/5 | Level: 1.08/7)
+- Production and Processing (Importance: 1.56/5 | Level: 1.52/7)
+- Sales and Marketing (Importance: 1.5/5 | Level: 1.21/7)
+- Foreign Language (Importance: 1.47/5 | Level: 1.27/7)
+- Fine Arts (Importance: 1.38/5 | Level: 0.66/7)
+- Food Production (Importance: 1.02/5 | Level: 0.14/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Speaking (Importance: 4.25/5 | Level: 4.75/7)
@@ -222,3 +258,25 @@ Teach courses in biological sciences. Includes both teachers primarily engaged i
 - Primary Interest: Social
 - Secondary Interest: Investigative
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary
+- Chemistry Teachers, Postsecondary
+- Environmental Science Teachers, Postsecondary
+- Health Specialties Teachers, Postsecondary
+- Molecular and Cellular Biologists
+- Agricultural Sciences Teachers, Postsecondary
+- Physics Teachers, Postsecondary
+- Forestry and Conservation Science Teachers, Postsecondary
+- Teaching Assistants, Postsecondary
+- Mathematical Science Teachers, Postsecondary
+- Geneticists
+- Biological Technicians
+- Psychology Teachers, Postsecondary
+- Recreation and Fitness Studies Teachers, Postsecondary
+- Anthropology and Archeology Teachers, Postsecondary
+- Bioinformatics Scientists
+- Geography Teachers, Postsecondary
+- Secondary School Teachers, Except Special and Career/Technical Education
+- Tutors
+- Biochemists and Biophysicists

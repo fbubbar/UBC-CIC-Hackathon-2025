@@ -31,6 +31,42 @@ Implement production processes and operate commercial-scale production equipment
 - Assist nanoscientists or engineers in processing or characterizing materials according to physical or chemical properties.
 - Assist nanoscientists or engineers in writing process specifications or documentation.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Engineering and Technology (Importance: 4.27/5 | Level: 4.97/7)
+- Chemistry (Importance: 4.13/5 | Level: 5.24/7)
+- Physics (Importance: 3.71/5 | Level: 4.6/7)
+- Computers and Electronics (Importance: 3.69/5 | Level: 4.74/7)
+- Mathematics (Importance: 3.56/5 | Level: 4.54/7)
+- English Language (Importance: 3.52/5 | Level: 3.84/7)
+- Mechanical (Importance: 3.34/5 | Level: 4.36/7)
+- Production and Processing (Importance: 3.19/5 | Level: 3.44/7)
+- Design (Importance: 2.92/5 | Level: 3.72/7)
+- Customer and Personal Service (Importance: 2.53/5 | Level: 2.54/7)
+- Education and Training (Importance: 2.52/5 | Level: 3.21/7)
+- Public Safety and Security (Importance: 2.26/5 | Level: 2.31/7)
+- Administrative (Importance: 2.26/5 | Level: 2.42/7)
+- Biology (Importance: 2.19/5 | Level: 2.42/7)
+- Administration and Management (Importance: 2.18/5 | Level: 2.5/7)
+- Communications and Media (Importance: 1.84/5 | Level: 1.78/7)
+- Telecommunications (Importance: 1.71/5 | Level: 1.21/7)
+- Building and Construction (Importance: 1.66/5 | Level: 1.23/7)
+- Economics and Accounting (Importance: 1.65/5 | Level: 1.2/7)
+- Law and Government (Importance: 1.62/5 | Level: 1.39/7)
+- Medicine and Dentistry (Importance: 1.61/5 | Level: 1.07/7)
+- Personnel and Human Resources (Importance: 1.6/5 | Level: 1.37/7)
+- Sales and Marketing (Importance: 1.57/5 | Level: 1.47/7)
+- Transportation (Importance: 1.3/5 | Level: 0.6/7)
+- Psychology (Importance: 1.27/5 | Level: 0.62/7)
+- Foreign Language (Importance: 1.24/5 | Level: 0.44/7)
+- Therapy and Counseling (Importance: 1.21/5 | Level: 0.41/7)
+- Geography (Importance: 1.16/5 | Level: 0.54/7)
+- Sociology and Anthropology (Importance: 1.15/5 | Level: 0.31/7)
+- Philosophy and Theology (Importance: 1.11/5 | Level: 0.28/7)
+- History and Archeology (Importance: 1.11/5 | Level: 0.26/7)
+- Food Production (Importance: 1.02/5 | Level: 0.09/7)
+- Fine Arts (Importance: 1.02/5 | Level: 0.06/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Reading Comprehension (Importance: 3.62/5 | Level: 3.88/7)
@@ -189,3 +225,25 @@ Implement production processes and operate commercial-scale production equipment
 - Primary Interest: Realistic
 - Secondary Interest: Investigative
 - Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Nanosystems Engineers
+- Industrial Engineering Technologists and Technicians
+- Mechanical Engineering Technologists and Technicians
+- Calibration Technologists and Technicians
+- Aerospace Engineering and Operations Technologists and Technicians
+- Chemists
+- Chemical Technicians
+- Robotics Technicians
+- Chemical Engineers
+- Electrical and Electronic Engineering Technologists and Technicians
+- Bioengineers and Biomedical Engineers
+- Histotechnologists
+- Industrial Engineers
+- Materials Scientists
+- Materials Engineers
+- Microsystems Engineers
+- Photonics Technicians
+- Robotics Engineers
+- Mechatronics Engineers
+- Medical Equipment Repairers

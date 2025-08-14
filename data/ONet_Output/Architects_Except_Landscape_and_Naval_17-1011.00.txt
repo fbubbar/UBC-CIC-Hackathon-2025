@@ -30,6 +30,42 @@ Plan and design structures, such as private residences, office buildings, theate
 - Calculate potential energy savings by comparing estimated energy consumption of proposed design to baseline standards.
 - Prepare operating and maintenance manuals, studies, or reports.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Design (Importance: 4.9/5 | Level: 6.76/7)
+- Building and Construction (Importance: 4.81/5 | Level: 6.05/7)
+- Public Safety and Security (Importance: 4.1/5 | Level: 4.62/7)
+- Engineering and Technology (Importance: 4.05/5 | Level: 5.43/7)
+- Computers and Electronics (Importance: 4.0/5 | Level: 4.81/7)
+- English Language (Importance: 3.95/5 | Level: 4.19/7)
+- Administration and Management (Importance: 3.86/5 | Level: 4.52/7)
+- Customer and Personal Service (Importance: 3.81/5 | Level: 4.81/7)
+- Law and Government (Importance: 3.45/5 | Level: 4.3/7)
+- Mechanical (Importance: 3.38/5 | Level: 3.4/7)
+- Mathematics (Importance: 3.38/5 | Level: 4.14/7)
+- Sales and Marketing (Importance: 3.24/5 | Level: 4.14/7)
+- Economics and Accounting (Importance: 3.24/5 | Level: 3.48/7)
+- Fine Arts (Importance: 3.19/5 | Level: 3.48/7)
+- Education and Training (Importance: 3.05/5 | Level: 4.24/7)
+- Production and Processing (Importance: 3.05/5 | Level: 3.43/7)
+- Physics (Importance: 3.05/5 | Level: 3.35/7)
+- Personnel and Human Resources (Importance: 3.0/5 | Level: 3.62/7)
+- Geography (Importance: 2.95/5 | Level: 4.05/7)
+- Administrative (Importance: 2.95/5 | Level: 4.05/7)
+- History and Archeology (Importance: 2.9/5 | Level: 3.19/7)
+- Psychology (Importance: 2.7/5 | Level: 2.95/7)
+- Communications and Media (Importance: 2.57/5 | Level: 2.95/7)
+- Sociology and Anthropology (Importance: 2.52/5 | Level: 3.15/7)
+- Telecommunications (Importance: 2.4/5 | Level: 2.29/7)
+- Transportation (Importance: 2.33/5 | Level: 2.38/7)
+- Philosophy and Theology (Importance: 2.05/5 | Level: 2.43/7)
+- Chemistry (Importance: 1.86/5 | Level: 2.3/7)
+- Foreign Language (Importance: 1.62/5 | Level: 1.38/7)
+- Biology (Importance: 1.62/5 | Level: 1.55/7)
+- Therapy and Counseling (Importance: 1.42/5 | Level: 0.9/7)
+- Food Production (Importance: 1.38/5 | Level: 0.81/7)
+- Medicine and Dentistry (Importance: 1.24/5 | Level: 0.48/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Speaking (Importance: 4.0/5 | Level: 4.0/7)
@@ -229,3 +265,25 @@ Plan and design structures, such as private residences, office buildings, theate
 - Primary Interest: Realistic
 - Secondary Interest: Artistic
 - Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Landscape Architects
+- Interior Designers
+- Construction Managers
+- Civil Engineers
+- Construction and Building Inspectors
+- Architectural and Engineering Managers
+- Industrial Engineers
+- Commercial and Industrial Designers
+- Project Management Specialists
+- Architecture Teachers, Postsecondary
+- Architectural and Civil Drafters
+- Civil Engineering Technologists and Technicians
+- Solar Energy Installation Managers
+- Facilities Managers
+- Wind Energy Development Managers
+- Electrical and Electronics Drafters
+- Maintenance and Repair Workers, General
+- Solar Energy Systems Engineers
+- First-Line Supervisors of Construction Trades and Extraction Workers
+- Sustainability Specialists

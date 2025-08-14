@@ -40,6 +40,42 @@ Instruct preschool-aged students, following curricula or lesson plans, in activi
 - Provide students with disabilities with assistive devices, supportive technology, and assistance accessing facilities, such as restrooms.
 - Perform administrative duties, such as hall and cafeteria monitoring and bus loading and unloading.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Education and Training (Importance: 3.99/5 | Level: 4.26/7)
+- English Language (Importance: 3.79/5 | Level: 3.88/7)
+- Public Safety and Security (Importance: 3.29/5 | Level: 2.81/7)
+- Customer and Personal Service (Importance: 3.2/5 | Level: 3.98/7)
+- Psychology (Importance: 3.08/5 | Level: 2.86/7)
+- Administration and Management (Importance: 2.66/5 | Level: 2.29/7)
+- Administrative (Importance: 2.57/5 | Level: 2.68/7)
+- Sociology and Anthropology (Importance: 2.43/5 | Level: 2.45/7)
+- Therapy and Counseling (Importance: 2.36/5 | Level: 2.37/7)
+- Mathematics (Importance: 2.32/5 | Level: 1.92/7)
+- Communications and Media (Importance: 2.3/5 | Level: 2.26/7)
+- Law and Government (Importance: 2.23/5 | Level: 1.75/7)
+- Medicine and Dentistry (Importance: 2.22/5 | Level: 1.82/7)
+- Fine Arts (Importance: 2.21/5 | Level: 1.95/7)
+- Foreign Language (Importance: 2.19/5 | Level: 1.67/7)
+- Personnel and Human Resources (Importance: 2.12/5 | Level: 1.75/7)
+- Sales and Marketing (Importance: 2.09/5 | Level: 1.48/7)
+- Computers and Electronics (Importance: 1.98/5 | Level: 2.03/7)
+- Geography (Importance: 1.97/5 | Level: 2.13/7)
+- Philosophy and Theology (Importance: 1.93/5 | Level: 2.17/7)
+- Telecommunications (Importance: 1.86/5 | Level: 0.83/7)
+- History and Archeology (Importance: 1.82/5 | Level: 1.64/7)
+- Transportation (Importance: 1.71/5 | Level: 1.6/7)
+- Food Production (Importance: 1.65/5 | Level: 0.92/7)
+- Design (Importance: 1.52/5 | Level: 1.15/7)
+- Biology (Importance: 1.51/5 | Level: 1.12/7)
+- Mechanical (Importance: 1.44/5 | Level: 0.72/7)
+- Production and Processing (Importance: 1.37/5 | Level: 0.79/7)
+- Building and Construction (Importance: 1.33/5 | Level: 0.7/7)
+- Economics and Accounting (Importance: 1.32/5 | Level: 0.63/7)
+- Chemistry (Importance: 1.3/5 | Level: 0.73/7)
+- Engineering and Technology (Importance: 1.26/5 | Level: 0.33/7)
+- Physics (Importance: 1.24/5 | Level: 0.4/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Speaking (Importance: 4.0/5 | Level: 3.12/7)
@@ -177,3 +213,25 @@ Instruct preschool-aged students, following curricula or lesson plans, in activi
 - Primary Interest: Social
 - Secondary Interest: Artistic
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Kindergarten Teachers, Except Special Education
+- Special Education Teachers, Elementary School
+- Special Education Teachers, Kindergarten
+- Elementary School Teachers, Except Special Education
+- Special Education Teachers, Preschool
+- Special Education Teachers, Secondary School
+- Childcare Workers
+- Middle School Teachers, Except Special and Career/Technical Education
+- Teaching Assistants, Special Education
+- Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education
+- Education and Childcare Administrators, Preschool and Daycare
+- Special Education Teachers, Middle School
+- Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors
+- Secondary School Teachers, Except Special and Career/Technical Education
+- Tutors
+- Career/Technical Education Teachers, Middle School
+- Self-Enrichment Teachers
+- Instructional Coordinators
+- School Psychologists
+- Education Administrators, Kindergarten through Secondary

@@ -17,6 +17,42 @@ Assess, treat, and care for patients by manipulation of spine and musculoskeleta
 - Recommend and arrange for diagnostic procedures, such as blood chemistry tests, saliva tests, x-rays, or other imaging procedures.
 - Suggest and apply the use of supports such as straps, tapes, bandages, or braces if necessary.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Medicine and Dentistry (Importance: 4.34/5 | Level: 4.35/7)
+- English Language (Importance: 4.1/5 | Level: 4.45/7)
+- Customer and Personal Service (Importance: 4.07/5 | Level: 5.43/7)
+- Biology (Importance: 3.94/5 | Level: 4.44/7)
+- Psychology (Importance: 3.82/5 | Level: 4.85/7)
+- Administration and Management (Importance: 3.75/5 | Level: 3.89/7)
+- Administrative (Importance: 3.49/5 | Level: 4.49/7)
+- Personnel and Human Resources (Importance: 3.47/5 | Level: 3.86/7)
+- Education and Training (Importance: 3.44/5 | Level: 4.63/7)
+- Therapy and Counseling (Importance: 3.42/5 | Level: 4.22/7)
+- Sales and Marketing (Importance: 3.34/5 | Level: 4.25/7)
+- Computers and Electronics (Importance: 3.2/5 | Level: 4.35/7)
+- Sociology and Anthropology (Importance: 2.95/5 | Level: 3.31/7)
+- Economics and Accounting (Importance: 2.94/5 | Level: 3.08/7)
+- Law and Government (Importance: 2.71/5 | Level: 2.75/7)
+- Mathematics (Importance: 2.62/5 | Level: 3.4/7)
+- Public Safety and Security (Importance: 2.52/5 | Level: 2.59/7)
+- Philosophy and Theology (Importance: 2.51/5 | Level: 2.71/7)
+- Communications and Media (Importance: 2.34/5 | Level: 2.46/7)
+- Chemistry (Importance: 2.31/5 | Level: 2.72/7)
+- Engineering and Technology (Importance: 2.21/5 | Level: 2.05/7)
+- Production and Processing (Importance: 2.21/5 | Level: 1.63/7)
+- Mechanical (Importance: 2.04/5 | Level: 2.15/7)
+- Physics (Importance: 1.99/5 | Level: 1.89/7)
+- Telecommunications (Importance: 1.93/5 | Level: 1.25/7)
+- Design (Importance: 1.85/5 | Level: 1.96/7)
+- Foreign Language (Importance: 1.81/5 | Level: 1.52/7)
+- History and Archeology (Importance: 1.61/5 | Level: 1.29/7)
+- Geography (Importance: 1.6/5 | Level: 1.46/7)
+- Transportation (Importance: 1.26/5 | Level: 0.68/7)
+- Food Production (Importance: 1.15/5 | Level: 0.26/7)
+- Fine Arts (Importance: 1.14/5 | Level: 0.35/7)
+- Building and Construction (Importance: 1.14/5 | Level: 0.28/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Active Listening (Importance: 4.0/5 | Level: 4.12/7)
@@ -227,3 +263,25 @@ Assess, treat, and care for patients by manipulation of spine and musculoskeleta
 - Primary Interest: Social
 - Secondary Interest: Realistic
 - Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Emergency Medicine Physicians
+- Pediatric Surgeons
+- Orthopedic Surgeons, Except Pediatric
+- Neurologists
+- Cardiologists
+- Naturopathic Physicians
+- General Internal Medicine Physicians
+- Physical Medicine and Rehabilitation Physicians
+- Acupuncturists
+- Dermatologists
+- Urologists
+- Pediatricians, General
+- Ophthalmologists, Except Pediatric
+- Obstetricians and Gynecologists
+- Family Medicine Physicians
+- Allergists and Immunologists
+- Psychiatrists
+- Nurse Practitioners
+- Optometrists
+- Medical Assistants

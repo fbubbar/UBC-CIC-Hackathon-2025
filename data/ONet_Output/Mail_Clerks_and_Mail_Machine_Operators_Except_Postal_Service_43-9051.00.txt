@@ -32,6 +32,42 @@ Prepare incoming and outgoing mail for distribution. Time-stamp, open, read, sor
 - Add ink, fill paste reservoirs, and change machine ribbons when necessary.
 - Fold letters or circulars and insert them in envelopes.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 3.85/5 | Level: 4.15/7)
+- English Language (Importance: 3.36/5 | Level: 2.94/7)
+- Mathematics (Importance: 2.97/5 | Level: 2.21/7)
+- Law and Government (Importance: 2.55/5 | Level: 1.96/7)
+- Education and Training (Importance: 2.54/5 | Level: 2.48/7)
+- Administrative (Importance: 2.53/5 | Level: 2.83/7)
+- Administration and Management (Importance: 2.42/5 | Level: 2.04/7)
+- Public Safety and Security (Importance: 2.27/5 | Level: 1.78/7)
+- Transportation (Importance: 2.06/5 | Level: 1.35/7)
+- Computers and Electronics (Importance: 2.0/5 | Level: 2.53/7)
+- Economics and Accounting (Importance: 1.82/5 | Level: 1.56/7)
+- Communications and Media (Importance: 1.82/5 | Level: 1.33/7)
+- Sales and Marketing (Importance: 1.67/5 | Level: 0.99/7)
+- Telecommunications (Importance: 1.65/5 | Level: 0.76/7)
+- Foreign Language (Importance: 1.63/5 | Level: 0.94/7)
+- Production and Processing (Importance: 1.58/5 | Level: 0.89/7)
+- Psychology (Importance: 1.48/5 | Level: 0.5/7)
+- Geography (Importance: 1.46/5 | Level: 0.88/7)
+- Personnel and Human Resources (Importance: 1.4/5 | Level: 0.7/7)
+- Engineering and Technology (Importance: 1.33/5 | Level: 0.49/7)
+- Design (Importance: 1.27/5 | Level: 0.43/7)
+- Sociology and Anthropology (Importance: 1.19/5 | Level: 0.28/7)
+- Building and Construction (Importance: 1.13/5 | Level: 0.3/7)
+- Mechanical (Importance: 1.13/5 | Level: 0.27/7)
+- Philosophy and Theology (Importance: 1.11/5 | Level: 0.36/7)
+- Medicine and Dentistry (Importance: 1.11/5 | Level: 0.13/7)
+- Chemistry (Importance: 1.09/5 | Level: 0.27/7)
+- Physics (Importance: 1.09/5 | Level: 0.11/7)
+- Therapy and Counseling (Importance: 1.06/5 | Level: 0.1/7)
+- Fine Arts (Importance: 1.03/5 | Level: 0.03/7)
+- History and Archeology (Importance: 1.02/5 | Level: 0.04/7)
+- Food Production (Importance: 1.01/5 | Level: 0.01/7)
+- Biology (Importance: 1.01/5 | Level: 0.02/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Time Management (Importance: 3.0/5 | Level: 2.62/7)
@@ -181,3 +217,25 @@ Prepare incoming and outgoing mail for distribution. Time-stamp, open, read, sor
 - Primary Interest: Conventional
 - Secondary Interest: Realistic
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Postal Service Clerks
+- Postal Service Mail Sorters, Processors, and Processing Machine Operators
+- Shipping, Receiving, and Inventory Clerks
+- Postal Service Mail Carriers
+- Couriers and Messengers
+- Data Entry Keyers
+- Office Machine Operators, Except Computer
+- Stockers and Order Fillers
+- Laborers and Freight, Stock, and Material Movers, Hand
+- Order Clerks
+- Office Clerks, General
+- Postmasters and Mail Superintendents
+- Packers and Packagers, Hand
+- Cargo and Freight Agents
+- File Clerks
+- Light Truck Drivers
+- Weighers, Measurers, Checkers, and Samplers, Recordkeeping
+- Packaging and Filling Machine Operators and Tenders
+- Cashiers
+- Receptionists and Information Clerks

@@ -30,6 +30,42 @@ Teach courses pertaining to the application of physical laws and principles of e
 - Provide professional consulting services to government or industry.
 - Compile bibliographies of specialized materials for outside reading assignments.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Engineering and Technology (Importance: 4.95/5 | Level: 6.45/7)
+- Design (Importance: 4.6/5 | Level: 5.4/7)
+- Computers and Electronics (Importance: 4.55/5 | Level: 5.87/7)
+- Mathematics (Importance: 4.52/5 | Level: 5.9/7)
+- English Language (Importance: 4.36/5 | Level: 5.29/7)
+- Physics (Importance: 4.17/5 | Level: 5.39/7)
+- Education and Training (Importance: 3.79/5 | Level: 5.66/7)
+- Mechanical (Importance: 3.45/5 | Level: 4.81/7)
+- Chemistry (Importance: 3.23/5 | Level: 4.27/7)
+- Administration and Management (Importance: 3.17/5 | Level: 4.29/7)
+- Production and Processing (Importance: 3.06/5 | Level: 3.69/7)
+- Economics and Accounting (Importance: 2.89/5 | Level: 3.11/7)
+- Communications and Media (Importance: 2.72/5 | Level: 3.36/7)
+- Administrative (Importance: 2.7/5 | Level: 3.99/7)
+- Customer and Personal Service (Importance: 2.57/5 | Level: 2.44/7)
+- Psychology (Importance: 2.53/5 | Level: 2.39/7)
+- Sales and Marketing (Importance: 2.44/5 | Level: 2.54/7)
+- Telecommunications (Importance: 2.38/5 | Level: 2.49/7)
+- Biology (Importance: 2.34/5 | Level: 1.93/7)
+- Law and Government (Importance: 2.32/5 | Level: 2.69/7)
+- Building and Construction (Importance: 2.18/5 | Level: 2.04/7)
+- Public Safety and Security (Importance: 2.14/5 | Level: 1.96/7)
+- Personnel and Human Resources (Importance: 2.08/5 | Level: 2.2/7)
+- Medicine and Dentistry (Importance: 1.92/5 | Level: 1.19/7)
+- Sociology and Anthropology (Importance: 1.88/5 | Level: 1.46/7)
+- Therapy and Counseling (Importance: 1.62/5 | Level: 1.19/7)
+- Geography (Importance: 1.57/5 | Level: 1.08/7)
+- Transportation (Importance: 1.46/5 | Level: 1.27/7)
+- Fine Arts (Importance: 1.4/5 | Level: 0.8/7)
+- Foreign Language (Importance: 1.28/5 | Level: 0.73/7)
+- Philosophy and Theology (Importance: 1.17/5 | Level: 0.29/7)
+- History and Archeology (Importance: 1.06/5 | Level: 0.18/7)
+- Food Production (Importance: 1.05/5 | Level: 0.05/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Speaking (Importance: 4.12/5 | Level: 4.88/7)
@@ -202,3 +238,25 @@ Teach courses pertaining to the application of physical laws and principles of e
 - Primary Interest: Social
 - Secondary Interest: Investigative
 - Tertiary Interest: Realistic
+
+# RELATED OCCUPATIONS
+- Career/Technical Education Teachers, Postsecondary
+- Physics Teachers, Postsecondary
+- Architectural and Engineering Managers
+- Computer Science Teachers, Postsecondary
+- Environmental Science Teachers, Postsecondary
+- Materials Scientists
+- Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary
+- Chemistry Teachers, Postsecondary
+- Mathematical Science Teachers, Postsecondary
+- Architecture Teachers, Postsecondary
+- Mechanical Engineering Technologists and Technicians
+- Career/Technical Education Teachers, Middle School
+- Bioengineers and Biomedical Engineers
+- Mechatronics Engineers
+- Career/Technical Education Teachers, Secondary School
+- Materials Engineers
+- Nanotechnology Engineering Technologists and Technicians
+- Industrial Engineers
+- Mechanical Engineers
+- Electrical and Electronic Engineering Technologists and Technicians

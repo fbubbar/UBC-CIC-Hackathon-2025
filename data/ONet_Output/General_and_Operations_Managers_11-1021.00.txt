@@ -23,6 +23,42 @@ Plan, direct, or coordinate the operations of public or private sector organizat
 - Plan store layouts or design displays.
 - Recommend locations for new facilities, or oversee the remodeling or renovating of current facilities.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Administration and Management (Importance: 4.25/5 | Level: 4.38/7)
+- Customer and Personal Service (Importance: 4.15/5 | Level: 4.64/7)
+- English Language (Importance: 3.7/5 | Level: 3.64/7)
+- Production and Processing (Importance: 3.57/5 | Level: 4.23/7)
+- Mathematics (Importance: 3.53/5 | Level: 4.07/7)
+- Personnel and Human Resources (Importance: 3.44/5 | Level: 3.95/7)
+- Administrative (Importance: 3.21/5 | Level: 3.95/7)
+- Economics and Accounting (Importance: 3.2/5 | Level: 3.58/7)
+- Sales and Marketing (Importance: 2.99/5 | Level: 3.35/7)
+- Engineering and Technology (Importance: 2.9/5 | Level: 3.27/7)
+- Mechanical (Importance: 2.85/5 | Level: 3.44/7)
+- Education and Training (Importance: 2.79/5 | Level: 3.65/7)
+- Public Safety and Security (Importance: 2.74/5 | Level: 2.4/7)
+- Computers and Electronics (Importance: 2.67/5 | Level: 3.0/7)
+- Law and Government (Importance: 2.56/5 | Level: 2.96/7)
+- Psychology (Importance: 2.53/5 | Level: 2.67/7)
+- Communications and Media (Importance: 2.39/5 | Level: 2.31/7)
+- Design (Importance: 2.32/5 | Level: 2.59/7)
+- Transportation (Importance: 2.21/5 | Level: 1.66/7)
+- Building and Construction (Importance: 2.2/5 | Level: 2.26/7)
+- Physics (Importance: 1.98/5 | Level: 1.85/7)
+- Sociology and Anthropology (Importance: 1.93/5 | Level: 1.55/7)
+- Chemistry (Importance: 1.91/5 | Level: 1.97/7)
+- Telecommunications (Importance: 1.85/5 | Level: 1.43/7)
+- Therapy and Counseling (Importance: 1.6/5 | Level: 1.43/7)
+- Geography (Importance: 1.46/5 | Level: 0.65/7)
+- Foreign Language (Importance: 1.4/5 | Level: 0.63/7)
+- History and Archeology (Importance: 1.35/5 | Level: 0.67/7)
+- Food Production (Importance: 1.32/5 | Level: 0.65/7)
+- Fine Arts (Importance: 1.28/5 | Level: 0.45/7)
+- Philosophy and Theology (Importance: 1.23/5 | Level: 0.52/7)
+- Biology (Importance: 1.21/5 | Level: 0.39/7)
+- Medicine and Dentistry (Importance: 1.2/5 | Level: 0.3/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Monitoring (Importance: 4.0/5 | Level: 4.12/7)
@@ -290,3 +326,25 @@ Plan, direct, or coordinate the operations of public or private sector organizat
 - Primary Interest: Enterprising
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Facilities Managers
+- Chief Executives
+- Industrial Production Managers
+- Administrative Services Managers
+- First-Line Supervisors of Non-Retail Sales Workers
+- Transportation, Storage, and Distribution Managers
+- Project Management Specialists
+- Construction Managers
+- Information Technology Project Managers
+- Sales Managers
+- First-Line Supervisors of Office and Administrative Support Workers
+- First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services
+- First-Line Supervisors of Mechanics, Installers, and Repairers
+- First-Line Supervisors of Production and Operating Workers
+- First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand
+- First-Line Supervisors of Material-Moving Machine and Vehicle Operators
+- First-Line Supervisors of Construction Trades and Extraction Workers
+- Management Analysts
+- First-Line Supervisors of Housekeeping and Janitorial Workers
+- Industrial Engineers

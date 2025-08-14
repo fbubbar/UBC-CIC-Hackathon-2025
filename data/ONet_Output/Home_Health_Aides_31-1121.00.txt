@@ -21,6 +21,42 @@ Monitor the health status of an individual with disabilities or illness, and add
 - Accompany clients to doctors' offices or on other trips outside the home, providing transportation, assistance, and companionship.
 - Change dressings.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 3.62/5 | Level: 4.0/7)
+- English Language (Importance: 3.45/5 | Level: 2.91/7)
+- Psychology (Importance: 2.6/5 | Level: 2.87/7)
+- Public Safety and Security (Importance: 2.58/5 | Level: 1.95/7)
+- Administration and Management (Importance: 2.52/5 | Level: 2.3/7)
+- Medicine and Dentistry (Importance: 2.43/5 | Level: 1.93/7)
+- Telecommunications (Importance: 2.36/5 | Level: 1.38/7)
+- Law and Government (Importance: 2.35/5 | Level: 1.68/7)
+- Transportation (Importance: 2.34/5 | Level: 1.28/7)
+- Education and Training (Importance: 2.33/5 | Level: 2.5/7)
+- Personnel and Human Resources (Importance: 2.27/5 | Level: 1.67/7)
+- Computers and Electronics (Importance: 2.19/5 | Level: 1.58/7)
+- Administrative (Importance: 2.15/5 | Level: 1.58/7)
+- Communications and Media (Importance: 2.11/5 | Level: 1.89/7)
+- Therapy and Counseling (Importance: 2.09/5 | Level: 1.91/7)
+- Philosophy and Theology (Importance: 2.08/5 | Level: 2.08/7)
+- Mathematics (Importance: 2.08/5 | Level: 1.61/7)
+- Economics and Accounting (Importance: 2.08/5 | Level: 1.49/7)
+- Foreign Language (Importance: 1.82/5 | Level: 1.15/7)
+- Sociology and Anthropology (Importance: 1.81/5 | Level: 1.47/7)
+- Geography (Importance: 1.78/5 | Level: 1.12/7)
+- Sales and Marketing (Importance: 1.74/5 | Level: 1.14/7)
+- Design (Importance: 1.69/5 | Level: 0.97/7)
+- Biology (Importance: 1.68/5 | Level: 1.2/7)
+- Mechanical (Importance: 1.66/5 | Level: 0.96/7)
+- Food Production (Importance: 1.63/5 | Level: 0.83/7)
+- Production and Processing (Importance: 1.59/5 | Level: 0.92/7)
+- Engineering and Technology (Importance: 1.59/5 | Level: 0.8/7)
+- History and Archeology (Importance: 1.5/5 | Level: 0.79/7)
+- Chemistry (Importance: 1.49/5 | Level: 1.09/7)
+- Physics (Importance: 1.47/5 | Level: 0.73/7)
+- Fine Arts (Importance: 1.43/5 | Level: 0.38/7)
+- Building and Construction (Importance: 1.31/5 | Level: 0.62/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Active Listening (Importance: 3.75/5 | Level: 3.62/7)
@@ -177,3 +213,25 @@ Monitor the health status of an individual with disabilities or illness, and add
 - Primary Interest: Social
 - Secondary Interest: Realistic
 - Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Nursing Assistants
+- Personal Care Aides
+- Psychiatric Aides
+- Paramedics
+- Licensed Practical and Licensed Vocational Nurses
+- Psychiatric Technicians
+- Occupational Therapy Aides
+- Physical Therapist Aides
+- Emergency Medical Technicians
+- Physical Therapist Assistants
+- Emergency Medicine Physicians
+- Nurse Practitioners
+- Occupational Therapy Assistants
+- Registered Nurses
+- Medical Assistants
+- Family Medicine Physicians
+- Recreational Therapists
+- Clinical Nurse Specialists
+- Occupational Therapists
+- Acute Care Nurses

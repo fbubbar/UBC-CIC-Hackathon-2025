@@ -36,6 +36,42 @@ Diagnose and treat diseases and injuries using medical imaging techniques, such 
 - Teach nuclear medicine, diagnostic radiology, or other specialties at graduate educational level.
 - Test dosage evaluation instruments and survey meters to ensure they are operating properly.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Medicine and Dentistry (Importance: 4.67/5 | Level: 6.36/7)
+- Biology (Importance: 4.5/5 | Level: 4.89/7)
+- English Language (Importance: 4.3/5 | Level: 4.86/7)
+- Computers and Electronics (Importance: 3.88/5 | Level: 4.76/7)
+- Education and Training (Importance: 3.7/5 | Level: 5.0/7)
+- Customer and Personal Service (Importance: 3.64/5 | Level: 4.95/7)
+- Physics (Importance: 3.32/5 | Level: 4.05/7)
+- Public Safety and Security (Importance: 2.91/5 | Level: 2.78/7)
+- Communications and Media (Importance: 2.86/5 | Level: 3.36/7)
+- Administration and Management (Importance: 2.71/5 | Level: 3.14/7)
+- Mathematics (Importance: 2.69/5 | Level: 3.56/7)
+- Engineering and Technology (Importance: 2.68/5 | Level: 3.28/7)
+- Law and Government (Importance: 2.67/5 | Level: 2.57/7)
+- Administrative (Importance: 2.61/5 | Level: 3.41/7)
+- Personnel and Human Resources (Importance: 2.42/5 | Level: 2.79/7)
+- Psychology (Importance: 2.39/5 | Level: 3.26/7)
+- Sales and Marketing (Importance: 2.36/5 | Level: 2.92/7)
+- Telecommunications (Importance: 2.27/5 | Level: 1.46/7)
+- Chemistry (Importance: 2.25/5 | Level: 2.71/7)
+- Economics and Accounting (Importance: 2.2/5 | Level: 2.03/7)
+- Therapy and Counseling (Importance: 2.14/5 | Level: 2.24/7)
+- Production and Processing (Importance: 2.03/5 | Level: 2.01/7)
+- Sociology and Anthropology (Importance: 1.67/5 | Level: 1.51/7)
+- Foreign Language (Importance: 1.52/5 | Level: 0.94/7)
+- Design (Importance: 1.35/5 | Level: 0.76/7)
+- Mechanical (Importance: 1.31/5 | Level: 0.49/7)
+- Philosophy and Theology (Importance: 1.17/5 | Level: 0.52/7)
+- Geography (Importance: 1.09/5 | Level: 0.21/7)
+- Transportation (Importance: 1.09/5 | Level: 0.09/7)
+- History and Archeology (Importance: 1.06/5 | Level: 0.12/7)
+- Building and Construction (Importance: 1.03/5 | Level: 0.06/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Speaking (Importance: 4.25/5 | Level: 4.25/7)
@@ -254,3 +290,25 @@ Diagnose and treat diseases and injuries using medical imaging techniques, such 
 - Primary Interest: Investigative
 - Secondary Interest: Conventional
 - Tertiary Interest: Realistic
+
+# RELATED OCCUPATIONS
+- Cardiologists
+- Pediatric Surgeons
+- Emergency Medicine Physicians
+- Orthopedic Surgeons, Except Pediatric
+- Physicians, Pathologists
+- General Internal Medicine Physicians
+- Urologists
+- Allergists and Immunologists
+- Neurologists
+- Physical Medicine and Rehabilitation Physicians
+- Radiologic Technologists and Technicians
+- Cardiovascular Technologists and Technicians
+- Nuclear Medicine Technologists
+- Anesthesiologists
+- Radiation Therapists
+- Diagnostic Medical Sonographers
+- Ophthalmologists, Except Pediatric
+- Magnetic Resonance Imaging Technologists
+- Neurodiagnostic Technologists
+- Obstetricians and Gynecologists

@@ -34,6 +34,42 @@ Operate, test, maintain, or adjust unmanned, automated, servomechanical, or elec
 - Assist engineers to implement electromechanical designs in industrial or other settings.
 - Consult with machinists to ensure that electromechanical equipment or systems meet design specifications.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Computers and Electronics (Importance: 4.07/5 | Level: 4.79/7)
+- Mechanical (Importance: 3.74/5 | Level: 4.65/7)
+- Engineering and Technology (Importance: 3.62/5 | Level: 4.32/7)
+- English Language (Importance: 3.19/5 | Level: 3.12/7)
+- Mathematics (Importance: 3.13/5 | Level: 3.86/7)
+- Production and Processing (Importance: 3.13/5 | Level: 3.13/7)
+- Design (Importance: 2.83/5 | Level: 3.75/7)
+- Telecommunications (Importance: 2.75/5 | Level: 2.46/7)
+- Physics (Importance: 2.61/5 | Level: 3.54/7)
+- Education and Training (Importance: 2.47/5 | Level: 2.84/7)
+- Administrative (Importance: 2.4/5 | Level: 2.39/7)
+- Customer and Personal Service (Importance: 2.39/5 | Level: 2.54/7)
+- Public Safety and Security (Importance: 2.39/5 | Level: 2.1/7)
+- Administration and Management (Importance: 1.99/5 | Level: 1.64/7)
+- Chemistry (Importance: 1.97/5 | Level: 2.17/7)
+- Law and Government (Importance: 1.6/5 | Level: 1.36/7)
+- Building and Construction (Importance: 1.6/5 | Level: 1.32/7)
+- Foreign Language (Importance: 1.54/5 | Level: 0.86/7)
+- Communications and Media (Importance: 1.48/5 | Level: 0.97/7)
+- Economics and Accounting (Importance: 1.47/5 | Level: 0.67/7)
+- Sales and Marketing (Importance: 1.4/5 | Level: 0.65/7)
+- Transportation (Importance: 1.39/5 | Level: 0.69/7)
+- Personnel and Human Resources (Importance: 1.36/5 | Level: 0.81/7)
+- Geography (Importance: 1.36/5 | Level: 1.26/7)
+- Psychology (Importance: 1.31/5 | Level: 0.75/7)
+- Medicine and Dentistry (Importance: 1.26/5 | Level: 0.43/7)
+- Philosophy and Theology (Importance: 1.18/5 | Level: 0.47/7)
+- Food Production (Importance: 1.18/5 | Level: 0.25/7)
+- Biology (Importance: 1.15/5 | Level: 0.35/7)
+- Sociology and Anthropology (Importance: 1.14/5 | Level: 0.26/7)
+- Therapy and Counseling (Importance: 1.14/5 | Level: 0.28/7)
+- History and Archeology (Importance: 1.07/5 | Level: 0.16/7)
+- Fine Arts (Importance: 1.05/5 | Level: 0.09/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Operations Monitoring (Importance: 4.0/5 | Level: 4.0/7)
@@ -248,3 +284,25 @@ Operate, test, maintain, or adjust unmanned, automated, servomechanical, or elec
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Aerospace Engineering and Operations Technologists and Technicians
+- Avionics Technicians
+- Robotics Technicians
+- Calibration Technologists and Technicians
+- Electrical and Electronic Engineering Technologists and Technicians
+- Electrical and Electronics Repairers, Commercial and Industrial Equipment
+- Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+- Mechanical Engineering Technologists and Technicians
+- Photonics Technicians
+- Industrial Engineering Technologists and Technicians
+- Robotics Engineers
+- Aerospace Engineers
+- Electronics Engineers, Except Computer
+- Mechatronics Engineers
+- Electromechanical Equipment Assemblers
+- Aircraft Mechanics and Service Technicians
+- Mechanical Engineers
+- Electrical and Electronics Installers and Repairers, Transportation Equipment
+- Electrical Engineers
+- Automotive Engineering Technicians

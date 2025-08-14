@@ -21,6 +21,42 @@ Transcribe medical reports recorded by physicians and other healthcare practitio
 - Receive patients, schedule appointments, and maintain patient records.
 - Answer inquiries concerning the progress of medical cases, within the limits of confidentiality laws.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- English Language (Importance: 4.54/5 | Level: 4.53/7)
+- Administrative (Importance: 4.25/5 | Level: 5.25/7)
+- Computers and Electronics (Importance: 3.84/5 | Level: 4.03/7)
+- Medicine and Dentistry (Importance: 3.02/5 | Level: 2.56/7)
+- Customer and Personal Service (Importance: 2.7/5 | Level: 2.64/7)
+- Telecommunications (Importance: 2.11/5 | Level: 1.16/7)
+- Administration and Management (Importance: 2.06/5 | Level: 1.99/7)
+- Mathematics (Importance: 1.81/5 | Level: 1.52/7)
+- Biology (Importance: 1.79/5 | Level: 1.01/7)
+- Education and Training (Importance: 1.73/5 | Level: 1.19/7)
+- Production and Processing (Importance: 1.64/5 | Level: 1.18/7)
+- Psychology (Importance: 1.62/5 | Level: 1.29/7)
+- Therapy and Counseling (Importance: 1.54/5 | Level: 0.76/7)
+- Communications and Media (Importance: 1.52/5 | Level: 0.84/7)
+- Personnel and Human Resources (Importance: 1.49/5 | Level: 1.15/7)
+- Law and Government (Importance: 1.34/5 | Level: 0.99/7)
+- Mechanical (Importance: 1.32/5 | Level: 0.43/7)
+- Sociology and Anthropology (Importance: 1.29/5 | Level: 0.46/7)
+- Public Safety and Security (Importance: 1.28/5 | Level: 0.43/7)
+- Economics and Accounting (Importance: 1.21/5 | Level: 0.43/7)
+- Foreign Language (Importance: 1.12/5 | Level: 0.23/7)
+- Philosophy and Theology (Importance: 1.11/5 | Level: 0.43/7)
+- Physics (Importance: 1.11/5 | Level: 0.21/7)
+- Geography (Importance: 1.11/5 | Level: 0.22/7)
+- Engineering and Technology (Importance: 1.11/5 | Level: 0.32/7)
+- Chemistry (Importance: 1.09/5 | Level: 0.17/7)
+- History and Archeology (Importance: 1.01/5 | Level: 0.01/7)
+- Transportation (Importance: 1.01/5 | Level: 0.01/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+- Sales and Marketing (Importance: 1.0/5 | Level: 0.01/7)
+- Design (Importance: 1.0/5 | Level: 0.0/7)
+- Building and Construction (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Active Listening (Importance: 4.12/5 | Level: 4.12/7)
@@ -181,3 +217,25 @@ Transcribe medical reports recorded by physicians and other healthcare practitio
 - Primary Interest: Conventional
 - Secondary Interest: Social
 - Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Medical Records Specialists
+- Medical Assistants
+- Emergency Medical Technicians
+- Word Processors and Typists
+- Health Information Technologists and Medical Registrars
+- Medical Secretaries and Administrative Assistants
+- File Clerks
+- Court Reporters and Simultaneous Captioners
+- Pharmacy Technicians
+- Receptionists and Information Clerks
+- Emergency Medicine Physicians
+- Paramedics
+- Pediatric Surgeons
+- Cardiovascular Technologists and Technicians
+- Cardiologists
+- Orthopedic Surgeons, Except Pediatric
+- Radiologic Technologists and Technicians
+- Phlebotomists
+- Neurodiagnostic Technologists
+- Diagnostic Medical Sonographers

@@ -28,6 +28,42 @@ Shape, finish, and refinish damaged, worn, or used furniture or new high-grade f
 - Spread graining ink over metal portions of furniture to simulate wood-grain finish.
 - Brush bleaching agents on wood surfaces to restore natural color.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Production and Processing (Importance: 3.26/5 | Level: 2.92/7)
+- Mechanical (Importance: 3.02/5 | Level: 2.95/7)
+- Design (Importance: 2.91/5 | Level: 2.35/7)
+- Education and Training (Importance: 2.82/5 | Level: 2.75/7)
+- English Language (Importance: 2.78/5 | Level: 2.63/7)
+- Customer and Personal Service (Importance: 2.73/5 | Level: 2.59/7)
+- Mathematics (Importance: 2.58/5 | Level: 2.0/7)
+- Building and Construction (Importance: 2.44/5 | Level: 2.3/7)
+- Administration and Management (Importance: 2.42/5 | Level: 1.5/7)
+- Public Safety and Security (Importance: 2.4/5 | Level: 2.13/7)
+- Chemistry (Importance: 2.26/5 | Level: 2.5/7)
+- Transportation (Importance: 2.07/5 | Level: 1.78/7)
+- Law and Government (Importance: 2.03/5 | Level: 1.19/7)
+- Engineering and Technology (Importance: 1.92/5 | Level: 1.67/7)
+- Personnel and Human Resources (Importance: 1.85/5 | Level: 1.53/7)
+- Administrative (Importance: 1.79/5 | Level: 0.47/7)
+- Foreign Language (Importance: 1.72/5 | Level: 1.31/7)
+- Sales and Marketing (Importance: 1.7/5 | Level: 1.14/7)
+- Psychology (Importance: 1.63/5 | Level: 1.05/7)
+- Communications and Media (Importance: 1.62/5 | Level: 0.99/7)
+- Physics (Importance: 1.61/5 | Level: 1.06/7)
+- Food Production (Importance: 1.61/5 | Level: 0.59/7)
+- Computers and Electronics (Importance: 1.55/5 | Level: 0.96/7)
+- Economics and Accounting (Importance: 1.51/5 | Level: 0.19/7)
+- Geography (Importance: 1.45/5 | Level: 0.9/7)
+- Telecommunications (Importance: 1.4/5 | Level: 0.64/7)
+- Sociology and Anthropology (Importance: 1.39/5 | Level: 0.85/7)
+- Therapy and Counseling (Importance: 1.37/5 | Level: 0.97/7)
+- Fine Arts (Importance: 1.34/5 | Level: 0.47/7)
+- Medicine and Dentistry (Importance: 1.25/5 | Level: 0.34/7)
+- Philosophy and Theology (Importance: 1.25/5 | Level: 0.51/7)
+- Biology (Importance: 1.25/5 | Level: 0.26/7)
+- History and Archeology (Importance: 1.16/5 | Level: 0.39/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Monitoring (Importance: 3.12/5 | Level: 2.88/7)
@@ -192,3 +228,25 @@ Shape, finish, and refinish damaged, worn, or used furniture or new high-grade f
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Artistic
+
+# RELATED OCCUPATIONS
+- Painting, Coating, and Decorating Workers
+- Grinding and Polishing Workers, Hand
+- Cabinetmakers and Bench Carpenters
+- Upholsterers
+- Coating, Painting, and Spraying Machine Setters, Operators, and Tenders
+- Molders, Shapers, and Casters, Except Metal and Plastic
+- Floor Sanders and Finishers
+- Stone Cutters and Carvers, Manufacturing
+- Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+- Floor Layers, Except Carpet, Wood, and Hard Tiles
+- Terrazzo Workers and Finishers
+- Tile and Stone Setters
+- Fiberglass Laminators and Fabricators
+- Painters, Construction and Maintenance
+- Carpet Installers
+- Shoe and Leather Workers and Repairers
+- Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Drywall and Ceiling Tile Installers
+- Cutters and Trimmers, Hand
+- Structural Metal Fabricators and Fitters

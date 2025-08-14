@@ -22,6 +22,42 @@ Assist anesthesiologists in the administration of anesthesia for surgical and no
 - Assist in the application of monitoring techniques, such as pulmonary artery catheterization, electroencephalographic spectral analysis, echocardiography, or evoked potentials.
 - Collect samples or specimens for diagnostic testing.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Medicine and Dentistry (Importance: 4.06/5 | Level: 4.21/7)
+- English Language (Importance: 4.01/5 | Level: 4.24/7)
+- Chemistry (Importance: 3.62/5 | Level: 3.74/7)
+- Customer and Personal Service (Importance: 3.6/5 | Level: 4.7/7)
+- Mathematics (Importance: 3.56/5 | Level: 3.53/7)
+- Biology (Importance: 3.46/5 | Level: 3.45/7)
+- Education and Training (Importance: 3.38/5 | Level: 3.37/7)
+- Computers and Electronics (Importance: 3.1/5 | Level: 3.06/7)
+- Mechanical (Importance: 2.86/5 | Level: 2.56/7)
+- Public Safety and Security (Importance: 2.85/5 | Level: 2.47/7)
+- Psychology (Importance: 2.74/5 | Level: 3.82/7)
+- Physics (Importance: 2.64/5 | Level: 2.84/7)
+- Therapy and Counseling (Importance: 2.54/5 | Level: 2.81/7)
+- Law and Government (Importance: 2.49/5 | Level: 1.81/7)
+- Sociology and Anthropology (Importance: 2.46/5 | Level: 2.37/7)
+- Foreign Language (Importance: 2.28/5 | Level: 1.61/7)
+- Communications and Media (Importance: 2.17/5 | Level: 1.9/7)
+- Engineering and Technology (Importance: 2.06/5 | Level: 1.82/7)
+- Administrative (Importance: 2.0/5 | Level: 1.98/7)
+- Philosophy and Theology (Importance: 1.98/5 | Level: 2.06/7)
+- Transportation (Importance: 1.97/5 | Level: 0.97/7)
+- Administration and Management (Importance: 1.92/5 | Level: 1.55/7)
+- Personnel and Human Resources (Importance: 1.59/5 | Level: 1.21/7)
+- Telecommunications (Importance: 1.53/5 | Level: 0.79/7)
+- Production and Processing (Importance: 1.46/5 | Level: 1.05/7)
+- Economics and Accounting (Importance: 1.42/5 | Level: 0.82/7)
+- Design (Importance: 1.34/5 | Level: 0.55/7)
+- Geography (Importance: 1.33/5 | Level: 0.65/7)
+- Food Production (Importance: 1.29/5 | Level: 0.58/7)
+- History and Archeology (Importance: 1.26/5 | Level: 0.72/7)
+- Sales and Marketing (Importance: 1.2/5 | Level: 0.49/7)
+- Building and Construction (Importance: 1.2/5 | Level: 0.53/7)
+- Fine Arts (Importance: 1.15/5 | Level: 0.29/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Active Listening (Importance: 4.0/5 | Level: 3.88/7)
@@ -197,3 +233,25 @@ Assist anesthesiologists in the administration of anesthesia for surgical and no
 - Primary Interest: Social
 - Secondary Interest: Conventional
 - Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Anesthesiologists
+- Emergency Medicine Physicians
+- Pediatric Surgeons
+- Nurse Anesthetists
+- Cardiologists
+- Orthopedic Surgeons, Except Pediatric
+- Critical Care Nurses
+- Nurse Practitioners
+- Physician Assistants
+- Clinical Nurse Specialists
+- Paramedics
+- Surgical Assistants
+- Respiratory Therapists
+- Emergency Medical Technicians
+- Cardiovascular Technologists and Technicians
+- Surgical Technologists
+- Acute Care Nurses
+- Registered Nurses
+- Physical Medicine and Rehabilitation Physicians
+- Medical Assistants

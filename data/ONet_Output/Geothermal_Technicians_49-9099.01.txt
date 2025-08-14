@@ -30,6 +30,42 @@ Perform technical activities at power plants or individual installations necessa
 - Backfill piping trenches to protect pipes from damage.
 - Operate equipment, such as excavators, backhoes, rock hammers, trench compactors, pavement saws, grout mixers or pumps, geothermal loop reels, and coil tubing units (CTU).
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 4.42/5 | Level: 5.4/7)
+- English Language (Importance: 3.8/5 | Level: 3.85/7)
+- Physics (Importance: 3.72/5 | Level: 4.42/7)
+- Education and Training (Importance: 3.65/5 | Level: 4.17/7)
+- Public Safety and Security (Importance: 3.44/5 | Level: 3.8/7)
+- Chemistry (Importance: 3.32/5 | Level: 4.14/7)
+- Mathematics (Importance: 3.28/5 | Level: 3.97/7)
+- Telecommunications (Importance: 3.28/5 | Level: 3.52/7)
+- Design (Importance: 3.28/5 | Level: 4.13/7)
+- Production and Processing (Importance: 3.21/5 | Level: 3.48/7)
+- Administration and Management (Importance: 3.2/5 | Level: 3.81/7)
+- Computers and Electronics (Importance: 3.15/5 | Level: 4.02/7)
+- Administrative (Importance: 3.07/5 | Level: 3.15/7)
+- Engineering and Technology (Importance: 3.06/5 | Level: 4.12/7)
+- Building and Construction (Importance: 2.71/5 | Level: 3.76/7)
+- Law and Government (Importance: 2.63/5 | Level: 2.76/7)
+- Communications and Media (Importance: 2.42/5 | Level: 2.41/7)
+- Personnel and Human Resources (Importance: 2.3/5 | Level: 2.03/7)
+- Transportation (Importance: 2.2/5 | Level: 2.16/7)
+- Medicine and Dentistry (Importance: 2.13/5 | Level: 1.89/7)
+- Customer and Personal Service (Importance: 2.11/5 | Level: 1.52/7)
+- Geography (Importance: 2.03/5 | Level: 1.93/7)
+- Psychology (Importance: 1.99/5 | Level: 1.64/7)
+- Biology (Importance: 1.89/5 | Level: 1.56/7)
+- Economics and Accounting (Importance: 1.82/5 | Level: 1.45/7)
+- Sales and Marketing (Importance: 1.47/5 | Level: 0.95/7)
+- History and Archeology (Importance: 1.45/5 | Level: 1.02/7)
+- Philosophy and Theology (Importance: 1.3/5 | Level: 0.82/7)
+- Therapy and Counseling (Importance: 1.24/5 | Level: 0.56/7)
+- Foreign Language (Importance: 1.22/5 | Level: 0.36/7)
+- Sociology and Anthropology (Importance: 1.2/5 | Level: 0.23/7)
+- Food Production (Importance: 1.08/5 | Level: 0.11/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Operations Monitoring (Importance: 3.88/5 | Level: 4.0/7)
@@ -181,3 +217,25 @@ Perform technical activities at power plants or individual installations necessa
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Geothermal Production Managers
+- Hydroelectric Plant Technicians
+- Power Plant Operators
+- Biomass Plant Technicians
+- Stationary Engineers and Boiler Operators
+- Power Distributors and Dispatchers
+- Wind Turbine Service Technicians
+- Gas Plant Operators
+- Electrical and Electronics Repairers, Powerhouse, Substation, and Relay
+- Solar Thermal Installers and Technicians
+- Biomass Power Plant Managers
+- Wellhead Pumpers
+- Water and Wastewater Treatment Plant and System Operators
+- Heating, Air Conditioning, and Refrigeration Mechanics and Installers
+- Electrical Engineers
+- Electrical and Electronics Repairers, Commercial and Industrial Equipment
+- Control and Valve Installers and Repairers, Except Mechanical Door
+- Solar Photovoltaic Installers
+- Gas Compressor and Gas Pumping Station Operators
+- Mechanical Engineers

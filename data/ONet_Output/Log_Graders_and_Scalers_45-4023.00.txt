@@ -18,6 +18,42 @@ Grade logs or estimate the marketable content or value of logs or pulpwood in so
 - Drive to sawmills, wharfs, or skids to inspect logs or pulpwood.
 - Saw felled trees into lengths.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Production and Processing (Importance: 3.79/5 | Level: 3.95/7)
+- Mathematics (Importance: 3.33/5 | Level: 3.26/7)
+- Customer and Personal Service (Importance: 3.12/5 | Level: 2.89/7)
+- Administration and Management (Importance: 3.03/5 | Level: 2.76/7)
+- Mechanical (Importance: 2.7/5 | Level: 2.72/7)
+- Education and Training (Importance: 2.69/5 | Level: 2.84/7)
+- Transportation (Importance: 2.64/5 | Level: 2.38/7)
+- English Language (Importance: 2.52/5 | Level: 2.33/7)
+- Sales and Marketing (Importance: 2.44/5 | Level: 2.03/7)
+- Computers and Electronics (Importance: 2.33/5 | Level: 2.5/7)
+- Economics and Accounting (Importance: 2.27/5 | Level: 1.48/7)
+- Administrative (Importance: 2.11/5 | Level: 2.12/7)
+- Personnel and Human Resources (Importance: 2.09/5 | Level: 1.82/7)
+- Engineering and Technology (Importance: 1.98/5 | Level: 1.54/7)
+- Public Safety and Security (Importance: 1.96/5 | Level: 1.47/7)
+- Geography (Importance: 1.93/5 | Level: 1.8/7)
+- Biology (Importance: 1.85/5 | Level: 1.22/7)
+- Communications and Media (Importance: 1.73/5 | Level: 1.23/7)
+- Design (Importance: 1.7/5 | Level: 1.22/7)
+- Psychology (Importance: 1.7/5 | Level: 1.33/7)
+- Law and Government (Importance: 1.67/5 | Level: 1.35/7)
+- Building and Construction (Importance: 1.66/5 | Level: 1.27/7)
+- Chemistry (Importance: 1.59/5 | Level: 1.17/7)
+- Physics (Importance: 1.54/5 | Level: 0.97/7)
+- Telecommunications (Importance: 1.5/5 | Level: 0.64/7)
+- Foreign Language (Importance: 1.43/5 | Level: 0.69/7)
+- Therapy and Counseling (Importance: 1.33/5 | Level: 0.7/7)
+- Sociology and Anthropology (Importance: 1.32/5 | Level: 0.52/7)
+- Medicine and Dentistry (Importance: 1.29/5 | Level: 0.51/7)
+- Philosophy and Theology (Importance: 1.22/5 | Level: 0.62/7)
+- History and Archeology (Importance: 1.2/5 | Level: 0.47/7)
+- Food Production (Importance: 1.14/5 | Level: 0.14/7)
+- Fine Arts (Importance: 1.07/5 | Level: 0.14/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Active Listening (Importance: 3.25/5 | Level: 2.88/7)
@@ -156,3 +192,25 @@ Grade logs or estimate the marketable content or value of logs or pulpwood in so
 - Primary Interest: Conventional
 - Secondary Interest: Realistic
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Weighers, Measurers, Checkers, and Samplers, Recordkeeping
+- Inspectors, Testers, Sorters, Samplers, and Weighers
+- Logging Equipment Operators
+- Laborers and Freight, Stock, and Material Movers, Hand
+- Graders and Sorters, Agricultural Products
+- Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic
+- Machine Feeders and Offbearers
+- Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+- Cutting and Slicing Machine Setters, Operators, and Tenders
+- Production, Planning, and Expediting Clerks
+- Fallers
+- Tool Grinders, Filers, and Sharpeners
+- Packers and Packagers, Hand
+- Grinding and Polishing Workers, Hand
+- Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+- Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Adhesive Bonding Machine Operators and Tenders
+- Recycling and Reclamation Workers
+- Shipping, Receiving, and Inventory Clerks

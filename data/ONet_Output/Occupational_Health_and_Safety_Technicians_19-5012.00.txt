@@ -32,6 +32,42 @@ Collect data on work environments for analysis by occupational health and safety
 - Perform tests to identify any potential hazards related to recycled products used at green building sites.
 - Examine practices at green building sites to determine whether adherence to green building standards alters risks to workers.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Education and Training (Importance: 4.14/5 | Level: 5.71/7)
+- English Language (Importance: 4.1/5 | Level: 4.71/7)
+- Public Safety and Security (Importance: 3.8/5 | Level: 4.45/7)
+- Law and Government (Importance: 3.71/5 | Level: 3.86/7)
+- Engineering and Technology (Importance: 3.7/5 | Level: 4.62/7)
+- Mathematics (Importance: 3.7/5 | Level: 4.62/7)
+- Administration and Management (Importance: 3.57/5 | Level: 4.05/7)
+- Customer and Personal Service (Importance: 3.38/5 | Level: 4.62/7)
+- Computers and Electronics (Importance: 3.3/5 | Level: 4.19/7)
+- Mechanical (Importance: 3.3/5 | Level: 3.81/7)
+- Building and Construction (Importance: 3.29/5 | Level: 3.62/7)
+- Chemistry (Importance: 3.25/5 | Level: 3.9/7)
+- Production and Processing (Importance: 3.24/5 | Level: 4.0/7)
+- Psychology (Importance: 3.14/5 | Level: 3.95/7)
+- Physics (Importance: 3.1/5 | Level: 3.81/7)
+- Administrative (Importance: 2.94/5 | Level: 4.2/7)
+- Transportation (Importance: 2.9/5 | Level: 3.14/7)
+- Design (Importance: 2.9/5 | Level: 3.29/7)
+- Communications and Media (Importance: 2.86/5 | Level: 3.1/7)
+- Biology (Importance: 2.81/5 | Level: 3.67/7)
+- Personnel and Human Resources (Importance: 2.71/5 | Level: 3.62/7)
+- Medicine and Dentistry (Importance: 2.52/5 | Level: 2.71/7)
+- Sales and Marketing (Importance: 2.38/5 | Level: 2.95/7)
+- Economics and Accounting (Importance: 2.29/5 | Level: 2.57/7)
+- Geography (Importance: 2.29/5 | Level: 2.62/7)
+- Telecommunications (Importance: 2.24/5 | Level: 1.76/7)
+- Therapy and Counseling (Importance: 2.24/5 | Level: 2.52/7)
+- Sociology and Anthropology (Importance: 2.19/5 | Level: 2.62/7)
+- Foreign Language (Importance: 2.14/5 | Level: 1.81/7)
+- Philosophy and Theology (Importance: 1.76/5 | Level: 1.95/7)
+- Food Production (Importance: 1.7/5 | Level: 1.67/7)
+- History and Archeology (Importance: 1.52/5 | Level: 1.29/7)
+- Fine Arts (Importance: 1.19/5 | Level: 0.33/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Active Listening (Importance: 4.0/5 | Level: 4.0/7)
@@ -232,3 +268,25 @@ Collect data on work environments for analysis by occupational health and safety
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Occupational Health and Safety Specialists
+- Health and Safety Engineers, Except Mining Safety Engineers and Inspectors
+- Environmental Compliance Inspectors
+- Environmental Science and Protection Technicians, Including Health
+- Environmental Scientists and Specialists, Including Health
+- Environmental Engineering Technologists and Technicians
+- Environmental Engineers
+- Paramedics
+- Government Property Inspectors and Investigators
+- Construction and Building Inspectors
+- Preventive Medicine Physicians
+- Emergency Medical Technicians
+- Emergency Medicine Physicians
+- Nuclear Monitoring Technicians
+- Career/Technical Education Teachers, Postsecondary
+- First-Line Supervisors of Security Workers
+- Fire-Prevention and Protection Engineers
+- Agricultural Inspectors
+- Security Management Specialists
+- Aviation Inspectors

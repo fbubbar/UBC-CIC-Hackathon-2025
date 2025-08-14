@@ -28,6 +28,42 @@ Transport patients to areas such as operating rooms or x-ray rooms using wheelch
 - Transport bodies to the morgue.
 - Serve or collect food trays.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.2/5 | Level: 4.16/7)
+- Public Safety and Security (Importance: 3.12/5 | Level: 2.23/7)
+- English Language (Importance: 2.97/5 | Level: 1.98/7)
+- Transportation (Importance: 2.52/5 | Level: 1.94/7)
+- Education and Training (Importance: 2.4/5 | Level: 2.11/7)
+- Psychology (Importance: 2.36/5 | Level: 1.82/7)
+- Telecommunications (Importance: 2.24/5 | Level: 1.22/7)
+- Administration and Management (Importance: 2.19/5 | Level: 1.77/7)
+- Communications and Media (Importance: 2.15/5 | Level: 1.45/7)
+- Foreign Language (Importance: 2.1/5 | Level: 1.23/7)
+- Computers and Electronics (Importance: 1.97/5 | Level: 1.27/7)
+- Medicine and Dentistry (Importance: 1.94/5 | Level: 1.38/7)
+- Sociology and Anthropology (Importance: 1.93/5 | Level: 1.28/7)
+- Administrative (Importance: 1.79/5 | Level: 0.95/7)
+- Mechanical (Importance: 1.76/5 | Level: 0.78/7)
+- Personnel and Human Resources (Importance: 1.73/5 | Level: 0.93/7)
+- Production and Processing (Importance: 1.63/5 | Level: 0.62/7)
+- Physics (Importance: 1.61/5 | Level: 0.66/7)
+- Philosophy and Theology (Importance: 1.56/5 | Level: 0.85/7)
+- Biology (Importance: 1.55/5 | Level: 0.64/7)
+- Therapy and Counseling (Importance: 1.54/5 | Level: 0.64/7)
+- Law and Government (Importance: 1.53/5 | Level: 0.79/7)
+- Chemistry (Importance: 1.47/5 | Level: 0.85/7)
+- Mathematics (Importance: 1.46/5 | Level: 0.65/7)
+- Geography (Importance: 1.21/5 | Level: 0.14/7)
+- Engineering and Technology (Importance: 1.17/5 | Level: 0.35/7)
+- Building and Construction (Importance: 1.13/5 | Level: 0.07/7)
+- Economics and Accounting (Importance: 1.1/5 | Level: 0.02/7)
+- Sales and Marketing (Importance: 1.1/5 | Level: 0.17/7)
+- Food Production (Importance: 1.1/5 | Level: 0.23/7)
+- Design (Importance: 1.08/5 | Level: 0.11/7)
+- History and Archeology (Importance: 1.05/5 | Level: 0.05/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.07/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Social Perceptiveness (Importance: 3.38/5 | Level: 2.5/7)
@@ -166,3 +202,25 @@ Transport patients to areas such as operating rooms or x-ray rooms using wheelch
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Social
+
+# RELATED OCCUPATIONS
+- Nursing Assistants
+- Physical Therapist Aides
+- Home Health Aides
+- Surgical Assistants
+- Ambulance Drivers and Attendants, Except Emergency Medical Technicians
+- Surgical Technologists
+- Psychiatric Aides
+- Medical Assistants
+- Medical Equipment Preparers
+- Personal Care Aides
+- Emergency Medical Technicians
+- Paramedics
+- Emergency Medicine Physicians
+- Licensed Practical and Licensed Vocational Nurses
+- Acute Care Nurses
+- Cardiovascular Technologists and Technicians
+- Registered Nurses
+- Anesthesiologist Assistants
+- Phlebotomists
+- Respiratory Therapists

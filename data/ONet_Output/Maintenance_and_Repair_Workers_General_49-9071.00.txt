@@ -33,6 +33,42 @@ Perform work involving the skills of two or more maintenance or craft occupation
 - Assemble boilers at installation sites, using tools such as levels, plumb bobs, hammers, torches, or other hand tools.
 - Position, attach, or blow insulating materials to prevent energy losses from buildings, pipes, or other structures or objects.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 4.03/5 | Level: 4.37/7)
+- English Language (Importance: 3.69/5 | Level: 3.4/7)
+- Building and Construction (Importance: 3.68/5 | Level: 4.43/7)
+- Mathematics (Importance: 3.35/5 | Level: 2.93/7)
+- Production and Processing (Importance: 3.07/5 | Level: 3.27/7)
+- Customer and Personal Service (Importance: 2.92/5 | Level: 3.11/7)
+- Public Safety and Security (Importance: 2.62/5 | Level: 2.58/7)
+- Engineering and Technology (Importance: 2.52/5 | Level: 2.51/7)
+- Education and Training (Importance: 2.37/5 | Level: 2.16/7)
+- Design (Importance: 2.35/5 | Level: 2.59/7)
+- Administration and Management (Importance: 2.3/5 | Level: 1.86/7)
+- Computers and Electronics (Importance: 2.26/5 | Level: 2.08/7)
+- Administrative (Importance: 2.14/5 | Level: 1.48/7)
+- Transportation (Importance: 2.05/5 | Level: 1.87/7)
+- Telecommunications (Importance: 1.88/5 | Level: 1.34/7)
+- Physics (Importance: 1.88/5 | Level: 1.67/7)
+- Law and Government (Importance: 1.84/5 | Level: 1.45/7)
+- Chemistry (Importance: 1.82/5 | Level: 1.92/7)
+- Personnel and Human Resources (Importance: 1.78/5 | Level: 1.17/7)
+- Psychology (Importance: 1.73/5 | Level: 1.2/7)
+- Economics and Accounting (Importance: 1.7/5 | Level: 0.95/7)
+- Communications and Media (Importance: 1.63/5 | Level: 1.46/7)
+- Sales and Marketing (Importance: 1.51/5 | Level: 0.79/7)
+- Sociology and Anthropology (Importance: 1.41/5 | Level: 0.59/7)
+- Geography (Importance: 1.39/5 | Level: 0.8/7)
+- Biology (Importance: 1.35/5 | Level: 0.55/7)
+- Medicine and Dentistry (Importance: 1.34/5 | Level: 0.5/7)
+- Food Production (Importance: 1.31/5 | Level: 0.4/7)
+- Therapy and Counseling (Importance: 1.26/5 | Level: 0.4/7)
+- Philosophy and Theology (Importance: 1.24/5 | Level: 0.5/7)
+- Foreign Language (Importance: 1.14/5 | Level: 0.23/7)
+- History and Archeology (Importance: 1.13/5 | Level: 0.19/7)
+- Fine Arts (Importance: 1.07/5 | Level: 0.09/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Repairing (Importance: 3.88/5 | Level: 3.88/7)
@@ -375,3 +411,25 @@ Perform work involving the skills of two or more maintenance or craft occupation
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Millwrights
+- Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+- Hydroelectric Plant Technicians
+- Plumbers, Pipefitters, and Steamfitters
+- Mobile Heavy Equipment Mechanics, Except Engines
+- Helpers--Installation, Maintenance, and Repair Workers
+- Industrial Machinery Mechanics
+- Boilermakers
+- Farm Equipment Mechanics and Service Technicians
+- Engine and Other Machine Assemblers
+- Electrical and Electronics Installers and Repairers, Transportation Equipment
+- Electric Motor, Power Tool, and Related Repairers
+- Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters
+- Facilities Managers
+- Stationary Engineers and Boiler Operators
+- Heating, Air Conditioning, and Refrigeration Mechanics and Installers
+- Control and Valve Installers and Repairers, Except Mechanical Door
+- Electrical and Electronics Repairers, Commercial and Industrial Equipment
+- Helpers--Electricians
+- Maintenance Workers, Machinery

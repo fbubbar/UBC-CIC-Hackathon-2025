@@ -34,6 +34,42 @@ Promote health within a community by assisting individuals to adopt healthy beha
 - Develop plans or formal contracts for individuals, families, or community groups to improve overall health.
 - Provide feedback to health service providers regarding improving service accessibility or acceptability.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.5/5 | Level: 5.37/7)
+- English Language (Importance: 3.95/5 | Level: 3.64/7)
+- Education and Training (Importance: 3.82/5 | Level: 4.56/7)
+- Administration and Management (Importance: 3.7/5 | Level: 4.03/7)
+- Medicine and Dentistry (Importance: 3.6/5 | Level: 2.91/7)
+- Psychology (Importance: 3.57/5 | Level: 4.35/7)
+- Administrative (Importance: 3.35/5 | Level: 4.81/7)
+- Personnel and Human Resources (Importance: 2.98/5 | Level: 3.61/7)
+- Computers and Electronics (Importance: 2.98/5 | Level: 3.73/7)
+- Therapy and Counseling (Importance: 2.96/5 | Level: 4.26/7)
+- Public Safety and Security (Importance: 2.89/5 | Level: 2.34/7)
+- Sales and Marketing (Importance: 2.69/5 | Level: 3.09/7)
+- Biology (Importance: 2.69/5 | Level: 2.76/7)
+- Mathematics (Importance: 2.6/5 | Level: 2.66/7)
+- Philosophy and Theology (Importance: 2.5/5 | Level: 3.12/7)
+- Communications and Media (Importance: 2.49/5 | Level: 2.73/7)
+- Sociology and Anthropology (Importance: 2.46/5 | Level: 3.07/7)
+- Foreign Language (Importance: 2.44/5 | Level: 1.53/7)
+- Law and Government (Importance: 2.44/5 | Level: 2.55/7)
+- Production and Processing (Importance: 2.18/5 | Level: 1.84/7)
+- Telecommunications (Importance: 2.07/5 | Level: 1.01/7)
+- Chemistry (Importance: 2.0/5 | Level: 2.11/7)
+- Economics and Accounting (Importance: 1.8/5 | Level: 1.28/7)
+- Transportation (Importance: 1.77/5 | Level: 1.19/7)
+- Design (Importance: 1.6/5 | Level: 0.85/7)
+- Food Production (Importance: 1.54/5 | Level: 0.74/7)
+- Geography (Importance: 1.52/5 | Level: 1.09/7)
+- Fine Arts (Importance: 1.29/5 | Level: 0.32/7)
+- History and Archeology (Importance: 1.2/5 | Level: 0.42/7)
+- Engineering and Technology (Importance: 1.11/5 | Level: 0.22/7)
+- Mechanical (Importance: 1.09/5 | Level: 0.2/7)
+- Physics (Importance: 1.02/5 | Level: 0.04/7)
+- Building and Construction (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Active Listening (Importance: 4.12/5 | Level: 4.0/7)
@@ -163,3 +199,25 @@ Promote health within a community by assisting individuals to adopt healthy beha
 - Primary Interest: Social
 - Secondary Interest: Unknown (0)
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Health Education Specialists
+- Mental Health and Substance Abuse Social Workers
+- Mental Health Counselors
+- Healthcare Social Workers
+- Child, Family, and School Social Workers
+- Rehabilitation Counselors
+- Social and Human Service Assistants
+- Patient Representatives
+- Social and Community Service Managers
+- Fitness and Wellness Coordinators
+- Psychiatric Technicians
+- Directors, Religious Activities and Education
+- Preventive Medicine Physicians
+- Substance Abuse and Behavioral Disorder Counselors
+- Home Health Aides
+- Clinical Nurse Specialists
+- Educational, Guidance, and Career Counselors and Advisors
+- Psychiatric Aides
+- Personal Care Aides
+- Dietitians and Nutritionists

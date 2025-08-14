@@ -26,6 +26,42 @@ Dispense drugs prescribed by physicians and other health practitioners and provi
 - Offer health promotion or prevention activities, such as training people to use blood pressure devices or diabetes monitors.
 - Publish educational information for other pharmacists, doctors, or patients.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Medicine and Dentistry (Importance: 4.64/5 | Level: 4.44/7)
+- Mathematics (Importance: 4.49/5 | Level: 4.41/7)
+- English Language (Importance: 4.16/5 | Level: 3.61/7)
+- Customer and Personal Service (Importance: 4.16/5 | Level: 5.05/7)
+- Chemistry (Importance: 4.11/5 | Level: 4.7/7)
+- Biology (Importance: 3.95/5 | Level: 4.29/7)
+- Psychology (Importance: 3.71/5 | Level: 4.53/7)
+- Computers and Electronics (Importance: 3.37/5 | Level: 3.69/7)
+- Education and Training (Importance: 3.34/5 | Level: 3.23/7)
+- Administrative (Importance: 3.3/5 | Level: 3.32/7)
+- Therapy and Counseling (Importance: 2.9/5 | Level: 2.27/7)
+- Communications and Media (Importance: 2.74/5 | Level: 2.21/7)
+- Telecommunications (Importance: 2.74/5 | Level: 1.13/7)
+- Production and Processing (Importance: 2.64/5 | Level: 2.52/7)
+- Law and Government (Importance: 2.58/5 | Level: 2.32/7)
+- Administration and Management (Importance: 2.58/5 | Level: 2.87/7)
+- Personnel and Human Resources (Importance: 2.57/5 | Level: 2.65/7)
+- Sociology and Anthropology (Importance: 2.4/5 | Level: 1.78/7)
+- Public Safety and Security (Importance: 2.08/5 | Level: 1.36/7)
+- Sales and Marketing (Importance: 2.08/5 | Level: 2.04/7)
+- Physics (Importance: 1.83/5 | Level: 1.04/7)
+- Engineering and Technology (Importance: 1.8/5 | Level: 1.33/7)
+- Economics and Accounting (Importance: 1.66/5 | Level: 1.02/7)
+- Foreign Language (Importance: 1.57/5 | Level: 0.81/7)
+- Philosophy and Theology (Importance: 1.54/5 | Level: 1.17/7)
+- Geography (Importance: 1.45/5 | Level: 0.8/7)
+- Transportation (Importance: 1.44/5 | Level: 0.68/7)
+- Design (Importance: 1.35/5 | Level: 0.83/7)
+- Mechanical (Importance: 1.28/5 | Level: 0.41/7)
+- Food Production (Importance: 1.15/5 | Level: 0.3/7)
+- History and Archeology (Importance: 1.13/5 | Level: 0.26/7)
+- Building and Construction (Importance: 1.09/5 | Level: 0.13/7)
+- Fine Arts (Importance: 1.06/5 | Level: 0.1/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Speaking (Importance: 4.0/5 | Level: 4.25/7)
@@ -192,3 +228,25 @@ Dispense drugs prescribed by physicians and other health practitioners and provi
 - Primary Interest: Investigative
 - Secondary Interest: Social
 - Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Emergency Medicine Physicians
+- Nurse Practitioners
+- Family Medicine Physicians
+- Clinical Nurse Specialists
+- Physician Assistants
+- General Internal Medicine Physicians
+- Allergists and Immunologists
+- Preventive Medicine Physicians
+- Pediatricians, General
+- Hospitalists
+- Pharmacy Technicians
+- Registered Nurses
+- Pharmacy Aides
+- Licensed Practical and Licensed Vocational Nurses
+- Medical Assistants
+- Anesthesiologists
+- Nurse Anesthetists
+- Obstetricians and Gynecologists
+- Naturopathic Physicians
+- Cardiologists

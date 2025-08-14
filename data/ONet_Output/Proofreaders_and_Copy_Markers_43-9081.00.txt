@@ -17,6 +17,42 @@ Read transcript or proof type setup to detect and mark for correction any gramma
 - Typeset and measure dimensions, spacing, and positioning of page elements, such as copy and illustrations, to verify conformance to specifications, using printer's ruler or layout software.
 - Read proof sheets aloud, calling out punctuation marks and spelling unusual words and proper names.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- English Language (Importance: 4.95/5 | Level: 4.98/7)
+- Communications and Media (Importance: 3.36/5 | Level: 3.09/7)
+- Computers and Electronics (Importance: 3.03/5 | Level: 3.2/7)
+- Administrative (Importance: 2.56/5 | Level: 2.84/7)
+- Administration and Management (Importance: 2.41/5 | Level: 2.18/7)
+- Customer and Personal Service (Importance: 2.21/5 | Level: 1.88/7)
+- Design (Importance: 2.17/5 | Level: 1.1/7)
+- Mathematics (Importance: 2.05/5 | Level: 1.69/7)
+- Philosophy and Theology (Importance: 1.95/5 | Level: 1.81/7)
+- Education and Training (Importance: 1.94/5 | Level: 1.46/7)
+- Geography (Importance: 1.92/5 | Level: 1.6/7)
+- Sociology and Anthropology (Importance: 1.79/5 | Level: 1.2/7)
+- Law and Government (Importance: 1.75/5 | Level: 0.95/7)
+- Psychology (Importance: 1.75/5 | Level: 0.73/7)
+- History and Archeology (Importance: 1.56/5 | Level: 0.9/7)
+- Foreign Language (Importance: 1.49/5 | Level: 0.5/7)
+- Telecommunications (Importance: 1.48/5 | Level: 0.46/7)
+- Sales and Marketing (Importance: 1.45/5 | Level: 0.86/7)
+- Public Safety and Security (Importance: 1.34/5 | Level: 0.74/7)
+- Production and Processing (Importance: 1.31/5 | Level: 0.48/7)
+- Engineering and Technology (Importance: 1.29/5 | Level: 0.38/7)
+- Mechanical (Importance: 1.25/5 | Level: 0.27/7)
+- Economics and Accounting (Importance: 1.25/5 | Level: 0.13/7)
+- Transportation (Importance: 1.18/5 | Level: 0.29/7)
+- Fine Arts (Importance: 1.15/5 | Level: 0.33/7)
+- Therapy and Counseling (Importance: 1.13/5 | Level: 0.14/7)
+- Personnel and Human Resources (Importance: 1.07/5 | Level: 0.18/7)
+- Physics (Importance: 1.04/5 | Level: 0.07/7)
+- Chemistry (Importance: 1.04/5 | Level: 0.09/7)
+- Biology (Importance: 1.01/5 | Level: 0.01/7)
+- Medicine and Dentistry (Importance: 1.01/5 | Level: 0.03/7)
+- Building and Construction (Importance: 1.01/5 | Level: 0.01/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Reading Comprehension (Importance: 4.25/5 | Level: 4.25/7)
@@ -167,3 +203,25 @@ Read transcript or proof type setup to detect and mark for correction any gramma
 - Primary Interest: Conventional
 - Secondary Interest: Artistic
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Editors
+- Desktop Publishers
+- Technical Writers
+- Word Processors and Typists
+- File Clerks
+- Data Entry Keyers
+- Document Management Specialists
+- Writers and Authors
+- Film and Video Editors
+- Library Technicians
+- Court Reporters and Simultaneous Captioners
+- Poets, Lyricists and Creative Writers
+- Statistical Assistants
+- News Analysts, Reporters, and Journalists
+- Medical Transcriptionists
+- Librarians and Media Collections Specialists
+- Archivists
+- Office Machine Operators, Except Computer
+- Correspondence Clerks
+- Digital Forensics Analysts

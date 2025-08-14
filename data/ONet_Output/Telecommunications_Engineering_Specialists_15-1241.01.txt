@@ -32,6 +32,42 @@ Design or configure wired, wireless, and satellite communications systems for vo
 - Monitor and analyze system performance, such as network traffic, security, and capacity.
 - Supervise maintenance of telecommunications equipment.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Telecommunications (Importance: 4.9/5 | Level: 5.52/7)
+- Engineering and Technology (Importance: 4.05/5 | Level: 4.33/7)
+- Computers and Electronics (Importance: 4.05/5 | Level: 4.67/7)
+- English Language (Importance: 3.62/5 | Level: 3.86/7)
+- Mathematics (Importance: 3.6/5 | Level: 4.19/7)
+- Customer and Personal Service (Importance: 3.52/5 | Level: 4.57/7)
+- Administration and Management (Importance: 3.38/5 | Level: 4.14/7)
+- Design (Importance: 3.14/5 | Level: 3.81/7)
+- Sales and Marketing (Importance: 2.9/5 | Level: 3.24/7)
+- Public Safety and Security (Importance: 2.86/5 | Level: 3.0/7)
+- Education and Training (Importance: 2.76/5 | Level: 3.38/7)
+- Building and Construction (Importance: 2.67/5 | Level: 2.9/7)
+- Economics and Accounting (Importance: 2.52/5 | Level: 2.48/7)
+- Administrative (Importance: 2.47/5 | Level: 3.29/7)
+- Mechanical (Importance: 2.47/5 | Level: 3.19/7)
+- Communications and Media (Importance: 2.38/5 | Level: 2.19/7)
+- Law and Government (Importance: 2.38/5 | Level: 2.52/7)
+- Production and Processing (Importance: 2.29/5 | Level: 2.57/7)
+- Psychology (Importance: 2.24/5 | Level: 1.95/7)
+- Personnel and Human Resources (Importance: 2.1/5 | Level: 2.05/7)
+- Physics (Importance: 2.0/5 | Level: 2.14/7)
+- Geography (Importance: 1.7/5 | Level: 1.43/7)
+- Sociology and Anthropology (Importance: 1.67/5 | Level: 1.14/7)
+- History and Archeology (Importance: 1.43/5 | Level: 0.81/7)
+- Chemistry (Importance: 1.38/5 | Level: 0.86/7)
+- Therapy and Counseling (Importance: 1.38/5 | Level: 0.76/7)
+- Transportation (Importance: 1.37/5 | Level: 1.05/7)
+- Philosophy and Theology (Importance: 1.29/5 | Level: 0.67/7)
+- Foreign Language (Importance: 1.29/5 | Level: 0.57/7)
+- Fine Arts (Importance: 1.29/5 | Level: 0.48/7)
+- Medicine and Dentistry (Importance: 1.24/5 | Level: 0.43/7)
+- Food Production (Importance: 1.1/5 | Level: 0.19/7)
+- Biology (Importance: 1.1/5 | Level: 0.33/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Active Listening (Importance: 3.62/5 | Level: 3.88/7)
@@ -246,3 +282,25 @@ Design or configure wired, wireless, and satellite communications systems for vo
 - Primary Interest: Conventional
 - Secondary Interest: Realistic
 - Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Computer Network Architects
+- Computer Network Support Specialists
+- Software Developers
+- Telecommunications Equipment Installers and Repairers, Except Line Installers
+- Computer Systems Engineers/Architects
+- Network and Computer Systems Administrators
+- Computer Systems Analysts
+- Electronics Engineers, Except Computer
+- Information Security Engineers
+- Radio, Cellular, and Tower Equipment Installers and Repairers
+- Electrical and Electronic Engineering Technologists and Technicians
+- Computer User Support Specialists
+- Radio Frequency Identification Device Specialists
+- Information Security Analysts
+- Computer Hardware Engineers
+- Database Administrators
+- Computer and Information Systems Managers
+- Telecommunications Line Installers and Repairers
+- Broadcast Technicians
+- Audiovisual Equipment Installers and Repairers

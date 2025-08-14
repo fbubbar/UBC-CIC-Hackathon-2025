@@ -33,6 +33,42 @@ Assemble, fit, fasten, and install parts of airplanes, space vehicles, or missil
 - Capture or segregate waste material, such as aluminum swarf, machine cutting fluid, or solvents, for recycling or environmentally responsible disposal.
 - Cut cables and tubing, using master templates, measuring instruments, and cable cutters or saws.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mathematics (Importance: 3.48/5 | Level: 3.13/7)
+- Education and Training (Importance: 3.47/5 | Level: 3.79/7)
+- Mechanical (Importance: 3.44/5 | Level: 3.76/7)
+- English Language (Importance: 3.44/5 | Level: 3.15/7)
+- Production and Processing (Importance: 3.39/5 | Level: 3.6/7)
+- Design (Importance: 3.38/5 | Level: 3.13/7)
+- Computers and Electronics (Importance: 3.14/5 | Level: 2.72/7)
+- Public Safety and Security (Importance: 3.0/5 | Level: 2.91/7)
+- Engineering and Technology (Importance: 2.96/5 | Level: 2.9/7)
+- Administration and Management (Importance: 2.84/5 | Level: 2.75/7)
+- Customer and Personal Service (Importance: 2.83/5 | Level: 2.85/7)
+- Chemistry (Importance: 2.66/5 | Level: 2.34/7)
+- Law and Government (Importance: 2.52/5 | Level: 1.73/7)
+- Physics (Importance: 2.42/5 | Level: 1.93/7)
+- Transportation (Importance: 2.42/5 | Level: 2.1/7)
+- Personnel and Human Resources (Importance: 2.37/5 | Level: 2.17/7)
+- Geography (Importance: 2.26/5 | Level: 1.89/7)
+- Administrative (Importance: 2.14/5 | Level: 1.59/7)
+- Communications and Media (Importance: 2.14/5 | Level: 1.61/7)
+- Building and Construction (Importance: 2.11/5 | Level: 1.73/7)
+- Economics and Accounting (Importance: 2.09/5 | Level: 1.61/7)
+- Psychology (Importance: 1.99/5 | Level: 1.58/7)
+- Telecommunications (Importance: 1.97/5 | Level: 1.17/7)
+- Sales and Marketing (Importance: 1.81/5 | Level: 1.42/7)
+- Therapy and Counseling (Importance: 1.74/5 | Level: 1.18/7)
+- Medicine and Dentistry (Importance: 1.61/5 | Level: 1.06/7)
+- Foreign Language (Importance: 1.45/5 | Level: 0.75/7)
+- Sociology and Anthropology (Importance: 1.33/5 | Level: 0.65/7)
+- Biology (Importance: 1.32/5 | Level: 0.67/7)
+- History and Archeology (Importance: 1.29/5 | Level: 0.58/7)
+- Food Production (Importance: 1.28/5 | Level: 0.48/7)
+- Philosophy and Theology (Importance: 1.28/5 | Level: 0.5/7)
+- Fine Arts (Importance: 1.26/5 | Level: 0.52/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Quality Control Analysis (Importance: 3.38/5 | Level: 3.75/7)
@@ -217,3 +253,25 @@ Assemble, fit, fasten, and install parts of airplanes, space vehicles, or missil
 - Primary Interest: Realistic
 - Secondary Interest: Conventional
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Engine and Other Machine Assemblers
+- Electromechanical Equipment Assemblers
+- Layout Workers, Metal and Plastic
+- Electrical and Electronic Equipment Assemblers
+- Structural Metal Fabricators and Fitters
+- Avionics Technicians
+- Aircraft Mechanics and Service Technicians
+- Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders
+- Millwrights
+- Sheet Metal Workers
+- Industrial Machinery Mechanics
+- Model Makers, Metal and Plastic
+- Electro-Mechanical and Mechatronics Technologists and Technicians
+- Electric Motor, Power Tool, and Related Repairers
+- Machinists
+- Boilermakers
+- Welders, Cutters, Solderers, and Brazers
+- Timing Device Assemblers and Adjusters
+- Control and Valve Installers and Repairers, Except Mechanical Door
+- Maintenance Workers, Machinery

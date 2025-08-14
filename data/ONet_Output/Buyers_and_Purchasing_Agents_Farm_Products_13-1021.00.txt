@@ -18,6 +18,42 @@ Purchase farm products either for further processing or resale. Includes tree fa
 - Calculate applicable government grain quotas.
 - Estimate land production possibilities, surveying property and studying factors such as crop rotation history, soil fertility, or irrigation facilities.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mathematics (Importance: 3.98/5 | Level: 4.62/7)
+- Customer and Personal Service (Importance: 3.92/5 | Level: 4.68/7)
+- Transportation (Importance: 3.9/5 | Level: 4.18/7)
+- English Language (Importance: 3.88/5 | Level: 4.34/7)
+- Economics and Accounting (Importance: 3.88/5 | Level: 4.14/7)
+- Sales and Marketing (Importance: 3.69/5 | Level: 3.96/7)
+- Computers and Electronics (Importance: 3.6/5 | Level: 4.54/7)
+- Administration and Management (Importance: 3.55/5 | Level: 4.78/7)
+- Food Production (Importance: 3.44/5 | Level: 3.82/7)
+- Production and Processing (Importance: 3.22/5 | Level: 4.08/7)
+- Law and Government (Importance: 3.14/5 | Level: 3.77/7)
+- Public Safety and Security (Importance: 3.08/5 | Level: 3.75/7)
+- Education and Training (Importance: 2.78/5 | Level: 4.02/7)
+- Geography (Importance: 2.74/5 | Level: 3.17/7)
+- Administrative (Importance: 2.69/5 | Level: 4.22/7)
+- Telecommunications (Importance: 2.6/5 | Level: 2.13/7)
+- Communications and Media (Importance: 2.37/5 | Level: 2.3/7)
+- Personnel and Human Resources (Importance: 2.33/5 | Level: 2.68/7)
+- Psychology (Importance: 2.21/5 | Level: 2.3/7)
+- Mechanical (Importance: 2.19/5 | Level: 2.57/7)
+- Engineering and Technology (Importance: 2.17/5 | Level: 3.01/7)
+- Design (Importance: 2.11/5 | Level: 2.51/7)
+- Biology (Importance: 2.01/5 | Level: 2.0/7)
+- Building and Construction (Importance: 1.97/5 | Level: 2.11/7)
+- Sociology and Anthropology (Importance: 1.73/5 | Level: 1.42/7)
+- History and Archeology (Importance: 1.7/5 | Level: 1.65/7)
+- Physics (Importance: 1.55/5 | Level: 1.27/7)
+- Chemistry (Importance: 1.55/5 | Level: 1.55/7)
+- Therapy and Counseling (Importance: 1.44/5 | Level: 1.2/7)
+- Foreign Language (Importance: 1.42/5 | Level: 0.74/7)
+- Medicine and Dentistry (Importance: 1.38/5 | Level: 0.89/7)
+- Philosophy and Theology (Importance: 1.18/5 | Level: 0.51/7)
+- Fine Arts (Importance: 1.18/5 | Level: 0.39/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Critical Thinking (Importance: 3.88/5 | Level: 3.75/7)
@@ -153,3 +189,25 @@ Purchase farm products either for further processing or resale. Includes tree fa
 - Primary Interest: Enterprising
 - Secondary Interest: Conventional
 - Tertiary Interest: Realistic
+
+# RELATED OCCUPATIONS
+- Wholesale and Retail Buyers, Except Farm Products
+- Purchasing Agents, Except Wholesale, Retail, and Farm Products
+- Farmers, Ranchers, and Other Agricultural Managers
+- Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products
+- Purchasing Managers
+- Securities, Commodities, and Financial Services Sales Agents
+- Supply Chain Managers
+- Logistics Analysts
+- Logisticians
+- Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products
+- Procurement Clerks
+- Shipping, Receiving, and Inventory Clerks
+- Customs Brokers
+- Agricultural Inspectors
+- Stockers and Order Fillers
+- Retail Salespersons
+- Door-to-Door Sales Workers, News and Street Vendors, and Related Workers
+- Weighers, Measurers, Checkers, and Samplers, Recordkeeping
+- Freight Forwarders
+- Driver/Sales Workers

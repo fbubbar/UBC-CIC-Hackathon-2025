@@ -35,6 +35,42 @@ Plan, direct, or coordinate activities of an organization to ensure compliance w
 - Verify that software technology is in place to adequately provide oversight and monitoring in all required areas.
 - Direct environmental programs, such as air or water compliance, aboveground or underground storage tanks, spill prevention or control, hazardous waste or materials management, solid waste recycling, medical waste management, indoor air quality, integrated pest management, employee training, or disaster preparedness.
 
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Law and Government (Importance: 4.56/5 | Level: 4.95/7)
+- English Language (Importance: 4.53/5 | Level: 5.32/7)
+- Administration and Management (Importance: 4.06/5 | Level: 4.49/7)
+- Customer and Personal Service (Importance: 3.72/5 | Level: 5.22/7)
+- Personnel and Human Resources (Importance: 3.68/5 | Level: 4.35/7)
+- Computers and Electronics (Importance: 3.6/5 | Level: 4.16/7)
+- Education and Training (Importance: 3.44/5 | Level: 4.81/7)
+- Administrative (Importance: 3.36/5 | Level: 4.98/7)
+- Public Safety and Security (Importance: 3.3/5 | Level: 3.64/7)
+- Mathematics (Importance: 2.95/5 | Level: 3.73/7)
+- Communications and Media (Importance: 2.91/5 | Level: 2.81/7)
+- Economics and Accounting (Importance: 2.64/5 | Level: 2.97/7)
+- Telecommunications (Importance: 2.53/5 | Level: 2.0/7)
+- Psychology (Importance: 2.49/5 | Level: 2.94/7)
+- Therapy and Counseling (Importance: 2.45/5 | Level: 2.27/7)
+- Production and Processing (Importance: 2.18/5 | Level: 2.11/7)
+- Transportation (Importance: 2.17/5 | Level: 2.21/7)
+- Sociology and Anthropology (Importance: 2.11/5 | Level: 1.94/7)
+- Geography (Importance: 2.09/5 | Level: 1.98/7)
+- Engineering and Technology (Importance: 1.98/5 | Level: 1.8/7)
+- Philosophy and Theology (Importance: 1.97/5 | Level: 1.69/7)
+- Sales and Marketing (Importance: 1.96/5 | Level: 1.99/7)
+- Design (Importance: 1.8/5 | Level: 1.36/7)
+- Medicine and Dentistry (Importance: 1.7/5 | Level: 1.24/7)
+- History and Archeology (Importance: 1.69/5 | Level: 1.09/7)
+- Mechanical (Importance: 1.69/5 | Level: 1.3/7)
+- Building and Construction (Importance: 1.67/5 | Level: 1.08/7)
+- Foreign Language (Importance: 1.63/5 | Level: 0.76/7)
+- Physics (Importance: 1.61/5 | Level: 0.92/7)
+- Chemistry (Importance: 1.61/5 | Level: 1.03/7)
+- Biology (Importance: 1.53/5 | Level: 1.17/7)
+- Food Production (Importance: 1.25/5 | Level: 0.42/7)
+- Fine Arts (Importance: 1.08/5 | Level: 0.08/7)
+
 # SKILLS
 (Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
 - Reading Comprehension (Importance: 4.0/5 | Level: 4.12/7)
@@ -223,3 +259,25 @@ Plan, direct, or coordinate activities of an organization to ensure compliance w
 - Primary Interest: Conventional
 - Secondary Interest: Enterprising
 - Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Regulatory Affairs Specialists
+- Regulatory Affairs Managers
+- Management Analysts
+- Compliance Officers
+- Environmental Compliance Inspectors
+- Security Managers
+- Administrative Services Managers
+- Security Management Specialists
+- Information Security Engineers
+- Government Property Inspectors and Investigators
+- Financial Examiners
+- Chief Executives
+- Document Management Specialists
+- Health and Safety Engineers, Except Mining Safety Engineers and Inspectors
+- Compensation, Benefits, and Job Analysis Specialists
+- First-Line Supervisors of Office and Administrative Support Workers
+- Human Resources Managers
+- Health Information Technologists and Medical Registrars
+- Medical and Health Services Managers
+- Chief Sustainability Officers
