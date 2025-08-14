@@ -4,10 +4,9 @@ import { resolve } from 'path'
 import { config } from 'dotenv'
 import * as process from 'process'
 import { fileTypeFromBuffer } from 'file-type'
-import amplifyOutputs from '@/amplify_outputs.json'
 
 // Load environment variables
-config();
+config()
 
 async function uploadFilesToS3() {
   try {
@@ -15,7 +14,7 @@ async function uploadFilesToS3() {
     const directoryPath = resolve(__dirname, '../data/ONet_Output');
     
     // Extract bucket name from outputs
-    const bucketName = amplifyOutputs.storage.bucket_name;
+    const bucketName = process.env.BUCKET_NAME
     console.log(`Using S3 bucket: ${bucketName}`);
     
     // Initialize S3 client

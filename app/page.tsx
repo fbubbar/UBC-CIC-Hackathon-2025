@@ -11,9 +11,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <img src="/logo.png" alt="POLARIS" className={styles.logo}></img>
-      <div className={styles.sub}>
-        Take the guesswork out of your career decisions.
-      </div>
+      <div className={styles.sub}>Your career North Star.</div>
       {/* button to dashboard */}
       <div
         className={`button glass`}
