@@ -1,27 +1,24 @@
 "use client";
 
-import { useState, useEffect } from "react";
-import { generateClient } from "aws-amplify/data";
-import type { Schema } from "@/amplify/data/resource";
+import { useState } from "react";
 import { useAuthenticator } from "@aws-amplify/ui-react";
 import PDFQuestionForm from "@/components/PDFQuestionForm";
 import SavedResponses from "@/components/SavedResponses";
 import ResponseModal from "@/components/ResponseModal";
+import { SavedResponse } from "@/lib/api";
 import { Amplify } from "aws-amplify";
 import outputs from "@/amplify_outputs.json";
 import "@aws-amplify/ui-react/styles.css";
 
 Amplify.configure(outputs);
 
-const client = generateClient<Schema>();
-
 export default function App() {
   const { user, signOut } = useAuthenticator();
-  const [selectedResponse, setSelectedResponse] = useState<Schema["SavedResponse"]["type"] | null>(null);
+  const [selectedResponse, setSelectedResponse] = useState<SavedResponse | null>(null);
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [refreshTrigger, setRefreshTrigger] = useState(0);
 
-  const handleSelectResponse = (response: Schema["SavedResponse"]["type"]) => {
+  const handleSelectResponse = (response: SavedResponse) => {
     setSelectedResponse(response);
     setIsModalOpen(true);
   };
