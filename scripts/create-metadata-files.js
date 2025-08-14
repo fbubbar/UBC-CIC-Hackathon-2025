@@ -8,7 +8,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 // Bucket information from amplify outputs
-const BUCKET_NAME = 'amplify-ubccicgenaihackathon202-databucket76dba918-u4tbp0b8ey8w';
+const BUCKET_NAME = 'polaris-kb-bucket';
 
 // Initialize S3 client
 const s3Client = new S3Client({ region: 'us-west-2' });
