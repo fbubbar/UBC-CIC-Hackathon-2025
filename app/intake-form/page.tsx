@@ -212,10 +212,14 @@ export default function IntakeForm() {
             value={email}
             onChange={(e) => setEmail(e.target.value)}
           />
+          <div style={{ fontSize: "1rem", color: "white" }}>
+            Upload your resume
+          </div>
           <input
             type="file"
             accept=".pdf"
             id="resumeUpload"
+            placeholder="Upload your resume"
             style={{ height: "4rem" }}
             className={styles.fileInput}
             onChange={(e) => setResumeFile(e.target.files?.[0] || null)}
