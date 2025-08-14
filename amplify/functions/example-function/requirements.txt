@@ -1,2 +1,0 @@
-# Add Python dependencies here
-# boto3==1.26.137

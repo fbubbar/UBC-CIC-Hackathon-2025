@@ -1,9 +1,7 @@
 import { defineFunction } from '@aws-amplify/backend';
 
 export const exampleFunction = defineFunction({
-  name: 'example-function',
-  entry: './handler.py',
-  runtime: 'python3.11',
+  entry: './handler.ts',
   timeoutSeconds: 30,
   memoryMB: 512,
 });
