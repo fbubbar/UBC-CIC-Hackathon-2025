@@ -4,6 +4,11 @@ import "./globals.css";
 
 import QueryProvider from "@/components/providers/QueryProvider";
 
+import outputs from '@/amplify_outputs.json'
+import { Amplify } from 'aws-amplify'
+
+Amplify.configure(outputs)
+
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {

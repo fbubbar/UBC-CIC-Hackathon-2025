@@ -1,6 +1,4 @@
-import { defineBackend } from '@aws-amplify/backend';
-import { data } from './data/resource';
+import { defineBackend } from '@aws-amplify/backend'
 
-defineBackend({
-  data,
-});
+export default defineBackend({})
+
