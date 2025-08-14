@@ -89,7 +89,7 @@ async function ingestDocuments(objects) {
     
     // Add a small delay between batches to avoid throttling
     if (i + batchSize < objects.length) {
-      await new Promise(resolve => setTimeout(resolve, 1000));
+      await new Promise(resolve => setTimeout(resolve, 3000));
     }
   }
 }
