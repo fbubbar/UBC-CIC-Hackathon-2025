@@ -1,0 +1,37 @@
+{
+  "name": "ubc-cic-genai-hackathon-2025",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@aws-amplify/ui-react": "^6.11.2",
+    "@aws-sdk/client-bedrock-runtime": "^3.864.0",
+    "aws-amplify": "^6.15.5",
+    "next": "14.2.10",
+    "pdf-parse": "^1.1.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@aws-amplify/backend": "^1.16.1",
+    "@aws-amplify/backend-cli": "^1.8.0",
+    "@types/node": "^20.19.10",
+    "@types/pdf-parse": "^1.1.5",
+    "@types/react": "^18.3.23",
+    "@types/react-dom": "^18.3.7",
+    "autoprefixer": "^10.4.21",
+    "aws-cdk": "^2.1024.0",
+    "aws-cdk-lib": "^2.210.0",
+    "constructs": "^10.4.2",
+    "esbuild": "^0.23.1",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^3.4.13",
+    "tsx": "^4.20.3",
+    "typescript": "^5.9.2"
+  }
+}

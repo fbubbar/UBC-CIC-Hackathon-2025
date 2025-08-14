@@ -1,1 +1,1 @@
-# UBC-CIC-Hackathon-2025
+# UBC-CIC-Summer-GenAI-Hackathon-2025
