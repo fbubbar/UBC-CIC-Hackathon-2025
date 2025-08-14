@@ -8,6 +8,10 @@
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 0, 27, 61;
   --background-end-rgb: 0, 27, 61;
+  --font-montserrat: 'Montserrat', sans-serif;
+  --font-oswald: 'Oswald', sans-serif;
+  --font-outfit: 'Outfit', sans-serif;
+  --font-urbanist: 'Urbanist', sans-serif;
 }
 
 html {
@@ -26,3 +30,39 @@ body {
 .min-h-screen {
   background: transparent !important;
 }
+
+
+.glass{
+    border-radius: 8px;
+    backdrop-filter: blur(5px);
+    box-shadow: inset 2px 2px 20px rgba(255, 255, 255, 0.119);
+    box-shadow: inset -1px -1px 7px rgba(255, 255, 255, 0.257);
+    background: rgba(146, 146, 146, 0);
+
+    overflow: hidden;
+    transition: background 0.3s ease;
+}
+
+.glass::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    padding: 1px; /* border thickness */
+    border-radius: inherit;
+    background: linear-gradient(
+      145deg,
+      rgba(255, 255, 255, 0.6) 0%,
+      rgba(255, 255, 255, 0.1) 40%,
+      rgba(255, 255, 255, 0.3) 100%
+    );
+    -webkit-mask: 
+      linear-gradient(#fff 0 0) content-box, 
+      linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+    pointer-events: none;
+  }
+
+  .glass:hover{
+    background: rgba(146, 146, 146, 0.1);
+  }
