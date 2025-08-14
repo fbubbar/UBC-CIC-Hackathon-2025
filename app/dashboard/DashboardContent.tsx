@@ -4,78 +4,43 @@ import { useState } from "react";
 import Link from "next/link";
 import "./dashboard.css";
 
-export default function Dashboard() {
-  const jobOutput = {
-    career_title: {
-      type: "string",
-      description: "Job Title from input.",
-    },
-    onet_code: {
-      type: "string",
-      description: "O*NET-SOC Code.",
-    },
-    summary: {
-      type: "string",
-      description:
-        "LLM-generated comprehensive overview based on all sections.",
-    },
-    onet_data: {
-      type: "object",
-      description: "Structured extraction of O*NET data from the input.",
-      schema: "OnetData",
-    },
-    work_experience: {
-      type: "object",
-      description: "Qualitative work experience insights.",
-      schema: "WorkExperience",
-    },
-    career_pathway: {
-      type: "object",
-      description: "Generated career pathway.",
-      schema: "CareerPathway",
-    },
-    resources: {
-      type: "object",
-      description: "Resources, including O*NET tech/tools.",
-      schema: "Resources",
-    },
-    alternative_careers: {
-      type: "array",
-      description: "Alternatives based on RELATED OCCUPATIONS.",
-      items: "AlternativeCareer",
-    },
-  };
-
-  const userOutputer = {
-    job_output: jobOutput,
-  };
-
-  const [isCard, setIsCard] = useState(true);
-
-  return (
-    <div className="min-h-screen bg-gray-100">
-      {isCard ? <CardView setIsCard={setIsCard} /> : <DashboardContent />}
-    </div>
-  );
+interface JobData {
+  title: string;
+  tags: string[];
+  description: string;
 }
 
-const CardView = ({ setIsCard }: { setIsCard: (isCard: boolean) => void }) => {
-  return (
-    <div className="cardViewContainer">
-      <div style={{ fontSize: "2rem" }}>You are:</div>
-      <img className="cardViewImage" src="/creative.png" alt="The Creative" />
-      <div className="glass button" onClick={() => setIsCard(false)}>
-        begin your journey
-      </div>
-    </div>
-  );
-};
-
 const DashboardContent = () => {
+  const [currentView, setCurrentView] = useState<"cards" | "details">("cards");
+  const [selectedJob, setSelectedJob] = useState<string>("product-marketing");
   const [expandedSections, setExpandedSections] = useState({
     getStarted: false,
     jobResources: false,
   });
+
+  const jobsData: { [key: string]: JobData } = {
+    "ui-ux-designer": {
+      title: "UI/UX Designer",
+      tags: ["Building", "Design", "Tech"],
+      description:
+        "A UI/UX designer creates intuitive, visually appealing, and user-friendly digital experiences by combining design principles with user research. They focus on understanding user needs, crafting wireframes and prototypes, and refining interfaces for both aesthetics and functionality. The goal is to ensure every interaction feels seamless and engaging.",
+    },
+    "product-manager": {
+      title: "Product Manager",
+      tags: ["Building", "Tech"],
+      description:
+        "A product manager guides a product's vision, strategy, and development from concept to launch. They act as the link between business, design, and engineering teams, prioritizing features based on user needs and company goals. The role centers on delivering products that solve problems, delight users, and drive business impact.",
+    },
+  };
+
+  const handleJobSelect = (jobKey: string) => {
+    setSelectedJob(jobKey);
+    setCurrentView("details");
+  };
+
+  const handleBackToCards = () => {
+    setCurrentView("cards");
+  };
 
   const toggleSection = (section: keyof typeof expandedSections) => {
     setExpandedSections((prev) => ({
@@ -83,6 +48,8 @@ const DashboardContent = () => {
       [section]: !prev[section],
     }));
   };
+
+  const currentJobData = jobsData[selectedJob];
 
   return (
     <div className="dashboardContainer">
@@ -102,6 +69,11 @@ const DashboardContent = () => {
         </div>
 
         <nav className="navigation">
+          {currentView === "details" && (
+            <button onClick={handleBackToCards} className="navItem navButton">
+              <span>← Back to Jobs</span>
+            </button>
+          )}
           <Link href="/" className="navItem">
             <span>Home</span>
             <span>↗</span>
@@ -126,194 +98,262 @@ const DashboardContent = () => {
         </div>
       </aside>
 
-      <main className="mainContent">
-        <div className="contentHeader">
-          <h1>Product Marketing</h1>
-          <div className="tags">
-            <span className="tag glass">Marketing</span>
-            <span className="tag glass">Building</span>
-            <span className="tag glass">Design</span>
+      {currentView === "cards" ? (
+        <main className="cardsMainContent">
+          <div className="jobCardsGrid">
+            <div
+              className="jobCard glass"
+              onClick={() => handleJobSelect("ui-ux-designer")}
+            >
+              <h3>UI/UX Designer</h3>
+              <div className="tags">
+                <span className="tag glass">Building</span>
+                <span className="tag glass">Design</span>
+                <span className="tag glass">Tech</span>
+              </div>
+              <p>
+                A UI/UX designer creates intuitive, visually appealing, and
+                user-friendly digital experiences by combining design principles
+                with user research. They focus on understanding user needs,
+                crafting wireframes and prototypes, and refining interfaces for
+                both aesthetics and functionality. The goal is to ensure every
+                interaction feels seamless and engaging.
+              </p>
+              <div className="cardArrow">→</div>
+            </div>
+
+            <div
+              className="jobCard glass"
+              onClick={() => handleJobSelect("product-manager")}
+            >
+              <h3>Product Manager</h3>
+              <div className="tags">
+                <span className="tag glass">Building</span>
+                <span className="tag glass">Tech</span>
+              </div>
+              <p>
+                A product manager guides a product's vision, strategy, and
+                development from concept to launch. They act as the link between
+                business, design, and engineering teams, prioritizing features
+                based on user needs and company goals. The role centers on
+                delivering products that solve problems, delight users, and
+                drive business impact.
+              </p>
+              <div className="cardArrow">→</div>
+            </div>
           </div>
-        </div>
+        </main>
+      ) : (
+        <main className="mainContent">
+          <div className="contentHeader">
+            <h1>{currentJobData.title}</h1>
+            <div className="tags">
+              {currentJobData.tags.map((tag, index) => (
+                <span key={index} className="tag glass">
+                  {tag}
+                </span>
+              ))}
+            </div>
+          </div>
 
-        <p className="jobDescription">
-          Product marketing bridges the gap between a product and its target
-          audience by defining its positioning, messaging, and go-to-market
-          strategy. It involves understanding customer needs, analyzing market
-          trends, and collaborating with product, sales, and marketing teams to
-          drive adoption. The role focuses on ensuring the product's value is
-          clearly communicated and resonates in the market to boost growth.
-        </p>
+          <p className="jobDescription">{currentJobData.description}</p>
 
-        <div className="chartsContainer">
-          <div className="chartCard glass">
-            <h3>Demand Projection</h3>
-            <div className="chartPlaceholder">
-              <div className="chartArea">
-                <svg viewBox="0 0 400 200" className="chartSvg">
-                  <defs>
-                    <linearGradient
-                      id="demandGradient"
-                      x1="0%"
-                      y1="0%"
-                      x2="0%"
-                      y2="100%"
-                    >
-                      <stop offset="0%" stopColor="rgba(59, 130, 246, 0.4)" />
-                      <stop offset="100%" stopColor="rgba(59, 130, 246, 0.1)" />
-                    </linearGradient>
-                  </defs>
-                  <path
-                    d="M 0 160 Q 200 120 400 100 L 400 200 L 0 200 Z"
-                    fill="url(#demandGradient)"
-                  />
-                  <path
-                    d="M 0 160 Q 200 120 400 100"
-                    stroke="rgba(59, 130, 246, 1)"
-                    strokeWidth="2"
-                    fill="none"
-                  />
-                  <circle cx="0" cy="160" r="4" fill="rgba(59, 130, 246, 1)" />
-                  <circle
-                    cx="200"
-                    cy="110"
-                    r="4"
-                    fill="rgba(59, 130, 246, 1)"
-                  />
-                  <circle
-                    cx="400"
-                    cy="100"
-                    r="4"
-                    fill="rgba(59, 130, 246, 1)"
-                  />
-                </svg>
-                <div className="chartLabels">
-                  <span>2025</span>
-                  <span>2030</span>
-                  <span>2035</span>
+          <div className="chartsContainer">
+            <div className="chartCard glass">
+              <h3>Demand Projection</h3>
+              <div className="chartPlaceholder">
+                <div className="chartArea">
+                  <svg viewBox="0 0 400 200" className="chartSvg">
+                    <defs>
+                      <linearGradient
+                        id="demandGradient"
+                        x1="0%"
+                        y1="0%"
+                        x2="0%"
+                        y2="100%"
+                      >
+                        <stop offset="0%" stopColor="rgba(59, 130, 246, 0.4)" />
+                        <stop
+                          offset="100%"
+                          stopColor="rgba(59, 130, 246, 0.1)"
+                        />
+                      </linearGradient>
+                    </defs>
+                    <path
+                      d="M 0 160 Q 200 120 400 100 L 400 200 L 0 200 Z"
+                      fill="url(#demandGradient)"
+                    />
+                    <path
+                      d="M 0 160 Q 200 120 400 100"
+                      stroke="rgba(59, 130, 246, 1)"
+                      strokeWidth="2"
+                      fill="none"
+                    />
+                    <circle
+                      cx="0"
+                      cy="160"
+                      r="4"
+                      fill="rgba(59, 130, 246, 1)"
+                    />
+                    <circle
+                      cx="200"
+                      cy="110"
+                      r="4"
+                      fill="rgba(59, 130, 246, 1)"
+                    />
+                    <circle
+                      cx="400"
+                      cy="100"
+                      r="4"
+                      fill="rgba(59, 130, 246, 1)"
+                    />
+                  </svg>
+                  <div className="chartLabels">
+                    <span>2025</span>
+                    <span>2030</span>
+                    <span>2035</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="chartCard glass">
+              <h3>Salary Projection</h3>
+              <div className="chartPlaceholder">
+                <div className="chartArea">
+                  <svg viewBox="0 0 400 200" className="chartSvg">
+                    <defs>
+                      <linearGradient
+                        id="salaryGradientDetail"
+                        x1="0%"
+                        y1="0%"
+                        x2="0%"
+                        y2="100%"
+                      >
+                        <stop offset="0%" stopColor="rgba(59, 130, 246, 0.4)" />
+                        <stop
+                          offset="100%"
+                          stopColor="rgba(59, 130, 246, 0.1)"
+                        />
+                      </linearGradient>
+                    </defs>
+                    <path
+                      d="M 0 155 Q 200 100 400 80 L 400 200 L 0 200 Z"
+                      fill="url(#salaryGradientDetail)"
+                    />
+                    <path
+                      d="M 0 155 Q 200 100 400 80"
+                      stroke="rgba(59, 130, 246, 1)"
+                      strokeWidth="2"
+                      fill="none"
+                    />
+                    <circle
+                      cx="0"
+                      cy="155"
+                      r="4"
+                      fill="rgba(59, 130, 246, 1)"
+                    />
+                    <circle
+                      cx="200"
+                      cy="100"
+                      r="4"
+                      fill="rgba(59, 130, 246, 1)"
+                    />
+                    <circle
+                      cx="400"
+                      cy="80"
+                      r="4"
+                      fill="rgba(59, 130, 246, 1)"
+                    />
+                  </svg>
+                  <div className="chartLabels">
+                    <span>2025</span>
+                    <span>2030</span>
+                    <span>2035</span>
+                  </div>
                 </div>
               </div>
             </div>
           </div>
-          <div className="chartCard glass">
-            <h3>Salary Projection</h3>
-            <div className="chartPlaceholder">
-              <div className="chartArea">
-                <svg viewBox="0 0 400 200" className="chartSvg">
-                  <defs>
-                    <linearGradient
-                      id="salaryGradient"
-                      x1="0%"
-                      y1="0%"
-                      x2="0%"
-                      y2="100%"
-                    >
-                      <stop offset="0%" stopColor="rgba(59, 130, 246, 0.4)" />
-                      <stop offset="100%" stopColor="rgba(59, 130, 246, 0.1)" />
-                    </linearGradient>
-                  </defs>
-                  <path
-                    d="M 0 155 Q 200 100 400 80 L 400 200 L 0 200 Z"
-                    fill="url(#salaryGradient)"
-                  />
-                  <path
-                    d="M 0 155 Q 200 100 400 80"
-                    stroke="rgba(59, 130, 246, 1)"
-                    strokeWidth="2"
-                    fill="none"
-                  />
-                  <circle cx="0" cy="155" r="4" fill="rgba(59, 130, 246, 1)" />
-                  <circle
-                    cx="200"
-                    cy="100"
-                    r="4"
-                    fill="rgba(59, 130, 246, 1)"
-                  />
-                  <circle cx="400" cy="80" r="4" fill="rgba(59, 130, 246, 1)" />
-                </svg>
-                <div className="chartLabels">
-                  <span>2025</span>
-                  <span>2030</span>
-                  <span>2035</span>
+
+          <section className="publicOpinion">
+            <h2>Public Opinion</h2>
+            <div className="opinionCards">
+              <div className="opinionCard glass">
+                <div className="cardHeader">
+                  <span className="icon">👤</span>
+                  <h4>Reddit</h4>
                 </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <section className="publicOpinion">
-          <h2>Public Opinion</h2>
-          <div className="opinionCards">
-            <div className="opinionCard glass">
-              <div className="cardHeader">
-                <span className="icon">👤</span>
-                <h4>Reddit</h4>
-              </div>
-              <p>
-                This job is really hard for people pivoting from SWE roles.
-                Definitely fits people with a larger background in Business and
-                Marketing.
-              </p>
-            </div>
-            <div className="opinionCard glass">
-              <div className="cardHeader">
-                <span className="icon">👤</span>
-                <h4>LinkedIn</h4>
-              </div>
-              <p>
-                Many PMMs say the hardest part of the job isn't the launch—it's
-                getting cross-functional teams aligned beforehand.
-              </p>
-            </div>
-            <div className="opinionCard glass">
-              <div className="cardHeader">
-                <span className="icon">👤</span>
-                <h4>Other</h4>
-              </div>
-              <p>
-                A lot of people underestimate how much data analysis goes into
-                product marketing—it's not just about creative campaigns.
-              </p>
-            </div>
-          </div>
-        </section>
-
-        <div className="expandableSections">
-          <div className="expandableSection glass">
-            <button
-              className="sectionHeader"
-              onClick={() => toggleSection("getStarted")}
-            >
-              <span className="expandIcon">+</span>
-              <span>Get Started</span>
-              <span>↗</span>
-            </button>
-            {expandedSections.getStarted && (
-              <div className="sectionContent">
-                <p>Content for getting started with Product Marketing...</p>
-              </div>
-            )}
-          </div>
-
-          <div className="expandableSection glass">
-            <button
-              className="sectionHeader"
-              onClick={() => toggleSection("jobResources")}
-            >
-              <span className="expandIcon">+</span>
-              <span>Job Resources</span>
-              <span>↗</span>
-            </button>
-            {expandedSections.jobResources && (
-              <div className="sectionContent">
                 <p>
-                  Resources and tools for Product Marketing professionals...
+                  This job is really hard for people pivoting from SWE roles.
+                  Definitely fits people with a larger background in Business
+                  and Marketing.
                 </p>
               </div>
-            )}
+              <div className="opinionCard glass">
+                <div className="cardHeader">
+                  <span className="icon">👤</span>
+                  <h4>LinkedIn</h4>
+                </div>
+                <p>
+                  Many PMMs say the hardest part of the job isn't the
+                  launch—it's getting cross-functional teams aligned beforehand.
+                </p>
+              </div>
+              <div className="opinionCard glass">
+                <div className="cardHeader">
+                  <span className="icon">👤</span>
+                  <h4>Other</h4>
+                </div>
+                <p>
+                  A lot of people underestimate how much data analysis goes into
+                  product marketing—it's not just about creative campaigns.
+                </p>
+              </div>
+            </div>
+          </section>
+
+          <div className="expandableSections">
+            <div className="expandableSection glass">
+              <button
+                className="sectionHeader"
+                onClick={() => toggleSection("getStarted")}
+              >
+                <span className="expandIcon">+</span>
+                <span>Get Started</span>
+                <span>↗</span>
+              </button>
+              {expandedSections.getStarted && (
+                <div className="sectionContent">
+                  <p>
+                    Content for getting started with {currentJobData.title}...
+                  </p>
+                </div>
+              )}
+            </div>
+
+            <div className="expandableSection glass">
+              <button
+                className="sectionHeader"
+                onClick={() => toggleSection("jobResources")}
+              >
+                <span className="expandIcon">+</span>
+                <span>Job Resources</span>
+                <span>↗</span>
+              </button>
+              {expandedSections.jobResources && (
+                <div className="sectionContent">
+                  <p>
+                    Resources and tools for {currentJobData.title}{" "}
+                    professionals...
+                  </p>
+                </div>
+              )}
+            </div>
           </div>
-        </div>
-      </main>
+        </main>
+      )}
     </div>
   );
 };
+
+export default DashboardContent;
