@@ -1,0 +1,218 @@
+Job Title: Biomass Plant Technicians
+O*NET-SOC Code: 51-8013.03
+
+# DESCRIPTION
+Control and monitor biomass plant activities and perform maintenance as needed.
+
+# TASKS
+- Operate biomass fuel-burning boiler or biomass fuel gasification system equipment in accordance with specifications or instructions.
+- Perform tests of water chemistry in boilers.
+- Operate high-pressure steam boiler or water chiller equipment for electrical cogeneration operations.
+- Operate equipment to heat biomass, using knowledge of controls, combustion, and firing mechanisms.
+- Operate equipment to start, stop, or regulate biomass-fueled generators, generator units, boilers, engines, or auxiliary systems.
+- Inspect biomass power plant or processing equipment, recording or reporting damage and mechanical problems.
+- Record or report operational data, such as readings on meters, instruments, and gauges.
+- Operate valves, pumps, engines, or generators to control and adjust production of biofuels or biomass-fueled power.
+- Calculate, measure, load, or mix biomass feedstock for power generation.
+- Clean work areas to ensure compliance with safety regulations.
+- Perform routine maintenance or make minor repairs to mechanical, electrical, or electronic equipment in biomass plants.
+- Measure and monitor raw biomass feedstock, including wood, waste, or refuse materials.
+- Calibrate liquid flow devices or meters, including fuel, chemical, and water meters.
+- Assess quality of biomass feedstock.
+- Read and interpret instruction manuals or technical drawings related to biomass-fueled power or biofuels production equipment or processes.
+- Operate heavy equipment, such as bulldozers and front-end loaders.
+- Preprocess feedstock to prepare for biochemical or thermochemical production processes.
+- Manage parts and supply inventories for biomass plants.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 3.92/5 | Level: 4.45/7)
+- Chemistry (Importance: 3.44/5 | Level: 4.42/7)
+- English Language (Importance: 3.28/5 | Level: 2.7/7)
+- Production and Processing (Importance: 3.27/5 | Level: 3.53/7)
+- Engineering and Technology (Importance: 3.13/5 | Level: 3.29/7)
+- Education and Training (Importance: 3.09/5 | Level: 4.15/7)
+- Computers and Electronics (Importance: 3.03/5 | Level: 3.26/7)
+- Mathematics (Importance: 2.87/5 | Level: 3.39/7)
+- Public Safety and Security (Importance: 2.83/5 | Level: 3.29/7)
+- Administration and Management (Importance: 2.68/5 | Level: 2.88/7)
+- Physics (Importance: 2.65/5 | Level: 3.18/7)
+- Administrative (Importance: 2.49/5 | Level: 2.26/7)
+- Law and Government (Importance: 2.46/5 | Level: 2.44/7)
+- Building and Construction (Importance: 2.42/5 | Level: 2.71/7)
+- Design (Importance: 2.33/5 | Level: 2.38/7)
+- Telecommunications (Importance: 2.25/5 | Level: 1.87/7)
+- Personnel and Human Resources (Importance: 2.11/5 | Level: 1.94/7)
+- Transportation (Importance: 2.1/5 | Level: 1.98/7)
+- Customer and Personal Service (Importance: 1.97/5 | Level: 2.05/7)
+- Communications and Media (Importance: 1.93/5 | Level: 1.66/7)
+- Economics and Accounting (Importance: 1.92/5 | Level: 1.15/7)
+- Biology (Importance: 1.92/5 | Level: 1.71/7)
+- Psychology (Importance: 1.91/5 | Level: 1.49/7)
+- Geography (Importance: 1.54/5 | Level: 0.99/7)
+- Philosophy and Theology (Importance: 1.5/5 | Level: 0.75/7)
+- Sociology and Anthropology (Importance: 1.44/5 | Level: 0.8/7)
+- Sales and Marketing (Importance: 1.39/5 | Level: 0.69/7)
+- Therapy and Counseling (Importance: 1.23/5 | Level: 0.44/7)
+- History and Archeology (Importance: 1.19/5 | Level: 0.2/7)
+- Foreign Language (Importance: 1.07/5 | Level: 0.07/7)
+- Medicine and Dentistry (Importance: 1.03/5 | Level: 0.05/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operations Monitoring (Importance: 4.0/5 | Level: 3.88/7)
+- Operation and Control (Importance: 3.88/5 | Level: 3.5/7)
+- Monitoring (Importance: 3.38/5 | Level: 3.25/7)
+- Critical Thinking (Importance: 3.12/5 | Level: 3.12/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 3.0/7)
+- Speaking (Importance: 3.0/5 | Level: 3.0/7)
+- Reading Comprehension (Importance: 3.0/5 | Level: 3.0/7)
+- Quality Control Analysis (Importance: 3.0/5 | Level: 3.0/7)
+- Active Listening (Importance: 3.0/5 | Level: 3.0/7)
+- Active Learning (Importance: 3.0/5 | Level: 3.0/7)
+- Equipment Maintenance (Importance: 3.0/5 | Level: 3.12/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 3.0/7)
+- Complex Problem Solving (Importance: 3.0/5 | Level: 3.0/7)
+- Coordination (Importance: 3.0/5 | Level: 2.88/7)
+- Writing (Importance: 3.0/5 | Level: 3.0/7)
+- Negotiation (Importance: 2.75/5 | Level: 2.12/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 2.88/7)
+- Troubleshooting (Importance: 2.75/5 | Level: 2.88/7)
+- Systems Evaluation (Importance: 2.75/5 | Level: 2.25/7)
+- Systems Analysis (Importance: 2.75/5 | Level: 2.75/7)
+- Equipment Selection (Importance: 2.75/5 | Level: 2.12/7)
+- Mathematics (Importance: 2.75/5 | Level: 2.75/7)
+- Repairing (Importance: 2.75/5 | Level: 2.88/7)
+- Instructing (Importance: 2.75/5 | Level: 2.75/7)
+- Service Orientation (Importance: 2.75/5 | Level: 2.88/7)
+- Persuasion (Importance: 2.62/5 | Level: 2.5/7)
+- Science (Importance: 2.25/5 | Level: 1.62/7)
+- Management of Personnel Resources (Importance: 2.12/5 | Level: 2.25/7)
+- Operations Analysis (Importance: 2.12/5 | Level: 1.25/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.62/7)
+- Technology Design (Importance: 1.88/5 | Level: 0.88/7)
+- Management of Financial Resources (Importance: 1.88/5 | Level: 1.0/7)
+- Programming (Importance: 1.75/5 | Level: 0.75/7)
+- Installation (Importance: 1.12/5 | Level: 0.12/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Distributed control system DCS (Tech skill type: Industrial control software)
+- Energy analysis software (Tech skill type: Analytical or scientific software)
+- Inventory control software (Tech skill type: Inventory management software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Word (Tech skill type: Word processing software)
+- National Instruments LabVIEW (Tech skill type: Development environment software)
+
+## TOOLS USED
+- Belt conveyor systems (Tool type: Belt conveyors)
+- Biomass boilers (Tool type: Fire tube boilers)
+- Biomass dryers (Tool type: Air dryers)
+- Biomass screeners (Tool type: Intake structures)
+- Bubbling fluidized bed boilers (Tool type: Fire tube boilers)
+- Circulating fluidized bed boilers (Tool type: Fire tube boilers)
+- Desktop computers (Tool type: Desktop computers)
+- Disc screeners (Tool type: Intake structures)
+- Drive-on scales (Tool type: Truck or rail scales)
+- Dump trucks (Tool type: Dump trucks)
+- Fuel metering conveyors (Tool type: Conveyor feeders)
+- Grinders (Tool type: Grinding mills)
+- Hammer hogs (Tool type: Hammer mills)
+- Heat recovery steam generators (Tool type: Steam generators)
+- Laptop computers (Tool type: Notebook computers)
+- Personal computers (Tool type: Personal computers)
+- Radial stackers (Tool type: Extendable conveyors)
+- Reclaim feeders (Tool type: Batching plants or feeders)
+- Steam boilers (Tool type: Water tube boiler)
+- Steam turbines (Tool type: Steam engines)
+- Tub grinders (Tool type: Grinding mills)
+- Water samplers (Tool type: Water samplers)
+- Wheeled front end loaders (Tool type: Front end loaders)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Extremely important
+- Deal With External Customers or the Public in General: Not important at all
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Moderately automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Once a year or more but not every month
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Every day
+- Exposed to Hazardous Conditions: Every day
+- Exposed to Hazardous Equipment: Every day
+- Exposed to High Places: Every day
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Every day
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Every day
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Important
+- Importance of Repeating Same Tasks: Extremely important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Once a year or more but not every month
+- In an Open Vehicle or Operating Equipment: Once a month or more but not every week
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Every day
+- Level of Competition: Highly competitive
+- Outdoors, Exposed to All Weather Conditions: Every day
+- Outdoors, Under Cover: Every day
+- Pace Determined by Speed of Equipment: Extremely important
+- Physical Proximity: I work with others but not closely (e.g., private office)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Less than half the time
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Less than half the time
+- Spend Time Sitting: About half the time
+- Spend Time Standing: About half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Less than half the time
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Once a year or more but not every month
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a week or more but not every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Power Plant Operators
+- Biofuels Processing Technicians
+- Stationary Engineers and Boiler Operators
+- Water and Wastewater Treatment Plant and System Operators
+- Gas Plant Operators
+- Hydroelectric Plant Technicians
+- Chemical Plant and System Operators
+- Geothermal Technicians
+- Gas Compressor and Gas Pumping Station Operators
+- Petroleum Pump System Operators, Refinery Operators, and Gaugers
+- Biomass Power Plant Managers
+- Biofuels Production Managers
+- Geothermal Production Managers
+- Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders
+- Chemical Equipment Operators and Tenders
+- Pump Operators, Except Wellhead Pumpers
+- Wellhead Pumpers
+- Biofuels/Biodiesel Technology and Product Development Managers
+- Power Distributors and Dispatchers
+- Wind Turbine Service Technicians

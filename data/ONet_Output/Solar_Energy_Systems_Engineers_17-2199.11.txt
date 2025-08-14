@@ -1,0 +1,345 @@
+Job Title: Solar Energy Systems Engineers
+O*NET-SOC Code: 17-2199.11
+
+# DESCRIPTION
+Perform site-specific engineering analysis or evaluation of energy efficiency and solar projects involving residential, commercial, or industrial customers. Design solar domestic hot water and space heating systems for new and existing structures, applying knowledge of structural energy requirements, local climates, solar technology, and thermodynamics.
+
+# TASKS
+- Conduct engineering site audits to collect structural, electrical, and related site information for use in the design of residential or commercial solar power systems.
+- Create plans for solar energy system development, monitoring, and evaluation activities.
+- Design or coordinate design of photovoltaic (PV) or solar thermal systems, including system components, for residential and commercial buildings.
+- Provide technical direction or support to installation teams during installation, start-up, testing, system commissioning, or performance monitoring.
+- Create electrical single-line diagrams, panel schedules, or connection diagrams for solar electric systems, using computer-aided design (CAD) software.
+- Perform computer simulation of solar photovoltaic (PV) generation system performance or energy production to optimize efficiency.
+- Review specifications and recommend engineering or manufacturing changes to achieve solar design objectives.
+- Develop design specifications and functional requirements for residential, commercial, or industrial solar energy systems or components.
+- Develop standard operation procedures and quality or safety standards for solar installation work.
+- Create checklists for review or inspection of completed solar installation projects.
+- Perform thermal, stress, or cost reduction analyses for solar systems.
+- Test or evaluate photovoltaic (PV) cells or modules.
+- Design or develop vacuum tube collector systems for solar applications.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Engineering and Technology (Importance: 4.32/5 | Level: 5.32/7)
+- Design (Importance: 4.14/5 | Level: 5.11/7)
+- Building and Construction (Importance: 3.93/5 | Level: 4.86/7)
+- Mathematics (Importance: 3.82/5 | Level: 4.5/7)
+- Mechanical (Importance: 3.56/5 | Level: 4.32/7)
+- Physics (Importance: 3.29/5 | Level: 3.96/7)
+- Computers and Electronics (Importance: 3.29/5 | Level: 4.29/7)
+- Administration and Management (Importance: 3.21/5 | Level: 4.11/7)
+- English Language (Importance: 3.14/5 | Level: 3.39/7)
+- Customer and Personal Service (Importance: 2.96/5 | Level: 3.5/7)
+- Sales and Marketing (Importance: 2.82/5 | Level: 3.18/7)
+- Economics and Accounting (Importance: 2.64/5 | Level: 3.32/7)
+- Public Safety and Security (Importance: 2.52/5 | Level: 2.86/7)
+- Administrative (Importance: 2.5/5 | Level: 3.68/7)
+- Education and Training (Importance: 2.41/5 | Level: 3.11/7)
+- Telecommunications (Importance: 2.39/5 | Level: 2.54/7)
+- Personnel and Human Resources (Importance: 2.33/5 | Level: 2.57/7)
+- Law and Government (Importance: 2.3/5 | Level: 2.54/7)
+- Production and Processing (Importance: 2.25/5 | Level: 2.25/7)
+- Geography (Importance: 1.96/5 | Level: 2.36/7)
+- Communications and Media (Importance: 1.88/5 | Level: 1.62/7)
+- Chemistry (Importance: 1.85/5 | Level: 2.07/7)
+- Transportation (Importance: 1.71/5 | Level: 1.39/7)
+- Psychology (Importance: 1.54/5 | Level: 1.14/7)
+- Foreign Language (Importance: 1.29/5 | Level: 0.57/7)
+- Sociology and Anthropology (Importance: 1.18/5 | Level: 0.32/7)
+- History and Archeology (Importance: 1.14/5 | Level: 0.29/7)
+- Biology (Importance: 1.14/5 | Level: 0.29/7)
+- Fine Arts (Importance: 1.11/5 | Level: 0.32/7)
+- Therapy and Counseling (Importance: 1.11/5 | Level: 0.21/7)
+- Medicine and Dentistry (Importance: 1.07/5 | Level: 0.11/7)
+- Food Production (Importance: 1.07/5 | Level: 0.18/7)
+- Philosophy and Theology (Importance: 1.04/5 | Level: 0.11/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.0/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.12/7)
+- Writing (Importance: 3.88/5 | Level: 4.0/7)
+- Complex Problem Solving (Importance: 3.88/5 | Level: 4.0/7)
+- Speaking (Importance: 3.88/5 | Level: 4.0/7)
+- Active Listening (Importance: 3.75/5 | Level: 4.0/7)
+- Mathematics (Importance: 3.38/5 | Level: 4.0/7)
+- Judgment and Decision Making (Importance: 3.38/5 | Level: 3.25/7)
+- Science (Importance: 3.25/5 | Level: 3.88/7)
+- Monitoring (Importance: 3.25/5 | Level: 3.62/7)
+- Active Learning (Importance: 3.25/5 | Level: 3.88/7)
+- Persuasion (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 3.12/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 3.25/7)
+- Systems Evaluation (Importance: 3.0/5 | Level: 3.25/7)
+- Coordination (Importance: 3.0/5 | Level: 3.38/7)
+- Instructing (Importance: 3.0/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 2.88/5 | Level: 3.0/7)
+- Negotiation (Importance: 2.75/5 | Level: 3.0/7)
+- Operations Analysis (Importance: 2.75/5 | Level: 2.5/7)
+- Operations Monitoring (Importance: 2.75/5 | Level: 3.0/7)
+- Systems Analysis (Importance: 2.75/5 | Level: 3.12/7)
+- Quality Control Analysis (Importance: 2.75/5 | Level: 3.12/7)
+- Service Orientation (Importance: 2.75/5 | Level: 2.88/7)
+- Management of Personnel Resources (Importance: 2.62/5 | Level: 2.5/7)
+- Troubleshooting (Importance: 2.38/5 | Level: 2.25/7)
+- Programming (Importance: 2.25/5 | Level: 2.0/7)
+- Technology Design (Importance: 2.25/5 | Level: 2.5/7)
+- Operation and Control (Importance: 2.25/5 | Level: 2.25/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 2.0/7)
+- Equipment Maintenance (Importance: 2.0/5 | Level: 1.75/7)
+- Repairing (Importance: 2.0/5 | Level: 1.62/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.88/7)
+- Equipment Selection (Importance: 2.0/5 | Level: 1.88/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Ansys Fluent (Tech skill type: Analytical or scientific software)
+- Aurora HelioScope (Tech skill type: Analytical or scientific software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Autodesk AutoCAD LT (Tech skill type: Computer aided design CAD software)
+- Autodesk Revit (Tech skill type: Computer aided design CAD software)
+- Bash (Tech skill type: Operating system software)
+- C++ (Tech skill type: Object or component oriented development software)
+- Computer aided design and drafting CADD software (Tech skill type: Computer aided design CAD software)
+- Dassault Systemes SolidWorks (Tech skill type: Computer aided design CAD software)
+- Data acquisition software (Tech skill type: Analytical or scientific software)
+- Data visualization software (Tech skill type: Analytical or scientific software)
+- Database software (Tech skill type: Data base user interface and query software)
+- Debugging software (Tech skill type: Program testing software)
+- Energy-10 (Tech skill type: Analytical or scientific software)
+- ETAP (Tech skill type: Geographic information system)
+- Finite element method FEM software (Tech skill type: Analytical or scientific software)
+- Geographic information system GIS systems (Tech skill type: Geographic information system)
+- Global positioning system GPS software (Tech skill type: Mobile location based services software)
+- Google Workspace software (Tech skill type: Office suite software)
+- HOMER Micropower Optimization Model (Tech skill type: Analytical or scientific software)
+- IMSI TurboCAD (Tech skill type: Computer aided design CAD software)
+- JavaScript (Tech skill type: Web platform development software)
+- Linux (Tech skill type: Operating system software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Visual Basic (Tech skill type: Development environment software)
+- Microsoft Visual Basic for Applications VBA (Tech skill type: Development environment software)
+- Microsoft Word (Tech skill type: Word processing software)
+- National Instruments Compact FieldPoint System (Tech skill type: Analytical or scientific software)
+- National Instruments LabVIEW (Tech skill type: Development environment software)
+- Optical Physics Technologies SUN_CHART (Tech skill type: Analytical or scientific software)
+- Oracle Hyperion (Tech skill type: Enterprise resource planning ERP software)
+- PV Optics (Tech skill type: Analytical or scientific software)
+- PVsyst (Tech skill type: Analytical or scientific software)
+- Python (Tech skill type: Object or component oriented development software)
+- Python Tools for Visual Studio (PTVS) (Tech skill type: Object or component oriented development software)
+- R (Tech skill type: Object or component oriented development software)
+- Regional Energy Deployment System ReEDS (Tech skill type: Analytical or scientific software)
+- RETScreen (Tech skill type: Analytical or scientific software)
+- Salesforce software (Tech skill type: Customer relationship management CRM software)
+- Simple Model of the Atmospheric Radiative Transfer of Sunshine SMARTS (Tech skill type: Analytical or scientific software)
+- Simulation software (Tech skill type: Analytical or scientific software)
+- SKM Systems Analysis Power Tools (Tech skill type: Analytical or scientific software)
+- Software development tools (Tech skill type: Development environment software)
+- Solar Advisor Model (Tech skill type: Analytical or scientific software)
+- Solar and Wind Energy Resource Assessment SWERA (Tech skill type: Analytical or scientific software)
+- SOLAR-2 (Tech skill type: Analytical or scientific software)
+- SolTrace (Tech skill type: Analytical or scientific software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Supervisory control and data acquisition SCADA software (Tech skill type: Industrial control software)
+- The MathWorks MATLAB (Tech skill type: Analytical or scientific software)
+- Trimble SketchUp Pro (Tech skill type: Computer aided design CAD software)
+
+## TOOLS USED
+- Abrasion testers (Tool type: Abrasion testers)
+- Accelerated weathering machines (Tool type: Ageing ovens)
+- Adhesion testers (Tool type: Metal testing instruments)
+- Apparent power meters (Tool type: Power meters)
+- Atomic absorption spectrometers (Tool type: Atomic absorption AA spectrometers)
+- Auger electron spectrometers (Tool type: Spectrometers)
+- Bench ovens (Tool type: Laboratory mechanical convection ovens)
+- Chronopotentiometers (Tool type: Potentiometers)
+- Compression testers (Tool type: Compression testers)
+- Copy machines (Tool type: Photocopiers)
+- Coulometers (Tool type: Coulometers)
+- Creep testers (Tool type: Creep testers)
+- Current versus voltage IV curve tracers (Tool type: Graphic recorders)
+- Data loggers (Tool type: Portable data input terminals)
+- Differential scanning calorimeters (Tool type: Calorimeters)
+- Digital imaging microscopes (Tool type: Videoscopes)
+- Digital pattern generators (Tool type: Signal generators)
+- Digital resistance thermometers (Tool type: Resistance thermometers)
+- Direct current DC power supplies (Tool type: Brushless motor DC)
+- Electrometers (Tool type: Electrometers)
+- Electron beam evaporators (Tool type: Laboratory evaporators)
+- Electron energy loss spectrometers (Tool type: Spectrometers)
+- Energy dispersive x-ray spectrometers EDS (Tool type: Spectrometers)
+- Environmental chambers (Tool type: Refrigerated and heated reach in environmental or growth chambers)
+- Fatigue testers (Tool type: Fatigue testers)
+- Field emission scanning electron microscopes FESEM (Tool type: Scanning electron microscopes)
+- Film extruders (Tool type: Extruders)
+- Flexure testers (Tool type: Flexure or transverse testing machines)
+- Flow coulometric detectors (Tool type: Coulometers)
+- Fluorescence spectrophotometers (Tool type: Spectrophotometers)
+- Focused ion beam FIB systems (Tool type: Semiconductor process systems)
+- Fourier transform infrared FTIR spectrometers (Tool type: Infrared spectrometers)
+- Goniometers or arthrometers (Tool type: Goniometers or arthrometers)
+- Graphics tablets (Tool type: Graphics tablets)
+- Hand calculators (Tool type: Pocket calculator)
+- Hardness testers (Tool type: Hardness testers)
+- High-precision balances (Tool type: Analytical balances)
+- Hipot testers (Tool type: Hipot testers)
+- Humidity ovens (Tool type: Laboratory mechanical convection ovens)
+- Impact testers (Tool type: Impact testers)
+- Inductance capacitance resistance LCR meters (Tool type: Capacitance meters)
+- Inert atmosphere glove boxes (Tool type: Isolation glove boxes)
+- Infrared cameras (Tool type: Infrared imagers)
+- Ion beam assisted deposition IBAD systems (Tool type: Semiconductor process systems)
+- Ion mills (Tool type: Semiconductor process systems)
+- Irradiance detectors (Tool type: Solar radiation surface observing apparatus)
+- Laboratory tube furnaces (Tool type: Tube furnaces)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Laser printers (Tool type: Laser printers)
+- Lasers (Tool type: Lasers)
+- Lifetime testers (Tool type: Semiconductor testers)
+- Liquid chromatographs LC (Tool type: Liquid chromatographs)
+- Load frames (Tool type: Load frame)
+- Mask aligners (Tool type: Semiconductor process systems)
+- Mass spectrometers (Tool type: Mass spectrometers)
+- Mechanical shakers (Tool type: Orbital shakers)
+- Meggers (Tool type: Megohmmeters)
+- Micromanipulators (Tool type: Semiconductor process systems)
+- Moisture analyzers (Tool type: Moisture meters)
+- Optical compound microscopes (Tool type: Binocular light compound microscopes)
+- Optical scanners (Tool type: Optical character recognition systems)
+- Permeation testers (Tool type: Multi gas monitors)
+- Personal computers (Tool type: Personal computers)
+- pH meters (Tool type: pH meters)
+- Phase angle meters (Tool type: Electrical frequency meters)
+- Photoluminescence spectrometers (Tool type: Spectrometers)
+- Photovoltaic array simulators (Tool type: Frequency calibrator or simulator)
+- Picoammeters (Tool type: Ammeters)
+- Plasma enhanced chemical vapor deposition PECVD systems (Tool type: Semiconductor process systems)
+- Plotters (Tool type: Plotter printers)
+- Polarographic analyzers (Tool type: Polarimeters)
+- Potentiostats (Tool type: Potentiometers)
+- Power quality meters (Tool type: Power meters)
+- Pull testers (Tool type: Fish tape)
+- Pyranometers (Tool type: Solar radiation surface observing apparatus)
+- Raman spectrometers (Tool type: Spectrometers)
+- Reactive power meters (Tool type: Power meters)
+- Recording ammeters (Tool type: Ammeters)
+- Reflectance spectrometers (Tool type: Spectrometers)
+- Rheometers (Tool type: Rheometers)
+- Scanning electron microscopes SEM (Tool type: Scanning electron microscopes)
+- Scanning probe microscopes SPM (Tool type: Scanning probe microscopes)
+- Shear testers (Tool type: Shear strength testers)
+- Solar simulators (Tool type: Ageing ovens)
+- Spectrocolorimeters (Tool type: Colorimeters)
+- Spectrophotometers (Tool type: Spectrophotometers)
+- Spectroscopic ellipsometers (Tool type: Thickness measuring devices)
+- Spin coaters (Tool type: Semiconductor process systems)
+- Sputtering systems (Tool type: Semiconductor process systems)
+- Strain gauges (Tool type: Strain gauges)
+- Surface profilometers (Tool type: Roughness measuring instruments)
+- Tensile testers (Tool type: Tension testers)
+- Thermal cyclers (Tool type: Temperature cycling chambers or thermal cyclers)
+- Thermocouples (Tool type: Thermocouples)
+- Thermogravimetric analyzers (Tool type: Thermo gravimetry analyzers)
+- Thermopiles (Tool type: Thermocouples)
+- Transmission electron microscopes TEM (Tool type: Transmission electron microscopes)
+- Ultrasonic cleaners (Tool type: Ultrasonic cleaning equipment)
+- Ultraviolet UV exposure units (Tool type: Infrared dryers)
+- Vacuum evaporators (Tool type: Laboratory evaporators)
+- Vacuum laminators (Tool type: Laminators)
+- Vacuum ovens (Tool type: Vacuum ovens)
+- Video cameras (Tool type: Hand held camcorders or video cameras)
+- Voltmeters (Tool type: Voltage or current meters)
+- X ray diffractometers (Tool type: X ray diffraction equipment)
+- X-ray photoelectron spectrometers (Tool type: Spectrometers)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Very serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Slightly automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Once a year or more but not every month
+- Exposed to Hazardous Conditions: Once a year or more but not every month
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Every day
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Once a year or more but not every month
+- Exposed to Very Hot or Cold Temperatures: Once a month or more but not every week
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: High responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Very important
+- Importance of Repeating Same Tasks: Fairly important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Every day
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Once a week or more but not every day
+- Indoors, Not Environmentally Controlled: Once a month or more but not every week
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Once a month or more but not every week
+- Outdoors, Under Cover: Once a month or more but not every week
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Once a year or more but not every month
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Less than half the time
+- Spend Time Keeping or Regaining Balance: Less than half the time
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Less than half the time
+- Spend Time Sitting: More than half the time
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Less than half the time
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Once a week or more but not every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Once a year or more but not every month
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Once a year or more but not every month
+- Work Outcomes and Results of Other Workers: High responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a week or more but not every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Investigative
+- Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Solar Sales Representatives and Assessors
+- Solar Energy Installation Managers
+- Solar Thermal Installers and Technicians
+- Energy Engineers, Except Wind and Solar
+- Wind Energy Engineers
+- Electrical Engineers
+- Wind Energy Development Managers
+- Energy Auditors
+- Mechanical Engineers
+- Electronics Engineers, Except Computer
+- Solar Photovoltaic Installers
+- Wind Turbine Service Technicians
+- Geothermal Production Managers
+- Hydroelectric Production Managers
+- Geothermal Technicians
+- Fuel Cell Engineers
+- Hydroelectric Plant Technicians
+- Water/Wastewater Engineers
+- Biofuels/Biodiesel Technology and Product Development Managers
+- Electrical and Electronic Engineering Technologists and Technicians

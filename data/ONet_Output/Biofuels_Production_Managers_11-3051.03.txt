@@ -1,0 +1,221 @@
+Job Title: Biofuels Production Managers
+O*NET-SOC Code: 11-3051.03
+
+# DESCRIPTION
+Manage biofuels production and plant operations. Collect and process information on plant production and performance, diagnose problems, and design corrective procedures.
+
+# TASKS
+- Supervise production employees in the manufacturing of biofuels, such as biodiesel or ethanol.
+- Manage operations at biofuels power generation facilities, including production, shipping, maintenance, or quality assurance activities.
+- Provide direction to employees to ensure compliance with biofuels plant safety, environmental, or operational standards and regulations.
+- Confer with technical and supervisory personnel to report or resolve conditions affecting biofuels plant safety, operational efficiency, and product quality.
+- Review logs, datasheets, or reports to ensure adequate production levels or to identify abnormalities with biofuels production equipment or processes.
+- Monitor meters, flow gauges, or other real-time data to ensure proper operation of biofuels production equipment, implementing corrective measures as needed.
+- Adjust temperature, pressure, vacuum, level, flow rate, or transfer of biofuels to maintain processes at required levels.
+- Provide training to subordinate or new employees to improve biofuels plant safety or increase the production of biofuels.
+- Shut down and restart biofuels plant or equipment in emergency situations or for equipment maintenance, repairs, or replacements.
+- Monitor transportation and storage of flammable or other potentially dangerous feedstocks or products to ensure adherence to safety guidelines.
+- Draw samples of biofuels products or secondary by-products for quality control testing.
+- Approve proposals for the acquisition, replacement, or repair of biofuels processing equipment or the implementation of new production processes.
+- Prepare and manage biofuels plant or unit budgets.
+- Conduct cost, material, and efficiency studies for biofuels production plants or operations.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Production and Processing (Importance: 4.73/5 | Level: 5.6/7)
+- Administration and Management (Importance: 4.08/5 | Level: 4.96/7)
+- Mechanical (Importance: 4.04/5 | Level: 5.41/7)
+- Chemistry (Importance: 3.68/5 | Level: 4.68/7)
+- Engineering and Technology (Importance: 3.68/5 | Level: 4.79/7)
+- Mathematics (Importance: 3.49/5 | Level: 4.46/7)
+- Computers and Electronics (Importance: 3.33/5 | Level: 3.96/7)
+- Personnel and Human Resources (Importance: 3.32/5 | Level: 3.99/7)
+- Physics (Importance: 3.28/5 | Level: 3.63/7)
+- Administrative (Importance: 3.26/5 | Level: 4.28/7)
+- Education and Training (Importance: 3.23/5 | Level: 4.47/7)
+- English Language (Importance: 3.23/5 | Level: 3.56/7)
+- Design (Importance: 3.19/5 | Level: 4.04/7)
+- Public Safety and Security (Importance: 3.13/5 | Level: 3.65/7)
+- Customer and Personal Service (Importance: 3.04/5 | Level: 4.03/7)
+- Economics and Accounting (Importance: 3.01/5 | Level: 2.98/7)
+- Biology (Importance: 2.98/5 | Level: 3.27/7)
+- Building and Construction (Importance: 2.82/5 | Level: 3.91/7)
+- Food Production (Importance: 2.71/5 | Level: 3.3/7)
+- Transportation (Importance: 2.66/5 | Level: 3.26/7)
+- Psychology (Importance: 2.65/5 | Level: 3.19/7)
+- Law and Government (Importance: 2.5/5 | Level: 2.77/7)
+- Sales and Marketing (Importance: 2.44/5 | Level: 2.81/7)
+- Geography (Importance: 2.09/5 | Level: 2.18/7)
+- Communications and Media (Importance: 1.98/5 | Level: 1.89/7)
+- Telecommunications (Importance: 1.81/5 | Level: 1.44/7)
+- Sociology and Anthropology (Importance: 1.8/5 | Level: 1.67/7)
+- Therapy and Counseling (Importance: 1.4/5 | Level: 1.08/7)
+- Medicine and Dentistry (Importance: 1.35/5 | Level: 0.64/7)
+- Philosophy and Theology (Importance: 1.33/5 | Level: 0.75/7)
+- Foreign Language (Importance: 1.26/5 | Level: 0.46/7)
+- History and Archeology (Importance: 1.25/5 | Level: 0.44/7)
+- Fine Arts (Importance: 1.03/5 | Level: 0.03/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Critical Thinking (Importance: 3.88/5 | Level: 3.88/7)
+- Reading Comprehension (Importance: 3.88/5 | Level: 4.0/7)
+- Management of Personnel Resources (Importance: 3.88/5 | Level: 3.62/7)
+- Monitoring (Importance: 3.75/5 | Level: 3.88/7)
+- Active Listening (Importance: 3.75/5 | Level: 3.88/7)
+- Coordination (Importance: 3.62/5 | Level: 4.0/7)
+- Speaking (Importance: 3.62/5 | Level: 4.0/7)
+- Writing (Importance: 3.5/5 | Level: 3.5/7)
+- Time Management (Importance: 3.5/5 | Level: 3.75/7)
+- Judgment and Decision Making (Importance: 3.5/5 | Level: 3.88/7)
+- Complex Problem Solving (Importance: 3.38/5 | Level: 3.75/7)
+- Social Perceptiveness (Importance: 3.38/5 | Level: 3.75/7)
+- Learning Strategies (Importance: 3.38/5 | Level: 3.5/7)
+- Systems Analysis (Importance: 3.25/5 | Level: 3.5/7)
+- Service Orientation (Importance: 3.25/5 | Level: 3.25/7)
+- Active Learning (Importance: 3.25/5 | Level: 3.62/7)
+- Instructing (Importance: 3.25/5 | Level: 3.62/7)
+- Operation and Control (Importance: 3.12/5 | Level: 3.38/7)
+- Persuasion (Importance: 3.12/5 | Level: 3.38/7)
+- Mathematics (Importance: 3.0/5 | Level: 3.25/7)
+- Systems Evaluation (Importance: 3.0/5 | Level: 3.38/7)
+- Management of Financial Resources (Importance: 3.0/5 | Level: 3.12/7)
+- Negotiation (Importance: 3.0/5 | Level: 3.25/7)
+- Operations Monitoring (Importance: 3.0/5 | Level: 3.5/7)
+- Science (Importance: 3.0/5 | Level: 3.5/7)
+- Management of Material Resources (Importance: 2.75/5 | Level: 3.0/7)
+- Quality Control Analysis (Importance: 2.62/5 | Level: 3.12/7)
+- Troubleshooting (Importance: 2.25/5 | Level: 2.0/7)
+- Programming (Importance: 2.12/5 | Level: 1.62/7)
+- Operations Analysis (Importance: 2.12/5 | Level: 2.0/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.5/7)
+- Equipment Maintenance (Importance: 1.5/5 | Level: 0.75/7)
+- Equipment Selection (Importance: 1.25/5 | Level: 0.38/7)
+- Repairing (Importance: 1.12/5 | Level: 0.12/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adobe Acrobat (Tech skill type: Document management software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Computerized maintenance management system CMMS (Tech skill type: Facilities management software)
+- Distributed control system DCS (Tech skill type: Industrial control software)
+- Employee scheduling software (Tech skill type: Calendar and scheduling software)
+- Human machine interface HMI software (Tech skill type: Industrial control software)
+- Inventory control software (Tech skill type: Inventory management software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Air monitoring equipment (Tool type: Air samplers or collectors)
+- Ball valves (Tool type: Ball valves)
+- Belt conveyor systems (Tool type: Belt conveyors)
+- Desktop computers (Tool type: Desktop computers)
+- Dust and particulate respirators (Tool type: Respirators)
+- Electric timing devices (Tool type: Clock timers)
+- Emergency alarm systems (Tool type: Alarm systems)
+- Fermentation processing vessels (Tool type: Standard fermentation units)
+- Flow control valves FCV (Tool type: Control valves)
+- Forklifts (Tool type: Forklifts)
+- Gate butterfly valves (Tool type: Gate valves)
+- Glass graduated cylinders (Tool type: Laboratory graduated cylinders)
+- Gravity convection ovens (Tool type: Laboratory mechanical convection ovens)
+- Hand sampling pumps (Tool type: Hand pumps)
+- Hazardous material spill kits (Tool type: Spill kits)
+- Mobile radios (Tool type: Two way radios)
+- Moisture analyzers (Tool type: Moisture meters)
+- Mole sieves (Tool type: Test sieves)
+- Personal computers (Tool type: Personal computers)
+- pH probes (Tool type: pH meters)
+- Reaction flasks (Tool type: Laboratory flasks)
+- Sample ports (Tool type: Plant samples analysis equipment)
+- Self-contained breathing apparatus (Tool type: Respiration air supplying self contained breathing apparatus or accessories)
+- Stop valves (Tool type: Globe valves)
+- Throttle control valves TCV (Tool type: Control valves)
+
+# WORK CONTEXT
+- Conflict Situations: Once a month or more but not every week
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Extremely important
+- Deal With External Customers or the Public in General: Very important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a month or more but not every week
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Highly automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Once a week or more but not every day
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Once a month or more but not every week
+- Exposed to Hazardous Conditions: Every day
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Once a month or more but not every week
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Once a week or more but not every day
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Very important
+- Importance of Repeating Same Tasks: Extremely important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Once a month or more but not every week
+- In an Open Vehicle or Operating Equipment: Once a month or more but not every week
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Every day
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Once a week or more but not every day
+- Outdoors, Under Cover: Once a week or more but not every day
+- Pace Determined by Speed of Equipment: Extremely important
+- Physical Proximity: Slightly close (e.g., shared office)
+- Public Speaking: Once a year or more but not every month
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Less than half the time
+- Spend Time Keeping or Regaining Balance: Less than half the time
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Less than half the time
+- Spend Time Sitting: About half the time
+- Spend Time Standing: About half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Less than half the time
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Once a week or more but not every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Once a year or more but not every month
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a week or more but not every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Enterprising
+- Secondary Interest: Conventional
+- Tertiary Interest: Realistic
+
+# RELATED OCCUPATIONS
+- Biofuels Processing Technicians
+- Biofuels/Biodiesel Technology and Product Development Managers
+- Biomass Power Plant Managers
+- Geothermal Production Managers
+- Biomass Plant Technicians
+- Hydroelectric Production Managers
+- Power Plant Operators
+- Industrial Production Managers
+- Chemical Engineers
+- Manufacturing Engineers
+- Petroleum Pump System Operators, Refinery Operators, and Gaugers
+- Gas Plant Operators
+- Chemical Plant and System Operators
+- Hydroelectric Plant Technicians
+- Wind Energy Development Managers
+- Water and Wastewater Treatment Plant and System Operators
+- Energy Engineers, Except Wind and Solar
+- Wind Energy Operations Managers
+- Agricultural Engineers
+- Industrial Engineers

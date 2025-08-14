@@ -1,0 +1,272 @@
+Job Title: Biofuels Processing Technicians
+O*NET-SOC Code: 51-8099.01
+
+# DESCRIPTION
+Calculate, measure, load, mix, and process refined feedstock with additives in fermentation or reaction process vessels and monitor production process. Perform, and keep records of, plant maintenance, repairs, and safety inspections.
+
+# TASKS
+- Monitor batch, continuous flow, or hybrid biofuels production processes.
+- Operate valves, pumps, engines, or generators to control and adjust biofuels production.
+- Monitor and record biofuels processing data.
+- Collect biofuels samples and perform routine laboratory tests or analyses to assess biofuels quality.
+- Operate equipment, such as a centrifuge, to extract biofuels products and secondary by-products or reusable fractions.
+- Process refined feedstock with additives in fermentation or reaction process vessels.
+- Operate chemical processing equipment for the production of biofuels.
+- Monitor and record flow meter performance.
+- Inspect biofuels plant or processing equipment regularly, recording or reporting damage and mechanical problems.
+- Measure and monitor raw biofuels feedstock.
+- Preprocess feedstock in preparation for physical, chemical, or biological fuel production processes.
+- Calculate, measure, load, or mix refined feedstock used in biofuels production.
+- Monitor stored biofuels products or secondary by-products until reused or transferred to users.
+- Assess the quality of biofuels additives for reprocessing.
+- Clean biofuels processing work area, ensuring compliance with safety regulations.
+- Perform routine maintenance on mechanical, electrical, or electronic equipment or instruments used in the processing of biofuels.
+- Calibrate liquid flow devices and meters, including fuel, chemical, and water meters.
+- Rebuild, repair, or replace biofuels processing equipment components.
+- Coordinate raw product sourcing or collection.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Production and Processing (Importance: 3.96/5 | Level: 4.15/7)
+- Mechanical (Importance: 3.53/5 | Level: 4.37/7)
+- English Language (Importance: 3.42/5 | Level: 3.17/7)
+- Public Safety and Security (Importance: 3.39/5 | Level: 3.18/7)
+- Chemistry (Importance: 3.21/5 | Level: 4.29/7)
+- Computers and Electronics (Importance: 3.18/5 | Level: 3.53/7)
+- Education and Training (Importance: 2.85/5 | Level: 2.93/7)
+- Mathematics (Importance: 2.78/5 | Level: 3.11/7)
+- Engineering and Technology (Importance: 2.78/5 | Level: 3.38/7)
+- Transportation (Importance: 2.7/5 | Level: 2.78/7)
+- Physics (Importance: 2.68/5 | Level: 3.15/7)
+- Building and Construction (Importance: 2.49/5 | Level: 2.92/7)
+- Administration and Management (Importance: 2.47/5 | Level: 2.35/7)
+- Administrative (Importance: 2.45/5 | Level: 2.1/7)
+- Biology (Importance: 2.42/5 | Level: 2.1/7)
+- Customer and Personal Service (Importance: 2.39/5 | Level: 2.16/7)
+- Law and Government (Importance: 2.24/5 | Level: 2.0/7)
+- Design (Importance: 2.2/5 | Level: 2.2/7)
+- Telecommunications (Importance: 2.17/5 | Level: 1.44/7)
+- Communications and Media (Importance: 2.16/5 | Level: 1.73/7)
+- Personnel and Human Resources (Importance: 2.14/5 | Level: 1.34/7)
+- Food Production (Importance: 2.04/5 | Level: 1.48/7)
+- Sales and Marketing (Importance: 1.78/5 | Level: 1.03/7)
+- Economics and Accounting (Importance: 1.67/5 | Level: 0.95/7)
+- Psychology (Importance: 1.64/5 | Level: 1.1/7)
+- Geography (Importance: 1.57/5 | Level: 1.08/7)
+- Medicine and Dentistry (Importance: 1.47/5 | Level: 0.77/7)
+- Therapy and Counseling (Importance: 1.35/5 | Level: 0.42/7)
+- Philosophy and Theology (Importance: 1.31/5 | Level: 0.42/7)
+- Foreign Language (Importance: 1.21/5 | Level: 0.34/7)
+- Sociology and Anthropology (Importance: 1.14/5 | Level: 0.28/7)
+- History and Archeology (Importance: 1.12/5 | Level: 0.3/7)
+- Fine Arts (Importance: 1.05/5 | Level: 0.1/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operations Monitoring (Importance: 3.88/5 | Level: 3.75/7)
+- Operation and Control (Importance: 3.75/5 | Level: 3.5/7)
+- Reading Comprehension (Importance: 3.5/5 | Level: 3.75/7)
+- Monitoring (Importance: 3.38/5 | Level: 3.25/7)
+- Quality Control Analysis (Importance: 3.38/5 | Level: 3.38/7)
+- Speaking (Importance: 3.25/5 | Level: 3.5/7)
+- Equipment Maintenance (Importance: 3.25/5 | Level: 3.38/7)
+- Active Listening (Importance: 3.25/5 | Level: 3.38/7)
+- Social Perceptiveness (Importance: 3.12/5 | Level: 3.12/7)
+- Writing (Importance: 3.12/5 | Level: 3.0/7)
+- Coordination (Importance: 3.12/5 | Level: 3.12/7)
+- Critical Thinking (Importance: 3.12/5 | Level: 3.12/7)
+- Service Orientation (Importance: 3.0/5 | Level: 2.75/7)
+- Troubleshooting (Importance: 3.0/5 | Level: 3.25/7)
+- Instructing (Importance: 3.0/5 | Level: 3.0/7)
+- Repairing (Importance: 3.0/5 | Level: 3.12/7)
+- Active Learning (Importance: 2.88/5 | Level: 2.75/7)
+- Time Management (Importance: 2.88/5 | Level: 3.0/7)
+- Mathematics (Importance: 2.88/5 | Level: 2.88/7)
+- Judgment and Decision Making (Importance: 2.88/5 | Level: 3.25/7)
+- Negotiation (Importance: 2.88/5 | Level: 2.62/7)
+- Systems Evaluation (Importance: 2.88/5 | Level: 2.75/7)
+- Systems Analysis (Importance: 2.88/5 | Level: 2.88/7)
+- Persuasion (Importance: 2.88/5 | Level: 2.5/7)
+- Complex Problem Solving (Importance: 2.88/5 | Level: 3.0/7)
+- Science (Importance: 2.88/5 | Level: 2.5/7)
+- Learning Strategies (Importance: 2.5/5 | Level: 2.75/7)
+- Management of Personnel Resources (Importance: 2.5/5 | Level: 2.38/7)
+- Equipment Selection (Importance: 2.5/5 | Level: 2.25/7)
+- Management of Material Resources (Importance: 2.25/5 | Level: 2.0/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 1.38/7)
+- Programming (Importance: 1.62/5 | Level: 1.0/7)
+- Installation (Importance: 1.5/5 | Level: 0.88/7)
+- Technology Design (Importance: 1.5/5 | Level: 0.75/7)
+- Operations Analysis (Importance: 1.12/5 | Level: 0.25/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Computerized maintenance management system CMMS (Tech skill type: Facilities management software)
+- Data visualization software (Tech skill type: Analytical or scientific software)
+- Digital control systems DCS (Tech skill type: Industrial control software)
+- Enterprise resource planning ERP software (Tech skill type: Enterprise resource planning ERP software)
+- Human machine interface HMI software (Tech skill type: Industrial control software)
+- Inventory control software (Tech skill type: Inventory management software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Python (Tech skill type: Object or component oriented development software)
+- R (Tech skill type: Object or component oriented development software)
+- SAS (Tech skill type: Analytical or scientific software)
+- Tableau (Tech skill type: Business intelligence and data analysis software)
+
+## TOOLS USED
+- Adjustable hand wrenches (Tool type: Adjustable wrenches)
+- Adjustable widemouth pliers (Tool type: Adjustable widemouth pliers)
+- Agitators (Tool type: Laboratory mixers)
+- Air compressors (Tool type: Air compressors)
+- Air monitoring equipment (Tool type: Air samplers or collectors)
+- Autotitrators (Tool type: Titration equipment)
+- Ball valves (Tool type: Ball valves)
+- Belt conveyor systems (Tool type: Belt conveyors)
+- Belt filters (Tool type: Filtering machinery)
+- Benchtop centrifuges (Tool type: Benchtop centrifuges)
+- Binocular light compound microscopes (Tool type: Binocular light compound microscopes)
+- Chain hoists (Tool type: Hoists)
+- Cooling towers (Tool type: Evaporative coolers)
+- Crusher screens (Tool type: Laboratory crushers or pulverizers)
+- Demineralizers (Tool type: Deionization or demineralization equipment)
+- Desktop computers (Tool type: Desktop computers)
+- Digital hydrometers (Tool type: Hydrometers)
+- Distillation columns (Tool type: Distillation pipings or columns or fittings)
+- Dust and particulate respirators (Tool type: Respirators)
+- Electric timing devices (Tool type: Clock timers)
+- Emergency alarm systems (Tool type: Alarm systems)
+- Emissions monitoring systems (Tool type: Air samplers or collectors)
+- Fall protection harnesses (Tool type: Safety harnesses or belts)
+- Fermentation processing vessels (Tool type: Standard fermentation units)
+- Flow control valves FCV (Tool type: Control valves)
+- Flow transmitters (Tool type: Flow transmitters)
+- Forklifts (Tool type: Forklifts)
+- Gas chromatographs GC (Tool type: Gas chromatographs)
+- Gate butterfly valves (Tool type: Gate valves)
+- Glass graduated cylinders (Tool type: Laboratory graduated cylinders)
+- Gravity convection ovens (Tool type: Laboratory mechanical convection ovens)
+- Halogen moisture balances (Tool type: Moisture balances)
+- Hand sampling pumps (Tool type: Hand pumps)
+- Hazardous material spill kits (Tool type: Spill kits)
+- Heat exchangers (Tool type: Heat exchangers)
+- High pressure liquid chromatograph HPLC equipment (Tool type: High pressure liquid chromatograph chromatography)
+- High vacuum evaporation systems (Tool type: Laboratory evaporators)
+- Infrared temperature guns (Tool type: Infrared imagers)
+- Level transmitters (Tool type: Level sensors or transmitters)
+- Materials dryers (Tool type: Air dryers)
+- Methanators (Tool type: Digestion systems)
+- Milling equipment (Tool type: Grinding mills)
+- Mobile radios (Tool type: Two way radios)
+- Moisture analyzers (Tool type: Moisture meters)
+- Mole sieves (Tool type: Test sieves)
+- Pallet jacks (Tool type: Pallet trucks)
+- Personal computers (Tool type: Personal computers)
+- pH probes (Tool type: pH meters)
+- Phillips head screwdrivers (Tool type: Screwdrivers)
+- Pneumatic conveyor systems (Tool type: Air conveyors)
+- Portable refractometers (Tool type: Handheld refractometers or polarimeters)
+- Pressure gauges (Tool type: Pressure transmitters)
+- Protective ear plugs (Tool type: Ear plugs)
+- Reaction flasks (Tool type: Laboratory flasks)
+- Reverse osmosis equipment (Tool type: Reverse osmosis equipment)
+- Safety gloves (Tool type: Protective gloves)
+- Sample ports (Tool type: Plant samples analysis equipment)
+- Self-contained breathing apparatus (Tool type: Respiration air supplying self contained breathing apparatus or accessories)
+- Sifting screens (Tool type: Laboratory sifting equipment)
+- Skid steer loaders (Tool type: Skid steer loaders)
+- Static mixers (Tool type: Mixers or agitators)
+- Steam boilers (Tool type: Water tube boiler)
+- Stop valves (Tool type: Globe valves)
+- Straight screwdrivers (Tool type: Screwdrivers)
+- Stripper columns (Tool type: Distillation pipings or columns or fittings)
+- Temperature sensors (Tool type: Temperature transmitters)
+- Throttle control valves TCV (Tool type: Control valves)
+- Titrators (Tool type: Titration equipment)
+- Vacuum systems (Tool type: Vacuum or mercury vapour equipment)
+- Viscosity meters (Tool type: Viscosimeters)
+- Water samplers (Tool type: Water samplers)
+- Wheeled front end loaders (Tool type: Front end loaders)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Important
+- Deal With External Customers or the Public in General: Important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a month or more but not every week
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Highly automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Once a month or more but not every week
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Every day
+- Exposed to Hazardous Conditions: Every day
+- Exposed to Hazardous Equipment: Every day
+- Exposed to High Places: Once a week or more but not every day
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Once a year or more but not every month
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Every day
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Very important
+- Importance of Repeating Same Tasks: Extremely important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Once a month or more but not every week
+- In an Open Vehicle or Operating Equipment: Once a week or more but not every day
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Every day
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Every day
+- Outdoors, Under Cover: Every day
+- Pace Determined by Speed of Equipment: Extremely important
+- Physical Proximity: Slightly close (e.g., shared office)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Less than half the time
+- Spend Time Keeping or Regaining Balance: Less than half the time
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Less than half the time
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: About half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: More than half the time
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Once a year or more but not every month
+- Work Outcomes and Results of Other Workers: Limited responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Biomass Plant Technicians
+- Power Plant Operators
+- Petroleum Pump System Operators, Refinery Operators, and Gaugers
+- Chemical Plant and System Operators
+- Gas Plant Operators
+- Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders
+- Water and Wastewater Treatment Plant and System Operators
+- Chemical Equipment Operators and Tenders
+- Hydroelectric Plant Technicians
+- Geothermal Technicians
+- Biofuels Production Managers
+- Biofuels/Biodiesel Technology and Product Development Managers
+- Biomass Power Plant Managers
+- Chemical Engineers
+- Geothermal Production Managers
+- Wellhead Pumpers
+- Gas Compressor and Gas Pumping Station Operators
+- Industrial Engineering Technologists and Technicians
+- Stationary Engineers and Boiler Operators
+- Manufacturing Engineers

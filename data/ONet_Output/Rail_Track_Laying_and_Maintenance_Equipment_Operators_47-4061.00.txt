@@ -1,0 +1,249 @@
+Job Title: Rail-Track Laying and Maintenance Equipment Operators
+O*NET-SOC Code: 47-4061.00
+
+# DESCRIPTION
+Lay, repair, and maintain track for standard or narrow-gauge railroad equipment used in regular railroad service or in plant yards, quarries, sand and gravel pits, and mines. Includes ballast cleaning machine operators and railroad bed tamping machine operators.
+
+# TASKS
+- Patrol assigned track sections so that damaged or broken track can be located and reported.
+- Repair or adjust track switches, using wrenches and replacement parts.
+- Weld sections of track together, such as switch points and frogs.
+- Observe leveling indicator arms to verify levelness and alignment of tracks.
+- Operate single- or multiple-head spike driving machines to drive spikes into ties and secure rails.
+- Operate track wrenches to tighten or loosen bolts at joints that hold ends of rails together.
+- Cut rails to specified lengths, using rail saws.
+- Lubricate machines, change oil, or fill hydraulic reservoirs to specified levels.
+- Drill holes through rails, tie plates, or fishplates for insertion of bolts or spikes, using power drills.
+- Clean tracks or clear ice or snow from tracks or switch boxes.
+- Clean, grade, or level ballast on railroad tracks.
+- Raise rails, using hydraulic jacks, to allow for tie removal and replacement.
+- Adjust controls of machines that spread, shape, raise, level, or align track, according to specifications.
+- Dress and reshape worn or damaged railroad switch points or frogs, using portable power grinders.
+- Clean or make minor repairs to machines or equipment.
+- Grind ends of new or worn rails to attain smooth joints, using portable grinders.
+- Operate single- or multiple-head spike pullers to pull old spikes from ties.
+- String and attach wire-guidelines machine to rails so that tracks or rails can be aligned or leveled.
+- Engage mechanisms that lay tracks or rails to specified gauges.
+- Drive graders, tamping machines, brooms, or ballast spreading machines to redistribute gravel or ballast between rails.
+- Drive vehicles that automatically move and lay tracks or rails over sections of track to be constructed, repaired, or maintained.
+- Turn wheels of machines, using lever controls, to adjust guidelines for track alignments or grades, following specifications.
+- Push controls to close grasping devices on track or rail sections so that they can be raised or moved.
+- Operate tie-adzing machines to cut ties and permit insertion of fishplates that hold rails.
+- Paint railroad signs, such as speed limits or gate-crossing warnings.
+- Spray ties, fishplates, or joints with oil to protect them from weathering.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Transportation (Importance: 3.66/5 | Level: 3.29/7)
+- Mechanical (Importance: 3.65/5 | Level: 4.31/7)
+- Building and Construction (Importance: 3.51/5 | Level: 4.45/7)
+- Public Safety and Security (Importance: 3.25/5 | Level: 3.03/7)
+- Administration and Management (Importance: 3.04/5 | Level: 2.85/7)
+- Engineering and Technology (Importance: 2.99/5 | Level: 3.68/7)
+- Mathematics (Importance: 2.94/5 | Level: 3.28/7)
+- Education and Training (Importance: 2.92/5 | Level: 2.92/7)
+- Production and Processing (Importance: 2.86/5 | Level: 2.79/7)
+- Customer and Personal Service (Importance: 2.82/5 | Level: 2.96/7)
+- English Language (Importance: 2.64/5 | Level: 2.16/7)
+- Physics (Importance: 2.58/5 | Level: 2.84/7)
+- Design (Importance: 2.55/5 | Level: 2.51/7)
+- Administrative (Importance: 2.55/5 | Level: 1.78/7)
+- Personnel and Human Resources (Importance: 2.46/5 | Level: 1.85/7)
+- Law and Government (Importance: 2.45/5 | Level: 1.61/7)
+- Telecommunications (Importance: 2.39/5 | Level: 1.76/7)
+- Geography (Importance: 2.3/5 | Level: 2.3/7)
+- Chemistry (Importance: 2.27/5 | Level: 2.24/7)
+- Psychology (Importance: 2.14/5 | Level: 1.73/7)
+- Sales and Marketing (Importance: 2.09/5 | Level: 1.37/7)
+- Computers and Electronics (Importance: 2.08/5 | Level: 1.52/7)
+- Economics and Accounting (Importance: 1.99/5 | Level: 1.47/7)
+- Communications and Media (Importance: 1.83/5 | Level: 1.24/7)
+- Biology (Importance: 1.74/5 | Level: 1.1/7)
+- Medicine and Dentistry (Importance: 1.68/5 | Level: 0.88/7)
+- Sociology and Anthropology (Importance: 1.62/5 | Level: 0.68/7)
+- Foreign Language (Importance: 1.57/5 | Level: 0.8/7)
+- History and Archeology (Importance: 1.53/5 | Level: 0.57/7)
+- Food Production (Importance: 1.48/5 | Level: 0.36/7)
+- Therapy and Counseling (Importance: 1.48/5 | Level: 1.04/7)
+- Philosophy and Theology (Importance: 1.45/5 | Level: 0.65/7)
+- Fine Arts (Importance: 1.28/5 | Level: 0.35/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operation and Control (Importance: 3.75/5 | Level: 3.12/7)
+- Operations Monitoring (Importance: 3.75/5 | Level: 3.25/7)
+- Equipment Maintenance (Importance: 3.25/5 | Level: 3.0/7)
+- Troubleshooting (Importance: 3.25/5 | Level: 3.0/7)
+- Monitoring (Importance: 3.12/5 | Level: 2.88/7)
+- Coordination (Importance: 3.12/5 | Level: 3.12/7)
+- Critical Thinking (Importance: 3.12/5 | Level: 3.0/7)
+- Repairing (Importance: 3.12/5 | Level: 3.0/7)
+- Quality Control Analysis (Importance: 3.12/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 2.75/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 2.75/7)
+- Active Listening (Importance: 3.0/5 | Level: 2.75/7)
+- Complex Problem Solving (Importance: 2.88/5 | Level: 2.38/7)
+- Speaking (Importance: 2.88/5 | Level: 2.25/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 2.0/7)
+- Active Learning (Importance: 2.62/5 | Level: 2.38/7)
+- Equipment Selection (Importance: 2.62/5 | Level: 2.25/7)
+- Learning Strategies (Importance: 2.5/5 | Level: 2.25/7)
+- Management of Personnel Resources (Importance: 2.5/5 | Level: 2.12/7)
+- Reading Comprehension (Importance: 2.38/5 | Level: 2.25/7)
+- Instructing (Importance: 2.38/5 | Level: 2.62/7)
+- Writing (Importance: 2.25/5 | Level: 2.12/7)
+- Mathematics (Importance: 2.25/5 | Level: 2.0/7)
+- Service Orientation (Importance: 2.25/5 | Level: 1.88/7)
+- Persuasion (Importance: 2.12/5 | Level: 1.88/7)
+- Systems Evaluation (Importance: 2.12/5 | Level: 2.0/7)
+- Systems Analysis (Importance: 2.12/5 | Level: 2.12/7)
+- Negotiation (Importance: 1.88/5 | Level: 1.75/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.0/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 0.75/7)
+- Technology Design (Importance: 1.75/5 | Level: 0.75/7)
+- Operations Analysis (Importance: 1.75/5 | Level: 0.75/7)
+- Installation (Importance: 1.5/5 | Level: 0.5/7)
+- Science (Importance: 1.25/5 | Level: 0.25/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Enterprise resource planning ERP software (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Timekeeping software (Tech skill type: Time accounting software)
+
+## TOOLS USED
+- Adjustable hand wrenches (Tool type: Adjustable wrenches)
+- Air drills (Tool type: Pneumatic drill)
+- Air purifying respirators (Tool type: Respirators)
+- Air-powered wrenches (Tool type: Pneumatic impact wrenches)
+- Backhoes (Tool type: Backhoes)
+- Claw bars (Tool type: Pry bars)
+- Crowbars (Tool type: Pry bars)
+- Dollies (Tool type: Dollies)
+- Dump trucks (Tool type: Dump trucks)
+- Fall protection harnesses (Tool type: Safety harnesses or belts)
+- Forklifts (Tool type: Forklifts)
+- Gas-powered wrenches (Tool type: Impact wrenches)
+- Global positioning system GPS receivers (Tool type: Global positioning system GPS receiver)
+- Grading equipment (Tool type: Graders)
+- Grease guns (Tool type: Grease guns)
+- Handheld computers (Tool type: Portable data input terminals)
+- Hard hats (Tool type: Hard hats)
+- Hi-rail vehicles (Tool type: All terrain vehicles tracked or wheeled)
+- Hydraulic jacks (Tool type: Jacks)
+- Jackhammers (Tool type: Pneumatic hammer)
+- Laptop computers (Tool type: Notebook computers)
+- Light pickup trucks (Tool type: Light trucks or sport utility vehicles)
+- Oxyacetylene torches (Tool type: Blow torch)
+- Pesticide sprayers (Tool type: Sprayers)
+- Picks (Tool type: Picks)
+- Pneumatic hammers (Tool type: Pneumatic hammer)
+- Portable track loading fixtures (Tool type: Force or torque sensors)
+- Power grinders (Tool type: Power grinders)
+- Power washers (Tool type: Pressure or steam cleaners)
+- Precision files (Tool type: Precision file)
+- Precision tape measures (Tool type: Measuring tapes)
+- Protective ear plugs (Tool type: Ear plugs)
+- Rail benders (Tool type: Pipe bending tools)
+- Rail drills (Tool type: Power drills)
+- Rail profile grinders (Tool type: Power grinders)
+- Rail saws (Tool type: Power saws)
+- Rail tongs (Tool type: Below the hook device)
+- Rail-mounted cranes (Tool type: Bridge cranes)
+- Safety glasses (Tool type: Safety glasses)
+- Safety gloves (Tool type: Protective gloves)
+- Shielded arc welding tools (Tool type: Shielded metal arc welding or stick welding machine)
+- Shovels (Tool type: Shovels)
+- Spike pullers (Tool type: Pullers)
+- Tamping machines (Tool type: Tampers)
+- Track chisels (Tool type: Cold chisels)
+- Track-wrench machines (Tool type: Impact wrenches)
+- Tracked bulldozers (Tool type: Track bulldozers)
+- Vernier calipers (Tool type: Calipers)
+- Weed cutters (Tool type: Hedge clippers)
+- Welders (Tool type: Spot welding machine)
+
+# WORK CONTEXT
+- Conflict Situations: Once a month or more but not every week
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Extremely important
+- Deal With External Customers or the Public in General: Fairly important
+- Dealing With Unpleasant, Angry, or Discourteous People: Never
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Never
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Every day
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Every day
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Every day
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Every day
+- Exposed to Whole Body Vibration: Once a month or more but not every week
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Every day
+- In an Open Vehicle or Operating Equipment: Once a week or more but not every day
+- Indoors, Environmentally Controlled: Never
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Every day
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Very important
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Continually or almost continually
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Less than half the time
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: More than half the time
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: More than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: About half the time
+- Telephone Conversations: Every day
+- Time Pressure: Once a week or more but not every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Once a year or more but not every month
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Paving, Surfacing, and Tamping Equipment Operators
+- Operating Engineers and Other Construction Equipment Operators
+- Millwrights
+- Pile Driver Operators
+- Excavating and Loading Machine and Dragline Operators, Surface Mining
+- Rail Car Repairers
+- Mobile Heavy Equipment Mechanics, Except Engines
+- Construction Laborers
+- Hoist and Winch Operators
+- Earth Drillers, Except Oil and Gas
+- Highway Maintenance Workers
+- Continuous Mining Machine Operators
+- Roustabouts, Oil and Gas
+- Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+- Riggers
+- Electric Motor, Power Tool, and Related Repairers
+- Electrical Power-Line Installers and Repairers
+- Rotary Drill Operators, Oil and Gas
+- Industrial Truck and Tractor Operators
+- Grinding and Polishing Workers, Hand

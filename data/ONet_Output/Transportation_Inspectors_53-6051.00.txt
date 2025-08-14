@@ -1,0 +1,162 @@
+Job Title: Transportation Inspectors
+O*NET-SOC Code: 53-6051.00
+
+# DESCRIPTION
+Inspect equipment or goods in connection with the safe transport of cargo or people. Includes rail transportation inspectors, such as freight inspectors, rail inspectors, and other inspectors of transportation vehicles not elsewhere classified.
+
+# TASKS
+- Prepare and submit reports after completion of freight shipments.
+- Inspect shipments to ensure that freight is securely braced and blocked.
+- Record details about freight conditions, handling of freight, and any problems encountered.
+- Advise crews in techniques of stowing dangerous and heavy cargo.
+- Observe loading of freight to ensure that crews comply with procedures.
+- Recommend remedial procedures to correct any violations found during inspections.
+- Inspect loaded cargo, cargo lashed to decks or in storage facilities, and cargo handling devices to determine compliance with health and safety regulations and need for maintenance.
+- Notify workers of any special treatment required for shipments.
+- Direct crews to reload freight or to insert additional bracing or packing as necessary.
+- Check temperatures and humidities of shipping and storage areas to ensure that they are at appropriate levels to protect cargo.
+- Determine cargo transportation capabilities by reading documents that set forth cargo loading and securing procedures, capacities, and stability factors.
+- Read draft markings to determine depths of vessels in water.
+- Post warning signs on vehicles containing explosives or flammable or radioactive materials.
+- Measure heights and widths of loads to ensure they will pass over bridges or through tunnels on scheduled routes.
+- Calculate gross and net tonnage, hold capacities, volumes of stored fuel and water, cargo weights, and vessel stability factors, using mathematical formulas.
+- Measure vessels' holds and depths of fuel and water in tanks, using sounding lines and tape measures.
+- Visually inspect cargo for damage upon arrival or discharge.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Transportation (Importance: 3.91/5 | Level: 4.04/7)
+- English Language (Importance: 3.84/5 | Level: 4.3/7)
+- Customer and Personal Service (Importance: 3.52/5 | Level: 4.33/7)
+- Mathematics (Importance: 3.21/5 | Level: 3.94/7)
+- Public Safety and Security (Importance: 3.18/5 | Level: 3.78/7)
+- Administration and Management (Importance: 3.05/5 | Level: 3.57/7)
+- Mechanical (Importance: 3.02/5 | Level: 3.32/7)
+- Law and Government (Importance: 3.02/5 | Level: 2.98/7)
+- Engineering and Technology (Importance: 2.75/5 | Level: 3.48/7)
+- Computers and Electronics (Importance: 2.7/5 | Level: 3.42/7)
+- Telecommunications (Importance: 2.69/5 | Level: 2.01/7)
+- Education and Training (Importance: 2.65/5 | Level: 3.24/7)
+- Production and Processing (Importance: 2.63/5 | Level: 3.04/7)
+- Administrative (Importance: 2.52/5 | Level: 3.19/7)
+- Geography (Importance: 2.4/5 | Level: 2.72/7)
+- Chemistry (Importance: 2.38/5 | Level: 2.43/7)
+- Sales and Marketing (Importance: 2.37/5 | Level: 2.33/7)
+- Physics (Importance: 2.33/5 | Level: 2.88/7)
+- Economics and Accounting (Importance: 2.31/5 | Level: 2.18/7)
+- Communications and Media (Importance: 2.23/5 | Level: 2.06/7)
+- Personnel and Human Resources (Importance: 2.21/5 | Level: 2.44/7)
+- Design (Importance: 2.03/5 | Level: 2.19/7)
+- Building and Construction (Importance: 1.94/5 | Level: 1.8/7)
+- Biology (Importance: 1.75/5 | Level: 1.31/7)
+- Foreign Language (Importance: 1.68/5 | Level: 1.56/7)
+- Food Production (Importance: 1.66/5 | Level: 1.56/7)
+- Psychology (Importance: 1.45/5 | Level: 1.41/7)
+- Sociology and Anthropology (Importance: 1.38/5 | Level: 0.65/7)
+- History and Archeology (Importance: 1.17/5 | Level: 0.37/7)
+- Philosophy and Theology (Importance: 1.11/5 | Level: 0.18/7)
+- Fine Arts (Importance: 1.04/5 | Level: 0.09/7)
+- Medicine and Dentistry (Importance: 1.02/5 | Level: 0.04/7)
+- Therapy and Counseling (Importance: 1.02/5 | Level: 0.04/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Writing (Importance: 3.62/5 | Level: 3.5/7)
+- Critical Thinking (Importance: 3.62/5 | Level: 3.5/7)
+- Speaking (Importance: 3.62/5 | Level: 3.5/7)
+- Reading Comprehension (Importance: 3.62/5 | Level: 3.62/7)
+- Active Listening (Importance: 3.5/5 | Level: 3.5/7)
+- Monitoring (Importance: 3.38/5 | Level: 3.38/7)
+- Time Management (Importance: 3.38/5 | Level: 3.12/7)
+- Judgment and Decision Making (Importance: 3.25/5 | Level: 3.25/7)
+- Complex Problem Solving (Importance: 3.12/5 | Level: 3.25/7)
+- Coordination (Importance: 3.12/5 | Level: 3.12/7)
+- Social Perceptiveness (Importance: 3.12/5 | Level: 3.0/7)
+- Systems Evaluation (Importance: 3.0/5 | Level: 2.88/7)
+- Systems Analysis (Importance: 2.88/5 | Level: 2.75/7)
+- Quality Control Analysis (Importance: 2.75/5 | Level: 2.5/7)
+- Operations Monitoring (Importance: 2.75/5 | Level: 2.62/7)
+- Active Learning (Importance: 2.75/5 | Level: 2.75/7)
+- Management of Personnel Resources (Importance: 2.75/5 | Level: 3.0/7)
+- Instructing (Importance: 2.75/5 | Level: 2.62/7)
+- Mathematics (Importance: 2.62/5 | Level: 2.62/7)
+- Persuasion (Importance: 2.62/5 | Level: 2.62/7)
+- Learning Strategies (Importance: 2.62/5 | Level: 2.62/7)
+- Service Orientation (Importance: 2.62/5 | Level: 2.88/7)
+- Negotiation (Importance: 2.5/5 | Level: 2.38/7)
+- Troubleshooting (Importance: 2.5/5 | Level: 1.75/7)
+- Operation and Control (Importance: 2.25/5 | Level: 2.38/7)
+- Management of Material Resources (Importance: 2.12/5 | Level: 1.88/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.75/7)
+- Technology Design (Importance: 1.75/5 | Level: 0.75/7)
+- Programming (Importance: 1.62/5 | Level: 0.75/7)
+- Science (Importance: 1.38/5 | Level: 0.5/7)
+- Operations Analysis (Importance: 1.25/5 | Level: 0.38/7)
+- Equipment Selection (Importance: 1.12/5 | Level: 0.12/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adobe Acrobat (Tech skill type: Document management software)
+- Email software (Tech skill type: Electronic mail software)
+- Google Android (Tech skill type: Operating system software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Automatic samplers (Tool type: Water samplers)
+- Bottom samplers (Tool type: Water samplers)
+- Calibrated measuring tapes (Tool type: Tape measures)
+- Calipers (Tool type: Calipers)
+- Cargo scales (Tool type: Floor or platform scales)
+- Centrifugal testers (Tool type: Benchtop centrifuges)
+- Desktop computers (Tool type: Desktop computers)
+- Digital cameras (Tool type: Digital cameras)
+- Grease guns (Tool type: Grease guns)
+- Hand magnifying lenses (Tool type: Magnifiers)
+- Handheld computers (Tool type: Portable data input terminals)
+- Hydrometers (Tool type: Hydrometers)
+- Laptop computers (Tool type: Notebook computers)
+- Measuring rods (Tool type: Depth indicators)
+- Oilcans (Tool type: Oil gun)
+- Personal computers (Tool type: Personal computers)
+- Portable electronic thermometers (Tool type: Handheld thermometer)
+- Programmable calculators (Tool type: Scientific calculator)
+- Sample containers (Tool type: Sample holders)
+- Sounding lines (Tool type: Depth indicators)
+- Ullage tapes (Tool type: Depth indicators)
+- X ray scanners (Tool type: X ray radiography examination equipment)
+
+# WORK CONTEXT
+- No specific work context listed.
+
+# INTERESTS (RIASEC)
+- Primary Interest: Conventional
+- Secondary Interest: Realistic
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation
+- Aviation Inspectors
+- Construction and Building Inspectors
+- Aircraft Cargo Handling Supervisors
+- Ship Engineers
+- Cargo and Freight Agents
+- First-Line Supervisors of Material-Moving Machine and Vehicle Operators
+- Railroad Conductors and Yardmasters
+- Inspectors, Testers, Sorters, Samplers, and Weighers
+- Airfield Operations Specialists
+- Locomotive Engineers
+- Transportation, Storage, and Distribution Managers
+- Agricultural Inspectors
+- Shipping, Receiving, and Inventory Clerks
+- Tank Car, Truck, and Ship Loaders
+- Marine Engineers and Naval Architects
+- Freight Forwarders
+- First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand
+- Government Property Inspectors and Investigators
+- Occupational Health and Safety Specialists

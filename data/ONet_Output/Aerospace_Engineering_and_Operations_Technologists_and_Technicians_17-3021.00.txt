@@ -1,0 +1,355 @@
+Job Title: Aerospace Engineering and Operations Technologists and Technicians
+O*NET-SOC Code: 17-3021.00
+
+# DESCRIPTION
+Operate, install, adjust, and maintain integrated computer/communications systems, consoles, simulators, and other data acquisition, test, and measurement instruments and equipment, which are used to launch, track, position, and evaluate air and space vehicles. May record and interpret test data.
+
+# TASKS
+- Test aircraft systems under simulated operational conditions, performing systems readiness tests and pre- and post-operational checkouts, to establish design or fabrication parameters.
+- Identify required data, data acquisition plans, and test parameters, setting up equipment to conform to these specifications.
+- Inspect, diagnose, maintain, and operate test setups and equipment to detect malfunctions.
+- Confer with engineering personnel regarding details and implications of test procedures and results.
+- Operate and calibrate computer systems and devices to comply with test requirements and to perform data acquisition and analysis.
+- Record and interpret test data on parts, assemblies, and mechanisms.
+- Adjust, repair, or replace faulty components of test setups and equipment.
+- Fabricate and install parts and systems to be tested in test equipment, using hand tools, power tools, and test instruments.
+- Finish vehicle instrumentation and deinstrumentation.
+- Construct and maintain test facilities for aircraft parts and systems, according to specifications.
+- Design electrical and mechanical systems for avionic instrumentation applications.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 4.49/5 | Level: 6.19/7)
+- Engineering and Technology (Importance: 4.28/5 | Level: 5.12/7)
+- Mathematics (Importance: 3.93/5 | Level: 4.84/7)
+- Production and Processing (Importance: 3.79/5 | Level: 4.18/7)
+- Customer and Personal Service (Importance: 3.7/5 | Level: 4.14/7)
+- English Language (Importance: 3.39/5 | Level: 3.38/7)
+- Administrative (Importance: 3.36/5 | Level: 3.9/7)
+- Physics (Importance: 3.34/5 | Level: 4.01/7)
+- Computers and Electronics (Importance: 3.33/5 | Level: 3.97/7)
+- Education and Training (Importance: 3.03/5 | Level: 4.17/7)
+- Administration and Management (Importance: 2.96/5 | Level: 3.42/7)
+- Public Safety and Security (Importance: 2.66/5 | Level: 2.56/7)
+- Telecommunications (Importance: 2.58/5 | Level: 2.93/7)
+- Design (Importance: 2.51/5 | Level: 3.89/7)
+- Transportation (Importance: 2.46/5 | Level: 3.02/7)
+- Chemistry (Importance: 2.41/5 | Level: 2.45/7)
+- Personnel and Human Resources (Importance: 2.13/5 | Level: 2.1/7)
+- Law and Government (Importance: 1.97/5 | Level: 1.84/7)
+- Communications and Media (Importance: 1.82/5 | Level: 1.45/7)
+- Economics and Accounting (Importance: 1.82/5 | Level: 1.23/7)
+- Sales and Marketing (Importance: 1.74/5 | Level: 1.2/7)
+- Psychology (Importance: 1.69/5 | Level: 1.33/7)
+- Therapy and Counseling (Importance: 1.19/5 | Level: 0.57/7)
+- Sociology and Anthropology (Importance: 1.19/5 | Level: 0.2/7)
+- Foreign Language (Importance: 1.12/5 | Level: 0.37/7)
+- Geography (Importance: 1.11/5 | Level: 0.4/7)
+- Biology (Importance: 1.1/5 | Level: 0.17/7)
+- Philosophy and Theology (Importance: 1.08/5 | Level: 0.32/7)
+- Building and Construction (Importance: 1.03/5 | Level: 0.06/7)
+- Medicine and Dentistry (Importance: 1.01/5 | Level: 0.01/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+- History and Archeology (Importance: 1.0/5 | Level: 0.0/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Critical Thinking (Importance: 3.88/5 | Level: 4.0/7)
+- Reading Comprehension (Importance: 3.75/5 | Level: 3.75/7)
+- Quality Control Analysis (Importance: 3.75/5 | Level: 3.62/7)
+- Operations Monitoring (Importance: 3.75/5 | Level: 3.5/7)
+- Active Listening (Importance: 3.62/5 | Level: 3.88/7)
+- Speaking (Importance: 3.62/5 | Level: 3.12/7)
+- Complex Problem Solving (Importance: 3.5/5 | Level: 3.38/7)
+- Troubleshooting (Importance: 3.25/5 | Level: 3.12/7)
+- Judgment and Decision Making (Importance: 3.25/5 | Level: 3.25/7)
+- Writing (Importance: 3.12/5 | Level: 3.12/7)
+- Time Management (Importance: 3.12/5 | Level: 3.25/7)
+- Science (Importance: 3.12/5 | Level: 3.75/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.12/7)
+- Systems Evaluation (Importance: 3.0/5 | Level: 3.12/7)
+- Systems Analysis (Importance: 3.0/5 | Level: 3.12/7)
+- Repairing (Importance: 3.0/5 | Level: 3.0/7)
+- Active Learning (Importance: 3.0/5 | Level: 3.0/7)
+- Operation and Control (Importance: 3.0/5 | Level: 2.88/7)
+- Mathematics (Importance: 3.0/5 | Level: 3.0/7)
+- Coordination (Importance: 2.88/5 | Level: 2.88/7)
+- Equipment Maintenance (Importance: 2.88/5 | Level: 3.38/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 2.88/5 | Level: 2.88/7)
+- Operations Analysis (Importance: 2.75/5 | Level: 2.75/7)
+- Instructing (Importance: 2.75/5 | Level: 3.0/7)
+- Equipment Selection (Importance: 2.62/5 | Level: 2.38/7)
+- Service Orientation (Importance: 2.62/5 | Level: 2.75/7)
+- Persuasion (Importance: 2.62/5 | Level: 2.88/7)
+- Negotiation (Importance: 2.5/5 | Level: 2.62/7)
+- Management of Personnel Resources (Importance: 2.38/5 | Level: 2.75/7)
+- Management of Financial Resources (Importance: 2.12/5 | Level: 1.62/7)
+- Management of Material Resources (Importance: 2.12/5 | Level: 1.62/7)
+- Installation (Importance: 2.12/5 | Level: 1.88/7)
+- Technology Design (Importance: 2.12/5 | Level: 1.38/7)
+- Programming (Importance: 2.12/5 | Level: 1.62/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Apache Hadoop (Tech skill type: Data base management system software)
+- Apache JMeter (Tech skill type: Object or component oriented development software)
+- Atlassian JIRA (Tech skill type: Project management software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Bugzilla (Tech skill type: Program testing software)
+- C++ (Tech skill type: Object or component oriented development software)
+- Computer aided design CAD software (Tech skill type: Computer aided design CAD software)
+- Computerized numerical control CNC software (Tech skill type: Industrial control software)
+- Customer information control system CICS (Tech skill type: Transaction server software)
+- Dassault Systemes CATIA (Tech skill type: Computer aided design CAD software)
+- Dassault Systemes SolidWorks (Tech skill type: Computer aided design CAD software)
+- Data acquisition software (Tech skill type: Analytical or scientific software)
+- Debugging software (Tech skill type: Program testing software)
+- Enterprise resource planning ERP software (Tech skill type: Enterprise resource planning ERP software)
+- Extensible markup language XML (Tech skill type: Enterprise application integration software)
+- Graphical user interface GUI design software (Tech skill type: Graphical user interface development software)
+- Hewlett Packard LoadRunner (Tech skill type: Program testing software)
+- Inventory software (Tech skill type: Inventory management software)
+- JavaScript (Tech skill type: Web platform development software)
+- Job control language JCL (Tech skill type: Operating system software)
+- JUnit (Tech skill type: Program testing software)
+- Linux (Tech skill type: Operating system software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft SQL Server (Tech skill type: Data base user interface and query software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Word (Tech skill type: Word processing software)
+- National Instruments LabVIEW (Tech skill type: Development environment software)
+- Oracle Database (Tech skill type: Data base user interface and query software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- Python (Tech skill type: Object or component oriented development software)
+- Red Hat Enterprise Linux (Tech skill type: Operating system software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Selenium (Tech skill type: Program testing software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- UNIX (Tech skill type: Operating system software)
+- Vibration analysis software (Tech skill type: Analytical or scientific software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Accelerometer sensors (Tool type: Speed sensors)
+- Accelerometers (Tool type: Accelerometers)
+- Adjustable wrenches (Tool type: Adjustable wrenches)
+- Air drills (Tool type: Pneumatic drill)
+- Air-supplying respirators (Tool type: Respirators)
+- Aligning punches (Tool type: Punches or nail sets or drifts)
+- Alignment squares (Tool type: Squares)
+- Allen wrenches (Tool type: Hex keys)
+- Annealing ovens (Tool type: Vacuum ovens)
+- Aviation snips (Tool type: Metal cutters)
+- Ball peen hammers (Tool type: Ball peen hammer)
+- Bench vises (Tool type: Bench vises)
+- Bleeder wrenches (Tool type: Specialty wrenches)
+- Body harnesses (Tool type: Safety harnesses or belts)
+- Bore gauges (Tool type: Hole gauge)
+- Borescopes (Tool type: Borescope inspection equipment)
+- Bottoming taps (Tool type: Taps)
+- Box end wrenches (Tool type: Box end wrenches)
+- Brazing equipment (Tool type: Welder torch)
+- Brazing hearths (Tool type: Welder torch)
+- Bubble emission inspection equipment (Tool type: Leak testing equipment)
+- Center punches (Tool type: Punches or nail sets or drifts)
+- Combination wrenches (Tool type: Combination wrenches)
+- Computer numerical controlled CNC milling machines (Tool type: Traveling column milling machine)
+- Computerized numerical control CNC lathes (Tool type: Horizontal turning center)
+- Coordinate measuring machines CMM (Tool type: Coordinate measuring machines CMM)
+- Countersinks (Tool type: Countersinks)
+- Depth gauges (Tool type: Depth gauges)
+- Depth micrometers (Tool type: Micrometers)
+- Dial calipers (Tool type: Calipers)
+- Digital calipers (Tool type: Calipers)
+- Digital force gauges (Tool type: Compression testers)
+- Digital height gauges (Tool type: Height gauges)
+- Digital torque wrenches (Tool type: Torque wrenches)
+- Dividers (Tool type: Compasses)
+- Drill presses (Tool type: Drill press or radial drill)
+- Drive punches (Tool type: Punches or nail sets or drifts)
+- Dye penetrant inspection equipment (Tool type: Liquid penetrant examination equipment)
+- Eddy current inspection equipment (Tool type: Eddy current examination equipment)
+- Electronic torque testers (Tool type: Force or torque sensors)
+- Fire extinguishers (Tool type: Fire extinguishers)
+- Flat files (Tool type: Flat hand file)
+- Flat head screwdrivers (Tool type: Screwdrivers)
+- Flow meters (Tool type: Flowmeters)
+- Fluorescent penetrant inspection equipment (Tool type: Magnetic particle examination equipment)
+- Force transducers (Tool type: Force or torque sensors)
+- Forklifts (Tool type: Forklifts)
+- Gamma ray testing equipment (Tool type: IR 192 radiography examination equipment)
+- Gantry mills (Tool type: Gantry milling machine)
+- Gas arc welding equipment (Tool type: Gas welding or brazing or cutting apparatus)
+- Gauge blocks (Tool type: Gage block set)
+- Go/no-go gauges (Tool type: Go or no go gauge)
+- Gyroscopes (Tool type: Gyroscopic instruments)
+- Hacksaws (Tool type: Hacksaw)
+- Half-round files (Tool type: Half round file)
+- Hand snips (Tool type: Tinners snips)
+- Hook spanner wrenches (Tool type: Spanner wrenches)
+- Hydrasets (Tool type: Manipulators)
+- Impact hammers (Tool type: Impact hammers)
+- Infrared inspection equipment (Tool type: Infrared imagers)
+- Knife files (Tool type: Farmers own file)
+- Lasers (Tool type: Lasers)
+- Layout compasses (Tool type: Compasses)
+- Magnetic particle inspection equipment (Tool type: Magnetic particle examination equipment)
+- Mallets (Tool type: Mallets)
+- Mass spectrometers (Tool type: Mass spectrometers)
+- Micrometers (Tool type: Micrometers)
+- Mill files (Tool type: Mill saw file)
+- Multi-axis mills (Tool type: Profiling and duplicating milling machine)
+- Offset screwdrivers (Tool type: Offset screw driver)
+- Open end wrenches (Tool type: Open end wrenches)
+- Overhead cranes (Tool type: Track cranes)
+- Paint booths (Tool type: Paint application system)
+- Personal computers (Tool type: Personal computers)
+- Pin punches (Tool type: Punches or nail sets or drifts)
+- Planer gauges (Tool type: Height gauges)
+- Plug gauges (Tool type: Go or no go gauge)
+- Plug taps (Tool type: Taps)
+- Power screwdrivers (Tool type: Power screwguns)
+- Precision files (Tool type: Precision file)
+- Pressure gauges (Tool type: Pressure indicators)
+- Prick punches (Tool type: Punches or nail sets or drifts)
+- Protractors (Tool type: Protractors)
+- Purifying respirators (Tool type: Respirators)
+- Pyrotechnic initiators (Tool type: Explosive initiators)
+- Reed and Prince screwdrivers (Tool type: Screwdrivers)
+- Riveting tools (Tool type: Rivet tools)
+- Round files (Tool type: Round file)
+- Safety goggles (Tool type: Goggles)
+- Safety lanyards (Tool type: Fall protection lanyard)
+- Safety wire pliers (Tool type: Wire twister)
+- Scaffolding (Tool type: Scaffolding)
+- Scribers (Tool type: Scribers)
+- Shakers (Tool type: Vibration testers)
+- Shielded arc welding tools (Tool type: Shielded metal arc welding or stick welding machine)
+- Shot peening equipment (Tool type: Shot peen machine)
+- Skin mills (Tool type: Profiling and duplicating milling machine)
+- Small hole gauges (Tool type: Hole gauge)
+- Snap gauges (Tool type: Thickness measuring devices)
+- Socket wrenches (Tool type: Sockets)
+- Soft face hammers (Tool type: Hammers)
+- Soldering irons (Tool type: Soldering iron)
+- Split dies (Tool type: Thread repair kits)
+- Spring calipers (Tool type: Calipers)
+- Steel rules (Tool type: Rulers)
+- Straight chisels (Tool type: Cold chisels)
+- Straightedges (Tool type: Straight edges)
+- Strain gauge balances (Tool type: Strain gauges)
+- Taper taps (Tool type: Taps)
+- Telescopes (Tool type: Telescopes)
+- Telescoping gauges (Tool type: Telescoping gauge)
+- Terminal computers (Tool type: Mainframe console or dumb terminals)
+- Theodolites (Tool type: Theodolites)
+- Thermocouples (Tool type: Thermocouples)
+- Thickness gauges (Tool type: Thickness measuring devices)
+- Thread gauges (Tool type: Thread counters or gauges)
+- Torque wrenches (Tool type: Torque wrenches)
+- Torx drivers (Tool type: Torx keys)
+- Tri-squares (Tool type: Squares)
+- Twist drills (Tool type: Form tools or toolbits)
+- Ultrasonic inspection equipment (Tool type: Ultrasonic examination equipment)
+- V blocks (Tool type: Gage block set)
+- Vernier calipers (Tool type: Calipers)
+- Vertical turret lathes VTL (Tool type: Turret lathe)
+- Vibration tables (Tool type: Vibration testers)
+- Vibration testers (Tool type: Vibration testers)
+- Vibration transducers (Tool type: Vibration testers)
+- Vixen files (Tool type: Flat taper file)
+- Voltmeters (Tool type: Voltage or current meters)
+- Welding torches (Tool type: Welder torch)
+- Wire crimpers (Tool type: Wire lug crimping tool)
+- X ray inspection equipment (Tool type: X ray radiography examination equipment)
+
+# WORK CONTEXT
+- Conflict Situations: Once a week or more but not every day
+- Consequence of Error: Very serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Slightly automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Once a week or more but not every day
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Once a year or more but not every month
+- Exposed to Hazardous Conditions: Once a week or more but not every day
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Once a year or more but not every month
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Once a year or more but not every month
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Once a week or more but not every day
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Once a week or more but not every day
+- Health and Safety of Other Workers: Moderate responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Very important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Highly competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Less than half the time
+- Spend Time Keeping or Regaining Balance: Less than half the time
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Less than half the time
+- Spend Time Sitting: More than half the time
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Never
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Once a year or more but not every month
+- Work Outcomes and Results of Other Workers: Moderate responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a year or more but not every month
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Calibration Technologists and Technicians
+- Avionics Technicians
+- Electro-Mechanical and Mechatronics Technologists and Technicians
+- Mechanical Engineering Technologists and Technicians
+- Robotics Technicians
+- Automotive Engineering Technicians
+- Electrical and Electronic Engineering Technologists and Technicians
+- Electrical and Electronics Repairers, Commercial and Industrial Equipment
+- Aircraft Mechanics and Service Technicians
+- Industrial Engineering Technologists and Technicians
+- Aerospace Engineers
+- Mechanical Engineers
+- Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+- Mechatronics Engineers
+- Photonics Technicians
+- Medical Equipment Repairers
+- Validation Engineers
+- Electronics Engineers, Except Computer
+- Robotics Engineers
+- Software Developers

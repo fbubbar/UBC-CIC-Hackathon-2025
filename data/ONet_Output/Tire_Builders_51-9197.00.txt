@@ -1,0 +1,231 @@
+Job Title: Tire Builders
+O*NET-SOC Code: 51-9197.00
+
+# DESCRIPTION
+Operate machines to build tires.
+
+# TASKS
+- Build semi-raw rubber treads onto buffed tire casings to prepare tires for vulcanization in recapping or retreading processes.
+- Trim excess rubber and imperfections during retreading processes.
+- Fill cuts and holes in tires, using hot rubber.
+- Place tires into molds for new tread.
+- Fit inner tubes and final layers of rubber onto tires.
+- Buff tires according to specifications for width and undertread depth.
+- Brush or spray solvents onto plies to ensure adhesion, and repeat process as specified, alternating direction of each ply to strengthen tires.
+- Start rollers that bond tread and plies as drums revolve.
+- Align treads with guides, start drums to wind treads onto plies, and slice ends.
+- Inspect worn tires for faults, cracks, cuts, and nail holes, and to determine if tires are suitable for retreading.
+- Measure tires to determine mold size requirements.
+- Roll hand rollers over rebuilt casings, exerting pressure to ensure adhesion between camelbacks and casings.
+- Position ply stitcher rollers and drums according to width of stock, using hand tools and gauges.
+- Cut plies at splice points, and press ends together to form continuous bands.
+- Depress pedals to rotate drums, and wind specified numbers of plies around drums to form tire bodies.
+- Clean and paint completed tires.
+- Rub cement sticks on drum edges to provide adhesive surfaces for plies.
+- Depress pedals to collapse drums after processing is complete.
+- Wind chafers and breakers onto plies.
+- Pull plies from supply racks, and align plies with edges of drums.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Production and Processing (Importance: 3.73/5 | Level: 3.63/7)
+- Administration and Management (Importance: 3.39/5 | Level: 2.81/7)
+- Mechanical (Importance: 3.23/5 | Level: 4.06/7)
+- English Language (Importance: 2.85/5 | Level: 2.73/7)
+- Engineering and Technology (Importance: 2.83/5 | Level: 2.81/7)
+- Public Safety and Security (Importance: 2.77/5 | Level: 2.55/7)
+- Education and Training (Importance: 2.7/5 | Level: 2.8/7)
+- Customer and Personal Service (Importance: 2.57/5 | Level: 2.22/7)
+- Mathematics (Importance: 2.35/5 | Level: 2.18/7)
+- Design (Importance: 2.26/5 | Level: 1.59/7)
+- Personnel and Human Resources (Importance: 2.16/5 | Level: 1.98/7)
+- Physics (Importance: 2.15/5 | Level: 1.62/7)
+- Transportation (Importance: 2.08/5 | Level: 1.48/7)
+- Administrative (Importance: 2.04/5 | Level: 2.23/7)
+- Building and Construction (Importance: 1.96/5 | Level: 1.35/7)
+- Chemistry (Importance: 1.91/5 | Level: 1.69/7)
+- Sales and Marketing (Importance: 1.88/5 | Level: 1.34/7)
+- Economics and Accounting (Importance: 1.86/5 | Level: 1.17/7)
+- Communications and Media (Importance: 1.8/5 | Level: 0.94/7)
+- Computers and Electronics (Importance: 1.74/5 | Level: 1.09/7)
+- Psychology (Importance: 1.7/5 | Level: 1.04/7)
+- Telecommunications (Importance: 1.6/5 | Level: 0.41/7)
+- Law and Government (Importance: 1.59/5 | Level: 0.92/7)
+- Foreign Language (Importance: 1.44/5 | Level: 0.85/7)
+- Geography (Importance: 1.32/5 | Level: 0.19/7)
+- Biology (Importance: 1.32/5 | Level: 0.14/7)
+- Philosophy and Theology (Importance: 1.3/5 | Level: 0.24/7)
+- History and Archeology (Importance: 1.3/5 | Level: 0.18/7)
+- Therapy and Counseling (Importance: 1.26/5 | Level: 0.65/7)
+- Medicine and Dentistry (Importance: 1.23/5 | Level: 0.4/7)
+- Sociology and Anthropology (Importance: 1.11/5 | Level: 0.12/7)
+- Fine Arts (Importance: 1.02/5 | Level: 0.04/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operation and Control (Importance: 3.25/5 | Level: 3.12/7)
+- Operations Monitoring (Importance: 3.12/5 | Level: 3.38/7)
+- Monitoring (Importance: 3.0/5 | Level: 2.88/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 2.5/7)
+- Active Listening (Importance: 3.0/5 | Level: 2.62/7)
+- Time Management (Importance: 2.75/5 | Level: 2.25/7)
+- Judgment and Decision Making (Importance: 2.75/5 | Level: 2.0/7)
+- Speaking (Importance: 2.62/5 | Level: 2.25/7)
+- Quality Control Analysis (Importance: 2.62/5 | Level: 2.12/7)
+- Social Perceptiveness (Importance: 2.38/5 | Level: 2.0/7)
+- Complex Problem Solving (Importance: 2.25/5 | Level: 2.0/7)
+- Reading Comprehension (Importance: 2.25/5 | Level: 2.12/7)
+- Troubleshooting (Importance: 2.12/5 | Level: 2.0/7)
+- Service Orientation (Importance: 2.12/5 | Level: 1.75/7)
+- Active Learning (Importance: 2.0/5 | Level: 1.75/7)
+- Writing (Importance: 2.0/5 | Level: 1.75/7)
+- Learning Strategies (Importance: 2.0/5 | Level: 1.88/7)
+- Coordination (Importance: 2.0/5 | Level: 2.0/7)
+- Instructing (Importance: 2.0/5 | Level: 1.88/7)
+- Equipment Maintenance (Importance: 1.88/5 | Level: 1.12/7)
+- Systems Analysis (Importance: 1.88/5 | Level: 1.12/7)
+- Equipment Selection (Importance: 1.88/5 | Level: 1.12/7)
+- Mathematics (Importance: 1.88/5 | Level: 1.12/7)
+- Persuasion (Importance: 1.88/5 | Level: 1.38/7)
+- Management of Personnel Resources (Importance: 1.88/5 | Level: 1.5/7)
+- Repairing (Importance: 1.75/5 | Level: 1.0/7)
+- Negotiation (Importance: 1.75/5 | Level: 1.25/7)
+- Systems Evaluation (Importance: 1.75/5 | Level: 0.88/7)
+- Management of Material Resources (Importance: 1.62/5 | Level: 0.62/7)
+- Technology Design (Importance: 1.62/5 | Level: 0.62/7)
+- Management of Financial Resources (Importance: 1.5/5 | Level: 0.5/7)
+- Operations Analysis (Importance: 1.38/5 | Level: 0.38/7)
+- Programming (Importance: 1.25/5 | Level: 0.25/7)
+- Installation (Importance: 1.12/5 | Level: 0.12/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- IBM Lotus Notes (Tech skill type: Electronic mail software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Programmable logic controller PLC software (Tech skill type: Industrial control software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Web browser software (Tech skill type: Internet browser software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Adjustable handwrenches (Tool type: Adjustable wrenches)
+- Automatic tire building machines TBM (Tool type: Specialty assembly)
+- Bead flipping machines (Tool type: Rubber or plastic presses)
+- Bead setters (Tool type: Rubber or plastic presses)
+- Belt conveyors (Tool type: Belt conveyors)
+- Beta thickness gauges (Tool type: Thickness measuring devices)
+- Calendering machines (Tool type: Rubber or plastic presses)
+- Common industrial protocol CIP software (Tool type: Microcontrollers)
+- Curing presses (Tool type: Vulcanizing machines)
+- Floor scales (Tool type: Floor or platform scales)
+- Guillotine cutters (Tool type: Cutting machines)
+- Hydraulic presses (Tool type: Rubber or plastic presses)
+- Manual tire building machines TBM (Tool type: Specialty assembly)
+- Mechanical presses (Tool type: Rubber or plastic presses)
+- Mill feed conveyors (Tool type: Belt conveyors)
+- Paint brushes (Tool type: Paint brushes)
+- Power saws (Tool type: Power saws)
+- Programmable automation controllers PAC (Tool type: Microcontrollers)
+- Robotic assembly machines (Tool type: Specialty assembly)
+- Rubber slab cutters (Tool type: Plastic cutting machinery)
+- Screw-type extruders (Tool type: Extruders)
+- Steel rods (Tool type: Depth indicators)
+- Tire band building machines (Tool type: Rubber or plastic presses)
+- Tire building drums (Tool type: Rubber or plastic presses)
+- Tire building machines (Tool type: Rubber or plastic presses)
+- Tire stitchers (Tool type: Sewing machines)
+- Transfer rings (Tool type: Rubber or plastic presses)
+- Tread servicers (Tool type: Belt conveyors)
+- Utility knives (Tool type: Utility knives)
+- Wheel balancers (Tool type: Wheel balancing equipment)
+- X ray inspection machines (Tool type: X ray radiography examination equipment)
+
+# WORK CONTEXT
+- Conflict Situations: Never
+- Consequence of Error: Fairly serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Not important at all
+- Deal With External Customers or the Public in General: Not important at all
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a month or more but not every week
+- Dealing with Violent or Physically Aggressive People: Once a year or more but not every month
+- Degree of Automation: Slightly automated
+- Determine Tasks, Priorities and Goals: No freedom
+- E-Mail: Never
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Every day
+- Exposed to Hazardous Equipment: Every day
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Every day
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Very little freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Limited responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Extremely important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Every day
+- Level of Competition: Slightly competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Extremely important
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Continually or almost continually
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Less than half the time
+- Spend Time Keeping or Regaining Balance: Less than half the time
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Continually or almost continually
+- Spend Time Sitting: Never
+- Spend Time Standing: Continually or almost continually
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Never
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Fairly important
+- Written Letters and Memos: Once a year or more but not every month
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Tire Repairers and Changers
+- Molders, Shapers, and Casters, Except Metal and Plastic
+- Fiberglass Laminators and Fabricators
+- Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic
+- Engine and Other Machine Assemblers
+- Grinding and Polishing Workers, Hand
+- Automotive Body and Related Repairers
+- Foundry Mold and Coremakers
+- Coating, Painting, and Spraying Machine Setters, Operators, and Tenders
+- Rail Car Repairers
+- Insulation Workers, Floor, Ceiling, and Wall
+- Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+- Structural Metal Fabricators and Fitters
+- Insulation Workers, Mechanical
+- Shoe Machine Operators and Tenders
+- Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic
+- Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders
+- Industrial Machinery Mechanics
+- Coil Winders, Tapers, and Finishers
+- Control and Valve Installers and Repairers, Except Mechanical Door

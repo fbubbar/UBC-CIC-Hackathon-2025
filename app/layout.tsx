@@ -1,17 +1,33 @@
-
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Montserrat, Oswald, Outfit, Urbanist } from "next/font/google";
 import "./globals.css";
 
-import AuthenticatorWrapper from "./AuthenticatorWrapper";
 import QueryProvider from "@/components/providers/QueryProvider";
-import "@aws-amplify/ui-react/styles.css";
 
-const inter = Inter({ subsets: ["latin"] });
+const montserrat = Montserrat({
+  subsets: ["latin"],
+  variable: "--font-montserrat",
+  display: "swap",
+});
+const oswald = Oswald({
+  subsets: ["latin"],
+  variable: "--font-oswald",
+  display: "swap",
+});
+const outfit = Outfit({
+  subsets: ["latin"],
+  variable: "--font-outfit",
+  display: "swap",
+});
+const urbanist = Urbanist({
+  subsets: ["latin"],
+  variable: "--font-urbanist",
+  display: "swap",
+});
 
 export const metadata: Metadata = {
-  title: "[TODO]",
-  description: "[TODO]",
+  title: "AI-Powered Document Analysis",
+  description: "Upload PDFs and ask questions to get AI-powered answers",
 };
 
 export default function RootLayout({
@@ -20,11 +36,12 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en">
-      <body className={inter.className}>
-        <QueryProvider>
-          <AuthenticatorWrapper>{children}</AuthenticatorWrapper>
-        </QueryProvider>
+    <html
+      lang="en"
+      className={`${montserrat.variable} ${oswald.variable} ${outfit.variable} ${urbanist.variable}`}
+    >
+      <body className={montserrat.className}>
+        <QueryProvider>{children}</QueryProvider>
       </body>
     </html>
   );

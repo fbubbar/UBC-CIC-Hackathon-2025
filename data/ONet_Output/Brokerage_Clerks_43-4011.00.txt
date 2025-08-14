@@ -1,0 +1,214 @@
+Job Title: Brokerage Clerks
+O*NET-SOC Code: 43-4011.00
+
+# DESCRIPTION
+Perform duties related to the purchase, sale, or holding of securities. Duties include writing orders for stock purchases or sales, computing transfer taxes, verifying stock transactions, accepting and delivering securities, tracking stock price fluctuations, computing equity, distributing dividends, and keeping records of daily transactions and holdings.
+
+# TASKS
+- Correspond with customers and confer with coworkers to answer inquiries, discuss market fluctuations, or resolve account problems.
+- Document security transactions, such as purchases, sales, conversions, redemptions, or payments, using computers, accounting ledgers, or certificate records.
+- File, type, or operate standard office machines.
+- Perform clerical tasks, such as answering phones or distributing mail.
+- Prepare forms, such as receipts, withdrawal orders, transmittal papers, or transfer confirmations, based on transaction requests from stockholders.
+- Schedule and coordinate transfer and delivery of security certificates between companies, departments, and customers.
+- Monitor daily stock prices and compute fluctuations to determine the need for additional collateral to secure loans.
+- Verify ownership and transaction information and dividend distribution instructions to ensure conformance with governmental regulations, using stock records and reports.
+- Compute total holdings, dividends, interest, transfer taxes, brokerage fees, or commissions and allocate appropriate payments to customers.
+- Prepare reports summarizing daily transactions and earnings for individual customer accounts.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- English Language (Importance: 4.09/5 | Level: 4.23/7)
+- Customer and Personal Service (Importance: 3.82/5 | Level: 4.61/7)
+- Mathematics (Importance: 3.52/5 | Level: 3.94/7)
+- Computers and Electronics (Importance: 3.32/5 | Level: 3.97/7)
+- Economics and Accounting (Importance: 3.2/5 | Level: 2.78/7)
+- Administrative (Importance: 3.07/5 | Level: 3.24/7)
+- Sales and Marketing (Importance: 2.83/5 | Level: 3.4/7)
+- Law and Government (Importance: 2.66/5 | Level: 2.69/7)
+- Communications and Media (Importance: 2.41/5 | Level: 2.22/7)
+- Education and Training (Importance: 2.23/5 | Level: 2.04/7)
+- Foreign Language (Importance: 2.18/5 | Level: 1.71/7)
+- Telecommunications (Importance: 2.16/5 | Level: 1.75/7)
+- Public Safety and Security (Importance: 2.08/5 | Level: 1.6/7)
+- Personnel and Human Resources (Importance: 2.07/5 | Level: 2.3/7)
+- Administration and Management (Importance: 1.98/5 | Level: 2.23/7)
+- Psychology (Importance: 1.92/5 | Level: 1.32/7)
+- Transportation (Importance: 1.56/5 | Level: 1.5/7)
+- Production and Processing (Importance: 1.53/5 | Level: 1.18/7)
+- Engineering and Technology (Importance: 1.52/5 | Level: 0.64/7)
+- Geography (Importance: 1.38/5 | Level: 0.82/7)
+- History and Archeology (Importance: 1.37/5 | Level: 0.64/7)
+- Sociology and Anthropology (Importance: 1.37/5 | Level: 0.5/7)
+- Design (Importance: 1.31/5 | Level: 0.47/7)
+- Therapy and Counseling (Importance: 1.3/5 | Level: 0.47/7)
+- Philosophy and Theology (Importance: 1.14/5 | Level: 0.15/7)
+- Physics (Importance: 1.11/5 | Level: 0.34/7)
+- Mechanical (Importance: 1.07/5 | Level: 0.08/7)
+- Medicine and Dentistry (Importance: 1.06/5 | Level: 0.06/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+- Chemistry (Importance: 1.0/5 | Level: 0.0/7)
+- Building and Construction (Importance: 1.0/5 | Level: 0.0/7)
+- Biology (Importance: 1.0/5 | Level: 0.0/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Speaking (Importance: 3.88/5 | Level: 3.62/7)
+- Active Listening (Importance: 3.88/5 | Level: 3.88/7)
+- Reading Comprehension (Importance: 3.75/5 | Level: 3.75/7)
+- Time Management (Importance: 3.5/5 | Level: 3.12/7)
+- Critical Thinking (Importance: 3.38/5 | Level: 3.62/7)
+- Writing (Importance: 3.12/5 | Level: 3.5/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.0/7)
+- Mathematics (Importance: 3.0/5 | Level: 3.5/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 3.0/7)
+- Service Orientation (Importance: 3.0/5 | Level: 3.12/7)
+- Active Learning (Importance: 3.0/5 | Level: 3.0/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 2.88/7)
+- Coordination (Importance: 2.88/5 | Level: 2.88/7)
+- Negotiation (Importance: 2.88/5 | Level: 2.5/7)
+- Complex Problem Solving (Importance: 2.88/5 | Level: 2.88/7)
+- Systems Analysis (Importance: 2.88/5 | Level: 2.12/7)
+- Management of Personnel Resources (Importance: 2.62/5 | Level: 2.12/7)
+- Learning Strategies (Importance: 2.62/5 | Level: 2.75/7)
+- Instructing (Importance: 2.5/5 | Level: 2.0/7)
+- Persuasion (Importance: 2.5/5 | Level: 2.12/7)
+- Systems Evaluation (Importance: 2.5/5 | Level: 2.25/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.25/7)
+- Programming (Importance: 2.0/5 | Level: 1.75/7)
+- Operations Monitoring (Importance: 1.88/5 | Level: 1.12/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.0/7)
+- Operations Analysis (Importance: 1.75/5 | Level: 0.75/7)
+- Operation and Control (Importance: 1.12/5 | Level: 0.25/7)
+- Quality Control Analysis (Importance: 1.12/5 | Level: 0.12/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Technology Design (Importance: 1.0/5 | Level: 0.0/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Account management software (Tech skill type: Accounting software)
+- Adobe Acrobat (Tech skill type: Document management software)
+- Adobe Creative Cloud software (Tech skill type: Graphics or photo imaging software)
+- Adobe Dreamweaver (Tech skill type: Web page creation and editing software)
+- Adobe Illustrator (Tech skill type: Graphics or photo imaging software)
+- Adobe InDesign (Tech skill type: Desktop publishing software)
+- Adobe Photoshop (Tech skill type: Graphics or photo imaging software)
+- Bloomberg Professional (Tech skill type: Financial analysis software)
+- Customer relationship management CRM software (Tech skill type: Customer relationship management CRM software)
+- HEAT Software GoldMine (Tech skill type: Customer relationship management CRM software)
+- Instant messaging software (Tech skill type: Instant messaging software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Dynamics (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft Visual FoxPro (Tech skill type: Object oriented data base management software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Online trading software (Tech skill type: Desktop communications software)
+- Oracle PeopleSoft (Tech skill type: Enterprise resource planning ERP software)
+- Royal Alliance VISION2020 Core (Tech skill type: Customer relationship management CRM software)
+- Salesforce software (Tech skill type: Customer relationship management CRM software)
+- Scheduling software (Tech skill type: Calendar and scheduling software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Transaction processing software (Tech skill type: Data base user interface and query software)
+- Web browser software (Tech skill type: Internet browser software)
+- WiredRed Software e/pop Basic (Tech skill type: Desktop communications software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- 10-key calculators (Tool type: Desktop calculator)
+- Desktop computers (Tool type: Desktop computers)
+- Multi-line telephone systems (Tool type: Special purpose telephones)
+- Personal computers (Tool type: Personal computers)
+
+# WORK CONTEXT
+- Conflict Situations: Once a week or more but not every day
+- Consequence of Error: Very serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a week or more but not every day
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Highly automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: No responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Extremely important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Highly competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Never
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Continually or almost continually
+- Spend Time Sitting: Continually or almost continually
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Never
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: High responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a year or more but not every month
+
+# INTERESTS (RIASEC)
+- Primary Interest: Conventional
+- Secondary Interest: Enterprising
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Securities, Commodities, and Financial Services Sales Agents
+- New Accounts Clerks
+- Bookkeeping, Accounting, and Auditing Clerks
+- Customer Service Representatives
+- Tellers
+- Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel
+- Billing and Posting Clerks
+- Loan Interviewers and Clerks
+- Credit Authorizers, Checkers, and Clerks
+- Bill and Account Collectors
+- Financial and Investment Analysts
+- Personal Financial Advisors
+- Office Clerks, General
+- Loan Officers
+- Financial Managers
+- Business Intelligence Analysts
+- Insurance Claims and Policy Processing Clerks
+- Accountants and Auditors
+- Management Analysts
+- Sales Managers

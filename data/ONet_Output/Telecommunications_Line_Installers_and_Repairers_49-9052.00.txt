@@ -1,0 +1,277 @@
+Job Title: Telecommunications Line Installers and Repairers
+O*NET-SOC Code: 49-9052.00
+
+# DESCRIPTION
+Install and repair telecommunications cable, including fiber optics.
+
+# TASKS
+- Set up service for customers, installing, connecting, testing, or adjusting equipment.
+- Travel to customers' premises to install, maintain, or repair audio and visual electronic reception equipment or accessories.
+- Measure signal strength at utility poles, using electronic test equipment.
+- Inspect or test lines or cables, recording and analyzing test results, to assess transmission characteristics and locate faults or malfunctions.
+- Splice cables, using hand tools, epoxy, or mechanical equipment.
+- Access specific areas to string lines, or install terminal boxes, auxiliary equipment, or appliances, using bucket trucks, climbing poles or ladders, or entering tunnels, trenches, or crawl spaces.
+- Clean or maintain tools or test equipment.
+- String cables between structures and lines from poles, towers, or trenches, and pull lines to proper tension.
+- Pull up cable by hand from large reels mounted on trucks.
+- Lay underground cable directly in trenches, or string it through conduits running through trenches.
+- Pull cable through ducts by hand or with winches.
+- Dig trenches for underground wires or cables.
+- Explain cable service to subscribers after installation, and collect any installation fees due.
+- Place insulation over conductors, or seal splices with moisture-proof covering.
+- Compute impedance of wires from poles to houses to determine additional resistance needed for reducing signals to desired levels.
+- Install equipment such as amplifiers or repeaters to maintain the strength of communications transmissions.
+- Use a variety of construction equipment to complete installations, such as digger derricks, trenchers, or cable plows.
+- Fill and tamp holes, using cement, earth, and tamping devices.
+- Dig holes for power poles, using power augers or shovels, set poles in place with cranes, and hoist poles upright, using winches.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Telecommunications (Importance: 4.49/5 | Level: 5.54/7)
+- Customer and Personal Service (Importance: 4.39/5 | Level: 4.35/7)
+- English Language (Importance: 3.74/5 | Level: 3.78/7)
+- Public Safety and Security (Importance: 3.39/5 | Level: 3.63/7)
+- Computers and Electronics (Importance: 3.26/5 | Level: 3.96/7)
+- Mechanical (Importance: 3.22/5 | Level: 3.47/7)
+- Education and Training (Importance: 3.19/5 | Level: 3.6/7)
+- Communications and Media (Importance: 3.14/5 | Level: 2.77/7)
+- Administration and Management (Importance: 2.92/5 | Level: 2.71/7)
+- Engineering and Technology (Importance: 2.86/5 | Level: 2.77/7)
+- Mathematics (Importance: 2.74/5 | Level: 2.95/7)
+- Design (Importance: 2.73/5 | Level: 2.98/7)
+- Production and Processing (Importance: 2.7/5 | Level: 2.63/7)
+- Sales and Marketing (Importance: 2.68/5 | Level: 2.32/7)
+- Transportation (Importance: 2.66/5 | Level: 2.39/7)
+- Building and Construction (Importance: 2.62/5 | Level: 2.54/7)
+- Personnel and Human Resources (Importance: 2.24/5 | Level: 1.72/7)
+- Administrative (Importance: 2.12/5 | Level: 1.87/7)
+- Law and Government (Importance: 1.89/5 | Level: 1.15/7)
+- Geography (Importance: 1.88/5 | Level: 1.37/7)
+- Physics (Importance: 1.83/5 | Level: 1.7/7)
+- Psychology (Importance: 1.78/5 | Level: 1.08/7)
+- Economics and Accounting (Importance: 1.77/5 | Level: 0.92/7)
+- Chemistry (Importance: 1.67/5 | Level: 1.17/7)
+- Foreign Language (Importance: 1.47/5 | Level: 0.91/7)
+- Therapy and Counseling (Importance: 1.44/5 | Level: 0.79/7)
+- Medicine and Dentistry (Importance: 1.22/5 | Level: 0.2/7)
+- Philosophy and Theology (Importance: 1.2/5 | Level: 0.48/7)
+- History and Archeology (Importance: 1.16/5 | Level: 0.16/7)
+- Biology (Importance: 1.16/5 | Level: 0.24/7)
+- Sociology and Anthropology (Importance: 1.13/5 | Level: 0.24/7)
+- Food Production (Importance: 1.07/5 | Level: 0.11/7)
+- Fine Arts (Importance: 1.01/5 | Level: 0.01/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Speaking (Importance: 3.12/5 | Level: 2.75/7)
+- Critical Thinking (Importance: 3.12/5 | Level: 3.12/7)
+- Operations Monitoring (Importance: 3.12/5 | Level: 3.0/7)
+- Complex Problem Solving (Importance: 3.12/5 | Level: 3.0/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Equipment Maintenance (Importance: 3.0/5 | Level: 2.75/7)
+- Troubleshooting (Importance: 3.0/5 | Level: 3.12/7)
+- Active Listening (Importance: 3.0/5 | Level: 3.0/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 3.0/7)
+- Monitoring (Importance: 3.0/5 | Level: 2.88/7)
+- Operation and Control (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 2.88/5 | Level: 2.75/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.88/7)
+- Repairing (Importance: 2.88/5 | Level: 2.75/7)
+- Reading Comprehension (Importance: 2.88/5 | Level: 3.0/7)
+- Quality Control Analysis (Importance: 2.88/5 | Level: 3.0/7)
+- Service Orientation (Importance: 2.75/5 | Level: 2.88/7)
+- Active Learning (Importance: 2.75/5 | Level: 2.62/7)
+- Writing (Importance: 2.62/5 | Level: 2.88/7)
+- Installation (Importance: 2.38/5 | Level: 1.88/7)
+- Systems Analysis (Importance: 2.38/5 | Level: 2.38/7)
+- Systems Evaluation (Importance: 2.25/5 | Level: 2.38/7)
+- Persuasion (Importance: 2.25/5 | Level: 2.25/7)
+- Equipment Selection (Importance: 2.25/5 | Level: 2.0/7)
+- Learning Strategies (Importance: 2.25/5 | Level: 2.0/7)
+- Negotiation (Importance: 2.12/5 | Level: 2.12/7)
+- Instructing (Importance: 2.12/5 | Level: 2.12/7)
+- Mathematics (Importance: 2.0/5 | Level: 1.75/7)
+- Management of Personnel Resources (Importance: 2.0/5 | Level: 1.88/7)
+- Technology Design (Importance: 1.88/5 | Level: 0.88/7)
+- Operations Analysis (Importance: 1.88/5 | Level: 1.0/7)
+- Science (Importance: 1.75/5 | Level: 1.12/7)
+- Management of Material Resources (Importance: 1.75/5 | Level: 0.75/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 0.75/7)
+- Programming (Importance: 1.62/5 | Level: 0.62/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Cisco IOS (Tech skill type: Operating system software)
+- Customer relationship management CRM software (Tech skill type: Customer relationship management CRM software)
+- Email software (Tech skill type: Electronic mail software)
+- Mapcom systems M4 (Tech skill type: Facilities management software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Operating system software (Tech skill type: Operating system software)
+- Ping tools (Tech skill type: Transaction security and virus protection software)
+- Slack (Tech skill type: Cloud-based data access and sharing software)
+- Voice over internet protocol VoIP system software (Tech skill type: Internet protocol IP multimedia subsystem software)
+- Web browser software (Tech skill type: Internet browser software)
+- Workforce management system software (Tech skill type: Enterprise resource planning ERP software)
+
+## TOOLS USED
+- Adjustable hand wrenches (Tool type: Adjustable wrenches)
+- Articulating boom lift (Tool type: Articulating boom lift)
+- Borers (Tool type: Boring machines)
+- Bubble levels (Tool type: Levels)
+- Bucket trucks (Tool type: Articulating boom lift)
+- Buffer strippers (Tool type: Stripping tools)
+- Cable cutters (Tool type: Wire or cable cutter)
+- Cable jacket strippers (Tool type: Stripping tools)
+- Cable locators (Tool type: Electrical power sensors)
+- Cable plows (Tool type: Trenching machines)
+- Cable sheaves (Tool type: Sheaves or pulleys)
+- Cable slitters (Tool type: Shears)
+- Cable strippers (Tool type: Stripping tools)
+- Cable tie guns (Tool type: Banders)
+- Cable trees (Tool type: Cable reels)
+- Can wrenches (Tool type: Specialty wrenches)
+- Card access devices (Tool type: Card key lock)
+- Channel lock pliers (Tool type: Locking pliers)
+- Claw hammers (Tool type: Claw hammer)
+- Coaxial security cameras (Tool type: Security cameras)
+- Combo crimping tools (Tool type: Wire lug crimping tool)
+- Computer network routers (Tool type: Network routers)
+- Cordless drills (Tool type: Power drills)
+- Digger derricks (Tool type: Derricks)
+- Digital multimeters (Tool type: Multimeters)
+- Digital power meters (Tool type: Power meters)
+- Dikes (Tool type: Diagonal cut pliers)
+- Drywall saws (Tool type: Saws)
+- Duct knives (Tool type: Shears)
+- Electricians' snips (Tool type: Wire cutters)
+- Extension ladders (Tool type: Ladders)
+- Fiber scribes (Tool type: Stripping tools)
+- Fish tapes (Tool type: Fish tape)
+- Flathead screwdrivers (Tool type: Screwdrivers)
+- Gopher poles (Tool type: Extension pole)
+- Hacksaws (Tool type: Hacksaw)
+- Hex sets (Tool type: Hex keys)
+- Inspection scopes (Tool type: Videoscopes)
+- Intelligent field devices (Tool type: Non contact sensors)
+- IP security cameras (Tool type: Security cameras)
+- Lamp extractors (Tool type: Light bulb changer)
+- Laptop computers (Tool type: Notebook computers)
+- Local area network LAN switches (Tool type: Network switches)
+- Longnose pliers (Tool type: Longnose pliers)
+- Measuring tapes (Tool type: Tape measures)
+- Motorized cable reels (Tool type: Cable reels)
+- Needlenose pliers (Tool type: Needlenose pliers)
+- Optical time domain reflectometers OTDR (Tool type: Reflectometers)
+- Phillips head screwdrivers (Tool type: Screwdrivers)
+- Polishing pucks (Tool type: Power buffers)
+- Power dollies (Tool type: Dollies)
+- Power winches (Tool type: Winches)
+- Probe picks (Tool type: Electronic measuring probes)
+- Punchdown tools (Tool type: Punches or nail sets or drifts)
+- Sheath removal tools (Tool type: Stripping tools)
+- Sheet metal cutters (Tool type: Metal cutters)
+- Signal leakage detectors (Tool type: Leak testing equipment)
+- Signal level meters (Tool type: Level meter)
+- Soldering irons (Tool type: Soldering iron)
+- Staple guns (Tool type: Staple guns)
+- Strap guns (Tool type: Staple guns)
+- Syringes (Tool type: Resin guns)
+- Tampers (Tool type: Tampers)
+- Tone generators (Tool type: Signal generators)
+- Tone sets (Tool type: Signal generators)
+- Tone tracers (Tool type: Signal generators)
+- Torpedo levels (Tool type: Levels)
+- Trenchers (Tool type: Trenching machines)
+- Two way radios (Tool type: Two way radios)
+- Volt-ohm meters VOM (Tool type: Ohmmeters)
+- Winch trucks (Tool type: Tow trucks)
+- Wire lug crimping tools (Tool type: Wire lug crimping tool)
+- Wire wrap guns (Tool type: Wire wrapping tool)
+- Wireless access points WAP (Tool type: WLAN wireless access network equipment and components)
+
+# WORK CONTEXT
+- Conflict Situations: Once a week or more but not every day
+- Consequence of Error: Very serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a month or more but not every week
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Once a week or more but not every day
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Once a month or more but not every week
+- Exposed to Hazardous Conditions: Every day
+- Exposed to Hazardous Equipment: Every day
+- Exposed to High Places: Every day
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Every day
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Every day
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Moderate responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Very important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Every day
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Every day
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Every day
+- Outdoors, Under Cover: Every day
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: More than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Less than half the time
+- Spend Time Keeping or Regaining Balance: Less than half the time
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: About half the time
+- Spend Time Making Repetitive Motions: More than half the time
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: More than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: More than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Every day
+- Work Outcomes and Results of Other Workers: Moderate responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Telecommunications Equipment Installers and Repairers, Except Line Installers
+- Electrical Power-Line Installers and Repairers
+- Radio, Cellular, and Tower Equipment Installers and Repairers
+- Audiovisual Equipment Installers and Repairers
+- Electrical and Electronics Installers and Repairers, Transportation Equipment
+- Electricians
+- Electrical and Electronics Repairers, Commercial and Industrial Equipment
+- Telecommunications Engineering Specialists
+- Security and Fire Alarm Systems Installers
+- Electronic Equipment Installers and Repairers, Motor Vehicles
+- Power Distributors and Dispatchers
+- Helpers--Electricians
+- Lighting Technicians
+- Hoist and Winch Operators
+- Signal and Track Switch Repairers
+- Electrical and Electronics Repairers, Powerhouse, Substation, and Relay
+- Electric Motor, Power Tool, and Related Repairers
+- Pipelayers
+- Electrical and Electronic Equipment Assemblers
+- Electromechanical Equipment Assemblers

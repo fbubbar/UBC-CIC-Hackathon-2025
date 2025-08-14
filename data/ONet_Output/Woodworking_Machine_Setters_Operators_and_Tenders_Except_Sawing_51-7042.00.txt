@@ -1,0 +1,276 @@
+Job Title: Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+O*NET-SOC Code: 51-7042.00
+
+# DESCRIPTION
+Set up, operate, or tend woodworking machines, such as drill presses, lathes, shapers, routers, sanders, planers, and wood nailing machines. May operate computer numerically controlled (CNC) equipment.
+
+# TASKS
+- Set up, program, operate, or tend computerized or manual woodworking machines, such as drill presses, lathes, shapers, routers, sanders, planers, or wood-nailing machines.
+- Examine finished workpieces for smoothness, shape, angle, depth-of-cut, or conformity to specifications and verify dimensions, visually and using hands, rules, calipers, templates, or gauges.
+- Start machines, adjust controls, and make trial cuts to ensure that machinery is operating properly.
+- Monitor operation of machines and make adjustments to correct problems and ensure conformance to specifications.
+- Examine raw woodstock for defects and to ensure conformity to size and other specification standards.
+- Adjust machine tables or cutting devices and set controls on machines to produce specified cuts or operations.
+- Install and adjust blades, cutterheads, boring-bits, or sanding-belts, using hand tools and rules.
+- Change alignment and adjustment of sanding, cutting, or boring machine guides to prevent defects in finished products, using hand tools.
+- Determine product specifications and materials, work methods, and machine setup requirements, according to blueprints, oral or written instructions, drawings, or work orders.
+- Feed stock through feed mechanisms or conveyors into planing, shaping, boring, mortising, or sanding machines to produce desired components.
+- Push or hold workpieces against, under, or through cutting, boring, or shaping mechanisms.
+- Select knives, saws, blades, cutter heads, cams, bits, or belts, according to workpiece, machine functions, or product specifications.
+- Remove and replace worn parts, bits, belts, sandpaper, or shaping tools.
+- Secure woodstock against a guide or in a holding device, place woodstock on a conveyor, or dump woodstock in a hopper to feed woodstock into machines.
+- Inspect and mark completed workpieces and stack them on pallets, in boxes, or on conveyors so that they can be moved to the next workstation.
+- Inspect pulleys, drive belts, guards, or fences on machines to ensure that machines will operate safely.
+- Clean or maintain products, machines, or work areas.
+- Attach and adjust guides, stops, clamps, chucks, or feed mechanisms, using hand tools.
+- Trim wood parts according to specifications, using planes, chisels, or wood files or sanders.
+- Grease or oil woodworking machines.
+- Unclamp workpieces and remove them from machines.
+- Start machines and move levers to engage hydraulic lifts that press woodstocks into desired forms and disengage lifts after appropriate drying times.
+- Operate gluing machines to glue pieces of wood together, or to press and affix wood veneer to wood surfaces.
+- Set up, program, or control computer-aided design (CAD) or computer numerical control (CNC) machines.
+- Control hoists to remove parts or products from work stations.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 3.26/5 | Level: 3.63/7)
+- Production and Processing (Importance: 2.95/5 | Level: 2.9/7)
+- Mathematics (Importance: 2.92/5 | Level: 2.87/7)
+- Public Safety and Security (Importance: 2.51/5 | Level: 2.2/7)
+- Building and Construction (Importance: 2.37/5 | Level: 2.19/7)
+- Education and Training (Importance: 2.35/5 | Level: 2.64/7)
+- Design (Importance: 2.3/5 | Level: 2.02/7)
+- English Language (Importance: 2.28/5 | Level: 2.07/7)
+- Administration and Management (Importance: 1.98/5 | Level: 1.49/7)
+- Transportation (Importance: 1.95/5 | Level: 1.41/7)
+- Engineering and Technology (Importance: 1.9/5 | Level: 1.57/7)
+- Customer and Personal Service (Importance: 1.8/5 | Level: 1.57/7)
+- Computers and Electronics (Importance: 1.78/5 | Level: 1.59/7)
+- Chemistry (Importance: 1.73/5 | Level: 1.83/7)
+- Sales and Marketing (Importance: 1.66/5 | Level: 0.86/7)
+- Personnel and Human Resources (Importance: 1.65/5 | Level: 0.88/7)
+- Physics (Importance: 1.56/5 | Level: 1.28/7)
+- Medicine and Dentistry (Importance: 1.4/5 | Level: 0.58/7)
+- Administrative (Importance: 1.38/5 | Level: 0.59/7)
+- Psychology (Importance: 1.36/5 | Level: 0.68/7)
+- Communications and Media (Importance: 1.28/5 | Level: 0.7/7)
+- Economics and Accounting (Importance: 1.26/5 | Level: 0.64/7)
+- Therapy and Counseling (Importance: 1.21/5 | Level: 0.48/7)
+- Biology (Importance: 1.19/5 | Level: 0.41/7)
+- Telecommunications (Importance: 1.15/5 | Level: 0.15/7)
+- Foreign Language (Importance: 1.12/5 | Level: 0.18/7)
+- Philosophy and Theology (Importance: 1.11/5 | Level: 0.26/7)
+- Law and Government (Importance: 1.1/5 | Level: 0.27/7)
+- Sociology and Anthropology (Importance: 1.07/5 | Level: 0.08/7)
+- Geography (Importance: 1.03/5 | Level: 0.09/7)
+- Food Production (Importance: 1.02/5 | Level: 0.03/7)
+- History and Archeology (Importance: 1.0/5 | Level: 0.0/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operations Monitoring (Importance: 3.62/5 | Level: 3.5/7)
+- Operation and Control (Importance: 3.5/5 | Level: 3.25/7)
+- Quality Control Analysis (Importance: 3.25/5 | Level: 3.0/7)
+- Monitoring (Importance: 3.12/5 | Level: 2.88/7)
+- Troubleshooting (Importance: 3.0/5 | Level: 3.0/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 2.88/7)
+- Equipment Maintenance (Importance: 3.0/5 | Level: 3.0/7)
+- Speaking (Importance: 3.0/5 | Level: 2.5/7)
+- Equipment Selection (Importance: 2.88/5 | Level: 2.5/7)
+- Judgment and Decision Making (Importance: 2.88/5 | Level: 2.12/7)
+- Repairing (Importance: 2.88/5 | Level: 3.0/7)
+- Active Listening (Importance: 2.88/5 | Level: 2.75/7)
+- Complex Problem Solving (Importance: 2.75/5 | Level: 2.5/7)
+- Time Management (Importance: 2.75/5 | Level: 2.12/7)
+- Reading Comprehension (Importance: 2.75/5 | Level: 2.75/7)
+- Active Learning (Importance: 2.5/5 | Level: 2.12/7)
+- Mathematics (Importance: 2.38/5 | Level: 2.5/7)
+- Social Perceptiveness (Importance: 2.25/5 | Level: 2.0/7)
+- Learning Strategies (Importance: 2.25/5 | Level: 2.12/7)
+- Coordination (Importance: 2.12/5 | Level: 2.0/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 1.62/7)
+- Negotiation (Importance: 1.88/5 | Level: 1.38/7)
+- Service Orientation (Importance: 1.88/5 | Level: 1.38/7)
+- Installation (Importance: 1.88/5 | Level: 1.25/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.38/7)
+- Instructing (Importance: 1.88/5 | Level: 1.75/7)
+- Writing (Importance: 1.88/5 | Level: 1.75/7)
+- Persuasion (Importance: 1.88/5 | Level: 1.75/7)
+- Management of Personnel Resources (Importance: 1.88/5 | Level: 1.5/7)
+- Operations Analysis (Importance: 1.88/5 | Level: 1.62/7)
+- Management of Material Resources (Importance: 1.75/5 | Level: 1.12/7)
+- Systems Analysis (Importance: 1.75/5 | Level: 0.88/7)
+- Programming (Importance: 1.75/5 | Level: 1.12/7)
+- Management of Financial Resources (Importance: 1.62/5 | Level: 0.62/7)
+- Science (Importance: 1.5/5 | Level: 0.5/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adobe Acrobat (Tech skill type: Document management software)
+- Adobe Creative Cloud software (Tech skill type: Graphics or photo imaging software)
+- Adobe Illustrator (Tech skill type: Graphics or photo imaging software)
+- Adobe InDesign (Tech skill type: Desktop publishing software)
+- Adobe Photoshop (Tech skill type: Graphics or photo imaging software)
+- Apple macOS (Tech skill type: Operating system software)
+- AS/400 Database (Tech skill type: Data base user interface and query software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Computer aided design and drafting CADD software (Tech skill type: Computer aided design CAD software)
+- Computer aided manufacturing CAM software (Tech skill type: Computer aided manufacturing CAM software)
+- Computerized numerical control CNC software (Tech skill type: Industrial control software)
+- Dassault Systemes CATIA (Tech skill type: Computer aided design CAD software)
+- Dassault Systemes SolidWorks (Tech skill type: Computer aided manufacturing CAM software)
+- Enterprise resource planning ERP software (Tech skill type: Enterprise resource planning ERP software)
+- Inventory control software (Tech skill type: Inventory management software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft operating system (Tech skill type: Operating system software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- Timekeeping software (Tech skill type: Time accounting software)
+- Vero Software ALPHACAM (Tech skill type: Computer aided design CAD software)
+- Word processing software (Tech skill type: Word processing software)
+- YouTube (Tech skill type: Video creation and editing software)
+
+## TOOLS USED
+- Adjustable hand wrenches (Tool type: Adjustable wrenches)
+- Automatic panel saws (Tool type: Power saws)
+- Bench grinders (Tool type: Power grinders)
+- Biscuit jointers (Tool type: Biscuit jointers)
+- Boring bars (Tool type: Boring machines)
+- Boring machines (Tool type: Boring machines)
+- Case clamps (Tool type: Positioning jig)
+- Claw hammers (Tool type: Claw hammer)
+- Combination squares (Tool type: Squares)
+- Computer terminals (Tool type: Mainframe console or dumb terminals)
+- Computerized numerical control CNC boring machines (Tool type: Boring machines)
+- Conveyor feeders (Tool type: Conveyor feeders)
+- Desktop computers (Tool type: Desktop computers)
+- Dial calipers (Tool type: Calipers)
+- Digital calipers (Tool type: Calipers)
+- Dividers (Tool type: Compasses)
+- Double end tenoners (Tool type: Cutting machines)
+- Drill presses (Tool type: Drilling machines)
+- Edge sanders (Tool type: Sanding machines)
+- Grease guns (Tool type: Grease guns)
+- Hand lathes (Tool type: Wood gouge)
+- Handsaws (Tool type: Saws)
+- Height gauges (Tool type: Height gauges)
+- Holding clamps (Tool type: Hold down clamps)
+- Holding jigs (Tool type: Positioning jig)
+- Hydraulic hot presses (Tool type: Hydraulic press frames)
+- Lathes (Tool type: Tracer or duplicating or contouring lathe)
+- Layout templates (Tool type: Templates)
+- Line boring machines (Tool type: Boring machines)
+- Machining centers (Tool type: Milling machines)
+- Nailing machines (Tool type: Power nail guns)
+- Paint application brushes (Tool type: Paint brushes)
+- Planers (Tool type: Planing machines)
+- Planing machines (Tool type: Planing machines)
+- Pneumatic sanding machines (Tool type: Pneumatic sanding machines)
+- Power routers (Tool type: Power routers)
+- Power sanders (Tool type: Power sanders)
+- Precision rulers (Tool type: Rulers)
+- Profile grinders (Tool type: Grinding machines)
+- Protective ear muffs (Tool type: Acoustic ear muffs or defenders)
+- Protractors (Tool type: Protractors)
+- Random orbital sanders (Tool type: Power sanders)
+- Safety glasses (Tool type: Safety glasses)
+- Safety gloves (Tool type: Protective gloves)
+- Screw pocket machines (Tool type: Boring machines)
+- Shapers (Tool type: Planes)
+- Shaping machines (Tool type: Shaper cutter)
+- Spindle shapers (Tool type: Planes)
+- Spray guns (Tool type: Hand sprayers)
+- Tenoners (Tool type: Cutting machines)
+- Turning lathes (Tool type: Horizontal turning center)
+- Vernier calipers (Tool type: Calipers)
+- Wide belt sanders (Tool type: Sanding machines)
+- Wood files (Tool type: Cheesegrater file)
+- Woodworking chisels (Tool type: Wood chisels)
+
+# WORK CONTEXT
+- Conflict Situations: Never
+- Consequence of Error: Not serious at all
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Important
+- Deal With External Customers or the Public in General: Not important at all
+- Dealing With Unpleasant, Angry, or Discourteous People: Never
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Slightly automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Never
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Once a month or more but not every week
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Every day
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Every day
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Once a week or more but not every day
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Extremely important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Never
+- Indoors, Not Environmentally Controlled: Every day
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Very important
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Continually or almost continually
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Continually or almost continually
+- Spend Time Sitting: Never
+- Spend Time Standing: Continually or almost continually
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Never
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Never
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Sawing Machine Setters, Operators, and Tenders, Wood
+- Cutting and Slicing Machine Setters, Operators, and Tenders
+- Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic
+- Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic
+- Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Textile Cutting Machine Setters, Operators, and Tenders
+- Forging Machine Setters, Operators, and Tenders, Metal and Plastic
+- Rolling Machine Setters, Operators, and Tenders, Metal and Plastic
+- Grinding and Polishing Workers, Hand
+- Tool Grinders, Filers, and Sharpeners
+- Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Tool and Die Makers
+- Machine Feeders and Offbearers
+- Shoe Machine Operators and Tenders
+- Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders
+- Cutters and Trimmers, Hand
+- Paper Goods Machine Setters, Operators, and Tenders
+- Industrial Machinery Mechanics

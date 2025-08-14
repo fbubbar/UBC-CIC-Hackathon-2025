@@ -1,0 +1,316 @@
+Job Title: Construction and Building Inspectors
+O*NET-SOC Code: 47-4011.00
+
+# DESCRIPTION
+Inspect structures using engineering skills to determine structural soundness and compliance with specifications, building codes, and other regulations. Inspections may be general in nature or may be limited to a specific area, such as electrical systems or plumbing.
+
+# TASKS
+- Approve building plans that meet required specifications.
+- Review and interpret plans, blueprints, site layouts, specifications, or construction methods to ensure compliance to legal requirements and safety regulations.
+- Issue permits for construction, relocation, demolition, or occupancy.
+- Inspect bridges, dams, highways, buildings, wiring, plumbing, electrical circuits, sewers, heating systems, or foundations during and after construction for structural quality, general safety, or conformance to specifications and codes.
+- Monitor installation of plumbing, wiring, equipment, or appliances to ensure that installation is performed properly and is in compliance with applicable regulations.
+- Inspect and monitor construction sites to ensure adherence to safety standards, building codes, or specifications.
+- Confer with owners, violators, or authorities to explain regulations or recommend remedial actions.
+- Measure dimensions and verify level, alignment, or elevation of structures or fixtures to ensure compliance to building plans and codes.
+- Maintain daily logs and supplement inspection records with photographs.
+- Conduct inspections, using survey instruments, metering devices, tape measures, or test equipment.
+- Train, direct, or supervise other construction inspectors.
+- Monitor construction activities to ensure that environmental regulations are not violated.
+- Evaluate project details to ensure adherence to environmental regulations.
+- Inspect facilities or installations to determine their environmental impact.
+- Examine lifting or conveying devices, such as elevators, escalators, moving sidewalks, hoists, inclined railways, ski lifts, or amusement rides to ensure safety and proper functioning.
+- Conduct environmental hazard inspections to identify or quantify problems, such as asbestos, poor air quality, water contamination, or other environmental hazards.
+- Estimate cost of completed work or of needed renovations or upgrades.
+- Evaluate premises for cleanliness, such as proper garbage disposal or lack of vermin infestation.
+- Sample and test air to identify gasses, such as bromine, ozone, or sulfur dioxide, or particulates, such as mold, dust, or allergens.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Building and Construction (Importance: 4.68/5 | Level: 5.76/7)
+- Public Safety and Security (Importance: 4.04/5 | Level: 4.48/7)
+- English Language (Importance: 3.96/5 | Level: 4.08/7)
+- Customer and Personal Service (Importance: 3.62/5 | Level: 5.08/7)
+- Law and Government (Importance: 3.48/5 | Level: 3.84/7)
+- Design (Importance: 3.48/5 | Level: 4.56/7)
+- Mathematics (Importance: 3.44/5 | Level: 4.0/7)
+- Administration and Management (Importance: 3.4/5 | Level: 3.76/7)
+- Mechanical (Importance: 3.32/5 | Level: 4.24/7)
+- Computers and Electronics (Importance: 3.28/5 | Level: 4.0/7)
+- Administrative (Importance: 3.28/5 | Level: 4.2/7)
+- Engineering and Technology (Importance: 3.2/5 | Level: 3.54/7)
+- Education and Training (Importance: 3.12/5 | Level: 4.2/7)
+- Personnel and Human Resources (Importance: 2.68/5 | Level: 3.16/7)
+- Physics (Importance: 2.56/5 | Level: 3.08/7)
+- Communications and Media (Importance: 2.48/5 | Level: 2.64/7)
+- Telecommunications (Importance: 2.48/5 | Level: 1.88/7)
+- Economics and Accounting (Importance: 2.38/5 | Level: 2.32/7)
+- Geography (Importance: 2.32/5 | Level: 2.52/7)
+- Psychology (Importance: 2.16/5 | Level: 2.28/7)
+- Transportation (Importance: 2.16/5 | Level: 1.8/7)
+- Chemistry (Importance: 2.08/5 | Level: 2.36/7)
+- Production and Processing (Importance: 2.04/5 | Level: 1.8/7)
+- Sales and Marketing (Importance: 1.96/5 | Level: 1.76/7)
+- Foreign Language (Importance: 1.88/5 | Level: 1.52/7)
+- History and Archeology (Importance: 1.8/5 | Level: 1.68/7)
+- Sociology and Anthropology (Importance: 1.64/5 | Level: 1.24/7)
+- Biology (Importance: 1.54/5 | Level: 1.04/7)
+- Food Production (Importance: 1.44/5 | Level: 0.72/7)
+- Therapy and Counseling (Importance: 1.36/5 | Level: 0.68/7)
+- Medicine and Dentistry (Importance: 1.28/5 | Level: 0.56/7)
+- Philosophy and Theology (Importance: 1.28/5 | Level: 0.76/7)
+- Fine Arts (Importance: 1.04/5 | Level: 0.08/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.0/7)
+- Critical Thinking (Importance: 3.88/5 | Level: 3.88/7)
+- Active Listening (Importance: 3.75/5 | Level: 3.88/7)
+- Speaking (Importance: 3.75/5 | Level: 3.88/7)
+- Complex Problem Solving (Importance: 3.38/5 | Level: 3.0/7)
+- Judgment and Decision Making (Importance: 3.38/5 | Level: 3.38/7)
+- Time Management (Importance: 3.25/5 | Level: 3.25/7)
+- Systems Evaluation (Importance: 3.25/5 | Level: 3.0/7)
+- Active Learning (Importance: 3.12/5 | Level: 3.12/7)
+- Persuasion (Importance: 3.12/5 | Level: 3.0/7)
+- Writing (Importance: 3.12/5 | Level: 3.12/7)
+- Instructing (Importance: 3.0/5 | Level: 3.0/7)
+- Negotiation (Importance: 3.0/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 3.0/7)
+- Quality Control Analysis (Importance: 3.0/5 | Level: 3.12/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 3.0/7)
+- Systems Analysis (Importance: 3.0/5 | Level: 3.0/7)
+- Monitoring (Importance: 3.0/5 | Level: 3.0/7)
+- Mathematics (Importance: 3.0/5 | Level: 3.38/7)
+- Management of Personnel Resources (Importance: 2.88/5 | Level: 3.0/7)
+- Coordination (Importance: 2.88/5 | Level: 3.0/7)
+- Operations Monitoring (Importance: 2.75/5 | Level: 2.88/7)
+- Service Orientation (Importance: 2.62/5 | Level: 2.75/7)
+- Science (Importance: 2.5/5 | Level: 2.25/7)
+- Operations Analysis (Importance: 2.0/5 | Level: 1.88/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.0/7)
+- Troubleshooting (Importance: 1.88/5 | Level: 1.75/7)
+- Operation and Control (Importance: 1.88/5 | Level: 1.75/7)
+- Technology Design (Importance: 1.75/5 | Level: 0.75/7)
+- Programming (Importance: 1.62/5 | Level: 0.62/7)
+- Management of Financial Resources (Importance: 1.5/5 | Level: 0.62/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Arc Second PocketCAD (Tech skill type: Computer aided design CAD software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Automated permit system software (Tech skill type: Compliance software)
+- Calendar and scheduling software (Tech skill type: Calendar and scheduling software)
+- Database software (Tech skill type: Data base user interface and query software)
+- Email software (Tech skill type: Electronic mail software)
+- ESRI ArcView (Tech skill type: Geographic information system)
+- Inspection Depot Home Guide System (Tech skill type: Word processing software)
+- Internet browser software (Tech skill type: Internet browser software)
+- Intuit QuickBooks (Tech skill type: Accounting software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Exchange (Tech skill type: Electronic mail software)
+- Microsoft Internet Explorer (Tech skill type: Internet browser software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Mobile building inspection software (Tech skill type: Data base reporting software)
+- Municipal geographic management software (Tech skill type: Enterprise resource planning ERP software)
+- New construction inspection form software (Tech skill type: Word processing software)
+- NorthWest Builders Network Plan Analyst (Tech skill type: Compliance software)
+- OptaSoft Commercial Building Inspector (Tech skill type: Compliance software)
+- Oracle Primavera Enterprise Project Portfolio Management (Tech skill type: Project management software)
+- Oracle Primavera Systems (Tech skill type: Project management software)
+- Quicken (Tech skill type: Accounting software)
+- Real estate and tax software (Tech skill type: Data base user interface and query software)
+- Residential home inspection form software (Tech skill type: Word processing software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- Trimble Digital Fieldbook (Tech skill type: Map creation software)
+- Vision Software (Tech skill type: Procurement software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- 10-key calculators (Tool type: Desktop calculator)
+- Adjustable widemouth pliers (Tool type: Adjustable widemouth pliers)
+- Adjustable wrenches (Tool type: Adjustable wrenches)
+- Air sampling devices (Tool type: Air samplers or collectors)
+- Air sampling pumps (Tool type: Air sampling pumps)
+- Air velocity and temperature meters (Tool type: Air velocity and temperature monitors)
+- Airflow meters (Tool type: Air velocity and temperature monitors)
+- Arc receptacle testers (Tool type: GFI circuit testers)
+- Architects' scales (Tool type: Scales)
+- Asphalt thermometers (Tool type: Surface thermometers)
+- Automatic levels (Tool type: Levels)
+- Axes (Tool type: Axes)
+- Borescopes (Tool type: Borescope inspection equipment)
+- Carbon monoxide detectors (Tool type: Carbon monoxide analyzer)
+- Chlorine meters (Tool type: Single gas monitors)
+- Circuit analyzers (Tool type: Circuit tester)
+- Clamp-on multimeters (Tool type: Multimeters)
+- Combustible gas detectors (Tool type: Gas detectors)
+- Computerized data collectors (Tool type: Portable data input terminals)
+- Concrete strength measurers (Tool type: Concrete or cement testing instruments)
+- Concrete testers (Tool type: Concrete or cement testing instruments)
+- Conductivity meters (Tool type: Conductivity meters)
+- Continuity testers (Tool type: Circuit tester)
+- Cordless drills (Tool type: Power drills)
+- Desktop computers (Tool type: Desktop computers)
+- Digital cameras (Tool type: Digital cameras)
+- Digital multimeters (Tool type: Multimeters)
+- Dissolved oxygen meters (Tool type: Dissolved oxygen meters)
+- Distance measuring wheels (Tool type: Measuring wheels for distance)
+- Drafting tools (Tool type: Drafting kits or sets)
+- Electrical circuit testers (Tool type: Circuit tester)
+- Electronic distance measuring equipment (Tool type: Distance meters)
+- Electronic levels (Tool type: Levels)
+- Engineering scales (Tool type: Scales)
+- Force gauges (Tool type: Force or torque sensors)
+- Gas leak detection devices (Tool type: Gas detectors)
+- Ground fault circuit interrupter GFCI testers (Tool type: GFI circuit testers)
+- Ground resistance testers (Tool type: Calibrated resistance measuring equipment)
+- Handheld thermometers (Tool type: Handheld thermometer)
+- Hydrometers (Tool type: Hydrometers)
+- Hygrometers (Tool type: Hygrometers)
+- Infrared thermometer lasers (Tool type: Thermographs)
+- Inspection mirrors (Tool type: Inspection mirror)
+- Insulation testers (Tool type: Insulation testers)
+- Laptop computers (Tool type: Notebook computers)
+- Laser fiches (Tool type: Microfiche or microfilm viewer components or accessories)
+- Laser measuring devices (Tool type: Laser measuring systems)
+- Laser printers (Tool type: Laser printers)
+- Levels (Tool type: Levels)
+- Light meters (Tool type: Lux or light meter)
+- Lock levels (Tool type: Levels)
+- Magnetic locators (Tool type: Metal detectors)
+- Manometers (Tool type: Manometers)
+- Map wheels (Tool type: Measuring wheels for distance)
+- Megohmeters (Tool type: Megohmmeters)
+- Microwave leakage detectors (Tool type: Microwave leakage meters)
+- Moisture meters (Tool type: Moisture meters)
+- Multimeters (Tool type: Multimeters)
+- Non-contact infrared thermometers (Tool type: Thermographs)
+- Notebook computers (Tool type: Notebook computers)
+- Optical levels (Tool type: Levels)
+- Optical scanners (Tool type: Optical character recognition systems)
+- pH meters (Tool type: pH meters)
+- Plumb bobs (Tool type: Plumb bobs)
+- Pocket personal computers PC (Tool type: Personal computers)
+- Pounds per square inch PSI test gauges (Tool type: Pressure or vacuum recorders)
+- Power analyzer dataloggers (Tool type: Power meters)
+- Pressure gauges (Tool type: Pressure or vacuum recorders)
+- Probe rods (Tool type: Electronic measuring probes)
+- Programmable calculators (Tool type: Scientific calculator)
+- Radon detection devices (Tool type: Radon detectors)
+- Refrigerant leak detectors (Tool type: Liquid leak detectors)
+- Refrigeration thermometers (Tool type: Remote reading thermometers)
+- Scanners (Tool type: Scanners)
+- Screwdrivers (Tool type: Screwdrivers)
+- Shovels (Tool type: Shovels)
+- Spectrometers (Tool type: Spectrometers)
+- Stud locators (Tool type: Stud finders)
+- Surface thermometers (Tool type: Surface thermometers)
+- Tablet computers (Tool type: Tablet computers)
+- Tape measures (Tool type: Tape measures)
+- Temperature/humidity testers (Tool type: Temperature humidity testers)
+- Theodolites (Tool type: Theodolites)
+- Torque meters (Tool type: Force or torque sensors)
+- Transit levels (Tool type: Level sensors or transmitters)
+- Two way radios (Tool type: Two way radios)
+- Ultrasonic leak detectors (Tool type: Liquid leak detectors)
+- Ultrasonic thickness gauges (Tool type: Ultrasonic examination equipment)
+- Vibration meters (Tool type: Vibration testers)
+- Video inspection cameras (Tool type: Digital camcorders or video cameras)
+- Volt-ammeters (Tool type: Ammeters)
+- Voltage testers (Tool type: Voltage or current meters)
+- Water pressure gauges (Tool type: Pressure indicators)
+- Water quality test kits (Tool type: Water analyzers)
+- Wearable mobile inspection computers (Tool type: Portable data input terminals)
+
+# WORK CONTEXT
+- Conflict Situations: Once a week or more but not every day
+- Consequence of Error: Serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Fairly important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a week or more but not every day
+- Dealing with Violent or Physically Aggressive People: Once a year or more but not every month
+- Degree of Automation: Slightly automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Once a month or more but not every week
+- Exposed to Cramped Work Space, Awkward Positions: Once a year or more but not every month
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Once a week or more but not every day
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Once a year or more but not every month
+- Exposed to High Places: Once a month or more but not every week
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Once a year or more but not every month
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Once a week or more but not every day
+- Exposed to Very Hot or Cold Temperatures: Once a week or more but not every day
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: High responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Very important
+- Importance of Repeating Same Tasks: Not important at all
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Every day
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Every day
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Every day
+- Outdoors, Under Cover: Every day
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Once a year or more but not every month
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Less than half the time
+- Spend Time Keeping or Regaining Balance: Less than half the time
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Less than half the time
+- Spend Time Sitting: About half the time
+- Spend Time Standing: About half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Less than half the time
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Once a year or more but not every month
+- Work Outcomes and Results of Other Workers: Limited responsibility
+- Work With or Contribute to a Work Group or Team: Very important
+- Written Letters and Memos: Every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Government Property Inspectors and Investigators
+- Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation
+- Civil Engineering Technologists and Technicians
+- First-Line Supervisors of Construction Trades and Extraction Workers
+- Aviation Inspectors
+- Solar Energy Installation Managers
+- Maintenance and Repair Workers, General
+- Plumbers, Pipefitters, and Steamfitters
+- Electricians
+- Energy Auditors
+- Construction Managers
+- Civil Engineers
+- Transportation Inspectors
+- Occupational Health and Safety Specialists
+- Health and Safety Engineers, Except Mining Safety Engineers and Inspectors
+- Inspectors, Testers, Sorters, Samplers, and Weighers
+- Industrial Engineers
+- Architects, Except Landscape and Naval
+- Facilities Managers
+- Fire Inspectors and Investigators

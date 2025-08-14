@@ -1,0 +1,266 @@
+Job Title: Financial and Investment Analysts
+O*NET-SOC Code: 13-2051.00
+
+# DESCRIPTION
+Conduct quantitative analyses of information involving investment programs or financial data of public or private institutions, including valuation of businesses.
+
+# TASKS
+- Advise clients on aspects of capitalization, such as amounts, sources, or timing.
+- Analyze financial or operational performance of companies facing financial difficulties to identify or recommend remedies.
+- Assess companies as investments for clients by examining company facilities.
+- Collaborate on projects with other professionals, such as lawyers, accountants, or public relations experts.
+- Collaborate with investment bankers to attract new corporate clients.
+- Conduct financial analyses related to investments in green construction or green retrofitting projects.
+- Confer with clients to restructure debt, refinance debt, or raise new debt.
+- Create client presentations of plan details.
+- Determine the prices at which securities should be syndicated and offered to the public.
+- Develop and maintain client relationships.
+- Draw charts and graphs, using computer spreadsheets, to illustrate technical reports.
+- Employ financial models to develop solutions to financial problems or to assess the financial or capital impact of transactions.
+- Evaluate and compare the relative quality of various securities in a given industry.
+- Evaluate capital needs of clients and assess market conditions to inform structuring of financial packages.
+- Inform investment decisions by analyzing financial information to forecast business, industry, or economic conditions.
+- Interpret data on price, yield, stability, future investment-risk trends, economic influences, and other factors affecting investment programs.
+- Monitor developments in the fields of industrial technology, business, finance, and economic theory.
+- Monitor fundamental economic, industrial, and corporate developments by analyzing information from financial publications and services, investment banking firms, government agencies, trade publications, company sources, or personal interviews.
+- Perform securities valuation or pricing.
+- Prepare all materials for transactions or execution of deals.
+- Prepare plans of action for investment, using financial analyses.
+- Present oral or written reports on general economic trends, individual corporations, and entire industries.
+- Purchase investments for companies in accordance with company policy.
+- Recommend investments and investment timing to companies, investment firm staff, or the public.
+- Specialize in green financial instruments, such as socially responsible mutual funds or exchange-traded funds (ETF) that are comprised of green companies.
+- Supervise, train, or mentor junior team members.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- No specific knowledge areas listed.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- No specific skills listed.
+
+# TECHNOLOGY SKILLS & TOOLS
+- Accounting software (Tech skill type: Accounting software)
+- ADP Workforce Now (Tech skill type: Human resources software)
+- Advanced Portfolio Technologies Report Builder (Tech skill type: Financial analysis software)
+- Advanced Portfolio Technologies Simulator (Tech skill type: Financial analysis software)
+- Alteryx software (Tech skill type: Business intelligence and data analysis software)
+- Analyse-it (Tech skill type: Analytical or scientific software)
+- AnalyzerXL (Tech skill type: Financial analysis software)
+- Annuities analysis software (Tech skill type: Financial analysis software)
+- Apache Hive (Tech skill type: Data base management system software)
+- Apache Pig (Tech skill type: Data base management system software)
+- Apple AppleWorks (Tech skill type: Spreadsheet software)
+- Apple Keynote (Tech skill type: Presentation software)
+- Aspen Graphics Technical Analysis Software (Tech skill type: Financial analysis software)
+- BizBench (Tech skill type: Financial analysis software)
+- BizPricer (Tech skill type: Financial analysis software)
+- Bloomberg Professional (Tech skill type: Financial analysis software)
+- Business Forecast Systems Forecast Pro (Tech skill type: Financial analysis software)
+- Business intelligence software (Tech skill type: Business intelligence and data analysis software)
+- Corel QuattroPro (Tech skill type: Spreadsheet software)
+- dailyVest Investment Personalization Platform (Tech skill type: Information retrieval or search software)
+- Data visualization software (Tech skill type: Analytical or scientific software)
+- DealMaven Comparable Company Valuation Analysis (Tech skill type: Financial analysis software)
+- DealMaven M&A Accretion/Dilution One-Pager (Tech skill type: Financial analysis software)
+- DealMaven Modeling ToolPack for Excel (Tech skill type: Financial analysis software)
+- DealMaven PresLink for PowerPoint and Word (Tech skill type: Presentation software)
+- Decisioneering Crystal Ball (Tech skill type: Analytical or scientific software)
+- Delphi Technology (Tech skill type: Financial analysis software)
+- Derivatives Imagine Trading System (Tech skill type: Financial analysis software)
+- Derivicom FinOptions XL (Tech skill type: Financial analysis software)
+- Economic forecasting software (Tech skill type: Financial analysis software)
+- Email software (Tech skill type: Electronic mail software)
+- Experian Credinomics (Tech skill type: Financial analysis software)
+- Express Business Valuations (Tech skill type: Financial analysis software)
+- FileMaker Pro (Tech skill type: Data base user interface and query software)
+- Financial modeling software (Tech skill type: Financial analysis software)
+- FinEng Solutions PerfoRM (Tech skill type: Financial analysis software)
+- FinEng Solutions Quantis (Tech skill type: Financial analysis software)
+- Fractal pattern analysis software (Tech skill type: Financial analysis software)
+- Fund accounting software (Tech skill type: Accounting software)
+- Genetic algorithm optimization software (Tech skill type: Financial analysis software)
+- Genetic algorithm software (Tech skill type: Analytical or scientific software)
+- Google Docs (Tech skill type: Word processing software)
+- Google Slides (Tech skill type: Presentation software)
+- Harland Financial Solutions DecisionPro (Tech skill type: Financial analysis software)
+- Human resource management software HRMS (Tech skill type: Human resources software)
+- I-flex Solutions Reveleus Investment Performance Measurement (Tech skill type: Financial analysis software)
+- IBM Cognos Impromptu (Tech skill type: Business intelligence and data analysis software)
+- IBM Lotus 1-2-3 (Tech skill type: Spreadsheet software)
+- IBM Lotus Approach (Tech skill type: Data base user interface and query software)
+- IBM Notes (Tech skill type: Electronic mail software)
+- IBM Power Systems software (Tech skill type: Enterprise system management software)
+- IBM SPSS Statistics (Tech skill type: Analytical or scientific software)
+- Innova Financial Solutions Derivatives Expert (Tech skill type: Financial analysis software)
+- Intuit QuickBooks (Tech skill type: Accounting software)
+- Ivorix Neurostrategy Finance (Tech skill type: Expert system software)
+- Keypoint DataDesk (Tech skill type: Analytical or scientific software)
+- Leading Market Technologies EXPO (Tech skill type: Financial analysis software)
+- LexisNexis (Tech skill type: Information retrieval or search software)
+- Longview Consolidation (Tech skill type: Financial analysis software)
+- Longview Performance Management Platform (Tech skill type: Financial analysis software)
+- Longview Solutions Khalix (Tech skill type: Financial analysis software)
+- Market forecast software (Tech skill type: Financial analysis software)
+- Marketo Marketing Automation (Tech skill type: Sales and marketing software)
+- Mathematical software (Tech skill type: Analytical or scientific software)
+- Matheny Pattern Forecaster Plus (Tech skill type: Expert system software)
+- MergerStat Control Premiums (Tech skill type: Financial analysis software)
+- MergerStat Price to Earnings Ratios (Tech skill type: Financial analysis software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Dynamics (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Dynamics GP (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Exchange (Tech skill type: Electronic mail software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft OneNote (Tech skill type: Word processing software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Power BI (Tech skill type: Business intelligence and data analysis software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft SharePoint Server (Tech skill type: Document management software)
+- Microsoft SQL Server (Tech skill type: Data base user interface and query software)
+- Microsoft SQL Server Reporting Services SSRS (Tech skill type: Data base reporting software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Visual Basic (Tech skill type: Development environment software)
+- Microsoft Visual Basic for Applications VBA (Tech skill type: Development environment software)
+- Microsoft Word (Tech skill type: Word processing software)
+- MicroStrategy (Tech skill type: Business intelligence and data analysis software)
+- MoneySoft Corporate Valuation (Tech skill type: Financial analysis software)
+- Monte Carlo simulation software (Tech skill type: Financial analysis software)
+- Montgomery Investment Technology Bonds XL (Tech skill type: Financial analysis software)
+- Montgomery Investment Technology Exotics XL (Tech skill type: Financial analysis software)
+- Montgomery Investment Technology FinTools (Tech skill type: Financial analysis software)
+- Montgomery Investment Technology Options XL (Tech skill type: Financial analysis software)
+- Montgomery Investment Technology QuoteTools (Tech skill type: Financial analysis software)
+- Montgomery Investment Technology Risk XL (Tech skill type: Financial analysis software)
+- Montgomery Investment Technology SigTools (Tech skill type: Financial analysis software)
+- Montgomery Investment Technology Utility XL (Tech skill type: Charting software)
+- Moody's KMV CreditEdge (Tech skill type: Financial analysis software)
+- Moody's RiskCalc (Tech skill type: Financial analysis software)
+- Moss Adams Profit Mentor (Tech skill type: Financial analysis software)
+- Mutual fund analysis software (Tech skill type: Financial analysis software)
+- NetSuite ERP (Tech skill type: Enterprise resource planning ERP software)
+- Neural network modeling software (Tech skill type: Analytical or scientific software)
+- NeuroSolutions for MatLab (Tech skill type: Expert system software)
+- NeuroSolutions Trading Solutions (Tech skill type: Financial analysis software)
+- OptionVue Options Analysis (Tech skill type: Financial analysis software)
+- Oracle Business Intelligence Enterprise Edition (Tech skill type: Business intelligence and data analysis software)
+- Oracle Database (Tech skill type: Data base user interface and query software)
+- Oracle E-Business Suite Financials (Tech skill type: Financial analysis software)
+- Oracle Essbase (Tech skill type: Data base user interface and query software)
+- Oracle Fusion Applications (Tech skill type: Enterprise resource planning ERP software)
+- Oracle Hyperion (Tech skill type: Enterprise resource planning ERP software)
+- Oracle Hyperion Financial Management (Tech skill type: Financial analysis software)
+- Oracle JD Edwards EnterpriseOne (Tech skill type: Enterprise resource planning ERP software)
+- Oracle PeopleSoft (Tech skill type: Enterprise resource planning ERP software)
+- Oracle PeopleSoft Financials (Tech skill type: Enterprise resource planning ERP software)
+- Oracle Primavera Enterprise Project Portfolio Management (Tech skill type: Project management software)
+- Palisade Bond @nalyst (Tech skill type: Financial analysis software)
+- Palisade Evolver (Tech skill type: Analytical or scientific software)
+- Palisade StatTools (Tech skill type: Analytical or scientific software)
+- Pattern recognition software (Tech skill type: Analytical or scientific software)
+- Peer-to-Peer Financial Analysis (Tech skill type: Financial analysis software)
+- Perforce Helix software (Tech skill type: Configuration management software)
+- Pi Blue OptWorks Excel (Tech skill type: Financial analysis software)
+- Portfolio management software (Tech skill type: Financial analysis software)
+- Pricing software (Tech skill type: Financial analysis software)
+- Qlik Tech QlikView (Tech skill type: Business intelligence and data analysis software)
+- Quantifying marketability discount QMD modeling software (Tech skill type: Financial analysis software)
+- R (Tech skill type: Object or component oriented development software)
+- Report generation software (Tech skill type: Word processing software)
+- Reporting software (Tech skill type: Data base reporting software)
+- RiskMetrics Group WealthBench (Tech skill type: Financial analysis software)
+- Sage 50 Accounting (Tech skill type: Accounting software)
+- Salesforce software (Tech skill type: Customer relationship management CRM software)
+- SAP Business Objects (Tech skill type: Enterprise resource planning ERP software)
+- SAP BusinessObjects Data Integrator (Tech skill type: Enterprise resource planning ERP software)
+- SAP Crystal Reports (Tech skill type: Data base reporting software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- SAS (Tech skill type: Analytical or scientific software)
+- SAS JMP (Tech skill type: Analytical or scientific software)
+- Securities analysis software (Tech skill type: Financial analysis software)
+- Spreadware Business Financial Analysis (Tech skill type: Financial analysis software)
+- Spreadware Business Valuator (Tech skill type: Financial analysis software)
+- Spreadware Pro Forma (Tech skill type: Financial analysis software)
+- SSA Global Infinium Financial Management (Tech skill type: Enterprise resource planning ERP software)
+- StataCorp Stata (Tech skill type: Analytical or scientific software)
+- Steele Mutual Fund and Variable Annuity Expert (Tech skill type: Financial analysis software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- SunGard BancWare (Tech skill type: Financial analysis software)
+- SunGard Kiodex Risk Workbench (Tech skill type: Financial analysis software)
+- Tableau (Tech skill type: Business intelligence and data analysis software)
+- Tax software (Tech skill type: Accounting software)
+- TechHackers Convertible Bond @nalyst (Tech skill type: Financial analysis software)
+- TechHackers Credit @nalyst (Tech skill type: Financial analysis software)
+- TechHackers Exotic @nalyst (Tech skill type: Financial analysis software)
+- TechHackers Financial @nalyst (Tech skill type: Financial analysis software)
+- TechHackers IRO @nalyst (Tech skill type: Financial analysis software)
+- TechHackers MBS @nalyst (Tech skill type: Financial analysis software)
+- TechHackers Swap @nalyst (Tech skill type: Financial analysis software)
+- Teradata Database (Tech skill type: Data base management system software)
+- Tetrahex Fractal Finance (Tech skill type: Financial analysis software)
+- The MathWorks MATLAB (Tech skill type: Analytical or scientific software)
+- TickQuest NeoTicker (Tech skill type: Charting software)
+- Tips Standard Securities Calculation Bond Analytics Module (Tech skill type: Financial analysis software)
+- Tips Standard Securities Calculation Mortgage-Backed Analytics Module (Tech skill type: Financial analysis software)
+- TradeTools Financial Market Databases (Tech skill type: Information retrieval or search software)
+- TradeTools Monthly U.S. Economic Database (Tech skill type: Information retrieval or search software)
+- Trendsetter Software ProAnalyst (Tech skill type: Financial analysis software)
+- Unlimited Learning Resources Valusource Pro (Tech skill type: Financial analysis software)
+- ValuSource BIZCOMPS (Tech skill type: Financial analysis software)
+- Ward Systems Group GeneHunter (Tech skill type: Analytical or scientific software)
+- Ward Systems Group NeuralShell Predictor (Tech skill type: Analytical or scientific software)
+- Ward Systems Group NeuroShell Trader (Tech skill type: Information retrieval or search software)
+- Web browser software (Tech skill type: Internet browser software)
+- Whitebirch Software Projected Financials (Tech skill type: Financial analysis software)
+- Wolfram Research Derivatives (Tech skill type: Financial analysis software)
+- Wolfram Research Mathematica (Tech skill type: Analytical or scientific software)
+- Wolfram Research Mathematica Finance Essentials (Tech skill type: Financial analysis software)
+- Wolfram Research Mathematica UnRisk Pricing Engine (Tech skill type: Financial analysis software)
+- Workday software (Tech skill type: Enterprise resource planning ERP software)
+- Yardi software (Tech skill type: Data base user interface and query software)
+
+## TOOLS USED
+- 10-key calculators (Tool type: Desktop calculator)
+- Computer data input scanners (Tool type: Scanners)
+- Desktop computers (Tool type: Desktop computers)
+- Laptop computers (Tool type: Notebook computers)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Multi-line telephone systems (Tool type: Special purpose telephones)
+- Notebook computers (Tool type: Notebook computers)
+- Personal computers (Tool type: Personal computers)
+- Photocopying equipment (Tool type: Photocopiers)
+- Tablet computers (Tool type: Tablet computers)
+
+# WORK CONTEXT
+- No specific work context listed.
+
+# INTERESTS (RIASEC)
+- Primary Interest: Conventional
+- Secondary Interest: Enterprising
+- Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Personal Financial Advisors
+- Securities, Commodities, and Financial Services Sales Agents
+- Investment Fund Managers
+- Financial Risk Specialists
+- Financial Quantitative Analysts
+- Credit Analysts
+- Financial Managers
+- Loan Officers
+- Brokerage Clerks
+- Business Intelligence Analysts
+- Market Research Analysts and Marketing Specialists
+- Financial Examiners
+- Credit Counselors
+- Economists
+- Accountants and Auditors
+- Management Analysts
+- Real Estate Brokers
+- New Accounts Clerks
+- Marketing Managers
+- Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel

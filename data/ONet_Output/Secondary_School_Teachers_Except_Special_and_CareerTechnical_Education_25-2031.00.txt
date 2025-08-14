@@ -1,0 +1,248 @@
+Job Title: Secondary School Teachers, Except Special and Career/Technical Education
+O*NET-SOC Code: 25-2031.00
+
+# DESCRIPTION
+Teach one or more subjects to students at the secondary school level.
+
+# TASKS
+- Prepare materials and classrooms for class activities.
+- Instruct through lectures, discussions, and demonstrations in one or more subjects, such as English, mathematics, or social studies.
+- Establish clear objectives for all lessons, units, and projects, and communicate those objectives to students.
+- Establish and enforce rules for behavior and procedures for maintaining order among students.
+- Adapt teaching methods and instructional materials to meet students' varying needs and interests.
+- Maintain accurate and complete student records as required by laws, district policies, and administrative regulations.
+- Observe and evaluate students' performance, behavior, social development, and physical health.
+- Plan and conduct activities for a balanced program of instruction, demonstration, and work time that provides students with opportunities to observe, question, and investigate.
+- Confer with parents or guardians, other teachers, counselors, and administrators to resolve students' behavioral and academic problems.
+- Assign and grade class work and homework.
+- Prepare, administer, and grade tests and assignments to evaluate students' progress.
+- Prepare students for later grades by encouraging them to explore learning opportunities and to persevere with challenging tasks.
+- Use computers, audio-visual aids, and other equipment and materials to supplement presentations.
+- Instruct and monitor students in the use of equipment and materials to prevent injuries and damage.
+- Enforce all administration policies and rules governing students.
+- Guide and counsel students with adjustments, academic problems, or special academic interests.
+- Meet with other professionals to discuss individual students' needs and progress.
+- Prepare and implement remedial programs for students requiring extra help.
+- Meet with parents and guardians to discuss their children's progress and to determine priorities for their children and their resource needs.
+- Prepare objectives and outlines for courses of study, following curriculum guidelines or requirements of states and schools.
+- Confer with other staff members to plan and schedule lessons promoting learning, following approved curricula.
+- Collaborate with other teachers and administrators in the development, evaluation, and revision of secondary school programs.
+- Prepare reports on students and activities as required by administration.
+- Prepare for assigned classes, and show written evidence of preparation upon request of immediate supervisors.
+- Plan and supervise class projects, field trips, visits by guest speakers, or other experiential activities, and guide students in learning from those activities.
+- Attend professional meetings, educational conferences, and teacher training workshops to maintain and improve professional competence.
+- Perform administrative duties, such as school library assistance, hall and cafeteria monitoring, and bus loading and unloading.
+- Attend staff meetings and serve on committees, as required.
+- Select, store, order, issue, and inventory classroom equipment, materials, and supplies.
+- Sponsor extracurricular activities, such as clubs, student organizations, and academic contests.
+- Administer standardized ability and achievement tests, and interpret results to determine students' strengths and needs.
+- Provide students with disabilities with assistive devices, supportive technology, and assistance accessing facilities such as restrooms.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- English Language (Importance: 4.56/5 | Level: 5.21/7)
+- Education and Training (Importance: 4.55/5 | Level: 5.76/7)
+- Psychology (Importance: 3.7/5 | Level: 3.96/7)
+- Computers and Electronics (Importance: 3.47/5 | Level: 4.2/7)
+- Customer and Personal Service (Importance: 3.3/5 | Level: 4.15/7)
+- Public Safety and Security (Importance: 3.22/5 | Level: 2.93/7)
+- Mathematics (Importance: 3.1/5 | Level: 3.69/7)
+- Sociology and Anthropology (Importance: 3.0/5 | Level: 3.64/7)
+- Administration and Management (Importance: 2.96/5 | Level: 2.56/7)
+- Personnel and Human Resources (Importance: 2.91/5 | Level: 3.19/7)
+- Administrative (Importance: 2.88/5 | Level: 3.67/7)
+- Communications and Media (Importance: 2.79/5 | Level: 2.88/7)
+- Therapy and Counseling (Importance: 2.65/5 | Level: 2.85/7)
+- Philosophy and Theology (Importance: 2.5/5 | Level: 3.23/7)
+- Geography (Importance: 2.49/5 | Level: 2.94/7)
+- Law and Government (Importance: 2.44/5 | Level: 1.99/7)
+- History and Archeology (Importance: 2.41/5 | Level: 2.97/7)
+- Fine Arts (Importance: 2.41/5 | Level: 2.18/7)
+- Biology (Importance: 2.34/5 | Level: 2.34/7)
+- Chemistry (Importance: 2.25/5 | Level: 2.2/7)
+- Telecommunications (Importance: 2.1/5 | Level: 1.1/7)
+- Foreign Language (Importance: 2.07/5 | Level: 1.8/7)
+- Design (Importance: 2.03/5 | Level: 1.86/7)
+- Engineering and Technology (Importance: 2.02/5 | Level: 1.79/7)
+- Transportation (Importance: 1.95/5 | Level: 1.77/7)
+- Medicine and Dentistry (Importance: 1.92/5 | Level: 1.78/7)
+- Physics (Importance: 1.9/5 | Level: 1.68/7)
+- Production and Processing (Importance: 1.84/5 | Level: 1.52/7)
+- Sales and Marketing (Importance: 1.77/5 | Level: 1.77/7)
+- Economics and Accounting (Importance: 1.75/5 | Level: 1.05/7)
+- Mechanical (Importance: 1.5/5 | Level: 1.1/7)
+- Building and Construction (Importance: 1.39/5 | Level: 0.79/7)
+- Food Production (Importance: 1.31/5 | Level: 0.64/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Speaking (Importance: 4.12/5 | Level: 4.12/7)
+- Instructing (Importance: 4.12/5 | Level: 4.12/7)
+- Learning Strategies (Importance: 4.0/5 | Level: 4.38/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.12/7)
+- Active Listening (Importance: 4.0/5 | Level: 4.12/7)
+- Social Perceptiveness (Importance: 3.88/5 | Level: 3.88/7)
+- Critical Thinking (Importance: 3.88/5 | Level: 3.88/7)
+- Monitoring (Importance: 3.88/5 | Level: 4.12/7)
+- Writing (Importance: 3.75/5 | Level: 3.88/7)
+- Judgment and Decision Making (Importance: 3.75/5 | Level: 3.62/7)
+- Active Learning (Importance: 3.62/5 | Level: 3.75/7)
+- Complex Problem Solving (Importance: 3.5/5 | Level: 3.5/7)
+- Coordination (Importance: 3.5/5 | Level: 3.38/7)
+- Time Management (Importance: 3.38/5 | Level: 3.38/7)
+- Systems Analysis (Importance: 3.12/5 | Level: 3.12/7)
+- Service Orientation (Importance: 3.12/5 | Level: 3.5/7)
+- Negotiation (Importance: 3.12/5 | Level: 2.88/7)
+- Systems Evaluation (Importance: 3.12/5 | Level: 3.12/7)
+- Persuasion (Importance: 3.0/5 | Level: 3.12/7)
+- Mathematics (Importance: 2.88/5 | Level: 3.0/7)
+- Management of Personnel Resources (Importance: 2.75/5 | Level: 3.0/7)
+- Science (Importance: 2.0/5 | Level: 1.75/7)
+- Quality Control Analysis (Importance: 1.88/5 | Level: 1.38/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.75/7)
+- Programming (Importance: 1.75/5 | Level: 0.75/7)
+- Technology Design (Importance: 1.75/5 | Level: 0.88/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 0.88/7)
+- Operations Monitoring (Importance: 1.62/5 | Level: 0.62/7)
+- Operations Analysis (Importance: 1.62/5 | Level: 1.25/7)
+- Operation and Control (Importance: 1.38/5 | Level: 0.38/7)
+- Equipment Selection (Importance: 1.38/5 | Level: 0.38/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- ABC programming language (Tech skill type: Development environment software)
+- Blackboard software (Tech skill type: Data base user interface and query software)
+- Common Curriculum (Tech skill type: Computer based training software)
+- Desmos (Tech skill type: Analytical or scientific software)
+- Email software (Tech skill type: Electronic mail software)
+- Flipgrid (Tech skill type: Video creation and editing software)
+- Geogebra (Tech skill type: Analytical or scientific software)
+- Google Classroom (Tech skill type: Project management software)
+- Google Drive (Tech skill type: Cloud-based data access and sharing software)
+- Google Meet (Tech skill type: Video conferencing software)
+- Instructional software (Tech skill type: Computer based training software)
+- Logo design software (Tech skill type: Development environment software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Moodle (Tech skill type: Computer based training software)
+- Nearpod (Tech skill type: Multi-media educational software)
+- PowerSchool SIS (Tech skill type: Data base user interface and query software)
+- Schoology (Tech skill type: Computer based training software)
+- Screencastify (Tech skill type: Video creation and editing software)
+- Video editing software (Tech skill type: Video creation and editing software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Bunsen burners (Tool type: Gas burners)
+- Computer data input scanners (Tool type: Scanners)
+- Computer laser printers (Tool type: Laser printers)
+- Desktop computers (Tool type: Desktop computers)
+- Digital video cameras (Tool type: Digital camcorders or video cameras)
+- Dissection scalpels (Tool type: Laboratory scalpels)
+- Document cameras (Tool type: Document camera)
+- Glass beakers (Tool type: Laboratory beakers)
+- Interactive whiteboards (Tool type: Touch screen monitors)
+- Laboratory heating plates (Tool type: Laboratory hotplates)
+- Laptop computers (Tool type: Notebook computers)
+- Liquid crystal display LCD projectors (Tool type: Liquid crystal display projector)
+- Multimedia projection equipment (Tool type: Multimedia projectors)
+- Optical compound microscopes (Tool type: Binocular light compound microscopes)
+- Pencil compasses (Tool type: Compasses)
+- Personal computers (Tool type: Personal computers)
+- Photocopying equipment (Tool type: Photocopiers)
+- Safety gloves (Tool type: Protective gloves)
+- Safety goggles (Tool type: Goggles)
+- Science activity kits (Tool type: Childrens science kits)
+- Television monitors (Tool type: Televisions)
+- Video camcorders (Tool type: Hand held camcorders or video cameras)
+- Video cassette recorders VCR (Tool type: Video cassette players or recorders)
+
+# WORK CONTEXT
+- Conflict Situations: Every day
+- Consequence of Error: Not serious at all
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Extremely important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Every day
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Limited responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Very important
+- Importance of Repeating Same Tasks: Not important at all
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Every day
+- Spend Time Bending or Twisting Your Body: Never
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Never
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: More than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Never
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Once a week or more but not every day
+- Time Pressure: Once a month or more but not every week
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Never
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Moderate responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a month or more but not every week
+
+# INTERESTS (RIASEC)
+- Primary Interest: Social
+- Secondary Interest: Unknown (0)
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Middle School Teachers, Except Special and Career/Technical Education
+- Elementary School Teachers, Except Special Education
+- Tutors
+- Special Education Teachers, Elementary School
+- Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors
+- Career/Technical Education Teachers, Middle School
+- Special Education Teachers, Secondary School
+- Special Education Teachers, Middle School
+- Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education
+- Career/Technical Education Teachers, Secondary School
+- Self-Enrichment Teachers
+- Kindergarten Teachers, Except Special Education
+- Special Education Teachers, Kindergarten
+- Teaching Assistants, Postsecondary
+- Education Teachers, Postsecondary
+- English Language and Literature Teachers, Postsecondary
+- Art, Drama, and Music Teachers, Postsecondary
+- Instructional Coordinators
+- Teaching Assistants, Special Education
+- Mathematical Science Teachers, Postsecondary

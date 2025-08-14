@@ -1,0 +1,159 @@
+Job Title: Project Management Specialists
+O*NET-SOC Code: 13-1082.00
+
+# DESCRIPTION
+Analyze and coordinate the schedule, timeline, procurement, staffing, and budget of a product or service on a per project basis. Lead and guide the work of technical staff. May serve as a point of contact for the client or customer.
+
+# TASKS
+- Assign duties or responsibilities to project personnel.
+- Communicate with key stakeholders to determine project requirements and objectives.
+- Confer with project personnel to identify and resolve problems.
+- Create project status presentations for delivery to customers or project personnel.
+- Develop or update project plans including information such as objectives, technologies, schedules, funding, and staffing.
+- Identify project needs such as resources, staff, or finances by reviewing project objectives and schedules.
+- Identify, review, or select vendors or consultants to meet project needs.
+- Monitor costs incurred by project staff to identify budget issues.
+- Monitor project milestones and deliverables.
+- Monitor the performance of project team members to provide performance feedback.
+- Negotiate with project stakeholders or suppliers to obtain resources or materials.
+- Plan, schedule, or coordinate project activities to meet deadlines.
+- Prepare and submit budget estimates, progress reports, or cost tracking reports.
+- Produce and distribute project documents.
+- Propose, review, or approve modifications to project plans.
+- Recruit or hire project personnel.
+- Report project status, such as budget, resources, technical issues, or customer satisfaction, to managers.
+- Request and review project updates to ensure deadlines are met.
+- Schedule or facilitate project meetings.
+- Submit project deliverables to clients, ensuring adherence to quality standards.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- No specific knowledge areas listed.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- No specific skills listed.
+
+# TECHNOLOGY SKILLS & TOOLS
+- 3M Post-it App (Tech skill type: Word processing software)
+- Adobe Acrobat (Tech skill type: Document management software)
+- Adobe InDesign (Tech skill type: Desktop publishing software)
+- Adobe Photoshop (Tech skill type: Graphics or photo imaging software)
+- ADP Workforce Now (Tech skill type: Human resources software)
+- Airtable (Tech skill type: Data base user interface and query software)
+- Apple Keynote (Tech skill type: Presentation software)
+- Apple macOS (Tech skill type: Operating system software)
+- Asana (Tech skill type: Cloud-based data access and sharing software)
+- Atlassian Bamboo (Tech skill type: Enterprise application integration software)
+- Atlassian Confluence (Tech skill type: Project management software)
+- Atlassian JIRA (Tech skill type: Content workflow software)
+- Autodesk AutoCAD Civil 3D (Tech skill type: Computer aided design CAD software)
+- Bentley MicroStation (Tech skill type: Computer aided design CAD software)
+- Blackboard software (Tech skill type: Computer based training software)
+- Blink (Tech skill type: Instant messaging software)
+- Cisco Webex (Tech skill type: Video conferencing software)
+- Dropbox (Tech skill type: Cloud-based data access and sharing software)
+- Eko (Tech skill type: Desktop communications software)
+- Evernote (Tech skill type: Word processing software)
+- Flipgrid (Tech skill type: Video creation and editing software)
+- Git (Tech skill type: File versioning software)
+- GitHub (Tech skill type: Application server software)
+- Google Classroom (Tech skill type: Project management software)
+- Google Docs (Tech skill type: Word processing software)
+- Google Drive (Tech skill type: Cloud-based data access and sharing software)
+- Google Meet (Tech skill type: Video conferencing software)
+- Google Sites (Tech skill type: Web page creation and editing software)
+- Google Slides (Tech skill type: Presentation software)
+- Google Workspace software (Tech skill type: Office suite software)
+- GroupMe (Tech skill type: Instant messaging software)
+- IBM Cognos Impromptu (Tech skill type: Business intelligence and data analysis software)
+- IBM Notes (Tech skill type: Electronic mail software)
+- IBM SPSS Statistics (Tech skill type: Analytical or scientific software)
+- Intuit QuickBooks (Tech skill type: Accounting software)
+- JamBoard (Tech skill type: Graphics or photo imaging software)
+- LinkedIn (Tech skill type: Web page creation and editing software)
+- Linux (Tech skill type: Operating system software)
+- LogMeIn GoToMeeting (Tech skill type: Video conferencing software)
+- LogMeIn GoToWebinar (Tech skill type: Network conferencing software)
+- Loom (Tech skill type: Video creation and editing software)
+- Management information systems MIS (Tech skill type: Enterprise resource planning ERP software)
+- Marketo Marketing Automation (Tech skill type: Sales and marketing software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Azure software (Tech skill type: Development environment software)
+- Microsoft Dynamics (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Dynamics GP (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Exchange (Tech skill type: Electronic mail software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft OneNote (Tech skill type: Word processing software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft Teams (Tech skill type: Project management software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Visual Basic (Tech skill type: Development environment software)
+- Microsoft Visual Basic for Applications VBA (Tech skill type: Development environment software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Moodle (Tech skill type: Computer based training software)
+- Nearpod (Tech skill type: Multi-media educational software)
+- NetSuite ERP (Tech skill type: Enterprise resource planning ERP software)
+- Oracle Business Intelligence Enterprise Edition (Tech skill type: Business intelligence and data analysis software)
+- Oracle Database (Tech skill type: Data base user interface and query software)
+- Oracle Hyperion (Tech skill type: Enterprise resource planning ERP software)
+- Oracle JD Edwards EnterpriseOne (Tech skill type: Enterprise resource planning ERP software)
+- Oracle PeopleSoft (Tech skill type: Enterprise resource planning ERP software)
+- Oracle Primavera Enterprise Project Portfolio Management (Tech skill type: Project management software)
+- Padlet (Tech skill type: Computer based training software)
+- Planview Clarizen (Tech skill type: Project management software)
+- Poll Everywhere (Tech skill type: Presentation software)
+- Procore software (Tech skill type: Analytical or scientific software)
+- Project management software (Tech skill type: Project management software)
+- Qlik Tech QlikView (Tech skill type: Business intelligence and data analysis software)
+- Salesforce software (Tech skill type: Customer relationship management CRM software)
+- SAP Crystal Reports (Tech skill type: Data base reporting software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- SAS (Tech skill type: Analytical or scientific software)
+- Screencast-O-Matic (Tech skill type: Video creation and editing software)
+- Screencastify (Tech skill type: Video creation and editing software)
+- Skype (Tech skill type: Desktop communications software)
+- Slack (Tech skill type: Cloud-based data access and sharing software)
+- Slido interaction software (Tech skill type: Network conferencing software)
+- Smartsheet (Tech skill type: Project management software)
+- Social media sites (Tech skill type: Web page creation and editing software)
+- Tableau (Tech skill type: Business intelligence and data analysis software)
+- Trimble SketchUp Pro (Tech skill type: Graphics or photo imaging software)
+- YouTube (Tech skill type: Video creation and editing software)
+- Zoom (Tech skill type: Video conferencing software)
+- No specific tools listed.
+
+# WORK CONTEXT
+- No specific work context listed.
+
+# INTERESTS (RIASEC)
+- Primary Interest: Enterprising
+- Secondary Interest: Conventional
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Information Technology Project Managers
+- Management Analysts
+- Computer and Information Systems Managers
+- Logisticians
+- Construction Managers
+- General and Operations Managers
+- Administrative Services Managers
+- Training and Development Managers
+- Operations Research Analysts
+- Logistics Analysts
+- Architectural and Engineering Managers
+- Solar Energy Installation Managers
+- Industrial Engineers
+- Production, Planning, and Expediting Clerks
+- Software Developers
+- Computer Systems Engineers/Architects
+- Computer Systems Analysts
+- Logistics Engineers
+- Natural Sciences Managers
+- Database Architects

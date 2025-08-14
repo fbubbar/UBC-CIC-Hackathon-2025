@@ -1,0 +1,225 @@
+Job Title: Glass Blowers, Molders, Benders, and Finishers
+O*NET-SOC Code: 51-9195.04
+
+# DESCRIPTION
+Shape molten glass according to patterns.
+
+# TASKS
+- Heat glass to pliable stage, using gas flames or ovens and rotating glass to heat it uniformly.
+- Inspect, weigh, and measure products to verify conformance to specifications, using instruments such as micrometers, calipers, magnifiers, or rulers.
+- Record manufacturing information, such as quantities, sizes, or types of goods produced.
+- Place glass into dies or molds of presses and control presses to form products, such as glassware components or optical blanks.
+- Spray or swab molds with oil solutions to prevent adhesion of glass.
+- Blow tubing into specified shapes to prevent glass from collapsing, using compressed air or own breath, or blow and rotate gathers in molds or on boards to obtain final shapes.
+- Determine types and quantities of glass required to fabricate products.
+- Set up and adjust machine press stroke lengths and pressures and regulate oven temperatures, according to glass types to be processed.
+- Shape, bend, or join sections of glass, using paddles, pressing and flattening hand tools, or cork.
+- Design and create glass objects, using blowpipes and artisans' hand tools and equipment.
+- Operate and maintain finishing machines to grind, drill, sand, bevel, decorate, wash, or polish glass or glass products.
+- Repair broken scrolls by replacing them with new sections of tubing.
+- Develop sketches of glass products into blueprint specifications, applying knowledge of glass technology and glass blowing.
+- Superimpose bent tubing on asbestos patterns to ensure accuracy.
+- Cut lengths of tubing to specified sizes, using files or cutting wheels.
+- Place rubber hoses on ends of tubing and charge tubing with gas.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Production and Processing (Importance: 3.82/5 | Level: 4.61/7)
+- Design (Importance: 3.72/5 | Level: 4.46/7)
+- Mechanical (Importance: 3.22/5 | Level: 4.19/7)
+- Customer and Personal Service (Importance: 3.15/5 | Level: 3.23/7)
+- Engineering and Technology (Importance: 3.15/5 | Level: 4.31/7)
+- Mathematics (Importance: 3.09/5 | Level: 3.45/7)
+- English Language (Importance: 3.04/5 | Level: 3.1/7)
+- Education and Training (Importance: 2.99/5 | Level: 3.96/7)
+- Building and Construction (Importance: 2.86/5 | Level: 3.28/7)
+- Personnel and Human Resources (Importance: 2.71/5 | Level: 2.78/7)
+- Computers and Electronics (Importance: 2.69/5 | Level: 3.03/7)
+- Public Safety and Security (Importance: 2.61/5 | Level: 2.39/7)
+- Physics (Importance: 2.58/5 | Level: 3.05/7)
+- Sales and Marketing (Importance: 2.53/5 | Level: 2.94/7)
+- Administration and Management (Importance: 2.5/5 | Level: 2.69/7)
+- Chemistry (Importance: 2.48/5 | Level: 3.07/7)
+- Administrative (Importance: 2.34/5 | Level: 1.91/7)
+- Economics and Accounting (Importance: 2.08/5 | Level: 2.26/7)
+- Fine Arts (Importance: 1.76/5 | Level: 1.19/7)
+- Food Production (Importance: 1.74/5 | Level: 1.04/7)
+- Psychology (Importance: 1.59/5 | Level: 1.77/7)
+- Sociology and Anthropology (Importance: 1.49/5 | Level: 0.63/7)
+- Communications and Media (Importance: 1.45/5 | Level: 0.8/7)
+- Medicine and Dentistry (Importance: 1.45/5 | Level: 0.89/7)
+- Telecommunications (Importance: 1.4/5 | Level: 0.72/7)
+- Transportation (Importance: 1.38/5 | Level: 0.81/7)
+- Biology (Importance: 1.37/5 | Level: 0.74/7)
+- History and Archeology (Importance: 1.23/5 | Level: 0.6/7)
+- Law and Government (Importance: 1.18/5 | Level: 0.54/7)
+- Therapy and Counseling (Importance: 1.17/5 | Level: 0.66/7)
+- Philosophy and Theology (Importance: 1.09/5 | Level: 0.14/7)
+- Foreign Language (Importance: 1.06/5 | Level: 0.07/7)
+- Geography (Importance: 1.06/5 | Level: 0.18/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operation and Control (Importance: 3.38/5 | Level: 2.88/7)
+- Quality Control Analysis (Importance: 3.38/5 | Level: 3.0/7)
+- Operations Monitoring (Importance: 3.38/5 | Level: 3.0/7)
+- Monitoring (Importance: 3.25/5 | Level: 3.0/7)
+- Reading Comprehension (Importance: 3.0/5 | Level: 3.0/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 3.0/7)
+- Active Listening (Importance: 3.0/5 | Level: 3.0/7)
+- Active Learning (Importance: 2.88/5 | Level: 2.88/7)
+- Speaking (Importance: 2.75/5 | Level: 2.75/7)
+- Complex Problem Solving (Importance: 2.75/5 | Level: 2.75/7)
+- Time Management (Importance: 2.75/5 | Level: 2.62/7)
+- Judgment and Decision Making (Importance: 2.75/5 | Level: 2.75/7)
+- Writing (Importance: 2.62/5 | Level: 2.62/7)
+- Learning Strategies (Importance: 2.62/5 | Level: 2.38/7)
+- Mathematics (Importance: 2.62/5 | Level: 2.12/7)
+- Coordination (Importance: 2.5/5 | Level: 2.5/7)
+- Equipment Maintenance (Importance: 2.5/5 | Level: 2.38/7)
+- Repairing (Importance: 2.5/5 | Level: 2.38/7)
+- Social Perceptiveness (Importance: 2.5/5 | Level: 2.62/7)
+- Troubleshooting (Importance: 2.5/5 | Level: 2.5/7)
+- Equipment Selection (Importance: 2.38/5 | Level: 2.25/7)
+- Persuasion (Importance: 2.38/5 | Level: 2.0/7)
+- Management of Personnel Resources (Importance: 2.38/5 | Level: 2.12/7)
+- Systems Analysis (Importance: 2.38/5 | Level: 1.75/7)
+- Systems Evaluation (Importance: 2.25/5 | Level: 1.88/7)
+- Instructing (Importance: 2.12/5 | Level: 2.38/7)
+- Negotiation (Importance: 2.12/5 | Level: 1.88/7)
+- Management of Material Resources (Importance: 2.12/5 | Level: 1.62/7)
+- Service Orientation (Importance: 2.0/5 | Level: 1.75/7)
+- Operations Analysis (Importance: 1.88/5 | Level: 1.62/7)
+- Management of Financial Resources (Importance: 1.88/5 | Level: 1.12/7)
+- Science (Importance: 1.75/5 | Level: 1.25/7)
+- Technology Design (Importance: 1.75/5 | Level: 0.88/7)
+- Programming (Importance: 1.38/5 | Level: 0.38/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Billing software (Tech skill type: Accounting software)
+- Inventory control software (Tech skill type: Inventory management software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+
+## TOOLS USED
+- Air compressors (Tool type: Air compressors)
+- Annealing ovens (Tool type: Vacuum ovens)
+- Cutting wheels (Tool type: Cutting machines)
+- Dial calipers (Tool type: Calipers)
+- Digital micrometers (Tool type: Micrometers)
+- Drill presses (Tool type: Drilling machines)
+- Electric kilns (Tool type: Kilns for firing ceramics)
+- Engine lathes (Tool type: Horizontal turning center)
+- Glass blowing pipes (Tool type: Glass blowing instrument)
+- Glass knives (Tool type: Glass cutters)
+- Glass lathes (Tool type: Glass cutters)
+- Glass saws (Tool type: Power saws)
+- Glass tongs (Tool type: Tongs)
+- Grinders (Tool type: Grinding or polishing machines)
+- Hand held magnifiers (Tool type: Magnifiers)
+- Holding clamps (Tool type: Hold down clamps)
+- Induction heaters (Tool type: Induction heaters)
+- Lapping wheels (Tool type: Grinders)
+- Laptop computers (Tool type: Notebook computers)
+- Meeker burners (Tool type: Gas burners)
+- Personal computers (Tool type: Personal computers)
+- Polariscopes (Tool type: Polariscopes)
+- Polishing wheels (Tool type: Power buffers)
+- Precision files (Tool type: Precision file)
+- Precision rulers (Tool type: Rulers)
+- Propane torches (Tool type: Blow torch)
+- Protective respirators (Tool type: Respirators)
+- Safety glasses (Tool type: Safety glasses)
+- Safety gloves (Tool type: Protective gloves)
+- Safety goggles (Tool type: Goggles)
+- Sandblasters (Tool type: Pneumatic sanding machines)
+- Shears (Tool type: Shears)
+- Spot welders (Tool type: Spot welding machine)
+- Tweezers (Tool type: Tweezers)
+- Vacuum ovens (Tool type: Vacuum ovens)
+- Vacuum pumps (Tool type: Vacuum pumps)
+
+# WORK CONTEXT
+- Conflict Situations: Never
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Not important at all
+- Deal With External Customers or the Public in General: Not important at all
+- Dealing With Unpleasant, Angry, or Discourteous People: Never
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Never
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Every day
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Every day
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Every day
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Limited responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Not important at all
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Never
+- Indoors, Not Environmentally Controlled: Every day
+- Level of Competition: Slightly competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Extremely important
+- Physical Proximity: Slightly close (e.g., shared office)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: About half the time
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: More than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Never
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Limited responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Molders, Shapers, and Casters, Except Metal and Plastic
+- Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic
+- Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders
+- Cutting and Slicing Machine Setters, Operators, and Tenders
+- Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders
+- Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic
+- Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+- Tool and Die Makers
+- Machine Feeders and Offbearers
+- Stone Cutters and Carvers, Manufacturing
+- Grinding and Polishing Workers, Hand
+- Ophthalmic Laboratory Technicians
+- Metal-Refining Furnace Operators and Tenders
+- Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers
+- Welders, Cutters, Solderers, and Brazers
+- Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Industrial Machinery Mechanics
+- Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic
+- Engine and Other Machine Assemblers
+- Sheet Metal Workers

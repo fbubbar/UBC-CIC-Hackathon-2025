@@ -1,0 +1,239 @@
+Job Title: Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers
+O*NET-SOC Code: 51-6091.00
+
+# DESCRIPTION
+Set up, operate, or tend machines that extrude and form continuous filaments from synthetic materials, such as liquid polymer, rayon, and fiberglass.
+
+# TASKS
+- Set up, operate, or tend machines that extrude and form filaments from synthetic materials such as rayon, fiberglass, or liquid polymers.
+- Press buttons to stop machines when processes are complete or when malfunctions are detected.
+- Notify other workers of defects, and direct them to adjust extruding and forming machines.
+- Observe machine operations, control boards, and gauges to detect malfunctions such as clogged bushings and defective binder applicators.
+- Load materials into extruding and forming machines, using hand tools, and adjust feed mechanisms to set feed rates.
+- Move controls to activate and adjust extruding and forming machines.
+- Record details of machine malfunctions.
+- Clean and maintain extruding and forming machines, using hand tools.
+- Observe flow of finish across finish rollers, and turn valves to adjust flow to specifications.
+- Remove polymer deposits from spinnerettes and equipment, using silicone spray, brass chisels, and bronze-wool pads.
+- Press metering-pump buttons and turn valves to stop flow of polymers.
+- Record operational data on tags, and attach tags to machines.
+- Start metering pumps and observe operation of machines and equipment to ensure continuous flow of filaments extruded through spinnerettes and to detect processing defects.
+- Remove excess, entangled, or completed filaments from machines, using hand tools.
+- Wipe finish rollers with cloths and wash finish trays with water when necessary.
+- Lower pans inside cabinets to catch molten filaments until flow of polymer through packs has stopped.
+- Open cabinet doors to cut multifilament threadlines away from guides, using scissors.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Production and Processing (Importance: 3.68/5 | Level: 3.51/7)
+- English Language (Importance: 3.23/5 | Level: 2.82/7)
+- Mathematics (Importance: 3.12/5 | Level: 3.05/7)
+- Education and Training (Importance: 3.11/5 | Level: 2.72/7)
+- Mechanical (Importance: 3.07/5 | Level: 3.58/7)
+- Customer and Personal Service (Importance: 2.84/5 | Level: 2.39/7)
+- Administration and Management (Importance: 2.76/5 | Level: 2.3/7)
+- Public Safety and Security (Importance: 2.7/5 | Level: 2.37/7)
+- Computers and Electronics (Importance: 2.61/5 | Level: 1.82/7)
+- Engineering and Technology (Importance: 2.41/5 | Level: 1.96/7)
+- Personnel and Human Resources (Importance: 2.33/5 | Level: 1.57/7)
+- Administrative (Importance: 2.29/5 | Level: 1.85/7)
+- Design (Importance: 2.19/5 | Level: 1.64/7)
+- Law and Government (Importance: 2.11/5 | Level: 1.21/7)
+- Transportation (Importance: 2.05/5 | Level: 1.45/7)
+- Telecommunications (Importance: 2.04/5 | Level: 1.41/7)
+- Physics (Importance: 2.01/5 | Level: 1.28/7)
+- Psychology (Importance: 2.01/5 | Level: 1.72/7)
+- Economics and Accounting (Importance: 1.92/5 | Level: 1.26/7)
+- Sales and Marketing (Importance: 1.9/5 | Level: 1.16/7)
+- Medicine and Dentistry (Importance: 1.84/5 | Level: 0.93/7)
+- Therapy and Counseling (Importance: 1.81/5 | Level: 1.0/7)
+- Foreign Language (Importance: 1.76/5 | Level: 1.15/7)
+- Communications and Media (Importance: 1.76/5 | Level: 1.08/7)
+- Building and Construction (Importance: 1.71/5 | Level: 0.81/7)
+- Chemistry (Importance: 1.71/5 | Level: 1.7/7)
+- Philosophy and Theology (Importance: 1.65/5 | Level: 1.09/7)
+- Sociology and Anthropology (Importance: 1.62/5 | Level: 1.2/7)
+- Food Production (Importance: 1.61/5 | Level: 0.74/7)
+- Fine Arts (Importance: 1.38/5 | Level: 0.6/7)
+- History and Archeology (Importance: 1.38/5 | Level: 0.48/7)
+- Biology (Importance: 1.24/5 | Level: 0.55/7)
+- Geography (Importance: 1.24/5 | Level: 0.43/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operations Monitoring (Importance: 4.0/5 | Level: 3.88/7)
+- Operation and Control (Importance: 3.75/5 | Level: 3.25/7)
+- Monitoring (Importance: 3.5/5 | Level: 3.12/7)
+- Complex Problem Solving (Importance: 3.0/5 | Level: 2.75/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 2.88/7)
+- Speaking (Importance: 3.0/5 | Level: 2.88/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 2.88/7)
+- Quality Control Analysis (Importance: 3.0/5 | Level: 2.75/7)
+- Active Listening (Importance: 3.0/5 | Level: 3.0/7)
+- Critical Thinking (Importance: 2.88/5 | Level: 3.0/7)
+- Troubleshooting (Importance: 2.88/5 | Level: 2.75/7)
+- Repairing (Importance: 2.88/5 | Level: 2.62/7)
+- Reading Comprehension (Importance: 2.88/5 | Level: 2.75/7)
+- Active Learning (Importance: 2.75/5 | Level: 2.62/7)
+- Writing (Importance: 2.62/5 | Level: 2.62/7)
+- Social Perceptiveness (Importance: 2.62/5 | Level: 2.62/7)
+- Equipment Maintenance (Importance: 2.62/5 | Level: 2.5/7)
+- Equipment Selection (Importance: 2.62/5 | Level: 2.25/7)
+- Persuasion (Importance: 2.25/5 | Level: 2.12/7)
+- Learning Strategies (Importance: 2.25/5 | Level: 2.12/7)
+- Instructing (Importance: 2.25/5 | Level: 2.38/7)
+- Management of Personnel Resources (Importance: 2.12/5 | Level: 2.12/7)
+- Negotiation (Importance: 2.12/5 | Level: 2.12/7)
+- Service Orientation (Importance: 2.12/5 | Level: 2.12/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 2.0/7)
+- Systems Analysis (Importance: 2.0/5 | Level: 1.75/7)
+- Mathematics (Importance: 2.0/5 | Level: 1.88/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.0/7)
+- Operations Analysis (Importance: 2.0/5 | Level: 1.5/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 0.75/7)
+- Technology Design (Importance: 1.5/5 | Level: 0.62/7)
+- Programming (Importance: 1.25/5 | Level: 0.25/7)
+- Science (Importance: 1.25/5 | Level: 0.62/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Apache Hadoop YARN (Tech skill type: Data base management system software)
+- Camstar Manufacturing Execution System MES (Tech skill type: Industrial control software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Operational databases (Tech skill type: Data base user interface and query software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Statistical process control SPC software (Tech skill type: Industrial control software)
+
+## TOOLS USED
+- Adjustable open end wrenches (Tool type: Open end wrenches)
+- Allen wrench sets (Tool type: Allen wrench)
+- Automated staple guns (Tool type: Power staple guns)
+- Benchtop microscopes (Tool type: Stereo or dissecting light microscopes)
+- Cleaning scrapers (Tool type: Cleaning scrapers)
+- Color blenders (Tool type: Intensive mixers)
+- Computer laser printers (Tool type: Laser printers)
+- Dial indicators (Tool type: Dial indicator or dial gauge)
+- Die gauges (Tool type: Thickness measuring devices)
+- Digital calipers (Tool type: Calipers)
+- Digital micrometers (Tool type: Micrometers)
+- Digital pyrometers (Tool type: Pyrometers)
+- Digital tachometers (Tool type: Tachometers)
+- Dryer monitors (Tool type: Humidity sensor)
+- Electronic balances (Tool type: Analytical balances)
+- Electronic counters (Tool type: Electronic counters)
+- Fray counters (Tool type: Counters)
+- Gage block sets (Tool type: Gage block set)
+- Gas torches (Tool type: Blow torch)
+- Glass material extruders (Tool type: Extruders)
+- Gravimetric feeders (Tool type: Conveyor feeders)
+- Haul off machines (Tool type: Loading equipment)
+- Industrial ovens (Tool type: Furnaces)
+- Label makers (Tool type: Label making machines)
+- Laser micrometers (Tool type: Micrometers)
+- Loader dryers (Tool type: Blowers or dryers)
+- Material hoppers (Tool type: Processing tanks)
+- Measuring tapes (Tool type: Tape measures)
+- Multitools (Tool type: Multi tool pliers)
+- Personal computers (Tool type: Personal computers)
+- Phillips screwdrivers (Tool type: Screwdrivers)
+- Polymer feed systems (Tool type: Conveyor feeders)
+- Power drills (Tool type: Power drills)
+- Shrink wrappers (Tool type: Industrial shrink wrap equipment)
+- Stapling machines (Tool type: Staple guns)
+- Stepladders (Tool type: Ladders)
+- Synthetic material extruders (Tool type: Extruders)
+- Tensile testers (Tool type: Tension testers)
+- Vacuum tanks (Tool type: Storage tanks)
+- Weigh feeders (Tool type: Hopper scale)
+- Wheeled forklifts (Tool type: Forklifts)
+- Wire drawing machines (Tool type: Wire drawing machine)
+- Wire gauge testers (Tool type: Wire gauge)
+- Yarn splicers (Tool type: Thread unravelling machine)
+
+# WORK CONTEXT
+- Conflict Situations: Once a week or more but not every day
+- Consequence of Error: Very serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Not important at all
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a month or more but not every week
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Moderately automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Every day
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Every day
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Moderate responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Very important
+- Importance of Repeating Same Tasks: Important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Very important
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Once a month or more but not every week
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Less than half the time
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Less than half the time
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: About half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a week or more but not every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic
+- Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders
+- Paper Goods Machine Setters, Operators, and Tenders
+- Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic
+- Adhesive Bonding Machine Operators and Tenders
+- Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Cutting and Slicing Machine Setters, Operators, and Tenders
+- Rolling Machine Setters, Operators, and Tenders, Metal and Plastic
+- Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic
+- Machine Feeders and Offbearers
+- Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Industrial Machinery Mechanics
+- Coil Winders, Tapers, and Finishers
+- Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders
+- Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+- Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders
+- Textile Cutting Machine Setters, Operators, and Tenders
+- Grinding and Polishing Workers, Hand
+- Textile Bleaching and Dyeing Machine Operators and Tenders

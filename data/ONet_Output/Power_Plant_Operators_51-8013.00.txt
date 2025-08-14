@@ -1,0 +1,341 @@
+Job Title: Power Plant Operators
+O*NET-SOC Code: 51-8013.00
+
+# DESCRIPTION
+Control, operate, or maintain machinery to generate electric power. Includes auxiliary equipment operators.
+
+# TASKS
+- Control generator output to match the phase, frequency, or voltage of electricity supplied to panels.
+- Take regulatory action, based on readings from charts, meters and gauges, at established intervals.
+- Control power generating equipment, including boilers, turbines, generators, or reactors, using control boards or semi-automatic equipment.
+- Start or stop generators, auxiliary pumping equipment, turbines, or other power plant equipment as necessary.
+- Monitor power plant equipment and indicators to detect evidence of operating problems.
+- Operate or maintain distributed power generation equipment, including fuel cells or microturbines, to produce energy on-site for manufacturing or other commercial purposes.
+- Open and close valves and switches in sequence to start or shut down auxiliary units.
+- Control or maintain auxiliary equipment, such as pumps, fans, compressors, condensers, feedwater heaters, filters, or chlorinators, to supply water, fuel, lubricants, air, or auxiliary power.
+- Regulate equipment operations and conditions, such as water levels, based on instrument data or from computers.
+- Inspect records or log book entries or communicate with plant personnel to assess equipment operating status.
+- Clean, lubricate, or maintain equipment, such as generators, turbines, pumps, or compressors, to prevent failure or deterioration.
+- Record and compile operational data by completing and maintaining forms, logs, or reports.
+- Make adjustments or minor repairs, such as tightening leaking gland or pipe joints.
+- Adjust controls to generate specified electrical power or to regulate the flow of power between generating stations and substations.
+- Operate, control, or monitor equipment, such as acid or gas carbon dioxide removal units, carbon dioxide compressors, or pipelines, to capture, store, or transport carbon dioxide exhaust.
+- Operate, control, or monitor gasifiers or related equipment, such as coolers, water quenches, water gas shifts reactors, or sulfur recovery units, to produce syngas or electricity from coal.
+- Communicate with systems operators to regulate and coordinate line voltages and transmission loads and frequencies.
+- Operate, control, or monitor integrated gasification combined cycle (IGCC) or related equipment, such as air separation units, to generate electricity from coal.
+- Receive outage calls and request necessary personnel during power outages or emergencies.
+- Collect oil, water, or electrolyte samples for laboratory analysis.
+- Examine and test electrical power distribution machinery and equipment, using testing devices.
+- Place standby emergency electrical generators on line in emergencies and monitor the temperature, output, and lubrication of the system.
+- Analyze the layout, instrumentation, or function of electrical generation or transmission facilities.
+- Diagnose or troubleshoot problems with gas collection systems.
+- Monitor well fields periodically to ensure proper functioning and performance.
+- Operate landfill gas, methane, or natural gas fueled electrical generation systems.
+- Prepare and submit compliance, operational, and safety forms or reports.
+- Repair or replace gas piping.
+- Trace electrical circuitry to ensure compliance of electrical systems with applicable codes or laws.
+- Verify that well field monitoring data conforms to applicable regulations.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 3.98/5 | Level: 4.79/7)
+- Public Safety and Security (Importance: 3.69/5 | Level: 3.47/7)
+- English Language (Importance: 3.62/5 | Level: 3.55/7)
+- Production and Processing (Importance: 3.4/5 | Level: 3.48/7)
+- Chemistry (Importance: 3.24/5 | Level: 3.78/7)
+- Physics (Importance: 3.07/5 | Level: 3.42/7)
+- Engineering and Technology (Importance: 3.0/5 | Level: 2.8/7)
+- Design (Importance: 2.84/5 | Level: 2.08/7)
+- Education and Training (Importance: 2.79/5 | Level: 3.35/7)
+- Administration and Management (Importance: 2.75/5 | Level: 2.09/7)
+- Telecommunications (Importance: 2.6/5 | Level: 1.42/7)
+- Computers and Electronics (Importance: 2.44/5 | Level: 2.72/7)
+- Law and Government (Importance: 2.41/5 | Level: 1.98/7)
+- Mathematics (Importance: 2.34/5 | Level: 2.05/7)
+- Administrative (Importance: 2.33/5 | Level: 1.6/7)
+- Personnel and Human Resources (Importance: 2.08/5 | Level: 1.65/7)
+- Building and Construction (Importance: 2.02/5 | Level: 1.84/7)
+- Transportation (Importance: 2.01/5 | Level: 1.37/7)
+- Psychology (Importance: 1.86/5 | Level: 1.43/7)
+- Customer and Personal Service (Importance: 1.79/5 | Level: 1.13/7)
+- Communications and Media (Importance: 1.7/5 | Level: 1.02/7)
+- Medicine and Dentistry (Importance: 1.67/5 | Level: 0.66/7)
+- Therapy and Counseling (Importance: 1.59/5 | Level: 0.89/7)
+- Biology (Importance: 1.55/5 | Level: 0.78/7)
+- Geography (Importance: 1.45/5 | Level: 0.8/7)
+- Philosophy and Theology (Importance: 1.44/5 | Level: 0.77/7)
+- Sociology and Anthropology (Importance: 1.39/5 | Level: 0.85/7)
+- History and Archeology (Importance: 1.38/5 | Level: 0.53/7)
+- Economics and Accounting (Importance: 1.32/5 | Level: 0.22/7)
+- Sales and Marketing (Importance: 1.32/5 | Level: 0.55/7)
+- Foreign Language (Importance: 1.25/5 | Level: 0.27/7)
+- Fine Arts (Importance: 1.25/5 | Level: 0.47/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operations Monitoring (Importance: 4.0/5 | Level: 4.0/7)
+- Operation and Control (Importance: 3.88/5 | Level: 4.0/7)
+- Critical Thinking (Importance: 3.75/5 | Level: 3.75/7)
+- Speaking (Importance: 3.38/5 | Level: 3.0/7)
+- Monitoring (Importance: 3.25/5 | Level: 3.12/7)
+- Complex Problem Solving (Importance: 3.25/5 | Level: 3.0/7)
+- Active Listening (Importance: 3.25/5 | Level: 3.12/7)
+- Reading Comprehension (Importance: 3.12/5 | Level: 3.12/7)
+- Quality Control Analysis (Importance: 3.12/5 | Level: 3.12/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 3.12/7)
+- Troubleshooting (Importance: 3.0/5 | Level: 3.12/7)
+- Repairing (Importance: 3.0/5 | Level: 3.12/7)
+- Writing (Importance: 3.0/5 | Level: 3.0/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Equipment Maintenance (Importance: 3.0/5 | Level: 3.0/7)
+- Active Learning (Importance: 2.88/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.88/7)
+- Time Management (Importance: 2.88/5 | Level: 2.88/7)
+- Systems Analysis (Importance: 2.88/5 | Level: 2.5/7)
+- Equipment Selection (Importance: 2.62/5 | Level: 2.12/7)
+- Service Orientation (Importance: 2.38/5 | Level: 2.62/7)
+- Learning Strategies (Importance: 2.38/5 | Level: 2.0/7)
+- Systems Evaluation (Importance: 2.25/5 | Level: 2.25/7)
+- Management of Personnel Resources (Importance: 2.25/5 | Level: 2.38/7)
+- Persuasion (Importance: 2.12/5 | Level: 2.12/7)
+- Instructing (Importance: 2.12/5 | Level: 2.5/7)
+- Mathematics (Importance: 2.0/5 | Level: 1.88/7)
+- Science (Importance: 2.0/5 | Level: 1.75/7)
+- Negotiation (Importance: 2.0/5 | Level: 2.0/7)
+- Management of Financial Resources (Importance: 1.88/5 | Level: 1.12/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.12/7)
+- Programming (Importance: 1.75/5 | Level: 0.88/7)
+- Operations Analysis (Importance: 1.75/5 | Level: 0.88/7)
+- Technology Design (Importance: 1.75/5 | Level: 0.75/7)
+- Installation (Importance: 1.62/5 | Level: 0.62/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Computerized maintenance management system CMMS (Tech skill type: Facilities management software)
+- Continuous emissions monitoring systems CEMS (Tech skill type: Industrial control software)
+- Distributed control system DCS (Tech skill type: Industrial control software)
+- Email software (Tech skill type: Electronic mail software)
+- Emerson Ovation (Tech skill type: Industrial control software)
+- Gas field monitoring system software (Tech skill type: Industrial control software)
+- General Electric Mark VI Distributed Control System DCS (Tech skill type: Industrial control software)
+- General Electric Mark VI Integrated Control System ICS (Tech skill type: Industrial control software)
+- Interlock shutdown systems (Tech skill type: Industrial control software)
+- Landfill gas analysis software (Tech skill type: Analytical or scientific software)
+- Landtec System Software LFG Pro (Tech skill type: Analytical or scientific software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Operating system software (Tech skill type: Operating system software)
+- Operational Data Store ODS software (Tech skill type: Data base user interface and query software)
+- Safety instrumented system SIS software (Tech skill type: Industrial control software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Siemens Power Plant Automation SPPA (Tech skill type: Industrial control software)
+- Siemens Teleperm (Tech skill type: Industrial control software)
+- Supervisory control and data acquisition SCADA software (Tech skill type: Industrial control software)
+- Teknik Segala OSI Plant Information PI System (Tech skill type: Industrial control software)
+- Web browser software (Tech skill type: Internet browser software)
+- Yokogawa FAST/TOOLS (Tech skill type: Industrial control software)
+
+## TOOLS USED
+- Absorbers (Tool type: Absorbent booms)
+- Adjustable hand wrenches (Tool type: Adjustable wrenches)
+- Adjustable widemouth pliers (Tool type: Adjustable widemouth pliers)
+- Air compressors (Tool type: Air compressors)
+- Air filtration mask (Tool type: Facial shields)
+- Air heaters (Tool type: Process air heaters)
+- Air samplers (Tool type: Air samplers or collectors)
+- All terrain vehicles ATV (Tool type: All terrain vehicles tracked or wheeled)
+- Analog panel meters (Tool type: Graphic recorders)
+- Annunciators (Tool type: Alarm systems)
+- Attemperators (Tool type: Process air heaters)
+- Backhoes (Tool type: Backhoes)
+- Belt conveyors (Tool type: Belt conveyors)
+- Blowers (Tool type: Blowers)
+- Boiler gauge glasses (Tool type: Sight flow windows)
+- Brushless direct current DC motors (Tool type: Brushless motor DC)
+- Bucket elevators (Tool type: Bucket conveyors)
+- Catalytic sensors (Tool type: Catalytic combustion analyzers)
+- Chain conveyors (Tool type: Chain conveyors)
+- Circulating fluidized bed CFB boilers (Tool type: Water tube boiler)
+- Claw hammers (Tool type: Claw hammer)
+- Coal dryers (Tool type: Air dryers)
+- Combustible gas monitors (Tool type: Combustible or hazardous gas detectors for power generators)
+- Combustion engines (Tool type: Gasoline engines)
+- Combustion turbines (Tool type: Turbine engines)
+- Condensers (Tool type: Condensing units)
+- Conductivity probes (Tool type: Conductivity meters)
+- Control boards (Tool type: Electrical control panels for generators)
+- Cooling towers (Tool type: Evaporative coolers)
+- Dataloggers (Tool type: Portable data input terminals)
+- Desktop computers (Tool type: Desktop computers)
+- Diesel driven generators (Tool type: Diesel generators)
+- Digital panel meters (Tool type: Graphic recorders)
+- Digital readouts (Tool type: Digital readout recorders)
+- Dry scrubber systems (Tool type: Air scrubbers)
+- Dump trucks (Tool type: Dump trucks)
+- Electrical switch gear (Tool type: Substation load control switchgears)
+- Enclosed flares (Tool type: Flare or vent stacks)
+- Excitation systems (Tool type: Electrostatic apparatus)
+- Fin fan heat exchangers (Tool type: Heat exchangers)
+- Fire tube boilers (Tool type: Fire tube boilers)
+- Flow meters (Tool type: Flowmeters)
+- Flow monitoring equipment (Tool type: Flowmeters)
+- Flow transmitters (Tool type: Flow transmitters)
+- Flue gas desulferization systems (Tool type: Air scrubbers)
+- Gas detectors (Tool type: Combustible or hazardous gas detectors for power generators)
+- Gas generators (Tool type: Gas generators)
+- Gas leak detectors (Tool type: Gas detectors)
+- Geothermal binary turbines (Tool type: Thermal engines)
+- Grease dispensing guns (Tool type: Grease guns)
+- Grease guns (Tool type: Grease guns)
+- Hand sampling pumps (Tool type: Hand pumps)
+- Hard hats (Tool type: Hard hats)
+- Heat pumps (Tool type: Heat pumps)
+- Heat recovery steam generators (Tool type: Steam generators)
+- Igniters (Tool type: Boiler or heater igniter)
+- Impact crushers (Tool type: Impact crushers)
+- Infrared analyzers (Tool type: Infrared imagers)
+- Level transmitters (Tool type: Level sensors or transmitters)
+- Limit switches (Tool type: Limit switch)
+- Mainframe computers (Tool type: Mainframe computers)
+- Micro anemometers (Tool type: Anemometers)
+- Motor compressors (Tool type: Motor compressors)
+- Multiple gas monitors (Tool type: Multi gas monitors)
+- Notebook computers (Tool type: Notebook computers)
+- Oil filters (Tool type: Oil filters)
+- Oil guns (Tool type: Oil gun)
+- Open flares (Tool type: Flare or vent stacks)
+- Orifice plates (Tool type: Venturis)
+- Oxygen analyzers (Tool type: Oxygen gas analyzers)
+- Panel boards (Tool type: Electrical control panels for generators)
+- Personal computers (Tool type: Personal computers)
+- Phillips head screwdrivers (Tool type: Screwdrivers)
+- Plate exchangers (Tool type: Heat exchangers)
+- Portable gas-powered generators (Tool type: Gas generators)
+- Power transformers (Tool type: Power supply transformers)
+- Pressure gauges (Tool type: Pressure sensors)
+- Pressure transmitters (Tool type: Pressure transmitters)
+- Pressure valves (Tool type: Safety valves)
+- Pulverizers (Tool type: Pulverizing machinery)
+- Purge pumps (Tool type: Sampling pumps)
+- Rotameters (Tool type: Rotameters)
+- Screens (Tool type: Fixed screens)
+- Screw conveyors (Tool type: Screw conveyor)
+- Selective catalytic reactors (Tool type: Wet scrubbers)
+- Selective non-catalytic reactors (Tool type: Wet scrubbers)
+- Self-contained breathing apparatus (Tool type: Respiration air supplying self contained breathing apparatus or accessories)
+- Shell and tube heat exchangers (Tool type: Heat exchangers)
+- Signal converters (Tool type: Signal converters)
+- Skid steer loaders (Tool type: Skid steer loaders)
+- Soot blowers (Tool type: Blowers)
+- Steam condensers (Tool type: Condensing units)
+- Steam distribution systems (Tool type: Steam engines)
+- Steam driven turbogenerators (Tool type: Steam generators)
+- Steam gauges (Tool type: Pressure indicators)
+- Steam turbines (Tool type: Steam engines)
+- Straight screwdrivers (Tool type: Screwdrivers)
+- Switch yard equipment (Tool type: Switchyard disconnect switches)
+- Temperature sensors (Tool type: Temperature transmitters)
+- Temperature transmitters (Tool type: Temperature transmitters)
+- Touch screen monitors (Tool type: Touch screen monitors)
+- Transformer controls (Tool type: Electrical control panels for generators)
+- Turbine flow meters (Tool type: Flowmeters)
+- Unit governors (Tool type: Electrical or power regulators)
+- Utility trucks (Tool type: Light trucks or sport utility vehicles)
+- Vacuum pumps (Tool type: Vacuum pumps)
+- Vibration monitors (Tool type: Vibration testers)
+- Water filters (Tool type: Water filters)
+- Water gauges (Tool type: Pressure indicators)
+- Water heaters (Tool type: Commercial water heaters)
+- Water pumps (Tool type: Water pumps)
+- Water samplers (Tool type: Water samplers)
+- Water softeners (Tool type: Water softening accessories)
+- Water treatment equipment (Tool type: Water purification equipment)
+- Wet scrubbers (Tool type: Wet scrubbers)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Fairly important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Moderately automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Once a month or more but not every week
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Every day
+- Exposed to Hazardous Conditions: Every day
+- Exposed to Hazardous Equipment: Every day
+- Exposed to High Places: Once a week or more but not every day
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Every day
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Every day
+- Exposed to Whole Body Vibration: Once a year or more but not every month
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Very important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Once a month or more but not every week
+- In an Open Vehicle or Operating Equipment: Once a month or more but not every week
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Every day
+- Level of Competition: Slightly competitive
+- Outdoors, Exposed to All Weather Conditions: Once a week or more but not every day
+- Outdoors, Under Cover: Once a week or more but not every day
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Once a year or more but not every month
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Less than half the time
+- Spend Time Keeping or Regaining Balance: Less than half the time
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Less than half the time
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: About half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Once a year or more but not every month
+- Work Outcomes and Results of Other Workers: Moderate responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a week or more but not every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Hydroelectric Plant Technicians
+- Biomass Plant Technicians
+- Gas Plant Operators
+- Stationary Engineers and Boiler Operators
+- Geothermal Technicians
+- Power Distributors and Dispatchers
+- Chemical Plant and System Operators
+- Gas Compressor and Gas Pumping Station Operators
+- Petroleum Pump System Operators, Refinery Operators, and Gaugers
+- Water and Wastewater Treatment Plant and System Operators
+- Biomass Power Plant Managers
+- Geothermal Production Managers
+- Hydroelectric Production Managers
+- Wind Turbine Service Technicians
+- Nuclear Technicians
+- Biofuels Processing Technicians
+- Wellhead Pumpers
+- Pump Operators, Except Wellhead Pumpers
+- Nuclear Power Reactor Operators
+- Control and Valve Installers and Repairers, Except Mechanical Door

@@ -1,0 +1,274 @@
+Job Title: Structural Metal Fabricators and Fitters
+O*NET-SOC Code: 51-2041.00
+
+# DESCRIPTION
+Fabricate, position, align, and fit parts of structural metal products.
+
+# TASKS
+- Verify conformance of workpieces to specifications, using squares, rulers, and measuring tapes.
+- Study engineering drawings and blueprints to determine materials requirements and task sequences.
+- Position, align, fit, and weld parts to form complete units or subunits, following blueprints and layout specifications, and using jigs, welding torches, and hand tools.
+- Lay out and examine metal stock or workpieces to be processed to ensure that specifications are met.
+- Tack-weld fitted parts together.
+- Move parts into position, manually or with hoists or cranes.
+- Set up and operate fabricating machines, such as brakes, rolls, shears, flame cutters, grinders, and drill presses, to bend, cut, form, punch, drill, or otherwise form and assemble metal components.
+- Position or tighten braces, jacks, clamps, ropes, or bolt straps, or bolt parts in position for welding or riveting.
+- Lift or move materials and finished products, using large cranes.
+- Set up face blocks, jigs, and fixtures.
+- Align and fit parts according to specifications, using jacks, turnbuckles, wedges, drift pins, pry bars, and hammers.
+- Hammer, chip, and grind workpieces to cut, bend, and straighten metal.
+- Locate and mark workpiece bending and cutting lines, allowing for stock thickness, machine and welding shrinkage, and other component specifications.
+- Remove high spots and cut bevels, using hand files, portable grinders, and cutting torches.
+- Smooth workpiece edges and fix taps, tubes, and valves.
+- Mark reference points onto floors or face blocks and transpose them to workpieces, using measuring devices, squares, chalk, and soapstone.
+- Design and construct templates and fixtures, using hand tools.
+- Direct welders to build up low spots or short pieces with weld.
+- Heat-treat parts, using acetylene torches.
+- Straighten warped or bent parts, using sledges, hand torches, straightening presses, or bulldozers.
+- Erect ladders and scaffolding to fit together large assemblies.
+- Preheat workpieces to make them malleable, using hand torches or furnaces.
+- Install boilers, containers, and other structures.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mathematics (Importance: 3.39/5 | Level: 3.25/7)
+- Production and Processing (Importance: 3.31/5 | Level: 2.93/7)
+- Mechanical (Importance: 3.3/5 | Level: 3.42/7)
+- English Language (Importance: 3.04/5 | Level: 2.46/7)
+- Administration and Management (Importance: 2.87/5 | Level: 2.35/7)
+- Education and Training (Importance: 2.81/5 | Level: 2.85/7)
+- Design (Importance: 2.77/5 | Level: 2.92/7)
+- Public Safety and Security (Importance: 2.73/5 | Level: 2.44/7)
+- Customer and Personal Service (Importance: 2.63/5 | Level: 1.92/7)
+- Engineering and Technology (Importance: 2.59/5 | Level: 2.36/7)
+- Building and Construction (Importance: 2.34/5 | Level: 2.04/7)
+- Administrative (Importance: 2.28/5 | Level: 1.37/7)
+- Computers and Electronics (Importance: 2.26/5 | Level: 2.06/7)
+- Personnel and Human Resources (Importance: 2.08/5 | Level: 1.28/7)
+- Transportation (Importance: 2.01/5 | Level: 1.0/7)
+- Physics (Importance: 1.95/5 | Level: 1.67/7)
+- Economics and Accounting (Importance: 1.81/5 | Level: 1.23/7)
+- Communications and Media (Importance: 1.65/5 | Level: 1.02/7)
+- Sales and Marketing (Importance: 1.64/5 | Level: 0.92/7)
+- Chemistry (Importance: 1.59/5 | Level: 1.0/7)
+- Law and Government (Importance: 1.45/5 | Level: 0.5/7)
+- Foreign Language (Importance: 1.41/5 | Level: 0.49/7)
+- Telecommunications (Importance: 1.28/5 | Level: 0.31/7)
+- Psychology (Importance: 1.25/5 | Level: 0.63/7)
+- Therapy and Counseling (Importance: 1.21/5 | Level: 0.42/7)
+- Geography (Importance: 1.19/5 | Level: 0.33/7)
+- Medicine and Dentistry (Importance: 1.17/5 | Level: 0.34/7)
+- Food Production (Importance: 1.14/5 | Level: 0.26/7)
+- Fine Arts (Importance: 1.09/5 | Level: 0.17/7)
+- Biology (Importance: 1.07/5 | Level: 0.16/7)
+- Philosophy and Theology (Importance: 1.05/5 | Level: 0.1/7)
+- History and Archeology (Importance: 1.05/5 | Level: 0.07/7)
+- Sociology and Anthropology (Importance: 1.05/5 | Level: 0.14/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Critical Thinking (Importance: 3.0/5 | Level: 2.38/7)
+- Speaking (Importance: 3.0/5 | Level: 2.62/7)
+- Reading Comprehension (Importance: 3.0/5 | Level: 2.62/7)
+- Active Listening (Importance: 3.0/5 | Level: 3.0/7)
+- Monitoring (Importance: 2.88/5 | Level: 2.62/7)
+- Operations Monitoring (Importance: 2.88/5 | Level: 2.5/7)
+- Time Management (Importance: 2.62/5 | Level: 2.0/7)
+- Social Perceptiveness (Importance: 2.62/5 | Level: 2.38/7)
+- Operation and Control (Importance: 2.38/5 | Level: 2.12/7)
+- Coordination (Importance: 2.38/5 | Level: 2.75/7)
+- Judgment and Decision Making (Importance: 2.38/5 | Level: 2.12/7)
+- Quality Control Analysis (Importance: 2.25/5 | Level: 2.5/7)
+- Active Learning (Importance: 2.25/5 | Level: 1.88/7)
+- Writing (Importance: 2.25/5 | Level: 2.12/7)
+- Instructing (Importance: 2.25/5 | Level: 2.0/7)
+- Troubleshooting (Importance: 2.12/5 | Level: 2.12/7)
+- Complex Problem Solving (Importance: 2.12/5 | Level: 2.12/7)
+- Equipment Selection (Importance: 2.12/5 | Level: 1.62/7)
+- Service Orientation (Importance: 2.12/5 | Level: 2.0/7)
+- Mathematics (Importance: 2.12/5 | Level: 2.0/7)
+- Management of Personnel Resources (Importance: 2.12/5 | Level: 2.0/7)
+- Persuasion (Importance: 2.12/5 | Level: 2.0/7)
+- Equipment Maintenance (Importance: 2.0/5 | Level: 1.12/7)
+- Negotiation (Importance: 2.0/5 | Level: 2.0/7)
+- Operations Analysis (Importance: 1.88/5 | Level: 1.0/7)
+- Repairing (Importance: 1.88/5 | Level: 0.88/7)
+- Learning Strategies (Importance: 1.75/5 | Level: 0.75/7)
+- Science (Importance: 1.75/5 | Level: 0.75/7)
+- Systems Analysis (Importance: 1.62/5 | Level: 0.75/7)
+- Systems Evaluation (Importance: 1.62/5 | Level: 0.75/7)
+- Technology Design (Importance: 1.62/5 | Level: 0.62/7)
+- Management of Financial Resources (Importance: 1.38/5 | Level: 0.38/7)
+- Management of Material Resources (Importance: 1.38/5 | Level: 0.38/7)
+- Installation (Importance: 1.12/5 | Level: 0.25/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Computer aided design and drafting CADD software (Tech skill type: Computer aided design CAD software)
+- Dassault Systemes CATIA (Tech skill type: Computer aided design CAD software)
+- Enterprise resource planning ERP software (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- Tekla software (Tech skill type: Computer aided design CAD software)
+- Three-dimensional modeling software (Tech skill type: Computer aided design CAD software)
+
+## TOOLS USED
+- Adjustable wrenches (Tool type: Adjustable wrenches)
+- Belt sanders (Tool type: Belt sander)
+- Bench vises (Tool type: Bench vises)
+- Beverly shears (Tool type: Shears)
+- Brakes (Tool type: Manual press brake)
+- Center punches (Tool type: Punches or nail sets or drifts)
+- Chipping tools (Tool type: Power chippers)
+- Circular saws (Tool type: Power saws)
+- Claw hammers (Tool type: Claw hammer)
+- Computerized numerical control CNC metal-cutting machines (Tool type: Milling machines)
+- Computerized numerical control CNC press brakes (Tool type: Hydraulic press brake)
+- Cutoff saws (Tool type: Power saws)
+- Desktop computers (Tool type: Desktop computers)
+- Dial indicators (Tool type: Dial indicator or dial gauge)
+- Dividers (Tool type: Compasses)
+- Drift pins (Tool type: Punches or nail sets or drifts)
+- Drill presses (Tool type: Drill press or radial drill)
+- Edge planers (Tool type: Power planes)
+- End milling machines (Tool type: Machine end mill)
+- Flame cutters (Tool type: Plasma arc welding machine)
+- Forklifts (Tool type: Forklifts)
+- Hand clamps (Tool type: Hand clamps)
+- Hand shears (Tool type: Shears)
+- Hand torch welders (Tool type: Welder torch)
+- Hand torches (Tool type: Blow torch)
+- Heating furnaces (Tool type: Induction heaters)
+- Jacks (Tool type: Jacks)
+- Ladders (Tool type: Ladders)
+- Lathes (Tool type: Tracer or duplicating or contouring lathe)
+- Layout squares (Tool type: Squares)
+- Locking pliers (Tool type: Locking pliers)
+- Magnetic drill presses (Tool type: Drill press or radial drill)
+- Measuring tapes (Tool type: Tape measures)
+- Metal cutting taps (Tool type: Taps)
+- Metal inert gas MIG welders (Tool type: Metal inert gas welding machine)
+- Micrometers (Tool type: Micrometers)
+- Milling machines (Tool type: Milling machines)
+- Overhead cranes (Tool type: Track cranes)
+- Paint spray guns (Tool type: Paint sprayers)
+- Personal computers (Tool type: Personal computers)
+- Plasma cutters (Tool type: Plasma arc welding machine)
+- Positioning jigs (Tool type: Positioning jig)
+- Power chippers (Tool type: Power chippers)
+- Power grinders (Tool type: Power grinders)
+- Power hacksaws (Tool type: Hacksaw)
+- Power hoists (Tool type: Hoists)
+- Precision files (Tool type: Precision file)
+- Protractors (Tool type: Protractors)
+- Pry bars (Tool type: Pry bars)
+- Punches (Tool type: Punches or nail sets or drifts)
+- Radial arm saws (Tool type: Power saws)
+- Radial drills (Tool type: Drill press or radial drill)
+- Reamers (Tool type: Hand reamer)
+- Rivet guns (Tool type: Power riveter)
+- Roll benders (Tool type: Sheet metal forming machine)
+- Scaffolding (Tool type: Scaffolding)
+- Scribers (Tool type: Scribers)
+- Sine bars (Tool type: Sine bar)
+- Sledgehammers (Tool type: Sledge hammer)
+- Steel rules (Tool type: Rulers)
+- Straight screwdrivers (Tool type: Screwdrivers)
+- Straightening presses (Tool type: Hydraulic press brake)
+- Surface gauges (Tool type: Surface gauge)
+- Tack welding equipment (Tool type: Spot welding machine)
+- Tracked bulldozers (Tool type: Track bulldozers)
+- Transit levels (Tool type: Level sensors or transmitters)
+- Tungsten inert gas TIG welding equipment (Tool type: Tungsten inert gas welding machine)
+- Turnbuckles (Tool type: Turnbuckles)
+- Unishears (Tool type: Shears)
+- Vernier height gauges (Tool type: Height gauges)
+- Wedges (Tool type: Wedges)
+- Welding torches (Tool type: Welder torch)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Fairly serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Important
+- Deal With External Customers or the Public in General: Not important at all
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Slightly automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Never
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Once a month or more but not every week
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Every day
+- Exposed to Hazardous Equipment: Every day
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Every day
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Every day
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: High responsibility
+- Impact of Decisions on Co-workers or Company Results: No results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Very important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Never
+- Indoors, Not Environmentally Controlled: Every day
+- Level of Competition: Slightly competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Important
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Once a week or more but not every day
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Less than half the time
+- Spend Time Keeping or Regaining Balance: Less than half the time
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: About half the time
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: Continually or almost continually
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Never
+- Time Pressure: Once a week or more but not every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: High responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Never
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Structural Iron and Steel Workers
+- Layout Workers, Metal and Plastic
+- Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+- Sheet Metal Workers
+- Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders
+- Welders, Cutters, Solderers, and Brazers
+- Millwrights
+- Reinforcing Iron and Rebar Workers
+- Boilermakers
+- Tool and Die Makers
+- Engine and Other Machine Assemblers
+- Model Makers, Metal and Plastic
+- Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+- Carpenters
+- Molders, Shapers, and Casters, Except Metal and Plastic
+- Cabinetmakers and Bench Carpenters
+- Grinding and Polishing Workers, Hand
+- Drywall and Ceiling Tile Installers
+- Electrical and Electronic Equipment Assemblers
+- Patternmakers, Wood

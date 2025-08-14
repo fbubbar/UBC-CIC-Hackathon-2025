@@ -1,0 +1,269 @@
+Job Title: Radiation Therapists
+O*NET-SOC Code: 29-1124.00
+
+# DESCRIPTION
+Provide radiation therapy to patients as prescribed by a radiation oncologist according to established practices and standards. Duties may include reviewing prescription and diagnosis; acting as liaison with physician and supportive care personnel; preparing equipment, such as immobilization, treatment, and protection devices; and maintaining records, reports, and files. May assist in dosimetry procedures and tumor localization.
+
+# TASKS
+- Position patients for treatment with accuracy, according to prescription.
+- Administer prescribed doses of radiation to specific body parts, using radiation therapy equipment according to established practices and standards.
+- Follow principles of radiation protection for patient, self, and others.
+- Review prescription, diagnosis, patient chart, and identification.
+- Conduct most treatment sessions independently, in accordance with the long-term treatment plan and under the general direction of the patient's physician.
+- Enter data into computer and set controls to operate or adjust equipment or regulate dosage.
+- Check radiation therapy equipment to ensure proper operation.
+- Observe and reassure patients during treatment and report unusual reactions to physician or turn equipment off if unexpected adverse reactions occur.
+- Educate, prepare, and reassure patients and their families by answering questions, providing physical assistance, and reinforcing physicians' advice regarding treatment reactions or post-treatment care.
+- Maintain records, reports, or files as required, including such information as radiation dosages, equipment settings, or patients' reactions.
+- Check for side effects, such as skin irritation, nausea, or hair loss to assess patients' reaction to treatment.
+- Prepare or construct equipment, such as immobilization, treatment, or protection devices.
+- Help physicians, radiation oncologists, or clinical physicists to prepare physical or technical aspects of radiation treatment plans, using information about patient condition and anatomy.
+- Calculate actual treatment dosages delivered during each session.
+- Photograph treated area of patient and process film.
+- Act as liaison with physicist and supportive care personnel.
+- Schedule patients for treatment times.
+- Provide assistance to other healthcare personnel during dosimetry procedures and tumor localization.
+- Train or supervise student or subordinate radiotherapy technologists.
+- Implement appropriate follow-up care plans.
+- Store, sterilize, or prepare the special applicators containing the radioactive substance implanted by the physician.
+- Assist in the preparation of sealed radioactive materials, such as cobalt, radium, cesium, or isotopes, for use in radiation treatments.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.56/5 | Level: 5.3/7)
+- English Language (Importance: 4.04/5 | Level: 3.99/7)
+- Medicine and Dentistry (Importance: 3.95/5 | Level: 4.1/7)
+- Physics (Importance: 3.77/5 | Level: 3.86/7)
+- Mathematics (Importance: 3.62/5 | Level: 3.84/7)
+- Education and Training (Importance: 3.52/5 | Level: 4.13/7)
+- Computers and Electronics (Importance: 3.51/5 | Level: 4.17/7)
+- Therapy and Counseling (Importance: 3.36/5 | Level: 3.89/7)
+- Psychology (Importance: 3.35/5 | Level: 4.38/7)
+- Biology (Importance: 3.34/5 | Level: 3.63/7)
+- Administrative (Importance: 3.08/5 | Level: 3.22/7)
+- Administration and Management (Importance: 2.84/5 | Level: 2.51/7)
+- Public Safety and Security (Importance: 2.6/5 | Level: 2.39/7)
+- Mechanical (Importance: 2.48/5 | Level: 2.54/7)
+- Sociology and Anthropology (Importance: 2.36/5 | Level: 2.4/7)
+- Engineering and Technology (Importance: 2.32/5 | Level: 2.18/7)
+- Personnel and Human Resources (Importance: 2.3/5 | Level: 2.32/7)
+- Chemistry (Importance: 2.26/5 | Level: 2.46/7)
+- Philosophy and Theology (Importance: 2.14/5 | Level: 2.63/7)
+- Telecommunications (Importance: 2.13/5 | Level: 1.26/7)
+- Law and Government (Importance: 2.12/5 | Level: 1.82/7)
+- Communications and Media (Importance: 1.99/5 | Level: 1.7/7)
+- Foreign Language (Importance: 1.82/5 | Level: 1.47/7)
+- Transportation (Importance: 1.79/5 | Level: 1.4/7)
+- Economics and Accounting (Importance: 1.61/5 | Level: 0.83/7)
+- Design (Importance: 1.61/5 | Level: 1.02/7)
+- Production and Processing (Importance: 1.53/5 | Level: 0.98/7)
+- Sales and Marketing (Importance: 1.38/5 | Level: 0.65/7)
+- Geography (Importance: 1.25/5 | Level: 0.59/7)
+- Building and Construction (Importance: 1.22/5 | Level: 0.38/7)
+- History and Archeology (Importance: 1.1/5 | Level: 0.33/7)
+- Fine Arts (Importance: 1.09/5 | Level: 0.16/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Reading Comprehension (Importance: 3.75/5 | Level: 3.88/7)
+- Active Listening (Importance: 3.75/5 | Level: 3.88/7)
+- Critical Thinking (Importance: 3.5/5 | Level: 3.75/7)
+- Social Perceptiveness (Importance: 3.38/5 | Level: 3.62/7)
+- Operations Monitoring (Importance: 3.38/5 | Level: 3.38/7)
+- Monitoring (Importance: 3.25/5 | Level: 3.38/7)
+- Coordination (Importance: 3.25/5 | Level: 3.12/7)
+- Speaking (Importance: 3.25/5 | Level: 3.5/7)
+- Service Orientation (Importance: 3.25/5 | Level: 3.25/7)
+- Operation and Control (Importance: 3.12/5 | Level: 3.5/7)
+- Time Management (Importance: 3.12/5 | Level: 3.25/7)
+- Writing (Importance: 3.12/5 | Level: 3.25/7)
+- Complex Problem Solving (Importance: 3.12/5 | Level: 3.0/7)
+- Instructing (Importance: 3.0/5 | Level: 3.38/7)
+- Active Learning (Importance: 3.0/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 2.88/5 | Level: 3.0/7)
+- Judgment and Decision Making (Importance: 2.88/5 | Level: 3.12/7)
+- Troubleshooting (Importance: 2.88/5 | Level: 2.75/7)
+- Quality Control Analysis (Importance: 2.88/5 | Level: 3.38/7)
+- Management of Personnel Resources (Importance: 2.88/5 | Level: 2.88/7)
+- Science (Importance: 2.75/5 | Level: 3.0/7)
+- Mathematics (Importance: 2.75/5 | Level: 2.88/7)
+- Equipment Maintenance (Importance: 2.75/5 | Level: 2.75/7)
+- Systems Evaluation (Importance: 2.62/5 | Level: 2.75/7)
+- Operations Analysis (Importance: 2.62/5 | Level: 2.62/7)
+- Persuasion (Importance: 2.62/5 | Level: 2.75/7)
+- Negotiation (Importance: 2.62/5 | Level: 2.5/7)
+- Equipment Selection (Importance: 2.62/5 | Level: 2.62/7)
+- Systems Analysis (Importance: 2.62/5 | Level: 2.75/7)
+- Repairing (Importance: 2.25/5 | Level: 2.12/7)
+- Management of Material Resources (Importance: 2.12/5 | Level: 1.38/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.0/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.0/7)
+- Programming (Importance: 1.75/5 | Level: 1.12/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Beam analysis software (Tech skill type: Medical software)
+- Dose unit calculation software (Tech skill type: Medical software)
+- eClinicalWorks EHR software (Tech skill type: Medical software)
+- Eclipse IDE (Tech skill type: Development environment software)
+- Electronic medical record EMR software (Tech skill type: Medical software)
+- Epic Systems (Tech skill type: Medical software)
+- Image processing software (Tech skill type: Graphics or photo imaging software)
+- Lifeline Software RadCalc (Tech skill type: Medical software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Nucletron planning systems (Tech skill type: Medical software)
+- Patient management software (Tech skill type: Medical software)
+- Procedure scheduling software (Tech skill type: Medical software)
+- Radiation dose calculation software (Tech skill type: Medical software)
+- Radiation therapy equipment software (Tech skill type: Medical software)
+- Sun Nuclear MapCHECK (Tech skill type: Medical software)
+- Treatment planning software (Tech skill type: Medical software)
+- Virtual simulation software (Tech skill type: Medical software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- 35 millimeter cameras (Tool type: Still cameras)
+- Area radiation monitors (Tool type: Radiation detectors)
+- Automated external defibrillators AED (Tool type: Mobile medical services automated external defibrillators AED or hard paddles)
+- Band saws (Tool type: Power saws)
+- Beam direction shells (Tool type: Medical radiological positioning aids for general radiological use)
+- Body-fat calipers (Tool type: Skinfold calipers)
+- Brachytherapy units (Tool type: Brachytherapy units)
+- Cobalt radiation therapy machines (Tool type: Radiotherapy teletherapy cobalt 60 units)
+- Computed tomography CT radiation therapy planning simulators (Tool type: Computed tomography CT or CAT radiotherapy simulators)
+- Computed tomography CT scanners (Tool type: Medical computed tomography CT or CAT scanners or tubes)
+- Computerized block cutting equipment (Tool type: Sawing machines)
+- Daylight medical film processing equipment (Tool type: Medical imaging wet darkroom or daylight processors)
+- Desktop computers (Tool type: Desktop computers)
+- Digital cameras (Tool type: Digital cameras)
+- Drill presses (Tool type: Drilling machines)
+- Dual diode dosimeter patient dose monitors (Tool type: Medical radiation dosimeters)
+- Dynamic phantoms (Tool type: Phantom dosimeters)
+- Electrometers (Tool type: Electrometers)
+- Heat guns (Tool type: Heat guns)
+- Immobilizing bite blocks (Tool type: Medical radiological positioning aids for general radiological use)
+- Laboratory water baths (Tool type: Water baths)
+- Laptop computers (Tool type: Notebook computers)
+- Lead alloy shielding blocks (Tool type: Medical radiological shielding freestanding or portable screens or curtains)
+- Linear accelerator compensation filters (Tool type: Medical linear accelerator intensity modulated radiation therapy IMRT collimators)
+- Magnetic resonance imaging MRI systems (Tool type: Medical magnetic resonance imaging MRI scanners)
+- Medical diagnostic x ray equipment (Tool type: Medical x ray units for general diagnostic use)
+- Medical imaging fluoroscopes (Tool type: Medical cinefluoroscopy units)
+- Medical linear accelerator intensity modulated radiation therapy IMRT collimators (Tool type: Medical linear accelerator intensity modulated radiation therapy IMRT collimators)
+- Medical linear accelerator intensity modulated radiation therapy IMRT three dimensional units (Tool type: Medical linear accelerator intensity modulated radiation therapy IMRT three dimensional units)
+- Medical linear accelerator intensity modulated radiation therapy IMRT two dimensional units (Tool type: Medical linear accelerator intensity modulated radiation therapy IMRT two dimensional units)
+- Medical x ray image intensifiers (Tool type: Medical x ray intensifying screens)
+- Multi-leaf radiation therapy collimators (Tool type: Medical linear accelerator intensity modulated radiation therapy IMRT collimators)
+- Multi-monitor dosimetry systems (Tool type: Medical radiation dosimeters)
+- Optical distance indicators (Tool type: Distance meters)
+- Patient positioning devices (Tool type: Medical radiological positioning aids for general radiological use)
+- Patient positioning headrests (Tool type: Medical radiological positioning aids for general radiological use)
+- Patient positioning neck rests (Tool type: Medical radiological positioning aids for general radiological use)
+- Patient positioning straps (Tool type: Medical radiological positioning aids for general radiological use)
+- Patient treatment area casts (Tool type: Medical radiological positioning aids for general radiological use)
+- Personal radiation monitors (Tool type: Medical radiation films or badges)
+- Position verification lasers (Tool type: Lasers)
+- Power drills (Tool type: Power drills)
+- Protective medical gloves (Tool type: Medical exam or non surgical procedure gloves)
+- Radiation protection eyewear (Tool type: Eye shields)
+- Radiation shielding lead aprons (Tool type: Medical radiological shielding aprons or masks or drapes)
+- Radiation therapy beam directing wedges (Tool type: Medical linear accelerator intensity modulated radiation therapy IMRT collimators)
+- Respiration monitors (Tool type: Respiratory monitoring kits)
+- Solid state diode detectors (Tool type: Radiation detectors)
+- Survey meters (Tool type: Radiation detectors)
+- Thyroid shields (Tool type: Medical radiological shielding aprons or masks or drapes)
+- Treatment room intercoms (Tool type: Hospital intercom systems)
+- Treatment verification equipment (Tool type: Medical positron emission tomography PET units)
+- Ultrasound imaging scanners (Tool type: Medical ultrasound or doppler or pulse echocardiograph or echocardiograph units for general diagnostic use)
+- Vacuum formers (Tool type: Vacuum molding machines)
+- Wireless patient dosimeters (Tool type: Medical radiation dosimeters)
+- Wood chisels (Tool type: Wood chisels)
+- Workshop lathes (Tool type: Automatic lathe or chucking machine)
+- X ray or fluoroscopy treatment planning simulators (Tool type: X ray and fluoroscopy RF radiotherapy planning simulators)
+
+# WORK CONTEXT
+- Conflict Situations: Once a week or more but not every day
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a month or more but not every week
+- Dealing with Violent or Physically Aggressive People: Once a year or more but not every month
+- Degree of Automation: Moderately automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Every day
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Every day
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Never
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Extremely important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Extremely competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Extremely important
+- Physical Proximity: Very close (near touching)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: More than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Continually or almost continually
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: More than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: More than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Once a year or more but not every month
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Social
+- Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Medical Dosimetrists
+- Cardiovascular Technologists and Technicians
+- Radiologic Technologists and Technicians
+- Respiratory Therapists
+- Nuclear Medicine Technologists
+- Diagnostic Medical Sonographers
+- Magnetic Resonance Imaging Technologists
+- Neurodiagnostic Technologists
+- Occupational Therapy Assistants
+- Surgical Assistants
+- Emergency Medicine Physicians
+- Pediatric Surgeons
+- Cardiologists
+- Radiologists
+- Orthopedic Surgeons, Except Pediatric
+- Physical Therapist Assistants
+- Physical Therapist Aides
+- Physical Therapists
+- Paramedics
+- Physical Medicine and Rehabilitation Physicians

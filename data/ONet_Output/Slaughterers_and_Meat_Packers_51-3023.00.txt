@@ -1,0 +1,226 @@
+Job Title: Slaughterers and Meat Packers
+O*NET-SOC Code: 51-3023.00
+
+# DESCRIPTION
+Perform nonroutine or precision functions involving the preparation of large portions of meat. Work may include specialized slaughtering tasks, cutting standard or premium cuts of meat for marketing, making sausage, or wrapping meats. Work typically occurs in slaughtering, meat packing, or wholesale establishments.
+
+# TASKS
+- Remove bones, and cut meat into standard cuts in preparation for marketing.
+- Sever jugular veins to drain blood and facilitate slaughtering.
+- Tend assembly lines, performing a few of the many cuts needed to process a carcass.
+- Shackle hind legs of animals to raise them for slaughtering or skinning.
+- Slit open, eviscerate, and trim carcasses of slaughtered animals.
+- Stun animals prior to slaughtering.
+- Skin sections of animals or whole animals.
+- Cut, trim, skin, sort, and wash viscera of slaughtered animals to separate edible portions from offal.
+- Shave or singe and defeather carcasses, and wash them in preparation for further processing or packaging.
+- Saw, split, or scribe carcasses into smaller portions to facilitate handling.
+- Trim head meat, and sever or remove parts of animals' heads or skulls.
+- Grind meat into hamburger, and into trimmings used to prepare sausages, luncheon meats, and other meat products.
+- Trim, clean, or cure animal hides.
+- Wrap dressed carcasses or meat cuts.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 3.62/5 | Level: 3.61/7)
+- Food Production (Importance: 3.43/5 | Level: 4.05/7)
+- Production and Processing (Importance: 3.29/5 | Level: 3.13/7)
+- English Language (Importance: 3.12/5 | Level: 2.53/7)
+- Law and Government (Importance: 2.79/5 | Level: 2.29/7)
+- Mathematics (Importance: 2.69/5 | Level: 2.56/7)
+- Administrative (Importance: 2.5/5 | Level: 2.0/7)
+- Administration and Management (Importance: 2.47/5 | Level: 2.05/7)
+- Sales and Marketing (Importance: 2.41/5 | Level: 2.29/7)
+- Public Safety and Security (Importance: 2.39/5 | Level: 2.32/7)
+- Personnel and Human Resources (Importance: 2.03/5 | Level: 1.5/7)
+- Engineering and Technology (Importance: 2.0/5 | Level: 1.92/7)
+- Mechanical (Importance: 1.96/5 | Level: 1.96/7)
+- Biology (Importance: 1.95/5 | Level: 1.84/7)
+- Foreign Language (Importance: 1.88/5 | Level: 1.1/7)
+- Chemistry (Importance: 1.85/5 | Level: 1.52/7)
+- Economics and Accounting (Importance: 1.81/5 | Level: 1.23/7)
+- Education and Training (Importance: 1.8/5 | Level: 1.36/7)
+- Design (Importance: 1.69/5 | Level: 1.29/7)
+- Computers and Electronics (Importance: 1.68/5 | Level: 1.78/7)
+- Building and Construction (Importance: 1.64/5 | Level: 1.2/7)
+- Physics (Importance: 1.62/5 | Level: 1.11/7)
+- Transportation (Importance: 1.53/5 | Level: 1.08/7)
+- History and Archeology (Importance: 1.53/5 | Level: 1.05/7)
+- Medicine and Dentistry (Importance: 1.48/5 | Level: 0.85/7)
+- Geography (Importance: 1.44/5 | Level: 0.73/7)
+- Psychology (Importance: 1.43/5 | Level: 0.86/7)
+- Sociology and Anthropology (Importance: 1.4/5 | Level: 0.9/7)
+- Therapy and Counseling (Importance: 1.37/5 | Level: 0.56/7)
+- Philosophy and Theology (Importance: 1.21/5 | Level: 0.42/7)
+- Telecommunications (Importance: 1.16/5 | Level: 0.21/7)
+- Communications and Media (Importance: 1.13/5 | Level: 0.4/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Speaking (Importance: 2.75/5 | Level: 1.88/7)
+- Active Listening (Importance: 2.62/5 | Level: 2.25/7)
+- Critical Thinking (Importance: 2.38/5 | Level: 1.88/7)
+- Social Perceptiveness (Importance: 2.38/5 | Level: 1.75/7)
+- Monitoring (Importance: 2.25/5 | Level: 1.88/7)
+- Operations Monitoring (Importance: 2.25/5 | Level: 2.0/7)
+- Operation and Control (Importance: 2.12/5 | Level: 2.12/7)
+- Troubleshooting (Importance: 2.12/5 | Level: 1.38/7)
+- Quality Control Analysis (Importance: 2.12/5 | Level: 2.0/7)
+- Time Management (Importance: 2.0/5 | Level: 1.88/7)
+- Service Orientation (Importance: 2.0/5 | Level: 1.75/7)
+- Active Learning (Importance: 2.0/5 | Level: 1.5/7)
+- Coordination (Importance: 2.0/5 | Level: 1.88/7)
+- Learning Strategies (Importance: 2.0/5 | Level: 1.25/7)
+- Judgment and Decision Making (Importance: 2.0/5 | Level: 1.75/7)
+- Reading Comprehension (Importance: 1.88/5 | Level: 1.75/7)
+- Instructing (Importance: 1.88/5 | Level: 1.62/7)
+- Complex Problem Solving (Importance: 1.88/5 | Level: 1.75/7)
+- Systems Evaluation (Importance: 1.88/5 | Level: 1.12/7)
+- Systems Analysis (Importance: 1.88/5 | Level: 1.12/7)
+- Persuasion (Importance: 1.88/5 | Level: 0.88/7)
+- Management of Personnel Resources (Importance: 1.88/5 | Level: 1.5/7)
+- Writing (Importance: 1.75/5 | Level: 1.0/7)
+- Negotiation (Importance: 1.75/5 | Level: 1.12/7)
+- Mathematics (Importance: 1.75/5 | Level: 0.75/7)
+- Management of Material Resources (Importance: 1.62/5 | Level: 0.62/7)
+- Management of Financial Resources (Importance: 1.5/5 | Level: 0.5/7)
+- Repairing (Importance: 1.38/5 | Level: 0.75/7)
+- Equipment Selection (Importance: 1.38/5 | Level: 0.5/7)
+- Equipment Maintenance (Importance: 1.38/5 | Level: 0.75/7)
+- Operations Analysis (Importance: 1.12/5 | Level: 0.12/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Technology Design (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- AccountMate Software AccountMate (Tech skill type: Accounting software)
+- AgInfoLink Meat Inventory Tracking System MITS (Tech skill type: Inventory management software)
+- Integrated Management Systems Food Connex Cloud (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Operating system software (Tech skill type: Operating system software)
+- RFID software (Tech skill type: Inventory management software)
+- Second Foundation NaviMeat (Tech skill type: Enterprise resource planning ERP software)
+- Traceability software (Tech skill type: Inventory management software)
+
+## TOOLS USED
+- Bacon slicers (Tool type: Commercial use food slicers)
+- Belt conveyor systems (Tool type: Belt conveyors)
+- Blast chillers (Tool type: Blast freezers)
+- Butcher knives (Tool type: Commercial use cutlery)
+- Carcass branding machines (Tool type: Engraving machines)
+- Casing stuffing machines (Tool type: Filling machinery)
+- Chop cutting machines (Tool type: Cutting machinery)
+- Cubing machines (Tool type: Dicing machinery)
+- Dehairing machines (Tool type: Animal shearing or clipping equipment)
+- Electrical stunning equipment (Tool type: Stunner)
+- Food cooling equipment (Tool type: Cooling machine)
+- Food scales (Tool type: Commercial use scales)
+- Hoisting equipment (Tool type: Hoists)
+- Industrial forklifts (Tool type: Forklifts)
+- Knife sharpeners (Tool type: Sharpening stones or tools or kits)
+- Label printers (Tool type: Label making machines)
+- Livestock shackles (Tool type: Shaft collar)
+- Meat cleavers (Tool type: Knife blades)
+- Meat compactors (Tool type: Packaging compactors)
+- Meat grading probes (Tool type: Electronic measuring probes)
+- Meat grinders (Tool type: Commercial use food grinders)
+- Meat package filling and sealing machines (Tool type: Form or fill or seal machinery)
+- Meat-cutting bandsaws (Tool type: Cutting machinery)
+- Motorized saws (Tool type: Power saws)
+- Package wrapping machines (Tool type: Wrapping machinery)
+- Personal computers (Tool type: Personal computers)
+- Radio frequency identification RFID devices (Tool type: Radio frequency identification devices)
+- Sharpening steels (Tool type: Sharpening stones or tools or kits)
+- Shoulder tattooers (Tool type: Livestock identification equipment)
+- Shrink wrap meat packing machines (Tool type: Wrapping machinery)
+- Skinning knives (Tool type: Commercial use cutlery)
+- Slicing machines (Tool type: Slicing machinery)
+- Steak patty machines (Tool type: Forming machine)
+- Touch screen computers (Tool type: Touch screen monitors)
+
+# WORK CONTEXT
+- Conflict Situations: Never
+- Consequence of Error: Serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Never
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: Limited freedom
+- E-Mail: Never
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Every day
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Every day
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: No freedom
+- Frequency of Decision Making: Never
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: No results
+- Importance of Being Exact or Accurate: Important
+- Importance of Repeating Same Tasks: Very important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Extremely important
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: About half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Continually or almost continually
+- Spend Time Sitting: Never
+- Spend Time Standing: Continually or almost continually
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Never
+- Time Pressure: Once a month or more but not every week
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Moderate responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Never
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Meat, Poultry, and Fish Cutters and Trimmers
+- Butchers and Meat Cutters
+- Farmworkers, Farm, Ranch, and Aquacultural Animals
+- Graders and Sorters, Agricultural Products
+- Animal Breeders
+- Food Preparation Workers
+- Packers and Packagers, Hand
+- Cooks, Restaurant
+- Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders
+- Farmworkers and Laborers, Crop, Nursery, and Greenhouse
+- Animal Scientists
+- Packaging and Filling Machine Operators and Tenders
+- Cooks, Short Order
+- Food Batchmakers
+- Bakers
+- Fishing and Hunting Workers
+- Food Cooking Machine Operators and Tenders
+- Cutting and Slicing Machine Setters, Operators, and Tenders
+- Cooks, Institution and Cafeteria
+- Laundry and Dry-Cleaning Workers

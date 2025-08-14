@@ -1,0 +1,301 @@
+Job Title: Dental Assistants
+O*NET-SOC Code: 31-9091.00
+
+# DESCRIPTION
+Perform limited clinical duties under the direction of a dentist. Clinical duties may include equipment preparation and sterilization, preparing patients for treatment, assisting the dentist during treatment, and providing patients with instructions for oral healthcare procedures. May perform administrative duties such as scheduling appointments, maintaining medical records, billing, and coding information for insurance purposes.
+
+# TASKS
+- Prepare patient, sterilize or disinfect instruments, set up instrument trays, prepare materials, or assist dentist during dental procedures.
+- Record treatment information in patient records.
+- Assist dentist in management of medical or dental emergencies.
+- Order and monitor dental supplies and equipment inventory.
+- Expose dental diagnostic x-rays.
+- Provide postoperative instructions prescribed by dentist.
+- Instruct patients in oral hygiene and plaque control programs.
+- Take and record medical and dental histories and vital signs of patients.
+- Apply protective coating of fluoride to teeth.
+- Schedule appointments, prepare bills and receive payment for dental services, complete insurance forms, and maintain records, manually or using computer.
+- Make preliminary impressions for study casts and occlusal registrations for mounting study casts.
+- Pour, trim, and polish study casts.
+- Fabricate temporary restorations or custom impressions from preliminary impressions.
+- Clean and polish removable appliances.
+- Clean teeth, using dental instruments.
+- Fabricate and fit orthodontic appliances and materials for patients, such as retainers, wires, or bands.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.54/5 | Level: 5.07/7)
+- Medicine and Dentistry (Importance: 4.41/5 | Level: 4.76/7)
+- English Language (Importance: 3.76/5 | Level: 3.61/7)
+- Administration and Management (Importance: 3.47/5 | Level: 3.61/7)
+- Administrative (Importance: 3.45/5 | Level: 3.67/7)
+- Computers and Electronics (Importance: 3.32/5 | Level: 3.57/7)
+- Sales and Marketing (Importance: 3.31/5 | Level: 2.63/7)
+- Production and Processing (Importance: 3.06/5 | Level: 2.43/7)
+- Personnel and Human Resources (Importance: 2.93/5 | Level: 3.11/7)
+- Psychology (Importance: 2.71/5 | Level: 2.46/7)
+- Education and Training (Importance: 2.58/5 | Level: 2.45/7)
+- Biology (Importance: 2.38/5 | Level: 1.69/7)
+- Economics and Accounting (Importance: 2.35/5 | Level: 1.99/7)
+- Therapy and Counseling (Importance: 2.32/5 | Level: 1.77/7)
+- Mathematics (Importance: 2.16/5 | Level: 1.41/7)
+- Public Safety and Security (Importance: 2.08/5 | Level: 1.38/7)
+- Telecommunications (Importance: 2.07/5 | Level: 1.54/7)
+- Communications and Media (Importance: 2.06/5 | Level: 1.69/7)
+- Law and Government (Importance: 2.02/5 | Level: 1.02/7)
+- Chemistry (Importance: 1.92/5 | Level: 1.76/7)
+- Engineering and Technology (Importance: 1.83/5 | Level: 1.4/7)
+- Mechanical (Importance: 1.77/5 | Level: 1.08/7)
+- Sociology and Anthropology (Importance: 1.73/5 | Level: 1.02/7)
+- Foreign Language (Importance: 1.72/5 | Level: 0.89/7)
+- Transportation (Importance: 1.7/5 | Level: 0.84/7)
+- Design (Importance: 1.67/5 | Level: 0.8/7)
+- Philosophy and Theology (Importance: 1.39/5 | Level: 0.82/7)
+- Physics (Importance: 1.34/5 | Level: 0.58/7)
+- Building and Construction (Importance: 1.31/5 | Level: 0.45/7)
+- Geography (Importance: 1.13/5 | Level: 0.3/7)
+- Food Production (Importance: 1.1/5 | Level: 0.09/7)
+- History and Archeology (Importance: 1.05/5 | Level: 0.06/7)
+- Fine Arts (Importance: 1.05/5 | Level: 0.09/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Active Listening (Importance: 3.88/5 | Level: 3.38/7)
+- Speaking (Importance: 3.38/5 | Level: 3.12/7)
+- Reading Comprehension (Importance: 3.25/5 | Level: 3.25/7)
+- Active Learning (Importance: 3.12/5 | Level: 3.12/7)
+- Instructing (Importance: 3.12/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 3.12/5 | Level: 3.0/7)
+- Service Orientation (Importance: 3.12/5 | Level: 3.12/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.0/7)
+- Writing (Importance: 3.0/5 | Level: 3.0/7)
+- Complex Problem Solving (Importance: 3.0/5 | Level: 2.88/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 3.12/7)
+- Judgment and Decision Making (Importance: 2.88/5 | Level: 2.62/7)
+- Coordination (Importance: 2.88/5 | Level: 2.75/7)
+- Time Management (Importance: 2.75/5 | Level: 2.62/7)
+- Operations Monitoring (Importance: 2.62/5 | Level: 2.62/7)
+- Learning Strategies (Importance: 2.5/5 | Level: 2.5/7)
+- Persuasion (Importance: 2.5/5 | Level: 2.62/7)
+- Quality Control Analysis (Importance: 2.5/5 | Level: 2.25/7)
+- Negotiation (Importance: 2.5/5 | Level: 2.38/7)
+- Systems Analysis (Importance: 2.38/5 | Level: 2.0/7)
+- Management of Personnel Resources (Importance: 2.25/5 | Level: 2.0/7)
+- Mathematics (Importance: 2.12/5 | Level: 2.0/7)
+- Systems Evaluation (Importance: 2.12/5 | Level: 2.0/7)
+- Management of Material Resources (Importance: 2.12/5 | Level: 1.88/7)
+- Operation and Control (Importance: 2.12/5 | Level: 2.0/7)
+- Science (Importance: 2.0/5 | Level: 1.75/7)
+- Equipment Selection (Importance: 2.0/5 | Level: 1.75/7)
+- Troubleshooting (Importance: 2.0/5 | Level: 1.88/7)
+- Repairing (Importance: 1.88/5 | Level: 1.38/7)
+- Equipment Maintenance (Importance: 1.88/5 | Level: 1.25/7)
+- Technology Design (Importance: 1.75/5 | Level: 1.0/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 0.88/7)
+- Operations Analysis (Importance: 1.75/5 | Level: 0.88/7)
+- Programming (Importance: 1.38/5 | Level: 0.38/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Email software (Tech skill type: Electronic mail software)
+- Henry Schein Dentrix (Tech skill type: Medical software)
+- Kodak Dental Systems Kodak SOFTDENT Practice management software PMS (Tech skill type: Medical software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Open Dental (Tech skill type: Medical software)
+- Patterson Dental Supply Patterson EagleSoft (Tech skill type: Medical software)
+- Quicken (Tech skill type: Accounting software)
+- The Systems Workplace TDOCS (Tech skill type: Medical software)
+- Web browser software (Tech skill type: Internet browser software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Air abrasion units (Tool type: Dental laboratory air abrasion units)
+- Air compressors (Tool type: Air compressors)
+- Air/water syringes (Tool type: Teeth cleaning devices)
+- Amalgam carriers (Tool type: Dental material pluggers or tips)
+- Amalgamators (Tool type: Dental amalgamators)
+- Apex locators (Tool type: Dental depth gauges)
+- Articulators (Tool type: Dental articulators)
+- Aspirating syringes (Tool type: Dental syringes or needles or syringes with needles)
+- Autoclaves (Tool type: Steam autoclaves or sterilizers)
+- Band seating pliers (Tool type: Orthodontic pliers)
+- Bench lathes (Tool type: Dental laboratory lathes)
+- Bite blocks (Tool type: Dental x-ray bite blocks or wings or tabs)
+- Bitewing film holders (Tool type: Dental radiology films)
+- Burs (Tool type: Dental burs)
+- Caries detection aids (Tool type: Dental lasers)
+- Cartridge syringes (Tool type: Dental syringes or needles or syringes with needles)
+- Chemiclaves (Tool type: Chemical or gas sterilizers)
+- Collar scissors (Tool type: Dental scissors)
+- Computerized pressure/vacuum casting systems (Tool type: Dental laboratory vacuum units)
+- Contouring orthodontic pliers (Tool type: Orthodontic pliers)
+- Cotton forceps (Tool type: Dental forceps)
+- Crown scissors (Tool type: Dental scissors)
+- Dental chairs (Tool type: Dental examination chairs)
+- Dental crimping pliers (Tool type: Orthodontic pliers)
+- Dental cutting instruments (Tool type: Dental cutting or separating discs)
+- Dental explorers (Tool type: Dental probes or explorers)
+- Dental furniture units (Tool type: Dental procedure combination furniture or sets)
+- Dental handpieces (Tool type: Dental handpieces)
+- Dental laser systems (Tool type: Dental lasers)
+- Dental pliers (Tool type: Orthodontic pliers)
+- Dental retainers (Tool type: Dental retainers)
+- Dental scalers (Tool type: Dental scalers)
+- Dental spatulas (Tool type: Dental spatulas)
+- Dental tweezers (Tool type: Dental tweezers)
+- Dental wedges (Tool type: Dental wedges or sets)
+- Dental x ray film processors (Tool type: Dental film processors)
+- Dental x ray machines (Tool type: Dental x ray units)
+- Denture model presses (Tool type: Dental laboratory casting machines)
+- Denture, acrylic and porcelain polishing kits (Tool type: Dental finishing or polishing kits)
+- Double-ended probes (Tool type: Dental probes or explorers)
+- Electric endodontic handpieces (Tool type: Dental handpieces)
+- Electric general dentistry handpieces (Tool type: Dental handpieces)
+- Electric surgical handpieces (Tool type: Dental handpieces)
+- Electronic blood pressure devices (Tool type: Electronic blood pressure units)
+- Electronic calculus detectors (Tool type: Dental hygiene instruments)
+- Electrosurgery units (Tool type: Electrosurgical or electrocautery equipment)
+- Evacuator systems (Tool type: Dental saliva ejectors or oral suction devices)
+- Extracting forceps (Tool type: Dental forceps)
+- Filling instruments (Tool type: Dental filler contouring instruments)
+- Gingival retraction cords (Tool type: Dental operatory retraction cords)
+- Gracey curettes (Tool type: Periodontal curettes)
+- Headgear (Tool type: Orthodontic appliance clasps)
+- Hemostatic forceps (Tool type: Surgical clamps or clips or forceps)
+- High-intensity lights (Tool type: Cosmetic dentistry curing lights)
+- High-speed handpieces (Tool type: Dental handpieces)
+- High-velocity evacuators (Tool type: Dental saliva ejectors or oral suction devices)
+- Impression trays (Tool type: Dental impression trays)
+- Instrument sharpening devices (Tool type: Dental instrument sharpening accessories)
+- Intraoral detailing pliers (Tool type: Orthodontic pliers)
+- Intraoral x ray equipment (Tool type: Dental x ray units)
+- Lead aprons (Tool type: Medical radiological shielding aprons or masks or drapes)
+- Light curing units (Tool type: Cosmetic dentistry curing lights)
+- Manual blood pressure cuffs (Tool type: Mercury blood pressure units)
+- Matrix bands (Tool type: Bands for dental matrix)
+- Model trimmers (Tool type: Dental laboratory model trimmers)
+- Molar clamps (Tool type: Dental dam supplies)
+- Needle holders (Tool type: Dental syringe accessory kits)
+- Needles (Tool type: Dental syringes or needles or syringes with needles)
+- Offset utility pliers (Tool type: Orthodontic pliers)
+- Orthodontic band pushers (Tool type: Orthodontic band drivers or pushers or setters)
+- Orthodontic band slitters (Tool type: Orthodontic band drivers or pushers or setters)
+- Orthodontic brackets (Tool type: Orthodontic brackets)
+- Orthodontic pliers (Tool type: Orthodontic pliers)
+- Orthodontic separators (Tool type: Dental tooth separators)
+- Oxygen tanks (Tool type: Medical gas cylinders or related devices)
+- Panoramic x ray equipment (Tool type: Dental x ray units)
+- Personal computers (Tool type: Personal computers)
+- Posterior matrices (Tool type: Dental matrices or sets)
+- Power vacuum mixers (Tool type: Dental laboratory vacuum units)
+- Prophylaxis angles (Tool type: Dental finishing or polishing discs)
+- Protective shielding equipment (Tool type: Medical radiological shielding aprons or masks or drapes)
+- Pulp testers (Tool type: Dental pulp or vitality testers)
+- Pulse oximeters (Tool type: Pulse oximeter units)
+- Radiation dosimeters (Tool type: Medical radiation dosimeters)
+- Root elevators (Tool type: Dental elevators)
+- Rotary handpieces (Tool type: Dental handpieces)
+- Rubber dam clamp forceps (Tool type: Dental dam supplies)
+- Rubber dam punches (Tool type: Dental dam supplies)
+- Rubber dams (Tool type: Dental dam supplies)
+- Saliva ejectors (Tool type: Dental saliva ejectors or oral suction devices)
+- Single-ended periodontal probes (Tool type: Dental probes or explorers)
+- Slow-speed dental handpieces (Tool type: Dental handpieces)
+- Splinter forceps (Tool type: Dental forceps)
+- Steam cleaning equipment (Tool type: Steam autoclaves or sterilizers)
+- Steam sterilizers (Tool type: Steam autoclaves or sterilizers)
+- Sterilizers (Tool type: Steam autoclaves or sterilizers)
+- Straight utility pliers (Tool type: Orthodontic pliers)
+- Thermal disinfectors (Tool type: Dry heat or hot air sterilizers)
+- Thyroid collars (Tool type: Medical radiological shielding aprons or masks or drapes)
+- Tongue forceps (Tool type: Dental forceps)
+- Torqueing pliers (Tool type: Orthodontic pliers)
+- Ultrasonic sterilization units (Tool type: Ultrasonic cleaning equipment)
+- Universal curettes (Tool type: Periodontal curettes)
+- Vacuum formers (Tool type: Dental formers)
+- X ray machine cones (Tool type: Dental x ray apparatus parts or kits or accessories)
+
+# WORK CONTEXT
+- Conflict Situations: Once a month or more but not every week
+- Consequence of Error: Fairly serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Extremely important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Every day
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Slightly automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Every day
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Every day
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Every day
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Extremely important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Not at all competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Very close (near touching)
+- Public Speaking: Every day
+- Spend Time Bending or Twisting Your Body: About half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Continually or almost continually
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: About half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Continually or almost continually
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Every day
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Never
+
+# INTERESTS (RIASEC)
+- Primary Interest: Conventional
+- Secondary Interest: Realistic
+- Tertiary Interest: Social
+
+# RELATED OCCUPATIONS
+- Dental Hygienists
+- Medical Assistants
+- Surgical Assistants
+- Ophthalmic Medical Technicians
+- Dental Laboratory Technicians
+- Endoscopy Technicians
+- Surgical Technologists
+- Ophthalmic Medical Technologists
+- Veterinary Technologists and Technicians
+- Physical Therapist Aides
+- Dentists, General
+- Orthodontists
+- Pediatric Surgeons
+- Oral and Maxillofacial Surgeons
+- Orthopedic Surgeons, Except Pediatric
+- Emergency Medicine Physicians
+- Prosthodontists
+- Dermatologists
+- Cardiologists
+- Ophthalmologists, Except Pediatric

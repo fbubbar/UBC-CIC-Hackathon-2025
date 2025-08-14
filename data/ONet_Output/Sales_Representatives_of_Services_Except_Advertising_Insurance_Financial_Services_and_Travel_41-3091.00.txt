@@ -1,0 +1,77 @@
+Job Title: Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel
+O*NET-SOC Code: 41-3091.00
+
+# DESCRIPTION
+Sell services to individuals or businesses. May describe options or resolve client problems.
+
+# TASKS
+- Answer customers' questions about services, prices, availability, or credit terms.
+- Attend sales or trade meetings or read related publications to obtain information about market conditions, business trends, regulations, or industry developments.
+- Compute and compare costs of services.
+- Consult with clients after sales or contract signings to resolve problems and provide ongoing support.
+- Contact prospective or existing customers to discuss how services can meet their needs.
+- Create forms or agreements to complete sales.
+- Develop sales presentations or proposals to explain service specifications.
+- Distribute promotional materials at meetings, conferences, or trade shows.
+- Emphasize or recommend service features based on knowledge of customers' needs and vendor capabilities and limitations.
+- Identify prospective customers using business directories, leads from clients, or information from conferences or trade shows.
+- Inform customers of contracts or other information pertaining to purchased services.
+- Maintain customer records using automated systems.
+- Monitor market conditions, innovations, and competitors' services, prices, and sales.
+- Negotiate prices or terms of sales or service agreements.
+- Quote prices, credit terms, contract terms, or fulfillment dates for services.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- No specific knowledge areas listed.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- No specific skills listed.
+
+# TECHNOLOGY SKILLS & TOOLS
+- Apple macOS (Tech skill type: Operating system software)
+- Customer relationship management CRM software (Tech skill type: Customer relationship management CRM software)
+- Enterprise application integration EAI software (Tech skill type: Enterprise application integration software)
+- HubSpot software (Tech skill type: Sales and marketing software)
+- IBM SPSS Statistics (Tech skill type: Analytical or scientific software)
+- JamBoard (Tech skill type: Graphics or photo imaging software)
+- Microsoft Dynamics (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Salesforce software (Tech skill type: Customer relationship management CRM software)
+- No specific tools listed.
+
+# WORK CONTEXT
+- No specific work context listed.
+
+# INTERESTS (RIASEC)
+- Primary Interest: Enterprising
+- Secondary Interest: Conventional
+- Tertiary Interest: Social
+
+# RELATED OCCUPATIONS
+- Customer Service Representatives
+- Telemarketers
+- Sales Managers
+- New Accounts Clerks
+- Advertising Sales Agents
+- First-Line Supervisors of Non-Retail Sales Workers
+- Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products
+- Marketing Managers
+- Insurance Sales Agents
+- Demonstrators and Product Promoters
+- Securities, Commodities, and Financial Services Sales Agents
+- Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products
+- Sales Engineers
+- Wholesale and Retail Buyers, Except Farm Products
+- Purchasing Agents, Except Wholesale, Retail, and Farm Products
+- Market Research Analysts and Marketing Specialists
+- Counter and Rental Clerks
+- Public Relations Specialists
+- Personal Financial Advisors
+- Business Intelligence Analysts

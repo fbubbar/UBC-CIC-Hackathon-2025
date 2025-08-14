@@ -1,0 +1,229 @@
+Job Title: Logisticians
+O*NET-SOC Code: 13-1081.00
+
+# DESCRIPTION
+Analyze and coordinate the ongoing logistical functions of a firm or organization. Responsible for the entire life cycle of a product, including acquisition, distribution, internal allocation, delivery, and final disposal of resources.
+
+# TASKS
+- Maintain and develop positive business relationships with a customer's key personnel involved in, or directly relevant to, a logistics activity.
+- Develop an understanding of customers' needs and take actions to ensure that such needs are met.
+- Manage subcontractor activities, reviewing proposals, developing performance specifications, and serving as liaisons between subcontractors and organizations.
+- Develop proposals that include documentation for estimates.
+- Review logistics performance with customers against targets, benchmarks, and service agreements.
+- Direct availability and allocation of materials, supplies, and finished products.
+- Redesign the movement of goods to maximize value and minimize costs.
+- Explain proposed solutions to customers, management, or other interested parties through written proposals and oral presentations.
+- Direct team activities, establishing task priorities, scheduling and tracking work assignments, providing guidance, and ensuring the availability of resources.
+- Perform managerial duties such as hiring and training employees and overseeing facility needs or requirements.
+- Collaborate with other departments as necessary to meet customer requirements, to take advantage of sales opportunities or, in the case of shortages, to minimize negative impacts on a business.
+- Report project plans, progress, and results.
+- Protect and control proprietary materials.
+- Stay informed of logistics technology advances and apply appropriate technology to improve logistics processes.
+- Develop and implement technical project management tools, such as plans, schedules, and responsibility and compliance matrices.
+- Provide project management services, including the provision and analysis of technical data.
+- Manage the logistical aspects of product life cycles, including coordination or provisioning of samples, and the minimization of obsolescence.
+- Perform system lifecycle cost analysis and develop component studies.
+- Plan, organize, and execute logistics support activities, such as maintenance planning, repair analysis, and test equipment recommendations.
+- Participate in the assessment and review of design alternatives and design change proposal impacts.
+- Direct and support the compilation and analysis of technical source data necessary for product development.
+- Support the development of training materials and technical manuals.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Transportation (Importance: 4.75/5 | Level: 4.88/7)
+- English Language (Importance: 4.0/5 | Level: 4.17/7)
+- Administration and Management (Importance: 3.96/5 | Level: 5.08/7)
+- Customer and Personal Service (Importance: 3.92/5 | Level: 5.25/7)
+- Mathematics (Importance: 3.71/5 | Level: 4.54/7)
+- Computers and Electronics (Importance: 3.62/5 | Level: 3.79/7)
+- Geography (Importance: 3.33/5 | Level: 4.0/7)
+- Public Safety and Security (Importance: 3.33/5 | Level: 3.67/7)
+- Economics and Accounting (Importance: 3.33/5 | Level: 3.75/7)
+- Sales and Marketing (Importance: 3.29/5 | Level: 4.58/7)
+- Education and Training (Importance: 3.17/5 | Level: 4.25/7)
+- Production and Processing (Importance: 3.17/5 | Level: 4.17/7)
+- Personnel and Human Resources (Importance: 3.17/5 | Level: 3.96/7)
+- Law and Government (Importance: 3.08/5 | Level: 3.29/7)
+- Administrative (Importance: 2.83/5 | Level: 4.38/7)
+- Communications and Media (Importance: 2.5/5 | Level: 2.54/7)
+- Engineering and Technology (Importance: 2.38/5 | Level: 2.75/7)
+- Psychology (Importance: 2.38/5 | Level: 2.33/7)
+- Telecommunications (Importance: 2.25/5 | Level: 1.92/7)
+- Design (Importance: 2.08/5 | Level: 2.33/7)
+- Mechanical (Importance: 1.96/5 | Level: 2.0/7)
+- Foreign Language (Importance: 1.92/5 | Level: 2.12/7)
+- Sociology and Anthropology (Importance: 1.88/5 | Level: 1.92/7)
+- Therapy and Counseling (Importance: 1.62/5 | Level: 1.29/7)
+- Chemistry (Importance: 1.61/5 | Level: 1.62/7)
+- Physics (Importance: 1.58/5 | Level: 1.17/7)
+- Philosophy and Theology (Importance: 1.54/5 | Level: 1.25/7)
+- Building and Construction (Importance: 1.54/5 | Level: 1.42/7)
+- History and Archeology (Importance: 1.42/5 | Level: 1.17/7)
+- Biology (Importance: 1.38/5 | Level: 1.17/7)
+- Food Production (Importance: 1.38/5 | Level: 1.04/7)
+- Medicine and Dentistry (Importance: 1.17/5 | Level: 0.38/7)
+- Fine Arts (Importance: 1.17/5 | Level: 0.33/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.12/7)
+- Monitoring (Importance: 3.88/5 | Level: 4.62/7)
+- Coordination (Importance: 3.88/5 | Level: 4.25/7)
+- Speaking (Importance: 3.88/5 | Level: 4.0/7)
+- Reading Comprehension (Importance: 3.88/5 | Level: 4.12/7)
+- Active Listening (Importance: 3.88/5 | Level: 4.12/7)
+- Complex Problem Solving (Importance: 3.75/5 | Level: 3.88/7)
+- Social Perceptiveness (Importance: 3.62/5 | Level: 3.62/7)
+- Judgment and Decision Making (Importance: 3.62/5 | Level: 4.0/7)
+- Active Learning (Importance: 3.5/5 | Level: 3.5/7)
+- Systems Analysis (Importance: 3.5/5 | Level: 3.88/7)
+- Time Management (Importance: 3.38/5 | Level: 3.75/7)
+- Writing (Importance: 3.38/5 | Level: 3.75/7)
+- Management of Personnel Resources (Importance: 3.25/5 | Level: 3.75/7)
+- Systems Evaluation (Importance: 3.25/5 | Level: 3.88/7)
+- Negotiation (Importance: 3.25/5 | Level: 3.5/7)
+- Persuasion (Importance: 3.25/5 | Level: 3.62/7)
+- Service Orientation (Importance: 3.25/5 | Level: 3.38/7)
+- Operations Analysis (Importance: 3.12/5 | Level: 4.0/7)
+- Instructing (Importance: 3.12/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 3.5/7)
+- Mathematics (Importance: 3.0/5 | Level: 3.38/7)
+- Management of Material Resources (Importance: 2.88/5 | Level: 2.62/7)
+- Management of Financial Resources (Importance: 2.62/5 | Level: 2.25/7)
+- Quality Control Analysis (Importance: 2.25/5 | Level: 2.25/7)
+- Operations Monitoring (Importance: 2.0/5 | Level: 1.62/7)
+- Programming (Importance: 1.88/5 | Level: 1.75/7)
+- Science (Importance: 1.75/5 | Level: 0.88/7)
+- Technology Design (Importance: 1.75/5 | Level: 0.75/7)
+- Operation and Control (Importance: 1.12/5 | Level: 0.12/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Customer relationship management CRM software (Tech skill type: Customer relationship management CRM software)
+- Enterprise resource planning ERP software (Tech skill type: Enterprise resource planning ERP software)
+- IBM Cognos Impromptu (Tech skill type: Business intelligence and data analysis software)
+- IBM Power Systems software (Tech skill type: Enterprise system management software)
+- Intuit QuickBooks (Tech skill type: Accounting software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Dynamics (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft SQL Server (Tech skill type: Data base user interface and query software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Oracle E-Business Suite (Tech skill type: Enterprise resource planning ERP software)
+- Oracle JD Edwards EnterpriseOne (Tech skill type: Enterprise resource planning ERP software)
+- Oracle Primavera Enterprise Project Portfolio Management (Tech skill type: Project management software)
+- Order management software (Tech skill type: Procurement software)
+- Purchasing software (Tech skill type: Procurement software)
+- Radio frequency identification RFID software (Tech skill type: Inventory management software)
+- RedPrairie E2e (Tech skill type: Materials requirements planning logistics and supply chain software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- SmugMug Flickr (Tech skill type: Graphics or photo imaging software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Warehouse management system WMS (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Desktop computers (Tool type: Desktop computers)
+- Laptop computers (Tool type: Notebook computers)
+- Liquid crystal display LCD video projectors (Tool type: Liquid crystal display projector)
+- Personal computer platforms (Tool type: Personal computers)
+- Personal computers (Tool type: Personal computers)
+- Teradyne Catalyst (Tool type: Semiconductor testers)
+- Teradyne J750 testers (Tool type: Semiconductor testers)
+- Universal serial bus USB flash drives (Tool type: High capacity removable media drives)
+- Workstation platforms (Tool type: Personal computers)
+
+# WORK CONTEXT
+- Conflict Situations: Once a month or more but not every week
+- Consequence of Error: Fairly serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Very important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Moderately automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Once a year or more but not every month
+- Exposed to Very Hot or Cold Temperatures: Once a year or more but not every month
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Once a month or more but not every week
+- Health and Safety of Other Workers: High responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Very important
+- Importance of Repeating Same Tasks: Important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Once a year or more but not every month
+- Level of Competition: Highly competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Once a year or more but not every month
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Once a year or more but not every month
+- Spend Time Bending or Twisting Your Body: Never
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Less than half the time
+- Spend Time Sitting: More than half the time
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Never
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Once a year or more but not every month
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: High responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a week or more but not every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Conventional
+- Secondary Interest: Enterprising
+- Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Logistics Analysts
+- Supply Chain Managers
+- Transportation, Storage, and Distribution Managers
+- Project Management Specialists
+- Logistics Engineers
+- Management Analysts
+- Production, Planning, and Expediting Clerks
+- Purchasing Managers
+- Purchasing Agents, Except Wholesale, Retail, and Farm Products
+- Industrial Production Managers
+- Procurement Clerks
+- Information Technology Project Managers
+- First-Line Supervisors of Material-Moving Machine and Vehicle Operators
+- First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand
+- First-Line Supervisors of Non-Retail Sales Workers
+- General and Operations Managers
+- Sales Managers
+- Software Developers
+- Cargo and Freight Agents
+- Recycling Coordinators

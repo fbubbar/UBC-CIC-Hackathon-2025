@@ -1,0 +1,433 @@
+Job Title: Bakers
+O*NET-SOC Code: 51-3011.00
+
+# DESCRIPTION
+Mix and bake ingredients to produce breads, rolls, cookies, cakes, pies, pastries, or other baked goods.
+
+# TASKS
+- Check products for quality, and identify damaged or expired goods.
+- Set oven temperatures, and place items into hot ovens for baking.
+- Combine measured ingredients in bowls of mixing, blending, or cooking machinery.
+- Place dough in pans, molds, or on sheets, and bake in production ovens or on grills.
+- Set time and speed controls for mixing machines, blending machines, or steam kettles so that ingredients will be mixed or cooked according to instructions.
+- Measure or weigh flour or other ingredients to prepare batters, doughs, fillings, or icings, using scales or graduated containers.
+- Observe color of products being baked, and adjust oven temperatures, humidity, or conveyor speeds accordingly.
+- Check the quality of raw materials to ensure that standards and specifications are met.
+- Check equipment to ensure that it meets health and safety regulations, and perform maintenance or cleaning, as necessary.
+- Adapt the quantity of ingredients to match the amount of items to be baked.
+- Apply glazes, icings, or other toppings to baked goods, using spatulas or brushes.
+- Decorate baked goods, such as cakes or pastries.
+- Roll, knead, cut, or shape dough to form sweet rolls, pie crusts, tarts, cookies, or other products.
+- Direct or coordinate bakery deliveries.
+- Order or receive supplies or equipment.
+- Prepare or maintain inventory or production records.
+- Operate slicing or wrapping machines.
+- Develop new recipes for baked goods.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Production and Processing (Importance: 3.82/5 | Level: 4.26/7)
+- Customer and Personal Service (Importance: 3.77/5 | Level: 3.58/7)
+- Food Production (Importance: 3.41/5 | Level: 3.99/7)
+- English Language (Importance: 3.25/5 | Level: 2.61/7)
+- Mathematics (Importance: 3.09/5 | Level: 2.88/7)
+- Administration and Management (Importance: 2.99/5 | Level: 2.26/7)
+- Sales and Marketing (Importance: 2.93/5 | Level: 2.3/7)
+- Public Safety and Security (Importance: 2.65/5 | Level: 2.04/7)
+- Education and Training (Importance: 2.53/5 | Level: 2.75/7)
+- Computers and Electronics (Importance: 2.51/5 | Level: 2.15/7)
+- Design (Importance: 2.5/5 | Level: 1.97/7)
+- Administrative (Importance: 2.26/5 | Level: 1.87/7)
+- Personnel and Human Resources (Importance: 2.25/5 | Level: 1.67/7)
+- Economics and Accounting (Importance: 2.19/5 | Level: 0.97/7)
+- Mechanical (Importance: 2.12/5 | Level: 1.55/7)
+- Transportation (Importance: 2.06/5 | Level: 1.38/7)
+- Engineering and Technology (Importance: 2.06/5 | Level: 1.68/7)
+- Physics (Importance: 2.03/5 | Level: 1.67/7)
+- Foreign Language (Importance: 2.01/5 | Level: 1.33/7)
+- Law and Government (Importance: 1.97/5 | Level: 1.37/7)
+- Communications and Media (Importance: 1.81/5 | Level: 1.37/7)
+- Chemistry (Importance: 1.77/5 | Level: 1.96/7)
+- History and Archeology (Importance: 1.7/5 | Level: 0.89/7)
+- Therapy and Counseling (Importance: 1.7/5 | Level: 0.67/7)
+- Philosophy and Theology (Importance: 1.69/5 | Level: 1.0/7)
+- Sociology and Anthropology (Importance: 1.68/5 | Level: 0.89/7)
+- Psychology (Importance: 1.67/5 | Level: 1.16/7)
+- Building and Construction (Importance: 1.58/5 | Level: 0.9/7)
+- Telecommunications (Importance: 1.56/5 | Level: 1.12/7)
+- Fine Arts (Importance: 1.55/5 | Level: 1.09/7)
+- Biology (Importance: 1.3/5 | Level: 0.53/7)
+- Geography (Importance: 1.29/5 | Level: 0.57/7)
+- Medicine and Dentistry (Importance: 1.22/5 | Level: 0.34/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Monitoring (Importance: 3.25/5 | Level: 2.88/7)
+- Active Learning (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 2.75/7)
+- Coordination (Importance: 3.0/5 | Level: 2.88/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 3.0/7)
+- Speaking (Importance: 3.0/5 | Level: 2.88/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 2.75/7)
+- Active Listening (Importance: 3.0/5 | Level: 2.75/7)
+- Reading Comprehension (Importance: 2.88/5 | Level: 2.75/7)
+- Quality Control Analysis (Importance: 2.88/5 | Level: 2.25/7)
+- Operations Monitoring (Importance: 2.88/5 | Level: 2.62/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 2.62/7)
+- Service Orientation (Importance: 2.5/5 | Level: 2.25/7)
+- Mathematics (Importance: 2.25/5 | Level: 2.12/7)
+- Operation and Control (Importance: 2.25/5 | Level: 2.0/7)
+- Writing (Importance: 2.25/5 | Level: 2.12/7)
+- Complex Problem Solving (Importance: 2.25/5 | Level: 2.0/7)
+- Learning Strategies (Importance: 2.25/5 | Level: 2.0/7)
+- Troubleshooting (Importance: 2.12/5 | Level: 1.25/7)
+- Negotiation (Importance: 2.12/5 | Level: 1.88/7)
+- Instructing (Importance: 2.0/5 | Level: 2.0/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 2.0/7)
+- Systems Analysis (Importance: 2.0/5 | Level: 2.0/7)
+- Management of Personnel Resources (Importance: 2.0/5 | Level: 1.62/7)
+- Persuasion (Importance: 2.0/5 | Level: 1.75/7)
+- Operations Analysis (Importance: 2.0/5 | Level: 1.88/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.38/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 0.88/7)
+- Technology Design (Importance: 1.75/5 | Level: 0.88/7)
+- Science (Importance: 1.75/5 | Level: 0.88/7)
+- Equipment Selection (Importance: 1.5/5 | Level: 0.62/7)
+- Equipment Maintenance (Importance: 1.5/5 | Level: 0.5/7)
+- Repairing (Importance: 1.12/5 | Level: 0.12/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- ADP Enterprise eTIME (Tech skill type: Time accounting software)
+- Afcom Datasafe Computer Services FlexiBake (Tech skill type: Enterprise resource planning ERP software)
+- At Your Service Software CostGuard (Tech skill type: Data base user interface and query software)
+- Axxya Systems Nutritionist Pro (Tech skill type: Analytical or scientific software)
+- Barrington Software CookenPro (Tech skill type: Data base user interface and query software)
+- Culinary Software Services ChefTec (Tech skill type: Data base user interface and query software)
+- EGS CALCMENU (Tech skill type: Analytical or scientific software)
+- Email software (Tech skill type: Electronic mail software)
+- Enggist & Grandjean EGS F&B Control (Tech skill type: Materials requirements planning logistics and supply chain software)
+- iPro (Tech skill type: Enterprise resource planning ERP software)
+- LegacyUSA BakeSmart (Tech skill type: Enterprise resource planning ERP software)
+- Masters Software CakeBoss (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Sage 100 ERP (Tech skill type: Enterprise resource planning ERP software)
+- SoftCafe MenuPro (Tech skill type: Desktop publishing software)
+- SweetWARE nutraCoster Professional (Tech skill type: Analytical or scientific software)
+- SweetWARE SmallPICS (Tech skill type: Enterprise resource planning ERP software)
+- SweetWARE stockCoster (Tech skill type: Inventory management software)
+- TwinPeaks Software Visual Z-Bake (Tech skill type: Enterprise resource planning ERP software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Automatic dough presses (Tool type: Forming machine)
+- Bagel dividers (Tool type: Forming machine)
+- Bagel kettles (Tool type: Commercial use steamers)
+- Baguette molders (Tool type: Forming machine)
+- Bain maries (Tool type: Commercial use bain maries)
+- Bakers' couches (Tool type: Commercial use molds)
+- Bakery cookie cutters (Tool type: Cookie cutters)
+- Bakery muffin pans (Tool type: Domestic muffin pans)
+- Baking frames (Tool type: Commercial use molds)
+- Baking sheets (Tool type: Domestic baking sheets)
+- Balance scales (Tool type: Commercial use scales)
+- Barcode scanners (Tool type: Bar code reader equipment)
+- Barquette molds (Tool type: Commercial use molds)
+- Bench brushes (Tool type: Cleaning brushes)
+- Bench knives (Tool type: Commercial use cutlery)
+- Biscuit dough cutters (Tool type: Domestic biscuit cutters)
+- Blast chillers (Tool type: Blast freezers)
+- Bowl knives (Tool type: Commercial use cutlery)
+- Bowl scrapers (Tool type: Domestic kitchen spatulas)
+- Box cutters (Tool type: Razor knives)
+- Bread bannetons (Tool type: Commercial use molds)
+- Bread crumbers (Tool type: Commercial use food grinders)
+- Bread knives (Tool type: Commercial use cutlery)
+- Bread molders (Tool type: Forming machine)
+- Bread pans (Tool type: Domestic baking pans)
+- Bread slicers (Tool type: Commercial use food slicers)
+- Bun machines (Tool type: Forming machine)
+- Cake decorating air brushes (Tool type: Air brushes)
+- Cake decorating combs (Tool type: Cake decorating equipment or moulds)
+- Cake decorating palette knives (Tool type: Cake decorating equipment or moulds)
+- Cake decorating stencils (Tool type: Cake decorating equipment or moulds)
+- Cake decorating tips (Tool type: Commercial use icing sets or bags)
+- Cake decorating tubes (Tool type: Commercial use icing sets or bags)
+- Cake decorating turntables (Tool type: Cake decorating equipment or moulds)
+- Cake depositors (Tool type: Filling machinery)
+- Cake dividers (Tool type: Commercial use food slicers)
+- Cake levelers (Tool type: Commercial use food slicers)
+- Cake molds (Tool type: Commercial use molds)
+- Cake rings (Tool type: Commercial use molds)
+- Candy thermometers (Tool type: Domestic kitchen or food thermometers)
+- Cannoli tubes (Tool type: Commercial use molds)
+- Cappuccino makers (Tool type: Cappuccino or espresso machines)
+- Channel knives (Tool type: Commercial use cutlery)
+- Chefs' knives (Tool type: Commercial use cutlery)
+- China caps (Tool type: Commercial use strainers)
+- Chinois (Tool type: Commercial use strainers)
+- Chocolate molds (Tool type: Commercial use molds)
+- Chocolate shavers (Tool type: Commercial use cutlery)
+- Chocolate warmers (Tool type: Commercial use food warmers)
+- Colanders (Tool type: Domestic strainers or colanders)
+- Commercial baking ladles (Tool type: Commercial use ladles)
+- Commercial cake pans (Tool type: Commercial use cake or pie pans)
+- Commercial coffee grinders (Tool type: Commercial use coffee grinders)
+- Commercial coffeemakers (Tool type: Commercial use coffee or iced tea makers)
+- Commercial food grilling equipment (Tool type: Commercial use grills)
+- Commercial food whisks (Tool type: Commercial use whisks)
+- Commercial kitchen convection ovens (Tool type: Commercial use convection ovens)
+- Commercial kitchen food processors (Tool type: Commercial use food processors)
+- Commercial kitchen microwave ovens (Tool type: Commercial use microwave ovens)
+- Commercial pie pans (Tool type: Commercial use cake or pie pans)
+- Computer laser printers (Tool type: Laser printers)
+- Conical rounders (Tool type: Forming machine)
+- Continuous kneading machines (Tool type: Double arm kneading mixers)
+- Cookie depositors (Tool type: Forming machine)
+- Cookie scoops (Tool type: Commercial use scoops)
+- Cooking burners (Tool type: Commercial use ranges)
+- Cooling tunnels (Tool type: Cooling machine)
+- Cream whippers (Tool type: Domestic whipped cream maker)
+- Deck ovens (Tool type: Commercial use ovens)
+- Decorating pens (Tool type: Cake decorating equipment or moulds)
+- Depanning machines (Tool type: Cooking machinery)
+- Desktop computers (Tool type: Desktop computers)
+- Dessert molds (Tool type: Commercial use molds)
+- Digital food thermometers (Tool type: Domestic kitchen or food thermometers)
+- Digital kitchen timers (Tool type: Domestic kitchen timers)
+- Digital scales (Tool type: Commercial use scales)
+- Direct gas fired ovens (Tool type: Commercial use ovens)
+- Direct recirculating ovens (Tool type: Commercial use ovens)
+- Dishwashing machines (Tool type: Commercial use dishwashers)
+- Double boilers (Tool type: Domestic double boilers)
+- Dough chunkers (Tool type: Forming machine)
+- Dough dividers (Tool type: Forming machine)
+- Dough dockers (Tool type: Commercial use rolling pins)
+- Dough extruders (Tool type: Forming machine)
+- Dough laminators (Tool type: Commercial use dough machines)
+- Dough proofers (Tool type: Commercial use food warmers)
+- Dough scrapers (Tool type: Domestic food scrapers)
+- Dough sheeters (Tool type: Forming machine)
+- Dough thermometers (Tool type: Domestic kitchen or food thermometers)
+- Dough trough hoists (Tool type: Hoists)
+- Doughnut cutters (Tool type: Domestic biscuit cutters)
+- Doughnut depositors (Tool type: Forming machine)
+- Doughnut fryers (Tool type: Commercial use deep fryers)
+- Doughnut screens (Tool type: Commercial use strainers)
+- Doughnut tumblers (Tool type: Preduster)
+- Dry ingredient measuring cups (Tool type: Commercial use measuring cups)
+- Edible-ink cartridges (Tool type: Ink cartridges)
+- Egg breaking machines (Tool type: Cooking machinery)
+- Ejector sets (Tool type: Cake decorating equipment or moulds)
+- Electric salamanders (Tool type: Commercial use toasters)
+- Electronic cash registers (Tool type: Cash registers)
+- Espresso makers (Tool type: Cappuccino or espresso machines)
+- Fermentation tanks (Tool type: Processing tanks)
+- Filled stick extruders (Tool type: Forming machine)
+- Fire suppression blankets (Tool type: Fire blankets)
+- Flour dusters (Tool type: Preduster)
+- Flour scoops (Tool type: Commercial use scoops)
+- Fondant crimpers (Tool type: Cake decorating equipment or moulds)
+- Fondant smoothers (Tool type: Cake decorating equipment or moulds)
+- Food cooling racks (Tool type: Domestic cooling racks)
+- Food dicers (Tool type: Commercial use food choppers or cubers or dicers)
+- Food drying equipment (Tool type: Dehydrating machinery)
+- Food graters (Tool type: Commercial use graters)
+- Food warmers (Tool type: Commercial use food warmers)
+- Fork mixers (Tool type: Single screw mixers)
+- French bread molders (Tool type: Forming machine)
+- Fruit corers (Tool type: Domestic apple corer)
+- Fruit zesters (Tool type: Commercial use graters)
+- Guillotine cutters (Tool type: Slicing machinery)
+- Hand trucks (Tool type: Hand trucks or accessories)
+- Hearth ovens (Tool type: Commercial use ovens)
+- Honing steels (Tool type: Domestic knife sharpeners)
+- Horizontal dough mixers (Tool type: Double arm kneading mixers)
+- Hot cases (Tool type: Commercial use food warmers)
+- Hot plates (Tool type: Commercial use ranges)
+- Ice cream machines (Tool type: Ice cream machines)
+- Ice machines (Tool type: Ice dispensers)
+- Ice shaver (Tool type: Ice shaver machines or accessories)
+- Icing machines (Tool type: Coating machines)
+- Icing smoothers (Tool type: Cake decorating equipment or moulds)
+- Icing spatulas (Tool type: Cake decorating equipment or moulds)
+- Icing spreaders (Tool type: Domestic kitchen spatulas)
+- Industrial freezing equipment (Tool type: Walk in freezers)
+- Industrial kitchen belt conveyors (Tool type: Belt conveyors)
+- Industrial kitchen broilers (Tool type: Commercial use broilers)
+- Industrial kitchen food blenders (Tool type: Commercial use blenders)
+- Industrial kitchen food smokers (Tool type: Commercial use smokers or smoke ovens)
+- Industrial kitchen griddles (Tool type: Commercial use griddles)
+- Industrial refrigeration equipment (Tool type: Walk in refrigerators)
+- Industrial toasters (Tool type: Commercial use toasters)
+- Infrared food heating lamps (Tool type: Commercial use heat lamps)
+- Ingredient sifters (Tool type: Domestic sifter)
+- Juice extractors (Tool type: Commercial use juicers)
+- Kitchen fire extinguishers (Tool type: Fire extinguishers)
+- Kitchen shears (Tool type: Commercial use cutlery)
+- Kitchen strainers (Tool type: Commercial use strainers)
+- Kitchen tongs (Tool type: Domestic kitchen tongs)
+- Laptop computers (Tool type: Notebook computers)
+- Lift trucks (Tool type: Forklifts)
+- Liquid ingredient measuring cups (Tool type: Commercial use measuring cups)
+- Mandolines (Tool type: Domestic mandolin)
+- Manual dough presses (Tool type: Domestic dough press)
+- Marzipan tools (Tool type: Cake decorating equipment or moulds)
+- Measuring spoons (Tool type: Commercial use measuring cups)
+- Measuring sticks (Tool type: Rulers)
+- Nut grinders (Tool type: Commercial use food grinders)
+- Offset spatulas (Tool type: Domestic kitchen spatulas)
+- Open fat kettles (Tool type: Commercial use deep fryers)
+- Oven loaders (Tool type: Lifts)
+- Oven peels (Tool type: Domestic wooden oven paddle)
+- Pallet jacks (Tool type: Pallet trucks)
+- Pan cooling towers (Tool type: Cooling machine)
+- Pan greasers (Tool type: Coating machines)
+- Pan liners (Tool type: Commercial use cake or pie pans)
+- Paring knives (Tool type: Commercial use cutlery)
+- Pastry bags (Tool type: Commercial use icing sets or bags)
+- Pastry brushes (Tool type: Domestic pastry brush)
+- Pastry crimpers (Tool type: Commercial use cutlery)
+- Pastry filling funnels (Tool type: Domestic kitchen funnels)
+- Pastry filling machines (Tool type: Filling machinery)
+- Pastry slicing jigs (Tool type: Domestic bread slicing guide)
+- Pastry wheels (Tool type: Commercial use cutlery)
+- Perforated grill spatulas (Tool type: Domestic kitchen spatulas)
+- Pie presses (Tool type: Forming machine)
+- Pizza cutters (Tool type: Domestic pizza cutters)
+- Planetary mixers (Tool type: Double arm kneading mixers)
+- Pneumatic conveyors (Tool type: Air conveyors)
+- Portable air compressors (Tool type: Air compressors)
+- Portion scales (Tool type: Commercial use scales)
+- Pressurized steam cookers (Tool type: Commercial use high pressure steamers)
+- Pretzel dough extruding machines (Tool type: Forming machine)
+- Pretzel dough twisting machines (Tool type: Forming machine)
+- Pretzel ovens (Tool type: Commercial use pizza ovens)
+- Probe thermometers (Tool type: Remote reading thermometers)
+- Produce peelers (Tool type: Commercial use peelers)
+- Propane torches (Tool type: Blow torch)
+- Pullman loaf pans (Tool type: Domestic baking pans)
+- Ramekins (Tool type: Domestic baking pans)
+- Reciprocating blade slicers (Tool type: Slicing machinery)
+- Refrigerator thermometers (Tool type: Domestic kitchen or food thermometers)
+- Reversible sheeters (Tool type: Forming machine)
+- Revolving tray ovens (Tool type: Commercial use ovens)
+- Rice cookers (Tool type: Commercial use rice cookers)
+- Rolling pins (Tool type: Commercial use rolling pins)
+- Rose nails (Tool type: Cake decorating equipment or moulds)
+- Rotary molders (Tool type: Forming machine)
+- Serrated knives (Tool type: Commercial use cutlery)
+- Sharpening stones (Tool type: Domestic knife sharpeners)
+- Skimmers (Tool type: Commercial use strainers)
+- Spiral mixers (Tool type: Helical blade mixer)
+- Spray bottles (Tool type: Hand sprayers)
+- Sprayers (Tool type: Hand sprayers)
+- Squeeze bottles (Tool type: Commercial use icing sets or bags)
+- Steam injected ovens (Tool type: Commercial use ovens)
+- Steam kettles (Tool type: Commercial use steamers)
+- Straight spatulas (Tool type: Domestic kitchen spatulas)
+- Sugar lamps (Tool type: Commercial use heat lamps)
+- Sugar shakers (Tool type: Spice or salt or pepper shakers)
+- Sugar/spice pulverizers (Tool type: Crushing machinery)
+- Tablet computers (Tool type: Tablet computers)
+- Tart rings (Tool type: Commercial use molds)
+- Tart tampers (Tool type: Commercial use molds)
+- Tartlet machines (Tool type: Forming machine)
+- Textured mats (Tool type: Cake decorating equipment or moulds)
+- Tilt mixers (Tool type: Helical blade mixer)
+- Tortilla grills (Tool type: Domestic tortilla bakers)
+- Tunnel ovens (Tool type: Commercial use ovens)
+- Vegetable cleaning brushes (Tool type: Domestic vegetable brush)
+- Waffle irons (Tool type: Commercial use waffle irons)
+- Weigh hoppers (Tool type: Commercial use scales)
+- Whipped cream machines (Tool type: Domestic whipped cream maker)
+- Wire whips (Tool type: Domestic kitchen wire whips)
+- Wrapping machines (Tool type: Wrapping machinery)
+
+# WORK CONTEXT
+- Conflict Situations: Never
+- Consequence of Error: Serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Never
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Never
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Every day
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Never
+- Exposed to Very Hot or Cold Temperatures: Every day
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Very important
+- Importance of Repeating Same Tasks: Very important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Extremely important
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: About half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Continually or almost continually
+- Spend Time Sitting: Never
+- Spend Time Standing: Continually or almost continually
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Continually or almost continually
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: High responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Never
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Food Batchmakers
+- Cooks, Restaurant
+- Food Cooking Machine Operators and Tenders
+- Chefs and Head Cooks
+- Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders
+- Cooks, Short Order
+- Food Preparation Workers
+- Cooks, Fast Food
+- Butchers and Meat Cutters
+- Cooks, Institution and Cafeteria
+- Graders and Sorters, Agricultural Products
+- Mixing and Blending Machine Setters, Operators, and Tenders
+- Packers and Packagers, Hand
+- Cutting and Slicing Machine Setters, Operators, and Tenders
+- Packaging and Filling Machine Operators and Tenders
+- Fast Food and Counter Workers
+- Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders
+- Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders
+- Machine Feeders and Offbearers
+- Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders

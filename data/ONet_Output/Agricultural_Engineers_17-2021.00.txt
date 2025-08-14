@@ -1,0 +1,213 @@
+Job Title: Agricultural Engineers
+O*NET-SOC Code: 17-2021.00
+
+# DESCRIPTION
+Apply knowledge of engineering technology and biological science to agricultural problems concerned with power and machinery, electrification, structures, soil and water conservation, and processing of agricultural products.
+
+# TASKS
+- Prepare reports, sketches, working drawings, specifications, proposals, and budgets for proposed sites or systems.
+- Visit sites to observe environmental problems, to consult with contractors, or to monitor construction activities.
+- Meet with clients, such as district or regional councils, farmers, and developers, to discuss their needs.
+- Discuss plans with clients, contractors, consultants, and other engineers so that they can be evaluated and necessary changes made.
+- Test agricultural machinery and equipment to ensure adequate performance.
+- Plan and direct construction of rural electric-power distribution systems, and irrigation, drainage, and flood control systems for soil and water conservation.
+- Provide advice on water quality and issues related to pollution management, river control, and ground and surface water resources.
+- Design structures for crop storage, animal shelter and loading, and animal and crop processing, and supervise their construction.
+- Conduct educational programs that provide farmers or farm cooperative members with information that can help them improve agricultural productivity.
+- Design sensing, measuring, and recording devices, and other instrumentation used to study plant or animal life.
+- Design agricultural machinery components and equipment, using computer-aided design (CAD) technology.
+- Design and supervise environmental and land reclamation projects in agriculture and related industries.
+- Design food processing plants and related mechanical systems.
+- Supervise food processing or manufacturing plant operations.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Engineering and Technology (Importance: 4.85/5 | Level: 6.55/7)
+- Computers and Electronics (Importance: 4.5/5 | Level: 6.0/7)
+- Design (Importance: 4.35/5 | Level: 5.75/7)
+- Physics (Importance: 4.25/5 | Level: 5.8/7)
+- Mathematics (Importance: 4.25/5 | Level: 5.9/7)
+- Biology (Importance: 4.1/5 | Level: 5.15/7)
+- Mechanical (Importance: 3.9/5 | Level: 5.1/7)
+- English Language (Importance: 3.85/5 | Level: 5.0/7)
+- Food Production (Importance: 3.63/5 | Level: 4.7/7)
+- Chemistry (Importance: 3.6/5 | Level: 4.75/7)
+- Production and Processing (Importance: 3.55/5 | Level: 4.2/7)
+- Building and Construction (Importance: 3.35/5 | Level: 4.5/7)
+- Administration and Management (Importance: 3.15/5 | Level: 4.2/7)
+- Geography (Importance: 3.15/5 | Level: 4.55/7)
+- Customer and Personal Service (Importance: 3.11/5 | Level: 3.85/7)
+- Education and Training (Importance: 3.1/5 | Level: 4.45/7)
+- Public Safety and Security (Importance: 3.1/5 | Level: 3.4/7)
+- Law and Government (Importance: 2.75/5 | Level: 3.25/7)
+- Telecommunications (Importance: 2.7/5 | Level: 2.95/7)
+- Administrative (Importance: 2.65/5 | Level: 4.16/7)
+- Communications and Media (Importance: 2.65/5 | Level: 3.35/7)
+- Economics and Accounting (Importance: 2.58/5 | Level: 3.05/7)
+- Personnel and Human Resources (Importance: 2.45/5 | Level: 3.42/7)
+- Transportation (Importance: 2.4/5 | Level: 3.0/7)
+- Sales and Marketing (Importance: 1.95/5 | Level: 2.5/7)
+- Foreign Language (Importance: 1.9/5 | Level: 2.15/7)
+- Sociology and Anthropology (Importance: 1.85/5 | Level: 1.9/7)
+- Psychology (Importance: 1.75/5 | Level: 2.0/7)
+- History and Archeology (Importance: 1.45/5 | Level: 0.9/7)
+- Philosophy and Theology (Importance: 1.4/5 | Level: 1.05/7)
+- Medicine and Dentistry (Importance: 1.2/5 | Level: 0.4/7)
+- Therapy and Counseling (Importance: 1.15/5 | Level: 0.4/7)
+- Fine Arts (Importance: 1.15/5 | Level: 0.4/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Writing (Importance: 4.0/5 | Level: 4.0/7)
+- Speaking (Importance: 4.0/5 | Level: 4.0/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.62/7)
+- Active Listening (Importance: 4.0/5 | Level: 4.12/7)
+- Complex Problem Solving (Importance: 3.88/5 | Level: 4.12/7)
+- Systems Evaluation (Importance: 3.88/5 | Level: 4.0/7)
+- Critical Thinking (Importance: 3.88/5 | Level: 4.0/7)
+- Judgment and Decision Making (Importance: 3.88/5 | Level: 4.0/7)
+- Mathematics (Importance: 3.75/5 | Level: 4.12/7)
+- Systems Analysis (Importance: 3.75/5 | Level: 4.0/7)
+- Science (Importance: 3.38/5 | Level: 3.38/7)
+- Monitoring (Importance: 3.25/5 | Level: 3.75/7)
+- Active Learning (Importance: 3.25/5 | Level: 3.88/7)
+- Operations Monitoring (Importance: 3.12/5 | Level: 3.12/7)
+- Coordination (Importance: 3.12/5 | Level: 3.12/7)
+- Social Perceptiveness (Importance: 3.12/5 | Level: 3.12/7)
+- Management of Personnel Resources (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 3.38/7)
+- Operations Analysis (Importance: 3.0/5 | Level: 3.25/7)
+- Instructing (Importance: 3.0/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 2.88/5 | Level: 3.0/7)
+- Persuasion (Importance: 2.88/5 | Level: 2.88/7)
+- Service Orientation (Importance: 2.75/5 | Level: 3.0/7)
+- Negotiation (Importance: 2.75/5 | Level: 3.0/7)
+- Technology Design (Importance: 2.75/5 | Level: 3.0/7)
+- Operation and Control (Importance: 2.62/5 | Level: 2.38/7)
+- Quality Control Analysis (Importance: 2.5/5 | Level: 2.62/7)
+- Management of Financial Resources (Importance: 2.25/5 | Level: 2.25/7)
+- Troubleshooting (Importance: 2.12/5 | Level: 2.25/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 2.12/7)
+- Programming (Importance: 2.0/5 | Level: 1.88/7)
+- Equipment Selection (Importance: 1.88/5 | Level: 1.75/7)
+- Equipment Maintenance (Importance: 1.88/5 | Level: 1.25/7)
+- Repairing (Importance: 1.88/5 | Level: 1.12/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adobe InDesign (Tech skill type: Desktop publishing software)
+- Adobe Photoshop (Tech skill type: Graphics or photo imaging software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Dassault Systemes SolidWorks (Tech skill type: Computer aided design CAD software)
+- Eagle Point LANDCADD (Tech skill type: Computer aided design CAD software)
+- Enterprise resource planning ERP software (Tech skill type: Enterprise resource planning ERP software)
+- ESRI ArcView (Tech skill type: Geographic information system)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Oracle Database (Tech skill type: Data base user interface and query software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- PTC Creo Parametric (Tech skill type: Computer aided design CAD software)
+- PTC Pro/Pipe (Tech skill type: Computer aided design CAD software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- SAS (Tech skill type: Analytical or scientific software)
+- Supervisory control and data acquisition SCADA software (Tech skill type: Industrial control software)
+- Web browser software (Tech skill type: Internet browser software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Desktop computers (Tool type: Desktop computers)
+- Laptop computers (Tool type: Notebook computers)
+- Personal computers (Tool type: Personal computers)
+- Personal digital assistants PDA (Tool type: Personal digital assistant PDAs or organizers)
+- Plotters (Tool type: Plotter printers)
+- Total stations (Tool type: Theodolites)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Fairly serious
+- Contact With Others: Contact with others most of the time
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Slightly automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Once a year or more but not every month
+- Exposed to Cramped Work Space, Awkward Positions: Once a year or more but not every month
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Once a year or more but not every month
+- Exposed to Hazardous Conditions: Once a year or more but not every month
+- Exposed to Hazardous Equipment: Once a year or more but not every month
+- Exposed to High Places: Once a year or more but not every month
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Once a year or more but not every month
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Once a month or more but not every week
+- Exposed to Very Hot or Cold Temperatures: Once a month or more but not every week
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Once a week or more but not every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Once a month or more but not every week
+- Health and Safety of Other Workers: High responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Once a week or more but not every day
+- In an Open Vehicle or Operating Equipment: Once a month or more but not every week
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Once a week or more but not every day
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Once a month or more but not every week
+- Outdoors, Under Cover: Once a month or more but not every week
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Slightly close (e.g., shared office)
+- Public Speaking: Once a year or more but not every month
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Less than half the time
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Less than half the time
+- Spend Time Sitting: More than half the time
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Less than half the time
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Once a week or more but not every day
+- Time Pressure: Once a month or more but not every week
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Once a month or more but not every week
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Once a year or more but not every month
+- Work Outcomes and Results of Other Workers: Moderate responsibility
+- Work With or Contribute to a Work Group or Team: Very important
+- Written Letters and Memos: Once a week or more but not every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Investigative
+- Secondary Interest: Realistic
+- Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Precision Agriculture Technicians
+- Soil and Plant Scientists
+- Industrial Ecologists
+- Conservation Scientists
+- Environmental Engineers
+- Farmers, Ranchers, and Other Agricultural Managers
+- Industrial Engineers
+- Biofuels Production Managers
+- Biofuels/Biodiesel Technology and Product Development Managers
+- Water/Wastewater Engineers
+- Agricultural Technicians
+- Farm Equipment Mechanics and Service Technicians
+- Civil Engineers
+- Industrial Engineering Technologists and Technicians
+- Environmental Engineering Technologists and Technicians
+- Forest and Conservation Technicians
+- Water Resource Specialists
+- Geothermal Production Managers
+- Agricultural Sciences Teachers, Postsecondary
+- Environmental Scientists and Specialists, Including Health

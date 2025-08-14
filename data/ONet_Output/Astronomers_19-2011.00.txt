@@ -1,0 +1,271 @@
+Job Title: Astronomers
+O*NET-SOC Code: 19-2011.00
+
+# DESCRIPTION
+Observe, research, and interpret astronomical phenomena to increase basic knowledge or apply such information to practical problems.
+
+# TASKS
+- Analyze research data to determine its significance, using computers.
+- Present research findings at scientific conferences and in papers written for scientific journals.
+- Study celestial phenomena, using a variety of ground-based and space-borne telescopes and scientific instruments.
+- Collaborate with other astronomers to carry out research projects.
+- Mentor graduate students and junior colleagues.
+- Supervise students' research on celestial and astronomical phenomena.
+- Teach astronomy or astrophysics.
+- Develop theories based on personal observations or on observations and theories of other astronomers.
+- Measure radio, infrared, gamma, and x-ray emissions from extraterrestrial sources.
+- Develop instrumentation and software for astronomical observation and analysis.
+- Review scientific proposals and research papers.
+- Raise funds for scientific research.
+- Develop and modify astronomy-related programs for public presentation.
+- Serve on professional panels and committees.
+- Calculate orbits and determine sizes, shapes, brightness, and motions of different celestial bodies.
+- Conduct question-and-answer presentations on astronomy topics with public audiences.
+- Direct the operations of a planetarium.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Physics (Importance: 4.96/5 | Level: 6.57/7)
+- Mathematics (Importance: 4.91/5 | Level: 6.43/7)
+- Computers and Electronics (Importance: 4.17/5 | Level: 5.74/7)
+- English Language (Importance: 4.04/5 | Level: 4.83/7)
+- Education and Training (Importance: 3.35/5 | Level: 4.65/7)
+- Engineering and Technology (Importance: 3.22/5 | Level: 4.0/7)
+- Chemistry (Importance: 3.0/5 | Level: 4.09/7)
+- Communications and Media (Importance: 2.43/5 | Level: 2.74/7)
+- Administration and Management (Importance: 2.39/5 | Level: 3.35/7)
+- Design (Importance: 2.35/5 | Level: 2.74/7)
+- Personnel and Human Resources (Importance: 2.22/5 | Level: 2.65/7)
+- Administrative (Importance: 2.09/5 | Level: 2.61/7)
+- Telecommunications (Importance: 2.04/5 | Level: 1.65/7)
+- Geography (Importance: 1.96/5 | Level: 2.35/7)
+- Mechanical (Importance: 1.91/5 | Level: 2.13/7)
+- Biology (Importance: 1.83/5 | Level: 1.78/7)
+- Economics and Accounting (Importance: 1.82/5 | Level: 1.82/7)
+- Law and Government (Importance: 1.74/5 | Level: 1.48/7)
+- Customer and Personal Service (Importance: 1.74/5 | Level: 1.74/7)
+- Production and Processing (Importance: 1.74/5 | Level: 1.43/7)
+- Sales and Marketing (Importance: 1.68/5 | Level: 1.5/7)
+- Foreign Language (Importance: 1.65/5 | Level: 1.35/7)
+- Building and Construction (Importance: 1.65/5 | Level: 1.61/7)
+- Public Safety and Security (Importance: 1.65/5 | Level: 1.22/7)
+- Transportation (Importance: 1.61/5 | Level: 1.3/7)
+- Sociology and Anthropology (Importance: 1.57/5 | Level: 1.09/7)
+- Psychology (Importance: 1.57/5 | Level: 1.13/7)
+- History and Archeology (Importance: 1.48/5 | Level: 1.13/7)
+- Therapy and Counseling (Importance: 1.39/5 | Level: 1.0/7)
+- Philosophy and Theology (Importance: 1.39/5 | Level: 1.0/7)
+- Fine Arts (Importance: 1.3/5 | Level: 0.65/7)
+- Medicine and Dentistry (Importance: 1.13/5 | Level: 0.22/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Science (Importance: 4.25/5 | Level: 5.12/7)
+- Reading Comprehension (Importance: 4.25/5 | Level: 5.12/7)
+- Writing (Importance: 4.12/5 | Level: 5.0/7)
+- Mathematics (Importance: 4.12/5 | Level: 5.0/7)
+- Critical Thinking (Importance: 4.12/5 | Level: 4.12/7)
+- Speaking (Importance: 4.0/5 | Level: 4.75/7)
+- Active Listening (Importance: 4.0/5 | Level: 4.12/7)
+- Active Learning (Importance: 4.0/5 | Level: 4.88/7)
+- Learning Strategies (Importance: 3.75/5 | Level: 4.0/7)
+- Judgment and Decision Making (Importance: 3.62/5 | Level: 3.88/7)
+- Complex Problem Solving (Importance: 3.5/5 | Level: 4.0/7)
+- Monitoring (Importance: 3.38/5 | Level: 3.62/7)
+- Coordination (Importance: 3.12/5 | Level: 3.12/7)
+- Social Perceptiveness (Importance: 3.12/5 | Level: 3.12/7)
+- Instructing (Importance: 3.0/5 | Level: 3.62/7)
+- Management of Personnel Resources (Importance: 3.0/5 | Level: 3.0/7)
+- Systems Evaluation (Importance: 3.0/5 | Level: 3.0/7)
+- Systems Analysis (Importance: 3.0/5 | Level: 3.0/7)
+- Persuasion (Importance: 3.0/5 | Level: 3.12/7)
+- Time Management (Importance: 2.88/5 | Level: 3.0/7)
+- Service Orientation (Importance: 2.88/5 | Level: 3.0/7)
+- Negotiation (Importance: 2.62/5 | Level: 2.62/7)
+- Operations Analysis (Importance: 2.62/5 | Level: 3.12/7)
+- Management of Financial Resources (Importance: 2.5/5 | Level: 2.5/7)
+- Programming (Importance: 2.25/5 | Level: 2.0/7)
+- Operations Monitoring (Importance: 2.0/5 | Level: 2.0/7)
+- Technology Design (Importance: 2.0/5 | Level: 2.0/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 2.0/7)
+- Quality Control Analysis (Importance: 1.75/5 | Level: 1.0/7)
+- Operation and Control (Importance: 1.75/5 | Level: 1.0/7)
+- Equipment Selection (Importance: 1.62/5 | Level: 0.75/7)
+- Equipment Maintenance (Importance: 1.38/5 | Level: 0.38/7)
+- Troubleshooting (Importance: 1.38/5 | Level: 0.38/7)
+- Repairing (Importance: 1.12/5 | Level: 0.12/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Abstraction plus reference plus synthesis A++ (Tech skill type: Development environment software)
+- Adaptive optics AO simulation software (Tech skill type: Analytical or scientific software)
+- Analyze (Tech skill type: Analytical or scientific software)
+- Apache Hadoop (Tech skill type: Data base management system software)
+- Astronomical Image Processing for Windows AIP4WIN (Tech skill type: Analytical or scientific software)
+- Astronomical Image Processing System AIPS (Tech skill type: Analytical or scientific software)
+- Astronomical information processing system AIPS++ (Tech skill type: Analytical or scientific software)
+- Avis Fits Viewer (Tech skill type: Graphics or photo imaging software)
+- C++ (Tech skill type: Object or component oriented development software)
+- Data reduction software (Tech skill type: Analytical or scientific software)
+- Diffraction Limited MaxIm DL (Tech skill type: Analytical or scientific software)
+- European Southern Observatory Munich Image Data Analysis System ESO-MIDAS (Tech skill type: Analytical or scientific software)
+- Formula translation/translator FORTRAN (Tech skill type: Development environment software)
+- IBM SPSS Statistics (Tech skill type: Analytical or scientific software)
+- Interface definition language IDL (Tech skill type: Development environment software)
+- IRIS (Tech skill type: Graphics or photo imaging software)
+- Linux (Tech skill type: Operating system software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- MSB Software Astroart (Tech skill type: Analytical or scientific software)
+- Multipurpose Interactive Image Processing System MIIPS (Tech skill type: Analytical or scientific software)
+- National Instruments LabVIEW (Tech skill type: Development environment software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- Python (Tech skill type: Object or component oriented development software)
+- R (Tech skill type: Object or component oriented development software)
+- SAS (Tech skill type: Analytical or scientific software)
+- Software Bisque CCDSoft (Tech skill type: Analytical or scientific software)
+- Software development tools (Tech skill type: Development environment software)
+- Spectroscopy databases (Tech skill type: Data base user interface and query software)
+- Starcal (Tech skill type: Analytical or scientific software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- The MathWorks MATLAB (Tech skill type: Analytical or scientific software)
+- Visual Numerics PV-WAVE (Tech skill type: Analytical or scientific software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Atomic absorption AA spectroscopes (Tool type: Atomic absorption AA spectrometers)
+- Automated telescopes (Tool type: Telescopes)
+- Ball mills (Tool type: Laboratory mills)
+- Baseband recorders (Tool type: Digital readout recorders)
+- Charge-coupled device CCD imagers (Tool type: Telescopes)
+- Cryostats (Tool type: Cryostats)
+- Desktop computers (Tool type: Desktop computers)
+- Differential scanning calorimeters (Tool type: Calorimeters)
+- Dobsonian telescopes (Tool type: Telescopes)
+- Doppler Rayleigh laser imaging ranging and detecting LIDAR systems (Tool type: Radarbased surveillance systems)
+- Ebert-Fastie spectrometers (Tool type: Spectrometers)
+- Echelle spectrometers (Tool type: Spectrometers)
+- Electron beam ion traps EBIT (Tool type: Ionization chambers)
+- European VLBI Network EVN telescopes (Tool type: Telescopes)
+- Fourier transform infrared FTIR spectrometers (Tool type: Infrared spectrometers)
+- High powered binoculars (Tool type: Binoculars)
+- High resolution spectrographs (Tool type: Spectrographs)
+- Interferometers (Tool type: Interferometers)
+- Laptop computers (Tool type: Notebook computers)
+- Laser imaging detection and ranging LIDAR systems (Tool type: Radarbased surveillance systems)
+- Low resolution imaging spectrographs (Tool type: Spectrographs)
+- Multi-object spectrographs MOS (Tool type: Spectrographs)
+- Near-infrared imagers and spectrometers NIRI (Tool type: Spectrometers)
+- Near-infrared integral field spectrometers (Tool type: Spectrometers)
+- Optical interferometers (Tool type: Interferometers)
+- Optical telescopes (Tool type: Telescopes)
+- Personal computers (Tool type: Personal computers)
+- Photometer (Tool type: Photometer)
+- Planetary radar transmitters (Tool type: Radio frequency transmitters or receivers)
+- Pulsar processors (Tool type: Spectrometers)
+- Radio antennas (Tool type: Radio antennas)
+- Radio telescopes (Tool type: Telescopes)
+- Reflector telescopes (Tool type: Telescopes)
+- Refracting telescopes (Tool type: Telescopes)
+- Resonance fluorescence laser imaging detection and ranging LIDAR systems (Tool type: Radarbased surveillance systems)
+- Scanning telescopes (Tool type: Telescopes)
+- Schmidt-Cassegrain telescopes (Tool type: Telescopes)
+- Scientific calculators (Tool type: Scientific calculator)
+- Single-dish radio telescopes (Tool type: Telescopes)
+- Solar telescope filters (Tool type: Polarizers)
+- Solar telescopes (Tool type: Telescopes)
+- Spectroscopes (Tool type: Spectrometers)
+- Thermal evaporators (Tool type: Laboratory evaporators)
+- Tilting filter photometers (Tool type: Photometer)
+- Very large array VLA telescopes (Tool type: Telescopes)
+- Very long baseline array VLBA telescopes (Tool type: Telescopes)
+- Wide-field mosaic charge-coupled device CCD cameras (Tool type: Digital cameras)
+- Wideband pulsar processors (Tool type: Spectrometers)
+- X ray diffractometers (Tool type: X ray diffraction equipment)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Not serious at all
+- Contact With Others: Contact with others about half the time
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Fairly important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Never
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Once a week or more but not every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Once a year or more but not every month
+- Health and Safety of Other Workers: Limited responsibility
+- Impact of Decisions on Co-workers or Company Results: Minor results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Not important at all
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Once a year or more but not every month
+- Level of Competition: Extremely competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Once a year or more but not every month
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: I work with others but not closely (e.g., private office)
+- Public Speaking: Once a year or more but not every month
+- Spend Time Bending or Twisting Your Body: Never
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Never
+- Spend Time Sitting: More than half the time
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Never
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Once a week or more but not every day
+- Time Pressure: Once a month or more but not every week
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Never
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Moderate responsibility
+- Work With or Contribute to a Work Group or Team: Very important
+- Written Letters and Memos: Once a year or more but not every month
+
+# INTERESTS (RIASEC)
+- Primary Interest: Investigative
+- Secondary Interest: Realistic
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Physicists
+- Mathematicians
+- Physics Teachers, Postsecondary
+- Geoscientists, Except Hydrologists and Geographers
+- Biochemists and Biophysicists
+- Data Scientists
+- Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary
+- Atmospheric and Space Scientists
+- Nanosystems Engineers
+- Bioinformatics Scientists
+- Computer and Information Research Scientists
+- Nanotechnology Engineering Technologists and Technicians
+- Chemists
+- Statisticians
+- Hydrologists
+- Engineering Teachers, Postsecondary
+- Materials Scientists
+- Molecular and Cellular Biologists
+- Mathematical Science Teachers, Postsecondary
+- Geneticists

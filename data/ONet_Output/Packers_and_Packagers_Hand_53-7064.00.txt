@@ -1,0 +1,232 @@
+Job Title: Packers and Packagers, Hand
+O*NET-SOC Code: 53-7064.00
+
+# DESCRIPTION
+Pack or package by hand a wide variety of products and materials.
+
+# TASKS
+- Examine and inspect containers, materials, or products to ensure that product quality and packing specifications are met.
+- Measure, weigh, and count products and materials.
+- Record product, packaging, and order information on specified forms and records.
+- Seal containers or materials, using glues, fasteners, nails, and hand tools.
+- Assemble, line, and pad cartons, crates, and containers, using hand tools.
+- Obtain, move, and sort products, materials, containers, and orders, using hand tools.
+- Mark and label containers, container tags, or products, using marking tools.
+- Clean containers, materials, supplies, or work areas, using cleaning solutions and hand tools.
+- Remove completed or defective products or materials, placing them on moving equipment, such as conveyors, or in specified areas, such as loading docks.
+- Place or pour products or materials into containers, using hand tools and equipment, or fill containers from spouts or chutes.
+- Load materials and products into package processing equipment.
+- Transport packages to customers' vehicles.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Production and Processing (Importance: 3.97/5 | Level: 3.75/7)
+- Customer and Personal Service (Importance: 3.2/5 | Level: 3.12/7)
+- English Language (Importance: 2.98/5 | Level: 2.44/7)
+- Administrative (Importance: 2.79/5 | Level: 1.98/7)
+- Mathematics (Importance: 2.73/5 | Level: 2.6/7)
+- Public Safety and Security (Importance: 2.7/5 | Level: 3.01/7)
+- Mechanical (Importance: 2.63/5 | Level: 2.57/7)
+- Computers and Electronics (Importance: 2.56/5 | Level: 2.18/7)
+- Chemistry (Importance: 2.45/5 | Level: 1.86/7)
+- Transportation (Importance: 2.36/5 | Level: 1.65/7)
+- Building and Construction (Importance: 2.31/5 | Level: 1.56/7)
+- Engineering and Technology (Importance: 2.26/5 | Level: 1.96/7)
+- Education and Training (Importance: 2.15/5 | Level: 1.66/7)
+- Design (Importance: 2.1/5 | Level: 1.51/7)
+- Administration and Management (Importance: 2.08/5 | Level: 1.77/7)
+- Personnel and Human Resources (Importance: 2.05/5 | Level: 1.47/7)
+- Food Production (Importance: 1.94/5 | Level: 1.23/7)
+- Psychology (Importance: 1.89/5 | Level: 1.65/7)
+- Law and Government (Importance: 1.88/5 | Level: 1.25/7)
+- Sales and Marketing (Importance: 1.88/5 | Level: 1.26/7)
+- Telecommunications (Importance: 1.84/5 | Level: 0.73/7)
+- Economics and Accounting (Importance: 1.78/5 | Level: 1.17/7)
+- Foreign Language (Importance: 1.74/5 | Level: 1.23/7)
+- Communications and Media (Importance: 1.73/5 | Level: 1.29/7)
+- Physics (Importance: 1.72/5 | Level: 1.04/7)
+- Sociology and Anthropology (Importance: 1.68/5 | Level: 1.02/7)
+- History and Archeology (Importance: 1.66/5 | Level: 0.65/7)
+- Medicine and Dentistry (Importance: 1.63/5 | Level: 0.96/7)
+- Philosophy and Theology (Importance: 1.51/5 | Level: 0.66/7)
+- Geography (Importance: 1.51/5 | Level: 0.8/7)
+- Fine Arts (Importance: 1.48/5 | Level: 0.59/7)
+- Therapy and Counseling (Importance: 1.47/5 | Level: 0.88/7)
+- Biology (Importance: 1.41/5 | Level: 0.74/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Monitoring (Importance: 3.0/5 | Level: 2.12/7)
+- Critical Thinking (Importance: 2.75/5 | Level: 2.0/7)
+- Active Listening (Importance: 2.75/5 | Level: 2.0/7)
+- Coordination (Importance: 2.62/5 | Level: 2.12/7)
+- Speaking (Importance: 2.62/5 | Level: 2.0/7)
+- Reading Comprehension (Importance: 2.62/5 | Level: 2.0/7)
+- Time Management (Importance: 2.25/5 | Level: 1.88/7)
+- Judgment and Decision Making (Importance: 2.25/5 | Level: 1.88/7)
+- Quality Control Analysis (Importance: 2.25/5 | Level: 1.88/7)
+- Active Learning (Importance: 2.12/5 | Level: 1.0/7)
+- Social Perceptiveness (Importance: 2.12/5 | Level: 1.88/7)
+- Service Orientation (Importance: 2.12/5 | Level: 2.0/7)
+- Operations Monitoring (Importance: 2.12/5 | Level: 1.5/7)
+- Mathematics (Importance: 2.0/5 | Level: 1.25/7)
+- Operation and Control (Importance: 2.0/5 | Level: 1.62/7)
+- Writing (Importance: 2.0/5 | Level: 1.88/7)
+- Learning Strategies (Importance: 2.0/5 | Level: 1.12/7)
+- Complex Problem Solving (Importance: 2.0/5 | Level: 1.75/7)
+- Systems Evaluation (Importance: 1.88/5 | Level: 1.0/7)
+- Systems Analysis (Importance: 1.88/5 | Level: 1.0/7)
+- Instructing (Importance: 1.88/5 | Level: 1.0/7)
+- Troubleshooting (Importance: 1.75/5 | Level: 0.75/7)
+- Management of Personnel Resources (Importance: 1.75/5 | Level: 1.25/7)
+- Negotiation (Importance: 1.62/5 | Level: 0.62/7)
+- Equipment Selection (Importance: 1.62/5 | Level: 0.62/7)
+- Persuasion (Importance: 1.62/5 | Level: 0.62/7)
+- Management of Material Resources (Importance: 1.5/5 | Level: 0.62/7)
+- Programming (Importance: 1.38/5 | Level: 0.38/7)
+- Equipment Maintenance (Importance: 1.38/5 | Level: 0.38/7)
+- Repairing (Importance: 1.25/5 | Level: 0.25/7)
+- Management of Financial Resources (Importance: 1.25/5 | Level: 0.38/7)
+- Technology Design (Importance: 1.12/5 | Level: 0.12/7)
+- Operations Analysis (Importance: 1.12/5 | Level: 0.12/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Inventory tracking software (Tech skill type: Inventory management software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Word (Tech skill type: Word processing software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+
+## TOOLS USED
+- Bagging machines (Tool type: Form or fill or seal machinery)
+- Bundling equipment (Tool type: Bundling machines)
+- Carton closing staplers (Tool type: Staple guns)
+- Clamshell sealers (Tool type: Form or fill or seal machinery)
+- Claw hammers (Tool type: Claw hammer)
+- Combination polypropylene strapping tools (Tool type: Strapping dispenser)
+- Computer scanners (Tool type: Scanners)
+- Computerized scales (Tool type: Bench scales)
+- Electric tabletop staplers (Tool type: Staplers)
+- Electronic water-activated tape dispensers (Tool type: Box sealing tape dispensers)
+- Foot-operated staplers (Tool type: Staple guns)
+- Forklifts (Tool type: Forklifts)
+- Glue guns (Tool type: Glue guns)
+- Heat sealers (Tool type: Form or fill or seal machinery)
+- Heat shrink guns (Tool type: Heat guns)
+- Industrial scales (Tool type: Floor or platform scales)
+- Label applicators (Tool type: Label applying machines)
+- Label printers (Tool type: Label making machines)
+- Manual hand staplers (Tool type: Staplers)
+- Measuring tapes (Tool type: Tape measures)
+- Pallet jacks (Tool type: Pallet trucks)
+- Personal computers (Tool type: Personal computers)
+- Pistol grip tape dispensers (Tool type: Box sealing tape dispensers)
+- Plastic strap crimpers (Tool type: Wire lug crimping tool)
+- Pneumatic foot-operated staplers (Tool type: Staple guns)
+- Pneumatic roll staplers (Tool type: Staple guns)
+- Pneumatic stick staplers (Tool type: Staple guns)
+- Power nailers (Tool type: Pneumatic nail drivers)
+- Power saws (Tool type: Power saws)
+- Power tackers (Tool type: Power staple guns)
+- Shrink wrap machines (Tool type: Industrial shrink wrap equipment)
+- Staple guns (Tool type: Staple guns)
+- Stencil brushes (Tool type: Paint brushes)
+- Stencil machines (Tool type: Lettering equipment)
+- Stencil rollers (Tool type: Paint rollers)
+- Straight screwdrivers (Tool type: Screwdrivers)
+- Strap cutters (Tool type: Wire cutters)
+- Strap sealers (Tool type: Strapping tensioners or sealers)
+- Strap tensioners (Tool type: Strapping tensioners or sealers)
+- Strapping machines (Tool type: Wrapping machinery)
+- Stretch wrap dispensers (Tool type: Strapping dispenser)
+- Stretch wrapping machines (Tool type: Wrapping machinery)
+- Utility knives (Tool type: Utility knives)
+- Vacuum packagers (Tool type: Packaging vacuum)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Fairly serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Not important at all
+- Dealing With Unpleasant, Angry, or Discourteous People: Never
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Once a week or more but not every day
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Once a year or more but not every month
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Limited freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Extremely important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Never
+- Indoors, Not Environmentally Controlled: Every day
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Extremely important
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: More than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Less than half the time
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Continually or almost continually
+- Spend Time Sitting: Never
+- Spend Time Standing: Continually or almost continually
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Never
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Never
+
+# INTERESTS (RIASEC)
+- Primary Interest: Conventional
+- Secondary Interest: Realistic
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Packaging and Filling Machine Operators and Tenders
+- Machine Feeders and Offbearers
+- Laborers and Freight, Stock, and Material Movers, Hand
+- Cutting and Slicing Machine Setters, Operators, and Tenders
+- Adhesive Bonding Machine Operators and Tenders
+- Graders and Sorters, Agricultural Products
+- Paper Goods Machine Setters, Operators, and Tenders
+- Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders
+- Cutters and Trimmers, Hand
+- Grinding and Polishing Workers, Hand
+- Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders
+- Molders, Shapers, and Casters, Except Metal and Plastic
+- Helpers--Production Workers
+- Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders
+- Weighers, Measurers, Checkers, and Samplers, Recordkeeping
+- Laundry and Dry-Cleaning Workers
+- Mixing and Blending Machine Setters, Operators, and Tenders
+- Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders
+- Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+- Maintenance Workers, Machinery

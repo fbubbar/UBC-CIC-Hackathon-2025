@@ -1,0 +1,285 @@
+Job Title: Food Science Technicians
+O*NET-SOC Code: 19-4013.00
+
+# DESCRIPTION
+Work with food scientists or technologists to perform standardized qualitative and quantitative tests to determine physical or chemical properties of food or beverage products. Includes technicians who assist in research and development of production technology, quality control, packaging, processing, and use of foods.
+
+# TASKS
+- Taste or smell foods or beverages to ensure that flavors meet specifications or to select samples with specific characteristics.
+- Measure, test, or weigh bottles, cans, or other containers to ensure that hardness, strength, or dimensions meet specifications.
+- Maintain records of testing results or other documents as required by state or other governing agencies.
+- Monitor and control temperature of products.
+- Analyze test results to classify products or compare results with standard tables.
+- Record or compile test results or prepare graphs, charts, or reports.
+- Perform regular maintenance of laboratory equipment by inspecting, calibrating, cleaning, or sterilizing.
+- Examine chemical or biological samples to identify cell structures or to locate bacteria or extraneous material, using a microscope.
+- Conduct standardized tests on food, beverages, additives, or preservatives to ensure compliance with standards and regulations regarding factors such as color, texture, or nutrients.
+- Train newly hired laboratory personnel.
+- Provide assistance to food scientists or technologists in research and development, production technology, or quality control.
+- Supervise other food science technicians.
+- Compute moisture or salt content, percentages of ingredients, formulas, or other product factors, using mathematical and chemical procedures.
+- Order supplies needed to maintain inventories in laboratories or in storage facilities of food or beverage processing plants.
+- Prepare or incubate slides with cell cultures.
+- Mix, blend, or cultivate ingredients to make reagents or to manufacture food or beverage products.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Food Production (Importance: 3.76/5 | Level: 3.73/7)
+- Production and Processing (Importance: 3.68/5 | Level: 4.27/7)
+- Chemistry (Importance: 3.45/5 | Level: 4.33/7)
+- English Language (Importance: 3.43/5 | Level: 3.72/7)
+- Computers and Electronics (Importance: 3.13/5 | Level: 4.03/7)
+- Biology (Importance: 3.1/5 | Level: 3.8/7)
+- Mathematics (Importance: 3.04/5 | Level: 3.67/7)
+- Administrative (Importance: 2.61/5 | Level: 3.22/7)
+- Customer and Personal Service (Importance: 2.59/5 | Level: 2.67/7)
+- Education and Training (Importance: 2.47/5 | Level: 3.05/7)
+- Engineering and Technology (Importance: 2.28/5 | Level: 2.14/7)
+- Administration and Management (Importance: 2.22/5 | Level: 2.1/7)
+- Public Safety and Security (Importance: 2.08/5 | Level: 1.89/7)
+- Law and Government (Importance: 2.03/5 | Level: 1.61/7)
+- Mechanical (Importance: 2.01/5 | Level: 2.0/7)
+- Personnel and Human Resources (Importance: 1.85/5 | Level: 1.55/7)
+- Physics (Importance: 1.85/5 | Level: 1.67/7)
+- Telecommunications (Importance: 1.59/5 | Level: 0.91/7)
+- Communications and Media (Importance: 1.44/5 | Level: 1.03/7)
+- Sales and Marketing (Importance: 1.37/5 | Level: 0.61/7)
+- Design (Importance: 1.37/5 | Level: 0.67/7)
+- Transportation (Importance: 1.35/5 | Level: 0.69/7)
+- Economics and Accounting (Importance: 1.28/5 | Level: 0.65/7)
+- Therapy and Counseling (Importance: 1.27/5 | Level: 0.55/7)
+- Building and Construction (Importance: 1.26/5 | Level: 0.5/7)
+- Foreign Language (Importance: 1.21/5 | Level: 0.54/7)
+- Psychology (Importance: 1.17/5 | Level: 0.35/7)
+- History and Archeology (Importance: 1.15/5 | Level: 0.17/7)
+- Medicine and Dentistry (Importance: 1.13/5 | Level: 0.27/7)
+- Philosophy and Theology (Importance: 1.02/5 | Level: 0.04/7)
+- Sociology and Anthropology (Importance: 1.02/5 | Level: 0.04/7)
+- Geography (Importance: 1.02/5 | Level: 0.08/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Reading Comprehension (Importance: 3.75/5 | Level: 3.88/7)
+- Writing (Importance: 3.5/5 | Level: 3.38/7)
+- Speaking (Importance: 3.5/5 | Level: 3.38/7)
+- Active Listening (Importance: 3.5/5 | Level: 3.12/7)
+- Critical Thinking (Importance: 3.25/5 | Level: 3.38/7)
+- Science (Importance: 3.25/5 | Level: 3.25/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.12/7)
+- Complex Problem Solving (Importance: 3.12/5 | Level: 3.0/7)
+- Coordination (Importance: 3.12/5 | Level: 3.12/7)
+- Quality Control Analysis (Importance: 3.12/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 3.0/7)
+- Active Learning (Importance: 3.0/5 | Level: 3.12/7)
+- Instructing (Importance: 3.0/5 | Level: 3.0/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 2.88/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.88/7)
+- Mathematics (Importance: 2.75/5 | Level: 3.12/7)
+- Operations Monitoring (Importance: 2.75/5 | Level: 2.88/7)
+- Management of Personnel Resources (Importance: 2.62/5 | Level: 2.62/7)
+- Systems Evaluation (Importance: 2.38/5 | Level: 2.25/7)
+- Systems Analysis (Importance: 2.25/5 | Level: 2.12/7)
+- Service Orientation (Importance: 2.25/5 | Level: 2.12/7)
+- Troubleshooting (Importance: 2.12/5 | Level: 1.62/7)
+- Operation and Control (Importance: 2.12/5 | Level: 2.0/7)
+- Persuasion (Importance: 2.0/5 | Level: 1.75/7)
+- Negotiation (Importance: 2.0/5 | Level: 2.0/7)
+- Equipment Maintenance (Importance: 2.0/5 | Level: 1.62/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.62/7)
+- Repairing (Importance: 1.75/5 | Level: 1.38/7)
+- Equipment Selection (Importance: 1.62/5 | Level: 1.12/7)
+- Management of Financial Resources (Importance: 1.5/5 | Level: 0.5/7)
+- Programming (Importance: 1.38/5 | Level: 0.38/7)
+- Operations Analysis (Importance: 1.38/5 | Level: 0.38/7)
+- Technology Design (Importance: 1.38/5 | Level: 0.38/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Apache JMeter (Tech skill type: Object or component oriented development software)
+- Apache Struts (Tech skill type: Web platform development software)
+- Database software (Tech skill type: Data base user interface and query software)
+- Graphical user interface GUI design software (Tech skill type: Graphical user interface development software)
+- Graphics software (Tech skill type: Graphics or photo imaging software)
+- IBM Lotus Notes (Tech skill type: Electronic mail software)
+- IBM WebSphere (Tech skill type: Cloud-based management software)
+- Linux (Tech skill type: Operating system software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft SQL Server (Tech skill type: Data base user interface and query software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Oracle WebLogic Server (Tech skill type: Application server software)
+- Presentation software (Tech skill type: Presentation software)
+- Red Hat WildFly (Tech skill type: Application server software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- SAS (Tech skill type: Analytical or scientific software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- Structure query language SQL (Tech skill type: Data base user interface and query software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Agar plates (Tool type: Specialty plates for bacteria)
+- Anaerobic jars (Tool type: Anaerobic jars or accessories)
+- Benchtop centrifuges (Tool type: Benchtop centrifuges)
+- Bioluminometers (Tool type: Microbiology analyzers)
+- Boiling water baths (Tool type: Water baths)
+- Bunsen burners (Tool type: Gas burners)
+- Calorimeters (Tool type: Calorimeters)
+- Colony counters (Tool type: Electronic counters)
+- Color testing equipment (Tool type: Colorimeters)
+- Compound binocular light microscopes (Tool type: Binocular light compound microscopes)
+- Desktop computers (Tool type: Desktop computers)
+- Dessicators (Tool type: Heating or drying equipment or accessories)
+- Distilling equipment (Tool type: Extracting equipment for laboratories)
+- Dropping pipettes (Tool type: Dropping pipettes)
+- Dry bulb thermometers (Tool type: Handheld thermometer)
+- Electronic toploading balances (Tool type: Electronic toploading balances)
+- Enzyme-linked immunosorbent assay ELISA plate readers (Tool type: Microplate readers)
+- Erlenmeyer flasks (Tool type: Laboratory flasks)
+- Eyewash fountains (Tool type: Eyewashers or eye wash stations)
+- Fire extinguishers (Tool type: Fire extinguishers)
+- Fluorescent microscopes (Tool type: Fluorescent microscopes)
+- Fume hoods (Tool type: Fume hoods or cupboards)
+- Gas analyzers (Tool type: Chemical absorption gas analyzers)
+- General purpose laboratory test tubes (Tool type: Multipurpose or general test tubes)
+- Grinders (Tool type: Laboratory mills)
+- Handheld thermometers (Tool type: Handheld thermometer)
+- Homogenizers (Tool type: Homogenizers)
+- Hot air ovens (Tool type: Laboratory mechanical convection ovens)
+- Inoculation tubes (Tool type: Inoculating devices)
+- Laboratory balances (Tool type: Laboratory balances)
+- Laboratory beakers (Tool type: Laboratory beakers)
+- Laboratory blenders (Tool type: Laboratory blenders or emulsifiers)
+- Laboratory clamps (Tool type: Laboratory clamps)
+- Laboratory coats (Tool type: Lab coats)
+- Laboratory convection ovens (Tool type: Laboratory mechanical convection ovens)
+- Laboratory funnels (Tool type: Laboratory funnels)
+- Laboratory glass burets (Tool type: Laboratory burets)
+- Laboratory hot plates (Tool type: Laboratory hotplates)
+- Laboratory knives (Tool type: Laboratory knives)
+- Laboratory mechanical convection incubators (Tool type: Forced air or mechanical convection general purpose incubators)
+- Laboratory mixers (Tool type: Laboratory mixers)
+- Laboratory stirring rods (Tool type: Laboratory stirring rods)
+- Laboratory strainers (Tool type: Laboratory separators)
+- Laboratory tongs (Tool type: Laboratory tongs)
+- Laser printers (Tool type: Laser printers)
+- Magnetic retrievers (Tool type: Magnetic tools)
+- Magnetic stir bars (Tool type: Magnetic spin bars or stir bars or stirring beads)
+- Magnetic stirrers (Tool type: Magnetic stirrers)
+- Metal detectors (Tool type: Metal detectors)
+- Microscope slides (Tool type: Microscope slides)
+- Microwell readers (Tool type: Microplate readers)
+- Moisture balances (Tool type: Moisture balances)
+- Moisture meters (Tool type: Moisture meters)
+- Mortars and pestles (Tool type: Pestle or mortars)
+- Notebook computers (Tool type: Notebook computers)
+- Particle size testing equipment (Tool type: Optical diffraction apparatus)
+- Pasteur pipettes (Tool type: Pasteur or transfer pipettes)
+- Personal computers (Tool type: Personal computers)
+- Petri dishes (Tool type: Petri plates or dishes)
+- pH meters (Tool type: pH meters)
+- Precision scales (Tool type: Bench scales)
+- Safety gloves (Tool type: Protective gloves)
+- Safety goggles (Tool type: Goggles)
+- Safety showers (Tool type: Decontamination shower)
+- Siphons (Tool type: Extracting equipment for laboratories)
+- Steam autoclaves (Tool type: Steam autoclaves or sterilizers)
+- Steam sterilizers (Tool type: Steam autoclaves or sterilizers)
+- Temperature probes (Tool type: Remote reading thermometers)
+- Triple beam balances (Tool type: Triple beam balances)
+- Ultraviolet UV lights (Tool type: Ultraviolet UV lamps)
+- Universal indicators (Tool type: pH meters)
+- Vacuum ovens (Tool type: Vacuum ovens)
+- Viscosity testing equipment (Tool type: Viscosimeters)
+- Water activity meters (Tool type: Water analysis systems)
+- Wet bulb thermometers (Tool type: Psychrometers)
+- Zhan cups (Tool type: Viscosimeters)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Extremely important
+- Deal With External Customers or the Public in General: Not important at all
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Moderately automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Every day
+- Exposed to Hazardous Equipment: Every day
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Extremely important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Every day
+- Level of Competition: Not at all competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Extremely important
+- Physical Proximity: Slightly close (e.g., shared office)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Less than half the time
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Less than half the time
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: Continually or almost continually
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: More than half the time
+- Telephone Conversations: Once a week or more but not every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Food Scientists and Technologists
+- Chemical Technicians
+- Quality Control Analysts
+- Agricultural Technicians
+- Calibration Technologists and Technicians
+- Quality Control Systems Managers
+- Agricultural Inspectors
+- Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders
+- Inspectors, Testers, Sorters, Samplers, and Weighers
+- Industrial Engineering Technologists and Technicians
+- Chemists
+- Food Batchmakers
+- Microbiologists
+- Graders and Sorters, Agricultural Products
+- Animal Scientists
+- Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders
+- Histotechnologists
+- Biological Technicians
+- Medical and Clinical Laboratory Technicians
+- Biofuels Processing Technicians

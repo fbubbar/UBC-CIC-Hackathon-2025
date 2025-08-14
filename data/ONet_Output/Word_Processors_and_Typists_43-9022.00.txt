@@ -1,0 +1,217 @@
+Job Title: Word Processors and Typists
+O*NET-SOC Code: 43-9022.00
+
+# DESCRIPTION
+Use word processor, computer, or typewriter to type letters, reports, forms, or other material from rough draft, corrected copy, or voice recording. May perform other clerical duties as assigned.
+
+# TASKS
+- Perform other clerical duties, such as answering telephone, sorting and distributing mail, running errands or sending faxes.
+- Check completed work for spelling, grammar, punctuation, and format.
+- File and store completed documents on computer hard drive or disk, or maintain a computer filing system to store, retrieve, update, and delete documents.
+- Print and make copies of work.
+- Transmit work electronically to other locations.
+- Address envelopes or prepare envelope labels, using typewriter or computer.
+- Type correspondence, reports, text and other written material from rough drafts, corrected copies, voice recordings, dictation, or previous versions, using a computer, word processor, or typewriter.
+- Gather, register, and arrange the material to be typed, following instructions.
+- Compute and verify totals on report forms, requisitions, or bills, using adding machine or calculator.
+- Keep records of work performed.
+- Electronically sort and compile text and numerical data, retrieving, updating, and merging documents as required.
+- Search for specific sets of stored, typed characters to make changes.
+- Collate pages of reports and other documents.
+- Reformat documents, moving paragraphs or columns.
+- Adjust settings for format, page layout, line spacing, and other style requirements.
+- Use data entry devices, such as optical scanners, to input data into computers for revision or editing.
+- Operate and resupply printers and computers, changing print wheels or fluid cartridges, adding paper, and loading blank tapes, cards, or disks into equipment.
+- Manage schedules and set dates, times, and locations for meetings and appointments.
+- Work with technical material, preparing statistical reports, planning and typing statistical tables, and combining and rearranging material from different sources.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Administrative (Importance: 4.81/5 | Level: 5.44/7)
+- English Language (Importance: 4.26/5 | Level: 4.18/7)
+- Customer and Personal Service (Importance: 4.19/5 | Level: 4.38/7)
+- Computers and Electronics (Importance: 3.51/5 | Level: 4.11/7)
+- Law and Government (Importance: 2.58/5 | Level: 1.74/7)
+- Administration and Management (Importance: 2.42/5 | Level: 2.28/7)
+- Mathematics (Importance: 2.18/5 | Level: 1.86/7)
+- Communications and Media (Importance: 2.11/5 | Level: 1.31/7)
+- Psychology (Importance: 2.07/5 | Level: 1.99/7)
+- Telecommunications (Importance: 1.81/5 | Level: 0.72/7)
+- Public Safety and Security (Importance: 1.74/5 | Level: 0.9/7)
+- Education and Training (Importance: 1.73/5 | Level: 1.13/7)
+- Economics and Accounting (Importance: 1.71/5 | Level: 0.83/7)
+- Personnel and Human Resources (Importance: 1.56/5 | Level: 0.75/7)
+- Sales and Marketing (Importance: 1.45/5 | Level: 0.33/7)
+- Foreign Language (Importance: 1.4/5 | Level: 0.93/7)
+- Geography (Importance: 1.39/5 | Level: 0.51/7)
+- Production and Processing (Importance: 1.31/5 | Level: 0.33/7)
+- Medicine and Dentistry (Importance: 1.29/5 | Level: 0.29/7)
+- Sociology and Anthropology (Importance: 1.2/5 | Level: 0.31/7)
+- Mechanical (Importance: 1.19/5 | Level: 0.37/7)
+- Therapy and Counseling (Importance: 1.15/5 | Level: 0.31/7)
+- Transportation (Importance: 1.04/5 | Level: 0.05/7)
+- History and Archeology (Importance: 1.02/5 | Level: 0.03/7)
+- Design (Importance: 1.01/5 | Level: 0.02/7)
+- Biology (Importance: 1.01/5 | Level: 0.0/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+- Engineering and Technology (Importance: 1.0/5 | Level: 0.01/7)
+- Philosophy and Theology (Importance: 1.0/5 | Level: 0.0/7)
+- Physics (Importance: 1.0/5 | Level: 0.0/7)
+- Chemistry (Importance: 1.0/5 | Level: 0.01/7)
+- Building and Construction (Importance: 1.0/5 | Level: 0.0/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Reading Comprehension (Importance: 3.5/5 | Level: 3.5/7)
+- Writing (Importance: 3.25/5 | Level: 3.25/7)
+- Active Listening (Importance: 3.25/5 | Level: 3.12/7)
+- Time Management (Importance: 3.0/5 | Level: 2.88/7)
+- Speaking (Importance: 3.0/5 | Level: 2.88/7)
+- Monitoring (Importance: 3.0/5 | Level: 2.38/7)
+- Service Orientation (Importance: 2.88/5 | Level: 2.5/7)
+- Critical Thinking (Importance: 2.75/5 | Level: 2.5/7)
+- Mathematics (Importance: 2.62/5 | Level: 2.5/7)
+- Coordination (Importance: 2.62/5 | Level: 2.12/7)
+- Social Perceptiveness (Importance: 2.62/5 | Level: 2.5/7)
+- Judgment and Decision Making (Importance: 2.5/5 | Level: 1.88/7)
+- Quality Control Analysis (Importance: 2.38/5 | Level: 1.75/7)
+- Systems Analysis (Importance: 2.25/5 | Level: 1.25/7)
+- Active Learning (Importance: 2.25/5 | Level: 2.0/7)
+- Persuasion (Importance: 2.12/5 | Level: 1.62/7)
+- Complex Problem Solving (Importance: 2.0/5 | Level: 2.0/7)
+- Negotiation (Importance: 2.0/5 | Level: 1.75/7)
+- Management of Personnel Resources (Importance: 1.88/5 | Level: 1.75/7)
+- Systems Evaluation (Importance: 1.88/5 | Level: 0.88/7)
+- Learning Strategies (Importance: 1.88/5 | Level: 1.5/7)
+- Instructing (Importance: 1.75/5 | Level: 1.25/7)
+- Technology Design (Importance: 1.75/5 | Level: 0.88/7)
+- Operations Monitoring (Importance: 1.75/5 | Level: 1.0/7)
+- Programming (Importance: 1.75/5 | Level: 0.88/7)
+- Equipment Maintenance (Importance: 1.62/5 | Level: 0.62/7)
+- Operation and Control (Importance: 1.62/5 | Level: 0.88/7)
+- Operations Analysis (Importance: 1.62/5 | Level: 0.75/7)
+- Management of Material Resources (Importance: 1.62/5 | Level: 0.88/7)
+- Troubleshooting (Importance: 1.5/5 | Level: 0.62/7)
+- Management of Financial Resources (Importance: 1.38/5 | Level: 0.75/7)
+- Equipment Selection (Importance: 1.12/5 | Level: 0.12/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Act! (Tech skill type: Customer relationship management CRM software)
+- Adobe Acrobat (Tech skill type: Document management software)
+- Blackbaud CRM (Tech skill type: Customer relationship management CRM software)
+- Corel WordPerfect Office Suite (Tech skill type: Office suite software)
+- FileMaker Pro (Tech skill type: Data base user interface and query software)
+- Google Workspace software (Tech skill type: Office suite software)
+- IBM Notes (Tech skill type: Electronic mail software)
+- Intuit QuickBooks (Tech skill type: Accounting software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Publisher (Tech skill type: Desktop publishing software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Oracle PeopleSoft (Tech skill type: Enterprise resource planning ERP software)
+- Oracle Siebel CRM (Tech skill type: Customer relationship management CRM software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- SRSsoft SRS EHR (Tech skill type: Medical software)
+
+## TOOLS USED
+- Copy machines (Tool type: Photocopiers)
+- Desktop calculators (Tool type: Desktop calculator)
+- Electric typewriters (Tool type: Typewriters)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Paper shredders (Tool type: Paper shredding machines or accessories)
+- Personal computers (Tool type: Personal computers)
+- Postage marking machines (Tool type: Franking or postage machines)
+- Postage meters (Tool type: Franking or postage machines)
+
+# WORK CONTEXT
+- Conflict Situations: Once a month or more but not every week
+- Consequence of Error: Fairly serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Extremely important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a week or more but not every day
+- Dealing with Violent or Physically Aggressive People: Once a year or more but not every month
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Never
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Never
+- Health and Safety of Other Workers: Limited responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Extremely important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Slightly close (e.g., shared office)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Continually or almost continually
+- Spend Time Sitting: Continually or almost continually
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Never
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Never
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Limited responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Conventional
+- Secondary Interest: Unknown (0)
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Data Entry Keyers
+- Medical Transcriptionists
+- File Clerks
+- Office Clerks, General
+- Court Reporters and Simultaneous Captioners
+- Proofreaders and Copy Markers
+- Bookkeeping, Accounting, and Auditing Clerks
+- Office Machine Operators, Except Computer
+- Receptionists and Information Clerks
+- Document Management Specialists
+- Medical Records Specialists
+- Secretaries and Administrative Assistants, Except Legal, Medical, and Executive
+- Legal Secretaries and Administrative Assistants
+- Statistical Assistants
+- Switchboard Operators, Including Answering Service
+- Correspondence Clerks
+- Billing and Posting Clerks
+- Medical Secretaries and Administrative Assistants
+- Executive Secretaries and Executive Administrative Assistants
+- Technical Writers

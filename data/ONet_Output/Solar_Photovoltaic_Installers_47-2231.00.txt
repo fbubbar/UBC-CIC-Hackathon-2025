@@ -1,0 +1,259 @@
+Job Title: Solar Photovoltaic Installers
+O*NET-SOC Code: 47-2231.00
+
+# DESCRIPTION
+Assemble, install, or maintain solar photovoltaic (PV) systems on roofs or other structures in compliance with site assessment and schematics. May include measuring, cutting, assembling, and bolting structural framing and solar modules. May perform minor electrical work such as current checks.
+
+# TASKS
+- Install photovoltaic (PV) systems in accordance with codes and standards, using drawings, schematics, and instructions.
+- Check electrical installation for proper wiring, polarity, grounding, or integrity of terminations.
+- Identify electrical, environmental, and safety hazards associated with photovoltaic (PV) installations.
+- Identify installation locations with proper orientation, area, solar access, or structural integrity for photovoltaic (PV) arrays.
+- Assemble solar modules, panels, or support structures, as specified.
+- Apply weather sealing to array, building, or support mechanisms.
+- Install module array interconnect wiring, implementing measures to disable arrays during installation.
+- Install required labels on solar system components and hardware.
+- Diagram layouts and locations for photovoltaic (PV) arrays and equipment, including existing building or site features.
+- Determine materials, equipment, and installation sequences necessary to maximize installation efficiency.
+- Test operating voltages to ensure operation within acceptable limits for power conditioning equipment, such as inverters and controllers.
+- Determine appropriate sizes, ratings, and locations for all system overcurrent devices, disconnect devices, grounding equipment, and surge suppression equipment.
+- Activate photovoltaic (PV) systems to verify system functionality and conformity to performance expectations.
+- Identify and resolve any deficiencies in photovoltaic (PV) system installation or materials.
+- Visually inspect and test photovoltaic (PV) modules or systems.
+- Examine designs to determine current requirements for all parts of the photovoltaic (PV) system electrical circuit.
+- Demonstrate system functionality and performance, including start-up, shut-down, normal operation, and emergency or bypass operations.
+- Identify methods for laying out, orienting, and mounting modules or arrays to ensure efficient installation, electrical configuration, or system maintenance.
+- Measure and analyze system performance and operating parameters to assess operating condition of systems or equipment.
+- Program, adjust, or configure inverters and controls for desired set points and operating modes.
+- Determine connection interfaces for additional subpanels or for connecting photovoltaic (PV) systems with utility services or other power generation sources.
+- Determine photovoltaic (PV) system designs or configurations based on factors such as customer needs, expectations, and site conditions.
+- Select mechanical designs, installation equipment, or installation plans that conform to environmental, architectural, structural, site, and code requirements.
+- Perform routine photovoltaic (PV) system maintenance on modules, arrays, batteries, power conditioning equipment, safety systems, structural systems, weather sealing, or balance of systems equipment.
+- Compile or maintain records of system operation, performance, and maintenance.
+- Install active solar systems, including solar collectors, concentrators, pumps, or fans.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Building and Construction (Importance: 4.8/5 | Level: 5.59/7)
+- Engineering and Technology (Importance: 4.38/5 | Level: 4.65/7)
+- Mechanical (Importance: 4.29/5 | Level: 5.29/7)
+- Design (Importance: 4.12/5 | Level: 4.38/7)
+- Administration and Management (Importance: 4.11/5 | Level: 4.55/7)
+- Customer and Personal Service (Importance: 3.98/5 | Level: 3.96/7)
+- Mathematics (Importance: 3.95/5 | Level: 4.15/7)
+- Public Safety and Security (Importance: 3.76/5 | Level: 3.97/7)
+- Education and Training (Importance: 3.72/5 | Level: 4.28/7)
+- Production and Processing (Importance: 3.42/5 | Level: 3.32/7)
+- English Language (Importance: 3.26/5 | Level: 2.7/7)
+- Computers and Electronics (Importance: 3.1/5 | Level: 3.31/7)
+- Telecommunications (Importance: 2.99/5 | Level: 2.6/7)
+- Transportation (Importance: 2.91/5 | Level: 2.92/7)
+- Administrative (Importance: 2.75/5 | Level: 3.08/7)
+- Personnel and Human Resources (Importance: 2.46/5 | Level: 2.66/7)
+- Sales and Marketing (Importance: 2.45/5 | Level: 1.99/7)
+- Physics (Importance: 2.22/5 | Level: 2.38/7)
+- Law and Government (Importance: 2.2/5 | Level: 1.85/7)
+- Communications and Media (Importance: 2.14/5 | Level: 1.48/7)
+- Psychology (Importance: 2.14/5 | Level: 1.65/7)
+- Chemistry (Importance: 1.99/5 | Level: 2.38/7)
+- Geography (Importance: 1.9/5 | Level: 1.38/7)
+- Economics and Accounting (Importance: 1.74/5 | Level: 1.02/7)
+- Foreign Language (Importance: 1.71/5 | Level: 1.36/7)
+- Sociology and Anthropology (Importance: 1.47/5 | Level: 0.72/7)
+- Therapy and Counseling (Importance: 1.42/5 | Level: 0.88/7)
+- Medicine and Dentistry (Importance: 1.38/5 | Level: 0.65/7)
+- Biology (Importance: 1.3/5 | Level: 0.43/7)
+- Philosophy and Theology (Importance: 1.29/5 | Level: 0.41/7)
+- History and Archeology (Importance: 1.21/5 | Level: 0.27/7)
+- Fine Arts (Importance: 1.16/5 | Level: 0.32/7)
+- Food Production (Importance: 1.11/5 | Level: 0.21/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Installation (Importance: 3.38/5 | Level: 3.38/7)
+- Critical Thinking (Importance: 3.25/5 | Level: 3.5/7)
+- Operations Monitoring (Importance: 3.12/5 | Level: 2.88/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 2.88/7)
+- Quality Control Analysis (Importance: 3.12/5 | Level: 3.25/7)
+- Active Listening (Importance: 3.12/5 | Level: 3.0/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.0/7)
+- Reading Comprehension (Importance: 3.0/5 | Level: 3.0/7)
+- Active Learning (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 3.0/7)
+- Troubleshooting (Importance: 3.0/5 | Level: 3.12/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Complex Problem Solving (Importance: 3.0/5 | Level: 3.0/7)
+- Speaking (Importance: 2.88/5 | Level: 3.0/7)
+- Systems Analysis (Importance: 2.75/5 | Level: 2.88/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 2.25/7)
+- Equipment Selection (Importance: 2.75/5 | Level: 2.75/7)
+- Systems Evaluation (Importance: 2.75/5 | Level: 2.88/7)
+- Persuasion (Importance: 2.62/5 | Level: 2.25/7)
+- Repairing (Importance: 2.62/5 | Level: 2.62/7)
+- Operation and Control (Importance: 2.62/5 | Level: 2.88/7)
+- Mathematics (Importance: 2.62/5 | Level: 2.75/7)
+- Management of Personnel Resources (Importance: 2.62/5 | Level: 2.12/7)
+- Learning Strategies (Importance: 2.62/5 | Level: 2.0/7)
+- Instructing (Importance: 2.62/5 | Level: 2.88/7)
+- Equipment Maintenance (Importance: 2.62/5 | Level: 2.88/7)
+- Service Orientation (Importance: 2.5/5 | Level: 2.12/7)
+- Negotiation (Importance: 2.25/5 | Level: 2.12/7)
+- Management of Material Resources (Importance: 2.25/5 | Level: 1.75/7)
+- Writing (Importance: 2.25/5 | Level: 2.88/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.25/7)
+- Operations Analysis (Importance: 1.88/5 | Level: 1.75/7)
+- Science (Importance: 1.88/5 | Level: 1.62/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.38/7)
+- Programming (Importance: 1.5/5 | Level: 0.62/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Computer aided design CAD software (Tech skill type: Computer aided design CAD software)
+- Cost estimating software (Tech skill type: Project management software)
+- Extensible markup language XML (Tech skill type: Enterprise application integration software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Project management software (Tech skill type: Project management software)
+- Salesforce software (Tech skill type: Customer relationship management CRM software)
+- Work scheduling software (Tech skill type: Calendar and scheduling software)
+
+## TOOLS USED
+- Acetylene torches (Tool type: Blow torch)
+- Adjustable hand wrenches (Tool type: Adjustable wrenches)
+- Builders' levels (Tool type: Levels)
+- Caulking equipment (Tool type: Caulking guns)
+- Channel lock pliers (Tool type: Locking pliers)
+- Claw hammers (Tool type: Claw hammer)
+- Cordless drills (Tool type: Power drills)
+- Crimping lugs (Tool type: Wire lug crimping tool)
+- Desktop computers (Tool type: Desktop computers)
+- Digital multimeters (Tool type: Multimeters)
+- Directional compasses (Tool type: Geological compasses)
+- Dirt shovels (Tool type: Shovels)
+- Extension ladders (Tool type: Ladders)
+- Fall arrest harnesses (Tool type: Safety harnesses or belts)
+- Filter masks (Tool type: Masks or accessories)
+- Forklifts (Tool type: Forklifts)
+- Framing squares (Tool type: Squares)
+- Global positioning system GPS receivers (Tool type: Global positioning system GPS receiver)
+- Handheld calculators (Tool type: Pocket calculator)
+- Hex wrenches (Tool type: Hex keys)
+- Impact drills (Tool type: Power drills)
+- Inclinometers (Tool type: Pitch measuring instruments)
+- Laptop computers (Tool type: Notebook computers)
+- Large pipe wrenches (Tool type: Pipe wrenches)
+- Laser line levels (Tool type: Levels)
+- Mallets (Tool type: Mallets)
+- Medium pipe wrenches (Tool type: Pipe wrenches)
+- Pair of dykes (Tool type: Wire cutters)
+- Personal computers (Tool type: Personal computers)
+- Phillips head screwdrivers (Tool type: Screwdrivers)
+- Pipe cutters (Tool type: Pipe or tube cutter)
+- Post hole augers (Tool type: Post hole digger)
+- Protective gloves (Tool type: Protective gloves)
+- Putty knives (Tool type: Putty knives)
+- Rat tail files (Tool type: Round file)
+- Ratchet sets (Tool type: Ratchets)
+- Reciprocating saws (Tool type: Power saws)
+- Safety glasses (Tool type: Safety glasses)
+- Sledgehammers (Tool type: Sledge hammer)
+- Solar analysis systems (Tool type: Portable data input terminals)
+- Solarimeters (Tool type: Solar radiation surface observing apparatus)
+- Steel measuring tapes (Tool type: Tape measures)
+- Straight screwdrivers (Tool type: Screwdrivers)
+- Tin snips (Tool type: Tinners snips)
+- Torpedo levels (Tool type: Levels)
+- Trenchers (Tool type: Trenching machines)
+- Utility knives (Tool type: Utility knives)
+- Utility work machines (Tool type: Front end loaders)
+- Video probe systems (Tool type: Digital camcorders or video cameras)
+- Volt-ohm meters VOM (Tool type: Ohmmeters)
+- Wheelbarrows (Tool type: Wheelbarrows)
+- Wire cutters (Tool type: Wire cutters)
+- Wire strippers (Tool type: Stripping tools)
+- Work vans (Tool type: Minivans or vans)
+
+# WORK CONTEXT
+- Conflict Situations: Once a week or more but not every day
+- Consequence of Error: Extremely serious
+- Contact With Others: Contact with others most of the time
+- Coordinate or Lead Others in Accomplishing Work Activities: Extremely important
+- Deal With External Customers or the Public in General: Very important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a month or more but not every week
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Once a month or more but not every week
+- Exposed to Cramped Work Space, Awkward Positions: Once a week or more but not every day
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Every day
+- Exposed to Hazardous Conditions: Every day
+- Exposed to Hazardous Equipment: Every day
+- Exposed to High Places: Every day
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Every day
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Once a week or more but not every day
+- Exposed to Very Hot or Cold Temperatures: Every day
+- Exposed to Whole Body Vibration: Once a year or more but not every month
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Extremely important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Every day
+- In an Open Vehicle or Operating Equipment: Once a month or more but not every week
+- Indoors, Environmentally Controlled: Once a month or more but not every week
+- Indoors, Not Environmentally Controlled: Every day
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Every day
+- Outdoors, Under Cover: Once a week or more but not every day
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Once a week or more but not every day
+- Spend Time Bending or Twisting Your Body: Continually or almost continually
+- Spend Time Climbing Ladders, Scaffolds, or Poles: More than half the time
+- Spend Time Keeping or Regaining Balance: Continually or almost continually
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Continually or almost continually
+- Spend Time Making Repetitive Motions: Continually or almost continually
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: Continually or almost continually
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Once a week or more but not every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Once a week or more but not every day
+- Work Outcomes and Results of Other Workers: High responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Never
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Solar Thermal Installers and Technicians
+- Solar Energy Installation Managers
+- Wind Turbine Service Technicians
+- Geothermal Technicians
+- Lighting Technicians
+- Hydroelectric Plant Technicians
+- Electricians
+- Electrical and Electronics Repairers, Commercial and Industrial Equipment
+- Electrical and Electronics Installers and Repairers, Transportation Equipment
+- Maintenance and Repair Workers, General
+- Solar Energy Systems Engineers
+- Electrical Engineers
+- Energy Engineers, Except Wind and Solar
+- Solar Sales Representatives and Assessors
+- Electrical and Electronics Repairers, Powerhouse, Substation, and Relay
+- Electric Motor, Power Tool, and Related Repairers
+- Wind Energy Engineers
+- Mechanical Engineers
+- Heating, Air Conditioning, and Refrigeration Mechanics and Installers
+- Plumbers, Pipefitters, and Steamfitters

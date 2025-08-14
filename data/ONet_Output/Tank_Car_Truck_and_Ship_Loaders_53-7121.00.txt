@@ -1,0 +1,212 @@
+Job Title: Tank Car, Truck, and Ship Loaders
+O*NET-SOC Code: 53-7121.00
+
+# DESCRIPTION
+Load and unload chemicals and bulk solids, such as coal, sand, and grain, into or from tank cars, trucks, or ships, using material moving equipment. May perform a variety of other tasks relating to shipment of products. May gauge or sample shipping tanks and test them for leaks.
+
+# TASKS
+- Seal outlet valves on tank cars, barges, and trucks.
+- Verify tank car, barge, or truck load numbers to ensure car placement accuracy based on written or verbal instructions.
+- Start pumps and adjust valves or cables to regulate the flow of products to vessels, using knowledge of loading procedures.
+- Check conditions and weights of vessels to ensure cleanliness and compliance with loading procedures.
+- Observe positions of cars passing loading spouts, and swing spouts into the correct positions at the appropriate times.
+- Monitor product movement to and from storage tanks, coordinating activities with other workers to ensure constant product flow.
+- Operate ship loading and unloading equipment, conveyors, hoists, and other specialized material handling equipment such as railroad tank car unloading equipment.
+- Record operating data such as products and quantities pumped, gauge readings, and operating times, manually or using computers.
+- Operate industrial trucks, tractors, loaders, and other equipment to transport materials to and from transportation vehicles and loading docks, and to store and retrieve materials in warehouses.
+- Connect ground cables to carry off static electricity when unloading tanker cars.
+- Copy and attach load specifications to loaded tanks.
+- Remove and replace tank car dome caps, or direct other workers in their removal and replacement.
+- Test samples for specific gravity, using hydrometers, or send samples to laboratories for testing.
+- Test vessels for leaks, damage, and defects, and repair or replace defective parts as necessary.
+- Unload cars containing liquids by connecting hoses to outlet plugs and pumping compressed air into cars to force liquids into storage tanks.
+- Clean interiors of tank cars or tank trucks, using mechanical spray nozzles.
+- Lower gauge rods into tanks or read meters to verify contents, temperatures, and volumes of liquid loads.
+- Operate conveyors and equipment to transfer grain or other materials from transportation vehicles.
+- Perform general warehouse activities, such as opening containers and crates, filling warehouse orders, assisting in taking inventory, and weighing and checking materials.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Transportation (Importance: 3.53/5 | Level: 2.72/7)
+- Production and Processing (Importance: 3.3/5 | Level: 3.25/7)
+- English Language (Importance: 3.27/5 | Level: 2.64/7)
+- Public Safety and Security (Importance: 3.15/5 | Level: 2.61/7)
+- Mechanical (Importance: 2.94/5 | Level: 3.27/7)
+- Education and Training (Importance: 2.5/5 | Level: 2.54/7)
+- Computers and Electronics (Importance: 2.47/5 | Level: 2.17/7)
+- Administrative (Importance: 2.43/5 | Level: 2.76/7)
+- Chemistry (Importance: 2.38/5 | Level: 2.17/7)
+- Customer and Personal Service (Importance: 2.27/5 | Level: 1.77/7)
+- Mathematics (Importance: 2.27/5 | Level: 1.75/7)
+- Telecommunications (Importance: 2.13/5 | Level: 0.93/7)
+- Administration and Management (Importance: 2.1/5 | Level: 1.74/7)
+- Personnel and Human Resources (Importance: 2.01/5 | Level: 1.54/7)
+- Physics (Importance: 1.82/5 | Level: 1.45/7)
+- Law and Government (Importance: 1.81/5 | Level: 1.52/7)
+- Geography (Importance: 1.72/5 | Level: 1.32/7)
+- Communications and Media (Importance: 1.67/5 | Level: 1.23/7)
+- Engineering and Technology (Importance: 1.61/5 | Level: 1.0/7)
+- Economics and Accounting (Importance: 1.57/5 | Level: 1.25/7)
+- Design (Importance: 1.55/5 | Level: 0.96/7)
+- Medicine and Dentistry (Importance: 1.52/5 | Level: 0.82/7)
+- Biology (Importance: 1.46/5 | Level: 0.68/7)
+- Building and Construction (Importance: 1.46/5 | Level: 0.78/7)
+- Psychology (Importance: 1.43/5 | Level: 0.78/7)
+- Sales and Marketing (Importance: 1.34/5 | Level: 0.51/7)
+- Therapy and Counseling (Importance: 1.34/5 | Level: 0.73/7)
+- Sociology and Anthropology (Importance: 1.3/5 | Level: 0.32/7)
+- Philosophy and Theology (Importance: 1.19/5 | Level: 0.33/7)
+- History and Archeology (Importance: 1.18/5 | Level: 0.26/7)
+- Foreign Language (Importance: 1.18/5 | Level: 0.22/7)
+- Food Production (Importance: 1.16/5 | Level: 0.21/7)
+- Fine Arts (Importance: 1.08/5 | Level: 0.11/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operation and Control (Importance: 3.75/5 | Level: 3.25/7)
+- Operations Monitoring (Importance: 3.75/5 | Level: 3.38/7)
+- Reading Comprehension (Importance: 3.25/5 | Level: 3.12/7)
+- Time Management (Importance: 3.12/5 | Level: 2.88/7)
+- Monitoring (Importance: 3.0/5 | Level: 3.12/7)
+- Speaking (Importance: 3.0/5 | Level: 2.88/7)
+- Active Listening (Importance: 3.0/5 | Level: 3.0/7)
+- Writing (Importance: 3.0/5 | Level: 2.75/7)
+- Complex Problem Solving (Importance: 3.0/5 | Level: 2.88/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 2.88/7)
+- Judgment and Decision Making (Importance: 2.88/5 | Level: 2.88/7)
+- Management of Personnel Resources (Importance: 2.88/5 | Level: 2.75/7)
+- Coordination (Importance: 2.88/5 | Level: 2.88/7)
+- Quality Control Analysis (Importance: 2.88/5 | Level: 2.88/7)
+- Active Learning (Importance: 2.75/5 | Level: 2.75/7)
+- Troubleshooting (Importance: 2.62/5 | Level: 2.5/7)
+- Social Perceptiveness (Importance: 2.62/5 | Level: 2.12/7)
+- Equipment Maintenance (Importance: 2.62/5 | Level: 2.0/7)
+- Systems Analysis (Importance: 2.5/5 | Level: 2.62/7)
+- Repairing (Importance: 2.5/5 | Level: 2.25/7)
+- Instructing (Importance: 2.5/5 | Level: 2.62/7)
+- Mathematics (Importance: 2.5/5 | Level: 2.12/7)
+- Learning Strategies (Importance: 2.5/5 | Level: 2.38/7)
+- Equipment Selection (Importance: 2.38/5 | Level: 2.38/7)
+- Negotiation (Importance: 2.25/5 | Level: 2.12/7)
+- Service Orientation (Importance: 2.25/5 | Level: 2.12/7)
+- Systems Evaluation (Importance: 2.12/5 | Level: 2.12/7)
+- Persuasion (Importance: 2.0/5 | Level: 2.12/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.88/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.12/7)
+- Technology Design (Importance: 1.75/5 | Level: 0.75/7)
+- Science (Importance: 1.5/5 | Level: 0.75/7)
+- Programming (Importance: 1.38/5 | Level: 0.38/7)
+- Operations Analysis (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- CompuWeigh GMS (Tech skill type: Data base user interface and query software)
+- Distributed control system DCS (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Linux (Tech skill type: Operating system software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Warehouse management system WMS (Tech skill type: Materials requirements planning logistics and supply chain software)
+
+## TOOLS USED
+- Computer laser printers (Tool type: Laser printers)
+- Conveyor belt systems (Tool type: Belt conveyors)
+- Digital hydrometers (Tool type: Hydrometers)
+- Electric hoists (Tool type: Hoists)
+- Loading scales (Tool type: Floor or platform scales)
+- Mechanical spray nozzles (Tool type: Spray hose)
+- Mobile shiploaders (Tool type: Loading equipment)
+- Personal computers (Tool type: Personal computers)
+- Protective respirators (Tool type: Respirators)
+- Reach trucks (Tool type: Stackers)
+- Riding pallet jacks (Tool type: Pallet trucks)
+- Skid steers (Tool type: Skid steer loaders)
+- Stock pickers (Tool type: Loading equipment)
+- Tablet computers (Tool type: Tablet computers)
+- Walk behind pallet jacks (Tool type: Pallet trucks)
+- Warehouse forklifts (Tool type: Forklifts)
+- Wheeled front end loaders (Tool type: Front end loaders)
+
+# WORK CONTEXT
+- Conflict Situations: Every day
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Extremely important
+- Deal With External Customers or the Public in General: Very important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Slightly automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Every day
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Every day
+- Exposed to Hazardous Conditions: Every day
+- Exposed to Hazardous Equipment: Every day
+- Exposed to High Places: Every day
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Every day
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Every day
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Extremely important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Every day
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Never
+- Indoors, Not Environmentally Controlled: Every day
+- Level of Competition: Not at all competitive
+- Outdoors, Exposed to All Weather Conditions: Every day
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Very important
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Less than half the time
+- Spend Time Keeping or Regaining Balance: Less than half the time
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: More than half the time
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: More than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: More than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Every day
+- Work Outcomes and Results of Other Workers: Moderate responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Industrial Truck and Tractor Operators
+- Laborers and Freight, Stock, and Material Movers, Hand
+- Conveyor Operators and Tenders
+- Loading and Moving Machine Operators, Underground Mining
+- Pump Operators, Except Wellhead Pumpers
+- Hoist and Winch Operators
+- Machine Feeders and Offbearers
+- Crane and Tower Operators
+- Excavating and Loading Machine and Dragline Operators, Surface Mining
+- Mobile Heavy Equipment Mechanics, Except Engines
+- Petroleum Pump System Operators, Refinery Operators, and Gaugers
+- Maintenance Workers, Machinery
+- Heavy and Tractor-Trailer Truck Drivers
+- Bus and Truck Mechanics and Diesel Engine Specialists
+- Continuous Mining Machine Operators
+- Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders
+- Gas Compressor and Gas Pumping Station Operators
+- Chemical Plant and System Operators
+- Recycling and Reclamation Workers
+- Industrial Machinery Mechanics

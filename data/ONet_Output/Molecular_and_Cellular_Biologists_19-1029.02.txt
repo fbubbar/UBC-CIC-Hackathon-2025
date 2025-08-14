@@ -1,0 +1,302 @@
+Job Title: Molecular and Cellular Biologists
+O*NET-SOC Code: 19-1029.02
+
+# DESCRIPTION
+Research and study cellular molecules and organelles to understand cell function and organization.
+
+# TASKS
+- Maintain accurate laboratory records and data.
+- Design molecular or cellular laboratory experiments, oversee their execution, and interpret results.
+- Write grant applications to obtain funding.
+- Perform laboratory procedures following protocols including deoxyribonucleic acid (DNA) sequencing, cloning and extraction, ribonucleic acid (RNA) purification, or gel electrophoresis.
+- Conduct research on cell organization and function, including mechanisms of gene expression, cellular bioinformatics, cell signaling, or cell differentiation.
+- Prepare or review reports, manuscripts, or meeting presentations.
+- Instruct undergraduate and graduate students within the areas of cellular or molecular biology.
+- Direct, coordinate, organize, or prioritize biological laboratory activities.
+- Compile and analyze molecular or cellular experimental data and adjust experimental designs as necessary.
+- Evaluate new technologies to enhance or complement current research.
+- Provide scientific direction for project teams regarding the evaluation or handling of devices, drugs, or cells for in vitro and in vivo disease models.
+- Supervise technical personnel and postdoctoral research fellows.
+- Monitor or operate specialized equipment, such as gas chromatographs and high pressure liquid chromatographs, electrophoresis units, thermocyclers, fluorescence activated cell sorters, and phosphorimagers.
+- Conduct applied research aimed at improvements in areas such as disease testing, crop quality, pharmaceuticals, and the harnessing of microbes to recycle waste.
+- Develop guidelines for procedures such as the management of viruses.
+- Develop assays that monitor cell characteristics.
+- Coordinate molecular or cellular research activities with scientists specializing in other fields.
+- Verify all financial, physical, and human resources assigned to research or development projects are used as planned.
+- Evaluate new supplies and equipment to ensure operability in specific laboratory settings.
+- Participate in all levels of bioproduct development, including proposing new products, performing market analyses, designing and performing experiments, and collaborating with operations and quality control teams during product launches.
+- Confer with vendors to evaluate new equipment or reagents or to discuss the customization of product lines to meet user requirements.
+- Design databases, such as mutagenesis libraries.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Biology (Importance: 4.81/5 | Level: 6.69/7)
+- English Language (Importance: 4.44/5 | Level: 5.24/7)
+- Chemistry (Importance: 4.12/5 | Level: 5.15/7)
+- Mathematics (Importance: 3.81/5 | Level: 4.96/7)
+- Education and Training (Importance: 3.58/5 | Level: 5.23/7)
+- Computers and Electronics (Importance: 3.38/5 | Level: 4.27/7)
+- Medicine and Dentistry (Importance: 3.08/5 | Level: 3.19/7)
+- Administration and Management (Importance: 2.81/5 | Level: 3.69/7)
+- Communications and Media (Importance: 2.77/5 | Level: 2.84/7)
+- Administrative (Importance: 2.72/5 | Level: 3.32/7)
+- Physics (Importance: 2.65/5 | Level: 3.12/7)
+- Personnel and Human Resources (Importance: 2.58/5 | Level: 3.31/7)
+- Public Safety and Security (Importance: 2.52/5 | Level: 2.38/7)
+- Engineering and Technology (Importance: 2.38/5 | Level: 2.62/7)
+- Mechanical (Importance: 2.27/5 | Level: 2.42/7)
+- Design (Importance: 2.23/5 | Level: 2.46/7)
+- Economics and Accounting (Importance: 2.08/5 | Level: 1.88/7)
+- Psychology (Importance: 2.08/5 | Level: 2.19/7)
+- Production and Processing (Importance: 2.0/5 | Level: 1.96/7)
+- Telecommunications (Importance: 1.96/5 | Level: 1.73/7)
+- Law and Government (Importance: 1.96/5 | Level: 1.96/7)
+- Sociology and Anthropology (Importance: 1.77/5 | Level: 1.62/7)
+- Philosophy and Theology (Importance: 1.69/5 | Level: 1.38/7)
+- Therapy and Counseling (Importance: 1.65/5 | Level: 1.5/7)
+- Foreign Language (Importance: 1.62/5 | Level: 1.38/7)
+- Sales and Marketing (Importance: 1.58/5 | Level: 1.23/7)
+- Customer and Personal Service (Importance: 1.58/5 | Level: 0.96/7)
+- History and Archeology (Importance: 1.46/5 | Level: 0.92/7)
+- Geography (Importance: 1.42/5 | Level: 1.15/7)
+- Fine Arts (Importance: 1.38/5 | Level: 0.62/7)
+- Building and Construction (Importance: 1.35/5 | Level: 0.73/7)
+- Transportation (Importance: 1.28/5 | Level: 0.77/7)
+- Food Production (Importance: 1.23/5 | Level: 0.54/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Science (Importance: 4.75/5 | Level: 5.0/7)
+- Reading Comprehension (Importance: 4.38/5 | Level: 5.62/7)
+- Writing (Importance: 4.25/5 | Level: 5.0/7)
+- Critical Thinking (Importance: 4.12/5 | Level: 4.88/7)
+- Judgment and Decision Making (Importance: 4.0/5 | Level: 4.62/7)
+- Complex Problem Solving (Importance: 4.0/5 | Level: 4.12/7)
+- Speaking (Importance: 4.0/5 | Level: 4.75/7)
+- Active Listening (Importance: 4.0/5 | Level: 4.62/7)
+- Learning Strategies (Importance: 3.88/5 | Level: 4.5/7)
+- Active Learning (Importance: 3.88/5 | Level: 4.62/7)
+- Instructing (Importance: 3.75/5 | Level: 4.12/7)
+- Mathematics (Importance: 3.75/5 | Level: 4.38/7)
+- Monitoring (Importance: 3.75/5 | Level: 4.38/7)
+- Social Perceptiveness (Importance: 3.25/5 | Level: 3.38/7)
+- Time Management (Importance: 3.12/5 | Level: 3.88/7)
+- Operations Analysis (Importance: 3.12/5 | Level: 3.25/7)
+- Persuasion (Importance: 3.12/5 | Level: 3.0/7)
+- Coordination (Importance: 3.12/5 | Level: 3.62/7)
+- Management of Personnel Resources (Importance: 3.0/5 | Level: 3.25/7)
+- Negotiation (Importance: 3.0/5 | Level: 3.0/7)
+- Systems Evaluation (Importance: 3.0/5 | Level: 3.88/7)
+- Systems Analysis (Importance: 3.0/5 | Level: 3.75/7)
+- Quality Control Analysis (Importance: 2.88/5 | Level: 2.88/7)
+- Operations Monitoring (Importance: 2.88/5 | Level: 2.88/7)
+- Management of Material Resources (Importance: 2.88/5 | Level: 3.0/7)
+- Service Orientation (Importance: 2.62/5 | Level: 2.25/7)
+- Management of Financial Resources (Importance: 2.62/5 | Level: 2.62/7)
+- Operation and Control (Importance: 2.62/5 | Level: 2.5/7)
+- Programming (Importance: 2.12/5 | Level: 2.5/7)
+- Technology Design (Importance: 2.0/5 | Level: 2.0/7)
+- Troubleshooting (Importance: 2.0/5 | Level: 1.5/7)
+- Equipment Selection (Importance: 1.88/5 | Level: 1.5/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- AcaClone pDRAW32 (Tech skill type: Analytical or scientific software)
+- Adobe Illustrator (Tech skill type: Graphics or photo imaging software)
+- Agilent CGH Analytics (Tech skill type: Analytical or scientific software)
+- Agilent Technologies GeneSpring GX (Tech skill type: Analytical or scientific software)
+- Basic Local Alignment Search Tool BLAST (Tech skill type: Analytical or scientific software)
+- Blast Output Browser BOB (Tech skill type: Analytical or scientific software)
+- C++ (Tech skill type: Object or component oriented development software)
+- ClustalW (Tech skill type: Analytical or scientific software)
+- Corel CorelDraw Graphics Suite (Tech skill type: Graphics or photo imaging software)
+- Corel WordPerfect Office Suite (Tech skill type: Office suite software)
+- CRI-MAP (Tech skill type: Analytical or scientific software)
+- Data mining software (Tech skill type: Data mining software)
+- Delila (Tech skill type: Analytical or scientific software)
+- Deoxyribonucleic acid DNA libraries (Tech skill type: Data base user interface and query software)
+- EnzymeX (Tech skill type: Analytical or scientific software)
+- FASTA (Tech skill type: Analytical or scientific software)
+- FASTLINK (Tech skill type: Analytical or scientific software)
+- Gene Recognition and Assembly Internet Link GRAIL (Tech skill type: Analytical or scientific software)
+- Genotyping software (Tech skill type: Analytical or scientific software)
+- Geospiza GeneSifter (Tech skill type: Analytical or scientific software)
+- Git (Tech skill type: File versioning software)
+- GraphPad Software GraphPad Prism (Tech skill type: Analytical or scientific software)
+- Laboratory information management system LIMS (Tech skill type: Analytical or scientific software)
+- Magma Design Automation software (Tech skill type: Analytical or scientific software)
+- Mathsoft Mathcad (Tech skill type: Computer aided design CAD software)
+- Mendel (Tech skill type: Analytical or scientific software)
+- Michigan State University MSU ProFlex (Tech skill type: Analytical or scientific software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Minitab (Tech skill type: Analytical or scientific software)
+- Molecular Devices Corporation MetaMorph (Tech skill type: Graphics or photo imaging software)
+- NetPrimer (Tech skill type: Analytical or scientific software)
+- PHYLIP (Tech skill type: Analytical or scientific software)
+- Primer3 (Tech skill type: Analytical or scientific software)
+- Python (Tech skill type: Object or component oriented development software)
+- R (Tech skill type: Object or component oriented development software)
+- RasMol (Tech skill type: Analytical or scientific software)
+- Textco BioSoftware Gene Inspector (Tech skill type: Analytical or scientific software)
+- The MathWorks MATLAB (Tech skill type: Analytical or scientific software)
+- Web browser software (Tech skill type: Internet browser software)
+- Wolfram Research Mathematica (Tech skill type: Analytical or scientific software)
+
+## TOOLS USED
+- Automated cell counters (Tool type: Manual or electronic hematology differential cell counters)
+- Automated DNA sequencing equipment (Tool type: Deoxyribonucleic sequence analyzers)
+- Automated microscopes (Tool type: Automated microscope stages)
+- Automatic carbon dioxide CO2 incubators (Tool type: Dry wall single chamber carbon dioxide incubators)
+- Bacterial plate incubators (Tool type: Plate incubators)
+- Centrifuge tubes (Tool type: Centrifuge tubes)
+- Charge-coupled device CCD cameras (Tool type: Photo attachments for microscopes)
+- Chemical hoods (Tool type: Fume hoods or cupboards)
+- Cloning cylinders (Tool type: Laboratory dishes)
+- Cloning kits (Tool type: General cloning vectors)
+- Computerized axial tomography CAT scanners (Tool type: Medical computed tomography CT or CAT scanners or tubes)
+- Cooled benchtop centrifuges (Tool type: Refrigerated benchtop centrifuges)
+- Deoxyribonucleic acid DNA synthesizers (Tool type: Complementary deoxyribonucleic acid cDNA synthesis kits)
+- Desktop computers (Tool type: Desktop computers)
+- Dessicators (Tool type: Heating or drying equipment or accessories)
+- Dissecting microscopes (Tool type: Stereo or dissecting light microscopes)
+- Electrophoresis cameras (Tool type: Electrophoresis system accessories)
+- Emergency eye wash stations (Tool type: Eyewashers or eye wash stations)
+- Flow cytometers (Tool type: Microbiology analyzers)
+- Fluorescence microscopes (Tool type: Fluorescent microscopes)
+- Fluorimeters (Tool type: Spectrofluorimeters or fluorimeters)
+- Gas chromatography equipment (Tool type: Gas chromatographs)
+- Gel electrophoresis equipment (Tool type: Gel documentation systems)
+- Gel imaging apparatus (Tool type: Transilluminators)
+- Glass beakers (Tool type: Laboratory beakers)
+- Gradiant thermocyclers (Tool type: Temperature cycling chambers or thermal cyclers)
+- Heat blocks (Tool type: Dry baths or heating blocks)
+- High pressure liquid chromatograph HPLC equipment (Tool type: High pressure liquid chromatograph chromatography)
+- Inverted binocular microscopes (Tool type: Inverted microscopes)
+- Laboratory binocular optical microscopes (Tool type: Binocular light compound microscopes)
+- Laboratory chemical autoclaves (Tool type: Chemical or gas sterilizers)
+- Laboratory floor centrifuges (Tool type: Floor centrifuges)
+- Laboratory freezers (Tool type: General purpose refrigerators or refrigerator freezers)
+- Laboratory orbital shakers (Tool type: Orbital shakers)
+- Laboratory transfer pipettes (Tool type: Pasteur or transfer pipettes)
+- Laboratory vacuum pumps (Tool type: Laboratory vacuum pumps)
+- Laboratory water baths (Tool type: Water baths)
+- Laminar flow hoods (Tool type: Laminar flow cabinets or stations)
+- Laptop computers (Tool type: Notebook computers)
+- Magnetic resonance imaging MRI systems (Tool type: Medical magnetic resonance imaging MRI scanners)
+- Magnetic stirring hot plates (Tool type: Stirring hotplates)
+- Manual single channel positive displacement pipettes (Tool type: Manual single channel positive displacement pipetters)
+- Manual single channel repeating pipetters (Tool type: Manual single channel repeating pipetters)
+- Mass spectrometers (Tool type: Mass spectrometers)
+- Microbalances (Tool type: Laboratory balances)
+- Microcentrifuges (Tool type: Microcentrifuges)
+- Microplate readers (Tool type: Microplate readers)
+- Multichannel micropipettes (Tool type: Electronic multichannel pipetters)
+- Nuclear magnetic resonance NMR spectroscopes (Tool type: Nuclear magnetic resonance NMR spectrometers)
+- Nucleic acid hybridization ovens (Tool type: Hybridization ovens or incubators)
+- Personal computers (Tool type: Personal computers)
+- pH analyzers (Tool type: pH meters)
+- Phosphorimagers (Tool type: Electron guns)
+- Polymerase chain reaction PCR equipment (Tool type: Rapid amplification or complementary deoxyribonucleic acid ends RACE technology products)
+- Polymerase chain reaction PCR thermocyclers (Tool type: Temperature cycling chambers or thermal cyclers)
+- Robotic fluidics stations (Tool type: Robotic or automated liquid handling systems)
+- Safety gloves (Tool type: Protective gloves)
+- Scanning laser confocal microscopes (Tool type: Scanning light or spinning disk or laser scanning microscopes)
+- Serological kits (Tool type: Immunology or serology test kits or supplies)
+- Spectrophotometers (Tool type: Spectrophotometers)
+- Tabletop centrifuges (Tool type: Benchtop centrifuges)
+- Thermocyclers (Tool type: Temperature cycling chambers or thermal cyclers)
+- Ultraviolet-Visible UV/VIS spectrophotometers (Tool type: Spectrophotometers)
+- Variable volume pipettes (Tool type: Volumetric pipettes)
+- Vortex rotators (Tool type: Vortex mixers)
+- Water purification systems (Tool type: Ultra pure water systems)
+- Yeast culture incubators (Tool type: Tissue culture incubators)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Fairly serious
+- Contact With Others: Contact with others most of the time
+- Coordinate or Lead Others in Accomplishing Work Activities: Important
+- Deal With External Customers or the Public in General: Not important at all
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Slightly automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Once a month or more but not every week
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Once a week or more but not every day
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Once a week or more but not every day
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Once a year or more but not every month
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Once a year or more but not every month
+- Health and Safety of Other Workers: High responsibility
+- Impact of Decisions on Co-workers or Company Results: Minor results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Highly competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Slightly close (e.g., shared office)
+- Public Speaking: Once a year or more but not every month
+- Spend Time Bending or Twisting Your Body: Never
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Less than half the time
+- Spend Time Sitting: More than half the time
+- Spend Time Standing: About half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: More than half the time
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Once a week or more but not every day
+- Time Pressure: Once a month or more but not every week
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Moderate responsibility
+- Work With or Contribute to a Work Group or Team: Very important
+- Written Letters and Memos: Once a month or more but not every week
+
+# INTERESTS (RIASEC)
+- Primary Interest: Investigative
+- Secondary Interest: Realistic
+- Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Geneticists
+- Biochemists and Biophysicists
+- Bioinformatics Scientists
+- Microbiologists
+- Biological Science Teachers, Postsecondary
+- Bioengineers and Biomedical Engineers
+- Biologists
+- Cytogenetic Technologists
+- Medical and Clinical Laboratory Technologists
+- Medical Scientists, Except Epidemiologists
+- Biological Technicians
+- Natural Sciences Managers
+- Medical and Clinical Laboratory Technicians
+- Chemists
+- Bioinformatics Technicians
+- Chemistry Teachers, Postsecondary
+- Nanosystems Engineers
+- Physicians, Pathologists
+- Histotechnologists
+- Data Scientists

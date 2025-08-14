@@ -1,0 +1,241 @@
+Job Title: Wind Energy Operations Managers
+O*NET-SOC Code: 11-9199.09
+
+# DESCRIPTION
+Manage wind field operations, including personnel, maintenance activities, financial activities, and planning.
+
+# TASKS
+- Supervise employees or subcontractors to ensure quality of work or adherence to safety regulations or policies.
+- Train or coordinate the training of employees in operations, safety, environmental issues, or technical issues.
+- Track and maintain records for wind operations, such as site performance, downtime events, parts usage, or substation events.
+- Oversee the maintenance of wind field equipment or structures, such as towers, transformers, electrical collector systems, roadways, or other site assets.
+- Prepare wind field operational budgets.
+- Develop relationships and communicate with customers, site managers, developers, land owners, authorities, utility representatives, or residents.
+- Maintain operations records, such as work orders, site inspection forms, or other documentation.
+- Recruit or select wind operations employees, contractors, or subcontractors.
+- Provide technical support to wind field customers, employees, or subcontractors.
+- Estimate costs associated with operations, including repairs or preventive maintenance.
+- Monitor and maintain records of daily facility operations.
+- Establish goals, objectives, or priorities for wind field operations.
+- Order parts, tools, or equipment needed to maintain, restore, or improve wind field operations.
+- Review, negotiate, or approve wind farm contracts.
+- Manage warranty repair or replacement services.
+- Develop processes or procedures for wind operations, including transitioning from construction to commercial operations.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Administration and Management (Importance: 4.09/5 | Level: 5.05/7)
+- Mechanical (Importance: 3.92/5 | Level: 5.0/7)
+- Engineering and Technology (Importance: 3.63/5 | Level: 4.81/7)
+- Public Safety and Security (Importance: 3.5/5 | Level: 4.41/7)
+- Personnel and Human Resources (Importance: 3.48/5 | Level: 4.09/7)
+- Administrative (Importance: 3.32/5 | Level: 4.3/7)
+- Computers and Electronics (Importance: 3.22/5 | Level: 3.8/7)
+- Customer and Personal Service (Importance: 3.22/5 | Level: 3.67/7)
+- Mathematics (Importance: 3.18/5 | Level: 4.08/7)
+- Production and Processing (Importance: 3.1/5 | Level: 3.4/7)
+- Telecommunications (Importance: 3.03/5 | Level: 3.76/7)
+- English Language (Importance: 2.98/5 | Level: 3.36/7)
+- Economics and Accounting (Importance: 2.98/5 | Level: 3.37/7)
+- Physics (Importance: 2.93/5 | Level: 3.9/7)
+- Education and Training (Importance: 2.82/5 | Level: 3.77/7)
+- Design (Importance: 2.74/5 | Level: 3.48/7)
+- Law and Government (Importance: 2.73/5 | Level: 3.41/7)
+- Psychology (Importance: 2.55/5 | Level: 2.72/7)
+- Building and Construction (Importance: 2.42/5 | Level: 3.07/7)
+- Transportation (Importance: 2.3/5 | Level: 3.03/7)
+- Communications and Media (Importance: 2.27/5 | Level: 2.21/7)
+- Therapy and Counseling (Importance: 2.11/5 | Level: 2.07/7)
+- Geography (Importance: 2.01/5 | Level: 2.18/7)
+- Medicine and Dentistry (Importance: 2.0/5 | Level: 1.6/7)
+- Chemistry (Importance: 1.81/5 | Level: 2.24/7)
+- Biology (Importance: 1.63/5 | Level: 1.51/7)
+- History and Archeology (Importance: 1.6/5 | Level: 1.15/7)
+- Sales and Marketing (Importance: 1.6/5 | Level: 1.84/7)
+- Sociology and Anthropology (Importance: 1.57/5 | Level: 1.09/7)
+- Foreign Language (Importance: 1.38/5 | Level: 0.63/7)
+- Philosophy and Theology (Importance: 1.25/5 | Level: 0.55/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Active Listening (Importance: 4.0/5 | Level: 4.0/7)
+- Speaking (Importance: 3.88/5 | Level: 4.0/7)
+- Monitoring (Importance: 3.88/5 | Level: 4.12/7)
+- Critical Thinking (Importance: 3.88/5 | Level: 4.0/7)
+- Reading Comprehension (Importance: 3.88/5 | Level: 4.0/7)
+- Writing (Importance: 3.75/5 | Level: 4.0/7)
+- Management of Personnel Resources (Importance: 3.75/5 | Level: 4.0/7)
+- Social Perceptiveness (Importance: 3.75/5 | Level: 4.0/7)
+- Persuasion (Importance: 3.62/5 | Level: 3.75/7)
+- Coordination (Importance: 3.62/5 | Level: 3.88/7)
+- Judgment and Decision Making (Importance: 3.38/5 | Level: 3.62/7)
+- Operations Monitoring (Importance: 3.25/5 | Level: 3.25/7)
+- Time Management (Importance: 3.25/5 | Level: 3.25/7)
+- Complex Problem Solving (Importance: 3.25/5 | Level: 3.75/7)
+- Instructing (Importance: 3.12/5 | Level: 3.62/7)
+- Negotiation (Importance: 3.12/5 | Level: 3.88/7)
+- Systems Analysis (Importance: 3.0/5 | Level: 3.25/7)
+- Systems Evaluation (Importance: 3.0/5 | Level: 3.12/7)
+- Quality Control Analysis (Importance: 3.0/5 | Level: 3.0/7)
+- Active Learning (Importance: 3.0/5 | Level: 3.62/7)
+- Mathematics (Importance: 3.0/5 | Level: 3.25/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 3.12/7)
+- Management of Material Resources (Importance: 2.88/5 | Level: 3.12/7)
+- Service Orientation (Importance: 2.88/5 | Level: 3.12/7)
+- Management of Financial Resources (Importance: 2.88/5 | Level: 3.62/7)
+- Troubleshooting (Importance: 2.75/5 | Level: 2.5/7)
+- Operation and Control (Importance: 2.5/5 | Level: 2.5/7)
+- Equipment Selection (Importance: 2.38/5 | Level: 2.25/7)
+- Operations Analysis (Importance: 2.25/5 | Level: 2.25/7)
+- Equipment Maintenance (Importance: 2.12/5 | Level: 2.25/7)
+- Repairing (Importance: 2.0/5 | Level: 2.12/7)
+- Science (Importance: 2.0/5 | Level: 1.12/7)
+- Technology Design (Importance: 2.0/5 | Level: 1.25/7)
+- Programming (Importance: 1.88/5 | Level: 1.25/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Computerized diagnostic software (Tech skill type: Analytical or scientific software)
+- Computerized maintenance management system CMMS (Tech skill type: Facilities management software)
+- Employee scheduling software (Tech skill type: Calendar and scheduling software)
+- Gensuite (Tech skill type: Compliance software)
+- IBM Lotus Notes (Tech skill type: Electronic mail software)
+- Inventory control software (Tech skill type: Inventory management software)
+- Local area network LAN software (Tech skill type: LAN software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Oracle Enterprise Asset Management eAM (Tech skill type: Facilities management software)
+- Oracle Primavera Systems (Tech skill type: Project management software)
+- Programmable logic controller PLC software (Tech skill type: Industrial control software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Supervisory control and data acquisition SCADA software (Tech skill type: Industrial control software)
+- Time and payroll management software (Tech skill type: Time accounting software)
+- Web browser software (Tech skill type: Internet browser software)
+- Web conferencing software (Tech skill type: Video conferencing software)
+- WebEx WebOffice (Tech skill type: Data base user interface and query software)
+- Wide area network WAN software (Tech skill type: WAN switching software and firmware)
+
+## TOOLS USED
+- Adjustable widemouth pliers (Tool type: Adjustable widemouth pliers)
+- Adjustable wrenches (Tool type: Adjustable wrenches)
+- Amp clamp meters (Tool type: Ammeters)
+- Desktop computers (Tool type: Desktop computers)
+- Digital calipers (Tool type: Calipers)
+- Digital micrometers (Tool type: Micrometers)
+- Digital oscilloscopes (Tool type: Oscilloscopes)
+- Fall arrest systems (Tool type: Safety harnesses or belts)
+- Field forklifts (Tool type: Forklifts)
+- Hard hats (Tool type: Hard hats)
+- Hydraulic torque machines (Tool type: Torque tools)
+- Infrared thermography cameras (Tool type: Infrared imagers)
+- Laptop computers (Tool type: Notebook computers)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Lubricant oil sampling kits (Tool type: Lubricating oil testing kit)
+- Manual torque wrenches (Tool type: Torque wrenches)
+- Megohmmeters (Tool type: Megohmmeters)
+- Mobile radios (Tool type: Two way radios)
+- Multi-line telephone systems (Tool type: Special purpose telephones)
+- Personal computers (Tool type: Personal computers)
+- Phillips head screwdrivers (Tool type: Screwdrivers)
+- Photocopying equipment (Tool type: Photocopiers)
+- Programmable logic controllers PLC (Tool type: Microcontrollers)
+- Protective ear muffs (Tool type: Acoustic ear muffs or defenders)
+- Recording anemometers (Tool type: Anemometers)
+- Rigging equipment (Tool type: Slings)
+- Safety glasses (Tool type: Safety glasses)
+- Safety line evacuation kits (Tool type: Fire escape equipment)
+- Straight screwdrivers (Tool type: Screwdrivers)
+- Tower cranes (Tool type: Tower cranes)
+- Vibration analyis equipment (Tool type: Vibration testers)
+- Voltage testers (Tool type: Voltage or current meters)
+
+# WORK CONTEXT
+- Conflict Situations: Once a month or more but not every week
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Extremely important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Moderately automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Once a year or more but not every month
+- Exposed to Cramped Work Space, Awkward Positions: Once a month or more but not every week
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Once a month or more but not every week
+- Exposed to Hazardous Conditions: Once a week or more but not every day
+- Exposed to Hazardous Equipment: Once a week or more but not every day
+- Exposed to High Places: Once a week or more but not every day
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Once a week or more but not every day
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Once a month or more but not every week
+- Exposed to Very Hot or Cold Temperatures: Once a week or more but not every day
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Once a week or more but not every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Very important
+- Importance of Repeating Same Tasks: Very important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Every day
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Once a week or more but not every day
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Once a week or more but not every day
+- Outdoors, Under Cover: Every day
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Once a year or more but not every month
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Less than half the time
+- Spend Time Keeping or Regaining Balance: Less than half the time
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Less than half the time
+- Spend Time Sitting: About half the time
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Less than half the time
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Once a week or more but not every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Once a week or more but not every day
+- Work Outcomes and Results of Other Workers: High responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Enterprising
+- Secondary Interest: Conventional
+- Tertiary Interest: Realistic
+
+# RELATED OCCUPATIONS
+- Wind Energy Development Managers
+- Wind Turbine Service Technicians
+- Wind Energy Engineers
+- Hydroelectric Production Managers
+- Geothermal Production Managers
+- Biomass Power Plant Managers
+- Energy Engineers, Except Wind and Solar
+- Biofuels Production Managers
+- Solar Energy Systems Engineers
+- Solar Energy Installation Managers
+- Hydroelectric Plant Technicians
+- Power Plant Operators
+- Geothermal Technicians
+- Electrical Engineers
+- Power Distributors and Dispatchers
+- Biomass Plant Technicians
+- Industrial Production Managers
+- Construction Managers
+- Biofuels/Biodiesel Technology and Product Development Managers
+- Stationary Engineers and Boiler Operators

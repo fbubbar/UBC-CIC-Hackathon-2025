@@ -1,0 +1,248 @@
+Job Title: Electromechanical Equipment Assemblers
+O*NET-SOC Code: 51-2023.00
+
+# DESCRIPTION
+Assemble or modify electromechanical equipment or devices, such as servomechanisms, gyros, dynamometers, magnetic drums, tape drives, brakes, control linkage, actuators, and appliances.
+
+# TASKS
+- Inspect, test, and adjust completed units to ensure that units meet specifications, tolerances, and customer order requirements.
+- Position, align, and adjust parts for proper fit and assembly.
+- Assemble parts or units, and position, align, and fasten units to assemblies, subassemblies, or frames, using hand tools and power tools.
+- Connect cables, tubes, and wiring, according to specifications.
+- Measure parts to determine tolerances, using precision measuring instruments such as micrometers, calipers, and verniers.
+- Read blueprints and specifications to determine component parts and assembly sequences of electromechanical units.
+- Attach name plates and mark identifying information on parts.
+- Disassemble units to replace parts or to crate them for shipping.
+- File, lap, and buff parts to fit, using hand and power tools.
+- Clean and lubricate parts and subassemblies, using grease paddles or oilcans.
+- Operate or tend automated assembling equipment, such as robotics and fixed automation equipment.
+- Drill, tap, ream, countersink, and spot-face bolt holes in parts, using drill presses and portable power drills.
+- Operate small cranes to transport or position large parts.
+- Pack or fold insulation between panels.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Production and Processing (Importance: 3.27/5 | Level: 3.01/7)
+- Mechanical (Importance: 3.21/5 | Level: 3.69/7)
+- Computers and Electronics (Importance: 3.08/5 | Level: 3.63/7)
+- English Language (Importance: 2.99/5 | Level: 2.87/7)
+- Engineering and Technology (Importance: 2.87/5 | Level: 3.2/7)
+- Design (Importance: 2.57/5 | Level: 2.55/7)
+- Mathematics (Importance: 2.56/5 | Level: 2.71/7)
+- Public Safety and Security (Importance: 2.38/5 | Level: 2.07/7)
+- Education and Training (Importance: 2.27/5 | Level: 2.49/7)
+- Customer and Personal Service (Importance: 2.15/5 | Level: 1.34/7)
+- Administration and Management (Importance: 2.0/5 | Level: 1.21/7)
+- Telecommunications (Importance: 1.84/5 | Level: 1.47/7)
+- Communications and Media (Importance: 1.7/5 | Level: 1.24/7)
+- Administrative (Importance: 1.69/5 | Level: 0.99/7)
+- Building and Construction (Importance: 1.66/5 | Level: 1.2/7)
+- Chemistry (Importance: 1.64/5 | Level: 1.44/7)
+- Physics (Importance: 1.58/5 | Level: 1.47/7)
+- Transportation (Importance: 1.51/5 | Level: 0.81/7)
+- Foreign Language (Importance: 1.46/5 | Level: 0.72/7)
+- Personnel and Human Resources (Importance: 1.46/5 | Level: 0.7/7)
+- Economics and Accounting (Importance: 1.36/5 | Level: 0.43/7)
+- Sales and Marketing (Importance: 1.36/5 | Level: 0.68/7)
+- Law and Government (Importance: 1.35/5 | Level: 0.71/7)
+- Biology (Importance: 1.32/5 | Level: 0.52/7)
+- Therapy and Counseling (Importance: 1.32/5 | Level: 0.52/7)
+- Psychology (Importance: 1.24/5 | Level: 0.45/7)
+- Fine Arts (Importance: 1.22/5 | Level: 0.32/7)
+- Medicine and Dentistry (Importance: 1.21/5 | Level: 0.38/7)
+- Food Production (Importance: 1.21/5 | Level: 0.39/7)
+- Geography (Importance: 1.18/5 | Level: 0.43/7)
+- History and Archeology (Importance: 1.16/5 | Level: 0.38/7)
+- Philosophy and Theology (Importance: 1.14/5 | Level: 0.4/7)
+- Sociology and Anthropology (Importance: 1.14/5 | Level: 0.44/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Quality Control Analysis (Importance: 3.25/5 | Level: 3.25/7)
+- Operations Monitoring (Importance: 3.25/5 | Level: 3.0/7)
+- Troubleshooting (Importance: 3.0/5 | Level: 3.12/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 2.88/7)
+- Speaking (Importance: 3.0/5 | Level: 2.62/7)
+- Reading Comprehension (Importance: 3.0/5 | Level: 3.0/7)
+- Monitoring (Importance: 2.88/5 | Level: 2.75/7)
+- Time Management (Importance: 2.88/5 | Level: 2.62/7)
+- Judgment and Decision Making (Importance: 2.88/5 | Level: 2.38/7)
+- Active Listening (Importance: 2.88/5 | Level: 2.75/7)
+- Equipment Maintenance (Importance: 2.75/5 | Level: 2.88/7)
+- Repairing (Importance: 2.75/5 | Level: 2.75/7)
+- Operation and Control (Importance: 2.62/5 | Level: 2.25/7)
+- Social Perceptiveness (Importance: 2.5/5 | Level: 1.75/7)
+- Writing (Importance: 2.5/5 | Level: 2.12/7)
+- Complex Problem Solving (Importance: 2.5/5 | Level: 2.12/7)
+- Active Learning (Importance: 2.38/5 | Level: 2.12/7)
+- Coordination (Importance: 2.38/5 | Level: 2.0/7)
+- Equipment Selection (Importance: 2.38/5 | Level: 2.0/7)
+- Systems Evaluation (Importance: 2.12/5 | Level: 1.5/7)
+- Systems Analysis (Importance: 2.12/5 | Level: 1.88/7)
+- Service Orientation (Importance: 2.0/5 | Level: 1.75/7)
+- Mathematics (Importance: 2.0/5 | Level: 1.88/7)
+- Science (Importance: 2.0/5 | Level: 2.0/7)
+- Learning Strategies (Importance: 1.88/5 | Level: 1.62/7)
+- Instructing (Importance: 1.88/5 | Level: 1.5/7)
+- Negotiation (Importance: 1.88/5 | Level: 1.62/7)
+- Persuasion (Importance: 1.88/5 | Level: 1.62/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.0/7)
+- Management of Personnel Resources (Importance: 1.88/5 | Level: 1.62/7)
+- Management of Material Resources (Importance: 1.75/5 | Level: 0.75/7)
+- Operations Analysis (Importance: 1.75/5 | Level: 0.75/7)
+- Management of Financial Resources (Importance: 1.62/5 | Level: 0.62/7)
+- Installation (Importance: 1.62/5 | Level: 1.0/7)
+- Programming (Importance: 1.5/5 | Level: 0.5/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Blueprint display software (Tech skill type: Graphics or photo imaging software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Word (Tech skill type: Word processing software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Timekeeping software (Tech skill type: Time accounting software)
+
+## TOOLS USED
+- Buffing wheels (Tool type: Power buffers)
+- C clamps (Tool type: C clamps)
+- Chain falls (Tool type: Hoists)
+- Chalk line markers (Tool type: Chalk lines)
+- Claw hammers (Tool type: Claw hammer)
+- Combination pliers (Tool type: Combination pliers)
+- Comealongs (Tool type: Pullers)
+- Component insertion machines (Tool type: Miscellaneous assembly machines)
+- Cornice brakes (Tool type: Manual press brake)
+- Digital calipers (Tool type: Calipers)
+- Digital dynamometers (Tool type: Dynamometers)
+- Digital micrometers (Tool type: Micrometers)
+- Digital oscilloscopes (Tool type: Oscilloscopes)
+- Dynamic actuators (Tool type: Electronic actuators)
+- Electric hoists (Tool type: Hoists)
+- Electric rotary wire brushes (Tool type: Wire brushes)
+- Electric sanders (Tool type: Power sanders)
+- Electric soldering irons (Tool type: Soldering iron)
+- Flat hand-held files (Tool type: Flat hand file)
+- Grease paddles (Tool type: Grease guns)
+- Grinding rasps (Tool type: Rasps)
+- Gyroscopes (Tool type: Gyroscopic instruments)
+- Hand reamers (Tool type: Hand reamer)
+- Handheld grinders (Tool type: Power grinders)
+- Hydraulic crimpers (Tool type: Wire lug crimping tool)
+- Inspection microscopes (Tool type: Binocular light compound microscopes)
+- Locking ratchet wrenches (Tool type: Ratchets)
+- Magnetic drill presses (Tool type: Drill press or radial drill)
+- Metal chisels (Tool type: Cold chisels)
+- Metal shears (Tool type: Shears)
+- Metal-cutting bandsaws (Tool type: Power saws)
+- Multifunction digital multimeters (Tool type: Multimeters)
+- Multipurpose wrenches (Tool type: Combination wrenches)
+- Nail pullers (Tool type: Pullers)
+- Optical squares (Tool type: Squares)
+- Personal computers (Tool type: Personal computers)
+- Pipe taps (Tool type: Threading taps)
+- Plumb lines (Tool type: Plumb bobs)
+- Pneumatic riveters (Tool type: Rivet tools)
+- Portable power drills (Tool type: Power drills)
+- Power brakes (Tool type: Hydraulic press brake)
+- Precision levels (Tool type: Levels)
+- Precision rulers (Tool type: Rulers)
+- Punch presses (Tool type: Drill press or radial drill)
+- Sledgehammers (Tool type: Sledge hammer)
+- Socket wrench sets (Tool type: Socket sets)
+- Spot welding tools (Tool type: Spot welding machine)
+- Steel wedges (Tool type: Wedges)
+- Straight screwdrivers (Tool type: Screwdrivers)
+- Temperature testers (Tool type: Temperature cycle chamber)
+- Test lights (Tool type: Circuit tester)
+- Torque drivers (Tool type: Torque wrenches)
+- Vernier calipers (Tool type: Calipers)
+- Vernier height gauges (Tool type: Height gauges)
+- Wire cutting tools (Tool type: Wire cutters)
+- Wire-routing tools (Tool type: Specialty assembly)
+- Workpiece positioning jigs (Tool type: Positioning jig)
+- Workshop bench vises (Tool type: Bench vises)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Fairly serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Not important at all
+- Dealing With Unpleasant, Angry, or Discourteous People: Never
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Once a week or more but not every day
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Once a month or more but not every week
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Never
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Limited freedom
+- Frequency of Decision Making: Never
+- Health and Safety of Other Workers: High responsibility
+- Impact of Decisions on Co-workers or Company Results: Minor results
+- Importance of Being Exact or Accurate: Very important
+- Importance of Repeating Same Tasks: Very important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Continually or almost continually
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Never
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Never
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Electrical and Electronic Equipment Assemblers
+- Engine and Other Machine Assemblers
+- Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+- Calibration Technologists and Technicians
+- Timing Device Assemblers and Adjusters
+- Electric Motor, Power Tool, and Related Repairers
+- Electrical and Electronic Engineering Technologists and Technicians
+- Industrial Machinery Mechanics
+- Robotics Technicians
+- Electrical and Electronics Repairers, Commercial and Industrial Equipment
+- Machinists
+- Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders
+- Millwrights
+- Electrical and Electronics Installers and Repairers, Transportation Equipment
+- Computer Numerically Controlled Tool Operators
+- Team Assemblers
+- Electronics Engineers, Except Computer
+- Control and Valve Installers and Repairers, Except Mechanical Door
+- Computer Numerically Controlled Tool Programmers
+- Model Makers, Metal and Plastic

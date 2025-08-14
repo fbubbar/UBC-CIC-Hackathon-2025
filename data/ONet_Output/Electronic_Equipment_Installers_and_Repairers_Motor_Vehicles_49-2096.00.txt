@@ -1,0 +1,227 @@
+Job Title: Electronic Equipment Installers and Repairers, Motor Vehicles
+O*NET-SOC Code: 49-2096.00
+
+# DESCRIPTION
+Install, diagnose, or repair communications, sound, security, or navigation equipment in motor vehicles.
+
+# TASKS
+- Install equipment and accessories, such as stereos, navigation equipment, communication equipment, and security systems.
+- Inspect and test electrical or electronic systems to locate and diagnose malfunctions, using visual inspections and testing instruments, such as oscilloscopes and voltmeters.
+- Cut openings and drill holes for fixtures and equipment, using electric drills and routers.
+- Splice wires with knives or cutting pliers, and solder connections to fixtures and equipment.
+- Diagnose or repair problems with electronic equipment, such as sound, navigation, communication, and security equipment, in motor vehicles.
+- Run new speaker and electrical cables.
+- Confer with customers to determine the nature of malfunctions.
+- Remove seats, carpeting, and interiors of doors and add sound-absorbing material in empty spaces, reinstalling interior parts.
+- Record results of diagnostic tests.
+- Estimate costs of repairs, based on parts and labor charges.
+- Replace and clean electrical or electronic components.
+- Build fiberglass or wooden enclosures for sound components, and fit them to automobile dimensions.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 4.08/5 | Level: 4.83/7)
+- Computers and Electronics (Importance: 4.03/5 | Level: 4.35/7)
+- Mathematics (Importance: 3.56/5 | Level: 4.18/7)
+- Customer and Personal Service (Importance: 3.56/5 | Level: 3.09/7)
+- English Language (Importance: 3.32/5 | Level: 2.92/7)
+- Engineering and Technology (Importance: 3.21/5 | Level: 3.63/7)
+- Education and Training (Importance: 3.11/5 | Level: 3.35/7)
+- Administration and Management (Importance: 2.88/5 | Level: 2.92/7)
+- Sales and Marketing (Importance: 2.82/5 | Level: 2.41/7)
+- Design (Importance: 2.69/5 | Level: 3.22/7)
+- Public Safety and Security (Importance: 2.54/5 | Level: 2.14/7)
+- Transportation (Importance: 2.42/5 | Level: 1.86/7)
+- Building and Construction (Importance: 2.39/5 | Level: 1.96/7)
+- Administrative (Importance: 2.19/5 | Level: 1.5/7)
+- Communications and Media (Importance: 2.17/5 | Level: 1.43/7)
+- Physics (Importance: 2.14/5 | Level: 1.98/7)
+- Telecommunications (Importance: 2.06/5 | Level: 1.54/7)
+- Personnel and Human Resources (Importance: 2.01/5 | Level: 1.31/7)
+- Chemistry (Importance: 2.01/5 | Level: 1.9/7)
+- Economics and Accounting (Importance: 1.82/5 | Level: 0.92/7)
+- Production and Processing (Importance: 1.72/5 | Level: 1.06/7)
+- Law and Government (Importance: 1.49/5 | Level: 0.8/7)
+- Medicine and Dentistry (Importance: 1.39/5 | Level: 0.39/7)
+- Foreign Language (Importance: 1.36/5 | Level: 0.87/7)
+- Psychology (Importance: 1.34/5 | Level: 0.51/7)
+- Sociology and Anthropology (Importance: 1.31/5 | Level: 0.51/7)
+- Fine Arts (Importance: 1.26/5 | Level: 0.41/7)
+- Philosophy and Theology (Importance: 1.15/5 | Level: 0.55/7)
+- History and Archeology (Importance: 1.14/5 | Level: 0.41/7)
+- Therapy and Counseling (Importance: 1.14/5 | Level: 0.29/7)
+- Geography (Importance: 1.08/5 | Level: 0.1/7)
+- Biology (Importance: 1.01/5 | Level: 0.02/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Troubleshooting (Importance: 3.62/5 | Level: 3.62/7)
+- Repairing (Importance: 3.62/5 | Level: 3.62/7)
+- Critical Thinking (Importance: 3.5/5 | Level: 3.12/7)
+- Operations Monitoring (Importance: 3.5/5 | Level: 3.0/7)
+- Active Listening (Importance: 3.38/5 | Level: 3.0/7)
+- Equipment Maintenance (Importance: 3.25/5 | Level: 2.88/7)
+- Installation (Importance: 3.25/5 | Level: 3.0/7)
+- Time Management (Importance: 3.12/5 | Level: 3.0/7)
+- Complex Problem Solving (Importance: 3.12/5 | Level: 3.0/7)
+- Reading Comprehension (Importance: 3.12/5 | Level: 3.12/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Equipment Selection (Importance: 3.0/5 | Level: 2.75/7)
+- Speaking (Importance: 3.0/5 | Level: 3.0/7)
+- Service Orientation (Importance: 3.0/5 | Level: 2.88/7)
+- Quality Control Analysis (Importance: 3.0/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.88/7)
+- Operation and Control (Importance: 2.88/5 | Level: 3.0/7)
+- Writing (Importance: 2.88/5 | Level: 2.88/7)
+- Monitoring (Importance: 2.88/5 | Level: 2.88/7)
+- Judgment and Decision Making (Importance: 2.88/5 | Level: 2.88/7)
+- Active Learning (Importance: 2.75/5 | Level: 2.38/7)
+- Persuasion (Importance: 2.75/5 | Level: 2.38/7)
+- Negotiation (Importance: 2.75/5 | Level: 2.5/7)
+- Instructing (Importance: 2.62/5 | Level: 2.38/7)
+- Learning Strategies (Importance: 2.5/5 | Level: 2.25/7)
+- Systems Analysis (Importance: 2.38/5 | Level: 2.25/7)
+- Mathematics (Importance: 2.25/5 | Level: 2.25/7)
+- Systems Evaluation (Importance: 2.25/5 | Level: 2.38/7)
+- Technology Design (Importance: 2.12/5 | Level: 1.38/7)
+- Management of Personnel Resources (Importance: 2.12/5 | Level: 2.12/7)
+- Management of Financial Resources (Importance: 2.12/5 | Level: 1.25/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.12/7)
+- Science (Importance: 1.88/5 | Level: 1.5/7)
+- Programming (Importance: 1.88/5 | Level: 1.12/7)
+- Operations Analysis (Importance: 1.88/5 | Level: 1.75/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Harris Tech X.over Pro (Tech skill type: Analytical or scientific software)
+- Harris Technologies BassBox (Tech skill type: Analytical or scientific software)
+- Installalogy Access Client (Tech skill type: Data base user interface and query software)
+- LinearTeam WinISD (Tech skill type: Analytical or scientific software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Internet Explorer (Tech skill type: Internet browser software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- MobileToys MAIDXL (Tech skill type: Data base user interface and query software)
+- True Audio WinSpeakerz (Tech skill type: Analytical or scientific software)
+- WHE Term-PAK (Tech skill type: Computer aided design CAD software)
+
+## TOOLS USED
+- Adjustable widemouth pliers (Tool type: Adjustable widemouth pliers)
+- Carpet knives (Tool type: Razor knives)
+- Circuit testers (Tool type: Circuit tester)
+- Clip and staple pullers (Tool type: Pullers)
+- Desktop computers (Tool type: Desktop computers)
+- Door panel fastener removal tools (Tool type: Trim or molding tools)
+- Flat blade screwdrivers (Tool type: Screwdrivers)
+- Glue guns (Tool type: Glue guns)
+- Hammers (Tool type: Hammers)
+- Heat guns (Tool type: Heat guns)
+- Multimeters (Tool type: Multimeters)
+- Notebook computers (Tool type: Notebook computers)
+- Offset screwdrivers (Tool type: Offset screw driver)
+- Oscilloscopes (Tool type: Oscilloscopes)
+- Panel tools (Tool type: Trim or molding tools)
+- Phillips head screwdrivers (Tool type: Screwdrivers)
+- Polarity testers (Tool type: Multimeters)
+- Power drills (Tool type: Power drills)
+- Radio removal tools (Tool type: Removal jig)
+- Rasps (Tool type: Rasps)
+- Ratchets (Tool type: Ratchets)
+- Socket wrench sets (Tool type: Socket sets)
+- Socket wrenches (Tool type: Sockets)
+- Soldering irons (Tool type: Soldering iron)
+- Spreader spatulas (Tool type: Spatulas)
+- Torx drivers (Tool type: Torx keys)
+- Trim removal tools (Tool type: Trim or molding tools)
+- Tubing cutters (Tool type: Pipe or tube cutter)
+- Tucking tools (Tool type: Trim or molding tools)
+- Utility knives (Tool type: Utility knives)
+- Window handle removal tools (Tool type: Pullers)
+- Wire crimpers (Tool type: Wire lug crimping tool)
+- Wire cutters (Tool type: Wire cutters)
+- Wire strippers (Tool type: Stripping tools)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Fairly serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a month or more but not every week
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: Limited freedom
+- E-Mail: Once a week or more but not every day
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Every day
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Once a year or more but not every month
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Every day
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Once a year or more but not every month
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Moderate responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Very important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Every day
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Every day
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Once a year or more but not every month
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Slightly close (e.g., shared office)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: More than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: About half the time
+- Spend Time Making Repetitive Motions: Continually or almost continually
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: More than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: More than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: No responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Never
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Electrical and Electronics Installers and Repairers, Transportation Equipment
+- Electric Motor, Power Tool, and Related Repairers
+- Automotive Service Technicians and Mechanics
+- Electrical and Electronics Repairers, Commercial and Industrial Equipment
+- Avionics Technicians
+- Radio, Cellular, and Tower Equipment Installers and Repairers
+- Audiovisual Equipment Installers and Repairers
+- Security and Fire Alarm Systems Installers
+- Lighting Technicians
+- Electromechanical Equipment Assemblers
+- Electrical and Electronic Engineering Technologists and Technicians
+- Telecommunications Equipment Installers and Repairers, Except Line Installers
+- Calibration Technologists and Technicians
+- Control and Valve Installers and Repairers, Except Mechanical Door
+- Engine and Other Machine Assemblers
+- Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+- Electrical and Electronic Equipment Assemblers
+- Automotive Engineering Technicians
+- Computer, Automated Teller, and Office Machine Repairers
+- Electronics Engineers, Except Computer

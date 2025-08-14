@@ -1,0 +1,272 @@
+Job Title: Cooks, Institution and Cafeteria
+O*NET-SOC Code: 35-2012.00
+
+# DESCRIPTION
+Prepare and cook large quantities of food for institutions, such as schools, hospitals, or cafeterias.
+
+# TASKS
+- Monitor and record food temperatures to ensure food safety.
+- Cook foodstuffs according to menus, special dietary or nutritional restrictions, or numbers of portions to be served.
+- Rotate and store food supplies.
+- Wash pots, pans, dishes, utensils, or other cooking equipment.
+- Apportion and serve food to facility residents, employees, or patrons.
+- Clean and inspect galley equipment, kitchen appliances, and work areas to ensure cleanliness and functional operation.
+- Clean, cut, and cook meat, fish, or poultry.
+- Direct activities of one or more workers who assist in preparing and serving meals.
+- Train new employees.
+- Take inventory of supplies and equipment.
+- Requisition food supplies, kitchen equipment, and appliances, based on estimates of future needs.
+- Bake breads, rolls, or other pastries.
+- Monitor use of government food commodities to ensure that proper procedures are followed.
+- Plan menus that are varied, nutritionally balanced, and appetizing, taking advantage of foods in season and local availability.
+- Monitor menus and spending to ensure that meals are prepared economically.
+- Compile and maintain records of food use and expenditures.
+- Determine meal prices, based on calculations of ingredient prices.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- English Language (Importance: 3.6/5 | Level: 2.97/7)
+- Food Production (Importance: 3.58/5 | Level: 3.69/7)
+- Customer and Personal Service (Importance: 3.56/5 | Level: 3.72/7)
+- Mathematics (Importance: 3.54/5 | Level: 3.01/7)
+- Administration and Management (Importance: 3.34/5 | Level: 3.27/7)
+- Production and Processing (Importance: 3.06/5 | Level: 2.98/7)
+- Public Safety and Security (Importance: 2.99/5 | Level: 2.74/7)
+- Education and Training (Importance: 2.88/5 | Level: 3.21/7)
+- Computers and Electronics (Importance: 2.68/5 | Level: 2.37/7)
+- Personnel and Human Resources (Importance: 2.57/5 | Level: 2.26/7)
+- Administrative (Importance: 2.56/5 | Level: 2.23/7)
+- Law and Government (Importance: 2.33/5 | Level: 1.85/7)
+- Psychology (Importance: 2.2/5 | Level: 2.24/7)
+- Chemistry (Importance: 2.12/5 | Level: 2.39/7)
+- Economics and Accounting (Importance: 2.05/5 | Level: 1.32/7)
+- Sales and Marketing (Importance: 2.02/5 | Level: 1.61/7)
+- Sociology and Anthropology (Importance: 2.0/5 | Level: 1.42/7)
+- Therapy and Counseling (Importance: 1.95/5 | Level: 1.47/7)
+- Foreign Language (Importance: 1.84/5 | Level: 1.15/7)
+- Physics (Importance: 1.83/5 | Level: 1.25/7)
+- Engineering and Technology (Importance: 1.74/5 | Level: 1.36/7)
+- Telecommunications (Importance: 1.74/5 | Level: 0.84/7)
+- Communications and Media (Importance: 1.73/5 | Level: 1.4/7)
+- Philosophy and Theology (Importance: 1.72/5 | Level: 1.6/7)
+- Mechanical (Importance: 1.71/5 | Level: 1.27/7)
+- Design (Importance: 1.69/5 | Level: 1.05/7)
+- Medicine and Dentistry (Importance: 1.69/5 | Level: 0.85/7)
+- Biology (Importance: 1.53/5 | Level: 1.03/7)
+- Transportation (Importance: 1.37/5 | Level: 0.82/7)
+- Geography (Importance: 1.35/5 | Level: 0.73/7)
+- Building and Construction (Importance: 1.28/5 | Level: 0.55/7)
+- History and Archeology (Importance: 1.27/5 | Level: 0.46/7)
+- Fine Arts (Importance: 1.1/5 | Level: 0.2/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Monitoring (Importance: 3.12/5 | Level: 3.0/7)
+- Speaking (Importance: 3.12/5 | Level: 2.88/7)
+- Service Orientation (Importance: 3.12/5 | Level: 3.0/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 2.88/7)
+- Quality Control Analysis (Importance: 3.12/5 | Level: 2.5/7)
+- Operations Monitoring (Importance: 3.12/5 | Level: 2.38/7)
+- Complex Problem Solving (Importance: 3.0/5 | Level: 2.88/7)
+- Coordination (Importance: 3.0/5 | Level: 3.12/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 2.88/7)
+- Time Management (Importance: 3.0/5 | Level: 3.0/7)
+- Management of Personnel Resources (Importance: 3.0/5 | Level: 3.0/7)
+- Active Listening (Importance: 3.0/5 | Level: 3.0/7)
+- Active Learning (Importance: 2.88/5 | Level: 2.88/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.88/7)
+- Reading Comprehension (Importance: 2.88/5 | Level: 2.88/7)
+- Operation and Control (Importance: 2.88/5 | Level: 2.0/7)
+- Mathematics (Importance: 2.88/5 | Level: 2.75/7)
+- Writing (Importance: 2.75/5 | Level: 2.62/7)
+- Learning Strategies (Importance: 2.75/5 | Level: 2.75/7)
+- Instructing (Importance: 2.75/5 | Level: 2.75/7)
+- Management of Material Resources (Importance: 2.62/5 | Level: 2.62/7)
+- Persuasion (Importance: 2.62/5 | Level: 2.5/7)
+- Systems Analysis (Importance: 2.5/5 | Level: 2.0/7)
+- Negotiation (Importance: 2.5/5 | Level: 2.0/7)
+- Systems Evaluation (Importance: 2.38/5 | Level: 2.12/7)
+- Management of Financial Resources (Importance: 2.25/5 | Level: 1.88/7)
+- Troubleshooting (Importance: 2.0/5 | Level: 1.12/7)
+- Operations Analysis (Importance: 1.88/5 | Level: 1.62/7)
+- Technology Design (Importance: 1.62/5 | Level: 0.75/7)
+- Equipment Selection (Importance: 1.5/5 | Level: 0.62/7)
+- Equipment Maintenance (Importance: 1.25/5 | Level: 0.25/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- GNOME Gnutrition (Tech skill type: Analytical or scientific software)
+- IBM Lotus 1-2-3 (Tech skill type: Spreadsheet software)
+- Meals Plus (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Word (Tech skill type: Word processing software)
+- PCS Revenue Control Systems FASTRAK School Meal Software (Tech skill type: Point of sale POS software)
+- Point of sale POS software (Tech skill type: Point of sale POS software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Apple corers (Tool type: Domestic apple corer)
+- Blast chillers (Tool type: Blast freezers)
+- Blenders (Tool type: Commercial use blenders)
+- Bone saws (Tool type: Commercial use cutlery)
+- Box graters (Tool type: Commercial use graters)
+- Braziers (Tool type: Commercial use barbeque ovens)
+- Bread slicers (Tool type: Commercial use food slicers)
+- Broilers (Tool type: Commercial use broilers)
+- Cappuccino makers (Tool type: Cappuccino or espresso machines)
+- Carbonated beverage dispensers (Tool type: Carbonated beverage dispenser)
+- Cash registers (Tool type: Cash registers)
+- Chefs' knives (Tool type: Commercial use cutlery)
+- Commercial coffee grinders (Tool type: Commercial use coffee grinders)
+- Commercial coffeemakers (Tool type: Commercial use coffee or iced tea makers)
+- Commercial dishwashers (Tool type: Commercial use dishwashers)
+- Commercial ice cream machines (Tool type: Ice cream machines)
+- Commercial kitchen convection ovens (Tool type: Commercial use convection ovens)
+- Commercial kitchen steamers (Tool type: Commercial use steamers)
+- Commercial microwave ovens (Tool type: Commercial use microwave ovens)
+- Commercial stand mixers (Tool type: Commercial use mixers)
+- Commercial use combination ovens (Tool type: Commercial use combination oven)
+- Convection ovens (Tool type: Commercial use convection ovens)
+- Conveyor ovens (Tool type: Commercial use ovens)
+- Cream whippers (Tool type: Domestic whipped cream maker)
+- Desktop computers (Tool type: Desktop computers)
+- Disposal units (Tool type: Domestic garbage disposals)
+- Double boilers (Tool type: Domestic double boilers)
+- Electric deep-fat fryers (Tool type: Commercial use deep fryers)
+- Electric stoves (Tool type: Commercial use ranges)
+- Fire suppression blankets (Tool type: Fire blankets)
+- Food dicers (Tool type: Commercial use food choppers or cubers or dicers)
+- Food processors (Tool type: Commercial use food processors)
+- Food shredders (Tool type: Commercial use graters)
+- Food slicers (Tool type: Commercial use food slicers)
+- Garbage compactors (Tool type: Domestic trash compactors)
+- Gas stoves (Tool type: Commercial use ranges)
+- Gas-powered deep-fat fryers (Tool type: Commercial use deep fryers)
+- Griddles (Tool type: Commercial use griddles)
+- Grills (Tool type: Commercial use grills)
+- Hot dog cookers (Tool type: Commercial use hot dog grills)
+- Ice shaving or crushing equipment (Tool type: Ice shaver machines or accessories)
+- Ice-making machines (Tool type: Ice dispensers)
+- Infrared heat lamps (Tool type: Commercial use heat lamps)
+- Juice dispensers (Tool type: Non carbonated beverage dispenser)
+- Juice extractors (Tool type: Commercial use juicers)
+- Kitchen fire extinguishers (Tool type: Fire extinguishers)
+- Kitchen shears (Tool type: Commercial use cutlery)
+- Kitchen tongs (Tool type: Domestic kitchen tongs)
+- Knife sharpeners (Tool type: Domestic knife sharpeners)
+- Mandolines (Tool type: Domestic mandolin)
+- Meat grinders (Tool type: Commercial use food grinders)
+- Meat thermometers (Tool type: Domestic kitchen or food thermometers)
+- Mixers (Tool type: Commercial use mixers)
+- Oyster knives (Tool type: Commercial use cutlery)
+- Paring knives (Tool type: Commercial use cutlery)
+- Parisian cutters (Tool type: Domestic garnishing tools)
+- Pasta machines (Tool type: Commercial use pasta machines)
+- Personal computers (Tool type: Personal computers)
+- Pizza ovens (Tool type: Commercial use pizza ovens)
+- Point of sale POS computer terminals (Tool type: Point of sale POS terminal)
+- Portion scales (Tool type: Commercial use scales)
+- Pressurized steam cookers (Tool type: Commercial use high pressure steamers)
+- Refrigerator thermometers (Tool type: Domestic kitchen or food thermometers)
+- Rice cookers (Tool type: Commercial use rice cookers)
+- Rotisserie ovens (Tool type: Commercial use rotisseries)
+- Salamanders (Tool type: Commercial use broilers)
+- Serrated blade knives (Tool type: Commercial use cutlery)
+- Sieves (Tool type: Domestic strainers or colanders)
+- Sifters (Tool type: Domestic sifter)
+- Steam kettles (Tool type: Commercial use steamers)
+- Steam tables (Tool type: Commercial use food warmers)
+- Strainers (Tool type: Domestic strainers or colanders)
+- Tilt skillets (Tool type: Domestic electric skillets)
+- Toasters (Tool type: Commercial use toasters)
+- Touch screen monitors (Tool type: Touch screen monitors)
+- Waffle makers (Tool type: Commercial use waffle irons)
+- Woks (Tool type: Commercial use woks)
+
+# WORK CONTEXT
+- Conflict Situations: Once a week or more but not every day
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a week or more but not every day
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Never
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Every day
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Very important
+- Importance of Repeating Same Tasks: Fairly important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Not at all competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Continually or almost continually
+- Spend Time Sitting: Never
+- Spend Time Standing: Continually or almost continually
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: More than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Never
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Cooks, Restaurant
+- Cooks, Short Order
+- Food Preparation Workers
+- Cooks, Private Household
+- Chefs and Head Cooks
+- Cooks, Fast Food
+- Food Service Managers
+- Bakers
+- Fast Food and Counter Workers
+- First-Line Supervisors of Food Preparation and Serving Workers
+- Food Servers, Nonrestaurant
+- Butchers and Meat Cutters
+- Dining Room and Cafeteria Attendants and Bartender Helpers
+- Food Cooking Machine Operators and Tenders
+- Dietetic Technicians
+- Food Batchmakers
+- Dishwashers
+- Waiters and Waitresses
+- Baristas
+- Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders

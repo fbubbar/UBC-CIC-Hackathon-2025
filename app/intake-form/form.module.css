@@ -1,0 +1,168 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+.buttonContainer {
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+  position: absolute;
+  bottom: 5%;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.button {
+  width: 10rem;
+  height: 3rem;
+}
+
+.formSection {
+  display: flex;
+  width: 40%;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.inputRow {
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.input {
+    height: 3rem;
+    width: 100%;
+    background-color: transparent;
+    padding: 0 1rem;
+    color: white;
+    border-radius: 8px;
+    border: 1px solid transparent; /* Needed for border-image to work */
+    background-origin: border-box;
+    background-clip: padding-box, border-box;
+    background-image: 
+      linear-gradient(#001B3D, #001B3D), /* inner background */
+      linear-gradient(
+        145deg,
+        rgba(255, 255, 255, 0.6) 0%,
+        rgba(255, 255, 255, 0.1) 40%,
+        rgba(255, 255, 255, 0.3) 100%
+      ); /* border gradient */
+  }
+/* Cross-browser compatibility for placeholder color */
+.input::placeholder {
+  color: rgb(209 213 219);
+}
+
+/* WebKit browsers (Chrome, Safari, newer Edge) */
+.input::-webkit-input-placeholder {
+  color: rgba(209, 213, 219, 0.467);
+}
+
+/* Firefox 4-18 */
+.input:-moz-placeholder {
+  color: rgba(209, 213, 219, 0.488);
+}
+
+/* Firefox 19+ */
+.input::-moz-placeholder {
+  color: rgba(209, 213, 219, 0.515);
+}
+
+/* IE 10-11 */
+.input:-ms-input-placeholder {
+  color: rgba(209, 213, 219, 0.476);
+}
+
+/* Edge 12-18 */
+.input::-ms-input-placeholder {
+  color: rgba(209, 213, 219, 0.43);
+}
+
+.fileInput {
+  width: 100%;
+  height: 3rem;
+  padding: 0.75rem;
+  background-color: transparent;
+  color: white;
+  border-radius: 8px;
+  border: 1px solid transparent;
+  background-origin: border-box;
+  background-clip: padding-box, border-box;
+  background-image: 
+    linear-gradient(#001B3D, #001B3D),
+    linear-gradient(
+      145deg,
+      rgba(255, 255, 255, 0.6) 0%,
+      rgba(255, 255, 255, 0.1) 40%,
+      rgba(255, 255, 255, 0.3) 100%
+    );
+  cursor: pointer;
+}
+
+.fileInput::-webkit-file-upload-button {
+  background-color: rgba(255, 255, 255, 0.1);
+  color: white;
+  border: none;
+  border-radius: 6px;
+  padding: 0.5rem 1rem;
+  margin-right: 1rem;
+  cursor: pointer;
+}
+
+.fileInput::file-selector-button {
+  background-color: rgba(255, 255, 255, 0.1);
+  color: white;
+  border: none;
+  border-radius: 6px;
+  padding: 0.5rem 1rem;
+  margin-right: 1rem;
+  cursor: pointer;
+}
+
+.questionaireQ {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  gap: 2rem;
+}
+
+.question {
+  color: white;
+  font-size: 1.25rem;
+  font-weight: 500;
+  text-align: center;
+  max-width: 600px;
+  line-height: 1.6;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 1.5rem;
+}
+
+.questionProgress {
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 0.875rem;
+  margin-bottom: 1rem;
+}
+
+.disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}

@@ -1,0 +1,209 @@
+Job Title: Telephone Operators
+O*NET-SOC Code: 43-2021.00
+
+# DESCRIPTION
+Provide information by accessing alphabetical, geographical, or other directories. Assist customers with special billing requests, such as charges to a third party and credits or refunds for incorrectly dialed numbers or bad connections. May handle emergency calls and assist children or people with physical disabilities to make telephone calls.
+
+# TASKS
+- Observe signal lights on switchboards, and dial or press buttons to make connections.
+- Operate telephone switchboards and systems to advance and complete connections, including those for local, long distance, pay telephone, mobile, person-to-person, and emergency calls.
+- Listen to customer requests, referring to alphabetical or geographical directories to answer questions and provide telephone information.
+- Update directory information.
+- Suggest and check alternate spellings, locations, or listing formats to customers lacking details or complete information.
+- Perform clerical duties such as typing, proofreading, and sorting mail.
+- Offer special assistance to persons such as those who are unable to dial or who are in emergency situations.
+- Operate paging systems or other systems of bells or buzzers to notify recipients of incoming calls.
+- Monitor automated systems for placing collect calls and intervene for a callers needing assistance.
+- Interrupt busy lines if an emergency warrants.
+- Provide assistance for customers with special billing requests.
+- Provide relay service for users who are deaf or hard of hearing.
+- Keep records of calls placed and received, and of related toll charges.
+- Promote company products, services, and savings plans when appropriate.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.24/5 | Level: 5.46/7)
+- Telecommunications (Importance: 3.75/5 | Level: 2.96/7)
+- Administrative (Importance: 3.59/5 | Level: 3.84/7)
+- English Language (Importance: 3.2/5 | Level: 2.76/7)
+- Computers and Electronics (Importance: 3.11/5 | Level: 3.42/7)
+- Administration and Management (Importance: 2.59/5 | Level: 2.45/7)
+- Public Safety and Security (Importance: 2.43/5 | Level: 2.27/7)
+- Education and Training (Importance: 2.31/5 | Level: 2.44/7)
+- Personnel and Human Resources (Importance: 2.24/5 | Level: 2.4/7)
+- Communications and Media (Importance: 2.13/5 | Level: 1.77/7)
+- Sales and Marketing (Importance: 1.79/5 | Level: 0.88/7)
+- Production and Processing (Importance: 1.79/5 | Level: 0.56/7)
+- Foreign Language (Importance: 1.72/5 | Level: 1.21/7)
+- Mathematics (Importance: 1.7/5 | Level: 1.47/7)
+- Psychology (Importance: 1.65/5 | Level: 0.92/7)
+- Medicine and Dentistry (Importance: 1.61/5 | Level: 1.12/7)
+- Economics and Accounting (Importance: 1.6/5 | Level: 0.65/7)
+- Law and Government (Importance: 1.59/5 | Level: 0.65/7)
+- Geography (Importance: 1.56/5 | Level: 0.77/7)
+- Sociology and Anthropology (Importance: 1.54/5 | Level: 0.92/7)
+- Philosophy and Theology (Importance: 1.48/5 | Level: 1.31/7)
+- Engineering and Technology (Importance: 1.44/5 | Level: 0.91/7)
+- History and Archeology (Importance: 1.33/5 | Level: 0.4/7)
+- Transportation (Importance: 1.3/5 | Level: 0.4/7)
+- Food Production (Importance: 1.27/5 | Level: 0.33/7)
+- Design (Importance: 1.23/5 | Level: 0.39/7)
+- Chemistry (Importance: 1.22/5 | Level: 0.43/7)
+- Fine Arts (Importance: 1.18/5 | Level: 0.23/7)
+- Mechanical (Importance: 1.17/5 | Level: 0.28/7)
+- Physics (Importance: 1.16/5 | Level: 0.22/7)
+- Therapy and Counseling (Importance: 1.16/5 | Level: 0.36/7)
+- Biology (Importance: 1.11/5 | Level: 0.28/7)
+- Building and Construction (Importance: 1.1/5 | Level: 0.25/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Speaking (Importance: 4.0/5 | Level: 3.38/7)
+- Active Listening (Importance: 4.0/5 | Level: 3.62/7)
+- Service Orientation (Importance: 3.5/5 | Level: 3.12/7)
+- Social Perceptiveness (Importance: 3.12/5 | Level: 2.88/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 2.88/7)
+- Reading Comprehension (Importance: 3.0/5 | Level: 2.88/7)
+- Monitoring (Importance: 2.75/5 | Level: 2.25/7)
+- Complex Problem Solving (Importance: 2.62/5 | Level: 2.5/7)
+- Coordination (Importance: 2.5/5 | Level: 2.25/7)
+- Time Management (Importance: 2.5/5 | Level: 2.0/7)
+- Active Learning (Importance: 2.25/5 | Level: 2.0/7)
+- Writing (Importance: 2.25/5 | Level: 2.25/7)
+- Judgment and Decision Making (Importance: 2.25/5 | Level: 1.88/7)
+- Management of Personnel Resources (Importance: 2.0/5 | Level: 1.75/7)
+- Learning Strategies (Importance: 2.0/5 | Level: 2.0/7)
+- Systems Analysis (Importance: 2.0/5 | Level: 1.62/7)
+- Persuasion (Importance: 2.0/5 | Level: 1.75/7)
+- Instructing (Importance: 2.0/5 | Level: 1.88/7)
+- Mathematics (Importance: 1.88/5 | Level: 0.88/7)
+- Systems Evaluation (Importance: 1.88/5 | Level: 1.12/7)
+- Negotiation (Importance: 1.88/5 | Level: 1.75/7)
+- Operations Monitoring (Importance: 1.75/5 | Level: 0.88/7)
+- Management of Material Resources (Importance: 1.38/5 | Level: 0.38/7)
+- Programming (Importance: 1.38/5 | Level: 0.38/7)
+- Management of Financial Resources (Importance: 1.38/5 | Level: 0.38/7)
+- Technology Design (Importance: 1.25/5 | Level: 0.25/7)
+- Operation and Control (Importance: 1.25/5 | Level: 0.25/7)
+- Quality Control Analysis (Importance: 1.12/5 | Level: 0.12/7)
+- Operations Analysis (Importance: 1.12/5 | Level: 0.12/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Computer aided dispatch software (Tech skill type: Helpdesk or call center software)
+- Handheld computer device software (Tech skill type: Operating system software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Operating system software (Tech skill type: Operating system software)
+- Video conference software (Tech skill type: Video conferencing software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- 10-key calculators (Tool type: Desktop calculator)
+- Alarm system monitors (Tool type: Alarm systems)
+- Computer laser printers (Tool type: Laser printers)
+- Copy machines (Tool type: Photocopiers)
+- Electric typewriters (Tool type: Typewriters)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Mobile radios (Tool type: Two way radios)
+- Multiline telephone systems (Tool type: Special purpose telephones)
+- Paging systems (Tool type: Paging controllers)
+- Personal computers (Tool type: Personal computers)
+- Premise branch exchange PBX equipment (Tool type: Premise branch exchange PBX systems)
+- Secure voice equipment (Tool type: Special purpose telephones)
+- Telephone headsets (Tool type: Phone headsets)
+- Telephone switchboards (Tool type: Premise branch exchange PBX systems)
+- Voice over internet protocol VoIP systems (Tool type: Digital telephones)
+
+# WORK CONTEXT
+- Conflict Situations: Once a month or more but not every week
+- Consequence of Error: Fairly serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Extremely important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Every day
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Slightly automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Once a week or more but not every day
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Very important
+- Importance of Repeating Same Tasks: Very important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Never
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Continually or almost continually
+- Spend Time Sitting: Continually or almost continually
+- Spend Time Standing: Never
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Never
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Never
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Moderate responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Conventional
+- Secondary Interest: Social
+- Tertiary Interest: Enterprising
+
+# RELATED OCCUPATIONS
+- Switchboard Operators, Including Answering Service
+- Telemarketers
+- Customer Service Representatives
+- Receptionists and Information Clerks
+- Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel
+- Public Safety Telecommunicators
+- Telecommunications Equipment Installers and Repairers, Except Line Installers
+- Dispatchers, Except Police, Fire, and Ambulance
+- Office Clerks, General
+- Reservation and Transportation Ticket Agents and Travel Clerks
+- Counter and Rental Clerks
+- Travel Agents
+- Data Entry Keyers
+- Brokerage Clerks
+- Eligibility Interviewers, Government Programs
+- Insurance Claims and Policy Processing Clerks
+- Postal Service Mail Carriers
+- Postal Service Clerks
+- Mail Clerks and Mail Machine Operators, Except Postal Service
+- Cashiers

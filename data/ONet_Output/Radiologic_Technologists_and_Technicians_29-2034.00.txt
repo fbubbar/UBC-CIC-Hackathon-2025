@@ -1,0 +1,296 @@
+Job Title: Radiologic Technologists and Technicians
+O*NET-SOC Code: 29-2034.00
+
+# DESCRIPTION
+Take x-rays and CAT scans or administer nonradioactive materials into patient's bloodstream for diagnostic or research purposes. Includes radiologic technologists and technicians who specialize in other scanning modalities.
+
+# TASKS
+- Position imaging equipment and adjust controls to set exposure time and distance, according to specification of examination.
+- Position patient on examining table and set up and adjust equipment to obtain optimum view of specific body area as requested by physician.
+- Monitor patients' conditions and reactions, reporting abnormal signs to physician.
+- Explain procedures and observe patients to ensure safety and comfort during scan.
+- Use radiation safety measures and protection devices to comply with government regulations and to ensure safety of patients and staff.
+- Review and evaluate developed x-rays, video tape, or computer-generated information to determine if images are satisfactory for diagnostic purposes.
+- Determine patients' x-ray needs by reading requests or instructions from physicians.
+- Prepare contrast material, radiopharmaceuticals, or anesthetic or antispasmodic drugs under the direction of a radiologist.
+- Process exposed radiographs using film processors or computer generated methods.
+- Operate mobile x-ray equipment in operating room, emergency room, or at patient's bedside.
+- Make exposures necessary for the requested procedures, rejecting and repeating work that does not meet established standards.
+- Operate or oversee operation of radiologic or magnetic imaging equipment to produce images of the body for diagnostic purposes.
+- Operate digital picture archiving communications systems.
+- Perform procedures, such as linear tomography, mammography, sonograms, joint and cyst aspirations, routine contrast studies, routine fluoroscopy, or examinations of the head, trunk, or extremities under supervision of physician.
+- Provide assistance to physicians or other technologists in the performance of more complex procedures.
+- Record, process, and maintain patient data or treatment records and prepare reports.
+- Take thorough and accurate patient medical histories.
+- Key commands and data into computer to document and specify scan sequences, adjust transmitters and receivers, or photograph certain images.
+- Operate fluoroscope to aid physician to view and guide wire or catheter through blood vessels to area of interest.
+- Set up examination rooms, ensuring that all necessary equipment is ready.
+- Transport patients to or from exam rooms.
+- Assist with on-the-job training of new employees or students or provide input to supervisors regarding training performance.
+- Maintain a current file of examination protocols.
+- Perform general administrative tasks, such as answering phones, scheduling patient appointments, or pulling and filing films.
+- Complete quality control activities, monitor equipment operation, and report malfunctioning equipment to supervisor.
+- Assign duties to radiologic staff to maintain patient flows and achieve production goals.
+- Provide assistance in dressing or changing seriously ill or injured patients or patients with disabilities.
+- Coordinate work with clerical personnel or other technologists and technicians.
+- Perform supervisory duties, such as developing departmental operating budget, coordinating purchases of supplies or equipment, or preparing work schedules.
+- Provide students or other technicians and technologists with suggestions of additional views, alternate positioning, or improved techniques to ensure the images produced are of the highest quality.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Medicine and Dentistry (Importance: 4.27/5 | Level: 4.21/7)
+- Customer and Personal Service (Importance: 4.17/5 | Level: 4.95/7)
+- English Language (Importance: 4.14/5 | Level: 3.69/7)
+- Computers and Electronics (Importance: 3.88/5 | Level: 4.09/7)
+- Administrative (Importance: 3.5/5 | Level: 3.49/7)
+- Education and Training (Importance: 3.4/5 | Level: 3.55/7)
+- Public Safety and Security (Importance: 3.31/5 | Level: 3.27/7)
+- Psychology (Importance: 3.3/5 | Level: 4.0/7)
+- Physics (Importance: 3.18/5 | Level: 3.02/7)
+- Biology (Importance: 3.1/5 | Level: 3.3/7)
+- Mathematics (Importance: 2.91/5 | Level: 3.15/7)
+- Administration and Management (Importance: 2.88/5 | Level: 2.39/7)
+- Telecommunications (Importance: 2.75/5 | Level: 1.87/7)
+- Engineering and Technology (Importance: 2.63/5 | Level: 2.41/7)
+- Communications and Media (Importance: 2.35/5 | Level: 2.21/7)
+- Sociology and Anthropology (Importance: 2.26/5 | Level: 1.99/7)
+- Personnel and Human Resources (Importance: 2.22/5 | Level: 2.01/7)
+- Therapy and Counseling (Importance: 2.19/5 | Level: 1.93/7)
+- Chemistry (Importance: 2.16/5 | Level: 2.74/7)
+- Mechanical (Importance: 2.15/5 | Level: 1.66/7)
+- Production and Processing (Importance: 2.09/5 | Level: 1.88/7)
+- Transportation (Importance: 2.07/5 | Level: 1.58/7)
+- Law and Government (Importance: 2.02/5 | Level: 1.8/7)
+- Foreign Language (Importance: 1.74/5 | Level: 1.09/7)
+- Economics and Accounting (Importance: 1.74/5 | Level: 1.03/7)
+- Philosophy and Theology (Importance: 1.66/5 | Level: 1.7/7)
+- Sales and Marketing (Importance: 1.47/5 | Level: 0.82/7)
+- Design (Importance: 1.45/5 | Level: 0.88/7)
+- Geography (Importance: 1.36/5 | Level: 0.9/7)
+- History and Archeology (Importance: 1.32/5 | Level: 0.71/7)
+- Building and Construction (Importance: 1.15/5 | Level: 0.25/7)
+- Fine Arts (Importance: 1.02/5 | Level: 0.02/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Active Listening (Importance: 3.75/5 | Level: 3.75/7)
+- Social Perceptiveness (Importance: 3.62/5 | Level: 3.12/7)
+- Speaking (Importance: 3.5/5 | Level: 3.38/7)
+- Service Orientation (Importance: 3.5/5 | Level: 3.25/7)
+- Reading Comprehension (Importance: 3.5/5 | Level: 3.62/7)
+- Monitoring (Importance: 3.38/5 | Level: 3.25/7)
+- Operation and Control (Importance: 3.25/5 | Level: 2.88/7)
+- Critical Thinking (Importance: 3.25/5 | Level: 3.5/7)
+- Coordination (Importance: 3.12/5 | Level: 3.12/7)
+- Operations Monitoring (Importance: 3.12/5 | Level: 2.62/7)
+- Time Management (Importance: 3.0/5 | Level: 2.88/7)
+- Quality Control Analysis (Importance: 3.0/5 | Level: 2.75/7)
+- Writing (Importance: 3.0/5 | Level: 3.0/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 2.62/7)
+- Active Learning (Importance: 2.88/5 | Level: 2.75/7)
+- Learning Strategies (Importance: 2.75/5 | Level: 2.75/7)
+- Instructing (Importance: 2.75/5 | Level: 3.12/7)
+- Troubleshooting (Importance: 2.62/5 | Level: 2.25/7)
+- Complex Problem Solving (Importance: 2.62/5 | Level: 2.5/7)
+- Management of Personnel Resources (Importance: 2.62/5 | Level: 2.62/7)
+- Systems Analysis (Importance: 2.5/5 | Level: 2.25/7)
+- Systems Evaluation (Importance: 2.38/5 | Level: 2.38/7)
+- Negotiation (Importance: 2.38/5 | Level: 2.25/7)
+- Persuasion (Importance: 2.25/5 | Level: 2.25/7)
+- Equipment Selection (Importance: 2.25/5 | Level: 1.62/7)
+- Science (Importance: 2.12/5 | Level: 1.5/7)
+- Mathematics (Importance: 2.0/5 | Level: 2.0/7)
+- Equipment Maintenance (Importance: 1.88/5 | Level: 1.38/7)
+- Programming (Importance: 1.75/5 | Level: 1.0/7)
+- Repairing (Importance: 1.75/5 | Level: 1.12/7)
+- Technology Design (Importance: 1.62/5 | Level: 0.88/7)
+- Management of Material Resources (Importance: 1.62/5 | Level: 0.88/7)
+- Operations Analysis (Importance: 1.38/5 | Level: 0.62/7)
+- Management of Financial Resources (Importance: 1.38/5 | Level: 0.5/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Diagnostic and procedural coding software (Tech skill type: Categorization or classification software)
+- Diagnostic image review software (Tech skill type: Medical software)
+- Digital Imaging Communications in Medicine DICOM software/modality management software (Tech skill type: Medical software)
+- eClinicalWorks EHR software (Tech skill type: Medical software)
+- Electronic medical record EMR software (Tech skill type: Medical software)
+- Film processor tracking and management software (Tech skill type: Medical software)
+- GE Healthcare Centricity EMR (Tech skill type: Medical software)
+- GE Healthcare ViewPoint Solutions (Tech skill type: Medical software)
+- Information management subsystem software (Tech skill type: Medical software)
+- Information systems integration software (Tech skill type: Information retrieval or search software)
+- Internet or intranet image distribution software (Tech skill type: Medical software)
+- Medical condition coding software (Tech skill type: Medical software)
+- Medical procedure coding software (Tech skill type: Medical software)
+- Medical software (Tech skill type: Medical software)
+- MEDITECH software (Tech skill type: Medical software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Practice management software PMS (Tech skill type: Medical software)
+- Structured data entry software (Tech skill type: Data base user interface and query software)
+- Virtual reality computed tomography CT imaging software (Tech skill type: Medical software)
+
+## TOOLS USED
+- Automated defibrillators (Tool type: Mobile medical services automated external defibrillators AED or hard paddles)
+- Automatic x ray film processors (Tool type: Medical x ray darkroom accessories)
+- Collimators (Tool type: X ray diffraction equipment)
+- Compression bands (Tool type: Medical radiological positioning aids for general radiological use)
+- Computed tomography CT audio and visual intercommunication systems (Tool type: Medical computed tomography CT or CAT 3 dimensional system components)
+- Computed tomography CT scanners (Tool type: Medical computed tomography CT or CAT scanners or tubes)
+- Cones (Tool type: Radiographic locators)
+- Cushions (Tool type: Medical radiological positioning aids for general radiological use)
+- Cylinders (Tool type: Radiographic locators)
+- Desktop computers (Tool type: Desktop computers)
+- Diagnostic ultrasound equipment (Tool type: Medical ultrasound or doppler or pulse echocardiograph or echocardiograph units for general diagnostic use)
+- Diaphragms (Tool type: Radiographic locators)
+- Digital Imaging Communications in Medicine DICOM imaging equipment (Tool type: Digital imaging communications in medicine DICOM standard system equipment)
+- Digital Imaging Communications in Medicine DICOM system equipment (Tool type: Digital imaging communications in medicine DICOM standard system equipment)
+- Digital transmission densitometers (Tool type: X ray bone densitometers)
+- Electrocardiography EKG units (Tool type: Electrocardiography EKG units)
+- Electronic blood pressure units (Tool type: Electronic blood pressure units)
+- Enema equipment (Tool type: Enema kits)
+- Film cassettes (Tool type: Medical x ray films or cassettes)
+- Film processing equipment (Tool type: Medical imaging wet darkroom or daylight processors)
+- Filters (Tool type: Medical x ray apparatus filters)
+- Fluoroscopes (Tool type: Medical cinefluoroscopy units)
+- Grids (Tool type: Medical radiographic equipment grids)
+- High-speed multislice computed tomography CT scanners (Tool type: Medical computed tomography CT or CAT scanners or tubes)
+- Hypodermic needles (Tool type: Hypodermic needle)
+- Image capturing and transmission systems (Tool type: Medical picture archiving computer systems PACS)
+- Image intensifiers (Tool type: Medical x ray intensifying screens)
+- Image storage systems (Tool type: Medical x ray film archiving system software)
+- Intensifying screens (Tool type: Medical x ray intensifying screens)
+- Intramuscular needles (Tool type: Hypodermic needle)
+- Intravenous IV locks (Tool type: Intravenous or arterial tubing adapter or connector)
+- Intravenous IV syringes (Tool type: Medical syringes without needle)
+- Intravenous IV tubing (Tool type: Intravenous or arterial extension tubing)
+- Lead shields/shielding equipment (Tool type: Medical radiological shielding aprons or masks or drapes)
+- Magnetic resonance imaging MRI audio and visual intercommunication systems (Tool type: Medical magnetic resonance imaging MRI 3 dimensional system components)
+- Magnetic tape recorders (Tool type: Magnetic tape recorders)
+- Medical magnetic resonance imaging MRI equipment (Tool type: Medical magnetic resonance imaging MRI scanners)
+- Mercury blood pressure units (Tool type: Mercury blood pressure units)
+- Mobile image amplifier C-arms (Tool type: Medical c arm x ray units)
+- Notebook computers (Tool type: Notebook computers)
+- Over-the-needle intravenous IV catheters (Tool type: Peripherally inserted central catheters PICC)
+- Oxygen equipment (Tool type: Oxygen therapy delivery system products)
+- Patient immobilization devices (Tool type: Medical radiological positioning aids for general radiological use)
+- Patient immobilizing devices (Tool type: Medical radiological positioning aids for general radiological use)
+- Personal computers (Tool type: Personal computers)
+- Picture archiving and communication systems PACS (Tool type: Medical picture archiving computer systems PACS)
+- Portable densitometers (Tool type: X ray bone densitometers)
+- Portable film processors (Tool type: Medical x ray darkroom accessories)
+- Portable ultrasound scanners (Tool type: Medical ultrasound or doppler or pulse echocardiograph or echocardiograph units for general diagnostic use)
+- Portable x ray machines (Tool type: Medical x ray units for general diagnostic use)
+- Positron emission tomography/computed tomography PET/CT scanners (Tool type: Medical computed tomography CT or CAT scanners or tubes)
+- Power injectors (Tool type: Medical imaging contrast agent injector)
+- Radiation measurement badges (Tool type: Medical radiation films or badges)
+- Radiation protection devices (Tool type: Medical radiological shielding aprons or masks or drapes)
+- Rapid film changers (Tool type: Radiographic film or cassette changers)
+- Sandbags (Tool type: Medical radiological positioning aids for general radiological use)
+- Scan converters (Tool type: Medical x ray film archiving system software)
+- Self-contained film processors (Tool type: Medical x ray darkroom accessories)
+- Stationary x ray equipment (Tool type: Medical x ray units for general diagnostic use)
+- Straps (Tool type: Medical radiological positioning aids for general radiological use)
+- Subcutaneous hypodermic needles (Tool type: Hypodermic needle)
+- Syringes (Tool type: Medical syringes without needle)
+- Tablet computers (Tool type: Tablet computers)
+- Tabletop film processors (Tool type: Medical x ray darkroom accessories)
+- Tourniquets (Tool type: Tourniquets)
+- Venipuncture needles (Tool type: Hypodermic needle)
+- X ray beam restriction devices (Tool type: Medical x ray apparatus filters)
+- X ray bone densitometers (Tool type: X ray bone densitometers)
+- X ray calipers (Tool type: Medical x ray quality assurance or calibration devices)
+- X ray film processors (Tool type: Medical x ray darkroom accessories)
+- X ray filters (Tool type: Medical x ray apparatus filters)
+- X ray image intensifier television systems (Tool type: Medical x ray intensifying screens)
+- X ray imaging charge-coupled device CCD cameras (Tool type: Medical x ray intensifying screens)
+- X ray machines (Tool type: Medical x ray units for general diagnostic use)
+
+# WORK CONTEXT
+- Conflict Situations: Once a month or more but not every week
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Extremely important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a week or more but not every day
+- Dealing with Violent or Physically Aggressive People: Once a year or more but not every month
+- Degree of Automation: Moderately automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Every day
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Every day
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Never
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Extremely important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Highly competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Very close (near touching)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: About half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: More than half the time
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: More than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: More than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Every day
+- Work Outcomes and Results of Other Workers: Moderate responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Never
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Cardiovascular Technologists and Technicians
+- Diagnostic Medical Sonographers
+- Magnetic Resonance Imaging Technologists
+- Radiation Therapists
+- Neurodiagnostic Technologists
+- Nuclear Medicine Technologists
+- Ophthalmic Medical Technologists
+- Endoscopy Technicians
+- Surgical Technologists
+- Medical and Clinical Laboratory Technicians
+- Radiologists
+- Cardiologists
+- Pediatric Surgeons
+- Histotechnologists
+- Emergency Medicine Physicians
+- Medical and Clinical Laboratory Technologists
+- Surgical Assistants
+- Orthopedic Surgeons, Except Pediatric
+- Ophthalmic Medical Technicians
+- Anesthesiologist Assistants

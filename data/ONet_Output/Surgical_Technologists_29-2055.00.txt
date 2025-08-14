@@ -1,0 +1,334 @@
+Job Title: Surgical Technologists
+O*NET-SOC Code: 29-2055.00
+
+# DESCRIPTION
+Assist in operations, under the supervision of surgeons, registered nurses, or other surgical personnel. May help set up operating room, prepare and transport patients for surgery, adjust lights and equipment, pass instruments and other supplies to surgeons and surgeons' assistants, hold retractors, cut sutures, and help count sponges, needles, supplies, and instruments.
+
+# TASKS
+- Maintain a proper sterile field during surgical procedures.
+- Count sponges, needles, and instruments before and after operation.
+- Scrub arms and hands and assist the surgical team to scrub and put on gloves, masks, and surgical clothing.
+- Provide technical assistance to surgeons, surgical nurses, or anesthesiologists.
+- Prepare patients for surgery, including positioning patients on the operating table and covering them with sterile surgical drapes to prevent exposure.
+- Hand instruments and supplies to surgeons and surgeons' assistants, hold retractors and cut sutures, and perform other tasks as directed by surgeon during operation.
+- Prepare, care for, and dispose of tissue specimens taken for laboratory analysis.
+- Wash and sterilize equipment, using germicides and sterilizers.
+- Monitor and continually assess operating room conditions, including patient and surgical team needs.
+- Operate, assemble, adjust, or monitor sterilizers, lights, suction machines, or diagnostic equipment to ensure proper operation.
+- Prepare dressings or bandages and apply or assist with their application following surgery.
+- Clean and restock operating room, gathering and placing equipment and supplies and arranging instruments according to instructions, such as a preference card.
+- Order surgical supplies.
+- Observe patients' vital signs to assess physical condition.
+- Maintain supply of fluids, such as plasma, saline, blood, or glucose, for use during operations.
+- Maintain files and records of surgical procedures.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 3.73/5 | Level: 4.89/7)
+- Medicine and Dentistry (Importance: 3.71/5 | Level: 4.59/7)
+- English Language (Importance: 3.45/5 | Level: 3.51/7)
+- Education and Training (Importance: 3.1/5 | Level: 3.6/7)
+- Psychology (Importance: 2.87/5 | Level: 3.44/7)
+- Public Safety and Security (Importance: 2.87/5 | Level: 2.48/7)
+- Biology (Importance: 2.8/5 | Level: 2.81/7)
+- Mathematics (Importance: 2.7/5 | Level: 2.2/7)
+- Computers and Electronics (Importance: 2.66/5 | Level: 3.1/7)
+- Administration and Management (Importance: 2.55/5 | Level: 2.11/7)
+- Chemistry (Importance: 2.43/5 | Level: 2.93/7)
+- Production and Processing (Importance: 2.41/5 | Level: 2.13/7)
+- Mechanical (Importance: 2.37/5 | Level: 2.06/7)
+- Therapy and Counseling (Importance: 2.25/5 | Level: 2.33/7)
+- Law and Government (Importance: 2.25/5 | Level: 1.68/7)
+- Personnel and Human Resources (Importance: 2.23/5 | Level: 1.72/7)
+- Sociology and Anthropology (Importance: 2.15/5 | Level: 1.85/7)
+- Administrative (Importance: 2.13/5 | Level: 2.03/7)
+- Engineering and Technology (Importance: 2.0/5 | Level: 1.51/7)
+- Communications and Media (Importance: 1.98/5 | Level: 1.59/7)
+- Telecommunications (Importance: 1.75/5 | Level: 0.84/7)
+- Physics (Importance: 1.73/5 | Level: 1.31/7)
+- Economics and Accounting (Importance: 1.7/5 | Level: 0.9/7)
+- Transportation (Importance: 1.58/5 | Level: 0.72/7)
+- Sales and Marketing (Importance: 1.51/5 | Level: 0.89/7)
+- Philosophy and Theology (Importance: 1.46/5 | Level: 1.12/7)
+- Design (Importance: 1.43/5 | Level: 0.69/7)
+- Foreign Language (Importance: 1.31/5 | Level: 0.73/7)
+- Building and Construction (Importance: 1.3/5 | Level: 0.53/7)
+- Geography (Importance: 1.26/5 | Level: 0.53/7)
+- History and Archeology (Importance: 1.23/5 | Level: 0.39/7)
+- Food Production (Importance: 1.14/5 | Level: 0.23/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Monitoring (Importance: 3.75/5 | Level: 3.5/7)
+- Active Listening (Importance: 3.38/5 | Level: 3.88/7)
+- Operations Monitoring (Importance: 3.25/5 | Level: 3.0/7)
+- Time Management (Importance: 3.12/5 | Level: 3.0/7)
+- Coordination (Importance: 3.12/5 | Level: 3.5/7)
+- Critical Thinking (Importance: 3.12/5 | Level: 3.12/7)
+- Speaking (Importance: 3.12/5 | Level: 3.0/7)
+- Active Learning (Importance: 3.0/5 | Level: 3.0/7)
+- Management of Material Resources (Importance: 3.0/5 | Level: 2.38/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 3.0/7)
+- Service Orientation (Importance: 3.0/5 | Level: 3.12/7)
+- Reading Comprehension (Importance: 3.0/5 | Level: 3.75/7)
+- Operation and Control (Importance: 3.0/5 | Level: 2.75/7)
+- Complex Problem Solving (Importance: 3.0/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 3.12/7)
+- Equipment Maintenance (Importance: 3.0/5 | Level: 2.88/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 3.0/7)
+- Instructing (Importance: 3.0/5 | Level: 3.0/7)
+- Management of Personnel Resources (Importance: 2.88/5 | Level: 2.5/7)
+- Quality Control Analysis (Importance: 2.88/5 | Level: 3.0/7)
+- Systems Evaluation (Importance: 2.88/5 | Level: 2.62/7)
+- Writing (Importance: 2.88/5 | Level: 3.0/7)
+- Troubleshooting (Importance: 2.75/5 | Level: 2.25/7)
+- Persuasion (Importance: 2.62/5 | Level: 2.5/7)
+- Mathematics (Importance: 2.62/5 | Level: 2.75/7)
+- Negotiation (Importance: 2.62/5 | Level: 2.25/7)
+- Systems Analysis (Importance: 2.5/5 | Level: 2.75/7)
+- Repairing (Importance: 2.5/5 | Level: 2.25/7)
+- Equipment Selection (Importance: 2.38/5 | Level: 2.38/7)
+- Science (Importance: 2.25/5 | Level: 2.12/7)
+- Operations Analysis (Importance: 2.0/5 | Level: 1.88/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.88/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.12/7)
+- Programming (Importance: 1.12/5 | Level: 0.12/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Database software (Tech skill type: Data base user interface and query software)
+- Electronic medical record EMR software (Tech skill type: Medical software)
+- Email software (Tech skill type: Electronic mail software)
+- Google Drive (Tech skill type: Cloud-based data access and sharing software)
+- Graphics software (Tech skill type: Graphics or photo imaging software)
+- Internet browser software (Tech skill type: Internet browser software)
+- MEDITECH software (Tech skill type: Medical software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Nursing documentation software (Tech skill type: Medical software)
+- Patient scheduling software (Tech skill type: Medical software)
+- Patient tracking software (Tech skill type: Medical software)
+- Supply documentation software (Tech skill type: Medical software)
+- Surgery workflow communication software (Tech skill type: Medical software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Adjustable height instrument tables (Tool type: Instrument tables for surgical or obstetrical delivery use)
+- Air driver drills (Tool type: Surgical pneumatic or battery or electric saws or drills or pin drivers)
+- Anesthesia machines (Tool type: Gas anesthesia apparatus or machines)
+- Argon beam coagulators (Tool type: Electrosurgical or electrocautery equipment)
+- Autoclaves (Tool type: Steam autoclaves or sterilizers)
+- Autologous blood recovery systems (Tool type: General surgical instrument sets)
+- Autotransfusion systems (Tool type: Autotransfusion units)
+- Blood/fluid warmers (Tool type: Intravenous or arterial fluid warmers)
+- Carbon dioxide CO2 lasers (Tool type: Surgical lasers)
+- Cardiac leg wedges (Tool type: Operating room patient positioning devices for general use)
+- Cardiovascular stents (Tool type: Coronary stents)
+- Cavitrons (Tool type: Surgical suction machine or vacuum extractor or ultrasonic surgical aspirator)
+- Cell savers (Tool type: Autotransfusion units)
+- Central venous catheters (Tool type: Central venous catheters)
+- Chest drains (Tool type: Pleural cavity drainage units or containers)
+- Cholangiocath catheters (Tool type: Urological surgical catheter accessories)
+- Continuous suction machines (Tool type: Surgical suction machine or vacuum extractor or ultrasonic surgical aspirator)
+- Coronary bypass pumps (Tool type: Heart and lung machines)
+- Craniotome drills (Tool type: Surgical pneumatic or battery or electric saws or drills or pin drivers)
+- Cryo units (Tool type: Cryosurgery units)
+- Cryo-ophthalmic units (Tool type: Cryosurgery units)
+- Defibrillators (Tool type: Mobile medical services automated external defibrillators AED or hard paddles)
+- Dermatome blades (Tool type: Surgical dermatomes or dermabraders or dermameshers)
+- Dermatomes (Tool type: Surgical dermatomes or dermabraders or dermameshers)
+- Desktop computers (Tool type: Desktop computers)
+- Digital electrosurgical units (Tool type: Electrosurgical or electrocautery equipment)
+- Digital Imaging Communications in Medicine DICOM diagnostic medical printers (Tool type: Medical imaging dry laser printers or imagers)
+- Doppler ultrasound equipment (Tool type: Medical ultrasound or doppler or echocardiograph transducer accessories)
+- Electrocautery equipment (Tool type: Electrosurgical or electrocautery equipment)
+- Electronic blood pressure cuffs (Tool type: Electronic blood pressure units)
+- Electrosurgical grounding pads (Tool type: Electrosurgical or electrocautery equipment)
+- Electrosurgical monitors (Tool type: Electrosurgical or electrocautery equipment)
+- Electrosurgical units (Tool type: Electrosurgical or electrocautery equipment)
+- Endoscopic camera/video systems (Tool type: Endoscopic video cameras or recorders or adapters or accessories)
+- Endoscopic vein harvesting equipment (Tool type: Vein harvest kits or systems)
+- Endoscopy equipment (Tool type: Endoscopic equipment or procedure carts)
+- Ethylene oxide sterilizers (Tool type: Chemical or gas sterilizers)
+- Eye lasers (Tool type: Surgical lasers)
+- Eye magnets (Tool type: Eyemagnets for ophthalmic surgery)
+- Fiber optic luminators (Tool type: Medical exam or surgical headlights or headlamps)
+- Flash autoclaves (Tool type: Steam autoclaves or sterilizers)
+- Fluoroscopy equipment (Tool type: Medical cinefluoroscopy units)
+- Foot-operated suction units (Tool type: Surgical suction machine or vacuum extractor or ultrasonic surgical aspirator)
+- Fracture tables (Tool type: Operating room patient fracture tables or orthopedic tables)
+- Graspers (Tool type: Endoscopic clamp or dissector or grasper or forceps)
+- Hemorrhoidal circular staplers (Tool type: Medical staplers for internal use)
+- Hyper/hypothermia units (Tool type: Therapeutic heating or cooling units or systems)
+- Instrument positioning equipment (Tool type: Surgical instrument holders or positioners)
+- Instrument tables (Tool type: Instrument tables for surgical or obstetrical delivery use)
+- Insufflators (Tool type: Oxygen insufflators)
+- Internal mammary artery IMA retractors (Tool type: Surgical retractors)
+- Intestinal stapling devices (Tool type: Medical staplers for internal use)
+- Intraluminal staplers (Tool type: Medical staplers for internal use)
+- Kleinert-Kutz elevators (Tool type: Surgical elevators or levers)
+- Lab specimen containers (Tool type: Specimen collection container)
+- Laparoscopes (Tool type: Laparoscopes or laparoscopic telescopes)
+- Linear staplers (Tool type: Medical staplers for internal use)
+- Lithotripters (Tool type: Surgical lithotripters)
+- Loupes (Tool type: Surgical microscopes or loupes or magnifiers)
+- Manual blood pressure units (Tool type: Mercury blood pressure units)
+- Master control units or manipulators (Tool type: General surgical supply set accessories)
+- Mayo stands (Tool type: Lap mayo trays or mayo stands for surgical use)
+- Medical image database systems (Tool type: Medical picture archiving computer systems PACS)
+- Medical imagining laser printers (Tool type: Medical imaging dry laser printers or imagers)
+- Microscopes (Tool type: Surgical microscopes or loupes or magnifiers)
+- Minidriver drills (Tool type: Surgical pneumatic or battery or electric saws or drills or pin drivers)
+- Motorized lift tables (Tool type: Instrument tables for surgical or obstetrical delivery use)
+- Needle holders (Tool type: Surgical needle holders)
+- Neodymium-doped yttrium aluminum garnet Nd:YAG lasers (Tool type: Surgical lasers)
+- Nerve stimulators (Tool type: Surgical nerve stimulators)
+- Neurotome drills (Tool type: Surgical pneumatic or battery or electric saws or drills or pin drivers)
+- Notebook computers (Tool type: Notebook computers)
+- Ohio suction units (Tool type: Surgical suction machine or vacuum extractor or ultrasonic surgical aspirator)
+- Orthopedic arm boards with drains (Tool type: Operating room patient fracture tables or orthopedic tables)
+- Orthopedic drills (Tool type: Surgical pneumatic or battery or electric saws or drills or pin drivers)
+- Personal computers (Tool type: Personal computers)
+- Pneumatic tourniquets (Tool type: Surgical pneumatic or electric tourniquets)
+- Portable suction units (Tool type: Surgical suction machine or vacuum extractor or ultrasonic surgical aspirator)
+- Positioning equipment (Tool type: Operating room patient positioning devices for general use)
+- Pulmonary resuscitators (Tool type: Resuscitation kits)
+- Remote manipulation robots (Tool type: General surgical supply set accessories)
+- Retractors (Tool type: Surgical retractors)
+- Ring stands (Tool type: Surgical equipment stands)
+- Robotic arms (Tool type: Surgical power equipment sets)
+- Robotic manipulators (Tool type: General surgical supply set accessories)
+- Scalpels (Tool type: Surgical scalpels or knives or blades or trephines)
+- Skin staplers (Tool type: Medical staplers for external use)
+- Slow suction units (Tool type: Surgical suction machine or vacuum extractor or ultrasonic surgical aspirator)
+- Smoke evacuators (Tool type: Surgical smoke evacuators)
+- Spark-gap electrosurgical units (Tool type: Electrosurgical or electrocautery equipment)
+- Sterad machines (Tool type: Chemical or gas sterilizers)
+- Steri-vac aeration cabinets (Tool type: Sterilization cabinets)
+- Sternal saws (Tool type: Surgical pneumatic or battery or electric saws or drills or pin drivers)
+- Stretchers (Tool type: Patient stretchers)
+- Suction machines (Tool type: Surgical suction machine or vacuum extractor or ultrasonic surgical aspirator)
+- Surgical aspirators (Tool type: Surgical suction machine or vacuum extractor or ultrasonic surgical aspirator)
+- Surgical clamps (Tool type: Surgical clamps or clips or forceps)
+- Surgical dilators (Tool type: Surgical dilators)
+- Surgical dissectors (Tool type: Surgical dissectors)
+- Surgical drains (Tool type: Surgical drains or drain sets)
+- Surgical drapes (Tool type: Surgical drapes)
+- Surgical drills (Tool type: Surgical pneumatic or battery or electric saws or drills or pin drivers)
+- Surgical elevators (Tool type: Surgical elevators or levers)
+- Surgical forceps (Tool type: Surgical clamps or clips or forceps)
+- Surgical lasers (Tool type: Surgical lasers)
+- Surgical navigation systems (Tool type: Surgical navigation system accessories)
+- Surgical pneumatic drills (Tool type: Surgical pneumatic or battery or electric saws or drills or pin drivers)
+- Surgical probes (Tool type: Surgical probes or directors)
+- Surgical retractors (Tool type: Surgical retractors)
+- Surgical robotics equipment (Tool type: Surgical power equipment sets)
+- Surgical robots (Tool type: Surgical power equipment sets)
+- Surgical stapling equipment (Tool type: Medical staplers for internal use)
+- Surgical tubing or irrigation tubing (Tool type: Surgical drains or drain sets)
+- Suture needles (Tool type: Suture needles)
+- Suturing kits (Tool type: Suturing kits or trays or packs or sets)
+- Suturing needle forceps (Tool type: Suturing kits or trays or packs or sets)
+- Syringes (Tool type: Medical syringes without needle)
+- Tablet computers (Tool type: Tablet computers)
+- Thermal cautery units (Tool type: Electrosurgical or electrocautery equipment)
+- Tourniquets (Tool type: Tourniquets)
+- Tracheostomy tubes (Tool type: Tracheostomy tubes)
+- Ultrasonic cleaners (Tool type: Ultrasonic cleaning equipment)
+- Vacuum extractors (Tool type: Surgical vacuum extraction devices or curettes or related products)
+- Venodynes (Tool type: Vascular sequential compression devices or tubing)
+- Video cassette recorders VCR (Tool type: Video cassette players or recorders)
+- Voice activated surgical systems (Tool type: Surgical power equipment sets)
+- Warm air blankets (Tool type: Therapeutic heating or cooling blankets or drapes)
+- Washer sanitizers (Tool type: Medical equipment and instrument disinfectant washing equipment)
+- Washer sterilizers (Tool type: Steam autoclaves or sterilizers)
+- Wheelchairs (Tool type: Wheelchairs)
+- Wound drains (Tool type: Surgical drains or drain sets)
+- X ray machines (Tool type: Medical x ray units for general diagnostic use)
+
+# WORK CONTEXT
+- Conflict Situations: Once a week or more but not every day
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a month or more but not every week
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Every day
+- Exposed to Disease or Infections: Every day
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Every day
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Every day
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Never
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Extremely important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Highly competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Very close (near touching)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Continually or almost continually
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: Continually or almost continually
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Every day
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Never
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Social
+
+# RELATED OCCUPATIONS
+- Surgical Assistants
+- Cardiovascular Technologists and Technicians
+- Endoscopy Technicians
+- Medical Equipment Preparers
+- Histotechnologists
+- Diagnostic Medical Sonographers
+- Radiologic Technologists and Technicians
+- Ophthalmic Medical Technicians
+- Medical and Clinical Laboratory Technicians
+- Radiation Therapists
+- Pediatric Surgeons
+- Anesthesiologist Assistants
+- Orthopedic Surgeons, Except Pediatric
+- Anesthesiologists
+- Neurodiagnostic Technologists
+- Medical Assistants
+- Emergency Medical Technicians
+- Nurse Anesthetists
+- Respiratory Therapists
+- Ophthalmic Medical Technologists

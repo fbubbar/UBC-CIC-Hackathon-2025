@@ -1,0 +1,237 @@
+Job Title: Nuclear Power Reactor Operators
+O*NET-SOC Code: 51-8011.00
+
+# DESCRIPTION
+Operate or control nuclear reactors. Move control rods, start and stop equipment, monitor and adjust controls, and record data in logs. Implement emergency procedures when needed. May respond to abnormalities, determine cause, and recommend corrective action.
+
+# TASKS
+- Operate nuclear power reactors in accordance with policies and procedures to protect workers from radiation and to ensure environmental safety.
+- Adjust controls to position rod and to regulate flux level, reactor period, coolant temperature, or rate of power flow, following standard procedures.
+- Develop or implement actions such as lockouts, tagouts, or clearances to allow equipment to be safely repaired.
+- Respond to system or unit abnormalities, diagnosing the cause, and recommending or taking corrective action.
+- Monitor all systems for normal running conditions, performing activities such as checking gauges to assess output or the effects of generator loading on other equipment.
+- Monitor or operate boilers, turbines, wells, or auxiliary power plant equipment.
+- Record operating data, such as the results of surveillance tests.
+- Implement operational procedures, such as those controlling start-up or shut-down activities.
+- Note malfunctions of equipment, instruments, or controls and report these conditions to supervisors.
+- Participate in nuclear fuel element handling activities, such as preparation, transfer, loading, or unloading.
+- Dispatch orders or instructions to personnel through radiotelephone or intercommunication systems to coordinate auxiliary equipment operation.
+- Review and edit standard operating procedures.
+- Conduct inspections or operations outside of control rooms as necessary.
+- Direct reactor operators in emergency situations, in accordance with emergency operating procedures.
+- Authorize maintenance activities on units or changes in equipment or system operational status.
+- Supervise technicians' work activities to ensure that equipment is operated in accordance with policies and procedures that protect workers from radiation and ensure environmental safety.
+- Authorize actions to correct identified operational inefficiencies or hazards so that operating efficiency is maximized and potential environmental issues are minimized.
+- Direct the collection and testing of air, water, gas, or solid samples to determine radioactivity levels or to ensure appropriate radioactive containment.
+- Direct measurement of the intensity or types of radiation in work areas, equipment, or materials.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Physics (Importance: 4.08/5 | Level: 4.79/7)
+- Mechanical (Importance: 3.88/5 | Level: 4.56/7)
+- Public Safety and Security (Importance: 3.66/5 | Level: 3.99/7)
+- Mathematics (Importance: 3.58/5 | Level: 4.23/7)
+- Engineering and Technology (Importance: 3.54/5 | Level: 3.85/7)
+- Chemistry (Importance: 3.37/5 | Level: 4.16/7)
+- Design (Importance: 3.02/5 | Level: 3.15/7)
+- English Language (Importance: 2.93/5 | Level: 3.1/7)
+- Computers and Electronics (Importance: 2.85/5 | Level: 3.71/7)
+- Education and Training (Importance: 2.8/5 | Level: 3.27/7)
+- Law and Government (Importance: 2.78/5 | Level: 2.75/7)
+- Administration and Management (Importance: 2.36/5 | Level: 2.32/7)
+- Production and Processing (Importance: 2.35/5 | Level: 2.43/7)
+- Psychology (Importance: 2.18/5 | Level: 2.48/7)
+- Building and Construction (Importance: 1.99/5 | Level: 1.84/7)
+- Customer and Personal Service (Importance: 1.97/5 | Level: 1.87/7)
+- Telecommunications (Importance: 1.94/5 | Level: 1.4/7)
+- Communications and Media (Importance: 1.9/5 | Level: 1.5/7)
+- Biology (Importance: 1.9/5 | Level: 1.79/7)
+- Administrative (Importance: 1.88/5 | Level: 1.76/7)
+- Personnel and Human Resources (Importance: 1.84/5 | Level: 1.46/7)
+- Transportation (Importance: 1.48/5 | Level: 0.96/7)
+- Medicine and Dentistry (Importance: 1.36/5 | Level: 0.74/7)
+- Sociology and Anthropology (Importance: 1.31/5 | Level: 0.69/7)
+- Economics and Accounting (Importance: 1.26/5 | Level: 0.47/7)
+- Therapy and Counseling (Importance: 1.26/5 | Level: 0.56/7)
+- Sales and Marketing (Importance: 1.17/5 | Level: 0.41/7)
+- Geography (Importance: 1.17/5 | Level: 0.46/7)
+- History and Archeology (Importance: 1.1/5 | Level: 0.27/7)
+- Philosophy and Theology (Importance: 1.08/5 | Level: 0.14/7)
+- Foreign Language (Importance: 1.06/5 | Level: 0.08/7)
+- Fine Arts (Importance: 1.03/5 | Level: 0.08/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operation and Control (Importance: 4.0/5 | Level: 3.75/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 3.88/7)
+- Operations Monitoring (Importance: 4.0/5 | Level: 3.88/7)
+- Critical Thinking (Importance: 3.88/5 | Level: 4.0/7)
+- Active Listening (Importance: 3.88/5 | Level: 3.88/7)
+- Monitoring (Importance: 3.88/5 | Level: 4.0/7)
+- Complex Problem Solving (Importance: 3.75/5 | Level: 3.25/7)
+- Judgment and Decision Making (Importance: 3.5/5 | Level: 3.38/7)
+- Writing (Importance: 3.5/5 | Level: 3.0/7)
+- Time Management (Importance: 3.38/5 | Level: 3.38/7)
+- Quality Control Analysis (Importance: 3.25/5 | Level: 3.25/7)
+- Coordination (Importance: 3.25/5 | Level: 3.25/7)
+- Speaking (Importance: 3.25/5 | Level: 3.25/7)
+- Systems Analysis (Importance: 3.12/5 | Level: 3.0/7)
+- Active Learning (Importance: 3.12/5 | Level: 3.12/7)
+- Instructing (Importance: 3.0/5 | Level: 3.0/7)
+- Troubleshooting (Importance: 3.0/5 | Level: 3.12/7)
+- Management of Personnel Resources (Importance: 3.0/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 3.12/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 3.0/7)
+- Systems Evaluation (Importance: 2.88/5 | Level: 2.88/7)
+- Persuasion (Importance: 2.88/5 | Level: 2.88/7)
+- Service Orientation (Importance: 2.88/5 | Level: 2.88/7)
+- Negotiation (Importance: 2.75/5 | Level: 2.75/7)
+- Science (Importance: 2.75/5 | Level: 3.0/7)
+- Mathematics (Importance: 2.75/5 | Level: 2.75/7)
+- Programming (Importance: 2.0/5 | Level: 1.25/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.25/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.25/7)
+- Repairing (Importance: 1.38/5 | Level: 0.38/7)
+- Operations Analysis (Importance: 1.38/5 | Level: 0.5/7)
+- Technology Design (Importance: 1.38/5 | Level: 0.5/7)
+- Equipment Maintenance (Importance: 1.12/5 | Level: 0.12/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Data logging software (Tech skill type: Data base user interface and query software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Azure software (Tech skill type: Development environment software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Power Automate (Tech skill type: Calendar and scheduling software)
+- Microsoft Power BI (Tech skill type: Business intelligence and data analysis software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Outage management system OMS (Tech skill type: Industrial control software)
+- Plant information data entry software (Tech skill type: Data base user interface and query software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+
+## TOOLS USED
+- Air compressors (Tool type: Air compressors)
+- Air monitoring equipment (Tool type: Air samplers or collectors)
+- Air purifying respirators (Tool type: Respirators)
+- Air sample collection equipment (Tool type: Air samplers or collectors)
+- Area gamma monitors (Tool type: Gamma counters)
+- Automatic control systems (Tool type: Generator control or protection panels)
+- Control rod drives (Tool type: Nuclear reactor control rod systems)
+- Cooling towers (Tool type: Evaporative coolers)
+- Desktop computers (Tool type: Desktop computers)
+- Fuel handling systems (Tool type: Nuclear fuel rod)
+- Generator control panels (Tool type: Generator control or protection panels)
+- Leak detection equipment (Tool type: Leak testing equipment)
+- Level transmitters (Tool type: Level sensors or transmitters)
+- Master-slave manipulators (Tool type: Hot cell remote handling equipment)
+- Nuclear plant hazard alarm systems (Tool type: Nuclear fuel element failure detection systems)
+- Nuclear reactor control rod operation systems (Tool type: Nuclear reactor control rod systems)
+- Personal computers (Tool type: Personal computers)
+- pH testers (Tool type: pH meters)
+- Pipe camera inspection systems (Tool type: Digital camcorders or video cameras)
+- Pocket dosimeters (Tool type: Dosimeters)
+- Portable two way radios (Tool type: Two way radios)
+- Portal monitors (Tool type: Radiation detectors)
+- Power plant turbine control panels (Tool type: Gas turbine control panels)
+- Protective shoe covers (Tool type: Footwear covers)
+- Radiation monitoring instruments (Tool type: Dosimeters)
+- Radiation survey meters (Tool type: Radiation detectors)
+- Safety coveralls (Tool type: Protective coveralls)
+- Safety gloves (Tool type: Protective gloves)
+- Seismic monitoring instruments (Tool type: Nuclear reactor earthquake instrumentation)
+- Spent fuel handling machines (Tool type: Radioactive waste disposal systems)
+- Ventilation systems (Tool type: Air exhausters)
+- Video borescopes (Tool type: Borescope inspection equipment)
+- Water conductivity testers (Tool type: Conductivity meters)
+- Water deionization equipment (Tool type: Ion exchange equipment)
+- Water recirculation pumps (Tool type: Water pumps)
+- Water samplers (Tool type: Water samplers)
+- Water softeners (Tool type: Water softening accessories)
+
+# WORK CONTEXT
+- Conflict Situations: Once a week or more but not every day
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Extremely important
+- Deal With External Customers or the Public in General: Not important at all
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Moderately automated
+- Determine Tasks, Priorities and Goals: Limited freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Once a year or more but not every month
+- Exposed to Cramped Work Space, Awkward Positions: Once a year or more but not every month
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Once a year or more but not every month
+- Exposed to Hazardous Conditions: Once a year or more but not every month
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Once a year or more but not every month
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Every day
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Once a month or more but not every week
+- Exposed to Very Hot or Cold Temperatures: Once a year or more but not every month
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Limited freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Extremely important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Once a year or more but not every month
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Once a year or more but not every month
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Every day
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Less than half the time
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Less than half the time
+- Spend Time Sitting: More than half the time
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: More than half the time
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Once a year or more but not every month
+- Work Outcomes and Results of Other Workers: High responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a week or more but not every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Nuclear Technicians
+- Power Plant Operators
+- Hydroelectric Plant Technicians
+- Nuclear Monitoring Technicians
+- Stationary Engineers and Boiler Operators
+- Chemical Plant and System Operators
+- Power Distributors and Dispatchers
+- Gas Plant Operators
+- Water and Wastewater Treatment Plant and System Operators
+- Petroleum Pump System Operators, Refinery Operators, and Gaugers
+- Nuclear Engineers
+- Chemical Engineers
+- Geothermal Technicians
+- Biomass Plant Technicians
+- Geothermal Production Managers
+- Hydroelectric Production Managers
+- Electrical and Electronics Repairers, Powerhouse, Substation, and Relay
+- Electrical and Electronics Repairers, Commercial and Industrial Equipment
+- Biomass Power Plant Managers
+- Aerospace Engineering and Operations Technologists and Technicians

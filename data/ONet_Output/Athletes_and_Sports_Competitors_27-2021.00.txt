@@ -1,0 +1,284 @@
+Job Title: Athletes and Sports Competitors
+O*NET-SOC Code: 27-2021.00
+
+# DESCRIPTION
+Compete in athletic events.
+
+# TASKS
+- Assess performance following athletic competition, identifying strengths and weaknesses and making adjustments to improve future performance.
+- Maintain equipment used in a particular sport.
+- Attend scheduled practice or training sessions.
+- Maintain optimum physical fitness levels by training regularly, following nutrition plans, or consulting with health professionals.
+- Participate in athletic events or competitive sports, according to established rules and regulations.
+- Exercise or practice under the direction of athletic trainers or professional coaches to develop skills, improve physical condition, or prepare for competitions.
+- Receive instructions from coaches or other sports staff prior to events and discuss performance afterwards.
+- Represent teams or professional sports clubs, performing such activities as meeting with members of the media, making speeches, or participating in charity events.
+- Lead teams by serving as captain.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Administration and Management (Importance: 3.72/5 | Level: 3.71/7)
+- English Language (Importance: 3.69/5 | Level: 3.25/7)
+- Customer and Personal Service (Importance: 3.58/5 | Level: 4.36/7)
+- Personnel and Human Resources (Importance: 3.39/5 | Level: 4.23/7)
+- Communications and Media (Importance: 3.31/5 | Level: 3.47/7)
+- Education and Training (Importance: 3.23/5 | Level: 3.94/7)
+- Sales and Marketing (Importance: 3.17/5 | Level: 3.71/7)
+- Mathematics (Importance: 3.07/5 | Level: 3.14/7)
+- Public Safety and Security (Importance: 2.88/5 | Level: 2.87/7)
+- Administrative (Importance: 2.87/5 | Level: 3.37/7)
+- Economics and Accounting (Importance: 2.86/5 | Level: 3.17/7)
+- Mechanical (Importance: 2.75/5 | Level: 2.78/7)
+- Computers and Electronics (Importance: 2.65/5 | Level: 2.79/7)
+- Psychology (Importance: 2.48/5 | Level: 2.77/7)
+- Transportation (Importance: 2.42/5 | Level: 2.63/7)
+- Production and Processing (Importance: 2.38/5 | Level: 2.52/7)
+- Foreign Language (Importance: 2.37/5 | Level: 1.95/7)
+- Telecommunications (Importance: 2.3/5 | Level: 2.07/7)
+- Engineering and Technology (Importance: 2.29/5 | Level: 2.19/7)
+- Design (Importance: 2.26/5 | Level: 2.39/7)
+- Therapy and Counseling (Importance: 2.22/5 | Level: 2.18/7)
+- Physics (Importance: 2.09/5 | Level: 2.01/7)
+- Sociology and Anthropology (Importance: 2.08/5 | Level: 1.95/7)
+- Law and Government (Importance: 2.03/5 | Level: 1.71/7)
+- Geography (Importance: 1.93/5 | Level: 2.06/7)
+- Chemistry (Importance: 1.89/5 | Level: 1.7/7)
+- Building and Construction (Importance: 1.86/5 | Level: 1.64/7)
+- Food Production (Importance: 1.81/5 | Level: 1.45/7)
+- Medicine and Dentistry (Importance: 1.69/5 | Level: 1.46/7)
+- History and Archeology (Importance: 1.62/5 | Level: 0.96/7)
+- Philosophy and Theology (Importance: 1.56/5 | Level: 1.48/7)
+- Fine Arts (Importance: 1.4/5 | Level: 0.71/7)
+- Biology (Importance: 1.4/5 | Level: 0.68/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Speaking (Importance: 3.88/5 | Level: 3.0/7)
+- Critical Thinking (Importance: 3.75/5 | Level: 3.12/7)
+- Active Listening (Importance: 3.75/5 | Level: 3.25/7)
+- Coordination (Importance: 3.62/5 | Level: 3.75/7)
+- Monitoring (Importance: 3.25/5 | Level: 3.0/7)
+- Judgment and Decision Making (Importance: 3.25/5 | Level: 2.88/7)
+- Reading Comprehension (Importance: 3.12/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 3.12/5 | Level: 3.0/7)
+- Active Learning (Importance: 3.0/5 | Level: 3.0/7)
+- Persuasion (Importance: 3.0/5 | Level: 2.5/7)
+- Instructing (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 3.0/7)
+- Complex Problem Solving (Importance: 3.0/5 | Level: 2.88/7)
+- Service Orientation (Importance: 2.88/5 | Level: 2.75/7)
+- Learning Strategies (Importance: 2.88/5 | Level: 3.0/7)
+- Management of Personnel Resources (Importance: 2.88/5 | Level: 2.5/7)
+- Negotiation (Importance: 2.88/5 | Level: 2.38/7)
+- Writing (Importance: 2.75/5 | Level: 2.88/7)
+- Systems Evaluation (Importance: 2.38/5 | Level: 2.38/7)
+- Operations Monitoring (Importance: 2.38/5 | Level: 1.88/7)
+- Systems Analysis (Importance: 2.12/5 | Level: 2.12/7)
+- Mathematics (Importance: 2.12/5 | Level: 1.5/7)
+- Operations Analysis (Importance: 2.0/5 | Level: 2.0/7)
+- Quality Control Analysis (Importance: 2.0/5 | Level: 1.38/7)
+- Troubleshooting (Importance: 1.88/5 | Level: 1.0/7)
+- Equipment Maintenance (Importance: 1.88/5 | Level: 0.88/7)
+- Technology Design (Importance: 1.88/5 | Level: 0.88/7)
+- Operation and Control (Importance: 1.75/5 | Level: 1.38/7)
+- Science (Importance: 1.75/5 | Level: 1.0/7)
+- Management of Material Resources (Importance: 1.75/5 | Level: 1.12/7)
+- Management of Financial Resources (Importance: 1.62/5 | Level: 1.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adobe Photoshop (Tech skill type: Graphics or photo imaging software)
+- Email software (Tech skill type: Electronic mail software)
+- Facebook (Tech skill type: Web page creation and editing software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Motion analysis software (Tech skill type: Analytical or scientific software)
+- Oracle PeopleSoft (Tech skill type: Enterprise resource planning ERP software)
+- Twitter (Tech skill type: Instant messaging software)
+- Web browser software (Tech skill type: Internet browser software)
+- YouTube (Tech skill type: Video creation and editing software)
+
+## TOOLS USED
+- Badminton rackets (Tool type: Badminton rackets)
+- Balance beams (Tool type: Gymnastic bars or beams)
+- Baseball catching gloves (Tool type: Baseball gloves)
+- Bicycle motocross BMX bikes (Tool type: Racing bicycles)
+- Bowling balls (Tool type: Bowling equipment)
+- Boxing gloves (Tool type: Boxing gloves)
+- Competition javelins (Tool type: Javelins)
+- Competition sailboats (Tool type: Recreational sailboats)
+- Competition shot puts (Tool type: Shotputs)
+- Competition skateboards (Tool type: Skateboard)
+- Competition snowboards (Tool type: Snowboards)
+- Competition surfboards (Tool type: Surfboards)
+- Competition water skis (Tool type: Water skis or accessories)
+- Core strengthening wheels (Tool type: Upper body resistance machines)
+- Cross-country skis (Tool type: Skis)
+- Cyclical variations in adaptive conditioning CVAC pods (Tool type: Environmental test chamber)
+- Digital video cameras (Tool type: Digital camcorders or video cameras)
+- Diving platforms (Tool type: Diving boards)
+- Downhill skis (Tool type: Skis)
+- Dressage whips (Tool type: Whips)
+- Elliptical trainers (Tool type: Cross trainers)
+- Exercise bicycles (Tool type: Stationary bicycles)
+- Fencing foils (Tool type: Fencing sword or foil)
+- Figure skates (Tool type: Ice skates)
+- Fitness balls (Tool type: Medicine ball)
+- Fitness dumbbells (Tool type: Dumbbells)
+- Fitness treadmills (Tool type: Treadmills)
+- Football training dummies (Tool type: Football tackling dummies)
+- Football training sleds (Tool type: Football blocking sleds)
+- Glute-ham benches (Tool type: Weight benches or racks)
+- Golf drivers (Tool type: Golf clubs)
+- Golf putters (Tool type: Golf clubs)
+- Golf wedges (Tool type: Golf clubs)
+- Gymnastics grips (Tool type: Gymnastic ropes or rings or climbing accessories)
+- Gymnastics rings (Tool type: Gymnastic ropes or rings or climbing accessories)
+- Gymnastics trampolines (Tool type: Gymnastic trampolines)
+- Gymnastics vaults (Tool type: Gymnastic vaulting equipment)
+- Hammer throws (Tool type: Throwing hammer)
+- Horse bridles (Tool type: Bridles)
+- Horse reins (Tool type: Reins)
+- Ice hockey skates (Tool type: Ice skates)
+- Ice hockey sticks (Tool type: Hockey sticks)
+- In-line skates (Tool type: Roller skates or roller blades)
+- Lacrosse sticks (Tool type: Lacrosse sticks)
+- Laptop computers (Tool type: Notebook computers)
+- Lower body weight machines (Tool type: Lower body resistance machines)
+- Metal baseball bats (Tool type: Baseball bats)
+- Motion analysis equipment (Tool type: Physiological recorders)
+- Mountain bikes (Tool type: Mountain bicycles)
+- Parallel bars (Tool type: Gymnastic bars or beams)
+- Personal computers (Tool type: Personal computers)
+- Ping-pong paddles (Tool type: Table tennis paddles)
+- Pommel horses (Tool type: Gymnastic pommel horse)
+- Pool cues (Tool type: Pool cues)
+- Portable archery targets (Tool type: Archery targets)
+- Power stairclimbers (Tool type: Stair climbers)
+- Precision archery bows (Tool type: Archery bows)
+- Race starting blocks (Tool type: Starting block)
+- Recumbent exercise bicycles (Tool type: Stationary bicycles)
+- Regulation basketballs (Tool type: Basketballs)
+- Regulation field hockey sticks (Tool type: Field hockey sticks)
+- Regulation footballs (Tool type: Footballs)
+- Regulation soccer balls (Tool type: Soccer balls)
+- Regulation volleyballs (Tool type: Volleyballs)
+- Relay race batons (Tool type: Batons)
+- Riding crops (Tool type: Whips)
+- Riding saddles (Tool type: Saddles)
+- Road bikes (Tool type: Racing bicycles)
+- Row machines (Tool type: Rowing machines)
+- Sculling boats (Tool type: Row boat)
+- Softball bats (Tool type: Softball bats)
+- Speed skates (Tool type: Ice skates)
+- Spring diving boards (Tool type: Diving boards)
+- Squat benches (Tool type: Weight benches or racks)
+- Squat racks (Tool type: Weight benches or racks)
+- Stability balls (Tool type: Exercise balls)
+- Sweep-oar boats (Tool type: Row boat)
+- Swimming goggles (Tool type: Swim goggles or swim fins)
+- Tablet computers (Tool type: Tablet computers)
+- Target shooting arrows (Tool type: Archery arrows)
+- Tennis rackets (Tool type: Tennis racquets)
+- Therapeutic exercise bands (Tool type: Resistive exercise bands or putty or tubing for rehabilitation or therapy)
+- Therapeutic sandbags (Tool type: Sandbags or sandbag sets for rehabilitation or therapy)
+- Throwing discus (Tool type: Discus)
+- Track and field hurdles (Tool type: Hurdles)
+- Tractor tires (Tool type: Heavy truck tires)
+- Uneven bars (Tool type: Gymnastic bars or beams)
+- Upper body ergometers (Tool type: Upper body resistance machines)
+- Vaulting poles (Tool type: Vaulting poles)
+- Vaulting springboards (Tool type: Gymnastic vault springboard or beatboard)
+- Weighlifting analysis equipment (Tool type: Portable data input terminals)
+- Weight plates (Tool type: Training weight)
+- Weighted vests (Tool type: Training weight)
+- Wooden baseball bats (Tool type: Baseball bats)
+
+# WORK CONTEXT
+- Conflict Situations: Once a week or more but not every day
+- Consequence of Error: Fairly serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Important
+- Deal With External Customers or the Public in General: Fairly important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a month or more but not every week
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Once a week or more but not every day
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Once a year or more but not every month
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Once a month or more but not every week
+- Exposed to Very Hot or Cold Temperatures: Once a week or more but not every day
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: High responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Important
+- Importance of Repeating Same Tasks: Extremely important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Once a year or more but not every month
+- Level of Competition: Extremely competitive
+- Outdoors, Exposed to All Weather Conditions: Every day
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Once a year or more but not every month
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Continually or almost continually
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Continually or almost continually
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: More than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Continually or almost continually
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a month or more but not every week
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Enterprising
+- Tertiary Interest: Social
+
+# RELATED OCCUPATIONS
+- Coaches and Scouts
+- Umpires, Referees, and Other Sports Officials
+- Exercise Trainers and Group Fitness Instructors
+- Training and Development Specialists
+- Amusement and Recreation Attendants
+- Athletic Trainers
+- Self-Enrichment Teachers
+- Career/Technical Education Teachers, Secondary School
+- Dancers
+- Musicians and Singers
+- Animal Trainers
+- Career/Technical Education Teachers, Postsecondary
+- Gambling and Sports Book Writers and Runners
+- Training and Development Managers
+- Fitness and Wellness Coordinators
+- Career/Technical Education Teachers, Middle School
+- Gambling Managers
+- Recreation Workers
+- Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers
+- Sports Medicine Physicians

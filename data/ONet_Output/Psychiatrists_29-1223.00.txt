@@ -1,0 +1,220 @@
+Job Title: Psychiatrists
+O*NET-SOC Code: 29-1223.00
+
+# DESCRIPTION
+Diagnose, treat, and help prevent mental disorders.
+
+# TASKS
+- Prescribe, direct, or administer psychotherapeutic treatments or medications to treat mental, emotional, or behavioral disorders.
+- Gather and maintain patient information and records, including social or medical history obtained from patients, relatives, or other professionals.
+- Design individualized care plans, using a variety of treatments.
+- Collaborate with physicians, psychologists, social workers, psychiatric nurses, or other professionals to discuss treatment plans and progress.
+- Analyze and evaluate patient data or test findings to diagnose nature or extent of mental disorder.
+- Examine or conduct laboratory or diagnostic tests on patients to provide information on general physical condition or mental disorder.
+- Counsel outpatients or other patients during office visits.
+- Advise or inform guardians, relatives, or significant others of patients' conditions or treatment.
+- Teach, take continuing education classes, attend conferences or seminars, or conduct research and publish findings to increase understanding of mental, emotional, or behavioral states or disorders.
+- Review and evaluate treatment procedures and outcomes of other psychiatrists or medical professionals.
+- Prepare and submit case reports or summaries to government or mental health agencies.
+- Serve on committees to promote or maintain community mental health services or delivery systems.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Therapy and Counseling (Importance: 4.94/5 | Level: 6.72/7)
+- Psychology (Importance: 4.9/5 | Level: 6.6/7)
+- Medicine and Dentistry (Importance: 4.75/5 | Level: 5.82/7)
+- English Language (Importance: 4.27/5 | Level: 5.05/7)
+- Biology (Importance: 3.81/5 | Level: 4.57/7)
+- Education and Training (Importance: 3.67/5 | Level: 5.0/7)
+- Customer and Personal Service (Importance: 3.66/5 | Level: 4.92/7)
+- Sociology and Anthropology (Importance: 3.53/5 | Level: 4.46/7)
+- Administration and Management (Importance: 3.23/5 | Level: 3.43/7)
+- Philosophy and Theology (Importance: 3.04/5 | Level: 4.11/7)
+- Computers and Electronics (Importance: 3.02/5 | Level: 3.72/7)
+- Chemistry (Importance: 2.92/5 | Level: 3.68/7)
+- Law and Government (Importance: 2.8/5 | Level: 3.21/7)
+- Public Safety and Security (Importance: 2.66/5 | Level: 2.5/7)
+- Mathematics (Importance: 2.61/5 | Level: 3.03/7)
+- Administrative (Importance: 2.58/5 | Level: 2.97/7)
+- Personnel and Human Resources (Importance: 2.37/5 | Level: 2.75/7)
+- Foreign Language (Importance: 2.15/5 | Level: 1.86/7)
+- Economics and Accounting (Importance: 2.11/5 | Level: 1.54/7)
+- Geography (Importance: 2.0/5 | Level: 2.06/7)
+- Communications and Media (Importance: 1.99/5 | Level: 2.02/7)
+- Sales and Marketing (Importance: 1.97/5 | Level: 1.61/7)
+- Telecommunications (Importance: 1.76/5 | Level: 0.98/7)
+- Physics (Importance: 1.7/5 | Level: 1.37/7)
+- History and Archeology (Importance: 1.66/5 | Level: 1.17/7)
+- Transportation (Importance: 1.58/5 | Level: 1.27/7)
+- Engineering and Technology (Importance: 1.23/5 | Level: 0.62/7)
+- Fine Arts (Importance: 1.19/5 | Level: 0.35/7)
+- Mechanical (Importance: 1.16/5 | Level: 0.24/7)
+- Production and Processing (Importance: 1.16/5 | Level: 0.48/7)
+- Design (Importance: 1.07/5 | Level: 0.17/7)
+- Building and Construction (Importance: 1.05/5 | Level: 0.05/7)
+- Food Production (Importance: 1.01/5 | Level: 0.04/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Active Listening (Importance: 4.62/5 | Level: 5.0/7)
+- Social Perceptiveness (Importance: 4.5/5 | Level: 5.38/7)
+- Speaking (Importance: 4.25/5 | Level: 4.38/7)
+- Critical Thinking (Importance: 4.25/5 | Level: 4.62/7)
+- Writing (Importance: 4.12/5 | Level: 4.38/7)
+- Judgment and Decision Making (Importance: 4.12/5 | Level: 4.25/7)
+- Reading Comprehension (Importance: 4.12/5 | Level: 5.0/7)
+- Monitoring (Importance: 4.0/5 | Level: 4.12/7)
+- Active Learning (Importance: 4.0/5 | Level: 4.38/7)
+- Coordination (Importance: 3.88/5 | Level: 3.88/7)
+- Complex Problem Solving (Importance: 3.88/5 | Level: 4.25/7)
+- Service Orientation (Importance: 3.88/5 | Level: 4.12/7)
+- Science (Importance: 3.88/5 | Level: 4.12/7)
+- Learning Strategies (Importance: 3.75/5 | Level: 4.0/7)
+- Persuasion (Importance: 3.5/5 | Level: 4.0/7)
+- Instructing (Importance: 3.5/5 | Level: 4.0/7)
+- Negotiation (Importance: 3.25/5 | Level: 3.88/7)
+- Time Management (Importance: 3.25/5 | Level: 3.5/7)
+- Systems Evaluation (Importance: 3.25/5 | Level: 3.62/7)
+- Systems Analysis (Importance: 3.25/5 | Level: 3.38/7)
+- Operations Analysis (Importance: 3.25/5 | Level: 3.5/7)
+- Management of Personnel Resources (Importance: 2.75/5 | Level: 3.0/7)
+- Mathematics (Importance: 2.5/5 | Level: 2.38/7)
+- Operations Monitoring (Importance: 1.62/5 | Level: 0.75/7)
+- Management of Material Resources (Importance: 1.62/5 | Level: 0.75/7)
+- Management of Financial Resources (Importance: 1.62/5 | Level: 1.0/7)
+- Technology Design (Importance: 1.5/5 | Level: 0.62/7)
+- Programming (Importance: 1.5/5 | Level: 0.62/7)
+- Quality Control Analysis (Importance: 1.38/5 | Level: 0.62/7)
+- Operation and Control (Importance: 1.25/5 | Level: 0.38/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- ADL Data Systems OptimumClinicals Electronic Health Record (Tech skill type: Medical software)
+- Advantage Software Psych Advantage (Tech skill type: Medical software)
+- Allscripts Sunrise (Tech skill type: Medical software)
+- Blumenthal Software PBSW24 (Tech skill type: Time accounting software)
+- Cerner ProFile (Tech skill type: Medical software)
+- Computer Assisted Diagnostic Interview CADI software (Tech skill type: Medical software)
+- eClinicalWorks EHR software (Tech skill type: Medical software)
+- Electronic medical record EMR software (Tech skill type: Medical software)
+- Epic EpicCare Inpatient Clinical System (Tech skill type: Medical software)
+- Epic Systems (Tech skill type: Medical software)
+- FifthWalk BillingTracker Pro (Tech skill type: Accounting software)
+- GE Healthcare Centricity EMR (Tech skill type: Medical software)
+- ICANotes (Tech skill type: Medical software)
+- Integrated Systems Management OmniMD (Tech skill type: Medical software)
+- MDofficeManager MediVoxx (Tech skill type: Medical software)
+- MEDITECH Behavioral Health Clinicals (Tech skill type: Medical software)
+- MEDITECH software (Tech skill type: Medical software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Netsmart Technologies Avatar Clinical Workstation CWS (Tech skill type: Medical software)
+- Practice management software PMS (Tech skill type: Medical software)
+- Psychiatric assessment software (Tech skill type: Medical software)
+- Psychiatric information databases (Tech skill type: Data base user interface and query software)
+- Sigmund Software Sigmund Enterprise Management (Tech skill type: Medical software)
+- SoftPsych Psychiatric Diagnosis (Tech skill type: Medical software)
+- Texas Medical Software SpringCharts EMR (Tech skill type: Medical software)
+- UnisonCare UniCharts (Tech skill type: Medical software)
+- Virtual reality software (Tech skill type: Graphics or photo imaging software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Desktop computers (Tool type: Desktop computers)
+- Electronic blood pressure units (Tool type: Electronic blood pressure units)
+- Laptop computers (Tool type: Notebook computers)
+- Manual blood pressure units (Tool type: Mercury blood pressure units)
+- Mechanical stethoscopes (Tool type: Medical acoustic stethoscopes)
+- Personal computers (Tool type: Personal computers)
+- Personal digital assistants PDA (Tool type: Personal digital assistant PDAs or organizers)
+- Tablet computers (Tool type: Tablet computers)
+
+# WORK CONTEXT
+- Conflict Situations: Every day
+- Consequence of Error: Extremely serious
+- Contact With Others: Contact with others most of the time
+- Coordinate or Lead Others in Accomplishing Work Activities: Extremely important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Every day
+- Dealing with Violent or Physically Aggressive People: Once a week or more but not every day
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Once a week or more but not every day
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Once a year or more but not every month
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Limited responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Very important
+- Importance of Repeating Same Tasks: Not important at all
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Once a year or more but not every month
+- Spend Time Bending or Twisting Your Body: Never
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Never
+- Spend Time Sitting: More than half the time
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Never
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Once a week or more but not every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Never
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: High responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Investigative
+- Secondary Interest: Social
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Clinical Neuropsychologists
+- Neuropsychologists
+- Neurologists
+- Pediatricians, General
+- Advanced Practice Psychiatric Nurses
+- Family Medicine Physicians
+- General Internal Medicine Physicians
+- Pediatric Surgeons
+- Clinical Nurse Specialists
+- Clinical and Counseling Psychologists
+- Emergency Medicine Physicians
+- Nurse Practitioners
+- Psychiatric Technicians
+- Cardiologists
+- Physical Medicine and Rehabilitation Physicians
+- Genetic Counselors
+- Orthopedic Surgeons, Except Pediatric
+- Obstetricians and Gynecologists
+- Naturopathic Physicians
+- Acute Care Nurses

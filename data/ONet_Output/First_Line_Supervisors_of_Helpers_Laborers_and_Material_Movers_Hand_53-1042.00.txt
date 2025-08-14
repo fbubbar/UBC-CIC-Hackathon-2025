@@ -1,0 +1,233 @@
+Job Title: First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand
+O*NET-SOC Code: 53-1042.00
+
+# DESCRIPTION
+Directly supervise and coordinate the activities of helpers, laborers, or material movers, hand.
+
+# TASKS
+- Maintain a safe working environment by monitoring safety procedures and equipment.
+- Collaborate with workers and managers to solve work-related problems.
+- Review work throughout the work process and at completion to ensure that it has been performed properly.
+- Inform designated employees or departments of items loaded or problems encountered.
+- Inspect equipment for wear and for conformance to specifications.
+- Prepare and maintain work records and reports of information such as employee time and wages, daily receipts, or inspection results.
+- Transmit and explain work orders to laborers.
+- Plan work schedules and assign duties to maintain adequate staff for effective performance of activities and response to fluctuating workloads.
+- Participate in the hiring process by reviewing credentials, conducting interviews, or making hiring decisions or recommendations.
+- Estimate material, time, and staffing requirements for a given project, based on work orders, job specifications, and experience.
+- Counsel employees in work-related activities, personal growth, or career development.
+- Assess training needs of staff and arrange for or provide appropriate instruction.
+- Conduct staff meetings to relay general information or to address specific topics, such as safety.
+- Check specifications of materials loaded or unloaded against information contained in work orders.
+- Perform the same work duties as those supervised, or perform more difficult or skilled tasks or assist in their performance.
+- Resolve personnel problems, complaints, or formal grievances when possible, or refer them to higher-level supervisors for resolution.
+- Recommend or initiate personnel actions, such as promotions, transfers, or disciplinary measures.
+- Evaluate employee performance and prepare performance appraisals.
+- Examine freight to determine loading sequences.
+- Schedule times of shipment and modes of transportation for materials.
+- Inventory supplies and requisition or purchase additional items, as necessary.
+- Quote prices to customers.
+- Provide assistance in balancing books, tracking, monitoring, or projecting a unit's budget needs, and in developing unit policies and procedures.
+- Inspect job sites to determine the extent of maintenance or repairs needed.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 3.51/5 | Level: 4.11/7)
+- Production and Processing (Importance: 3.49/5 | Level: 3.53/7)
+- Administration and Management (Importance: 3.41/5 | Level: 2.98/7)
+- Mechanical (Importance: 3.25/5 | Level: 3.83/7)
+- Computers and Electronics (Importance: 3.23/5 | Level: 3.32/7)
+- English Language (Importance: 3.2/5 | Level: 2.81/7)
+- Public Safety and Security (Importance: 3.1/5 | Level: 3.14/7)
+- Mathematics (Importance: 3.1/5 | Level: 3.2/7)
+- Education and Training (Importance: 3.05/5 | Level: 4.06/7)
+- Transportation (Importance: 2.73/5 | Level: 2.81/7)
+- Communications and Media (Importance: 2.71/5 | Level: 2.46/7)
+- Psychology (Importance: 2.67/5 | Level: 2.83/7)
+- Administrative (Importance: 2.6/5 | Level: 2.77/7)
+- Engineering and Technology (Importance: 2.57/5 | Level: 3.08/7)
+- Personnel and Human Resources (Importance: 2.48/5 | Level: 2.75/7)
+- Telecommunications (Importance: 2.44/5 | Level: 1.76/7)
+- Design (Importance: 2.37/5 | Level: 2.52/7)
+- Chemistry (Importance: 2.25/5 | Level: 2.75/7)
+- Physics (Importance: 2.04/5 | Level: 1.97/7)
+- Law and Government (Importance: 1.98/5 | Level: 1.58/7)
+- Sales and Marketing (Importance: 1.93/5 | Level: 1.63/7)
+- Economics and Accounting (Importance: 1.86/5 | Level: 1.36/7)
+- Geography (Importance: 1.79/5 | Level: 1.66/7)
+- Foreign Language (Importance: 1.62/5 | Level: 0.65/7)
+- Biology (Importance: 1.48/5 | Level: 0.97/7)
+- Therapy and Counseling (Importance: 1.45/5 | Level: 0.96/7)
+- Building and Construction (Importance: 1.38/5 | Level: 0.93/7)
+- Philosophy and Theology (Importance: 1.28/5 | Level: 0.42/7)
+- Fine Arts (Importance: 1.23/5 | Level: 0.46/7)
+- Sociology and Anthropology (Importance: 1.2/5 | Level: 0.33/7)
+- Food Production (Importance: 1.08/5 | Level: 0.1/7)
+- Medicine and Dentistry (Importance: 1.05/5 | Level: 0.09/7)
+- History and Archeology (Importance: 1.02/5 | Level: 0.01/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Coordination (Importance: 3.75/5 | Level: 3.75/7)
+- Management of Personnel Resources (Importance: 3.62/5 | Level: 3.75/7)
+- Speaking (Importance: 3.62/5 | Level: 3.75/7)
+- Active Listening (Importance: 3.5/5 | Level: 3.75/7)
+- Complex Problem Solving (Importance: 3.38/5 | Level: 3.0/7)
+- Critical Thinking (Importance: 3.38/5 | Level: 3.62/7)
+- Time Management (Importance: 3.38/5 | Level: 3.62/7)
+- Monitoring (Importance: 3.38/5 | Level: 3.5/7)
+- Writing (Importance: 3.12/5 | Level: 3.12/7)
+- Reading Comprehension (Importance: 3.12/5 | Level: 3.5/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 3.0/7)
+- Instructing (Importance: 3.12/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 3.38/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 3.25/7)
+- Negotiation (Importance: 3.0/5 | Level: 3.0/7)
+- Systems Evaluation (Importance: 2.88/5 | Level: 2.88/7)
+- Persuasion (Importance: 2.88/5 | Level: 3.12/7)
+- Service Orientation (Importance: 2.75/5 | Level: 2.75/7)
+- Operations Monitoring (Importance: 2.75/5 | Level: 2.75/7)
+- Active Learning (Importance: 2.75/5 | Level: 3.0/7)
+- Systems Analysis (Importance: 2.62/5 | Level: 2.75/7)
+- Quality Control Analysis (Importance: 2.38/5 | Level: 2.38/7)
+- Mathematics (Importance: 2.25/5 | Level: 2.12/7)
+- Management of Material Resources (Importance: 2.25/5 | Level: 2.38/7)
+- Management of Financial Resources (Importance: 2.12/5 | Level: 2.25/7)
+- Operation and Control (Importance: 2.12/5 | Level: 2.12/7)
+- Troubleshooting (Importance: 2.0/5 | Level: 1.38/7)
+- Operations Analysis (Importance: 1.75/5 | Level: 1.62/7)
+- Equipment Selection (Importance: 1.75/5 | Level: 1.12/7)
+- Repairing (Importance: 1.5/5 | Level: 0.88/7)
+- Technology Design (Importance: 1.5/5 | Level: 0.62/7)
+- Equipment Maintenance (Importance: 1.5/5 | Level: 0.88/7)
+- Science (Importance: 1.38/5 | Level: 0.5/7)
+- Programming (Importance: 1.25/5 | Level: 0.25/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Corel WordPerfect Office Suite (Tech skill type: Office suite software)
+- Employee scheduling software (Tech skill type: Calendar and scheduling software)
+- Enterprise resource planning ERP software (Tech skill type: Enterprise resource planning ERP software)
+- Inventory control software (Tech skill type: Inventory management software)
+- Inventory management systems (Tech skill type: Inventory management software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Oracle Database (Tech skill type: Data base user interface and query software)
+- Sage ERP Accpac (Tech skill type: Enterprise resource planning ERP software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Time and attendance software (Tech skill type: Time accounting software)
+- Warehouse management system WMS (Tech skill type: Inventory management software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Banding machines (Tool type: Wrapping machinery)
+- Barcode scanners (Tool type: Bar code reader equipment)
+- Claw hammers (Tool type: Claw hammer)
+- Desktop computers (Tool type: Desktop computers)
+- Dollies (Tool type: Dollies)
+- Forklifts (Tool type: Forklifts)
+- Glue guns (Tool type: Glue guns)
+- Hand planes (Tool type: Planes)
+- Hand saws (Tool type: Saws)
+- Handtrucks (Tool type: Hand trucks or accessories)
+- Hoisting hooks (Tool type: Lifting hooks)
+- Hydraulic jacks (Tool type: Jacks)
+- Hydraulic winches (Tool type: Winches)
+- Lift trucks (Tool type: Forklifts)
+- Material-hoisting slings (Tool type: Slings)
+- Overhead cranes (Tool type: Track cranes)
+- Pallet jacks (Tool type: Pallet trucks)
+- Personal computers (Tool type: Personal computers)
+- Power hoists (Tool type: Hoists)
+- Power saws (Tool type: Power saws)
+- Scaffolding (Tool type: Scaffolding)
+- Tape guns (Tool type: Box sealing tape dispensers)
+- Utility knives (Tool type: Utility knives)
+
+# WORK CONTEXT
+- Conflict Situations: Once a month or more but not every week
+- Consequence of Error: Serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Extremely important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a month or more but not every week
+- Dealing with Violent or Physically Aggressive People: Once a year or more but not every month
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Once a year or more but not every month
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Once a month or more but not every week
+- Exposed to Very Hot or Cold Temperatures: Once a week or more but not every day
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Very important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Once a year or more but not every month
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Highly competitive
+- Outdoors, Exposed to All Weather Conditions: Once a month or more but not every week
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Once a year or more but not every month
+- Spend Time Bending or Twisting Your Body: Never
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Less than half the time
+- Spend Time Sitting: More than half the time
+- Spend Time Standing: More than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Less than half the time
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Once a year or more but not every month
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Enterprising
+- Secondary Interest: Conventional
+- Tertiary Interest: Realistic
+
+# RELATED OCCUPATIONS
+- First-Line Supervisors of Material-Moving Machine and Vehicle Operators
+- First-Line Supervisors of Mechanics, Installers, and Repairers
+- First-Line Supervisors of Production and Operating Workers
+- First-Line Supervisors of Passenger Attendants
+- First-Line Supervisors of Office and Administrative Support Workers
+- First-Line Supervisors of Construction Trades and Extraction Workers
+- First-Line Supervisors of Non-Retail Sales Workers
+- First-Line Supervisors of Housekeeping and Janitorial Workers
+- First-Line Supervisors of Security Workers
+- First-Line Supervisors of Farming, Fishing, and Forestry Workers
+- First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services
+- First-Line Supervisors of Food Preparation and Serving Workers
+- Production, Planning, and Expediting Clerks
+- Recycling Coordinators
+- General and Operations Managers
+- Aircraft Cargo Handling Supervisors
+- Dispatchers, Except Police, Fire, and Ambulance
+- Transportation, Storage, and Distribution Managers
+- Industrial Production Managers
+- First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers

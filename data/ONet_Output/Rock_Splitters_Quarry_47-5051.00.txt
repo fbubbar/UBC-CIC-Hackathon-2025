@@ -1,0 +1,232 @@
+Job Title: Rock Splitters, Quarry
+O*NET-SOC Code: 47-5051.00
+
+# DESCRIPTION
+Separate blocks of rough dimension stone from quarry mass using jackhammers, wedges, or chop saws.
+
+# TASKS
+- Locate grain line patterns to determine how rocks will split when cut.
+- Remove pieces of stone from larger masses, using jackhammers, wedges, and other tools.
+- Insert wedges and feathers into holes, and drive wedges with sledgehammers to split stone sections from masses.
+- Mark dimensions or outlines on stone prior to cutting, using rules and chalk lines.
+- Cut slabs of stone into sheets that will be used for floors or counters.
+- Set charges of explosives to split rock.
+- Drill holes along outlines, using jackhammers.
+- Drill holes into sides of stones broken from masses, insert dogs or attach slings, and direct removal of stones.
+- Cut grooves along outlines, using chisels.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Production and Processing (Importance: 2.96/5 | Level: 3.39/7)
+- Mechanical (Importance: 2.86/5 | Level: 2.94/7)
+- Mathematics (Importance: 2.81/5 | Level: 2.45/7)
+- Education and Training (Importance: 2.75/5 | Level: 3.16/7)
+- Public Safety and Security (Importance: 2.75/5 | Level: 2.22/7)
+- Administration and Management (Importance: 2.74/5 | Level: 2.42/7)
+- English Language (Importance: 2.65/5 | Level: 2.68/7)
+- Personnel and Human Resources (Importance: 2.59/5 | Level: 2.14/7)
+- Customer and Personal Service (Importance: 2.57/5 | Level: 2.95/7)
+- Transportation (Importance: 2.54/5 | Level: 2.48/7)
+- Therapy and Counseling (Importance: 2.44/5 | Level: 1.9/7)
+- Building and Construction (Importance: 2.38/5 | Level: 1.91/7)
+- Medicine and Dentistry (Importance: 2.29/5 | Level: 2.1/7)
+- Sales and Marketing (Importance: 2.26/5 | Level: 1.79/7)
+- Administrative (Importance: 2.25/5 | Level: 1.79/7)
+- Economics and Accounting (Importance: 2.24/5 | Level: 2.01/7)
+- Design (Importance: 2.21/5 | Level: 1.7/7)
+- Chemistry (Importance: 2.2/5 | Level: 2.13/7)
+- Psychology (Importance: 2.19/5 | Level: 1.35/7)
+- Physics (Importance: 2.17/5 | Level: 2.64/7)
+- Computers and Electronics (Importance: 2.17/5 | Level: 1.54/7)
+- Foreign Language (Importance: 2.15/5 | Level: 1.65/7)
+- Law and Government (Importance: 2.11/5 | Level: 1.67/7)
+- Engineering and Technology (Importance: 2.07/5 | Level: 2.43/7)
+- Communications and Media (Importance: 2.06/5 | Level: 0.77/7)
+- Telecommunications (Importance: 2.0/5 | Level: 1.87/7)
+- Philosophy and Theology (Importance: 1.95/5 | Level: 1.64/7)
+- Biology (Importance: 1.81/5 | Level: 1.55/7)
+- Sociology and Anthropology (Importance: 1.72/5 | Level: 1.84/7)
+- History and Archeology (Importance: 1.69/5 | Level: 0.87/7)
+- Geography (Importance: 1.67/5 | Level: 1.28/7)
+- Food Production (Importance: 1.64/5 | Level: 1.45/7)
+- Fine Arts (Importance: 1.46/5 | Level: 0.29/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operation and Control (Importance: 3.25/5 | Level: 3.0/7)
+- Operations Monitoring (Importance: 3.12/5 | Level: 2.88/7)
+- Active Listening (Importance: 3.0/5 | Level: 2.62/7)
+- Monitoring (Importance: 2.88/5 | Level: 2.5/7)
+- Complex Problem Solving (Importance: 2.75/5 | Level: 2.5/7)
+- Coordination (Importance: 2.75/5 | Level: 2.75/7)
+- Critical Thinking (Importance: 2.75/5 | Level: 2.62/7)
+- Time Management (Importance: 2.75/5 | Level: 2.38/7)
+- Reading Comprehension (Importance: 2.75/5 | Level: 2.38/7)
+- Judgment and Decision Making (Importance: 2.62/5 | Level: 2.25/7)
+- Speaking (Importance: 2.62/5 | Level: 2.62/7)
+- Social Perceptiveness (Importance: 2.5/5 | Level: 2.25/7)
+- Troubleshooting (Importance: 2.38/5 | Level: 2.25/7)
+- Equipment Maintenance (Importance: 2.25/5 | Level: 2.0/7)
+- Quality Control Analysis (Importance: 2.25/5 | Level: 2.5/7)
+- Service Orientation (Importance: 2.12/5 | Level: 2.12/7)
+- Repairing (Importance: 2.12/5 | Level: 1.75/7)
+- Active Learning (Importance: 2.12/5 | Level: 2.12/7)
+- Writing (Importance: 2.12/5 | Level: 2.12/7)
+- Instructing (Importance: 2.0/5 | Level: 1.75/7)
+- Persuasion (Importance: 2.0/5 | Level: 2.0/7)
+- Equipment Selection (Importance: 2.0/5 | Level: 1.75/7)
+- Learning Strategies (Importance: 2.0/5 | Level: 2.0/7)
+- Mathematics (Importance: 1.88/5 | Level: 1.5/7)
+- Management of Personnel Resources (Importance: 1.88/5 | Level: 1.62/7)
+- Negotiation (Importance: 1.88/5 | Level: 1.62/7)
+- Systems Evaluation (Importance: 1.62/5 | Level: 0.75/7)
+- Systems Analysis (Importance: 1.62/5 | Level: 0.75/7)
+- Management of Financial Resources (Importance: 1.5/5 | Level: 0.62/7)
+- Management of Material Resources (Importance: 1.5/5 | Level: 0.62/7)
+- Operations Analysis (Importance: 1.25/5 | Level: 0.25/7)
+- Science (Importance: 1.12/5 | Level: 0.12/7)
+- Technology Design (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Apache HTTP Server (Tech skill type: Application server software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Facebook (Tech skill type: Web page creation and editing software)
+- Maintenance reporting software (Tech skill type: Facilities management software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Minitab (Tech skill type: Analytical or scientific software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Time reporting software (Tech skill type: Time accounting software)
+
+## TOOLS USED
+- Aerial personnel lifts (Tool type: Manlift or personnel lift)
+- Air hammers (Tool type: Pneumatic hammer)
+- Cape chisels (Tool type: Cold chisels)
+- Chain slings (Tool type: Slings)
+- Chainsaws (Tool type: Chain saw)
+- Chalk lines (Tool type: Chalk lines)
+- Chipping hammers (Tool type: Demolition hammers)
+- Concrete saws (Tool type: Power saws)
+- Core drills (Tool type: Power drills)
+- Crushing machines (Tool type: Crushers)
+- Derrick cranes (Tool type: Derricks)
+- Diamond wall saws (Tool type: Power saws)
+- Dust suppression systems (Tool type: Filtering machinery)
+- Field forklifts (Tool type: Forklifts)
+- Flat wedges (Tool type: Wedges)
+- Floor saws (Tool type: Power saws)
+- Four-wheel drive front end loaders (Tool type: Front end loaders)
+- Grinding dogs (Tool type: Bench dog)
+- Heavy dump trucks (Tool type: Dump trucks)
+- Hydraulic breakers (Tool type: Demolition hammers)
+- Hydraulic jacks (Tool type: Jacks)
+- Hydraulic rock drills (Tool type: Hydraulic rock drills)
+- Hydraulic wedges (Tool type: Wedges)
+- Jackhammers (Tool type: Pneumatic hammer)
+- Mason's hammers (Tool type: Hammers)
+- Materials conveyors (Tool type: Belt conveyors)
+- Personal computers (Tool type: Personal computers)
+- Pneumatic hammer drills (Tool type: Hammer drills)
+- Pneumatic quarry drills (Tool type: Pneumatic rock drills)
+- Portable air compressors (Tool type: Air compressors)
+- Quarry hammers (Tool type: Rock crushers)
+- Quarry scales (Tool type: Floor or platform scales)
+- Rock chisels (Tool type: Cold chisels)
+- Rock saws (Tool type: Rock cutters)
+- Rock splitters (Tool type: Repetitive impact systems)
+- Skid steer machines (Tool type: Skid steer loaders)
+- Sledgehammers (Tool type: Sledge hammer)
+- Spot welding tools (Tool type: Spot welding machine)
+- Star drills (Tool type: Hand held rock drills)
+- Stationary wire saws (Tool type: Power saws)
+- Tracked bulldozers (Tool type: Track bulldozers)
+- Tracked excavators (Tool type: Track excavators)
+
+# WORK CONTEXT
+- Conflict Situations: Never
+- Consequence of Error: Extremely serious
+- Contact With Others: Contact with others most of the time
+- Coordinate or Lead Others in Accomplishing Work Activities: Fairly important
+- Deal With External Customers or the Public in General: Not important at all
+- Dealing With Unpleasant, Angry, or Discourteous People: Never
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Slightly automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Never
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Every day
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Every day
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Every day
+- Exposed to Whole Body Vibration: Every day
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Limited freedom
+- Frequency of Decision Making: Never
+- Health and Safety of Other Workers: High responsibility
+- Impact of Decisions on Co-workers or Company Results: No results
+- Importance of Being Exact or Accurate: Very important
+- Importance of Repeating Same Tasks: Not important at all
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Every day
+- Indoors, Environmentally Controlled: Never
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Not at all competitive
+- Outdoors, Exposed to All Weather Conditions: Every day
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Fairly important
+- Physical Proximity: I work with others but not closely (e.g., private office)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: About half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Less than half the time
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: About half the time
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: Continually or almost continually
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: About half the time
+- Telephone Conversations: Never
+- Time Pressure: Once a year or more but not every month
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: No responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Never
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Stone Cutters and Carvers, Manufacturing
+- Rotary Drill Operators, Oil and Gas
+- Foundry Mold and Coremakers
+- Sawing Machine Setters, Operators, and Tenders, Wood
+- Earth Drillers, Except Oil and Gas
+- Cutters and Trimmers, Hand
+- Cement Masons and Concrete Finishers
+- Construction Laborers
+- Grinding and Polishing Workers, Hand
+- Helpers--Extraction Workers
+- Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+- Molders, Shapers, and Casters, Except Metal and Plastic
+- Stonemasons
+- Segmental Pavers
+- Brickmasons and Blockmasons
+- Cutting and Slicing Machine Setters, Operators, and Tenders
+- Tool Grinders, Filers, and Sharpeners
+- Tile and Stone Setters
+- Terrazzo Workers and Finishers
+- Continuous Mining Machine Operators

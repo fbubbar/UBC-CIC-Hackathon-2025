@@ -1,0 +1,224 @@
+Job Title: Hydroelectric Production Managers
+O*NET-SOC Code: 11-3051.06
+
+# DESCRIPTION
+Manage operations at hydroelectric power generation facilities. Maintain and monitor hydroelectric plant equipment for efficient and safe plant operations.
+
+# TASKS
+- Direct operations, maintenance, or repair of hydroelectric power facilities.
+- Identify and communicate power system emergencies.
+- Maintain records of hydroelectric facility operations, maintenance, or repairs.
+- Perform or direct preventive or corrective containment or cleanup to protect the environment.
+- Monitor or inspect hydroelectric equipment, such as hydro-turbines, generators, or control systems.
+- Inspect hydroelectric facilities, including switchyards, control houses, or relay houses, for normal operation or adherence to safety standards.
+- Supervise or monitor hydroelectric facility operations to ensure that generation or mechanical equipment conform to applicable regulations or standards.
+- Plan or coordinate hydroelectric production operations to meet customer requirements.
+- Check hydroelectric operations for compliance with prescribed operating limits, such as loads, voltages, temperatures, lines, or equipment.
+- Develop or implement projects to improve efficiency, economy, or effectiveness of hydroelectric plant operations.
+- Provide technical direction in the erection or commissioning of hydroelectric equipment or supporting electrical or mechanical systems.
+- Supervise hydropower plant equipment installations, upgrades, or maintenance.
+- Plan or manage hydroelectric plant upgrades.
+- Respond to problems related to ratepayers, water users, power users, government agencies, educational institutions, or other private or public power resource interests.
+- Develop or review budgets, annual plans, power contracts, power rates, standing operating procedures, power reviews, or engineering studies.
+- Develop or implement policy evaluation procedures for hydroelectric generation activities.
+- Operate energized high- or low-voltage hydroelectric power transmission system substations, according to procedures and safety requirements.
+- Create or enforce hydrostation voltage schedules.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 4.07/5 | Level: 5.48/7)
+- Public Safety and Security (Importance: 4.06/5 | Level: 4.55/7)
+- Administration and Management (Importance: 3.92/5 | Level: 4.3/7)
+- English Language (Importance: 3.82/5 | Level: 3.96/7)
+- Engineering and Technology (Importance: 3.62/5 | Level: 4.55/7)
+- Computers and Electronics (Importance: 3.6/5 | Level: 4.35/7)
+- Personnel and Human Resources (Importance: 3.58/5 | Level: 4.12/7)
+- Education and Training (Importance: 3.52/5 | Level: 4.59/7)
+- Mathematics (Importance: 3.41/5 | Level: 4.2/7)
+- Law and Government (Importance: 3.27/5 | Level: 3.72/7)
+- Design (Importance: 3.2/5 | Level: 3.87/7)
+- Administrative (Importance: 3.2/5 | Level: 3.77/7)
+- Physics (Importance: 3.13/5 | Level: 4.11/7)
+- Production and Processing (Importance: 3.11/5 | Level: 4.32/7)
+- Psychology (Importance: 3.02/5 | Level: 3.63/7)
+- Building and Construction (Importance: 2.98/5 | Level: 4.22/7)
+- Economics and Accounting (Importance: 2.76/5 | Level: 2.68/7)
+- Customer and Personal Service (Importance: 2.73/5 | Level: 3.04/7)
+- Telecommunications (Importance: 2.71/5 | Level: 2.75/7)
+- Geography (Importance: 2.62/5 | Level: 3.14/7)
+- Chemistry (Importance: 2.5/5 | Level: 3.36/7)
+- Communications and Media (Importance: 2.39/5 | Level: 2.56/7)
+- Sociology and Anthropology (Importance: 2.16/5 | Level: 1.84/7)
+- Therapy and Counseling (Importance: 1.86/5 | Level: 1.8/7)
+- Medicine and Dentistry (Importance: 1.8/5 | Level: 1.21/7)
+- Transportation (Importance: 1.79/5 | Level: 1.61/7)
+- Biology (Importance: 1.72/5 | Level: 1.18/7)
+- Sales and Marketing (Importance: 1.63/5 | Level: 1.24/7)
+- History and Archeology (Importance: 1.57/5 | Level: 1.06/7)
+- Philosophy and Theology (Importance: 1.49/5 | Level: 1.3/7)
+- Foreign Language (Importance: 1.15/5 | Level: 0.2/7)
+- Food Production (Importance: 1.03/5 | Level: 0.03/7)
+- Fine Arts (Importance: 1.03/5 | Level: 0.03/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Speaking (Importance: 4.12/5 | Level: 4.12/7)
+- Active Listening (Importance: 4.12/5 | Level: 4.0/7)
+- Reading Comprehension (Importance: 3.88/5 | Level: 4.12/7)
+- Monitoring (Importance: 3.88/5 | Level: 3.75/7)
+- Judgment and Decision Making (Importance: 3.88/5 | Level: 3.88/7)
+- Management of Personnel Resources (Importance: 3.75/5 | Level: 3.75/7)
+- Time Management (Importance: 3.75/5 | Level: 3.75/7)
+- Critical Thinking (Importance: 3.75/5 | Level: 4.0/7)
+- Active Learning (Importance: 3.62/5 | Level: 3.62/7)
+- Complex Problem Solving (Importance: 3.62/5 | Level: 3.75/7)
+- Learning Strategies (Importance: 3.62/5 | Level: 3.75/7)
+- Writing (Importance: 3.5/5 | Level: 3.88/7)
+- Coordination (Importance: 3.5/5 | Level: 3.75/7)
+- Instructing (Importance: 3.38/5 | Level: 3.88/7)
+- Systems Evaluation (Importance: 3.38/5 | Level: 3.5/7)
+- Operations Monitoring (Importance: 3.38/5 | Level: 3.62/7)
+- Persuasion (Importance: 3.38/5 | Level: 3.5/7)
+- Systems Analysis (Importance: 3.38/5 | Level: 3.38/7)
+- Service Orientation (Importance: 3.38/5 | Level: 3.38/7)
+- Operation and Control (Importance: 3.25/5 | Level: 3.25/7)
+- Science (Importance: 3.25/5 | Level: 3.25/7)
+- Mathematics (Importance: 3.25/5 | Level: 3.5/7)
+- Negotiation (Importance: 3.25/5 | Level: 3.62/7)
+- Quality Control Analysis (Importance: 3.25/5 | Level: 3.38/7)
+- Social Perceptiveness (Importance: 3.25/5 | Level: 3.62/7)
+- Management of Material Resources (Importance: 3.0/5 | Level: 3.38/7)
+- Management of Financial Resources (Importance: 3.0/5 | Level: 3.38/7)
+- Equipment Maintenance (Importance: 2.75/5 | Level: 2.62/7)
+- Troubleshooting (Importance: 2.75/5 | Level: 3.0/7)
+- Repairing (Importance: 2.38/5 | Level: 2.75/7)
+- Programming (Importance: 2.12/5 | Level: 1.38/7)
+- Operations Analysis (Importance: 2.12/5 | Level: 2.0/7)
+- Equipment Selection (Importance: 2.12/5 | Level: 1.88/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.38/7)
+- Installation (Importance: 1.25/5 | Level: 0.38/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Apache Kafka (Tech skill type: Development environment software)
+- Computerized maintenance management system CMMS (Tech skill type: Facilities management software)
+- Distributed control system DCS (Tech skill type: Industrial control software)
+- Email software (Tech skill type: Electronic mail software)
+- Enterprise resource planning ERP software (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Active Server Pages ASP (Tech skill type: Web platform development software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft operating system (Tech skill type: Operating system software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft SQL Server (Tech skill type: Data base management system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Oracle Database (Tech skill type: Data base user interface and query software)
+- Personnel scheduling software (Tech skill type: Calendar and scheduling software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Structure query language SQL (Tech skill type: Data base user interface and query software)
+- Supervisory control and data acquisition SCADA software (Tech skill type: Industrial control software)
+- VMware (Tech skill type: Clustering software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Dam water flow controls (Tool type: Water level regulator)
+- Desktop computers (Tool type: Desktop computers)
+- Electrical circuit breakers (Tool type: Circuit breakers)
+- Electrical switch gear (Tool type: Substation load control switchgears)
+- Hydraulic power generation equipment (Tool type: Hydraulic generators)
+- Hydroelectric power generator controls (Tool type: Generator control or protection panels)
+- Impulse turbines (Tool type: Turbine engines)
+- Laptop computers (Tool type: Notebook computers)
+- Mobile radios (Tool type: Two way radios)
+- Personal computers (Tool type: Personal computers)
+- Power transformers (Tool type: Power supply transformers)
+- Protective ear muffs (Tool type: Acoustic ear muffs or defenders)
+- Protective respirators (Tool type: Respirators)
+- Reaction turbines (Tool type: Turbine engines)
+- Safety glasses (Tool type: Safety glasses)
+- Turbine generators (Tool type: Turbine engines)
+
+# WORK CONTEXT
+- Conflict Situations: Once a month or more but not every week
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Very important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Moderately automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Once a year or more but not every month
+- Exposed to Cramped Work Space, Awkward Positions: Once a year or more but not every month
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Once a year or more but not every month
+- Exposed to Hazardous Conditions: Every day
+- Exposed to Hazardous Equipment: Once a month or more but not every week
+- Exposed to High Places: Once a year or more but not every month
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Once a year or more but not every month
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Once a month or more but not every week
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Very important
+- Importance of Repeating Same Tasks: Very important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Once a week or more but not every day
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Once a week or more but not every day
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Once a week or more but not every day
+- Outdoors, Under Cover: Once a week or more but not every day
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Once a year or more but not every month
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Less than half the time
+- Spend Time Keeping or Regaining Balance: Less than half the time
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Less than half the time
+- Spend Time Sitting: More than half the time
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Less than half the time
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Once a week or more but not every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Once a year or more but not every month
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Enterprising
+
+# RELATED OCCUPATIONS
+- Geothermal Production Managers
+- Biomass Power Plant Managers
+- Wind Energy Operations Managers
+- Biofuels Production Managers
+- Wind Energy Development Managers
+- Wind Energy Engineers
+- Wind Turbine Service Technicians
+- Water/Wastewater Engineers
+- Industrial Production Managers
+- Quality Control Systems Managers
+- Hydroelectric Plant Technicians
+- Power Plant Operators
+- Geothermal Technicians
+- Energy Engineers, Except Wind and Solar
+- Biomass Plant Technicians
+- Power Distributors and Dispatchers
+- Gas Plant Operators
+- Solar Energy Systems Engineers
+- Biofuels/Biodiesel Technology and Product Development Managers
+- Electrical Engineers

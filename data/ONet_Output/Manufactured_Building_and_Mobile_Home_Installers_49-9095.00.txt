@@ -1,0 +1,223 @@
+Job Title: Manufactured Building and Mobile Home Installers
+O*NET-SOC Code: 49-9095.00
+
+# DESCRIPTION
+Move or install mobile homes or prefabricated buildings.
+
+# TASKS
+- Seal open sides of modular units to prepare them for shipment, using polyethylene sheets, nails, and hammers.
+- Move and set up mobile homes or prefabricated buildings on owners' lots or at mobile home parks.
+- Inspect, examine, and test the operation of parts or systems to evaluate operating condition and to determine if repairs are needed.
+- Connect water hoses to inlet pipes of plumbing systems, and test operation of plumbing fixtures.
+- Remove damaged exterior panels, repair and replace structural frame members, and seal leaks, using hand tools.
+- List parts needed, estimate costs, and plan work procedures, using parts lists, technical manuals, and diagrams.
+- Confer with customers or read work orders to determine the nature and extent of damage to units.
+- Install, repair, and replace units, fixtures, appliances, and other items and systems in mobile and modular homes, prefabricated buildings, or travel trailers, using hand tools or power tools.
+- Reset hardware, using chisels, mallets, and screwdrivers.
+- Repair leaks in plumbing or gas lines, using caulking compounds and plastic or copper pipe.
+- Locate and repair frayed wiring, broken connections, or incorrect wiring, using ohmmeters, soldering irons, tape, and hand tools.
+- Open and close doors, windows, and drawers to test their operation, trimming edges to fit, using jackplanes or drawknives.
+- Connect electrical systems to outside power sources and activate switches to test the operation of appliances and light fixtures.
+- Refinish wood surfaces on cabinets, doors, moldings, and floors, using power sanders, putty, spray equipment, brushes, paints, or varnishes.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Building and Construction (Importance: 4.37/5 | Level: 5.18/7)
+- Public Safety and Security (Importance: 4.15/5 | Level: 4.86/7)
+- Customer and Personal Service (Importance: 4.04/5 | Level: 4.24/7)
+- Design (Importance: 3.81/5 | Level: 4.85/7)
+- Transportation (Importance: 3.73/5 | Level: 4.38/7)
+- Engineering and Technology (Importance: 3.59/5 | Level: 4.13/7)
+- Mathematics (Importance: 3.58/5 | Level: 3.71/7)
+- Mechanical (Importance: 3.55/5 | Level: 4.45/7)
+- Law and Government (Importance: 3.34/5 | Level: 3.77/7)
+- English Language (Importance: 3.25/5 | Level: 3.39/7)
+- Education and Training (Importance: 3.14/5 | Level: 3.65/7)
+- Production and Processing (Importance: 3.04/5 | Level: 3.08/7)
+- Administration and Management (Importance: 2.84/5 | Level: 3.2/7)
+- Physics (Importance: 2.77/5 | Level: 3.0/7)
+- Psychology (Importance: 2.73/5 | Level: 2.67/7)
+- Personnel and Human Resources (Importance: 2.65/5 | Level: 2.93/7)
+- Sales and Marketing (Importance: 2.52/5 | Level: 2.44/7)
+- Chemistry (Importance: 2.48/5 | Level: 2.76/7)
+- Therapy and Counseling (Importance: 2.3/5 | Level: 2.23/7)
+- Geography (Importance: 2.28/5 | Level: 2.36/7)
+- Telecommunications (Importance: 2.26/5 | Level: 2.12/7)
+- Medicine and Dentistry (Importance: 2.1/5 | Level: 2.02/7)
+- Sociology and Anthropology (Importance: 1.98/5 | Level: 1.79/7)
+- Computers and Electronics (Importance: 1.92/5 | Level: 1.66/7)
+- Communications and Media (Importance: 1.91/5 | Level: 1.63/7)
+- Foreign Language (Importance: 1.89/5 | Level: 1.4/7)
+- Biology (Importance: 1.89/5 | Level: 1.4/7)
+- Economics and Accounting (Importance: 1.73/5 | Level: 1.23/7)
+- Administrative (Importance: 1.72/5 | Level: 1.21/7)
+- Philosophy and Theology (Importance: 1.69/5 | Level: 1.21/7)
+- Food Production (Importance: 1.69/5 | Level: 1.21/7)
+- History and Archeology (Importance: 1.68/5 | Level: 1.2/7)
+- Fine Arts (Importance: 1.68/5 | Level: 1.2/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operation and Control (Importance: 3.75/5 | Level: 3.25/7)
+- Critical Thinking (Importance: 3.75/5 | Level: 3.25/7)
+- Quality Control Analysis (Importance: 3.75/5 | Level: 3.62/7)
+- Operations Monitoring (Importance: 3.62/5 | Level: 3.12/7)
+- Coordination (Importance: 3.5/5 | Level: 3.62/7)
+- Judgment and Decision Making (Importance: 3.5/5 | Level: 3.0/7)
+- Monitoring (Importance: 3.5/5 | Level: 3.38/7)
+- Management of Personnel Resources (Importance: 3.38/5 | Level: 3.12/7)
+- Time Management (Importance: 3.38/5 | Level: 3.12/7)
+- Speaking (Importance: 3.38/5 | Level: 2.88/7)
+- Active Listening (Importance: 3.38/5 | Level: 2.88/7)
+- Active Learning (Importance: 3.38/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 3.38/5 | Level: 3.12/7)
+- Complex Problem Solving (Importance: 3.38/5 | Level: 3.25/7)
+- Troubleshooting (Importance: 3.25/5 | Level: 3.25/7)
+- Instructing (Importance: 3.25/5 | Level: 3.12/7)
+- Reading Comprehension (Importance: 3.12/5 | Level: 3.12/7)
+- Service Orientation (Importance: 3.12/5 | Level: 2.75/7)
+- Negotiation (Importance: 3.12/5 | Level: 2.75/7)
+- Repairing (Importance: 3.12/5 | Level: 3.38/7)
+- Persuasion (Importance: 3.0/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 2.75/7)
+- Equipment Selection (Importance: 2.88/5 | Level: 2.62/7)
+- Systems Analysis (Importance: 2.75/5 | Level: 2.62/7)
+- Systems Evaluation (Importance: 2.62/5 | Level: 2.88/7)
+- Equipment Maintenance (Importance: 2.62/5 | Level: 2.62/7)
+- Management of Material Resources (Importance: 2.62/5 | Level: 2.38/7)
+- Installation (Importance: 2.62/5 | Level: 2.38/7)
+- Mathematics (Importance: 2.62/5 | Level: 2.88/7)
+- Writing (Importance: 2.62/5 | Level: 2.88/7)
+- Management of Financial Resources (Importance: 2.25/5 | Level: 2.12/7)
+- Operations Analysis (Importance: 2.25/5 | Level: 2.0/7)
+- Technology Design (Importance: 2.0/5 | Level: 1.5/7)
+- Science (Importance: 1.62/5 | Level: 0.88/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Email software (Tech skill type: Electronic mail software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Beam type torque wrenches (Tool type: Torque wrenches)
+- Carpenters' levels (Tool type: Levels)
+- Caulking guns (Tool type: Caulking guns)
+- Claw hammers (Tool type: Claw hammer)
+- Come-along hand winches (Tool type: Winches)
+- Cordless nail guns (Tool type: Power nail guns)
+- Digital ohmmeters (Tool type: Ohmmeters)
+- Digital pressure gauges (Tool type: Pressure gauge)
+- Drawknives (Tool type: Utility knives)
+- Electric air compressors (Tool type: Air compressors)
+- Flat cold chisel (Tool type: Cold chisels)
+- Hydraulic jacks (Tool type: Jacks)
+- Jackplanes (Tool type: Planes)
+- Lug nut connectors (Tool type: Wire lug crimping tool)
+- Measuring tapes (Tool type: Tape measures)
+- Mercury manometers (Tool type: Manometers)
+- Metal shears (Tool type: Tinners snips)
+- Paint brushes (Tool type: Paint brushes)
+- Paint spraying equipment (Tool type: Paint sprayers)
+- Pipe cutters (Tool type: Pipe or tube cutter)
+- Pipe wrenches (Tool type: Pipe wrenches)
+- Pneumatic staple guns (Tool type: Staple guns)
+- Pocket penetrometers (Tool type: Penetrometers)
+- Portable concrete mixers (Tool type: Concrete mixers or plants)
+- Portable electric drills (Tool type: Power drills)
+- Portable power sanders (Tool type: Power sanders)
+- Power carpet stretchers (Tool type: Torque tools)
+- Power screwdrivers (Tool type: Power screwguns)
+- Ratchet wrenches (Tool type: Ratchets)
+- Rubber mallets (Tool type: Rubber mallet)
+- Slotted screwdrivers (Tool type: Screwdrivers)
+- Socket wrench sets (Tool type: Socket sets)
+- Soil torque probes (Tool type: Penetrometers)
+- Soldering irons (Tool type: Soldering iron)
+- Tracked excavators (Tool type: Track excavators)
+- Trailer moving trucks (Tool type: Flatbed truck)
+- Water levels (Tool type: Levels)
+
+# WORK CONTEXT
+- Conflict Situations: Every day
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Not important at all
+- Deal With External Customers or the Public in General: Fairly important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a month or more but not every week
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Never
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Every day
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Every day
+- Exposed to High Places: Once a month or more but not every week
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Every day
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Every day
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Not important at all
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Every day
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Never
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Every day
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Very close (near touching)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Continually or almost continually
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Less than half the time
+- Spend Time Keeping or Regaining Balance: Less than half the time
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Continually or almost continually
+- Spend Time Making Repetitive Motions: More than half the time
+- Spend Time Sitting: Never
+- Spend Time Standing: Continually or almost continually
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Once a week or more but not every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Never
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: High responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Never
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Carpenters
+- Millwrights
+- Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+- Structural Iron and Steel Workers
+- Structural Metal Fabricators and Fitters
+- Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters
+- Plumbers, Pipefitters, and Steamfitters
+- Helpers--Installation, Maintenance, and Repair Workers
+- Mobile Heavy Equipment Mechanics, Except Engines
+- Construction Laborers
+- Maintenance and Repair Workers, General
+- Boilermakers
+- Helpers--Electricians
+- Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters
+- Engine and Other Machine Assemblers
+- Electrical and Electronics Installers and Repairers, Transportation Equipment
+- Electricians
+- Layout Workers, Metal and Plastic
+- Industrial Machinery Mechanics
+- Insulation Workers, Floor, Ceiling, and Wall

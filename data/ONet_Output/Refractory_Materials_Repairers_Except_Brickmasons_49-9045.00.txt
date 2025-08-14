@@ -1,0 +1,219 @@
+Job Title: Refractory Materials Repairers, Except Brickmasons
+O*NET-SOC Code: 49-9045.00
+
+# DESCRIPTION
+Build or repair equipment such as furnaces, kilns, cupolas, boilers, converters, ladles, soaking pits, and ovens, using refractory materials.
+
+# TASKS
+- Reline or repair ladles and pouring spouts with refractory clay, using trowels.
+- Chip slag from linings of ladles or remove linings when beyond repair, using hammers and chisels.
+- Mix specified amounts of sand, clay, mortar powder, and water to form refractory clay or mortar, using shovels or mixing machines.
+- Measure furnace walls to determine dimensions and cut required number of sheets from plastic block, using saws.
+- Dry and bake new linings by placing inverted linings over burners, building fires in ladles, or by using blowtorches.
+- Remove worn or damaged plastic block refractory linings of furnaces, using hand tools.
+- Climb scaffolding, carrying hoses, and spray surfaces of cupolas with refractory mixtures, using spray equipment.
+- Spread mortar on stopper heads and rods, using trowels, and slide brick sleeves over rods to form refractory jackets.
+- Dump and tamp clay in molds, using tamping tools.
+- Transfer clay structures to curing ovens, melting tanks, and drawing kilns, using forklifts.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 3.53/5 | Level: 4.27/7)
+- Production and Processing (Importance: 2.98/5 | Level: 2.5/7)
+- Public Safety and Security (Importance: 2.74/5 | Level: 2.44/7)
+- English Language (Importance: 2.68/5 | Level: 2.82/7)
+- Mathematics (Importance: 2.59/5 | Level: 2.57/7)
+- Chemistry (Importance: 2.47/5 | Level: 2.07/7)
+- Design (Importance: 2.42/5 | Level: 2.21/7)
+- Education and Training (Importance: 2.41/5 | Level: 2.38/7)
+- Building and Construction (Importance: 2.26/5 | Level: 1.91/7)
+- Engineering and Technology (Importance: 2.23/5 | Level: 2.18/7)
+- Administration and Management (Importance: 2.1/5 | Level: 1.48/7)
+- Transportation (Importance: 1.9/5 | Level: 1.3/7)
+- Customer and Personal Service (Importance: 1.88/5 | Level: 1.35/7)
+- Communications and Media (Importance: 1.83/5 | Level: 1.1/7)
+- Computers and Electronics (Importance: 1.71/5 | Level: 1.22/7)
+- Physics (Importance: 1.67/5 | Level: 1.1/7)
+- Personnel and Human Resources (Importance: 1.64/5 | Level: 0.92/7)
+- Law and Government (Importance: 1.61/5 | Level: 1.2/7)
+- Sales and Marketing (Importance: 1.49/5 | Level: 0.44/7)
+- Administrative (Importance: 1.48/5 | Level: 0.77/7)
+- Geography (Importance: 1.36/5 | Level: 0.48/7)
+- Telecommunications (Importance: 1.28/5 | Level: 0.48/7)
+- Medicine and Dentistry (Importance: 1.27/5 | Level: 0.23/7)
+- Food Production (Importance: 1.2/5 | Level: 0.22/7)
+- Biology (Importance: 1.19/5 | Level: 0.38/7)
+- Psychology (Importance: 1.17/5 | Level: 0.43/7)
+- Sociology and Anthropology (Importance: 1.14/5 | Level: 0.27/7)
+- History and Archeology (Importance: 1.11/5 | Level: 0.22/7)
+- Economics and Accounting (Importance: 1.04/5 | Level: 0.08/7)
+- Philosophy and Theology (Importance: 1.03/5 | Level: 0.07/7)
+- Fine Arts (Importance: 1.01/5 | Level: 0.02/7)
+- Foreign Language (Importance: 1.01/5 | Level: 0.02/7)
+- Therapy and Counseling (Importance: 1.01/5 | Level: 0.01/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operations Monitoring (Importance: 3.25/5 | Level: 3.25/7)
+- Repairing (Importance: 3.12/5 | Level: 2.75/7)
+- Equipment Maintenance (Importance: 3.0/5 | Level: 2.75/7)
+- Active Listening (Importance: 3.0/5 | Level: 2.88/7)
+- Operation and Control (Importance: 3.0/5 | Level: 3.0/7)
+- Critical Thinking (Importance: 2.88/5 | Level: 3.0/7)
+- Troubleshooting (Importance: 2.88/5 | Level: 2.88/7)
+- Coordination (Importance: 2.88/5 | Level: 2.75/7)
+- Reading Comprehension (Importance: 2.88/5 | Level: 2.62/7)
+- Time Management (Importance: 2.88/5 | Level: 2.5/7)
+- Judgment and Decision Making (Importance: 2.75/5 | Level: 2.62/7)
+- Speaking (Importance: 2.75/5 | Level: 2.75/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 2.38/7)
+- Monitoring (Importance: 2.75/5 | Level: 2.75/7)
+- Equipment Selection (Importance: 2.62/5 | Level: 1.88/7)
+- Complex Problem Solving (Importance: 2.62/5 | Level: 2.12/7)
+- Quality Control Analysis (Importance: 2.62/5 | Level: 2.75/7)
+- Writing (Importance: 2.5/5 | Level: 2.25/7)
+- Instructing (Importance: 2.5/5 | Level: 2.38/7)
+- Service Orientation (Importance: 2.38/5 | Level: 2.0/7)
+- Active Learning (Importance: 2.38/5 | Level: 2.12/7)
+- Management of Personnel Resources (Importance: 2.25/5 | Level: 1.88/7)
+- Learning Strategies (Importance: 2.25/5 | Level: 2.12/7)
+- Mathematics (Importance: 2.0/5 | Level: 1.75/7)
+- Negotiation (Importance: 2.0/5 | Level: 1.88/7)
+- Persuasion (Importance: 2.0/5 | Level: 1.75/7)
+- Operations Analysis (Importance: 2.0/5 | Level: 1.25/7)
+- Systems Analysis (Importance: 1.88/5 | Level: 1.62/7)
+- Systems Evaluation (Importance: 1.75/5 | Level: 1.38/7)
+- Management of Material Resources (Importance: 1.62/5 | Level: 0.88/7)
+- Technology Design (Importance: 1.62/5 | Level: 0.75/7)
+- Management of Financial Resources (Importance: 1.5/5 | Level: 0.62/7)
+- Installation (Importance: 1.38/5 | Level: 0.38/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Maintenance management software (Tech skill type: Facilities management software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Time tracking software (Tech skill type: Time accounting software)
+
+## TOOLS USED
+- Acid scrubbers (Tool type: Wet scrubbers)
+- Band saws (Tool type: Metal band sawing machine)
+- Boom trucks (Tool type: Conventional truck cranes)
+- Brick cutting saws (Tool type: Power saws)
+- Brick hammers (Tool type: Stonemason hammer)
+- Burner management systems (Tool type: Furnace control console)
+- Conveyor belts (Tool type: Belt conveyors)
+- Cordless power grinders (Tool type: Power grinders)
+- Cordless power nibblers (Tool type: Power nibbler)
+- Cordless saws (Tool type: Power saws)
+- Cutting torches (Tool type: Blow torch)
+- Dump trucks (Tool type: Dump trucks)
+- Electric overhead traveling EOT crane (Tool type: Overhead crane)
+- Feed fired heaters (Tool type: Furnaces)
+- Flat cold chisels (Tool type: Cold chisels)
+- Floor-mounted jib cranes (Tool type: Jib crane)
+- Foundry transfer ladles (Tool type: Foundry ladles)
+- Heavy duty shears (Tool type: Shears)
+- Horizontal helical blade mixers (Tool type: Helical blade mixer)
+- Lift trucks (Tool type: Conventional truck cranes)
+- Masonry trowels (Tool type: Trowels)
+- Mixer trucks (Tool type: Concrete transport truck)
+- Personal computers (Tool type: Personal computers)
+- Puck mills (Tool type: Laboratory crushers or pulverizers)
+- Return idlers (Tool type: Conveyor idlers)
+- Rotary kilns (Tool type: Furnaces)
+- Rotary tools (Tool type: Power grinders)
+- Skid steer tractors (Tool type: Skid steer loaders)
+- Trackhoes (Tool type: Backhoes)
+- Trough finders (Tool type: Rangefinders)
+- Variable speed mortar pumps (Tool type: Mortar pump)
+- Wheeled forklifts (Tool type: Forklifts)
+- Wheeled front-end loaders (Tool type: Front end loaders)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Not serious at all
+- Contact With Others: Contact with others most of the time
+- Coordinate or Lead Others in Accomplishing Work Activities: Important
+- Deal With External Customers or the Public in General: Not important at all
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a week or more but not every day
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Slightly automated
+- Determine Tasks, Priorities and Goals: Very little freedom
+- E-Mail: Never
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Every day
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Every day
+- Exposed to Hazardous Conditions: Every day
+- Exposed to Hazardous Equipment: Every day
+- Exposed to High Places: Every day
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Every day
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Every day
+- Exposed to Whole Body Vibration: Every day
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Once a week or more but not every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Very important
+- Importance of Repeating Same Tasks: Important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Every day
+- Indoors, Environmentally Controlled: Never
+- Indoors, Not Environmentally Controlled: Every day
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Once a week or more but not every day
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Extremely important
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Continually or almost continually
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Less than half the time
+- Spend Time Keeping or Regaining Balance: About half the time
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: More than half the time
+- Spend Time Making Repetitive Motions: Continually or almost continually
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: More than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: About half the time
+- Telephone Conversations: Once a week or more but not every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Every day
+- Work Outcomes and Results of Other Workers: Moderate responsibility
+- Work With or Contribute to a Work Group or Team: Very important
+- Written Letters and Memos: Never
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Brickmasons and Blockmasons
+- Molders, Shapers, and Casters, Except Metal and Plastic
+- Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters
+- Foundry Mold and Coremakers
+- Terrazzo Workers and Finishers
+- Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic
+- Metal-Refining Furnace Operators and Tenders
+- Structural Metal Fabricators and Fitters
+- Cement Masons and Concrete Finishers
+- Boilermakers
+- Pourers and Casters, Metal
+- Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic
+- Insulation Workers, Floor, Ceiling, and Wall
+- Sheet Metal Workers
+- Plating Machine Setters, Operators, and Tenders, Metal and Plastic
+- Grinding and Polishing Workers, Hand
+- Fiberglass Laminators and Fabricators
+- Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+- Coating, Painting, and Spraying Machine Setters, Operators, and Tenders
+- Maintenance Workers, Machinery

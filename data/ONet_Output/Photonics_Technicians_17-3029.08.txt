@@ -1,0 +1,317 @@
+Job Title: Photonics Technicians
+O*NET-SOC Code: 17-3029.08
+
+# DESCRIPTION
+Build, install, test, or maintain optical or fiber optic equipment, such as lasers, lenses, or mirrors, using spectrometers, interferometers, or related equipment.
+
+# TASKS
+- Compute or record photonic test data.
+- Maintain clean working environments, according to clean room standards.
+- Adjust or maintain equipment, such as lasers, laser systems, microscopes, oscilloscopes, pulse generators, power meters, beam analyzers, or energy measurement devices.
+- Document procedures, such as calibration of optical or fiber optic equipment.
+- Set up or operate assembly or processing equipment, such as lasers, cameras, die bonders, wire bonders, dispensers, reflow ovens, soldering irons, die shears, wire pull testers, temperature or humidity chambers, or optical spectrum analyzers.
+- Assist scientists or engineers in the conduct of photonic experiments.
+- Test or perform failure analysis for optomechanical or optoelectrical products, according to test plans.
+- Assist engineers in the development of new products, fixtures, tools, or processes.
+- Recommend optical or optic equipment design or material changes to reduce costs or processing times.
+- Set up or operate prototype or test apparatus, such as control consoles, collimators, recording equipment, or cables.
+- Monitor inventory levels and order supplies as necessary.
+- Assemble fiber optical, optoelectronic, or free-space optics components, subcomponents, assemblies, or subassemblies.
+- Optimize photonic process parameters by making prototype or production devices.
+- Splice fibers, using fusion splicing or other techniques.
+- Build prototype optomechanical devices for use in equipment such as aerial cameras, gun sights, or telescopes.
+- Terminate, cure, polish, or test fiber cables with mechanical connectors.
+- Perform diagnostic analyses of processing steps, using analytical or metrological tools, such as microscopy, profilometry, or ellipsometry devices.
+- Assemble or adjust parts or related electrical units of prototypes to prepare for testing.
+- Repair or calibrate products, such as surgical lasers.
+- Design, build, or modify fixtures used to assemble parts.
+- Assemble components of energy-efficient optical communications systems involving photonic switches, optical backplanes, or optoelectronic interfaces.
+- Lay out cutting lines for machining, using drafting tools.
+- Mix, pour, or use processing chemicals or gases according to safety standards or established operating procedures.
+- Fabricate devices, such as optoelectronic or semiconductor devices.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Engineering and Technology (Importance: 3.91/5 | Level: 4.55/7)
+- Computers and Electronics (Importance: 3.81/5 | Level: 4.68/7)
+- Mathematics (Importance: 3.45/5 | Level: 4.27/7)
+- Mechanical (Importance: 3.41/5 | Level: 4.45/7)
+- English Language (Importance: 3.23/5 | Level: 3.45/7)
+- Production and Processing (Importance: 3.23/5 | Level: 3.23/7)
+- Physics (Importance: 3.18/5 | Level: 3.77/7)
+- Customer and Personal Service (Importance: 3.05/5 | Level: 3.36/7)
+- Design (Importance: 2.91/5 | Level: 3.77/7)
+- Administrative (Importance: 2.73/5 | Level: 3.14/7)
+- Administration and Management (Importance: 2.64/5 | Level: 2.95/7)
+- Telecommunications (Importance: 2.64/5 | Level: 2.59/7)
+- Public Safety and Security (Importance: 2.27/5 | Level: 2.41/7)
+- Education and Training (Importance: 2.24/5 | Level: 2.64/7)
+- Chemistry (Importance: 2.23/5 | Level: 3.0/7)
+- Communications and Media (Importance: 2.09/5 | Level: 2.27/7)
+- Law and Government (Importance: 2.0/5 | Level: 2.05/7)
+- Building and Construction (Importance: 2.0/5 | Level: 2.32/7)
+- Sales and Marketing (Importance: 1.81/5 | Level: 1.76/7)
+- Transportation (Importance: 1.76/5 | Level: 1.68/7)
+- Economics and Accounting (Importance: 1.73/5 | Level: 1.09/7)
+- Personnel and Human Resources (Importance: 1.68/5 | Level: 1.59/7)
+- Foreign Language (Importance: 1.5/5 | Level: 0.91/7)
+- Psychology (Importance: 1.43/5 | Level: 1.05/7)
+- Biology (Importance: 1.36/5 | Level: 0.91/7)
+- Geography (Importance: 1.36/5 | Level: 1.14/7)
+- Sociology and Anthropology (Importance: 1.18/5 | Level: 0.36/7)
+- History and Archeology (Importance: 1.14/5 | Level: 0.27/7)
+- Medicine and Dentistry (Importance: 1.14/5 | Level: 0.33/7)
+- Food Production (Importance: 1.09/5 | Level: 0.23/7)
+- Fine Arts (Importance: 1.09/5 | Level: 0.09/7)
+- Philosophy and Theology (Importance: 1.05/5 | Level: 0.09/7)
+- Therapy and Counseling (Importance: 1.05/5 | Level: 0.09/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Reading Comprehension (Importance: 3.5/5 | Level: 3.75/7)
+- Critical Thinking (Importance: 3.38/5 | Level: 3.62/7)
+- Quality Control Analysis (Importance: 3.38/5 | Level: 3.5/7)
+- Operations Monitoring (Importance: 3.38/5 | Level: 3.12/7)
+- Active Listening (Importance: 3.38/5 | Level: 3.5/7)
+- Active Learning (Importance: 3.25/5 | Level: 3.38/7)
+- Monitoring (Importance: 3.25/5 | Level: 3.25/7)
+- Equipment Maintenance (Importance: 3.25/5 | Level: 3.0/7)
+- Troubleshooting (Importance: 3.12/5 | Level: 3.62/7)
+- Speaking (Importance: 3.12/5 | Level: 3.12/7)
+- Writing (Importance: 3.12/5 | Level: 3.12/7)
+- Complex Problem Solving (Importance: 3.12/5 | Level: 3.25/7)
+- Time Management (Importance: 3.0/5 | Level: 3.0/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 3.12/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Repairing (Importance: 3.0/5 | Level: 3.0/7)
+- Operation and Control (Importance: 2.88/5 | Level: 3.0/7)
+- Installation (Importance: 2.88/5 | Level: 3.25/7)
+- Systems Evaluation (Importance: 2.88/5 | Level: 3.12/7)
+- Systems Analysis (Importance: 2.88/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 2.75/7)
+- Equipment Selection (Importance: 2.75/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 2.75/5 | Level: 2.88/7)
+- Mathematics (Importance: 2.75/5 | Level: 3.0/7)
+- Instructing (Importance: 2.62/5 | Level: 2.75/7)
+- Science (Importance: 2.5/5 | Level: 2.38/7)
+- Service Orientation (Importance: 2.38/5 | Level: 2.5/7)
+- Technology Design (Importance: 2.25/5 | Level: 2.0/7)
+- Management of Personnel Resources (Importance: 2.25/5 | Level: 2.38/7)
+- Programming (Importance: 2.12/5 | Level: 2.0/7)
+- Management of Material Resources (Importance: 2.12/5 | Level: 1.75/7)
+- Persuasion (Importance: 2.12/5 | Level: 2.0/7)
+- Negotiation (Importance: 2.0/5 | Level: 2.0/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.5/7)
+- Operations Analysis (Importance: 1.88/5 | Level: 1.75/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Computer aided design CAD software (Tech skill type: Computer aided design CAD software)
+- Computer aided manufacturing CAM software (Tech skill type: Computer aided manufacturing CAM software)
+- Dassault Systemes SolidWorks (Tech skill type: Computer aided design CAD software)
+- Data acquisition software (Tech skill type: Analytical or scientific software)
+- Database software (Tech skill type: Data base user interface and query software)
+- Enterprise resource planning ERP software (Tech skill type: Enterprise resource planning ERP software)
+- Facebook (Tech skill type: Web page creation and editing software)
+- Image processing software (Tech skill type: Graphics or photo imaging software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- National Instruments LabVIEW (Tech skill type: Development environment software)
+- Presentation software (Tech skill type: Presentation software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Statistical analysis software (Tech skill type: Analytical or scientific software)
+- The MathWorks MATLAB (Tech skill type: Analytical or scientific software)
+- Web browser software (Tech skill type: Internet browser software)
+- Word processing software (Tech skill type: Word processing software)
+- ZEMAX Optical Design Program (Tech skill type: Computer aided design CAD software)
+
+## TOOLS USED
+- Abrasive grinding machines (Tool type: Power grinders)
+- Analog oscilloscopes (Tool type: Oscilloscopes)
+- Atomic force microscopes AFM (Tool type: Scanning probe microscopes)
+- Autocollimators (Tool type: Optical diffusers)
+- Bench refractometers (Tool type: Bench refractometers or polarimeters)
+- Binocular light compound microscopes (Tool type: Binocular light compound microscopes)
+- Biosafety cabinets (Tool type: HEPA filtered enclosures)
+- Bit error rate testers BERT (Tool type: Digital testers)
+- Calipers (Tool type: Calipers)
+- Chemical protective face shields (Tool type: Facial shields)
+- Chemical vapor deposition CVD systems (Tool type: Semiconductor process systems)
+- Collimators (Tool type: X ray diffraction equipment)
+- Common path interferometers (Tool type: Interferometers)
+- Computerized numerical control CNC band saws (Tool type: Sawing machines)
+- Computerized numerical control CNC drill presses (Tool type: Drill press or radial drill)
+- Computerized numerical control CNC lathes (Tool type: Horizontal turning center)
+- Computerized numerical control CNC machining centers (Tool type: Milling machines)
+- Contact profilometers (Tool type: Surface testers)
+- Coordinate measuring machines CMM (Tool type: Coordinate measuring machines CMM)
+- Cutoff saws (Tool type: Power saws)
+- Dataloggers (Tool type: Portable data input terminals)
+- Depth gauges (Tool type: Depth gauges)
+- Die bonders (Tool type: Semiconductor process systems)
+- Die saws (Tool type: Semiconductor process systems)
+- Die shears (Tool type: Power saws)
+- Diffractometers (Tool type: Diffractometers)
+- Digital logic analyzers (Tool type: Integrated circuit testers)
+- Digital logic probes (Tool type: Integrated circuit testers)
+- Digital oscilloscopes (Tool type: Oscilloscopes)
+- Diode lasers (Tool type: Lasers)
+- Electron beam evaporators (Tool type: Laboratory evaporators)
+- Electron cyclotron resonance ECR reactive ion etchers RIE (Tool type: Semiconductor process systems)
+- Ellipsometers (Tool type: Thickness measuring devices)
+- Excimer lasers (Tool type: Lasers)
+- Fabry-Perot interferometers (Tool type: Interferometers)
+- Fiber cleavers (Tool type: Cutting machines)
+- Fiber optic fault locators (Tool type: Fiber optic fault locators)
+- Fiber polishers (Tool type: Polishing machines)
+- Fire extinguishers (Tool type: Fire extinguishers)
+- Fusion splicers (Tool type: Cable splicing kits)
+- Gas lasers (Tool type: Lasers)
+- Hand calculators (Tool type: Pocket calculator)
+- Hardness testers (Tool type: Hardness testers)
+- Humidity chambers (Tool type: Refrigerated and heated reach in environmental or growth chambers)
+- Ion lasers (Tool type: Lasers)
+- Isolators (Tool type: Isolators)
+- Lab jacks (Tool type: Jacks)
+- Laboratory forceps (Tool type: Laboratory forceps)
+- Laser cutting machines (Tool type: Laser cutting machine)
+- Laser drills (Tool type: Laser cutting machine)
+- Laser heat treatment equipment (Tool type: Induction heaters)
+- Laser marking machines (Tool type: Laser measuring systems)
+- Laser welders (Tool type: Laser welding machine)
+- Liquid dye lasers (Tool type: Lasers)
+- Logic pulsers (Tool type: Integrated circuit testers)
+- Loupes (Tool type: Loupes)
+- Mach-Zehnder interferometers (Tool type: Interferometers)
+- Magnifiers (Tool type: Magnifiers)
+- Mechanical steppers (Tool type: Semiconductor process systems)
+- Michelson interferometers (Tool type: Interferometers)
+- Micrometers (Tool type: Micrometers)
+- Micropositioners (Tool type: Positioning jig)
+- Monochromators (Tool type: Monochromators)
+- Multifunction digital multimeters (Tool type: Multimeters)
+- Non contact profilometers (Tool type: Surface testers)
+- Optical alignment scopes (Tool type: Optical mounts)
+- Optical comparators (Tool type: Comparators)
+- Optical mounts (Tool type: Optical mounts)
+- Optical power meters (Tool type: Power meters)
+- Optical rails (Tool type: Optical rails or bases)
+- Optical spectrum analyzers (Tool type: Interferometers)
+- Oscilloscopes (Tool type: Oscilloscopes)
+- Personal computers (Tool type: Personal computers)
+- Phase-shifting interferometers (Tool type: Interferometers)
+- Photoelectric power meters (Tool type: Power meters)
+- Plasma strippers (Tool type: Semiconductor process systems)
+- Positioning stages (Tool type: Positioning jig)
+- Protective gloves (Tool type: Protective gloves)
+- Protective gowns (Tool type: Lab coats)
+- Rapid thermal annealers RTA (Tool type: Temperature cycling chambers or thermal cyclers)
+- Reflow ovens (Tool type: Laboratory mechanical convection ovens)
+- Safety glasses (Tool type: Safety glasses)
+- Scanning electron microscopes SEM (Tool type: Scanning electron microscopes)
+- Semiconductor detectors (Tool type: Photosensitive diodes)
+- Semiconductor parameter analyzers (Tool type: Semiconductor testers)
+- Shearing interferometers (Tool type: Interferometers)
+- Signal generators (Tool type: Signal generators)
+- Soldering irons (Tool type: Soldering iron)
+- Solid state lasers (Tool type: Lasers)
+- Spectrometers (Tool type: Spectrometers)
+- Spectrophotometers (Tool type: Spectrophotometers)
+- Spherometers (Tool type: Spherometers)
+- Sputter deposition systems (Tool type: Semiconductor process systems)
+- Temperature chambers (Tool type: Refrigerated and heated reach in environmental or growth chambers)
+- Twyman-Green interferometers (Tool type: Interferometers)
+- Vacuum deposition systems (Tool type: Semiconductor process systems)
+- Vernier micrometers (Tool type: Micrometers)
+- Wafer bonding systems (Tool type: Semiconductor process systems)
+- Wavelength meters (Tool type: Interferometers)
+- Wire bonders (Tool type: Semiconductor process systems)
+- Wire pull testers (Tool type: Tension testers)
+- Wire saws (Tool type: Power saws)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Fairly serious
+- Contact With Others: Contact with others most of the time
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Fairly important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Moderately automated
+- Determine Tasks, Priorities and Goals: Limited freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Once a year or more but not every month
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Once a week or more but not every day
+- Exposed to Hazardous Equipment: Once a week or more but not every day
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Once a week or more but not every day
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Limited freedom
+- Frequency of Decision Making: Once a year or more but not every month
+- Health and Safety of Other Workers: Moderate responsibility
+- Impact of Decisions on Co-workers or Company Results: Moderate results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Important
+- Physical Proximity: Slightly close (e.g., shared office)
+- Public Speaking: Once a year or more but not every month
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Less than half the time
+- Spend Time Sitting: About half the time
+- Spend Time Standing: About half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Once a week or more but not every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Limited responsibility
+- Work With or Contribute to a Work Group or Team: Very important
+- Written Letters and Memos: Never
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Photonics Engineers
+- Electrical and Electronic Engineering Technologists and Technicians
+- Calibration Technologists and Technicians
+- Robotics Technicians
+- Mechanical Engineering Technologists and Technicians
+- Aerospace Engineering and Operations Technologists and Technicians
+- Electrical and Electronics Repairers, Commercial and Industrial Equipment
+- Electro-Mechanical and Mechatronics Technologists and Technicians
+- Industrial Engineering Technologists and Technicians
+- Nanotechnology Engineering Technologists and Technicians
+- Microsystems Engineers
+- Electronics Engineers, Except Computer
+- Automotive Engineering Technicians
+- Medical Equipment Repairers
+- Electrical Engineers
+- Mechatronics Engineers
+- Mechanical Engineers
+- Robotics Engineers
+- Electrical and Electronics Installers and Repairers, Transportation Equipment
+- Avionics Technicians

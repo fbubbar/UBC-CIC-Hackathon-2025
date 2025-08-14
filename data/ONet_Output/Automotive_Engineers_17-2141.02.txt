@@ -1,0 +1,323 @@
+Job Title: Automotive Engineers
+O*NET-SOC Code: 17-2141.02
+
+# DESCRIPTION
+Develop new or improved designs for vehicle structural members, engines, transmissions, or other vehicle systems, using computer-assisted design technology. Direct building, modification, or testing of vehicle or components.
+
+# TASKS
+- Conduct or direct system-level automotive testing.
+- Provide technical direction to other engineers or engineering support personnel.
+- Perform failure, variation, or root cause analyses.
+- Calibrate vehicle systems, including control algorithms or other software systems.
+- Design or analyze automobile systems in areas such as aerodynamics, alternate fuels, ergonomics, hybrid power, brakes, transmissions, steering, calibration, safety, or diagnostics.
+- Prepare or present technical or project status reports.
+- Conduct research studies to develop new concepts in the field of automotive engineering.
+- Establish production or quality control standards.
+- Alter or modify designs to obtain specified functional or operational performance.
+- Research or implement green automotive technologies involving alternative fuels, electric or hybrid cars, or lighter or more fuel-efficient vehicles.
+- Develop calibration methodologies, test methodologies, or tools.
+- Create design alternatives for vehicle components, such as camless or dual-clutch engines or alternative air-conditioning systems, to increase fuel efficiency.
+- Develop or implement operating methods or procedures.
+- Develop engineering specifications or cost estimates for automotive design concepts.
+- Conduct automotive design reviews.
+- Design vehicles that use lighter materials, such as aluminum, magnesium alloy, or plastic, to improve fuel efficiency.
+- Write, review, or maintain engineering documentation.
+- Develop specifications for vehicles powered by alternative fuels or alternative power methods.
+- Build models for algorithm or control feature verification testing.
+- Coordinate production activities with other functional units, such as procurement, maintenance, or quality control.
+- Design control systems or algorithms for purposes such as automotive energy management, emissions management, or increased operational safety or performance.
+- Develop or integrate control feature requirements.
+- Research computerized automotive applications, such as telemetrics, intelligent transportation systems, artificial intelligence, or automatic control.
+- Read current literature, attend meetings or conferences, or talk with colleagues to stay abreast of new automotive technology or competitive products.
+- Design vehicles for increased recyclability or use of natural, renewable, or recycled materials in vehicle construction.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Engineering and Technology (Importance: 4.71/5 | Level: 6.38/7)
+- Physics (Importance: 4.35/5 | Level: 5.57/7)
+- Mathematics (Importance: 4.33/5 | Level: 5.52/7)
+- Mechanical (Importance: 4.14/5 | Level: 5.48/7)
+- Design (Importance: 3.86/5 | Level: 5.52/7)
+- Computers and Electronics (Importance: 3.85/5 | Level: 5.38/7)
+- Transportation (Importance: 3.76/5 | Level: 4.05/7)
+- English Language (Importance: 3.7/5 | Level: 4.33/7)
+- Production and Processing (Importance: 3.33/5 | Level: 3.67/7)
+- Administration and Management (Importance: 3.24/5 | Level: 4.05/7)
+- Chemistry (Importance: 3.0/5 | Level: 4.14/7)
+- Education and Training (Importance: 2.81/5 | Level: 4.1/7)
+- Customer and Personal Service (Importance: 2.71/5 | Level: 3.4/7)
+- Public Safety and Security (Importance: 2.67/5 | Level: 3.19/7)
+- Law and Government (Importance: 2.6/5 | Level: 3.24/7)
+- Economics and Accounting (Importance: 2.52/5 | Level: 2.38/7)
+- Telecommunications (Importance: 2.43/5 | Level: 2.48/7)
+- Administrative (Importance: 2.38/5 | Level: 3.24/7)
+- Communications and Media (Importance: 2.33/5 | Level: 2.38/7)
+- Personnel and Human Resources (Importance: 2.19/5 | Level: 2.81/7)
+- Sales and Marketing (Importance: 2.1/5 | Level: 2.57/7)
+- Foreign Language (Importance: 1.85/5 | Level: 2.05/7)
+- Psychology (Importance: 1.79/5 | Level: 1.95/7)
+- Building and Construction (Importance: 1.76/5 | Level: 1.76/7)
+- Geography (Importance: 1.75/5 | Level: 1.76/7)
+- Biology (Importance: 1.57/5 | Level: 1.33/7)
+- Sociology and Anthropology (Importance: 1.48/5 | Level: 1.14/7)
+- History and Archeology (Importance: 1.38/5 | Level: 0.71/7)
+- Food Production (Importance: 1.29/5 | Level: 0.52/7)
+- Philosophy and Theology (Importance: 1.24/5 | Level: 0.67/7)
+- Therapy and Counseling (Importance: 1.1/5 | Level: 0.19/7)
+- Medicine and Dentistry (Importance: 1.1/5 | Level: 0.2/7)
+- Fine Arts (Importance: 1.05/5 | Level: 0.1/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Complex Problem Solving (Importance: 4.12/5 | Level: 4.25/7)
+- Critical Thinking (Importance: 4.12/5 | Level: 4.75/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.75/7)
+- Writing (Importance: 3.88/5 | Level: 4.12/7)
+- Mathematics (Importance: 3.88/5 | Level: 4.88/7)
+- Speaking (Importance: 3.88/5 | Level: 3.88/7)
+- Judgment and Decision Making (Importance: 3.88/5 | Level: 4.25/7)
+- Systems Evaluation (Importance: 3.75/5 | Level: 4.12/7)
+- Systems Analysis (Importance: 3.75/5 | Level: 3.88/7)
+- Operations Analysis (Importance: 3.75/5 | Level: 3.88/7)
+- Active Listening (Importance: 3.75/5 | Level: 4.0/7)
+- Coordination (Importance: 3.5/5 | Level: 3.62/7)
+- Active Learning (Importance: 3.38/5 | Level: 4.5/7)
+- Time Management (Importance: 3.25/5 | Level: 3.25/7)
+- Science (Importance: 3.25/5 | Level: 4.12/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.75/7)
+- Persuasion (Importance: 3.12/5 | Level: 3.25/7)
+- Technology Design (Importance: 3.12/5 | Level: 3.88/7)
+- Management of Personnel Resources (Importance: 3.0/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 3.0/7)
+- Negotiation (Importance: 3.0/5 | Level: 3.0/7)
+- Quality Control Analysis (Importance: 3.0/5 | Level: 3.62/7)
+- Instructing (Importance: 3.0/5 | Level: 3.62/7)
+- Learning Strategies (Importance: 2.88/5 | Level: 3.0/7)
+- Operations Monitoring (Importance: 2.88/5 | Level: 3.0/7)
+- Service Orientation (Importance: 2.88/5 | Level: 2.75/7)
+- Programming (Importance: 2.75/5 | Level: 2.88/7)
+- Operation and Control (Importance: 2.12/5 | Level: 2.12/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 2.0/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 2.12/7)
+- Troubleshooting (Importance: 2.0/5 | Level: 2.5/7)
+- Equipment Selection (Importance: 1.88/5 | Level: 1.75/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- 1CadCam Unigraphics (Tech skill type: Computer aided manufacturing CAM software)
+- Adobe Photoshop (Tech skill type: Graphics or photo imaging software)
+- Altair Engineering MotionSolve (Tech skill type: Analytical or scientific software)
+- Ambient Design ArtRage (Tech skill type: Graphics or photo imaging software)
+- Ansys Fluent (Tech skill type: Analytical or scientific software)
+- ANSYS simulation software (Tech skill type: Analytical or scientific software)
+- Apache Groovy (Tech skill type: Object or component oriented development software)
+- Ashlar-Vellum Graphite (Tech skill type: Computer aided design CAD software)
+- Atlassian Bamboo (Tech skill type: Enterprise application integration software)
+- Atlassian Confluence (Tech skill type: Project management software)
+- Atlassian JIRA (Tech skill type: Project management software)
+- Autodesk Alias Automotive (Tech skill type: Computer aided design CAD software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Autodesk AutoCAD Mechanical (Tech skill type: Computer aided design CAD software)
+- Autodesk Inventor (Tech skill type: Computer aided design CAD software)
+- Autodesk SketchBook Pro (Tech skill type: Graphics or photo imaging software)
+- AVL AVL CRUISE (Tech skill type: Analytical or scientific software)
+- C (Tech skill type: Development environment software)
+- C# (Tech skill type: Object or component oriented development software)
+- C++ (Tech skill type: Object or component oriented development software)
+- CADRE Analytic (Tech skill type: Analytical or scientific software)
+- CNC Mastercam (Tech skill type: Computer aided manufacturing CAM software)
+- Computer aided design CAD software (Tech skill type: Computer aided design CAD software)
+- Corel Painter (Tech skill type: Graphics or photo imaging software)
+- Corel Painter Sketch Pad (Tech skill type: Graphics or photo imaging software)
+- Dassault Systemes CATIA (Tech skill type: Computer aided design CAD software)
+- Dassault Systemes Simulia Abaqus FEA (Tech skill type: Analytical or scientific software)
+- Dassault Systemes SolidWorks (Tech skill type: Computer aided design CAD software)
+- Data acquisition systems (Tech skill type: Analytical or scientific software)
+- Debugging software (Tech skill type: Program testing software)
+- Digital Equipment Corporation DIGITAL Fortran 90 (Tech skill type: Development environment software)
+- Extensible markup language XML (Tech skill type: Enterprise application integration software)
+- Gamma Technologies GT-SUITE (Tech skill type: Analytical or scientific software)
+- Git (Tech skill type: File versioning software)
+- GNU Image Manipulation Program GIMP (Tech skill type: Graphics or photo imaging software)
+- Hardware-in-the-loop HIL simulation software (Tech skill type: Analytical or scientific software)
+- IBM Notes (Tech skill type: Electronic mail software)
+- International Material Data System IMDS (Tech skill type: Data base user interface and query software)
+- IronCAD (Tech skill type: Computer aided design CAD software)
+- JavaScript (Tech skill type: Web platform development software)
+- JavaScript Object Notation JSON (Tech skill type: Web platform development software)
+- Jenkins CI (Tech skill type: Enterprise application integration software)
+- JUnit (Tech skill type: Program testing software)
+- Linux (Tech skill type: Operating system software)
+- LMS Imagine.Lab AMESim (Tech skill type: Analytical or scientific software)
+- Magellan Firmware (Tech skill type: Operating system software)
+- MAHLE Powertrain (Tech skill type: Computer aided design CAD software)
+- Maplesoft Maple (Tech skill type: Analytical or scientific software)
+- Maplesoft MapleSim (Tech skill type: Analytical or scientific software)
+- MathWorks Simulink (Tech skill type: Analytical or scientific software)
+- Mentor Graphics Flowmaster (Tech skill type: Analytical or scientific software)
+- Metrologic Group Metrolog XG (Tech skill type: Industrial control software)
+- Microsoft .NET Framework (Tech skill type: Development environment software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Visual Basic Scripting Edition VBScript (Tech skill type: Development environment software)
+- Microsoft Visual Studio (Tech skill type: Development environment software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Minitab (Tech skill type: Analytical or scientific software)
+- Node.js (Tech skill type: Web platform development software)
+- Object oriented development environment software (Tech skill type: Object or component oriented development software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- Perl (Tech skill type: Object or component oriented development software)
+- Portalgraphics openCanvas (Tech skill type: Graphics or photo imaging software)
+- PTC Creo Parametric (Tech skill type: Computer aided design CAD software)
+- Python (Tech skill type: Object or component oriented development software)
+- Salesforce software (Tech skill type: Customer relationship management CRM software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Selenium (Tech skill type: Program testing software)
+- Siemens NX (Tech skill type: Computer aided design CAD software)
+- Siemens Solid Edge (Tech skill type: Computer aided design CAD software)
+- Somat eDAQ (Tech skill type: Analytical or scientific software)
+- Statistical analysis software (Tech skill type: Analytical or scientific software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Swift (Tech skill type: Object or component oriented development software)
+- SystemVerilog (Tech skill type: Development environment software)
+- TestNG (Tech skill type: Program testing software)
+- The MathWorks MATLAB (Tech skill type: Analytical or scientific software)
+- Think3 ThinkDesign Engineering (Tech skill type: Computer aided design CAD software)
+- UNIX (Tech skill type: Operating system software)
+- Very high-speed integrated circuit VHSIC hardware description language VHDL (Tech skill type: Development environment software)
+- Xcode (Tech skill type: Development environment software)
+
+## TOOLS USED
+- Air compressors (Tool type: Air compressors)
+- Anechoic chambers (Tool type: Anechoic chambers)
+- Bench drill presses (Tool type: Drill press or radial drill)
+- Bench grinders (Tool type: Power grinders)
+- Carbon dioxide analyzers (Tool type: Dissolved carbon dioxide analyzers)
+- Climate test chambers (Tool type: Anechoic chambers)
+- Computerized numerical control CNC lathes (Tool type: Horizontal turning center)
+- Digital cameras (Tool type: Digital cameras)
+- Disc finishing machines (Tool type: Power grinders)
+- Engine test dynamometers (Tool type: Dynamometers)
+- Five-axis machining centers (Tool type: Milling machines)
+- Floor drill presses (Tool type: Drill press or radial drill)
+- Gas analyzers (Tool type: Chemical absorption gas analyzers)
+- Horizontal band saws (Tool type: Power saws)
+- Hydraulic hoists (Tool type: Hoists)
+- Hydraulic presses (Tool type: Hydraulic press frames)
+- Hydraulic winches (Tool type: Winches)
+- Hydrogen analyzers (Tool type: Chemical absorption gas analyzers)
+- Laminar flow elements (Tool type: Flowmeters)
+- Metal inert gas MIG welders (Tool type: Metal inert gas welding machine)
+- Miliohm meters (Tool type: Ohmmeters)
+- Multitasking lathes (Tool type: Tracer or duplicating or contouring lathe)
+- Overhead cranes (Tool type: Track cranes)
+- Oxygen analyzers (Tool type: Oxygen gas analyzers)
+- Plasma cutters (Tool type: Plasma arc welding machine)
+- Pressure gauges (Tool type: Pressure indicators)
+- Pressure indicators (Tool type: Pressure indicators)
+- Pressure transducers (Tool type: Electro pneumatic transducers)
+- Rotary vehicle lifts (Tool type: Lifts)
+- Sand blasters (Tool type: Sand blasting machine)
+- Spectrometers (Tool type: Spectrometers)
+- Spectroscopes (Tool type: Spectrometers)
+- Strain gauges (Tool type: Strain gauges)
+- Thermocouples (Tool type: Thermocouples)
+- Three-axis vertical mills (Tool type: Milling machines)
+- Three-dimensional prototyping printer (Tool type: Three dimensional printing machine)
+- Torque gauges (Tool type: Force or torque sensors)
+- Transmission dynamometers (Tool type: Dynamometers)
+- Vertical bandsaws (Tool type: Bandsaw wheel)
+- Welders (Tool type: Spot welding machine)
+- Wind tunnels (Tool type: Flow transmitters)
+- Workshop cranes (Tool type: Workshop cranes)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Fairly serious
+- Contact With Others: Contact with others most of the time
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Slightly automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Once a year or more but not every month
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Once a year or more but not every month
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Once a year or more but not every month
+- Exposed to Very Hot or Cold Temperatures: Once a year or more but not every month
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Once a year or more but not every month
+- Health and Safety of Other Workers: High responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Very important
+- Importance of Repeating Same Tasks: Fairly important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Once a year or more but not every month
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Once a month or more but not every week
+- Level of Competition: Highly competitive
+- Outdoors, Exposed to All Weather Conditions: Once a year or more but not every month
+- Outdoors, Under Cover: Once a year or more but not every month
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Slightly close (e.g., shared office)
+- Public Speaking: Once a month or more but not every week
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Never
+- Spend Time Sitting: More than half the time
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Less than half the time
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Once a week or more but not every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Once a month or more but not every week
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Moderate responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a year or more but not every month
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Investigative
+- Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Mechanical Engineers
+- Manufacturing Engineers
+- Industrial Engineers
+- Aerospace Engineers
+- Electronics Engineers, Except Computer
+- Mechatronics Engineers
+- Electrical Engineers
+- Fuel Cell Engineers
+- Robotics Engineers
+- Validation Engineers
+- Automotive Engineering Technicians
+- Mechanical Engineering Technologists and Technicians
+- Electrical and Electronic Engineering Technologists and Technicians
+- Aerospace Engineering and Operations Technologists and Technicians
+- Automotive Service Technicians and Mechanics
+- Industrial Engineering Technologists and Technicians
+- Calibration Technologists and Technicians
+- Robotics Technicians
+- Avionics Technicians
+- Electro-Mechanical and Mechatronics Technologists and Technicians

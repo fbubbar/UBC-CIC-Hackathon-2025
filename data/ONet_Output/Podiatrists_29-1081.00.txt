@@ -1,0 +1,271 @@
+Job Title: Podiatrists
+O*NET-SOC Code: 29-1081.00
+
+# DESCRIPTION
+Diagnose and treat diseases and deformities of the human foot.
+
+# TASKS
+- Treat bone, muscle, and joint disorders affecting the feet and ankles.
+- Diagnose diseases and deformities of the foot using medical histories, physical examinations, x-rays, and laboratory test results.
+- Advise patients about treatments and foot care techniques necessary for prevention of future problems.
+- Prescribe medications, corrective devices, physical therapy, or surgery.
+- Surgically treat conditions such as corns, calluses, ingrown nails, tumors, shortened tendons, bunions, cysts, or abscesses.
+- Refer patients to physicians when symptoms indicative of systemic disorders, such as arthritis or diabetes, are observed in feet and legs.
+- Make and fit prosthetic appliances.
+- Correct deformities by means of plaster casts and strapping.
+- Perform administrative duties, such as hiring employees, ordering supplies, or keeping records.
+- Educate the public about the benefits of foot care through techniques such as speaking engagements, advertising, and other forums.
+- Treat deformities using mechanical methods, such as whirlpool or paraffin baths, and electrical methods, such as short wave and low voltage currents.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Medicine and Dentistry (Importance: 4.97/5 | Level: 6.07/7)
+- Customer and Personal Service (Importance: 4.62/5 | Level: 6.02/7)
+- English Language (Importance: 4.6/5 | Level: 5.2/7)
+- Education and Training (Importance: 4.12/5 | Level: 5.07/7)
+- Computers and Electronics (Importance: 3.8/5 | Level: 4.19/7)
+- Administration and Management (Importance: 3.77/5 | Level: 3.82/7)
+- Biology (Importance: 3.77/5 | Level: 4.53/7)
+- Chemistry (Importance: 3.37/5 | Level: 3.61/7)
+- Psychology (Importance: 3.37/5 | Level: 4.56/7)
+- Personnel and Human Resources (Importance: 3.32/5 | Level: 4.0/7)
+- Economics and Accounting (Importance: 3.22/5 | Level: 3.47/7)
+- Therapy and Counseling (Importance: 3.21/5 | Level: 3.81/7)
+- Administrative (Importance: 3.15/5 | Level: 3.27/7)
+- Sales and Marketing (Importance: 2.91/5 | Level: 3.54/7)
+- Mathematics (Importance: 2.76/5 | Level: 2.91/7)
+- Law and Government (Importance: 2.64/5 | Level: 2.34/7)
+- Sociology and Anthropology (Importance: 2.6/5 | Level: 2.46/7)
+- Production and Processing (Importance: 2.54/5 | Level: 2.41/7)
+- Communications and Media (Importance: 2.44/5 | Level: 2.52/7)
+- Mechanical (Importance: 2.41/5 | Level: 2.08/7)
+- Public Safety and Security (Importance: 2.4/5 | Level: 1.99/7)
+- Engineering and Technology (Importance: 2.26/5 | Level: 2.3/7)
+- Physics (Importance: 2.25/5 | Level: 1.74/7)
+- Design (Importance: 1.97/5 | Level: 1.81/7)
+- Philosophy and Theology (Importance: 1.73/5 | Level: 1.73/7)
+- Telecommunications (Importance: 1.72/5 | Level: 1.05/7)
+- Geography (Importance: 1.23/5 | Level: 0.34/7)
+- Foreign Language (Importance: 1.18/5 | Level: 0.22/7)
+- Building and Construction (Importance: 1.15/5 | Level: 0.3/7)
+- Transportation (Importance: 1.13/5 | Level: 0.27/7)
+- History and Archeology (Importance: 1.12/5 | Level: 0.24/7)
+- Food Production (Importance: 1.01/5 | Level: 0.02/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Active Learning (Importance: 4.0/5 | Level: 4.88/7)
+- Speaking (Importance: 4.0/5 | Level: 4.12/7)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.25/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 5.25/7)
+- Active Listening (Importance: 4.0/5 | Level: 4.62/7)
+- Judgment and Decision Making (Importance: 3.88/5 | Level: 4.0/7)
+- Social Perceptiveness (Importance: 3.88/5 | Level: 4.12/7)
+- Monitoring (Importance: 3.88/5 | Level: 4.0/7)
+- Writing (Importance: 3.88/5 | Level: 4.25/7)
+- Complex Problem Solving (Importance: 3.75/5 | Level: 4.12/7)
+- Science (Importance: 3.5/5 | Level: 3.75/7)
+- Coordination (Importance: 3.38/5 | Level: 3.75/7)
+- Service Orientation (Importance: 3.25/5 | Level: 3.62/7)
+- Learning Strategies (Importance: 3.25/5 | Level: 3.5/7)
+- Systems Evaluation (Importance: 3.12/5 | Level: 3.12/7)
+- Systems Analysis (Importance: 3.12/5 | Level: 3.12/7)
+- Instructing (Importance: 3.0/5 | Level: 3.5/7)
+- Time Management (Importance: 3.0/5 | Level: 3.5/7)
+- Management of Personnel Resources (Importance: 3.0/5 | Level: 3.0/7)
+- Mathematics (Importance: 2.88/5 | Level: 3.0/7)
+- Persuasion (Importance: 2.88/5 | Level: 3.12/7)
+- Negotiation (Importance: 2.62/5 | Level: 3.0/7)
+- Operations Analysis (Importance: 2.62/5 | Level: 2.62/7)
+- Quality Control Analysis (Importance: 2.38/5 | Level: 2.62/7)
+- Operations Monitoring (Importance: 2.25/5 | Level: 2.25/7)
+- Equipment Selection (Importance: 2.25/5 | Level: 1.88/7)
+- Management of Material Resources (Importance: 2.25/5 | Level: 2.5/7)
+- Technology Design (Importance: 2.25/5 | Level: 2.38/7)
+- Management of Financial Resources (Importance: 2.25/5 | Level: 2.5/7)
+- Operation and Control (Importance: 2.12/5 | Level: 2.12/7)
+- Troubleshooting (Importance: 2.0/5 | Level: 1.88/7)
+- Programming (Importance: 1.5/5 | Level: 0.5/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Advantage Software Podiatry Advantage (Tech skill type: Medical software)
+- DocSite Registry (Tech skill type: Medical software)
+- Email software (Tech skill type: Electronic mail software)
+- Facebook (Tech skill type: Web page creation and editing software)
+- Fox Meadows Software MediNotes e (Tech skill type: Medical software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Quick Notes PDQ Podiatry (Tech skill type: Medical software)
+- Scanner imaging software (Tech skill type: Graphics or photo imaging software)
+- Web browser software (Tech skill type: Internet browser software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Allis forceps (Tool type: Surgical clamps or clips or forceps)
+- Automated external defibrillators AED (Tool type: Mobile medical services automated external defibrillators AED or hard paddles)
+- Bandage scissors (Tool type: Surgical scissors)
+- Biopsy punches (Tool type: Surgical punches or punch holders)
+- Bone chisels (Tool type: Surgical chisels or gouges)
+- Bone curettes (Tool type: Surgical curettes or loops or curette sets)
+- Bone forceps (Tool type: Surgical clamps or clips or forceps)
+- Bone rasps (Tool type: Surgical rasps or files)
+- Bone ronguers (Tool type: Surgical rongeurs)
+- Cast cutters (Tool type: Cast cutters or saws)
+- Cast spreaders (Tool type: Cast cutters or saws)
+- Cast vacuums (Tool type: Cast vacuums)
+- Cauterizing equipment (Tool type: Electrosurgical or electrocautery equipment)
+- Cryoprobes (Tool type: Cryosurgery units)
+- Curved hemostats (Tool type: Endoscopic hemostatic balloons or needles or tubes or accessories)
+- Curved surgical scissors (Tool type: Surgical scissors)
+- Cuticle nippers (Tool type: Surgical nippers)
+- Desktop computers (Tool type: Desktop computers)
+- Digitizers (Tool type: Scanners)
+- Double-ended curettes (Tool type: Surgical curettes or loops or curette sets)
+- Excavator curettes (Tool type: Surgical curettes or loops or curette sets)
+- Hyfrecators (Tool type: Electrosurgical or electrocautery equipment)
+- Hypodermic syringes (Tool type: Medical syringes with needle)
+- Ingrown nail forceps (Tool type: Surgical clamps or clips or forceps)
+- Iris scissors (Tool type: Surgical scissors)
+- Laptop computers (Tool type: Notebook computers)
+- Locke elevators (Tool type: Surgical elevators or levers)
+- Mastoid gouges (Tool type: Surgical chisels or gouges)
+- Mayo scissors (Tool type: Surgical scissors)
+- McGlamry elevators (Tool type: Surgical elevators or levers)
+- Mechanical stethoscopes (Tool type: Medical acoustic stethoscopes)
+- Medical examination protective gloves (Tool type: Medical exam or non surgical procedure gloves)
+- Medical measuring tapes (Tool type: Medical tape measures)
+- Metatarsal spreaders (Tool type: Surgical spreaders)
+- Metzenbaum scissors (Tool type: Surgical scissors)
+- Nail splitters (Tool type: Surgical clamps or clips or forceps)
+- Neurological hammers (Tool type: Reflex hammers or mallets)
+- Neurological pinwheels (Tool type: Medical diagnostic pinwheels)
+- Nucleus knives (Tool type: Surgical chisels or gouges)
+- Orthopedic splints (Tool type: Orthopedic splint systems)
+- Oscillating bone saws (Tool type: Surgical pneumatic or battery or electric saws or drills or pin drivers)
+- Packer and spatula tools (Tool type: Surgical spatulas)
+- Personal computers (Tool type: Personal computers)
+- Phalangeal forceps (Tool type: Surgical clamps or clips or forceps)
+- Pin and wire cutters (Tool type: Surgical bolt or cable or pin or wire cutter instruments)
+- Podiatry chisels (Tool type: Surgical chisels or gouges)
+- Portable x ray machines (Tool type: Medical x ray units for general diagnostic use)
+- Powered surgical drills (Tool type: Surgical pneumatic or battery or electric saws or drills or pin drivers)
+- Safety glasses (Tool type: Safety glasses)
+- Sagittal bone saws (Tool type: Surgical pneumatic or battery or electric saws or drills or pin drivers)
+- Skin hooks (Tool type: Surgical retraction hooks)
+- Sphygmomanometers (Tool type: Blood pressure cuff kits)
+- Splinter forceps (Tool type: Surgical clamps or clips or forceps)
+- Sponge forceps (Tool type: Surgical clamps or clips or forceps)
+- Stationary x ray equipment (Tool type: Medical x ray units for general diagnostic use)
+- Steam autoclaves (Tool type: Steam autoclaves or sterilizers)
+- Sterile gowns (Tool type: Medical staff isolation or cover gowns)
+- Straight hemostats (Tool type: Endoscopic hemostatic balloons or needles or tubes or accessories)
+- Straight surgical scissors (Tool type: Surgical scissors)
+- Surgical bone burs (Tool type: Surgical burr)
+- Surgical bone mallets (Tool type: Surgical hammers or mallets)
+- Surgical hand drills (Tool type: Surgical hand or twist drills or drill kits)
+- Surgical masks (Tool type: Surgical isolation or surgical masks)
+- Surgical needle holders (Tool type: Surgical needle holders)
+- Surgical scalpels (Tool type: Surgical scalpels or knives or blades or trephines)
+- Surgical thumb forceps (Tool type: Surgical clamps or clips or forceps)
+- Surgical tissue forceps (Tool type: Surgical clamps or clips or forceps)
+- Surgical wire cutters (Tool type: Surgical bolt or cable or pin or wire cutter instruments)
+- Suture scissors (Tool type: Suture removers)
+- Tablet computers (Tool type: Tablet computers)
+- Tenotomy scissors (Tool type: Surgical scissors)
+- Therapeutic cold packs (Tool type: Therapeutic heating or cooling pads or compresses or packs)
+- Therapeutic extremity whirlpool baths (Tool type: Extremity hydrotherapy baths or tanks)
+- Therapeutic hot packs (Tool type: Therapeutic heating or cooling pads or compresses or packs)
+- Therapeutic paraffin baths (Tool type: Therapeutic paraffin baths)
+- Therapeutic ultrasound equipment (Tool type: Ultrasonic therapy apparatus or supplies)
+- Towel clamps (Tool type: Surgical clamps or clips or forceps)
+- Transcutaneous electric nerve stimulation TENS equipment (Tool type: Transcutaneous electric nerve stimulation units)
+- Ultrasonic cleaners (Tool type: Ultrasonic cleaning equipment)
+- Weitlaner retractors (Tool type: Surgical retractors)
+- Wire extraction pliers (Tool type: Surgical pliers)
+
+# WORK CONTEXT
+- Conflict Situations: Once a week or more but not every day
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a week or more but not every day
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Slightly automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Every day
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Once a week or more but not every day
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Never
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Extremely important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Highly competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Very close (near touching)
+- Public Speaking: Once a year or more but not every month
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Less than half the time
+- Spend Time Sitting: About half the time
+- Spend Time Standing: About half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Investigative
+- Secondary Interest: Realistic
+- Tertiary Interest: Social
+
+# RELATED OCCUPATIONS
+- Orthopedic Surgeons, Except Pediatric
+- Pediatric Surgeons
+- Dermatologists
+- Physical Medicine and Rehabilitation Physicians
+- Ophthalmologists, Except Pediatric
+- Urologists
+- Oral and Maxillofacial Surgeons
+- General Internal Medicine Physicians
+- Cardiologists
+- Obstetricians and Gynecologists
+- Emergency Medicine Physicians
+- Anesthesiologists
+- Chiropractors
+- Optometrists
+- Allergists and Immunologists
+- Medical Assistants
+- Neurologists
+- Naturopathic Physicians
+- Dentists, General
+- Orthodontists

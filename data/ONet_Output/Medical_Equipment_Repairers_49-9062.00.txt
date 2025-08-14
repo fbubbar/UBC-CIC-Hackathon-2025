@@ -1,0 +1,296 @@
+Job Title: Medical Equipment Repairers
+O*NET-SOC Code: 49-9062.00
+
+# DESCRIPTION
+Test, adjust, or repair biomedical or electromedical equipment.
+
+# TASKS
+- Test or calibrate components or equipment, following manufacturers' manuals and troubleshooting techniques, using hand tools, power tools, or measuring devices.
+- Perform preventive maintenance or service, such as cleaning, lubricating, or adjusting equipment.
+- Inspect, test, or troubleshoot malfunctioning medical or related equipment, following manufacturers' specifications and using test and analysis instruments.
+- Keep records of maintenance, repair, and required updates of equipment.
+- Disassemble malfunctioning equipment and remove, repair, or replace defective parts, such as motors, clutches, or transformers.
+- Examine medical equipment or facility's structural environment and check for proper use of equipment to protect patients and staff from electrical or mechanical hazards and to ensure compliance with safety regulations.
+- Install medical equipment.
+- Test, evaluate, and classify excess or in-use medical equipment and determine serviceability, condition, and disposition, in accordance with regulations.
+- Plan and carry out work assignments, using blueprints, schematic drawings, technical manuals, wiring diagrams, or liquid or air flow sheets, following prescribed regulations, directives, or other instructions as required.
+- Study technical manuals or attend training sessions provided by equipment manufacturers to maintain current knowledge.
+- Explain or demonstrate correct operation or preventive maintenance of medical equipment to personnel.
+- Research catalogs or repair part lists to locate sources for repair parts, requisitioning parts and recording their receipt.
+- Repair shop equipment, metal furniture, or hospital equipment, including welding broken parts or replacing missing parts, or bring item into local shop for major repairs.
+- Solder loose connections, using soldering iron.
+- Compute power and space requirements for installing medical, dental, or related equipment and install units to manufacturers' specifications.
+- Evaluate technical specifications to identify equipment or systems best suited for intended use and possible purchase, based on specifications, user needs, or technical requirements.
+- Contribute expertise to develop medical maintenance standard operating procedures.
+- Fabricate, dress down, or substitute parts or major new items to modify equipment to meet unique operational or research needs, working from job orders, sketches, modification orders, samples, or discussions with operating officials.
+- Supervise or advise subordinate personnel.
+- Make computations relating to load requirements of wiring or equipment, using algebraic expressions and standard formulas.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 4.17/5 | Level: 4.75/7)
+- Computers and Electronics (Importance: 3.94/5 | Level: 4.34/7)
+- Customer and Personal Service (Importance: 3.87/5 | Level: 4.36/7)
+- English Language (Importance: 3.58/5 | Level: 2.76/7)
+- Engineering and Technology (Importance: 3.39/5 | Level: 3.37/7)
+- Mathematics (Importance: 3.03/5 | Level: 3.02/7)
+- Public Safety and Security (Importance: 2.47/5 | Level: 2.19/7)
+- Education and Training (Importance: 2.46/5 | Level: 2.09/7)
+- Production and Processing (Importance: 2.45/5 | Level: 2.83/7)
+- Physics (Importance: 2.45/5 | Level: 2.53/7)
+- Administrative (Importance: 2.42/5 | Level: 2.2/7)
+- Design (Importance: 2.31/5 | Level: 2.53/7)
+- Telecommunications (Importance: 2.3/5 | Level: 1.71/7)
+- Transportation (Importance: 2.29/5 | Level: 1.77/7)
+- Administration and Management (Importance: 2.23/5 | Level: 2.16/7)
+- Sales and Marketing (Importance: 2.1/5 | Level: 1.75/7)
+- Building and Construction (Importance: 2.08/5 | Level: 2.37/7)
+- Law and Government (Importance: 2.03/5 | Level: 1.75/7)
+- Chemistry (Importance: 2.03/5 | Level: 2.6/7)
+- Medicine and Dentistry (Importance: 1.97/5 | Level: 1.57/7)
+- Personnel and Human Resources (Importance: 1.81/5 | Level: 1.27/7)
+- Geography (Importance: 1.77/5 | Level: 1.42/7)
+- Communications and Media (Importance: 1.75/5 | Level: 1.12/7)
+- Economics and Accounting (Importance: 1.72/5 | Level: 0.93/7)
+- Biology (Importance: 1.62/5 | Level: 1.25/7)
+- Sociology and Anthropology (Importance: 1.48/5 | Level: 0.68/7)
+- Psychology (Importance: 1.46/5 | Level: 0.85/7)
+- Philosophy and Theology (Importance: 1.41/5 | Level: 0.99/7)
+- Foreign Language (Importance: 1.29/5 | Level: 0.48/7)
+- Therapy and Counseling (Importance: 1.27/5 | Level: 0.49/7)
+- History and Archeology (Importance: 1.26/5 | Level: 0.55/7)
+- Food Production (Importance: 1.12/5 | Level: 0.37/7)
+- Fine Arts (Importance: 1.07/5 | Level: 0.11/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Repairing (Importance: 4.25/5 | Level: 4.0/7)
+- Equipment Maintenance (Importance: 4.0/5 | Level: 4.0/7)
+- Troubleshooting (Importance: 3.88/5 | Level: 4.0/7)
+- Operations Monitoring (Importance: 3.5/5 | Level: 3.88/7)
+- Quality Control Analysis (Importance: 3.38/5 | Level: 3.62/7)
+- Critical Thinking (Importance: 3.12/5 | Level: 3.75/7)
+- Reading Comprehension (Importance: 3.12/5 | Level: 3.62/7)
+- Active Learning (Importance: 3.0/5 | Level: 3.0/7)
+- Active Listening (Importance: 3.0/5 | Level: 3.0/7)
+- Complex Problem Solving (Importance: 3.0/5 | Level: 3.0/7)
+- Equipment Selection (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 2.88/7)
+- Systems Analysis (Importance: 3.0/5 | Level: 3.0/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 3.0/7)
+- Speaking (Importance: 2.88/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.88/7)
+- Operation and Control (Importance: 2.88/5 | Level: 3.0/7)
+- Mathematics (Importance: 2.88/5 | Level: 3.0/7)
+- Monitoring (Importance: 2.88/5 | Level: 3.0/7)
+- Service Orientation (Importance: 2.75/5 | Level: 2.88/7)
+- Coordination (Importance: 2.75/5 | Level: 2.62/7)
+- Writing (Importance: 2.75/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 2.62/5 | Level: 2.75/7)
+- Instructing (Importance: 2.62/5 | Level: 2.88/7)
+- Systems Evaluation (Importance: 2.5/5 | Level: 2.62/7)
+- Installation (Importance: 2.5/5 | Level: 2.25/7)
+- Persuasion (Importance: 2.5/5 | Level: 2.75/7)
+- Management of Personnel Resources (Importance: 2.25/5 | Level: 2.38/7)
+- Science (Importance: 2.12/5 | Level: 2.0/7)
+- Technology Design (Importance: 2.12/5 | Level: 2.0/7)
+- Negotiation (Importance: 2.12/5 | Level: 2.38/7)
+- Programming (Importance: 2.0/5 | Level: 1.38/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.75/7)
+- Operations Analysis (Importance: 2.0/5 | Level: 1.88/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.62/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Computerized maintenance management system CMMS (Tech skill type: Facilities management software)
+- FaceTime (Tech skill type: Video conferencing software)
+- Medical equipment diagnostic software (Tech skill type: Medical software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Operating system software (Tech skill type: Operating system software)
+- Salesforce software (Tech skill type: Customer relationship management CRM software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Adjustable wrenches (Tool type: Adjustable wrenches)
+- Air line moisture meters (Tool type: Moisture meters)
+- Allen wrenches (Tool type: Hex keys)
+- Amp meters (Tool type: Voltage or current meters)
+- Analytical balances (Tool type: Analytical balances)
+- Antistatic alignment tools (Tool type: Alignment jig)
+- Antistatic floor mats (Tool type: Anti static floor mats)
+- Audio meters (Tool type: Acoustic sensors)
+- Awls (Tool type: Awls)
+- Cable cutters (Tool type: Wire or cable cutter)
+- Channel lock pliers (Tool type: Locking pliers)
+- Chemical analyzers (Tool type: Chemistry analyzers)
+- Cold chisels (Tool type: Cold chisels)
+- Combination squares (Tool type: Squares)
+- Computed tomography CT calibration phantoms (Tool type: Medical computed tomography CT or CAT quality assurance or calibration phantoms or devices)
+- Conductance meters (Tool type: Conductivity meters)
+- Conduit bending tools (Tool type: Conduit benders)
+- Continuity testers (Tool type: Circuit tester)
+- Cordless drills (Tool type: Power drills)
+- Crescent wrenches (Tool type: Open end wrenches)
+- Defibrillator analyzers (Tool type: Cardiac pacemaker generators or cardiac resynchronization therapy pacemakers CRT-P)
+- Densitometers (Tool type: Densitometers)
+- Desktop computers (Tool type: Desktop computers)
+- Desoldering tools (Tool type: Desoldering Gun)
+- Diagonal cutting pliers (Tool type: Diagonal cut pliers)
+- Differential photometers (Tool type: Photometer)
+- Digital force gauges (Tool type: Compression testers)
+- Digital mAs meters (Tool type: Medical x ray quality assurance or calibration devices)
+- Digital multifunction analyzers (Tool type: Network analyzers)
+- Digital multimeters (Tool type: Multimeters)
+- Digital storage oscilloscopes DSO (Tool type: Oscilloscopes)
+- Digital voltmeters DVM (Tool type: Voltage or current meters)
+- Dosimetry badges (Tool type: Medical radiation films or badges)
+- Electrical surgical unit analyzers (Tool type: Electrosurgical or electrocautery equipment)
+- Electrician's hammers (Tool type: Hammers)
+- Electrician's pliers (Tool type: Linemans pliers)
+- Electricians' knives (Tool type: Utility knives)
+- Fetal monitor simulators (Tool type: Acute care fetal or maternal monitoring units)
+- Flow meters (Tool type: Flowmeters)
+- Frequency counters (Tool type: Frequency counters or timer or dividers)
+- Hacksaws (Tool type: Hacksaw)
+- Half-round files (Tool type: Half round file)
+- Hand tachometers (Tool type: Tachometers)
+- High voltage probes (Tool type: Voltage or current meters)
+- Infusion pump testers (Tool type: Intravenous infusion pump analyzers or sensors)
+- Insulated wire cutters (Tool type: Wire cutters)
+- Laptop computers (Tool type: Notebook computers)
+- Long nose pliers (Tool type: Longnose pliers)
+- Lung simulators (Tool type: Ventilator accessories)
+- Magnetic resonance imaging MRI calibration phantoms (Tool type: Medical magnetic resonance imaging MRI quality assurance or calibration phantoms or devices)
+- Magnetic torpedo levels (Tool type: Levels)
+- Magnetic tweezers (Tool type: Tweezers)
+- Measuring tapes (Tool type: Tape measures)
+- Megohmmeters (Tool type: Megohmmeters)
+- Multi-gas analyzers (Tool type: Multi gas monitors)
+- Needlenose pliers (Tool type: Needlenose pliers)
+- Neon testers (Tool type: Voltage or current meters)
+- Non-contact voltage probes (Tool type: Voltage or current meters)
+- Non-invasive blood pressure NIBP simulators (Tool type: Blood pressure measuring instruments accessories)
+- Nut drivers (Tool type: Nut drivers)
+- Optical compound microscopes (Tool type: Binocular light compound microscopes)
+- Oscilloscopes (Tool type: Oscilloscopes)
+- Oxygen test meters (Tool type: Oxygen gas analyzers)
+- Patient simulators (Tool type: Frequency calibrator or simulator)
+- pH indicators (Tool type: pH meters)
+- Phase rotation meters (Tool type: Phasemeters)
+- Phillips head screwdrivers (Tool type: Screwdrivers)
+- Pipe wrenches (Tool type: Pipe wrenches)
+- Power screwdrivers (Tool type: Power screwguns)
+- Power tap tools (Tool type: Power drills)
+- Precision knives (Tool type: Utility knives)
+- Precision levels (Tool type: Levels)
+- Pressure gauges (Tool type: Pressure indicators)
+- Pressure meters (Tool type: Pressure indicators)
+- Pressure vacuum meters (Tool type: Pressure or vacuum recorders)
+- Pulse oximetry test systems (Tool type: Pulse oximeter unit accessories)
+- Pump pliers (Tool type: Adjustable widemouth pliers)
+- Putty knives (Tool type: Putty knives)
+- Rat tail files (Tool type: Round file)
+- Safety glasses (Tool type: Safety glasses)
+- Safety goggles (Tool type: Goggles)
+- Side cutting pliers (Tool type: End cut pliers)
+- Socket wrenches (Tool type: Sockets)
+- Soldering guns (Tool type: Soldering iron)
+- Spectrum analyzers (Tool type: Frequency analyzers)
+- Straight screwdrivers (Tool type: Screwdrivers)
+- Tin snips (Tool type: Tinners snips)
+- Torx drivers (Tool type: Torx keys)
+- Ultrasound leakage testers (Tool type: Medical ultrasound or doppler or echocardiograph transducer)
+- Ultrasound wattmeters (Tool type: Wattmeters)
+- Ventilator analyzers (Tool type: Ventilator accessories)
+- Wheeled forklifts (Tool type: Forklifts)
+- Wire crimpers (Tool type: Wire lug crimping tool)
+- Wire strippers (Tool type: Stripping tools)
+- Wrist anti-static straps (Tool type: Antistatic wrist straps)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Extremely important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Once a year or more but not every month
+- Exposed to Cramped Work Space, Awkward Positions: Once a month or more but not every week
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Once a year or more but not every month
+- Exposed to Hazardous Conditions: Once a week or more but not every day
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Once a year or more but not every month
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Once a month or more but not every week
+- Exposed to Very Hot or Cold Temperatures: Once a month or more but not every week
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: High responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Very important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Every day
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Once a year or more but not every month
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Slightly close (e.g., shared office)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Less than half the time
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Less than half the time
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: About half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: More than half the time
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Once a year or more but not every month
+- Work Outcomes and Results of Other Workers: No responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a week or more but not every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Calibration Technologists and Technicians
+- Electrical and Electronic Engineering Technologists and Technicians
+- Aerospace Engineering and Operations Technologists and Technicians
+- Electrical and Electronics Repairers, Commercial and Industrial Equipment
+- Robotics Technicians
+- Mechanical Engineering Technologists and Technicians
+- Electrical and Electronics Installers and Repairers, Transportation Equipment
+- Medical Appliance Technicians
+- Photonics Technicians
+- Avionics Technicians
+- Automotive Engineering Technicians
+- Computer, Automated Teller, and Office Machine Repairers
+- Bioengineers and Biomedical Engineers
+- Maintenance and Repair Workers, General
+- Nanotechnology Engineering Technologists and Technicians
+- Electromechanical Equipment Assemblers
+- Industrial Machinery Mechanics
+- Industrial Engineering Technologists and Technicians
+- Electric Motor, Power Tool, and Related Repairers
+- Medical Equipment Preparers

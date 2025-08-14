@@ -1,0 +1,238 @@
+Job Title: Hairdressers, Hairstylists, and Cosmetologists
+O*NET-SOC Code: 39-5012.00
+
+# DESCRIPTION
+Provide beauty services, such as cutting, coloring, and styling hair, and massaging and treating scalp. May shampoo hair, apply makeup, dress wigs, remove hair, and provide nail and skincare services.
+
+# TASKS
+- Keep work stations clean and sanitize tools, such as scissors and combs.
+- Bleach, dye, or tint hair, using applicator or brush.
+- Cut, trim and shape hair or hairpieces, based on customers' instructions, hair type, and facial features, using clippers, scissors, trimmers and razors.
+- Schedule client appointments.
+- Update and maintain customer information records, such as beauty services provided.
+- Demonstrate and sell hair care products and cosmetics.
+- Analyze patrons' hair and other physical features to determine and recommend beauty treatment or suggest hair styles.
+- Shampoo, rinse, condition, and dry hair and scalp or hairpieces with water, liquid soap, or other solutions.
+- Operate cash registers to receive payments from patrons.
+- Order, display, and maintain supplies.
+- Comb, brush, and spray hair or wigs to set style.
+- Develop new styles and techniques.
+- Apply water or setting, straightening or waving solutions to hair, and use curlers, rollers, hot combs and curling irons to press and curl hair.
+- Shape eyebrows and remove facial hair, using depilatory cream, tweezers, electrolysis or wax.
+- Shave, trim, and shape beards and moustaches.
+- Train or supervise other hairstylists, hairdressers, and assistants.
+- Massage and treat scalp for hygienic and remedial purposes, using hands, fingers, or vibrating equipment.
+- Administer therapeutic medication and advise patron to seek medical treatment for chronic or contagious scalp conditions.
+- Recommend and explain the use of cosmetics, lotions, and creams to soften and lubricate skin and enhance and restore natural appearance.
+- Clean, shape, and polish fingernails and toenails, using files and nail polish.
+- Give facials to patrons, using special compounds, such as lotions and creams.
+- Attach wigs or hairpieces to model heads and dress wigs and hairpieces according to instructions, samples, sketches or photographs.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.43/5 | Level: 4.71/7)
+- Sales and Marketing (Importance: 3.67/5 | Level: 3.89/7)
+- Administration and Management (Importance: 3.01/5 | Level: 2.95/7)
+- Education and Training (Importance: 2.97/5 | Level: 3.08/7)
+- English Language (Importance: 2.87/5 | Level: 1.86/7)
+- Chemistry (Importance: 2.79/5 | Level: 2.79/7)
+- Administrative (Importance: 2.54/5 | Level: 2.81/7)
+- Economics and Accounting (Importance: 2.53/5 | Level: 2.08/7)
+- Personnel and Human Resources (Importance: 2.53/5 | Level: 2.27/7)
+- Mathematics (Importance: 2.19/5 | Level: 2.09/7)
+- Production and Processing (Importance: 2.15/5 | Level: 1.9/7)
+- Computers and Electronics (Importance: 2.09/5 | Level: 2.28/7)
+- Law and Government (Importance: 2.01/5 | Level: 1.51/7)
+- Public Safety and Security (Importance: 2.0/5 | Level: 1.43/7)
+- Psychology (Importance: 2.0/5 | Level: 1.63/7)
+- Communications and Media (Importance: 1.93/5 | Level: 1.47/7)
+- Mechanical (Importance: 1.87/5 | Level: 1.11/7)
+- Transportation (Importance: 1.75/5 | Level: 0.94/7)
+- Engineering and Technology (Importance: 1.72/5 | Level: 1.11/7)
+- Design (Importance: 1.64/5 | Level: 0.81/7)
+- Biology (Importance: 1.61/5 | Level: 1.11/7)
+- Therapy and Counseling (Importance: 1.42/5 | Level: 0.75/7)
+- Sociology and Anthropology (Importance: 1.36/5 | Level: 0.62/7)
+- Food Production (Importance: 1.29/5 | Level: 0.39/7)
+- Telecommunications (Importance: 1.29/5 | Level: 0.4/7)
+- Foreign Language (Importance: 1.27/5 | Level: 0.43/7)
+- Physics (Importance: 1.22/5 | Level: 0.32/7)
+- Fine Arts (Importance: 1.18/5 | Level: 0.34/7)
+- Building and Construction (Importance: 1.18/5 | Level: 0.28/7)
+- Medicine and Dentistry (Importance: 1.12/5 | Level: 0.34/7)
+- Philosophy and Theology (Importance: 1.03/5 | Level: 0.06/7)
+- History and Archeology (Importance: 1.02/5 | Level: 0.03/7)
+- Geography (Importance: 1.0/5 | Level: 0.01/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Active Listening (Importance: 3.88/5 | Level: 3.0/7)
+- Speaking (Importance: 3.75/5 | Level: 3.0/7)
+- Service Orientation (Importance: 3.62/5 | Level: 3.25/7)
+- Critical Thinking (Importance: 3.38/5 | Level: 3.5/7)
+- Active Learning (Importance: 3.25/5 | Level: 3.0/7)
+- Judgment and Decision Making (Importance: 3.25/5 | Level: 2.5/7)
+- Social Perceptiveness (Importance: 3.12/5 | Level: 3.12/7)
+- Monitoring (Importance: 3.0/5 | Level: 3.0/7)
+- Complex Problem Solving (Importance: 3.0/5 | Level: 2.88/7)
+- Time Management (Importance: 3.0/5 | Level: 2.62/7)
+- Reading Comprehension (Importance: 3.0/5 | Level: 3.0/7)
+- Persuasion (Importance: 2.88/5 | Level: 2.75/7)
+- Writing (Importance: 2.88/5 | Level: 2.88/7)
+- Coordination (Importance: 2.88/5 | Level: 2.5/7)
+- Instructing (Importance: 2.88/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 2.88/5 | Level: 3.0/7)
+- Negotiation (Importance: 2.75/5 | Level: 2.38/7)
+- Management of Personnel Resources (Importance: 2.5/5 | Level: 2.25/7)
+- Operations Analysis (Importance: 2.5/5 | Level: 1.88/7)
+- Mathematics (Importance: 2.38/5 | Level: 2.0/7)
+- Systems Evaluation (Importance: 2.25/5 | Level: 2.25/7)
+- Systems Analysis (Importance: 2.25/5 | Level: 2.12/7)
+- Operations Monitoring (Importance: 2.0/5 | Level: 1.62/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.12/7)
+- Equipment Selection (Importance: 1.75/5 | Level: 1.12/7)
+- Technology Design (Importance: 1.75/5 | Level: 1.0/7)
+- Quality Control Analysis (Importance: 1.62/5 | Level: 1.0/7)
+- Science (Importance: 1.62/5 | Level: 1.0/7)
+- Management of Financial Resources (Importance: 1.5/5 | Level: 0.75/7)
+- Troubleshooting (Importance: 1.5/5 | Level: 0.62/7)
+- Operation and Control (Importance: 1.38/5 | Level: 0.5/7)
+- Equipment Maintenance (Importance: 1.38/5 | Level: 0.38/7)
+- Programming (Importance: 1.38/5 | Level: 0.38/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Apple iOS (Tech skill type: Operating system software)
+- Appointment scheduling software (Tech skill type: Calendar and scheduling software)
+- Customer information databases (Tech skill type: Data base user interface and query software)
+- Facebook (Tech skill type: Web page creation and editing software)
+- Intuit QuickBooks (Tech skill type: Accounting software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Sale processing software (Tech skill type: Point of sale POS software)
+- YouTube (Tech skill type: Video creation and editing software)
+
+## TOOLS USED
+- Butterfly hair clamps (Tool type: Barrettes)
+- Color application combs (Tool type: Hair combs or brushes)
+- Curling irons (Tool type: Hair or curling iron)
+- Cuticle nippers (Tool type: Manicure implements)
+- Cuticle pushers (Tool type: Manicure implements)
+- Cuticle scissors (Tool type: Manicure implements)
+- Desktop computers (Tool type: Desktop computers)
+- Detangling combs (Tool type: Hair combs or brushes)
+- Digital timers (Tool type: Stop watch)
+- Duckbill hair clamps (Tool type: Barrettes)
+- Dye application brushes (Tool type: Applicator brushes)
+- Electronic cash registers (Tool type: Cash registers)
+- Fine-tooth combs (Tool type: Hair combs or brushes)
+- Fingernail clippers (Tool type: Nail clippers)
+- Flat irons (Tool type: Hair or curling iron)
+- Hair clips (Tool type: Barrettes)
+- Hair pins (Tool type: Barrettes)
+- Hair thinning scissors (Tool type: Hair scissors)
+- Haircutting scissors (Tool type: Hair scissors)
+- Hairstyling brushes (Tool type: Hair combs or brushes)
+- Handheld electric hair clippers (Tool type: Electric hair clipper)
+- Handheld hair dryers (Tool type: Domestic hair dryers)
+- Heated hair curlers (Tool type: Hot rollers)
+- Hooded hair dryers (Tool type: Domestic hair dryers)
+- Hot combs (Tool type: Hair combs or brushes)
+- Laptop computers (Tool type: Notebook computers)
+- Nail buffers (Tool type: Manicure implements)
+- Nail cleaning brushes (Tool type: Manicure implements)
+- Nail files (Tool type: Manicure implements)
+- Rat tail combs (Tool type: Hair combs or brushes)
+- Round brushes (Tool type: Hair combs or brushes)
+- Safety goggles (Tool type: Goggles)
+- Shampoo bowls (Tool type: Sinks)
+- Straight razors (Tool type: Razors)
+- Teasing combs (Tool type: Hair combs or brushes)
+- Tint application brushes (Tool type: Applicator brushes)
+- Wide-tooth combs (Tool type: Hair combs or brushes)
+
+# WORK CONTEXT
+- Conflict Situations: Once a month or more but not every week
+- Consequence of Error: Not serious at all
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Never
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Never
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Very important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Highly competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Very close (near touching)
+- Public Speaking: Once a year or more but not every month
+- Spend Time Bending or Twisting Your Body: Continually or almost continually
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Continually or almost continually
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: Continually or almost continually
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Once a week or more but not every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Never
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Social
+
+# RELATED OCCUPATIONS
+- Barbers
+- Skincare Specialists
+- Shampooers
+- Makeup Artists, Theatrical and Performance
+- Manicurists and Pedicurists
+- Tailors, Dressmakers, and Custom Sewers
+- Sewers, Hand
+- Retail Salespersons
+- Spa Managers
+- Fashion Designers
+- Painting, Coating, and Decorating Workers
+- Laundry and Dry-Cleaning Workers
+- Floral Designers
+- Painters, Construction and Maintenance
+- Shoe and Leather Workers and Repairers
+- Jewelers and Precious Stone and Metal Workers
+- Maids and Housekeeping Cleaners
+- Furniture Finishers
+- Opticians, Dispensing
+- Costume Attendants

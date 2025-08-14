@@ -1,0 +1,249 @@
+Job Title: Service Unit Operators, Oil and Gas
+O*NET-SOC Code: 47-5013.00
+
+# DESCRIPTION
+Operate equipment to increase oil flow from producing wells or to remove stuck pipe, casing, tools, or other obstructions from drilling wells. Includes fishing-tool technicians.
+
+# TASKS
+- Maintain and perform safety inspections on equipment and tools.
+- Operate controls that raise derricks or level rigs.
+- Listen to engines, rotary chains, or other equipment to detect faulty operations or unusual well conditions.
+- Prepare reports of services rendered, tools used, or time required, for billing purposes.
+- Install pressure-control devices onto wellheads.
+- Confer with others to gather information regarding pipe or tool sizes or borehole conditions in wells.
+- Operate pumps that circulate water, oil, or other fluids through wells to remove sand or other materials obstructing the free flow of oil.
+- Drive truck-mounted units to well sites.
+- Interpret instrument readings to ascertain the depth of obstruction.
+- Thread cables through derrick pulleys, using hand tools.
+- Select fishing methods or tools for removing obstacles such as liners, broken casing, screens, or drill pipe.
+- Close and seal wells no longer in use.
+- Direct drilling crews performing activities such as assembling and connecting pipe, applying weights to drill pipes, or drilling around lodged obstacles.
+- Apply green technologies or techniques, such as the use of coiled tubing, slim-hole drilling, horizontal drilling, hydraulic fracturing, or gas lift systems.
+- Operate specialized equipment to remove obstructions by backing off or severing pipes by chemical or explosive action.
+- Perforate well casings or sidewalls of boreholes with explosive charges.
+- Examine unserviceable wells to determine actions to be taken to improve well conditions.
+- Monitor sound wave-generating or detecting mechanisms to determine well fluid levels.
+- Insert detection instruments into wells with obstructions.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 4.05/5 | Level: 5.2/7)
+- Mathematics (Importance: 3.85/5 | Level: 4.19/7)
+- Customer and Personal Service (Importance: 3.68/5 | Level: 4.67/7)
+- Engineering and Technology (Importance: 3.37/5 | Level: 4.72/7)
+- Public Safety and Security (Importance: 3.25/5 | Level: 3.35/7)
+- Education and Training (Importance: 3.21/5 | Level: 3.74/7)
+- English Language (Importance: 3.15/5 | Level: 3.17/7)
+- Sales and Marketing (Importance: 3.14/5 | Level: 3.24/7)
+- Chemistry (Importance: 3.14/5 | Level: 3.15/7)
+- Administration and Management (Importance: 3.12/5 | Level: 3.72/7)
+- Transportation (Importance: 3.12/5 | Level: 3.47/7)
+- Production and Processing (Importance: 3.07/5 | Level: 3.45/7)
+- Physics (Importance: 2.9/5 | Level: 3.6/7)
+- Personnel and Human Resources (Importance: 2.87/5 | Level: 2.55/7)
+- Computers and Electronics (Importance: 2.84/5 | Level: 2.96/7)
+- Administrative (Importance: 2.78/5 | Level: 2.62/7)
+- Design (Importance: 2.76/5 | Level: 3.07/7)
+- Psychology (Importance: 2.66/5 | Level: 3.05/7)
+- Building and Construction (Importance: 2.33/5 | Level: 2.65/7)
+- Economics and Accounting (Importance: 2.33/5 | Level: 1.58/7)
+- Law and Government (Importance: 1.86/5 | Level: 1.96/7)
+- Geography (Importance: 1.84/5 | Level: 1.82/7)
+- Medicine and Dentistry (Importance: 1.82/5 | Level: 1.49/7)
+- Foreign Language (Importance: 1.8/5 | Level: 1.42/7)
+- Communications and Media (Importance: 1.77/5 | Level: 1.45/7)
+- Telecommunications (Importance: 1.75/5 | Level: 0.89/7)
+- Sociology and Anthropology (Importance: 1.61/5 | Level: 1.24/7)
+- Biology (Importance: 1.5/5 | Level: 1.35/7)
+- History and Archeology (Importance: 1.32/5 | Level: 0.79/7)
+- Philosophy and Theology (Importance: 1.27/5 | Level: 0.55/7)
+- Food Production (Importance: 1.27/5 | Level: 0.55/7)
+- Therapy and Counseling (Importance: 1.18/5 | Level: 0.5/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operations Monitoring (Importance: 4.0/5 | Level: 3.62/7)
+- Operation and Control (Importance: 3.75/5 | Level: 3.5/7)
+- Critical Thinking (Importance: 3.75/5 | Level: 3.25/7)
+- Monitoring (Importance: 3.62/5 | Level: 3.38/7)
+- Troubleshooting (Importance: 3.38/5 | Level: 3.12/7)
+- Active Listening (Importance: 3.38/5 | Level: 3.0/7)
+- Judgment and Decision Making (Importance: 3.25/5 | Level: 2.62/7)
+- Complex Problem Solving (Importance: 3.12/5 | Level: 3.0/7)
+- Equipment Maintenance (Importance: 3.12/5 | Level: 3.25/7)
+- Speaking (Importance: 3.0/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 2.75/7)
+- Repairing (Importance: 3.0/5 | Level: 3.12/7)
+- Reading Comprehension (Importance: 3.0/5 | Level: 3.0/7)
+- Quality Control Analysis (Importance: 3.0/5 | Level: 3.12/7)
+- Active Learning (Importance: 3.0/5 | Level: 3.0/7)
+- Writing (Importance: 3.0/5 | Level: 3.0/7)
+- Management of Personnel Resources (Importance: 3.0/5 | Level: 2.5/7)
+- Instructing (Importance: 2.88/5 | Level: 2.5/7)
+- Coordination (Importance: 2.88/5 | Level: 3.0/7)
+- Systems Evaluation (Importance: 2.88/5 | Level: 2.5/7)
+- Learning Strategies (Importance: 2.88/5 | Level: 2.38/7)
+- Time Management (Importance: 2.75/5 | Level: 2.88/7)
+- Service Orientation (Importance: 2.75/5 | Level: 2.5/7)
+- Negotiation (Importance: 2.75/5 | Level: 2.38/7)
+- Mathematics (Importance: 2.75/5 | Level: 2.38/7)
+- Persuasion (Importance: 2.75/5 | Level: 2.62/7)
+- Equipment Selection (Importance: 2.62/5 | Level: 2.5/7)
+- Systems Analysis (Importance: 2.62/5 | Level: 2.38/7)
+- Installation (Importance: 2.12/5 | Level: 2.12/7)
+- Management of Material Resources (Importance: 2.12/5 | Level: 1.75/7)
+- Management of Financial Resources (Importance: 1.88/5 | Level: 1.12/7)
+- Programming (Importance: 1.75/5 | Level: 0.88/7)
+- Operations Analysis (Importance: 1.5/5 | Level: 0.88/7)
+- Technology Design (Importance: 1.38/5 | Level: 0.5/7)
+- Science (Importance: 1.38/5 | Level: 0.38/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Computerized maintenance management system CMMS (Tech skill type: Facilities management software)
+- Data logger software (Tech skill type: Analytical or scientific software)
+- Inventory tracking software (Tech skill type: Inventory management software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft Word (Tech skill type: Word processing software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Supervisory control and data acquisition SCADA software (Tech skill type: Industrial control software)
+- Time and attendance software (Tech skill type: Time accounting software)
+
+## TOOLS USED
+- Adjustable hand wrenches (Tool type: Adjustable wrenches)
+- Cement mixers (Tool type: Plaster or mortar mixers)
+- Cement pumps (Tool type: Cement pumping units)
+- Channel lock pliers (Tool type: Locking pliers)
+- Chemical casing cutters (Tool type: Slickline chemical cutters)
+- Chemical pipe cutters (Tool type: Slickline chemical cutters)
+- Claw hammers (Tool type: Claw hammer)
+- Continuous sucker rods (Tool type: Rod pumps)
+- Depth gauges (Tool type: Depth indicators)
+- Desktop computers (Tool type: Desktop computers)
+- Diesel motors (Tool type: Diesel engines)
+- Downhole object retrieval equipment (Tool type: Downhole fishing poles)
+- Electric downhole pumps (Tool type: Electric downhole pumps)
+- Free point tools (Tool type: Well testing downhole tools)
+- Handheld data loggers (Tool type: Portable data input terminals)
+- Hex wrenches (Tool type: Hex keys)
+- Hoisting equipment (Tool type: Hoists)
+- Hydraulic hoisting equipment (Tool type: Hoists)
+- Hydraulic pumping systems (Tool type: Completion hydraulic pumps)
+- Jet casing cutters (Tool type: Slickline jet cutters)
+- Jet pipe cutters (Tool type: Slickline jet cutters)
+- Laptop computers (Tool type: Notebook computers)
+- Mallets (Tool type: Mallets)
+- Mud pumps (Tool type: Mud pumps)
+- Personal computers (Tool type: Personal computers)
+- Phillips head screwdrivers (Tool type: Screwdrivers)
+- Pipe elevators (Tool type: Pipe handling equipment)
+- Pipe slips (Tool type: Pipe handling equipment)
+- Pipe tongs (Tool type: Pipe handling equipment)
+- Pipe wrenches (Tool type: Pipe wrenches)
+- Power drills (Tool type: Power drills)
+- Pressure control devices (Tool type: Pressure controllers)
+- Pressure indicators (Tool type: Pressure indicators)
+- Programmable logic controllers PLC (Tool type: Microcontrollers)
+- Protective ear muffs (Tool type: Acoustic ear muffs or defenders)
+- Ratchet sets (Tool type: Ratchets)
+- Safety gloves (Tool type: Protective gloves)
+- Safety goggles (Tool type: Goggles)
+- Slickline severance tools (Tool type: Slickline severing tools)
+- Sonar equipment (Tool type: Sonars)
+- Steel measuring tapes (Tool type: Tape measures)
+- Straight screwdrivers (Tool type: Screwdrivers)
+- Strain gauges (Tool type: Strain gauges)
+- Stuck pipe tools (Tool type: Pipe handling equipment)
+- Torpedo levels (Tool type: Levels)
+- Truck-mounted derricks (Tool type: Derricks)
+- Utility knives (Tool type: Utility knives)
+- Well tubing perforation guns (Tool type: Through tubing perforation guns)
+- Wellhead drives (Tool type: Wellhead beam pumps)
+- Wire cutters (Tool type: Wire cutters)
+
+# WORK CONTEXT
+- Conflict Situations: Never
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Important
+- Deal With External Customers or the Public in General: Important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a month or more but not every week
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Never
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Every day
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Every day
+- Exposed to Hazardous Conditions: Every day
+- Exposed to Hazardous Equipment: Every day
+- Exposed to High Places: Every day
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Every day
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Every day
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Very important
+- Importance of Repeating Same Tasks: Extremely important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Every day
+- In an Open Vehicle or Operating Equipment: Every day
+- Indoors, Environmentally Controlled: Never
+- Indoors, Not Environmentally Controlled: Every day
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Every day
+- Outdoors, Under Cover: Once a month or more but not every week
+- Pace Determined by Speed of Equipment: Very important
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Continually or almost continually
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Continually or almost continually
+- Spend Time Keeping or Regaining Balance: Less than half the time
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Continually or almost continually
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: Continually or almost continually
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Continually or almost continually
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Every day
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Never
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Rotary Drill Operators, Oil and Gas
+- Roustabouts, Oil and Gas
+- Wellhead Pumpers
+- Petroleum Pump System Operators, Refinery Operators, and Gaugers
+- Earth Drillers, Except Oil and Gas
+- Helpers--Extraction Workers
+- Gas Plant Operators
+- Pump Operators, Except Wellhead Pumpers
+- Gas Compressor and Gas Pumping Station Operators
+- Power Plant Operators
+- Hoist and Winch Operators
+- Operating Engineers and Other Construction Equipment Operators
+- Industrial Machinery Mechanics
+- Septic Tank Servicers and Sewer Pipe Cleaners
+- Continuous Mining Machine Operators
+- Hydroelectric Plant Technicians
+- Chemical Plant and System Operators
+- Excavating and Loading Machine and Dragline Operators, Surface Mining
+- Engine and Other Machine Assemblers
+- Maintenance Workers, Machinery

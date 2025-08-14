@@ -1,0 +1,233 @@
+Job Title: Dispatchers, Except Police, Fire, and Ambulance
+O*NET-SOC Code: 43-5032.00
+
+# DESCRIPTION
+Schedule and dispatch workers, work crews, equipment, or service vehicles for conveyance of materials, freight, or passengers, or for normal installation, service, or emergency repairs rendered outside the place of business. Duties may include using radio, telephone, or computer to transmit assignments and compiling statistics and reports on work progress.
+
+# TASKS
+- Schedule or dispatch workers, work crews, equipment, or service vehicles to appropriate locations, according to customer requests, specifications, or needs, using radios or telephones.
+- Prepare daily work and run schedules.
+- Confer with customers or supervising personnel to address questions, problems, or requests for service or equipment.
+- Relay work orders, messages, or information to or from work crews, supervisors, or field inspectors, using telephones or two-way radios.
+- Receive or prepare work orders.
+- Record and maintain files or records of customer requests, work or services performed, charges, expenses, inventory, or other dispatch information.
+- Arrange for necessary repairs to restore service and schedules.
+- Monitor personnel or equipment locations and utilization to coordinate service and schedules.
+- Determine types or amounts of equipment, vehicles, materials, or personnel required, according to work orders or specifications.
+- Advise personnel about traffic problems, such as construction areas, accidents, congestion, weather conditions, or other hazards.
+- Oversee all communications within specifically assigned territories.
+- Order supplies or equipment and issue them to personnel.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.34/5 | Level: 5.48/7)
+- Public Safety and Security (Importance: 4.02/5 | Level: 3.88/7)
+- Administration and Management (Importance: 3.86/5 | Level: 4.28/7)
+- Administrative (Importance: 3.74/5 | Level: 4.63/7)
+- English Language (Importance: 3.53/5 | Level: 3.82/7)
+- Transportation (Importance: 3.46/5 | Level: 3.57/7)
+- Personnel and Human Resources (Importance: 3.25/5 | Level: 3.15/7)
+- Computers and Electronics (Importance: 3.07/5 | Level: 3.3/7)
+- Education and Training (Importance: 2.77/5 | Level: 3.25/7)
+- Psychology (Importance: 2.52/5 | Level: 2.68/7)
+- Mathematics (Importance: 2.41/5 | Level: 2.38/7)
+- Law and Government (Importance: 2.19/5 | Level: 2.07/7)
+- Geography (Importance: 2.18/5 | Level: 1.91/7)
+- Communications and Media (Importance: 2.1/5 | Level: 1.92/7)
+- Telecommunications (Importance: 2.06/5 | Level: 1.55/7)
+- Sociology and Anthropology (Importance: 2.04/5 | Level: 1.66/7)
+- Economics and Accounting (Importance: 2.01/5 | Level: 1.82/7)
+- Production and Processing (Importance: 1.97/5 | Level: 1.83/7)
+- Sales and Marketing (Importance: 1.91/5 | Level: 1.4/7)
+- Foreign Language (Importance: 1.81/5 | Level: 1.33/7)
+- Mechanical (Importance: 1.74/5 | Level: 1.29/7)
+- Engineering and Technology (Importance: 1.64/5 | Level: 1.07/7)
+- Design (Importance: 1.6/5 | Level: 1.07/7)
+- Physics (Importance: 1.48/5 | Level: 0.57/7)
+- Philosophy and Theology (Importance: 1.43/5 | Level: 0.79/7)
+- Chemistry (Importance: 1.35/5 | Level: 0.62/7)
+- Building and Construction (Importance: 1.31/5 | Level: 0.76/7)
+- Therapy and Counseling (Importance: 1.23/5 | Level: 0.37/7)
+- History and Archeology (Importance: 1.15/5 | Level: 0.3/7)
+- Biology (Importance: 1.13/5 | Level: 0.17/7)
+- Medicine and Dentistry (Importance: 1.07/5 | Level: 0.1/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Speaking (Importance: 4.0/5 | Level: 3.88/7)
+- Active Listening (Importance: 4.0/5 | Level: 3.88/7)
+- Monitoring (Importance: 3.88/5 | Level: 3.25/7)
+- Coordination (Importance: 3.88/5 | Level: 3.62/7)
+- Time Management (Importance: 3.75/5 | Level: 3.12/7)
+- Reading Comprehension (Importance: 3.75/5 | Level: 3.25/7)
+- Writing (Importance: 3.12/5 | Level: 2.88/7)
+- Complex Problem Solving (Importance: 3.12/5 | Level: 3.0/7)
+- Critical Thinking (Importance: 3.12/5 | Level: 3.75/7)
+- Social Perceptiveness (Importance: 3.12/5 | Level: 3.0/7)
+- Service Orientation (Importance: 3.12/5 | Level: 2.88/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 2.88/7)
+- Active Learning (Importance: 3.0/5 | Level: 2.88/7)
+- Systems Analysis (Importance: 2.88/5 | Level: 2.75/7)
+- Persuasion (Importance: 2.75/5 | Level: 2.88/7)
+- Learning Strategies (Importance: 2.75/5 | Level: 2.75/7)
+- Instructing (Importance: 2.75/5 | Level: 2.5/7)
+- Systems Evaluation (Importance: 2.75/5 | Level: 2.75/7)
+- Negotiation (Importance: 2.62/5 | Level: 2.75/7)
+- Management of Personnel Resources (Importance: 2.38/5 | Level: 2.75/7)
+- Mathematics (Importance: 2.12/5 | Level: 2.0/7)
+- Operations Monitoring (Importance: 2.0/5 | Level: 1.75/7)
+- Quality Control Analysis (Importance: 2.0/5 | Level: 1.88/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.38/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 1.0/7)
+- Operations Analysis (Importance: 1.62/5 | Level: 0.75/7)
+- Troubleshooting (Importance: 1.62/5 | Level: 0.62/7)
+- Technology Design (Importance: 1.62/5 | Level: 0.75/7)
+- Programming (Importance: 1.38/5 | Level: 0.38/7)
+- Operation and Control (Importance: 1.25/5 | Level: 0.38/7)
+- Science (Importance: 1.12/5 | Level: 0.12/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Air-Trak Cloudberry (Tech skill type: Mobile location based services software)
+- Bornemann Associates Flight Plan (Tech skill type: Aviation ground support software)
+- Command Alkon COMMANDconcrete (Tech skill type: Customer relationship management CRM software)
+- Computer aided design CAD software (Tech skill type: Computer aided design CAD software)
+- Computer aided dispatch software (Tech skill type: Helpdesk or call center software)
+- Computer aided dispatching auto routing software (Tech skill type: Expert system software)
+- Database software (Tech skill type: Data base user interface and query software)
+- Digital Gateway e-automate (Tech skill type: Customer relationship management CRM software)
+- Dr. Dispatch (Tech skill type: Mobile location based services software)
+- Email software (Tech skill type: Electronic mail software)
+- ESRI ArcIMS (Tech skill type: Geographic information system)
+- Geomechanical design analysis GDA software (Tech skill type: Map creation software)
+- Global positioning system GPS software (Tech skill type: Mobile location based services software)
+- Kronos Workforce Timekeeper (Tech skill type: Time accounting software)
+- Locomotive distribution software (Tech skill type: Data base reporting software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Dynamics (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Rail Traffic Track Warrant Control System (Tech skill type: Expert system software)
+- Resource management software (Tech skill type: Mobile location based services software)
+- Routing software (Tech skill type: Route navigation software)
+- Sabre travel agent software (Tech skill type: Aviation ground support software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Scheduling software (Tech skill type: Calendar and scheduling software)
+- Situation resource tracking software (Tech skill type: Mobile location based services software)
+- Tangier Sky Scheduler View (Tech skill type: Data base user interface and query software)
+- TMW PowerSuite (Tech skill type: Enterprise resource planning ERP software)
+- Transportation management software (Tech skill type: Mobile location based services software)
+- Web browser software (Tech skill type: Internet browser software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Call management systems CMS (Tool type: Automatic call distributor ACD)
+- Centralized traffic control units (Tool type: Railway signaling systems)
+- Desktop computers (Tool type: Desktop computers)
+- Dispatch servers (Tool type: Interactive voice recognition equipment)
+- Job dispatch and vehicle tracking systems (Tool type: Vehicular global positioning system GPS)
+- Mobile data terminal MDT equipment (Tool type: Notebook computers)
+- Mobile radios (Tool type: Two way radios)
+- Multi-line telephone systems (Tool type: Special purpose telephones)
+- Personal banking chamber PBC telephones (Tool type: Special purpose telephones)
+- Personal computers (Tool type: Personal computers)
+- Signal controls (Tool type: Railway signaling systems)
+- Switch controls (Tool type: Rail switching systems)
+- Teletypewriters TTY (Tool type: Teletype input devices)
+- Touch screen monitors (Tool type: Touch screen monitors)
+- Tower switching machines (Tool type: Rail switching systems)
+- Two way radios (Tool type: Two way radios)
+- Voice over internet protocol VoIP systems (Tool type: Digital telephones)
+
+# WORK CONTEXT
+- Conflict Situations: Once a week or more but not every day
+- Consequence of Error: Not serious at all
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Extremely important
+- Deal With External Customers or the Public in General: Very important
+- Dealing With Unpleasant, Angry, or Discourteous People: Every day
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Moderately automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Never
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Extremely important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Every day
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Never
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Continually or almost continually
+- Spend Time Sitting: Continually or almost continually
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Never
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Conventional
+- Secondary Interest: Realistic
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- First-Line Supervisors of Passenger Attendants
+- First-Line Supervisors of Material-Moving Machine and Vehicle Operators
+- First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand
+- Public Safety Telecommunicators
+- Railroad Conductors and Yardmasters
+- Production, Planning, and Expediting Clerks
+- Aircraft Cargo Handling Supervisors
+- First-Line Supervisors of Mechanics, Installers, and Repairers
+- Power Distributors and Dispatchers
+- Switchboard Operators, Including Answering Service
+- Transportation, Storage, and Distribution Managers
+- Shuttle Drivers and Chauffeurs
+- First-Line Supervisors of Office and Administrative Support Workers
+- Shipping, Receiving, and Inventory Clerks
+- Heavy and Tractor-Trailer Truck Drivers
+- Locomotive Engineers
+- Light Truck Drivers
+- Postmasters and Mail Superintendents
+- Rail Yard Engineers, Dinkey Operators, and Hostlers
+- Airfield Operations Specialists

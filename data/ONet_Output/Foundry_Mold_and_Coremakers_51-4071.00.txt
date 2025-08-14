@@ -1,0 +1,239 @@
+Job Title: Foundry Mold and Coremakers
+O*NET-SOC Code: 51-4071.00
+
+# DESCRIPTION
+Make or form wax or sand cores or molds used in the production of metal castings in foundries.
+
+# TASKS
+- Clean and smooth molds, cores, and core boxes, and repair surface imperfections.
+- Sift and pack sand into mold sections, core boxes, and pattern contours, using hand or pneumatic ramming tools.
+- Position patterns inside mold sections, and clamp sections together.
+- Position cores into lower sections of molds, and reassemble molds for pouring.
+- Sprinkle or spray parting agents onto patterns and mold sections to facilitate removal of patterns from molds.
+- Form and assemble slab cores around patterns, and position wire in mold sections to reinforce molds, using hand tools and glue.
+- Move and position workpieces, such as mold sections, patterns, and bottom boards, using cranes, or signal others to move workpieces.
+- Lift upper mold sections from lower sections, and remove molded patterns.
+- Cut spouts, runner holes, and sprue holes into molds.
+- Tend machines that bond cope and drag together to form completed shell molds.
+- Rotate sweep boards around spindles to make symmetrical molds for convex impressions.
+- Pour molten metal into molds, manually or with crane ladles.
+- Operate ovens or furnaces to bake cores or to melt, skim, and flux metal.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- English Language (Importance: 3.39/5 | Level: 2.94/7)
+- Mechanical (Importance: 3.37/5 | Level: 4.05/7)
+- Education and Training (Importance: 3.27/5 | Level: 4.01/7)
+- Production and Processing (Importance: 3.27/5 | Level: 3.87/7)
+- Administration and Management (Importance: 3.24/5 | Level: 3.03/7)
+- Physics (Importance: 3.15/5 | Level: 3.27/7)
+- Design (Importance: 3.07/5 | Level: 3.18/7)
+- Engineering and Technology (Importance: 3.02/5 | Level: 3.3/7)
+- Chemistry (Importance: 2.98/5 | Level: 3.48/7)
+- Public Safety and Security (Importance: 2.95/5 | Level: 2.56/7)
+- Building and Construction (Importance: 2.82/5 | Level: 3.05/7)
+- Administrative (Importance: 2.75/5 | Level: 2.66/7)
+- Mathematics (Importance: 2.68/5 | Level: 3.01/7)
+- Customer and Personal Service (Importance: 2.59/5 | Level: 2.36/7)
+- Sales and Marketing (Importance: 2.58/5 | Level: 1.91/7)
+- Economics and Accounting (Importance: 2.55/5 | Level: 2.28/7)
+- Personnel and Human Resources (Importance: 2.44/5 | Level: 2.3/7)
+- Psychology (Importance: 2.37/5 | Level: 2.47/7)
+- Sociology and Anthropology (Importance: 2.2/5 | Level: 2.0/7)
+- Transportation (Importance: 2.15/5 | Level: 1.6/7)
+- Computers and Electronics (Importance: 2.1/5 | Level: 1.54/7)
+- Law and Government (Importance: 2.06/5 | Level: 1.07/7)
+- Telecommunications (Importance: 2.0/5 | Level: 1.78/7)
+- Philosophy and Theology (Importance: 1.97/5 | Level: 1.73/7)
+- Foreign Language (Importance: 1.96/5 | Level: 1.22/7)
+- Communications and Media (Importance: 1.81/5 | Level: 1.7/7)
+- Geography (Importance: 1.77/5 | Level: 1.21/7)
+- History and Archeology (Importance: 1.73/5 | Level: 0.99/7)
+- Medicine and Dentistry (Importance: 1.68/5 | Level: 1.45/7)
+- Biology (Importance: 1.67/5 | Level: 0.95/7)
+- Therapy and Counseling (Importance: 1.66/5 | Level: 0.95/7)
+- Fine Arts (Importance: 1.65/5 | Level: 0.92/7)
+- Food Production (Importance: 1.6/5 | Level: 1.02/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Monitoring (Importance: 3.0/5 | Level: 2.62/7)
+- Operations Monitoring (Importance: 3.0/5 | Level: 2.38/7)
+- Time Management (Importance: 2.88/5 | Level: 2.5/7)
+- Critical Thinking (Importance: 2.88/5 | Level: 2.5/7)
+- Active Listening (Importance: 2.88/5 | Level: 2.25/7)
+- Operation and Control (Importance: 2.62/5 | Level: 2.38/7)
+- Complex Problem Solving (Importance: 2.62/5 | Level: 2.12/7)
+- Speaking (Importance: 2.62/5 | Level: 1.88/7)
+- Judgment and Decision Making (Importance: 2.62/5 | Level: 2.25/7)
+- Quality Control Analysis (Importance: 2.38/5 | Level: 2.12/7)
+- Active Learning (Importance: 2.38/5 | Level: 2.12/7)
+- Reading Comprehension (Importance: 2.25/5 | Level: 2.0/7)
+- Coordination (Importance: 2.25/5 | Level: 2.5/7)
+- Social Perceptiveness (Importance: 2.25/5 | Level: 2.12/7)
+- Troubleshooting (Importance: 2.12/5 | Level: 2.0/7)
+- Instructing (Importance: 2.12/5 | Level: 2.0/7)
+- Equipment Selection (Importance: 2.0/5 | Level: 1.5/7)
+- Systems Analysis (Importance: 2.0/5 | Level: 1.12/7)
+- Equipment Maintenance (Importance: 2.0/5 | Level: 1.38/7)
+- Service Orientation (Importance: 2.0/5 | Level: 1.62/7)
+- Repairing (Importance: 2.0/5 | Level: 1.25/7)
+- Writing (Importance: 2.0/5 | Level: 1.75/7)
+- Persuasion (Importance: 2.0/5 | Level: 1.5/7)
+- Negotiation (Importance: 2.0/5 | Level: 1.5/7)
+- Learning Strategies (Importance: 2.0/5 | Level: 1.5/7)
+- Mathematics (Importance: 2.0/5 | Level: 1.75/7)
+- Management of Personnel Resources (Importance: 2.0/5 | Level: 1.88/7)
+- Systems Evaluation (Importance: 1.88/5 | Level: 1.0/7)
+- Management of Material Resources (Importance: 1.75/5 | Level: 0.75/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 0.75/7)
+- Operations Analysis (Importance: 1.62/5 | Level: 0.75/7)
+- Technology Design (Importance: 1.38/5 | Level: 0.38/7)
+- Science (Importance: 1.25/5 | Level: 0.25/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- CNC Software Mastercam (Tech skill type: Computer aided manufacturing CAM software)
+- Computer aided manufacturing CAM software (Tech skill type: Computer aided manufacturing CAM software)
+- Dassault Systemes SolidWorks (Tech skill type: Computer aided design CAD software)
+- Inventory tracking software (Tech skill type: Inventory management software)
+- Machine control software (Tech skill type: Industrial control software)
+- PTC Creo Parametric (Tech skill type: Computer aided design CAD software)
+
+## TOOLS USED
+- Abrasive stones (Tool type: Abrasive stones)
+- Allen wrench sets (Tool type: Allen wrench)
+- Angle plates (Tool type: Adjustable angle plate)
+- Bench vises (Tool type: Bench vises)
+- Buffing machines (Tool type: Buffing machine)
+- Centrifugal casting machines (Tool type: Casting machines)
+- Chain hoists (Tool type: Hoists)
+- Core blowers (Tool type: Foundry blowers)
+- Core machines (Tool type: Casting machines)
+- Coremaking machines (Tool type: Casting machines)
+- Crane ladles (Tool type: Foundry ladles)
+- Crucible furnaces (Tool type: Foundry crucibles)
+- Cupola furnaces (Tool type: Furnaces)
+- Desktop computers (Tool type: Desktop computers)
+- Dial calipers (Tool type: Calipers)
+- Dial indicators (Tool type: Dial indicator or dial gauge)
+- Die casting machines (Tool type: Casting machines)
+- Digital micrometers (Tool type: Micrometers)
+- Digital pyrometers (Tool type: Pyrometers)
+- Electric arc furnaces (Tool type: Electric furnace)
+- Electric overhead traveling EOT cranes (Tool type: Overhead crane)
+- Emery cloths (Tool type: Abrasive cloth)
+- Flat files (Tool type: Flat hand file)
+- Foundry ovens (Tool type: Furnaces)
+- Foundry sand testing equipment (Tool type: Foundry testing apparatus)
+- Gas-powered generators (Tool type: Gas generators)
+- Heat treating furnaces (Tool type: Induction heating machine)
+- Height gauges (Tool type: Height gauges)
+- Horizontal milling machines (Tool type: Universal milling machine)
+- Induction furnaces (Tool type: Crucible furnaces)
+- Inside diameter outside diameter ID-OD grinders (Tool type: Cylindrical grinding machine)
+- Laser welding equipment (Tool type: Laser welding machine)
+- Micro welding equipment (Tool type: Tungsten inert gas welding machine)
+- Mold clamps (Tool type: Power clamp)
+- Multipurpose hammers (Tool type: Hammers)
+- Multipurpose screwdrivers (Tool type: Screwdrivers)
+- Power grinders (Tool type: Power grinders)
+- Process air heaters (Tool type: Process air heaters)
+- Sand blasting machines (Tool type: Sand blasting machine)
+- Shearing machines (Tool type: Metal shearing machine)
+- Socket wrench sets (Tool type: Socket sets)
+- Surface grinding machines (Tool type: Surface grinding machine)
+- Surface plates (Tool type: Precision surface plate)
+- Turret lathes (Tool type: Turret lathe)
+- V-blocks (Tool type: Vee block)
+- Vacuum casting machines (Tool type: Casting machines)
+- Variable speed drill presses (Tool type: Drill press or radial drill)
+- Vent gas scrubbers (Tool type: Air scrubbers)
+- Vertical machining centers (Tool type: Vertical machining center)
+- Wire electrical discharge machine WEDM (Tool type: Wire cathode electrode discharge machine)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Fairly serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Important
+- Deal With External Customers or the Public in General: Not important at all
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a month or more but not every week
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Never
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Every day
+- Exposed to Hazardous Conditions: Every day
+- Exposed to Hazardous Equipment: Every day
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Every day
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Every day
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Moderate responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Very important
+- Importance of Repeating Same Tasks: Not important at all
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Every day
+- Indoors, Environmentally Controlled: Never
+- Indoors, Not Environmentally Controlled: Every day
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Extremely important
+- Physical Proximity: Slightly close (e.g., shared office)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Less than half the time
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Continually or almost continually
+- Spend Time Sitting: Never
+- Spend Time Standing: Continually or almost continually
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Never
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Never
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Molders, Shapers, and Casters, Except Metal and Plastic
+- Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic
+- Fiberglass Laminators and Fabricators
+- Grinding and Polishing Workers, Hand
+- Refractory Materials Repairers, Except Brickmasons
+- Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders
+- Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+- Cutters and Trimmers, Hand
+- Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers
+- Cutting and Slicing Machine Setters, Operators, and Tenders
+- Tool Grinders, Filers, and Sharpeners
+- Forging Machine Setters, Operators, and Tenders, Metal and Plastic
+- Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders
+- Tool and Die Makers
+- Patternmakers, Metal and Plastic
+- Pourers and Casters, Metal
+- Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Machine Feeders and Offbearers
+- Structural Metal Fabricators and Fitters
+- Shoe Machine Operators and Tenders

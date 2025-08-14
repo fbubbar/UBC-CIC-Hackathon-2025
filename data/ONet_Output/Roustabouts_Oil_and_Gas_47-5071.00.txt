@@ -1,0 +1,251 @@
+Job Title: Roustabouts, Oil and Gas
+O*NET-SOC Code: 47-5071.00
+
+# DESCRIPTION
+Assemble or repair oil field equipment using hand and power tools. Perform other tasks as needed.
+
+# TASKS
+- Unscrew or tighten pipes, casing, tubing, and pump rods, using hand and power wrenches and tongs.
+- Dismantle and repair oil field machinery, boilers, and steam engine parts, using hand tools and power tools.
+- Guide cranes to move loads about decks.
+- Walk flow lines to locate leaks, using electronic detectors and by making visual inspections, and repair the leaks.
+- Lay gas and oil pipelines.
+- Bolt together pump and engine parts.
+- Move pipes to and from trucks, using truck winches and motorized lifts, or by hand.
+- Clean trucks used in the fields.
+- Dig holes, set forms, and mix and pour concrete into forms to make foundations for wood or steel derricks.
+- Supply equipment to rig floors as requested and provide assistance to roughnecks.
+- Clean up spilled oil by bailing it into barrels.
+- Dig drainage ditches around wells and storage tanks.
+- Cut down and remove trees and brush to clear drill sites, to reduce fire hazards, and to make way for roads to sites.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 3.62/5 | Level: 5.01/7)
+- Customer and Personal Service (Importance: 3.07/5 | Level: 3.03/7)
+- Production and Processing (Importance: 2.53/5 | Level: 2.85/7)
+- Transportation (Importance: 2.5/5 | Level: 2.73/7)
+- Mathematics (Importance: 2.49/5 | Level: 3.25/7)
+- English Language (Importance: 2.41/5 | Level: 2.25/7)
+- Physics (Importance: 2.37/5 | Level: 2.65/7)
+- Education and Training (Importance: 2.34/5 | Level: 2.23/7)
+- Engineering and Technology (Importance: 2.33/5 | Level: 2.48/7)
+- Building and Construction (Importance: 2.25/5 | Level: 2.8/7)
+- Design (Importance: 2.16/5 | Level: 2.27/7)
+- Administration and Management (Importance: 2.08/5 | Level: 2.41/7)
+- Chemistry (Importance: 2.03/5 | Level: 2.3/7)
+- Public Safety and Security (Importance: 1.89/5 | Level: 1.77/7)
+- Administrative (Importance: 1.88/5 | Level: 1.82/7)
+- Computers and Electronics (Importance: 1.86/5 | Level: 1.82/7)
+- Personnel and Human Resources (Importance: 1.76/5 | Level: 1.13/7)
+- Geography (Importance: 1.67/5 | Level: 1.11/7)
+- Sales and Marketing (Importance: 1.6/5 | Level: 0.79/7)
+- Economics and Accounting (Importance: 1.51/5 | Level: 0.95/7)
+- Telecommunications (Importance: 1.5/5 | Level: 0.55/7)
+- Psychology (Importance: 1.43/5 | Level: 0.81/7)
+- Communications and Media (Importance: 1.32/5 | Level: 0.61/7)
+- Law and Government (Importance: 1.28/5 | Level: 0.33/7)
+- Biology (Importance: 1.26/5 | Level: 0.66/7)
+- Philosophy and Theology (Importance: 1.1/5 | Level: 0.14/7)
+- Foreign Language (Importance: 1.1/5 | Level: 0.13/7)
+- Sociology and Anthropology (Importance: 1.1/5 | Level: 0.15/7)
+- Medicine and Dentistry (Importance: 1.09/5 | Level: 0.13/7)
+- Food Production (Importance: 1.09/5 | Level: 0.13/7)
+- History and Archeology (Importance: 1.06/5 | Level: 0.1/7)
+- Fine Arts (Importance: 1.06/5 | Level: 0.1/7)
+- Therapy and Counseling (Importance: 1.06/5 | Level: 0.09/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Critical Thinking (Importance: 3.12/5 | Level: 2.25/7)
+- Operation and Control (Importance: 3.0/5 | Level: 2.75/7)
+- Monitoring (Importance: 3.0/5 | Level: 2.5/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 2.12/7)
+- Quality Control Analysis (Importance: 3.0/5 | Level: 2.75/7)
+- Operations Monitoring (Importance: 3.0/5 | Level: 2.88/7)
+- Equipment Maintenance (Importance: 2.88/5 | Level: 2.75/7)
+- Time Management (Importance: 2.88/5 | Level: 2.25/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.25/7)
+- Repairing (Importance: 2.88/5 | Level: 2.75/7)
+- Active Listening (Importance: 2.88/5 | Level: 2.5/7)
+- Coordination (Importance: 2.75/5 | Level: 3.0/7)
+- Troubleshooting (Importance: 2.75/5 | Level: 2.62/7)
+- Speaking (Importance: 2.75/5 | Level: 2.0/7)
+- Complex Problem Solving (Importance: 2.62/5 | Level: 2.12/7)
+- Active Learning (Importance: 2.5/5 | Level: 2.12/7)
+- Equipment Selection (Importance: 2.38/5 | Level: 2.12/7)
+- Management of Personnel Resources (Importance: 2.38/5 | Level: 1.88/7)
+- Instructing (Importance: 2.25/5 | Level: 2.0/7)
+- Learning Strategies (Importance: 2.25/5 | Level: 2.0/7)
+- Writing (Importance: 2.12/5 | Level: 1.88/7)
+- Service Orientation (Importance: 2.12/5 | Level: 1.88/7)
+- Reading Comprehension (Importance: 2.12/5 | Level: 2.12/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 2.0/7)
+- Systems Analysis (Importance: 2.0/5 | Level: 2.0/7)
+- Negotiation (Importance: 2.0/5 | Level: 1.75/7)
+- Mathematics (Importance: 2.0/5 | Level: 1.5/7)
+- Persuasion (Importance: 2.0/5 | Level: 1.5/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.0/7)
+- Management of Financial Resources (Importance: 1.62/5 | Level: 0.75/7)
+- Technology Design (Importance: 1.5/5 | Level: 0.5/7)
+- Installation (Importance: 1.12/5 | Level: 0.12/7)
+- Operations Analysis (Importance: 1.12/5 | Level: 0.25/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Database management systems (Tech skill type: Data base management system software)
+- Enertia (Tech skill type: Inventory management software)
+- Inventory management systems (Tech skill type: Inventory management software)
+- Maintenance record software (Tech skill type: Project management software)
+- Maintenance software (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Windows XP (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Operating system software (Tech skill type: Operating system software)
+- Purchasing software (Tech skill type: Procurement software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- Telephony software (Tech skill type: Internet protocol IP multimedia subsystem software)
+- Token Ring (Tech skill type: Switch or router software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Adjustable hand wrenches (Tool type: Adjustable wrenches)
+- Air hoists (Tool type: Hoists)
+- Air-powered sandblasters (Tool type: Pneumatic sanding machines)
+- Catheads (Tool type: Oilfield production spoolers)
+- Centrifugal pumps (Tool type: Centrifugal pumps)
+- Chipping hammers (Tool type: Demolition hammers)
+- Cleaning scrapers (Tool type: Cleaning scrapers)
+- Deck grinders (Tool type: Power grinders)
+- Ear plugs (Tool type: Ear plugs)
+- Electric hoists (Tool type: Hoists)
+- Fall arresting lanyards (Tool type: Fall protection lanyard)
+- Filter presses (Tool type: Filtering machinery)
+- Fire extinguishers (Tool type: Fire extinguishers)
+- Forklifts (Tool type: Forklifts)
+- Grease guns (Tool type: Grease guns)
+- Hammers (Tool type: Hammers)
+- Hand operated spray guns (Tool type: Hand sprayers)
+- Handheld data loggers (Tool type: Portable data input terminals)
+- Handheld grinders (Tool type: Power grinders)
+- Hard hats (Tool type: Hard hats)
+- High pressure steam cleaners (Tool type: Pressure or steam cleaners)
+- Hoisting hooks (Tool type: Lifting hooks)
+- Insulated protective coveralls (Tool type: Insulated or flotation suits)
+- Laboratory funnels (Tool type: Laboratory funnels)
+- Laboratory weighing scales (Tool type: Laboratory balances)
+- Motorized lifts (Tool type: Lifts)
+- Mud agitators (Tool type: Mud agitators)
+- Multi-gas sensors (Tool type: Multi gas monitors)
+- Oxygen testers (Tool type: Oxygen gas analyzers)
+- Pelican hooks (Tool type: Safety hooks)
+- Personal computers (Tool type: Personal computers)
+- pH meters (Tool type: pH meters)
+- Pipe retrieval fishing tools (Tool type: Downhole fishing poles)
+- Post hole augers (Tool type: Post hole digger)
+- Power impact wrenches (Tool type: Impact wrenches)
+- Rheometers (Tool type: Rheometers)
+- Safety belts (Tool type: Safety harnesses or belts)
+- Safety glasses (Tool type: Safety glasses)
+- Safety gloves (Tool type: Protective gloves)
+- Safety harnesses (Tool type: Safety harnesses or belts)
+- Safety hooks (Tool type: Safety hooks)
+- Safety lines (Tool type: Lifelines or lifeline equipment)
+- Scaffolding (Tool type: Scaffolding)
+- Self-contained breathing apparatus (Tool type: Respiration air supplying self contained breathing apparatus or accessories)
+- Shackles (Tool type: Shackle)
+- Slings (Tool type: Slings)
+- Tongs (Tool type: Tongs)
+- Truck winches (Tool type: Winches)
+- Viscometers (Tool type: Viscosimeters)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Not important at all
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a week or more but not every day
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Never
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Once a month or more but not every week
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Once a month or more but not every week
+- Exposed to Hazardous Conditions: Every day
+- Exposed to Hazardous Equipment: Every day
+- Exposed to High Places: Once a year or more but not every month
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Every day
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Every day
+- Exposed to Whole Body Vibration: Once a year or more but not every month
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Moderate results
+- Importance of Being Exact or Accurate: Important
+- Importance of Repeating Same Tasks: Important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Every day
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Once a year or more but not every month
+- Indoors, Not Environmentally Controlled: Every day
+- Level of Competition: Not at all competitive
+- Outdoors, Exposed to All Weather Conditions: Every day
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Continually or almost continually
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Less than half the time
+- Spend Time Keeping or Regaining Balance: Less than half the time
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Continually or almost continually
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: More than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: About half the time
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Never
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Service Unit Operators, Oil and Gas
+- Rotary Drill Operators, Oil and Gas
+- Hoist and Winch Operators
+- Helpers--Extraction Workers
+- Riggers
+- Operating Engineers and Other Construction Equipment Operators
+- Earth Drillers, Except Oil and Gas
+- Maintenance Workers, Machinery
+- Derrick Operators, Oil and Gas
+- Construction Laborers
+- Wellhead Pumpers
+- Millwrights
+- Mobile Heavy Equipment Mechanics, Except Engines
+- Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters
+- Electric Motor, Power Tool, and Related Repairers
+- Engine and Other Machine Assemblers
+- Excavating and Loading Machine and Dragline Operators, Surface Mining
+- Plumbers, Pipefitters, and Steamfitters
+- Helpers--Electricians
+- Pile Driver Operators

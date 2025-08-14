@@ -1,0 +1,314 @@
+Job Title: Validation Engineers
+O*NET-SOC Code: 17-2112.02
+
+# DESCRIPTION
+Design or plan protocols for equipment or processes to produce products meeting internal and external purity, safety, and quality requirements.
+
+# TASKS
+- Study product characteristics or customer requirements to determine validation objectives and standards.
+- Analyze validation test data to determine whether systems or processes have met validation criteria or to identify root causes of production problems.
+- Develop validation master plans, process flow diagrams, test cases, or standard operating procedures.
+- Prepare detailed reports or design statements, based on results of validation and qualification tests or reviews of procedures and protocols.
+- Maintain validation test equipment.
+- Conduct validation or qualification tests of new or existing processes, equipment, or software in accordance with internal protocols or external standards.
+- Communicate with regulatory agencies regarding compliance documentation or validation results.
+- Prepare, maintain, or review validation and compliance documentation, such as engineering change notices, schematics, or protocols.
+- Recommend resolution of identified deviations from established product or process standards.
+- Design validation study features, such as sampling, testing, or analytical methodologies.
+- Prepare validation or performance qualification protocols for new or modified manufacturing processes, systems, or equipment for production of pharmaceuticals, electronics, or other products.
+- Create, populate, or maintain databases for tracking validation activities, test results, or validated systems.
+- Resolve testing problems by modifying testing methods or revising test objectives and standards.
+- Conduct audits of validation or performance qualification processes to ensure compliance with internal or regulatory requirements.
+- Draw samples of raw materials, intermediate products, or finished products for validation testing.
+- Direct validation activities, such as protocol creation or testing.
+- Coordinate the implementation or scheduling of validation testing with affected departments and personnel.
+- Participate in internal or external training programs to maintain knowledge of validation principles, industry trends, or novel technologies.
+- Validate or characterize sustainable or environmentally friendly products, using electronic testing platforms.
+- Assist in training equipment operators or other staff on validation protocols and standard operating procedures.
+- Devise automated lab validation test stations or other test fixtures or equipment.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Engineering and Technology (Importance: 4.26/5 | Level: 5.05/7)
+- Production and Processing (Importance: 4.15/5 | Level: 4.55/7)
+- English Language (Importance: 3.75/5 | Level: 4.35/7)
+- Customer and Personal Service (Importance: 3.7/5 | Level: 4.55/7)
+- Mathematics (Importance: 3.65/5 | Level: 4.85/7)
+- Design (Importance: 3.6/5 | Level: 4.3/7)
+- Mechanical (Importance: 3.35/5 | Level: 4.05/7)
+- Education and Training (Importance: 3.25/5 | Level: 4.6/7)
+- Administration and Management (Importance: 3.15/5 | Level: 4.0/7)
+- Computers and Electronics (Importance: 3.15/5 | Level: 4.3/7)
+- Administrative (Importance: 2.9/5 | Level: 4.3/7)
+- Law and Government (Importance: 2.9/5 | Level: 2.85/7)
+- Physics (Importance: 2.8/5 | Level: 3.45/7)
+- Chemistry (Importance: 2.6/5 | Level: 3.3/7)
+- Public Safety and Security (Importance: 2.5/5 | Level: 2.8/7)
+- Personnel and Human Resources (Importance: 2.45/5 | Level: 3.2/7)
+- Communications and Media (Importance: 2.25/5 | Level: 2.1/7)
+- Telecommunications (Importance: 2.16/5 | Level: 2.0/7)
+- Psychology (Importance: 2.11/5 | Level: 2.16/7)
+- Economics and Accounting (Importance: 1.95/5 | Level: 2.0/7)
+- Sales and Marketing (Importance: 1.9/5 | Level: 1.8/7)
+- Biology (Importance: 1.89/5 | Level: 1.74/7)
+- Transportation (Importance: 1.8/5 | Level: 1.75/7)
+- Medicine and Dentistry (Importance: 1.7/5 | Level: 1.1/7)
+- Building and Construction (Importance: 1.58/5 | Level: 1.42/7)
+- Geography (Importance: 1.53/5 | Level: 1.53/7)
+- Foreign Language (Importance: 1.45/5 | Level: 0.95/7)
+- Food Production (Importance: 1.42/5 | Level: 1.15/7)
+- Sociology and Anthropology (Importance: 1.42/5 | Level: 0.89/7)
+- History and Archeology (Importance: 1.21/5 | Level: 0.7/7)
+- Philosophy and Theology (Importance: 1.15/5 | Level: 0.45/7)
+- Therapy and Counseling (Importance: 1.05/5 | Level: 0.15/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Reading Comprehension (Importance: 4.12/5 | Level: 4.5/7)
+- Writing (Importance: 4.0/5 | Level: 4.12/7)
+- Speaking (Importance: 4.0/5 | Level: 4.0/7)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.12/7)
+- Monitoring (Importance: 3.88/5 | Level: 4.0/7)
+- Active Listening (Importance: 3.88/5 | Level: 4.0/7)
+- Complex Problem Solving (Importance: 3.75/5 | Level: 4.0/7)
+- Science (Importance: 3.75/5 | Level: 4.38/7)
+- Active Learning (Importance: 3.25/5 | Level: 3.62/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 3.62/7)
+- Operations Monitoring (Importance: 3.12/5 | Level: 3.25/7)
+- Systems Evaluation (Importance: 3.12/5 | Level: 3.38/7)
+- Systems Analysis (Importance: 3.12/5 | Level: 3.62/7)
+- Mathematics (Importance: 3.12/5 | Level: 3.62/7)
+- Social Perceptiveness (Importance: 3.12/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 3.12/7)
+- Coordination (Importance: 3.0/5 | Level: 3.12/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 3.12/7)
+- Quality Control Analysis (Importance: 3.0/5 | Level: 3.12/7)
+- Operations Analysis (Importance: 3.0/5 | Level: 4.0/7)
+- Persuasion (Importance: 2.88/5 | Level: 2.88/7)
+- Service Orientation (Importance: 2.75/5 | Level: 2.88/7)
+- Negotiation (Importance: 2.75/5 | Level: 2.75/7)
+- Instructing (Importance: 2.75/5 | Level: 3.12/7)
+- Management of Personnel Resources (Importance: 2.75/5 | Level: 2.88/7)
+- Troubleshooting (Importance: 2.25/5 | Level: 2.25/7)
+- Operation and Control (Importance: 2.12/5 | Level: 2.12/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 2.0/7)
+- Programming (Importance: 1.88/5 | Level: 1.0/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.25/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 1.0/7)
+- Equipment Maintenance (Importance: 1.38/5 | Level: 0.62/7)
+- Equipment Selection (Importance: 1.12/5 | Level: 0.12/7)
+- Repairing (Importance: 1.12/5 | Level: 0.25/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Amazon DynamoDB (Tech skill type: Data base management system software)
+- Amazon Elastic Compute Cloud EC2 (Tech skill type: Data base user interface and query software)
+- Amazon Web Services AWS CloudFormation (Tech skill type: Cloud-based management software)
+- Amazon Web Services AWS software (Tech skill type: Data base user interface and query software)
+- Ansible software (Tech skill type: Expert system software)
+- Apache Ant (Tech skill type: Development environment software)
+- Apache Cassandra (Tech skill type: Data base management system software)
+- Apache Groovy (Tech skill type: Object or component oriented development software)
+- Apache HTTP Server (Tech skill type: Portal server software)
+- Apache Kafka (Tech skill type: Development environment software)
+- Apache Maven (Tech skill type: Development environment software)
+- Apache Solr (Tech skill type: Data base management system software)
+- Apache Struts (Tech skill type: Web platform development software)
+- Apache Subversion SVN (Tech skill type: File versioning software)
+- Apache Tomcat (Tech skill type: Web platform development software)
+- Atlassian Bamboo (Tech skill type: Enterprise application integration software)
+- Atlassian JIRA (Tech skill type: Content workflow software)
+- Bash (Tech skill type: Operating system software)
+- Bugzilla (Tech skill type: Program testing software)
+- C (Tech skill type: Development environment software)
+- C# (Tech skill type: Object or component oriented development software)
+- C++ (Tech skill type: Object or component oriented development software)
+- Cadence Incisive Enterprise Simulator (Tech skill type: Analytical or scientific software)
+- Cadence Incisive Enterprise Specman Elite Testbench (Tech skill type: Analytical or scientific software)
+- Chef (Tech skill type: Configuration management software)
+- Dassault Systemes CATIA (Tech skill type: Computer aided design CAD software)
+- Dassault Systemes SolidWorks (Tech skill type: Computer aided design CAD software)
+- Django (Tech skill type: Web platform development software)
+- Docker (Tech skill type: Application server software)
+- Elasticsearch (Tech skill type: Data base management system software)
+- Email software (Tech skill type: Electronic mail software)
+- EMC Documentum (Tech skill type: Document management software)
+- Extensible markup language XML (Tech skill type: Enterprise application integration software)
+- GE Intelligent Platforms Proficy HMI/SCADA iFIX (Tech skill type: Industrial control software)
+- Git (Tech skill type: File versioning software)
+- GitHub (Tech skill type: Application server software)
+- Go (Tech skill type: Development environment software)
+- Grafana Labs Grafana Cloud (Tech skill type: Graphical user interface development software)
+- Hewlett Packard LoadRunner (Tech skill type: Program testing software)
+- Hewlett Packard QuickTest Professional (Tech skill type: Program testing software)
+- IBM Notes (Tech skill type: Electronic mail software)
+- IBM Rational ClearQuest (Tech skill type: Development environment software)
+- IBM Terraform (Tech skill type: Configuration management software)
+- IndySoft Gage InSite Enterprise (Tech skill type: Analytical or scientific software)
+- JavaScript (Tech skill type: Web platform development software)
+- Jenkins CI (Tech skill type: Enterprise application integration software)
+- JUnit (Tech skill type: Program testing software)
+- Kubernetes (Tech skill type: Application server software)
+- Laboratory information management system LIMS (Tech skill type: Analytical or scientific software)
+- Linux (Tech skill type: Operating system software)
+- Logic simulators (Tech skill type: Analytical or scientific software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Azure software (Tech skill type: Development environment software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft PowerShell (Tech skill type: Development environment software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft SQL Server (Tech skill type: Data base user interface and query software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Visual Basic (Tech skill type: Development environment software)
+- Microsoft Visual Studio (Tech skill type: Development environment software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Minitab (Tech skill type: Analytical or scientific software)
+- MongoDB (Tech skill type: Data base management system software)
+- MySQL (Tech skill type: Data base management system software)
+- Nagios (Tech skill type: Network monitoring software)
+- National Instruments LabVIEW (Tech skill type: Development environment software)
+- Node.js (Tech skill type: Web platform development software)
+- NoSQL (Tech skill type: Data base management system software)
+- Operating system software (Tech skill type: Operating system software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- Perforce Helix software (Tech skill type: Configuration management software)
+- Perl (Tech skill type: Object or component oriented development software)
+- PHP (Tech skill type: Web platform development software)
+- PostgreSQL (Tech skill type: Object oriented data base management software)
+- Project management software (Tech skill type: Project management software)
+- Prometheus (Tech skill type: Data base user interface and query software)
+- PTC Creo Parametric (Tech skill type: Computer aided design CAD software)
+- Puppet (Tech skill type: Configuration management software)
+- Python (Tech skill type: Object or component oriented development software)
+- QUALCOMM eXtensible Diagnostic Monitor QxDM (Tech skill type: Analytical or scientific software)
+- R (Tech skill type: Object or component oriented development software)
+- Red Hat Enterprise Linux (Tech skill type: Operating system software)
+- Red Hat WildFly (Tech skill type: Application server software)
+- Ruby (Tech skill type: Development environment software)
+- Ruby on Rails (Tech skill type: Web platform development software)
+- Scala (Tech skill type: Object or component oriented development software)
+- Selenium (Tech skill type: Program testing software)
+- Shell script (Tech skill type: Operating system software)
+- Simulation program with integrated circuit emphasis SPICE (Tech skill type: Analytical or scientific software)
+- Simulation software (Tech skill type: Analytical or scientific software)
+- Sparta Systems TrackWise (Tech skill type: Compliance software)
+- Splunk Enterprise (Tech skill type: Cloud-based management software)
+- Statistical software (Tech skill type: Analytical or scientific software)
+- Structure query language SQL (Tech skill type: Data base user interface and query software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Synopsys electronic design software (Tech skill type: Analytical or scientific software)
+- Teradata Database (Tech skill type: Data base management system software)
+- The MathWorks MATLAB (Tech skill type: Analytical or scientific software)
+- Ubuntu (Tech skill type: Operating system software)
+- UNIX (Tech skill type: Operating system software)
+- UNIX Shell (Tech skill type: Operating system software)
+- Verilog (Tech skill type: Development environment software)
+- Very high-speed integrated circuit VHSIC hardware description language VHDL (Tech skill type: Development environment software)
+- Virtual private networking VPN software (Tech skill type: Network security and virtual private network VPN equipment software)
+- Windows kernel debuggers (Tech skill type: Program testing software)
+- Wireshark (Tech skill type: Network monitoring software)
+
+## TOOLS USED
+- Flow sensors (Tool type: Flow sensors)
+- Gel electrophoresis systems (Tool type: Gel documentation systems)
+- In-target probes ITP (Tool type: Integrated circuit testers)
+- Logic analyzers (Tool type: Integrated circuit testers)
+- Multimeters (Tool type: Multimeters)
+- Network protocol analyzers (Tool type: Network analyzers)
+- Oscilloscopes (Tool type: Oscilloscopes)
+- Pressure sensors (Tool type: Pressure sensors)
+- Programmable logic controllers PLC (Tool type: Microcontrollers)
+- Protocol analyzers (Tool type: Protocol analyzers)
+- Spectrophotometers (Tool type: Spectrophotometers)
+- Spectrum analyzers (Tool type: Frequency analyzers)
+- Tektronix Communications Network & Service Analyzer NSA (Tool type: Network analyzers)
+- Thermal validation systems (Tool type: Thermal conductivity analyzers)
+
+# WORK CONTEXT
+- Conflict Situations: Once a month or more but not every week
+- Consequence of Error: Fairly serious
+- Contact With Others: Contact with others most of the time
+- Coordinate or Lead Others in Accomplishing Work Activities: Important
+- Deal With External Customers or the Public in General: Very important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Slightly automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Once a year or more but not every month
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Once a year or more but not every month
+- Health and Safety of Other Workers: Limited responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Very important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Slightly close (e.g., shared office)
+- Public Speaking: Once a month or more but not every week
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Less than half the time
+- Spend Time Sitting: More than half the time
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Less than half the time
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Once a week or more but not every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Once a year or more but not every month
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Moderate responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a week or more but not every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Investigative
+- Secondary Interest: Conventional
+- Tertiary Interest: Realistic
+
+# RELATED OCCUPATIONS
+- Industrial Engineers
+- Quality Control Systems Managers
+- Software Quality Assurance Analysts and Testers
+- Manufacturing Engineers
+- Electronics Engineers, Except Computer
+- Mechatronics Engineers
+- Mechanical Engineers
+- Automotive Engineers
+- Electrical Engineers
+- Human Factors Engineers and Ergonomists
+- Calibration Technologists and Technicians
+- Software Developers
+- Industrial Engineering Technologists and Technicians
+- Quality Control Analysts
+- Aerospace Engineering and Operations Technologists and Technicians
+- Mechanical Engineering Technologists and Technicians
+- Penetration Testers
+- Automotive Engineering Technicians
+- Electrical and Electronic Engineering Technologists and Technicians
+- Electrical and Electronics Repairers, Commercial and Industrial Equipment
