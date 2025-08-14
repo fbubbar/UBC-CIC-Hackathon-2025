@@ -142,6 +142,8 @@ export default function IntakeForm() {
 
     console.log("Form submitted:", formData);
     // TODO: Implement actual submission logic
+
+    window.location.href = "/dashboard";
   };
 
   // Keyboard navigation
