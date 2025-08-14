@@ -1,17 +1,19 @@
-
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 
-import AuthenticatorWrapper from "./AuthenticatorWrapper";
 import QueryProvider from "@/components/providers/QueryProvider";
-import "@aws-amplify/ui-react/styles.css";
+
+import outputs from '@/amplify_outputs.json'
+import { Amplify } from 'aws-amplify'
+
+Amplify.configure(outputs)
 
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "[TODO]",
-  description: "[TODO]",
+  title: "AI-Powered Document Analysis",
+  description: "Upload PDFs and ask questions to get AI-powered answers",
 };
 
 export default function RootLayout({
@@ -22,9 +24,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={inter.className}>
-        <QueryProvider>
-          <AuthenticatorWrapper>{children}</AuthenticatorWrapper>
-        </QueryProvider>
+        <QueryProvider>{children}</QueryProvider>
       </body>
     </html>
   );

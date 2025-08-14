@@ -6,19 +6,23 @@
 /* Custom CSS variables */
 :root {
   --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 255, 255, 255;
-  --background-end-rgb: 255, 255, 255;
+  --background-start-rgb: 0, 27, 61;
+  --background-end-rgb: 0, 27, 61;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
-  }
+html {
+  background: #001B3D url('/backdrop.png') no-repeat center center fixed !important;
+  background-size: 120vw 120vh !important;
+  min-height: 100vh;
 }
 
 body {
   color: rgb(var(--foreground-rgb));
-  background: rgb(var(--background-start-rgb));
+  background: transparent !important;
+  min-height: 100vh;
+}
+
+/* Override any Tailwind background classes that might interfere */
+.min-h-screen {
+  background: transparent !important;
 }
