@@ -1,0 +1,328 @@
+Job Title: Geographers
+O*NET-SOC Code: 19-3092.00
+
+# DESCRIPTION
+Study the nature and use of areas of the Earth's surface, relating and interpreting interactions of physical and cultural phenomena. Conduct research on physical aspects of a region, including land forms, climates, soils, plants, and animals, and conduct research on the spatial implications of human activities within a given area, including social characteristics, economic activities, and political organization, as well as researching interdependence between regions at scales ranging from local to global.
+
+# TASKS
+- Create and modify maps, graphs, or diagrams, using geographical information software and related equipment, and principles of cartography, such as coordinate systems, longitude, latitude, elevation, topography, and map scales.
+- Gather and compile geographic data from sources such as censuses, field observations, satellite imagery, aerial photographs, and existing maps.
+- Teach geography.
+- Write and present reports of research findings.
+- Provide geographical information systems support to the private and public sectors.
+- Study the economic, political, and cultural characteristics of a specific region's population.
+- Analyze geographic distributions of physical and cultural phenomena on local, regional, continental, or global scales.
+- Develop, operate, and maintain geographical information computer systems, including hardware, software, plotters, digitizers, printers, and video cameras.
+- Locate and obtain existing geographic information databases.
+- Collect data on physical characteristics of specified areas, such as geological formations, climates, and vegetation, using surveying or meteorological equipment.
+- Conduct field work at outdoor sites.
+- Provide consulting services in fields such as resource development and management, business location and market area analysis, environmental hazards, regional cultural history, and urban social planning.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Geography (Importance: 4.85/5 | Level: 6.79/7)
+- English Language (Importance: 3.84/5 | Level: 4.75/7)
+- Computers and Electronics (Importance: 3.75/5 | Level: 5.0/7)
+- Education and Training (Importance: 3.55/5 | Level: 5.35/7)
+- Sociology and Anthropology (Importance: 3.45/5 | Level: 4.95/7)
+- Mathematics (Importance: 3.0/5 | Level: 4.1/7)
+- History and Archeology (Importance: 2.9/5 | Level: 3.6/7)
+- Law and Government (Importance: 2.85/5 | Level: 3.2/7)
+- Communications and Media (Importance: 2.8/5 | Level: 3.6/7)
+- Biology (Importance: 2.68/5 | Level: 3.4/7)
+- Administration and Management (Importance: 2.65/5 | Level: 3.7/7)
+- Administrative (Importance: 2.63/5 | Level: 3.9/7)
+- Customer and Personal Service (Importance: 2.5/5 | Level: 2.85/7)
+- Design (Importance: 2.47/5 | Level: 3.05/7)
+- Personnel and Human Resources (Importance: 2.4/5 | Level: 3.0/7)
+- Telecommunications (Importance: 2.32/5 | Level: 1.65/7)
+- Engineering and Technology (Importance: 2.32/5 | Level: 2.45/7)
+- Psychology (Importance: 2.26/5 | Level: 2.7/7)
+- Transportation (Importance: 2.21/5 | Level: 2.35/7)
+- Physics (Importance: 2.11/5 | Level: 2.5/7)
+- Public Safety and Security (Importance: 2.11/5 | Level: 2.1/7)
+- Economics and Accounting (Importance: 2.05/5 | Level: 1.6/7)
+- Foreign Language (Importance: 2.0/5 | Level: 2.1/7)
+- Philosophy and Theology (Importance: 2.0/5 | Level: 2.7/7)
+- Chemistry (Importance: 1.95/5 | Level: 1.95/7)
+- Production and Processing (Importance: 1.58/5 | Level: 1.25/7)
+- Sales and Marketing (Importance: 1.55/5 | Level: 1.45/7)
+- Building and Construction (Importance: 1.45/5 | Level: 0.85/7)
+- Therapy and Counseling (Importance: 1.45/5 | Level: 0.85/7)
+- Mechanical (Importance: 1.35/5 | Level: 0.85/7)
+- Fine Arts (Importance: 1.35/5 | Level: 0.7/7)
+- Medicine and Dentistry (Importance: 1.21/5 | Level: 0.55/7)
+- Food Production (Importance: 1.15/5 | Level: 0.5/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Writing (Importance: 4.12/5 | Level: 4.88/7)
+- Reading Comprehension (Importance: 4.12/5 | Level: 4.75/7)
+- Speaking (Importance: 4.0/5 | Level: 4.38/7)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.0/7)
+- Active Listening (Importance: 3.75/5 | Level: 4.12/7)
+- Judgment and Decision Making (Importance: 3.62/5 | Level: 3.62/7)
+- Active Learning (Importance: 3.62/5 | Level: 4.12/7)
+- Complex Problem Solving (Importance: 3.5/5 | Level: 3.62/7)
+- Science (Importance: 3.38/5 | Level: 3.62/7)
+- Systems Analysis (Importance: 3.38/5 | Level: 3.62/7)
+- Instructing (Importance: 3.12/5 | Level: 3.5/7)
+- Learning Strategies (Importance: 3.12/5 | Level: 3.62/7)
+- Systems Evaluation (Importance: 3.12/5 | Level: 3.12/7)
+- Time Management (Importance: 3.0/5 | Level: 3.12/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 3.0/7)
+- Service Orientation (Importance: 3.0/5 | Level: 2.88/7)
+- Mathematics (Importance: 3.0/5 | Level: 3.12/7)
+- Monitoring (Importance: 3.0/5 | Level: 3.38/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Negotiation (Importance: 2.75/5 | Level: 2.75/7)
+- Persuasion (Importance: 2.62/5 | Level: 2.75/7)
+- Operations Analysis (Importance: 2.5/5 | Level: 2.75/7)
+- Management of Personnel Resources (Importance: 2.5/5 | Level: 2.5/7)
+- Programming (Importance: 1.88/5 | Level: 1.12/7)
+- Technology Design (Importance: 1.75/5 | Level: 0.75/7)
+- Management of Material Resources (Importance: 1.75/5 | Level: 1.5/7)
+- Operations Monitoring (Importance: 1.62/5 | Level: 0.75/7)
+- Management of Financial Resources (Importance: 1.62/5 | Level: 1.12/7)
+- Quality Control Analysis (Importance: 1.38/5 | Level: 0.38/7)
+- Operation and Control (Importance: 1.12/5 | Level: 0.12/7)
+- Equipment Maintenance (Importance: 1.12/5 | Level: 0.12/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- ACD Systems Canvas (Tech skill type: Graphics or photo imaging software)
+- Adobe Dreamweaver (Tech skill type: Web page creation and editing software)
+- Adobe Photoshop (Tech skill type: Graphics or photo imaging software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Caliper Maptitude (Tech skill type: Geographic information system)
+- Clark Labs IDRISI Andes (Tech skill type: Map creation software)
+- Corel CorelDraw Graphics Suite (Tech skill type: Graphics or photo imaging software)
+- ESRI ArcGIS software (Tech skill type: Geographic information system)
+- ESRI ArcIMS (Tech skill type: Geographic information system)
+- ESRI ArcInfo (Tech skill type: Geographic information system)
+- ESRI ArcView (Tech skill type: Geographic information system)
+- Geographic information system GIS software (Tech skill type: Geographic information system)
+- Geographic information system GIS systems (Tech skill type: Geographic information system)
+- Geographic resources analysis support system GRASS (Tech skill type: Map creation software)
+- Golden Software Grapher (Tech skill type: Graphics or photo imaging software)
+- Golden Software Surfer (Tech skill type: Map creation software)
+- Google Earth Pro (Tech skill type: Geographic information system)
+- Groundwater Vistas (Tech skill type: Analytical or scientific software)
+- HydroSOLVE AQTESOLV (Tech skill type: Analytical or scientific software)
+- IBM SPSS Statistics (Tech skill type: Analytical or scientific software)
+- ITT Visual Information Solutions ENVI (Tech skill type: Map creation software)
+- Leica Geosystems ERDAS IMAGINE (Tech skill type: Map creation software)
+- Lemkesoft GraphicConverter (Tech skill type: Graphics or photo imaging software)
+- MapInfo MapMarker (Tech skill type: Map creation software)
+- Martin D Adamiker's TruFlite (Tech skill type: Map creation software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Internet Explorer (Tech skill type: Internet browser software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Minitab (Tech skill type: Analytical or scientific software)
+- MODPATH (Tech skill type: Analytical or scientific software)
+- Pattern searching software (Tech skill type: Analytical or scientific software)
+- Python (Tech skill type: Object or component oriented development software)
+- RIVERMorph (Tech skill type: Data base user interface and query software)
+- RockWare ArcMap (Tech skill type: Map creation software)
+- RockWare MODFLOW (Tech skill type: Analytical or scientific software)
+- SAS (Tech skill type: Analytical or scientific software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Systat Software SigmaPlot (Tech skill type: Analytical or scientific software)
+- The MathWorks MATLAB (Tech skill type: Analytical or scientific software)
+- Trimble Pathfinder Office (Tech skill type: Map creation software)
+- Wolfram Research Mathematica (Tech skill type: Analytical or scientific software)
+
+## TOOLS USED
+- Abney levels (Tool type: Height gauges)
+- All terrain vehicles ATV (Tool type: All terrain vehicles tracked or wheeled)
+- Anemometers (Tool type: Anemometers)
+- Atomic emission spectroscopes (Tool type: Inductively coupled plasma ICP spectrometers)
+- Automatic levels (Tool type: Levels)
+- Cathodoluminescence microscopes (Tool type: Transmission electron microscopes)
+- Chain saws (Tool type: Power saws)
+- Compaction meters (Tool type: Soil testing kits)
+- Conductivity meters (Tool type: Conductivity meters)
+- Crosscut saws (Tool type: Forestry saws)
+- Deionizers (Tool type: Ion exchange apparatus)
+- Demagnetizing equipment (Tool type: Electromagnetic geophysical instruments)
+- Desktop computers (Tool type: Desktop computers)
+- Digital cameras (Tool type: Digital cameras)
+- Digital imaging microscopes (Tool type: Videoscopes)
+- Digital video cameras (Tool type: Digital camcorders or video cameras)
+- Digitizers (Tool type: Scanners)
+- Dissolved oxygen meters (Tool type: Dissolved oxygen meters)
+- Drying ovens (Tool type: Drying cabinets or ovens)
+- Dutch augers (Tool type: Soil core sampling apparatus)
+- Electromagnetic current meters (Tool type: Electromagnetic field meters)
+- Electronic precision balances (Tool type: Laboratory balances)
+- Flatbed scanners (Tool type: Scanners)
+- Flow meters (Tool type: Flow sensors)
+- Four wheel drive 4WD vehicles (Tool type: All terrain vehicles tracked or wheeled)
+- Fume hoods (Tool type: Fume hoods or cupboards)
+- Gas-mixing furnaces (Tool type: Laboratory box furnaces)
+- Global positioning system GPS receivers (Tool type: Global positioning system GPS receiver)
+- Grab samplers (Tool type: Soil core sampling apparatus)
+- Gravity convection ovens (Tool type: Laboratory mechanical convection ovens)
+- Ground penetrating radar GPR (Tool type: Radarbased surveillance systems)
+- Handheld data loggers (Tool type: Portable data input terminals)
+- High temperature laboratory box furnaces (Tool type: Laboratory box furnaces)
+- High-speed centrifuges (Tool type: Benchtop centrifuges)
+- Hiller corers (Tool type: Soil core sampling apparatus)
+- Humidity sensors (Tool type: Hygrometers)
+- Hydrometers (Tool type: Hydrometers)
+- Infrared IR thermometers (Tool type: Heat tracing equipment)
+- Ion chromatographs (Tool type: Ion chromatographs)
+- Laboratory analytical balances (Tool type: Analytical balances)
+- Laboratory dropping pipettes (Tool type: Dropping pipettes)
+- Laboratory sample splitters (Tool type: Laboratory crushers or pulverizers)
+- Laptop computers (Tool type: Notebook computers)
+- Large format printers (Tool type: Laser printers)
+- Laser levels (Tool type: Levels)
+- Laser particle sizers (Tool type: Particle size measuring apparatus)
+- Livingstone corers (Tool type: Soil core sampling apparatus)
+- Lysimeters (Tool type: Precipitation or evaporation recorders)
+- Mechanical current meters (Tool type: Voltage or current meters)
+- Muffle furnaces (Tool type: Laboratory box furnaces)
+- Optical comparators (Tool type: Comparators)
+- Personal computers (Tool type: Personal computers)
+- Personal digital assistants PDA (Tool type: Personal digital assistant PDAs or organizers)
+- Petrographic microscopes (Tool type: Polarizing microscopes)
+- pH analyzers (Tool type: pH meters)
+- Phase contrast microscopes (Tool type: Darkfield microscopes)
+- Photosynthetically active radiation PAR meters (Tool type: Solar radiation surface observing apparatus)
+- Plotters (Tool type: Plotter printers)
+- Polarizing microscopes (Tool type: Polarizing microscopes)
+- Portable data collectors (Tool type: Portable data input terminals)
+- Portable fume hoods (Tool type: Fume hoods or cupboards)
+- Portable weather stations (Tool type: Weather stations)
+- Powered rock-coring drills (Tool type: Pneumatic rock drills)
+- Powered vibracorers (Tool type: Soil core sampling apparatus)
+- Pressure plate apparatus (Tool type: Permeability or porosity estimation apparatus)
+- Research motorboats (Tool type: Recreational motorboats)
+- Rock saws (Tool type: Rock cutters)
+- Russian corers (Tool type: Soil core sampling apparatus)
+- Salinity meters (Tool type: Salinity meter)
+- Sample storage refrigerators (Tool type: General purpose refrigerators or refrigerator freezers)
+- Scanning electron microscopes SEM (Tool type: Scanning electron microscopes)
+- Sediment coring equipment (Tool type: Soil core sampling apparatus)
+- Sediment samplers (Tool type: Water samplers)
+- Sediment traps (Tool type: Water samplers)
+- Seismic stations (Tool type: Portable seismic apparatus)
+- Sieve shakers (Tool type: Laboratory sifting equipment)
+- Soil mixers (Tool type: Laboratory mixers)
+- Soil moisture meters (Tool type: Moisture meters)
+- Soil samplers (Tool type: Soil core sampling apparatus)
+- Sonic anemometers (Tool type: Anemometers)
+- Sonic sifters (Tool type: Laboratory sifting equipment)
+- Spinner magnetometers (Tool type: Magnetometer geophysical instruments)
+- Stereo light microscopes (Tool type: Stereo or dissecting light microscopes)
+- Stereo zoom microscopes (Tool type: Stereo or dissecting light microscopes)
+- Stereographic microscopes (Tool type: Stereo or dissecting light microscopes)
+- Submersible pressure sensors (Tool type: Pressure indicators)
+- Survey altimeters (Tool type: Height gauges)
+- Tablet computers (Tool type: Tablet computers)
+- Temperature sensors (Tool type: Temperature transmitters)
+- Theodolites (Tool type: Theodolites)
+- Total dissolved solids TDS meters (Tool type: Water samplers)
+- Total stations (Tool type: Theodolites)
+- Tree increment borers (Tool type: Forestry increment borers)
+- Truck-mounted drilling rigs (Tool type: Land drilling rigs)
+- Turbidity probes (Tool type: Turbidimeters)
+- Ultrasonic sieving systems (Tool type: Test sieves)
+- Video cameras (Tool type: Hand held camcorders or video cameras)
+- Video microscopes (Tool type: Video attachments for microscopes)
+- Water current meters (Tool type: Open stream current meters)
+- Water samplers (Tool type: Water samplers)
+- Wind direction sensors (Tool type: Anemometers)
+- X ray diffraction equipment (Tool type: X ray diffraction equipment)
+- X ray diffractometers (Tool type: X ray diffraction equipment)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Fairly serious
+- Contact With Others: Contact with others about half the time
+- Coordinate or Lead Others in Accomplishing Work Activities: Important
+- Deal With External Customers or the Public in General: Important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Slightly automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Never
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Once a week or more but not every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Once a year or more but not every month
+- Health and Safety of Other Workers: Limited responsibility
+- Impact of Decisions on Co-workers or Company Results: Moderate results
+- Importance of Being Exact or Accurate: Very important
+- Importance of Repeating Same Tasks: Not important at all
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Once a year or more but not every month
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Slightly close (e.g., shared office)
+- Public Speaking: Once a year or more but not every month
+- Spend Time Bending or Twisting Your Body: Never
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Less than half the time
+- Spend Time Sitting: More than half the time
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Never
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Once a week or more but not every day
+- Time Pressure: Once a week or more but not every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Never
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Moderate responsibility
+- Work With or Contribute to a Work Group or Team: Very important
+- Written Letters and Memos: Once a month or more but not every week
+
+# INTERESTS (RIASEC)
+- Primary Interest: Investigative
+- Secondary Interest: Realistic
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Geographic Information Systems Technologists and Technicians
+- Geography Teachers, Postsecondary
+- Geoscientists, Except Hydrologists and Geographers
+- Data Scientists
+- Cartographers and Photogrammetrists
+- Anthropologists and Archeologists
+- Geodetic Surveyors
+- Historians
+- Remote Sensing Scientists and Technologists
+- Statisticians
+- Surveying and Mapping Technicians
+- Conservation Scientists
+- Hydrologists
+- Atmospheric and Space Scientists
+- Hydrologic Technicians
+- Social Science Research Assistants
+- Sociologists
+- Environmental Economists
+- Survey Researchers
+- Anthropology and Archeology Teachers, Postsecondary

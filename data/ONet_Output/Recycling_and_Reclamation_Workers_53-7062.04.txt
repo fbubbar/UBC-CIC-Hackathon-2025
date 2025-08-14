@@ -1,0 +1,228 @@
+Job Title: Recycling and Reclamation Workers
+O*NET-SOC Code: 53-7062.04
+
+# DESCRIPTION
+Prepare and sort materials or products for recycling. Identify and remove hazardous substances. Dismantle components of products such as appliances.
+
+# TASKS
+- Sort materials, such as metals, glass, wood, paper or plastics, into appropriate containers for recycling.
+- Clean recycling yard by sweeping, raking, picking up broken glass and loose paper debris, or moving barrels and bins.
+- Operate forklifts, pallet jacks, power lifts, or front-end loaders to load bales, bundles, or other heavy items onto trucks for shipping to smelters or other recycled materials processing facilities.
+- Sort metals to separate high-grade metals, such as copper, brass, and aluminum, for recycling.
+- Clean, inspect, or lubricate recyclable collection equipment or perform routine maintenance or minor repairs on recycling equipment, such as star gears, finger sorters, destoners, belts, and grinders.
+- Collect and sort recyclable construction materials, such as concrete, drywall, plastics, or wood, into containers.
+- Extract chemicals from discarded appliances, such as air conditioners or refrigerators, using specialized machinery, such as refrigerant recovery equipment.
+- Deposit recoverable materials into chutes or place materials on conveyor belts.
+- Operate balers to compress recyclable materials into bundles or bales.
+- Clean materials, such as metals, according to recycling requirements.
+- Record logs of recycled materials or waste chemicals removed from products.
+- Operate processing equipment, such as fiber-sorters and grinders, to sort, crush, or grind recyclable materials.
+- Collect recyclable materials from curbside for delivery to designated facilities.
+- Operate automated refuse or manual recycling collection vehicles.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Production and Processing (Importance: 3.88/5 | Level: 4.75/7)
+- Mechanical (Importance: 3.51/5 | Level: 3.99/7)
+- Administration and Management (Importance: 3.49/5 | Level: 3.1/7)
+- Public Safety and Security (Importance: 3.48/5 | Level: 3.57/7)
+- Education and Training (Importance: 3.35/5 | Level: 3.85/7)
+- Customer and Personal Service (Importance: 3.21/5 | Level: 3.53/7)
+- English Language (Importance: 3.1/5 | Level: 3.66/7)
+- Personnel and Human Resources (Importance: 3.02/5 | Level: 2.69/7)
+- Sales and Marketing (Importance: 2.95/5 | Level: 3.04/7)
+- Engineering and Technology (Importance: 2.62/5 | Level: 2.76/7)
+- Mathematics (Importance: 2.59/5 | Level: 2.34/7)
+- Administrative (Importance: 2.55/5 | Level: 2.6/7)
+- Transportation (Importance: 2.52/5 | Level: 2.17/7)
+- Psychology (Importance: 2.41/5 | Level: 2.31/7)
+- Law and Government (Importance: 2.25/5 | Level: 1.84/7)
+- Physics (Importance: 2.21/5 | Level: 2.04/7)
+- Computers and Electronics (Importance: 2.18/5 | Level: 2.19/7)
+- Telecommunications (Importance: 1.96/5 | Level: 1.74/7)
+- Building and Construction (Importance: 1.89/5 | Level: 1.89/7)
+- Communications and Media (Importance: 1.83/5 | Level: 1.36/7)
+- Chemistry (Importance: 1.79/5 | Level: 1.61/7)
+- Economics and Accounting (Importance: 1.74/5 | Level: 1.31/7)
+- Design (Importance: 1.62/5 | Level: 1.23/7)
+- Therapy and Counseling (Importance: 1.52/5 | Level: 0.9/7)
+- Geography (Importance: 1.52/5 | Level: 1.1/7)
+- Medicine and Dentistry (Importance: 1.47/5 | Level: 1.04/7)
+- History and Archeology (Importance: 1.43/5 | Level: 0.64/7)
+- Sociology and Anthropology (Importance: 1.43/5 | Level: 0.56/7)
+- Biology (Importance: 1.4/5 | Level: 0.87/7)
+- Foreign Language (Importance: 1.36/5 | Level: 0.66/7)
+- Food Production (Importance: 1.3/5 | Level: 0.63/7)
+- Fine Arts (Importance: 1.28/5 | Level: 0.59/7)
+- Philosophy and Theology (Importance: 1.21/5 | Level: 0.61/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operation and Control (Importance: 3.25/5 | Level: 2.75/7)
+- Monitoring (Importance: 3.12/5 | Level: 2.75/7)
+- Operations Monitoring (Importance: 3.12/5 | Level: 2.75/7)
+- Active Listening (Importance: 3.12/5 | Level: 2.88/7)
+- Critical Thinking (Importance: 2.75/5 | Level: 2.75/7)
+- Speaking (Importance: 2.75/5 | Level: 2.38/7)
+- Quality Control Analysis (Importance: 2.75/5 | Level: 2.25/7)
+- Coordination (Importance: 2.62/5 | Level: 2.12/7)
+- Time Management (Importance: 2.62/5 | Level: 2.5/7)
+- Social Perceptiveness (Importance: 2.62/5 | Level: 2.62/7)
+- Judgment and Decision Making (Importance: 2.62/5 | Level: 2.12/7)
+- Reading Comprehension (Importance: 2.62/5 | Level: 2.88/7)
+- Troubleshooting (Importance: 2.5/5 | Level: 2.38/7)
+- Service Orientation (Importance: 2.5/5 | Level: 2.25/7)
+- Active Learning (Importance: 2.5/5 | Level: 2.25/7)
+- Writing (Importance: 2.38/5 | Level: 2.5/7)
+- Complex Problem Solving (Importance: 2.38/5 | Level: 2.38/7)
+- Equipment Maintenance (Importance: 2.38/5 | Level: 2.62/7)
+- Management of Personnel Resources (Importance: 2.25/5 | Level: 2.0/7)
+- Repairing (Importance: 2.25/5 | Level: 2.38/7)
+- Equipment Selection (Importance: 2.25/5 | Level: 1.88/7)
+- Instructing (Importance: 2.12/5 | Level: 2.0/7)
+- Persuasion (Importance: 2.0/5 | Level: 1.5/7)
+- Learning Strategies (Importance: 2.0/5 | Level: 2.0/7)
+- Systems Evaluation (Importance: 1.88/5 | Level: 1.5/7)
+- Systems Analysis (Importance: 1.88/5 | Level: 1.5/7)
+- Mathematics (Importance: 1.88/5 | Level: 1.5/7)
+- Negotiation (Importance: 1.88/5 | Level: 1.5/7)
+- Management of Material Resources (Importance: 1.75/5 | Level: 1.12/7)
+- Management of Financial Resources (Importance: 1.5/5 | Level: 0.62/7)
+- Technology Design (Importance: 1.5/5 | Level: 0.75/7)
+- Operations Analysis (Importance: 1.25/5 | Level: 0.38/7)
+- Science (Importance: 1.12/5 | Level: 0.25/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Work scheduling software (Tech skill type: Calendar and scheduling software)
+
+## TOOLS USED
+- Adjustable hand wrenches (Tool type: Adjustable wrenches)
+- Belt conveyor systems (Tool type: Belt conveyors)
+- Blow torches (Tool type: Blow torch)
+- Cardboard balers (Tool type: Packaging compactors)
+- Channel lock pliers (Tool type: Locking pliers)
+- Claw hammers (Tool type: Claw hammer)
+- Cordless drills (Tool type: Power drills)
+- Crushing machines (Tool type: Crushers)
+- Desktop computers (Tool type: Desktop computers)
+- Extension ladders (Tool type: Ladders)
+- Fiber sorters (Tool type: Sorters)
+- Forklifts (Tool type: Forklifts)
+- Grinders (Tool type: Grinding or polishing machines)
+- Handheld calculators (Tool type: Pocket calculator)
+- Hex wrenches (Tool type: Hex keys)
+- Horizontal balers (Tool type: Packaging compactors)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Magnetized can sorters (Tool type: Sorters)
+- Material compactors (Tool type: Packaging compactors)
+- Material hoists (Tool type: Hoists)
+- Mobile radios (Tool type: Two way radios)
+- Multi-line telephone systems (Tool type: Special purpose telephones)
+- Pallet jacks (Tool type: Pallet trucks)
+- Paper shredders (Tool type: Paper shredding machines or accessories)
+- Personal computers (Tool type: Personal computers)
+- Phillips head screwdrivers (Tool type: Screwdrivers)
+- Photocopying equipment (Tool type: Photocopiers)
+- Power lifts (Tool type: Lifts)
+- Power saws (Tool type: Power saws)
+- Protective ear muffs (Tool type: Acoustic ear muffs or defenders)
+- Recycling collection trucks (Tool type: Cargo trucks)
+- Refrigerant reclamation equipment (Tool type: Refrigerant compressors)
+- Safety glasses (Tool type: Safety glasses)
+- Skid steer loaders (Tool type: Skid steer loaders)
+- Straight screwdrivers (Tool type: Screwdrivers)
+- Tractor-trailer trucks (Tool type: Cargo trucks)
+- Utility knives (Tool type: Utility knives)
+- Utility work machines (Tool type: Front end loaders)
+- Wheeled front end loaders (Tool type: Front end loaders)
+- Wire cutters (Tool type: Wire cutters)
+- Work vans (Tool type: Minivans or vans)
+
+# WORK CONTEXT
+- Conflict Situations: Never
+- Consequence of Error: Very serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Extremely important
+- Deal With External Customers or the Public in General: Not important at all
+- Dealing With Unpleasant, Angry, or Discourteous People: Never
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Never
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Every day
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Every day
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Every day
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Important
+- Importance of Repeating Same Tasks: Not important at all
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Every day
+- In an Open Vehicle or Operating Equipment: Every day
+- Indoors, Environmentally Controlled: Never
+- Indoors, Not Environmentally Controlled: Every day
+- Level of Competition: Slightly competitive
+- Outdoors, Exposed to All Weather Conditions: Every day
+- Outdoors, Under Cover: Every day
+- Pace Determined by Speed of Equipment: Very important
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Continually or almost continually
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Continually or almost continually
+- Spend Time Sitting: Never
+- Spend Time Standing: Continually or almost continually
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: About half the time
+- Telephone Conversations: Never
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: High responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Never
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Recycling Coordinators
+- Hazardous Materials Removal Workers
+- Refuse and Recyclable Material Collectors
+- Laborers and Freight, Stock, and Material Movers, Hand
+- Packaging and Filling Machine Operators and Tenders
+- Machine Feeders and Offbearers
+- Cleaners of Vehicles and Equipment
+- Helpers--Extraction Workers
+- Helpers--Production Workers
+- Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders
+- Water and Wastewater Treatment Plant and System Operators
+- Laundry and Dry-Cleaning Workers
+- Maintenance and Repair Workers, General
+- Maintenance Workers, Machinery
+- Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders
+- Conveyor Operators and Tenders
+- Industrial Machinery Mechanics
+- Industrial Truck and Tractor Operators
+- Septic Tank Servicers and Sewer Pipe Cleaners
+- Tank Car, Truck, and Ship Loaders

@@ -1,0 +1,159 @@
+Job Title: Information Security Engineers
+O*NET-SOC Code: 15-1299.05
+
+# DESCRIPTION
+Develop and oversee the implementation of information security procedures and policies. Build, maintain and upgrade security technology, such as firewalls, for the safe use of computer networks and the transmission and retrieval of information. Design and implement appropriate security controls to identify vulnerabilities and protect digital files and electronic infrastructures. Monitor and respond to computer security breaches, viruses, and intrusions, and perform forensic investigation. May oversee the assessment of information security systems.
+
+# TASKS
+- Assess the quality of security controls, using performance indicators.
+- Conduct investigations of information security breaches to identify vulnerabilities and evaluate the damage.
+- Coordinate documentation of computer security or emergency measure policies, procedures, or tests.
+- Coordinate monitoring of networks or systems for security breaches or intrusions.
+- Coordinate vulnerability assessments or analysis of information security systems.
+- Develop information security standards and best practices.
+- Develop or implement software tools to assist in the detection, prevention, and analysis of security threats.
+- Develop or install software, such as firewalls and data encryption programs, to protect sensitive information.
+- Develop response and recovery strategies for security breaches.
+- Identify or implement solutions to information security problems.
+- Identify security system weaknesses, using penetration tests.
+- Oversee development of plans to safeguard computer files against accidental or unauthorized modification, destruction, or disclosure or to meet emergency data processing needs.
+- Oversee performance of risk assessment or execution of system tests to ensure the functioning of data processing activities or security measures.
+- Provide technical support to computer users for installation and use of security products.
+- Recommend information security enhancements to management.
+- Review security assessments for computing environments or check for compliance with cybersecurity standards and regulations.
+- Scan networks, using vulnerability assessment tools to identify vulnerabilities.
+- Train staff on, and oversee the use of, information security standards, policies, and best practices.
+- Troubleshoot security and network problems.
+- Write reports regarding investigations of information security breaches or network evaluations.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- No specific knowledge areas listed.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- No specific skills listed.
+
+# TECHNOLOGY SKILLS & TOOLS
+- Active directory software (Tech skill type: Internet directory services software)
+- Amazon Web Services AWS CloudFormation (Tech skill type: Cloud-based management software)
+- Amazon Web Services AWS software (Tech skill type: Data base user interface and query software)
+- Ansible software (Tech skill type: Expert system software)
+- Apple iOS (Tech skill type: Operating system software)
+- Apple macOS (Tech skill type: Operating system software)
+- ArcSight Enterprise Threat and Risk Management (Tech skill type: Risk management data and analysis software)
+- Atlassian Confluence (Tech skill type: Project management software)
+- Atlassian JIRA (Tech skill type: Content workflow software)
+- Bash (Tech skill type: Operating system software)
+- Border Gateway Protocol BGP (Tech skill type: Switch or router software)
+- C (Tech skill type: Development environment software)
+- C# (Tech skill type: Object or component oriented development software)
+- C++ (Tech skill type: Object or component oriented development software)
+- Chef (Tech skill type: Configuration management software)
+- Collaborative editing software (Tech skill type: Word processing software)
+- Docker (Tech skill type: Application server software)
+- Elasticsearch (Tech skill type: Data base management system software)
+- Enterprise application integration EAI software (Tech skill type: Enterprise application integration software)
+- Firewall software (Tech skill type: Network security and virtual private network VPN equipment software)
+- Geographic information system GIS systems (Tech skill type: Geographic information system)
+- Git (Tech skill type: File versioning software)
+- GitHub (Tech skill type: Application server software)
+- Go (Tech skill type: Development environment software)
+- Google Cloud software (Tech skill type: Cloud-based management software)
+- IBM DB2 (Tech skill type: Data base user interface and query software)
+- IBM Middleware (Tech skill type: Transaction server software)
+- IBM QRadar SIEM (Tech skill type: Network monitoring software)
+- IBM Resource Access Control Facility RACF (Tech skill type: Network security or virtual private network VPN management software)
+- IBM Terraform (Tech skill type: Configuration management software)
+- IBM Tivoli software (Tech skill type: Access software)
+- Intrusion detection system IDS (Tech skill type: Network security or virtual private network VPN management software)
+- JavaScript (Tech skill type: Web platform development software)
+- JavaScript Object Notation JSON (Tech skill type: Web platform development software)
+- Jenkins CI (Tech skill type: Enterprise application integration software)
+- Kubernetes (Tech skill type: Application server software)
+- Linux (Tech skill type: Operating system software)
+- Management information systems MIS (Tech skill type: Enterprise resource planning ERP software)
+- McAfee Enterprise Security Manager (Tech skill type: Risk management data and analysis software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Active Directory (Tech skill type: Internet directory services software)
+- Microsoft Azure Sentinel (Tech skill type: Network monitoring software)
+- Microsoft Azure software (Tech skill type: Development environment software)
+- Microsoft Defender Antivirus (Tech skill type: Transaction security and virus protection software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft PowerShell (Tech skill type: Development environment software)
+- Microsoft Security Esssentials (Tech skill type: Transaction security and virus protection software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft SQL Server (Tech skill type: Data base user interface and query software)
+- Microsoft SQL Server Integration Services SSIS (Tech skill type: Enterprise application integration software)
+- Microsoft SQL Server Reporting Services SSRS (Tech skill type: Data base reporting software)
+- Microsoft Teams (Tech skill type: Project management software)
+- Microsoft Visio (Tech skill type: Graphics or photo imaging software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Windows Server (Tech skill type: Operating system software)
+- MongoDB (Tech skill type: Data base management system software)
+- Network directory services software (Tech skill type: Internet directory services software)
+- NoSQL (Tech skill type: Data base management system software)
+- Operating system software (Tech skill type: Operating system software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- Oracle Unified Directory (Tech skill type: Internet directory services software)
+- Perl (Tech skill type: Object or component oriented development software)
+- PHP (Tech skill type: Web platform development software)
+- Platform as a service PaaS (Tech skill type: Cloud-based data access and sharing software)
+- Puppet (Tech skill type: Configuration management software)
+- Python (Tech skill type: Object or component oriented development software)
+- R (Tech skill type: Object or component oriented development software)
+- React (Tech skill type: Web platform development software)
+- Red Hat Enterprise Linux (Tech skill type: Operating system software)
+- Reporting software (Tech skill type: Data base reporting software)
+- RESTful API (Tech skill type: Web platform development software)
+- Ruby (Tech skill type: Development environment software)
+- Security assertion markup language SAML (Tech skill type: Web platform development software)
+- ServiceNow (Tech skill type: Data base user interface and query software)
+- Shell script (Tech skill type: Operating system software)
+- Single sign-on SSO (Tech skill type: Authentication server software)
+- Snort (Tech skill type: Network monitoring software)
+- Software libraries (Tech skill type: Development environment software)
+- Splunk Enterprise (Tech skill type: Enterprise system management software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Tanium software (Tech skill type: Enterprise system management software)
+- Tcpdump (Tech skill type: Network monitoring software)
+- Tenable Nessus (Tech skill type: Transaction security and virus protection software)
+- Ubuntu (Tech skill type: Operating system software)
+- UNIX (Tech skill type: Operating system software)
+- UNIX Shell (Tech skill type: Operating system software)
+- Web application software (Tech skill type: Development environment software)
+- Wireshark (Tech skill type: Network monitoring software)
+- No specific tools listed.
+
+# WORK CONTEXT
+- No specific work context listed.
+
+# INTERESTS (RIASEC)
+- Primary Interest: Conventional
+- Secondary Interest: Investigative
+- Tertiary Interest: Realistic
+
+# RELATED OCCUPATIONS
+- Information Security Analysts
+- Penetration Testers
+- Network and Computer Systems Administrators
+- Computer Systems Analysts
+- Computer Network Support Specialists
+- Computer Systems Engineers/Architects
+- Computer Network Architects
+- Database Administrators
+- Software Developers
+- Computer and Information Systems Managers
+- Security Management Specialists
+- Security Managers
+- Digital Forensics Analysts
+- Database Architects
+- Intelligence Analysts
+- Computer User Support Specialists
+- Software Quality Assurance Analysts and Testers
+- Blockchain Engineers
+- Management Analysts
+- First-Line Supervisors of Security Workers

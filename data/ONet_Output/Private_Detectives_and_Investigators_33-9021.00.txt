@@ -1,0 +1,215 @@
+Job Title: Private Detectives and Investigators
+O*NET-SOC Code: 33-9021.00
+
+# DESCRIPTION
+Gather, analyze, compile, and report information regarding individuals or organizations to clients, or detect occurrences of unlawful acts or infractions of rules in private establishment.
+
+# TASKS
+- Write reports or case summaries to document investigations.
+- Conduct private investigations on a paid basis.
+- Search computer databases, credit reports, public records, tax or legal filings, or other resources to locate persons or to compile information for investigations.
+- Conduct personal background investigations, such as pre-employment checks, to obtain information about an individual's character, financial status, or personal history.
+- Expose fraudulent insurance claims or stolen funds.
+- Obtain and analyze information on suspects, crimes, or disturbances to solve cases, to identify criminal activity, or to gather information for court cases.
+- Testify at hearings or court trials to present evidence.
+- Question persons to obtain evidence for cases of divorce, child custody, or missing persons or information about individuals' character or financial status.
+- Observe and document activities of individuals to detect unlawful acts or to obtain evidence for cases, using binoculars and still or video cameras.
+- Confer with establishment officials, security departments, police, or postal officials to identify problems, provide information, or receive instructions.
+- Investigate companies' financial standings, or locate funds stolen by embezzlers, using accounting skills.
+- Perform undercover operations, such as evaluating the performance or honesty of employees by posing as customers or employees.
+- Alert appropriate personnel to suspects' locations.
+- Count cash and review transactions, sales checks, or register tapes to verify amounts or to identify shortages.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- English Language (Importance: 4.21/5 | Level: 4.53/7)
+- Customer and Personal Service (Importance: 4.16/5 | Level: 4.77/7)
+- Law and Government (Importance: 4.02/5 | Level: 4.22/7)
+- Computers and Electronics (Importance: 3.56/5 | Level: 4.09/7)
+- Administrative (Importance: 3.55/5 | Level: 4.46/7)
+- Administration and Management (Importance: 3.5/5 | Level: 3.56/7)
+- Public Safety and Security (Importance: 3.44/5 | Level: 3.48/7)
+- Psychology (Importance: 3.31/5 | Level: 3.7/7)
+- Communications and Media (Importance: 2.78/5 | Level: 2.8/7)
+- Education and Training (Importance: 2.65/5 | Level: 3.3/7)
+- Personnel and Human Resources (Importance: 2.56/5 | Level: 2.7/7)
+- Sales and Marketing (Importance: 2.54/5 | Level: 2.79/7)
+- Economics and Accounting (Importance: 2.45/5 | Level: 2.2/7)
+- Telecommunications (Importance: 2.41/5 | Level: 1.62/7)
+- Sociology and Anthropology (Importance: 2.4/5 | Level: 2.29/7)
+- Mathematics (Importance: 2.35/5 | Level: 2.26/7)
+- Transportation (Importance: 2.18/5 | Level: 2.09/7)
+- Geography (Importance: 2.07/5 | Level: 1.93/7)
+- Philosophy and Theology (Importance: 1.96/5 | Level: 2.13/7)
+- Foreign Language (Importance: 1.71/5 | Level: 1.61/7)
+- History and Archeology (Importance: 1.61/5 | Level: 1.02/7)
+- Medicine and Dentistry (Importance: 1.6/5 | Level: 1.25/7)
+- Production and Processing (Importance: 1.58/5 | Level: 0.99/7)
+- Therapy and Counseling (Importance: 1.49/5 | Level: 1.12/7)
+- Mechanical (Importance: 1.45/5 | Level: 0.78/7)
+- Building and Construction (Importance: 1.43/5 | Level: 0.67/7)
+- Engineering and Technology (Importance: 1.41/5 | Level: 0.83/7)
+- Design (Importance: 1.36/5 | Level: 0.9/7)
+- Fine Arts (Importance: 1.33/5 | Level: 0.65/7)
+- Chemistry (Importance: 1.3/5 | Level: 0.64/7)
+- Biology (Importance: 1.3/5 | Level: 0.78/7)
+- Physics (Importance: 1.2/5 | Level: 0.51/7)
+- Food Production (Importance: 1.07/5 | Level: 0.14/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Active Listening (Importance: 4.12/5 | Level: 4.12/7)
+- Speaking (Importance: 4.0/5 | Level: 3.88/7)
+- Critical Thinking (Importance: 3.88/5 | Level: 4.12/7)
+- Reading Comprehension (Importance: 3.88/5 | Level: 4.0/7)
+- Complex Problem Solving (Importance: 3.75/5 | Level: 3.0/7)
+- Writing (Importance: 3.62/5 | Level: 3.62/7)
+- Social Perceptiveness (Importance: 3.5/5 | Level: 3.5/7)
+- Judgment and Decision Making (Importance: 3.38/5 | Level: 3.38/7)
+- Monitoring (Importance: 3.38/5 | Level: 3.5/7)
+- Active Learning (Importance: 3.38/5 | Level: 3.38/7)
+- Service Orientation (Importance: 3.0/5 | Level: 2.88/7)
+- Time Management (Importance: 3.0/5 | Level: 3.0/7)
+- Coordination (Importance: 3.0/5 | Level: 2.88/7)
+- Negotiation (Importance: 2.88/5 | Level: 2.88/7)
+- Systems Analysis (Importance: 2.88/5 | Level: 2.88/7)
+- Persuasion (Importance: 2.88/5 | Level: 3.0/7)
+- Systems Evaluation (Importance: 2.75/5 | Level: 2.88/7)
+- Learning Strategies (Importance: 2.5/5 | Level: 2.12/7)
+- Management of Personnel Resources (Importance: 2.25/5 | Level: 2.0/7)
+- Mathematics (Importance: 2.25/5 | Level: 2.12/7)
+- Instructing (Importance: 2.25/5 | Level: 2.25/7)
+- Operation and Control (Importance: 2.12/5 | Level: 1.38/7)
+- Operations Monitoring (Importance: 1.88/5 | Level: 0.88/7)
+- Operations Analysis (Importance: 1.88/5 | Level: 1.5/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.0/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 1.12/7)
+- Programming (Importance: 1.75/5 | Level: 1.0/7)
+- Quality Control Analysis (Importance: 1.75/5 | Level: 1.25/7)
+- Technology Design (Importance: 1.62/5 | Level: 0.62/7)
+- Science (Importance: 1.5/5 | Level: 0.62/7)
+- Troubleshooting (Importance: 1.38/5 | Level: 0.38/7)
+- Equipment Selection (Importance: 1.25/5 | Level: 0.38/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Computer imaging software (Tech skill type: Graphics or photo imaging software)
+- Email software (Tech skill type: Electronic mail software)
+- Facebook (Tech skill type: Web page creation and editing software)
+- LexisNexis (Tech skill type: Information retrieval or search software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft operating system (Tech skill type: Operating system software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Operating system software (Tech skill type: Operating system software)
+- Web browser software (Tech skill type: Internet browser software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- 35 millimeter cameras (Tool type: Still cameras)
+- Biological evidence collection kits (Tool type: Biological evidence collection kits)
+- Compact digital cameras (Tool type: Digital cameras)
+- Computer data input scanners (Tool type: Scanners)
+- Desktop computers (Tool type: Desktop computers)
+- Digital audio recorders (Tool type: Digital voice recorders)
+- Digital video cameras (Tool type: Digital camcorders or video cameras)
+- Fingerprint evidence kits (Tool type: Fingerprint latent print kits)
+- Global positioning system GPS receivers (Tool type: Global positioning system GPS receiver)
+- Handguns (Tool type: Handguns)
+- High powered binoculars (Tool type: Binoculars)
+- Laptop computers (Tool type: Notebook computers)
+- Law enforcement handguns (Tool type: Handguns)
+- Night vision goggles (Tool type: Light enhancing cameras or vision devices)
+- Optical telescopes (Tool type: Telescopes)
+- Personal computers (Tool type: Personal computers)
+- Surveillance binoculars (Tool type: Binoculars)
+
+# WORK CONTEXT
+- Conflict Situations: Once a week or more but not every day
+- Consequence of Error: Very serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a month or more but not every week
+- Dealing with Violent or Physically Aggressive People: Once a year or more but not every month
+- Degree of Automation: Slightly automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Never
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: No responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Every day
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Once a year or more but not every month
+- Spend Time Bending or Twisting Your Body: Never
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Never
+- Spend Time Sitting: Continually or almost continually
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Never
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Once a week or more but not every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Never
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a week or more but not every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Conventional
+- Secondary Interest: Enterprising
+- Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Detectives and Criminal Investigators
+- Fraud Examiners, Investigators and Analysts
+- Intelligence Analysts
+- Retail Loss Prevention Specialists
+- Police Identification and Records Officers
+- Police and Sheriff's Patrol Officers
+- Claims Adjusters, Examiners, and Investigators
+- First-Line Supervisors of Police and Detectives
+- Government Property Inspectors and Investigators
+- Forensic Science Technicians
+- Lawyers
+- Paralegals and Legal Assistants
+- Eligibility Interviewers, Government Programs
+- Legal Secretaries and Administrative Assistants
+- Compliance Officers
+- Management Analysts
+- Credit Authorizers, Checkers, and Clerks
+- Coroners
+- Office Clerks, General
+- Child, Family, and School Social Workers

@@ -1,0 +1,220 @@
+Job Title: Public Safety Telecommunicators
+O*NET-SOC Code: 43-5031.00
+
+# DESCRIPTION
+Operate telephone, radio, or other communication systems to receive and communicate requests for emergency assistance at 9-1-1 public safety answering points and emergency operations centers. Take information from the public and other sources regarding crimes, threats, disturbances, acts of terrorism, fires, medical emergencies, and other public safety matters. May coordinate and provide information to law enforcement and emergency response personnel. May access sensitive databases and other information sources as needed. May provide additional instructions to callers based on knowledge of and certification in law enforcement, fire, or emergency medical procedures.
+
+# TASKS
+- Provide emergency medical instructions to callers.
+- Question callers to determine their locations and the nature of their problems to determine type of response needed.
+- Determine response requirements and relative priorities of situations, and dispatch units in accordance with established procedures.
+- Receive incoming telephone or alarm system calls regarding emergency and non-emergency police and fire service, emergency ambulance service, information, and after-hours calls for departments within a city.
+- Relay information and messages to and from emergency sites, to law enforcement agencies, and to all other individuals or groups requiring notification.
+- Record details of calls, dispatches, and messages.
+- Monitor various radio frequencies, such as those used by public works departments, school security, and civil defense, to stay apprised of developing situations.
+- Read and effectively interpret small-scale maps and information from a computer screen to determine locations and provide directions.
+- Maintain access to, and security of, highly sensitive materials.
+- Enter, update, and retrieve information from teletype networks and computerized data systems regarding such things as wanted persons, stolen property, vehicle registration, and stolen vehicles.
+- Scan status charts and computer screens, and contact emergency response field units to determine emergency units available for dispatch.
+- Answer routine inquiries, and refer calls not requiring dispatches to appropriate departments and agencies.
+- Learn material and pass required tests for certification.
+- Observe alarm registers and scan maps to determine whether a specific emergency is in the dispatch service area.
+- Maintain files of information relating to emergency calls, such as personnel rosters and emergency call-out and pager files.
+- Test and adjust communication and alarm systems, and report malfunctions to maintenance units.
+- Operate and maintain mobile dispatch vehicles and equipment.
+- Monitor alarm systems to detect emergencies, such as fires and illegal entry into establishments.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Public Safety and Security (Importance: 4.93/5 | Level: 4.33/7)
+- Law and Government (Importance: 4.55/5 | Level: 4.18/7)
+- English Language (Importance: 4.48/5 | Level: 4.82/7)
+- Telecommunications (Importance: 4.45/5 | Level: 4.11/7)
+- Customer and Personal Service (Importance: 4.4/5 | Level: 6.42/7)
+- Geography (Importance: 4.25/5 | Level: 3.59/7)
+- Communications and Media (Importance: 4.17/5 | Level: 4.33/7)
+- Computers and Electronics (Importance: 4.03/5 | Level: 4.7/7)
+- Administrative (Importance: 3.85/5 | Level: 4.8/7)
+- Education and Training (Importance: 3.52/5 | Level: 3.88/7)
+- Psychology (Importance: 3.37/5 | Level: 4.68/7)
+- Personnel and Human Resources (Importance: 3.26/5 | Level: 3.63/7)
+- Therapy and Counseling (Importance: 3.21/5 | Level: 3.92/7)
+- Administration and Management (Importance: 3.12/5 | Level: 2.73/7)
+- Sociology and Anthropology (Importance: 2.65/5 | Level: 2.6/7)
+- Production and Processing (Importance: 2.61/5 | Level: 1.91/7)
+- Medicine and Dentistry (Importance: 2.44/5 | Level: 1.87/7)
+- Transportation (Importance: 2.38/5 | Level: 2.33/7)
+- Philosophy and Theology (Importance: 2.19/5 | Level: 2.1/7)
+- Foreign Language (Importance: 2.01/5 | Level: 1.38/7)
+- Mathematics (Importance: 1.86/5 | Level: 1.54/7)
+- Economics and Accounting (Importance: 1.81/5 | Level: 1.39/7)
+- Mechanical (Importance: 1.71/5 | Level: 1.15/7)
+- Chemistry (Importance: 1.61/5 | Level: 0.77/7)
+- Design (Importance: 1.5/5 | Level: 0.73/7)
+- Engineering and Technology (Importance: 1.46/5 | Level: 0.8/7)
+- History and Archeology (Importance: 1.46/5 | Level: 0.97/7)
+- Sales and Marketing (Importance: 1.42/5 | Level: 1.04/7)
+- Physics (Importance: 1.31/5 | Level: 0.43/7)
+- Building and Construction (Importance: 1.27/5 | Level: 0.42/7)
+- Biology (Importance: 1.2/5 | Level: 0.46/7)
+- Food Production (Importance: 1.01/5 | Level: 0.01/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Active Listening (Importance: 4.38/5 | Level: 4.0/7)
+- Speaking (Importance: 4.12/5 | Level: 4.0/7)
+- Social Perceptiveness (Importance: 3.88/5 | Level: 4.0/7)
+- Coordination (Importance: 3.75/5 | Level: 3.75/7)
+- Critical Thinking (Importance: 3.75/5 | Level: 3.88/7)
+- Service Orientation (Importance: 3.75/5 | Level: 3.38/7)
+- Reading Comprehension (Importance: 3.62/5 | Level: 3.75/7)
+- Judgment and Decision Making (Importance: 3.38/5 | Level: 3.12/7)
+- Complex Problem Solving (Importance: 3.25/5 | Level: 3.12/7)
+- Active Learning (Importance: 3.12/5 | Level: 3.0/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.25/7)
+- Persuasion (Importance: 3.12/5 | Level: 3.12/7)
+- Writing (Importance: 3.0/5 | Level: 3.0/7)
+- Instructing (Importance: 3.0/5 | Level: 3.0/7)
+- Negotiation (Importance: 2.88/5 | Level: 3.0/7)
+- Time Management (Importance: 2.88/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 2.75/5 | Level: 2.88/7)
+- Systems Analysis (Importance: 2.62/5 | Level: 2.62/7)
+- Management of Personnel Resources (Importance: 2.5/5 | Level: 2.62/7)
+- Operations Monitoring (Importance: 2.5/5 | Level: 2.12/7)
+- Troubleshooting (Importance: 2.12/5 | Level: 1.88/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 2.25/7)
+- Mathematics (Importance: 2.0/5 | Level: 1.75/7)
+- Operation and Control (Importance: 2.0/5 | Level: 1.0/7)
+- Quality Control Analysis (Importance: 2.0/5 | Level: 2.0/7)
+- Operations Analysis (Importance: 2.0/5 | Level: 1.62/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.12/7)
+- Programming (Importance: 1.88/5 | Level: 1.0/7)
+- Management of Financial Resources (Importance: 1.88/5 | Level: 1.0/7)
+- Technology Design (Importance: 1.75/5 | Level: 0.75/7)
+- Repairing (Importance: 1.62/5 | Level: 0.62/7)
+- Equipment Selection (Importance: 1.5/5 | Level: 0.75/7)
+- Equipment Maintenance (Importance: 1.5/5 | Level: 0.62/7)
+- Science (Importance: 1.38/5 | Level: 0.38/7)
+- Installation (Importance: 1.12/5 | Level: 0.12/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- 911 system information databases (Tech skill type: Data base user interface and query software)
+- Computer aided dispatch software (Tech skill type: Helpdesk or call center software)
+- Corel WordPerfect Office Suite (Tech skill type: Office suite software)
+- Geographic information system GIS systems (Tech skill type: Geographic information system)
+- Intrado SchoolMessenger (Tech skill type: Mobile messaging service software)
+- Law enforcement information databases (Tech skill type: Data base user interface and query software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft Word (Tech skill type: Word processing software)
+- National Crime Information Center (NCIC) database (Tech skill type: Data base user interface and query software)
+- National Law Enforcement Telecommunications System NLETS (Tech skill type: Data base user interface and query software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Spillman Technologies Spillman Computer-Aided Dispatch (Tech skill type: Helpdesk or call center software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Automatic call distributing ACD consoles (Tool type: Automatic call distributor ACD)
+- Base station radios (Tool type: Two way radios)
+- Desktop computers (Tool type: Desktop computers)
+- Digital recording equipment (Tool type: Conversation recording units)
+- Intercom systems (Tool type: Intercom systems)
+- Mainframe computers (Tool type: Mainframe computers)
+- Mainframe terminals (Tool type: Mainframe console or dumb terminals)
+- Mobile data computers (Tool type: Notebook computers)
+- Multi-line telephone systems (Tool type: Special purpose telephones)
+- Personal computers (Tool type: Personal computers)
+- Radio scanners (Tool type: Radio frequency scanners)
+- Switchboards (Tool type: Premise branch exchange PBX systems)
+- Telecommunication devices TDD (Tool type: Telecommunication devices TDD or teletypewriters TTY for the physically challenged)
+- Teletype terminals (Tool type: Teletype input devices)
+- Two way radios (Tool type: Two way radios)
+
+# WORK CONTEXT
+- Conflict Situations: Every day
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Extremely important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Every day
+- Dealing with Violent or Physically Aggressive People: Every day
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Extremely important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Not at all competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Slightly close (e.g., shared office)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Never
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Continually or almost continually
+- Spend Time Sitting: Continually or almost continually
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Never
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Never
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Conventional
+- Secondary Interest: Realistic
+- Tertiary Interest: Social
+
+# RELATED OCCUPATIONS
+- Dispatchers, Except Police, Fire, and Ambulance
+- Emergency Medical Technicians
+- First-Line Supervisors of Security Workers
+- Switchboard Operators, Including Answering Service
+- Paramedics
+- Transit and Railroad Police
+- Police and Sheriff's Patrol Officers
+- Ambulance Drivers and Attendants, Except Emergency Medical Technicians
+- Telephone Operators
+- Airfield Operations Specialists
+- Emergency Management Directors
+- Information Security Engineers
+- Security Guards
+- First-Line Supervisors of Passenger Attendants
+- Security Management Specialists
+- Security Managers
+- First-Line Supervisors of Police and Detectives
+- Air Traffic Controllers
+- First-Line Supervisors of Firefighting and Prevention Workers
+- Forest Fire Inspectors and Prevention Specialists

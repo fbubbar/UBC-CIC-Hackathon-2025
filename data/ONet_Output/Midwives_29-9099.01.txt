@@ -1,0 +1,259 @@
+Job Title: Midwives
+O*NET-SOC Code: 29-9099.01
+
+# DESCRIPTION
+Provide prenatal care and childbirth assistance.
+
+# TASKS
+- Monitor maternal condition during labor by checking vital signs, monitoring uterine contractions, or performing physical examinations.
+- Identify tubal and ectopic pregnancies and refer patients for treatments.
+- Provide necessary medical care for infants at birth, including emergency care such as resuscitation.
+- Conduct ongoing prenatal health assessments, tracking changes in physical and emotional health.
+- Monitor fetal growth and well-being through heartbeat detection, body measurement, and palpation.
+- Establish and follow emergency or contingency plans for mothers and newborns.
+- Identify, monitor, or treat pregnancy-related problems such as hypertension, gestational diabetes, pre-term labor, or retarded fetal growth.
+- Obtain complete health and medical histories from patients including medical, surgical, reproductive, or mental health histories.
+- Evaluate patients' laboratory and medical records, requesting assistance from other practitioners when necessary.
+- Maintain documentation of all patients' contacts, reviewing and updating records as necessary.
+- Assess the status of post-date pregnancies to determine treatments and interventions.
+- Set up or monitor the administration of oxygen or medications.
+- Suture perineal lacerations.
+- Perform post-partum health assessments of mothers and babies at regular intervals.
+- Test patients' hemoglobin, hematocrit, and blood glucose levels.
+- Counsel women regarding the nutritional requirements of pregnancy.
+- Provide information about the physical and emotional processes involved in the pregnancy, labor, birth, and postpartum periods.
+- Refer patients to specialists for procedures such as ultrasounds or biophysical profiles.
+- Assist maternal patients to find physical positions that will facilitate childbirth.
+- Assess birthing environments to ensure cleanliness, safety, and the availability of appropriate supplies.
+- Incorporate research findings into practice as appropriate.
+- Estimate patients' due dates and re-evaluate as necessary based on examination results.
+- Provide comfort and relaxation measures for mothers in labor through interventions such as massage, breathing techniques, hydrotherapy, or music.
+- Provide, or refer patients to other providers for, education or counseling on topics such as genetic testing, newborn care, contraception, or breastfeeding.
+- Provide patients with contraceptive and family planning information.
+- Collect specimens for use in laboratory tests.
+- Inform patients of how to prepare and supply birth sites.
+- Respond to breech birth presentations by applying methods such as exercises or external version.
+- Perform annual gynecologic exams, including pap smears and breast exams.
+- Develop, implement, or evaluate individualized plans for midwifery care.
+- Recommend the use of vitamin and mineral supplements to enhance the health of patients and children.
+- Provide information about community health and social resources.
+- Compile and evaluate clinical practice statistics.
+- Treat patients' symptoms with alternative health care methods such as herbs or hydrotherapy.
+- Complete birth certificates.
+- Collaborate in research studies.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.63/5 | Level: 5.92/7)
+- Medicine and Dentistry (Importance: 4.45/5 | Level: 5.46/7)
+- Psychology (Importance: 4.16/5 | Level: 5.2/7)
+- Therapy and Counseling (Importance: 3.9/5 | Level: 4.99/7)
+- English Language (Importance: 3.62/5 | Level: 4.13/7)
+- Biology (Importance: 3.49/5 | Level: 3.88/7)
+- Education and Training (Importance: 3.47/5 | Level: 4.71/7)
+- Sociology and Anthropology (Importance: 3.32/5 | Level: 4.35/7)
+- Administration and Management (Importance: 3.02/5 | Level: 3.11/7)
+- Law and Government (Importance: 2.86/5 | Level: 2.95/7)
+- Personnel and Human Resources (Importance: 2.71/5 | Level: 3.34/7)
+- Chemistry (Importance: 2.6/5 | Level: 2.79/7)
+- Computers and Electronics (Importance: 2.58/5 | Level: 3.27/7)
+- Administrative (Importance: 2.57/5 | Level: 4.13/7)
+- Sales and Marketing (Importance: 2.54/5 | Level: 2.82/7)
+- Philosophy and Theology (Importance: 2.53/5 | Level: 2.99/7)
+- Public Safety and Security (Importance: 2.5/5 | Level: 2.23/7)
+- Communications and Media (Importance: 2.31/5 | Level: 2.21/7)
+- Mathematics (Importance: 2.13/5 | Level: 1.94/7)
+- Foreign Language (Importance: 2.0/5 | Level: 1.45/7)
+- Telecommunications (Importance: 1.99/5 | Level: 0.78/7)
+- Economics and Accounting (Importance: 1.91/5 | Level: 1.09/7)
+- Transportation (Importance: 1.86/5 | Level: 1.36/7)
+- Physics (Importance: 1.47/5 | Level: 0.75/7)
+- Geography (Importance: 1.46/5 | Level: 1.09/7)
+- Mechanical (Importance: 1.43/5 | Level: 0.87/7)
+- History and Archeology (Importance: 1.41/5 | Level: 0.68/7)
+- Production and Processing (Importance: 1.31/5 | Level: 0.58/7)
+- Engineering and Technology (Importance: 1.29/5 | Level: 0.66/7)
+- Fine Arts (Importance: 1.06/5 | Level: 0.08/7)
+- Design (Importance: 1.05/5 | Level: 0.11/7)
+- Building and Construction (Importance: 1.05/5 | Level: 0.05/7)
+- Food Production (Importance: 1.04/5 | Level: 0.08/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Social Perceptiveness (Importance: 4.12/5 | Level: 4.88/7)
+- Monitoring (Importance: 4.0/5 | Level: 4.62/7)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.0/7)
+- Speaking (Importance: 3.75/5 | Level: 4.0/7)
+- Service Orientation (Importance: 3.75/5 | Level: 3.75/7)
+- Judgment and Decision Making (Importance: 3.75/5 | Level: 4.0/7)
+- Active Listening (Importance: 3.75/5 | Level: 4.38/7)
+- Coordination (Importance: 3.62/5 | Level: 3.75/7)
+- Reading Comprehension (Importance: 3.62/5 | Level: 4.25/7)
+- Active Learning (Importance: 3.38/5 | Level: 3.62/7)
+- Complex Problem Solving (Importance: 3.38/5 | Level: 3.25/7)
+- Instructing (Importance: 3.25/5 | Level: 3.5/7)
+- Learning Strategies (Importance: 3.25/5 | Level: 3.38/7)
+- Writing (Importance: 3.12/5 | Level: 3.62/7)
+- Systems Analysis (Importance: 3.0/5 | Level: 2.62/7)
+- Persuasion (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 2.88/7)
+- Systems Evaluation (Importance: 3.0/5 | Level: 3.0/7)
+- Science (Importance: 2.88/5 | Level: 2.88/7)
+- Management of Personnel Resources (Importance: 2.75/5 | Level: 2.38/7)
+- Negotiation (Importance: 2.62/5 | Level: 2.62/7)
+- Mathematics (Importance: 2.25/5 | Level: 2.5/7)
+- Operations Monitoring (Importance: 2.25/5 | Level: 1.88/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.5/7)
+- Quality Control Analysis (Importance: 1.88/5 | Level: 1.62/7)
+- Troubleshooting (Importance: 1.75/5 | Level: 1.0/7)
+- Programming (Importance: 1.62/5 | Level: 0.75/7)
+- Management of Financial Resources (Importance: 1.62/5 | Level: 1.0/7)
+- Technology Design (Importance: 1.62/5 | Level: 0.75/7)
+- Operation and Control (Importance: 1.5/5 | Level: 0.88/7)
+- Equipment Selection (Importance: 1.5/5 | Level: 0.62/7)
+- Operations Analysis (Importance: 1.38/5 | Level: 0.5/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- AS/400 Database (Tech skill type: Data base user interface and query software)
+- Email software (Tech skill type: Electronic mail software)
+- Enterprise resource planning ERP software (Tech skill type: Enterprise resource planning ERP software)
+- Extensible markup language XML (Tech skill type: Enterprise application integration software)
+- MEDITECH software (Tech skill type: Medical software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Patient electronic medical record EMR software (Tech skill type: Medical software)
+- Private Practice (Tech skill type: Medical software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Automated blood pressure cuffs (Tool type: Electronic blood pressure units)
+- Automated external defibrillators AED (Tool type: Mobile medical services automated external defibrillators AED or hard paddles)
+- Baby scales (Tool type: Infant scales)
+- Bedpans (Tool type: Bedpans)
+- Blood drawing syringes (Tool type: Blood collection syringes)
+- Blood glucometers (Tool type: Glucose monitors or meters)
+- Desktop computers (Tool type: Desktop computers)
+- Digital medical thermometers (Tool type: Electronic medical thermometers)
+- Episiotomy scissors (Tool type: Surgical scissors)
+- Evacuated blood collection tubes (Tool type: Vacuum blood collection tubes or containers)
+- External fetal monitors (Tool type: Acute care fetal or maternal monitoring units)
+- Fetal doppler units (Tool type: Medical ultrasound or doppler or echocardiograph transducer accessories)
+- Hemostats (Tool type: Endoscopic hemostatic balloons or needles or tubes or accessories)
+- Hypodermic syringes (Tool type: Medical syringes with needle)
+- Intravenous IV sets (Tool type: Intravenous tubing with catheter administration kits)
+- Laptop computers (Tool type: Notebook computers)
+- Manual blood pressure cuffs (Tool type: Mercury blood pressure units)
+- Mechanical intermittent positive pressure ventilators (Tool type: Intermittent positive pressure breathing IPPB machines)
+- Mechanical stethoscopes (Tool type: Medical acoustic stethoscopes)
+- Medical examination protective gloves (Tool type: Medical exam or non surgical procedure gloves)
+- Medical measuring tapes (Tool type: Medical tape measures)
+- Medical scales (Tool type: Patient floor scales)
+- Mosquito forceps (Tool type: Surgical clamps or clips or forceps)
+- Nasal syringes (Tool type: Medical bulb syringes)
+- Oxygen cylinders (Tool type: Medical gas cylinders or related devices)
+- Oxygen delivery masks (Tool type: Medical oxygen masks or parts)
+- Personal computers (Tool type: Personal computers)
+- Reflex hammers (Tool type: Reflex hammers or mallets)
+- Sterile blood lancets (Tool type: Lancets)
+- Straight needle holders (Tool type: Surgical needle holders)
+- Surgical scissors (Tool type: Surgical scissors)
+- Surgical tissue forceps (Tool type: Surgical clamps or clips or forceps)
+- Suture kits (Tool type: Suturing kits or trays or packs or sets)
+- Therapeutic cold packs (Tool type: Therapeutic heating or cooling pads or compresses or packs)
+- Therapeutic hot packs (Tool type: Therapeutic heating or cooling pads or compresses or packs)
+- Trancutaneous electrical nerve stimulation TENS units (Tool type: Transcutaneous electric nerve stimulation units)
+- Ultrasound imaging scanners (Tool type: Medical ultrasound or doppler or pulse echocardiograph or echocardiograph units for general diagnostic use)
+- Umbilical cord clamps (Tool type: Surgical clamps or clips or forceps)
+- Umbilical cord scissors (Tool type: Surgical scissors)
+- Urinalysis test strips (Tool type: Urinalysis test strips)
+- Urinary catheters (Tool type: Urinary catheterization kits)
+- Vaginal exam speculas (Tool type: Vaginal exam speculas)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Extremely important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Once a week or more but not every day
+- Exposed to Cramped Work Space, Awkward Positions: Once a month or more but not every week
+- Exposed to Disease or Infections: Once a week or more but not every day
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Never
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Moderate responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Very close (near touching)
+- Public Speaking: Once a month or more but not every week
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Less than half the time
+- Spend Time Sitting: More than half the time
+- Spend Time Standing: About half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Less than half the time
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Once a year or more but not every month
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: High responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a week or more but not every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Social
+- Secondary Interest: Investigative
+- Tertiary Interest: Realistic
+
+# RELATED OCCUPATIONS
+- Nurse Midwives
+- Emergency Medicine Physicians
+- Nurse Practitioners
+- Obstetricians and Gynecologists
+- Registered Nurses
+- Family Medicine Physicians
+- Pediatricians, General
+- Acute Care Nurses
+- Licensed Practical and Licensed Vocational Nurses
+- Critical Care Nurses
+- Naturopathic Physicians
+- Clinical Nurse Specialists
+- Paramedics
+- General Internal Medicine Physicians
+- Psychiatrists
+- Physician Assistants
+- Advanced Practice Psychiatric Nurses
+- Acupuncturists
+- Anesthesiologists
+- Cardiologists

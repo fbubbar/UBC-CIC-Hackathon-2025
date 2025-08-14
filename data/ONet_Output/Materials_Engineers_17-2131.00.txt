@@ -1,0 +1,393 @@
+Job Title: Materials Engineers
+O*NET-SOC Code: 17-2131.00
+
+# DESCRIPTION
+Evaluate materials and develop machinery and processes to manufacture materials for use in products that must meet specialized design and performance specifications. Develop new uses for known materials. Includes those engineers working with composite materials or specializing in one type of material, such as graphite, metal and metal alloys, ceramics and glass, plastics and polymers, and naturally occurring materials. Includes metallurgists and metallurgical engineers, ceramic engineers, and welding engineers.
+
+# TASKS
+- Analyze product failure data and laboratory test results to determine causes of problems and develop solutions.
+- Design and direct the testing or control of processing procedures.
+- Monitor material performance, and evaluate its deterioration.
+- Conduct or supervise tests on raw materials or finished products to ensure their quality.
+- Evaluate technical specifications and economic factors relating to process or product design objectives.
+- Modify properties of metal alloys, using thermal and mechanical treatments.
+- Determine appropriate methods for fabricating and joining materials.
+- Guide technical staff in developing materials for specific uses in projected products or devices.
+- Review new product plans, and make recommendations for material selection, based on design objectives such as strength, weight, heat resistance, electrical conductivity, and cost.
+- Supervise the work of technologists, technicians, and other engineers and scientists.
+- Plan and implement laboratory operations to develop material and fabrication procedures that meet cost, product specification, and performance standards.
+- Plan and evaluate new projects, consulting with other engineers and corporate executives, as necessary.
+- Supervise production and testing processes in industrial settings, such as metal refining facilities, smelting or foundry operations, or nonmetallic materials production operations.
+- Solve problems in a number of engineering fields, such as mechanical, chemical, electrical, civil, nuclear, and aerospace.
+- Conduct training sessions on new material products, applications, or manufacturing methods for customers and their employees.
+- Perform managerial functions, such as preparing proposals and budgets, analyzing labor costs, and writing reports.
+- Present technical information at conferences.
+- Replicate the characteristics of materials and their components, using computers.
+- Design processing plants and equipment.
+- Write for technical magazines, journals, and trade association publications.
+- Teach in colleges and universities.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Engineering and Technology (Importance: 4.29/5 | Level: 5.45/7)
+- Chemistry (Importance: 4.25/5 | Level: 5.8/7)
+- Physics (Importance: 4.19/5 | Level: 5.47/7)
+- Production and Processing (Importance: 4.1/5 | Level: 4.85/7)
+- Mathematics (Importance: 4.1/5 | Level: 5.35/7)
+- English Language (Importance: 3.86/5 | Level: 4.8/7)
+- Design (Importance: 3.62/5 | Level: 4.9/7)
+- Computers and Electronics (Importance: 3.38/5 | Level: 4.65/7)
+- Mechanical (Importance: 3.1/5 | Level: 4.4/7)
+- Customer and Personal Service (Importance: 3.1/5 | Level: 3.75/7)
+- Administration and Management (Importance: 3.0/5 | Level: 4.1/7)
+- Education and Training (Importance: 2.86/5 | Level: 4.3/7)
+- Personnel and Human Resources (Importance: 2.6/5 | Level: 3.2/7)
+- Administrative (Importance: 2.52/5 | Level: 3.29/7)
+- Sales and Marketing (Importance: 2.48/5 | Level: 3.1/7)
+- Public Safety and Security (Importance: 2.38/5 | Level: 2.5/7)
+- Communications and Media (Importance: 2.29/5 | Level: 2.67/7)
+- Economics and Accounting (Importance: 2.24/5 | Level: 2.5/7)
+- Building and Construction (Importance: 2.19/5 | Level: 2.43/7)
+- Law and Government (Importance: 2.14/5 | Level: 2.57/7)
+- Biology (Importance: 1.95/5 | Level: 2.0/7)
+- Foreign Language (Importance: 1.9/5 | Level: 2.05/7)
+- Psychology (Importance: 1.76/5 | Level: 1.57/7)
+- Transportation (Importance: 1.71/5 | Level: 1.67/7)
+- Medicine and Dentistry (Importance: 1.67/5 | Level: 1.38/7)
+- Telecommunications (Importance: 1.65/5 | Level: 1.4/7)
+- Philosophy and Theology (Importance: 1.48/5 | Level: 1.19/7)
+- Geography (Importance: 1.48/5 | Level: 1.67/7)
+- History and Archeology (Importance: 1.33/5 | Level: 0.86/7)
+- Fine Arts (Importance: 1.29/5 | Level: 0.62/7)
+- Sociology and Anthropology (Importance: 1.29/5 | Level: 0.62/7)
+- Food Production (Importance: 1.19/5 | Level: 0.3/7)
+- Therapy and Counseling (Importance: 1.19/5 | Level: 0.57/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Complex Problem Solving (Importance: 4.0/5 | Level: 4.0/7)
+- Science (Importance: 4.0/5 | Level: 4.75/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.75/7)
+- Active Listening (Importance: 4.0/5 | Level: 4.12/7)
+- Critical Thinking (Importance: 3.88/5 | Level: 4.25/7)
+- Writing (Importance: 3.75/5 | Level: 4.38/7)
+- Speaking (Importance: 3.75/5 | Level: 4.12/7)
+- Mathematics (Importance: 3.75/5 | Level: 4.0/7)
+- Judgment and Decision Making (Importance: 3.25/5 | Level: 3.88/7)
+- Active Learning (Importance: 3.25/5 | Level: 4.5/7)
+- Quality Control Analysis (Importance: 3.12/5 | Level: 3.62/7)
+- Service Orientation (Importance: 3.12/5 | Level: 3.0/7)
+- Instructing (Importance: 3.12/5 | Level: 3.88/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.88/7)
+- Systems Analysis (Importance: 3.12/5 | Level: 3.75/7)
+- Operations Analysis (Importance: 3.12/5 | Level: 4.0/7)
+- Time Management (Importance: 3.0/5 | Level: 3.12/7)
+- Systems Evaluation (Importance: 3.0/5 | Level: 3.5/7)
+- Coordination (Importance: 3.0/5 | Level: 3.25/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 3.12/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 3.62/7)
+- Persuasion (Importance: 3.0/5 | Level: 3.12/7)
+- Operations Monitoring (Importance: 3.0/5 | Level: 3.12/7)
+- Negotiation (Importance: 3.0/5 | Level: 3.12/7)
+- Management of Personnel Resources (Importance: 3.0/5 | Level: 3.12/7)
+- Technology Design (Importance: 2.62/5 | Level: 2.88/7)
+- Management of Material Resources (Importance: 2.62/5 | Level: 2.75/7)
+- Troubleshooting (Importance: 2.25/5 | Level: 2.0/7)
+- Operation and Control (Importance: 2.25/5 | Level: 2.0/7)
+- Management of Financial Resources (Importance: 2.12/5 | Level: 2.62/7)
+- Equipment Selection (Importance: 2.0/5 | Level: 1.88/7)
+- Programming (Importance: 1.88/5 | Level: 1.75/7)
+- Repairing (Importance: 1.5/5 | Level: 1.0/7)
+- Equipment Maintenance (Importance: 1.5/5 | Level: 0.88/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- ANSYS Multiphysics (Tech skill type: Analytical or scientific software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- C++ (Tech skill type: Object or component oriented development software)
+- Computer aided design CAD software (Tech skill type: Computer aided design CAD software)
+- Dassault Systemes CATIA (Tech skill type: Computer aided design CAD software)
+- Dassault Systemes SolidWorks (Tech skill type: Computer aided design CAD software)
+- Digital image correlation DIC software (Tech skill type: Analytical or scientific software)
+- Enterprise resource planning ERP software (Tech skill type: Enterprise resource planning ERP software)
+- Fault detection isolation and recovery FDIR software (Tech skill type: Analytical or scientific software)
+- Finite element analysis software (Tech skill type: Analytical or scientific software)
+- Formula translation/translator FORTRAN (Tech skill type: Development environment software)
+- Fused deposition modeling FDM rapid prototyping systems (Tech skill type: Computer aided manufacturing CAM software)
+- Graphics software (Tech skill type: Graphics or photo imaging software)
+- IBM Notes (Tech skill type: Electronic mail software)
+- Image analysis systems (Tech skill type: Analytical or scientific software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Visual Basic (Tech skill type: Development environment software)
+- Microsoft Visual Basic.NET (Tech skill type: Object or component oriented development software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Minitab (Tech skill type: Analytical or scientific software)
+- MTS Testworks (Tech skill type: Data base user interface and query software)
+- National Instruments LabVIEW (Tech skill type: Development environment software)
+- Oracle Database (Tech skill type: Data base user interface and query software)
+- Presentation software (Tech skill type: Presentation software)
+- PTC Creo Parametric (Tech skill type: Computer aided design CAD software)
+- Python (Tech skill type: Object or component oriented development software)
+- QMC CM4D (Tech skill type: Data base user interface and query software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Stereolithography SLA rapid prototyping systems (Tech skill type: Computer aided manufacturing CAM software)
+- The MathWorks MATLAB (Tech skill type: Analytical or scientific software)
+- Web browser software (Tech skill type: Internet browser software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Abrasion testers (Tool type: Abrasion testers)
+- Accelerated weathering machines (Tool type: Ageing ovens)
+- Accelerometers (Tool type: Accelerometers)
+- Acoustic impediography equipment (Tool type: Impedance meters)
+- Adhesion testers (Tool type: Metal testing instruments)
+- Adiabatic bomb calorimeters (Tool type: Calorimeters)
+- Ammeters (Tool type: Ammeters)
+- Analytical balances (Tool type: Analytical balances)
+- Atomic absorption AA spectrophotometers (Tool type: Atomic absorption AA spectrometers)
+- Atomic force microscopes (Tool type: Scanning probe microscopes)
+- Attritors (Tool type: Grinding or polishing machines)
+- Ball mills (Tool type: Laboratory mills)
+- Balling drums (Tool type: Twin screw extruder)
+- Band saws (Tool type: Metal band sawing machine)
+- Benchtop centrifuges (Tool type: Benchtop centrifuges)
+- Binocular compound microscopes (Tool type: Binocular light compound microscopes)
+- Calorimeters (Tool type: Calorimeters)
+- Cement mixers (Tool type: Plaster or mortar mixers)
+- Charpy impact testers (Tool type: Impact testers)
+- Colorimeters (Tool type: Colorimeters)
+- Compression testing machines (Tool type: Compression testers)
+- Computer numerical controlled CNC milling machines (Tool type: Traveling column milling machine)
+- Computerized numerical control CNC lathes (Tool type: Horizontal turning center)
+- Concrete test hammers (Tool type: Concrete or cement testing instruments)
+- Coordinate measuring machines CMM (Tool type: Coordinate measuring machines CMM)
+- Counter-current mixers (Tool type: Laboratory mixers)
+- Current versus voltage IV curve tracers (Tool type: Graphic recorders)
+- Dataloggers (Tool type: Portable data input terminals)
+- Deionizers (Tool type: Ion exchange apparatus)
+- Differential scanning calorimeters (Tool type: Calorimeters)
+- Differential thermal analyzers (Tool type: Thermal differential analyzers)
+- Diffractometers (Tool type: Diffractometers)
+- Digital cameras (Tool type: Digital cameras)
+- Digitizing oscilloscopes (Tool type: Oscilloscopes)
+- Drop weight impact towers (Tool type: Impact testers)
+- Drying ovens (Tool type: Drying cabinets or ovens)
+- Durometers (Tool type: Hardness testers)
+- Electrometers (Tool type: Electrometers)
+- Electron microprobe analyzers EMPA (Tool type: Electron microscopes)
+- Electronic toploading balances (Tool type: Electronic toploading balances)
+- Electrostatic separators (Tool type: Laboratory separators)
+- Energy dispersive x-ray spectrometers EDS (Tool type: Spectrometers)
+- Etching equipment (Tool type: Semiconductor process systems)
+- Extensometers (Tool type: Extensometers)
+- Fiberscopes (Tool type: Borescope inspection equipment)
+- Film thickness measurement systems (Tool type: Thickness measuring devices)
+- Filter presses (Tool type: Filtering machinery)
+- Flame photometers (Tool type: Photometer)
+- Flotation columns (Tool type: Bubble columns)
+- Fourier transform infrared FTIR spectroscopes (Tool type: Infrared spectrometers)
+- Freeze-thaw test units (Tool type: Concrete or cement testing instruments)
+- Friction and wear testers (Tool type: Wear testers)
+- Fume hoods (Tool type: Fume hoods or cupboards)
+- Gas chromatographs GC (Tool type: Gas chromatographs)
+- Gas detectors (Tool type: Leak testing equipment)
+- Gauss meters (Tool type: Electromagnetic field meters)
+- Gel permeation chromatographs GPC (Tool type: Chromatographic scanners)
+- Graphite element furnaces (Tool type: Programmable tube furnaces)
+- Gyratory crushers (Tool type: Gyratory crushers)
+- Hardness testers (Tool type: Hardness testers)
+- Heated walk-in environmental chambers (Tool type: Heated walk in environmental or growth chambers)
+- High pressure liquid chromatograph HPLC equipment (Tool type: High pressure liquid chromatograph chromatography)
+- High temperature material testing systems (Tool type: Tension testers)
+- High tension separators (Tool type: Laboratory separators)
+- High-vacuum tensile testing chambers (Tool type: Tension testers)
+- Holding jigs (Tool type: Positioning jig)
+- Hot blenders (Tool type: Laboratory blenders or emulsifiers)
+- Hydraulic presses (Tool type: Hydraulic press frames)
+- Impact testers (Tool type: Impact testers)
+- Inert atmosphere box furnaces (Tool type: Laboratory box furnaces)
+- Infrared cameras (Tool type: Infrared imagers)
+- Infrared monitors (Tool type: Infrared imagers)
+- Injection molding machines (Tool type: Injection molding machines)
+- Isodynamic separators (Tool type: Laboratory separators)
+- Jar mills (Tool type: Laboratory mills)
+- Jaw crushers (Tool type: Jaw crushers)
+- Kneading compactors (Tool type: Vibratory plates)
+- Laboratory blenders (Tool type: Laboratory blenders or emulsifiers)
+- Laboratory glove boxes (Tool type: Isolation glove boxes)
+- Laboratory microwave ovens (Tool type: Laboratory microwave ovens)
+- Laboratory pulverizers (Tool type: Laboratory crushers or pulverizers)
+- Laboratory sample splitters (Tool type: Laboratory crushers or pulverizers)
+- Laboratory test sieves (Tool type: Test sieves)
+- Laboratory vacuum pumps (Tool type: Laboratory vacuum pumps)
+- Laminators (Tool type: Laminators)
+- Lapping wheels (Tool type: Grinders)
+- Laser Doppler velocimeters LDV (Tool type: Flowmeters)
+- Lathes (Tool type: Tracer or duplicating or contouring lathe)
+- Linear variable differential transformers LVDT (Tool type: Linear position sensors)
+- Liquid conditioners (Tool type: Water conditioners)
+- Load frames (Tool type: Load frame)
+- Magnetic separators (Tool type: Laboratory separators)
+- Magnetic susceptibility balances (Tool type: Analytical balances)
+- Masonry cutters (Tool type: Power saws)
+- Mass spectrometers (Tool type: Mass spectrometers)
+- Mechanical sieve shakers (Tool type: Orbital shakers)
+- Melt spinners (Tool type: Crucible furnaces)
+- Micromanipulators (Tool type: Semiconductor process systems)
+- Microscope photo attachments (Tool type: Photo attachments for microscopes)
+- Microwave autoclaves (Tool type: Steam autoclaves or sterilizers)
+- Microwave sintering furnaces (Tool type: High vacuum combustion apparatus)
+- Microwave tube furnaces (Tool type: Tube furnaces)
+- Molecular pumps (Tool type: Laboratory vacuum pumps)
+- Muffle furnaces (Tool type: Laboratory box furnaces)
+- Optical compound microscopes (Tool type: Binocular light compound microscopes)
+- Optical emission spectrometers (Tool type: Infrared spectrometers)
+- Oscillating water tunnels (Tool type: Flow transmitters)
+- Particle size analyzers (Tool type: Optical diffraction apparatus)
+- Permeability measuring devices (Tool type: Permeability testing apparatus)
+- Personal computers (Tool type: Personal computers)
+- pH testers (Tool type: pH meters)
+- Pit depth gauges (Tool type: Depth gauges)
+- Plasma-arc furnaces (Tool type: High vacuum combustion apparatus)
+- Polarizing microscopes (Tool type: Polarizing microscopes)
+- Polishing machines (Tool type: Grinding or polishing machines)
+- Porosity indicators (Tool type: Porosimeters)
+- Pycnometers (Tool type: Pycnometers)
+- Reflectometers (Tool type: Reflectometers)
+- Rod mills (Tool type: Laboratory mills)
+- Roll crushers (Tool type: Roll crushers)
+- Rotating furnaces (Tool type: High vacuum combustion apparatus)
+- Safety glasses (Tool type: Safety glasses)
+- Safety gloves (Tool type: Protective gloves)
+- Sample presses (Tool type: Laboratory crushers or pulverizers)
+- Sanding machines (Tool type: Pneumatic sanding machines)
+- Scanning electron microscopes SEM (Tool type: Scanning electron microscopes)
+- Screw-driven test machines (Tool type: Compression testers)
+- Servohydraulic test machines (Tool type: Fatigue testers)
+- Slurry blenders (Tool type: Laboratory blenders or emulsifiers)
+- Solar simulators (Tool type: Ageing ovens)
+- Solid state laser systems (Tool type: Lasers)
+- Solvent dryers (Tool type: Induction dryers)
+- Sonometers (Tool type: Sonometers)
+- Specific gravity balances (Tool type: Laboratory balances)
+- Spectrocolorimeters (Tool type: Colorimeters)
+- Spectrometers (Tool type: Spectrometers)
+- Spectrophotometers (Tool type: Spectrophotometers)
+- Stabilometers (Tool type: Concrete or cement testing instruments)
+- Steam autoclaves (Tool type: Steam autoclaves or sterilizers)
+- Stereo microscopes (Tool type: Stereo or dissecting light microscopes)
+- Strain gauges (Tool type: Strain gauges)
+- Temperature regulated shaking water baths (Tool type: Orbital shaking water baths)
+- Tensile testers (Tool type: Tension testers)
+- Tension gauges (Tool type: Tensiometers)
+- Thermal analysis systems (Tool type: Thermal differential analyzers)
+- Thermogravimetric analyzers (Tool type: Thermo gravimetry analyzers)
+- Tube furnaces (Tool type: Tube furnaces)
+- Turbidimeters (Tool type: Turbidimeters)
+- Twin screw extruders (Tool type: Twin screw extruder)
+- Twin-screw extruders (Tool type: Twin screw extruder)
+- Ultrasonic baths (Tool type: Immersion circulators)
+- Ultrasonic dismembrators (Tool type: Homogenizers)
+- Ultrasonicators (Tool type: Homogenizers)
+- Ultrasound inspection equipment (Tool type: Ultrasonic examination equipment)
+- Ultraviolet UV exposure units (Tool type: Infrared dryers)
+- Vacuum coating systems (Tool type: Optical vacuum coating equipment)
+- Vacuum evaporators (Tool type: Laboratory evaporators)
+- Vacuum furnaces (Tool type: Vacuum ovens)
+- Vibration analysis equipment (Tool type: Vibration testers)
+- Viscosity meters (Tool type: Viscosimeters)
+- Water burets (Tool type: Laboratory burets)
+- Water-cooled saws (Tool type: Power saws)
+- Wind tunnels (Tool type: Flow transmitters)
+- X ray fluorescence XRF analyzers (Tool type: Spectrofluorimeters or fluorimeters)
+- X ray fluorescence XRF spectrometers (Tool type: Spectrofluorimeters or fluorimeters)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Fairly serious
+- Contact With Others: Contact with others most of the time
+- Coordinate or Lead Others in Accomplishing Work Activities: Important
+- Deal With External Customers or the Public in General: Important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Moderately automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Once a year or more but not every month
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Once a month or more but not every week
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Once a month or more but not every week
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Once a month or more but not every week
+- Health and Safety of Other Workers: High responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Fairly important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Once a year or more but not every month
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Once a year or more but not every month
+- Outdoors, Under Cover: Once a year or more but not every month
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Slightly close (e.g., shared office)
+- Public Speaking: Once a year or more but not every month
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Less than half the time
+- Spend Time Sitting: More than half the time
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Less than half the time
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Once a week or more but not every day
+- Time Pressure: Once a week or more but not every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Once a year or more but not every month
+- Work Outcomes and Results of Other Workers: High responsibility
+- Work With or Contribute to a Work Group or Team: Very important
+- Written Letters and Memos: Once a week or more but not every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Investigative
+- Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Materials Scientists
+- Chemical Engineers
+- Manufacturing Engineers
+- Industrial Engineers
+- Mechanical Engineers
+- Nanosystems Engineers
+- Nanotechnology Engineering Technologists and Technicians
+- Bioengineers and Biomedical Engineers
+- Electrical Engineers
+- Commercial and Industrial Designers
+- Industrial Engineering Technologists and Technicians
+- Mechanical Engineering Technologists and Technicians
+- Chemical Technicians
+- Chemists
+- Microsystems Engineers
+- Electrical and Electronic Engineering Technologists and Technicians
+- Mechatronics Engineers
+- Architectural and Engineering Managers
+- Calibration Technologists and Technicians
+- Electronics Engineers, Except Computer

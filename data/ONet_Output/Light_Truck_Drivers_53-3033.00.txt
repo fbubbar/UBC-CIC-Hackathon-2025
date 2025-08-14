@@ -1,0 +1,210 @@
+Job Title: Light Truck Drivers
+O*NET-SOC Code: 53-3033.00
+
+# DESCRIPTION
+Drive a light vehicle, such as a truck or van, with a capacity of less than 26,001 pounds Gross Vehicle Weight (GVW), primarily to pick up merchandise or packages from a distribution center and deliver. May load and unload vehicle.
+
+# TASKS
+- Obey traffic laws and follow established traffic and transportation procedures.
+- Report any mechanical problems encountered with vehicles.
+- Verify the contents of inventory loads against shipping papers.
+- Inspect and maintain vehicle supplies and equipment, such as gas, oil, water, tires, lights, or brakes, to ensure that vehicles are in proper working condition.
+- Read maps and follow written or verbal geographic directions.
+- Load and unload trucks, vans, or automobiles.
+- Present bills and receipts and collect payments for goods delivered or loaded.
+- Maintain records, such as vehicle logs, records of cargo, or billing statements, in accordance with regulations.
+- Drive vehicles with capacities under three tons to transport materials to and from specified destinations, such as railroad stations, plants, residences, offices, or within industrial yards.
+- Turn in receipts and money received from deliveries.
+- Use and maintain the tools or equipment found on commercial vehicles, such as weighing or measuring devices.
+- Report delays, accidents, or other traffic and transportation situations to bases or other vehicles, using telephones or mobile two-way radios.
+- Perform emergency repairs, such as changing tires or installing light bulbs, fuses, tire chains, or spark plugs.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- English Language (Importance: 3.8/5 | Level: 2.87/7)
+- Transportation (Importance: 3.41/5 | Level: 2.9/7)
+- Customer and Personal Service (Importance: 3.38/5 | Level: 3.51/7)
+- Public Safety and Security (Importance: 2.86/5 | Level: 2.09/7)
+- Administrative (Importance: 2.63/5 | Level: 2.22/7)
+- Mechanical (Importance: 2.48/5 | Level: 2.47/7)
+- Administration and Management (Importance: 2.43/5 | Level: 2.45/7)
+- Mathematics (Importance: 2.39/5 | Level: 2.06/7)
+- Production and Processing (Importance: 2.36/5 | Level: 2.39/7)
+- Education and Training (Importance: 2.35/5 | Level: 1.65/7)
+- Telecommunications (Importance: 2.34/5 | Level: 0.9/7)
+- Foreign Language (Importance: 2.18/5 | Level: 2.05/7)
+- Law and Government (Importance: 2.17/5 | Level: 1.65/7)
+- Sales and Marketing (Importance: 2.11/5 | Level: 1.66/7)
+- Computers and Electronics (Importance: 2.1/5 | Level: 1.91/7)
+- Geography (Importance: 2.06/5 | Level: 1.93/7)
+- Communications and Media (Importance: 1.97/5 | Level: 1.17/7)
+- Physics (Importance: 1.95/5 | Level: 1.34/7)
+- Chemistry (Importance: 1.78/5 | Level: 1.36/7)
+- Building and Construction (Importance: 1.71/5 | Level: 0.86/7)
+- Personnel and Human Resources (Importance: 1.67/5 | Level: 0.95/7)
+- Food Production (Importance: 1.62/5 | Level: 0.92/7)
+- Economics and Accounting (Importance: 1.61/5 | Level: 1.23/7)
+- Psychology (Importance: 1.59/5 | Level: 1.44/7)
+- Sociology and Anthropology (Importance: 1.53/5 | Level: 1.09/7)
+- Engineering and Technology (Importance: 1.51/5 | Level: 1.08/7)
+- Design (Importance: 1.44/5 | Level: 0.97/7)
+- Medicine and Dentistry (Importance: 1.44/5 | Level: 0.85/7)
+- Biology (Importance: 1.39/5 | Level: 0.75/7)
+- Therapy and Counseling (Importance: 1.33/5 | Level: 0.57/7)
+- History and Archeology (Importance: 1.11/5 | Level: 0.2/7)
+- Fine Arts (Importance: 1.1/5 | Level: 0.16/7)
+- Philosophy and Theology (Importance: 1.07/5 | Level: 0.12/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operation and Control (Importance: 3.12/5 | Level: 2.88/7)
+- Monitoring (Importance: 3.12/5 | Level: 2.75/7)
+- Speaking (Importance: 3.12/5 | Level: 2.88/7)
+- Reading Comprehension (Importance: 3.12/5 | Level: 3.0/7)
+- Active Listening (Importance: 3.12/5 | Level: 2.88/7)
+- Time Management (Importance: 3.0/5 | Level: 2.62/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 2.75/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 2.38/7)
+- Service Orientation (Importance: 2.75/5 | Level: 2.0/7)
+- Operations Monitoring (Importance: 2.75/5 | Level: 2.5/7)
+- Writing (Importance: 2.75/5 | Level: 2.5/7)
+- Complex Problem Solving (Importance: 2.62/5 | Level: 2.25/7)
+- Judgment and Decision Making (Importance: 2.62/5 | Level: 2.0/7)
+- Coordination (Importance: 2.5/5 | Level: 2.0/7)
+- Mathematics (Importance: 2.25/5 | Level: 2.12/7)
+- Equipment Maintenance (Importance: 2.25/5 | Level: 2.12/7)
+- Instructing (Importance: 2.25/5 | Level: 1.62/7)
+- Active Learning (Importance: 2.12/5 | Level: 2.0/7)
+- Systems Evaluation (Importance: 2.12/5 | Level: 1.75/7)
+- Quality Control Analysis (Importance: 2.12/5 | Level: 1.88/7)
+- Systems Analysis (Importance: 2.12/5 | Level: 1.88/7)
+- Troubleshooting (Importance: 2.0/5 | Level: 2.0/7)
+- Repairing (Importance: 2.0/5 | Level: 2.0/7)
+- Learning Strategies (Importance: 2.0/5 | Level: 1.62/7)
+- Management of Personnel Resources (Importance: 2.0/5 | Level: 1.62/7)
+- Persuasion (Importance: 2.0/5 | Level: 1.75/7)
+- Negotiation (Importance: 1.88/5 | Level: 1.5/7)
+- Equipment Selection (Importance: 1.75/5 | Level: 1.0/7)
+- Operations Analysis (Importance: 1.62/5 | Level: 0.62/7)
+- Management of Material Resources (Importance: 1.62/5 | Level: 0.88/7)
+- Management of Financial Resources (Importance: 1.5/5 | Level: 0.5/7)
+- Technology Design (Importance: 1.25/5 | Level: 0.25/7)
+- Science (Importance: 1.12/5 | Level: 0.12/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Automatic routing software (Tech skill type: Route navigation software)
+- Computerized inventory tracking software (Tech skill type: Inventory management software)
+- Eko (Tech skill type: Desktop communications software)
+- FreightDATA (Tech skill type: Industrial control software)
+- IBM Domino (Tech skill type: Communications server software)
+- Internet browser software (Tech skill type: Internet browser software)
+- Inventory management systems (Tech skill type: Inventory management software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Package location and tracking software (Tech skill type: Industrial control software)
+- Recordkeeping software (Tech skill type: Data base user interface and query software)
+- Vehicle location and tracking software (Tech skill type: Industrial control software)
+
+## TOOLS USED
+- Electronic clipboards (Tool type: Portable data input terminals)
+- Forklifts (Tool type: Forklifts)
+- Global positioning system GPS receivers (Tool type: Global positioning system GPS receiver)
+- Jacks (Tool type: Jacks)
+- Large goods vehicles LGV (Tool type: Delivery trucks)
+- Light trucks less than 3 tons (Tool type: Delivery trucks)
+- Personal computers (Tool type: Personal computers)
+- Pickup trucks (Tool type: Light trucks or sport utility vehicles)
+- Satellite linkup systems (Tool type: Location based messaging service platforms)
+- Scanners (Tool type: Scanners)
+- Truck lift gates (Tool type: Lifts)
+- Two way radios (Tool type: Two way radios)
+- Vans (Tool type: Minivans or vans)
+- Wheel blocks (Tool type: Wheel chocks)
+
+# WORK CONTEXT
+- Conflict Situations: Never
+- Consequence of Error: Serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a month or more but not every week
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Moderately automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Never
+- Exposed to Very Hot or Cold Temperatures: Every day
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Very important
+- Importance of Repeating Same Tasks: Very important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Every day
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Never
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Not at all competitive
+- Outdoors, Exposed to All Weather Conditions: Every day
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: About half the time
+- Spend Time Sitting: More than half the time
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: More than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Never
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Heavy and Tractor-Trailer Truck Drivers
+- Shuttle Drivers and Chauffeurs
+- Driver/Sales Workers
+- Couriers and Messengers
+- Taxi Drivers
+- Industrial Truck and Tractor Operators
+- Dispatchers, Except Police, Fire, and Ambulance
+- Railroad Conductors and Yardmasters
+- Cargo and Freight Agents
+- Postal Service Mail Carriers
+- Shipping, Receiving, and Inventory Clerks
+- Tank Car, Truck, and Ship Loaders
+- Bus Drivers, Transit and Intercity
+- Postal Service Clerks
+- Transportation Inspectors
+- Refuse and Recyclable Material Collectors
+- First-Line Supervisors of Material-Moving Machine and Vehicle Operators
+- Locomotive Engineers
+- Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation
+- Transportation, Storage, and Distribution Managers

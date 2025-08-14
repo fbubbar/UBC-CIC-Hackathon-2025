@@ -1,0 +1,243 @@
+Job Title: First-Line Supervisors of Food Preparation and Serving Workers
+O*NET-SOC Code: 35-1012.00
+
+# DESCRIPTION
+Directly supervise and coordinate activities of workers engaged in preparing and serving food.
+
+# TASKS
+- Perform various financial activities, such as cash handling, deposit preparation, and payroll.
+- Resolve customer complaints regarding food service.
+- Compile and balance cash receipts at the end of the day or shift.
+- Present bills and accept payments.
+- Inspect supplies, equipment, and work areas to ensure efficient service and conformance to standards.
+- Perform food preparation and serving duties, such as carving meat, preparing flambe dishes, or serving wine and liquor.
+- Train workers in food preparation, and in service, sanitation, and safety procedures.
+- Supervise and participate in kitchen and dining area cleaning activities.
+- Perform personnel actions, such as hiring and firing staff, providing employee orientation and training, and conducting supervisory activities, such as creating work schedules or organizing employee time sheets.
+- Control inventories of food, equipment, smallware, and liquor, and report shortages to designated personnel.
+- Assign duties, responsibilities, and work stations to employees in accordance with work requirements.
+- Specify food portions and courses, production and time sequences, and workstation and equipment arrangements.
+- Record production, operational, and personnel data on specified forms.
+- Observe and evaluate workers and work procedures to ensure quality standards and service, and complete disciplinary write-ups.
+- Estimate ingredients and supplies required to prepare a recipe.
+- Analyze operational problems, such as theft and wastage, and establish procedures to alleviate these problems.
+- Forecast staff, equipment, and supply requirements, based on a master menu.
+- Recommend measures for improving work procedures and worker performance to increase service quality and enhance job safety.
+- Develop equipment maintenance schedules and arrange for repairs.
+- Greet and seat guests, and present menus and wine lists.
+- Purchase or requisition supplies and equipment needed to ensure quality and timely delivery of services.
+- Develop departmental objectives, budgets, policies, procedures, and strategies.
+- Conduct meetings and collaborate with other personnel for menu planning, serving arrangements, and related details.
+- Evaluate new products for usefulness and suitability.
+- Schedule parties and take reservations.
+- Assess nutritional needs of patients, plan special menus, supervise the assembly of regular and special diet trays, and oversee the delivery of food trolleys to hospital patients.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.24/5 | Level: 4.84/7)
+- Food Production (Importance: 4.06/5 | Level: 3.64/7)
+- Production and Processing (Importance: 3.66/5 | Level: 3.6/7)
+- Administration and Management (Importance: 3.58/5 | Level: 3.67/7)
+- Personnel and Human Resources (Importance: 3.53/5 | Level: 3.42/7)
+- English Language (Importance: 3.52/5 | Level: 3.19/7)
+- Education and Training (Importance: 3.38/5 | Level: 4.21/7)
+- Mathematics (Importance: 3.26/5 | Level: 3.44/7)
+- Sales and Marketing (Importance: 3.06/5 | Level: 2.96/7)
+- Administrative (Importance: 3.05/5 | Level: 3.95/7)
+- Public Safety and Security (Importance: 3.02/5 | Level: 2.97/7)
+- Economics and Accounting (Importance: 2.93/5 | Level: 3.09/7)
+- Computers and Electronics (Importance: 2.9/5 | Level: 3.16/7)
+- Mechanical (Importance: 2.31/5 | Level: 1.9/7)
+- Psychology (Importance: 2.26/5 | Level: 2.17/7)
+- Chemistry (Importance: 2.25/5 | Level: 1.98/7)
+- Law and Government (Importance: 2.25/5 | Level: 1.74/7)
+- Transportation (Importance: 2.1/5 | Level: 1.35/7)
+- Communications and Media (Importance: 1.99/5 | Level: 1.58/7)
+- Engineering and Technology (Importance: 1.83/5 | Level: 1.34/7)
+- Therapy and Counseling (Importance: 1.78/5 | Level: 1.47/7)
+- Building and Construction (Importance: 1.77/5 | Level: 1.38/7)
+- Sociology and Anthropology (Importance: 1.74/5 | Level: 1.25/7)
+- Telecommunications (Importance: 1.74/5 | Level: 0.88/7)
+- Design (Importance: 1.73/5 | Level: 1.31/7)
+- Geography (Importance: 1.62/5 | Level: 1.15/7)
+- Medicine and Dentistry (Importance: 1.6/5 | Level: 0.99/7)
+- Physics (Importance: 1.47/5 | Level: 0.84/7)
+- Foreign Language (Importance: 1.41/5 | Level: 0.61/7)
+- Biology (Importance: 1.37/5 | Level: 0.76/7)
+- History and Archeology (Importance: 1.25/5 | Level: 0.43/7)
+- Philosophy and Theology (Importance: 1.2/5 | Level: 0.52/7)
+- Fine Arts (Importance: 1.12/5 | Level: 0.3/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Speaking (Importance: 3.88/5 | Level: 3.75/7)
+- Coordination (Importance: 3.88/5 | Level: 3.75/7)
+- Monitoring (Importance: 3.88/5 | Level: 3.75/7)
+- Service Orientation (Importance: 3.75/5 | Level: 3.62/7)
+- Active Listening (Importance: 3.75/5 | Level: 3.12/7)
+- Instructing (Importance: 3.62/5 | Level: 3.0/7)
+- Management of Personnel Resources (Importance: 3.62/5 | Level: 3.62/7)
+- Reading Comprehension (Importance: 3.38/5 | Level: 3.5/7)
+- Social Perceptiveness (Importance: 3.38/5 | Level: 3.62/7)
+- Persuasion (Importance: 3.25/5 | Level: 3.25/7)
+- Critical Thinking (Importance: 3.25/5 | Level: 4.0/7)
+- Management of Financial Resources (Importance: 3.12/5 | Level: 2.88/7)
+- Learning Strategies (Importance: 3.12/5 | Level: 3.12/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 3.0/7)
+- Systems Evaluation (Importance: 3.12/5 | Level: 3.25/7)
+- Time Management (Importance: 3.12/5 | Level: 3.62/7)
+- Complex Problem Solving (Importance: 3.12/5 | Level: 3.0/7)
+- Mathematics (Importance: 3.0/5 | Level: 3.0/7)
+- Negotiation (Importance: 3.0/5 | Level: 3.0/7)
+- Systems Analysis (Importance: 3.0/5 | Level: 3.0/7)
+- Active Learning (Importance: 3.0/5 | Level: 3.25/7)
+- Quality Control Analysis (Importance: 2.88/5 | Level: 2.62/7)
+- Writing (Importance: 2.88/5 | Level: 3.12/7)
+- Management of Material Resources (Importance: 2.88/5 | Level: 2.75/7)
+- Operations Monitoring (Importance: 2.12/5 | Level: 2.0/7)
+- Troubleshooting (Importance: 2.0/5 | Level: 1.38/7)
+- Operation and Control (Importance: 2.0/5 | Level: 1.88/7)
+- Operations Analysis (Importance: 1.88/5 | Level: 1.62/7)
+- Technology Design (Importance: 1.62/5 | Level: 0.62/7)
+- Programming (Importance: 1.38/5 | Level: 0.38/7)
+- Equipment Selection (Importance: 1.12/5 | Level: 0.12/7)
+- Equipment Maintenance (Importance: 1.12/5 | Level: 0.12/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- ADP Workforce Now (Tech skill type: Human resources software)
+- CaterPro (Tech skill type: Data base user interface and query software)
+- CBORD Foodservice Suite (Tech skill type: Data base user interface and query software)
+- CBORD Group Menu Management System (Tech skill type: Inventory management software)
+- Compeat Restaurant Accounting Systems (Tech skill type: Accounting software)
+- Compris Advanced Manager's Workstation (Tech skill type: Point of sale POS software)
+- Compris software (Tech skill type: Point of sale POS software)
+- CostGuard (Tech skill type: Accounting software)
+- Delphi Technology (Tech skill type: Financial analysis software)
+- Evernote (Tech skill type: Word processing software)
+- IBM Domino (Tech skill type: Communications server software)
+- Intuit QuickBooks Point of Sale (Tech skill type: Point of sale POS software)
+- Inventory management software (Tech skill type: Inventory management software)
+- MICROS Systems HSI Profits Series (Tech skill type: Point of sale POS software)
+- Microsoft Dynamics (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft Publisher (Tech skill type: Desktop publishing software)
+- Microsoft Word (Tech skill type: Word processing software)
+- NCR Advanced Checkout Solution (Tech skill type: Point of sale POS software)
+- NCR NeighborhoodPOS (Tech skill type: Point of sale POS software)
+- Ordering and purchasing software (Tech skill type: Procurement software)
+- ParTech PixelPoint POS (Tech skill type: Point of sale POS software)
+- Point of sale POS software (Tech skill type: Point of sale POS software)
+- Quizlet (Tech skill type: Computer based training software)
+- Regnow Chrysanth Inventory Manager (Tech skill type: Inventory management software)
+- Restaurant Operations & Management Spreadsheet Library (Tech skill type: Spreadsheet software)
+- Sage 50 Accounting (Tech skill type: Accounting software)
+- SoftCafe ScheduleWriter (Tech skill type: Human resources software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- Staff scheduling software (Tech skill type: Calendar and scheduling software)
+- The General Store (Tech skill type: Point of sale POS software)
+
+## TOOLS USED
+- Barcode scanners (Tool type: Bar code reader equipment)
+- Card readers (Tool type: Point of sale payment terminal)
+- Cash registers (Tool type: Cash registers)
+- Credit card processing machines (Tool type: Magnetic stripe readers and encoders)
+- Desktop computers (Tool type: Desktop computers)
+- Linear imaging scanners (Tool type: Bar code reader equipment)
+- Long range charged coupled device CCD barcode scanners (Tool type: Bar code reader equipment)
+- Notebook computers (Tool type: Notebook computers)
+- Point of sale POS printers (Tool type: Point of sale POS receipt printers)
+- Point of sale POS terminals (Tool type: Point of sale POS terminal)
+- Point of service scanners (Tool type: Bar code reader equipment)
+- Point of service workstations (Tool type: Point of sale POS terminal)
+- Restaurant guest and server paging systems (Tool type: Paging controllers)
+
+# WORK CONTEXT
+- Conflict Situations: Once a week or more but not every day
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Every day
+- Dealing with Violent or Physically Aggressive People: Once a year or more but not every month
+- Degree of Automation: Slightly automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Every day
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Never
+- Exposed to Very Hot or Cold Temperatures: Once a week or more but not every day
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Extremely important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Very close (near touching)
+- Public Speaking: Once a year or more but not every month
+- Spend Time Bending or Twisting Your Body: More than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Less than half the time
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: More than half the time
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: Continually or almost continually
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Continually or almost continually
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a week or more but not every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Enterprising
+- Secondary Interest: Conventional
+- Tertiary Interest: Realistic
+
+# RELATED OCCUPATIONS
+- First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services
+- First-Line Supervisors of Housekeeping and Janitorial Workers
+- First-Line Supervisors of Production and Operating Workers
+- First-Line Supervisors of Farming, Fishing, and Forestry Workers
+- First-Line Supervisors of Non-Retail Sales Workers
+- First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand
+- First-Line Supervisors of Office and Administrative Support Workers
+- First-Line Supervisors of Mechanics, Installers, and Repairers
+- First-Line Supervisors of Passenger Attendants
+- First-Line Supervisors of Retail Sales Workers
+- First-Line Supervisors of Material-Moving Machine and Vehicle Operators
+- Food Service Managers
+- First-Line Supervisors of Security Workers
+- First-Line Supervisors of Personal Service Workers
+- Fast Food and Counter Workers
+- First-Line Supervisors of Construction Trades and Extraction Workers
+- Chefs and Head Cooks
+- Food Preparation Workers
+- General and Operations Managers
+- Dining Room and Cafeteria Attendants and Bartender Helpers

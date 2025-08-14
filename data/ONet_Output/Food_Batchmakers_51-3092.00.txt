@@ -1,0 +1,246 @@
+Job Title: Food Batchmakers
+O*NET-SOC Code: 51-3092.00
+
+# DESCRIPTION
+Set up and operate equipment that mixes or blends ingredients used in the manufacturing of food products. Includes candy makers and cheese makers.
+
+# TASKS
+- Record production and test data for each food product batch, such as the ingredients used, temperature, test results, and time cycle.
+- Clean and sterilize vats and factory processing areas.
+- Set up, operate, and tend equipment that cooks, mixes, blends, or processes ingredients in the manufacturing of food products, according to formulas or recipes.
+- Mix or blend ingredients, according to recipes, using a paddle or an agitator, or by controlling vats that heat and mix ingredients.
+- Follow recipes to produce food products of specified flavor, texture, clarity, bouquet, or color.
+- Give directions to other workers who are assisting in the batchmaking process.
+- Select and measure or weigh ingredients, using English or metric measures and balance scales.
+- Press switches and turn knobs to start, adjust, and regulate equipment, such as beaters, extruders, discharge pipes, and salt pumps.
+- Determine mixing sequences, based on knowledge of temperature effects and of the solubility of specific ingredients.
+- Observe and listen to equipment to detect possible malfunctions, such as leaks or plugging, and report malfunctions or undesirable tastes to supervisors.
+- Observe gauges and thermometers to determine if the mixing chamber temperature is within specified limits, and turn valves to control the temperature.
+- Turn valve controls to start equipment and to adjust operation to maintain product quality.
+- Modify cooking and forming operations based on the results of sampling processes, adjusting time cycles and ingredients to achieve desired qualities, such as firmness or texture.
+- Examine, feel, and taste product samples during production to evaluate quality, color, texture, flavor, and bouquet, and document the results.
+- Test food product samples for moisture content, acidity level, specific gravity, or butter-fat content, and continue processing until desired levels are reached.
+- Inspect vats after cleaning to ensure that fermentable residue has been removed.
+- Fill processing or cooking containers, such as kettles, rotating cookers, pressure cookers, or vats, with ingredients, by opening valves, by starting pumps or injectors, or by hand.
+- Manipulate products, by hand or using machines, to separate, spread, knead, spin, cast, cut, pull, or roll products.
+- Cool food product batches on slabs or in water-cooled kettles.
+- Place products on carts or conveyors to transfer them to the next stage of processing.
+- Homogenize or pasteurize material to prevent separation or to obtain prescribed butterfat content, using a homogenizing device.
+- Grade food products according to government regulations or according to type, color, bouquet, and moisture content.
+- Operate refining machines to reduce the particle size of cooked batches.
+- Formulate or modify recipes for specific kinds of food products.
+- Inspect and pack the final product.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Public Safety and Security (Importance: 4.29/5 | Level: 4.02/7)
+- Food Production (Importance: 4.26/5 | Level: 4.19/7)
+- Production and Processing (Importance: 4.21/5 | Level: 3.86/7)
+- Education and Training (Importance: 3.57/5 | Level: 3.74/7)
+- English Language (Importance: 3.47/5 | Level: 3.51/7)
+- Administration and Management (Importance: 3.15/5 | Level: 3.54/7)
+- Mechanical (Importance: 3.15/5 | Level: 3.13/7)
+- Mathematics (Importance: 3.12/5 | Level: 3.04/7)
+- Computers and Electronics (Importance: 3.09/5 | Level: 3.13/7)
+- Administrative (Importance: 2.91/5 | Level: 3.24/7)
+- Customer and Personal Service (Importance: 2.9/5 | Level: 3.01/7)
+- Engineering and Technology (Importance: 2.61/5 | Level: 2.78/7)
+- Personnel and Human Resources (Importance: 2.58/5 | Level: 1.82/7)
+- Chemistry (Importance: 2.49/5 | Level: 3.39/7)
+- Psychology (Importance: 2.47/5 | Level: 2.38/7)
+- Law and Government (Importance: 2.42/5 | Level: 2.35/7)
+- Physics (Importance: 2.4/5 | Level: 2.57/7)
+- Economics and Accounting (Importance: 2.36/5 | Level: 1.78/7)
+- Biology (Importance: 2.35/5 | Level: 2.32/7)
+- Design (Importance: 2.33/5 | Level: 1.82/7)
+- Communications and Media (Importance: 2.2/5 | Level: 1.87/7)
+- Transportation (Importance: 2.17/5 | Level: 1.58/7)
+- Sociology and Anthropology (Importance: 2.09/5 | Level: 1.87/7)
+- Sales and Marketing (Importance: 2.07/5 | Level: 1.46/7)
+- Telecommunications (Importance: 1.83/5 | Level: 1.02/7)
+- Building and Construction (Importance: 1.8/5 | Level: 1.02/7)
+- Geography (Importance: 1.68/5 | Level: 1.32/7)
+- Therapy and Counseling (Importance: 1.59/5 | Level: 1.05/7)
+- Medicine and Dentistry (Importance: 1.5/5 | Level: 0.71/7)
+- Philosophy and Theology (Importance: 1.49/5 | Level: 0.74/7)
+- Foreign Language (Importance: 1.43/5 | Level: 0.84/7)
+- History and Archeology (Importance: 1.26/5 | Level: 0.26/7)
+- Fine Arts (Importance: 1.13/5 | Level: 0.25/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operations Monitoring (Importance: 3.25/5 | Level: 3.0/7)
+- Critical Thinking (Importance: 3.12/5 | Level: 2.88/7)
+- Reading Comprehension (Importance: 3.12/5 | Level: 3.0/7)
+- Operation and Control (Importance: 3.0/5 | Level: 2.88/7)
+- Speaking (Importance: 3.0/5 | Level: 3.0/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Active Listening (Importance: 3.0/5 | Level: 3.0/7)
+- Judgment and Decision Making (Importance: 2.88/5 | Level: 2.38/7)
+- Monitoring (Importance: 2.88/5 | Level: 3.0/7)
+- Writing (Importance: 2.88/5 | Level: 2.88/7)
+- Complex Problem Solving (Importance: 2.88/5 | Level: 2.62/7)
+- Quality Control Analysis (Importance: 2.75/5 | Level: 2.12/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 2.62/7)
+- Time Management (Importance: 2.75/5 | Level: 2.5/7)
+- Active Learning (Importance: 2.75/5 | Level: 2.12/7)
+- Mathematics (Importance: 2.75/5 | Level: 2.38/7)
+- Instructing (Importance: 2.12/5 | Level: 2.12/7)
+- Service Orientation (Importance: 2.12/5 | Level: 2.12/7)
+- Troubleshooting (Importance: 2.12/5 | Level: 2.0/7)
+- Management of Personnel Resources (Importance: 2.12/5 | Level: 2.12/7)
+- Learning Strategies (Importance: 2.12/5 | Level: 2.0/7)
+- Negotiation (Importance: 2.0/5 | Level: 2.0/7)
+- Persuasion (Importance: 2.0/5 | Level: 2.12/7)
+- Systems Analysis (Importance: 2.0/5 | Level: 1.5/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 1.5/7)
+- Science (Importance: 2.0/5 | Level: 1.75/7)
+- Operations Analysis (Importance: 1.88/5 | Level: 1.75/7)
+- Equipment Maintenance (Importance: 1.62/5 | Level: 1.25/7)
+- Equipment Selection (Importance: 1.62/5 | Level: 0.88/7)
+- Repairing (Importance: 1.5/5 | Level: 0.62/7)
+- Technology Design (Importance: 1.5/5 | Level: 0.5/7)
+- Management of Material Resources (Importance: 1.5/5 | Level: 0.62/7)
+- Management of Financial Resources (Importance: 1.25/5 | Level: 0.38/7)
+- Programming (Importance: 1.12/5 | Level: 0.12/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Edible Software (Tech skill type: Inventory management software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Plex Systems Plex Manufacturing Cloud (Tech skill type: Enterprise resource planning ERP software)
+
+## TOOLS USED
+- Agitators (Tool type: Commercial use mixers)
+- Balance scales (Tool type: Commercial use scales)
+- Ball mills (Tool type: Milling machinery)
+- Beaters (Tool type: Commercial use mixers)
+- Candy cookers (Tool type: Commercial use ranges)
+- Candy stoves (Tool type: Commercial use ranges)
+- Centrifugal clarifiers (Tool type: Cheese making machine)
+- Cheese cutters (Tool type: Cutting machinery)
+- Cheese finishing tables (Tool type: Cheese making machine)
+- Cheese presses (Tool type: Cheese making machine)
+- Cheese vats (Tool type: Cheese making machine)
+- Chocolate melters (Tool type: Commercial use ranges)
+- Commercial cream separators (Tool type: Cream separator)
+- Commercial induction cookers (Tool type: Commercial use ranges)
+- Commercial use homogenizers (Tool type: Homogenizers)
+- Cooker mixers (Tool type: Commercial use mixers)
+- Cooling tables (Tool type: Cooling machine)
+- Cream beaters (Tool type: Commercial use mixers)
+- Deep-fry cookers (Tool type: Commercial use deep fryers)
+- Depositing pumps (Tool type: Metering or injection or proportioning pumps)
+- Digital kitchen thermometers (Tool type: Domestic kitchen or food thermometers)
+- Dough processing machines (Tool type: Commercial use dough machines)
+- Evaporators (Tool type: Dehydrating machinery)
+- Extruders (Tool type: Commercial use dough machines)
+- Flour milling machines (Tool type: Milling machinery)
+- Food broilers (Tool type: Commercial use broilers)
+- Food heating cabinets (Tool type: Commercial use food warmers)
+- Food sterilizing machines (Tool type: Food sterilizing machine)
+- Heating tables (Tool type: Commercial use food warmers)
+- Ice cream machines (Tool type: Ice cream machines)
+- Injector pumps (Tool type: Metering or injection or proportioning pumps)
+- Kettle dollies (Tool type: Pushcarts)
+- Kettle lifters (Tool type: Lifts)
+- Levelers (Tool type: Commercial use rolling pins)
+- Liquid filling machines (Tool type: Filling machinery)
+- Meat cutting machines (Tool type: Slicing machinery)
+- Meat tenderizing tools (Tool type: Manual meat tenderizer)
+- Metered transfer pumps (Tool type: Metering or injection or proportioning pumps)
+- Microwave drying machines (Tool type: Commercial use microwave ovens)
+- Revolving pan depositors (Tool type: Metering or injection or proportioning pumps)
+- Roller cutters (Tool type: Cutting machinery)
+- Sausage machines (Tool type: Forming machine)
+- Sizers (Tool type: Commercial use rolling pins)
+- Steam-cooking vats (Tool type: Commercial use high pressure steamers)
+- Tilting commercial cooking kettles (Tool type: Commercial use jacketed tilting kettle)
+- Torque wrenches (Tool type: Torque wrenches)
+- Vacuum packagers (Tool type: Packaging vacuum)
+- Vibrating tables (Tool type: Sorting machinery)
+- Water-cooled kettles (Tool type: Commercial use jacketed tilting kettle)
+
+# WORK CONTEXT
+- Conflict Situations: Never
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Extremely important
+- Deal With External Customers or the Public in General: Not important at all
+- Dealing With Unpleasant, Angry, or Discourteous People: Never
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Moderately automated
+- Determine Tasks, Priorities and Goals: Very little freedom
+- E-Mail: Never
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Never
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Extremely important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Slightly competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Extremely important
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Once a year or more but not every month
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Continually or almost continually
+- Spend Time Sitting: Never
+- Spend Time Standing: Continually or almost continually
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Never
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Never
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Food Cooking Machine Operators and Tenders
+- Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders
+- Mixing and Blending Machine Setters, Operators, and Tenders
+- Bakers
+- Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders
+- Graders and Sorters, Agricultural Products
+- Cooling and Freezing Equipment Operators and Tenders
+- Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders
+- Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders
+- Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders
+- Packaging and Filling Machine Operators and Tenders
+- Cooks, Restaurant
+- Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders
+- Packers and Packagers, Hand
+- Machine Feeders and Offbearers
+- Cutting and Slicing Machine Setters, Operators, and Tenders
+- Textile Bleaching and Dyeing Machine Operators and Tenders
+- Rolling Machine Setters, Operators, and Tenders, Metal and Plastic
+- Adhesive Bonding Machine Operators and Tenders
+- Food Science Technicians

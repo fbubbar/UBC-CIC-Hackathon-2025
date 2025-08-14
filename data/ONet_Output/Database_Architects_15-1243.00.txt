@@ -1,0 +1,526 @@
+Job Title: Database Architects
+O*NET-SOC Code: 15-1243.00
+
+# DESCRIPTION
+Design strategies for enterprise databases, data warehouse systems, and multidimensional networks. Set standards for database operations, programming, query processes, and security. Model, design, and construct large relational databases or data warehouses. Create and optimize data models for warehouse infrastructure and workflow. Integrate new systems with existing warehouse structure and refine system performance and functionality.
+
+# TASKS
+- Develop and document database architectures.
+- Collaborate with system architects, software architects, design analysts, and others to understand business or industry requirements.
+- Develop database architectural strategies at the modeling, design and implementation stages to address business or industry requirements.
+- Design databases to support business applications, ensuring system scalability, security, performance, and reliability.
+- Develop data models for applications, metadata tables, views or related database structures.
+- Design database applications, such as interfaces, data transfer mechanisms, global temporary tables, data partitions, and function-based indexes to enable efficient access of the generic database structure.
+- Develop methods for integrating different products so they work properly together, such as customizing commercial databases to fit specific needs.
+- Create and enforce database development standards.
+- Document and communicate database schemas, using accepted notations.
+- Develop data model describing data elements and their use, following procedures and using pen, template or computer software.
+- Work as part of a project team to coordinate database development and determine project scope and limitations.
+- Identify and evaluate industry trends in database systems to serve as a source of information and advice for upper management.
+- Set up database clusters, backup, or recovery processes.
+- Demonstrate database technical functionality, such as performance, security and reliability.
+- Develop load-balancing processes to eliminate down time for backup processes.
+- Plan and install upgrades of database management system software to enhance database performance.
+- Identify, evaluate and recommend hardware or software technologies to achieve desired database performance.
+- Test programs or databases, correct errors, and make necessary modifications.
+- Identify and correct deviations from database development standards.
+- Review project requests describing database user needs to estimate time and cost required to accomplish project.
+- Write and code logical and physical database descriptions, and specify identifiers of database to management system or direct others in coding descriptions.
+- Develop or maintain archived procedures, procedural codes, or queries for applications.
+- Provide technical support to junior staff or clients.
+- Establish and calculate optimum values for database parameters, using manuals and calculators.
+- Train users and answer questions.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Computers and Electronics (Importance: 4.3/5 | Level: 6.0/7)
+- Engineering and Technology (Importance: 3.95/5 | Level: 5.19/7)
+- Design (Importance: 3.71/5 | Level: 4.67/7)
+- Mathematics (Importance: 3.67/5 | Level: 4.81/7)
+- English Language (Importance: 3.14/5 | Level: 4.0/7)
+- Administration and Management (Importance: 2.86/5 | Level: 4.1/7)
+- Education and Training (Importance: 2.62/5 | Level: 4.19/7)
+- Customer and Personal Service (Importance: 2.33/5 | Level: 3.1/7)
+- Law and Government (Importance: 2.24/5 | Level: 2.67/7)
+- Telecommunications (Importance: 2.05/5 | Level: 2.24/7)
+- Communications and Media (Importance: 2.0/5 | Level: 2.14/7)
+- Production and Processing (Importance: 2.0/5 | Level: 2.05/7)
+- Public Safety and Security (Importance: 1.95/5 | Level: 2.24/7)
+- Economics and Accounting (Importance: 1.86/5 | Level: 1.81/7)
+- Administrative (Importance: 1.81/5 | Level: 2.29/7)
+- Personnel and Human Resources (Importance: 1.76/5 | Level: 2.29/7)
+- Psychology (Importance: 1.67/5 | Level: 1.57/7)
+- Geography (Importance: 1.65/5 | Level: 1.8/7)
+- Sales and Marketing (Importance: 1.62/5 | Level: 1.67/7)
+- Foreign Language (Importance: 1.38/5 | Level: 0.75/7)
+- Sociology and Anthropology (Importance: 1.33/5 | Level: 0.95/7)
+- Physics (Importance: 1.25/5 | Level: 0.9/7)
+- Transportation (Importance: 1.24/5 | Level: 0.48/7)
+- Mechanical (Importance: 1.19/5 | Level: 0.52/7)
+- Chemistry (Importance: 1.19/5 | Level: 0.57/7)
+- Therapy and Counseling (Importance: 1.15/5 | Level: 0.4/7)
+- History and Archeology (Importance: 1.14/5 | Level: 0.38/7)
+- Medicine and Dentistry (Importance: 1.14/5 | Level: 0.43/7)
+- Fine Arts (Importance: 1.14/5 | Level: 0.29/7)
+- Philosophy and Theology (Importance: 1.1/5 | Level: 0.33/7)
+- Building and Construction (Importance: 1.1/5 | Level: 0.19/7)
+- Biology (Importance: 1.1/5 | Level: 0.33/7)
+- Food Production (Importance: 1.05/5 | Level: 0.2/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Complex Problem Solving (Importance: 3.88/5 | Level: 4.0/7)
+- Critical Thinking (Importance: 3.88/5 | Level: 3.88/7)
+- Reading Comprehension (Importance: 3.88/5 | Level: 4.12/7)
+- Judgment and Decision Making (Importance: 3.88/5 | Level: 3.88/7)
+- Systems Analysis (Importance: 3.75/5 | Level: 3.75/7)
+- Speaking (Importance: 3.5/5 | Level: 3.88/7)
+- Active Listening (Importance: 3.5/5 | Level: 3.75/7)
+- Programming (Importance: 3.38/5 | Level: 4.12/7)
+- Active Learning (Importance: 3.25/5 | Level: 3.62/7)
+- Systems Evaluation (Importance: 3.25/5 | Level: 3.75/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.62/7)
+- Operations Analysis (Importance: 3.12/5 | Level: 3.38/7)
+- Writing (Importance: 3.12/5 | Level: 3.88/7)
+- Technology Design (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 3.0/7)
+- Service Orientation (Importance: 3.0/5 | Level: 3.0/7)
+- Mathematics (Importance: 3.0/5 | Level: 3.12/7)
+- Coordination (Importance: 3.0/5 | Level: 3.12/7)
+- Persuasion (Importance: 2.88/5 | Level: 3.0/7)
+- Instructing (Importance: 2.88/5 | Level: 3.62/7)
+- Learning Strategies (Importance: 2.88/5 | Level: 3.0/7)
+- Negotiation (Importance: 2.62/5 | Level: 2.88/7)
+- Management of Personnel Resources (Importance: 2.5/5 | Level: 2.75/7)
+- Operations Monitoring (Importance: 2.12/5 | Level: 2.12/7)
+- Quality Control Analysis (Importance: 2.0/5 | Level: 1.88/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.25/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.25/7)
+- Troubleshooting (Importance: 1.88/5 | Level: 2.12/7)
+- Science (Importance: 1.88/5 | Level: 1.75/7)
+- Operation and Control (Importance: 1.75/5 | Level: 1.38/7)
+- Equipment Selection (Importance: 1.62/5 | Level: 0.75/7)
+- Installation (Importance: 1.62/5 | Level: 0.75/7)
+- Equipment Maintenance (Importance: 1.12/5 | Level: 0.12/7)
+- Repairing (Importance: 1.12/5 | Level: 0.12/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- 3M Post-it App (Tech skill type: Word processing software)
+- Ab Initio (Tech skill type: Enterprise resource planning ERP software)
+- Access management software (Tech skill type: Access software)
+- Acronis Recovery Expert (Tech skill type: Backup or archival software)
+- Adeptia ETL Suite (Tech skill type: Development environment software)
+- ADO.NET (Tech skill type: Data base management system software)
+- Adobe Acrobat (Tech skill type: Document management software)
+- Adobe Dreamweaver (Tech skill type: Web page creation and editing software)
+- Advanced business application programming ABAP (Tech skill type: Object or component oriented development software)
+- AJAX (Tech skill type: Web platform development software)
+- Altova MapForce (Tech skill type: Metadata management software)
+- Amazon DynamoDB (Tech skill type: Data base management system software)
+- Amazon Elastic Compute Cloud EC2 (Tech skill type: Data base user interface and query software)
+- Amazon Kinesis (Tech skill type: Data base management system software)
+- Amazon Redshift (Tech skill type: Data base user interface and query software)
+- Amazon Simple Storage Service S3 (Tech skill type: Storage networking software)
+- Amazon Web Services AWS CloudFormation (Tech skill type: Cloud-based management software)
+- Amazon Web Services AWS software (Tech skill type: Data base user interface and query software)
+- Ansible software (Tech skill type: Expert system software)
+- Apache Ant (Tech skill type: Development environment software)
+- Apache Avro (Tech skill type: Information retrieval or search software)
+- Apache Cassandra (Tech skill type: Data base management system software)
+- Apache Flume (Tech skill type: Data base management system software)
+- Apache Groovy (Tech skill type: Object or component oriented development software)
+- Apache Hadoop (Tech skill type: Data base management system software)
+- Apache HBase (Tech skill type: Data base management system software)
+- Apache Hive (Tech skill type: Data base user interface and query software)
+- Apache HTTP Server (Tech skill type: Portal server software)
+- Apache Kafka (Tech skill type: Development environment software)
+- Apache Mahout (Tech skill type: Expert system software)
+- Apache Maven (Tech skill type: Development environment software)
+- Apache Oozie (Tech skill type: Data base management system software)
+- Apache Pig (Tech skill type: Data base management system software)
+- Apache Solr (Tech skill type: Data base management system software)
+- Apache Spark (Tech skill type: Object or component oriented development software)
+- Apache Sqoop (Tech skill type: Data base management system software)
+- Apache Struts (Tech skill type: Web platform development software)
+- Apache Subversion SVN (Tech skill type: File versioning software)
+- Apache Tomcat (Tech skill type: Web platform development software)
+- Apatar (Tech skill type: Metadata management software)
+- Apple macOS (Tech skill type: Operating system software)
+- Application server software (Tech skill type: Application server software)
+- ASG Technologies ASG-Zeke (Tech skill type: Data base reporting software)
+- Atlassian Bamboo (Tech skill type: Enterprise application integration software)
+- Atlassian Confluence (Tech skill type: Project management software)
+- Atlassian JIRA (Tech skill type: Content workflow software)
+- Autodesk Revit (Tech skill type: Computer aided design CAD software)
+- Backbone.js (Tech skill type: Web platform development software)
+- Bash (Tech skill type: Operating system software)
+- Blackbaud The Raiser's Edge (Tech skill type: Customer relationship management CRM software)
+- Blackboard software (Tech skill type: Data base user interface and query software)
+- BMC Software Change Manager (Tech skill type: Data base management system software)
+- BMC Software Control-M (Tech skill type: Enterprise application integration software)
+- BMC Software Recovery Manager RMAN (Tech skill type: Backup or archival software)
+- C (Tech skill type: Development environment software)
+- C shell (Tech skill type: Operating system software)
+- C# (Tech skill type: Object or component oriented development software)
+- C++ (Tech skill type: Object or component oriented development software)
+- CA Easytrieve Report Generator (Tech skill type: Manufacturing execution system MES software)
+- CA IDMS (Tech skill type: Data base management system software)
+- CA Technologies ERWin Data Modeler (Tech skill type: Metadata management software)
+- Cascading style sheets CSS (Tech skill type: Web platform development software)
+- Catalog navigation software (Tech skill type: Data base management system software)
+- Chef (Tech skill type: Configuration management software)
+- Cisco IOS (Tech skill type: Operating system software)
+- Cisco Webex (Tech skill type: Video conferencing software)
+- Citrix cloud computing software (Tech skill type: Access software)
+- Cloudera Impala (Tech skill type: Data base user interface and query software)
+- CloverETL (Tech skill type: Development environment software)
+- Cluster server software (Tech skill type: Clustering software)
+- Coglin Mill RODIN (Tech skill type: Metadata management software)
+- Common business oriented language COBOL (Tech skill type: Development environment software)
+- Computer Associates Log Analyzer (Tech skill type: Program testing software)
+- Concurrency control software (Tech skill type: Data base management system software)
+- Couchbase Server (Tech skill type: Data base management system software)
+- Customer information control system CICS (Tech skill type: Transaction server software)
+- Data definition language DDL (Tech skill type: Data base management system software)
+- Data dictionary software (Tech skill type: Metadata management software)
+- Data manipulation language DML (Tech skill type: Data base management system software)
+- Data mapping software (Tech skill type: Metadata management software)
+- Data modeling software (Tech skill type: Metadata management software)
+- Data Recovery Software SQL Server Data Recovery (Tech skill type: Backup or archival software)
+- Data transformation services DTS software (Tech skill type: Data base management system software)
+- Data validation software (Tech skill type: Information retrieval or search software)
+- Database capacity planning software (Tech skill type: Requirements analysis and system architecture software)
+- Database cloning software (Tech skill type: Backup or archival software)
+- Database design software (Tech skill type: Data base management system software)
+- Database management systems (Tech skill type: Data base management system software)
+- Database security software (Tech skill type: Network security or virtual private network VPN management software)
+- Database testing software (Tech skill type: Program testing software)
+- Deployment software (Tech skill type: Configuration management software)
+- Django (Tech skill type: Web platform development software)
+- Docker (Tech skill type: Application server software)
+- DOS shell script (Tech skill type: Operating system software)
+- Drupal (Tech skill type: Web platform development software)
+- Dynamic hypertext markup language DHTML (Tech skill type: Web platform development software)
+- Eclipse IDE (Tech skill type: Development environment software)
+- Elasticsearch (Tech skill type: Data base management system software)
+- Ellucian Banner ERP (Tech skill type: Enterprise resource planning ERP software)
+- Embarcadero Technologies DBArtisan (Tech skill type: Data base management system software)
+- EMC NetWorker (Tech skill type: Backup or archival software)
+- Encryption software (Tech skill type: Transaction security and virus protection software)
+- Enterprise JavaBeans (Tech skill type: Web platform development software)
+- Epic Systems (Tech skill type: Medical software)
+- ESRI ArcGIS software (Tech skill type: Geographic information system)
+- Ext JS (Tech skill type: Web platform development software)
+- Extensible hypertext markup language XHTML (Tech skill type: Web platform development software)
+- Extensible markup language XML (Tech skill type: Enterprise application integration software)
+- FileMaker Pro (Tech skill type: Data base user interface and query software)
+- Flat File Checker (Tech skill type: Metadata management software)
+- Geographic information system GIS software (Tech skill type: Geographic information system)
+- Git (Tech skill type: File versioning software)
+- GitHub (Tech skill type: Application server software)
+- Go (Tech skill type: Development environment software)
+- Google Analytics (Tech skill type: Data mining software)
+- Google Angular (Tech skill type: Web platform development software)
+- Google Docs (Tech skill type: Word processing software)
+- Google Drive (Tech skill type: Cloud-based data access and sharing software)
+- Google Meet (Tech skill type: Video conferencing software)
+- Google Sites (Tech skill type: Web page creation and editing software)
+- Greenplum Database (Tech skill type: Data base management system software)
+- Hewlett Packard HP-UX (Tech skill type: Operating system software)
+- Hewlett Packard LoadRunner (Tech skill type: Program testing software)
+- Hibernate ORM (Tech skill type: Object oriented data base management software)
+- HiT Software Allora (Tech skill type: Metadata management software)
+- HP DataProtector (Tech skill type: Backup or archival software)
+- Hypertext markup language HTML (Tech skill type: Web platform development software)
+- IBM ADSTAR (Tech skill type: Backup or archival software)
+- IBM AIX (Tech skill type: Operating system software)
+- IBM Cognos Impromptu (Tech skill type: Business intelligence and data analysis software)
+- IBM Content Manager (Tech skill type: Document management software)
+- IBM DB2 (Tech skill type: Data base user interface and query software)
+- IBM Domino (Tech skill type: Communications server software)
+- IBM Informix (Tech skill type: Object oriented data base management software)
+- IBM InfoSphere DataStage (Tech skill type: Enterprise application integration software)
+- IBM InfoSphere Warehouse (Tech skill type: Data mining software)
+- IBM Interactive System Productivity Facility ISPF (Tech skill type: Data base management system software)
+- IBM Notes (Tech skill type: Electronic mail software)
+- IBM Power Systems software (Tech skill type: Enterprise system management software)
+- IBM Rational Data Architect (Tech skill type: Metadata management software)
+- IBM Rational System Architect (Tech skill type: Metadata management software)
+- IBM SPSS Statistics (Tech skill type: Analytical or scientific software)
+- IBM WebSphere (Tech skill type: Cloud-based management software)
+- Index tuning software (Tech skill type: Data base management system software)
+- Infobright Community Edition ICE (Tech skill type: Analytical or scientific software)
+- Informatica Big Data (Tech skill type: Data base management system software)
+- Informatica Corporation PowerCenter (Tech skill type: Enterprise resource planning ERP software)
+- Informatica PowerCenter (Tech skill type: Metadata management software)
+- Informatica software (Tech skill type: Metadata management software)
+- Integrated development environment IDE software (Tech skill type: Development environment software)
+- Intel Data Migration Software (Tech skill type: Storage media loading software)
+- Interface Computers Data Loader (Tech skill type: Metadata management software)
+- JavaScript (Tech skill type: Web platform development software)
+- JavaScript Object Notation JSON (Tech skill type: Web platform development software)
+- Jitterbit (Tech skill type: Cloud-based management software)
+- Job control language JCL (Tech skill type: Operating system software)
+- jQuery (Tech skill type: Object or component oriented development software)
+- JUnit (Tech skill type: Program testing software)
+- Jupyter Notebook (Tech skill type: Object or component oriented development software)
+- KornShell (Tech skill type: Operating system software)
+- LAMP Stack (Tech skill type: Web platform development software)
+- LexisNexis (Tech skill type: Information retrieval or search software)
+- Linux (Tech skill type: Operating system software)
+- LogMeIn GoToMeeting (Tech skill type: Video conferencing software)
+- LogMeIn GoToWebinar (Tech skill type: Network conferencing software)
+- MapR Converged Data Platform (Tech skill type: Data base management system software)
+- MariaDB (Tech skill type: Data base management system software)
+- McAfee (Tech skill type: Transaction security and virus protection software)
+- Micosoft SQL Server Analysis Services SSAS (Tech skill type: Business intelligence and data analysis software)
+- Microsoft .NET Framework (Tech skill type: Development environment software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Active Server Pages ASP (Tech skill type: Web platform development software)
+- Microsoft ActiveX (Tech skill type: Object or component oriented development software)
+- Microsoft ASP.NET (Tech skill type: Web platform development software)
+- Microsoft ASP.NET Core MVC (Tech skill type: Web platform development software)
+- Microsoft Azure software (Tech skill type: Development environment software)
+- Microsoft Dynamics (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Dynamics GP (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Exchange (Tech skill type: Electronic mail software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Power BI (Tech skill type: Business intelligence and data analysis software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft PowerShell (Tech skill type: Development environment software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft Publisher (Tech skill type: Desktop publishing software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft SQL Server (Tech skill type: Data base user interface and query software)
+- Microsoft SQL Server Integration Services SSIS (Tech skill type: Enterprise application integration software)
+- Microsoft SQL Server Reporting Services SSRS (Tech skill type: Data base reporting software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Visual Basic (Tech skill type: Development environment software)
+- Microsoft Visual Basic for Applications VBA (Tech skill type: Development environment software)
+- Microsoft Visual Basic Scripting Edition VBScript (Tech skill type: Development environment software)
+- Microsoft Visual Basic.NET (Tech skill type: Object or component oriented development software)
+- Microsoft Visual C# .NET (Tech skill type: Object or component oriented development software)
+- Microsoft Visual Studio (Tech skill type: Development environment software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Windows Server (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- MicroStrategy (Tech skill type: Business intelligence and data analysis software)
+- Minitab (Tech skill type: Analytical or scientific software)
+- MongoDB (Tech skill type: Data base management system software)
+- Multidimensional Expressions MDX (Tech skill type: Data base management system software)
+- MySQL (Tech skill type: Data base management system software)
+- Nagios (Tech skill type: Network monitoring software)
+- Nearpod (Tech skill type: Multi-media educational software)
+- NetSuite ERP (Tech skill type: Enterprise resource planning ERP software)
+- Node.js (Tech skill type: Web platform development software)
+- NortonLifeLock cybersecurity software (Tech skill type: Transaction security and virus protection software)
+- NoSQL (Tech skill type: Data base management system software)
+- Object database management system ODBMS (Tech skill type: Object oriented data base management software)
+- Operating system software (Tech skill type: Operating system software)
+- Oracle Application Express APEX (Tech skill type: Web platform development software)
+- Oracle Application Server (Tech skill type: Application server software)
+- Oracle Business Intelligence Enterprise Edition (Tech skill type: Business intelligence and data analysis software)
+- Oracle Data Guard (Tech skill type: Backup or archival software)
+- Oracle Data Integrator (Tech skill type: Enterprise application integration software)
+- Oracle Database (Tech skill type: Data base user interface and query software)
+- Oracle Designer (Tech skill type: Web platform development software)
+- Oracle Eloqua (Tech skill type: Customer relationship management CRM software)
+- Oracle Enterprise Manager (Tech skill type: Data base management system software)
+- Oracle Enterprise Manager Cloud Control (Tech skill type: Data base management system software)
+- Oracle Fusion Applications (Tech skill type: Enterprise resource planning ERP software)
+- Oracle Fusion Middleware (Tech skill type: Enterprise application integration software)
+- Oracle Golden Gate (Tech skill type: Data base management system software)
+- Oracle Hyperion (Tech skill type: Enterprise resource planning ERP software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- Oracle JavaServer Pages JSP (Tech skill type: Web platform development software)
+- Oracle JD Edwards EnterpriseOne (Tech skill type: Enterprise resource planning ERP software)
+- Oracle JDBC (Tech skill type: Data base user interface and query software)
+- Oracle Jdeveloper (Tech skill type: Development environment software)
+- Oracle Migration Workbench (Tech skill type: Data base management system software)
+- Oracle PeopleSoft (Tech skill type: Enterprise resource planning ERP software)
+- Oracle PeopleSoft Financials (Tech skill type: Enterprise resource planning ERP software)
+- Oracle PL/SQL (Tech skill type: Data base management system software)
+- Oracle Primavera Enterprise Project Portfolio Management (Tech skill type: Project management software)
+- Oracle Real Application Cluster RAC (Tech skill type: Clustering software)
+- Oracle Recovery Manager (Tech skill type: Backup or archival software)
+- Oracle Reports (Tech skill type: Data base reporting software)
+- Oracle Solaris (Tech skill type: Operating system software)
+- Oracle SQL Developer (Tech skill type: Development environment software)
+- Oracle SQL Loader (Tech skill type: Data base reporting software)
+- Oracle SQL Plus (Tech skill type: Data base reporting software)
+- Oracle WebLogic Server (Tech skill type: Application server software)
+- Pentaho Kettle (Tech skill type: Metadata management software)
+- Perforce Helix software (Tech skill type: Configuration management software)
+- Perl (Tech skill type: Object or component oriented development software)
+- Perl shell (Tech skill type: Operating system software)
+- PHP (Tech skill type: Web platform development software)
+- PostgreSQL (Tech skill type: Object oriented data base management software)
+- Prolog (Tech skill type: Development environment software)
+- Puppet (Tech skill type: Configuration management software)
+- Python (Tech skill type: Object or component oriented development software)
+- Qlik Tech QlikView (Tech skill type: Business intelligence and data analysis software)
+- Quest Central (Tech skill type: Data base management system software)
+- Quest Erwin Data Modeler (Tech skill type: Metadata management software)
+- Quest SharePlex (Tech skill type: Data base management system software)
+- Quest SQL Optimizer for Oracle (Tech skill type: Development environment software)
+- R (Tech skill type: Object or component oriented development software)
+- Rapid-I RapidMiner (Tech skill type: Data mining software)
+- React (Tech skill type: Web platform development software)
+- ReCrystallize Crystal Reports (Tech skill type: Data base reporting software)
+- Red Hat Ansible Engine (Tech skill type: Configuration management software)
+- Red Hat Enterprise Linux (Tech skill type: Operating system software)
+- Red Hat OpenShift (Tech skill type: Application server software)
+- Red Hat WildFly (Tech skill type: Application server software)
+- Redgate SQL Server (Tech skill type: Administration software)
+- Relational database management software (Tech skill type: Data base management system software)
+- Relational database management system software (Tech skill type: Data base management system software)
+- Restructured extended executor REXX (Tech skill type: Development environment software)
+- Ruby (Tech skill type: Development environment software)
+- Ruby on Rails (Tech skill type: Web platform development software)
+- Safe Software FME (Tech skill type: Analytical or scientific software)
+- Salesforce software (Tech skill type: Customer relationship management CRM software)
+- SAP Adaptive Server Enterprise (Tech skill type: Data base management system software)
+- SAP Business Objects (Tech skill type: Enterprise resource planning ERP software)
+- SAP Crystal Reports (Tech skill type: Data base reporting software)
+- SAP PowerBuilder (Tech skill type: Object or component oriented development software)
+- SAP PowerDesigner (Tech skill type: Metadata management software)
+- SAP Replication Server (Tech skill type: Data base management system software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- SAS (Tech skill type: Analytical or scientific software)
+- SAS Data Integration Studio (Tech skill type: Enterprise application integration software)
+- Scala (Tech skill type: Object or component oriented development software)
+- Scriptella (Tech skill type: Metadata management software)
+- Selenium (Tech skill type: Program testing software)
+- SentryOne SQL Sentry (Tech skill type: Data base management system software)
+- Shell script (Tech skill type: Operating system software)
+- Skype (Tech skill type: Desktop communications software)
+- SMSi Twister Data Integrator (Tech skill type: Enterprise application integration software)
+- SolarWinds (Tech skill type: Cloud-based protection or security software)
+- Splunk Enterprise (Tech skill type: Cloud-based management software)
+- Spring Boot (Tech skill type: Application server software)
+- Spring Framework (Tech skill type: Web platform development software)
+- StataCorp Stata (Tech skill type: Analytical or scientific software)
+- Storage area network SAN software (Tech skill type: Storage networking software)
+- Storage management software (Tech skill type: Backup or archival software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Swift (Tech skill type: Object or component oriented development software)
+- Systems and data disaster recovery software (Tech skill type: Backup or archival software)
+- Tableau (Tech skill type: Business intelligence and data analysis software)
+- Talend Big Data Integration (Tech skill type: Data base management system software)
+- Talend Data Fabric (Tech skill type: Metadata management software)
+- Talend Open Studio (Tech skill type: Enterprise application integration software)
+- Teradata Active Enterprise Data Warehouse (Tech skill type: Data base user interface and query software)
+- Teradata Database (Tech skill type: Data base management system software)
+- Test data generator software (Tech skill type: Analytical or scientific software)
+- The MathWorks MATLAB (Tech skill type: Analytical or scientific software)
+- Transact-SQL (Tech skill type: Data base user interface and query software)
+- Ubuntu (Tech skill type: Operating system software)
+- Unified modeling language UML (Tech skill type: Requirements analysis and system architecture software)
+- UNIX (Tech skill type: Operating system software)
+- UNIX Shell (Tech skill type: Operating system software)
+- Veritas NetBackup (Tech skill type: Backup or archival software)
+- Virtual private networking VPN software (Tech skill type: Network security and virtual private network VPN equipment software)
+- Visual Paradigm DB Visual ARCHITECT (Tech skill type: Process mapping and design software)
+- VMware (Tech skill type: Clustering software)
+- Wireshark (Tech skill type: Network monitoring software)
+- WisdomForce DatabaseSync System (Tech skill type: Metadata management software)
+- Zabbix (Tech skill type: Network monitoring software)
+
+## TOOLS USED
+- Copy machines (Tool type: Photocopiers)
+- Desktop computers (Tool type: Desktop computers)
+- Hard disk drives (Tool type: Hard disk drives)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Load balancers (Tool type: Server load balancer)
+- Mainframe computers (Tool type: Mainframe computers)
+- Notebook computers (Tool type: Notebook computers)
+- Personal computers (Tool type: Personal computers)
+- Redundant array of independent disks RAID systems (Tool type: Hard disk arrays)
+- Tape libraries (Tool type: Tape arrays)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Serious
+- Contact With Others: Contact with others most of the time
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Fairly important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Moderately automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Never
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Once a week or more but not every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Once a year or more but not every month
+- Health and Safety of Other Workers: No responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Extremely important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Highly competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Slightly close (e.g., shared office)
+- Public Speaking: Once a year or more but not every month
+- Spend Time Bending or Twisting Your Body: Never
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Never
+- Spend Time Sitting: Continually or almost continually
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Never
+- Spend Time Walking or Running: Never
+- Telephone Conversations: Once a week or more but not every day
+- Time Pressure: Once a week or more but not every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Never
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Moderate responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a week or more but not every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Conventional
+- Secondary Interest: Investigative
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Software Developers
+- Database Administrators
+- Data Warehousing Specialists
+- Computer Systems Engineers/Architects
+- Computer Systems Analysts
+- Blockchain Engineers
+- Information Security Engineers
+- Data Scientists
+- Network and Computer Systems Administrators
+- Software Quality Assurance Analysts and Testers
+- Computer Programmers
+- Computer Network Architects
+- Web and Digital Interface Designers
+- Computer and Information Systems Managers
+- Computer Hardware Engineers
+- Project Management Specialists
+- Document Management Specialists
+- Geographic Information Systems Technologists and Technicians
+- Web Developers
+- Operations Research Analysts

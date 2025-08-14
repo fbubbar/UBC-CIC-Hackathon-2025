@@ -1,0 +1,346 @@
+Job Title: Forest and Conservation Technicians
+O*NET-SOC Code: 19-4071.00
+
+# DESCRIPTION
+Provide technical assistance regarding the conservation of soil, water, forests, or related natural resources. May compile data pertaining to size, content, condition, and other characteristics of forest tracts under the direction of foresters, or train and lead forest workers in forest propagation and fire prevention and suppression. May assist conservation scientists in managing, improving, and protecting rangelands and wildlife habitats.
+
+# TASKS
+- Thin and space trees and control weeds and undergrowth, using manual tools and chemicals, or supervise workers performing these tasks.
+- Train and lead forest and conservation workers in seasonal activities, such as planting tree seedlings, putting out forest fires, and maintaining recreational facilities.
+- Provide information about, and enforce, regulations, such as those concerning environmental protection, resource utilization, fire safety, and accident prevention.
+- Patrol park or forest areas to protect resources and prevent damage.
+- Map forest tract data using digital mapping systems.
+- Keep records of the amount and condition of logs taken to mills.
+- Manage forest protection activities, including fire control, fire crew training, and coordination of fire detection and public education programs.
+- Monitor activities of logging companies and contractors.
+- Perform reforestation or forest renewal, including nursery and silviculture operations, site preparation, seeding and tree planting programs, cone collection, and tree improvement.
+- Plan and supervise construction of access routes and forest roads.
+- Select and mark trees for thinning or logging, drawing detailed plans that include access roads.
+- Supervise forest nursery operations, timber harvesting, land use activities such as livestock grazing, and disease or insect control programs.
+- Develop and maintain computer databases.
+- Inspect trees and collect samples of plants, seeds, foliage, bark, and roots to locate insect and disease damage.
+- Measure distances, clean sightlines, and record data to help survey crews.
+- Issue fire permits, timber permits, and other forest use licenses.
+- Survey, measure, and map access roads and forest areas such as burns, cut-over areas, experimental plots, and timber sales sections.
+- Provide forestry education and general information, advice, and recommendations to woodlot owners, community organizations, and the general public.
+- Provide technical support to forestry research programs in areas such as tree improvement, seed orchard operations, insect and disease surveys, or experimental forestry and forest engineering research.
+- Conduct laboratory or field experiments with plants, animals, insects, diseases, and soils.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Public Safety and Security (Importance: 3.79/5 | Level: 3.67/7)
+- English Language (Importance: 3.69/5 | Level: 3.91/7)
+- Customer and Personal Service (Importance: 3.52/5 | Level: 3.97/7)
+- Law and Government (Importance: 3.44/5 | Level: 3.28/7)
+- Administration and Management (Importance: 3.35/5 | Level: 3.31/7)
+- Geography (Importance: 3.35/5 | Level: 4.12/7)
+- Mathematics (Importance: 3.28/5 | Level: 3.8/7)
+- Education and Training (Importance: 3.26/5 | Level: 3.43/7)
+- Biology (Importance: 3.25/5 | Level: 3.38/7)
+- Mechanical (Importance: 3.24/5 | Level: 3.41/7)
+- Computers and Electronics (Importance: 3.07/5 | Level: 3.62/7)
+- Personnel and Human Resources (Importance: 3.06/5 | Level: 3.04/7)
+- Production and Processing (Importance: 2.85/5 | Level: 2.45/7)
+- Communications and Media (Importance: 2.85/5 | Level: 2.71/7)
+- Telecommunications (Importance: 2.73/5 | Level: 2.06/7)
+- History and Archeology (Importance: 2.66/5 | Level: 2.65/7)
+- Engineering and Technology (Importance: 2.65/5 | Level: 3.14/7)
+- Psychology (Importance: 2.62/5 | Level: 2.13/7)
+- Transportation (Importance: 2.62/5 | Level: 2.51/7)
+- Administrative (Importance: 2.58/5 | Level: 3.01/7)
+- Physics (Importance: 2.58/5 | Level: 2.46/7)
+- Design (Importance: 2.57/5 | Level: 2.87/7)
+- Chemistry (Importance: 2.41/5 | Level: 2.89/7)
+- Building and Construction (Importance: 2.36/5 | Level: 2.49/7)
+- Economics and Accounting (Importance: 2.32/5 | Level: 1.82/7)
+- Sociology and Anthropology (Importance: 2.07/5 | Level: 1.52/7)
+- Sales and Marketing (Importance: 1.87/5 | Level: 1.88/7)
+- Food Production (Importance: 1.81/5 | Level: 1.3/7)
+- Foreign Language (Importance: 1.69/5 | Level: 0.97/7)
+- Therapy and Counseling (Importance: 1.69/5 | Level: 1.46/7)
+- Medicine and Dentistry (Importance: 1.65/5 | Level: 1.0/7)
+- Philosophy and Theology (Importance: 1.57/5 | Level: 1.27/7)
+- Fine Arts (Importance: 1.13/5 | Level: 0.35/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Critical Thinking (Importance: 3.75/5 | Level: 3.38/7)
+- Active Listening (Importance: 3.75/5 | Level: 3.75/7)
+- Reading Comprehension (Importance: 3.38/5 | Level: 3.75/7)
+- Time Management (Importance: 3.25/5 | Level: 3.25/7)
+- Speaking (Importance: 3.25/5 | Level: 3.5/7)
+- Judgment and Decision Making (Importance: 3.25/5 | Level: 3.38/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.62/7)
+- Coordination (Importance: 3.12/5 | Level: 3.25/7)
+- Social Perceptiveness (Importance: 3.12/5 | Level: 3.12/7)
+- Instructing (Importance: 3.12/5 | Level: 3.0/7)
+- Active Learning (Importance: 3.0/5 | Level: 3.0/7)
+- Systems Analysis (Importance: 3.0/5 | Level: 3.0/7)
+- Service Orientation (Importance: 3.0/5 | Level: 2.88/7)
+- Writing (Importance: 3.0/5 | Level: 3.12/7)
+- Complex Problem Solving (Importance: 3.0/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 3.0/7)
+- Management of Personnel Resources (Importance: 2.88/5 | Level: 3.12/7)
+- Operations Monitoring (Importance: 2.88/5 | Level: 2.88/7)
+- Persuasion (Importance: 2.88/5 | Level: 3.12/7)
+- Mathematics (Importance: 2.75/5 | Level: 2.75/7)
+- Systems Evaluation (Importance: 2.75/5 | Level: 3.0/7)
+- Science (Importance: 2.75/5 | Level: 2.25/7)
+- Operation and Control (Importance: 2.75/5 | Level: 2.88/7)
+- Quality Control Analysis (Importance: 2.62/5 | Level: 2.75/7)
+- Negotiation (Importance: 2.25/5 | Level: 2.38/7)
+- Equipment Selection (Importance: 2.12/5 | Level: 1.88/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.38/7)
+- Programming (Importance: 2.0/5 | Level: 1.62/7)
+- Equipment Maintenance (Importance: 2.0/5 | Level: 1.88/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.75/7)
+- Technology Design (Importance: 2.0/5 | Level: 1.12/7)
+- Troubleshooting (Importance: 2.0/5 | Level: 2.0/7)
+- Repairing (Importance: 2.0/5 | Level: 1.88/7)
+- Operations Analysis (Importance: 1.88/5 | Level: 1.12/7)
+- Installation (Importance: 1.25/5 | Level: 0.25/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Allegro Landmark (Tech skill type: Map creation software)
+- Assisi Compiler (Tech skill type: Data base user interface and query software)
+- Assisi Forest (Tech skill type: Analytical or scientific software)
+- Assisi Inventory (Tech skill type: Inventory management software)
+- Atterbury Consultants SuperAce (Tech skill type: Data base user interface and query software)
+- Autodesk AutoCAD LT (Tech skill type: Computer aided design CAD software)
+- Ben Meadows Yeoman Expedition (Tech skill type: Map creation software)
+- Computer aided design CAD software (Tech skill type: Computer aided design CAD software)
+- Computer graphics software (Tech skill type: Graphics or photo imaging software)
+- Corel Presentation (Tech skill type: Presentation software)
+- Database software (Tech skill type: Data base user interface and query software)
+- Desktop publishing software (Tech skill type: Desktop publishing software)
+- ESRI ArcGIS software (Tech skill type: Geographic information system)
+- ESRI ArcView (Tech skill type: Geographic information system)
+- Facebook (Tech skill type: Web page creation and editing software)
+- Fire behavior modeling software (Tech skill type: Analytical or scientific software)
+- Forest EcoSurvey (Tech skill type: Data base user interface and query software)
+- Geographic information system GIS systems (Tech skill type: Geographic information system)
+- Geomechanical design analysis GDA software (Tech skill type: Map creation software)
+- Haglof Sweden AB TCruise Forest Inventory (Tech skill type: Inventory management software)
+- HARVEST (Tech skill type: Analytical or scientific software)
+- JRP Consulting Plant Wizard (Tech skill type: Data base user interface and query software)
+- JRP Consulting Survey Wizard (Tech skill type: Data base user interface and query software)
+- Leica Geosystems ERDAS IMAGINE (Tech skill type: Map creation software)
+- LJI Technologies Lumberjack (Tech skill type: Data base user interface and query software)
+- LoggerPC software (Tech skill type: Analytical or scientific software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Active Server Pages ASP (Tech skill type: Web platform development software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- PhoenixPRO Forest Activity Tracking (Tech skill type: Data base user interface and query software)
+- Photogrammetric software (Tech skill type: Map creation software)
+- Remote sensing software (Tech skill type: Analytical or scientific software)
+- RockWare ArcMap (Tech skill type: Map creation software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- Traverse PC (Tech skill type: Map creation software)
+- USDA Forest Vegetation Simulator FVS (Tech skill type: Analytical or scientific software)
+- Web browser software (Tech skill type: Internet browser software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Aerial bucket trucks (Tool type: Articulating boom lift)
+- Airboats (Tool type: Recreational motorboats)
+- All terrain vehicles ATV (Tool type: All terrain vehicles tracked or wheeled)
+- Altimeters (Tool type: Height gauges)
+- Amphibious excavators (Tool type: Track excavators)
+- Aquatic weed harvesters (Tool type: Dredgers)
+- Axes (Tool type: Axes)
+- Backhoes (Tool type: Backhoes)
+- Basal area factor BAF prisms (Tool type: Prisms)
+- Boats (Tool type: Recreational motorboats)
+- Brush hooks (Tool type: Reforestation equipment)
+- Brush trucks (Tool type: Dump trucks)
+- Bulldozers (Tool type: Wheel bulldozers)
+- Calipers (Tool type: Calipers)
+- Chain saws (Tool type: Power saws)
+- Clearing hooks (Tool type: Lumbering equipment)
+- Clinometers (Tool type: Clinometers)
+- Crown densitometers (Tool type: Geological prospecting apparatus)
+- Desktop computers (Tool type: Desktop computers)
+- Diameter tapes (Tool type: Measuring tapes)
+- Dibblers (Tool type: Dibblers)
+- Digital cameras (Tool type: Digital cameras)
+- Dump trucks (Tool type: Dump trucks)
+- Electronic rain gauges ERR (Tool type: Rainfall recorders)
+- Electroshocking boats (Tool type: Fishing boats)
+- Excavators (Tool type: Track excavators)
+- Farm tractors (Tool type: Agricultural tractors)
+- Fertilizer spreaders (Tool type: Fertilizer spreaders or distributors)
+- Field data recorders (Tool type: Portable data input terminals)
+- Field personal computers PC (Tool type: Portable data input terminals)
+- Fire plows (Tool type: Earthmoving shovels)
+- Forestry rain gauges (Tool type: Rainfall recorders)
+- Forklifts (Tool type: Forklifts)
+- Frame nets (Tool type: Commercial fishing nets)
+- Front end loaders (Tool type: Front end loaders)
+- Geological compasses (Tool type: Geological compasses)
+- Gill nets (Tool type: Commercial fishing nets)
+- Girdling tools (Tool type: Decorticators)
+- Global positioning system GPS data collectors (Tool type: Portable data input terminals)
+- Global positioning system GPS receivers (Tool type: Global positioning system GPS receiver)
+- Grass whips (Tool type: Lumbering equipment)
+- Gunjets for pressurized sprayers (Tool type: Sprayers)
+- Handheld refractometers (Tool type: Handheld refractometers or polarimeters)
+- Harrows (Tool type: Harrows)
+- Hydraulic dredges (Tool type: Dredgers)
+- Hydraulic truck-mounted cranes (Tool type: Hydraulic truck cranes)
+- Hypsometers (Tool type: Rangefinders)
+- Increment borers (Tool type: Forestry increment borers)
+- Laser rangefinders (Tool type: Rangefinders)
+- Laser surveying equipment (Tool type: Lasers)
+- Laser tree measuring devices (Tool type: Laser measuring systems)
+- Lawn mowers (Tool type: Lawnmowers)
+- Leaf area meter scanning instruments (Tool type: Scanners)
+- Loggers' tapes (Tool type: Measuring tapes)
+- Macroalgae harvesters (Tool type: Pisciculture supplies)
+- Magnetic locators (Tool type: Magnetometer geophysical instruments)
+- Mantax computer tree calipers (Tool type: Calipers)
+- McLeod tools (Tool type: Fire suppression hand tools)
+- Measuring wheels (Tool type: Measuring wheels for distance)
+- Metal detectors (Tool type: Metal detectors)
+- Moisture meters (Tool type: Moisture meters)
+- Notebook computers (Tool type: Notebook computers)
+- Personal computers (Tool type: Personal computers)
+- pH meters (Tool type: pH meters)
+- Pickup trucks (Tool type: Light trucks or sport utility vehicles)
+- Planimeters (Tool type: Map measurers)
+- Planters (Tool type: Planters)
+- Plug spades (Tool type: Reforestation equipment)
+- Pocket transits (Tool type: Geological compasses)
+- Prisms (Tool type: Prisms)
+- Pruning saws (Tool type: Forestry saws)
+- Pulaski tools (Tool type: Fire suppression hand tools)
+- Relaskops (Tool type: Height gauges)
+- Remote sensing equipment (Tool type: Radarbased surveillance systems)
+- Remote video cameras (Tool type: Digital camcorders or video cameras)
+- Rubber-tired bulldozers (Tool type: Wheel bulldozers)
+- Seed drills (Tool type: Seed drills)
+- Seines (Tool type: Commercial fishing nets)
+- Shovels (Tool type: Shovels)
+- Slurry buckets (Tool type: Earthmoving buckets or its parts or accessories)
+- Snowplows (Tool type: Snowplow attachments)
+- Soil augers (Tool type: Soil core sampling apparatus)
+- Soil moisture meters (Tool type: Moisture meters)
+- Soil probes (Tool type: Soil core sampling apparatus)
+- Sprayers (Tool type: Sprayers)
+- Stadia rods (Tool type: Measuring rods)
+- Stream flow gauges (Tool type: Open stream current meters)
+- Survey levels (Tool type: Theodolites)
+- Survey transits (Tool type: Theodolites)
+- Tensiometers (Tool type: Tensiometers)
+- Terrain torches (Tool type: Lighters)
+- Theodolites (Tool type: Theodolites)
+- Total stations (Tool type: Theodolites)
+- Track bulldozers (Tool type: Track bulldozers)
+- Trail motorbikes (Tool type: Motorcycles)
+- Trawls (Tool type: Commercial fishing nets)
+- Tree corers (Tool type: Forestry increment borers)
+- Tree planter spades (Tool type: Reforestation equipment)
+- Truck cranes (Tool type: Conventional truck cranes)
+- Truck-mounted water pumps (Tool type: Water pumps)
+- Trucks (Tool type: Light trucks or sport utility vehicles)
+- Tugboats (Tool type: Tug boats)
+- Two way radios (Tool type: Two way radios)
+- Video editing equipment (Tool type: Video editors)
+- Water level recorders (Tool type: Open stream water level recorders)
+- Water monitoring meters (Tool type: Water meters)
+- Water monitoring samplers (Tool type: Water samplers)
+- Water samplers (Tool type: Water samplers)
+- Water trucks (Tool type: Water trucks)
+- Watermark soil moisture data collectors (Tool type: Moisture meters)
+- Wedges (Tool type: Wedges)
+- Wheeler pentaprism calipers (Tool type: Calipers)
+- Wildland fire pumper trucks (Tool type: Fire fighting pump truck)
+- Winch trucks (Tool type: Tow trucks)
+- Winches (Tool type: Winches)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Very serious
+- Contact With Others: Contact with others most of the time
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Moderately automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Once a month or more but not every week
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Once a week or more but not every day
+- Exposed to Hazardous Conditions: Once a year or more but not every month
+- Exposed to Hazardous Equipment: Once a week or more but not every day
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Once a month or more but not every week
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Once a week or more but not every day
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Very important
+- Importance of Repeating Same Tasks: Very important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Once a week or more but not every day
+- In an Open Vehicle or Operating Equipment: Once a month or more but not every week
+- Indoors, Environmentally Controlled: Once a week or more but not every day
+- Indoors, Not Environmentally Controlled: Once a week or more but not every day
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Once a week or more but not every day
+- Outdoors, Under Cover: Once a month or more but not every week
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Slightly close (e.g., shared office)
+- Public Speaking: Once a year or more but not every month
+- Spend Time Bending or Twisting Your Body: About half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Less than half the time
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: More than half the time
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: About half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: More than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Once a month or more but not every week
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: High responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a week or more but not every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Foresters
+- Range Managers
+- Forest and Conservation Workers
+- Conservation Scientists
+- Forest Fire Inspectors and Prevention Specialists
+- First-Line Supervisors of Farming, Fishing, and Forestry Workers
+- Environmental Scientists and Specialists, Including Health
+- Agricultural Technicians
+- Environmental Science and Protection Technicians, Including Health
+- Precision Agriculture Technicians
+- Environmental Restoration Planners
+- Soil and Plant Scientists
+- Agricultural Engineers
+- Industrial Ecologists
+- First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers
+- Environmental Engineering Technologists and Technicians
+- Environmental Compliance Inspectors
+- Occupational Health and Safety Specialists
+- Farmers, Ranchers, and Other Agricultural Managers
+- Water Resource Specialists

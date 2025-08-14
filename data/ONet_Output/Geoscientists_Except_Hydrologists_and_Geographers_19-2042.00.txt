@@ -1,0 +1,496 @@
+Job Title: Geoscientists, Except Hydrologists and Geographers
+O*NET-SOC Code: 19-2042.00
+
+# DESCRIPTION
+Study the composition, structure, and other physical aspects of the Earth. May use geological, physics, and mathematics knowledge in exploration for oil, gas, minerals, or underground water; or in waste disposal, land reclamation, or other environmental problems. May study the Earth's internal composition, atmospheres, and oceans, and its magnetic, electrical, and gravitational forces. Includes mineralogists, paleontologists, stratigraphers, geodesists, and seismologists.
+
+# TASKS
+- Plan or conduct geological, geochemical, or geophysical field studies or surveys, sample collection, or drilling and testing programs used to collect data for research or application.
+- Analyze and interpret geological data, using computer software.
+- Investigate the composition, structure, or history of the Earth's crust through the collection, examination, measurement, or classification of soils, minerals, rocks, or fossil remains.
+- Analyze and interpret geological, geochemical, or geophysical information from sources, such as survey data, well logs, bore holes, or aerial photos.
+- Identify risks for natural disasters, such as mudslides, earthquakes, or volcanic eruptions.
+- Prepare geological maps, cross-sectional diagrams, charts, or reports concerning mineral extraction, land use, or resource management, using results of fieldwork or laboratory research.
+- Communicate geological findings by writing research papers, participating in conferences, or teaching geological science at universities.
+- Locate and estimate probable natural gas, oil, or mineral ore deposits or underground water resources, using aerial photographs, charts, or research or survey results.
+- Advise construction firms or government agencies on dam or road construction, foundation design, land use, or resource management.
+- Measure characteristics of the Earth, such as gravity or magnetic fields, using equipment such as seismographs, gravimeters, torsion balances, or magnetometers.
+- Locate and review research articles or environmental, historical, or technical reports.
+- Conduct geological or geophysical studies to provide information for use in regional development, site selection, or development of public works projects.
+- Review environmental, historical, or technical reports and publications for accuracy.
+- Assess ground or surface water movement to provide advice on issues, such as waste management, route and site selection, or the restoration of contaminated sites.
+- Inspect construction projects to analyze engineering problems, using test equipment or drilling machinery.
+- Provide advice on the safe siting of new nuclear reactor projects or methods of nuclear waste management.
+- Design geological mine maps, monitor mine structural integrity, or advise and monitor mining crews.
+- Review work plans to determine the effectiveness of activities for mitigating soil or groundwater contamination.
+- Test industrial diamonds or abrasives, soil, or rocks to determine their geological characteristics, using optical, x-ray, heat, acid, or precision instruments.
+- Study historical climate change indicators found in locations, such as ice sheets or rock formations to develop climate change models.
+- Develop strategies for more environmentally friendly resource extraction and reclamation.
+- Identify deposits of construction materials suitable for use as concrete aggregates, road fill, or other applications.
+- Identify new sources of platinum group elements for industrial applications, such as automotive fuel cells or pollution abatement systems.
+- Locate potential sources of geothermal energy.
+- Research ways to reduce the ecological footprint of increasingly prevalent megacities.
+- Collaborate with medical or health researchers to address health problems related to geological materials or processes.
+- Determine ways to mitigate the negative consequences of mineral dust dispersion.
+- Identify possible sites for carbon sequestration projects.
+- Develop ways to capture or use gases burned off as waste during oil production processes.
+- Research geomechanical or geochemical processes to be used in carbon sequestration projects.
+- Develop applied software for the analysis and interpretation of geological data.
+- Determine methods to incorporate geomethane or methane hydrates into global energy production or evaluate the potential environmental impacts of such incorporation.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Geography (Importance: 4.0/5 | Level: 5.78/7)
+- Mathematics (Importance: 3.83/5 | Level: 4.81/7)
+- English Language (Importance: 3.83/5 | Level: 4.5/7)
+- Chemistry (Importance: 3.8/5 | Level: 4.47/7)
+- Physics (Importance: 3.65/5 | Level: 4.22/7)
+- Computers and Electronics (Importance: 3.57/5 | Level: 4.72/7)
+- Education and Training (Importance: 3.23/5 | Level: 4.31/7)
+- Engineering and Technology (Importance: 3.23/5 | Level: 3.84/7)
+- Biology (Importance: 2.94/5 | Level: 3.75/7)
+- Law and Government (Importance: 2.87/5 | Level: 3.29/7)
+- Administration and Management (Importance: 2.77/5 | Level: 3.69/7)
+- Public Safety and Security (Importance: 2.55/5 | Level: 2.59/7)
+- Communications and Media (Importance: 2.48/5 | Level: 2.78/7)
+- Customer and Personal Service (Importance: 2.42/5 | Level: 2.94/7)
+- Administrative (Importance: 2.42/5 | Level: 3.47/7)
+- History and Archeology (Importance: 2.32/5 | Level: 3.44/7)
+- Economics and Accounting (Importance: 2.29/5 | Level: 2.22/7)
+- Personnel and Human Resources (Importance: 2.26/5 | Level: 2.97/7)
+- Mechanical (Importance: 2.19/5 | Level: 2.56/7)
+- Design (Importance: 2.16/5 | Level: 2.65/7)
+- Foreign Language (Importance: 2.13/5 | Level: 2.41/7)
+- Transportation (Importance: 2.0/5 | Level: 2.0/7)
+- Telecommunications (Importance: 1.9/5 | Level: 1.59/7)
+- Sales and Marketing (Importance: 1.81/5 | Level: 1.94/7)
+- Building and Construction (Importance: 1.71/5 | Level: 1.66/7)
+- Psychology (Importance: 1.71/5 | Level: 1.5/7)
+- Sociology and Anthropology (Importance: 1.61/5 | Level: 1.66/7)
+- Production and Processing (Importance: 1.58/5 | Level: 1.38/7)
+- Philosophy and Theology (Importance: 1.48/5 | Level: 1.25/7)
+- Therapy and Counseling (Importance: 1.26/5 | Level: 0.59/7)
+- Medicine and Dentistry (Importance: 1.23/5 | Level: 0.53/7)
+- Fine Arts (Importance: 1.23/5 | Level: 0.32/7)
+- Food Production (Importance: 1.16/5 | Level: 0.34/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Reading Comprehension (Importance: 4.12/5 | Level: 4.88/7)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.25/7)
+- Speaking (Importance: 4.0/5 | Level: 4.38/7)
+- Science (Importance: 4.0/5 | Level: 4.62/7)
+- Writing (Importance: 3.88/5 | Level: 4.62/7)
+- Complex Problem Solving (Importance: 3.88/5 | Level: 4.12/7)
+- Judgment and Decision Making (Importance: 3.88/5 | Level: 4.0/7)
+- Active Listening (Importance: 3.88/5 | Level: 4.25/7)
+- Mathematics (Importance: 3.38/5 | Level: 4.12/7)
+- Systems Evaluation (Importance: 3.25/5 | Level: 3.38/7)
+- Systems Analysis (Importance: 3.25/5 | Level: 3.5/7)
+- Active Learning (Importance: 3.25/5 | Level: 3.75/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.38/7)
+- Learning Strategies (Importance: 3.12/5 | Level: 3.12/7)
+- Coordination (Importance: 3.12/5 | Level: 3.25/7)
+- Instructing (Importance: 3.0/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 3.12/7)
+- Time Management (Importance: 2.88/5 | Level: 2.88/7)
+- Persuasion (Importance: 2.88/5 | Level: 2.88/7)
+- Management of Personnel Resources (Importance: 2.62/5 | Level: 2.62/7)
+- Negotiation (Importance: 2.62/5 | Level: 2.62/7)
+- Operations Analysis (Importance: 2.62/5 | Level: 3.12/7)
+- Service Orientation (Importance: 2.62/5 | Level: 2.5/7)
+- Operation and Control (Importance: 2.0/5 | Level: 1.75/7)
+- Quality Control Analysis (Importance: 2.0/5 | Level: 2.0/7)
+- Programming (Importance: 2.0/5 | Level: 1.62/7)
+- Operations Monitoring (Importance: 2.0/5 | Level: 1.88/7)
+- Equipment Selection (Importance: 1.75/5 | Level: 1.12/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 1.12/7)
+- Technology Design (Importance: 1.62/5 | Level: 0.75/7)
+- Management of Material Resources (Importance: 1.62/5 | Level: 0.75/7)
+- Troubleshooting (Importance: 1.5/5 | Level: 0.62/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- ACD Systems Canvas (Tech skill type: Graphics or photo imaging software)
+- Adobe Acrobat (Tech skill type: Document management software)
+- Adobe Photoshop (Tech skill type: Graphics or photo imaging software)
+- Alara CRystalView (Tech skill type: Analytical or scientific software)
+- Aquifer test software (Tech skill type: Analytical or scientific software)
+- Atoll GeoCAD (Tech skill type: Computer aided design CAD software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Bentley Systems gINT (Tech skill type: Analytical or scientific software)
+- Bilko (Tech skill type: Analytical or scientific software)
+- BOSS Didger (Tech skill type: Data conversion software)
+- ChemStat (Tech skill type: Analytical or scientific software)
+- Clover Technology GALENA (Tech skill type: Analytical or scientific software)
+- Compass software (Tech skill type: Analytical or scientific software)
+- CrystalMaker (Tech skill type: Analytical or scientific software)
+- Data logger software (Tech skill type: Analytical or scientific software)
+- Data mining software (Tech skill type: Analytical or scientific software)
+- EarthSoft EQuIS Geology (Tech skill type: Data base user interface and query software)
+- EarthWorks Downhole Explorer (Tech skill type: Analytical or scientific software)
+- Earthworks MaxiPit (Tech skill type: Analytical or scientific software)
+- EasySolve Software SizePerm (Tech skill type: Analytical or scientific software)
+- Email software (Tech skill type: Electronic mail software)
+- Enigma software (Tech skill type: Analytical or scientific software)
+- EPIC GIS (Tech skill type: Analytical or scientific software)
+- ERDAS ER Mapper (Tech skill type: Map creation software)
+- ESRI ArcGIS software (Tech skill type: Geographic information system)
+- ESRI ArcIMS (Tech skill type: Geographic information system)
+- ESRI ArcInfo (Tech skill type: Geographic information system)
+- ESRI ArcView (Tech skill type: Geographic information system)
+- Evolution Computing EasyCAD (Tech skill type: Computer aided design CAD software)
+- Evolution Computing FastCAD (Tech skill type: Computer aided design CAD software)
+- Field data recorder software (Tech skill type: Analytical or scientific software)
+- Gemcom GEMS (Tech skill type: Analytical or scientific software)
+- Gemcom Surpac (Tech skill type: Analytical or scientific software)
+- Geo-Logic Systems LithoTect Interpreter (Tech skill type: Analytical or scientific software)
+- Geographic information system GIS software (Tech skill type: Geographic information system)
+- Geographic information system GIS systems (Tech skill type: Geographic information system)
+- Geographic resources analysis support system GRASS (Tech skill type: Map creation software)
+- Geomechanical design analysis GDA software (Tech skill type: Map creation software)
+- GeoModel (Tech skill type: Analytical or scientific software)
+- GeoPLUS Petra (Tech skill type: Data base user interface and query software)
+- Geosoft DAP server (Tech skill type: Data base user interface and query software)
+- Geosoft Oasis montaj (Tech skill type: Map creation software)
+- Geospatial data abstraction library GDAL (Tech skill type: Map creation software)
+- Geostatistical modeling GSTAT software (Tech skill type: Analytical or scientific software)
+- Geostatistics software GS+ (Tech skill type: Analytical or scientific software)
+- Git (Tech skill type: File versioning software)
+- Golden Software Surfer (Tech skill type: Map creation software)
+- Gresens 92 (Tech skill type: Analytical or scientific software)
+- Groundwater modeling system GMS (Tech skill type: Analytical or scientific software)
+- Groundwater Vistas (Tech skill type: Analytical or scientific software)
+- Hydrogeology Basin2 (Tech skill type: Analytical or scientific software)
+- HydroSOLVE AQTESOLV (Tech skill type: Analytical or scientific software)
+- IHS Energy PowerTools (Tech skill type: Analytical or scientific software)
+- Intergraph ImageStation Stereo Softcopy Kit SSK (Tech skill type: Map creation software)
+- Internet browser software (Tech skill type: Internet browser software)
+- Interpex IXID (Tech skill type: Analytical or scientific software)
+- IRIS Seismic Processing Workshop (Tech skill type: Analytical or scientific software)
+- Laboratory information management system LIMS (Tech skill type: Analytical or scientific software)
+- Landmark Graphics GeoGraphix (Tech skill type: Analytical or scientific software)
+- Landmark VIP (Tech skill type: Analytical or scientific software)
+- Leica Geosystems ERDAS IMAGINE (Tech skill type: Map creation software)
+- MapInfo Professional (Tech skill type: Map creation software)
+- Mapping software (Tech skill type: Map creation software)
+- Maptek Vulcan (Tech skill type: Analytical or scientific software)
+- MHC Document Express (Tech skill type: Document management software)
+- MICRODEM (Tech skill type: Map creation software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Active Server Pages ASP (Tech skill type: Web platform development software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Midland Valley 3DMove (Tech skill type: Computer aided design CAD software)
+- MineGeo software (Tech skill type: Map creation software)
+- MineSight (Tech skill type: Computer aided design CAD software)
+- MIT OASES (Tech skill type: Analytical or scientific software)
+- MJ Systems Logsleuth (Tech skill type: Data base user interface and query software)
+- Multivariate statistical program MVSP software (Tech skill type: Analytical or scientific software)
+- MySQL (Tech skill type: Data base user interface and query software)
+- National Geophysical Data Center GEODAS (Tech skill type: Analytical or scientific software)
+- OpenOffice.org (Tech skill type: Office suite software)
+- OriginLab Origin (Tech skill type: Analytical or scientific software)
+- PaleoMag (Tech skill type: Analytical or scientific software)
+- Paleontological Statistics PAST (Tech skill type: Analytical or scientific software)
+- PaleoTax (Tech skill type: Analytical or scientific software)
+- Paradigm SKUA-GOCAD (Tech skill type: Computer aided design CAD software)
+- Parameter Estimation PEST (Tech skill type: Analytical or scientific software)
+- PolyMap (Tech skill type: Analytical or scientific software)
+- PowerCAD (Tech skill type: Computer aided design CAD software)
+- Python (Tech skill type: Object or component oriented development software)
+- Red Rock DeltaGraph (Tech skill type: Analytical or scientific software)
+- RockWare ChemFlux (Tech skill type: Analytical or scientific software)
+- Rockware CrossLog (Tech skill type: Analytical or scientific software)
+- RockWare DepthCon2000 (Tech skill type: Analytical or scientific software)
+- RockWare Erupt (Tech skill type: Analytical or scientific software)
+- RockWare FIRSTPIX (Tech skill type: Analytical or scientific software)
+- RockWare Geochemist's Workbench GWB (Tech skill type: Analytical or scientific software)
+- RockWare GeoTrig (Tech skill type: Analytical or scientific software)
+- RockWare GRADIX (Tech skill type: Analytical or scientific software)
+- RockWare Grav2Dc (Tech skill type: Analytical or scientific software)
+- RockWare Jlog (Tech skill type: Analytical or scientific software)
+- RockWare MicroMODEL (Tech skill type: Analytical or scientific software)
+- RockWare Plan (Tech skill type: Analytical or scientific software)
+- RockWare Potent (Tech skill type: Analytical or scientific software)
+- RockWare QuickSyn (Tech skill type: Analytical or scientific software)
+- RockWare RockPack III (Tech skill type: Analytical or scientific software)
+- RockWare RockWorks (Tech skill type: Geographic information system)
+- RockWare Stratbugs (Tech skill type: Data base user interface and query software)
+- RockWare VEGO (Tech skill type: Analytical or scientific software)
+- RockWare Visual STUNT (Tech skill type: Analytical or scientific software)
+- RockWare WinSism (Tech skill type: Analytical or scientific software)
+- RSI ENVI (Tech skill type: Analytical or scientific software)
+- RSI interactive data language IDL software (Tech skill type: Analytical or scientific software)
+- SACLANTCEN (Tech skill type: Map creation software)
+- SAS (Tech skill type: Analytical or scientific software)
+- Schlumberger Inside Reality (Tech skill type: Computer aided design CAD software)
+- Scientific Software Group FEFLOW (Tech skill type: Analytical or scientific software)
+- Scientific Software Group Infinite Extent (Tech skill type: Analytical or scientific software)
+- Scientific Software Group SVHeat (Tech skill type: Analytical or scientific software)
+- SeeByte SeeTrack (Tech skill type: Analytical or scientific software)
+- Seismic interpretation software (Tech skill type: Analytical or scientific software)
+- Seismic Micro-Technology KINGDOM (Tech skill type: Analytical or scientific software)
+- Seismic visualization software (Tech skill type: Analytical or scientific software)
+- Shape software (Tech skill type: Analytical or scientific software)
+- Socorro Scientific Software Refract2K (Tech skill type: Analytical or scientific software)
+- Solvcalv (Tech skill type: Analytical or scientific software)
+- Starpint Software Super Slug (Tech skill type: Analytical or scientific software)
+- StrainSim (Tech skill type: Analytical or scientific software)
+- Systat Software SigmaStat (Tech skill type: Analytical or scientific software)
+- TECHBASE (Tech skill type: Analytical or scientific software)
+- Terrain surface mapping software (Tech skill type: Map creation software)
+- The MathWorks MATLAB (Tech skill type: Analytical or scientific software)
+- Trimble Terramodel (Tech skill type: Computer aided design CAD software)
+- Triton Elics International SeaClass (Tech skill type: Analytical or scientific software)
+- Upperspace DesignCAD (Tech skill type: Computer aided design CAD software)
+- Upperspace ModelCAD (Tech skill type: Computer aided design CAD software)
+- Waterloo Hydrogeologic AquaChem (Tech skill type: Analytical or scientific software)
+- Waterloo Hydrogeologic FlowPath II (Tech skill type: Analytical or scientific software)
+- Well logging software (Tech skill type: Analytical or scientific software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Abney levels (Tool type: Height gauges)
+- Agitators (Tool type: Laboratory mixers)
+- All terrain vehicles ATV (Tool type: All terrain vehicles tracked or wheeled)
+- Alternating field demagnitizers (Tool type: Electromagnetic geophysical instruments)
+- Altimeters (Tool type: Height gauges)
+- Analog map measurers (Tool type: Map measurers)
+- Argon plasma atomic emission spectroscopes (Tool type: Inductively coupled plasma ICP spectrometers)
+- Atomic absorption AA spectrophotometers (Tool type: Atomic absorption AA spectrometers)
+- Automated core analysis systems (Tool type: Soil core sampling apparatus)
+- Axes (Tool type: Axes)
+- Biological dredges (Tool type: Dredgers)
+- Borehole cameras (Tool type: Well logging downhole test equipment)
+- Bottom sampling equipment (Tool type: Soil core sampling apparatus)
+- Brunauer-Emmett-Teller BET surface area analyzers (Tool type: Nitrogen gas analyzers)
+- Carbon analyzers (Tool type: Organic carbon analyzers)
+- Cathodoluminescence scopes (Tool type: Transmission electron microscopes)
+- Centrifuges (Tool type: Benchtop centrifuges)
+- Chisel hammers (Tool type: Hammers)
+- Chromatographic scanners (Tool type: Chromatographic scanners)
+- Clinometers (Tool type: Clinometers)
+- Colorimeters (Tool type: Colorimeters)
+- Computed tomography CT scanners (Tool type: Medical computed tomography CT or CAT scanners or tubes)
+- Core splitters (Tool type: Soil core sampling apparatus)
+- Crack hammers (Tool type: Hammers)
+- Degaussing wands (Tool type: Electromagnetic geophysical instruments)
+- Desktop computers (Tool type: Desktop computers)
+- Dessicators (Tool type: Heating or drying equipment or accessories)
+- Digital alkalinity titrators (Tool type: Titration equipment)
+- Digital cameras (Tool type: Digital cameras)
+- Digital map measurers (Tool type: Map measurers)
+- Digital seismographs (Tool type: Seismic recorders or seismographs)
+- Digitizers (Tool type: Scanners)
+- Digitizing tablets (Tool type: Graphics tablets)
+- Dissolved oxygen meters (Tool type: Dissolved oxygen meters)
+- Drying ovens (Tool type: Drying cabinets or ovens)
+- Earth resistivity meters (Tool type: Resistivity geophysical instruments)
+- Echosounders (Tool type: Sonars)
+- Electrical conductivity cells (Tool type: Conductivity cells)
+- Electrical conductivity meters (Tool type: Conductivity meters)
+- Electron microprobes (Tool type: Electron microscopes)
+- Electron microscopes (Tool type: Electron microscopes)
+- Electronic bench scales (Tool type: Bench scales)
+- Electronic toploading balances (Tool type: Electronic toploading balances)
+- Fluid inclusion microscopes (Tool type: Transmission electron microscopes)
+- Fume hoods (Tool type: Fume hoods or cupboards)
+- Fusion fluxes (Tool type: Solid phase extraction preparations)
+- Gamma ray scintillometers (Tool type: Scintillation crystal assemblies)
+- Gamma ray spectrometers (Tool type: Spectrometers)
+- Geo/paleo picks (Tool type: Picks)
+- Geological compasses (Tool type: Geological compasses)
+- Geological stratum compasses (Tool type: Geological compasses)
+- Geophones (Tool type: Seismic geophones)
+- Global positioning system GPS receivers (Tool type: Global positioning system GPS receiver)
+- Gravity meters (Tool type: Gravimeters)
+- Ground penetrating radar GPR (Tool type: Radarbased surveillance systems)
+- Hand levels (Tool type: Levels)
+- Hand magnifying lenses (Tool type: Magnifiers)
+- High temperature laboratory ovens (Tool type: Laboratory mechanical convection ovens)
+- Hydraulic earth drills (Tool type: Hydraulic rock drills)
+- Illuminated microscopes (Tool type: Binocular light compound microscopes)
+- Impulse magnetizers (Tool type: Electromagnetic geophysical instruments)
+- Ion chromatographs (Tool type: Ion chromatographs)
+- Isodynamic separators (Tool type: Laboratory separators)
+- Jaw crushers (Tool type: Jaw crushers)
+- Laboratory rock pulverizers (Tool type: Laboratory crushers or pulverizers)
+- Large-format plotters (Tool type: Plotter printers)
+- Laser printers (Tool type: Laser printers)
+- Laser rangefinders (Tool type: Rangefinders)
+- Laser theodolites (Tool type: Theodolites)
+- Long range radar equipment (Tool type: Radarbased surveillance systems)
+- Magnetic susceptibility measurement systems (Tool type: Paramagnetic susceptibility analyzers)
+- Magnetic susceptibility/anisotropy systems (Tool type: Paramagnetic susceptibility analyzers)
+- Magnetic susceptibility/temperature systems (Tool type: Paramagnetic susceptibility analyzers)
+- Mainframe computers (Tool type: Mainframe computers)
+- Mapping dividers (Tool type: Compasses)
+- Mapping scale sets (Tool type: Drafting kits or sets)
+- Mass spectrometers (Tool type: Mass spectrometers)
+- Mechanical earth drills (Tool type: Soil core sampling apparatus)
+- Mercury analyzers (Tool type: Water analyzers)
+- Microgravimeters (Tool type: Gravimeters)
+- Microscope slides (Tool type: Microscope slides)
+- Microsplitters (Tool type: Soil core sampling apparatus)
+- Mobile wireless handheld communication devices (Tool type: Portable data input terminals)
+- Motorized mortars/pestles (Tool type: Pestle or mortars)
+- Multibeam echosounders (Tool type: Sonars)
+- Notebook computers (Tool type: Notebook computers)
+- One-atmosphere furnaces (Tool type: Laboratory box furnaces)
+- Optical compound microscopes (Tool type: Binocular light compound microscopes)
+- Penetrometers (Tool type: Penetrometers)
+- Personal computers (Tool type: Personal computers)
+- Petrographic microscopes (Tool type: Polarizing microscopes)
+- pH meters (Tool type: pH meters)
+- Planimeters (Tool type: Map measurers)
+- Plankton nets (Tool type: Commercial fishing nets)
+- Pneumatic airscribes (Tool type: Compressed air gun)
+- Pocket magnetic susceptibility meters (Tool type: Paramagnetic susceptibility analyzers)
+- Pocket transits (Tool type: Geological compasses)
+- Polarizing microscopes (Tool type: Polarizing microscopes)
+- Portable organic vapor analyzers (Tool type: Chemical absorption gas analyzers)
+- Powered rock-coring drills (Tool type: Pneumatic rock drills)
+- Protractors (Tool type: Protractors)
+- Pry bars (Tool type: Pry bars)
+- Radiation detectors (Tool type: Radiation detectors)
+- Rangefinders (Tool type: Rangefinders)
+- Reverse osmosis systems (Tool type: Reverse osmosis equipment)
+- Rock chisels (Tool type: Cold chisels)
+- Rock magnetometers (Tool type: Magnetometer geophysical instruments)
+- Rock picks (Tool type: Picks)
+- Rock saws (Tool type: Rock cutters)
+- Rotary grinders (Tool type: Cyclone or vortex grinders)
+- Roto torque mixers (Tool type: Laboratory mixers)
+- Rotoevaporators (Tool type: Vacuum or rotary evaporators)
+- Sand grain size gauges (Tool type: Sand testing apparatus)
+- Scanners (Tool type: Scanners)
+- Sediment piston corers (Tool type: Soil core sampling apparatus)
+- Sediment samplers (Tool type: Water samplers)
+- Seismic activity recorders (Tool type: Seismic recorders or seismographs)
+- Seismic stations (Tool type: Portable seismic apparatus)
+- Seismographs (Tool type: Seismic recorders or seismographs)
+- Short-range radar equipment (Tool type: Radarbased surveillance systems)
+- Side scan sonars (Tool type: Sonars)
+- Sieve shakers (Tool type: Laboratory sifting equipment)
+- Soft face hammers (Tool type: Hammers)
+- Soil augers (Tool type: Soil core sampling apparatus)
+- Soil samplers (Tool type: Soil core sampling apparatus)
+- Stereo microscopes (Tool type: Stereo or dissecting light microscopes)
+- Stereoscopes (Tool type: Video attachments for microscopes)
+- Submicron particle size analyzers (Tool type: Optical diffraction apparatus)
+- Sun compasses (Tool type: Geological compasses)
+- Temperature profile recorders (Tool type: Thermographs)
+- Test sieves (Tool type: Test sieves)
+- Thermal specimen demagnitizers (Tool type: Electromagnetic geophysical instruments)
+- Thermistor chains (Tool type: Thermistor)
+- Total stations (Tool type: Theodolites)
+- Towed sonars (Tool type: Sonars)
+- Tree corers (Tool type: Forestry increment borers)
+- Triple beam balances (Tool type: Triple beam balances)
+- Tube samplers (Tool type: Soil core sampling apparatus)
+- Tubular water samplers (Tool type: Water samplers)
+- Ultrasonic sieve cleaners (Tool type: Ultrasonic cleaning equipment)
+- Ultraviolet UV lamps (Tool type: Ultraviolet UV lamps)
+- Underwater cameras (Tool type: Underwater cameras)
+- Underwater sediment bearing strength probes (Tool type: Penetrometers)
+- Vertical sketchmasters (Tool type: Drafting kits or sets)
+- Vibrating sample magnetometers (Tool type: Magnetometer geophysical instruments)
+- Video microscopes (Tool type: Video attachments for microscopes)
+- Water current meters (Tool type: Open stream current meters)
+- Water level recorders (Tool type: Open stream water level recorders)
+- Water sampler bottles (Tool type: Water samplers)
+- Winches (Tool type: Winches)
+- X ray diffractometers (Tool type: X ray diffraction equipment)
+- X ray fluorescence spectrometers (Tool type: Spectrofluorimeters or fluorimeters)
+- X ray fluorescence XRF lead detectors (Tool type: Soil testing kits)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Fairly serious
+- Contact With Others: Contact with others most of the time
+- Coordinate or Lead Others in Accomplishing Work Activities: Important
+- Deal With External Customers or the Public in General: Fairly important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Slightly automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Once a year or more but not every month
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Once a year or more but not every month
+- Exposed to Hazardous Conditions: Once a year or more but not every month
+- Exposed to Hazardous Equipment: Once a year or more but not every month
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Once a year or more but not every month
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Once a year or more but not every month
+- Exposed to Very Hot or Cold Temperatures: Once a year or more but not every month
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Once a month or more but not every week
+- Health and Safety of Other Workers: Limited responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Very important
+- Importance of Repeating Same Tasks: Important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Once a week or more but not every day
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Once a year or more but not every month
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Once a month or more but not every week
+- Outdoors, Under Cover: Once a year or more but not every month
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: I work with others but not closely (e.g., private office)
+- Public Speaking: Once a year or more but not every month
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Less than half the time
+- Spend Time Sitting: More than half the time
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Less than half the time
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Once a week or more but not every day
+- Time Pressure: Once a month or more but not every week
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Once a year or more but not every month
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Moderate responsibility
+- Work With or Contribute to a Work Group or Team: Very important
+- Written Letters and Memos: Once a month or more but not every week
+
+# INTERESTS (RIASEC)
+- Primary Interest: Investigative
+- Secondary Interest: Realistic
+- Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Hydrologists
+- Industrial Ecologists
+- Conservation Scientists
+- Soil and Plant Scientists
+- Biologists
+- Geographers
+- Environmental Scientists and Specialists, Including Health
+- Mining and Geological Engineers, Including Mining Safety Engineers
+- Data Scientists
+- Atmospheric and Space Scientists
+- Geological Technicians, Except Hydrologic Technicians
+- Geodetic Surveyors
+- Petroleum Engineers
+- Hydrologic Technicians
+- Surveying and Mapping Technicians
+- Environmental Restoration Planners
+- Environmental Science and Protection Technicians, Including Health
+- Water Resource Specialists
+- Surveyors
+- Chemists

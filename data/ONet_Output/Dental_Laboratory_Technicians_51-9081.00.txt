@@ -1,0 +1,320 @@
+Job Title: Dental Laboratory Technicians
+O*NET-SOC Code: 51-9081.00
+
+# DESCRIPTION
+Construct and repair full or partial dentures or dental appliances.
+
+# TASKS
+- Read prescriptions or specifications and examine models or impressions to determine the design of dental products to be constructed.
+- Test appliances for conformance to specifications and accuracy of occlusion, using articulators and micrometers.
+- Fabricate, alter, or repair dental devices, such as dentures, crowns, bridges, inlays, or appliances for straightening teeth.
+- Place tooth models on an apparatus that mimics bite and movement of patient's jaw to evaluate functionality of model.
+- Remove excess metal or porcelain and polish surfaces of prostheses or frameworks, using polishing machines.
+- Train or supervise other dental technicians or dental laboratory bench workers.
+- Melt metals or mix plaster, porcelain, or acrylic pastes and pour materials into molds or over frameworks to form dental prostheses or apparatuses.
+- Prepare metal surfaces for bonding with porcelain to create artificial teeth, using small hand tools.
+- Rebuild or replace linings, wire sections, or missing teeth to repair dentures.
+- Apply porcelain paste or wax over prosthesis frameworks or setups, using brushes and spatulas.
+- Build and shape wax teeth, using small hand instruments and information from observations or dentists' specifications.
+- Load newly constructed teeth into porcelain furnaces to bake the porcelain onto the metal framework.
+- Mold wax over denture setups to form the full contours of artificial gums.
+- Create a model of patient's mouth by pouring plaster into a dental impression and allowing plaster to set.
+- Prepare wax bite blocks and impression trays for use.
+- Shape and solder wire and metal frames or bands for dental products, using soldering irons and hand tools.
+- Fill chipped or low spots in surfaces of devices, using acrylic resins.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Administration and Management (Importance: 3.78/5 | Level: 3.6/7)
+- Design (Importance: 3.78/5 | Level: 4.06/7)
+- English Language (Importance: 3.64/5 | Level: 3.39/7)
+- Medicine and Dentistry (Importance: 3.61/5 | Level: 3.59/7)
+- Production and Processing (Importance: 3.51/5 | Level: 3.9/7)
+- Education and Training (Importance: 3.46/5 | Level: 4.07/7)
+- Customer and Personal Service (Importance: 3.38/5 | Level: 3.01/7)
+- Mechanical (Importance: 3.17/5 | Level: 3.19/7)
+- Computers and Electronics (Importance: 3.01/5 | Level: 3.22/7)
+- Engineering and Technology (Importance: 2.82/5 | Level: 3.0/7)
+- Chemistry (Importance: 2.58/5 | Level: 3.02/7)
+- Personnel and Human Resources (Importance: 2.47/5 | Level: 2.32/7)
+- Administrative (Importance: 2.44/5 | Level: 2.04/7)
+- Sales and Marketing (Importance: 2.4/5 | Level: 2.28/7)
+- Mathematics (Importance: 2.17/5 | Level: 2.11/7)
+- Fine Arts (Importance: 1.98/5 | Level: 2.0/7)
+- Economics and Accounting (Importance: 1.96/5 | Level: 1.48/7)
+- Physics (Importance: 1.91/5 | Level: 1.6/7)
+- Telecommunications (Importance: 1.9/5 | Level: 1.21/7)
+- Biology (Importance: 1.82/5 | Level: 1.48/7)
+- Public Safety and Security (Importance: 1.81/5 | Level: 1.24/7)
+- Communications and Media (Importance: 1.79/5 | Level: 1.27/7)
+- Building and Construction (Importance: 1.71/5 | Level: 1.16/7)
+- Transportation (Importance: 1.69/5 | Level: 1.06/7)
+- Psychology (Importance: 1.63/5 | Level: 1.51/7)
+- Law and Government (Importance: 1.38/5 | Level: 0.7/7)
+- Sociology and Anthropology (Importance: 1.26/5 | Level: 0.53/7)
+- History and Archeology (Importance: 1.25/5 | Level: 0.51/7)
+- Therapy and Counseling (Importance: 1.19/5 | Level: 0.46/7)
+- Foreign Language (Importance: 1.17/5 | Level: 0.17/7)
+- Geography (Importance: 1.14/5 | Level: 0.33/7)
+- Philosophy and Theology (Importance: 1.12/5 | Level: 0.23/7)
+- Food Production (Importance: 1.11/5 | Level: 0.19/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Reading Comprehension (Importance: 3.38/5 | Level: 3.0/7)
+- Time Management (Importance: 3.25/5 | Level: 3.0/7)
+- Critical Thinking (Importance: 3.25/5 | Level: 3.38/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 2.75/7)
+- Operations Monitoring (Importance: 3.12/5 | Level: 3.0/7)
+- Active Learning (Importance: 3.0/5 | Level: 3.0/7)
+- Monitoring (Importance: 3.0/5 | Level: 3.0/7)
+- Complex Problem Solving (Importance: 3.0/5 | Level: 2.88/7)
+- Speaking (Importance: 3.0/5 | Level: 3.0/7)
+- Active Listening (Importance: 3.0/5 | Level: 2.88/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.5/7)
+- Quality Control Analysis (Importance: 2.88/5 | Level: 2.88/7)
+- Writing (Importance: 2.88/5 | Level: 2.88/7)
+- Learning Strategies (Importance: 2.88/5 | Level: 3.0/7)
+- Operation and Control (Importance: 2.75/5 | Level: 2.88/7)
+- Coordination (Importance: 2.75/5 | Level: 2.75/7)
+- Instructing (Importance: 2.75/5 | Level: 2.88/7)
+- Persuasion (Importance: 2.38/5 | Level: 2.25/7)
+- Equipment Selection (Importance: 2.38/5 | Level: 2.38/7)
+- Service Orientation (Importance: 2.38/5 | Level: 2.25/7)
+- Management of Personnel Resources (Importance: 2.38/5 | Level: 2.25/7)
+- Negotiation (Importance: 2.38/5 | Level: 2.12/7)
+- Equipment Maintenance (Importance: 2.25/5 | Level: 1.75/7)
+- Systems Analysis (Importance: 2.25/5 | Level: 2.12/7)
+- Troubleshooting (Importance: 2.25/5 | Level: 2.25/7)
+- Repairing (Importance: 2.25/5 | Level: 2.0/7)
+- Science (Importance: 2.12/5 | Level: 1.5/7)
+- Mathematics (Importance: 2.0/5 | Level: 2.25/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 2.12/7)
+- Management of Financial Resources (Importance: 1.88/5 | Level: 1.12/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.75/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.62/7)
+- Operations Analysis (Importance: 1.75/5 | Level: 1.5/7)
+- Programming (Importance: 1.25/5 | Level: 0.38/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Bookkeeping software (Tech skill type: Accounting software)
+- Computer aided design and drafting CADD software (Tech skill type: Computer aided design CAD software)
+- Computer aided design CAD software (Tech skill type: Computer aided design CAD software)
+- Computer aided manufacturing CAM software (Tech skill type: Computer aided manufacturing CAM software)
+- Computer imaging software (Tech skill type: Graphics or photo imaging software)
+- Database management software (Tech skill type: Data base user interface and query software)
+- Dental product design software (Tech skill type: Computer aided design CAD software)
+- Dental product manufacturing software (Tech skill type: Computer aided manufacturing CAM software)
+- Easy Solutions Easy Lab (Tech skill type: Data base user interface and query software)
+- Email software (Tech skill type: Electronic mail software)
+- Graphics software (Tech skill type: Graphics or photo imaging software)
+- Intuit QuickBooks (Tech skill type: Accounting software)
+- Inventory management software (Tech skill type: Inventory management software)
+- Inventrix Labtrac (Tech skill type: Data base user interface and query software)
+- Jenmar International DL-Plus (Tech skill type: Data base user interface and query software)
+- LabMagic (Tech skill type: Data base user interface and query software)
+- Laboratory Systems Group Lab Manager (Tech skill type: Data base user interface and query software)
+- Mainstreet Systems & Software DentaLab/PC II (Tech skill type: Data base user interface and query software)
+- Mainstreet Systems & Software DentaRX (Tech skill type: Word processing software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Scheduling software (Tech skill type: Calendar and scheduling software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- Web browser software (Tech skill type: Internet browser software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Acrylic cutters (Tool type: Dental burs)
+- Adjustable articulators (Tool type: Dental articulators)
+- Air compressors (Tool type: Air compressors)
+- Air scribes (Tool type: Dental laboratory air abrasion units)
+- Amalgam dispensers (Tool type: Dental material pluggers or tips)
+- Amalgam instruments (Tool type: Dental material pluggers or tips)
+- Anatomic articulators (Tool type: Dental articulators)
+- Arcon articulators (Tool type: Dental articulators)
+- Articulators (Tool type: Dental articulators)
+- Auto chucks (Tool type: Chucks)
+- Build-up brushes (Tool type: Dental finishing or polishing discs)
+- Bunsen burners (Tool type: Gas burners)
+- Casting torches (Tool type: Dental laboratory burners or torches)
+- Clinical scales (Tool type: Laboratory balances)
+- Conventional lathes (Tool type: Dental laboratory lathes)
+- Crown holders (Tool type: Dental laboratory model trimmers)
+- Crucible formers (Tool type: Dental laboratory casting machines)
+- Crucibles (Tool type: Crucibles for dental casting machines)
+- Culture plates (Tool type: Tissue culture coated plates or dishes or inserts)
+- Culture tubes (Tool type: Culture tubes)
+- Curette scalers (Tool type: Dental scalers)
+- Dental amalgamators (Tool type: Dental amalgamators)
+- Dental buffing wheels (Tool type: Dental finishing or polishing discs)
+- Dental burs (Tool type: Dental burs)
+- Dental finishing stones (Tool type: Dental stones)
+- Dental finishing wheels (Tool type: Dental finishing or polishing discs)
+- Dental handpieces (Tool type: Dental handpieces)
+- Dental lab microscopes (Tool type: Binocular light compound microscopes)
+- Dental laboratory alcohol torches (Tool type: Dental laboratory burners or torches)
+- Dental laboratory bench lathes (Tool type: Dental laboratory lathes)
+- Dental laboratory casting machines (Tool type: Dental laboratory casting machines)
+- Dental laboratory centrifugal casting units (Tool type: Dental laboratory casting machines)
+- Dental laboratory curing lights (Tool type: Dental laboratory curing units)
+- Dental laboratory die mold fabrication systems (Tool type: Dental laboratory dies)
+- Dental laboratory dust collectors (Tool type: Dental laboratory dust collectors)
+- Dental laboratory gold platers (Tool type: Dental laboratory gold platers)
+- Dental laboratory high-speed lathes (Tool type: Dental laboratory lathes)
+- Dental laboratory microblasters (Tool type: Dental laboratory sandblasters)
+- Dental laboratory model trimmers (Tool type: Dental laboratory model trimmers)
+- Dental laboratory pressure molding devices (Tool type: Dental laboratory casting machines)
+- Dental laboratory pumice lathes (Tool type: Dental laboratory lathes)
+- Dental laboratory sandblasters (Tool type: Dental laboratory sandblasters)
+- Dental laboratory solderers (Tool type: Dental laboratory soldering machines)
+- Dental laboratory torches (Tool type: Dental laboratory burners or torches)
+- Dental laboratory vacuum extractors (Tool type: Dental laboratory vacuum units)
+- Dental laboratory vacuum formers (Tool type: Dental laboratory vacuum units)
+- Dental laboratory vacuum pumps (Tool type: Laboratory vacuum pumps)
+- Dental laboratory vacuum-mixing devices (Tool type: Dental laboratory vacuum units)
+- Dental laboratory wax heaters (Tool type: Dental laboratory waxing units)
+- Dental milling machines (Tool type: Milling machines)
+- Dental ovens (Tool type: Dental laboratory furnaces)
+- Dental plaster knives (Tool type: Dental plaster knives)
+- Dental pliers (Tool type: Orthodontic pliers)
+- Dental polishing brushes (Tool type: Dental finishing or polishing discs)
+- Dental polishing machines (Tool type: Dental finishing or polishing discs)
+- Dental rotary cutting equipment (Tool type: Dental cutting or separating discs)
+- Dental surveyors (Tool type: Dental marking devices)
+- Dental vibrators (Tool type: Dental laboratory vibrators)
+- Dental wax carvers (Tool type: Dental wax carvers)
+- Dental wax spatuals (Tool type: Dental spatulas)
+- Desktop computers (Tool type: Desktop computers)
+- Diamond burs (Tool type: Dental burs)
+- Diamond wheels (Tool type: Dental cutting or separating discs)
+- Digital cameras (Tool type: Digital cameras)
+- Dowel pin drills (Tool type: Dental pin drivers)
+- Electric burnout furnaces (Tool type: Dental laboratory furnaces)
+- Electronic precision balances (Tool type: Laboratory balances)
+- Electronically operated mallets (Tool type: Mallets)
+- Flask presses (Tool type: Dental laboratory casting machines)
+- Glazer vacuum furnaces (Tool type: Dental laboratory furnaces)
+- Grinding machines (Tool type: Dental finishing or polishing discs)
+- Hygrobaths (Tool type: Dental impression material water baths)
+- Impression syringes (Tool type: Dental impression material syringes)
+- Impression trays (Tool type: Dental impression trays)
+- Injection flasks (Tool type: Dental laboratory flasks)
+- Inlay furnaces (Tool type: Dental laboratory furnaces)
+- Laboratory beakers (Tool type: Laboratory beakers)
+- Laboratory flow meters (Tool type: Flow sensors)
+- Laser printers (Tool type: Laser printers)
+- Light microscopes (Tool type: Binocular light compound microscopes)
+- Matrix retainers (Tool type: Dental retainers)
+- Mechanical dental instrument sharpeners (Tool type: Dental instrument sharpening accessories)
+- Micrometers (Tool type: Micrometers)
+- Mobile mixers (Tool type: Laboratory mixers)
+- Model duster brushes (Tool type: Dental finishing or polishing discs)
+- Mortars and pestles (Tool type: Pestle or mortars)
+- Neodymium-doped Yttrium Aluminum Garnet Nd:YAG dental lasers (Tool type: Dental lasers)
+- Notebook computers (Tool type: Notebook computers)
+- Personal computers (Tool type: Personal computers)
+- Pneumatic presses (Tool type: Pneumatic press)
+- Porcelain furnaces (Tool type: Dental laboratory furnaces)
+- Porcelain slicers (Tool type: Dental knives)
+- Prophylaxis brushes (Tool type: Dental finishing or polishing discs)
+- Semiadjustable articulators (Tool type: Dental articulators)
+- Shade guides (Tool type: Dental shades)
+- Shielded arc welding tools (Tool type: Shielded metal arc welding or stick welding machine)
+- Soft brushes (Tool type: Dental finishing or polishing discs)
+- Split flasks (Tool type: Dental laboratory flasks)
+- Spot-welding equipment (Tool type: Dental laboratory soldering machines)
+- Steam cleaners (Tool type: Steam autoclaves or sterilizers)
+- Stereo microscopes (Tool type: Stereo or dissecting light microscopes)
+- Surgical knives (Tool type: Dental knives)
+- Ultrasonic cleaners (Tool type: Ultrasonic cleaning equipment)
+- Water baths (Tool type: Water baths)
+- Water purification systems (Tool type: Ultra pure water systems)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Fairly serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Important
+- Deal With External Customers or the Public in General: Not important at all
+- Dealing With Unpleasant, Angry, or Discourteous People: Never
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Never
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Every day
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Every day
+- Exposed to Hazardous Equipment: Every day
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Every day
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Limited responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Extremely important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Never
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Continually or almost continually
+- Spend Time Sitting: Continually or almost continually
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a month or more but not every week
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Investigative
+- Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Medical Appliance Technicians
+- Dental Assistants
+- Ophthalmic Laboratory Technicians
+- Medical Equipment Repairers
+- Molders, Shapers, and Casters, Except Metal and Plastic
+- Painting, Coating, and Decorating Workers
+- Calibration Technologists and Technicians
+- Grinding and Polishing Workers, Hand
+- Dental Hygienists
+- Furniture Finishers
+- Prosthodontists
+- Dentists, General
+- Orthodontists
+- Orthotists and Prosthetists
+- Histotechnologists
+- Surgical Technologists
+- Histology Technicians
+- Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+- Etchers and Engravers
+- Oral and Maxillofacial Surgeons

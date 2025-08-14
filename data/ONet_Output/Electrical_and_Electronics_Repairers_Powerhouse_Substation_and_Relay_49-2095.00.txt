@@ -1,0 +1,250 @@
+Job Title: Electrical and Electronics Repairers, Powerhouse, Substation, and Relay
+O*NET-SOC Code: 49-2095.00
+
+# DESCRIPTION
+Inspect, test, repair, or maintain electrical equipment in generating stations, substations, and in-service relays.
+
+# TASKS
+- Inspect and test equipment and circuits to identify malfunctions or defects, using wiring diagrams and testing devices such as ohmmeters, voltmeters, or ammeters.
+- Prepare and maintain records detailing tests, repairs, and maintenance.
+- Consult manuals, schematics, wiring diagrams, and engineering personnel to troubleshoot and solve equipment problems and to determine optimum equipment functioning.
+- Analyze test data to diagnose malfunctions, to determine performance characteristics of systems, or to evaluate effects of system modifications.
+- Open and close switches to isolate defective relays, performing adjustments or repairs.
+- Notify facility personnel of equipment shutdowns.
+- Repair, replace, and clean equipment and components such as circuit breakers, brushes, and commutators.
+- Run signal quality and connectivity tests for individual cables, and record results.
+- Maintain inventories of spare parts for all equipment, requisitioning parts as necessary.
+- Construct, test, maintain, and repair substation relay and control systems.
+- Test insulators and bushings of equipment by inducing voltage across insulation, testing current, and calculating insulation loss.
+- Schedule and supervise the construction and testing of special devices and the implementation of unique monitoring or control systems.
+- Schedule and supervise splicing or termination of cables in color-code order.
+- Test oil in circuit breakers and transformers for dielectric strength, refilling oil periodically.
+- Disconnect voltage regulators, bolts, and screws, and connect replacement regulators to high-voltage lines.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 4.3/5 | Level: 5.47/7)
+- Mathematics (Importance: 3.92/5 | Level: 4.74/7)
+- Engineering and Technology (Importance: 3.91/5 | Level: 4.46/7)
+- Public Safety and Security (Importance: 3.87/5 | Level: 4.08/7)
+- English Language (Importance: 3.81/5 | Level: 3.81/7)
+- Computers and Electronics (Importance: 3.73/5 | Level: 4.14/7)
+- Design (Importance: 3.73/5 | Level: 4.06/7)
+- Physics (Importance: 3.54/5 | Level: 4.23/7)
+- Building and Construction (Importance: 3.43/5 | Level: 4.02/7)
+- Education and Training (Importance: 3.24/5 | Level: 3.62/7)
+- Telecommunications (Importance: 2.94/5 | Level: 3.25/7)
+- Customer and Personal Service (Importance: 2.81/5 | Level: 3.33/7)
+- Administration and Management (Importance: 2.72/5 | Level: 3.04/7)
+- Administrative (Importance: 2.65/5 | Level: 2.36/7)
+- Law and Government (Importance: 2.59/5 | Level: 2.47/7)
+- Chemistry (Importance: 2.57/5 | Level: 2.89/7)
+- Psychology (Importance: 2.57/5 | Level: 2.84/7)
+- Personnel and Human Resources (Importance: 2.56/5 | Level: 2.27/7)
+- Production and Processing (Importance: 2.46/5 | Level: 2.31/7)
+- Transportation (Importance: 2.13/5 | Level: 2.16/7)
+- Sociology and Anthropology (Importance: 1.92/5 | Level: 1.57/7)
+- Communications and Media (Importance: 1.79/5 | Level: 1.39/7)
+- Medicine and Dentistry (Importance: 1.73/5 | Level: 1.55/7)
+- Geography (Importance: 1.7/5 | Level: 1.14/7)
+- Therapy and Counseling (Importance: 1.67/5 | Level: 1.04/7)
+- Economics and Accounting (Importance: 1.58/5 | Level: 0.96/7)
+- Biology (Importance: 1.51/5 | Level: 1.09/7)
+- Foreign Language (Importance: 1.17/5 | Level: 0.27/7)
+- Sales and Marketing (Importance: 1.15/5 | Level: 0.21/7)
+- Philosophy and Theology (Importance: 1.13/5 | Level: 0.35/7)
+- History and Archeology (Importance: 1.11/5 | Level: 0.31/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Critical Thinking (Importance: 3.75/5 | Level: 3.38/7)
+- Equipment Maintenance (Importance: 3.62/5 | Level: 4.0/7)
+- Repairing (Importance: 3.62/5 | Level: 4.0/7)
+- Troubleshooting (Importance: 3.5/5 | Level: 4.0/7)
+- Reading Comprehension (Importance: 3.38/5 | Level: 3.5/7)
+- Quality Control Analysis (Importance: 3.25/5 | Level: 3.25/7)
+- Operations Monitoring (Importance: 3.25/5 | Level: 3.25/7)
+- Active Listening (Importance: 3.12/5 | Level: 3.12/7)
+- Complex Problem Solving (Importance: 3.12/5 | Level: 3.0/7)
+- Speaking (Importance: 3.12/5 | Level: 2.88/7)
+- Time Management (Importance: 3.0/5 | Level: 3.0/7)
+- Systems Analysis (Importance: 3.0/5 | Level: 3.0/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 3.0/7)
+- Monitoring (Importance: 3.0/5 | Level: 3.0/7)
+- Active Learning (Importance: 2.88/5 | Level: 3.0/7)
+- Service Orientation (Importance: 2.88/5 | Level: 2.75/7)
+- Operation and Control (Importance: 2.88/5 | Level: 3.12/7)
+- Writing (Importance: 2.88/5 | Level: 3.0/7)
+- Coordination (Importance: 2.88/5 | Level: 3.0/7)
+- Equipment Selection (Importance: 2.88/5 | Level: 2.25/7)
+- Systems Evaluation (Importance: 2.75/5 | Level: 3.0/7)
+- Management of Personnel Resources (Importance: 2.75/5 | Level: 2.75/7)
+- Instructing (Importance: 2.75/5 | Level: 2.88/7)
+- Science (Importance: 2.62/5 | Level: 2.38/7)
+- Social Perceptiveness (Importance: 2.62/5 | Level: 2.75/7)
+- Negotiation (Importance: 2.5/5 | Level: 2.25/7)
+- Persuasion (Importance: 2.38/5 | Level: 2.12/7)
+- Mathematics (Importance: 2.25/5 | Level: 2.38/7)
+- Learning Strategies (Importance: 2.25/5 | Level: 2.25/7)
+- Operations Analysis (Importance: 2.12/5 | Level: 2.25/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.5/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.62/7)
+- Programming (Importance: 1.88/5 | Level: 1.12/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.0/7)
+- Installation (Importance: 1.62/5 | Level: 0.75/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Fluke Corporation FlukeView Forms (Tech skill type: Analytical or scientific software)
+- Megger PowerDB (Tech skill type: Compliance software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- OMICRON Test Universe (Tech skill type: Analytical or scientific software)
+- Supervisory control and data acquisition SCADA software (Tech skill type: Industrial control software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Adjustable hand wrenches (Tool type: Adjustable wrenches)
+- Adjustable pin spanner wrenches (Tool type: Spanner wrenches)
+- Alternating current AC electric welders (Tool type: Alternating current AC arc welder)
+- Analog ohmmeters (Tool type: Ohmmeters)
+- Bearing pullers (Tool type: Pullers)
+- Bench ammeters (Tool type: Ammeters)
+- Bench drills (Tool type: Bench drilling machine)
+- Bench vises (Tool type: Bench vises)
+- Bench voltmeters (Tool type: Voltage or current meters)
+- Clamp ammeters (Tool type: Ammeters)
+- Diagonal cutting electronics pliers (Tool type: Electronics pliers)
+- Digital micrometers (Tool type: Micrometers)
+- Digital multimeters (Tool type: Multimeters)
+- Digital ohmmeters (Tool type: Ohmmeters)
+- Digital oscilloscopes (Tool type: Oscilloscopes)
+- Electrical fire extinguishers (Tool type: Fire extinguishers)
+- Hand guard cold chisels (Tool type: Cold chisels)
+- Handheld dataloggers (Tool type: Portable data input terminals)
+- Handheld thermal imagers (Tool type: Thermal imager)
+- Heavy duty die stocks (Tool type: Die stocks)
+- Heavy-duty hacksaws (Tool type: Hacksaw)
+- Insulation resistance testers (Tool type: Insulation resistance meters)
+- Lifting platforms (Tool type: Manlift or personnel lift)
+- Light emitting diode LED voltage tester (Tool type: Voltage or current meters)
+- Multigrip pliers (Tool type: Locking pliers)
+- Nailing hammers (Tool type: Claw hammer)
+- Neon voltage testers (Tool type: Voltage or current meters)
+- Oxyacetylene welders (Tool type: Gas welding or brazing or cutting apparatus)
+- Phase rotation indicators (Tool type: Phasemeters)
+- Pin punches (Tool type: Punches or nail sets or drifts)
+- Pop riveters (Tool type: Power riveter)
+- Portable electric drills (Tool type: Power drills)
+- Portable electric grinders (Tool type: Power grinders)
+- Portable electric jigsaws (Tool type: Jigsaw)
+- Portable electric saws (Tool type: Power saws)
+- Precision file sets (Tool type: Precision file)
+- Precision reamers (Tool type: Reamer)
+- Radiation meters (Tool type: Radiation detectors)
+- Ratchet sets (Tool type: Ratchets)
+- Relay test sets (Tool type: Relay tester)
+- Series solenoid voltage testers (Tool type: Voltage or current meters)
+- Sheet metal guillotines (Tool type: Metal shearing machine)
+- Slot screwdrivers (Tool type: Screwdrivers)
+- Socket wrenches (Tool type: Sockets)
+- Soldering guns (Tool type: Soldering iron)
+- Stepladders (Tool type: Ladders)
+- T handle tap wrenches (Tool type: T handle tap wrenches)
+- Tap sets (Tool type: Threading taps)
+- Tin snips (Tool type: Tinners snips)
+- Twist drill bits (Tool type: Drill bit set)
+- Universal calibrators (Tool type: Voltage and current meter calibrator)
+- Vernier calipers (Tool type: Calipers)
+- Vise grip pliers (Tool type: Locking pliers)
+- Volt-ammeters (Tool type: Ammeters)
+- Wood saws (Tool type: Saws)
+
+# WORK CONTEXT
+- Conflict Situations: Once a month or more but not every week
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Extremely important
+- Deal With External Customers or the Public in General: Not important at all
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a month or more but not every week
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Once a month or more but not every week
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Every day
+- Exposed to Hazardous Conditions: Every day
+- Exposed to Hazardous Equipment: Every day
+- Exposed to High Places: Once a month or more but not every week
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Every day
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Every day
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Extremely important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Once a week or more but not every day
+- In an Open Vehicle or Operating Equipment: Once a month or more but not every week
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Once a week or more but not every day
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Every day
+- Outdoors, Under Cover: Once a week or more but not every day
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Very close (near touching)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Less than half the time
+- Spend Time Keeping or Regaining Balance: Less than half the time
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Less than half the time
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: More than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: More than half the time
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Once a week or more but not every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Once a month or more but not every week
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a week or more but not every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Electrical and Electronics Repairers, Commercial and Industrial Equipment
+- Electrical and Electronics Installers and Repairers, Transportation Equipment
+- Control and Valve Installers and Repairers, Except Mechanical Door
+- Calibration Technologists and Technicians
+- Electrical and Electronic Engineering Technologists and Technicians
+- Power Distributors and Dispatchers
+- Electric Motor, Power Tool, and Related Repairers
+- Stationary Engineers and Boiler Operators
+- Hydroelectric Plant Technicians
+- Electricians
+- Electrical Engineers
+- Electronics Engineers, Except Computer
+- Electrical and Electronic Equipment Assemblers
+- Robotics Technicians
+- Industrial Machinery Mechanics
+- Lighting Technicians
+- Geothermal Technicians
+- Electromechanical Equipment Assemblers
+- Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+- Avionics Technicians

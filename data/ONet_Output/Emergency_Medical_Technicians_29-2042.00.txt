@@ -1,0 +1,181 @@
+Job Title: Emergency Medical Technicians
+O*NET-SOC Code: 29-2042.00
+
+# DESCRIPTION
+Assess injuries and illnesses and administer basic emergency medical care. May transport injured or sick persons to medical facilities.
+
+# TASKS
+- Administer first aid treatment or life support care to sick or injured persons in prehospital settings.
+- Assess nature and extent of illness or injury to establish and prioritize medical procedures.
+- Attend training classes to maintain certification licensure, keep abreast of new developments in the field, or maintain existing knowledge.
+- Comfort and reassure patients.
+- Communicate with dispatchers or treatment center personnel to provide information about situation, to arrange reception of survivors, or to receive instructions for further treatment.
+- Coordinate work with other emergency medical team members or police or fire department personnel.
+- Decontaminate ambulance interior following treatment of patient with infectious disease, and report case to proper authorities.
+- Drive mobile intensive care unit to specified location, following instructions from emergency medical dispatcher.
+- Immobilize patient for placement on stretcher and ambulance transport, using backboard or other spinal immobilization device.
+- Maintain vehicles and medical and communication equipment, and replenish first aid equipment and supplies.
+- Observe, record, and report to physician the patient's condition or injury, the treatment provided, and reactions to drugs or treatment.
+- Perform emergency diagnostic and treatment procedures, such as stomach suction, airway management, or heart monitoring, during ambulance ride.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- No specific knowledge areas listed.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- No specific skills listed.
+
+# TECHNOLOGY SKILLS & TOOLS
+- Epocrates (Tech skill type: Information retrieval or search software)
+- HyperTox (Tech skill type: Information retrieval or search software)
+- Informed EMS Field Guide (Tech skill type: Information retrieval or search software)
+- Iterum eMedic (Tech skill type: Information retrieval or search software)
+- MedDataSolutions Regist*r (Tech skill type: Medical software)
+- Medical Wizards ER & ICU ToolBox (Tech skill type: Information retrieval or search software)
+- Medical Wizards ER Suite (Tech skill type: Information retrieval or search software)
+- Medical Wizards Paramedics ToolBox (Tech skill type: Information retrieval or search software)
+- MEDITECH software (Tech skill type: Medical software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft operating system (Tech skill type: Operating system software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Mosby's Drug Consult (Tech skill type: Information retrieval or search software)
+- Palmtree EMS Field Reference Guide (Tech skill type: Information retrieval or search software)
+- Palmtree Pocket EKG (Tech skill type: Information retrieval or search software)
+- PEPID EMS (Tech skill type: Information retrieval or search software)
+- Skyscape medical software (Tech skill type: Information retrieval or search software)
+- Skyscape Rosen and Barkin's 5-Minute Emergency Medicine Consult (Tech skill type: Information retrieval or search software)
+- TechOnSoftware HazMatCE Pro (Tech skill type: Information retrieval or search software)
+
+## TOOLS USED
+- Adult Magill forceps (Tool type: Intubation forceps)
+- Adult non-rebreather oxygen masks (Tool type: Medical oxygen masks or parts)
+- Adult stylets (Tool type: Intubation stylets)
+- Airway suction units (Tool type: Mobile medical services suction antichoke devices)
+- Ambulances (Tool type: Ambulances)
+- Bag valve mask BVM resuscitators (Tool type: Resuscitation masks)
+- Battery-powered portable suction units (Tool type: Mobile medical services suction antichoke devices)
+- Blood pressure recorders (Tool type: Blood pressure recording units)
+- Blood tubes (Tool type: Non vacuum blood collection tubes or containers)
+- Bulb syringes (Tool type: Medical aspiration or irrigation syringes)
+- Bulletproof vests (Tool type: Bullet proof vests)
+- Cardboard splints (Tool type: Orthopedic splint systems)
+- Catheters (Tool type: Peripherally inserted central catheters PICC)
+- Center punches/glass hammers (Tool type: Glass cutters)
+- Child oxygen masks (Tool type: Medical oxygen masks or parts)
+- Chock blocks (Tool type: Wheel chocks)
+- Cricothyrotomy kits (Tool type: Mobile medical services non-suction antichoke devices)
+- Curved adult blades (Tool type: Intubation laryngoscopes)
+- Curved pediatric blades (Tool type: Intubation laryngoscopes)
+- Desktop computers (Tool type: Desktop computers)
+- Electrocardiography EKG units (Tool type: Electrocardiography EKG units)
+- Emergency medical services cervical collars (Tool type: Mobile medical services cervical or extrication collars)
+- Endotracheal ET tube holddown devices (Tool type: Artificial airway holders)
+- Endotracheal ET tubes (Tool type: Endotracheal tubes)
+- Epi-pens (Tool type: Hypodermic injection apparatus)
+- Esophageal intubation detection devices (Tool type: Intubation gauges or guides)
+- Esophageal tracheal airway devices (Tool type: Esophageal tubes)
+- External pacers (Tool type: Cardiac pacemaker generators or cardiac resynchronization therapy pacemakers CRT-P)
+- Extrication devices (Tool type: Mobile medical services spine boards)
+- Fixed-oxygen equipment (Tool type: Medical gas cylinders or related devices)
+- Fixed-suction equipment (Tool type: Mobile medical services suction antichoke devices)
+- Full-spine immobilization devices (Tool type: Mobile medical services spine boards)
+- Glucometers (Tool type: Glucose monitors or meters)
+- Hacksaws (Tool type: Hacksaw)
+- Half-spine immobilization devices (Tool type: Mobile medical services spine boards)
+- Head immobilization devices (Tool type: Mobile medical services head immobilizers)
+- Infant oxygen masks (Tool type: Medical oxygen masks or parts)
+- Infusion sets (Tool type: Analgesic infusion sets or kits)
+- Interlink syringe cannulas (Tool type: Needleless intravenous injection syringe sets or injection cannulas)
+- Intraosseous kits (Tool type: Mobile medical service intravenous IV kits)
+- Intravenous IV cannulas (Tool type: Intravenous catheters)
+- Intravenous IV pressure infusers (Tool type: Intravenous infusion pumps for general use)
+- Intravenous IV pumps (Tool type: Intravenous infusion pumps for general use)
+- Laryngoscopes (Tool type: Intubation laryngoscopes)
+- Limb restraints (Tool type: Extremity restraints)
+- Long arm boards (Tool type: Intravenous or arterial arm boards)
+- Lower extremity traction devices with ankle hitches (Tool type: Traction splint sets)
+- Mechanical stethoscopes (Tool type: Medical acoustic stethoscopes)
+- Meconium aspirators (Tool type: Respiratory aspirator products)
+- Medical anti-shock trousers MAST (Tool type: Mobile medical service anti shock garments)
+- Medical suction catheters (Tool type: Irrigation or suction handpieces or cannulas or tips or catheters)
+- Monitors (Tool type: Multiparameter vital sign units)
+- Multi-level wheeled cots (Tool type: Mobile medical services litter)
+- Nasopharyngeal airways (Tool type: Nasopharyngeal tubes or airways)
+- Nebulizers (Tool type: Nebulizers)
+- Needles (Tool type: Hypodermic needle)
+- Notebook computers (Tool type: Notebook computers)
+- Obstetrical OB kits (Tool type: Mobile medical services obstetrics kits)
+- Oropharyngeal airways (Tool type: Pharyngeal airways or airways kits)
+- Oximeters (Tool type: Pulse oximeter units)
+- Oxygen nasal cannulae (Tool type: Medical nasal cannulas)
+- Patient CO2 monitors (Tool type: Patient carbon dioxide detectors)
+- Patient restraints (Tool type: Patient stabilization or fall prevention devices)
+- Pleural decompression kits (Tool type: Chest tube kits)
+- Pneumatic anti-shock garments PASG (Tool type: Mobile medical service anti shock garments)
+- Pocket masks with one-way valves (Tool type: Mobile resuscitator or aspirator kits)
+- Portable cardiac monitors (Tool type: Cardiac output CO monitoring units)
+- Portable oxygen equipment (Tool type: Medical gas cylinders or related devices)
+- Preload syringes (Tool type: Hypodermic injection apparatus)
+- Pry bars (Tool type: Pry bars)
+- Restraint belts (Tool type: Torso and belt restraints)
+- Resuscitation devices (Tool type: Mobile resuscitator or aspirator kits)
+- Rigid splints (Tool type: Orthopedic splint systems)
+- Ring cutters (Tool type: Finger ring removers or cutters)
+- Saline locks (Tool type: Intravenous or arterial tubing adapter or connector)
+- Scalp vein needles (Tool type: Winged infusion needle set)
+- Scalpels (Tool type: Surgical scalpels or knives or blades or trephines)
+- Semiautomated or automatic external defibrillators AED (Tool type: Mobile medical services automated external defibrillators AED or hard paddles)
+- Short arm boards (Tool type: Intravenous or arterial arm boards)
+- Sledgehammers (Tool type: Sledge hammer)
+- Spinal immobilization equipment (Tool type: Mobile medical services spine boards)
+- Splints (Tool type: Orthopedic splint systems)
+- Stair chairs (Tool type: Mobile medical services litter)
+- Straight adult blades (Tool type: Intubation laryngoscopes)
+- Straight pediatric blades (Tool type: Intubation laryngoscopes)
+- Straitjacket (Tool type: Restraint vests and jackets)
+- Stretchers (Tool type: Mobile medical services litter)
+- Suction tubing (Tool type: Medical or surgical suction tubings)
+- Syringes (Tool type: Medical syringes without needle)
+- Telemetry units (Tool type: Electrocardiography EKG transmitters or telemetry devices)
+- Tourniquets (Tool type: Mobile medical services tourniquet or clamp)
+- Traction splints (Tool type: Traction splint sets)
+- Transtracheal jet insufflators (Tool type: Oxygen insufflators)
+- Triage tags (Tool type: Mobile medical services triage tags)
+- Two way radios (Tool type: Two way radios)
+- Valve mask resuscitators (Tool type: Resuscitation masks)
+- Venoject needles (Tool type: Blood collection needles)
+- Vial access cannulas (Tool type: Needleless vial or bag withdrawal cannulas or adapters or decanters)
+- Wall-mounted oxygen regulators (Tool type: Flow sensors or regulators or components)
+
+# WORK CONTEXT
+- No specific work context listed.
+
+# INTERESTS (RIASEC)
+- Primary Interest: Social
+- Secondary Interest: Realistic
+- Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Paramedics
+- Ambulance Drivers and Attendants, Except Emergency Medical Technicians
+- Surgical Assistants
+- Licensed Practical and Licensed Vocational Nurses
+- Registered Nurses
+- Cardiovascular Technologists and Technicians
+- Critical Care Nurses
+- Acute Care Nurses
+- Nursing Assistants
+- Respiratory Therapists
+- Emergency Medicine Physicians
+- Anesthesiologist Assistants
+- Anesthesiologists
+- Nurse Anesthetists
+- Nurse Practitioners
+- Clinical Nurse Specialists
+- Physician Assistants
+- Orderlies
+- Medical Assistants
+- Family Medicine Physicians

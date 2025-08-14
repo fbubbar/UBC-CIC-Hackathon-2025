@@ -1,0 +1,220 @@
+Job Title: Order Clerks
+O*NET-SOC Code: 43-4151.00
+
+# DESCRIPTION
+Receive and process incoming orders for materials, merchandise, classified ads, or services such as repairs, installations, or rental of facilities. Generally receives orders via mail, phone, fax, or other electronic means. Duties include informing customers of receipt, prices, shipping dates, and delays; preparing contracts; and handling complaints.
+
+# TASKS
+- Review orders for completeness according to reporting procedures and forward incomplete orders for further processing.
+- Obtain customers' names, addresses, and billing information, product numbers, and specifications of items to be purchased, and enter this information on order forms.
+- Recommend merchandise or services that will meet customers' needs.
+- Inspect outgoing work for compliance with customers' specifications.
+- Receive and respond to customer complaints.
+- Check inventory records to determine availability of requested merchandise.
+- Verify customer and order information for correctness, checking it against previously obtained information as necessary.
+- Compute total charges for merchandise or services and shipping charges.
+- Inform customers by mail or telephone of order information, such as unit prices, shipping dates, and any anticipated delays.
+- File copies of orders received, or post orders on records.
+- Notify departments when supplies of specific items are low, or when orders would deplete available supplies.
+- Prepare invoices, shipping documents, and contracts.
+- Confer with production, sales, shipping, warehouse, or common carrier personnel to expedite or trace shipments.
+- Direct specified departments or units to prepare and ship orders to designated locations.
+- Adjust inventory records to reflect product movement.
+- Collect payment for merchandise, record transactions, and send items, such as checks or money orders for further processing.
+- Calculate and compile order-related statistics, and prepare reports for management.
+- Recommend type of packing or labeling needed on order.
+- Attempt to sell additional merchandise or services to prospective or current customers by telephone or through visits.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.36/5 | Level: 5.3/7)
+- Production and Processing (Importance: 4.16/5 | Level: 4.67/7)
+- Computers and Electronics (Importance: 4.05/5 | Level: 4.93/7)
+- Education and Training (Importance: 3.92/5 | Level: 5.09/7)
+- English Language (Importance: 3.81/5 | Level: 4.41/7)
+- Administrative (Importance: 3.74/5 | Level: 4.28/7)
+- Mathematics (Importance: 3.67/5 | Level: 4.15/7)
+- Sales and Marketing (Importance: 3.61/5 | Level: 3.96/7)
+- Transportation (Importance: 3.42/5 | Level: 3.43/7)
+- Public Safety and Security (Importance: 3.31/5 | Level: 3.99/7)
+- Personnel and Human Resources (Importance: 3.22/5 | Level: 3.49/7)
+- Administration and Management (Importance: 3.18/5 | Level: 3.37/7)
+- Engineering and Technology (Importance: 3.1/5 | Level: 3.67/7)
+- Economics and Accounting (Importance: 2.66/5 | Level: 2.4/7)
+- Communications and Media (Importance: 2.35/5 | Level: 1.36/7)
+- Law and Government (Importance: 2.21/5 | Level: 2.37/7)
+- Mechanical (Importance: 2.18/5 | Level: 2.31/7)
+- Design (Importance: 1.83/5 | Level: 1.28/7)
+- Psychology (Importance: 1.76/5 | Level: 1.06/7)
+- Food Production (Importance: 1.7/5 | Level: 1.28/7)
+- Telecommunications (Importance: 1.65/5 | Level: 0.8/7)
+- Physics (Importance: 1.55/5 | Level: 0.9/7)
+- Foreign Language (Importance: 1.5/5 | Level: 0.75/7)
+- Building and Construction (Importance: 1.49/5 | Level: 0.49/7)
+- Sociology and Anthropology (Importance: 1.49/5 | Level: 0.98/7)
+- Geography (Importance: 1.4/5 | Level: 0.84/7)
+- Chemistry (Importance: 1.26/5 | Level: 0.41/7)
+- Fine Arts (Importance: 1.03/5 | Level: 0.05/7)
+- Therapy and Counseling (Importance: 1.03/5 | Level: 0.07/7)
+- Medicine and Dentistry (Importance: 1.02/5 | Level: 0.04/7)
+- Biology (Importance: 1.02/5 | Level: 0.03/7)
+- Philosophy and Theology (Importance: 1.01/5 | Level: 0.02/7)
+- History and Archeology (Importance: 1.01/5 | Level: 0.02/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Active Listening (Importance: 4.0/5 | Level: 3.62/7)
+- Speaking (Importance: 3.88/5 | Level: 3.5/7)
+- Service Orientation (Importance: 3.5/5 | Level: 3.25/7)
+- Reading Comprehension (Importance: 3.5/5 | Level: 3.5/7)
+- Writing (Importance: 3.12/5 | Level: 3.0/7)
+- Critical Thinking (Importance: 3.12/5 | Level: 3.5/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 2.75/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.0/7)
+- Mathematics (Importance: 3.0/5 | Level: 2.75/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 3.0/7)
+- Persuasion (Importance: 3.0/5 | Level: 3.0/7)
+- Active Learning (Importance: 3.0/5 | Level: 3.0/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 2.88/5 | Level: 2.75/7)
+- Negotiation (Importance: 2.88/5 | Level: 2.88/7)
+- Complex Problem Solving (Importance: 2.88/5 | Level: 2.62/7)
+- Learning Strategies (Importance: 2.38/5 | Level: 2.12/7)
+- Instructing (Importance: 2.38/5 | Level: 2.0/7)
+- Systems Analysis (Importance: 2.25/5 | Level: 2.0/7)
+- Quality Control Analysis (Importance: 2.25/5 | Level: 2.25/7)
+- Management of Personnel Resources (Importance: 2.12/5 | Level: 1.62/7)
+- Systems Evaluation (Importance: 2.12/5 | Level: 2.12/7)
+- Management of Material Resources (Importance: 1.75/5 | Level: 1.25/7)
+- Operation and Control (Importance: 1.62/5 | Level: 0.75/7)
+- Operations Monitoring (Importance: 1.62/5 | Level: 0.88/7)
+- Management of Financial Resources (Importance: 1.62/5 | Level: 1.12/7)
+- Operations Analysis (Importance: 1.5/5 | Level: 0.75/7)
+- Troubleshooting (Importance: 1.5/5 | Level: 0.5/7)
+- Programming (Importance: 1.38/5 | Level: 0.38/7)
+- Technology Design (Importance: 1.25/5 | Level: 0.25/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adobe Acrobat (Tech skill type: Document management software)
+- Apple Safari (Tech skill type: Internet browser software)
+- Automated manifest system software (Tech skill type: Data base user interface and query software)
+- Corel WordPerfect Office Suite (Tech skill type: Office suite software)
+- Email software (Tech skill type: Electronic mail software)
+- IBM Sterling Configure, Price, Quote (Tech skill type: Enterprise resource planning ERP software)
+- Intuit QuickBooks (Tech skill type: Accounting software)
+- Inventory management systems (Tech skill type: Inventory management software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Dynamics (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Edge (Tech skill type: Internet browser software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft System Center (Tech skill type: Enterprise system management software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Mozilla Firefox (Tech skill type: Internet browser software)
+- Oracle JD Edwards EnterpriseOne (Tech skill type: Enterprise resource planning ERP software)
+- Order management software (Tech skill type: Procurement software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Warehouse management system WMS (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Belt diverters (Tool type: Package stops)
+- Conveyer belts (Tool type: Belt conveyors)
+- Copy machines (Tool type: Photocopiers)
+- Credit card authorization software (Tool type: Point of sale payment terminal)
+- Electronic cash registers (Tool type: Cash registers)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Multiline telephone systems (Tool type: Special purpose telephones)
+- Personal computers (Tool type: Personal computers)
+- Printing calculators (Tool type: Printer calculator)
+
+# WORK CONTEXT
+- Conflict Situations: Once a month or more but not every week
+- Consequence of Error: Not serious at all
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Slightly automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Limited freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: No responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Extremely important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Slightly close (e.g., shared office)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Never
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Never
+- Spend Time Sitting: Continually or almost continually
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Never
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Never
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: High responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a week or more but not every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Conventional
+- Secondary Interest: Enterprising
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Shipping, Receiving, and Inventory Clerks
+- Postal Service Clerks
+- Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel
+- Customer Service Representatives
+- Procurement Clerks
+- Production, Planning, and Expediting Clerks
+- Counter and Rental Clerks
+- Stockers and Order Fillers
+- Billing and Posting Clerks
+- Office Clerks, General
+- Postmasters and Mail Superintendents
+- Purchasing Agents, Except Wholesale, Retail, and Farm Products
+- Advertising Sales Agents
+- Cashiers
+- Wholesale and Retail Buyers, Except Farm Products
+- Mail Clerks and Mail Machine Operators, Except Postal Service
+- Purchasing Managers
+- Driver/Sales Workers
+- Sales Managers
+- First-Line Supervisors of Non-Retail Sales Workers

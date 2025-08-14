@@ -1,0 +1,386 @@
+Job Title: Farmworkers and Laborers, Crop, Nursery, and Greenhouse
+O*NET-SOC Code: 45-2092.00
+
+# DESCRIPTION
+Manually plant, cultivate, and harvest vegetables, fruits, nuts, horticultural specialties, and field crops. Use hand tools, such as shovels, trowels, hoes, tampers, pruning hooks, shears, and knives. Duties may include tilling soil and applying fertilizers; transplanting, weeding, thinning, or pruning crops; applying pesticides; or cleaning, grading, sorting, packing, and loading harvested products. May construct trellises, repair fences and farm buildings, or participate in irrigation activities.
+
+# TASKS
+- Record information about crops, such as pesticide use, yields, or costs.
+- Direct and monitor the work of casual and seasonal help during planting and harvesting.
+- Participate in the inspection, grading, sorting, storage, and post-harvest treatment of crops.
+- Harvest plants, and transplant or pot and label them.
+- Repair and maintain farm vehicles, implements, and mechanical equipment.
+- Harvest fruits and vegetables by hand.
+- Set up and operate irrigation equipment.
+- Inform farmers or farm managers of crop progress.
+- Identify plants, pests, and weeds to determine the selection and application of pesticides and fertilizers.
+- Operate tractors, tractor-drawn machinery, and self-propelled machinery to plow, harrow and fertilize soil, or to plant, cultivate, spray and harvest crops.
+- Load agricultural products into trucks, and drive trucks to market or storage facilities.
+- Clean work areas, and maintain grounds and landscaping.
+- Sell and deliver plants and flowers to customers.
+- Regulate greenhouse conditions, and indoor and outdoor irrigation systems.
+- Feel plants' leaves and note their coloring to detect the presence of insects or disease.
+- Provide information and advice to the public regarding the selection, purchase, and care of products.
+- Maintain and repair irrigation and climate control systems.
+- Dig, cut, and transplant seedlings, cuttings, trees, and shrubs.
+- Record information about plants and plant growth.
+- Maintain inventory, ordering materials as required.
+- Dig, rake, and screen soil, filling cold frames and hot beds in preparation for planting.
+- Inspect plants and bud ties to assess quality.
+- Move containerized shrubs, plants, and trees, using wheelbarrows or tractors.
+- Tie and bunch flowers, plants, shrubs, and trees, wrap their roots, and pack them into boxes to fill orders.
+- Haul and spread topsoil, fertilizer, peat moss, and other materials to condition soil, using wheelbarrows or carts and shovels.
+- Repair farm buildings, fences, and other structures.
+- Plant, spray, weed, fertilize, water, and prune plants, shrubs, and trees, using gardening tools.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Biology (Importance: 2.84/5 | Level: 2.93/7)
+- Food Production (Importance: 2.84/5 | Level: 2.64/7)
+- Mechanical (Importance: 2.71/5 | Level: 2.91/7)
+- Administration and Management (Importance: 2.68/5 | Level: 2.62/7)
+- Chemistry (Importance: 2.64/5 | Level: 2.81/7)
+- Mathematics (Importance: 2.59/5 | Level: 2.43/7)
+- English Language (Importance: 2.52/5 | Level: 2.28/7)
+- Production and Processing (Importance: 2.43/5 | Level: 2.1/7)
+- Customer and Personal Service (Importance: 2.18/5 | Level: 1.73/7)
+- Transportation (Importance: 2.16/5 | Level: 1.81/7)
+- Public Safety and Security (Importance: 2.15/5 | Level: 1.54/7)
+- Education and Training (Importance: 2.13/5 | Level: 2.37/7)
+- Engineering and Technology (Importance: 2.13/5 | Level: 1.83/7)
+- Administrative (Importance: 2.13/5 | Level: 2.03/7)
+- Economics and Accounting (Importance: 2.09/5 | Level: 1.7/7)
+- Computers and Electronics (Importance: 2.01/5 | Level: 2.11/7)
+- Personnel and Human Resources (Importance: 2.0/5 | Level: 1.69/7)
+- Design (Importance: 1.97/5 | Level: 1.55/7)
+- Law and Government (Importance: 1.96/5 | Level: 1.83/7)
+- Psychology (Importance: 1.94/5 | Level: 1.64/7)
+- Geography (Importance: 1.94/5 | Level: 2.12/7)
+- Building and Construction (Importance: 1.92/5 | Level: 1.92/7)
+- Sales and Marketing (Importance: 1.92/5 | Level: 1.73/7)
+- Physics (Importance: 1.91/5 | Level: 1.77/7)
+- Communications and Media (Importance: 1.78/5 | Level: 1.26/7)
+- Telecommunications (Importance: 1.72/5 | Level: 1.17/7)
+- Medicine and Dentistry (Importance: 1.67/5 | Level: 0.82/7)
+- Sociology and Anthropology (Importance: 1.62/5 | Level: 1.11/7)
+- Foreign Language (Importance: 1.58/5 | Level: 0.93/7)
+- History and Archeology (Importance: 1.49/5 | Level: 0.83/7)
+- Philosophy and Theology (Importance: 1.42/5 | Level: 0.83/7)
+- Therapy and Counseling (Importance: 1.36/5 | Level: 0.76/7)
+- Fine Arts (Importance: 1.25/5 | Level: 0.61/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Speaking (Importance: 3.0/5 | Level: 2.88/7)
+- Operations Monitoring (Importance: 3.0/5 | Level: 2.62/7)
+- Active Listening (Importance: 2.88/5 | Level: 2.62/7)
+- Operation and Control (Importance: 2.75/5 | Level: 2.62/7)
+- Monitoring (Importance: 2.75/5 | Level: 2.38/7)
+- Time Management (Importance: 2.75/5 | Level: 2.5/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 2.38/7)
+- Repairing (Importance: 2.75/5 | Level: 2.5/7)
+- Reading Comprehension (Importance: 2.75/5 | Level: 2.62/7)
+- Writing (Importance: 2.75/5 | Level: 2.5/7)
+- Critical Thinking (Importance: 2.75/5 | Level: 2.62/7)
+- Quality Control Analysis (Importance: 2.62/5 | Level: 2.25/7)
+- Equipment Maintenance (Importance: 2.62/5 | Level: 2.62/7)
+- Troubleshooting (Importance: 2.62/5 | Level: 2.25/7)
+- Active Learning (Importance: 2.62/5 | Level: 2.5/7)
+- Learning Strategies (Importance: 2.5/5 | Level: 2.12/7)
+- Systems Analysis (Importance: 2.5/5 | Level: 2.38/7)
+- Persuasion (Importance: 2.5/5 | Level: 2.25/7)
+- Coordination (Importance: 2.5/5 | Level: 2.38/7)
+- Service Orientation (Importance: 2.38/5 | Level: 2.25/7)
+- Complex Problem Solving (Importance: 2.38/5 | Level: 2.5/7)
+- Systems Evaluation (Importance: 2.38/5 | Level: 2.25/7)
+- Management of Personnel Resources (Importance: 2.38/5 | Level: 2.0/7)
+- Judgment and Decision Making (Importance: 2.38/5 | Level: 2.25/7)
+- Equipment Selection (Importance: 2.38/5 | Level: 2.38/7)
+- Instructing (Importance: 2.25/5 | Level: 2.0/7)
+- Mathematics (Importance: 2.12/5 | Level: 1.88/7)
+- Negotiation (Importance: 2.12/5 | Level: 2.0/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.25/7)
+- Management of Financial Resources (Importance: 1.88/5 | Level: 1.25/7)
+- Programming (Importance: 1.62/5 | Level: 0.75/7)
+- Installation (Importance: 1.62/5 | Level: 1.0/7)
+- Operations Analysis (Importance: 1.5/5 | Level: 1.0/7)
+- Technology Design (Importance: 1.5/5 | Level: 0.75/7)
+- Science (Importance: 1.25/5 | Level: 0.5/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- BCL Landview Systems WinCrop (Tech skill type: Data base user interface and query software)
+- Farm Works Software Trac (Tech skill type: Data base user interface and query software)
+- Global positioning system GPS software (Tech skill type: Mobile location based services software)
+- IBM Lotus Notes (Tech skill type: Electronic mail software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Adjustable hand wrenches (Tool type: Adjustable wrenches)
+- Adjustable widemouth pliers (Tool type: Adjustable widemouth pliers)
+- Air compressors (Tool type: Air compressors)
+- All terrain vehicles ATV (Tool type: All terrain vehicles tracked or wheeled)
+- Allen wrenches (Tool type: Hex keys)
+- Anvil pruners (Tool type: Secateurs or pruning shears)
+- Arborist saws (Tool type: Saws)
+- Battery booster cables (Tool type: Battery chargers)
+- Battery power testers (Tool type: Battery testers)
+- Bed formers (Tool type: Agricultural rollers)
+- Bed rollers (Tool type: Agricultural rollers)
+- Bench grafting knives (Tool type: Utility knives)
+- Bow saws (Tool type: Saws)
+- Budding knives (Tool type: Utility knives)
+- Bulb planters (Tool type: Digging bars)
+- Canister gas masks (Tool type: Gas masks)
+- Carbon dioxide systems (Tool type: Greenhouse ventilation equipment)
+- Cargo trucks (Tool type: Cargo trucks)
+- Chain saw sharpeners (Tool type: Grinding machines)
+- Chain saws (Tool type: Power saws)
+- Claw hammers (Tool type: Claw hammer)
+- Combine harvesters (Tool type: Combine harvesters)
+- Compass saws (Tool type: Saws)
+- Compressed air sprayers (Tool type: Sprayers)
+- Corn pickers (Tool type: Harvesters)
+- Crop planters (Tool type: Planters)
+- Desktop computers (Tool type: Desktop computers)
+- Detasselers (Tool type: Pollination equipment or supplies)
+- Digital calipers (Tool type: Calipers)
+- Digital levels (Tool type: Levels)
+- Disk tillage equipment (Tool type: Disks)
+- Drafting compasses (Tool type: Compasses)
+- Drip emitters (Tool type: Irrigation trickles)
+- Drop spreaders (Tool type: Fertilizer spreaders or distributors)
+- Drum rollers (Tool type: Agricultural rollers)
+- Dump trucks (Tool type: Dump trucks)
+- Dust masks (Tool type: Masks or accessories)
+- Feed conveyors (Tool type: Conveyor screw)
+- Fertilizer injectors (Tool type: Fertilizer spreaders or distributors)
+- Fertilizer spreaders (Tool type: Fertilizer spreaders or distributors)
+- Field forklifts (Tool type: Forklifts)
+- Field watering systems (Tool type: Irrigation overheads)
+- Floral snips (Tool type: Secateurs or pruning shears)
+- Forklifts (Tool type: Forklifts)
+- Fruit budding knives (Tool type: Utility knives)
+- Fruit pruners (Tool type: Secateurs or pruning shears)
+- Funnels (Tool type: Industrial funnels)
+- Garden bow rakes (Tool type: Rakes)
+- Garden cultivators (Tool type: Cultivators)
+- Garden dusters (Tool type: Dusters)
+- Garden hand seeders (Tool type: Broadcast spreaders)
+- Garden hoes (Tool type: Hoes)
+- Garden spades (Tool type: Spades)
+- Garden spading forks (Tool type: Spades)
+- Geodetic ground global positioning system GPS receivers (Tool type: Global positioning system GPS receiver)
+- Grafting knives (Tool type: Utility knives)
+- Grain trucks (Tool type: Cargo trucks)
+- Grass shears (Tool type: Secateurs or pruning shears)
+- Grease guns (Tool type: Grease guns)
+- Greenhouse irrigation systems (Tool type: Greenhouse irrigation equipment)
+- Greenhouse ventilation systems (Tool type: Greenhouse ventilation equipment)
+- Hacksaws (Tool type: Hacksaw)
+- Hand drills (Tool type: Power drills)
+- Hand held sprayers (Tool type: Hand sprayers)
+- Hand tallies (Tool type: Counters)
+- Hand trucks (Tool type: Hand trucks or accessories)
+- Handheld calculators (Tool type: Pocket calculator)
+- Handtrucks (Tool type: Hand trucks or accessories)
+- Hanging spring scales (Tool type: Pull spring balances)
+- Hatchets (Tool type: Hatchets)
+- Hay balers (Tool type: Haymaking machinery)
+- Hay rakes (Tool type: Haymaking machinery)
+- Haybines (Tool type: Haymaking machinery)
+- Hedge shears (Tool type: Hedge clippers)
+- Hoes (Tool type: Hoes)
+- Hook-and-blade pruners (Tool type: Secateurs or pruning shears)
+- Hose-end sprayers (Tool type: Hand sprayers)
+- Houseplant shears (Tool type: Secateurs or pruning shears)
+- Houseplant snips (Tool type: Secateurs or pruning shears)
+- Humidifiers (Tool type: Greenhouse ventilation equipment)
+- Humidity systems (Tool type: Greenhouse ventilation equipment)
+- Hydromulchers (Tool type: Seeder attachment)
+- Impulse sprinklers (Tool type: Water sprinklers)
+- Increment borers (Tool type: Forestry increment borers)
+- Indoor/outdoor thermometers (Tool type: Surface thermometers)
+- Knife sharpeners (Tool type: Grinding wheels)
+- Laptop computers (Tool type: Notebook computers)
+- Leaf rakes (Tool type: Rakes)
+- Long arm pruners (Tool type: Secateurs or pruning shears)
+- Loppers (Tool type: Secateurs or pruning shears)
+- Mattocks (Tool type: Picks)
+- Measuring rules (Tool type: Rulers)
+- Measuring tapes (Tool type: Tape measures)
+- Measuring wheels (Tool type: Measuring wheels for distance)
+- Microtip snips (Tool type: Secateurs or pruning shears)
+- Mole grips (Tool type: Locking pliers)
+- Mulch spreaders (Tool type: Broadcast spreaders)
+- Multipurpose tractors (Tool type: Agricultural tractors)
+- Nail hammers (Tool type: Hammers)
+- Open end wrenches (Tool type: Open end wrenches)
+- Oscillating sprinklers (Tool type: Water sprinklers)
+- Paint application brushes (Tool type: Paint brushes)
+- Paint application sprayers (Tool type: Paint sprayers)
+- Pesticide sprayers (Tool type: Sprayers)
+- Phillips head screwdrivers (Tool type: Screwdrivers)
+- Pick axes (Tool type: Axes)
+- Pickup trucks (Tool type: Light trucks or sport utility vehicles)
+- Pipe trailers (Tool type: Integrated tool carriers)
+- Planting augers (Tool type: Planters)
+- Plows (Tool type: Ploughs)
+- Pole pruners (Tool type: High branch shears)
+- Portable battery chargers (Tool type: Battery chargers)
+- Portable electric drills (Tool type: Power drills)
+- Portable generators (Tool type: Gas generators)
+- Post hole diggers (Tool type: Post hole digger)
+- Power blowers (Tool type: Power blowers)
+- Power drills (Tool type: Power drills)
+- Power hedge trimmers (Tool type: Hedge clippers)
+- Power saws (Tool type: Power saws)
+- Pressure washers (Tool type: Pressure or steam cleaners)
+- Pruning knives (Tool type: Utility knives)
+- Pruning saws (Tool type: Saws)
+- Pruning shears (Tool type: Forestry saws)
+- Pruning sticks (Tool type: Secateurs or pruning shears)
+- Putty knives (Tool type: Putty knives)
+- Reel mowers (Tool type: Lawnmowers)
+- Respirators (Tool type: Respirators)
+- Root pruning scissors (Tool type: Secateurs or pruning shears)
+- Rose budding knives (Tool type: Utility knives)
+- Rotary mowers (Tool type: Mowers)
+- Rotary spreaders (Tool type: Broadcast spreaders)
+- Rotary tillers (Tool type: Cultivators)
+- Round point shovels (Tool type: Shovels)
+- Rubber mallets (Tool type: Rubber mallet)
+- Safety goggles (Tool type: Goggles)
+- Sand spreaders (Tool type: Broadcast spreaders)
+- Screen separators (Tool type: Stationary separation equipment or parts or screens)
+- Seed drills (Tool type: Seed drills)
+- Seed dryers (Tool type: Air dryers)
+- Seed tumblers (Tool type: Cleaning machines for seed or grain or dried leguminous vegetables)
+- Sharpening stones (Tool type: Sharpening stones or tools or kits)
+- Shovels (Tool type: Shovels)
+- Siphon proportioners (Tool type: Coiled tubing injector heads)
+- Sledgehammers (Tool type: Sledge hammer)
+- Slotted screwdrivers (Tool type: Screwdrivers)
+- Socket wrench sets (Tool type: Socket sets)
+- Soil augers (Tool type: Soil core sampling apparatus)
+- Soil cultivators (Tool type: Cultivators)
+- Soil moisture meters (Tool type: Moisture meters)
+- Soil pH meters (Tool type: pH meters)
+- Soil sampling tubes (Tool type: Soil core sampling apparatus)
+- Soil thermometers (Tool type: Handheld thermometer)
+- Soybean harvesters (Tool type: Harvesters)
+- Spray suits (Tool type: Protective coveralls)
+- Square point shovels (Tool type: Shovels)
+- Stake drivers (Tool type: Post hole digger)
+- Staple guns (Tool type: Staple guns)
+- Step ladders (Tool type: Ladders)
+- Straight screwdrivers (Tool type: Screwdrivers)
+- String trimmers (Tool type: Power trimmers)
+- Thorn strippers (Tool type: Secateurs or pruning shears)
+- Threshers (Tool type: Threshing machines)
+- Tie tape machines (Tool type: Label making tapes)
+- Tractor-trailers (Tool type: Cargo trucks)
+- Tractors (Tool type: Agricultural tractors)
+- Transplanters (Tool type: Transplanters)
+- Transplanting trowels (Tool type: Trowels)
+- Tree calipers (Tool type: Calipers)
+- Tree diameter tapes (Tool type: Tape measures)
+- Tree feeding augers (Tool type: Digging bars)
+- Tree marking guns (Tool type: Hand sprayers)
+- Tree planting bars (Tool type: Digging bars)
+- Tree scale sticks (Tool type: Measuring rods)
+- Trowels (Tool type: Trowels)
+- Tube cutters (Tool type: Pipe or tube cutter)
+- Utility knives (Tool type: Utility knives)
+- Vertical mowers (Tool type: Lawnmowers)
+- Wheelbarrows (Tool type: Wheelbarrows)
+- Wood chisels (Tool type: Wood chisels)
+- Wrecking bars (Tool type: Pry bars)
+
+# WORK CONTEXT
+- Conflict Situations: Never
+- Consequence of Error: Not serious at all
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Not important at all
+- Dealing With Unpleasant, Angry, or Discourteous People: Never
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Never
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Every day
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Never
+- Exposed to Very Hot or Cold Temperatures: Every day
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Never
+- Health and Safety of Other Workers: High responsibility
+- Impact of Decisions on Co-workers or Company Results: No results
+- Importance of Being Exact or Accurate: Important
+- Importance of Repeating Same Tasks: Not important at all
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Never
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Slightly competitive
+- Outdoors, Exposed to All Weather Conditions: Every day
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Continually or almost continually
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Less than half the time
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Continually or almost continually
+- Spend Time Sitting: Never
+- Spend Time Standing: Continually or almost continually
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: More than half the time
+- Telephone Conversations: Never
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: High responsibility
+- Work With or Contribute to a Work Group or Team: Important
+- Written Letters and Memos: Never
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Agricultural Equipment Operators
+- Farmworkers, Farm, Ranch, and Aquacultural Animals
+- Graders and Sorters, Agricultural Products
+- Landscaping and Groundskeeping Workers
+- Pesticide Handlers, Sprayers, and Applicators, Vegetation
+- Forest and Conservation Workers
+- Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders
+- Tree Trimmers and Pruners
+- Laborers and Freight, Stock, and Material Movers, Hand
+- Fallers
+- Farmers, Ranchers, and Other Agricultural Managers
+- Soil and Plant Scientists
+- Agricultural Technicians
+- Packers and Packagers, Hand
+- Farm Equipment Mechanics and Service Technicians
+- Food Batchmakers
+- Meat, Poultry, and Fish Cutters and Trimmers
+- Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders
+- Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders
+- Machine Feeders and Offbearers

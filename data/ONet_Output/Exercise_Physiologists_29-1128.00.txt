@@ -1,0 +1,247 @@
+Job Title: Exercise Physiologists
+O*NET-SOC Code: 29-1128.00
+
+# DESCRIPTION
+Assess, plan, or implement fitness programs that include exercise or physical activities such as those designed to improve cardiorespiratory function, body composition, muscular strength, muscular endurance, or flexibility.
+
+# TASKS
+- Develop exercise programs to improve participant strength, flexibility, endurance, or circulatory functioning, in accordance with exercise science standards, regulatory requirements, and credentialing requirements.
+- Provide emergency or other appropriate medical care to participants with symptoms or signs of physical distress.
+- Demonstrate correct use of exercise equipment or performance of exercise routines.
+- Recommend methods to increase lifestyle physical activity.
+- Interpret exercise program participant data to evaluate progress or identify needed program changes.
+- Prescribe individualized exercise programs, specifying equipment, such as treadmill, exercise bicycle, ergometers, or perceptual goggles.
+- Provide clinical oversight of exercise for participants at all risk levels.
+- Explain exercise program or physiological testing procedures to participants.
+- Interview participants to obtain medical history or assess participant goals.
+- Assess physical performance requirements to aid in the development of individualized recovery or rehabilitation exercise programs.
+- Teach behavior modification classes related to topics such as stress management or weight control.
+- Conduct stress tests, using electrocardiograph (EKG) machines.
+- Measure oxygen consumption or lung functioning, using spirometers.
+- Educate athletes or coaches on techniques to improve athletic performance, such as heart rate monitoring, recovery techniques, hydration strategies, or training limits.
+- Evaluate staff performance in leading group exercise or conducting diagnostic tests.
+- Teach group exercise for low-, medium-, or high-risk clients to improve participant strength, flexibility, endurance, or circulatory functioning.
+- Calibrate exercise or testing equipment.
+- Teach courses or seminars related to exercise or diet for patients, athletes, or community groups.
+- Mentor or train staff to lead group exercise.
+- Measure amount of body fat, using such equipment as hydrostatic scale, skinfold calipers, or tape measures.
+- Perform routine laboratory tests of blood samples for cholesterol level or glucose tolerance.
+- Supervise maintenance of exercise or exercise testing equipment.
+- Present exercise knowledge, program information, or research study findings at professional meetings or conferences.
+- Order or recommend diagnostic procedures, such as stress tests, drug screenings, or urinary tests.
+- Plan or conduct exercise physiology research projects.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.36/5 | Level: 5.05/7)
+- Medicine and Dentistry (Importance: 3.91/5 | Level: 3.82/7)
+- Therapy and Counseling (Importance: 3.82/5 | Level: 4.27/7)
+- Education and Training (Importance: 3.82/5 | Level: 4.41/7)
+- English Language (Importance: 3.68/5 | Level: 3.82/7)
+- Biology (Importance: 3.55/5 | Level: 3.82/7)
+- Psychology (Importance: 3.41/5 | Level: 4.14/7)
+- Mathematics (Importance: 3.0/5 | Level: 3.68/7)
+- Administrative (Importance: 3.0/5 | Level: 3.68/7)
+- Administration and Management (Importance: 2.73/5 | Level: 3.18/7)
+- Computers and Electronics (Importance: 2.67/5 | Level: 3.18/7)
+- Public Safety and Security (Importance: 2.59/5 | Level: 2.32/7)
+- Sociology and Anthropology (Importance: 2.36/5 | Level: 2.86/7)
+- Communications and Media (Importance: 2.36/5 | Level: 2.45/7)
+- Sales and Marketing (Importance: 2.27/5 | Level: 3.23/7)
+- Physics (Importance: 2.18/5 | Level: 2.36/7)
+- Chemistry (Importance: 2.14/5 | Level: 2.23/7)
+- Personnel and Human Resources (Importance: 2.0/5 | Level: 2.09/7)
+- Telecommunications (Importance: 2.0/5 | Level: 1.23/7)
+- Law and Government (Importance: 1.91/5 | Level: 1.77/7)
+- Economics and Accounting (Importance: 1.77/5 | Level: 1.64/7)
+- Mechanical (Importance: 1.73/5 | Level: 1.73/7)
+- Philosophy and Theology (Importance: 1.64/5 | Level: 1.27/7)
+- Design (Importance: 1.59/5 | Level: 1.23/7)
+- Engineering and Technology (Importance: 1.5/5 | Level: 0.95/7)
+- Foreign Language (Importance: 1.41/5 | Level: 0.68/7)
+- Transportation (Importance: 1.36/5 | Level: 0.73/7)
+- Production and Processing (Importance: 1.36/5 | Level: 0.73/7)
+- Food Production (Importance: 1.27/5 | Level: 0.68/7)
+- Geography (Importance: 1.23/5 | Level: 0.5/7)
+- History and Archeology (Importance: 1.14/5 | Level: 0.32/7)
+- Fine Arts (Importance: 1.09/5 | Level: 0.14/7)
+- Building and Construction (Importance: 1.09/5 | Level: 0.23/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Speaking (Importance: 4.0/5 | Level: 4.12/7)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.0/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.5/7)
+- Instructing (Importance: 4.0/5 | Level: 3.75/7)
+- Active Listening (Importance: 4.0/5 | Level: 4.0/7)
+- Writing (Importance: 3.88/5 | Level: 4.0/7)
+- Monitoring (Importance: 3.75/5 | Level: 4.0/7)
+- Social Perceptiveness (Importance: 3.75/5 | Level: 3.88/7)
+- Service Orientation (Importance: 3.75/5 | Level: 4.0/7)
+- Judgment and Decision Making (Importance: 3.75/5 | Level: 3.88/7)
+- Complex Problem Solving (Importance: 3.62/5 | Level: 3.5/7)
+- Active Learning (Importance: 3.25/5 | Level: 3.88/7)
+- Learning Strategies (Importance: 3.25/5 | Level: 3.75/7)
+- Systems Analysis (Importance: 3.12/5 | Level: 3.12/7)
+- Coordination (Importance: 3.12/5 | Level: 3.62/7)
+- Systems Evaluation (Importance: 3.12/5 | Level: 3.12/7)
+- Negotiation (Importance: 3.0/5 | Level: 3.0/7)
+- Persuasion (Importance: 3.0/5 | Level: 3.62/7)
+- Time Management (Importance: 3.0/5 | Level: 3.12/7)
+- Mathematics (Importance: 2.88/5 | Level: 3.0/7)
+- Management of Personnel Resources (Importance: 2.88/5 | Level: 3.0/7)
+- Science (Importance: 2.88/5 | Level: 3.0/7)
+- Operations Analysis (Importance: 2.25/5 | Level: 2.12/7)
+- Operations Monitoring (Importance: 2.12/5 | Level: 2.38/7)
+- Quality Control Analysis (Importance: 2.12/5 | Level: 2.0/7)
+- Technology Design (Importance: 2.0/5 | Level: 1.75/7)
+- Operation and Control (Importance: 2.0/5 | Level: 1.75/7)
+- Troubleshooting (Importance: 2.0/5 | Level: 1.25/7)
+- Programming (Importance: 1.88/5 | Level: 1.12/7)
+- Equipment Selection (Importance: 1.75/5 | Level: 1.25/7)
+- Management of Material Resources (Importance: 1.62/5 | Level: 1.12/7)
+- Management of Financial Resources (Importance: 1.5/5 | Level: 1.0/7)
+- Equipment Maintenance (Importance: 1.25/5 | Level: 0.25/7)
+- Installation (Importance: 1.25/5 | Level: 0.25/7)
+- Repairing (Importance: 1.12/5 | Level: 0.25/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Email software (Tech skill type: Electronic mail software)
+- MEDITECH software (Tech skill type: Medical software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Arm crank ergometers (Tool type: Work table or station for rehabilitation or therapy)
+- Automated blood pressure measurement equipment (Tool type: Electronic blood pressure units)
+- Automated external defibrillators AED (Tool type: Mobile medical services automated external defibrillators AED or hard paddles)
+- Bioelectric impedance analyzers (Tool type: Impedance meters)
+- Cholesterol analyzers (Tool type: Cholesterol monitors or meters)
+- Cycle ergometers (Tool type: Stationary bicycles)
+- Desktop computers (Tool type: Desktop computers)
+- Dual energy x ray absorptiometers (Tool type: Mass spectrometers)
+- Echocardiography systems (Tool type: Medical ultrasound or doppler or echocardiograph transducer accessories)
+- Electrocardiography EKG machines (Tool type: Electrocardiography EKG units)
+- Electromyographs EMG (Tool type: Electromyography EMG units)
+- Electronic spirometers (Tool type: Spirometers)
+- Electronic timing systems (Tool type: Clock timers)
+- Exercise treadmills (Tool type: Treadmills)
+- Goniometers or arthrometers (Tool type: Goniometers or arthrometers)
+- Heart rate monitors (Tool type: Cardiac output CO monitoring units)
+- Holter monitors (Tool type: Holter or wearable EKG monitoring systems or accessories)
+- Hydraulic hand dynamometers (Tool type: Grip strengthener)
+- Intravenous IV infusion pumps (Tool type: Intravenous infusion pumps for general use)
+- Isokinetic dynamometers (Tool type: Dynamometers)
+- Lactate analyzers (Tool type: Lactate analyzers)
+- Laptop computers (Tool type: Notebook computers)
+- Manual blood pressure equipment (Tool type: Mercury blood pressure units)
+- Mechanical stethoscopes (Tool type: Medical acoustic stethoscopes)
+- Metabolic carts (Tool type: Calorimeters)
+- Microhematocrits (Tool type: Microcentrifuges)
+- Multi-line telephone systems (Tool type: Special purpose telephones)
+- Muscle strength dynamometers (Tool type: Dynamometers)
+- Near infrared spectrometers (Tool type: Infrared spectrometers)
+- Osmometers (Tool type: Osmometers)
+- Oxygen analyzers (Tool type: Respiratory monitoring kit accessories)
+- Patient weight scales (Tool type: Patient floor scales)
+- Pedometers (Tool type: Pedometers)
+- Perceptual goggles (Tool type: Cognitive or dexterity or perceptual or sensory evaluation or testing products)
+- Personal computers (Tool type: Personal computers)
+- Photocopying equipment (Tool type: Photocopiers)
+- Pulse oximeters (Tool type: Pulse oximeter units)
+- Skinfold calipers (Tool type: Skinfold calipers)
+- Spirometers (Tool type: Spirometers)
+- Stair climbers (Tool type: Climbing devices for rehabilitation or therapy)
+- Strength training equipment (Tool type: Weights or sets for rehabilitation or therapy)
+- Telemetry units (Tool type: Electrocardiography EKG transmitters or telemetry devices)
+- Underwater weighing tanks (Tool type: Bodyweight measuring scales)
+- Urine analysis equipment (Tool type: Urinalysis analyzers)
+- Whole body air plethysmography systems (Tool type: Body plethysmographs)
+
+# WORK CONTEXT
+- Conflict Situations: Once a month or more but not every week
+- Consequence of Error: Fairly serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a week or more but not every day
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Once a month or more but not every week
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Never
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Moderate responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Very important
+- Importance of Repeating Same Tasks: Very important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Highly competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Very close (near touching)
+- Public Speaking: Once a year or more but not every month
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Less than half the time
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Less than half the time
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: More than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: About half the time
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Once a month or more but not every week
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Never
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Limited responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a month or more but not every week
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Investigative
+- Tertiary Interest: Social
+
+# RELATED OCCUPATIONS
+- Physical Medicine and Rehabilitation Physicians
+- Exercise Trainers and Group Fitness Instructors
+- Physical Therapists
+- Physical Therapist Assistants
+- Athletic Trainers
+- Dietitians and Nutritionists
+- Cardiovascular Technologists and Technicians
+- Sports Medicine Physicians
+- Recreational Therapists
+- Occupational Therapists
+- Cardiologists
+- Respiratory Therapists
+- Clinical Nurse Specialists
+- Radiation Therapists
+- Physical Therapist Aides
+- Pediatric Surgeons
+- Occupational Therapy Aides
+- Neurologists
+- Psychiatric Technicians
+- Acute Care Nurses

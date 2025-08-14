@@ -1,0 +1,304 @@
+Job Title: Surveyors
+O*NET-SOC Code: 17-1022.00
+
+# DESCRIPTION
+Make exact measurements and determine property boundaries. Provide data relevant to the shape, contour, gravitation, location, elevation, or dimension of land or land features on or near the earth's surface for engineering, mapmaking, mining, land evaluation, construction, and other purposes.
+
+# TASKS
+- Direct or conduct surveys to establish legal boundaries for properties, based on legal deeds and titles.
+- Prepare and maintain sketches, maps, reports, and legal descriptions of surveys to describe, certify, and assume liability for work performed.
+- Write descriptions of property boundary surveys for use in deeds, leases, or other legal documents.
+- Verify the accuracy of survey data, including measurements and calculations conducted at survey sites.
+- Search legal records, survey records, and land titles to obtain information about property boundaries in areas to be surveyed.
+- Record the results of surveys, including the shape, contour, location, elevation, and dimensions of land or land features.
+- Prepare, or supervise preparation of, all data, charts, plots, maps, records, and documents related to surveys.
+- Compute geodetic measurements and interpret survey data to determine positions, shapes, and elevations of geomorphic and topographic features.
+- Calculate heights, depths, relative positions, property lines, and other characteristics of terrain.
+- Plan and conduct ground surveys designed to establish baselines, elevations, and other geodetic measurements.
+- Establish fixed points for use in making maps, using geodetic and engineering instruments.
+- Determine longitudes and latitudes of important features and boundaries in survey areas, using theodolites, transits, levels, and satellite-based global positioning systems (GPS).
+- Train assistants and helpers, and direct their work in such activities as performing surveys or drafting maps.
+- Coordinate findings with the work of engineering and architectural personnel, clients, and others concerned with projects.
+- Analyze survey objectives and specifications to prepare survey proposals or to direct others in survey proposal preparation.
+- Testify as an expert witness in court cases on land survey issues, such as property boundaries.
+- Adjust surveying instruments to maintain their accuracy.
+- Develop criteria for survey methods and procedures.
+- Survey bodies of water to determine navigable channels and to secure data for construction of breakwaters, piers, and other marine structures.
+- Direct aerial surveys of specified geographical areas.
+- Conduct research in surveying and mapping methods, using knowledge of photogrammetric map compilation and electronic data processing.
+- Locate and mark sites selected for geophysical prospecting activities, such as efforts to locate petroleum or other mineral products.
+- Determine specifications for equipment to be used for aerial photography, as well as altitudes from which to photograph terrain.
+- Develop criteria for the design and modification of survey instruments.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mathematics (Importance: 4.7/5 | Level: 5.5/7)
+- Engineering and Technology (Importance: 4.25/5 | Level: 4.75/7)
+- Geography (Importance: 4.05/5 | Level: 4.95/7)
+- Computers and Electronics (Importance: 3.95/5 | Level: 5.0/7)
+- Customer and Personal Service (Importance: 3.7/5 | Level: 4.35/7)
+- Design (Importance: 3.7/5 | Level: 4.6/7)
+- Building and Construction (Importance: 3.68/5 | Level: 4.3/7)
+- Administration and Management (Importance: 3.65/5 | Level: 4.55/7)
+- English Language (Importance: 3.47/5 | Level: 3.8/7)
+- Law and Government (Importance: 3.45/5 | Level: 4.1/7)
+- Education and Training (Importance: 3.35/5 | Level: 4.74/7)
+- Administrative (Importance: 3.05/5 | Level: 4.05/7)
+- Personnel and Human Resources (Importance: 3.05/5 | Level: 3.6/7)
+- Sales and Marketing (Importance: 2.95/5 | Level: 3.9/7)
+- Public Safety and Security (Importance: 2.95/5 | Level: 3.05/7)
+- Production and Processing (Importance: 2.9/5 | Level: 3.55/7)
+- Economics and Accounting (Importance: 2.85/5 | Level: 2.85/7)
+- Transportation (Importance: 2.53/5 | Level: 2.63/7)
+- Physics (Importance: 2.4/5 | Level: 2.7/7)
+- History and Archeology (Importance: 2.4/5 | Level: 2.25/7)
+- Mechanical (Importance: 2.21/5 | Level: 2.5/7)
+- Telecommunications (Importance: 2.2/5 | Level: 2.1/7)
+- Communications and Media (Importance: 2.05/5 | Level: 1.9/7)
+- Psychology (Importance: 1.65/5 | Level: 1.1/7)
+- Biology (Importance: 1.5/5 | Level: 1.0/7)
+- Chemistry (Importance: 1.45/5 | Level: 1.1/7)
+- Sociology and Anthropology (Importance: 1.37/5 | Level: 0.74/7)
+- Therapy and Counseling (Importance: 1.25/5 | Level: 0.7/7)
+- Philosophy and Theology (Importance: 1.15/5 | Level: 0.25/7)
+- Medicine and Dentistry (Importance: 1.11/5 | Level: 0.25/7)
+- Foreign Language (Importance: 1.1/5 | Level: 0.1/7)
+- Food Production (Importance: 1.05/5 | Level: 0.15/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mathematics (Importance: 4.0/5 | Level: 4.12/7)
+- Reading Comprehension (Importance: 3.88/5 | Level: 4.12/7)
+- Writing (Importance: 3.75/5 | Level: 4.0/7)
+- Critical Thinking (Importance: 3.75/5 | Level: 4.0/7)
+- Speaking (Importance: 3.62/5 | Level: 3.88/7)
+- Coordination (Importance: 3.5/5 | Level: 3.62/7)
+- Active Listening (Importance: 3.5/5 | Level: 3.88/7)
+- Judgment and Decision Making (Importance: 3.25/5 | Level: 3.12/7)
+- Active Learning (Importance: 3.25/5 | Level: 3.38/7)
+- Learning Strategies (Importance: 3.12/5 | Level: 3.5/7)
+- Time Management (Importance: 3.12/5 | Level: 3.5/7)
+- Complex Problem Solving (Importance: 3.12/5 | Level: 3.25/7)
+- Instructing (Importance: 3.0/5 | Level: 3.5/7)
+- Systems Analysis (Importance: 3.0/5 | Level: 3.0/7)
+- Monitoring (Importance: 3.0/5 | Level: 3.38/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 3.0/7)
+- Management of Personnel Resources (Importance: 2.88/5 | Level: 3.5/7)
+- Systems Evaluation (Importance: 2.75/5 | Level: 2.88/7)
+- Service Orientation (Importance: 2.75/5 | Level: 2.88/7)
+- Operation and Control (Importance: 2.75/5 | Level: 2.88/7)
+- Operations Monitoring (Importance: 2.75/5 | Level: 2.75/7)
+- Science (Importance: 2.62/5 | Level: 2.75/7)
+- Persuasion (Importance: 2.5/5 | Level: 2.75/7)
+- Negotiation (Importance: 2.5/5 | Level: 2.5/7)
+- Quality Control Analysis (Importance: 2.5/5 | Level: 2.62/7)
+- Equipment Selection (Importance: 2.12/5 | Level: 2.12/7)
+- Equipment Maintenance (Importance: 1.88/5 | Level: 1.62/7)
+- Repairing (Importance: 1.88/5 | Level: 1.38/7)
+- Operations Analysis (Importance: 1.88/5 | Level: 1.5/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.62/7)
+- Troubleshooting (Importance: 1.88/5 | Level: 1.62/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 1.38/7)
+- Technology Design (Importance: 1.62/5 | Level: 0.62/7)
+- Programming (Importance: 1.38/5 | Level: 0.75/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Autodesk AutoCAD Civil 3D (Tech skill type: Computer aided design CAD software)
+- Autodesk AutoCAD Land Desktop (Tech skill type: Computer aided design CAD software)
+- Bentley GeoPak Bridge (Tech skill type: Graphics or photo imaging software)
+- Bentley MicroStation (Tech skill type: Computer aided design CAD software)
+- Bentley Systems InRoads Suite (Tech skill type: Map creation software)
+- Cadcorp desktop GIS (Tech skill type: Geographic information system)
+- Carlson SurvCADD (Tech skill type: Computer aided design CAD software)
+- Carlson SurvCE (Tech skill type: Analytical or scientific software)
+- Carlson Survey (Tech skill type: Map creation software)
+- CE SURVEYOR III (Tech skill type: Analytical or scientific software)
+- CloudWorks (Tech skill type: Application server software)
+- CMT Incorporated CogoCAD (Tech skill type: Computer aided design CAD software)
+- Computer aided design and drafting software CADD (Tech skill type: Computer aided design CAD software)
+- Crones & Associations Project Tracker Pro (Tech skill type: Project management software)
+- Cyclone (Tech skill type: Data conversion software)
+- Data logging software (Tech skill type: Data base user interface and query software)
+- Data transfer software (Tech skill type: Document management software)
+- Drafting software (Tech skill type: Map creation software)
+- ESRI ArcGIS software (Tech skill type: Geographic information system)
+- ESRI ArcView (Tech skill type: Geographic information system)
+- Geocomp Systems GeoNav (Tech skill type: Analytical or scientific software)
+- Geodetic software (Tech skill type: Analytical or scientific software)
+- Geographic information system GIS software (Tech skill type: Geographic information system)
+- Geographic information system GIS systems (Tech skill type: Geographic information system)
+- Geomechanical design analysis GDA software (Tech skill type: Map creation software)
+- Global positioning system GPS software (Tech skill type: Mobile location based services software)
+- HYPACK HYSWEEP (Tech skill type: Analytical or scientific software)
+- HYPACK MAX (Tech skill type: Analytical or scientific software)
+- Internet browser software (Tech skill type: Internet browser software)
+- Latitude software (Tech skill type: Office suite software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Word (Tech skill type: Word processing software)
+- MicroSurvey FieldGenius (Tech skill type: Analytical or scientific software)
+- MicroSurveyCAD (Tech skill type: Computer aided design CAD software)
+- NOAA Shoreline Data Explorer (Tech skill type: Route navigation software)
+- PC-Mapper software (Tech skill type: Map creation software)
+- Project analysis and costing software (Tech skill type: Project management software)
+- Project data integration software (Tech skill type: Project management software)
+- Sharetech Tabs Plus (Tech skill type: Time accounting software)
+- Sokkia Imap (Tech skill type: Map creation software)
+- Sokkia Spectrum Survey Suite (Tech skill type: Analytical or scientific software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- Surface modeling software (Tech skill type: Analytical or scientific software)
+- Survey software (Tech skill type: Analytical or scientific software)
+- Topographic database software (Tech skill type: Information retrieval or search software)
+- Trimble HYDROpro (Tech skill type: Map creation software)
+- Trimble Terramodel (Tech skill type: Computer aided design CAD software)
+
+## TOOLS USED
+- Abney levels (Tool type: Height gauges)
+- Altimeters (Tool type: Height gauges)
+- Automatic levels (Tool type: Levels)
+- Automatic slope lasers (Tool type: Laser measuring systems)
+- Barometers (Tool type: Barometers)
+- Clinometers (Tool type: Clinometers)
+- Curvimeters (Tool type: Map measurers)
+- Depth gauge tapes (Tool type: Measuring tapes)
+- Digital laser rangefinders (Tool type: Rangefinders)
+- Digital measuring poles (Tool type: Measuring rods)
+- Direct elevation rods (Tool type: Measuring rods)
+- Distance meters (Tool type: Distance meters)
+- Dot lasers (Tool type: Lasers)
+- Double right-angle prisms (Tool type: Prisms)
+- Electronic digital levels (Tool type: Levels)
+- Electronic digital theodolites (Tool type: Theodolites)
+- Elevator tripods (Tool type: Instrument tripods)
+- Gammon reels (Tool type: Tape measures)
+- Geological compasses (Tool type: Geological compasses)
+- Global positioning system GPS receivers (Tool type: Global positioning system GPS receiver)
+- Hand levels (Tool type: Levels)
+- Handheld measuring lasers (Tool type: Laser measuring systems)
+- Integrated global positioning systems GPS (Tool type: Global positioning system GPS receiver)
+- Invisible beam lasers (Tool type: Lasers)
+- Laptop computers (Tool type: Notebook computers)
+- Laser plumb bobs (Tool type: Plumb bobs)
+- Laser scanners (Tool type: Scanners)
+- Line lasers (Tool type: Laser measuring systems)
+- Long range reflectorless total stations (Tool type: Theodolites)
+- Machetes (Tool type: Machetes)
+- Magnetic locators (Tool type: Electromagnetic geophysical instruments)
+- Measuring rods (Tool type: Measuring rods)
+- Measuring tapes (Tool type: Tape measures)
+- Mechanical theodolites (Tool type: Theodolites)
+- Philadelphia rods (Tool type: Measuring rods)
+- Planimeters (Tool type: Map measurers)
+- Plumb bobs (Tool type: Plumb bobs)
+- Pocket personal computers PC (Tool type: Personal computers)
+- Pocket transits (Tool type: Geological compasses)
+- Prism poles (Tool type: Extension pole)
+- Prismless total stations (Tool type: Theodolites)
+- Reflectorless total stations (Tool type: Theodolites)
+- Right-angle prisms (Tool type: Prisms)
+- Road measuring wheels (Tool type: Measuring wheels for distance)
+- Robotic total stations (Tool type: Theodolites)
+- Robotic tripods (Tool type: Instrument tripods)
+- Rod levels (Tool type: Measuring rods)
+- Rotary lasers (Tool type: Lasers)
+- San Francisco rods (Tool type: Measuring rods)
+- Side scan sonars (Tool type: Sonars)
+- Single-beam echo sounders (Tool type: Sonometers)
+- Single-beam transducers (Tool type: Sonometers)
+- Stereoscopes (Tool type: Video attachments for microscopes)
+- Surveyors leveling rods (Tool type: Measuring rods)
+- Telescopic viewers (Tool type: Distance meters)
+- Total stations (Tool type: Theodolites)
+- Tracking lasers (Tool type: Interferometers)
+- Transit levels (Tool type: Level sensors or transmitters)
+- Tribrachs (Tool type: Optical calibration sets)
+- Tripods (Tool type: Instrument tripods)
+- Two way radios (Tool type: Two way radios)
+- Visible beam lasers (Tool type: Lasers)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Fairly serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a month or more but not every week
+- Dealing with Violent or Physically Aggressive People: Once a year or more but not every month
+- Degree of Automation: Slightly automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Once a year or more but not every month
+- Exposed to Cramped Work Space, Awkward Positions: Once a year or more but not every month
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Once a year or more but not every month
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Once a week or more but not every day
+- Exposed to High Places: Once a year or more but not every month
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Once a month or more but not every week
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Once a week or more but not every day
+- Exposed to Very Hot or Cold Temperatures: Once a week or more but not every day
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: High responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Very important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Every day
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Highly competitive
+- Outdoors, Exposed to All Weather Conditions: Every day
+- Outdoors, Under Cover: Once a year or more but not every month
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Once a year or more but not every month
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Less than half the time
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Less than half the time
+- Spend Time Sitting: About half the time
+- Spend Time Standing: About half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Once a week or more but not every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Once a week or more but not every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Once a year or more but not every month
+- Work Outcomes and Results of Other Workers: High responsibility
+- Work With or Contribute to a Work Group or Team: Very important
+- Written Letters and Memos: Once a week or more but not every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Conventional
+- Secondary Interest: Realistic
+- Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Geodetic Surveyors
+- Surveying and Mapping Technicians
+- Civil Engineers
+- Construction and Building Inspectors
+- Cartographers and Photogrammetrists
+- Civil Engineering Technologists and Technicians
+- Geological Technicians, Except Hydrologic Technicians
+- Mining and Geological Engineers, Including Mining Safety Engineers
+- Architectural and Civil Drafters
+- Appraisers and Assessors of Real Estate
+- Geoscientists, Except Hydrologists and Geographers
+- Construction Managers
+- Government Property Inspectors and Investigators
+- Transportation Inspectors
+- Cost Estimators
+- Hydrologists
+- Architects, Except Landscape and Naval
+- Conservation Scientists
+- Landscape Architects
+- Forest and Conservation Technicians

@@ -1,0 +1,258 @@
+Job Title: Neurologists
+O*NET-SOC Code: 29-1217.00
+
+# DESCRIPTION
+Diagnose, manage, and treat disorders and diseases of the brain, spinal cord, and peripheral nerves, with a primarily nonsurgical focus.
+
+# TASKS
+- Interview patients to obtain information, such as complaints, symptoms, medical histories, and family histories.
+- Examine patients to obtain information about functional status of areas, such as vision, physical strength, coordination, reflexes, sensations, language skills, cognitive abilities, and mental status.
+- Perform or interpret the outcomes of procedures or diagnostic tests, such as lumbar punctures, electroencephalography, electromyography, and nerve conduction velocity tests.
+- Order or interpret results of laboratory analyses of patients' blood or cerebrospinal fluid.
+- Diagnose neurological conditions based on interpretation of examination findings, histories, or test results.
+- Prescribe or administer medications, such as anti-epileptic drugs, and monitor patients for behavioral and cognitive side effects.
+- Identify and treat major neurological system diseases and disorders, such as central nervous system infection, cranio spinal trauma, dementia, and stroke.
+- Develop treatment plans based on diagnoses and on evaluation of factors, such as age and general health, or procedural risks and costs.
+- Inform patients or families of neurological diagnoses and prognoses, or benefits, risks and costs of various treatment plans.
+- Prepare, maintain, or review records that include patients' histories, neurological examination findings, treatment plans, or outcomes.
+- Communicate with other health care professionals regarding patients' conditions and care.
+- Counsel patients or others on the background of neurological disorders including risk factors, or genetic or environmental concerns.
+- Interpret the results of neuroimaging studies, such as Magnetic Resonance Imaging (MRI), Single Photon Emission Computed Tomography (SPECT), and Positron Emission Tomography (PET) scans.
+- Determine brain death using accepted tests and procedures.
+- Coordinate neurological services with other health care team activities.
+- Refer patients to other health care practitioners as necessary.
+- Advise other physicians on the treatment of neurological problems.
+- Participate in continuing education activities to maintain and expand competence.
+- Order supportive care services, such as physical therapy, specialized nursing care, and social services.
+- Provide training to medical students or staff members.
+- Supervise medical technicians in the performance of neurological diagnostic or therapeutic activities.
+- Participate in neuroscience research activities.
+- Perform specialized treatments in areas such as sleep disorders, neuroimmunology, neuro-oncology, behavioral neurology, and neurogenetics.
+- Prescribe or administer treatments, such as transcranial magnetic stimulation, vagus nerve stimulation, and deep brain stimulation.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Medicine and Dentistry (Importance: 4.84/5 | Level: 6.45/7)
+- English Language (Importance: 4.2/5 | Level: 5.31/7)
+- Psychology (Importance: 4.14/5 | Level: 5.74/7)
+- Biology (Importance: 4.08/5 | Level: 5.14/7)
+- Therapy and Counseling (Importance: 3.96/5 | Level: 5.44/7)
+- Education and Training (Importance: 3.74/5 | Level: 4.97/7)
+- Computers and Electronics (Importance: 3.73/5 | Level: 4.71/7)
+- Chemistry (Importance: 3.61/5 | Level: 4.63/7)
+- Customer and Personal Service (Importance: 3.6/5 | Level: 4.45/7)
+- Mathematics (Importance: 3.51/5 | Level: 4.49/7)
+- Administration and Management (Importance: 3.17/5 | Level: 3.82/7)
+- Sociology and Anthropology (Importance: 2.75/5 | Level: 3.07/7)
+- Law and Government (Importance: 2.75/5 | Level: 3.19/7)
+- Personnel and Human Resources (Importance: 2.75/5 | Level: 3.66/7)
+- Administrative (Importance: 2.7/5 | Level: 3.53/7)
+- Philosophy and Theology (Importance: 2.62/5 | Level: 3.46/7)
+- Communications and Media (Importance: 2.55/5 | Level: 2.94/7)
+- Foreign Language (Importance: 2.45/5 | Level: 2.66/7)
+- Public Safety and Security (Importance: 2.25/5 | Level: 1.95/7)
+- Economics and Accounting (Importance: 2.06/5 | Level: 2.07/7)
+- Telecommunications (Importance: 2.02/5 | Level: 1.47/7)
+- Engineering and Technology (Importance: 2.0/5 | Level: 1.85/7)
+- Physics (Importance: 1.91/5 | Level: 1.94/7)
+- Transportation (Importance: 1.86/5 | Level: 1.83/7)
+- Sales and Marketing (Importance: 1.47/5 | Level: 1.17/7)
+- Geography (Importance: 1.33/5 | Level: 0.65/7)
+- Design (Importance: 1.25/5 | Level: 0.5/7)
+- Mechanical (Importance: 1.21/5 | Level: 0.37/7)
+- Production and Processing (Importance: 1.2/5 | Level: 0.38/7)
+- History and Archeology (Importance: 1.11/5 | Level: 0.18/7)
+- Building and Construction (Importance: 1.09/5 | Level: 0.39/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Active Listening (Importance: 4.25/5 | Level: 4.5/7)
+- Complex Problem Solving (Importance: 4.12/5 | Level: 4.62/7)
+- Speaking (Importance: 4.12/5 | Level: 4.38/7)
+- Critical Thinking (Importance: 4.12/5 | Level: 4.88/7)
+- Social Perceptiveness (Importance: 4.12/5 | Level: 4.62/7)
+- Reading Comprehension (Importance: 4.12/5 | Level: 5.5/7)
+- Writing (Importance: 4.0/5 | Level: 4.38/7)
+- Monitoring (Importance: 4.0/5 | Level: 4.62/7)
+- Judgment and Decision Making (Importance: 4.0/5 | Level: 4.5/7)
+- Science (Importance: 3.75/5 | Level: 4.12/7)
+- Active Learning (Importance: 3.75/5 | Level: 4.62/7)
+- Coordination (Importance: 3.75/5 | Level: 3.75/7)
+- Service Orientation (Importance: 3.5/5 | Level: 3.62/7)
+- Instructing (Importance: 3.5/5 | Level: 4.62/7)
+- Persuasion (Importance: 3.5/5 | Level: 3.75/7)
+- Learning Strategies (Importance: 3.38/5 | Level: 4.25/7)
+- Systems Analysis (Importance: 3.38/5 | Level: 3.38/7)
+- Systems Evaluation (Importance: 3.25/5 | Level: 3.62/7)
+- Time Management (Importance: 3.25/5 | Level: 3.88/7)
+- Management of Personnel Resources (Importance: 3.0/5 | Level: 3.38/7)
+- Mathematics (Importance: 2.88/5 | Level: 3.25/7)
+- Negotiation (Importance: 2.75/5 | Level: 2.88/7)
+- Quality Control Analysis (Importance: 2.38/5 | Level: 2.25/7)
+- Operations Analysis (Importance: 2.12/5 | Level: 1.88/7)
+- Operations Monitoring (Importance: 2.12/5 | Level: 2.0/7)
+- Management of Material Resources (Importance: 2.12/5 | Level: 2.0/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.75/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.0/7)
+- Troubleshooting (Importance: 1.75/5 | Level: 1.38/7)
+- Programming (Importance: 1.75/5 | Level: 0.88/7)
+- Equipment Selection (Importance: 1.38/5 | Level: 0.62/7)
+- Operation and Control (Importance: 1.25/5 | Level: 0.5/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Allscripts PM (Tech skill type: Medical software)
+- athenahealth athenaCollector (Tech skill type: Medical software)
+- Automatic Data Processing AdvancedMD EHR (Tech skill type: Medical software)
+- Benchmark Systems Benchmark Clinical EHR (Tech skill type: Medical software)
+- Bizmatics PrognoCIS EMR (Tech skill type: Medical software)
+- CareCloud Central (Tech skill type: Medical software)
+- Cerner PowerWorks Practice Management (Tech skill type: Medical software)
+- e-MDs software (Tech skill type: Medical software)
+- eClinicalWorks EHR software (Tech skill type: Medical software)
+- Email software (Tech skill type: Electronic mail software)
+- Epic Practice Management (Tech skill type: Medical software)
+- Epic Systems (Tech skill type: Medical software)
+- GalacTek ECLIPSE (Tech skill type: Medical software)
+- GE Healthcare Centricity Practice Solution (Tech skill type: Medical software)
+- Greenway Medical Technologies PrimeSUITE (Tech skill type: Medical software)
+- HealthFusion MediTouch (Tech skill type: Medical software)
+- IOS Health Systems Medios EHR (Tech skill type: Medical software)
+- Kareo Practice Management (Tech skill type: Medical software)
+- McKesson Practice Plus (Tech skill type: Medical software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Modernizing Medicine Practice Management (Tech skill type: Medical software)
+- NextGen Healthcare NextGen Practice Management (Tech skill type: Medical software)
+- Nuesoft Technologies NueMD (Tech skill type: Medical software)
+- simplifyMD (Tech skill type: Medical software)
+- Vitera Healthcare Solutions Vitera Intergy (Tech skill type: Medical software)
+- WRSHealth EMR (Tech skill type: Medical software)
+
+## TOOLS USED
+- Audio evoked potential testers (Tool type: Evoked response detectors)
+- Audio stimulators (Tool type: Neurological diagnostic sets)
+- Auditory function screeners (Tool type: Auditory function screening units)
+- Automated external defibrillators AED (Tool type: Mobile medical services automated external defibrillators AED or hard paddles)
+- Automatic blood pressure cuffs (Tool type: Electronic blood pressure units)
+- Babinski hammers (Tool type: Reflex hammers or mallets)
+- Biofeedback units (Tool type: Biofeedback devices)
+- Cerebral oximeters (Tool type: Infrared spectrometers)
+- Computed tomography CT scanners (Tool type: Medical computed tomography CT or CAT scanners or tubes)
+- Diagnostic penlights (Tool type: Medical exam penlights or flashlights)
+- Diagnostic tuning forks (Tool type: Medical tuning forks)
+- Digital audio recorders (Tool type: Digital voice recorders)
+- Digital video cameras (Tool type: Digital camcorders or video cameras)
+- Electroconvulsive therapy ECT units (Tool type: Electroconvulsive devices)
+- Electroencephalogram EEG signal spectrum analyzers (Tool type: Electroencephalographic spectrum analyzers)
+- Electroencephalograph EEG equipment (Tool type: Electroencephalograph EEGs)
+- Electromyographs EMG (Tool type: Electroencephalograph EEGs)
+- Electron beam tomography EBT systems (Tool type: Medical computed tomography CT or CAT ultrafast system components)
+- Electronic stethoscopes (Tool type: Electronic stethoscopes)
+- Facial nerve stimulators (Tool type: Transcutaneous electric nerve stimulation units)
+- Magnetic pulse stimulators (Tool type: Magnetotherapy pulse stimulators)
+- Magnetic resonance imaging MRI equipment (Tool type: Medical magnetic resonance imaging MRI stationary units)
+- Neurological hammers (Tool type: Reflex hammers or mallets)
+- Neuropens (Tool type: Neurological diagnostic sets)
+- Ophthalmoscopes (Tool type: Ophthalmoscopes or otoscopes or scope sets)
+- Otoscopes (Tool type: Ophthalmoscopes or otoscopes or scope sets)
+- Peripheral nerve stimulators (Tool type: Transcutaneous electric nerve stimulation units)
+- Polysomnographs (Tool type: Neurological diagnostic sets)
+- Queen square hammers (Tool type: Reflex hammers or mallets)
+- Radio frequency generators (Tool type: High frequency electromagnetic wave stimulators)
+- Tilting tables (Tool type: Medical exam or procedure tables for general use)
+- Transcranial magnetic stimulators (Tool type: Transcutaneous electric nerve stimulation units)
+- Transcutaneous electric nerve stimulation TENS equipment (Tool type: Transcutaneous electric nerve stimulation units)
+- Ultrasound imaging scanners (Tool type: Medical ultrasound or doppler or pulse echocardiograph or echocardiograph units for general diagnostic use)
+- Variable two-point discriminators (Tool type: Neurological discriminators)
+- Visual stimulators (Tool type: Neurological diagnostic sets)
+
+# WORK CONTEXT
+- Conflict Situations: Once a week or more but not every day
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Extremely important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a month or more but not every week
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Every day
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Never
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Not important at all
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Extremely competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Very close (near touching)
+- Public Speaking: Once a year or more but not every month
+- Spend Time Bending or Twisting Your Body: Never
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Less than half the time
+- Spend Time Sitting: More than half the time
+- Spend Time Standing: About half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Never
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Never
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Investigative
+- Secondary Interest: Social
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Pediatric Surgeons
+- Emergency Medicine Physicians
+- Cardiologists
+- Orthopedic Surgeons, Except Pediatric
+- General Internal Medicine Physicians
+- Clinical Neuropsychologists
+- Psychiatrists
+- Pediatricians, General
+- Neuropsychologists
+- Physical Medicine and Rehabilitation Physicians
+- Family Medicine Physicians
+- Obstetricians and Gynecologists
+- Urologists
+- Allergists and Immunologists
+- Ophthalmologists, Except Pediatric
+- Chiropractors
+- Nurse Practitioners
+- Dermatologists
+- Anesthesiologists
+- Clinical Nurse Specialists

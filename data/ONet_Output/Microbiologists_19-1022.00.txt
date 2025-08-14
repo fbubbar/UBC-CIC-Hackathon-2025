@@ -1,0 +1,376 @@
+Job Title: Microbiologists
+O*NET-SOC Code: 19-1022.00
+
+# DESCRIPTION
+Investigate the growth, structure, development, and other characteristics of microscopic organisms, such as bacteria, algae, or fungi. Includes medical microbiologists who study the relationship between organisms and disease or the effects of antibiotics on microorganisms.
+
+# TASKS
+- Isolate and maintain cultures of bacteria or other microorganisms in prescribed or developed media, controlling moisture, aeration, temperature, and nutrition.
+- Provide laboratory services for health departments, community environmental health programs, and physicians needing information for diagnosis and treatment.
+- Monitor and perform tests on water, food, and the environment to detect harmful microorganisms or to obtain information about sources of pollution, contamination, or infection.
+- Examine physiological, morphological, and cultural characteristics, using microscope, to identify and classify microorganisms in human, water, and food specimens.
+- Supervise biological technologists and technicians and other scientists.
+- Use a variety of specialized equipment, such as electron microscopes, gas and high-pressure liquid chromatographs, electrophoresis units, thermocyclers, fluorescence-activated cell sorters, and phosphorimagers.
+- Investigate the relationship between organisms and disease, including the control of epidemics and the effects of antibiotics on microorganisms.
+- Prepare technical reports and recommendations, based upon research outcomes.
+- Observe action of microorganisms upon living tissues of plants, higher animals, and other microorganisms, and on dead organic matter.
+- Study growth, structure, development, and general characteristics of bacteria and other microorganisms to understand their relationship to human, plant, and animal health.
+- Study the structure and function of human, animal, and plant tissues, cells, pathogens, and toxins.
+- Develop new products and procedures for sterilization, food and pharmaceutical supply preservation, or microbial contamination detection.
+- Conduct chemical analyses of substances such as acids, alcohols, and enzymes.
+- Research use of bacteria and microorganisms to develop vitamins, antibiotics, amino acids, grain alcohol, sugars, and polymers.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Biology (Importance: 4.73/5 | Level: 6.14/7)
+- Chemistry (Importance: 3.82/5 | Level: 4.82/7)
+- English Language (Importance: 3.65/5 | Level: 4.45/7)
+- Computers and Electronics (Importance: 3.6/5 | Level: 4.64/7)
+- Education and Training (Importance: 3.52/5 | Level: 4.71/7)
+- Mathematics (Importance: 3.32/5 | Level: 4.23/7)
+- Engineering and Technology (Importance: 3.0/5 | Level: 3.5/7)
+- Administrative (Importance: 2.91/5 | Level: 4.0/7)
+- Customer and Personal Service (Importance: 2.91/5 | Level: 3.5/7)
+- Public Safety and Security (Importance: 2.86/5 | Level: 2.82/7)
+- Administration and Management (Importance: 2.82/5 | Level: 3.73/7)
+- Production and Processing (Importance: 2.77/5 | Level: 3.05/7)
+- Medicine and Dentistry (Importance: 2.62/5 | Level: 2.68/7)
+- Communications and Media (Importance: 2.59/5 | Level: 3.14/7)
+- Telecommunications (Importance: 2.52/5 | Level: 2.5/7)
+- Law and Government (Importance: 2.5/5 | Level: 2.77/7)
+- Personnel and Human Resources (Importance: 2.38/5 | Level: 2.71/7)
+- Food Production (Importance: 2.32/5 | Level: 2.36/7)
+- Physics (Importance: 2.18/5 | Level: 2.55/7)
+- Design (Importance: 2.18/5 | Level: 2.32/7)
+- Mechanical (Importance: 2.18/5 | Level: 2.64/7)
+- Economics and Accounting (Importance: 2.09/5 | Level: 2.09/7)
+- Sales and Marketing (Importance: 1.95/5 | Level: 2.05/7)
+- Psychology (Importance: 1.95/5 | Level: 1.82/7)
+- Geography (Importance: 1.91/5 | Level: 2.14/7)
+- Sociology and Anthropology (Importance: 1.82/5 | Level: 1.68/7)
+- Transportation (Importance: 1.81/5 | Level: 1.82/7)
+- Building and Construction (Importance: 1.64/5 | Level: 1.27/7)
+- Foreign Language (Importance: 1.62/5 | Level: 1.23/7)
+- History and Archeology (Importance: 1.5/5 | Level: 1.14/7)
+- Therapy and Counseling (Importance: 1.43/5 | Level: 0.81/7)
+- Philosophy and Theology (Importance: 1.41/5 | Level: 1.0/7)
+- Fine Arts (Importance: 1.27/5 | Level: 0.64/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Science (Importance: 4.62/5 | Level: 5.0/7)
+- Reading Comprehension (Importance: 4.12/5 | Level: 5.12/7)
+- Writing (Importance: 4.0/5 | Level: 4.88/7)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.62/7)
+- Active Listening (Importance: 3.88/5 | Level: 4.12/7)
+- Speaking (Importance: 3.88/5 | Level: 4.0/7)
+- Active Learning (Importance: 3.88/5 | Level: 4.5/7)
+- Judgment and Decision Making (Importance: 3.75/5 | Level: 3.88/7)
+- Learning Strategies (Importance: 3.62/5 | Level: 3.75/7)
+- Complex Problem Solving (Importance: 3.62/5 | Level: 4.0/7)
+- Monitoring (Importance: 3.62/5 | Level: 3.88/7)
+- Mathematics (Importance: 3.12/5 | Level: 3.88/7)
+- Systems Analysis (Importance: 3.0/5 | Level: 3.62/7)
+- Instructing (Importance: 3.0/5 | Level: 3.62/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 3.12/7)
+- Management of Personnel Resources (Importance: 3.0/5 | Level: 3.5/7)
+- Service Orientation (Importance: 3.0/5 | Level: 3.12/7)
+- Coordination (Importance: 3.0/5 | Level: 3.5/7)
+- Time Management (Importance: 3.0/5 | Level: 3.88/7)
+- Quality Control Analysis (Importance: 2.88/5 | Level: 2.88/7)
+- Operations Analysis (Importance: 2.88/5 | Level: 2.75/7)
+- Systems Evaluation (Importance: 2.88/5 | Level: 3.62/7)
+- Operations Monitoring (Importance: 2.75/5 | Level: 2.75/7)
+- Persuasion (Importance: 2.62/5 | Level: 2.88/7)
+- Negotiation (Importance: 2.62/5 | Level: 2.88/7)
+- Operation and Control (Importance: 2.5/5 | Level: 2.62/7)
+- Management of Financial Resources (Importance: 2.25/5 | Level: 2.12/7)
+- Management of Material Resources (Importance: 2.12/5 | Level: 2.12/7)
+- Troubleshooting (Importance: 2.0/5 | Level: 1.62/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.38/7)
+- Programming (Importance: 1.88/5 | Level: 1.88/7)
+- Equipment Selection (Importance: 1.75/5 | Level: 0.88/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Assistant Software for Antimicrobial Susceptibility Interpretation ASASI (Tech skill type: Analytical or scientific software)
+- Basic Local Alignment Search Tool BLAST (Tech skill type: Analytical or scientific software)
+- BD Biosciences CellQuest (Tech skill type: Analytical or scientific software)
+- BD Biosciences CloneCyt (Tech skill type: Analytical or scientific software)
+- Bruker Optics OPUS (Tech skill type: Analytical or scientific software)
+- BtB Software Mycobacteriology Lab (Tech skill type: Analytical or scientific software)
+- Codon Usage Database (Tech skill type: Analytical or scientific software)
+- ComBase (Tech skill type: Information retrieval or search software)
+- Computer Service & Support CLS-2000 Laboratory System (Tech skill type: Medical software)
+- Computing Solutions LabSoft LIMS Micro (Tech skill type: Analytical or scientific software)
+- Database management software (Tech skill type: Data base user interface and query software)
+- DM2 Bills of Lading (Tech skill type: Analytical or scientific software)
+- Email software (Tech skill type: Electronic mail software)
+- FindTarget (Tech skill type: Analytical or scientific software)
+- FramePlot (Tech skill type: Analytical or scientific software)
+- Gene Finder (Tech skill type: Analytical or scientific software)
+- Gene recognition software (Tech skill type: Analytical or scientific software)
+- Genie Interactive (Tech skill type: Analytical or scientific software)
+- Image capture and analysis software (Tech skill type: Analytical or scientific software)
+- Laboratory information management system LIMS (Tech skill type: Analytical or scientific software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- NetLims AutoLims (Tech skill type: Analytical or scientific software)
+- Orchard Software Orchard Harvest LIS (Tech skill type: Medical software)
+- Pathogen Modeling Program PMP (Tech skill type: Analytical or scientific software)
+- PHYLIP (Tech skill type: Analytical or scientific software)
+- PIBWin (Tech skill type: Analytical or scientific software)
+- PredictProtein (Tech skill type: Analytical or scientific software)
+- Proscan (Tech skill type: Analytical or scientific software)
+- Protein databases (Tech skill type: Analytical or scientific software)
+- Protein Explorer (Tech skill type: Analytical or scientific software)
+- ProtScale (Tech skill type: Analytical or scientific software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- STARLIMS (Tech skill type: Analytical or scientific software)
+- Statistical software (Tech skill type: Analytical or scientific software)
+- TreeView (Tech skill type: Analytical or scientific software)
+- Verity Software House ModFit LT (Tech skill type: Analytical or scientific software)
+- Web browser software (Tech skill type: Internet browser software)
+- WHONET (Tech skill type: Data base user interface and query software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- 8-channel electronic pipettes (Tool type: Electronic multichannel pipetters)
+- Alcohol lamps (Tool type: Spirit burners)
+- Anaerobic growth chambers (Tool type: Anaerobic chamber)
+- Analytical balances (Tool type: Analytical balances)
+- Argon lasers (Tool type: Lasers)
+- Autoclaves (Tool type: Steam autoclaves or sterilizers)
+- Automated gram stainers (Tool type: Microbiology slide stainers)
+- Automated microbial identification systems (Tool type: Microbiology analyzers)
+- Automatic cell sorters (Tool type: Manual or electronic hematology differential cell counters)
+- Automatic coverslipper (Tool type: Automated cover slipping equipment)
+- Automatic pipetters (Tool type: Robotic or automated liquid handling systems)
+- Bacteriological incubators (Tool type: Forced air or mechanical convection general purpose incubators)
+- Bacticinerators (Tool type: Dry heat or hot air sterilizers)
+- Bioaerosol impactors (Tool type: Air samplers or collectors)
+- Biological safety hoods (Tool type: Protective hood)
+- Bioreactors (Tool type: Microbiology fermentation equipment)
+- Bright field light microscopes (Tool type: Binocular light compound microscopes)
+- Bubble counters (Tool type: Counters)
+- Charge coupled device CCD color digital cameras (Tool type: Digital cameras)
+- Chemical safety showers (Tool type: Decontamination shower)
+- Colony counters (Tool type: Electronic counters)
+- Compound binocular light microscopes (Tool type: Binocular light compound microscopes)
+- Conductivity meters (Tool type: Conductivity meters)
+- Coplin jars (Tool type: Laboratory staining dishes or jars)
+- Culture bottles (Tool type: Tissue culture flasks)
+- Culture tubes (Tool type: Culture tubes)
+- Darkroom developing tanks (Tool type: Developing tanks)
+- Deionized DI water systems (Tool type: Ultra pure water systems)
+- Deoxyribonucleic acid DNA sequencers (Tool type: Deoxyribonucleic sequence analyzers)
+- Desktop centrifuges (Tool type: Benchtop centrifuges)
+- Desktop computers (Tool type: Desktop computers)
+- Dichotomous particulate matter samplers (Tool type: Air samplers or collectors)
+- Direct heat dry wall carbon dioxide CO2 incubators (Tool type: Dry wall single chamber carbon dioxide incubators)
+- Dissecting microscopes (Tool type: Stereo or dissecting light microscopes)
+- Dissolved oxygen meters (Tool type: Dissolved oxygen meters)
+- Dropping pipettes (Tool type: Dropping pipettes)
+- Dry bath incubators (Tool type: Dry baths or heating blocks)
+- Drying ovens (Tool type: Drying cabinets or ovens)
+- Electronic sterilizers (Tool type: Steam autoclaves or sterilizers)
+- Electronic toploading balances (Tool type: Electronic toploading balances)
+- Electroporators (Tool type: Electroporation cuvettes)
+- Enzyme-linked immunosorbent assay ELISA plate readers (Tool type: Microplate readers)
+- Erlenmeyer flask clamps (Tool type: Laboratory adapters or connectors or fittings)
+- Erlenmeyer flasks (Tool type: Laboratory flasks)
+- Eyewash fountains (Tool type: Eyewashers or eye wash stations)
+- Fecal coliform water baths (Tool type: Circulating baths)
+- Fire extinguishers (Tool type: Fire extinguishers)
+- Floor shakers (Tool type: Rotating shakers)
+- Flow cytometers (Tool type: Microbiology analyzers)
+- Fluorescence activated cell sorters (Tool type: Microbiology analyzers)
+- Fluorescent microscopes (Tool type: Fluorescent microscopes)
+- Fourier transform infrared FTIR spectrometers (Tool type: Infrared spectrometers)
+- Freeze dryers (Tool type: Freeze dryers or lyopholizers)
+- French presses (Tool type: French pressure cells)
+- Gas chromatographs GC (Tool type: Gas chromatographs)
+- Gas-powered generators (Tool type: Gas generators)
+- Gel documentation systems (Tool type: Gel documentation systems)
+- Gel electrophoresis boxes (Tool type: Gel boxes)
+- Gel support frames (Tool type: Gel boxes)
+- Gel transfer apparatus (Tool type: Blotting or transfer apparatus)
+- Graduated glass laboratory cylinders (Tool type: Laboratory graduated cylinders)
+- Hardy Diagnostics HUGO (Tool type: Electronic encyclopedias)
+- Heat blocks (Tool type: Dry baths or heating blocks)
+- Heating stirplates (Tool type: Laboratory hotplates)
+- Helium-neon lasers (Tool type: Lasers)
+- HEPA filtered biosafety cabinets (Tool type: HEPA filtered enclosures)
+- High pressure liquid chromatographs HPLC (Tool type: High pressure liquid chromatograph chromatography)
+- High-speed centrifuges (Tool type: Benchtop centrifuges)
+- Hybridization ovens (Tool type: Hybridization ovens or incubators)
+- Impedance meters (Tool type: Impedance meters)
+- Infrared gas analyzers (Tool type: Infra red or ultra violet absorption analyzers)
+- Infrared IR spectrometers (Tool type: Infrared spectrometers)
+- Inoculating loops (Tool type: Microbiology inoculation loops or needles)
+- Inverted microscopes (Tool type: Inverted microscopes)
+- Laboratory beakers (Tool type: Laboratory beakers)
+- Laboratory funnels (Tool type: Laboratory funnels)
+- Laboratory gas burners (Tool type: Gas burners)
+- Laboratory glassware washers (Tool type: Laboratory washing machines)
+- Laboratory heat exchange condensing devices (Tool type: Laboratory heat exchange condensers)
+- Laboratory membrane filtering devices (Tool type: Laboratory membrane filters)
+- Laboratory refrigerators (Tool type: General purpose refrigerators or refrigerator freezers)
+- Laboratory test tubes (Tool type: Multipurpose or general test tubes)
+- Laboratory vacuum pumps (Tool type: Laboratory vacuum pumps)
+- Laminar flow cabinets (Tool type: Laminar flow cabinets or stations)
+- Laser printers (Tool type: Laser printers)
+- Liquid chromatograph devices (Tool type: Liquid chromatographs)
+- Liquid impingers (Tool type: Air samplers or collectors)
+- Liquid nitrogen storage equipment (Tool type: Cryogenic or liquid nitrogen freezers)
+- Magnetic laboratory stirrers (Tool type: Magnetic stirrers)
+- Mass spectrometers (Tool type: Mass spectrometers)
+- Membrane filtration systems (Tool type: Laboratory membrane filters)
+- Micro balances (Tool type: Laboratory balances)
+- Microcalorimeters (Tool type: Calorimeters)
+- Microcentrifuges (Tool type: Microcentrifuges)
+- Micromanipulators (Tool type: Automated microscope stages)
+- Micropipettes (Tool type: Dropping pipettes)
+- Microscope slides (Tool type: Microscope slides)
+- Mid-infrared spectrometers (Tool type: Infrared spectrometers)
+- Multiplate readers (Tool type: Microplate readers)
+- Multistage agar impactors (Tool type: Air samplers or collectors)
+- Multiwell trays (Tool type: General purpose trays)
+- Notebook computers (Tool type: Notebook computers)
+- Oil-immersion microscope lenses (Tool type: Microscope objectives)
+- Orbital shaking incubators (Tool type: Shaking incubators)
+- Orbital shaking water baths (Tool type: Orbital shaking water baths)
+- Osmometers (Tool type: Osmometers)
+- Peristaltic pumps (Tool type: Peristaltic pumps)
+- Personal computers (Tool type: Personal computers)
+- Petri dishes (Tool type: Petri plates or dishes)
+- pH meters (Tool type: pH meters)
+- Phase contrast microscopes (Tool type: Darkfield microscopes)
+- Photomicroscopes (Tool type: Photo attachments for microscopes)
+- Pipette pumps (Tool type: Pipette pumps)
+- Precision pan balances (Tool type: Laboratory balances)
+- Prepared agar plates (Tool type: Specialty plates for bacteria)
+- Protective gloves (Tool type: Protective gloves)
+- Protective laboratory coats (Tool type: Protective coats)
+- Raman spectrometers (Tool type: Spectrometers)
+- Rechargeable electronic pipette fillers (Tool type: Pipetter inserts or accessories)
+- Recording thermometers (Tool type: Laboratory incubator thermometers)
+- Refrigerated benchtop centrifuges (Tool type: Refrigerated benchtop centrifuges)
+- Refrigerated recirculating water baths (Tool type: Refrigerated baths)
+- Respirators (Tool type: Respirators)
+- Rotator mixers (Tool type: Laboratory mixers)
+- Safety glasses (Tool type: Safety glasses)
+- Safety shoes (Tool type: Safety shoes)
+- Scanning electron microscopes SEM (Tool type: Scanning electron microscopes)
+- Sectioned petri plates (Tool type: Petri plates or dishes)
+- Semidry blotting apparatus (Tool type: Blotting or transfer apparatus)
+- Serology rotators (Tool type: Laboratory mixers)
+- Shaking incubators (Tool type: Shaking incubators)
+- Sonicators (Tool type: Ultrasonic disintegrators)
+- Staining dishes (Tool type: Laboratory staining dishes or jars)
+- Steroclaves (Tool type: Steam autoclaves or sterilizers)
+- Test tube racks (Tool type: Test tube racks)
+- Thermocyclers (Tool type: Temperature cycling chambers or thermal cyclers)
+- Tissue homogenizers (Tool type: Homogenizers)
+- Transilluminators (Tool type: Transilluminators)
+- Transmission electron microscopes TEM (Tool type: Transmission electron microscopes)
+- Ultra cold biological freezers (Tool type: Ultra cold or ultralow upright cabinets or freezers)
+- Ultracentrifuges (Tool type: Ultracentrifuges)
+- Ultraviolet UV lamps (Tool type: Ultraviolet UV lamps)
+- Visible spectrometers (Tool type: Spectrometers)
+- Visible/UV light scanning spectrophotometers (Tool type: Spectrophotometers)
+- Vortex mixers (Tool type: Vortex mixers)
+- Water purification systems (Tool type: Ultra pure water systems)
+- Water sample collection containers (Tool type: Specimen collection container)
+- X ray diffractometers (Tool type: X ray diffraction equipment)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Extremely serious
+- Contact With Others: Contact with others most of the time
+- Coordinate or Lead Others in Accomplishing Work Activities: Important
+- Deal With External Customers or the Public in General: Important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Slightly automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Every day
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Every day
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Never
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Once a year or more but not every month
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Once a year or more but not every month
+- Outdoors, Under Cover: Once a year or more but not every month
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Slightly close (e.g., shared office)
+- Public Speaking: Once a year or more but not every month
+- Spend Time Bending or Twisting Your Body: Never
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: More than half the time
+- Spend Time Sitting: About half the time
+- Spend Time Standing: About half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: More than half the time
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: High responsibility
+- Work With or Contribute to a Work Group or Team: Very important
+- Written Letters and Memos: Once a month or more but not every week
+
+# INTERESTS (RIASEC)
+- Primary Interest: Investigative
+- Secondary Interest: Realistic
+- Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Biochemists and Biophysicists
+- Biological Technicians
+- Medical Scientists, Except Epidemiologists
+- Geneticists
+- Histotechnologists
+- Molecular and Cellular Biologists
+- Chemists
+- Physicians, Pathologists
+- Biologists
+- Epidemiologists
+- Medical and Clinical Laboratory Technologists
+- Medical and Clinical Laboratory Technicians
+- Histology Technicians
+- Cytogenetic Technologists
+- Soil and Plant Scientists
+- Agricultural Technicians
+- Cytotechnologists
+- Animal Scientists
+- Bioinformatics Scientists
+- Bioengineers and Biomedical Engineers

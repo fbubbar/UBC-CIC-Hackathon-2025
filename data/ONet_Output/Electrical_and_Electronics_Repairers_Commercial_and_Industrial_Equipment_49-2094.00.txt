@@ -1,0 +1,340 @@
+Job Title: Electrical and Electronics Repairers, Commercial and Industrial Equipment
+O*NET-SOC Code: 49-2094.00
+
+# DESCRIPTION
+Repair, test, adjust, or install electronic equipment, such as industrial controls, transmitters, and antennas.
+
+# TASKS
+- Test faulty equipment to diagnose malfunctions, using test equipment or software, and applying knowledge of the functional operation of electronic units and systems.
+- Maintain equipment logs that record performance problems, repairs, calibrations, or tests.
+- Set up and test industrial equipment to ensure that it functions properly.
+- Inspect components of industrial equipment for accurate assembly and installation or for defects, such as loose connections or frayed wires.
+- Install repaired equipment in various settings, such as industrial or military establishments.
+- Operate equipment to demonstrate proper use or to analyze malfunctions.
+- Enter information into computer to copy program or to draw, modify, or store schematics, applying knowledge of software package used.
+- Perform scheduled preventive maintenance tasks, such as checking, cleaning, or repairing equipment, to detect and prevent problems.
+- Calibrate testing instruments and installed or repaired equipment to prescribed specifications.
+- Repair or adjust equipment, machines, or defective components, replacing worn parts, such as gaskets or seals in watertight electrical equipment.
+- Consult with customers, supervisors, or engineers to plan layout of equipment or to resolve problems in system operation or maintenance.
+- Maintain inventory of spare parts.
+- Study blueprints, schematics, manuals, or other specifications to determine installation procedures.
+- Examine work orders and converse with equipment operators to detect equipment problems and to ascertain whether mechanical or human errors contributed to the problems.
+- Coordinate efforts with other workers involved in installing or maintaining equipment or components.
+- Develop or modify industrial electronic devices, circuits, or equipment, according to available specifications.
+- Determine feasibility of using standardized equipment or develop specifications for equipment required to perform additional functions.
+- Advise management regarding customer satisfaction, product performance, or suggestions for product improvements.
+- Send defective units to the manufacturer or to a specialized repair shop for repair.
+- Sign overhaul documents for equipment replaced or repaired.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Computers and Electronics (Importance: 4.22/5 | Level: 5.07/7)
+- Mechanical (Importance: 4.11/5 | Level: 5.42/7)
+- Production and Processing (Importance: 3.92/5 | Level: 4.2/7)
+- Customer and Personal Service (Importance: 3.66/5 | Level: 3.98/7)
+- Mathematics (Importance: 3.57/5 | Level: 3.82/7)
+- Administration and Management (Importance: 3.53/5 | Level: 3.78/7)
+- Engineering and Technology (Importance: 3.52/5 | Level: 4.25/7)
+- English Language (Importance: 3.52/5 | Level: 3.39/7)
+- Design (Importance: 3.27/5 | Level: 3.86/7)
+- Education and Training (Importance: 3.15/5 | Level: 4.36/7)
+- Physics (Importance: 2.85/5 | Level: 3.12/7)
+- Telecommunications (Importance: 2.76/5 | Level: 2.83/7)
+- Administrative (Importance: 2.67/5 | Level: 2.9/7)
+- Public Safety and Security (Importance: 2.51/5 | Level: 2.28/7)
+- Communications and Media (Importance: 2.44/5 | Level: 2.46/7)
+- Transportation (Importance: 2.41/5 | Level: 2.22/7)
+- Personnel and Human Resources (Importance: 2.36/5 | Level: 1.81/7)
+- Chemistry (Importance: 2.35/5 | Level: 3.31/7)
+- Building and Construction (Importance: 2.3/5 | Level: 2.32/7)
+- Psychology (Importance: 2.29/5 | Level: 2.38/7)
+- Law and Government (Importance: 1.98/5 | Level: 1.59/7)
+- Economics and Accounting (Importance: 1.74/5 | Level: 1.25/7)
+- Sociology and Anthropology (Importance: 1.62/5 | Level: 0.97/7)
+- Biology (Importance: 1.5/5 | Level: 0.99/7)
+- Therapy and Counseling (Importance: 1.49/5 | Level: 0.74/7)
+- Medicine and Dentistry (Importance: 1.47/5 | Level: 0.69/7)
+- History and Archeology (Importance: 1.45/5 | Level: 0.6/7)
+- Sales and Marketing (Importance: 1.41/5 | Level: 0.91/7)
+- Geography (Importance: 1.41/5 | Level: 0.83/7)
+- Foreign Language (Importance: 1.39/5 | Level: 0.49/7)
+- Philosophy and Theology (Importance: 1.34/5 | Level: 0.82/7)
+- Food Production (Importance: 1.13/5 | Level: 0.24/7)
+- Fine Arts (Importance: 1.1/5 | Level: 0.29/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operations Monitoring (Importance: 3.88/5 | Level: 3.88/7)
+- Repairing (Importance: 3.88/5 | Level: 3.88/7)
+- Troubleshooting (Importance: 3.75/5 | Level: 3.88/7)
+- Critical Thinking (Importance: 3.75/5 | Level: 3.75/7)
+- Equipment Maintenance (Importance: 3.75/5 | Level: 3.75/7)
+- Quality Control Analysis (Importance: 3.75/5 | Level: 3.88/7)
+- Complex Problem Solving (Importance: 3.25/5 | Level: 3.88/7)
+- Judgment and Decision Making (Importance: 3.25/5 | Level: 3.0/7)
+- Reading Comprehension (Importance: 3.12/5 | Level: 4.0/7)
+- Equipment Selection (Importance: 3.12/5 | Level: 3.25/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.12/7)
+- Active Listening (Importance: 3.12/5 | Level: 3.62/7)
+- Speaking (Importance: 3.12/5 | Level: 3.12/7)
+- Active Learning (Importance: 3.0/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 3.0/7)
+- Systems Analysis (Importance: 3.0/5 | Level: 3.25/7)
+- Operation and Control (Importance: 3.0/5 | Level: 3.5/7)
+- Writing (Importance: 3.0/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 2.88/5 | Level: 3.0/7)
+- Coordination (Importance: 2.88/5 | Level: 3.0/7)
+- Installation (Importance: 2.88/5 | Level: 2.75/7)
+- Systems Evaluation (Importance: 2.88/5 | Level: 3.0/7)
+- Instructing (Importance: 2.88/5 | Level: 2.88/7)
+- Service Orientation (Importance: 2.88/5 | Level: 2.88/7)
+- Persuasion (Importance: 2.88/5 | Level: 2.88/7)
+- Science (Importance: 2.75/5 | Level: 2.75/7)
+- Mathematics (Importance: 2.75/5 | Level: 2.88/7)
+- Management of Personnel Resources (Importance: 2.5/5 | Level: 2.62/7)
+- Negotiation (Importance: 2.25/5 | Level: 2.62/7)
+- Technology Design (Importance: 2.12/5 | Level: 2.38/7)
+- Programming (Importance: 2.12/5 | Level: 2.12/7)
+- Operations Analysis (Importance: 2.12/5 | Level: 2.12/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.62/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.62/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Circuit evaluation software (Tech skill type: Analytical or scientific software)
+- Computer aided design CAD software (Tech skill type: Computer aided design CAD software)
+- Computerized maintenance management system CMMS (Tech skill type: Facilities management software)
+- Database software (Tech skill type: Data base user interface and query software)
+- Email software (Tech skill type: Electronic mail software)
+- Internet browser software (Tech skill type: Internet browser software)
+- Maintenance management software (Tech skill type: Facilities management software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Operating system software (Tech skill type: Operating system software)
+- Programmable logic controller PLC software (Tech skill type: Industrial control software)
+- Rockwell RSLogix (Tech skill type: Program testing software)
+- SAP Maintenance (Tech skill type: Enterprise resource planning ERP software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Adjustable wrenches (Tool type: Adjustable wrenches)
+- Air blowers (Tool type: Power blowers)
+- Air compressors (Tool type: Air compressors)
+- Ammeters (Tool type: Ammeters)
+- Bead blasters (Tool type: Pneumatic sanding machines)
+- Block and tackle equipment (Tool type: Blocks or pulleys)
+- Bulb extractors (Tool type: Light bulb changer)
+- Cable locating meters (Tool type: High voltage cable detection)
+- Cable winches (Tool type: Winches)
+- Cement cutters (Tool type: Power saws)
+- Chart recorders (Tool type: Chart recorders)
+- Clamp sticks (Tool type: Grounding hardware)
+- Cold chisels (Tool type: Cold chisels)
+- Comealongs (Tool type: Pullers)
+- Computer diagnostic devices (Tool type: Portable data input terminals)
+- Conduit benders (Tool type: Conduit benders)
+- Cutting torches (Tool type: Blow torch)
+- Desktop computers (Tool type: Desktop computers)
+- Desoldering stations (Tool type: Automatic soldering machine)
+- Dial indicators (Tool type: Dial indicator or dial gauge)
+- Digital clamp meters (Tool type: Voltage or current meters)
+- Drill bit sets (Tool type: Drill bit set)
+- Drill presses (Tool type: Drilling machines)
+- Electric hacksaws (Tool type: Hacksaw)
+- Feeler gauges (Tool type: Feeler gauges)
+- Fiber optic fault locators (Tool type: Fiber optic fault locators)
+- Fish tapes (Tool type: Fish tape)
+- Forklifts (Tool type: Forklifts)
+- Frequency meters (Tool type: Electrical frequency meters)
+- Function generators (Tool type: Signal generators)
+- Fuse pullers (Tool type: Fuse pullers)
+- Generators (Tool type: Gas generators)
+- Ground resistance testers (Tool type: Calibrated resistance measuring equipment)
+- Ground straps (Tool type: Grounding hardware)
+- Ground testers (Tool type: Electrical resistance or conductance sensors)
+- Growlers (Tool type: Circuit tester)
+- Hacksaws (Tool type: Hacksaw)
+- Hammers (Tool type: Hammers)
+- Hex keys (Tool type: Hex keys)
+- High-voltage detectors (Tool type: Voltage or current meters)
+- Hoists (Tool type: Hoists)
+- Hole saws (Tool type: Hole saws)
+- Hotsticks (Tool type: High voltage cable detection)
+- Hydraulic boom trucks (Tool type: Hydraulic truck cranes)
+- Hydraulic booms (Tool type: Hydraulic truck cranes)
+- Hydraulic pipe benders (Tool type: Pipe bending tools)
+- Hydrometers (Tool type: Hydrometers)
+- Impact wrenches (Tool type: Impact wrenches)
+- Infrared thermometers (Tool type: Heat tracing equipment)
+- Insulation testers (Tool type: Insulation testers)
+- Jackhammers (Tool type: Pneumatic hammer)
+- Jacks (Tool type: Jacks)
+- Knockout punches (Tool type: Punches or nail sets or drifts)
+- Ladders (Tool type: Ladders)
+- Laptop computers (Tool type: Notebook computers)
+- Laser printers (Tool type: Laser printers)
+- Lift trucks (Tool type: Articulating boom lift)
+- Light fixture testers (Tool type: Circuit tester)
+- Light meters (Tool type: Lux or light meter)
+- Lineman's pliers (Tool type: Linemans pliers)
+- Load testers (Tool type: Battery testers)
+- Low voltage detectors (Tool type: Voltage or current meters)
+- Lumen meters (Tool type: Lux or light meter)
+- Manlifts (Tool type: Manlift or personnel lift)
+- Megohmmeters (Tool type: Megohmmeters)
+- Metal inert gas MIG welders (Tool type: Metal inert gas welding machine)
+- Micrometers (Tool type: Micrometers)
+- Multimeters (Tool type: Multimeters)
+- Needlenose pliers (Tool type: Needlenose pliers)
+- Nut drivers (Tool type: Nut drivers)
+- Ohmmeters (Tool type: Ohmmeters)
+- Oscilloscopes (Tool type: Oscilloscopes)
+- Overhead cranes (Tool type: Track cranes)
+- Personal computers (Tool type: Personal computers)
+- Personnel lifts (Tool type: Manlift or personnel lift)
+- Phase rotation meters (Tool type: Phasemeters)
+- Pipe benders (Tool type: Pipe bending tools)
+- Pipe cutters (Tool type: Pipe or tube cutter)
+- Pipe threaders (Tool type: Threading die hand tool)
+- Plotters (Tool type: Plotter printers)
+- Polyvinyl chloride PVC benders (Tool type: Pipe bending tools)
+- Portable welding equipment (Tool type: Spot welding machine)
+- Power conduit benders (Tool type: Conduit benders)
+- Power drills (Tool type: Power drills)
+- Power grinders (Tool type: Power grinders)
+- Power saws (Tool type: Power saws)
+- Power screwdrivers (Tool type: Power screwguns)
+- Programmable logic controllers PLC (Tool type: Microcontrollers)
+- Proportional integral derivative PID controllers (Tool type: Microcontrollers)
+- Pullers (Tool type: Pullers)
+- Punches (Tool type: Punches or nail sets or drifts)
+- Rectifiers (Tool type: Rectifiers)
+- Rubber insulating gloves (Tool type: Protective gloves)
+- Rubber insulating mats (Tool type: Anti static floor mats)
+- Safety belts (Tool type: Safety harnesses or belts)
+- Safety harnesses (Tool type: Safety harnesses or belts)
+- Safety lines (Tool type: Safety harnesses or belts)
+- Sandblasters (Tool type: Pneumatic sanding machines)
+- Scaffolding (Tool type: Scaffolding)
+- Scanners (Tool type: Scanners)
+- Scope meters (Tool type: Oscilloscopes)
+- Screw starters (Tool type: Punches or nail sets or drifts)
+- Screwdrivers (Tool type: Screwdrivers)
+- Side cross cutters (Tool type: Diagonal cut pliers)
+- Signal analyzers (Tool type: Frequency calibrator or simulator)
+- Slide lock pliers (Tool type: Locking pliers)
+- Socket wrench sets (Tool type: Socket sets)
+- Soldering irons (Tool type: Soldering iron)
+- Soldering stations (Tool type: Automatic soldering machine)
+- Spline key wrenches (Tool type: Specialty wrenches)
+- Staging equipment (Tool type: Platform lift)
+- Static proof dust cleaners (Tool type: Antistatic maintenance kits)
+- Supervisory control and data acquisition SCADA equipment (Tool type: Digital Signal Processor DSP)
+- Tachometers (Tool type: Tachometers)
+- Tack welding equipment (Tool type: Spot welding machine)
+- Tape measures (Tool type: Tape measures)
+- Teach pendants (Tool type: Microcontrollers)
+- Temporary protective grounds (Tool type: Grounding hardware)
+- Termination tools (Tool type: Terminations)
+- Test lamps (Tool type: Voltage or current meters)
+- Threading taps (Tool type: Threading taps)
+- Torque wrenches (Tool type: Torque wrenches)
+- Touch screens (Tool type: Touch pads)
+- Two way radios (Tool type: Two way radios)
+- Utility knives (Tool type: Utility knives)
+- Vernier calipers (Tool type: Calipers)
+- Voltmeters (Tool type: Voltage or current meters)
+- Wattmeters (Tool type: Wattmeters)
+- Wheatstone bridges (Tool type: Calibrated resistance measuring equipment)
+- Winches (Tool type: Winches)
+- Wire crimpers (Tool type: Wire lug crimping tool)
+- Wire strippers (Tool type: Stripping tools)
+- Wire tracers (Tool type: Circuit tracers)
+- Wire winches (Tool type: Winches)
+
+# WORK CONTEXT
+- Conflict Situations: Once a week or more but not every day
+- Consequence of Error: Serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Very important
+- Dealing With Unpleasant, Angry, or Discourteous People: Every day
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Once a month or more but not every week
+- Exposed to Cramped Work Space, Awkward Positions: Once a year or more but not every month
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Every day
+- Exposed to Hazardous Equipment: Every day
+- Exposed to High Places: Once a year or more but not every month
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Once a year or more but not every month
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Once a month or more but not every week
+- Health and Safety of Other Workers: High responsibility
+- Impact of Decisions on Co-workers or Company Results: Moderate results
+- Importance of Being Exact or Accurate: Very important
+- Importance of Repeating Same Tasks: Very important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Less than half the time
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Less than half the time
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: More than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Once a week or more but not every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Once a month or more but not every week
+- Work Outcomes and Results of Other Workers: Moderate responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a year or more but not every month
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Calibration Technologists and Technicians
+- Electrical and Electronic Engineering Technologists and Technicians
+- Robotics Technicians
+- Electrical and Electronics Installers and Repairers, Transportation Equipment
+- Aerospace Engineering and Operations Technologists and Technicians
+- Avionics Technicians
+- Electrical and Electronics Repairers, Powerhouse, Substation, and Relay
+- Electrical and Electronic Equipment Assemblers
+- Mechanical Engineering Technologists and Technicians
+- Control and Valve Installers and Repairers, Except Mechanical Door
+- Electronics Engineers, Except Computer
+- Electro-Mechanical and Mechatronics Technologists and Technicians
+- Electromechanical Equipment Assemblers
+- Electrical Engineers
+- Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+- Electric Motor, Power Tool, and Related Repairers
+- Mechanical Engineers
+- Medical Equipment Repairers
+- Telecommunications Equipment Installers and Repairers, Except Line Installers
+- Industrial Machinery Mechanics

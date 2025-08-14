@@ -1,0 +1,217 @@
+Job Title: Power Distributors and Dispatchers
+O*NET-SOC Code: 51-8012.00
+
+# DESCRIPTION
+Coordinate, regulate, or distribute electricity or steam.
+
+# TASKS
+- Coordinate with engineers, planners, field personnel, or other utility workers to provide information such as clearances, switching orders, or distribution process changes.
+- Respond to emergencies, such as transformer or transmission line failures, and route current around affected areas.
+- Control, monitor, or operate equipment that regulates or distributes electricity or steam, using data obtained from instruments or computers.
+- Direct personnel engaged in controlling or operating distribution equipment or machinery, such as instructing control room operators to start boilers or generators.
+- Distribute or regulate the flow of power between entities, such as generating stations, substations, distribution lines, or users, keeping track of the status of circuits or connections.
+- Manipulate controls to adjust or activate power distribution equipment or machines.
+- Prepare switching orders that will isolate work areas without causing power outages, referring to drawings of power systems.
+- Monitor and record switchboard or control board readings to ensure that electrical or steam distribution equipment is operating properly.
+- Implement energy schedules, including real-time transmission reservations or schedules.
+- Calculate load estimates or equipment requirements to determine required control settings.
+- Track conditions that could affect power needs, such as changes in the weather, and adjust equipment to meet any anticipated changes.
+- Record and compile operational data, such as chart or meter readings, power demands, or usage and operating times, using transmission system maps.
+- Inspect equipment to ensure that specifications are met or to detect any defects.
+- Tend auxiliary equipment used in the power distribution process.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- English Language (Importance: 3.86/5 | Level: 3.46/7)
+- Public Safety and Security (Importance: 3.66/5 | Level: 3.59/7)
+- Mathematics (Importance: 3.53/5 | Level: 4.24/7)
+- Computers and Electronics (Importance: 3.48/5 | Level: 3.84/7)
+- Telecommunications (Importance: 3.47/5 | Level: 3.04/7)
+- Engineering and Technology (Importance: 3.45/5 | Level: 3.24/7)
+- Customer and Personal Service (Importance: 3.36/5 | Level: 4.75/7)
+- Mechanical (Importance: 3.29/5 | Level: 3.81/7)
+- Education and Training (Importance: 3.19/5 | Level: 3.5/7)
+- Physics (Importance: 3.11/5 | Level: 3.79/7)
+- Administrative (Importance: 2.96/5 | Level: 3.05/7)
+- Administration and Management (Importance: 2.75/5 | Level: 2.48/7)
+- Law and Government (Importance: 2.64/5 | Level: 2.62/7)
+- Geography (Importance: 2.53/5 | Level: 2.67/7)
+- Communications and Media (Importance: 2.43/5 | Level: 2.46/7)
+- Psychology (Importance: 2.36/5 | Level: 2.47/7)
+- Production and Processing (Importance: 2.3/5 | Level: 2.62/7)
+- Building and Construction (Importance: 2.28/5 | Level: 2.24/7)
+- Chemistry (Importance: 2.14/5 | Level: 1.95/7)
+- Design (Importance: 2.07/5 | Level: 2.01/7)
+- Economics and Accounting (Importance: 2.0/5 | Level: 1.5/7)
+- Personnel and Human Resources (Importance: 1.94/5 | Level: 1.45/7)
+- Transportation (Importance: 1.71/5 | Level: 1.62/7)
+- Sales and Marketing (Importance: 1.71/5 | Level: 1.32/7)
+- Sociology and Anthropology (Importance: 1.47/5 | Level: 0.7/7)
+- Therapy and Counseling (Importance: 1.32/5 | Level: 0.78/7)
+- History and Archeology (Importance: 1.17/5 | Level: 0.36/7)
+- Medicine and Dentistry (Importance: 1.16/5 | Level: 0.41/7)
+- Philosophy and Theology (Importance: 1.09/5 | Level: 0.31/7)
+- Food Production (Importance: 1.06/5 | Level: 0.12/7)
+- Foreign Language (Importance: 1.04/5 | Level: 0.07/7)
+- Biology (Importance: 1.01/5 | Level: 0.04/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Critical Thinking (Importance: 3.62/5 | Level: 3.75/7)
+- Reading Comprehension (Importance: 3.62/5 | Level: 3.62/7)
+- Active Listening (Importance: 3.62/5 | Level: 3.62/7)
+- Monitoring (Importance: 3.62/5 | Level: 3.5/7)
+- Speaking (Importance: 3.5/5 | Level: 3.38/7)
+- Judgment and Decision Making (Importance: 3.25/5 | Level: 3.25/7)
+- Complex Problem Solving (Importance: 3.25/5 | Level: 3.25/7)
+- Operations Monitoring (Importance: 3.25/5 | Level: 3.38/7)
+- Operation and Control (Importance: 3.12/5 | Level: 3.12/7)
+- Writing (Importance: 3.12/5 | Level: 3.0/7)
+- Active Learning (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 3.0/7)
+- Coordination (Importance: 3.0/5 | Level: 3.25/7)
+- Systems Analysis (Importance: 2.88/5 | Level: 2.88/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 2.62/7)
+- Systems Evaluation (Importance: 2.75/5 | Level: 2.88/7)
+- Learning Strategies (Importance: 2.75/5 | Level: 2.75/7)
+- Quality Control Analysis (Importance: 2.75/5 | Level: 2.88/7)
+- Management of Personnel Resources (Importance: 2.75/5 | Level: 3.0/7)
+- Mathematics (Importance: 2.75/5 | Level: 2.88/7)
+- Instructing (Importance: 2.75/5 | Level: 2.88/7)
+- Negotiation (Importance: 2.62/5 | Level: 2.62/7)
+- Service Orientation (Importance: 2.62/5 | Level: 2.88/7)
+- Persuasion (Importance: 2.62/5 | Level: 2.62/7)
+- Troubleshooting (Importance: 2.25/5 | Level: 2.25/7)
+- Operations Analysis (Importance: 2.12/5 | Level: 2.12/7)
+- Science (Importance: 1.88/5 | Level: 1.25/7)
+- Equipment Maintenance (Importance: 1.75/5 | Level: 1.5/7)
+- Repairing (Importance: 1.75/5 | Level: 1.5/7)
+- Management of Material Resources (Importance: 1.75/5 | Level: 1.0/7)
+- Management of Financial Resources (Importance: 1.62/5 | Level: 0.62/7)
+- Technology Design (Importance: 1.62/5 | Level: 0.62/7)
+- Programming (Importance: 1.38/5 | Level: 0.38/7)
+- Equipment Selection (Importance: 1.38/5 | Level: 0.75/7)
+- Installation (Importance: 1.12/5 | Level: 0.12/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- ABB MicroSCADA Pro DMS (Tech skill type: Industrial control software)
+- ABB MicroSCADA Pro SYS (Tech skill type: Industrial control software)
+- ABB PSGuard (Tech skill type: Industrial control software)
+- Catapult Software iPower SCADA (Tech skill type: Industrial control software)
+- Distribution automation system software (Tech skill type: Industrial control software)
+- Distribution management system DMS (Tech skill type: Industrial control software)
+- Energy management system EMS (Tech skill type: Industrial control software)
+- Geographic information system GIS software (Tech skill type: Geographic information system)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Milsoft DisSPatch (Tech skill type: Industrial control software)
+- OSI monarch/SGP (Tech skill type: Industrial control software)
+- Outage management system OMS (Tech skill type: Industrial control software)
+- Radius NetMan (Tech skill type: Industrial control software)
+- Radius Uni-View (Tech skill type: Industrial control software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Siemens Energy and Automation (Tech skill type: Industrial control software)
+- Siemens Spectrum Power TG (Tech skill type: Industrial control software)
+- Siemens Spectrum PowerCC Distribution Management (Tech skill type: Industrial control software)
+- Substation automation system software (Tech skill type: Industrial control software)
+- Substation monitoring system software (Tech skill type: Industrial control software)
+- Supervisory control and data acquisition SCADA software (Tech skill type: Industrial control software)
+- Telvent Responder Outage Management System OMS (Tech skill type: Industrial control software)
+- Wide area monitoring system WAMS software (Tech skill type: Industrial control software)
+- Wide area remote control system software (Tech skill type: Industrial control software)
+
+## TOOLS USED
+- Integrated power system switchboards (Tool type: Electrical control panels for generators)
+- Mainframe computers (Tool type: Mainframe computers)
+- Multi-metering switchboards (Tool type: Electrical control panels for generators)
+- Panelboard switches (Tool type: Distribution or control board fixtures)
+- Panelboards (Tool type: Distribution or control board fixtures)
+
+# WORK CONTEXT
+- Conflict Situations: Once a month or more but not every week
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Moderately automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Extremely important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Once a year or more but not every month
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Highly competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Slightly close (e.g., shared office)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Never
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: About half the time
+- Spend Time Sitting: Continually or almost continually
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Never
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Never
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Never
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Power Plant Operators
+- Hydroelectric Plant Technicians
+- Electrical and Electronics Repairers, Powerhouse, Substation, and Relay
+- Stationary Engineers and Boiler Operators
+- Electrical and Electronics Installers and Repairers, Transportation Equipment
+- Geothermal Technicians
+- Gas Plant Operators
+- Electrical and Electronics Repairers, Commercial and Industrial Equipment
+- Electrical and Electronic Engineering Technologists and Technicians
+- Biomass Plant Technicians
+- Electrical Engineers
+- Telecommunications Equipment Installers and Repairers, Except Line Installers
+- Control and Valve Installers and Repairers, Except Mechanical Door
+- Petroleum Pump System Operators, Refinery Operators, and Gaugers
+- Lighting Technicians
+- Electronics Engineers, Except Computer
+- Wind Turbine Service Technicians
+- Biomass Power Plant Managers
+- Electric Motor, Power Tool, and Related Repairers
+- Electrical Power-Line Installers and Repairers

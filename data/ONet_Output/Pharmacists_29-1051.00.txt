@@ -1,0 +1,252 @@
+Job Title: Pharmacists
+O*NET-SOC Code: 29-1051.00
+
+# DESCRIPTION
+Dispense drugs prescribed by physicians and other health practitioners and provide information to patients about medications and their use. May advise physicians and other health practitioners on the selection, dosage, interactions, and side effects of medications.
+
+# TASKS
+- Review prescriptions to assure accuracy, to ascertain the needed ingredients, and to evaluate their suitability.
+- Assess the identity, strength, or purity of medications.
+- Provide information and advice regarding drug interactions, side effects, dosage, and proper medication storage.
+- Analyze prescribing trends to monitor patient compliance and to prevent excessive usage or harmful interactions.
+- Maintain records, such as pharmacy files, patient profiles, charge system files, inventories, control records for radioactive nuclei, or registries of poisons, narcotics, or controlled drugs.
+- Collaborate with other health care professionals to plan, monitor, review, or evaluate the quality or effectiveness of drugs or drug regimens, providing advice on drug applications or characteristics.
+- Plan, implement, or maintain procedures for mixing, packaging, or labeling pharmaceuticals, according to policy and legal requirements, to ensure quality, security, and proper disposal.
+- Order and purchase pharmaceutical supplies, medical supplies, or drugs, maintaining stock and storing and handling it properly.
+- Compound and dispense medications as prescribed by doctors and dentists, by calculating, weighing, measuring, and mixing ingredients, or oversee these activities.
+- Contact insurance companies to resolve billing issues.
+- Advise customers on the selection of medication brands, medical equipment, or healthcare supplies.
+- Teach pharmacy students serving as interns in preparation for their graduation or licensure.
+- Provide specialized services to help patients manage conditions, such as diabetes, asthma, smoking cessation, or high blood pressure.
+- Refer patients to other health professionals or agencies when appropriate.
+- Work in hospitals or clinics or for Health Management Organizations (HMOs), dispensing prescriptions, serving as a medical team consultant, or specializing in specific drug therapy areas, such as oncology or nuclear pharmacotherapy.
+- Update or troubleshoot pharmacy information databases.
+- Manage pharmacy operations, hiring or supervising staff, performing administrative duties, or buying or selling non-pharmaceutical merchandise.
+- Prepare sterile solutions or infusions for use in surgical procedures, emergency rooms, or patients' homes.
+- Offer health promotion or prevention activities, such as training people to use blood pressure devices or diabetes monitors.
+- Publish educational information for other pharmacists, doctors, or patients.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Medicine and Dentistry (Importance: 4.64/5 | Level: 4.44/7)
+- Mathematics (Importance: 4.49/5 | Level: 4.41/7)
+- English Language (Importance: 4.16/5 | Level: 3.61/7)
+- Customer and Personal Service (Importance: 4.16/5 | Level: 5.05/7)
+- Chemistry (Importance: 4.11/5 | Level: 4.7/7)
+- Biology (Importance: 3.95/5 | Level: 4.29/7)
+- Psychology (Importance: 3.71/5 | Level: 4.53/7)
+- Computers and Electronics (Importance: 3.37/5 | Level: 3.69/7)
+- Education and Training (Importance: 3.34/5 | Level: 3.23/7)
+- Administrative (Importance: 3.3/5 | Level: 3.32/7)
+- Therapy and Counseling (Importance: 2.9/5 | Level: 2.27/7)
+- Communications and Media (Importance: 2.74/5 | Level: 2.21/7)
+- Telecommunications (Importance: 2.74/5 | Level: 1.13/7)
+- Production and Processing (Importance: 2.64/5 | Level: 2.52/7)
+- Law and Government (Importance: 2.58/5 | Level: 2.32/7)
+- Administration and Management (Importance: 2.58/5 | Level: 2.87/7)
+- Personnel and Human Resources (Importance: 2.57/5 | Level: 2.65/7)
+- Sociology and Anthropology (Importance: 2.4/5 | Level: 1.78/7)
+- Public Safety and Security (Importance: 2.08/5 | Level: 1.36/7)
+- Sales and Marketing (Importance: 2.08/5 | Level: 2.04/7)
+- Physics (Importance: 1.83/5 | Level: 1.04/7)
+- Engineering and Technology (Importance: 1.8/5 | Level: 1.33/7)
+- Economics and Accounting (Importance: 1.66/5 | Level: 1.02/7)
+- Foreign Language (Importance: 1.57/5 | Level: 0.81/7)
+- Philosophy and Theology (Importance: 1.54/5 | Level: 1.17/7)
+- Geography (Importance: 1.45/5 | Level: 0.8/7)
+- Transportation (Importance: 1.44/5 | Level: 0.68/7)
+- Design (Importance: 1.35/5 | Level: 0.83/7)
+- Mechanical (Importance: 1.28/5 | Level: 0.41/7)
+- Food Production (Importance: 1.15/5 | Level: 0.3/7)
+- History and Archeology (Importance: 1.13/5 | Level: 0.26/7)
+- Building and Construction (Importance: 1.09/5 | Level: 0.13/7)
+- Fine Arts (Importance: 1.06/5 | Level: 0.1/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Speaking (Importance: 4.0/5 | Level: 4.25/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.75/7)
+- Active Listening (Importance: 4.0/5 | Level: 4.38/7)
+- Writing (Importance: 3.88/5 | Level: 4.0/7)
+- Monitoring (Importance: 3.88/5 | Level: 4.5/7)
+- Critical Thinking (Importance: 3.88/5 | Level: 4.38/7)
+- Judgment and Decision Making (Importance: 3.75/5 | Level: 3.88/7)
+- Time Management (Importance: 3.62/5 | Level: 3.62/7)
+- Social Perceptiveness (Importance: 3.62/5 | Level: 4.0/7)
+- Service Orientation (Importance: 3.62/5 | Level: 3.75/7)
+- Active Learning (Importance: 3.62/5 | Level: 4.12/7)
+- Complex Problem Solving (Importance: 3.62/5 | Level: 3.5/7)
+- Coordination (Importance: 3.38/5 | Level: 3.75/7)
+- Management of Personnel Resources (Importance: 3.38/5 | Level: 3.38/7)
+- Instructing (Importance: 3.38/5 | Level: 3.75/7)
+- Science (Importance: 3.38/5 | Level: 3.75/7)
+- Mathematics (Importance: 3.25/5 | Level: 3.25/7)
+- Learning Strategies (Importance: 3.12/5 | Level: 3.38/7)
+- Systems Analysis (Importance: 3.0/5 | Level: 3.0/7)
+- Systems Evaluation (Importance: 3.0/5 | Level: 3.25/7)
+- Persuasion (Importance: 2.88/5 | Level: 3.12/7)
+- Negotiation (Importance: 2.88/5 | Level: 2.88/7)
+- Management of Material Resources (Importance: 2.75/5 | Level: 2.62/7)
+- Quality Control Analysis (Importance: 2.62/5 | Level: 2.5/7)
+- Operations Analysis (Importance: 2.62/5 | Level: 2.75/7)
+- Management of Financial Resources (Importance: 2.38/5 | Level: 2.25/7)
+- Operations Monitoring (Importance: 2.25/5 | Level: 2.0/7)
+- Troubleshooting (Importance: 1.75/5 | Level: 0.88/7)
+- Technology Design (Importance: 1.62/5 | Level: 1.0/7)
+- Operation and Control (Importance: 1.5/5 | Level: 0.62/7)
+- Programming (Importance: 1.5/5 | Level: 0.62/7)
+- Equipment Selection (Importance: 1.25/5 | Level: 0.38/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Computer records systems (Tech skill type: Data base user interface and query software)
+- eClinicalWorks EHR software (Tech skill type: Medical software)
+- Epic Systems (Tech skill type: Medical software)
+- Freedom MedTEACH (Tech skill type: Computer based training software)
+- Healthprolink MedAtlas (Tech skill type: Data base user interface and query software)
+- Insurance claim processing software (Tech skill type: Accounting software)
+- Label-making software (Tech skill type: Label making software)
+- MEDITECH software (Tech skill type: Medical software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Multitask software (Tech skill type: Calendar and scheduling software)
+- Pyxis MedStation software (Tech skill type: Inventory management software)
+- Recordkeeping software (Tech skill type: Data base user interface and query software)
+- RxKinetics UD Labels for Windows (Tech skill type: Label making software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- TPNassist (Tech skill type: Analytical or scientific software)
+- TTP LabTech comPOUND (Tech skill type: Analytical or scientific software)
+- Web browser software (Tech skill type: Internet browser software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Ampoule filling machines (Tool type: Ampoule filling equipment)
+- Area survey meters (Tool type: Radiation detectors)
+- Automated drug dispensing equipment (Tool type: Sterile or aseptic processing or filling machines)
+- Barcode scanning/prescription tracking systems (Tool type: Bar code reader equipment)
+- Binocular light compound microscopes (Tool type: Binocular light compound microscopes)
+- Capsule counters (Tool type: Tablet counters)
+- Electronic blood pressure monitors (Tool type: Electronic blood pressure units)
+- Electronic toploading balances (Tool type: Electronic toploading balances)
+- Filters for glass containers/ampoules (Tool type: Pharmaceutical filters or ultra filters)
+- Geiger-Muller counters (Tool type: Geiger counters)
+- Glucometers (Tool type: Glucose monitors or meters)
+- Hemacytometers (Tool type: Hemacytometer sets)
+- Horizontal air flow laminar hoods (Tool type: Laminar flow cabinets or stations)
+- Hospital beds (Tool type: Patient care beds for general use)
+- Intravenous IV therapy equipment (Tool type: Intravenous tubing with catheter administration kits)
+- Label-making machines (Tool type: Label making machines)
+- Laminar flow hoods (Tool type: Laminar flow cabinets or stations)
+- Lead shielded drawing stations (Tool type: Medical radiological shielding wall or ceiling or floor installed panels)
+- Lead transport shields (Tool type: Medical radiological shielding freestanding or portable screens or curtains)
+- Manual blood pressure equipment (Tool type: Mercury blood pressure units)
+- Medication pulling/dispensing systems (Tool type: Medication or pill dispensers)
+- Metric graduates (Tool type: Laboratory graduated cylinders)
+- Metric weights (Tool type: Calibration weights or weight sets)
+- Mortars (Tool type: Pestle or mortars)
+- Multiple channel well scintillation counters (Tool type: Liquid scintillation counters)
+- Needles (Tool type: Hypodermic needle)
+- Ostomy products (Tool type: Ostomy starter kits)
+- Oxygen therapy equipment (Tool type: Oxygen therapy delivery system products)
+- Personal computers (Tool type: Personal computers)
+- Pestles (Tool type: Pestle or mortars)
+- Radiation shields for syringes and vials (Tool type: Medical radiological shielding freestanding or portable screens or curtains)
+- Radiochemical fume hood and filter systems (Tool type: Fume hoods or cupboards)
+- Radionucleide dose calibrators (Tool type: Medical radiation dosimeters)
+- Sealing machines (Tool type: Filling or sealing auger dose machines)
+- Single channel well scintillation counters (Tool type: Liquid scintillation counters)
+- Syringes (Tool type: Medical syringes without needle)
+- Tablet computers (Tool type: Tablet computers)
+- Torsion balances (Tool type: Laboratory balances)
+- Vertical air flow laminar hoods (Tool type: Laminar flow cabinets or stations)
+- Wheelchairs (Tool type: Wheelchairs)
+
+# WORK CONTEXT
+- Conflict Situations: Once a week or more but not every day
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Extremely important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Every day
+- Dealing with Violent or Physically Aggressive People: Once a year or more but not every month
+- Degree of Automation: Moderately automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Every day
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Never
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Extremely important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Highly competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Never
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Continually or almost continually
+- Spend Time Sitting: Never
+- Spend Time Standing: Continually or almost continually
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: About half the time
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Never
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Investigative
+- Secondary Interest: Social
+- Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Emergency Medicine Physicians
+- Nurse Practitioners
+- Family Medicine Physicians
+- Clinical Nurse Specialists
+- Physician Assistants
+- General Internal Medicine Physicians
+- Allergists and Immunologists
+- Preventive Medicine Physicians
+- Pediatricians, General
+- Hospitalists
+- Pharmacy Technicians
+- Registered Nurses
+- Pharmacy Aides
+- Licensed Practical and Licensed Vocational Nurses
+- Medical Assistants
+- Anesthesiologists
+- Nurse Anesthetists
+- Obstetricians and Gynecologists
+- Naturopathic Physicians
+- Cardiologists

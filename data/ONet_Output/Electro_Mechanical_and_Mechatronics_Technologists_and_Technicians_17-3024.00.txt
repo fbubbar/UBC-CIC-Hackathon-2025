@@ -1,0 +1,308 @@
+Job Title: Electro-Mechanical and Mechatronics Technologists and Technicians
+O*NET-SOC Code: 17-3024.00
+
+# DESCRIPTION
+Operate, test, maintain, or adjust unmanned, automated, servomechanical, or electromechanical equipment. May operate unmanned submarines, aircraft, or other equipment to observe or record visual information at sites such as oil rigs, crop fields, buildings, or for similar infrastructure, deep ocean exploration, or hazardous waste removal. May assist engineers in testing and designing robotics equipment.
+
+# TASKS
+- Test performance of electromechanical assemblies, using test instruments such as oscilloscopes, electronic voltmeters, or bridges.
+- Install or program computer hardware or machine or instrumentation software in microprocessor-based systems.
+- Read blueprints, schematics, diagrams, or technical orders to determine methods and sequences of assembly.
+- Modify, maintain, or repair electrical, electronic, or mechanical components, equipment, or systems to ensure proper functioning.
+- Inspect parts for surface defects.
+- Install electrical or electronic parts and hardware in housings or assemblies, using soldering equipment and hand tools.
+- Verify part dimensions or clearances to ensure conformance to specifications, using precision measuring instruments.
+- Fabricate or assemble mechanical, electrical, or electronic components or assemblies.
+- Align, fit, or assemble component parts, using hand or power tools, fixtures, templates, or microscopes.
+- Produce electrical, electronic, or mechanical drawings or other related documents or graphics necessary for electromechanical design, using computer-aided design (CAD) software.
+- Select electromechanical equipment, materials, components, or systems to meet functional specifications.
+- Establish and maintain inventory, records, or documentation systems.
+- Develop, test, or program new robots.
+- Prepare written documentation of electromechanical test results.
+- Repair, rework, or calibrate hydraulic or pneumatic assemblies or systems to meet operational specifications or tolerances.
+- Select and use laboratory, operational, or diagnostic techniques or test equipment to assess electromechanical circuits, equipment, processes, systems, or subsystems.
+- Operate, test, or maintain robotic equipment used for green production applications, such as waste-to-energy conversion systems, minimization of material waste, or replacement of human operators in dangerous work environments.
+- Determine whether selected electromechanical components comply with environmental standards and regulations.
+- Develop or implement programs related to the environmental impact of engineering activities.
+- Train others to install, use, or maintain robots.
+- Analyze engineering designs of logic or digital circuitry, motor controls, instrumentation, or data acquisition for implementation into new or existing automated, servomechanical, or other electromechanical systems.
+- Conduct statistical studies to analyze or compare production costs for sustainable and nonsustainable designs.
+- Specify, coordinate, or conduct quality-control or quality-assurance programs and procedures.
+- Operate metalworking machines to fabricate housings, jigs, fittings, or fixtures.
+- Translate electromechanical drawings into design specifications, applying principles of engineering, thermal or fluid sciences, mathematics, or statistics.
+- Identify energy-conserving production or fabrication methods, such as by bending metal rather than cutting and welding or casting metal.
+- Assist engineers to implement electromechanical designs in industrial or other settings.
+- Consult with machinists to ensure that electromechanical equipment or systems meet design specifications.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Computers and Electronics (Importance: 4.07/5 | Level: 4.79/7)
+- Mechanical (Importance: 3.74/5 | Level: 4.65/7)
+- Engineering and Technology (Importance: 3.62/5 | Level: 4.32/7)
+- English Language (Importance: 3.19/5 | Level: 3.12/7)
+- Mathematics (Importance: 3.13/5 | Level: 3.86/7)
+- Production and Processing (Importance: 3.13/5 | Level: 3.13/7)
+- Design (Importance: 2.83/5 | Level: 3.75/7)
+- Telecommunications (Importance: 2.75/5 | Level: 2.46/7)
+- Physics (Importance: 2.61/5 | Level: 3.54/7)
+- Education and Training (Importance: 2.47/5 | Level: 2.84/7)
+- Administrative (Importance: 2.4/5 | Level: 2.39/7)
+- Customer and Personal Service (Importance: 2.39/5 | Level: 2.54/7)
+- Public Safety and Security (Importance: 2.39/5 | Level: 2.1/7)
+- Administration and Management (Importance: 1.99/5 | Level: 1.64/7)
+- Chemistry (Importance: 1.97/5 | Level: 2.17/7)
+- Law and Government (Importance: 1.6/5 | Level: 1.36/7)
+- Building and Construction (Importance: 1.6/5 | Level: 1.32/7)
+- Foreign Language (Importance: 1.54/5 | Level: 0.86/7)
+- Communications and Media (Importance: 1.48/5 | Level: 0.97/7)
+- Economics and Accounting (Importance: 1.47/5 | Level: 0.67/7)
+- Sales and Marketing (Importance: 1.4/5 | Level: 0.65/7)
+- Transportation (Importance: 1.39/5 | Level: 0.69/7)
+- Personnel and Human Resources (Importance: 1.36/5 | Level: 0.81/7)
+- Geography (Importance: 1.36/5 | Level: 1.26/7)
+- Psychology (Importance: 1.31/5 | Level: 0.75/7)
+- Medicine and Dentistry (Importance: 1.26/5 | Level: 0.43/7)
+- Philosophy and Theology (Importance: 1.18/5 | Level: 0.47/7)
+- Food Production (Importance: 1.18/5 | Level: 0.25/7)
+- Biology (Importance: 1.15/5 | Level: 0.35/7)
+- Sociology and Anthropology (Importance: 1.14/5 | Level: 0.26/7)
+- Therapy and Counseling (Importance: 1.14/5 | Level: 0.28/7)
+- History and Archeology (Importance: 1.07/5 | Level: 0.16/7)
+- Fine Arts (Importance: 1.05/5 | Level: 0.09/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operations Monitoring (Importance: 4.0/5 | Level: 4.0/7)
+- Troubleshooting (Importance: 3.88/5 | Level: 4.0/7)
+- Monitoring (Importance: 3.75/5 | Level: 4.0/7)
+- Repairing (Importance: 3.75/5 | Level: 3.88/7)
+- Critical Thinking (Importance: 3.62/5 | Level: 3.75/7)
+- Quality Control Analysis (Importance: 3.62/5 | Level: 3.75/7)
+- Operation and Control (Importance: 3.5/5 | Level: 4.0/7)
+- Judgment and Decision Making (Importance: 3.38/5 | Level: 3.12/7)
+- Complex Problem Solving (Importance: 3.25/5 | Level: 3.12/7)
+- Reading Comprehension (Importance: 3.25/5 | Level: 4.0/7)
+- Systems Evaluation (Importance: 3.12/5 | Level: 3.12/7)
+- Systems Analysis (Importance: 3.12/5 | Level: 3.12/7)
+- Speaking (Importance: 3.12/5 | Level: 3.12/7)
+- Active Listening (Importance: 3.12/5 | Level: 3.38/7)
+- Active Learning (Importance: 3.12/5 | Level: 3.25/7)
+- Writing (Importance: 3.12/5 | Level: 3.12/7)
+- Equipment Maintenance (Importance: 3.12/5 | Level: 3.62/7)
+- Equipment Selection (Importance: 3.12/5 | Level: 3.12/7)
+- Installation (Importance: 3.12/5 | Level: 3.38/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 3.0/7)
+- Instructing (Importance: 2.88/5 | Level: 3.12/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.88/7)
+- Mathematics (Importance: 2.88/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 2.88/5 | Level: 3.0/7)
+- Management of Personnel Resources (Importance: 2.75/5 | Level: 2.88/7)
+- Science (Importance: 2.75/5 | Level: 3.0/7)
+- Programming (Importance: 2.5/5 | Level: 2.62/7)
+- Service Orientation (Importance: 2.25/5 | Level: 2.25/7)
+- Operations Analysis (Importance: 2.25/5 | Level: 2.25/7)
+- Technology Design (Importance: 2.12/5 | Level: 1.5/7)
+- Negotiation (Importance: 2.0/5 | Level: 1.75/7)
+- Persuasion (Importance: 2.0/5 | Level: 1.88/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.62/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 1.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Airdata (Tech skill type: Project management software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Autodesk Inventor (Tech skill type: Computer aided design CAD software)
+- Automation Studio (Tech skill type: Analytical or scientific software)
+- C++ (Tech skill type: Object or component oriented development software)
+- Circuit simulation software (Tech skill type: Analytical or scientific software)
+- CloudCompare (Tech skill type: Analytical or scientific software)
+- Computer aided design CAD software (Tech skill type: Computer aided design CAD software)
+- Computerized maintenance management system CMMS (Tech skill type: Facilities management software)
+- Dassault Systemes SolidWorks (Tech skill type: Computer aided design CAD software)
+- ESRI ArcGIS software (Tech skill type: Analytical or scientific software)
+- Human machine interface HMI software (Tech skill type: Industrial control software)
+- Laser imaging detection and ranging LIDAR system (Tech skill type: Analytical or scientific software)
+- Linux (Tech skill type: Operating system software)
+- Litchi (Tech skill type: Analytical or scientific software)
+- Manufacturing resource planning MRP software (Tech skill type: Enterprise resource planning ERP software)
+- MathWorks Simulink (Tech skill type: Analytical or scientific software)
+- McNeel Rhinoceros 3D (Tech skill type: Graphics or photo imaging software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- MindJet MindManager (Tech skill type: Process mapping and design software)
+- Motion control software (Tech skill type: Industrial control software)
+- National Instruments LabVIEW (Tech skill type: Development environment software)
+- National Instruments Multisim (Tech skill type: Computer aided design CAD software)
+- National Instruments Ultiboard (Tech skill type: Computer aided design CAD software)
+- Operating system software (Tech skill type: Operating system software)
+- Oracle Agile Product Lifecycle Management PLM (Tech skill type: Enterprise resource planning ERP software)
+- Pix4D Pix4Dcapture (Tech skill type: Analytical or scientific software)
+- Pix4D software (Tech skill type: Analytical or scientific software)
+- Programmable logic controller PLC software (Tech skill type: Industrial control software)
+- PTC Creo Parametric (Tech skill type: Computer aided design CAD software)
+- Python (Tech skill type: Object or component oriented development software)
+- Rapid prototyping software (Tech skill type: Computer aided manufacturing CAM software)
+- Rockwell RSLogix (Tech skill type: Program testing software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Supervisory control and data acquisition SCADA software (Tech skill type: Industrial control software)
+- The MathWorks MATLAB (Tech skill type: Analytical or scientific software)
+- UgCS (Tech skill type: Analytical or scientific software)
+- UNIX (Tech skill type: Operating system software)
+
+## TOOLS USED
+- Analog oscilloscopes (Tool type: Oscilloscopes)
+- Computerized numerical control CNC lathes (Tool type: Horizontal turning center)
+- Computerized numerical control CNC machining centers (Tool type: Milling machines)
+- Conductivity sensors (Tool type: Conductivity meters)
+- Coordinate measuring machines CMM (Tool type: Coordinate measuring machines CMM)
+- Desktop computers (Tool type: Desktop computers)
+- Digital cameras (Tool type: Digital cameras)
+- Digital multimeters (Tool type: Multimeters)
+- Digital oscilloscopes (Tool type: Oscilloscopes)
+- Digital tachometers (Tool type: Tachometers)
+- Direct current DC power supplies (Tool type: Brushless motor DC)
+- Drill presses (Tool type: Drill press or radial drill)
+- DroneDeploy (Tool type: Aircraft guidance systems)
+- Dynamometers (Tool type: Dynamometers)
+- Fixed wing unmanned aerial vehicles UAV (Tool type: Airships)
+- Flow meters (Tool type: Flowmeters)
+- Force gauges (Tool type: Force or torque sensors)
+- Framing squares (Tool type: Squares)
+- Function generators (Tool type: Signal generators)
+- Hammers (Tool type: Hammers)
+- Hardness testers (Tool type: Hardness testers)
+- Heat treatment furnaces (Tool type: Induction heaters)
+- Hex wrenches (Tool type: Hex keys)
+- Hipot testers (Tool type: Hipot testers)
+- Hyperspectral imaging equipment (Tool type: Spectrographs)
+- Impact testers (Tool type: Impact testers)
+- Iron workers (Tool type: Punches or nail sets or drifts)
+- Laptop computers (Tool type: Notebook computers)
+- Laser alignment tools (Tool type: Laser measuring systems)
+- Laser engravers (Tool type: Engraving machines)
+- Laser printers (Tool type: Laser printers)
+- Load cells (Tool type: Loadcells)
+- Machining centers (Tool type: Milling machines)
+- Manual mills (Tool type: Milling machines)
+- Measuring tapes (Tool type: Tape measures)
+- Megohmmeters (Tool type: Megohmmeters)
+- Metal inert gas MIG welders (Tool type: Metal inert gas welding machine)
+- Multi-rotor unmanned aerial vehicles UAV (Tool type: Airships)
+- Multispectral imaging equipment (Tool type: Infrared spectrometers)
+- Open end wrenches (Tool type: Open end wrenches)
+- Optical comparators (Tool type: Comparators)
+- Oscilloscopes (Tool type: Oscilloscopes)
+- Personal computers (Tool type: Personal computers)
+- Pipe benders (Tool type: Pipe bending tools)
+- Pipe threading machines (Tool type: Threading machine)
+- Pneumatic electric converters (Tool type: Signal converters)
+- Portable welding equipment (Tool type: Spot welding machine)
+- Potentiometers (Tool type: Potentiometers)
+- Pressure gauges (Tool type: Pressure indicators)
+- Pressure sensors (Tool type: Pressure indicators)
+- Programmable logic controllers PLC (Tool type: Microcontrollers)
+- Protective goggles (Tool type: Goggles)
+- Proximity sensors (Tool type: Proximity sensors)
+- Robotic welders (Tool type: Welding robots)
+- Screwdrivers (Tool type: Screwdrivers)
+- Selective laser sintering SLS systems (Tool type: Selective laser sintering machine)
+- Socket wrench sets (Tool type: Socket sets)
+- Soldering equipment (Tool type: Soldering iron)
+- Spectrum analyzers (Tool type: Frequency analyzers)
+- Tensile testers (Tool type: Tension testers)
+- Thermal cameras (Tool type: Thermal imager)
+- Thermocouples (Tool type: Thermocouples)
+- Three dimensional laser scanners (Tool type: Coordinate measuring machines CMM)
+- Three-dimensional prototyping printers (Tool type: Three dimensional printing machine)
+- Tungsten inert gas TIG welding equipment (Tool type: Tungsten inert gas welding machine)
+- Voltmeters (Tool type: Voltage or current meters)
+- Wire strippers (Tool type: Stripping tools)
+- X-Y positioning tables (Tool type: Positioning jig)
+
+# WORK CONTEXT
+- Conflict Situations: Once a week or more but not every day
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Extremely important
+- Deal With External Customers or the Public in General: Fairly important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a week or more but not every day
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Once a month or more but not every week
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Once a week or more but not every day
+- Exposed to Hazardous Equipment: Once a week or more but not every day
+- Exposed to High Places: Once a year or more but not every month
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Once a month or more but not every week
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Once a week or more but not every day
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Extremely important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Every day
+- Level of Competition: Extremely competitive
+- Outdoors, Exposed to All Weather Conditions: Once a month or more but not every week
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Less than half the time
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: About half the time
+- Spend Time Sitting: Continually or almost continually
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Once a year or more but not every month
+- Work Outcomes and Results of Other Workers: High responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Aerospace Engineering and Operations Technologists and Technicians
+- Avionics Technicians
+- Robotics Technicians
+- Calibration Technologists and Technicians
+- Electrical and Electronic Engineering Technologists and Technicians
+- Electrical and Electronics Repairers, Commercial and Industrial Equipment
+- Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+- Mechanical Engineering Technologists and Technicians
+- Photonics Technicians
+- Industrial Engineering Technologists and Technicians
+- Robotics Engineers
+- Aerospace Engineers
+- Electronics Engineers, Except Computer
+- Mechatronics Engineers
+- Electromechanical Equipment Assemblers
+- Aircraft Mechanics and Service Technicians
+- Mechanical Engineers
+- Electrical and Electronics Installers and Repairers, Transportation Equipment
+- Electrical Engineers
+- Automotive Engineering Technicians

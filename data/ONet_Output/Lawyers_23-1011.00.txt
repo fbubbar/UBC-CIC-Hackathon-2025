@@ -1,0 +1,330 @@
+Job Title: Lawyers
+O*NET-SOC Code: 23-1011.00
+
+# DESCRIPTION
+Represent clients in criminal and civil litigation and other legal proceedings, draw up legal documents, or manage or advise clients on legal transactions. May specialize in a single area or may practice broadly in many areas of law.
+
+# TASKS
+- Interpret laws, rulings and regulations for individuals and businesses.
+- Analyze the probable outcomes of cases, using knowledge of legal precedents.
+- Gather evidence to formulate defense or to initiate legal actions by such means as interviewing clients and witnesses to ascertain the facts of a case.
+- Represent clients in court or before government agencies.
+- Evaluate findings and develop strategies and arguments in preparation for presentation of cases.
+- Advise clients concerning business transactions, claim liability, advisability of prosecuting or defending lawsuits, or legal rights and obligations.
+- Examine legal data to determine advisability of defending or prosecuting lawsuit.
+- Prepare, draft, and review legal documents, such as wills, deeds, patent applications, mortgages, leases, and contracts.
+- Study Constitution, statutes, decisions, regulations, and ordinances of quasi-judicial bodies to determine ramifications for cases.
+- Negotiate settlements of civil disputes.
+- Supervise legal assistants.
+- Negotiate contractual agreements.
+- Confer with colleagues with specialties in appropriate areas of legal issue to establish and verify bases for legal proceedings.
+- Search for and examine public and other legal records to write opinions or establish ownership.
+- Perform administrative and management functions related to the practice of law.
+- Present and summarize cases to judges and juries.
+- Select jurors, argue motions, meet with judges, and question witnesses during the course of a trial.
+- Present evidence to defend clients or prosecute defendants in criminal or civil litigation.
+- Probate wills and represent and advise executors and administrators of estates.
+- Prepare legal briefs and opinions, and file appeals in state and federal courts of appeal.
+- Act as agent, trustee, guardian, or executor for businesses or individuals.
+- Help develop federal and state programs, draft and interpret laws and legislation, and establish enforcement procedures.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Law and Government (Importance: 4.98/5 | Level: 5.93/7)
+- English Language (Importance: 4.66/5 | Level: 5.57/7)
+- Customer and Personal Service (Importance: 4.0/5 | Level: 5.01/7)
+- Administrative (Importance: 3.2/5 | Level: 3.68/7)
+- Computers and Electronics (Importance: 3.07/5 | Level: 3.48/7)
+- Communications and Media (Importance: 3.02/5 | Level: 3.42/7)
+- Administration and Management (Importance: 2.77/5 | Level: 3.12/7)
+- Education and Training (Importance: 2.58/5 | Level: 2.95/7)
+- Personnel and Human Resources (Importance: 2.39/5 | Level: 2.52/7)
+- Public Safety and Security (Importance: 2.35/5 | Level: 1.6/7)
+- Mathematics (Importance: 2.31/5 | Level: 2.32/7)
+- Psychology (Importance: 2.28/5 | Level: 2.43/7)
+- Economics and Accounting (Importance: 2.18/5 | Level: 1.81/7)
+- Sociology and Anthropology (Importance: 2.12/5 | Level: 1.96/7)
+- Sales and Marketing (Importance: 1.91/5 | Level: 1.72/7)
+- Telecommunications (Importance: 1.78/5 | Level: 0.7/7)
+- Therapy and Counseling (Importance: 1.72/5 | Level: 1.02/7)
+- History and Archeology (Importance: 1.69/5 | Level: 1.28/7)
+- Production and Processing (Importance: 1.52/5 | Level: 1.06/7)
+- Geography (Importance: 1.47/5 | Level: 0.93/7)
+- Philosophy and Theology (Importance: 1.41/5 | Level: 1.09/7)
+- Transportation (Importance: 1.36/5 | Level: 0.73/7)
+- Foreign Language (Importance: 1.25/5 | Level: 0.37/7)
+- Medicine and Dentistry (Importance: 1.19/5 | Level: 0.28/7)
+- Engineering and Technology (Importance: 1.17/5 | Level: 0.3/7)
+- Chemistry (Importance: 1.13/5 | Level: 0.27/7)
+- Fine Arts (Importance: 1.1/5 | Level: 0.1/7)
+- Design (Importance: 1.04/5 | Level: 0.09/7)
+- Biology (Importance: 1.04/5 | Level: 0.07/7)
+- Mechanical (Importance: 1.02/5 | Level: 0.05/7)
+- Building and Construction (Importance: 1.02/5 | Level: 0.05/7)
+- Physics (Importance: 1.0/5 | Level: 0.0/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Speaking (Importance: 4.62/5 | Level: 4.88/7)
+- Critical Thinking (Importance: 4.5/5 | Level: 5.0/7)
+- Reading Comprehension (Importance: 4.5/5 | Level: 4.88/7)
+- Active Listening (Importance: 4.5/5 | Level: 5.0/7)
+- Writing (Importance: 4.25/5 | Level: 4.88/7)
+- Complex Problem Solving (Importance: 4.12/5 | Level: 4.25/7)
+- Judgment and Decision Making (Importance: 4.12/5 | Level: 4.38/7)
+- Negotiation (Importance: 4.0/5 | Level: 4.38/7)
+- Persuasion (Importance: 4.0/5 | Level: 5.0/7)
+- Social Perceptiveness (Importance: 3.75/5 | Level: 4.0/7)
+- Active Learning (Importance: 3.75/5 | Level: 4.12/7)
+- Time Management (Importance: 3.62/5 | Level: 4.0/7)
+- Coordination (Importance: 3.5/5 | Level: 3.38/7)
+- Monitoring (Importance: 3.38/5 | Level: 3.75/7)
+- Systems Analysis (Importance: 3.38/5 | Level: 3.5/7)
+- Learning Strategies (Importance: 3.12/5 | Level: 3.12/7)
+- Instructing (Importance: 3.12/5 | Level: 3.12/7)
+- Service Orientation (Importance: 3.12/5 | Level: 3.5/7)
+- Systems Evaluation (Importance: 3.0/5 | Level: 3.25/7)
+- Management of Personnel Resources (Importance: 2.88/5 | Level: 3.0/7)
+- Operations Analysis (Importance: 2.38/5 | Level: 2.25/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 2.0/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 2.12/7)
+- Mathematics (Importance: 2.0/5 | Level: 2.12/7)
+- Programming (Importance: 1.5/5 | Level: 0.5/7)
+- Technology Design (Importance: 1.5/5 | Level: 0.5/7)
+- Science (Importance: 1.5/5 | Level: 0.5/7)
+- Operations Monitoring (Importance: 1.38/5 | Level: 0.38/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Quality Control Analysis (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Operation and Control (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Abacus Data Systems AbacusLaw (Tech skill type: Data base user interface and query software)
+- AbacusNext HotDocs (Tech skill type: Document management software)
+- ADC Legal Systems Perfect Practice (Tech skill type: Data base user interface and query software)
+- ADERANT Expert Matter Center (Tech skill type: Data base user interface and query software)
+- Adobe Acrobat (Tech skill type: Document management software)
+- Advanced Technologies Class Act (Tech skill type: Data base user interface and query software)
+- AdvantageLaw WinVantage (Tech skill type: Data base user interface and query software)
+- Anacomp CaseLogistix (Tech skill type: Document management software)
+- Argosy Legal Systems Power Closer (Tech skill type: Data base user interface and query software)
+- Best Case Solutions Best Case Bankruptcy (Tech skill type: Document management software)
+- BQE Software BillQuick (Tech skill type: Accounting software)
+- Bridgeway eCounsel (Tech skill type: Data base user interface and query software)
+- Canyon Solutions Jcats (Tech skill type: Project management software)
+- Captaris Alchemy (Tech skill type: Document management software)
+- Catalyst Repository Systems CatalystCR (Tech skill type: Document management software)
+- Catalyst Repository Systems CatalystDR (Tech skill type: Electronic mail software)
+- Catalyst Repository Systems CatalystXE (Tech skill type: Electronic mail software)
+- Chesapeake Interlink Needles (Tech skill type: Data base user interface and query software)
+- Client Profiles Case Management (Tech skill type: Data base user interface and query software)
+- Cobblestone Systems Contract Insight (Tech skill type: Data base user interface and query software)
+- Compugov DocketView (Tech skill type: Calendar and scheduling software)
+- CompuLaw Vision (Tech skill type: Calendar and scheduling software)
+- Computer Sciences Corporation Legal Solutions Suite (Tech skill type: Data base user interface and query software)
+- Constellation Justice Systems CourtView (Tech skill type: Project management software)
+- Convex FactLogic (Tech skill type: Analytical or scientific software)
+- Corel WordPerfect Office Suite (Tech skill type: Office suite software)
+- Corporate Focus Solium Shareworks (Tech skill type: Data base user interface and query software)
+- Corporatek EnAct Platinum (Tech skill type: Data base user interface and query software)
+- Creative Data Solutions DuProcess (Tech skill type: Data base user interface and query software)
+- CrimeCog Technologies E*Justice (Tech skill type: Data base user interface and query software)
+- Crocodile Consulting Traffic Control (Tech skill type: Data base user interface and query software)
+- CT hCue (Tech skill type: Document management software)
+- CT Summation iBlaze (Tech skill type: Document management software)
+- Customer Expressions i-Sight (Tech skill type: Project management software)
+- CyberDyne Industries CaseWizard (Tech skill type: Data base user interface and query software)
+- DATAssimilate Systems DATAssimilator (Tech skill type: Document management software)
+- De Novo Systems De Novo CaseMgr (Tech skill type: Data base user interface and query software)
+- Diarymaster (Tech skill type: Data base user interface and query software)
+- Direct Hit Systems THREADS (Tech skill type: Analytical or scientific software)
+- DPS Software General Litigation (Tech skill type: Data base user interface and query software)
+- Eclipse Legal Systems Proclaim (Tech skill type: Data base user interface and query software)
+- Economic Analysis Group EAG CaseTrack (Tech skill type: Data base user interface and query software)
+- eLawSoftware (Tech skill type: Data base user interface and query software)
+- Equative TimeLedger (Tech skill type: Time accounting software)
+- ERP software (Tech skill type: Enterprise resource planning ERP software)
+- ESI Software ESILAW (Tech skill type: Accounting software)
+- Fastcase legal software (Tech skill type: Information retrieval or search software)
+- FTI Ringtail Legal (Tech skill type: Document management software)
+- Fund accounting software (Tech skill type: Accounting software)
+- Gavel & Gown Software Amicus Attorney (Tech skill type: Data base user interface and query software)
+- Genlex CaseAce (Tech skill type: Accounting software)
+- Google Analytics (Tech skill type: Data mining software)
+- HiPerSoft Practice Information Powertool (Tech skill type: Data base user interface and query software)
+- I-many Contract Management (Tech skill type: Content workflow software)
+- IBM Federated Records Management (Tech skill type: Document management software)
+- IDEA TrialPro (Tech skill type: Presentation software)
+- Immigrant Software Immigrant Professional (Tech skill type: Document management software)
+- inData TrialDirector (Tech skill type: Presentation software)
+- Interwoven RecordsManager (Tech skill type: Document management software)
+- Iron Mountain Accutrac records management software (Tech skill type: Document management software)
+- Juris (Tech skill type: Data base user interface and query software)
+- Justice Systems FullCourt Enterprise (Tech skill type: Data base user interface and query software)
+- Lawex TrialWorks (Tech skill type: Data base user interface and query software)
+- LawLogix Edge (Tech skill type: Data base user interface and query software)
+- Legal Files software (Tech skill type: Project management software)
+- LegalEdge Law Firm Suite (Tech skill type: Data base user interface and query software)
+- Levare Center Court (Tech skill type: Calendar and scheduling software)
+- LexisNexis (Tech skill type: Information retrieval or search software)
+- LexisNexis CaseMap (Tech skill type: Data base user interface and query software)
+- LexisNexis Lexis Back Office (Tech skill type: Accounting software)
+- LexisNexis Lexis Front Office (Tech skill type: Data base user interface and query software)
+- LexisNexis PCLaw (Tech skill type: Accounting software)
+- LexisNexis Shepard's Citations Service (Tech skill type: Information retrieval or search software)
+- LogMeIn GoToMeeting (Tech skill type: Video conferencing software)
+- LT Online Corporation LAWTRAC (Tech skill type: Data base user interface and query software)
+- Lucid IQ CMP (Tech skill type: Data base user interface and query software)
+- MicroFocus GroupWise (Tech skill type: Electronic mail software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Dynamics (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft Publisher (Tech skill type: Desktop publishing software)
+- Microsoft SharePoint Server (Tech skill type: Document management software)
+- Microsoft Word (Tech skill type: Word processing software)
+- NetDocuments (Tech skill type: Document management software)
+- Nolo Quicken Legal Business Pro (Tech skill type: Data base user interface and query software)
+- Nuance PaperPort Professional (Tech skill type: Document management software)
+- OpenText eDOCS DM (Tech skill type: Document management software)
+- Orion Law Management Systems Orion (Tech skill type: Data base user interface and query software)
+- PerfectLaw All-in-One Suite (Tech skill type: Data base user interface and query software)
+- Practice Technology Prevail (Tech skill type: Project management software)
+- ProCAT Denoto (Tech skill type: Word processing software)
+- ProDoc (Tech skill type: Document management software)
+- Saga Practice Manager (Tech skill type: Data base user interface and query software)
+- Sage Timeslips (Tech skill type: Time accounting software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Selectica Contract Performance Management (Tech skill type: Data base user interface and query software)
+- SMEsource BillingOrchard (Tech skill type: Accounting software)
+- Software Technology Tabs3 (Tech skill type: Accounting software)
+- Solution Specialties TRACKER (Tech skill type: Data base user interface and query software)
+- SUSTAIN Justice Edition (Tech skill type: Data base user interface and query software)
+- Synaptec LawBase Case Management (Tech skill type: Data base user interface and query software)
+- Synergy International Systems Synergy CaseTrack (Tech skill type: Data base user interface and query software)
+- Tabs3 PracticeMaster (Tech skill type: Data base user interface and query software)
+- Tax software (Tech skill type: Tax preparation software)
+- Technovation Software ImmigrationPro (Tech skill type: Document management software)
+- Thomson Reuters Elite ProLaw (Tech skill type: Data base user interface and query software)
+- Thomson Reuters Westlaw (Tech skill type: Information retrieval or search software)
+- Thomson West Cowles Estate Practice System (Tech skill type: Document management software)
+- TimePro Legal Software TimePro (Tech skill type: Accounting software)
+- TimeSolv Legal (Tech skill type: Accounting software)
+- TopDogLegal (Tech skill type: Data base user interface and query software)
+- Upside Software UpsideContract (Tech skill type: Data base user interface and query software)
+- Verdict Systems Sanction (Tech skill type: Presentation software)
+- Virtual Case Management (Tech skill type: Project management software)
+- Visionary Legal Technologies Visionary Professional (Tech skill type: Presentation software)
+- WealthCounsel WealthDocs (Tech skill type: Document management software)
+- Web browser software (Tech skill type: Internet browser software)
+- WebEx WebOffice (Tech skill type: Data base user interface and query software)
+- Woll2Woll InfoPower Studio (Tech skill type: Data base user interface and query software)
+- Wolters Kluwer Loislaw (Tech skill type: Information retrieval or search software)
+- Word processing software (Tech skill type: Word processing software)
+- World Software Corporation Worldox (Tech skill type: Document management software)
+- WorthMORE Software CaseWORTH (Tech skill type: Data base user interface and query software)
+
+## TOOLS USED
+- Compact disk CD recorders (Tool type: Compact disk players or recorders)
+- Computer data input scanners (Tool type: Scanners)
+- Desktop computers (Tool type: Desktop computers)
+- Digital photocopiers (Tool type: Photocopiers)
+- Digital video disk DVD recorders (Tool type: Digital video disk players or recorders)
+- Laptop computers (Tool type: Notebook computers)
+- Liquid crystal display LCD projectors (Tool type: Liquid crystal display projector)
+- Optical character readers (Tool type: Optical character recognition systems)
+- Overhead projectors (Tool type: Overhead projectors)
+- Personal computers (Tool type: Personal computers)
+- Personal digital assistants PDA (Tool type: Personal digital assistant PDAs or organizers)
+- Universal serial bus USB flash drives (Tool type: High capacity removable media drives)
+
+# WORK CONTEXT
+- Conflict Situations: Once a week or more but not every day
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a week or more but not every day
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Never
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: No responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Extremely important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: I work with others but not closely (e.g., private office)
+- Public Speaking: Once a year or more but not every month
+- Spend Time Bending or Twisting Your Body: Never
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Never
+- Spend Time Sitting: Continually or almost continually
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Never
+- Spend Time Walking or Running: Never
+- Telephone Conversations: Every day
+- Time Pressure: Once a week or more but not every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Never
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Important
+- Written Letters and Memos: Every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Enterprising
+- Secondary Interest: Conventional
+- Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Judicial Law Clerks
+- Administrative Law Judges, Adjudicators, and Hearing Officers
+- Arbitrators, Mediators, and Conciliators
+- Judges, Magistrate Judges, and Magistrates
+- Claims Adjusters, Examiners, and Investigators
+- Fraud Examiners, Investigators and Analysts
+- Equal Opportunity Representatives and Officers
+- Labor Relations Specialists
+- Law Teachers, Postsecondary
+- Chief Executives
+- Paralegals and Legal Assistants
+- Legal Secretaries and Administrative Assistants
+- Title Examiners, Abstractors, and Searchers
+- Court, Municipal, and License Clerks
+- Private Detectives and Investigators
+- Detectives and Criminal Investigators
+- Court Reporters and Simultaneous Captioners
+- Eligibility Interviewers, Government Programs
+- Compliance Officers
+- Tax Examiners and Collectors, and Revenue Agents

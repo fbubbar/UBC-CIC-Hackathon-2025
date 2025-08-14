@@ -1,0 +1,333 @@
+Job Title: Medical Scientists, Except Epidemiologists
+O*NET-SOC Code: 19-1042.00
+
+# DESCRIPTION
+Conduct research dealing with the understanding of human diseases and the improvement of human health. Engage in clinical investigation, research and development, or other related activities.
+
+# TASKS
+- Follow strict safety procedures when handling toxic materials to avoid contamination.
+- Evaluate effects of drugs, gases, pesticides, parasites, and microorganisms at various levels.
+- Plan and direct studies to investigate human or animal disease, preventive methods, and treatments for disease.
+- Prepare and analyze organ, tissue, and cell samples to identify toxicity, bacteria, or microorganisms or to study cell structure.
+- Conduct research to develop methodologies, instrumentation, and procedures for medical application, analyzing data and presenting findings to the scientific audience and general public.
+- Teach principles of medicine and medical and laboratory procedures to physicians, residents, students, and technicians.
+- Write and publish articles in scientific journals.
+- Write applications for research grants.
+- Standardize drug dosages, methods of immunization, and procedures for manufacture of drugs and medicinal compounds.
+- Study animal and human health and physiological processes.
+- Investigate cause, progress, life cycle, or mode of transmission of diseases or parasites.
+- Use equipment such as atomic absorption spectrometers, electron microscopes, flow cytometers, or chromatography systems.
+- Confer with health departments, industry personnel, physicians, and others to develop health safety standards and public health improvement programs.
+- Consult with and advise physicians, educators, researchers, and others regarding medical applications of physics, biology, and chemistry.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Biology (Importance: 4.7/5 | Level: 6.35/7)
+- English Language (Importance: 4.11/5 | Level: 4.96/7)
+- Medicine and Dentistry (Importance: 3.67/5 | Level: 4.35/7)
+- Chemistry (Importance: 3.44/5 | Level: 4.58/7)
+- Mathematics (Importance: 3.22/5 | Level: 4.33/7)
+- Computers and Electronics (Importance: 2.98/5 | Level: 4.3/7)
+- Education and Training (Importance: 2.85/5 | Level: 3.72/7)
+- Administration and Management (Importance: 2.84/5 | Level: 3.37/7)
+- Administrative (Importance: 2.12/5 | Level: 2.57/7)
+- Physics (Importance: 2.12/5 | Level: 2.35/7)
+- Communications and Media (Importance: 2.09/5 | Level: 2.49/7)
+- Public Safety and Security (Importance: 2.04/5 | Level: 2.03/7)
+- Engineering and Technology (Importance: 1.97/5 | Level: 1.73/7)
+- Transportation (Importance: 1.89/5 | Level: 1.7/7)
+- Personnel and Human Resources (Importance: 1.84/5 | Level: 1.82/7)
+- Economics and Accounting (Importance: 1.74/5 | Level: 1.32/7)
+- Law and Government (Importance: 1.73/5 | Level: 1.53/7)
+- Psychology (Importance: 1.73/5 | Level: 1.84/7)
+- Telecommunications (Importance: 1.66/5 | Level: 0.77/7)
+- Customer and Personal Service (Importance: 1.66/5 | Level: 1.54/7)
+- Production and Processing (Importance: 1.63/5 | Level: 1.13/7)
+- Therapy and Counseling (Importance: 1.62/5 | Level: 1.44/7)
+- Sociology and Anthropology (Importance: 1.59/5 | Level: 1.49/7)
+- Design (Importance: 1.54/5 | Level: 1.12/7)
+- Sales and Marketing (Importance: 1.46/5 | Level: 1.05/7)
+- Geography (Importance: 1.36/5 | Level: 0.95/7)
+- Mechanical (Importance: 1.36/5 | Level: 0.69/7)
+- Building and Construction (Importance: 1.26/5 | Level: 0.46/7)
+- Philosophy and Theology (Importance: 1.21/5 | Level: 0.51/7)
+- Fine Arts (Importance: 1.18/5 | Level: 0.27/7)
+- Foreign Language (Importance: 1.13/5 | Level: 0.53/7)
+- History and Archeology (Importance: 1.03/5 | Level: 0.06/7)
+- Food Production (Importance: 1.01/5 | Level: 0.02/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Writing (Importance: 4.25/5 | Level: 4.88/7)
+- Science (Importance: 4.12/5 | Level: 5.0/7)
+- Speaking (Importance: 4.12/5 | Level: 4.38/7)
+- Active Learning (Importance: 4.12/5 | Level: 5.0/7)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.75/7)
+- Judgment and Decision Making (Importance: 4.0/5 | Level: 4.25/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 5.25/7)
+- Active Listening (Importance: 4.0/5 | Level: 4.25/7)
+- Complex Problem Solving (Importance: 3.88/5 | Level: 4.62/7)
+- Systems Analysis (Importance: 3.75/5 | Level: 4.0/7)
+- Mathematics (Importance: 3.62/5 | Level: 4.12/7)
+- Monitoring (Importance: 3.62/5 | Level: 4.12/7)
+- Learning Strategies (Importance: 3.38/5 | Level: 3.88/7)
+- Systems Evaluation (Importance: 3.25/5 | Level: 4.12/7)
+- Instructing (Importance: 3.25/5 | Level: 4.0/7)
+- Time Management (Importance: 3.12/5 | Level: 3.62/7)
+- Service Orientation (Importance: 3.12/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 3.25/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Operations Analysis (Importance: 2.88/5 | Level: 3.62/7)
+- Persuasion (Importance: 2.88/5 | Level: 3.0/7)
+- Negotiation (Importance: 2.88/5 | Level: 2.88/7)
+- Management of Personnel Resources (Importance: 2.88/5 | Level: 3.25/7)
+- Operations Monitoring (Importance: 2.75/5 | Level: 2.62/7)
+- Quality Control Analysis (Importance: 2.25/5 | Level: 2.75/7)
+- Programming (Importance: 2.0/5 | Level: 1.62/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.75/7)
+- Operation and Control (Importance: 1.88/5 | Level: 1.12/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 1.5/7)
+- Technology Design (Importance: 1.75/5 | Level: 0.75/7)
+- Troubleshooting (Importance: 1.75/5 | Level: 0.75/7)
+- Equipment Selection (Importance: 1.62/5 | Level: 0.75/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adobe Photoshop (Tech skill type: Graphics or photo imaging software)
+- BioArray Software Environment BASE (Tech skill type: Analytical or scientific software)
+- Database software (Tech skill type: Data base user interface and query software)
+- ESRI ArcGIS software (Tech skill type: Geographic information system)
+- FileMaker Pro (Tech skill type: Data base user interface and query software)
+- IBM Notes (Tech skill type: Electronic mail software)
+- IBM SPSS Statistics (Tech skill type: Analytical or scientific software)
+- Integrated development environment IDE software (Tech skill type: Development environment software)
+- LexisNexis (Tech skill type: Information retrieval or search software)
+- Linux (Tech skill type: Operating system software)
+- Medical Scientists HybridAI (Tech skill type: Analytical or scientific software)
+- Medical Scientists MediSave (Tech skill type: Analytical or scientific software)
+- Microsoft Dynamics (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Exchange (Tech skill type: Electronic mail software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft Publisher (Tech skill type: Desktop publishing software)
+- Microsoft Visual Basic (Tech skill type: Development environment software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Minitab (Tech skill type: Analytical or scientific software)
+- National Instruments LabVIEW (Tech skill type: Development environment software)
+- PerkinElmer TurboMass (Tech skill type: Analytical or scientific software)
+- Presentation software (Tech skill type: Presentation software)
+- Python (Tech skill type: Object or component oriented development software)
+- R (Tech skill type: Object or component oriented development software)
+- SAS (Tech skill type: Analytical or scientific software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- StataCorp Stata (Tech skill type: Analytical or scientific software)
+- Statistical software (Tech skill type: Analytical or scientific software)
+- The MathWorks MATLAB (Tech skill type: Analytical or scientific software)
+- Thermo ToxLab (Tech skill type: Analytical or scientific software)
+- Triple G ULTRA Laboratory Information System (Tech skill type: Analytical or scientific software)
+- UNIX (Tech skill type: Operating system software)
+- Waters eLab Notebook (Tech skill type: Data base user interface and query software)
+- Waters Empower 2 (Tech skill type: Data base user interface and query software)
+- Waters MassLynx (Tech skill type: Analytical or scientific software)
+- Waters Millennium32 (Tech skill type: Analytical or scientific software)
+- Waters Q-DIS/QM LIMS (Tech skill type: Analytical or scientific software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Absorption tubes (Tool type: Chromatography tubing)
+- Atomic absorption AA spectrophotometers (Tool type: Atomic absorption AA spectrometers)
+- Autoclaves (Tool type: Steam autoclaves or sterilizers)
+- Automated centrifuges (Tool type: Benchtop centrifuges)
+- Automated deoxyribonucleic acid DNA sequencers (Tool type: Deoxyribonucleic sequence analyzers)
+- Balances (Tool type: Laboratory balances)
+- Beta counters (Tool type: Beta counters)
+- Binocular light compound microscopes (Tool type: Binocular light compound microscopes)
+- Blenders (Tool type: Laboratory blenders or emulsifiers)
+- Blood gas machines (Tool type: Blood gas analyzers)
+- Bomb calorimeters (Tool type: Calorimeters)
+- Bone ultrasound densitometers (Tool type: Medical ultrasound bone densitometers)
+- Capillary electrophoresis equipment (Tool type: Instrumentation for capillary electrophoresis)
+- Carbon dioxide CO2 incubators (Tool type: Dry wall single chamber carbon dioxide incubators)
+- Cell disruptors (Tool type: Ultrasonic disintegrators)
+- Centrifuges (Tool type: Benchtop centrifuges)
+- Chemistry analyzers (Tool type: Chemistry analyzers)
+- Chromatographic tubes (Tool type: Chromatography tubing)
+- Coagulation machines (Tool type: Coagulation analyzers)
+- Cold vapor atomic absorption spectrophotometers (Tool type: Spectrophotometers)
+- Colorimeters (Tool type: Colorimeters)
+- Computerized axial tomography CAT scanners (Tool type: Medical computed tomography CT or CAT scanners or tubes)
+- Confocal microscopes (Tool type: Scanning light or spinning disk or laser scanning microscopes)
+- Coulter counters (Tool type: Manual or electronic hematology differential cell counters)
+- Crossflow filtration systems (Tool type: Laboratory filtration hardware or accessories)
+- Cuvettes (Tool type: Cuvettes)
+- Cyclotrons (Tool type: Mobile or transportable medical linear accelerators)
+- Deoxyribonucleic acid DNA synthesizers (Tool type: Complementary deoxyribonucleic acid cDNA synthesis kits)
+- Desktop computers (Tool type: Desktop computers)
+- Developing tanks (Tool type: Thin layer chromatography tanks)
+- Differential cell counters (Tool type: Manual or electronic hematology differential cell counters)
+- Electrical conductivity meters (Tool type: Conductivity meters)
+- Electrocardiography EKG machines (Tool type: Electrocardiography EKG units)
+- Electron microscopes (Tool type: Electron microscopes)
+- Electrophoresis power systems (Tool type: Electrophoresis system power supplies)
+- Erlenmeyer flasks (Tool type: Laboratory flasks)
+- Fermenters (Tool type: Standard fermentation units)
+- Filter funnels (Tool type: Laboratory funnels)
+- Fixed-angle microfuges (Tool type: Microcentrifuges)
+- Flame atomic absorption spectrophotometers (Tool type: Spectrophotometers)
+- Flame photometers (Tool type: Photometer)
+- Flasks (Tool type: Laboratory flasks)
+- Flow cytometers (Tool type: Microbiology analyzers)
+- Fourier Transform IR spectrophotometers (Tool type: Spectrophotometers)
+- Fume hoods (Tool type: Fume hoods or cupboards)
+- Gamma counters (Tool type: Gamma counters)
+- Gas chromatographs GC (Tool type: Gas chromatographs)
+- Gel documentation systems (Tool type: Gel documentation systems)
+- Gel dryers (Tool type: Gel dryers)
+- Gel electrophoresis boxes (Tool type: Gel boxes)
+- Glassware washers (Tool type: Laboratory washing machines)
+- Graphite furnace atomic absorption spectrophotometers (Tool type: Spectrophotometers)
+- Heat lamps (Tool type: Laboratory heaters)
+- Heating blocks (Tool type: Dry baths or heating blocks)
+- Hematology analyzers (Tool type: Hematology analyzers)
+- High-pressure liquid chromatographs (Tool type: High pressure liquid chromatograph chromatography)
+- High-resolution functional magnetic resonance imaging MRI equipment (Tool type: Medical magnetic resonance imaging MRI scanners)
+- High-speed centrifuges (Tool type: Benchtop centrifuges)
+- Homogenizers (Tool type: Homogenizers)
+- Hot air ovens (Tool type: Laboratory mechanical convection ovens)
+- Hot plates (Tool type: Laboratory hotplates)
+- Incubators (Tool type: Forced air or mechanical convection general purpose incubators)
+- Ion chromatographs (Tool type: Ion chromatographs)
+- Laboratory evaporators (Tool type: Laboratory evaporators)
+- Laminar flow hoods (Tool type: Laminar flow cabinets or stations)
+- Laptop computers (Tool type: Notebook computers)
+- Laser printers (Tool type: Laser printers)
+- Liquid handling robots (Tool type: Robotic or automated liquid handling systems)
+- Magnetic stirrers (Tool type: Magnetic stirrers)
+- Mainframe computers (Tool type: Mainframe computers)
+- Mass spectrometers (Tool type: Mass spectrometers)
+- Measuring cylinders (Tool type: Laboratory graduated cylinders)
+- Medical magnetic resonance imaging MRI equipment (Tool type: Medical magnetic resonance imaging MRI scanners)
+- Mercury analyzers (Tool type: Chemistry analyzers)
+- Microarrayer scanners (Tool type: Robotic or automated liquid handling systems)
+- Microdiffusion dishes (Tool type: Petri plates or dishes)
+- Microplate readers (Tool type: Microplate readers)
+- Microscope/video camera stations (Tool type: Videoscopes)
+- Nuclear magnetic resonance NMR spectroscopes (Tool type: Nuclear magnetic resonance NMR spectrometers)
+- Pasteur pipettes (Tool type: Pasteur or transfer pipettes)
+- Peptide synthesizers (Tool type: Hematology or chemistry mixers)
+- Personal computers (Tool type: Personal computers)
+- Petri dishes (Tool type: Petri plates or dishes)
+- pH meters (Tool type: pH meters)
+- Pipettes (Tool type: Dropping pipettes)
+- Plate washers (Tool type: Microplate washers)
+- Positron emission tomography PET scanners (Tool type: Medical positron emission tomography PET units)
+- Powder funnels (Tool type: Laboratory funnels)
+- Recording spectrophotometers (Tool type: Spectrophotometers)
+- Refrigerated centrifuges (Tool type: Refrigerated benchtop centrifuges)
+- Refrigerated swinging bucket centrifuges (Tool type: Refrigerated benchtop centrifuges)
+- Rotary evaporators (Tool type: Vacuum or rotary evaporators)
+- Scintillation counters (Tool type: Liquid scintillation counters)
+- Selective ion meters (Tool type: Ion selective electrode ISE meters)
+- Shaking incubators (Tool type: Shaking incubators)
+- Speed vacs (Tool type: Vacuum or centrifugal concentrators)
+- Spray atomizers (Tool type: Laboratory sprayers)
+- Steam distillation apparatus (Tool type: Extracting equipment for laboratories)
+- Tabletop centrifuges (Tool type: Benchtop centrifuges)
+- Thermal cyclers (Tool type: Temperature cycling chambers or thermal cyclers)
+- Thin layer chromatography equipment (Tool type: Thinlayer chromatographs)
+- Thin layer chromatography plates (Tool type: Microplates)
+- Ultracentrifuges (Tool type: Ultracentrifuges)
+- Ultralow freezers (Tool type: Ultra cold or ultralow upright cabinets or freezers)
+- Ultrasound imaging scanners (Tool type: Medical ultrasound or doppler or pulse echocardiograph or echocardiograph units for general diagnostic use)
+- Ultraviolet UV crosslinkers (Tool type: Ultraviolet crosslinkers)
+- Ultraviolet-Visible UV/VIS spectrophotometers (Tool type: Spectrophotometers)
+- Volumetric flasks (Tool type: Laboratory flasks)
+- Vortex mixers (Tool type: Vortex mixers)
+
+# WORK CONTEXT
+- Conflict Situations: Once a month or more but not every week
+- Consequence of Error: Serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Not important at all
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Slightly automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Once a week or more but not every day
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Every day
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Never
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Once a month or more but not every week
+- Health and Safety of Other Workers: High responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Very important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Extremely competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Important
+- Physical Proximity: Slightly close (e.g., shared office)
+- Public Speaking: Once a year or more but not every month
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: More than half the time
+- Spend Time Sitting: About half the time
+- Spend Time Standing: About half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Once a week or more but not every day
+- Time Pressure: Once a month or more but not every week
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Moderate responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a week or more but not every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Investigative
+- Secondary Interest: Realistic
+- Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Geneticists
+- Biochemists and Biophysicists
+- Microbiologists
+- Epidemiologists
+- Physicians, Pathologists
+- Medical and Clinical Laboratory Technologists
+- Molecular and Cellular Biologists
+- Clinical Neuropsychologists
+- Cytogenetic Technologists
+- Histotechnologists
+- Medical and Clinical Laboratory Technicians
+- Neuropsychologists
+- Preventive Medicine Physicians
+- Clinical Research Coordinators
+- Emergency Medicine Physicians
+- Radiologists
+- Bioengineers and Biomedical Engineers
+- Bioinformatics Scientists
+- Cardiologists
+- Biological Technicians

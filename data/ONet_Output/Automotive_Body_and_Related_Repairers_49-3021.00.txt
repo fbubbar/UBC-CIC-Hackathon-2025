@@ -1,0 +1,332 @@
+Job Title: Automotive Body and Related Repairers
+O*NET-SOC Code: 49-3021.00
+
+# DESCRIPTION
+Repair and refinish automotive vehicle bodies and straighten vehicle frames.
+
+# TASKS
+- File, grind, sand, and smooth filled or repaired surfaces, using power tools and hand tools.
+- Inspect repaired vehicles for proper functioning, completion of work, dimensional accuracy, and overall appearance of paint job, and test-drive vehicles to ensure proper alignment and handling.
+- Fit and weld replacement parts into place, using wrenches and welding equipment, and grind down welds to smooth them, using power grinders and other tools.
+- Prime and paint repaired surfaces, using paint sprayguns and motorized sanders.
+- Follow supervisors' instructions as to which parts to restore or replace and how much time the job should take.
+- Sand body areas to be painted and cover bumpers, windows, and trim with masking tape or paper to protect them from the paint.
+- Chain or clamp frames and sections to alignment machines that use hydraulic pressure to align damaged components.
+- Position dolly blocks against surfaces of dented areas and beat opposite surfaces to remove dents, using hammers.
+- Cut and tape plastic separating film to outside repair areas to avoid damaging surrounding surfaces during repair procedure and remove tape and wash surfaces after repairs are complete.
+- Review damage reports, prepare or review repair cost estimates, and plan work to be performed.
+- Fill small dents that cannot be worked out with plastic or solder.
+- Remove damaged sections of vehicles using metal-cutting guns, air grinders and wrenches, and install replacement parts using wrenches or welding equipment.
+- Remove small pits and dimples in body metal, using pick hammers and punches.
+- Remove upholstery, accessories, electrical window-and-seat-operating equipment, and trim to gain access to vehicle bodies and fenders.
+- Mix polyester resins and hardeners to be used in restoring damaged areas.
+- Fit and secure windows, vinyl roofs, and metal trim to vehicle bodies, using caulking guns, adhesive brushes, and mallets.
+- Adjust or align headlights, wheels, and brake systems.
+- Replace damaged glass on vehicles.
+- Remove damaged panels, and identify the family and properties of the plastic used on a vehicle.
+- Apply heat to plastic panels, using hot-air welding guns or immersion in hot water, and press the softened panels back into shape by hand.
+- Clean work areas, using air hoses, to remove damaged material and discarded fiberglass strips used in repair procedures.
+- Soak fiberglass matting in resin mixtures and apply layers of matting over repair areas to specified thicknesses.
+- Read specifications or confer with customers to determine the desired custom modifications for altering the appearance of vehicles.
+- Cut openings in vehicle bodies for the installation of customized windows, using templates and power shears or chisels.
+- Measure and mark vinyl material and cut material to size for roof installation, using rules, straightedges, and hand shears.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 3.58/5 | Level: 4.1/7)
+- Customer and Personal Service (Importance: 3.25/5 | Level: 2.7/7)
+- Production and Processing (Importance: 3.13/5 | Level: 2.68/7)
+- Mathematics (Importance: 3.0/5 | Level: 3.29/7)
+- English Language (Importance: 2.96/5 | Level: 3.6/7)
+- Transportation (Importance: 2.95/5 | Level: 3.1/7)
+- Engineering and Technology (Importance: 2.75/5 | Level: 3.0/7)
+- Public Safety and Security (Importance: 2.56/5 | Level: 2.06/7)
+- Education and Training (Importance: 2.53/5 | Level: 2.91/7)
+- Administration and Management (Importance: 2.48/5 | Level: 2.25/7)
+- Computers and Electronics (Importance: 2.37/5 | Level: 2.37/7)
+- Physics (Importance: 2.31/5 | Level: 2.07/7)
+- Building and Construction (Importance: 2.22/5 | Level: 2.0/7)
+- Law and Government (Importance: 2.18/5 | Level: 1.57/7)
+- Chemistry (Importance: 2.11/5 | Level: 2.58/7)
+- Design (Importance: 1.92/5 | Level: 1.81/7)
+- Sales and Marketing (Importance: 1.77/5 | Level: 0.91/7)
+- Economics and Accounting (Importance: 1.64/5 | Level: 0.43/7)
+- Administrative (Importance: 1.64/5 | Level: 0.5/7)
+- Personnel and Human Resources (Importance: 1.55/5 | Level: 0.76/7)
+- Communications and Media (Importance: 1.5/5 | Level: 0.75/7)
+- Psychology (Importance: 1.49/5 | Level: 0.9/7)
+- Fine Arts (Importance: 1.46/5 | Level: 0.7/7)
+- Foreign Language (Importance: 1.46/5 | Level: 0.79/7)
+- Telecommunications (Importance: 1.43/5 | Level: 0.7/7)
+- Geography (Importance: 1.16/5 | Level: 0.29/7)
+- Therapy and Counseling (Importance: 1.12/5 | Level: 0.37/7)
+- Sociology and Anthropology (Importance: 1.11/5 | Level: 0.11/7)
+- Biology (Importance: 1.05/5 | Level: 0.11/7)
+- Philosophy and Theology (Importance: 1.0/5 | Level: 0.0/7)
+- History and Archeology (Importance: 1.0/5 | Level: 0.0/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+- Medicine and Dentistry (Importance: 1.0/5 | Level: 0.0/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Repairing (Importance: 3.25/5 | Level: 3.25/7)
+- Troubleshooting (Importance: 3.12/5 | Level: 3.0/7)
+- Monitoring (Importance: 3.0/5 | Level: 2.88/7)
+- Time Management (Importance: 3.0/5 | Level: 2.75/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 3.0/7)
+- Speaking (Importance: 3.0/5 | Level: 2.75/7)
+- Quality Control Analysis (Importance: 3.0/5 | Level: 3.0/7)
+- Operations Monitoring (Importance: 3.0/5 | Level: 2.88/7)
+- Active Listening (Importance: 3.0/5 | Level: 3.0/7)
+- Active Learning (Importance: 2.88/5 | Level: 2.25/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.88/7)
+- Service Orientation (Importance: 2.88/5 | Level: 2.75/7)
+- Reading Comprehension (Importance: 2.88/5 | Level: 2.88/7)
+- Operation and Control (Importance: 2.88/5 | Level: 3.0/7)
+- Complex Problem Solving (Importance: 2.88/5 | Level: 3.0/7)
+- Coordination (Importance: 2.88/5 | Level: 2.88/7)
+- Judgment and Decision Making (Importance: 2.88/5 | Level: 2.75/7)
+- Equipment Selection (Importance: 2.75/5 | Level: 2.5/7)
+- Equipment Maintenance (Importance: 2.62/5 | Level: 2.75/7)
+- Persuasion (Importance: 2.62/5 | Level: 2.25/7)
+- Writing (Importance: 2.38/5 | Level: 2.12/7)
+- Learning Strategies (Importance: 2.25/5 | Level: 2.12/7)
+- Instructing (Importance: 2.25/5 | Level: 2.62/7)
+- Negotiation (Importance: 2.25/5 | Level: 2.12/7)
+- Management of Personnel Resources (Importance: 2.12/5 | Level: 2.25/7)
+- Systems Analysis (Importance: 2.12/5 | Level: 2.25/7)
+- Systems Evaluation (Importance: 2.12/5 | Level: 2.25/7)
+- Mathematics (Importance: 2.12/5 | Level: 2.0/7)
+- Installation (Importance: 2.0/5 | Level: 1.75/7)
+- Operations Analysis (Importance: 2.0/5 | Level: 1.62/7)
+- Management of Financial Resources (Importance: 1.88/5 | Level: 1.38/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.0/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.75/7)
+- Programming (Importance: 1.75/5 | Level: 0.75/7)
+- Science (Importance: 1.25/5 | Level: 0.25/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Accounting software (Tech skill type: Accounting software)
+- Accounts receivable software (Tech skill type: Accounting software)
+- Appointment scheduling software (Tech skill type: Calendar and scheduling software)
+- Automotive and Accounting Software by R*KOM Invoice Writer (Tech skill type: Point of sale POS software)
+- AutoZone ALLDATA (Tech skill type: Data base user interface and query software)
+- Collision damage estimation software (Tech skill type: Analytical or scientific software)
+- Collision damage measurement software (Tech skill type: Analytical or scientific software)
+- Equipment management information software (Tech skill type: Data base user interface and query software)
+- Inventory management software (Tech skill type: Inventory management software)
+- Materials management software (Tech skill type: Inventory management software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft OneNote (Tech skill type: Word processing software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Paint mixing and matching software (Tech skill type: Analytical or scientific software)
+- Swan River Estimiser Pro (Tech skill type: Analytical or scientific software)
+
+## TOOLS USED
+- Adjustable widemouth pliers (Tool type: Adjustable widemouth pliers)
+- Adjustable wrenches (Tool type: Adjustable wrenches)
+- Air chisels (Tool type: Pneumatic hammer)
+- Air compressors (Tool type: Air compressors)
+- Air hammers (Tool type: Pneumatic hammer)
+- Air pressure gauges (Tool type: Pressure indicators)
+- Alignment machines (Tool type: Wheel alignment equipment)
+- Alignment squares (Tool type: Squares)
+- Anvils (Tool type: Anvils)
+- Blow torches (Tool type: Blow torch)
+- Body saws (Tool type: Power saws)
+- Bondo spreaders (Tool type: Spatulas)
+- Brazing equipment (Tool type: Welder torch)
+- Buffing machines (Tool type: Power buffers)
+- Calipers (Tool type: Calipers)
+- Cold chisels (Tool type: Cold chisels)
+- Crown spoons (Tool type: Trim or molding tools)
+- Dent hammers (Tool type: Hammers)
+- Depth gauges (Tool type: Depth gauges)
+- Desktop computers (Tool type: Desktop computers)
+- Dial indicators (Tool type: Dial indicator or dial gauge)
+- Digital cameras (Tool type: Digital cameras)
+- Door skin dollies (Tool type: Trim or molding tools)
+- Double-edged blades (Tool type: Knife blades)
+- Double-edged cutter tools (Tool type: Metal cutters)
+- Drill presses (Tool type: Drill press or radial drill)
+- Feeler gauges (Tool type: Feeler gauges)
+- Fluorescent lights (Tool type: Fluorescent lamps)
+- Foot shears (Tool type: Shears)
+- Frame alignment equipment (Tool type: Wheel alignment equipment)
+- Gas arc welding equipment (Tool type: Gas welding or brazing or cutting apparatus)
+- General purpose spoons (Tool type: Trim or molding tools)
+- Grease guns (Tool type: Grease guns)
+- Grinders (Tool type: Power grinders)
+- Hand brakes (Tool type: Manual press brake)
+- Hand shears (Tool type: Shears)
+- Heavy duty inside spoons (Tool type: Trim or molding tools)
+- Heel dollies (Tool type: Trim or molding tools)
+- Height gauges (Tool type: Height gauges)
+- High velocity low pressure HVLP spray equipment (Tool type: Paint sprayers)
+- Hoists (Tool type: Hoists)
+- Hot air guns (Tool type: Heat guns)
+- Hydraulic automobile lifts (Tool type: Lifts)
+- Hydraulic cranes (Tool type: Workshop cranes)
+- Hydraulic jacks (Tool type: Jacks)
+- Impact wrenches (Tool type: Impact wrenches)
+- Infrared IR paint curing units (Tool type: Infrared lamps)
+- Jacks (Tool type: Jacks)
+- Laser printers (Tool type: Laser printers)
+- Machine polishers (Tool type: Power buffers)
+- Media blasters (Tool type: Power sanders)
+- Metal inert gas MIG welders (Tool type: Metal inert gas welding machine)
+- Micrometers (Tool type: Micrometers)
+- Nut drivers (Tool type: Nut drivers)
+- Oxyacetylene torches (Tool type: Blow torch)
+- Paint sprayers (Tool type: Paint sprayers)
+- Paint stencils (Tool type: Stencils or lettering aids)
+- Panel cutters (Tool type: Metal cutters)
+- Personal computers (Tool type: Personal computers)
+- Pick hammers (Tool type: Hammers)
+- Pick pull rods (Tool type: Pullers)
+- Pitch gauges (Tool type: Pitch measuring instruments)
+- Pneumatic grinders (Tool type: Pneumatic grinders)
+- Pneumatic hammers (Tool type: Pneumatic hammer)
+- Pneumatic metal cutting guns (Tool type: Metal cutters)
+- Pneumatic panel crimpers (Tool type: Pneumatic press)
+- Pneumatic smoothing hammers (Tool type: Pneumatic hammer)
+- Pop rivet guns (Tool type: Rivet tools)
+- Portable buffers (Tool type: Power buffers)
+- Portable welding machines (Tool type: Spot welding machine)
+- Power drills (Tool type: Power drills)
+- Power punches (Tool type: Punches or nail sets or drifts)
+- Power sanders (Tool type: Power sanders)
+- Power shears (Tool type: Shears)
+- Pressure feed sandblasters (Tool type: Pneumatic sanding machines)
+- Pressure gauges (Tool type: Pressure indicators)
+- Pressure washers (Tool type: Pressure or steam cleaners)
+- Pry bars (Tool type: Pry bars)
+- Pull rods (Tool type: Pullers)
+- Punches (Tool type: Stamping dies or punches)
+- Ratchets (Tool type: Ratchets)
+- Resistance spot welding equipment (Tool type: Spot welding machine)
+- Respirators (Tool type: Respirators)
+- Rivet busters (Tool type: Rivet tools)
+- S-hooks (Tool type: S hooks)
+- Safety glasses (Tool type: Safety glasses)
+- Safety gloves (Tool type: Protective gloves)
+- Safety hoods (Tool type: Protective hood)
+- Sanding blocks (Tool type: Sanding blocks)
+- Scrapers (Tool type: Razor knives)
+- Screwdrivers (Tool type: Screwdrivers)
+- Single-cut mill saw files (Tool type: Mill saw file)
+- Slapping spoons (Tool type: Trim or molding tools)
+- Slide hammers (Tool type: Pullers)
+- Socket sets (Tool type: Socket sets)
+- Socket wrench sets (Tool type: Socket sets)
+- Soldering equipment (Tool type: Soldering iron)
+- Spoon dollies (Tool type: Trim or molding tools)
+- Spot weld breakers (Tool type: Chisel bit)
+- Spray booths (Tool type: Paint application system)
+- Stainless steel brushes (Tool type: Wire brushes)
+- Steam cleaning equipment (Tool type: Pressure or steam cleaners)
+- Stud welder kits (Tool type: Welding or soldering kit)
+- Suction cups (Tool type: Suction cups)
+- Suction feed sandblasters (Tool type: Pneumatic sanding machines)
+- Surforms (Tool type: Rasps)
+- T pullers (Tool type: Pullers)
+- Telescoping gauges (Tool type: Telescoping gauge)
+- Toe dollies (Tool type: Trim or molding tools)
+- Tungsten inert gas TIG welding equipment (Tool type: Tungsten inert gas welding machine)
+- Universal railroad dollies (Tool type: Trim or molding tools)
+- Vernier calipers (Tool type: Calipers)
+- Wedges (Tool type: Wedges)
+- Weld current controllers (Tool type: Welding generator)
+- Welding electrodes (Tool type: Welding electrode)
+- Welding goggles (Tool type: Goggles)
+- Welding helmets (Tool type: Welding masks)
+- Welding hoods (Tool type: Welding masks)
+- Welding tips (Tool type: Welding or cutting tip)
+- Windshield knives (Tool type: Utility knives)
+
+# WORK CONTEXT
+- Conflict Situations: Once a week or more but not every day
+- Consequence of Error: Very serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Fairly important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a month or more but not every week
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Never
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Once a week or more but not every day
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Every day
+- Exposed to Hazardous Equipment: Every day
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Every day
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Moderate responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Every day
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Never
+- Indoors, Not Environmentally Controlled: Every day
+- Level of Competition: Highly competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: I work with others but not closely (e.g., private office)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Continually or almost continually
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: More than half the time
+- Spend Time Making Repetitive Motions: Continually or almost continually
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: More than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: More than half the time
+- Telephone Conversations: Never
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Every day
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Very important
+- Written Letters and Memos: Never
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Automotive Service Technicians and Mechanics
+- Rail Car Repairers
+- Tire Builders
+- Engine and Other Machine Assemblers
+- Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+- Electric Motor, Power Tool, and Related Repairers
+- Grinding and Polishing Workers, Hand
+- Automotive Glass Installers and Repairers
+- Motorcycle Mechanics
+- Bus and Truck Mechanics and Diesel Engine Specialists
+- Coating, Painting, and Spraying Machine Setters, Operators, and Tenders
+- Furniture Finishers
+- Structural Metal Fabricators and Fitters
+- Molders, Shapers, and Casters, Except Metal and Plastic
+- Tire Repairers and Changers
+- Maintenance Workers, Machinery
+- Industrial Machinery Mechanics
+- Upholsterers
+- Sheet Metal Workers
+- Mobile Heavy Equipment Mechanics, Except Engines

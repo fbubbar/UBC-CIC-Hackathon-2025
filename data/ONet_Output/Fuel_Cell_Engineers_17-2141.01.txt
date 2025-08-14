@@ -1,0 +1,262 @@
+Job Title: Fuel Cell Engineers
+O*NET-SOC Code: 17-2141.01
+
+# DESCRIPTION
+Design, evaluate, modify, or construct fuel cell components or systems for transportation, stationary, or portable applications.
+
+# TASKS
+- Plan or conduct experiments to validate new materials, optimize startup protocols, reduce conditioning time, or examine contaminant tolerance.
+- Provide technical consultation or direction related to the development or production of fuel cell systems.
+- Characterize component or fuel cell performances by generating operating maps, defining operating conditions, identifying design refinements, or executing durability assessments.
+- Plan or implement fuel cell cost reduction or product improvement projects in collaboration with other engineers, suppliers, support personnel, or customers.
+- Conduct fuel cell testing projects, using fuel cell test stations, analytical instruments, or electrochemical diagnostics, such as cyclic voltammetry or impedance spectroscopy.
+- Analyze fuel cell or related test data, using statistical software.
+- Conduct post-service or failure analyses, using electromechanical diagnostic principles or procedures.
+- Define specifications for fuel cell materials.
+- Recommend or implement changes to fuel cell system designs.
+- Validate design of fuel cells, fuel cell components, or fuel cell systems.
+- Read current literature, attend meetings or conferences, or talk with colleagues to stay abreast of new technology or competitive products.
+- Prepare test stations, instrumentation, or data acquisition systems for use in specific tests of fuel cell components or systems.
+- Develop fuel cell materials or fuel cell test equipment.
+- Fabricate prototypes of fuel cell components, assemblies, stacks, or systems.
+- Manage fuel cell battery hybrid system architecture, including sizing of components, such as fuel cells, energy storage units, or electric drives.
+- Design or implement fuel cell testing or development programs.
+- Write technical reports or proposals related to engineering projects.
+- Simulate or model fuel cell, motor, or other system information, using simulation software programs.
+- Design fuel cell systems, subsystems, stacks, assemblies, or components, such as electric traction motors or power electronics.
+- Identify or define vehicle and system integration challenges for fuel cell vehicles.
+- Calculate the efficiency or power output of a fuel cell system or process.
+- Coordinate fuel cell engineering or test schedules with departments outside engineering, such as manufacturing.
+- Authorize release of fuel cell parts, components, or subsystems for production.
+- Evaluate the power output, system cost, or environmental impact of new hydrogen or non-hydrogen fuel cell system designs.
+- Integrate electric drive subsystems with other vehicle systems to optimize performance or mitigate faults.
+- Develop or evaluate systems or methods of hydrogen storage for fuel cell applications.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Engineering and Technology (Importance: 4.64/5 | Level: 6.0/7)
+- Chemistry (Importance: 3.95/5 | Level: 5.23/7)
+- Design (Importance: 3.86/5 | Level: 4.82/7)
+- Mathematics (Importance: 3.86/5 | Level: 5.14/7)
+- Physics (Importance: 3.64/5 | Level: 5.27/7)
+- Computers and Electronics (Importance: 3.48/5 | Level: 4.68/7)
+- Mechanical (Importance: 3.45/5 | Level: 4.82/7)
+- Production and Processing (Importance: 3.29/5 | Level: 4.14/7)
+- English Language (Importance: 3.14/5 | Level: 3.64/7)
+- Administration and Management (Importance: 2.82/5 | Level: 3.91/7)
+- Education and Training (Importance: 2.32/5 | Level: 3.05/7)
+- Administrative (Importance: 2.14/5 | Level: 2.77/7)
+- Building and Construction (Importance: 2.14/5 | Level: 2.41/7)
+- Personnel and Human Resources (Importance: 2.09/5 | Level: 2.27/7)
+- Transportation (Importance: 2.09/5 | Level: 2.05/7)
+- Economics and Accounting (Importance: 2.05/5 | Level: 1.91/7)
+- Public Safety and Security (Importance: 2.05/5 | Level: 1.91/7)
+- Customer and Personal Service (Importance: 2.0/5 | Level: 2.23/7)
+- Communications and Media (Importance: 1.91/5 | Level: 2.0/7)
+- Telecommunications (Importance: 1.82/5 | Level: 1.45/7)
+- Sales and Marketing (Importance: 1.82/5 | Level: 2.0/7)
+- Law and Government (Importance: 1.59/5 | Level: 1.18/7)
+- Foreign Language (Importance: 1.5/5 | Level: 0.86/7)
+- Geography (Importance: 1.38/5 | Level: 1.41/7)
+- Sociology and Anthropology (Importance: 1.27/5 | Level: 0.59/7)
+- Philosophy and Theology (Importance: 1.18/5 | Level: 0.36/7)
+- Psychology (Importance: 1.18/5 | Level: 0.45/7)
+- Biology (Importance: 1.14/5 | Level: 0.41/7)
+- Medicine and Dentistry (Importance: 1.14/5 | Level: 0.32/7)
+- Therapy and Counseling (Importance: 1.14/5 | Level: 0.32/7)
+- Food Production (Importance: 1.09/5 | Level: 0.23/7)
+- History and Archeology (Importance: 1.09/5 | Level: 0.23/7)
+- Fine Arts (Importance: 1.05/5 | Level: 0.09/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.25/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.75/7)
+- Writing (Importance: 3.75/5 | Level: 4.12/7)
+- Speaking (Importance: 3.75/5 | Level: 4.0/7)
+- Science (Importance: 3.75/5 | Level: 4.0/7)
+- Monitoring (Importance: 3.62/5 | Level: 4.0/7)
+- Systems Evaluation (Importance: 3.62/5 | Level: 4.12/7)
+- Systems Analysis (Importance: 3.62/5 | Level: 4.12/7)
+- Active Listening (Importance: 3.62/5 | Level: 4.12/7)
+- Active Learning (Importance: 3.62/5 | Level: 4.0/7)
+- Judgment and Decision Making (Importance: 3.62/5 | Level: 4.0/7)
+- Mathematics (Importance: 3.5/5 | Level: 4.12/7)
+- Complex Problem Solving (Importance: 3.25/5 | Level: 3.88/7)
+- Learning Strategies (Importance: 3.12/5 | Level: 3.12/7)
+- Operations Monitoring (Importance: 3.12/5 | Level: 3.5/7)
+- Quality Control Analysis (Importance: 3.12/5 | Level: 3.12/7)
+- Operations Analysis (Importance: 3.0/5 | Level: 3.12/7)
+- Troubleshooting (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 2.88/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Instructing (Importance: 3.0/5 | Level: 3.12/7)
+- Technology Design (Importance: 2.88/5 | Level: 3.12/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 3.0/7)
+- Operation and Control (Importance: 2.75/5 | Level: 2.88/7)
+- Persuasion (Importance: 2.75/5 | Level: 2.88/7)
+- Service Orientation (Importance: 2.62/5 | Level: 2.62/7)
+- Negotiation (Importance: 2.62/5 | Level: 2.75/7)
+- Equipment Selection (Importance: 2.62/5 | Level: 2.75/7)
+- Management of Material Resources (Importance: 2.5/5 | Level: 2.62/7)
+- Programming (Importance: 2.5/5 | Level: 2.38/7)
+- Management of Personnel Resources (Importance: 2.5/5 | Level: 3.0/7)
+- Repairing (Importance: 2.38/5 | Level: 2.75/7)
+- Equipment Maintenance (Importance: 2.12/5 | Level: 2.12/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 1.38/7)
+- Installation (Importance: 1.62/5 | Level: 0.75/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Ansoft Simplorer (Tech skill type: Analytical or scientific software)
+- Ansys Fluent (Tech skill type: Analytical or scientific software)
+- ASPEN PLUS (Tech skill type: Analytical or scientific software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- C (Tech skill type: Development environment software)
+- C++ (Tech skill type: Object or component oriented development software)
+- Enterprise resource planning ERP software (Tech skill type: Enterprise resource planning ERP software)
+- FactSage (Tech skill type: Analytical or scientific software)
+- Failure mode and effects analysis FMEA software (Tech skill type: Analytical or scientific software)
+- Gaussian GaussView (Tech skill type: Analytical or scientific software)
+- Gaussian software (Tech skill type: Analytical or scientific software)
+- GE Energy GateCycle (Tech skill type: Analytical or scientific software)
+- IBM Cloud (Tech skill type: Data base user interface and query software)
+- Maplesoft Maple (Tech skill type: Analytical or scientific software)
+- MathWorks Simulink (Tech skill type: Analytical or scientific software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Minitab (Tech skill type: Analytical or scientific software)
+- National Instruments LabVIEW (Tech skill type: Development environment software)
+- Oracle Database (Tech skill type: Data base user interface and query software)
+- Statistical software (Tech skill type: Analytical or scientific software)
+- Supervisory control and data acquisition SCADA software (Tech skill type: Industrial control software)
+- The MathWorks MATLAB (Tech skill type: Analytical or scientific software)
+- Wind River Systems C/C++ Compiler Suite (Tech skill type: Development environment software)
+- Wolfram Research Mathematica (Tech skill type: Analytical or scientific software)
+
+## TOOLS USED
+- Desktop computers (Tool type: Desktop computers)
+- Differential scanning calorimeters (Tool type: Calorimeters)
+- Digital sonifiers (Tool type: Homogenizers)
+- Dilatometers (Tool type: Volumeters)
+- Flame ionization detectors FID (Tool type: Flame ionization analyzers)
+- Flow reactors (Tool type: Reactors or fermenters or digesters)
+- Fluorescence detectors (Tool type: Chemiluminescence or bioluminescence analyzers)
+- Fourier transfer infrared FTIR spectrometers (Tool type: Infrared spectrometers)
+- Frequency response analyzers (Tool type: Frequency analyzers)
+- Fuel cell test stands (Tool type: Engine or component test stands)
+- Gas chromatography equipment (Tool type: Gas chromatographs)
+- Gravity convection ovens (Tool type: Laboratory mechanical convection ovens)
+- High pressure liquid chromatographs HPLC (Tool type: High pressure liquid chromatograph chromatography)
+- High temperature tube furnaces (Tool type: Tube furnaces)
+- Induction furnaces (Tool type: Crucible furnaces)
+- Infrared IR spectrophotometers (Tool type: Infrared spectrometers)
+- Laboratory ball mills (Tool type: Laboratory mills)
+- Laboratory glove boxes (Tool type: Isolation glove boxes)
+- Laboratory vacuum ovens (Tool type: Vacuum ovens)
+- Laptop computers (Tool type: Notebook computers)
+- Load boxes (Tool type: Power meters)
+- Mass spectrometers (Tool type: Mass spectrometers)
+- Microbalances (Tool type: Laboratory balances)
+- Molding presses (Tool type: Forming machine)
+- Personal computers (Tool type: Personal computers)
+- Portable emissions analyzers (Tool type: Multi gas monitors)
+- Power analyzers (Tool type: Power meters)
+- Programmable logic controllers PLC (Tool type: Microcontrollers)
+- Scanning electron microscopes SEM (Tool type: Scanning electron microscopes)
+- Scanning spectrophotometers (Tool type: Spectrophotometers)
+- Surface area analyzers (Tool type: Chemical absorption gas analyzers)
+- Thermal gravimetric analyzers (Tool type: Thermo gravimetry analyzers)
+- Thermovolumetric analyzers TVA (Tool type: Thermal differential analyzers)
+- Transmission electron microscopes TEM (Tool type: Transmission electron microscopes)
+- Ultrasonic blenders (Tool type: Homogenizers)
+- X ray crystallography equipment (Tool type: X ray diffraction equipment)
+- X ray fluorescence XRF spectrometers (Tool type: Spectrofluorimeters or fluorimeters)
+- X ray photoelectric spectroscopes (Tool type: Spectrometers)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Fairly serious
+- Contact With Others: Contact with others most of the time
+- Coordinate or Lead Others in Accomplishing Work Activities: Important
+- Deal With External Customers or the Public in General: Important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Slightly automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Once a year or more but not every month
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Every day
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Once a year or more but not every month
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Limited freedom
+- Frequency of Decision Making: Once a year or more but not every month
+- Health and Safety of Other Workers: Moderate responsibility
+- Impact of Decisions on Co-workers or Company Results: Minor results
+- Importance of Being Exact or Accurate: Very important
+- Importance of Repeating Same Tasks: Not important at all
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Once a year or more but not every month
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Slightly close (e.g., shared office)
+- Public Speaking: Once a year or more but not every month
+- Spend Time Bending or Twisting Your Body: Never
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Less than half the time
+- Spend Time Sitting: About half the time
+- Spend Time Standing: About half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Less than half the time
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Once a week or more but not every day
+- Time Pressure: Once a month or more but not every week
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Moderate responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a month or more but not every week
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Investigative
+- Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Automotive Engineers
+- Chemical Engineers
+- Mechanical Engineers
+- Microsystems Engineers
+- Biofuels/Biodiesel Technology and Product Development Managers
+- Electrical Engineers
+- Aerospace Engineers
+- Electronics Engineers, Except Computer
+- Nuclear Engineers
+- Materials Scientists
+- Electrical and Electronic Engineering Technologists and Technicians
+- Biomass Plant Technicians
+- Solar Energy Systems Engineers
+- Mechanical Engineering Technologists and Technicians
+- Automotive Engineering Technicians
+- Nanosystems Engineers
+- Aerospace Engineering and Operations Technologists and Technicians
+- Mechatronics Engineers
+- Manufacturing Engineers
+- Electro-Mechanical and Mechatronics Technologists and Technicians

@@ -1,0 +1,236 @@
+Job Title: Business Continuity Planners
+O*NET-SOC Code: 13-1199.04
+
+# DESCRIPTION
+Develop, maintain, or implement business continuity and disaster recovery strategies and solutions, including risk assessments, business impact analyses, strategy selection, and documentation of business continuity and disaster recovery procedures. Plan, conduct, and debrief regular mock-disaster exercises to test the adequacy of existing plans and strategies, updating procedures and plans regularly. Act as a coordinator for continuity efforts after a disruption event.
+
+# TASKS
+- Develop emergency management plans for recovery decision making and communications, continuity of critical departmental processes, or temporary shut-down of non-critical departments to ensure continuity of operation and governance.
+- Develop disaster recovery plans for physical locations with critical assets, such as data centers.
+- Test documented disaster recovery strategies and plans.
+- Analyze impact on, and risk to, essential business functions or information systems to identify acceptable recovery time periods and resource requirements.
+- Write reports to summarize testing activities, including descriptions of goals, planning, scheduling, execution, results, analysis, conclusions, and recommendations.
+- Review existing disaster recovery, crisis management, or business continuity plans.
+- Create scenarios to reestablish operations from various types of business disruptions.
+- Establish, maintain, or test call trees to ensure appropriate communication during disaster.
+- Conduct or oversee contingency plan integration and operation.
+- Identify opportunities for strategic improvement or mitigation of business interruption and other risks caused by business, regulatory, or industry-specific change initiatives.
+- Interpret government regulations and applicable codes to ensure compliance.
+- Create or administer training and awareness presentations or materials.
+- Prepare reports summarizing operational results, financial performance, or accomplishments of specified objectives, goals, or plans.
+- Attend professional meetings, read literature, and participate in training or other educational offerings to keep abreast of new developments and technologies related to disaster recovery and business continuity.
+- Recommend or implement methods to monitor, evaluate, or enable resolution of safety, operations, or compliance interruptions.
+- Create business continuity and disaster recovery budgets.
+- Maintain and update organization information technology applications and network systems blueprints.
+- Design or implement products and services to mitigate risk or facilitate use of technology-based tools and methods.
+- Analyze corporate intelligence data to identify trends, patterns, or warnings indicating threats to security of people, assets, information, or infrastructure.
+- Conduct or oversee collection of corporate intelligence to avoid fraud, financial crime, cyber attack, terrorism, and infrastructure failure.
+- Identify individual or transaction targets to direct intelligence collection.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Administration and Management (Importance: 3.91/5 | Level: 4.48/7)
+- English Language (Importance: 3.73/5 | Level: 4.41/7)
+- Computers and Electronics (Importance: 3.68/5 | Level: 4.77/7)
+- Public Safety and Security (Importance: 3.64/5 | Level: 3.91/7)
+- Customer and Personal Service (Importance: 3.41/5 | Level: 4.55/7)
+- Education and Training (Importance: 3.36/5 | Level: 4.64/7)
+- Administrative (Importance: 3.32/5 | Level: 4.45/7)
+- Communications and Media (Importance: 3.27/5 | Level: 3.45/7)
+- Telecommunications (Importance: 3.23/5 | Level: 3.18/7)
+- Law and Government (Importance: 2.67/5 | Level: 3.32/7)
+- Personnel and Human Resources (Importance: 2.64/5 | Level: 3.27/7)
+- Engineering and Technology (Importance: 2.64/5 | Level: 2.91/7)
+- Psychology (Importance: 2.59/5 | Level: 2.91/7)
+- Geography (Importance: 2.55/5 | Level: 3.09/7)
+- Production and Processing (Importance: 2.52/5 | Level: 2.73/7)
+- Mathematics (Importance: 2.5/5 | Level: 3.05/7)
+- Transportation (Importance: 2.27/5 | Level: 2.32/7)
+- Design (Importance: 2.27/5 | Level: 2.55/7)
+- Economics and Accounting (Importance: 2.18/5 | Level: 2.09/7)
+- Sales and Marketing (Importance: 2.18/5 | Level: 2.36/7)
+- Sociology and Anthropology (Importance: 2.14/5 | Level: 2.18/7)
+- Building and Construction (Importance: 1.76/5 | Level: 1.36/7)
+- Therapy and Counseling (Importance: 1.64/5 | Level: 1.32/7)
+- Mechanical (Importance: 1.59/5 | Level: 1.27/7)
+- Philosophy and Theology (Importance: 1.55/5 | Level: 1.27/7)
+- Foreign Language (Importance: 1.55/5 | Level: 1.18/7)
+- History and Archeology (Importance: 1.5/5 | Level: 1.18/7)
+- Medicine and Dentistry (Importance: 1.41/5 | Level: 0.77/7)
+- Chemistry (Importance: 1.32/5 | Level: 0.77/7)
+- Food Production (Importance: 1.32/5 | Level: 0.68/7)
+- Physics (Importance: 1.27/5 | Level: 0.59/7)
+- Biology (Importance: 1.14/5 | Level: 0.36/7)
+- Fine Arts (Importance: 1.09/5 | Level: 0.27/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Judgment and Decision Making (Importance: 4.0/5 | Level: 4.0/7)
+- Complex Problem Solving (Importance: 4.0/5 | Level: 4.75/7)
+- Speaking (Importance: 4.0/5 | Level: 4.0/7)
+- Writing (Importance: 3.88/5 | Level: 4.0/7)
+- Systems Analysis (Importance: 3.88/5 | Level: 4.0/7)
+- Critical Thinking (Importance: 3.88/5 | Level: 4.5/7)
+- Reading Comprehension (Importance: 3.88/5 | Level: 4.12/7)
+- Active Listening (Importance: 3.75/5 | Level: 3.88/7)
+- Active Learning (Importance: 3.75/5 | Level: 3.75/7)
+- Systems Evaluation (Importance: 3.62/5 | Level: 3.75/7)
+- Coordination (Importance: 3.62/5 | Level: 3.75/7)
+- Monitoring (Importance: 3.5/5 | Level: 3.88/7)
+- Service Orientation (Importance: 3.38/5 | Level: 3.62/7)
+- Time Management (Importance: 3.38/5 | Level: 3.38/7)
+- Social Perceptiveness (Importance: 3.38/5 | Level: 3.5/7)
+- Instructing (Importance: 3.12/5 | Level: 3.75/7)
+- Negotiation (Importance: 3.12/5 | Level: 3.12/7)
+- Persuasion (Importance: 3.12/5 | Level: 3.75/7)
+- Learning Strategies (Importance: 3.12/5 | Level: 3.62/7)
+- Management of Personnel Resources (Importance: 3.0/5 | Level: 3.38/7)
+- Management of Financial Resources (Importance: 2.75/5 | Level: 3.25/7)
+- Management of Material Resources (Importance: 2.75/5 | Level: 2.75/7)
+- Mathematics (Importance: 2.75/5 | Level: 2.88/7)
+- Operations Analysis (Importance: 2.75/5 | Level: 2.75/7)
+- Quality Control Analysis (Importance: 2.38/5 | Level: 2.25/7)
+- Programming (Importance: 2.0/5 | Level: 1.25/7)
+- Operations Monitoring (Importance: 2.0/5 | Level: 2.38/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.5/7)
+- Troubleshooting (Importance: 1.5/5 | Level: 0.88/7)
+- Equipment Selection (Importance: 1.25/5 | Level: 0.25/7)
+- Science (Importance: 1.12/5 | Level: 0.12/7)
+- Operation and Control (Importance: 1.12/5 | Level: 0.25/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Actuate BIRT (Tech skill type: Business intelligence and data analysis software)
+- Adobe Acrobat (Tech skill type: Document management software)
+- Atlassian Confluence (Tech skill type: Project management software)
+- Atlassian JIRA (Tech skill type: Content workflow software)
+- Business continuity software (Tech skill type: Enterprise resource planning ERP software)
+- CA Clarity PPM (Tech skill type: Enterprise resource planning ERP software)
+- Computer operating systems (Tech skill type: Operating system software)
+- COOP Systems myCOOP (Tech skill type: Enterprise resource planning ERP software)
+- EMC RSA Archer Business Continuity Management (Tech skill type: Enterprise resource planning ERP software)
+- Emergency notification system software (Tech skill type: Communications server software)
+- Enterprise backup systems (Tech skill type: Backup or archival software)
+- Jaspersoft Business Intelligence Suite (Tech skill type: Business intelligence and data analysis software)
+- Local area network LAN software (Tech skill type: LAN software)
+- Mentimeter (Tech skill type: Presentation software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft SharePoint Server (Tech skill type: Document management software)
+- Microsoft SQL Server (Tech skill type: Data base user interface and query software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Word (Tech skill type: Word processing software)
+- MIR3 Intelligent Notification (Tech skill type: Communications server software)
+- Oracle JD Edwards EnterpriseOne (Tech skill type: Enterprise resource planning ERP software)
+- Oracle Primavera Enterprise Project Portfolio Management (Tech skill type: Project management software)
+- RecoveryPlanner RPX (Tech skill type: Enterprise resource planning ERP software)
+- SAP Crystal Reports (Tech skill type: Data base reporting software)
+- Strategic BCP ResilienceONE (Tech skill type: Enterprise resource planning ERP software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Sungard Assurance (Tech skill type: Enterprise resource planning ERP software)
+- SunGard NotiFind (Tech skill type: Network operation system software)
+- Teradata Database (Tech skill type: Data base management system software)
+- Virtual Corporation Sustainable Planner (Tech skill type: Enterprise resource planning ERP software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Computer laser printers (Tool type: Laser printers)
+- Computer server equipment (Tool type: Computer servers)
+- Desktop computers (Tool type: Desktop computers)
+- Mainframe computers (Tool type: Mainframe computers)
+- Multiline telephone systems (Tool type: Special purpose telephones)
+- Personal computers (Tool type: Personal computers)
+- Storage area network equipment (Tool type: Network attached storage NAS device)
+- Tablet computers (Tool type: Tablet computers)
+- Teleconferencing systems (Tool type: Teleconference equipment)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Fairly serious
+- Contact With Others: Contact with others most of the time
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Fairly important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Slightly automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Never
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Once a week or more but not every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Once a year or more but not every month
+- Health and Safety of Other Workers: High responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Very important
+- Importance of Repeating Same Tasks: Not important at all
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Slightly close (e.g., shared office)
+- Public Speaking: Once a month or more but not every week
+- Spend Time Bending or Twisting Your Body: Never
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Never
+- Spend Time Sitting: Continually or almost continually
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Never
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Once a week or more but not every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Never
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Moderate responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a week or more but not every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Enterprising
+- Secondary Interest: Conventional
+- Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Emergency Management Directors
+- Project Management Specialists
+- Information Technology Project Managers
+- Financial Risk Specialists
+- Information Security Engineers
+- Business Intelligence Analysts
+- Compliance Managers
+- Information Security Analysts
+- Security Managers
+- Security Management Specialists
+- Management Analysts
+- Administrative Services Managers
+- Computer Systems Analysts
+- Logistics Analysts
+- Document Management Specialists
+- Chief Sustainability Officers
+- Logisticians
+- Sustainability Specialists
+- Computer and Information Systems Managers
+- Loss Prevention Managers

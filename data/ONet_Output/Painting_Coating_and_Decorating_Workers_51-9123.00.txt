@@ -1,0 +1,230 @@
+Job Title: Painting, Coating, and Decorating Workers
+O*NET-SOC Code: 51-9123.00
+
+# DESCRIPTION
+Paint, coat, or decorate articles, such as furniture, glass, plateware, pottery, jewelry, toys, books, or leather.
+
+# TASKS
+- Apply coatings, such as paint, ink, or lacquer, to protect or decorate workpiece surfaces, using spray guns, pens, or brushes.
+- Examine finished surfaces of workpieces to verify conformance to specifications and retouch any defective areas.
+- Clean and maintain tools and equipment, using solvents, brushes, and rags.
+- Read job orders and inspect workpieces to determine work procedures and materials required.
+- Select and mix ingredients to prepare coating substances according to specifications, using paddles or mechanical mixers.
+- Place coated workpieces in ovens or dryers for specified times to dry or harden finishes.
+- Clean surfaces of workpieces in preparation for coating, using cleaning fluids, solvents, brushes, scrapers, steam, sandpaper, or cloth.
+- Conceal blemishes in workpieces, such as nicks and dents, using fillers such as putty.
+- Rinse, drain, or wipe coated workpieces to remove excess coating material or to facilitate setting of finish coats on workpieces.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Production and Processing (Importance: 3.11/5 | Level: 2.5/7)
+- English Language (Importance: 2.97/5 | Level: 2.52/7)
+- Customer and Personal Service (Importance: 2.77/5 | Level: 1.83/7)
+- Education and Training (Importance: 2.54/5 | Level: 2.22/7)
+- Design (Importance: 2.41/5 | Level: 1.38/7)
+- Chemistry (Importance: 2.37/5 | Level: 2.13/7)
+- Administration and Management (Importance: 2.32/5 | Level: 1.69/7)
+- Public Safety and Security (Importance: 2.24/5 | Level: 1.88/7)
+- Mathematics (Importance: 2.14/5 | Level: 1.36/7)
+- Computers and Electronics (Importance: 1.82/5 | Level: 1.01/7)
+- Personnel and Human Resources (Importance: 1.78/5 | Level: 0.56/7)
+- Fine Arts (Importance: 1.75/5 | Level: 1.35/7)
+- Mechanical (Importance: 1.75/5 | Level: 1.27/7)
+- Sales and Marketing (Importance: 1.71/5 | Level: 1.05/7)
+- Psychology (Importance: 1.7/5 | Level: 1.93/7)
+- Physics (Importance: 1.54/5 | Level: 1.17/7)
+- Transportation (Importance: 1.52/5 | Level: 0.71/7)
+- Telecommunications (Importance: 1.5/5 | Level: 0.38/7)
+- Administrative (Importance: 1.49/5 | Level: 1.24/7)
+- Biology (Importance: 1.48/5 | Level: 1.21/7)
+- Medicine and Dentistry (Importance: 1.37/5 | Level: 0.34/7)
+- Foreign Language (Importance: 1.35/5 | Level: 0.53/7)
+- Engineering and Technology (Importance: 1.34/5 | Level: 0.32/7)
+- Communications and Media (Importance: 1.34/5 | Level: 0.41/7)
+- Law and Government (Importance: 1.32/5 | Level: 0.41/7)
+- Economics and Accounting (Importance: 1.29/5 | Level: 0.37/7)
+- Sociology and Anthropology (Importance: 1.15/5 | Level: 0.24/7)
+- History and Archeology (Importance: 1.07/5 | Level: 0.14/7)
+- Philosophy and Theology (Importance: 1.07/5 | Level: 0.26/7)
+- Therapy and Counseling (Importance: 1.07/5 | Level: 0.13/7)
+- Building and Construction (Importance: 1.04/5 | Level: 0.12/7)
+- Geography (Importance: 1.04/5 | Level: 0.09/7)
+- Food Production (Importance: 1.03/5 | Level: 0.06/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Monitoring (Importance: 2.88/5 | Level: 2.62/7)
+- Coordination (Importance: 2.88/5 | Level: 2.62/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.75/7)
+- Active Listening (Importance: 2.88/5 | Level: 2.25/7)
+- Critical Thinking (Importance: 2.75/5 | Level: 2.62/7)
+- Speaking (Importance: 2.75/5 | Level: 2.5/7)
+- Reading Comprehension (Importance: 2.75/5 | Level: 2.25/7)
+- Time Management (Importance: 2.62/5 | Level: 2.38/7)
+- Judgment and Decision Making (Importance: 2.5/5 | Level: 2.25/7)
+- Service Orientation (Importance: 2.38/5 | Level: 2.12/7)
+- Writing (Importance: 2.25/5 | Level: 1.88/7)
+- Quality Control Analysis (Importance: 2.12/5 | Level: 2.12/7)
+- Operations Monitoring (Importance: 2.12/5 | Level: 2.25/7)
+- Active Learning (Importance: 2.12/5 | Level: 2.0/7)
+- Complex Problem Solving (Importance: 2.12/5 | Level: 2.0/7)
+- Instructing (Importance: 2.12/5 | Level: 1.75/7)
+- Management of Personnel Resources (Importance: 2.12/5 | Level: 2.12/7)
+- Systems Analysis (Importance: 2.0/5 | Level: 1.12/7)
+- Negotiation (Importance: 2.0/5 | Level: 1.88/7)
+- Troubleshooting (Importance: 2.0/5 | Level: 1.75/7)
+- Persuasion (Importance: 2.0/5 | Level: 2.0/7)
+- Learning Strategies (Importance: 2.0/5 | Level: 2.0/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 1.12/7)
+- Mathematics (Importance: 1.88/5 | Level: 1.12/7)
+- Management of Material Resources (Importance: 1.62/5 | Level: 0.75/7)
+- Operations Analysis (Importance: 1.62/5 | Level: 0.62/7)
+- Equipment Selection (Importance: 1.62/5 | Level: 1.25/7)
+- Technology Design (Importance: 1.5/5 | Level: 0.5/7)
+- Operation and Control (Importance: 1.5/5 | Level: 1.0/7)
+- Equipment Maintenance (Importance: 1.5/5 | Level: 0.88/7)
+- Management of Financial Resources (Importance: 1.5/5 | Level: 0.62/7)
+- Repairing (Importance: 1.38/5 | Level: 0.5/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adobe FreeHand MX (Tech skill type: Graphics or photo imaging software)
+- Adobe Illustrator (Tech skill type: Graphics or photo imaging software)
+- Adobe Photoshop (Tech skill type: Graphics or photo imaging software)
+- Corel WordPerfect Office Suite (Tech skill type: Office suite software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+
+## TOOLS USED
+- Banding wheels (Tool type: Potters wheels for hand made ceramics)
+- Belt dryers (Tool type: Air dryers)
+- Cleaning brushes (Tool type: Cleaning brushes)
+- Cleaning scrapers (Tool type: Cleaning scrapers)
+- Computer inkjet printers (Tool type: Inkjet printers)
+- Computer laser printers (Tool type: Laser printers)
+- Cordless power sanders (Tool type: Power sanders)
+- Decorating wheels (Tool type: Potters wheels for hand made ceramics)
+- Dial calipers (Tool type: Calipers)
+- Digital hydrometers (Tool type: Hydrometers)
+- Digital micrometers (Tool type: Micrometers)
+- Enamel setting kilns (Tool type: Enameling Kilns)
+- Enameling sifters (Tool type: Sifters)
+- Exposure units (Tool type: Silk screen arc lamps)
+- Finishing ovens (Tool type: Blowers or dryers)
+- Flash cure units (Tool type: Drying cabinets or ovens)
+- Four-color screen printing machines (Tool type: Silk screen printing machines)
+- Glaze brushes (Tool type: Paint brushes)
+- Glaze mixers (Tool type: Paint mixers)
+- Hot air guns (Tool type: Heat guns)
+- Ink scoops (Tool type: Silkscreen accessories)
+- Layout T-squares (Tool type: T squares)
+- Mechanical mixers (Tool type: Paint mixers)
+- Metal sieves (Tool type: Sifters)
+- Mini foam rollers (Tool type: Paint rollers)
+- Mixing paddles (Tool type: Paint mixers)
+- Paint spray guns (Tool type: Paint sprayers)
+- Painting bridges (Tool type: Stained glass tools or accessories)
+- Palette knife sets (Tool type: Palette knives)
+- Personal computers (Tool type: Personal computers)
+- Plastic sieves (Tool type: Sifters)
+- Precision rulers (Tool type: Rulers)
+- Pressure washers (Tool type: Pressure or steam cleaners)
+- Scoop coaters (Tool type: Silkscreen accessories)
+- Screen printing press (Tool type: Silk screen printing machines)
+- Scrub brushes (Tool type: Cleaning brushes)
+- Silkscreen screens (Tool type: Silk screen screens)
+- Silkscreen squeegees (Tool type: Silk screen squeegees)
+- Soft bristled brushes (Tool type: Paint brushes)
+- Specialty paint brushes (Tool type: Paint brushes)
+- Spot cleaning guns (Tool type: Hand sprayers)
+- Spot process screen printing machines (Tool type: Silk screen printing machines)
+- Temperature meters (Tool type: Remote reading thermometers)
+- Ultraviolet UV curing units (Tool type: Ultraviolet UV lamps)
+- Underglaze applicators (Tool type: Etching needles)
+- Vacuum brushes (Tool type: Vacuum cleaners)
+- Workpiece dryers (Tool type: Blowers or dryers)
+
+# WORK CONTEXT
+- Conflict Situations: Never
+- Consequence of Error: Not serious at all
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Never
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: Limited freedom
+- E-Mail: Never
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Every day
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Never
+- Health and Safety of Other Workers: No responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Very important
+- Importance of Repeating Same Tasks: Not important at all
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Never
+- Indoors, Not Environmentally Controlled: Every day
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Never
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Continually or almost continually
+- Spend Time Sitting: More than half the time
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Never
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Never
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: No responsibility
+- Work With or Contribute to a Work Group or Team: Very important
+- Written Letters and Memos: Never
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Artistic
+- Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Coating, Painting, and Spraying Machine Setters, Operators, and Tenders
+- Etchers and Engravers
+- Furniture Finishers
+- Molders, Shapers, and Casters, Except Metal and Plastic
+- Painters, Construction and Maintenance
+- Grinding and Polishing Workers, Hand
+- Cutters and Trimmers, Hand
+- Laundry and Dry-Cleaning Workers
+- Shoe Machine Operators and Tenders
+- Foundry Mold and Coremakers
+- Plating Machine Setters, Operators, and Tenders, Metal and Plastic
+- Adhesive Bonding Machine Operators and Tenders
+- Cutting and Slicing Machine Setters, Operators, and Tenders
+- Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Textile Bleaching and Dyeing Machine Operators and Tenders
+- Jewelers and Precious Stone and Metal Workers
+- Sewing Machine Operators
+- Patternmakers, Metal and Plastic
+- Tool Grinders, Filers, and Sharpeners
+- Machine Feeders and Offbearers

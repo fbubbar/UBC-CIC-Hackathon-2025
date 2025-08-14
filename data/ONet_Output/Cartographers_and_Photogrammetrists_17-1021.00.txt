@@ -1,0 +1,298 @@
+Job Title: Cartographers and Photogrammetrists
+O*NET-SOC Code: 17-1021.00
+
+# DESCRIPTION
+Research, study, and prepare maps and other spatial data in digital or graphic form for one or more purposes, such as legal, social, political, educational, and design purposes. May work with Geographic Information Systems (GIS). May design and evaluate algorithms, data structures, and user interfaces for GIS and mapping systems. May collect, analyze, and interpret geographic information provided by geodetic surveys, aerial photographs, and satellite data.
+
+# TASKS
+- Compile data required for map preparation, including aerial photographs, survey notes, records, reports, and original maps.
+- Delineate aerial photographic detail, such as control points, hydrography, topography, and cultural features, using precision stereoplotting apparatus or drafting instruments.
+- Prepare and alter trace maps, charts, tables, detailed drawings, and three-dimensional optical models of terrain using stereoscopic plotting and computer graphics equipment.
+- Study legal records to establish boundaries of local, national, and international properties.
+- Inspect final compositions to ensure completeness and accuracy.
+- Revise existing maps and charts, making all necessary corrections and adjustments.
+- Identify, scale, and orient geodetic points, elevations, and other planimetric or topographic features, applying standard mathematical formulas.
+- Collect information about specific features of the Earth, using aerial photography and other digital remote sensing techniques.
+- Examine and analyze data from ground surveys, reports, aerial photographs, and satellite images to prepare topographic maps, aerial-photograph mosaics, and related charts.
+- Build and update digital databases.
+- Determine map content and layout, as well as production specifications such as scale, size, projection, and colors, and direct production to ensure that specifications are followed.
+- Determine guidelines that specify which source material is acceptable for use.
+- Select aerial photographic and remote sensing techniques and plotting equipment needed to meet required standards of accuracy.
+- Travel over photographed areas to observe, identify, record, and verify all relevant features.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Geography (Importance: 4.51/5 | Level: 6.25/7)
+- Computers and Electronics (Importance: 4.22/5 | Level: 4.92/7)
+- English Language (Importance: 3.54/5 | Level: 4.11/7)
+- Design (Importance: 3.36/5 | Level: 4.27/7)
+- Mathematics (Importance: 3.33/5 | Level: 4.25/7)
+- Customer and Personal Service (Importance: 2.92/5 | Level: 3.06/7)
+- Engineering and Technology (Importance: 2.84/5 | Level: 2.99/7)
+- Education and Training (Importance: 2.75/5 | Level: 3.95/7)
+- Administration and Management (Importance: 2.65/5 | Level: 3.33/7)
+- Law and Government (Importance: 2.6/5 | Level: 2.52/7)
+- Production and Processing (Importance: 2.47/5 | Level: 2.67/7)
+- Administrative (Importance: 2.44/5 | Level: 3.6/7)
+- Communications and Media (Importance: 2.37/5 | Level: 2.89/7)
+- Transportation (Importance: 2.24/5 | Level: 2.15/7)
+- Personnel and Human Resources (Importance: 2.21/5 | Level: 2.38/7)
+- Public Safety and Security (Importance: 2.1/5 | Level: 1.46/7)
+- Telecommunications (Importance: 2.06/5 | Level: 1.75/7)
+- Building and Construction (Importance: 1.99/5 | Level: 1.33/7)
+- Physics (Importance: 1.68/5 | Level: 1.49/7)
+- History and Archeology (Importance: 1.62/5 | Level: 1.25/7)
+- Mechanical (Importance: 1.57/5 | Level: 1.07/7)
+- Sales and Marketing (Importance: 1.55/5 | Level: 0.89/7)
+- Psychology (Importance: 1.49/5 | Level: 0.89/7)
+- Economics and Accounting (Importance: 1.44/5 | Level: 0.87/7)
+- Biology (Importance: 1.38/5 | Level: 0.89/7)
+- Sociology and Anthropology (Importance: 1.38/5 | Level: 0.57/7)
+- Foreign Language (Importance: 1.34/5 | Level: 0.56/7)
+- Therapy and Counseling (Importance: 1.25/5 | Level: 0.54/7)
+- Philosophy and Theology (Importance: 1.13/5 | Level: 0.49/7)
+- Chemistry (Importance: 1.02/5 | Level: 0.06/7)
+- Fine Arts (Importance: 1.01/5 | Level: 0.01/7)
+- Food Production (Importance: 1.0/5 | Level: 0.01/7)
+- Medicine and Dentistry (Importance: 1.0/5 | Level: 0.0/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.12/7)
+- Writing (Importance: 3.5/5 | Level: 3.62/7)
+- Critical Thinking (Importance: 3.5/5 | Level: 3.75/7)
+- Active Listening (Importance: 3.38/5 | Level: 3.5/7)
+- Active Learning (Importance: 3.25/5 | Level: 3.38/7)
+- Complex Problem Solving (Importance: 3.12/5 | Level: 3.12/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 3.12/7)
+- Speaking (Importance: 3.12/5 | Level: 3.12/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.12/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 2.88/7)
+- Time Management (Importance: 3.0/5 | Level: 3.12/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Systems Analysis (Importance: 2.88/5 | Level: 2.88/7)
+- Learning Strategies (Importance: 2.88/5 | Level: 3.0/7)
+- Mathematics (Importance: 2.88/5 | Level: 3.12/7)
+- Systems Evaluation (Importance: 2.75/5 | Level: 2.75/7)
+- Instructing (Importance: 2.75/5 | Level: 3.0/7)
+- Service Orientation (Importance: 2.75/5 | Level: 2.75/7)
+- Persuasion (Importance: 2.38/5 | Level: 2.12/7)
+- Negotiation (Importance: 2.38/5 | Level: 2.12/7)
+- Management of Personnel Resources (Importance: 2.25/5 | Level: 2.12/7)
+- Quality Control Analysis (Importance: 2.12/5 | Level: 2.12/7)
+- Operations Monitoring (Importance: 1.88/5 | Level: 1.75/7)
+- Programming (Importance: 1.88/5 | Level: 1.12/7)
+- Science (Importance: 1.88/5 | Level: 1.5/7)
+- Troubleshooting (Importance: 1.75/5 | Level: 1.38/7)
+- Technology Design (Importance: 1.62/5 | Level: 0.75/7)
+- Management of Material Resources (Importance: 1.62/5 | Level: 0.62/7)
+- Management of Financial Resources (Importance: 1.62/5 | Level: 0.75/7)
+- Operations Analysis (Importance: 1.62/5 | Level: 0.75/7)
+- Equipment Selection (Importance: 1.5/5 | Level: 1.0/7)
+- Equipment Maintenance (Importance: 1.38/5 | Level: 0.5/7)
+- Operation and Control (Importance: 1.38/5 | Level: 0.38/7)
+- Repairing (Importance: 1.25/5 | Level: 0.38/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adobe Acrobat (Tech skill type: Document management software)
+- Adobe Creative Cloud software (Tech skill type: Graphics or photo imaging software)
+- Adobe Dreamweaver (Tech skill type: Web page creation and editing software)
+- Adobe Illustrator (Tech skill type: Graphics or photo imaging software)
+- Adobe InDesign (Tech skill type: Desktop publishing software)
+- Adobe Photoshop (Tech skill type: Graphics or photo imaging software)
+- Aerotriangulation adjustment software (Tech skill type: Map creation software)
+- Aldus FreeHand (Tech skill type: Graphics or photo imaging software)
+- Arbor Image Draftsman (Tech skill type: Data compression software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Autodesk World (Tech skill type: Data base user interface and query software)
+- Bentley MicroStation (Tech skill type: Computer aided design CAD software)
+- Bentley Systems InRoads Suite (Tech skill type: Map creation software)
+- Boeing Kork Digital Mapping (Tech skill type: Analytical or scientific software)
+- Boeing SoftPlotter (Tech skill type: Analytical or scientific software)
+- C (Tech skill type: Development environment software)
+- Computer aided design CAD software (Tech skill type: Computer aided design CAD software)
+- Corel CorelDraw Graphics Suite (Tech skill type: Graphics or photo imaging software)
+- Corporate Montage CADScript (Tech skill type: Desktop publishing software)
+- Cosmo Software Cosmo World (Tech skill type: Computer aided design CAD software)
+- Desktop publishing software (Tech skill type: Desktop publishing software)
+- Digital databases (Tech skill type: Information retrieval or search software)
+- Digital mapping software (Tech skill type: Map creation software)
+- Email software (Tech skill type: Electronic mail software)
+- ERDAS ER Mapper (Tech skill type: Map creation software)
+- ESRI ArcGIS software (Tech skill type: Geographic information system)
+- ESRI ArcInfo (Tech skill type: Geographic information system)
+- ESRI ArcView (Tech skill type: Geographic information system)
+- ESRI software (Tech skill type: Geographic information system)
+- Extensible markup language XML (Tech skill type: Enterprise application integration software)
+- Geographic information system GIS software (Tech skill type: Geographic information system)
+- Geographic information system GIS systems (Tech skill type: Geographic information system)
+- Geomechanical design analysis GDA software (Tech skill type: Map creation software)
+- Hexagon Intergraph (Tech skill type: Map creation software)
+- IBM iSeries Access (Tech skill type: Platform interconnectivity software)
+- Image analysis software (Tech skill type: Analytical or scientific software)
+- Image processing software (Tech skill type: Graphics or photo imaging software)
+- Intergraph ImageStation Stereo Softcopy Kit SSK (Tech skill type: Map creation software)
+- JavaScript Object Notation JSON (Tech skill type: Web platform development software)
+- Leica AEROPLAN LiDAR (Tech skill type: Flight control software)
+- MapInfo (Tech skill type: Map creation software)
+- Mapping software (Tech skill type: Map creation software)
+- Mapthematics GeoCart (Tech skill type: Map creation software)
+- Master Seafloor Digital Database (Tech skill type: Information retrieval or search software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Internet Explorer (Tech skill type: Internet browser software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft operating system (Tech skill type: Operating system software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft Visual Basic (Tech skill type: Development environment software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- MultiGen Paradigm Vega Prime (Tech skill type: Computer aided design CAD software)
+- Oracle Database (Tech skill type: Data base user interface and query software)
+- Precision analytical aerotriangulation pugging software (Tech skill type: Map creation software)
+- Python (Tech skill type: Object or component oriented development software)
+- Quark Immedia (Tech skill type: Web page creation and editing software)
+- QuarkXPress (Tech skill type: Desktop publishing software)
+- Rand McNally World Digital Database (Tech skill type: Information retrieval or search software)
+- RockWare ArcMap (Tech skill type: Map creation software)
+- RSI ENVI (Tech skill type: Analytical or scientific software)
+- SAP Adaptive Server Enterprise (Tech skill type: Data base management system software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Software development tools (Tech skill type: Development environment software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- Standardized general markup language SGML (Tech skill type: Development environment software)
+- Steroplotter software (Tech skill type: Graphics or photo imaging software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Terrasolid TerraScan (Tech skill type: Analytical or scientific software)
+- Textron Systems Geospatial Solutions RemoteView (Tech skill type: Analytical or scientific software)
+- Word processing software (Tech skill type: Word processing software)
+- World Vector Shoreline (Tech skill type: Information retrieval or search software)
+
+## TOOLS USED
+- Aerial imagery mapping-grade global positioning systems GPS (Tool type: Aircraft guidance systems)
+- Analytical stereoplotters (Tool type: Plotter printers)
+- Automatic levels (Tool type: Levels)
+- Color digital camera systems (Tool type: Digital cameras)
+- Color inkjet plotters (Tool type: Plotter printers)
+- Compasses (Tool type: Compasses)
+- Computer servers (Tool type: Computer servers)
+- Digital camcorders (Tool type: Digital camcorders or video cameras)
+- Digital image printers (Tool type: Digital image printers)
+- Digitizers (Tool type: Scanners)
+- Dividers (Tool type: Compasses)
+- Drafting instruments (Tool type: Drafting kits or sets)
+- Drafting machines (Tool type: Drafting kits or sets)
+- Film processors and editors (Tool type: Film editors)
+- French curves (Tool type: Curves)
+- Geodetic ground global positioning system GPS receivers (Tool type: Global positioning system GPS receiver)
+- Global positioning system GPS receivers (Tool type: Global positioning system GPS receiver)
+- Lamination systems (Tool type: Laminators)
+- Large-format aerial digital cameras (Tool type: Digital cameras)
+- Large-format plotters (Tool type: Plotter printers)
+- Laser imaging detection and ranging LIDAR systems (Tool type: Radarbased surveillance systems)
+- Laser printers (Tool type: Laser printers)
+- Mapping grade global positioning system GPS receivers (Tool type: Global positioning system GPS receiver)
+- Notebook computers (Tool type: Notebook computers)
+- Panoramic digital line cameras (Tool type: Digital cameras)
+- Personal computers (Tool type: Personal computers)
+- Photo enlargers (Tool type: Photographic enlargers)
+- Photogrammetric scanners (Tool type: Scanners)
+- Planimeters (Tool type: Map measurers)
+- Protractors (Tool type: Protractors)
+- Remote sensing equipment (Tool type: Radarbased surveillance systems)
+- Scales (Tool type: Scales)
+- Scanners (Tool type: Scanners)
+- T-squares (Tool type: T squares)
+- Templates (Tool type: Templates)
+- Total stations (Tool type: Theodolites)
+- Triangles (Tool type: Triangles)
+- Type lettering sets (Tool type: Stencils or lettering aids)
+- Video thermal imagers (Tool type: Infrared imagers)
+- Windows servers (Tool type: Computer servers)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Not serious at all
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Extremely important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Highly automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Once a year or more but not every month
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Once a year or more but not every month
+- Exposed to Very Hot or Cold Temperatures: Once a year or more but not every month
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Once a week or more but not every day
+- Health and Safety of Other Workers: No responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Extremely important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Once a year or more but not every month
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Not at all competitive
+- Outdoors, Exposed to All Weather Conditions: Once a year or more but not every month
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Once a year or more but not every month
+- Spend Time Bending or Twisting Your Body: Never
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Continually or almost continually
+- Spend Time Sitting: Continually or almost continually
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Never
+- Telephone Conversations: Every day
+- Time Pressure: Once a week or more but not every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Never
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Very important
+- Written Letters and Memos: Once a month or more but not every week
+
+# INTERESTS (RIASEC)
+- Primary Interest: Conventional
+- Secondary Interest: Investigative
+- Tertiary Interest: Realistic
+
+# RELATED OCCUPATIONS
+- Surveying and Mapping Technicians
+- Geodetic Surveyors
+- Geographic Information Systems Technologists and Technicians
+- Surveyors
+- Remote Sensing Technicians
+- Geographers
+- Remote Sensing Scientists and Technologists
+- Geological Technicians, Except Hydrologic Technicians
+- Architectural and Civil Drafters
+- Data Scientists
+- Electrical and Electronics Drafters
+- Statistical Assistants
+- Calibration Technologists and Technicians
+- Database Architects
+- Geoscientists, Except Hydrologists and Geographers
+- Civil Engineering Technologists and Technicians
+- Software Developers
+- Hydrologic Technicians
+- Hydrologists
+- Electrical and Electronic Engineering Technologists and Technicians

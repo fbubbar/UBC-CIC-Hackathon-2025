@@ -1,0 +1,521 @@
+Job Title: Automotive Service Technicians and Mechanics
+O*NET-SOC Code: 49-3023.00
+
+# DESCRIPTION
+Diagnose, adjust, repair, or overhaul automotive vehicles.
+
+# TASKS
+- Inspect vehicles for damage and record findings so that necessary repairs can be made.
+- Test drive vehicles and test components and systems, using equipment such as infrared engine analyzers, compression gauges, and computerized diagnostic devices.
+- Test and adjust repaired systems to meet manufacturers' performance specifications.
+- Repair, reline, replace, and adjust brakes.
+- Review work orders and discuss work with supervisors.
+- Estimate costs of vehicle repair.
+- Confer with customers to obtain descriptions of vehicle problems and to discuss work to be performed and future repair requirements.
+- Align vehicles' front ends.
+- Align wheels, axles, frames, torsion bars, and steering mechanisms of automobiles, using special alignment equipment and wheel-balancing machines.
+- Tear down, repair, and rebuild faulty assemblies, such as power systems, steering systems, and linkages.
+- Perform routine and scheduled maintenance services, such as oil changes, lubrications, and tune-ups.
+- Plan work procedures, using charts, technical manuals, and experience.
+- Follow checklists to ensure all important parts are examined, including belts, hoses, steering systems, spark plugs, brake and fuel systems, wheel bearings, and other potentially troublesome areas.
+- Maintain cleanliness of work area.
+- Change spark plugs, fuel filters, air filters, and batteries in hybrid electric vehicles.
+- Repair and service air conditioning, heating, engine cooling, and electrical systems.
+- Disassemble units and inspect parts for wear, using micrometers, calipers, and gauges.
+- Test electronic computer components in automobiles to ensure proper operation.
+- Overhaul or replace carburetors, blowers, generators, distributors, starters, and pumps.
+- Repair or replace parts such as pistons, rods, gears, valves, and bearings.
+- Rewire ignition systems, lights, and instrument panels.
+- Troubleshoot fuel, ignition, and emissions control systems, using electronic testing equipment.
+- Tune automobile engines to ensure proper and efficient functioning.
+- Repair, replace, or adjust defective fuel injectors, carburetor parts, and gasoline filters.
+- Install, adjust, or repair hydraulic or electromagnetic automatic lift mechanisms used to raise and lower automobile windows, seats, and tops.
+- Conduct visual inspections of compressed natural gas fuel systems to identify cracks, gouges, abrasions, discoloration, broken fibers, loose brackets, damaged gaskets, or other problems.
+- Rebuild parts, such as crankshafts and cylinder blocks.
+- Diagnose and replace or repair engine management systems or related sensors for flexible fuel vehicles (FFVs) with ignition timing, fuel rate, alcohol concentration, or air-to-fuel ratio malfunctions.
+- Repair or rebuild transmissions.
+- Retrofit vehicle fuel systems with aftermarket products, such as vapor transfer devices, evaporation control devices, swirlers, lean burn devices, and friction reduction devices, to enhance combustion and fuel efficiency.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 4.8/5 | Level: 6.28/7)
+- Customer and Personal Service (Importance: 3.29/5 | Level: 3.13/7)
+- Computers and Electronics (Importance: 3.26/5 | Level: 3.61/7)
+- Engineering and Technology (Importance: 3.02/5 | Level: 3.05/7)
+- English Language (Importance: 2.94/5 | Level: 2.76/7)
+- Transportation (Importance: 2.81/5 | Level: 2.82/7)
+- Education and Training (Importance: 2.78/5 | Level: 2.45/7)
+- Public Safety and Security (Importance: 2.74/5 | Level: 2.05/7)
+- Mathematics (Importance: 2.65/5 | Level: 2.58/7)
+- Physics (Importance: 2.5/5 | Level: 2.51/7)
+- Production and Processing (Importance: 2.35/5 | Level: 1.69/7)
+- Design (Importance: 2.34/5 | Level: 1.45/7)
+- Administration and Management (Importance: 2.33/5 | Level: 2.52/7)
+- Chemistry (Importance: 2.28/5 | Level: 2.63/7)
+- Administrative (Importance: 2.16/5 | Level: 2.39/7)
+- Sales and Marketing (Importance: 2.11/5 | Level: 1.47/7)
+- Telecommunications (Importance: 2.04/5 | Level: 1.31/7)
+- Law and Government (Importance: 1.98/5 | Level: 1.24/7)
+- Building and Construction (Importance: 1.83/5 | Level: 1.25/7)
+- Personnel and Human Resources (Importance: 1.67/5 | Level: 0.79/7)
+- Economics and Accounting (Importance: 1.57/5 | Level: 0.98/7)
+- Communications and Media (Importance: 1.49/5 | Level: 1.02/7)
+- Geography (Importance: 1.37/5 | Level: 0.49/7)
+- Psychology (Importance: 1.27/5 | Level: 0.52/7)
+- Medicine and Dentistry (Importance: 1.19/5 | Level: 0.34/7)
+- Therapy and Counseling (Importance: 1.18/5 | Level: 0.44/7)
+- Foreign Language (Importance: 1.18/5 | Level: 0.32/7)
+- Biology (Importance: 1.12/5 | Level: 0.21/7)
+- Sociology and Anthropology (Importance: 1.12/5 | Level: 0.23/7)
+- Food Production (Importance: 1.09/5 | Level: 0.15/7)
+- History and Archeology (Importance: 1.06/5 | Level: 0.12/7)
+- Fine Arts (Importance: 1.03/5 | Level: 0.06/7)
+- Philosophy and Theology (Importance: 1.03/5 | Level: 0.09/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Repairing (Importance: 3.75/5 | Level: 3.75/7)
+- Troubleshooting (Importance: 3.62/5 | Level: 3.75/7)
+- Operations Monitoring (Importance: 3.5/5 | Level: 3.25/7)
+- Critical Thinking (Importance: 3.5/5 | Level: 3.5/7)
+- Equipment Maintenance (Importance: 3.38/5 | Level: 3.5/7)
+- Judgment and Decision Making (Importance: 3.25/5 | Level: 3.12/7)
+- Active Listening (Importance: 3.25/5 | Level: 2.75/7)
+- Monitoring (Importance: 3.25/5 | Level: 2.75/7)
+- Operation and Control (Importance: 3.25/5 | Level: 2.88/7)
+- Quality Control Analysis (Importance: 3.12/5 | Level: 3.0/7)
+- Speaking (Importance: 3.12/5 | Level: 2.75/7)
+- Complex Problem Solving (Importance: 3.12/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 2.75/7)
+- Systems Analysis (Importance: 3.0/5 | Level: 2.88/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 2.62/7)
+- Equipment Selection (Importance: 3.0/5 | Level: 2.75/7)
+- Systems Evaluation (Importance: 3.0/5 | Level: 2.88/7)
+- Service Orientation (Importance: 2.88/5 | Level: 2.88/7)
+- Coordination (Importance: 2.88/5 | Level: 2.88/7)
+- Reading Comprehension (Importance: 2.88/5 | Level: 2.62/7)
+- Active Learning (Importance: 2.75/5 | Level: 2.62/7)
+- Installation (Importance: 2.75/5 | Level: 3.12/7)
+- Writing (Importance: 2.75/5 | Level: 2.38/7)
+- Persuasion (Importance: 2.62/5 | Level: 2.5/7)
+- Learning Strategies (Importance: 2.62/5 | Level: 2.62/7)
+- Instructing (Importance: 2.5/5 | Level: 2.75/7)
+- Negotiation (Importance: 2.25/5 | Level: 2.12/7)
+- Mathematics (Importance: 2.25/5 | Level: 2.12/7)
+- Management of Personnel Resources (Importance: 2.25/5 | Level: 2.0/7)
+- Management of Financial Resources (Importance: 1.88/5 | Level: 1.12/7)
+- Management of Material Resources (Importance: 1.75/5 | Level: 1.25/7)
+- Technology Design (Importance: 1.75/5 | Level: 1.0/7)
+- Programming (Importance: 1.62/5 | Level: 0.75/7)
+- Science (Importance: 1.5/5 | Level: 0.88/7)
+- Operations Analysis (Importance: 1.38/5 | Level: 0.5/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Alliance Automotive Shop Controller (Tech skill type: Facilities management software)
+- Amcom AUTOS2000 (Tech skill type: Facilities management software)
+- Apple Safari (Tech skill type: Internet browser software)
+- AutoZone ALLDATA (Tech skill type: Data base user interface and query software)
+- Blue Streak Electronics Buell Diagnostic (Tech skill type: Analytical or scientific software)
+- CODA Engine Analysis System (Tech skill type: Analytical or scientific software)
+- Computer aided manufacturing CAM software (Tech skill type: Computer aided manufacturing CAM software)
+- Database software (Tech skill type: Data base user interface and query software)
+- Estimating software (Tech skill type: Project management software)
+- Genisys Fast Fixes (Tech skill type: Data base reporting software)
+- Hunter WinAlign (Tech skill type: Analytical or scientific software)
+- IBM Notes (Tech skill type: Electronic mail software)
+- Internet browser software (Tech skill type: Internet browser software)
+- Mainsaver Asset Management (Tech skill type: Facilities management software)
+- Microsoft Edge (Tech skill type: Internet browser software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Mitchell Manager Invoicing System (Tech skill type: Accounting software)
+- Mitchell OnDemand5 Manager (Tech skill type: Facilities management software)
+- Mozilla Firefox (Tech skill type: Internet browser software)
+- Nexiq Tech HDS Suite for Palm (Tech skill type: Analytical or scientific software)
+- Online service manual database software (Tech skill type: Information retrieval or search software)
+- Recordkeeping software (Tech skill type: Data base user interface and query software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Scheduling software (Tech skill type: Calendar and scheduling software)
+- Scott Systems MaxxTraxx Pro (Tech skill type: Facilities management software)
+- Snap-On ShopKey (Tech skill type: Facilities management software)
+- SPX/OTC Genisys ConnecTech PC (Tech skill type: Analytical or scientific software)
+- Technical manual database software (Tech skill type: Information retrieval or search software)
+- Vehicle management software (Tech skill type: Data base user interface and query software)
+- Work order management software (Tech skill type: Data base user interface and query software)
+- YouTube (Tech skill type: Video creation and editing software)
+
+## TOOLS USED
+- 2-channel lab scopes (Tool type: Multimeters)
+- 3 pound sledge hammers (Tool type: Hammers)
+- 5 pound sledge hammers (Tool type: Hammers)
+- 5-gas emissions analyzers (Tool type: Multi gas monitors)
+- Adjustable wrenches (Tool type: Adjustable wrenches)
+- Air chisels (Tool type: Pneumatic hammer)
+- Air compressors (Tool type: Air compressors)
+- Air conditioner chargers (Tool type: Refrigerant compressors)
+- Air drills (Tool type: Pneumatic drill)
+- Air hammers (Tool type: Pneumatic hammer)
+- Air sanders (Tool type: Pneumatic sanding machines)
+- Air wrenches (Tool type: Pneumatic impact wrenches)
+- Alignment wrenches (Tool type: Specialty wrenches)
+- Allen wrenches (Tool type: Hex keys)
+- Alternating current/direct current AC/DC inductive current clamps (Tool type: Voltage or current meters)
+- Alternator testers (Tool type: Voltage or current meters)
+- Ammeters (Tool type: Ammeters)
+- Angle drills (Tool type: Power drills)
+- Antenna socket sets (Tool type: Socket sets)
+- Anti-lock braking system ABS/air bag scan tools (Tool type: Organic light emitting displays)
+- Antifreeze recovery equipment (Tool type: Vacuum pumps)
+- Anvils (Tool type: Anvils)
+- Auto body dollies (Tool type: Dollies)
+- Auto scanners (Tool type: Organic light emitting displays)
+- Automotive on-board diagnostics scanners (Tool type: Organic light emitting displays)
+- Awls (Tool type: Awls)
+- Ball joint separators (Tool type: Pullers)
+- Ball peen hammers (Tool type: Ball peen hammer)
+- Bandsaws (Tool type: Metal band sawing machine)
+- Battery chargers (Tool type: Battery chargers)
+- Battery hydrometers (Tool type: Battery acid hydrometers)
+- Battery jump starters (Tool type: Battery chargers)
+- Battery load testers (Tool type: Battery testers)
+- Battery/alternator testers (Tool type: Battery testers)
+- Bearing pullers (Tool type: Pullers)
+- Bench lathes (Tool type: Tracer or duplicating or contouring lathe)
+- Bolt cutters (Tool type: Bolt cutters)
+- Bore gauges (Tool type: Hole gauge)
+- Borescopes (Tool type: Borescope inspection equipment)
+- Box end wrenches (Tool type: Box end wrenches)
+- Brake bleeders (Tool type: Pneumatic vacuum equipment)
+- Brake cylinder hones (Tool type: Automotive honing machine)
+- Brake drum lathes (Tool type: Brake drum lathe)
+- Brake line flaring tools (Tool type: Pipe bending tools)
+- Brake rotor hones (Tool type: Automotive honing machine)
+- Brake shoe tools (Tool type: Brake repair kits)
+- Brake tools (Tool type: Brake repair kits)
+- Brass hammers (Tool type: Hammers)
+- Breaker bars (Tool type: Specialty wrenches)
+- Buffers (Tool type: Power buffers)
+- Butterfly air wrenches (Tool type: Pneumatic impact wrenches)
+- Cable cutters (Tool type: Wire or cable cutter)
+- Calipers (Tool type: Calipers)
+- Capacity testers (Tool type: Capacitance meters)
+- Carbon scrapers (Tool type: Trim or molding tools)
+- Catalytic combustion analyzers (Tool type: Catalytic combustion analyzers)
+- Center punches (Tool type: Punches or nail sets or drifts)
+- Chain hoists (Tool type: Hoists)
+- Chain wrenches (Tool type: Specialty wrenches)
+- Channel lock pliers (Tool type: Locking pliers)
+- Circuit testers (Tool type: Circuit tester)
+- Circular saws (Tool type: Power saws)
+- Clamp-on multimeters (Tool type: Multimeters)
+- Claw hammers (Tool type: Claw hammer)
+- Clutch holding tools (Tool type: Hand clamps)
+- Clutch wrenches (Tool type: Specialty wrenches)
+- Code readers (Tool type: Bar code reader equipment)
+- Coil testers (Tool type: Growler tester)
+- Cold chisels (Tool type: Cold chisels)
+- Combination pliers (Tool type: Combination pliers)
+- Combination wrenches (Tool type: Combination wrenches)
+- Combustible gas detectors (Tool type: Gas detectors)
+- Combustion leak detectors (Tool type: Leak testing equipment)
+- Compression analyzers (Tool type: Compression testers)
+- Compression testers (Tool type: Compression testers)
+- Computerized engine analyzers (Tool type: Digital testers)
+- Computerized scanners (Tool type: Portable data input terminals)
+- Computerized suspension analyzers (Tool type: Wheel alignment equipment)
+- Continuity testers (Tool type: Circuit tester)
+- Crescent wrenches (Tool type: Open end wrenches)
+- Cutting torches (Tool type: Blow torch)
+- Cylinder leakage testers (Tool type: Compression testers)
+- Deburring tools (Tool type: Deburring tool)
+- Dent pullers (Tool type: Pullers)
+- Desktop computers (Tool type: Desktop computers)
+- Diagnostic code readers (Tool type: Organic light emitting displays)
+- Diagonal cutting pliers (Tool type: Diagonal cut pliers)
+- Dial calipers (Tool type: Calipers)
+- Dial gauges (Tool type: Dial indicator or dial gauge)
+- Dial indicators (Tool type: Dial indicator or dial gauge)
+- Diesel modulator shift testers (Tool type: Pressure indicators)
+- Disc brake pad spreaders (Tool type: Brake repair kits)
+- Dolly blocks (Tool type: Anvils)
+- Drill bit sets (Tool type: Drill bit set)
+- Drill presses (Tool type: Drill press or radial drill)
+- Dwell meters (Tool type: Engine ignition systems)
+- Dynamometers (Tool type: Dynamometers)
+- Electric drills (Tool type: Power drills)
+- Engine cylinder hones (Tool type: Automotive honing machine)
+- Engine oil pressure testers (Tool type: Pressure indicators)
+- Engine stands (Tool type: Engine or vehicle stands)
+- Exhaust analyzers (Tool type: Automotive exhaust emission analyzers)
+- Exhaust/tail pipe cutters (Tool type: Pipe or tube cutter)
+- External snap ring pliers (Tool type: Retaining ring pliers)
+- Feeler gauges (Tool type: Feeler gauges)
+- Filter wrenches (Tool type: Specialty wrenches)
+- Flare nut wrenches (Tool type: Specialty wrenches)
+- Flaring tools (Tool type: Power flaring tool)
+- Flat files (Tool type: Flat hand file)
+- Forklifts (Tool type: Forklifts)
+- Frame racks (Tool type: Engine or vehicle stands)
+- Freon recovery equipment (Tool type: Vacuum pumps)
+- Front end alignment equipment (Tool type: Wheel alignment equipment)
+- Fuel injection cleaners (Tool type: Automotive cleaners)
+- Fuel pressure testers (Tool type: Pressure indicators)
+- Gas welding equipment (Tool type: Gas welding or brazing or cutting apparatus)
+- Gasket scrapers (Tool type: Cleaning scrapers)
+- Gear puller tools (Tool type: Pullers)
+- Gear pullers (Tool type: Pullers)
+- Gear wrenches (Tool type: Specialty wrenches)
+- Graphing scanners (Tool type: Organic light emitting displays)
+- Grease guns (Tool type: Grease guns)
+- Grinding equipment (Tool type: Power grinders)
+- Hacksaws (Tool type: Hacksaw)
+- Hammers (Tool type: Hammers)
+- Hand clamps (Tool type: Hand clamps)
+- Hand pullers (Tool type: Pullers)
+- Handheld computer diagnostic equipment (Tool type: Digital testers)
+- Heat guns (Tool type: Heat guns)
+- Hex keys (Tool type: Hex keys)
+- High velocity low pressure HVLP spray guns (Tool type: Paint sprayers)
+- Hoists (Tool type: Hoists)
+- Hose cutters (Tool type: Hose cutter)
+- Hydraulic bleed tools (Tool type: Pneumatic vacuum equipment)
+- Hydraulic presses (Tool type: Hydraulic press frames)
+- Hydraulic shop presses (Tool type: Hydraulic press brake)
+- Ignition module testers (Tool type: Voltage or current meters)
+- Ignition testers (Tool type: Spark plug tester)
+- Impact guns (Tool type: Compressed air gun)
+- Impact wrenches (Tool type: Impact wrenches)
+- In-line ignition spark testers (Tool type: Voltage or current meters)
+- Infrared digital thermometers (Tool type: Heat tracing equipment)
+- Infrared thermometers (Tool type: Heat tracing equipment)
+- Inspection mirrors (Tool type: Inspection mirror)
+- Insulated pliers (Tool type: Linemans pliers)
+- Internal retaining ring pliers (Tool type: Retaining ring pliers)
+- Jack stands (Tool type: Engine or vehicle stands)
+- Jacks (Tool type: Jacks)
+- Laser levels (Tool type: Levels)
+- Laser photo tachometers (Tool type: Tachometers)
+- Laser printers (Tool type: Laser printers)
+- Leak detecting diagnostic smoke machines (Tool type: Leak testing equipment)
+- Leak detection smoke machines (Tool type: Leak testing equipment)
+- Leak detectors (Tool type: Liquid leak detectors)
+- Light emitting diode LED circuit testers (Tool type: Integrated circuit testers)
+- Light emitting diode LED leak detector lights (Tool type: Leak testing equipment)
+- Locking C-clamps (Tool type: C clamps)
+- Locking jaw pliers (Tool type: Locking pliers)
+- Locking wrenches (Tool type: Specialty wrenches)
+- Long nose pliers (Tool type: Longnose pliers)
+- Lug wrenches (Tool type: Wheel nut or lug wrench)
+- Magnetic pickup tools (Tool type: Magnetic tools)
+- Manifold gauge sets (Tool type: Pressure indicators)
+- Mechanics' stethoscopes (Tool type: Acoustic sensors)
+- Metal cutting dies (Tool type: Cutting die)
+- Metal cutting taps (Tool type: Taps)
+- Metal inert gas MIG welders (Tool type: Metal inert gas welding machine)
+- Micrometers (Tool type: Micrometers)
+- Mini circuit testers (Tool type: Integrated circuit testers)
+- Modular diagnostic information systems (Tool type: Organic light emitting displays)
+- Multimeters (Tool type: Multimeters)
+- Needlenose pliers (Tool type: Needlenose pliers)
+- Nibblers (Tool type: Nibblers)
+- Non-contact thermometers (Tool type: Remote reading thermometers)
+- Nut drivers (Tool type: Nut drivers)
+- Offset brake wrenches (Tool type: Specialty wrenches)
+- Ohmmeters (Tool type: Ohmmeters)
+- Oil filter wrenches (Tool type: Specialty wrenches)
+- Oil injectors (Tool type: Oil gun)
+- Oil pressure gauges (Tool type: Pressure indicators)
+- Open end wrenches (Tool type: Open end wrenches)
+- Oscilloscopes (Tool type: Oscilloscopes)
+- Oxyacetylene welding equipment (Tool type: Gas welding or brazing or cutting apparatus)
+- Oxygen sensors (Tool type: Oxygen sensors)
+- Paint sprayers (Tool type: Paint sprayers)
+- Personal computers (Tool type: Personal computers)
+- Phillips head screwdrivers (Tool type: Screwdrivers)
+- Picks (Tool type: Picks)
+- Pin punches (Tool type: Punches or nail sets or drifts)
+- Pipe wrenches (Tool type: Pipe wrenches)
+- Plasma cutters (Tool type: Plasma arc welding machine)
+- Plastic tip hammers (Tool type: Hammers)
+- Pneumatic chassis lubriguns (Tool type: Compressed air gun)
+- Pneumatic drills (Tool type: Pneumatic drill)
+- Pneumatic fluid evacuators (Tool type: Pneumatic vacuum equipment)
+- Pneumatic orbital sanders (Tool type: Pneumatic sanding machines)
+- Pneumatic wrenches (Tool type: Pneumatic impact wrenches)
+- Polishers (Tool type: Power buffers)
+- Portable exhaust analyzers (Tool type: Automotive exhaust emission analyzers)
+- Power drills (Tool type: Power drills)
+- Power grinders (Tool type: Power grinders)
+- Power pullers (Tool type: Pullers)
+- Power sanders (Tool type: Power sanders)
+- Power saws (Tool type: Power saws)
+- Power washers (Tool type: Pressure or steam cleaners)
+- Pressure brake bleeders (Tool type: Pneumatic vacuum equipment)
+- Protective ear muffs (Tool type: Acoustic ear muffs or defenders)
+- Protective gloves (Tool type: Protective gloves)
+- Pry bars (Tool type: Pry bars)
+- Punches (Tool type: Punches or nail sets or drifts)
+- Radiator hose pinchoff pliers (Tool type: Adjustable widemouth pliers)
+- Ratcheting box wrenches (Tool type: Box end wrenches)
+- Ratcheting gear wrenches (Tool type: Specialty wrenches)
+- Ratchets (Tool type: Ratchets)
+- Razor knives (Tool type: Razor knives)
+- Reamers (Tool type: Hand reamer)
+- Reciprocating saws (Tool type: Power saws)
+- Refrigerant gas analyzers (Tool type: Multi gas monitors)
+- Refrigerant identifiers (Tool type: Multi gas monitors)
+- Refrigerant leak detectors (Tool type: Liquid leak detectors)
+- Remote starter switches (Tool type: Motor starter controls)
+- Revolutions per minute RPM gauges (Tool type: Speed sensors)
+- Rivet guns (Tool type: Power riveter)
+- Riveting tools (Tool type: Rivet tools)
+- Rotor/drum brake lathes (Tool type: Brake drum lathe)
+- Safety glasses (Tool type: Safety glasses)
+- Safety shoes (Tool type: Safety shoes)
+- Sandblasters (Tool type: Pneumatic sanding machines)
+- Scan tools (Tool type: Organic light emitting displays)
+- Scrapers (Tool type: Trim or molding tools)
+- Screw extractor sets (Tool type: Screw extractors)
+- Screwdrivers (Tool type: Screwdrivers)
+- Scribers (Tool type: Scribers)
+- Shears (Tool type: Shears)
+- Shielded arc welding tools (Tool type: Shielded metal arc welding or stick welding machine)
+- Shoe retaining spring tools (Tool type: Brake repair kits)
+- Single-cut mill saw files (Tool type: Mill saw file)
+- Slide hammers (Tool type: Pullers)
+- Smoke machines (Tool type: Automotive exhaust emission analyzers)
+- Socket wrench sets (Tool type: Socket sets)
+- Socket wrenches (Tool type: Sockets)
+- Soft face hammers (Tool type: Hammers)
+- Soldering irons (Tool type: Soldering iron)
+- Spark plug gapping tools (Tool type: Feeler gauges)
+- Spark plug sockets (Tool type: Spark plug wrench)
+- Spark plug testers (Tool type: Voltage or current meters)
+- Spoons (Tool type: Trim or molding tools)
+- Spot welding kits (Tool type: Welding or soldering kit)
+- Steam cleaning equipment (Tool type: Pressure or steam cleaners)
+- Steering wheel column pivot pin pullers (Tool type: Steering wheel puller)
+- Stickleback rasps (Tool type: Rasps)
+- Straight blade screwdrivers (Tool type: Screwdrivers)
+- Strap wrenches (Tool type: Strap wrenches)
+- Strobe wheel balancing systems for heavy vehicles (Tool type: Wheel balancing equipment)
+- Tachometers (Tool type: Tachometers)
+- Tape measures (Tool type: Tape measures)
+- Taper punches (Tool type: Punches or nail sets or drifts)
+- Test lights (Tool type: Circuit tester)
+- Timing lights (Tool type: Speed sensors)
+- Tire changing machines (Tool type: Tire changing machines)
+- Tire pressure gauges (Tool type: Tire pressure gauge)
+- Tongue and groove pliers (Tool type: Tongue and groove pliers)
+- Torque wrenches (Tool type: Torque wrenches)
+- Torx keys (Tool type: Torx keys)
+- Torx screwdrivers (Tool type: Torx keys)
+- Transmission jacks (Tool type: Jacks)
+- Tube cutters (Tool type: Pipe or tube cutter)
+- Tubing benders (Tool type: Tube bending machine)
+- Tubing cutters (Tool type: Pipe or tube cutter)
+- Two way radios (Tool type: Two way radios)
+- Ultrasonic diagnostic kits (Tool type: Ultrasonic examination equipment)
+- Utility knives (Tool type: Utility knives)
+- Vacuum gauges (Tool type: Vacuum gauges)
+- Vacuum pumps (Tool type: Vacuum pumps)
+- Valve seating equipment (Tool type: Valve seat cutter)
+- Vises (Tool type: Bench vises)
+- Voltmeters (Tool type: Voltage or current meters)
+- Welding masks (Tool type: Welding masks)
+- Wheel alignment machines (Tool type: Wheel alignment equipment)
+- Wheel balancers (Tool type: Wheel balancing equipment)
+- Wheel weight hammers (Tool type: Hammers)
+- Winches (Tool type: Winches)
+- Wire brushes (Tool type: Wire brushes)
+- Wire cutters (Tool type: Wire cutters)
+- Wire strippers (Tool type: Stripping tools)
+- Workshop cranes (Tool type: Workshop cranes)
+- Workshop presses (Tool type: Drill press or radial drill)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Important
+- Deal With External Customers or the Public in General: Very important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a month or more but not every week
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Once a month or more but not every week
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Every day
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Every day
+- Exposed to Hazardous Equipment: Every day
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Every day
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Every day
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Moderate responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Extremely important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Every day
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Never
+- Indoors, Not Environmentally Controlled: Every day
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Once a week or more but not every day
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Slightly close (e.g., shared office)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: More than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Continually or almost continually
+- Spend Time Sitting: Never
+- Spend Time Standing: Continually or almost continually
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Limited responsibility
+- Work With or Contribute to a Work Group or Team: Important
+- Written Letters and Memos: Every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Rail Car Repairers
+- Bus and Truck Mechanics and Diesel Engine Specialists
+- Electric Motor, Power Tool, and Related Repairers
+- Engine and Other Machine Assemblers
+- Motorboat Mechanics and Service Technicians
+- Motorcycle Mechanics
+- Control and Valve Installers and Repairers, Except Mechanical Door
+- Automotive Engineering Technicians
+- Automotive Body and Related Repairers
+- Electronic Equipment Installers and Repairers, Motor Vehicles
+- Mobile Heavy Equipment Mechanics, Except Engines
+- Industrial Machinery Mechanics
+- Outdoor Power Equipment and Other Small Engine Mechanics
+- Aircraft Mechanics and Service Technicians
+- Maintenance Workers, Machinery
+- Electrical and Electronics Installers and Repairers, Transportation Equipment
+- Automotive Engineers
+- Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+- Avionics Technicians
+- Tire Repairers and Changers

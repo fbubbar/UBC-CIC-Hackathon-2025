@@ -1,0 +1,211 @@
+Job Title: Grinding and Polishing Workers, Hand
+O*NET-SOC Code: 51-9022.00
+
+# DESCRIPTION
+Grind, sand, or polish, using hand tools or hand-held power tools, a variety of metal, wood, stone, clay, plastic, or glass objects. Includes chippers, buffers, and finishers.
+
+# TASKS
+- Verify quality of finished workpieces by inspecting them, comparing them to templates, measuring their dimensions, or testing them in working machinery.
+- Grind, sand, clean, or polish objects or parts to correct defects or to prepare surfaces for further finishing, using hand tools and power tools.
+- Measure and mark equipment, objects, or parts to ensure grinding and polishing standards are met.
+- Trim, scrape, or deburr objects or parts, using chisels, scrapers, and other hand tools and equipment.
+- Mark defects, such as knotholes, cracks, and splits, for repair.
+- Study blueprints or layouts to determine how to lay out workpieces or saw out templates.
+- Move controls to adjust, start, or stop equipment during grinding and polishing processes.
+- Load and adjust workpieces onto equipment or work tables, using hand tools.
+- Repair and maintain equipment, objects, or parts, using hand tools.
+- Select files or other abrasives, according to materials, sizes and shapes of workpieces, amount of stock to be removed, finishes specified, and steps in finishing processes.
+- File grooved, contoured, and irregular surfaces of metal objects, such as metalworking dies and machine parts, to conform to templates, other parts, layouts, or blueprint specifications.
+- Sharpen abrasive grinding tools, using machines and hand tools.
+- Transfer equipment, objects, or parts to specified work areas, using moving devices.
+- Remove completed workpieces from equipment or work tables, using hand tools, and place workpieces in containers.
+- Record product and processing data on specified forms.
+- Apply solutions and chemicals to equipment, objects, or parts, using hand tools.
+- Clean brass particles from files by drawing file cards through file grooves.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Production and Processing (Importance: 3.65/5 | Level: 3.67/7)
+- Mechanical (Importance: 3.63/5 | Level: 4.12/7)
+- English Language (Importance: 3.13/5 | Level: 2.58/7)
+- Mathematics (Importance: 2.76/5 | Level: 2.35/7)
+- Education and Training (Importance: 2.66/5 | Level: 2.28/7)
+- Customer and Personal Service (Importance: 2.63/5 | Level: 2.41/7)
+- Engineering and Technology (Importance: 2.49/5 | Level: 1.92/7)
+- Administration and Management (Importance: 2.43/5 | Level: 1.85/7)
+- Public Safety and Security (Importance: 2.31/5 | Level: 1.53/7)
+- Computers and Electronics (Importance: 2.3/5 | Level: 1.8/7)
+- Design (Importance: 2.29/5 | Level: 1.52/7)
+- Administrative (Importance: 2.06/5 | Level: 1.71/7)
+- Personnel and Human Resources (Importance: 1.97/5 | Level: 1.11/7)
+- Transportation (Importance: 1.92/5 | Level: 0.67/7)
+- Building and Construction (Importance: 1.87/5 | Level: 1.54/7)
+- Psychology (Importance: 1.74/5 | Level: 1.01/7)
+- Telecommunications (Importance: 1.72/5 | Level: 0.96/7)
+- Sales and Marketing (Importance: 1.71/5 | Level: 0.56/7)
+- Chemistry (Importance: 1.59/5 | Level: 0.37/7)
+- Economics and Accounting (Importance: 1.56/5 | Level: 0.14/7)
+- Physics (Importance: 1.56/5 | Level: 0.12/7)
+- Food Production (Importance: 1.52/5 | Level: 0.06/7)
+- Fine Arts (Importance: 1.49/5 | Level: 0.85/7)
+- Law and Government (Importance: 1.45/5 | Level: 0.34/7)
+- Communications and Media (Importance: 1.38/5 | Level: 0.73/7)
+- Philosophy and Theology (Importance: 1.25/5 | Level: 0.04/7)
+- Therapy and Counseling (Importance: 1.14/5 | Level: 0.03/7)
+- History and Archeology (Importance: 1.13/5 | Level: 0.02/7)
+- Biology (Importance: 1.02/5 | Level: 0.03/7)
+- Medicine and Dentistry (Importance: 1.02/5 | Level: 0.03/7)
+- Foreign Language (Importance: 1.01/5 | Level: 0.02/7)
+- Sociology and Anthropology (Importance: 1.01/5 | Level: 0.02/7)
+- Geography (Importance: 1.01/5 | Level: 0.03/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Quality Control Analysis (Importance: 3.38/5 | Level: 3.0/7)
+- Operations Monitoring (Importance: 3.25/5 | Level: 3.25/7)
+- Equipment Maintenance (Importance: 3.12/5 | Level: 2.88/7)
+- Operation and Control (Importance: 3.12/5 | Level: 3.0/7)
+- Repairing (Importance: 3.0/5 | Level: 2.75/7)
+- Critical Thinking (Importance: 2.88/5 | Level: 2.62/7)
+- Troubleshooting (Importance: 2.88/5 | Level: 2.88/7)
+- Active Listening (Importance: 2.88/5 | Level: 2.75/7)
+- Speaking (Importance: 2.88/5 | Level: 2.38/7)
+- Judgment and Decision Making (Importance: 2.75/5 | Level: 2.38/7)
+- Reading Comprehension (Importance: 2.75/5 | Level: 2.62/7)
+- Complex Problem Solving (Importance: 2.75/5 | Level: 2.5/7)
+- Monitoring (Importance: 2.75/5 | Level: 2.75/7)
+- Time Management (Importance: 2.75/5 | Level: 2.5/7)
+- Coordination (Importance: 2.62/5 | Level: 2.38/7)
+- Equipment Selection (Importance: 2.62/5 | Level: 2.12/7)
+- Social Perceptiveness (Importance: 2.62/5 | Level: 2.25/7)
+- Active Learning (Importance: 2.38/5 | Level: 2.25/7)
+- Writing (Importance: 2.38/5 | Level: 2.25/7)
+- Systems Analysis (Importance: 2.25/5 | Level: 2.0/7)
+- Instructing (Importance: 2.25/5 | Level: 2.12/7)
+- Service Orientation (Importance: 2.25/5 | Level: 2.12/7)
+- Persuasion (Importance: 2.25/5 | Level: 2.25/7)
+- Mathematics (Importance: 2.12/5 | Level: 1.75/7)
+- Management of Personnel Resources (Importance: 2.12/5 | Level: 2.0/7)
+- Negotiation (Importance: 2.12/5 | Level: 1.88/7)
+- Learning Strategies (Importance: 2.12/5 | Level: 2.0/7)
+- Systems Evaluation (Importance: 2.12/5 | Level: 2.12/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.12/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.0/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 1.0/7)
+- Operations Analysis (Importance: 1.62/5 | Level: 0.75/7)
+- Programming (Importance: 1.25/5 | Level: 0.25/7)
+- Science (Importance: 1.12/5 | Level: 0.25/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Word (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Air grinders (Tool type: Pneumatic grinders)
+- Angle grinders (Tool type: Angle grinder)
+- Belt sanders (Tool type: Belt sander)
+- Buffing wheels (Tool type: Power buffers)
+- Cleaning scrapers (Tool type: Cleaning scrapers)
+- Dial bore gauges (Tool type: Hole gauge)
+- Dial indicators (Tool type: Dial indicator or dial gauge)
+- Digital height gauges (Tool type: Height gauges)
+- Digital micrometers (Tool type: Micrometers)
+- Electric sander-polishers (Tool type: Power sanders)
+- File cards (Tool type: Wire brushes)
+- Finishers (Tool type: Power grinders)
+- Flat cold chisels (Tool type: Cold chisels)
+- Measuring tapes (Tool type: Tape measures)
+- Orbit polishers (Tool type: Abrasive polishers)
+- Orbital buffers (Tool type: Power buffers)
+- Orbital sanders (Tool type: Orbital sander)
+- Pad sanders (Tool type: Power sanders)
+- Power chippers (Tool type: Power chippers)
+- Precision file sets (Tool type: Precision file)
+- Profile meters (Tool type: Surface testers)
+- Straight grinders (Tool type: Power grinders)
+- Tire buffers (Tool type: Power buffers)
+
+# WORK CONTEXT
+- Conflict Situations: Once a month or more but not every week
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Fairly important
+- Deal With External Customers or the Public in General: Not important at all
+- Dealing With Unpleasant, Angry, or Discourteous People: Never
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Moderately automated
+- Determine Tasks, Priorities and Goals: Limited freedom
+- E-Mail: Never
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Every day
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Every day
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Once a week or more but not every day
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Once a year or more but not every month
+- Health and Safety of Other Workers: High responsibility
+- Impact of Decisions on Co-workers or Company Results: Minor results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Every day
+- Level of Competition: Not at all competitive
+- Outdoors, Exposed to All Weather Conditions: Once a month or more but not every week
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Very important
+- Physical Proximity: Slightly close (e.g., shared office)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: More than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Continually or almost continually
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: Continually or almost continually
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Never
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Moderate responsibility
+- Work With or Contribute to a Work Group or Team: Very important
+- Written Letters and Memos: Once a week or more but not every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Tool Grinders, Filers, and Sharpeners
+- Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+- Cutting and Slicing Machine Setters, Operators, and Tenders
+- Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders
+- Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic
+- Molders, Shapers, and Casters, Except Metal and Plastic
+- Tool and Die Makers
+- Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic
+- Machine Feeders and Offbearers
+- Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Rolling Machine Setters, Operators, and Tenders, Metal and Plastic
+- Cutters and Trimmers, Hand
+- Sawing Machine Setters, Operators, and Tenders, Wood
+- Shoe Machine Operators and Tenders
+- Forging Machine Setters, Operators, and Tenders, Metal and Plastic
+- Industrial Machinery Mechanics
+- Adhesive Bonding Machine Operators and Tenders
+- Maintenance Workers, Machinery

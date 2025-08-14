@@ -1,0 +1,241 @@
+Job Title: Geothermal Technicians
+O*NET-SOC Code: 49-9099.01
+
+# DESCRIPTION
+Perform technical activities at power plants or individual installations necessary for the generation of power from geothermal energy sources. Monitor and control operating activities at geothermal power generation facilities and perform maintenance and repairs as necessary. Install, test, and maintain residential and commercial geothermal heat pumps.
+
+# TASKS
+- Monitor and adjust operations of geothermal power plant equipment or systems.
+- Prepare and maintain logs, reports, or other documentation of work performed.
+- Identify and correct malfunctions of geothermal plant equipment, electrical systems, instrumentation, or controls.
+- Collect and record data associated with operating geothermal power plants or well fields.
+- Determine whether emergency or auxiliary systems will be needed to keep properties heated or cooled in extreme weather conditions.
+- Perform pre- and post-installation pressure, flow, and related tests of vertical and horizontal geothermal loop piping.
+- Identify equipment options, such as compressors, and make appropriate selections.
+- Adjust power production systems to meet load and distribution demands.
+- Maintain electrical switchgear, process controls, transmitters, gauges, and control equipment in accordance with geothermal plant procedures.
+- Calculate heat loss and heat gain factors for residential properties to determine heating and cooling required by installed geothermal systems.
+- Maintain, calibrate, or repair plant instrumentation, control, and electronic devices in geothermal plants.
+- Install and maintain geothermal plant electrical protection equipment.
+- Design and lay out geothermal heat systems according to property characteristics, heating and cooling requirements, piping and equipment requirements, applicable regulations, or other factors.
+- Install and maintain geothermal system instrumentation or controls.
+- Prepare newly installed geothermal heat systems for operation by flushing, purging, or other actions.
+- Weld piping, such as high density polyethylene (HDPE) piping, using techniques such as butt, socket, side-wall, and electro-fusion welding.
+- Test water sources for factors, such as flow volume and contaminant presence.
+- Install, maintain, or repair ground or water source-coupled heat pumps to heat and cool residential or commercial building air or water.
+- Integrate hot water heater systems with geothermal heat exchange systems.
+- Determine the type of geothermal loop system most suitable to a specific property and its heating and cooling needs.
+- Dig trenches for system piping to appropriate depths and lay piping in trenches.
+- Apply coatings or operate systems to mitigate corrosion of geothermal plant equipment or structures.
+- Backfill piping trenches to protect pipes from damage.
+- Operate equipment, such as excavators, backhoes, rock hammers, trench compactors, pavement saws, grout mixers or pumps, geothermal loop reels, and coil tubing units (CTU).
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 4.42/5 | Level: 5.4/7)
+- English Language (Importance: 3.8/5 | Level: 3.85/7)
+- Physics (Importance: 3.72/5 | Level: 4.42/7)
+- Education and Training (Importance: 3.65/5 | Level: 4.17/7)
+- Public Safety and Security (Importance: 3.44/5 | Level: 3.8/7)
+- Chemistry (Importance: 3.32/5 | Level: 4.14/7)
+- Mathematics (Importance: 3.28/5 | Level: 3.97/7)
+- Telecommunications (Importance: 3.28/5 | Level: 3.52/7)
+- Design (Importance: 3.28/5 | Level: 4.13/7)
+- Production and Processing (Importance: 3.21/5 | Level: 3.48/7)
+- Administration and Management (Importance: 3.2/5 | Level: 3.81/7)
+- Computers and Electronics (Importance: 3.15/5 | Level: 4.02/7)
+- Administrative (Importance: 3.07/5 | Level: 3.15/7)
+- Engineering and Technology (Importance: 3.06/5 | Level: 4.12/7)
+- Building and Construction (Importance: 2.71/5 | Level: 3.76/7)
+- Law and Government (Importance: 2.63/5 | Level: 2.76/7)
+- Communications and Media (Importance: 2.42/5 | Level: 2.41/7)
+- Personnel and Human Resources (Importance: 2.3/5 | Level: 2.03/7)
+- Transportation (Importance: 2.2/5 | Level: 2.16/7)
+- Medicine and Dentistry (Importance: 2.13/5 | Level: 1.89/7)
+- Customer and Personal Service (Importance: 2.11/5 | Level: 1.52/7)
+- Geography (Importance: 2.03/5 | Level: 1.93/7)
+- Psychology (Importance: 1.99/5 | Level: 1.64/7)
+- Biology (Importance: 1.89/5 | Level: 1.56/7)
+- Economics and Accounting (Importance: 1.82/5 | Level: 1.45/7)
+- Sales and Marketing (Importance: 1.47/5 | Level: 0.95/7)
+- History and Archeology (Importance: 1.45/5 | Level: 1.02/7)
+- Philosophy and Theology (Importance: 1.3/5 | Level: 0.82/7)
+- Therapy and Counseling (Importance: 1.24/5 | Level: 0.56/7)
+- Foreign Language (Importance: 1.22/5 | Level: 0.36/7)
+- Sociology and Anthropology (Importance: 1.2/5 | Level: 0.23/7)
+- Food Production (Importance: 1.08/5 | Level: 0.11/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operations Monitoring (Importance: 3.88/5 | Level: 4.0/7)
+- Monitoring (Importance: 3.75/5 | Level: 3.62/7)
+- Troubleshooting (Importance: 3.62/5 | Level: 3.75/7)
+- Operation and Control (Importance: 3.38/5 | Level: 3.75/7)
+- Critical Thinking (Importance: 3.25/5 | Level: 3.12/7)
+- Reading Comprehension (Importance: 3.25/5 | Level: 3.12/7)
+- Quality Control Analysis (Importance: 3.25/5 | Level: 3.25/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 3.0/7)
+- Repairing (Importance: 3.12/5 | Level: 3.62/7)
+- Active Learning (Importance: 3.12/5 | Level: 3.0/7)
+- Equipment Maintenance (Importance: 3.12/5 | Level: 3.25/7)
+- Complex Problem Solving (Importance: 3.12/5 | Level: 2.88/7)
+- Writing (Importance: 3.0/5 | Level: 3.0/7)
+- Systems Analysis (Importance: 3.0/5 | Level: 3.0/7)
+- Speaking (Importance: 3.0/5 | Level: 3.0/7)
+- Active Listening (Importance: 3.0/5 | Level: 3.0/7)
+- Installation (Importance: 3.0/5 | Level: 3.12/7)
+- Coordination (Importance: 3.0/5 | Level: 3.12/7)
+- Time Management (Importance: 2.88/5 | Level: 3.0/7)
+- Systems Evaluation (Importance: 2.88/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.25/7)
+- Service Orientation (Importance: 2.88/5 | Level: 2.38/7)
+- Equipment Selection (Importance: 2.88/5 | Level: 2.88/7)
+- Mathematics (Importance: 2.75/5 | Level: 3.12/7)
+- Instructing (Importance: 2.62/5 | Level: 2.62/7)
+- Management of Personnel Resources (Importance: 2.62/5 | Level: 2.25/7)
+- Negotiation (Importance: 2.38/5 | Level: 2.12/7)
+- Persuasion (Importance: 2.25/5 | Level: 2.25/7)
+- Science (Importance: 2.12/5 | Level: 2.0/7)
+- Learning Strategies (Importance: 2.12/5 | Level: 2.25/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.38/7)
+- Operations Analysis (Importance: 2.0/5 | Level: 1.62/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.75/7)
+- Programming (Importance: 1.88/5 | Level: 1.12/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.5/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- ClimateMaster GeoDesigner (Tech skill type: Analytical or scientific software)
+- Distributed control system DCS (Tech skill type: Industrial control software)
+- Email software (Tech skill type: Electronic mail software)
+- Geographic information system GIS systems (Tech skill type: Geographic information system)
+- Geothermal Properties Measurement Tool (Tech skill type: Analytical or scientific software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Word (Tech skill type: Word processing software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Thermal Dynamics Ground Loop Design GLD (Tech skill type: Analytical or scientific software)
+- WaterFurnace International Ground Loop Design PREMIER (Tech skill type: Analytical or scientific software)
+
+## TOOLS USED
+- Adjustable hand wrenches (Tool type: Adjustable wrenches)
+- Adjustable pipe wrenches (Tool type: Pipe wrenches)
+- Air monitoring equipment (Tool type: Air samplers or collectors)
+- Air wrenches (Tool type: Pneumatic impact wrenches)
+- Alignment clamps (Tool type: Pipe vises)
+- Butt fusion machines (Tool type: Flash butt welding machine)
+- Channel lock pliers (Tool type: Locking pliers)
+- Claw hammers (Tool type: Claw hammer)
+- Coil tubing units (Tool type: Coiled tubing units)
+- Deburring tools (Tool type: Deburring tool)
+- Depth meters (Tool type: Logging instruments for water wells)
+- Desktop computers (Tool type: Desktop computers)
+- Grout mixers (Tool type: Plaster or mortar mixers)
+- Grout pumps (Tool type: Grouting pump)
+- Laptop computers (Tool type: Notebook computers)
+- Pavement saws (Tool type: Power saws)
+- Personal computers (Tool type: Personal computers)
+- Phillips head screwdrivers (Tool type: Screwdrivers)
+- Pipe cutters (Tool type: Pipe or tube cutter)
+- Pipe squeeze off tools (Tool type: Pipe bending tools)
+- Portable welding equipment (Tool type: Spot welding machine)
+- Programmable logic controllers PLC (Tool type: Microcontrollers)
+- Protective respirators (Tool type: Respirators)
+- Pyrometers (Tool type: Pyrometers)
+- Ratchet sets (Tool type: Ratchets)
+- Safety glasses (Tool type: Safety glasses)
+- Safety gloves (Tool type: Protective gloves)
+- Socket wrench sets (Tool type: Socket sets)
+- Straight screwdrivers (Tool type: Screwdrivers)
+- Tracked excavators (Tool type: Track excavators)
+- Trench compacters (Tool type: Compactors)
+- Valve wrenches (Tool type: Specialty wrenches)
+- Well drilling rigs (Tool type: Land drilling rigs)
+- Wire cutters (Tool type: Wire cutters)
+- Wire strippers (Tool type: Stripping tools)
+
+# WORK CONTEXT
+- Conflict Situations: Never
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Extremely important
+- Deal With External Customers or the Public in General: Not important at all
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Moderately automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Once a year or more but not every month
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Every day
+- Exposed to Hazardous Conditions: Every day
+- Exposed to Hazardous Equipment: Every day
+- Exposed to High Places: Once a month or more but not every week
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Every day
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Every day
+- Exposed to Whole Body Vibration: Once a year or more but not every month
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Very important
+- Importance of Repeating Same Tasks: Very important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Every day
+- In an Open Vehicle or Operating Equipment: Once a year or more but not every month
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Every day
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Every day
+- Outdoors, Under Cover: Every day
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: I work with others but not closely (e.g., private office)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Less than half the time
+- Spend Time Keeping or Regaining Balance: Less than half the time
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: More than half the time
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: About half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: More than half the time
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Once a month or more but not every week
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Every day
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Geothermal Production Managers
+- Hydroelectric Plant Technicians
+- Power Plant Operators
+- Biomass Plant Technicians
+- Stationary Engineers and Boiler Operators
+- Power Distributors and Dispatchers
+- Wind Turbine Service Technicians
+- Gas Plant Operators
+- Electrical and Electronics Repairers, Powerhouse, Substation, and Relay
+- Solar Thermal Installers and Technicians
+- Biomass Power Plant Managers
+- Wellhead Pumpers
+- Water and Wastewater Treatment Plant and System Operators
+- Heating, Air Conditioning, and Refrigeration Mechanics and Installers
+- Electrical Engineers
+- Electrical and Electronics Repairers, Commercial and Industrial Equipment
+- Control and Valve Installers and Repairers, Except Mechanical Door
+- Solar Photovoltaic Installers
+- Gas Compressor and Gas Pumping Station Operators
+- Mechanical Engineers

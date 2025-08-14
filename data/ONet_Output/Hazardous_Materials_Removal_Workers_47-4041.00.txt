@@ -1,0 +1,327 @@
+Job Title: Hazardous Materials Removal Workers
+O*NET-SOC Code: 47-4041.00
+
+# DESCRIPTION
+Identify, remove, pack, transport, or dispose of hazardous materials, including asbestos, lead-based paint, waste oil, fuel, transmission fluid, radioactive materials, or contaminated soil. Specialized training and certification in hazardous materials handling or a confined entry permit are generally required. May operate earth-moving equipment or trucks.
+
+# TASKS
+- Build containment areas prior to beginning abatement or decontamination work.
+- Remove asbestos or lead from surfaces, using hand or power tools such as scrapers, vacuums, or high-pressure sprayers.
+- Identify asbestos, lead, or other hazardous materials to be removed, using monitoring devices.
+- Prepare hazardous material for removal or storage.
+- Comply with prescribed safety procedures or federal laws regulating waste disposal methods.
+- Load or unload materials into containers or onto trucks, using hoists or forklifts.
+- Clean contaminated equipment or areas for reuse, using detergents or solvents, sandblasters, filter pumps, or steam cleaners.
+- Remove or limit contamination following emergencies involving hazardous substances.
+- Clean mold-contaminated sites by removing damaged porous materials or thoroughly cleaning all contaminated nonporous materials.
+- Operate machines or equipment to remove, package, store, or transport loads of waste materials.
+- Record numbers of containers stored at disposal sites, specifying amounts or types of equipment or waste disposed.
+- Sort specialized hazardous waste at landfills or disposal centers, following proper disposal procedures.
+- Operate cranes to move or load baskets, casks, or canisters.
+- Drive trucks or other heavy equipment to convey contaminated waste to designated sea or ground locations.
+- Identify or separate waste products or materials for recycling or reuse.
+- Upload baskets of irradiated elements onto machines that insert fuel elements into canisters and secure lids.
+- Process e-waste, such as computer components containing lead or mercury.
+- Organize or track the locations of hazardous items in landfills.
+- Mix or pour concrete into forms to encase waste material for disposal.
+- Apply bioremediation techniques to hazardous wastes to allow naturally occurring bacteria to break down toxic substances.
+- Package, store, or move irradiated fuel elements in the underwater storage basins of nuclear reactor plants, using machines or equipment.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Public Safety and Security (Importance: 3.6/5 | Level: 4.43/7)
+- Administration and Management (Importance: 3.46/5 | Level: 3.65/7)
+- Transportation (Importance: 3.41/5 | Level: 3.62/7)
+- Customer and Personal Service (Importance: 3.4/5 | Level: 3.88/7)
+- Building and Construction (Importance: 3.24/5 | Level: 3.51/7)
+- Mechanical (Importance: 3.1/5 | Level: 3.82/7)
+- English Language (Importance: 3.09/5 | Level: 3.58/7)
+- Mathematics (Importance: 2.84/5 | Level: 2.98/7)
+- Chemistry (Importance: 2.58/5 | Level: 3.61/7)
+- Administrative (Importance: 2.58/5 | Level: 2.86/7)
+- Law and Government (Importance: 2.57/5 | Level: 2.38/7)
+- Engineering and Technology (Importance: 2.56/5 | Level: 2.61/7)
+- Personnel and Human Resources (Importance: 2.53/5 | Level: 2.57/7)
+- Education and Training (Importance: 2.52/5 | Level: 3.08/7)
+- Design (Importance: 2.51/5 | Level: 2.72/7)
+- Physics (Importance: 2.41/5 | Level: 2.87/7)
+- Sales and Marketing (Importance: 2.33/5 | Level: 2.31/7)
+- Foreign Language (Importance: 2.27/5 | Level: 1.44/7)
+- Telecommunications (Importance: 2.26/5 | Level: 1.58/7)
+- Biology (Importance: 2.23/5 | Level: 1.9/7)
+- Production and Processing (Importance: 2.17/5 | Level: 2.17/7)
+- Medicine and Dentistry (Importance: 2.12/5 | Level: 1.62/7)
+- Computers and Electronics (Importance: 2.06/5 | Level: 2.08/7)
+- Psychology (Importance: 2.06/5 | Level: 2.32/7)
+- Economics and Accounting (Importance: 2.04/5 | Level: 1.84/7)
+- Food Production (Importance: 1.95/5 | Level: 1.9/7)
+- Geography (Importance: 1.8/5 | Level: 1.86/7)
+- Communications and Media (Importance: 1.75/5 | Level: 1.76/7)
+- Fine Arts (Importance: 1.74/5 | Level: 0.96/7)
+- Philosophy and Theology (Importance: 1.7/5 | Level: 1.17/7)
+- Therapy and Counseling (Importance: 1.69/5 | Level: 1.27/7)
+- Sociology and Anthropology (Importance: 1.67/5 | Level: 1.2/7)
+- History and Archeology (Importance: 1.53/5 | Level: 0.81/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Monitoring (Importance: 3.62/5 | Level: 3.12/7)
+- Critical Thinking (Importance: 3.5/5 | Level: 3.62/7)
+- Operation and Control (Importance: 3.38/5 | Level: 3.0/7)
+- Operations Monitoring (Importance: 3.25/5 | Level: 3.0/7)
+- Active Listening (Importance: 3.25/5 | Level: 3.0/7)
+- Speaking (Importance: 3.12/5 | Level: 2.88/7)
+- Reading Comprehension (Importance: 3.12/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 2.75/7)
+- Quality Control Analysis (Importance: 3.0/5 | Level: 2.75/7)
+- Active Learning (Importance: 3.0/5 | Level: 3.0/7)
+- Writing (Importance: 3.0/5 | Level: 2.88/7)
+- Complex Problem Solving (Importance: 3.0/5 | Level: 3.0/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 3.0/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Service Orientation (Importance: 2.88/5 | Level: 2.75/7)
+- Troubleshooting (Importance: 2.88/5 | Level: 2.75/7)
+- Instructing (Importance: 2.88/5 | Level: 2.88/7)
+- Persuasion (Importance: 2.88/5 | Level: 2.75/7)
+- Systems Analysis (Importance: 2.75/5 | Level: 2.12/7)
+- Negotiation (Importance: 2.75/5 | Level: 2.75/7)
+- Equipment Maintenance (Importance: 2.62/5 | Level: 2.62/7)
+- Equipment Selection (Importance: 2.62/5 | Level: 2.12/7)
+- Management of Personnel Resources (Importance: 2.62/5 | Level: 2.5/7)
+- Learning Strategies (Importance: 2.5/5 | Level: 2.25/7)
+- Repairing (Importance: 2.25/5 | Level: 2.12/7)
+- Systems Evaluation (Importance: 2.12/5 | Level: 2.0/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.75/7)
+- Science (Importance: 2.0/5 | Level: 1.75/7)
+- Mathematics (Importance: 2.0/5 | Level: 2.12/7)
+- Management of Financial Resources (Importance: 1.88/5 | Level: 1.0/7)
+- Operations Analysis (Importance: 1.75/5 | Level: 1.12/7)
+- Installation (Importance: 1.62/5 | Level: 0.88/7)
+- Technology Design (Importance: 1.5/5 | Level: 0.5/7)
+- Programming (Importance: 1.25/5 | Level: 0.25/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Computerized maintenance management system software CMMS (Tech skill type: Facilities management software)
+- Database software (Tech skill type: Data base user interface and query software)
+- Internet browser software (Tech skill type: Internet browser software)
+- Inventory management systems (Tech skill type: Inventory management software)
+- Jenkins CI (Tech skill type: Enterprise application integration software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Presentation software (Tech skill type: Presentation software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- Word processing software (Tech skill type: Word processing software)
+- Xactware Xactimate (Tech skill type: Data base user interface and query software)
+
+## TOOLS USED
+- Adjustable wrenches (Tool type: Adjustable wrenches)
+- Aerosol meters (Tool type: Air samplers or collectors)
+- Air monitoring equipment (Tool type: Air samplers or collectors)
+- Air pollutant monitors (Tool type: Air pollutant samplers)
+- Air sampling devices (Tool type: Air samplers or collectors)
+- Air sampling pumps (Tool type: Air sampling pumps)
+- Air scrubbers (Tool type: Air scrubbers)
+- Alpha radiation meters (Tool type: Radiation detectors)
+- Asbestos sample containers (Tool type: Sample holders)
+- Beta radiation meters (Tool type: Radiation detectors)
+- Blowers (Tool type: Blowers)
+- Borescopes (Tool type: Borescope inspection equipment)
+- Bulldozers (Tool type: Wheel bulldozers)
+- Chemical agent detectors (Tool type: Reagent kits for use with air samplers)
+- Chemical protective aprons (Tool type: Protective aprons)
+- Chemical protective boots (Tool type: Hazardous material protective footwear)
+- Chemical protective clothing (Tool type: Hazardous material protective apparel)
+- Chemical protective coveralls (Tool type: Protective coveralls)
+- Chemical protective face shields (Tool type: Facial shields)
+- Chemical protective gloves (Tool type: Protective gloves)
+- Chemical protective head covers (Tool type: Protective hood)
+- Chemical solution sprayers (Tool type: Hand sprayers)
+- Claw hammers (Tool type: Claw hammer)
+- Color changing gas detection devices (Tool type: Multi gas monitors)
+- Colorimetric detector tubes/badges (Tool type: Gas detector tubes)
+- Combustible gas indicators (Tool type: Explosimeters)
+- Concrete mixers (Tool type: Concrete mixers or plants)
+- Crowbars (Tool type: Pry bars)
+- Curtain booms (Tool type: Absorbent booms)
+- Dataloggers (Tool type: Portable data input terminals)
+- Decontamination trailers (Tool type: Decontamination shower)
+- Decontamination units (Tool type: Decontamination shower)
+- Dehumidifiers (Tool type: Dehumidifiers)
+- Desktop computers (Tool type: Desktop computers)
+- Dosimeters (Tool type: Dosimeters)
+- Dredges (Tool type: Dredgers)
+- Dust collectors (Tool type: Dust collectors)
+- Electrochemical gas monitors (Tool type: Multi gas monitors)
+- Excavators (Tool type: Track excavators)
+- Eyewash fountains (Tool type: Eyewashers or eye wash stations)
+- Filter pumps (Tool type: Filtering machinery)
+- Filtered vacuums (Tool type: Vacuum cleaners)
+- Flame ionization detectors FID (Tool type: Flame ionization analyzers)
+- Flame spectroscopy detection instruments (Tool type: Spectrophotometers)
+- Fluorescence immunochromatography systems (Tool type: Liquid chromatographs)
+- Forklifts (Tool type: Forklifts)
+- Gamma radiation meters (Tool type: Radiation detectors)
+- Gas chromatographs GC (Tool type: Gas chromatographs)
+- Gas detector tubes (Tool type: Gas detector tubes)
+- Gas leak detection devices (Tool type: Gas detectors)
+- Groundwater sampling equipment (Tool type: Water samplers)
+- Handheld concrete and coating removal systems (Tool type: Power grinders)
+- High-efficiency particulate air HEPA vacuums (Tool type: Vacuum cleaners)
+- High-pressure water sprayers (Tool type: Hand sprayers)
+- High-temperature protective clothing (Tool type: Fire retardant apparel)
+- Hoists (Tool type: Hoists)
+- Hydraulic booms (Tool type: Hydraulic truck cranes)
+- Hygrometers (Tool type: Hygrometers)
+- Infrared IR spectrometers (Tool type: Infrared spectrometers)
+- Ladders (Tool type: Ladders)
+- Large trucks (Tool type: Cargo trucks)
+- Lead testing kits (Tool type: Chemistry test kits or supplies)
+- Level A encapsulated suits (Tool type: Hazardous material protective apparel)
+- Level B encapsulated suits (Tool type: Hazardous material protective apparel)
+- Light trucks (Tool type: Light trucks or sport utility vehicles)
+- Liquid leak detection equipment (Tool type: Liquid leak detectors)
+- Liquid splash protective clothing (Tool type: Hazardous material protective apparel)
+- Mechanical arms (Tool type: Pick or place robots)
+- Moisture meters (Tool type: Moisture meters)
+- Negative pressure respirators (Tool type: Respirators)
+- Neutron detectors (Tool type: Radiation detectors)
+- Notebook computers (Tool type: Notebook computers)
+- Nut drivers (Tool type: Nut drivers)
+- Oleophilic booms (Tool type: Absorbent booms)
+- Oxygen concentration instruments (Tool type: Single gas monitors)
+- Personal air monitors (Tool type: Air samplers or collectors)
+- Personal computers (Tool type: Personal computers)
+- Personal protective suits (Tool type: Hazardous material protective apparel)
+- pH indicators (Tool type: pH meters)
+- pH meters (Tool type: pH meters)
+- Photoionization detectors PID (Tool type: Ion analyzers)
+- Pneumatic scabbling tools (Tool type: Pneumatic sanding machines)
+- Pneumatic scaling tools (Tool type: Pneumatic sanding machines)
+- Portable chemical agent detection devices (Tool type: Reagent kits for use with air samplers)
+- Positive displacement vacuum equipment (Tool type: Positive displacement pumps)
+- Positive pressure self contained breathing apparatus (Tool type: Respiration air supplying self contained breathing apparatus or accessories)
+- Power sanders (Tool type: Power sanders)
+- Putty knives (Tool type: Putty knives)
+- Radiation survey meters (Tool type: Radiation detectors)
+- Radon detection devices (Tool type: Radon detectors)
+- Remote control track robots (Tool type: Pick or place robots)
+- Respirators (Tool type: Respirators)
+- Robotic crawler dredges (Tool type: Dredgers)
+- Safety glasses (Tool type: Safety glasses)
+- Safety gloves (Tool type: Protective gloves)
+- Sandblasters (Tool type: Pneumatic sanding machines)
+- Scaffolding (Tool type: Scaffolding)
+- Scrapers (Tool type: Scrapers)
+- Screwdrivers (Tool type: Screwdrivers)
+- Self-contained protective suits (Tool type: Hazardous material protective apparel)
+- Shovels (Tool type: Shovels)
+- Slurry blast equipment (Tool type: Pneumatic sanding machines)
+- Soil samplers (Tool type: Soil core sampling apparatus)
+- Soil vapor extraction units (Tool type: Soil testing kits)
+- Steam cleaning equipment (Tool type: Pressure or steam cleaners)
+- Steel shot recyclable blasting equipment (Tool type: Pneumatic sanding machines)
+- Tablet computers (Tool type: Tablet computers)
+- Thermoluminescent dosimeters (Tool type: Radiation detectors)
+- Total vapor survey instruments (Tool type: Multi gas monitors)
+- Truck cranes (Tool type: Conventional truck cranes)
+- Two way radios (Tool type: Two way radios)
+- Utility knives (Tool type: Utility knives)
+- Vacuum blast equipment (Tool type: Vacuum pumps)
+- Vans (Tool type: Minivans or vans)
+- Vapor protective garments (Tool type: Hazardous material protective apparel)
+- Ventilation equipment (Tool type: Air exhausters)
+- Ventilation fans (Tool type: Fans)
+- Water samplers (Tool type: Water samplers)
+- Water sampling pumps (Tool type: Water samplers)
+- Winches (Tool type: Winches)
+- Wire cutters (Tool type: Wire cutters)
+- X ray fluorescence XRF lead testing analyzers (Tool type: Spectrofluorimeters or fluorimeters)
+
+# WORK CONTEXT
+- Conflict Situations: Once a week or more but not every day
+- Consequence of Error: Very serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Important
+- Deal With External Customers or the Public in General: Important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a month or more but not every week
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Moderately automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Never
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Once a month or more but not every week
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Once a week or more but not every day
+- Exposed to Hazardous Conditions: Once a month or more but not every week
+- Exposed to Hazardous Equipment: Once a month or more but not every week
+- Exposed to High Places: Once a month or more but not every week
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Once a month or more but not every week
+- Exposed to Very Hot or Cold Temperatures: Once a month or more but not every week
+- Exposed to Whole Body Vibration: Once a week or more but not every day
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Very important
+- Importance of Repeating Same Tasks: Very important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Once a week or more but not every day
+- Indoors, Environmentally Controlled: Once a week or more but not every day
+- Indoors, Not Environmentally Controlled: Once a week or more but not every day
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Once a week or more but not every day
+- Outdoors, Under Cover: Once a week or more but not every day
+- Pace Determined by Speed of Equipment: Important
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: More than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: More than half the time
+- Spend Time Keeping or Regaining Balance: About half the time
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: More than half the time
+- Spend Time Making Repetitive Motions: More than half the time
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: More than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: About half the time
+- Telephone Conversations: Every day
+- Time Pressure: Once a week or more but not every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Every day
+- Work Outcomes and Results of Other Workers: High responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Recycling and Reclamation Workers
+- Highway Maintenance Workers
+- Water and Wastewater Treatment Plant and System Operators
+- Septic Tank Servicers and Sewer Pipe Cleaners
+- Refuse and Recyclable Material Collectors
+- Insulation Workers, Floor, Ceiling, and Wall
+- Construction Laborers
+- Explosives Workers, Ordnance Handling Experts, and Blasters
+- Cleaners of Vehicles and Equipment
+- Recycling Coordinators
+- Environmental Science and Protection Technicians, Including Health
+- Environmental Engineers
+- Environmental Engineering Technologists and Technicians
+- Operating Engineers and Other Construction Equipment Operators
+- Occupational Health and Safety Specialists
+- Maintenance and Repair Workers, General
+- Nuclear Monitoring Technicians
+- Health and Safety Engineers, Except Mining Safety Engineers and Inspectors
+- Helpers--Extraction Workers
+- Service Unit Operators, Oil and Gas

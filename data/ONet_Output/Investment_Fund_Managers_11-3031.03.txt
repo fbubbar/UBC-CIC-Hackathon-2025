@@ -1,0 +1,219 @@
+Job Title: Investment Fund Managers
+O*NET-SOC Code: 11-3031.03
+
+# DESCRIPTION
+Plan, direct, or coordinate investment strategy or operations for a large pool of liquid assets supplied by institutional investors or individual investors.
+
+# TASKS
+- Manage investment funds to maximize return on client investments.
+- Select specific investments or investment mixes for purchase by an investment fund.
+- Monitor financial or operational performance of individual investments to ensure portfolios meet risk goals.
+- Select or direct the execution of trades.
+- Develop or implement fund investment policies or strategies.
+- Perform or evaluate research, such as detailed company or industry analyses, to inform financial forecasting, decision making, or valuation.
+- Present investment information, such as product risks, fees, or fund performance statistics.
+- Develop, implement, or monitor security valuation policies.
+- Meet with investors to determine investment goals or to discuss investment strategies.
+- Attend investment briefings or consult financial media to stay abreast of relevant investment markets.
+- Prepare for and respond to regulatory inquiries.
+- Evaluate the potential of new product developments or market opportunities, according to factors such as business plans, technologies, or market potential.
+- Hire or evaluate staff.
+- Monitor regulatory or tax law changes to ensure fund compliance or to capitalize on development opportunities.
+- Develop or direct development of offering documents or marketing materials.
+- Analyze acquisitions to ensure conformance with strategic goals or regulatory requirements.
+- Verify regulatory compliance of transaction reporting.
+- Review offering documents or marketing materials to ensure regulatory compliance.
+- Identify group or individual target investors for a specific fund.
+- Direct activities of accounting or operations departments.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Economics and Accounting (Importance: 4.67/5 | Level: 5.48/7)
+- English Language (Importance: 4.36/5 | Level: 4.9/7)
+- Mathematics (Importance: 4.34/5 | Level: 5.46/7)
+- Customer and Personal Service (Importance: 3.67/5 | Level: 4.55/7)
+- Administration and Management (Importance: 3.19/5 | Level: 4.67/7)
+- Law and Government (Importance: 3.14/5 | Level: 3.64/7)
+- Computers and Electronics (Importance: 3.1/5 | Level: 3.5/7)
+- Sales and Marketing (Importance: 3.01/5 | Level: 4.07/7)
+- Education and Training (Importance: 2.56/5 | Level: 3.1/7)
+- Communications and Media (Importance: 2.54/5 | Level: 2.92/7)
+- Personnel and Human Resources (Importance: 2.38/5 | Level: 3.08/7)
+- Psychology (Importance: 2.31/5 | Level: 2.69/7)
+- History and Archeology (Importance: 2.09/5 | Level: 2.42/7)
+- Geography (Importance: 1.95/5 | Level: 2.21/7)
+- Telecommunications (Importance: 1.89/5 | Level: 1.67/7)
+- Sociology and Anthropology (Importance: 1.89/5 | Level: 2.16/7)
+- Administrative (Importance: 1.74/5 | Level: 1.96/7)
+- Production and Processing (Importance: 1.63/5 | Level: 1.39/7)
+- Transportation (Importance: 1.62/5 | Level: 1.22/7)
+- Engineering and Technology (Importance: 1.52/5 | Level: 1.18/7)
+- Public Safety and Security (Importance: 1.41/5 | Level: 0.64/7)
+- Medicine and Dentistry (Importance: 1.35/5 | Level: 0.82/7)
+- Physics (Importance: 1.27/5 | Level: 0.57/7)
+- Therapy and Counseling (Importance: 1.27/5 | Level: 0.61/7)
+- Philosophy and Theology (Importance: 1.23/5 | Level: 0.87/7)
+- Foreign Language (Importance: 1.23/5 | Level: 0.56/7)
+- Biology (Importance: 1.18/5 | Level: 0.62/7)
+- Design (Importance: 1.18/5 | Level: 0.3/7)
+- Fine Arts (Importance: 1.13/5 | Level: 0.39/7)
+- Chemistry (Importance: 1.1/5 | Level: 0.3/7)
+- Mechanical (Importance: 1.09/5 | Level: 0.24/7)
+- Food Production (Importance: 1.03/5 | Level: 0.05/7)
+- Building and Construction (Importance: 1.0/5 | Level: 0.0/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.0/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.25/7)
+- Active Listening (Importance: 4.0/5 | Level: 4.12/7)
+- Judgment and Decision Making (Importance: 3.88/5 | Level: 4.25/7)
+- Speaking (Importance: 3.88/5 | Level: 4.12/7)
+- Active Learning (Importance: 3.75/5 | Level: 3.88/7)
+- Complex Problem Solving (Importance: 3.75/5 | Level: 3.88/7)
+- Writing (Importance: 3.62/5 | Level: 3.88/7)
+- Monitoring (Importance: 3.5/5 | Level: 4.0/7)
+- Systems Analysis (Importance: 3.38/5 | Level: 3.75/7)
+- Mathematics (Importance: 3.38/5 | Level: 3.62/7)
+- Time Management (Importance: 3.25/5 | Level: 3.88/7)
+- Systems Evaluation (Importance: 3.25/5 | Level: 3.75/7)
+- Coordination (Importance: 3.12/5 | Level: 3.12/7)
+- Persuasion (Importance: 3.12/5 | Level: 3.5/7)
+- Negotiation (Importance: 3.0/5 | Level: 3.5/7)
+- Instructing (Importance: 3.0/5 | Level: 2.88/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 3.38/7)
+- Service Orientation (Importance: 2.88/5 | Level: 3.0/7)
+- Management of Personnel Resources (Importance: 2.88/5 | Level: 3.38/7)
+- Learning Strategies (Importance: 2.88/5 | Level: 3.12/7)
+- Management of Financial Resources (Importance: 2.75/5 | Level: 3.0/7)
+- Management of Material Resources (Importance: 2.25/5 | Level: 2.12/7)
+- Operations Analysis (Importance: 2.0/5 | Level: 1.62/7)
+- Operations Monitoring (Importance: 1.88/5 | Level: 1.5/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.38/7)
+- Programming (Importance: 1.75/5 | Level: 1.12/7)
+- Quality Control Analysis (Importance: 1.5/5 | Level: 0.75/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+- Operation and Control (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Autodesk AutoCAD Blue Sky (Tech skill type: Computer aided design CAD software)
+- Financial accounting software (Tech skill type: Accounting software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft MapPoint (Tech skill type: Map creation software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Power BI (Tech skill type: Business intelligence and data analysis software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Oracle Hyperion (Tech skill type: Enterprise resource planning ERP software)
+- Oracle Hyperion Planning (Tech skill type: Financial analysis software)
+- Portfolio analysis software (Tech skill type: Financial analysis software)
+- ReadSoft (Tech skill type: Document management software)
+- Risk analysis software (Tech skill type: Analytical or scientific software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- SAS (Tech skill type: Analytical or scientific software)
+- Statistical analysis software (Tech skill type: Analytical or scientific software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- SunGard Financial Systems AddVantage (Tech skill type: Financial analysis software)
+- Tableau (Tech skill type: Business intelligence and data analysis software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Desktop computers (Tool type: Desktop computers)
+- Laptop computers (Tool type: Notebook computers)
+- Multiline telephone systems (Tool type: Special purpose telephones)
+- Personal computers (Tool type: Personal computers)
+- Teleconferencing equipment (Tool type: Teleconference equipment)
+- Videoconferencing equipment (Tool type: Videoconferencing systems)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Never
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: No responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Not important at all
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Extremely competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: I work with others but not closely (e.g., private office)
+- Public Speaking: Once a year or more but not every month
+- Spend Time Bending or Twisting Your Body: Never
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Never
+- Spend Time Sitting: Continually or almost continually
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Never
+- Spend Time Walking or Running: Never
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Never
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a week or more but not every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Enterprising
+- Secondary Interest: Conventional
+- Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Financial and Investment Analysts
+- Financial Risk Specialists
+- Personal Financial Advisors
+- Securities, Commodities, and Financial Services Sales Agents
+- Financial Managers
+- Financial Quantitative Analysts
+- Credit Analysts
+- Financial Examiners
+- Management Analysts
+- Treasurers and Controllers
+- Accountants and Auditors
+- Business Intelligence Analysts
+- Loan Officers
+- Budget Analysts
+- Economists
+- Actuaries
+- Brokerage Clerks
+- Compensation, Benefits, and Job Analysis Specialists
+- Market Research Analysts and Marketing Specialists
+- Chief Executives

@@ -1,0 +1,203 @@
+Job Title: Roof Bolters, Mining
+O*NET-SOC Code: 47-5043.00
+
+# DESCRIPTION
+Operate machinery to install roof support bolts in underground mine.
+
+# TASKS
+- Drill bolt holes into roofs at specified distances from ribs or adjacent bolts.
+- Pull down loose rock that cannot be supported.
+- Position bolting machines, and insert drill bits into chucks.
+- Perform safety checks on equipment before operating.
+- Perform tests to determine if methane gas is present.
+- Force bolts into holes, using hydraulic mechanisms of self-propelled bolting machines.
+- Perform ventilation tasks, such as hanging ventilation curtains and tubes.
+- Dust rocks after bolting.
+- Install various types of bolts, including truss, glue, and resin bolts, traversing entire ceiling spans.
+- Drill test holes and test bolts for specified tension, using torque wrenches.
+- Position safety jacks to support underground mine roofs until bolts can be installed.
+- Rotate chucks to turn bolts and open expansion heads against rock formations.
+- Remove drill bits from chucks after drilling holes, and insert bolts into chucks.
+- Tighten ends of anchored truss bolts, using turnbuckles.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Production and Processing (Importance: 3.69/5 | Level: 3.79/7)
+- Education and Training (Importance: 3.52/5 | Level: 3.68/7)
+- Public Safety and Security (Importance: 3.45/5 | Level: 3.51/7)
+- Mechanical (Importance: 3.45/5 | Level: 3.95/7)
+- Administration and Management (Importance: 2.95/5 | Level: 2.09/7)
+- Law and Government (Importance: 2.95/5 | Level: 3.14/7)
+- English Language (Importance: 2.63/5 | Level: 2.41/7)
+- Customer and Personal Service (Importance: 2.52/5 | Level: 2.08/7)
+- Personnel and Human Resources (Importance: 2.51/5 | Level: 1.41/7)
+- Transportation (Importance: 2.48/5 | Level: 2.1/7)
+- Engineering and Technology (Importance: 2.46/5 | Level: 2.53/7)
+- Design (Importance: 2.28/5 | Level: 2.25/7)
+- Mathematics (Importance: 2.19/5 | Level: 1.69/7)
+- Sales and Marketing (Importance: 2.17/5 | Level: 1.75/7)
+- Computers and Electronics (Importance: 2.08/5 | Level: 1.99/7)
+- Building and Construction (Importance: 2.02/5 | Level: 1.64/7)
+- Geography (Importance: 1.95/5 | Level: 1.76/7)
+- Telecommunications (Importance: 1.86/5 | Level: 1.08/7)
+- Administrative (Importance: 1.85/5 | Level: 1.65/7)
+- Chemistry (Importance: 1.79/5 | Level: 1.53/7)
+- Physics (Importance: 1.72/5 | Level: 1.56/7)
+- Communications and Media (Importance: 1.65/5 | Level: 1.39/7)
+- Economics and Accounting (Importance: 1.62/5 | Level: 1.24/7)
+- Psychology (Importance: 1.59/5 | Level: 1.03/7)
+- Medicine and Dentistry (Importance: 1.37/5 | Level: 0.82/7)
+- Therapy and Counseling (Importance: 1.36/5 | Level: 0.8/7)
+- Biology (Importance: 1.27/5 | Level: 0.53/7)
+- Foreign Language (Importance: 1.18/5 | Level: 0.18/7)
+- Sociology and Anthropology (Importance: 1.18/5 | Level: 0.35/7)
+- Food Production (Importance: 1.09/5 | Level: 0.09/7)
+- History and Archeology (Importance: 1.08/5 | Level: 0.15/7)
+- Philosophy and Theology (Importance: 1.03/5 | Level: 0.07/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operation and Control (Importance: 3.62/5 | Level: 3.12/7)
+- Critical Thinking (Importance: 3.38/5 | Level: 3.0/7)
+- Monitoring (Importance: 3.25/5 | Level: 3.12/7)
+- Troubleshooting (Importance: 3.25/5 | Level: 3.0/7)
+- Operations Monitoring (Importance: 3.25/5 | Level: 3.25/7)
+- Equipment Maintenance (Importance: 3.12/5 | Level: 3.0/7)
+- Active Listening (Importance: 3.12/5 | Level: 2.88/7)
+- Complex Problem Solving (Importance: 3.0/5 | Level: 2.38/7)
+- Coordination (Importance: 3.0/5 | Level: 3.5/7)
+- Time Management (Importance: 3.0/5 | Level: 3.0/7)
+- Speaking (Importance: 3.0/5 | Level: 2.25/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 2.38/7)
+- Repairing (Importance: 3.0/5 | Level: 2.88/7)
+- Quality Control Analysis (Importance: 3.0/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.25/7)
+- Active Learning (Importance: 2.88/5 | Level: 2.88/7)
+- Equipment Selection (Importance: 2.88/5 | Level: 2.25/7)
+- Instructing (Importance: 2.88/5 | Level: 2.62/7)
+- Service Orientation (Importance: 2.38/5 | Level: 2.12/7)
+- Reading Comprehension (Importance: 2.38/5 | Level: 2.25/7)
+- Management of Personnel Resources (Importance: 2.25/5 | Level: 2.25/7)
+- Persuasion (Importance: 2.25/5 | Level: 2.12/7)
+- Systems Evaluation (Importance: 2.25/5 | Level: 2.12/7)
+- Systems Analysis (Importance: 2.25/5 | Level: 2.0/7)
+- Learning Strategies (Importance: 2.25/5 | Level: 2.5/7)
+- Negotiation (Importance: 2.12/5 | Level: 2.12/7)
+- Writing (Importance: 2.12/5 | Level: 2.25/7)
+- Mathematics (Importance: 2.12/5 | Level: 1.75/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.12/7)
+- Installation (Importance: 2.0/5 | Level: 1.5/7)
+- Management of Financial Resources (Importance: 1.88/5 | Level: 1.12/7)
+- Science (Importance: 1.5/5 | Level: 0.75/7)
+- Operations Analysis (Importance: 1.25/5 | Level: 0.25/7)
+- Technology Design (Importance: 1.12/5 | Level: 0.12/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Caterpillar Cat MineStar System (Tech skill type: Enterprise resource planning ERP software)
+- Caterpillar Command (Tech skill type: Industrial control software)
+
+## TOOLS USED
+- Boom roof bolters (Tool type: Boom bolters)
+- Digital pressure gauges (Tool type: Pressure indicators)
+- Dust and particulate respirators (Tool type: Respirators)
+- Hydraulic disconnects (Tool type: Quick disconnects)
+- Lube guns (Tool type: Grease guns)
+- Methane monitors (Tool type: Single gas monitors)
+- Personal computers (Tool type: Personal computers)
+- Pneumatic rock drilling tools (Tool type: Pneumatic rock drills)
+- Portable rock drills (Tool type: Hand held rock drills)
+- Remote-control continuous miners (Tool type: Continuous mining equipment)
+- Roof bolters (Tool type: Boom bolters)
+- Roof screens (Tool type: Screens)
+- Scaling bars (Tool type: Pry bars)
+- Self-propelled bolting machines (Tool type: Cable bolters)
+- Shoring jacks (Tool type: Jacks)
+- Steel measuring tapes (Tool type: Tape measures)
+- Torque drivers (Tool type: Torque wrenches)
+- Turnbuckles (Tool type: Turnbuckles)
+
+# WORK CONTEXT
+- Conflict Situations: Once a month or more but not every week
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Extremely important
+- Deal With External Customers or the Public in General: Not important at all
+- Dealing With Unpleasant, Angry, or Discourteous People: Every day
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Never
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Every day
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Every day
+- Exposed to Hazardous Conditions: Every day
+- Exposed to Hazardous Equipment: Every day
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Every day
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Every day
+- Exposed to Whole Body Vibration: Every day
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Minor results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Extremely important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Never
+- Indoors, Not Environmentally Controlled: Every day
+- Level of Competition: Extremely competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Extremely important
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Continually or almost continually
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Continually or almost continually
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Continually or almost continually
+- Spend Time Sitting: Never
+- Spend Time Standing: Continually or almost continually
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Continually or almost continually
+- Telephone Conversations: Never
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Every day
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Never
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Continuous Mining Machine Operators
+- Earth Drillers, Except Oil and Gas
+- Structural Iron and Steel Workers
+- Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+- Riggers
+- Hoist and Winch Operators
+- Helpers--Extraction Workers
+- Reinforcing Iron and Rebar Workers
+- Explosives Workers, Ordnance Handling Experts, and Blasters
+- Rotary Drill Operators, Oil and Gas
+- Sheet Metal Workers
+- Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+- Operating Engineers and Other Construction Equipment Operators
+- Carpenters
+- Rail-Track Laying and Maintenance Equipment Operators
+- Excavating and Loading Machine and Dragline Operators, Surface Mining
+- Crane and Tower Operators
+- Pile Driver Operators
+- Forging Machine Setters, Operators, and Tenders, Metal and Plastic
+- Structural Metal Fabricators and Fitters

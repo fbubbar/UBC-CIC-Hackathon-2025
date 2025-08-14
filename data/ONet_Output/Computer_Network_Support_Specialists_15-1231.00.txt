@@ -1,0 +1,363 @@
+Job Title: Computer Network Support Specialists
+O*NET-SOC Code: 15-1231.00
+
+# DESCRIPTION
+Analyze, test, troubleshoot, and evaluate existing network systems, such as local area networks (LAN), wide area networks (WAN), cloud networks, servers, and other data communications networks. Perform network maintenance to ensure networks operate correctly with minimal interruption.
+
+# TASKS
+- Back up network data.
+- Configure security settings or access permissions for groups or individuals.
+- Analyze and report computer network security breaches or attempted breaches.
+- Identify the causes of networking problems, using diagnostic testing software and equipment.
+- Document network support activities.
+- Configure wide area network (WAN) or local area network (LAN) routers or related equipment.
+- Install network software, including security or firewall software.
+- Troubleshoot network or connectivity problems for users or user groups.
+- Provide telephone support related to networking or connectivity issues.
+- Evaluate local area network (LAN) or wide area network (WAN) performance data to ensure sufficient availability or speed, to identify network problems, or for disaster recovery purposes.
+- Analyze network data to determine network usage, disk space availability, or server function.
+- Perform routine maintenance or standard repairs to networking components or equipment.
+- Configure and define parameters for installation or testing of local area network (LAN), wide area network (WAN), hubs, routers, switches, controllers, multiplexers, or related networking equipment.
+- Install new hardware or software systems or components, ensuring integration with existing network systems.
+- Test computer software or hardware, using standard diagnostic testing equipment and procedures.
+- Install or repair network cables, including fiber optic cables.
+- Monitor industry Web sites or publications for information about patches, releases, viruses, or potential problem identification.
+- Create or update technical documentation for network installations or changes to existing installations.
+- Train users in procedures related to network applications software or related systems.
+- Test repaired items to ensure proper operation.
+- Install and configure wireless networking equipment.
+- Maintain logs of network activity.
+- Document help desk requests and resolutions.
+- Research hardware or software products to meet technical networking or security needs.
+- Create or revise user instructions, procedures, or manuals.
+- Run monthly network reports.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Computers and Electronics (Importance: 4.96/5 | Level: 6.58/7)
+- Telecommunications (Importance: 3.79/5 | Level: 4.69/7)
+- Customer and Personal Service (Importance: 3.45/5 | Level: 3.78/7)
+- Engineering and Technology (Importance: 3.4/5 | Level: 4.12/7)
+- English Language (Importance: 3.31/5 | Level: 3.35/7)
+- Administration and Management (Importance: 3.12/5 | Level: 3.72/7)
+- Communications and Media (Importance: 2.99/5 | Level: 3.45/7)
+- Education and Training (Importance: 2.95/5 | Level: 3.42/7)
+- Administrative (Importance: 2.91/5 | Level: 3.71/7)
+- Design (Importance: 2.63/5 | Level: 3.09/7)
+- Production and Processing (Importance: 2.61/5 | Level: 2.68/7)
+- Public Safety and Security (Importance: 2.51/5 | Level: 2.38/7)
+- Mathematics (Importance: 2.45/5 | Level: 3.08/7)
+- Mechanical (Importance: 2.18/5 | Level: 2.23/7)
+- Personnel and Human Resources (Importance: 1.96/5 | Level: 1.93/7)
+- Law and Government (Importance: 1.9/5 | Level: 1.45/7)
+- Psychology (Importance: 1.85/5 | Level: 1.36/7)
+- Economics and Accounting (Importance: 1.78/5 | Level: 1.03/7)
+- Building and Construction (Importance: 1.65/5 | Level: 1.45/7)
+- Geography (Importance: 1.35/5 | Level: 0.95/7)
+- Sales and Marketing (Importance: 1.34/5 | Level: 0.54/7)
+- Foreign Language (Importance: 1.27/5 | Level: 0.52/7)
+- Physics (Importance: 1.27/5 | Level: 0.49/7)
+- Sociology and Anthropology (Importance: 1.23/5 | Level: 0.48/7)
+- Chemistry (Importance: 1.17/5 | Level: 0.45/7)
+- Transportation (Importance: 1.16/5 | Level: 0.24/7)
+- Therapy and Counseling (Importance: 1.13/5 | Level: 0.34/7)
+- History and Archeology (Importance: 1.12/5 | Level: 0.23/7)
+- Philosophy and Theology (Importance: 1.05/5 | Level: 0.1/7)
+- Fine Arts (Importance: 1.05/5 | Level: 0.09/7)
+- Medicine and Dentistry (Importance: 1.01/5 | Level: 0.01/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+- Biology (Importance: 1.0/5 | Level: 0.0/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Critical Thinking (Importance: 3.75/5 | Level: 3.75/7)
+- Active Listening (Importance: 3.5/5 | Level: 3.62/7)
+- Judgment and Decision Making (Importance: 3.38/5 | Level: 3.38/7)
+- Reading Comprehension (Importance: 3.38/5 | Level: 3.88/7)
+- Active Learning (Importance: 3.25/5 | Level: 3.38/7)
+- Monitoring (Importance: 3.25/5 | Level: 3.62/7)
+- Complex Problem Solving (Importance: 3.25/5 | Level: 3.25/7)
+- Speaking (Importance: 3.25/5 | Level: 3.5/7)
+- Troubleshooting (Importance: 3.12/5 | Level: 3.12/7)
+- Systems Analysis (Importance: 3.12/5 | Level: 3.38/7)
+- Time Management (Importance: 3.0/5 | Level: 2.62/7)
+- Systems Evaluation (Importance: 3.0/5 | Level: 3.25/7)
+- Operations Monitoring (Importance: 3.0/5 | Level: 3.12/7)
+- Writing (Importance: 3.0/5 | Level: 3.5/7)
+- Repairing (Importance: 2.88/5 | Level: 3.0/7)
+- Quality Control Analysis (Importance: 2.88/5 | Level: 3.12/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.88/7)
+- Installation (Importance: 2.75/5 | Level: 3.12/7)
+- Coordination (Importance: 2.75/5 | Level: 2.75/7)
+- Equipment Maintenance (Importance: 2.62/5 | Level: 2.75/7)
+- Learning Strategies (Importance: 2.62/5 | Level: 3.25/7)
+- Instructing (Importance: 2.62/5 | Level: 3.25/7)
+- Equipment Selection (Importance: 2.5/5 | Level: 2.75/7)
+- Service Orientation (Importance: 2.5/5 | Level: 2.88/7)
+- Negotiation (Importance: 2.25/5 | Level: 2.0/7)
+- Persuasion (Importance: 2.25/5 | Level: 2.62/7)
+- Programming (Importance: 2.25/5 | Level: 1.75/7)
+- Management of Personnel Resources (Importance: 2.25/5 | Level: 2.25/7)
+- Technology Design (Importance: 2.12/5 | Level: 1.88/7)
+- Mathematics (Importance: 2.12/5 | Level: 2.62/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.62/7)
+- Operation and Control (Importance: 2.0/5 | Level: 2.12/7)
+- Science (Importance: 1.88/5 | Level: 1.5/7)
+- Operations Analysis (Importance: 1.88/5 | Level: 1.88/7)
+- Management of Financial Resources (Importance: 1.5/5 | Level: 0.75/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adobe Acrobat (Tech skill type: Document management software)
+- Anti-spyware software (Tech skill type: Transaction security and virus protection software)
+- Antivirus software (Tech skill type: Transaction security and virus protection software)
+- Apache Tomcat (Tech skill type: Web platform development software)
+- Apple macOS (Tech skill type: Operating system software)
+- Application management software (Tech skill type: Configuration management software)
+- Arping (Tech skill type: Network monitoring software)
+- Automated installation software (Tech skill type: Configuration management software)
+- B&W Port Scanner (Tech skill type: Network monitoring software)
+- Bash (Tech skill type: Operating system software)
+- Bentley Systems ProjectWise (Tech skill type: Project management software)
+- BitWizard B.V. mtr (Tech skill type: Network monitoring software)
+- BlackBerry Enterprise Server (Tech skill type: Operating system software)
+- BMC Software Control-M (Tech skill type: Enterprise application integration software)
+- BMC Software Remedy IT Service Management Suite (Tech skill type: Helpdesk or call center software)
+- Border Gateway Protocol BGP (Tech skill type: Switch or router software)
+- Cisco Systems Cisco NetFlow Collection Engine (Tech skill type: Network monitoring software)
+- Cisco Systems Cisco Traffic Analyzer (Tech skill type: Network monitoring software)
+- Cisco Systems CiscoWorks (Tech skill type: Administration software)
+- Cisco Systems CiscoWorks LAN Management Solution (Tech skill type: Administration software)
+- Citrix cloud computing software (Tech skill type: Access software)
+- Clarified Networks Clarified Analyzer (Tech skill type: Network monitoring software)
+- Colasoft Capsa Enterprise (Tech skill type: Network monitoring software)
+- Colasoft Capsa Free (Tech skill type: Network monitoring software)
+- Compuware ClientVantage Agentless Monitoring (Tech skill type: Network monitoring software)
+- Congruity Technologies Inspector (Tech skill type: Network monitoring software)
+- Connectivity software (Tech skill type: Platform interconnectivity software)
+- Customer information control system CICS (Tech skill type: Transaction server software)
+- Customer relationship management CRM software (Tech skill type: Customer relationship management CRM software)
+- Dartware InterMapper (Tech skill type: Network monitoring software)
+- Database management software (Tech skill type: Data base management system software)
+- Dig (Tech skill type: Network monitoring software)
+- EMC Ionix Network Configuration Manager (Tech skill type: Configuration management software)
+- EMC NetWorker (Tech skill type: Backup or archival software)
+- EMC Symmetrix DMX (Tech skill type: Storage networking software)
+- Encryption software (Tech skill type: Transaction security and virus protection software)
+- Ethereal (Tech skill type: Network monitoring software)
+- Ettercap NG (Tech skill type: Network monitoring software)
+- File server software (Tech skill type: Filesystem software)
+- Firewall software (Tech skill type: Network security and virtual private network VPN equipment software)
+- Fluke Networks Enterprise LANMeter (Tech skill type: Network monitoring software)
+- Help desk software (Tech skill type: Helpdesk or call center software)
+- Hewlett Packard HP-UX (Tech skill type: Operating system software)
+- Hewlett-Packard HP Network Node Manager (Tech skill type: Administration software)
+- IBM AIX (Tech skill type: Operating system software)
+- IBM Domino (Tech skill type: Communications server software)
+- IBM Notes (Tech skill type: Electronic mail software)
+- IBM Power Systems software (Tech skill type: Enterprise system management software)
+- IBM Security Network Intrusion Prevention System (Tech skill type: Network security or virtual private network VPN management software)
+- IBM Tivoli NetView Distribution Manager (Tech skill type: Filesystem software)
+- IBM WebSphere (Tech skill type: Cloud-based management software)
+- ifconfig (Tech skill type: Administration software)
+- Intrusion prevention system IPS (Tech skill type: Network security or virtual private network VPN management software)
+- ipconfig (Tech skill type: Administration software)
+- Job control language JCL (Tech skill type: Operating system software)
+- KornShell (Tech skill type: Operating system software)
+- LAMP Stack (Tech skill type: Web platform development software)
+- Linux (Tech skill type: Operating system software)
+- Load testing software (Tech skill type: Program testing software)
+- LogMatrix NerveCenter (Tech skill type: Network monitoring software)
+- McAfee (Tech skill type: Transaction security and virus protection software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Active Directory (Tech skill type: Internet directory services software)
+- Microsoft Azure software (Tech skill type: Development environment software)
+- Microsoft Dynamics (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Exchange (Tech skill type: Electronic mail software)
+- Microsoft Hyper-V Server (Tech skill type: Operating system software)
+- Microsoft Internet Information Services (IIS) (Tech skill type: Transaction server software)
+- Microsoft Network Monitor (Tech skill type: Network monitoring software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft PowerShell (Tech skill type: Development environment software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft SQL Server (Tech skill type: Data base user interface and query software)
+- Microsoft Visual Basic (Tech skill type: Development environment software)
+- Microsoft Visual Basic Scripting Edition VBScript (Tech skill type: Development environment software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Windows PowerShell (Tech skill type: Operating system software)
+- Microsoft Windows Server (Tech skill type: Operating system software)
+- Microsoft Windows Sysprep (Tech skill type: Configuration management software)
+- Microsoft Word (Tech skill type: Word processing software)
+- MySQL (Tech skill type: Data base management system software)
+- Nagios (Tech skill type: Network monitoring software)
+- nbtstat (Tech skill type: Network monitoring software)
+- NetScout Sniffer Global Analyzer (Tech skill type: Network monitoring software)
+- NetScout Sniffer Portable Professional Analyzer (Tech skill type: Network monitoring software)
+- netstat (Tech skill type: Network monitoring software)
+- Network and system vulnerability assessment software (Tech skill type: Network security or virtual private network VPN management software)
+- Network design software (Tech skill type: Computer aided design CAD software)
+- Network Instruments Observer Standard (Tech skill type: Network monitoring software)
+- Network intrusion detection software (Tech skill type: Network security and virtual private network VPN equipment software)
+- Network monitoring software (Tech skill type: Network monitoring software)
+- ngrep (Tech skill type: Network monitoring software)
+- NIKSUN NetDetector (Tech skill type: Network security or virtual private network VPN management software)
+- Norton AntiVirus (Tech skill type: Transaction security and virus protection software)
+- NortonLifeLock cybersecurity software (Tech skill type: Transaction security and virus protection software)
+- NovaStor NovaBACKUP (Tech skill type: Backup or archival software)
+- Novell eDirectory (Tech skill type: Internet directory services software)
+- Nslookup (Tech skill type: Network monitoring software)
+- Operating system software (Tech skill type: Operating system software)
+- OPNET SP Sentinel (Tech skill type: Network monitoring software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- Oracle Solaris (Tech skill type: Operating system software)
+- Packet analyzers (Tech skill type: Network monitoring software)
+- Packet filter software (Tech skill type: Transaction security and virus protection software)
+- Patch and update management software (Tech skill type: Configuration management software)
+- Perl (Tech skill type: Object or component oriented development software)
+- Ping Identity (Tech skill type: Transaction security and virus protection software)
+- Port scanners (Tech skill type: Network monitoring software)
+- Project planning software (Tech skill type: Project management software)
+- Python (Tech skill type: Object or component oriented development software)
+- Red Hat Enterprise Linux (Tech skill type: Operating system software)
+- Remote control software (Tech skill type: Desktop communications software)
+- Root kit detection software (Tech skill type: Transaction security and virus protection software)
+- Route (Tech skill type: Network monitoring software)
+- Roxio Retrospect (Tech skill type: Backup or archival software)
+- Ruby (Tech skill type: Development environment software)
+- Security incident management software (Tech skill type: Network security or virtual private network VPN management software)
+- ServiceNow (Tech skill type: Data base user interface and query software)
+- Shell script (Tech skill type: Operating system software)
+- SolarWinds (Tech skill type: Cloud-based protection or security software)
+- Sonicwall SonicOS Enhanced (Tech skill type: Network security or virtual private network VPN management software)
+- Splunk Enterprise (Tech skill type: Cloud-based management software)
+- Storage area network SAN software (Tech skill type: Storage networking software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Symantec pcAnywhere (Tech skill type: Desktop communications software)
+- Symantec Veritas NetBackup (Tech skill type: Backup or archival software)
+- Tape backup system software (Tech skill type: Backup or archival software)
+- Tcpdump (Tech skill type: Network monitoring software)
+- Teradata Database (Tech skill type: Data base management system software)
+- Traceroute (Tech skill type: Network monitoring software)
+- Traffic shapers (Tech skill type: Network operating system enhancement software)
+- Ubuntu (Tech skill type: Operating system software)
+- UNIX (Tech skill type: Operating system software)
+- UNIX Shell (Tech skill type: Operating system software)
+- Veritas NetBackup (Tech skill type: Backup or archival software)
+- Virtual private networking VPN software (Tech skill type: Network security and virtual private network VPN equipment software)
+- VMware (Tech skill type: Clustering software)
+- Voice over internet protocol VoIP system software (Tech skill type: Internet protocol IP multimedia subsystem software)
+- WildPackets OmniPeek Network Analyzer (Tech skill type: Network monitoring software)
+- Wireshark (Tech skill type: Network monitoring software)
+- Zabbix (Tech skill type: Network monitoring software)
+
+## TOOLS USED
+- Asynchronous transfer mode ATM analyzers (Tool type: Network analyzers)
+- Cable testers (Tool type: Voltage or current meters)
+- Caching engines (Tool type: Computer servers)
+- Cisco Systems Cisco Application Visibility and Management AVM Traffic Collector (Tool type: Network analyzers)
+- Communications analyzers (Tool type: Network analyzers)
+- Continuity testers (Tool type: Circuit tester)
+- Copy machines (Tool type: Photocopiers)
+- Fabric analyzers (Tool type: Network analyzers)
+- Fibre channel protocol analyzers (Tool type: Network analyzers)
+- Laptop computers (Tool type: Notebook computers)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Load balancers (Tool type: Server load balancer)
+- Mainframe computers (Tool type: Mainframe computers)
+- Network address translation NAT appliances (Tool type: Computer servers)
+- Personal computers (Tool type: Personal computers)
+- Port analyzer adapters (Tool type: Network analyzers)
+- Powerline monitors (Tool type: Power meters)
+- Redundant array of independent disks RAID systems (Tool type: Hard disk arrays)
+- Remote access servers (Tool type: Access servers)
+- Screwdrivers (Tool type: Screwdrivers)
+- Synchronous optical network SONET analyzers (Tool type: Network analyzers)
+- T-Birds (Tool type: Network analyzers)
+- Test lights (Tool type: Circuit tester)
+- Throughput testers (Tool type: Network analyzers)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Fairly serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a month or more but not every week
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Slightly automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Once a month or more but not every week
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Once a year or more but not every month
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Limited responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Once a week or more but not every day
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Highly competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Slightly close (e.g., shared office)
+- Public Speaking: Once a year or more but not every month
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Less than half the time
+- Spend Time Sitting: More than half the time
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Once a week or more but not every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Never
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a month or more but not every week
+
+# INTERESTS (RIASEC)
+- Primary Interest: Conventional
+- Secondary Interest: Investigative
+- Tertiary Interest: Realistic
+
+# RELATED OCCUPATIONS
+- Network and Computer Systems Administrators
+- Computer Network Architects
+- Information Security Engineers
+- Computer User Support Specialists
+- Software Developers
+- Telecommunications Engineering Specialists
+- Information Security Analysts
+- Computer Systems Analysts
+- Computer Systems Engineers/Architects
+- Database Administrators
+- Telecommunications Equipment Installers and Repairers, Except Line Installers
+- Penetration Testers
+- Computer and Information Systems Managers
+- Web Administrators
+- Broadcast Technicians
+- Database Architects
+- Software Quality Assurance Analysts and Testers
+- Blockchain Engineers
+- Radio Frequency Identification Device Specialists
+- Computer Hardware Engineers

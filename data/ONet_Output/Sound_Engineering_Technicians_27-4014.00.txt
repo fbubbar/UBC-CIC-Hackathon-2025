@@ -1,0 +1,252 @@
+Job Title: Sound Engineering Technicians
+O*NET-SOC Code: 27-4014.00
+
+# DESCRIPTION
+Assemble and operate equipment to record, synchronize, mix, edit, or reproduce sound, including music, voices, or sound effects, for theater, video, film, television, podcasts, sporting events, and other productions.
+
+# TASKS
+- Record speech, music, and other sounds on recording media, using recording equipment.
+- Confer with producers, performers, and others to determine and achieve the desired sound for a production, such as a musical recording or a film.
+- Separate instruments, vocals, and other sounds, and combine sounds during the mixing or postproduction stage.
+- Regulate volume level and sound quality during recording sessions, using control consoles.
+- Set up, test, and adjust recording equipment for recording sessions and live performances.
+- Prepare for recording sessions by performing such activities as selecting and setting up microphones.
+- Keep logs of recordings.
+- Mix and edit voices, music, and taped sound effects for live performances and for prerecorded events, using sound mixing boards.
+- Synchronize and equalize prerecorded dialogue, music, and sound effects with visual action of motion pictures or television productions, using control consoles.
+- Reproduce and duplicate sound recordings from original recording media, using sound editing and duplication equipment.
+- Report equipment problems and ensure that required repairs are made.
+- Tear down equipment after event completion.
+- Convert video and audio recordings into digital formats for editing or archiving.
+- Create musical instrument digital interface programs for music projects, commercials, or film postproduction.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Engineering and Technology (Importance: 4.44/5 | Level: 4.78/7)
+- Computers and Electronics (Importance: 4.44/5 | Level: 5.23/7)
+- Communications and Media (Importance: 4.08/5 | Level: 4.48/7)
+- Customer and Personal Service (Importance: 4.04/5 | Level: 4.37/7)
+- English Language (Importance: 3.89/5 | Level: 3.85/7)
+- Telecommunications (Importance: 3.85/5 | Level: 3.74/7)
+- Fine Arts (Importance: 3.74/5 | Level: 4.52/7)
+- Psychology (Importance: 3.19/5 | Level: 3.7/7)
+- Production and Processing (Importance: 3.15/5 | Level: 3.35/7)
+- Administration and Management (Importance: 3.11/5 | Level: 3.81/7)
+- Sales and Marketing (Importance: 2.78/5 | Level: 3.33/7)
+- Administrative (Importance: 2.78/5 | Level: 3.81/7)
+- Mechanical (Importance: 2.78/5 | Level: 3.26/7)
+- Mathematics (Importance: 2.65/5 | Level: 3.19/7)
+- Physics (Importance: 2.63/5 | Level: 2.7/7)
+- Design (Importance: 2.59/5 | Level: 2.85/7)
+- Economics and Accounting (Importance: 2.52/5 | Level: 2.37/7)
+- Education and Training (Importance: 2.44/5 | Level: 3.15/7)
+- Personnel and Human Resources (Importance: 2.44/5 | Level: 2.96/7)
+- Building and Construction (Importance: 2.15/5 | Level: 2.07/7)
+- Sociology and Anthropology (Importance: 2.11/5 | Level: 1.81/7)
+- Public Safety and Security (Importance: 2.04/5 | Level: 1.93/7)
+- Therapy and Counseling (Importance: 2.04/5 | Level: 1.88/7)
+- Transportation (Importance: 1.96/5 | Level: 1.96/7)
+- Law and Government (Importance: 1.93/5 | Level: 1.81/7)
+- Philosophy and Theology (Importance: 1.85/5 | Level: 1.7/7)
+- Foreign Language (Importance: 1.74/5 | Level: 1.52/7)
+- History and Archeology (Importance: 1.59/5 | Level: 1.44/7)
+- Geography (Importance: 1.52/5 | Level: 1.22/7)
+- Chemistry (Importance: 1.3/5 | Level: 0.67/7)
+- Biology (Importance: 1.19/5 | Level: 0.44/7)
+- Medicine and Dentistry (Importance: 1.11/5 | Level: 0.22/7)
+- Food Production (Importance: 1.11/5 | Level: 0.22/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Active Listening (Importance: 3.75/5 | Level: 3.5/7)
+- Speaking (Importance: 3.62/5 | Level: 3.12/7)
+- Reading Comprehension (Importance: 3.38/5 | Level: 3.5/7)
+- Writing (Importance: 3.25/5 | Level: 3.12/7)
+- Complex Problem Solving (Importance: 3.25/5 | Level: 3.25/7)
+- Critical Thinking (Importance: 3.25/5 | Level: 3.62/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 3.0/7)
+- Operations Monitoring (Importance: 3.12/5 | Level: 3.0/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.5/7)
+- Active Learning (Importance: 3.12/5 | Level: 3.12/7)
+- Operation and Control (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 3.0/7)
+- Systems Evaluation (Importance: 3.0/5 | Level: 3.12/7)
+- Systems Analysis (Importance: 3.0/5 | Level: 3.0/7)
+- Coordination (Importance: 3.0/5 | Level: 3.12/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 3.0/7)
+- Service Orientation (Importance: 2.88/5 | Level: 3.0/7)
+- Quality Control Analysis (Importance: 2.88/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 2.75/5 | Level: 2.88/7)
+- Persuasion (Importance: 2.75/5 | Level: 3.12/7)
+- Troubleshooting (Importance: 2.75/5 | Level: 2.75/7)
+- Instructing (Importance: 2.75/5 | Level: 2.88/7)
+- Equipment Maintenance (Importance: 2.62/5 | Level: 2.62/7)
+- Negotiation (Importance: 2.62/5 | Level: 2.88/7)
+- Repairing (Importance: 2.5/5 | Level: 2.5/7)
+- Equipment Selection (Importance: 2.5/5 | Level: 2.62/7)
+- Management of Personnel Resources (Importance: 2.5/5 | Level: 2.62/7)
+- Mathematics (Importance: 2.12/5 | Level: 2.0/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.75/7)
+- Technology Design (Importance: 2.0/5 | Level: 1.88/7)
+- Programming (Importance: 1.75/5 | Level: 1.0/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 1.38/7)
+- Installation (Importance: 1.5/5 | Level: 0.5/7)
+- Science (Importance: 1.38/5 | Level: 0.38/7)
+- Operations Analysis (Importance: 1.38/5 | Level: 0.5/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adobe Acrobat (Tech skill type: Document management software)
+- Adobe Audition (Tech skill type: Music or sound editing software)
+- Adobe Creative Cloud software (Tech skill type: Graphics or photo imaging software)
+- Adobe InDesign (Tech skill type: Desktop publishing software)
+- Adobe Photoshop (Tech skill type: Graphics or photo imaging software)
+- Adobe Premiere Pro (Tech skill type: Video creation and editing software)
+- Apple Final Cut Pro (Tech skill type: Video creation and editing software)
+- Apple macOS (Tech skill type: Operating system software)
+- Audio editing software (Tech skill type: Music or sound editing software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Avid Pro Tools (Tech skill type: Music or sound editing software)
+- Avid Technology audio visual editing software (Tech skill type: Video creation and editing software)
+- Avid Technology Pro Tools (Tech skill type: Music or sound editing software)
+- Cisco IOS (Tech skill type: Operating system software)
+- Computer aided design CAD software (Tech skill type: Computer aided design CAD software)
+- Facebook (Tech skill type: Web page creation and editing software)
+- Git (Tech skill type: File versioning software)
+- IBM Middleware (Tech skill type: Transaction server software)
+- Linux (Tech skill type: Operating system software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft operating system (Tech skill type: Operating system software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Musical instrument digital interface MIDI software (Tech skill type: Music or sound editing software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- Perforce software (Tech skill type: Metadata management software)
+- Real time operating system RTOS software (Tech skill type: Operating system software)
+- Unity Technologies Unity (Tech skill type: Development environment software)
+- UNIX (Tech skill type: Operating system software)
+- VMware (Tech skill type: Clustering software)
+- Voice over internet protocol VoIP system software (Tech skill type: Internet protocol IP multimedia subsystem software)
+
+## TOOLS USED
+- 1/3 octave equalizers (Tool type: Equalizers)
+- Amplifiers (Tool type: Loudspeakers)
+- Audio compressors (Tool type: Audio mixing consoles)
+- Audio filters (Tool type: Attenuators)
+- Audio mixer consoles (Tool type: Audio mixing consoles)
+- Cable testers (Tool type: Voltage or current meters)
+- Channel equalizers (Tool type: Equalizers)
+- Condenser microphones (Tool type: Microphones)
+- Desktop computers (Tool type: Desktop computers)
+- Digital audio recorders (Tool type: Digital voice recorders)
+- Digital delay pedals (Tool type: Audio mixing consoles)
+- Digital oscilloscopes (Tool type: Oscilloscopes)
+- Digital samplers (Tool type: Audio mixing consoles)
+- Dynamic microphones (Tool type: Microphones)
+- Dynamics processors (Tool type: Audio mixing consoles)
+- Electret microphones (Tool type: Microphones)
+- Laptop computers (Tool type: Notebook computers)
+- Microphone pre-amps (Tool type: Microphones)
+- Multitrack tape recording machines (Tool type: Cassette players or recorders)
+- Musical instrument digital interface MIDI sequencers (Tool type: Musical instrument digital interface MIDI interfaces)
+- Noise reduction systems (Tool type: Audio mixing consoles)
+- Parametric equalizers (Tool type: Equalizers)
+- Peak equalizers (Tool type: Equalizers)
+- Personal computers (Tool type: Personal computers)
+- Polarity checkers (Tool type: Multimeters)
+- Pressure zone microphones (Tool type: Microphones)
+- Reverb devices (Tool type: Audio mixing consoles)
+- Ribbon microphones (Tool type: Microphones)
+- Shelving equalizers (Tool type: Equalizers)
+- Soldering irons (Tool type: Soldering iron)
+- Studio intercom systems (Tool type: Intercom systems)
+- Volt-ohm meters VOM (Tool type: Ohmmeters)
+- Wireless microphones (Tool type: Microphones)
+- Wireless receivers (Tool type: Radio frequency transmitters or receivers)
+- Wireless transmitters (Tool type: Radio frequency transmitters or receivers)
+
+# WORK CONTEXT
+- Conflict Situations: Once a week or more but not every day
+- Consequence of Error: Serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Important
+- Deal With External Customers or the Public in General: Fairly important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Slightly automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Once a year or more but not every month
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Limited responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Very important
+- Importance of Repeating Same Tasks: Important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Once a year or more but not every month
+- Level of Competition: Extremely competitive
+- Outdoors, Exposed to All Weather Conditions: Once a month or more but not every week
+- Outdoors, Under Cover: Once a year or more but not every month
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Slightly close (e.g., shared office)
+- Public Speaking: Once a year or more but not every month
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Less than half the time
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Continually or almost continually
+- Spend Time Sitting: More than half the time
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Never
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: High responsibility
+- Work With or Contribute to a Work Group or Team: Very important
+- Written Letters and Memos: Once a month or more but not every week
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Artistic
+- Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Audio and Video Technicians
+- Broadcast Technicians
+- Lighting Technicians
+- Calibration Technologists and Technicians
+- Media Technical Directors/Managers
+- Electrical and Electronic Engineering Technologists and Technicians
+- Camera Operators, Television, Video, and Film
+- Audiovisual Equipment Installers and Repairers
+- Film and Video Editors
+- Electrical and Electronics Repairers, Commercial and Industrial Equipment
+- Robotics Technicians
+- Camera and Photographic Equipment Repairers
+- Electronics Engineers, Except Computer
+- Motion Picture Projectionists
+- Radio Frequency Identification Device Specialists
+- Producers and Directors
+- Aerospace Engineering and Operations Technologists and Technicians
+- Musical Instrument Repairers and Tuners
+- Computer Numerically Controlled Tool Programmers
+- Software Developers

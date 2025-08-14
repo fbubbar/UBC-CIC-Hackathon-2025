@@ -1,0 +1,361 @@
+Job Title: Physicians, Pathologists
+O*NET-SOC Code: 29-1222.00
+
+# DESCRIPTION
+Diagnose diseases and conduct lab tests using organs, body tissues, and fluids. Includes medical examiners.
+
+# TASKS
+- Examine microscopic samples to identify diseases or other abnormalities.
+- Diagnose diseases or study medical conditions, using techniques such as gross pathology, histology, cytology, cytopathology, clinical chemistry, immunology, flow cytometry, or molecular biology.
+- Write pathology reports summarizing analyses, results, and conclusions.
+- Communicate pathologic findings to surgeons or other physicians.
+- Identify the etiology, pathogenesis, morphological change, and clinical significance of diseases.
+- Read current literature, talk with colleagues, or participate in professional organizations or conferences to keep abreast of developments in pathology.
+- Consult with physicians about ordering and interpreting tests or providing treatments.
+- Analyze and interpret results from tests, such as microbial or parasite tests, urine analyses, hormonal assays, fine needle aspirations (FNAs), and polymerase chain reactions (PCRs).
+- Review cases by analyzing autopsies, laboratory findings, or case investigation reports.
+- Manage medical laboratories.
+- Develop or adopt new tests or instruments to improve diagnosis of diseases.
+- Educate physicians, students, and other personnel in medical laboratory professions, such as medical technology, cytotechnology, or histotechnology.
+- Plan and supervise the work of the pathology staff, residents, or visiting pathologists.
+- Perform autopsies to determine causes of deaths.
+- Diagnose infections, such as Hepatitis B and Acquired Immune Deficiency Syndrome (AIDS), by conducting tests to detect the antibodies that patients' immune systems make to fight such infections.
+- Obtain specimens by performing procedures, such as biopsies or fine needle aspirations (FNAs) of superficial nodules.
+- Conduct genetic analyses of deoxyribonucleic acid (DNA) or chromosomes to diagnose small biopsies and cell samples.
+- Conduct research and present scientific findings.
+- Testify in depositions or trials as an expert witness.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Medicine and Dentistry (Importance: 4.85/5 | Level: 5.97/7)
+- Biology (Importance: 4.51/5 | Level: 5.98/7)
+- English Language (Importance: 4.26/5 | Level: 4.67/7)
+- Education and Training (Importance: 3.41/5 | Level: 4.57/7)
+- Customer and Personal Service (Importance: 3.4/5 | Level: 4.23/7)
+- Chemistry (Importance: 3.17/5 | Level: 3.94/7)
+- Administration and Management (Importance: 3.13/5 | Level: 3.76/7)
+- Computers and Electronics (Importance: 3.12/5 | Level: 3.79/7)
+- Administrative (Importance: 2.79/5 | Level: 3.19/7)
+- Personnel and Human Resources (Importance: 2.67/5 | Level: 2.76/7)
+- Mathematics (Importance: 2.56/5 | Level: 3.0/7)
+- Public Safety and Security (Importance: 2.43/5 | Level: 2.56/7)
+- Communications and Media (Importance: 2.36/5 | Level: 2.22/7)
+- Law and Government (Importance: 2.36/5 | Level: 2.62/7)
+- Production and Processing (Importance: 2.32/5 | Level: 2.23/7)
+- Economics and Accounting (Importance: 2.27/5 | Level: 2.04/7)
+- Telecommunications (Importance: 2.22/5 | Level: 1.33/7)
+- Psychology (Importance: 2.16/5 | Level: 2.49/7)
+- Physics (Importance: 2.15/5 | Level: 2.09/7)
+- Sales and Marketing (Importance: 2.14/5 | Level: 2.17/7)
+- Engineering and Technology (Importance: 2.05/5 | Level: 1.53/7)
+- Therapy and Counseling (Importance: 1.76/5 | Level: 1.69/7)
+- Sociology and Anthropology (Importance: 1.75/5 | Level: 1.32/7)
+- Transportation (Importance: 1.71/5 | Level: 1.2/7)
+- Mechanical (Importance: 1.62/5 | Level: 1.12/7)
+- Philosophy and Theology (Importance: 1.49/5 | Level: 1.13/7)
+- Design (Importance: 1.49/5 | Level: 1.02/7)
+- Geography (Importance: 1.43/5 | Level: 1.02/7)
+- Foreign Language (Importance: 1.39/5 | Level: 0.56/7)
+- History and Archeology (Importance: 1.28/5 | Level: 0.62/7)
+- Building and Construction (Importance: 1.16/5 | Level: 0.26/7)
+- Food Production (Importance: 1.1/5 | Level: 0.18/7)
+- Fine Arts (Importance: 1.05/5 | Level: 0.1/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Reading Comprehension (Importance: 4.25/5 | Level: 5.62/7)
+- Writing (Importance: 4.12/5 | Level: 5.0/7)
+- Critical Thinking (Importance: 4.12/5 | Level: 4.62/7)
+- Active Listening (Importance: 4.0/5 | Level: 4.38/7)
+- Science (Importance: 4.0/5 | Level: 4.0/7)
+- Active Learning (Importance: 4.0/5 | Level: 4.75/7)
+- Complex Problem Solving (Importance: 4.0/5 | Level: 4.62/7)
+- Judgment and Decision Making (Importance: 3.88/5 | Level: 4.75/7)
+- Speaking (Importance: 3.88/5 | Level: 4.62/7)
+- Monitoring (Importance: 3.5/5 | Level: 4.0/7)
+- Instructing (Importance: 3.25/5 | Level: 4.38/7)
+- Time Management (Importance: 3.25/5 | Level: 3.88/7)
+- Learning Strategies (Importance: 3.12/5 | Level: 3.75/7)
+- Management of Personnel Resources (Importance: 3.12/5 | Level: 3.62/7)
+- Social Perceptiveness (Importance: 3.12/5 | Level: 3.5/7)
+- Persuasion (Importance: 3.0/5 | Level: 3.12/7)
+- Systems Evaluation (Importance: 3.0/5 | Level: 3.62/7)
+- Coordination (Importance: 3.0/5 | Level: 3.5/7)
+- Systems Analysis (Importance: 3.0/5 | Level: 3.62/7)
+- Negotiation (Importance: 3.0/5 | Level: 3.0/7)
+- Mathematics (Importance: 3.0/5 | Level: 3.12/7)
+- Service Orientation (Importance: 3.0/5 | Level: 3.0/7)
+- Quality Control Analysis (Importance: 2.75/5 | Level: 2.88/7)
+- Management of Material Resources (Importance: 2.75/5 | Level: 2.88/7)
+- Management of Financial Resources (Importance: 2.62/5 | Level: 2.88/7)
+- Operations Monitoring (Importance: 2.25/5 | Level: 2.12/7)
+- Troubleshooting (Importance: 2.0/5 | Level: 1.25/7)
+- Operation and Control (Importance: 2.0/5 | Level: 1.25/7)
+- Operations Analysis (Importance: 2.0/5 | Level: 1.62/7)
+- Programming (Importance: 1.88/5 | Level: 1.75/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.5/7)
+- Equipment Selection (Importance: 1.62/5 | Level: 0.75/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Accounts receivables system software (Tech skill type: Accounting software)
+- Anatomic pathology software (Tech skill type: Medical software)
+- Antek HealthWare LabDAQ (Tech skill type: Medical software)
+- Aspyra CyberLAB (Tech skill type: Medical software)
+- Aspyra CyberPATH (Tech skill type: Medical software)
+- Blood Bank Computer Systems Blood Bank Control System (Tech skill type: Medical software)
+- Blood bank information systems (Tech skill type: Medical software)
+- Cerner CoPathPlus (Tech skill type: Medical software)
+- Cerner Millennium PathNet (Tech skill type: Medical software)
+- Cerner Millennium PathNet Blood Bank Transfusion (Tech skill type: Medical software)
+- Cerner Millennium ProFit (Tech skill type: Accounting software)
+- Clinical Information Systems CISLab CPS (Tech skill type: Medical software)
+- Clinical Software Solutions CLIN1 Suite (Tech skill type: Medical software)
+- ClinLab LIS (Tech skill type: Medical software)
+- ComBase (Tech skill type: Information retrieval or search software)
+- Comp Pro Med Polytech (Tech skill type: Medical software)
+- Computer Service and Support AR 2000 Laboratory Billing System (Tech skill type: Accounting software)
+- Computer Trust WinSurge (Tech skill type: Medical software)
+- Cortex Medical Management Systems Cortex Medical Billing (Tech skill type: Accounting software)
+- Cortex Medical Management Systems The Gold Standard (Tech skill type: Medical software)
+- CPSI CPSI System (Tech skill type: Medical software)
+- CSS CLS-2000 (Tech skill type: Medical software)
+- Custom Software Systems StarLab (Tech skill type: Medical software)
+- Database management software (Tech skill type: Data base management system software)
+- Database software (Tech skill type: Data base user interface and query software)
+- Digital image databases (Tech skill type: Information retrieval or search software)
+- EasyPath Software Pathology Assistant (Tech skill type: Medical software)
+- Elekta Impac Software IntelliLab (Tech skill type: Medical software)
+- Elekta Impac Software PowerPath (Tech skill type: Medical software)
+- EpicLab Laboratory Information System (Tech skill type: Medical software)
+- eTeleNext AP Anywhere (Tech skill type: Medical software)
+- eTeleNext LIS (Tech skill type: Medical software)
+- Fletcher-Flora Health Care Systems FFlex eSuite LIS (Tech skill type: Medical software)
+- Fletcher-Flora Health Care Systems LabPak LIS (Tech skill type: Medical software)
+- GE Healthcare Centricity Laboratory (Tech skill type: Medical software)
+- GE Healthcare Centricity Laboratory Anatomic Pathology/Cytology (Tech skill type: Medical software)
+- GE Healthcare Centricity Laboratory Transfusion Medicine (Tech skill type: Medical software)
+- Haemonetics Symphony Suite (Tech skill type: Medical software)
+- Healthvision MediAR (Tech skill type: Accounting software)
+- Healthvision TDSynergy Anatomic Pathology (Tech skill type: Medical software)
+- Healthvision TDSynergy LIS (Tech skill type: Medical software)
+- HEX Laboratory Systems Billing and Cash Management (Tech skill type: Accounting software)
+- HEX Laboratory Systems LAB/HEX (Tech skill type: Medical software)
+- HT Systems PatientSecure (Tech skill type: Medical software)
+- Iatric Systems MobiLab (Tech skill type: Medical software)
+- Korchek Technologies CareChek (Tech skill type: Medical software)
+- Laboratory information system LIS (Tech skill type: Medical software)
+- LabSoft LabNet (Tech skill type: Medical software)
+- Lattice MediCopia (Tech skill type: Medical software)
+- McKesson Horizon Anatomic Pathology (Tech skill type: Medical software)
+- McKesson Horizon Blood Bank (Tech skill type: Medical software)
+- McKesson Horizon Lab (Tech skill type: Medical software)
+- McKesson Horizon Lab Financials (Tech skill type: Accounting software)
+- McKesson Horizon MobileCare Phlebotomy (Tech skill type: Medical software)
+- MEDITECH Anatomical Pathology (Tech skill type: Medical software)
+- MEDITECH HCIS (Tech skill type: Medical software)
+- Mediware Information Systems HCLL Donor (Tech skill type: Medical software)
+- Mediware Information Systems HCLL Transfusion (Tech skill type: Medical software)
+- Mediware Information Systems LifeTrak (Tech skill type: Medical software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Multidata Computer Systems MultiTech (Tech skill type: Medical software)
+- NeTLIMS AutoAP (Tech skill type: Medical software)
+- NeTLIMS AutoFusion (Tech skill type: Medical software)
+- NeTLIMS AutoLIMS Core Lab (Tech skill type: Medical software)
+- NetSoft IntelliPath (Tech skill type: Medical software)
+- Niceware International LabelClinic CT (Tech skill type: Medical software)
+- Novovision NovoPath (Tech skill type: Medical software)
+- Omnitech OMNILAB (Tech skill type: Medical software)
+- Orchard Software Orchard Harvest LIS (Tech skill type: Medical software)
+- Orchard Software Orchard Pathology (Tech skill type: Medical software)
+- PathLogix (Tech skill type: Medical software)
+- PathView Systems Progeny (Tech skill type: Medical software)
+- Psyche Systems LabWeb (Tech skill type: Medical software)
+- Psyche Systems Systematic Blood Bank (Tech skill type: Medical software)
+- Psyche Systems WindoPath (Tech skill type: Medical software)
+- Quality Software Systems LabHealth (Tech skill type: Medical software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- SCC Soft Computer SoftA/R (Tech skill type: Accounting software)
+- SCC Soft Computer SoftBank (Tech skill type: Medical software)
+- SCC Soft Computer SoftDonor (Tech skill type: Medical software)
+- SCC Soft Computer SoftLab (Tech skill type: Medical software)
+- SCC Soft Computer SoftPath (Tech skill type: Medical software)
+- Schuyler House SchuyLab (Tech skill type: Medical software)
+- Seacoast Laboratory Data Systems SurroundLab AR (Tech skill type: Accounting software)
+- Seacoast Laboratory Data Systems SurroundLab Plus (Tech skill type: Medical software)
+- Siemens NOVIUS Lab (Tech skill type: Medical software)
+- Siemens Patient Identification Check (Tech skill type: Medical software)
+- Small Business Computers of New England AP Easy (Tech skill type: Medical software)
+- STARLIMS (Tech skill type: Medical software)
+- Sunquest Information Systems Sunquest Clinical Financials (Tech skill type: Accounting software)
+- Sunquest Information Systems Sunquest Collection Manager (Tech skill type: Medical software)
+- Sunquest Information Systems Sunquest CoPathPlus (Tech skill type: Medical software)
+- Sunquest Information Systems Sunquest Laboratory (Tech skill type: Medical software)
+- Sunquest Information Systems Sunquest Transfusion Manager (Tech skill type: Medical software)
+- TELCOR Billing Information System (Tech skill type: Accounting software)
+- WebPathLab (Tech skill type: Medical software)
+- Wyndgate Technologies ElDorado Donor (Tech skill type: Medical software)
+- Wyndgate Technologies SafeTrace (Tech skill type: Medical software)
+- XIFIN (Tech skill type: Accounting software)
+
+## TOOLS USED
+- Albuminometers (Tool type: Albuminometers)
+- Anaerobic specimen transport systems (Tool type: Specimen holders)
+- Analytical balances (Tool type: Analytical balances)
+- Automated immunoassay analyzers (Tool type: Immunology analyzers)
+- Automated pipettes (Tool type: Dropping pipettes)
+- Automated slide stainers (Tool type: Histology or cytology slide stainers)
+- Biopsy needles (Tool type: Biopsy needles)
+- Blood agar plates (Tool type: Specialty plates for bacteria)
+- Blood culture incubators (Tool type: Shaking incubators)
+- Blood gas analyzers (Tool type: Blood gas analyzers)
+- Blood irradiators (Tool type: Irradiation gamma sources)
+- Bone marrow puncture needles (Tool type: Surgical bone biopsy trephines)
+- Calorimeters (Tool type: Calorimeters)
+- Capillary tubes (Tool type: Capillary or hematocrit tubes)
+- Centrifuges (Tool type: Benchtop centrifuges)
+- Chemical protective face shields (Tool type: Facial shields)
+- Chemiluminescent immunoassay analyzers (Tool type: Immunology analyzers)
+- Chemistry analyzers (Tool type: Chemistry analyzers)
+- Clinical chemical systems (Tool type: Chemistry analyzers)
+- Clot tubes (Tool type: Vacuum blood collection tubes or containers)
+- Coagulation analyzers (Tool type: Coagulation analyzers)
+- Desktop computers (Tool type: Desktop computers)
+- Digital cameras (Tool type: Digital cameras)
+- Digital photomicroscopes (Tool type: Photo attachments for microscopes)
+- Disposable plastic pipettes (Tool type: Dropping pipettes)
+- Electron microscopes (Tool type: Electron microscopes)
+- Electrophoresis instruments (Tool type: Electrophoresis system accessories)
+- Eyewash fountains (Tool type: Eyewashers or eye wash stations)
+- Flame photometers (Tool type: Photometer)
+- Flow cytometers (Tool type: Microbiology analyzers)
+- Fluorescence polarization immunoassay analyzers (Tool type: Immunology analyzers)
+- FNAC needles (Tool type: Biopsy needles)
+- Freezers (Tool type: Ultra cold or ultralow upright cabinets or freezers)
+- Freezing microtomes (Tool type: Microtomes)
+- Gas chromatographs GC (Tool type: Gas chromatographs)
+- Gravimetric pipettes (Tool type: Dropping pipettes)
+- Hemacytometers (Tool type: Hemacytometer sets)
+- Hematology analyzers (Tool type: Hematology analyzers)
+- Histopathology block holders (Tool type: Histology tissue cassettes)
+- In vitro blood gas analyzers (Tool type: Blood gas analyzers)
+- Label printers (Tool type: Label making machines)
+- Laboratory freezer or refrigerator thermometers (Tool type: Laboratory freezer or refrigerator thermometers)
+- Laboratory refrigerators (Tool type: General purpose refrigerators or refrigerator freezers)
+- Laboratory water baths (Tool type: Water baths)
+- Lumbar puncture needles (Tool type: Anesthesia nerve block kit or tray)
+- Mass spectroscopes (Tool type: Mass spectrometers)
+- Microtome blocks (Tool type: Microtomes)
+- Paraffin molds (Tool type: Histology paraffin)
+- Personal protective equipment (Tool type: Hazardous material protective apparel)
+- Plastic petri dishes (Tool type: Petri plates or dishes)
+- Polymerase chain reaction PCR equipment (Tool type: Rapid amplification or complementary deoxyribonucleic acid ends RACE technology products)
+- Positive patient identification PPID systems (Tool type: Patient identification and information products)
+- Powder-free gloves (Tool type: Medical exam or non surgical procedure gloves)
+- Rocking microtomes (Tool type: Microtomes)
+- Rotary microtomes (Tool type: Microtomes)
+- Slide drying ovens (Tool type: Slide dryers)
+- Sliding microtomes (Tool type: Microtomes)
+- Spirometers (Tool type: Spirometers)
+- Sputum traps (Tool type: Sputum collection apparatus or containers)
+- Sterile screw-cap cups (Tool type: Non vacuum blood collection tubes or containers)
+- Sterile screw-cap glass tubes (Tool type: Non vacuum blood collection tubes or containers)
+- Sterile screw-cap plastic tubes (Tool type: Non vacuum blood collection tubes or containers)
+- Swab transports (Tool type: Swab collection or transport containers)
+- Thermal cyclers (Tool type: Temperature cycling chambers or thermal cyclers)
+- Tissue baths (Tool type: Tissue processors)
+- Trephine biopsy needles (Tool type: Surgical bone biopsy trephines)
+- Ultra microtomes (Tool type: Microtomes)
+- Urinometers (Tool type: Urinalysis analyzers)
+- Volumetric flasks (Tool type: Laboratory flasks)
+- Volumetric pipettes (Tool type: Volumetric pipettes)
+- Weighing vials (Tool type: Laboratory vials)
+
+# WORK CONTEXT
+- Conflict Situations: Once a month or more but not every week
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Extremely important
+- Deal With External Customers or the Public in General: Not important at all
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Slightly automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Once a week or more but not every day
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Once a week or more but not every day
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Once a month or more but not every week
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: No responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Extremely important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Highly competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: I work with others but not closely (e.g., private office)
+- Public Speaking: Once a month or more but not every week
+- Spend Time Bending or Twisting Your Body: Never
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Continually or almost continually
+- Spend Time Sitting: Continually or almost continually
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Once a week or more but not every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Limited responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a week or more but not every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Investigative
+- Secondary Interest: Realistic
+- Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Pediatric Surgeons
+- Cardiologists
+- Histotechnologists
+- Medical and Clinical Laboratory Technologists
+- Radiologists
+- Emergency Medicine Physicians
+- Allergists and Immunologists
+- Orthopedic Surgeons, Except Pediatric
+- Clinical Neuropsychologists
+- Cytotechnologists
+- Medical and Clinical Laboratory Technicians
+- Histology Technicians
+- Ophthalmologists, Except Pediatric
+- Dermatologists
+- Neuropsychologists
+- General Internal Medicine Physicians
+- Neurologists
+- Medical Scientists, Except Epidemiologists
+- Urologists
+- Clinical Nurse Specialists
