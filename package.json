@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lambda:invoke": "npx ampx sandbox function invoke",
+    "lambda:logs": "npx ampx sandbox function logs"
   },
   "dependencies": {
     "@aws-amplify/ui-react": "^6.11.2",
