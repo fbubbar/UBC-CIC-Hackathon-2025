@@ -1,0 +1,257 @@
+Job Title: Nuclear Medicine Technologists
+O*NET-SOC Code: 29-2033.00
+
+# DESCRIPTION
+Prepare, administer, and measure radioactive isotopes in therapeutic, diagnostic, and tracer studies using a variety of radioisotope equipment. Prepare stock solutions of radioactive materials and calculate doses to be administered by radiologists. Subject patients to radiation. Execute blood volume, red cell survival, and fat absorption studies following standard laboratory techniques.
+
+# TASKS
+- Administer radiopharmaceuticals or radiation intravenously to detect or treat diseases, using radioisotope equipment, under direction of a physician.
+- Detect and map radiopharmaceuticals in patients' bodies, using a camera to produce photographic or computer images.
+- Process cardiac function studies, using computer.
+- Calculate, measure, and record radiation dosage or radiopharmaceuticals received, used, and disposed, using computer and following physician's prescription.
+- Record and process results of procedures.
+- Produce a computer-generated or film image for interpretation by a physician.
+- Prepare stock radiopharmaceuticals, adhering to safety standards that minimize radiation exposure to workers and patients.
+- Explain test procedures and safety precautions to patients and provide them with assistance during test procedures.
+- Perform quality control checks on laboratory equipment or cameras.
+- Dispose of radioactive materials and store radiopharmaceuticals, following radiation safety procedures.
+- Gather information on patients' illnesses and medical history to guide the choice of diagnostic procedures for therapy.
+- Maintain and calibrate radioisotope and laboratory equipment.
+- Measure glandular activity, blood volume, red cell survival, or radioactivity of patient, using scanners, Geiger counters, scintillometers, or other laboratory equipment.
+- Train or supervise student or subordinate nuclear medicine technologists.
+- Position radiation fields, radiation beams, and patient to allow for most effective treatment of patient's disease, using computer.
+- Add radioactive substances to biological specimens, such as blood, urine, or feces, to determine therapeutic drug or hormone levels.
+- Develop treatment procedures for nuclear medicine treatment programs.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.66/5 | Level: 5.55/7)
+- Biology (Importance: 4.0/5 | Level: 4.24/7)
+- English Language (Importance: 3.93/5 | Level: 3.76/7)
+- Physics (Importance: 3.92/5 | Level: 3.85/7)
+- Medicine and Dentistry (Importance: 3.82/5 | Level: 3.82/7)
+- Chemistry (Importance: 3.75/5 | Level: 4.2/7)
+- Computers and Electronics (Importance: 3.74/5 | Level: 4.15/7)
+- Mathematics (Importance: 3.67/5 | Level: 4.03/7)
+- Public Safety and Security (Importance: 3.37/5 | Level: 3.22/7)
+- Administrative (Importance: 3.29/5 | Level: 3.47/7)
+- Education and Training (Importance: 3.08/5 | Level: 3.57/7)
+- Psychology (Importance: 3.07/5 | Level: 3.67/7)
+- Administration and Management (Importance: 2.78/5 | Level: 2.57/7)
+- Engineering and Technology (Importance: 2.65/5 | Level: 2.27/7)
+- Production and Processing (Importance: 2.42/5 | Level: 2.04/7)
+- Law and Government (Importance: 2.37/5 | Level: 2.3/7)
+- Mechanical (Importance: 2.31/5 | Level: 1.57/7)
+- Sociology and Anthropology (Importance: 2.14/5 | Level: 1.81/7)
+- Telecommunications (Importance: 2.13/5 | Level: 1.56/7)
+- Communications and Media (Importance: 2.0/5 | Level: 1.81/7)
+- Therapy and Counseling (Importance: 1.91/5 | Level: 1.68/7)
+- Economics and Accounting (Importance: 1.84/5 | Level: 1.02/7)
+- Personnel and Human Resources (Importance: 1.81/5 | Level: 1.34/7)
+- Foreign Language (Importance: 1.73/5 | Level: 1.46/7)
+- Transportation (Importance: 1.67/5 | Level: 0.99/7)
+- Philosophy and Theology (Importance: 1.55/5 | Level: 1.38/7)
+- Sales and Marketing (Importance: 1.52/5 | Level: 1.15/7)
+- Design (Importance: 1.48/5 | Level: 0.79/7)
+- Building and Construction (Importance: 1.15/5 | Level: 0.35/7)
+- Geography (Importance: 1.15/5 | Level: 0.31/7)
+- History and Archeology (Importance: 1.07/5 | Level: 0.12/7)
+- Food Production (Importance: 1.06/5 | Level: 0.13/7)
+- Fine Arts (Importance: 1.03/5 | Level: 0.05/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Critical Thinking (Importance: 3.88/5 | Level: 3.62/7)
+- Speaking (Importance: 3.75/5 | Level: 3.75/7)
+- Active Listening (Importance: 3.75/5 | Level: 3.75/7)
+- Writing (Importance: 3.5/5 | Level: 3.38/7)
+- Reading Comprehension (Importance: 3.5/5 | Level: 4.0/7)
+- Monitoring (Importance: 3.5/5 | Level: 3.5/7)
+- Social Perceptiveness (Importance: 3.38/5 | Level: 3.62/7)
+- Coordination (Importance: 3.25/5 | Level: 3.25/7)
+- Service Orientation (Importance: 3.25/5 | Level: 3.25/7)
+- Science (Importance: 3.25/5 | Level: 3.5/7)
+- Judgment and Decision Making (Importance: 3.25/5 | Level: 2.88/7)
+- Mathematics (Importance: 3.12/5 | Level: 3.0/7)
+- Operations Monitoring (Importance: 3.12/5 | Level: 2.88/7)
+- Active Learning (Importance: 3.12/5 | Level: 3.12/7)
+- Complex Problem Solving (Importance: 3.12/5 | Level: 3.0/7)
+- Operation and Control (Importance: 3.0/5 | Level: 2.75/7)
+- Time Management (Importance: 3.0/5 | Level: 3.0/7)
+- Quality Control Analysis (Importance: 2.88/5 | Level: 3.12/7)
+- Instructing (Importance: 2.88/5 | Level: 3.38/7)
+- Learning Strategies (Importance: 2.75/5 | Level: 3.0/7)
+- Persuasion (Importance: 2.75/5 | Level: 2.75/7)
+- Management of Personnel Resources (Importance: 2.62/5 | Level: 2.75/7)
+- Equipment Maintenance (Importance: 2.38/5 | Level: 2.12/7)
+- Systems Analysis (Importance: 2.38/5 | Level: 2.5/7)
+- Systems Evaluation (Importance: 2.38/5 | Level: 2.25/7)
+- Negotiation (Importance: 2.38/5 | Level: 2.38/7)
+- Troubleshooting (Importance: 2.38/5 | Level: 2.25/7)
+- Equipment Selection (Importance: 2.25/5 | Level: 1.88/7)
+- Repairing (Importance: 2.12/5 | Level: 2.0/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.38/7)
+- Operations Analysis (Importance: 1.75/5 | Level: 1.12/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 1.0/7)
+- Technology Design (Importance: 1.75/5 | Level: 0.75/7)
+- Programming (Importance: 1.62/5 | Level: 0.88/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Electronic medical record EMR software (Tech skill type: Medical software)
+- Gamma camera software (Tech skill type: Medical software)
+- MEDITECH software (Tech skill type: Medical software)
+- Medovation RadRunner (Tech skill type: Medical software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Radiopharmacy inventory databases (Tech skill type: Medical software)
+
+## TOOLS USED
+- Automated blood pressure cuffs (Tool type: Electronic blood pressure units)
+- Automated external defibrillators AED (Tool type: Mobile medical services automated external defibrillators AED or hard paddles)
+- Automated multisample liquid scintillation counters (Tool type: Liquid scintillation counters)
+- Automatic film developing equipment (Tool type: Medical imaging wet darkroom or daylight processors)
+- Beta vial shields (Tool type: Medical radiological shielding portable containers for radioactive materials)
+- Blood drawing syringes (Tool type: Blood collection syringes)
+- Computed tomography CT scanners (Tool type: Medical computed tomography CT or CAT scanners or tubes)
+- Desktop computers (Tool type: Desktop computers)
+- Digital ratemeters (Tool type: Radiation detectors)
+- Dose calibrators (Tool type: Medical radiation dosimeters)
+- Dual channel spectrometer systems (Tool type: Spectrometers)
+- Dual headed gamma cameras (Tool type: Medical gamma cameras for general use)
+- Electrocardiography EKG units (Tool type: Electrocardiography EKG units)
+- Evacuated blood collection tubes (Tool type: Vacuum blood collection tubes or containers)
+- Finger film badges (Tool type: Medical radiation dosimeters)
+- Gamma scintillation counters (Tool type: Gamma counters)
+- Geiger-Mueller meters (Tool type: Radiation detectors)
+- Infusion pumps (Tool type: Intravenous infusion pumps for general use)
+- Intramuscular hypodermic needles (Tool type: Hypodermic needle)
+- Intravenous IV sets (Tool type: Intravenous tubing with catheter administration kits)
+- Ion chamber survey meters (Tool type: Radiation detectors)
+- Laptop computers (Tool type: Notebook computers)
+- Large-field gamma cameras (Tool type: Medical gamma cameras for general use)
+- Linear accelerator collimator equipment (Tool type: Medical linear accelerator intensity modulated radiation therapy IMRT collimators)
+- Medical gamma cameras (Tool type: Medical gamma cameras for general use)
+- Medical image laser printers (Tool type: Medical imaging dry laser printers or imagers)
+- Medical picture archiving computer systems PACS (Tool type: Medical picture archiving computer systems PACS)
+- Medical positron emission tomography PET scanners (Tool type: Medical positron emission tomography PET units)
+- Medical single photo emission computed tomography SPECT equipment (Tool type: Medical single photon emission computed tomography SPECT units)
+- Metal laboratory tongs (Tool type: Laboratory tongs)
+- Microhematocrit centrifuges (Tool type: Microcentrifuges)
+- Mobile gamma cameras (Tool type: Medical gamma cameras for general use)
+- Oxygen delivery regulators (Tool type: Flow sensors or regulators or components)
+- Patient positioning blocks (Tool type: Medical radiological positioning aids for general radiological use)
+- Peripheral intravenous catheters (Tool type: Peripherally inserted central catheters PICC)
+- Personal computers (Tool type: Personal computers)
+- Positron emission tomography PET calibration phantoms (Tool type: Medical computed tomography CT or CAT quality assurance or calibration phantoms or devices)
+- Pulse oximeters (Tool type: Pulse oximeter units)
+- Radiation measurement phantoms (Tool type: Phantom dosimeters)
+- Radiation monitoring film badges (Tool type: Medical radiation films or badges)
+- Radiation protection eyewear (Tool type: Eye shields)
+- Radiation shielding gloves (Tool type: Medical radiological shielding gloves)
+- Radiation shielding lead aprons (Tool type: Medical radiological shielding aprons or masks or drapes)
+- Radiation shielding lead vests (Tool type: Medical radiological shielding aprons or masks or drapes)
+- Radiation survey meters (Tool type: Radiation detectors)
+- Radiation uptake detectors (Tool type: Radiation detectors)
+- Rotating gamma cameras (Tool type: Medical gamma cameras for general use)
+- Safety goggles (Tool type: Goggles)
+- Scintillation crystal detectors (Tool type: Scintillation crystal assemblies)
+- Single positron emission computed tomography SPECT calibration phantoms (Tool type: Medical computed tomography CT or CAT quality assurance or calibration phantoms or devices)
+- Specimen collection containers (Tool type: Specimen collection container)
+- Spectrometers (Tool type: Spectrometers)
+- Strip chart recorders (Tool type: Chart recorders)
+- Subcutaneous hypodermic needles (Tool type: Hypodermic needle)
+- Surgical masks (Tool type: Surgical isolation or surgical masks)
+- Syringe shields (Tool type: Medical radiological shielding portable containers for radioactive materials)
+- Thermoluminescent dosimeters (Tool type: Radiation detectors)
+- Triple-head gamma cameras (Tool type: Medical gamma cameras for general use)
+- Ultrasound bone density scanners (Tool type: Medical ultrasound bone densitometers)
+- Well counters (Tool type: Liquid scintillation counters)
+- Wipe test counters (Tool type: Radiation detectors)
+
+# WORK CONTEXT
+- Conflict Situations: Once a week or more but not every day
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Extremely important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a week or more but not every day
+- Dealing with Violent or Physically Aggressive People: Once a year or more but not every month
+- Degree of Automation: Slightly automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Every day
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Every day
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Never
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: High responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Very important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Extremely competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Extremely important
+- Physical Proximity: Very close (near touching)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Less than half the time
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: More than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Every day
+- Work Outcomes and Results of Other Workers: High responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a week or more but not every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Investigative
+- Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Cardiovascular Technologists and Technicians
+- Radiologic Technologists and Technicians
+- Radiation Therapists
+- Magnetic Resonance Imaging Technologists
+- Medical and Clinical Laboratory Technologists
+- Radiologists
+- Medical and Clinical Laboratory Technicians
+- Medical Dosimetrists
+- Neurodiagnostic Technologists
+- Diagnostic Medical Sonographers
+- Histotechnologists
+- Nuclear Monitoring Technicians
+- Cytogenetic Technologists
+- Cardiologists
+- Histology Technicians
+- Emergency Medicine Physicians
+- Ophthalmic Medical Technologists
+- Surgical Technologists
+- Anesthesiologist Assistants
+- Medical Equipment Preparers

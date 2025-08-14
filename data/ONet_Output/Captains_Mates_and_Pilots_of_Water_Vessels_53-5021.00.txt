@@ -1,0 +1,355 @@
+Job Title: Captains, Mates, and Pilots of Water Vessels
+O*NET-SOC Code: 53-5021.00
+
+# DESCRIPTION
+Command or supervise operations of ships and water vessels, such as tugboats and ferryboats. Required to hold license issued by U.S. Coast Guard.
+
+# TASKS
+- Direct courses and speeds of ships, based on specialized knowledge of local winds, weather, water depths, tides, currents, and hazards.
+- Prevent ships under navigational control from engaging in unsafe operations.
+- Serve as a vessel's docking master upon arrival at a port or at a berth.
+- Consult maps, charts, weather reports, or navigation equipment to determine and direct ship movements.
+- Steer and operate vessels, using radios, depth finders, radars, lights, buoys, or lighthouses.
+- Operate ship-to-shore radios to exchange information needed for ship operations.
+- Dock or undock vessels, sometimes maneuvering through narrow spaces, such as locks.
+- Stand watches on vessels during specified periods while vessels are under way.
+- Inspect vessels to ensure efficient and safe operation of vessels and equipment and conformance to regulations.
+- Read gauges to verify sufficient levels of hydraulic fluid, air pressure, or oxygen.
+- Report to appropriate authorities any violations of federal or state pilotage laws.
+- Provide assistance in maritime rescue operations.
+- Signal passing vessels, using whistles, flashing lights, flags, or radios.
+- Measure depths of water, using depth-measuring equipment.
+- Signal crew members or deckhands to rig tow lines, open or close gates or ramps, or pull guard chains across entries.
+- Maintain boats or equipment on board, such as engines, winches, navigational systems, fire extinguishers, or life preservers.
+- Maintain records of daily activities, personnel reports, ship positions and movements, ports of call, weather and sea conditions, pollution control efforts, or cargo or passenger status.
+- Advise ships' masters on harbor rules and customs procedures.
+- Observe loading or unloading of cargo or equipment to ensure that handling and storage are performed according to specifications.
+- Calculate sightings of land, using electronic sounding devices and following contour lines on charts.
+- Learn to operate new technology systems and procedures through instruction, simulators, or models.
+- Direct or coordinate crew members or workers performing activities such as loading or unloading cargo, steering vessels, operating engines, or operating, maintaining, or repairing ship equipment.
+- Arrange for ships to be fueled, restocked with supplies, or repaired.
+- Supervise crews in cleaning or maintaining decks, superstructures, or bridges.
+- Purchase supplies or equipment.
+- Tow and maneuver barges or signal tugboats to tow barges to destinations.
+- Perform various marine duties, such as checking for oil spills or other pollutants around ports or harbors or patrolling beaches.
+- Assign watches or living quarters to crew members.
+- Interview and hire crew members.
+- Conduct safety drills such as man overboard or fire drills.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Transportation (Importance: 4.13/5 | Level: 4.72/7)
+- Public Safety and Security (Importance: 3.82/5 | Level: 4.14/7)
+- Mechanical (Importance: 3.43/5 | Level: 4.27/7)
+- Law and Government (Importance: 3.37/5 | Level: 3.15/7)
+- English Language (Importance: 3.31/5 | Level: 3.23/7)
+- Geography (Importance: 3.27/5 | Level: 4.13/7)
+- Administration and Management (Importance: 3.19/5 | Level: 3.48/7)
+- Customer and Personal Service (Importance: 3.16/5 | Level: 3.88/7)
+- Education and Training (Importance: 3.12/5 | Level: 3.56/7)
+- Mathematics (Importance: 2.91/5 | Level: 2.95/7)
+- Telecommunications (Importance: 2.87/5 | Level: 2.73/7)
+- Computers and Electronics (Importance: 2.78/5 | Level: 3.01/7)
+- Psychology (Importance: 2.7/5 | Level: 3.23/7)
+- Personnel and Human Resources (Importance: 2.69/5 | Level: 3.05/7)
+- Engineering and Technology (Importance: 2.57/5 | Level: 2.9/7)
+- Physics (Importance: 2.56/5 | Level: 2.67/7)
+- Administrative (Importance: 2.5/5 | Level: 2.57/7)
+- Production and Processing (Importance: 2.37/5 | Level: 2.68/7)
+- Communications and Media (Importance: 2.3/5 | Level: 2.33/7)
+- Chemistry (Importance: 2.28/5 | Level: 2.68/7)
+- Medicine and Dentistry (Importance: 2.26/5 | Level: 2.07/7)
+- Building and Construction (Importance: 2.2/5 | Level: 2.34/7)
+- Design (Importance: 2.06/5 | Level: 1.87/7)
+- Biology (Importance: 1.83/5 | Level: 1.55/7)
+- Economics and Accounting (Importance: 1.82/5 | Level: 1.14/7)
+- Sales and Marketing (Importance: 1.79/5 | Level: 1.48/7)
+- Therapy and Counseling (Importance: 1.72/5 | Level: 1.44/7)
+- Sociology and Anthropology (Importance: 1.7/5 | Level: 1.37/7)
+- Food Production (Importance: 1.68/5 | Level: 1.24/7)
+- History and Archeology (Importance: 1.62/5 | Level: 1.01/7)
+- Philosophy and Theology (Importance: 1.46/5 | Level: 1.02/7)
+- Foreign Language (Importance: 1.38/5 | Level: 0.56/7)
+- Fine Arts (Importance: 1.13/5 | Level: 0.24/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operation and Control (Importance: 3.62/5 | Level: 4.0/7)
+- Monitoring (Importance: 3.5/5 | Level: 3.38/7)
+- Speaking (Importance: 3.5/5 | Level: 3.38/7)
+- Critical Thinking (Importance: 3.38/5 | Level: 3.25/7)
+- Judgment and Decision Making (Importance: 3.38/5 | Level: 3.5/7)
+- Operations Monitoring (Importance: 3.38/5 | Level: 3.62/7)
+- Active Listening (Importance: 3.38/5 | Level: 3.38/7)
+- Complex Problem Solving (Importance: 3.25/5 | Level: 3.12/7)
+- Coordination (Importance: 3.25/5 | Level: 3.75/7)
+- Reading Comprehension (Importance: 3.25/5 | Level: 3.12/7)
+- Management of Personnel Resources (Importance: 3.25/5 | Level: 3.62/7)
+- Time Management (Importance: 3.12/5 | Level: 3.62/7)
+- Social Perceptiveness (Importance: 3.12/5 | Level: 3.0/7)
+- Quality Control Analysis (Importance: 3.12/5 | Level: 3.0/7)
+- Active Learning (Importance: 3.12/5 | Level: 3.38/7)
+- Writing (Importance: 3.12/5 | Level: 3.12/7)
+- Equipment Maintenance (Importance: 3.12/5 | Level: 3.25/7)
+- Instructing (Importance: 3.12/5 | Level: 3.0/7)
+- Persuasion (Importance: 3.0/5 | Level: 2.75/7)
+- Repairing (Importance: 3.0/5 | Level: 3.0/7)
+- Troubleshooting (Importance: 2.88/5 | Level: 2.75/7)
+- Learning Strategies (Importance: 2.88/5 | Level: 3.0/7)
+- Negotiation (Importance: 2.88/5 | Level: 2.62/7)
+- Service Orientation (Importance: 2.88/5 | Level: 2.88/7)
+- Systems Analysis (Importance: 2.75/5 | Level: 3.0/7)
+- Management of Material Resources (Importance: 2.75/5 | Level: 2.88/7)
+- Equipment Selection (Importance: 2.62/5 | Level: 2.62/7)
+- Management of Financial Resources (Importance: 2.5/5 | Level: 2.38/7)
+- Systems Evaluation (Importance: 2.5/5 | Level: 2.62/7)
+- Mathematics (Importance: 2.38/5 | Level: 2.38/7)
+- Technology Design (Importance: 2.12/5 | Level: 1.62/7)
+- Programming (Importance: 1.88/5 | Level: 1.12/7)
+- Science (Importance: 1.88/5 | Level: 1.5/7)
+- Operations Analysis (Importance: 1.62/5 | Level: 1.12/7)
+- Installation (Importance: 1.38/5 | Level: 0.62/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Apple macOS (Tech skill type: Operating system software)
+- Autodesk Revit (Tech skill type: Computer aided design CAD software)
+- Computerized maintenance management system CMMS (Tech skill type: Facilities management software)
+- FURUNO navigational chart software (Tech skill type: Route navigation software)
+- Groundwater modeling system GMS (Tech skill type: Analytical or scientific software)
+- Jeppesen Marine Nobeltec Admiral (Tech skill type: Route navigation software)
+- JRC navigation software (Tech skill type: Route navigation software)
+- KNMI TurboWin (Tech skill type: Data base user interface and query software)
+- Log book software (Tech skill type: Data base user interface and query software)
+- Maptech The CAPN (Tech skill type: Route navigation software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office Outlook (Tech skill type: Calendar and scheduling software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Navigational chart software (Tech skill type: Route navigation software)
+- SHIPNEXT (Tech skill type: Materials requirements planning logistics and supply chain software)
+
+## TOOLS USED
+- Accommodation ladder (Tool type: Ladders)
+- Anchors (Tool type: Anchor lines)
+- Automatic radar plotting aids ARPA (Tool type: Vehicle navigation systems)
+- Bolt cutters (Tool type: Bolt cutters)
+- Bridge to bridge radiotelephones (Tool type: Marine craft communications systems)
+- Bulk carriers (Tool type: Cargo or container ships)
+- Carbon dioxide CO2 fire extinguishing systems (Tool type: Fire suppression system)
+- Carbon dioxide CO2 flooding systems (Tool type: Fire suppression system)
+- Cargo derricks (Tool type: Hoists)
+- Centrifugal cargo pumps (Tool type: Centrifugal pumps)
+- Chain cargo falls (Tool type: Hoists)
+- Chemical tankers (Tool type: Tankers)
+- Claw hammers (Tool type: Claw hammer)
+- Container lift trucks (Tool type: Loading equipment)
+- Container ships (Tool type: Cargo or container ships)
+- Crescent wrenches (Tool type: Open end wrenches)
+- Cruise ships (Tool type: Cruise ships)
+- Desktop computers (Tool type: Desktop computers)
+- Differential global positioning satellite DGPS positioning systems (Tool type: Vehicular global positioning system GPS)
+- Differential global positioning systems DGPS (Tool type: Vehicular global positioning system GPS)
+- Dividers (Tool type: Compasses)
+- Drafting triangles (Tool type: Triangles)
+- Dry chemical fire extinguishers (Tool type: Fire extinguishers)
+- Dynamic positioning DP systems (Tool type: Vehicle navigation systems)
+- Echo sounders (Tool type: Depth gauges)
+- Electric deck cranes (Tool type: Bridge cranes)
+- Electric mooring winches (Tool type: Winches)
+- Electric telegraphs (Tool type: Telegraph sounders)
+- Electric windlasses (Tool type: Anchor rollers)
+- Electronic chart display and information systems ECDIS (Tool type: Vehicle navigation systems)
+- Emergency fire pumps (Tool type: Fire pump sets)
+- Emergency generators (Tool type: Gas generators)
+- Fathometer sonar equipment (Tool type: Sonars)
+- Ferries (Tool type: Passenger or automobile ferries)
+- Fire alarm switches (Tool type: Alarm systems)
+- Fire pumps (Tool type: Fire pump sets)
+- Firefighting suits (Tool type: Fire retardant apparel)
+- First aid kits (Tool type: Mobile medical services first aid kits)
+- Fixed fire suppression systems (Tool type: Fire suppression system)
+- Foam fire extinguishers (Tool type: Fire extinguishers)
+- Foam fire extinguishing systems (Tool type: Fire suppression system)
+- Gantry cranes (Tool type: Bridge cranes)
+- Gear pumps (Tool type: Gear pumps)
+- Global Navigation Satellite System GNSS (Tool type: Vehicle navigation systems)
+- Global positioning systems GPS (Tool type: Vehicular global positioning system GPS)
+- Grabbing cranes (Tool type: Bridge cranes)
+- Gyrocompasses (Tool type: Gyroscopic instruments)
+- Hand capstans (Tool type: Anchor rollers)
+- Hand punches (Tool type: Punches or nail sets or drifts)
+- Hand windlasses (Tool type: Anchor rollers)
+- High frequency HF radiotelephone systems (Tool type: Marine craft communications systems)
+- Hydraulic capstans (Tool type: Anchor rollers)
+- Hydraulic deck cranes (Tool type: Bridge cranes)
+- Hydraulic mooring winches (Tool type: Winches)
+- Hydraulic windlasses (Tool type: Anchor rollers)
+- Immersion suits (Tool type: Insulated or flotation suits)
+- Integrated bridge systems (Tool type: Vehicle navigation systems)
+- Laptop computers (Tool type: Notebook computers)
+- Life buoys (Tool type: Life rings)
+- Life jackets (Tool type: Life vests or preservers)
+- Life rafts (Tool type: Lifeboats or liferafts)
+- Life vests (Tool type: Life vests or preservers)
+- Lifeboat davits (Tool type: Lifts)
+- Lifting slings (Tool type: Slings)
+- Lifting spreaders (Tool type: Loading equipment)
+- Line throwing appliances (Tool type: Rope float lines)
+- Locking jaw pliers (Tool type: Locking pliers)
+- Long range navigation LORAN systems (Tool type: Vehicle navigation systems)
+- Long range navigation LORAN-C systems (Tool type: Aircraft guidance systems)
+- Magnet hoists (Tool type: Hoists)
+- Magnetic compasses (Tool type: Direction finding compasses)
+- Manual winches (Tool type: Winches)
+- Mechanical pilot hoists (Tool type: Manlift or personnel lift)
+- Mechanical telegraphs (Tool type: Telegraph sounders)
+- Mooring cables (Tool type: Anchor lines)
+- Mooring chains (Tool type: Anchor lines)
+- Mooring lines (Tool type: Anchor lines)
+- Mooring winches (Tool type: Winches)
+- Natural fiber mooring ropes (Tool type: Anchor lines)
+- Navigational compasses (Tool type: Direction finding compasses)
+- Night vision binoculars (Tool type: Light enhancing cameras or vision devices)
+- Oil tanker ships (Tool type: Tankers)
+- Parallel plotters (Tool type: Plotter printers)
+- Parallel rules (Tool type: Straight edges)
+- Personal computers (Tool type: Personal computers)
+- Pilot ladders (Tool type: Ladders)
+- Pipe wrenches (Tool type: Pipe wrenches)
+- Portable carbon dioxide fire extinguishers (Tool type: Fire extinguishers)
+- Portable dry chemical fire extinguishers (Tool type: Fire extinguishers)
+- Portable water fire extinguishers (Tool type: Fire extinguishers)
+- Pyrotechnic distress signals (Tool type: Flares)
+- Radio communications system (Tool type: Two way radios)
+- Radio direction finders RDF (Tool type: Radio navigation instruments)
+- Rescue boats (Tool type: Rescue ships or boats)
+- Rescue slings (Tool type: Mobile medical services cinch rescue loops)
+- Respirators (Tool type: Respirators)
+- Rotary displacement pumps (Tool type: Rotary pumps)
+- Safety belts (Tool type: Safety harnesses or belts)
+- Safety glasses (Tool type: Safety glasses)
+- Safety harnesses (Tool type: Safety harnesses or belts)
+- Safety helmets (Tool type: Safety helmets)
+- Safety lanyards (Tool type: Fall protection lanyard)
+- Screw displacement pump (Tool type: Screw Pumps)
+- Screw displacement pumps (Tool type: Screw Pumps)
+- Semaphores (Tool type: Marine signaling systems)
+- Sextants (Tool type: Sextants)
+- Sharpening steels (Tool type: Sharpening stones or tools or kits)
+- Sheave blocks (Tool type: Blocks or pulleys)
+- Ship alarm systems (Tool type: Alarm systems)
+- Ship anchor chocks (Tool type: Anchor chocks)
+- Ship's whistles (Tool type: Marine signaling systems)
+- Ship-to-shore radios (Tool type: Marine craft communications systems)
+- Shipboard radar (Tool type: Radarbased surveillance systems)
+- Signal flags (Tool type: Marine signaling systems)
+- Signal light controls (Tool type: Marine signaling systems)
+- Signal lights (Tool type: Marine signaling systems)
+- Sounding rods (Tool type: Depth gauges)
+- Sounding tapes (Tool type: Depth gauges)
+- Spanner wrenches (Tool type: Spanner wrenches)
+- Spanners (Tool type: Spanner wrenches)
+- Steam winches (Tool type: Winches)
+- Steering control systems (Tool type: Vehicle navigation systems)
+- Surveillance binoculars (Tool type: Binoculars)
+- Synthetic mooring ropes (Tool type: Anchor lines)
+- Thermal protective aids TPA (Tool type: Insulated clothing for cold environments)
+- Totally enclosed motor propelled survival craft TEMPSC (Tool type: Lifeboats or liferafts)
+- Tugboats (Tool type: Tug boats)
+- Two way radios (Tool type: Two way radios)
+- Ultra high frequency UHF radiotelephone systems (Tool type: Marine craft communications systems)
+- Very high frequency VHF radiotelephone system (Tool type: Marine craft communications systems)
+- Very high frequency VHF radiotelephone systems (Tool type: Marine craft communications systems)
+- Very high frequency VHF radiotelephones (Tool type: Marine craft communications systems)
+- Voice pipes (Tool type: Marine craft communications systems)
+- Voyage management systems VMS (Tool type: Vehicle navigation systems)
+- Water mist systems (Tool type: Fire suppression system)
+- Wind gauges (Tool type: Anemometers)
+- WING GAUGES (Tool type: Anemometers)
+- Workshop vises (Tool type: Bench vises)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Extremely important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Once a month or more but not every week
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Every day
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Every day
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Every day
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Once a week or more but not every day
+- Exposed to Whole Body Vibration: Every day
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Extremely important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Every day
+- In an Open Vehicle or Operating Equipment: Every day
+- Indoors, Environmentally Controlled: Never
+- Indoors, Not Environmentally Controlled: Every day
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Every day
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Less than half the time
+- Spend Time Keeping or Regaining Balance: Less than half the time
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Less than half the time
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: More than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a month or more but not every week
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Enterprising
+
+# RELATED OCCUPATIONS
+- Sailors and Marine Oilers
+- Motorboat Operators
+- Ship Engineers
+- Airline Pilots, Copilots, and Flight Engineers
+- Transportation Inspectors
+- Commercial Pilots
+- Bridge and Lock Tenders
+- Locomotive Engineers
+- Aircraft Cargo Handling Supervisors
+- Dredge Operators
+- Fishing and Hunting Workers
+- Railroad Brake, Signal, and Switch Operators and Locomotive Firers
+- Riggers
+- Hoist and Winch Operators
+- Marine Engineers and Naval Architects
+- Commercial Divers
+- Railroad Conductors and Yardmasters
+- Airfield Operations Specialists
+- Rail Yard Engineers, Dinkey Operators, and Hostlers
+- Tank Car, Truck, and Ship Loaders

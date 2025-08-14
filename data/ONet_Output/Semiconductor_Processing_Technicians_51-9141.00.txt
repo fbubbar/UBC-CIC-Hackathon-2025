@@ -1,0 +1,261 @@
+Job Title: Semiconductor Processing Technicians
+O*NET-SOC Code: 51-9141.00
+
+# DESCRIPTION
+Perform any or all of the following functions in the manufacture of electronic semiconductors: load semiconductor material into furnace; saw formed ingots into segments; load individual segment into crystal growing chamber and monitor controls; locate crystal axis in ingot using x-ray equipment and saw ingots into wafers; and clean, polish, and load wafers into series of special purpose furnaces, chemical baths, and equipment used to form circuitry and change conductive properties.
+
+# TASKS
+- Manipulate valves, switches, and buttons, or key commands into control panels to start semiconductor processing cycles.
+- Maintain processing, production, and inspection information and reports.
+- Inspect materials, components, or products for surface defects and measure circuitry, using electronic test equipment, precision measuring instruments, microscope, and standard procedures.
+- Clean semiconductor wafers using cleaning equipment, such as chemical baths, automatic wafer cleaners, or blow-off wands.
+- Study work orders, instructions, formulas, and processing charts to determine specifications and sequence of operations.
+- Load and unload equipment chambers and transport finished product to storage or to area for further processing.
+- Clean and maintain equipment, including replacing etching and rinsing solutions and cleaning bath containers and work area.
+- Place semiconductor wafers in processing containers or equipment holders, using vacuum wand or tweezers.
+- Set, adjust, and readjust computerized or mechanical equipment controls to regulate power level, temperature, vacuum, and rotation speed of furnace, according to crystal growing specifications.
+- Etch, lap, polish, or grind wafers or ingots to form circuitry and change conductive properties, using etching, lapping, polishing, or grinding equipment.
+- Load semiconductor material into furnace.
+- Monitor operation and adjust controls of processing machines and equipment to produce compositions with specific electronic properties, using computer terminals.
+- Count, sort, and weigh processed items.
+- Calculate etching time based on thickness of material to be removed from wafers or crystals.
+- Inspect equipment for leaks, diagnose malfunctions, and request repairs.
+- Align photo mask pattern on photoresist layer, expose pattern to ultraviolet light, and develop pattern, using specialized equipment.
+- Stamp, etch, or scribe identifying information on finished component according to specifications.
+- Scribe or separate wafers into dice.
+- Connect reactor to computer, using hand tools and power tools.
+- Measure and weigh amounts of crystal growing materials, mix and grind materials, load materials into container, and monitor processing procedures to help identify crystal growing problems.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Production and Processing (Importance: 3.9/5 | Level: 3.7/7)
+- English Language (Importance: 3.78/5 | Level: 3.88/7)
+- Public Safety and Security (Importance: 3.4/5 | Level: 2.29/7)
+- Computers and Electronics (Importance: 3.37/5 | Level: 3.77/7)
+- Education and Training (Importance: 3.26/5 | Level: 3.37/7)
+- Chemistry (Importance: 3.24/5 | Level: 3.09/7)
+- Customer and Personal Service (Importance: 2.97/5 | Level: 2.48/7)
+- Mathematics (Importance: 2.87/5 | Level: 2.89/7)
+- Engineering and Technology (Importance: 2.67/5 | Level: 2.22/7)
+- Administration and Management (Importance: 2.41/5 | Level: 2.44/7)
+- Mechanical (Importance: 2.41/5 | Level: 1.73/7)
+- Communications and Media (Importance: 2.26/5 | Level: 1.81/7)
+- Medicine and Dentistry (Importance: 2.09/5 | Level: 0.62/7)
+- Telecommunications (Importance: 2.03/5 | Level: 0.77/7)
+- Therapy and Counseling (Importance: 1.97/5 | Level: 0.62/7)
+- Personnel and Human Resources (Importance: 1.89/5 | Level: 0.71/7)
+- Administrative (Importance: 1.82/5 | Level: 1.2/7)
+- Philosophy and Theology (Importance: 1.76/5 | Level: 1.24/7)
+- Transportation (Importance: 1.74/5 | Level: 0.49/7)
+- Economics and Accounting (Importance: 1.69/5 | Level: 0.33/7)
+- Design (Importance: 1.69/5 | Level: 0.76/7)
+- Sales and Marketing (Importance: 1.62/5 | Level: 0.24/7)
+- Law and Government (Importance: 1.6/5 | Level: 0.46/7)
+- Psychology (Importance: 1.54/5 | Level: 0.65/7)
+- Foreign Language (Importance: 1.51/5 | Level: 0.39/7)
+- Physics (Importance: 1.46/5 | Level: 0.9/7)
+- Building and Construction (Importance: 1.37/5 | Level: 0.5/7)
+- Food Production (Importance: 1.31/5 | Level: 0.13/7)
+- Geography (Importance: 1.31/5 | Level: 0.16/7)
+- Fine Arts (Importance: 1.28/5 | Level: 0.1/7)
+- Sociology and Anthropology (Importance: 1.27/5 | Level: 0.43/7)
+- Biology (Importance: 1.2/5 | Level: 0.12/7)
+- History and Archeology (Importance: 1.14/5 | Level: 0.04/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operations Monitoring (Importance: 3.62/5 | Level: 3.5/7)
+- Critical Thinking (Importance: 3.38/5 | Level: 2.88/7)
+- Reading Comprehension (Importance: 3.38/5 | Level: 3.38/7)
+- Monitoring (Importance: 3.25/5 | Level: 3.0/7)
+- Quality Control Analysis (Importance: 3.25/5 | Level: 3.38/7)
+- Active Listening (Importance: 3.25/5 | Level: 2.88/7)
+- Operation and Control (Importance: 2.88/5 | Level: 2.88/7)
+- Troubleshooting (Importance: 2.88/5 | Level: 2.75/7)
+- Coordination (Importance: 2.88/5 | Level: 2.62/7)
+- Equipment Maintenance (Importance: 2.88/5 | Level: 2.88/7)
+- Speaking (Importance: 2.88/5 | Level: 2.88/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.75/7)
+- Judgment and Decision Making (Importance: 2.88/5 | Level: 2.88/7)
+- Time Management (Importance: 2.75/5 | Level: 2.75/7)
+- Writing (Importance: 2.75/5 | Level: 2.62/7)
+- Complex Problem Solving (Importance: 2.75/5 | Level: 2.75/7)
+- Active Learning (Importance: 2.5/5 | Level: 2.25/7)
+- Repairing (Importance: 2.5/5 | Level: 2.62/7)
+- Equipment Selection (Importance: 2.38/5 | Level: 2.12/7)
+- Systems Analysis (Importance: 2.25/5 | Level: 1.88/7)
+- Management of Personnel Resources (Importance: 2.25/5 | Level: 1.75/7)
+- Persuasion (Importance: 2.25/5 | Level: 2.12/7)
+- Learning Strategies (Importance: 2.25/5 | Level: 2.0/7)
+- Instructing (Importance: 2.25/5 | Level: 2.25/7)
+- Operations Analysis (Importance: 2.12/5 | Level: 1.62/7)
+- Service Orientation (Importance: 2.12/5 | Level: 2.0/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 1.38/7)
+- Negotiation (Importance: 2.0/5 | Level: 1.88/7)
+- Mathematics (Importance: 1.88/5 | Level: 1.75/7)
+- Science (Importance: 1.88/5 | Level: 1.25/7)
+- Technology Design (Importance: 1.75/5 | Level: 1.0/7)
+- Programming (Importance: 1.62/5 | Level: 0.75/7)
+- Management of Material Resources (Importance: 1.62/5 | Level: 0.88/7)
+- Management of Financial Resources (Importance: 1.5/5 | Level: 0.5/7)
+- Installation (Importance: 1.38/5 | Level: 0.5/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Camstar Systems Camstar Semiconductor Suite (Tech skill type: Industrial control software)
+- Database software (Tech skill type: Data base user interface and query software)
+- Eyelit Manufacturing (Tech skill type: Industrial control software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- National Instruments TestStand (Tech skill type: Development environment software)
+- Python (Tech skill type: Object or component oriented development software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- yieldWerx (Tech skill type: Analytical or scientific software)
+
+## TOOLS USED
+- Antistatic wrist straps (Tool type: Antistatic wrist straps)
+- Atmospheric pressure chemical vapor deposition APCVD systems (Tool type: Semiconductor process systems)
+- Automatic notched wafer aligners (Tool type: Semiconductor process systems)
+- Automatic wafer cleaners (Tool type: Semiconductor process systems)
+- Chemical vapor deposition CVD systems (Tool type: Semiconductor process systems)
+- Clean room ovens (Tool type: Cleanroom ovens)
+- Clean room suits (Tool type: Cleanroom certified apparel)
+- Clean-room air particle analyzers (Tool type: Indoor air quality monitor)
+- Desktop computers (Tool type: Desktop computers)
+- Die bonders (Tool type: Wafer wire bonder)
+- Diffusion furnaces (Tool type: Semiconductor process systems)
+- Diffusion pumps (Tool type: Laboratory vacuum pumps)
+- Digital hygrometers (Tool type: Hygrometers)
+- Digital multimeters (Tool type: Multimeters)
+- Electron beam evaporators (Tool type: Semiconductor process systems)
+- Epitaxial deposition equipment (Tool type: Semiconductor process systems)
+- Gas blow torches (Tool type: Blow torch)
+- High precision tweezers (Tool type: Tweezers)
+- Ion implanters (Tool type: Semiconductor process systems)
+- Laboratory fume hoods (Tool type: Fume hoods or cupboards)
+- Laser wafer markers (Tool type: Semiconductor process systems)
+- Lithography exposure systems (Tool type: Semiconductor process systems)
+- Load ports (Tool type: Semiconductor process systems)
+- Low pressure chemical vapor deposition LPCVD machines (Tool type: Semiconductor process systems)
+- Manual wet benches (Tool type: Semiconductor process systems)
+- Mask aligners (Tool type: Semiconductor process systems)
+- Micro diamond scribers (Tool type: Scribers)
+- Oxidation systems (Tool type: Semiconductor process systems)
+- Photolithography equipment (Tool type: Semiconductor process systems)
+- Photoresist strippers (Tool type: Semiconductor process systems)
+- Photostabilizers (Tool type: Semiconductor process systems)
+- Physical vapor deposition systems (Tool type: Semiconductor process systems)
+- Plasma ashers (Tool type: Semiconductor process systems)
+- Plasma-enhanced chemical vapor deposition PECVD machines (Tool type: Semiconductor process systems)
+- Rapid thermal processors (Tool type: Semiconductor process systems)
+- Safety eyewear (Tool type: Safety glasses)
+- Sanding machines (Tool type: Power sanders)
+- Scanning electron microscopes (Tool type: Scanning electron microscopes)
+- Semiconductor etchers (Tool type: Semiconductor process systems)
+- Semiconductor polishers (Tool type: Semiconductor process systems)
+- Semiconductor processing chillers (Tool type: Semiconductor process systems)
+- Semiconductor test probes (Tool type: Semiconductor process systems)
+- Slurry filter cabinets (Tool type: Ultrafiltration equipment)
+- Solder reflow ovens (Tool type: Laboratory mechanical convection ovens)
+- Solder-paste printers (Tool type: Three dimensional printing machine)
+- Soldering guns (Tool type: Soldering iron)
+- Spectrum analyzers (Tool type: Frequency analyzers)
+- Spin rinse dryers (Tool type: Drying cabinets or ovens)
+- Sputterers (Tool type: Semiconductor process systems)
+- Surface profilers (Tool type: Surface testers)
+- Surface resistivity meters (Tool type: Calibrated resistance measuring equipment)
+- Vacuum ovens (Tool type: Vacuum ovens)
+- Vacuum pumps (Tool type: Vacuum pumps)
+- Vacuum wands (Tool type: Pneumatic vacuum generator)
+- Wafer arbor presses (Tool type: Laboratory presses)
+- Wafer mappers (Tool type: Semiconductor testers)
+- Wafer probers (Tool type: Semiconductor testers)
+- Wafer scanners (Tool type: Semiconductor testers)
+- Wafer sorters (Tool type: Sorters)
+- Water surface contamination analyzers (Tool type: Water analyzers)
+- X-ray inspection equipment (Tool type: X ray radiography examination equipment)
+
+# WORK CONTEXT
+- Conflict Situations: Once a month or more but not every week
+- Consequence of Error: Extremely serious
+- Contact With Others: Contact with others most of the time
+- Coordinate or Lead Others in Accomplishing Work Activities: Extremely important
+- Deal With External Customers or the Public in General: Not important at all
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Moderately automated
+- Determine Tasks, Priorities and Goals: Limited freedom
+- E-Mail: Never
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Every day
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Once a week or more but not every day
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Moderate results
+- Importance of Being Exact or Accurate: Very important
+- Importance of Repeating Same Tasks: Very important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Very important
+- Physical Proximity: Slightly close (e.g., shared office)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Less than half the time
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: About half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: More than half the time
+- Telephone Conversations: Once a week or more but not every day
+- Time Pressure: Once a week or more but not every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Every day
+- Work Outcomes and Results of Other Workers: High responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a year or more but not every month
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Plating Machine Setters, Operators, and Tenders, Metal and Plastic
+- Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders
+- Electrical and Electronic Equipment Assemblers
+- Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers
+- Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic
+- Chemical Plant and System Operators
+- Electromechanical Equipment Assemblers
+- Microsystems Engineers
+- Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders
+- Adhesive Bonding Machine Operators and Tenders
+- Chemical Equipment Operators and Tenders
+- Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders
+- Calibration Technologists and Technicians
+- Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic
+- Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+- Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic
+- Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic
+- Photonics Technicians
+- Computer Numerically Controlled Tool Operators
+- Ophthalmic Laboratory Technicians

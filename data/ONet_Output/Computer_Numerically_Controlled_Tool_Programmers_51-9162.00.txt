@@ -1,0 +1,296 @@
+Job Title: Computer Numerically Controlled Tool Programmers
+O*NET-SOC Code: 51-9162.00
+
+# DESCRIPTION
+Develop programs to control machining or processing of materials by automatic machine tools, equipment, or systems. May also set up, operate, or maintain equipment.
+
+# TASKS
+- Write programs in the language of a machine's controller and store programs on media, such as punch tapes, magnetic tapes, or disks.
+- Determine the sequence of machine operations, and select the proper cutting tools needed to machine workpieces into the desired shapes.
+- Revise programs or tapes to eliminate errors, and retest programs to check that problems have been solved.
+- Analyze job orders, drawings, blueprints, specifications, printed circuit board pattern films, and design data to calculate dimensions, tool selection, machine speeds, and feed rates.
+- Write instruction sheets and cutter lists for a machine's controller to guide setup and encode numerical control tapes.
+- Observe machines on trial runs or conduct computer simulations to ensure that programs and machinery will function properly and produce items that meet specifications.
+- Enter computer commands to store or retrieve parts patterns, graphic displays, or programs that transfer data to other media.
+- Modify existing programs to enhance efficiency.
+- Determine reference points, machine cutting paths, or hole locations, and compute angular and linear dimensions, radii, and curvatures.
+- Sort shop orders into groups to maximize materials utilization and minimize machine setup time.
+- Compare encoded tapes or computer printouts with original part specifications and blueprints to verify accuracy of instructions.
+- Perform preventative maintenance or minor repairs on machines.
+- Prepare geometric layouts from graphic displays, using computer-assisted drafting software or drafting instruments and graph paper.
+- Draw machine tool paths on pattern film according to guidelines for tool speed and efficiency, using colored markers.
+- Enter coordinates of hole locations into program memories by depressing pedals or buttons of programmers.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Computers and Electronics (Importance: 4.11/5 | Level: 4.96/7)
+- Mechanical (Importance: 4.08/5 | Level: 4.96/7)
+- Mathematics (Importance: 3.91/5 | Level: 4.07/7)
+- Production and Processing (Importance: 3.84/5 | Level: 3.95/7)
+- Engineering and Technology (Importance: 3.75/5 | Level: 4.07/7)
+- Design (Importance: 3.74/5 | Level: 4.31/7)
+- English Language (Importance: 3.17/5 | Level: 3.54/7)
+- Administration and Management (Importance: 3.08/5 | Level: 2.68/7)
+- Education and Training (Importance: 2.98/5 | Level: 3.58/7)
+- Administrative (Importance: 2.76/5 | Level: 2.76/7)
+- Customer and Personal Service (Importance: 2.67/5 | Level: 2.45/7)
+- Public Safety and Security (Importance: 2.64/5 | Level: 2.88/7)
+- Physics (Importance: 2.42/5 | Level: 2.75/7)
+- Personnel and Human Resources (Importance: 2.21/5 | Level: 1.96/7)
+- Communications and Media (Importance: 2.15/5 | Level: 2.19/7)
+- Chemistry (Importance: 2.06/5 | Level: 1.81/7)
+- Psychology (Importance: 1.97/5 | Level: 1.82/7)
+- Building and Construction (Importance: 1.87/5 | Level: 1.66/7)
+- Economics and Accounting (Importance: 1.82/5 | Level: 1.13/7)
+- Sales and Marketing (Importance: 1.76/5 | Level: 1.26/7)
+- Transportation (Importance: 1.74/5 | Level: 1.33/7)
+- Telecommunications (Importance: 1.7/5 | Level: 1.56/7)
+- Therapy and Counseling (Importance: 1.62/5 | Level: 1.19/7)
+- Philosophy and Theology (Importance: 1.57/5 | Level: 1.45/7)
+- Law and Government (Importance: 1.55/5 | Level: 1.37/7)
+- History and Archeology (Importance: 1.52/5 | Level: 0.83/7)
+- Sociology and Anthropology (Importance: 1.51/5 | Level: 0.93/7)
+- Foreign Language (Importance: 1.5/5 | Level: 0.7/7)
+- Medicine and Dentistry (Importance: 1.48/5 | Level: 0.67/7)
+- Fine Arts (Importance: 1.48/5 | Level: 0.76/7)
+- Geography (Importance: 1.48/5 | Level: 0.87/7)
+- Food Production (Importance: 1.38/5 | Level: 0.38/7)
+- Biology (Importance: 1.38/5 | Level: 0.57/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Programming (Importance: 4.12/5 | Level: 4.12/7)
+- Monitoring (Importance: 3.5/5 | Level: 3.62/7)
+- Operations Monitoring (Importance: 3.38/5 | Level: 3.75/7)
+- Active Learning (Importance: 3.25/5 | Level: 3.62/7)
+- Judgment and Decision Making (Importance: 3.25/5 | Level: 3.12/7)
+- Systems Analysis (Importance: 3.25/5 | Level: 3.0/7)
+- Reading Comprehension (Importance: 3.25/5 | Level: 3.5/7)
+- Mathematics (Importance: 3.25/5 | Level: 3.5/7)
+- Writing (Importance: 3.25/5 | Level: 3.0/7)
+- Critical Thinking (Importance: 3.25/5 | Level: 3.5/7)
+- Complex Problem Solving (Importance: 3.25/5 | Level: 3.38/7)
+- Systems Evaluation (Importance: 3.12/5 | Level: 3.12/7)
+- Active Listening (Importance: 3.12/5 | Level: 3.0/7)
+- Quality Control Analysis (Importance: 3.0/5 | Level: 3.12/7)
+- Troubleshooting (Importance: 3.0/5 | Level: 2.75/7)
+- Time Management (Importance: 3.0/5 | Level: 2.88/7)
+- Speaking (Importance: 3.0/5 | Level: 3.0/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Operation and Control (Importance: 3.0/5 | Level: 3.12/7)
+- Operations Analysis (Importance: 3.0/5 | Level: 2.88/7)
+- Learning Strategies (Importance: 2.88/5 | Level: 2.75/7)
+- Equipment Maintenance (Importance: 2.75/5 | Level: 2.38/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 2.75/7)
+- Instructing (Importance: 2.75/5 | Level: 3.0/7)
+- Equipment Selection (Importance: 2.62/5 | Level: 3.0/7)
+- Management of Personnel Resources (Importance: 2.5/5 | Level: 2.5/7)
+- Persuasion (Importance: 2.38/5 | Level: 2.5/7)
+- Negotiation (Importance: 2.38/5 | Level: 1.88/7)
+- Repairing (Importance: 2.38/5 | Level: 2.12/7)
+- Technology Design (Importance: 2.38/5 | Level: 2.0/7)
+- Service Orientation (Importance: 2.25/5 | Level: 1.88/7)
+- Management of Material Resources (Importance: 2.12/5 | Level: 2.0/7)
+- Science (Importance: 1.88/5 | Level: 1.75/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 1.25/7)
+- Installation (Importance: 1.12/5 | Level: 0.12/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- 1CadCam Unigraphics (Tech skill type: Computer aided manufacturing CAM software)
+- 3D Systems GibbsCAM (Tech skill type: Computer aided manufacturing CAM software)
+- Aptean Made2Manage (Tech skill type: Enterprise resource planning ERP software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Autodesk Fusion 360 (Tech skill type: Computer aided manufacturing CAM software)
+- Autodesk PartMaker (Tech skill type: Computer aided manufacturing CAM software)
+- Autodesk PowerMill (Tech skill type: Computer aided manufacturing CAM software)
+- Autodesk PowerShape (Tech skill type: Computer aided manufacturing CAM software)
+- BobCAD-CAM (Tech skill type: Computer aided manufacturing CAM software)
+- Celeritive Technologies VoluMill (Tech skill type: Computer aided manufacturing CAM software)
+- CGTech Vericut CNC (Tech skill type: Computer aided manufacturing CAM software)
+- Cimatron CimatronE (Tech skill type: Computer aided manufacturing CAM software)
+- Computer aided design CAD software (Tech skill type: Computer aided design CAD software)
+- Computer aided manufacturing CAM software (Tech skill type: Computer aided manufacturing CAM software)
+- Dassault Systemes CATIA (Tech skill type: Computer aided design CAD software)
+- Dassault Systemes SolidWorks (Tech skill type: Computer aided design CAD software)
+- Delcam FeatureCAM (Tech skill type: Computer aided manufacturing CAM software)
+- Delcam PartMaker (Tech skill type: Computer aided manufacturing CAM software)
+- Dolphin CAD/CAM (Tech skill type: Computer aided manufacturing CAM software)
+- DP Technology ESPRIT (Tech skill type: Computer aided manufacturing CAM software)
+- Enterprise resource planning ERP software (Tech skill type: Enterprise resource planning ERP software)
+- Extensible markup language XML (Tech skill type: Enterprise application integration software)
+- FaceTime (Tech skill type: Video conferencing software)
+- FANUC CNC (Tech skill type: Computer aided manufacturing CAM software)
+- FastCAM (Tech skill type: Computer aided manufacturing CAM software)
+- G-code (Tech skill type: Object or component oriented development software)
+- Geometric Technologies CAMWorks (Tech skill type: Computer aided manufacturing CAM software)
+- GeoPath CAD/CAM System (Tech skill type: Computer aided manufacturing CAM software)
+- Gerber Technology CutWorks (Tech skill type: Computer aided manufacturing CAM software)
+- GibbsCAM (Tech skill type: Computer aided manufacturing CAM software)
+- GO2cam (Tech skill type: Computer aided manufacturing CAM software)
+- Hypertherm ProNest (Tech skill type: Computer aided manufacturing CAM software)
+- ICAM CAM-POST (Tech skill type: Computer aided manufacturing CAM software)
+- Intelitek spectraCAM Milling (Tech skill type: Computer aided manufacturing CAM software)
+- Intelitek spectraCAM Turning (Tech skill type: Computer aided manufacturing CAM software)
+- Kubotek KeyCreator Machinist (Tech skill type: Computer aided manufacturing CAM software)
+- LAB SUM3D (Tech skill type: Computer aided manufacturing CAM software)
+- M-code (Tech skill type: Object or component oriented development software)
+- MachineWorks Ltd. MachineWorks (Tech skill type: Computer aided manufacturing CAM software)
+- Manusoft Technologies IMOLD (Tech skill type: Computer aided manufacturing CAM software)
+- Mastercam computer-aided design and manufacturing software (Tech skill type: Computer aided manufacturing CAM software)
+- MecSoft Corporation RhinoCAM (Tech skill type: Computer aided manufacturing CAM software)
+- MecSoft Corporation VisualMILL (Tech skill type: Computer aided manufacturing CAM software)
+- MecSoft Corporation VisualTURN (Tech skill type: Computer aided manufacturing CAM software)
+- Metalcam Fikus Visualcam (Tech skill type: Computer aided manufacturing CAM software)
+- Metalix CAD/CAM System cncKad (Tech skill type: Computer aided manufacturing CAM software)
+- Metamation MetaCAM (Tech skill type: Computer aided manufacturing CAM software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Missler Software TopSolid (Tech skill type: Computer aided manufacturing CAM software)
+- Open Mind Software hyperMILL (Tech skill type: Computer aided manufacturing CAM software)
+- Post-processor software (Tech skill type: Computer aided manufacturing CAM software)
+- PTC Creo Parametric (Tech skill type: Computer aided design CAD software)
+- RADAN Radbend (Tech skill type: Computer aided manufacturing CAM software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- SharpCam Ltd. SharpCam (Tech skill type: Computer aided manufacturing CAM software)
+- Siemens NX (Tech skill type: Computer aided manufacturing CAM software)
+- Siemens Teamcenter (Tech skill type: Project management software)
+- Simulation software (Tech skill type: Analytical or scientific software)
+- SmartCAMcnc SmartCAM (Tech skill type: Computer aided manufacturing CAM software)
+- SolidCAM CAM software (Tech skill type: Computer aided manufacturing CAM software)
+- SolidCAM iMachining (Tech skill type: Computer aided manufacturing CAM software)
+- Sprut Technology SprutCAM (Tech skill type: Computer aided manufacturing CAM software)
+- Tebis computer aided design software (Tech skill type: Computer aided manufacturing CAM software)
+- Technos Astra R-Nesting (Tech skill type: Computer aided manufacturing CAM software)
+- Technos Astra S-Nesting (Tech skill type: Computer aided manufacturing CAM software)
+- Top Systems T-FLEX CAM (Tech skill type: Computer aided manufacturing CAM software)
+- Uncamco Ucam (Tech skill type: Computer aided manufacturing CAM software)
+- Vero Software ALPHACAM Milling (Tech skill type: Computer aided manufacturing CAM software)
+- Vero Software ALPHACAM Turning (Tech skill type: Computer aided manufacturing CAM software)
+- Vero Software Edgecam (Tech skill type: Computer aided manufacturing CAM software)
+- Vero Software machining STRATEGIST (Tech skill type: Computer aided manufacturing CAM software)
+- Vero Software PEPS (Tech skill type: Computer aided manufacturing CAM software)
+- Vero Software RADAN (Tech skill type: Computer aided manufacturing CAM software)
+- Vero Software SMIRTsoftware (Tech skill type: Computer aided manufacturing CAM software)
+- Vero Software SURFCAM (Tech skill type: Computer aided manufacturing CAM software)
+- Vero Software VISI (Tech skill type: Computer aided manufacturing CAM software)
+- Vero Software WorkNC (Tech skill type: Computer aided manufacturing CAM software)
+
+## TOOLS USED
+- Adjustable squares (Tool type: Squares)
+- Bore gauges (Tool type: Hole gauge)
+- Computer numerical control CNC grinders (Tool type: Power grinders)
+- Computer numerical control CNC lasers (Tool type: Laser cutting machine)
+- Computer numerical control CNC notchers (Tool type: Metal cutters)
+- Computer numerical control CNC press brakes (Tool type: Hydraulic press brake)
+- Computer numerical control CNC punch presses (Tool type: Drill press or radial drill)
+- Computer numerically controlled CNC lathes (Tool type: Automatic lathe or chucking machine)
+- Coodinate meauring machines CMM (Tool type: Coordinate measuring machines CMM)
+- Dial indicators (Tool type: Dial indicator or dial gauge)
+- Digital angle gauges (Tool type: Angle gauge)
+- Digital calipers (Tool type: Calipers)
+- Digital height gauges (Tool type: Height gauges)
+- Digital micrometers (Tool type: Micrometers)
+- Drill presses (Tool type: Drill press or radial drill)
+- Fillet gauges (Tool type: Radius gauge)
+- Optical comparators (Tool type: Comparators)
+- Pin gauge sets (Tool type: Pin gauge)
+- Precision surface plates (Tool type: Precision surface plate)
+- Screw machines (Tool type: Automatic lathe or chucking machine)
+- Screw pitch gauges (Tool type: Thread pitch gauge)
+- Sine bars (Tool type: Sine bar)
+- Thickness gauges (Tool type: Thickness measuring devices)
+- Toolmaker's microscope (Tool type: Metallurgical microscopes)
+- Transfer gages (Tool type: Profile gauge)
+- Vernier bevel protractors (Tool type: Protractors)
+- Vernier calipers (Tool type: Calipers)
+- Vertical boring mills (Tool type: Vertical turning center)
+- Vertical computer numerically controlled CNC milling machines (Tool type: Traveling column milling machine)
+- Vertical turret lathes VTL (Tool type: Turret lathe)
+- Wire gauges (Tool type: Wire gauge)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Important
+- Deal With External Customers or the Public in General: Not important at all
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Moderately automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Every day
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Once a year or more but not every month
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Moderate responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Very important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Every day
+- Level of Competition: Not at all competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Very important
+- Physical Proximity: Slightly close (e.g., shared office)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: About half the time
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: About half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Once a week or more but not every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Never
+
+# INTERESTS (RIASEC)
+- Primary Interest: Conventional
+- Secondary Interest: Realistic
+- Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Computer Numerically Controlled Tool Operators
+- Machinists
+- Robotics Technicians
+- Electromechanical Equipment Assemblers
+- Mechanical Engineering Technologists and Technicians
+- Mechanical Drafters
+- Electrical and Electronic Engineering Technologists and Technicians
+- Calibration Technologists and Technicians
+- Model Makers, Metal and Plastic
+- Patternmakers, Metal and Plastic
+- Software Developers
+- Mechatronics Engineers
+- Computer Programmers
+- Electrical and Electronic Equipment Assemblers
+- Engine and Other Machine Assemblers
+- Electronics Engineers, Except Computer
+- Computer Hardware Engineers
+- Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+- Electrical and Electronics Drafters
+- Electrical and Electronics Repairers, Commercial and Industrial Equipment

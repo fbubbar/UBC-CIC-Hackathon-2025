@@ -1,0 +1,211 @@
+Job Title: Biomass Power Plant Managers
+O*NET-SOC Code: 11-3051.04
+
+# DESCRIPTION
+Manage operations at biomass power generation facilities. Direct work activities at plant, including supervision of operations and maintenance staff.
+
+# TASKS
+- Manage safety programs at power generation facilities.
+- Review biomass operations performance specifications to ensure compliance with regulatory requirements.
+- Review logs, datasheets, or reports to ensure adequate production levels and safe production environments or to identify abnormalities with power production equipment or processes.
+- Supervise operations or maintenance employees in the production of power from biomass, such as wood, coal, paper sludge, or other waste or refuse.
+- Supervise biomass plant or substation operations, maintenance, repair, or testing activities.
+- Conduct field inspections of biomass plants, stations, or substations to ensure normal and safe operating conditions.
+- Plan and schedule plant activities, such as wood, waste, or refuse fuel deliveries, ash removal, and regular maintenance.
+- Prepare and manage biomass plant budgets.
+- Evaluate power production or demand trends to identify opportunities for improved operations.
+- Inspect biomass gasification processes, equipment, and facilities for ways to maximize capacity and minimize operating costs.
+- Prepare reports on biomass plant operations, status, maintenance, and other information.
+- Manage parts and supply inventories for biomass plants.
+- Monitor and operate communications systems, such as mobile radios.
+- Shut down and restart biomass power plants or equipment in emergency situations or for equipment maintenance, repairs, or replacements.
+- Compile and record operational data on forms or in log books.
+- Monitor the operating status of biomass plants by observing control system parameters, distributed control systems, switchboard gauges, dials, or other indicators.
+- Adjust equipment controls to generate specified amounts of electrical power.
+- Test, maintain, or repair electrical power distribution machinery or equipment, using hand tools, power tools, and testing devices.
+- Operate controls to start, stop, or regulate biomass-fueled generators, generator units, boilers, engines, or auxiliary systems.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 4.3/5 | Level: 5.52/7)
+- Engineering and Technology (Importance: 4.08/5 | Level: 4.8/7)
+- Production and Processing (Importance: 4.06/5 | Level: 4.98/7)
+- Administration and Management (Importance: 4.05/5 | Level: 4.97/7)
+- Personnel and Human Resources (Importance: 3.87/5 | Level: 4.45/7)
+- Public Safety and Security (Importance: 3.7/5 | Level: 4.25/7)
+- Administrative (Importance: 3.61/5 | Level: 4.24/7)
+- Education and Training (Importance: 3.58/5 | Level: 5.08/7)
+- Mathematics (Importance: 3.53/5 | Level: 4.39/7)
+- Computers and Electronics (Importance: 3.47/5 | Level: 4.07/7)
+- Chemistry (Importance: 3.35/5 | Level: 4.57/7)
+- English Language (Importance: 3.34/5 | Level: 3.93/7)
+- Design (Importance: 3.21/5 | Level: 3.39/7)
+- Physics (Importance: 3.2/5 | Level: 3.99/7)
+- Economics and Accounting (Importance: 3.14/5 | Level: 3.78/7)
+- Building and Construction (Importance: 3.09/5 | Level: 4.13/7)
+- Customer and Personal Service (Importance: 2.87/5 | Level: 3.35/7)
+- Psychology (Importance: 2.85/5 | Level: 3.91/7)
+- Transportation (Importance: 2.81/5 | Level: 2.96/7)
+- Law and Government (Importance: 2.65/5 | Level: 2.75/7)
+- Communications and Media (Importance: 2.63/5 | Level: 2.45/7)
+- Telecommunications (Importance: 2.38/5 | Level: 2.14/7)
+- Therapy and Counseling (Importance: 2.28/5 | Level: 2.85/7)
+- Philosophy and Theology (Importance: 1.74/5 | Level: 1.53/7)
+- Sociology and Anthropology (Importance: 1.72/5 | Level: 1.41/7)
+- Biology (Importance: 1.69/5 | Level: 1.63/7)
+- Medicine and Dentistry (Importance: 1.63/5 | Level: 0.98/7)
+- Geography (Importance: 1.63/5 | Level: 1.37/7)
+- Sales and Marketing (Importance: 1.49/5 | Level: 1.04/7)
+- History and Archeology (Importance: 1.35/5 | Level: 0.97/7)
+- Foreign Language (Importance: 1.26/5 | Level: 0.61/7)
+- Food Production (Importance: 1.04/5 | Level: 0.07/7)
+- Fine Arts (Importance: 1.03/5 | Level: 0.05/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.0/7)
+- Speaking (Importance: 4.0/5 | Level: 4.0/7)
+- Reading Comprehension (Importance: 3.88/5 | Level: 4.25/7)
+- Monitoring (Importance: 3.88/5 | Level: 4.62/7)
+- Active Listening (Importance: 3.88/5 | Level: 3.88/7)
+- Complex Problem Solving (Importance: 3.75/5 | Level: 3.75/7)
+- Coordination (Importance: 3.75/5 | Level: 4.0/7)
+- Management of Personnel Resources (Importance: 3.75/5 | Level: 4.12/7)
+- Judgment and Decision Making (Importance: 3.75/5 | Level: 3.88/7)
+- Time Management (Importance: 3.62/5 | Level: 3.75/7)
+- Operations Monitoring (Importance: 3.38/5 | Level: 3.88/7)
+- Instructing (Importance: 3.25/5 | Level: 3.5/7)
+- Social Perceptiveness (Importance: 3.25/5 | Level: 3.62/7)
+- Systems Analysis (Importance: 3.12/5 | Level: 3.75/7)
+- Quality Control Analysis (Importance: 3.12/5 | Level: 3.25/7)
+- Systems Evaluation (Importance: 3.12/5 | Level: 3.75/7)
+- Active Learning (Importance: 3.12/5 | Level: 3.38/7)
+- Writing (Importance: 3.12/5 | Level: 3.75/7)
+- Management of Material Resources (Importance: 3.12/5 | Level: 3.62/7)
+- Management of Financial Resources (Importance: 3.12/5 | Level: 3.62/7)
+- Operation and Control (Importance: 3.0/5 | Level: 3.0/7)
+- Persuasion (Importance: 3.0/5 | Level: 3.25/7)
+- Troubleshooting (Importance: 3.0/5 | Level: 3.0/7)
+- Mathematics (Importance: 3.0/5 | Level: 3.25/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 3.12/7)
+- Negotiation (Importance: 2.88/5 | Level: 2.88/7)
+- Service Orientation (Importance: 2.75/5 | Level: 2.75/7)
+- Science (Importance: 2.5/5 | Level: 2.5/7)
+- Equipment Maintenance (Importance: 2.38/5 | Level: 2.75/7)
+- Repairing (Importance: 2.25/5 | Level: 2.75/7)
+- Equipment Selection (Importance: 2.12/5 | Level: 2.0/7)
+- Operations Analysis (Importance: 2.12/5 | Level: 2.12/7)
+- Technology Design (Importance: 1.62/5 | Level: 0.75/7)
+- Programming (Importance: 1.62/5 | Level: 0.88/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Computer aided design CAD software (Tech skill type: Computer aided design CAD software)
+- Computerized maintenance management system CMMS (Tech skill type: Facilities management software)
+- Distributed control system DCS (Tech skill type: Industrial control software)
+- Employee scheduling software (Tech skill type: Calendar and scheduling software)
+- Inventory control software (Tech skill type: Inventory management software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Biomass boilers (Tool type: Fire tube boilers)
+- Bubbling fluidized bed boilers (Tool type: Fire tube boilers)
+- Circulating fluidized bed boilers (Tool type: Fire tube boilers)
+- Cooling towers (Tool type: Evaporative coolers)
+- Desktop computers (Tool type: Desktop computers)
+- Heat recovery steam generators (Tool type: Steam generators)
+- Laptop computers (Tool type: Notebook computers)
+- Personal computers (Tool type: Personal computers)
+- Radial stackers (Tool type: Extendable conveyors)
+- Steam boilers (Tool type: Water tube boiler)
+- Steam turbines (Tool type: Steam engines)
+- Water samplers (Tool type: Water samplers)
+- Wood feed systems (Tool type: Batching plants or feeders)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Extremely serious
+- Contact With Others: Contact with others most of the time
+- Coordinate or Lead Others in Accomplishing Work Activities: Extremely important
+- Deal With External Customers or the Public in General: Very important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Highly automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Once a year or more but not every month
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Once a week or more but not every day
+- Exposed to Hazardous Conditions: Once a month or more but not every week
+- Exposed to Hazardous Equipment: Once a week or more but not every day
+- Exposed to High Places: Every day
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Once a year or more but not every month
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Once a week or more but not every day
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Extremely important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Every day
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Every day
+- Outdoors, Under Cover: Once a year or more but not every month
+- Pace Determined by Speed of Equipment: Extremely important
+- Physical Proximity: Slightly close (e.g., shared office)
+- Public Speaking: Once a month or more but not every week
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Less than half the time
+- Spend Time Keeping or Regaining Balance: Less than half the time
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Less than half the time
+- Spend Time Sitting: More than half the time
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Less than half the time
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Once a week or more but not every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Once a year or more but not every month
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Conventional
+- Secondary Interest: Realistic
+- Tertiary Interest: Enterprising
+
+# RELATED OCCUPATIONS
+- Biomass Plant Technicians
+- Geothermal Production Managers
+- Biofuels Production Managers
+- Hydroelectric Production Managers
+- Hydroelectric Plant Technicians
+- Biofuels Processing Technicians
+- Geothermal Technicians
+- Gas Plant Operators
+- Biofuels/Biodiesel Technology and Product Development Managers
+- Industrial Production Managers
+- Power Plant Operators
+- Energy Engineers, Except Wind and Solar
+- Stationary Engineers and Boiler Operators
+- Petroleum Pump System Operators, Refinery Operators, and Gaugers
+- Water and Wastewater Treatment Plant and System Operators
+- Power Distributors and Dispatchers
+- Wind Energy Operations Managers
+- Chemical Plant and System Operators
+- Wind Turbine Service Technicians
+- Industrial Engineers

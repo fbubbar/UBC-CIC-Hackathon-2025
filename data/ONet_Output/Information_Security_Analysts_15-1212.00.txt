@@ -1,0 +1,431 @@
+Job Title: Information Security Analysts
+O*NET-SOC Code: 15-1212.00
+
+# DESCRIPTION
+Plan, implement, upgrade, or monitor security measures for the protection of computer networks and information. Assess system vulnerabilities for security risks and propose and implement risk mitigation strategies. May ensure appropriate security controls are in place that will safeguard digital files and vital electronic infrastructure. May respond to computer security breaches and viruses.
+
+# TASKS
+- Develop plans to safeguard computer files against accidental or unauthorized modification, destruction, or disclosure and to meet emergency data processing needs.
+- Monitor current reports of computer viruses to determine when to update virus protection systems.
+- Encrypt data transmissions and erect firewalls to conceal confidential information as it is being transmitted and to keep out tainted digital transfers.
+- Perform risk assessments and execute tests of data processing system to ensure functioning of data processing activities and security measures.
+- Modify computer security files to incorporate new software, correct errors, or change individual access status.
+- Review violations of computer security procedures and discuss procedures with violators to ensure violations are not repeated.
+- Document computer security and emergency measures policies, procedures, and tests.
+- Confer with users to discuss issues such as computer data access needs, security violations, and programming changes.
+- Monitor use of data files and regulate access to safeguard information in computer files.
+- Coordinate implementation of computer system plan with establishment personnel and outside vendors.
+- Train users and promote security awareness to ensure system security and to improve server and network efficiency.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Computers and Electronics (Importance: 4.35/5 | Level: 5.97/7)
+- English Language (Importance: 4.26/5 | Level: 4.2/7)
+- Administration and Management (Importance: 3.68/5 | Level: 3.79/7)
+- Telecommunications (Importance: 3.64/5 | Level: 3.95/7)
+- Engineering and Technology (Importance: 3.64/5 | Level: 3.88/7)
+- Customer and Personal Service (Importance: 3.42/5 | Level: 4.14/7)
+- Public Safety and Security (Importance: 3.27/5 | Level: 3.34/7)
+- Education and Training (Importance: 3.19/5 | Level: 4.24/7)
+- Mathematics (Importance: 2.87/5 | Level: 3.53/7)
+- Communications and Media (Importance: 2.8/5 | Level: 2.61/7)
+- Law and Government (Importance: 2.7/5 | Level: 2.82/7)
+- Administrative (Importance: 2.69/5 | Level: 3.13/7)
+- Personnel and Human Resources (Importance: 2.44/5 | Level: 3.02/7)
+- Production and Processing (Importance: 2.41/5 | Level: 2.24/7)
+- Design (Importance: 2.4/5 | Level: 2.76/7)
+- Economics and Accounting (Importance: 2.29/5 | Level: 2.17/7)
+- Psychology (Importance: 2.09/5 | Level: 2.44/7)
+- Sociology and Anthropology (Importance: 1.71/5 | Level: 1.58/7)
+- Mechanical (Importance: 1.68/5 | Level: 1.34/7)
+- Transportation (Importance: 1.61/5 | Level: 0.86/7)
+- Geography (Importance: 1.59/5 | Level: 1.25/7)
+- Sales and Marketing (Importance: 1.51/5 | Level: 0.92/7)
+- Physics (Importance: 1.37/5 | Level: 0.82/7)
+- Building and Construction (Importance: 1.34/5 | Level: 1.03/7)
+- Foreign Language (Importance: 1.31/5 | Level: 0.67/7)
+- Chemistry (Importance: 1.23/5 | Level: 0.56/7)
+- Philosophy and Theology (Importance: 1.19/5 | Level: 0.5/7)
+- History and Archeology (Importance: 1.13/5 | Level: 0.3/7)
+- Therapy and Counseling (Importance: 1.1/5 | Level: 0.29/7)
+- Medicine and Dentistry (Importance: 1.06/5 | Level: 0.08/7)
+- Biology (Importance: 1.04/5 | Level: 0.08/7)
+- Food Production (Importance: 1.02/5 | Level: 0.06/7)
+- Fine Arts (Importance: 1.02/5 | Level: 0.04/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.12/7)
+- Critical Thinking (Importance: 3.88/5 | Level: 4.12/7)
+- Complex Problem Solving (Importance: 3.75/5 | Level: 3.62/7)
+- Active Listening (Importance: 3.75/5 | Level: 3.88/7)
+- Speaking (Importance: 3.62/5 | Level: 3.75/7)
+- Writing (Importance: 3.5/5 | Level: 3.75/7)
+- Judgment and Decision Making (Importance: 3.38/5 | Level: 3.62/7)
+- Systems Analysis (Importance: 3.38/5 | Level: 3.38/7)
+- Monitoring (Importance: 3.38/5 | Level: 3.88/7)
+- Active Learning (Importance: 3.25/5 | Level: 3.88/7)
+- Time Management (Importance: 3.12/5 | Level: 3.12/7)
+- Quality Control Analysis (Importance: 3.0/5 | Level: 3.12/7)
+- Operations Monitoring (Importance: 3.0/5 | Level: 3.12/7)
+- Systems Evaluation (Importance: 3.0/5 | Level: 3.38/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Service Orientation (Importance: 2.88/5 | Level: 2.75/7)
+- Learning Strategies (Importance: 2.88/5 | Level: 3.12/7)
+- Instructing (Importance: 2.88/5 | Level: 3.12/7)
+- Management of Personnel Resources (Importance: 2.88/5 | Level: 2.88/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 2.75/7)
+- Negotiation (Importance: 2.62/5 | Level: 2.75/7)
+- Persuasion (Importance: 2.62/5 | Level: 2.88/7)
+- Programming (Importance: 2.62/5 | Level: 2.25/7)
+- Operations Analysis (Importance: 2.5/5 | Level: 2.5/7)
+- Mathematics (Importance: 2.25/5 | Level: 2.38/7)
+- Troubleshooting (Importance: 2.12/5 | Level: 1.88/7)
+- Technology Design (Importance: 2.12/5 | Level: 2.12/7)
+- Science (Importance: 1.88/5 | Level: 1.62/7)
+- Management of Material Resources (Importance: 1.75/5 | Level: 1.0/7)
+- Operation and Control (Importance: 1.75/5 | Level: 0.88/7)
+- Equipment Selection (Importance: 1.75/5 | Level: 1.0/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 1.12/7)
+- Equipment Maintenance (Importance: 1.62/5 | Level: 0.88/7)
+- Repairing (Importance: 1.62/5 | Level: 0.75/7)
+- Installation (Importance: 1.5/5 | Level: 0.5/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- 3M Post-it App (Tech skill type: Word processing software)
+- Access management software (Tech skill type: Access software)
+- AccessData FTK (Tech skill type: Network monitoring software)
+- Active directory software (Tech skill type: Internet directory services software)
+- Adobe ActionScript (Tech skill type: Development environment software)
+- Advanced business application programming ABAP (Tech skill type: Object or component oriented development software)
+- AJAX (Tech skill type: Web platform development software)
+- Amazon DynamoDB (Tech skill type: Data base management system software)
+- Amazon Elastic Compute Cloud EC2 (Tech skill type: Data base user interface and query software)
+- Amazon Redshift (Tech skill type: Data base user interface and query software)
+- Amazon Simple Storage Service S3 (Tech skill type: Storage networking software)
+- Amazon Web Services AWS CloudFormation (Tech skill type: Cloud-based management software)
+- Amazon Web Services AWS software (Tech skill type: Data base user interface and query software)
+- Ansible software (Tech skill type: Expert system software)
+- Anti-phishing software (Tech skill type: Transaction security and virus protection software)
+- Anti-spyware software (Tech skill type: Transaction security and virus protection software)
+- Anti-Trojan software (Tech skill type: Transaction security and virus protection software)
+- Apache Ant (Tech skill type: Development environment software)
+- Apache Cassandra (Tech skill type: Data base management system software)
+- Apache Groovy (Tech skill type: Object or component oriented development software)
+- Apache Hadoop (Tech skill type: Data base management system software)
+- Apache Hive (Tech skill type: Data base management system software)
+- Apache HTTP Server (Tech skill type: Portal server software)
+- Apache Kafka (Tech skill type: Development environment software)
+- Apache Maven (Tech skill type: Development environment software)
+- Apache Pig (Tech skill type: Data base management system software)
+- Apache Solr (Tech skill type: Data base management system software)
+- Apache Spark (Tech skill type: Business intelligence and data analysis software)
+- Apache Struts (Tech skill type: Web platform development software)
+- Apache Subversion SVN (Tech skill type: File versioning software)
+- Apache Tomcat (Tech skill type: Web platform development software)
+- Apple macOS (Tech skill type: Operating system software)
+- ArcSight Enterprise Threat and Risk Management (Tech skill type: Risk management data and analysis software)
+- Atlassian Bamboo (Tech skill type: Enterprise application integration software)
+- Atlassian Confluence (Tech skill type: Project management software)
+- Atlassian JIRA (Tech skill type: Content workflow software)
+- Automated audit trail analysis software (Tech skill type: Network monitoring software)
+- Automated installation software (Tech skill type: Configuration management software)
+- Automated media tracking software (Tech skill type: Network monitoring software)
+- Backup and archival software (Tech skill type: Backup or archival software)
+- Bash (Tech skill type: Operating system software)
+- Berkeley Internet Domain Name BIND (Tech skill type: Internet directory services software)
+- Blackboard software (Tech skill type: Data base user interface and query software)
+- Blink (Tech skill type: Instant messaging software)
+- Border Gateway Protocol BGP (Tech skill type: Switch or router software)
+- C (Tech skill type: Development environment software)
+- C# (Tech skill type: Object or component oriented development software)
+- C++ (Tech skill type: Object or component oriented development software)
+- Check Point Next Generation Secure Web Gateway (Tech skill type: Transaction security and virus protection software)
+- Chef (Tech skill type: Configuration management software)
+- Cisco Systems CiscoWorks (Tech skill type: Administration software)
+- Citrix cloud computing software (Tech skill type: Access software)
+- Common business oriented language COBOL (Tech skill type: Development environment software)
+- Computer forensic software (Tech skill type: Filesystem software)
+- Conformance and validation testing software (Tech skill type: Program testing software)
+- Cryptographic key management software (Tech skill type: Network security and virtual private network VPN equipment software)
+- Customer information control system CICS (Tech skill type: Transaction server software)
+- Delphi Technology (Tech skill type: Financial analysis software)
+- Diameter (Tech skill type: Authentication server software)
+- Django (Tech skill type: Web platform development software)
+- Docker (Tech skill type: Application server software)
+- Domain name system DNS (Tech skill type: Internet directory services software)
+- Drupal (Tech skill type: Web platform development software)
+- Eclipse IDE (Tech skill type: Development environment software)
+- Elasticsearch (Tech skill type: Data base management system software)
+- End-to-end encryption software (Tech skill type: Transaction security and virus protection software)
+- Enterprise JavaBeans (Tech skill type: Web platform development software)
+- Epic Systems (Tech skill type: Medical software)
+- ESRI ArcGIS software (Tech skill type: Geographic information system)
+- Ethereal (Tech skill type: Network monitoring software)
+- Extensible hypertext markup language XHTML (Tech skill type: Web platform development software)
+- Extensible markup language XML (Tech skill type: Enterprise application integration software)
+- Firewall software (Tech skill type: Network security and virtual private network VPN equipment software)
+- Geographic information system GIS software (Tech skill type: Geographic information system)
+- Git (Tech skill type: File versioning software)
+- GitHub (Tech skill type: Application server software)
+- Go (Tech skill type: Development environment software)
+- Google Angular (Tech skill type: Web platform development software)
+- Google Sites (Tech skill type: Web page creation and editing software)
+- Guidance Software EnCase Forensic (Tech skill type: Network monitoring software)
+- Hewlett Packard HP-UX (Tech skill type: Operating system software)
+- Honeypot (Tech skill type: Transaction security and virus protection software)
+- HP Fortify (Tech skill type: Network security or virtual private network VPN management software)
+- HP WebInspect (Tech skill type: Transaction security and virus protection software)
+- Human resource management software HRMS (Tech skill type: Human resources software)
+- Hypertext markup language HTML (Tech skill type: Web platform development software)
+- IBM Cognos Impromptu (Tech skill type: Business intelligence and data analysis software)
+- IBM Domino (Tech skill type: Communications server software)
+- IBM Notes (Tech skill type: Electronic mail software)
+- IBM Power Systems software (Tech skill type: Enterprise system management software)
+- IBM QRadar SIEM (Tech skill type: Network monitoring software)
+- IBM Tivoli Access Management TAM (Tech skill type: Access software)
+- IBM Tivoli Identity Management TIM (Tech skill type: Authentication server software)
+- IBM WebSphere (Tech skill type: Cloud-based management software)
+- Imperva SecureSphere (Tech skill type: Network security and virtual private network VPN equipment software)
+- Integrated development environment IDE software (Tech skill type: Development environment software)
+- Integrity verification software (Tech skill type: Network monitoring software)
+- Intrusion detection system IDS (Tech skill type: Network security or virtual private network VPN management software)
+- Intrusion prevention system IPS (Tech skill type: Network security or virtual private network VPN management software)
+- IpFilter (Tech skill type: Network security and virtual private network VPN equipment software)
+- IpTables (Tech skill type: Network security and virtual private network VPN equipment software)
+- ISS RealSecure (Tech skill type: Network security or virtual private network VPN management software)
+- JavaScript (Tech skill type: Web platform development software)
+- JavaScript Object Notation JSON (Tech skill type: Web platform development software)
+- Job control language JCL (Tech skill type: Operating system software)
+- Juniper Networks NetScreen-Security Manager (Tech skill type: Network security and virtual private network VPN equipment software)
+- Kali Linux (Tech skill type: Program testing software)
+- Keystroke monitoring software (Tech skill type: Network monitoring software)
+- KornShell (Tech skill type: Operating system software)
+- LAMP Stack (Tech skill type: Web platform development software)
+- LexisNexis (Tech skill type: Information retrieval or search software)
+- License management software (Tech skill type: License management software)
+- Link encryption software (Tech skill type: Transaction security and virus protection software)
+- Linux (Tech skill type: Operating system software)
+- McAfee (Tech skill type: Transaction security and virus protection software)
+- McAfee VirusScan (Tech skill type: Transaction security and virus protection software)
+- Metasploit (Tech skill type: Transaction security and virus protection software)
+- Micro Focus OpenView (Tech skill type: Network monitoring software)
+- Microsoft .NET Framework (Tech skill type: Development environment software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Active Directory (Tech skill type: Internet directory services software)
+- Microsoft Active Server Pages ASP (Tech skill type: Web platform development software)
+- Microsoft ASP.NET (Tech skill type: Web platform development software)
+- Microsoft Azure software (Tech skill type: Development environment software)
+- Microsoft Dynamics (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Exchange (Tech skill type: Electronic mail software)
+- Microsoft Hyper-V Server (Tech skill type: Operating system software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft PowerShell (Tech skill type: Development environment software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft SQL Server (Tech skill type: Data base user interface and query software)
+- Microsoft SQL Server Integration Services SSIS (Tech skill type: Enterprise application integration software)
+- Microsoft SQL Server Reporting Services SSRS (Tech skill type: Data base reporting software)
+- Microsoft Teams (Tech skill type: Project management software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Visual Basic (Tech skill type: Development environment software)
+- Microsoft Visual Basic for Applications VBA (Tech skill type: Development environment software)
+- Microsoft Visual Basic Scripting Edition VBScript (Tech skill type: Development environment software)
+- Microsoft Visual Studio (Tech skill type: Development environment software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Windows Server (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- MicroStrategy (Tech skill type: Business intelligence and data analysis software)
+- MongoDB (Tech skill type: Data base management system software)
+- MySQL (Tech skill type: Data base management system software)
+- Nagios (Tech skill type: Network monitoring software)
+- National Instruments LabVIEW (Tech skill type: Development environment software)
+- Network and system vulnerability assessment software (Tech skill type: Network security or virtual private network VPN management software)
+- Network directory services software (Tech skill type: Internet directory services software)
+- Network intrusion prevention systems NIPS (Tech skill type: Network monitoring software)
+- Network security auditing software (Tech skill type: Network security or virtual private network VPN management software)
+- Network, hardware, and software auditing software (Tech skill type: Network monitoring software)
+- Node.js (Tech skill type: Web platform development software)
+- Norton AntiVirus (Tech skill type: Transaction security and virus protection software)
+- NortonLifeLock cybersecurity software (Tech skill type: Transaction security and virus protection software)
+- NoSQL (Tech skill type: Data base management system software)
+- Objective C (Tech skill type: Object or component oriented development software)
+- Operating system software (Tech skill type: Operating system software)
+- Oracle Business Intelligence Enterprise Edition (Tech skill type: Business intelligence and data analysis software)
+- Oracle Database (Tech skill type: Data base user interface and query software)
+- Oracle E-Business Suite Financials (Tech skill type: Financial analysis software)
+- Oracle Fusion Applications (Tech skill type: Enterprise resource planning ERP software)
+- Oracle Fusion Middleware (Tech skill type: Enterprise application integration software)
+- Oracle Hyperion (Tech skill type: Enterprise resource planning ERP software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- Oracle JavaServer Pages JSP (Tech skill type: Web platform development software)
+- Oracle JD Edwards EnterpriseOne (Tech skill type: Enterprise resource planning ERP software)
+- Oracle JDBC (Tech skill type: Data base user interface and query software)
+- Oracle Net Manager (Tech skill type: Network monitoring software)
+- Oracle PeopleSoft (Tech skill type: Enterprise resource planning ERP software)
+- Oracle PeopleSoft Financials (Tech skill type: Enterprise resource planning ERP software)
+- Oracle PL/SQL (Tech skill type: Data base management system software)
+- Oracle Solaris (Tech skill type: Operating system software)
+- Oracle WebLogic Server (Tech skill type: Application server software)
+- Palo Alto Networks Next-Generation Security Platform (Tech skill type: Network security and virtual private network VPN equipment software)
+- Password cracker software (Tech skill type: Transaction security and virus protection software)
+- Password management software (Tech skill type: Authentication server software)
+- Patch and update management software (Tech skill type: Configuration management software)
+- Penetration testing software (Tech skill type: Transaction security and virus protection software)
+- Perforce Helix software (Tech skill type: Configuration management software)
+- Perl (Tech skill type: Object or component oriented development software)
+- PHP (Tech skill type: Web platform development software)
+- Ping Identity (Tech skill type: Transaction security and virus protection software)
+- Portswigger BurP Suite (Tech skill type: Transaction security and virus protection software)
+- PostgreSQL (Tech skill type: Object oriented data base management software)
+- Program checksumming software (Tech skill type: Transaction security and virus protection software)
+- Puppet (Tech skill type: Configuration management software)
+- Python (Tech skill type: Object or component oriented development software)
+- Qlik Tech QlikView (Tech skill type: Business intelligence and data analysis software)
+- Qualys Cloud Platform (Tech skill type: Cloud-based protection or security software)
+- Quest BigBrother (Tech skill type: Network monitoring software)
+- Rapid7 Nexpose (Tech skill type: Transaction security and virus protection software)
+- Red Hat Enterprise Linux (Tech skill type: Operating system software)
+- Red Hat OpenShift (Tech skill type: Application server software)
+- Red Hat WildFly (Tech skill type: Application server software)
+- Relational database management software (Tech skill type: Data base management system software)
+- Remote authentication dial-in user service RADIUS software (Tech skill type: Authentication server software)
+- Root kit detection software (Tech skill type: Transaction security and virus protection software)
+- Ruby (Tech skill type: Development environment software)
+- Ruby on Rails (Tech skill type: Web platform development software)
+- Salesforce software (Tech skill type: Customer relationship management CRM software)
+- SAP Crystal Reports (Tech skill type: Data base reporting software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- SAS (Tech skill type: Analytical or scientific software)
+- Scala (Tech skill type: Object or component oriented development software)
+- Secure internet filtering software (Tech skill type: Transaction security and virus protection software)
+- Secure shell SSH software (Tech skill type: Desktop communications software)
+- Security incident management software (Tech skill type: Network security or virtual private network VPN management software)
+- Security risk assessment software (Tech skill type: Transaction security and virus protection software)
+- Selenium (Tech skill type: Program testing software)
+- Shell script (Tech skill type: Operating system software)
+- Smart card management software (Tech skill type: Point of sale POS software)
+- Sniffer Investigator (Tech skill type: Network monitoring software)
+- Snort (Tech skill type: Network monitoring software)
+- Splunk Enterprise (Tech skill type: Cloud-based management software)
+- Spring Framework (Tech skill type: Web platform development software)
+- Stack smashing protection SSP software (Tech skill type: Transaction security and virus protection software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Supervisory control and data acquisition SCADA software (Tech skill type: Industrial control software)
+- Swift (Tech skill type: Object or component oriented development software)
+- Symantec Blue Coat Data Loss Prevention (Tech skill type: Network monitoring software)
+- Symantec Endpoint Protection (Tech skill type: Transaction security and virus protection software)
+- System and data disaster recovery software (Tech skill type: Backup or archival software)
+- System testing software (Tech skill type: Program testing software)
+- Tableau (Tech skill type: Business intelligence and data analysis software)
+- Tcpdump (Tech skill type: Network monitoring software)
+- Tenable Nessus (Tech skill type: Transaction security and virus protection software)
+- Teradata Database (Tech skill type: Data base management system software)
+- The MathWorks MATLAB (Tech skill type: Analytical or scientific software)
+- Trend Micro TippingPoint (Tech skill type: Network security and virtual private network VPN equipment software)
+- Ubuntu (Tech skill type: Operating system software)
+- Unified modeling language UML (Tech skill type: Requirements analysis and system architecture software)
+- UNIX (Tech skill type: Operating system software)
+- UNIX Shell (Tech skill type: Operating system software)
+- Veritas NetBackup (Tech skill type: Backup or archival software)
+- Virtual private networking VPN software (Tech skill type: Network security and virtual private network VPN equipment software)
+- Virus scanning software (Tech skill type: Transaction security and virus protection software)
+- VMware (Tech skill type: Clustering software)
+- Voice over internet protocol VoIP system software (Tech skill type: Internet protocol IP multimedia subsystem software)
+- Websense Data Loss Prevention (Tech skill type: Network security or virtual private network VPN management software)
+- WinMerge (Tech skill type: File versioning software)
+- Wireshark (Tech skill type: Network monitoring software)
+
+## TOOLS USED
+- Desktop computers (Tool type: Desktop computers)
+- Local area network LAN analyzers (Tool type: Network analyzers)
+- Mainframe computers (Tool type: Mainframe computers)
+- Network analyzers (Tool type: Network analyzers)
+- Notebook computers (Tool type: Notebook computers)
+- Protocol analyzers (Tool type: Protocol analyzers)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Important
+- Deal With External Customers or the Public in General: Fairly important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Slightly automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Never
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: No responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Slightly close (e.g., shared office)
+- Public Speaking: Once a year or more but not every month
+- Spend Time Bending or Twisting Your Body: Never
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Never
+- Spend Time Sitting: More than half the time
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Once a month or more but not every week
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Never
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Limited responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a year or more but not every month
+
+# INTERESTS (RIASEC)
+- Primary Interest: Conventional
+- Secondary Interest: Investigative
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Information Security Engineers
+- Penetration Testers
+- Digital Forensics Analysts
+- Computer Systems Analysts
+- Network and Computer Systems Administrators
+- Computer Network Support Specialists
+- Database Administrators
+- Computer Systems Engineers/Architects
+- Computer Network Architects
+- Blockchain Engineers
+- Security Management Specialists
+- Security Managers
+- Software Developers
+- Computer and Information Systems Managers
+- Database Architects
+- First-Line Supervisors of Security Workers
+- Computer User Support Specialists
+- Document Management Specialists
+- Intelligence Analysts
+- Telecommunications Engineering Specialists

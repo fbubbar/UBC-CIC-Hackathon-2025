@@ -1,0 +1,214 @@
+Job Title: Dredge Operators
+O*NET-SOC Code: 53-7031.00
+
+# DESCRIPTION
+Operate dredge to remove sand, gravel, or other materials in order to excavate and maintain navigable channels in waterways.
+
+# TASKS
+- Move levers to position dredges for excavation, to engage hydraulic pumps, to raise and lower suction booms, and to control rotation of cutterheads.
+- Start and stop engines to operate equipment.
+- Start power winches that draw in or let out cables to change positions of dredges, or pull in and let out cables manually.
+- Pump water to clear machinery pipelines.
+- Lower anchor poles to verify depths of excavations, using winches, or scan depth gauges to determine depths of excavations.
+- Direct or assist workers placing shore anchors and cables, laying additional pipes from dredges to shore, and pumping water from pontoons.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 4.06/5 | Level: 5.03/7)
+- English Language (Importance: 3.43/5 | Level: 3.39/7)
+- Public Safety and Security (Importance: 3.18/5 | Level: 1.97/7)
+- Administration and Management (Importance: 3.15/5 | Level: 3.38/7)
+- Production and Processing (Importance: 2.94/5 | Level: 3.26/7)
+- Mathematics (Importance: 2.81/5 | Level: 1.85/7)
+- Education and Training (Importance: 2.62/5 | Level: 3.29/7)
+- Physics (Importance: 2.45/5 | Level: 2.22/7)
+- Engineering and Technology (Importance: 2.24/5 | Level: 2.4/7)
+- Building and Construction (Importance: 2.17/5 | Level: 2.28/7)
+- Computers and Electronics (Importance: 2.15/5 | Level: 2.23/7)
+- Law and Government (Importance: 2.03/5 | Level: 1.72/7)
+- Transportation (Importance: 1.96/5 | Level: 1.83/7)
+- Personnel and Human Resources (Importance: 1.94/5 | Level: 1.13/7)
+- Medicine and Dentistry (Importance: 1.89/5 | Level: 0.78/7)
+- Telecommunications (Importance: 1.72/5 | Level: 1.02/7)
+- Sales and Marketing (Importance: 1.65/5 | Level: 1.07/7)
+- Communications and Media (Importance: 1.57/5 | Level: 0.8/7)
+- Geography (Importance: 1.57/5 | Level: 1.06/7)
+- Design (Importance: 1.48/5 | Level: 0.88/7)
+- Customer and Personal Service (Importance: 1.43/5 | Level: 0.82/7)
+- Administrative (Importance: 1.42/5 | Level: 0.53/7)
+- Psychology (Importance: 1.34/5 | Level: 0.63/7)
+- Chemistry (Importance: 1.33/5 | Level: 0.73/7)
+- Economics and Accounting (Importance: 1.29/5 | Level: 0.42/7)
+- Biology (Importance: 1.22/5 | Level: 0.43/7)
+- Foreign Language (Importance: 1.18/5 | Level: 0.28/7)
+- Sociology and Anthropology (Importance: 1.16/5 | Level: 0.24/7)
+- History and Archeology (Importance: 1.15/5 | Level: 0.22/7)
+- Therapy and Counseling (Importance: 1.15/5 | Level: 0.33/7)
+- Philosophy and Theology (Importance: 1.13/5 | Level: 0.26/7)
+- Fine Arts (Importance: 1.08/5 | Level: 0.15/7)
+- Food Production (Importance: 1.06/5 | Level: 0.23/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operation and Control (Importance: 3.75/5 | Level: 3.25/7)
+- Operations Monitoring (Importance: 3.5/5 | Level: 3.62/7)
+- Coordination (Importance: 3.0/5 | Level: 3.12/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 2.75/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 2.62/7)
+- Troubleshooting (Importance: 2.88/5 | Level: 2.62/7)
+- Active Listening (Importance: 2.88/5 | Level: 2.38/7)
+- Monitoring (Importance: 2.88/5 | Level: 2.88/7)
+- Speaking (Importance: 2.88/5 | Level: 2.25/7)
+- Complex Problem Solving (Importance: 2.75/5 | Level: 2.5/7)
+- Equipment Selection (Importance: 2.75/5 | Level: 2.5/7)
+- Time Management (Importance: 2.75/5 | Level: 2.38/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 2.38/7)
+- Management of Personnel Resources (Importance: 2.62/5 | Level: 2.88/7)
+- Repairing (Importance: 2.5/5 | Level: 2.38/7)
+- Reading Comprehension (Importance: 2.5/5 | Level: 2.38/7)
+- Quality Control Analysis (Importance: 2.5/5 | Level: 2.75/7)
+- Active Learning (Importance: 2.5/5 | Level: 2.12/7)
+- Equipment Maintenance (Importance: 2.5/5 | Level: 2.38/7)
+- Instructing (Importance: 2.38/5 | Level: 2.62/7)
+- Learning Strategies (Importance: 2.38/5 | Level: 2.5/7)
+- Negotiation (Importance: 2.25/5 | Level: 1.88/7)
+- Persuasion (Importance: 2.25/5 | Level: 2.0/7)
+- Service Orientation (Importance: 2.12/5 | Level: 1.88/7)
+- Systems Evaluation (Importance: 2.12/5 | Level: 2.0/7)
+- Systems Analysis (Importance: 2.12/5 | Level: 1.88/7)
+- Writing (Importance: 2.12/5 | Level: 2.0/7)
+- Mathematics (Importance: 2.0/5 | Level: 1.88/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.38/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 1.25/7)
+- Technology Design (Importance: 1.75/5 | Level: 0.88/7)
+- Operations Analysis (Importance: 1.75/5 | Level: 1.0/7)
+- Science (Importance: 1.25/5 | Level: 0.5/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Global positioning system GPS software (Tech skill type: Mobile location based services software)
+- HYPACK DREDGEPACK (Tech skill type: Industrial control software)
+- Programmable logic controller PLC software (Tech skill type: Industrial control software)
+- Teledyne Odom Hydrographic ODOM eChart (Tech skill type: Data base user interface and query software)
+- Trimble HYDROpro (Tech skill type: Map creation software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Anchor winches (Tool type: Anchor rollers)
+- Chainsaws (Tool type: Chain saw)
+- Clamshell buckets (Tool type: Earthmoving buckets or its parts or accessories)
+- Crawler dozers (Tool type: Track bulldozers)
+- Cutting torches (Tool type: Blow torch)
+- Davit cranes (Tool type: Conventional truck cranes)
+- Density meters (Tool type: Density measurement instrument)
+- Dragline cranes (Tool type: Draglines)
+- Fathometer sonar equipment (Tool type: Sonars)
+- Firefighting hoses (Tool type: Fire hoses or nozzles)
+- Front end loaders (Tool type: Front end loaders)
+- Grease dispensing guns (Tool type: Grease guns)
+- Heavy duty dump trucks (Tool type: Dump trucks)
+- Hydraulic suction dredges (Tool type: Dredgers)
+- Life jackets (Tool type: Life vests or preservers)
+- Mechanical dredges (Tool type: Dredgers)
+- Mobile radios (Tool type: Two way radios)
+- Multipurpose fire extinguishers (Tool type: Fire extinguishers)
+- Oxyacetylene welding equipment (Tool type: Gas welding or brazing or cutting apparatus)
+- Pickup trucks (Tool type: Light trucks or sport utility vehicles)
+- Pneumatic impact wrenches (Tool type: Pneumatic impact wrenches)
+- Power winches (Tool type: Winches)
+- Ratchet sets (Tool type: Ratchets)
+- Rescue boats (Tool type: Rescue ships or boats)
+- Rescue rings (Tool type: Life rings)
+- Self-propelled dredges (Tool type: Dredgers)
+- Socket wrench sets (Tool type: Socket sets)
+- Soil particle size testers (Tool type: Particle size measuring apparatus)
+- Tractor-trailer trucks (Tool type: Cargo trucks)
+- Vacuum gauges (Tool type: Vacuum gauges)
+- Velocity meters (Tool type: Speed sensors)
+- Water quality samplers (Tool type: Water samplers)
+- Weed harvesters (Tool type: Weeders)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Fairly serious
+- Contact With Others: Contact with others most of the time
+- Coordinate or Lead Others in Accomplishing Work Activities: Fairly important
+- Deal With External Customers or the Public in General: Not important at all
+- Dealing With Unpleasant, Angry, or Discourteous People: Never
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Moderately automated
+- Determine Tasks, Priorities and Goals: Limited freedom
+- E-Mail: Never
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Once a month or more but not every week
+- Exposed to Hazardous Equipment: Every day
+- Exposed to High Places: Once a month or more but not every week
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Every day
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Every day
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Moderate responsibility
+- Impact of Decisions on Co-workers or Company Results: Moderate results
+- Importance of Being Exact or Accurate: Important
+- Importance of Repeating Same Tasks: Not important at all
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Every day
+- Indoors, Environmentally Controlled: Never
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Every day
+- Outdoors, Under Cover: Every day
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: I work with others but not closely (e.g., private office)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Never
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Less than half the time
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: More than half the time
+- Spend Time Sitting: More than half the time
+- Spend Time Standing: About half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Never
+- Time Pressure: Once a month or more but not every week
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: High responsibility
+- Work With or Contribute to a Work Group or Team: Important
+- Written Letters and Memos: Once a year or more but not every month
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Hoist and Winch Operators
+- Excavating and Loading Machine and Dragline Operators, Surface Mining
+- Operating Engineers and Other Construction Equipment Operators
+- Rotary Drill Operators, Oil and Gas
+- Helpers--Extraction Workers
+- Continuous Mining Machine Operators
+- Riggers
+- Earth Drillers, Except Oil and Gas
+- Crane and Tower Operators
+- Derrick Operators, Oil and Gas
+- Sailors and Marine Oilers
+- Maintenance Workers, Machinery
+- Roustabouts, Oil and Gas
+- Construction Laborers
+- Service Unit Operators, Oil and Gas
+- Pile Driver Operators
+- Wellhead Pumpers
+- Pump Operators, Except Wellhead Pumpers
+- Conveyor Operators and Tenders
+- Industrial Truck and Tractor Operators

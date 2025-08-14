@@ -1,0 +1,233 @@
+Job Title: Model Makers, Metal and Plastic
+O*NET-SOC Code: 51-4061.00
+
+# DESCRIPTION
+Set up and operate machines, such as lathes, milling and engraving machines, and jig borers to make working models of metal or plastic objects. Includes template makers.
+
+# TASKS
+- Study blueprints, drawings, and sketches to determine material dimensions, required equipment, and operations sequences.
+- Inspect and test products to verify conformance to specifications, using precision measuring instruments or circuit testers.
+- Drill, countersink, and ream holes in parts and assemblies for bolts, screws, and other fasteners, using power tools.
+- Cut, shape, and form metal parts, using lathes, power saws, snips, power brakes and shears, files, and mallets.
+- Set up and operate machines, such as lathes, drill presses, punch presses, or bandsaws, to fabricate prototypes or models.
+- Devise and construct tools, dies, molds, jigs, and fixtures, or modify existing tools and equipment.
+- Rework or alter component model or parts as required to ensure that products meet standards.
+- Grind, file, and sand parts to finished dimensions.
+- Program computer numerical control (CNC) machines to fabricate model parts.
+- Lay out and mark reference points and dimensions on materials, using measuring instruments and drawing or scribing tools.
+- Align, fit, and join parts, using bolts and screws or by welding or gluing.
+- Use computer-aided design (CAD) and computer-aided manufacturing (CAM) software or hardware to fabricate model parts.
+- Assemble mechanical, electrical, and electronic components into models or prototypes, using hand tools, power tools, and fabricating machines.
+- Consult and confer with engineering personnel to discuss developmental problems and to recommend product modifications.
+- Record specifications, production operations, and final dimensions of models for use in establishing operating standards and procedures.
+- Wire and solder electrical and electronic connections and components.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Design (Importance: 3.97/5 | Level: 3.61/7)
+- Mathematics (Importance: 3.8/5 | Level: 3.93/7)
+- Engineering and Technology (Importance: 3.44/5 | Level: 3.78/7)
+- Mechanical (Importance: 3.31/5 | Level: 4.05/7)
+- Production and Processing (Importance: 3.06/5 | Level: 2.89/7)
+- Computers and Electronics (Importance: 2.56/5 | Level: 2.48/7)
+- Physics (Importance: 2.45/5 | Level: 2.16/7)
+- Administration and Management (Importance: 2.18/5 | Level: 1.79/7)
+- English Language (Importance: 2.14/5 | Level: 1.9/7)
+- Education and Training (Importance: 2.09/5 | Level: 2.18/7)
+- Customer and Personal Service (Importance: 1.75/5 | Level: 1.57/7)
+- Personnel and Human Resources (Importance: 1.66/5 | Level: 0.96/7)
+- Administrative (Importance: 1.61/5 | Level: 0.85/7)
+- Building and Construction (Importance: 1.53/5 | Level: 1.32/7)
+- Chemistry (Importance: 1.51/5 | Level: 0.91/7)
+- Economics and Accounting (Importance: 1.48/5 | Level: 0.77/7)
+- Public Safety and Security (Importance: 1.44/5 | Level: 1.04/7)
+- Telecommunications (Importance: 1.43/5 | Level: 0.75/7)
+- Transportation (Importance: 1.43/5 | Level: 0.85/7)
+- Communications and Media (Importance: 1.31/5 | Level: 0.82/7)
+- Sales and Marketing (Importance: 1.3/5 | Level: 1.15/7)
+- Food Production (Importance: 1.29/5 | Level: 0.74/7)
+- Philosophy and Theology (Importance: 1.22/5 | Level: 0.88/7)
+- Law and Government (Importance: 1.21/5 | Level: 0.61/7)
+- Psychology (Importance: 1.19/5 | Level: 0.74/7)
+- Geography (Importance: 1.19/5 | Level: 0.73/7)
+- History and Archeology (Importance: 1.18/5 | Level: 0.55/7)
+- Sociology and Anthropology (Importance: 1.18/5 | Level: 0.36/7)
+- Biology (Importance: 1.18/5 | Level: 0.36/7)
+- Therapy and Counseling (Importance: 1.18/5 | Level: 0.54/7)
+- Fine Arts (Importance: 1.04/5 | Level: 0.05/7)
+- Foreign Language (Importance: 1.02/5 | Level: 0.02/7)
+- Medicine and Dentistry (Importance: 1.0/5 | Level: 0.01/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operation and Control (Importance: 3.62/5 | Level: 3.25/7)
+- Operations Monitoring (Importance: 3.38/5 | Level: 3.12/7)
+- Monitoring (Importance: 3.25/5 | Level: 3.0/7)
+- Quality Control Analysis (Importance: 3.25/5 | Level: 3.12/7)
+- Troubleshooting (Importance: 3.12/5 | Level: 3.12/7)
+- Critical Thinking (Importance: 3.12/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 3.0/7)
+- Speaking (Importance: 3.0/5 | Level: 2.62/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 2.88/7)
+- Active Listening (Importance: 3.0/5 | Level: 2.88/7)
+- Reading Comprehension (Importance: 2.88/5 | Level: 3.0/7)
+- Active Learning (Importance: 2.88/5 | Level: 2.88/7)
+- Equipment Selection (Importance: 2.88/5 | Level: 3.0/7)
+- Complex Problem Solving (Importance: 2.88/5 | Level: 2.75/7)
+- Coordination (Importance: 2.88/5 | Level: 2.88/7)
+- Repairing (Importance: 2.75/5 | Level: 2.62/7)
+- Writing (Importance: 2.75/5 | Level: 2.62/7)
+- Equipment Maintenance (Importance: 2.62/5 | Level: 2.62/7)
+- Mathematics (Importance: 2.62/5 | Level: 2.88/7)
+- Operations Analysis (Importance: 2.62/5 | Level: 2.5/7)
+- Social Perceptiveness (Importance: 2.62/5 | Level: 2.62/7)
+- Learning Strategies (Importance: 2.38/5 | Level: 2.0/7)
+- Instructing (Importance: 2.25/5 | Level: 2.12/7)
+- Technology Design (Importance: 2.12/5 | Level: 1.88/7)
+- Management of Personnel Resources (Importance: 2.12/5 | Level: 1.75/7)
+- Persuasion (Importance: 2.0/5 | Level: 1.88/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 1.88/7)
+- Systems Analysis (Importance: 2.0/5 | Level: 1.12/7)
+- Service Orientation (Importance: 1.88/5 | Level: 1.5/7)
+- Negotiation (Importance: 1.88/5 | Level: 1.38/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.38/7)
+- Science (Importance: 1.75/5 | Level: 1.25/7)
+- Programming (Importance: 1.75/5 | Level: 0.88/7)
+- Management of Financial Resources (Importance: 1.62/5 | Level: 0.88/7)
+- Installation (Importance: 1.38/5 | Level: 0.38/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- CNC Software Mastercam (Tech skill type: Computer aided manufacturing CAM software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Word (Tech skill type: Word processing software)
+- PTC Creo Parametric (Tech skill type: Computer aided design CAD software)
+
+## TOOLS USED
+- Audio-oscillators (Tool type: Simple harmonic oscillator)
+- Bandsaws (Tool type: Metal band sawing machine)
+- Benchtop drill presses (Tool type: Drill press or radial drill)
+- Capacitance checkers (Tool type: Capacitance meters)
+- Chain hoists (Tool type: Hoists)
+- Computer numerical control CNC routers (Tool type: Power routers)
+- Computer numerical control CNC vertical machine centers (Tool type: Vertical machining center)
+- Digital calipers (Tool type: Calipers)
+- Digital electrical frequency meters (Tool type: Electrical frequency meters)
+- Digital hardness testers (Tool type: Hardness testers)
+- Digital integrated circuit testers (Tool type: Integrated circuit testers)
+- Digital oscilloscopes (Tool type: Oscilloscopes)
+- Electrical discharge machines EDM (Tool type: Wire cathode electrode discharge machine)
+- Electronic micrometers (Tool type: Micrometers)
+- Engraving machines (Tool type: Engraving machines)
+- Flat smooth cut files (Tool type: Smooth cut file)
+- Fused deposition modeling FDM printers (Tool type: Three dimensional printing machine)
+- Gas powered brazing equipment (Tool type: Gas welding or brazing or cutting apparatus)
+- Grease dispensing guns (Tool type: Grease guns)
+- Hand snips (Tool type: Tinners snips)
+- Hydraulic punch presses (Tool type: Drill press or radial drill)
+- Jewelers lathes (Tool type: Tracer or duplicating or contouring lathe)
+- Jig bores (Tool type: Boring machines)
+- Mallets (Tool type: Mallets)
+- Manual lathes (Tool type: Tracer or duplicating or contouring lathe)
+- Manual mills (Tool type: Milling machines)
+- Metal shears (Tool type: Tinners snips)
+- Microsoldering equipment (Tool type: Soldering iron)
+- Portable workshop cranes (Tool type: Workshop cranes)
+- Power brakes (Tool type: Hydraulic press brake)
+- Power grinding machines (Tool type: Grinding machines)
+- Power saws (Tool type: Power saws)
+- Scribing tools (Tool type: Scribers)
+- Selective layered sintering SLS printers (Tool type: Three dimensional printing machine)
+- Shadowgraph optical comparators (Tool type: Comparators)
+- Signal generators (Tool type: Signal generators)
+- Soldering irons (Tool type: Soldering iron)
+- Stereolithography SLA printers (Tool type: Three dimensional printing machine)
+- Three-dimensional prototyping printers (Tool type: Three dimensional printing machine)
+- Tungsten inert gas TIG welding equipment (Tool type: Tungsten inert gas welding machine)
+- Visual autocollimators (Tool type: Autocollimator)
+- Volt-ohm meters VOM (Tool type: Ohmmeters)
+- Wheatstone bridges (Tool type: Calibrated resistance measuring equipment)
+
+# WORK CONTEXT
+- Conflict Situations: Never
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Important
+- Deal With External Customers or the Public in General: Not important at all
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a week or more but not every day
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Slightly automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Never
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Every day
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Once a year or more but not every month
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Extremely important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Every day
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: More than half the time
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: Continually or almost continually
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Once a month or more but not every week
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Important
+- Written Letters and Memos: Never
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Tool and Die Makers
+- Layout Workers, Metal and Plastic
+- Patternmakers, Metal and Plastic
+- Model Makers, Wood
+- Structural Metal Fabricators and Fitters
+- Engine and Other Machine Assemblers
+- Machinists
+- Electrical and Electronic Equipment Assemblers
+- Industrial Machinery Mechanics
+- Molders, Shapers, and Casters, Except Metal and Plastic
+- Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+- Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic
+- Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Electromechanical Equipment Assemblers
+- Patternmakers, Wood
+- Mechanical Drafters
+- Sheet Metal Workers
+- Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders
+- Cabinetmakers and Bench Carpenters
+- Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic

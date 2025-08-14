@@ -1,0 +1,307 @@
+Job Title: Farm Equipment Mechanics and Service Technicians
+O*NET-SOC Code: 49-3041.00
+
+# DESCRIPTION
+Diagnose, adjust, repair, or overhaul farm machinery and vehicles, such as tractors, harvesters, dairy equipment, and irrigation systems.
+
+# TASKS
+- Maintain, repair, and overhaul farm machinery and vehicles, such as tractors, harvesters, and irrigation systems.
+- Dismantle defective machines for repair, using hand tools.
+- Record details of repairs made and parts used.
+- Reassemble machines and equipment following repair, testing operation and making adjustments, as necessary.
+- Clean and lubricate parts.
+- Test and replace electrical components and wiring, using test meters, soldering equipment, and hand tools.
+- Tune or overhaul engines.
+- Examine and listen to equipment, read inspection reports, and confer with customers to locate and diagnose malfunctions.
+- Repair or replace defective parts, using hand tools, milling and woodworking machines, lathes, welding equipment, grinders, or saws.
+- Drive trucks to haul tools and equipment for on-site repair of large machinery.
+- Fabricate new metal parts, using drill presses, engine lathes, and other machine tools.
+- Repair bent or torn sheet metal.
+- Calculate bills according to record of repairs made, labor time, and parts used.
+- Install and repair agricultural irrigation, plumbing, and sprinkler systems.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 4.68/5 | Level: 5.84/7)
+- Customer and Personal Service (Importance: 3.39/5 | Level: 3.83/7)
+- Computers and Electronics (Importance: 3.36/5 | Level: 3.67/7)
+- English Language (Importance: 3.34/5 | Level: 3.22/7)
+- Mathematics (Importance: 3.23/5 | Level: 3.28/7)
+- Education and Training (Importance: 3.21/5 | Level: 3.53/7)
+- Administration and Management (Importance: 3.14/5 | Level: 2.9/7)
+- Engineering and Technology (Importance: 3.07/5 | Level: 3.67/7)
+- Design (Importance: 2.97/5 | Level: 3.17/7)
+- Transportation (Importance: 2.93/5 | Level: 3.14/7)
+- Public Safety and Security (Importance: 2.82/5 | Level: 2.77/7)
+- Physics (Importance: 2.76/5 | Level: 3.44/7)
+- Production and Processing (Importance: 2.56/5 | Level: 2.59/7)
+- Telecommunications (Importance: 2.51/5 | Level: 2.29/7)
+- Building and Construction (Importance: 2.51/5 | Level: 2.68/7)
+- Sales and Marketing (Importance: 2.49/5 | Level: 2.57/7)
+- Chemistry (Importance: 2.43/5 | Level: 2.54/7)
+- Geography (Importance: 2.39/5 | Level: 2.35/7)
+- Administrative (Importance: 2.37/5 | Level: 2.3/7)
+- Personnel and Human Resources (Importance: 2.36/5 | Level: 1.7/7)
+- Law and Government (Importance: 2.31/5 | Level: 2.07/7)
+- Food Production (Importance: 2.16/5 | Level: 2.07/7)
+- Psychology (Importance: 2.07/5 | Level: 1.94/7)
+- Economics and Accounting (Importance: 2.07/5 | Level: 1.44/7)
+- Communications and Media (Importance: 1.93/5 | Level: 1.69/7)
+- Biology (Importance: 1.85/5 | Level: 1.43/7)
+- Medicine and Dentistry (Importance: 1.7/5 | Level: 1.05/7)
+- Therapy and Counseling (Importance: 1.64/5 | Level: 1.3/7)
+- Foreign Language (Importance: 1.57/5 | Level: 0.96/7)
+- History and Archeology (Importance: 1.38/5 | Level: 0.69/7)
+- Philosophy and Theology (Importance: 1.36/5 | Level: 0.6/7)
+- Sociology and Anthropology (Importance: 1.36/5 | Level: 0.62/7)
+- Fine Arts (Importance: 1.14/5 | Level: 0.26/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Equipment Maintenance (Importance: 4.0/5 | Level: 3.88/7)
+- Repairing (Importance: 4.0/5 | Level: 4.12/7)
+- Troubleshooting (Importance: 3.88/5 | Level: 3.88/7)
+- Operation and Control (Importance: 3.62/5 | Level: 3.25/7)
+- Critical Thinking (Importance: 3.5/5 | Level: 3.62/7)
+- Operations Monitoring (Importance: 3.5/5 | Level: 3.12/7)
+- Quality Control Analysis (Importance: 3.38/5 | Level: 3.12/7)
+- Complex Problem Solving (Importance: 3.25/5 | Level: 3.0/7)
+- Equipment Selection (Importance: 3.25/5 | Level: 3.0/7)
+- Judgment and Decision Making (Importance: 3.25/5 | Level: 3.0/7)
+- Speaking (Importance: 3.12/5 | Level: 3.0/7)
+- Reading Comprehension (Importance: 3.12/5 | Level: 2.88/7)
+- Active Listening (Importance: 3.12/5 | Level: 2.88/7)
+- Monitoring (Importance: 3.0/5 | Level: 2.88/7)
+- Active Learning (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 2.88/5 | Level: 2.75/7)
+- Systems Analysis (Importance: 2.88/5 | Level: 2.75/7)
+- Mathematics (Importance: 2.75/5 | Level: 2.5/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 2.5/7)
+- Coordination (Importance: 2.75/5 | Level: 2.38/7)
+- Writing (Importance: 2.75/5 | Level: 2.5/7)
+- Learning Strategies (Importance: 2.62/5 | Level: 2.62/7)
+- Systems Evaluation (Importance: 2.62/5 | Level: 2.5/7)
+- Service Orientation (Importance: 2.5/5 | Level: 2.0/7)
+- Persuasion (Importance: 2.38/5 | Level: 2.12/7)
+- Installation (Importance: 2.25/5 | Level: 2.12/7)
+- Management of Personnel Resources (Importance: 2.25/5 | Level: 2.0/7)
+- Instructing (Importance: 2.12/5 | Level: 2.38/7)
+- Management of Financial Resources (Importance: 1.88/5 | Level: 1.5/7)
+- Negotiation (Importance: 1.88/5 | Level: 1.62/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.0/7)
+- Science (Importance: 1.88/5 | Level: 1.62/7)
+- Programming (Importance: 1.75/5 | Level: 0.75/7)
+- Management of Material Resources (Importance: 1.75/5 | Level: 1.12/7)
+- Operations Analysis (Importance: 1.75/5 | Level: 0.88/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Computerized maintenance management system CMMS (Tech skill type: Facilities management software)
+- FarmLogic FarmPAD (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Word (Tech skill type: Word processing software)
+- ServiceMax (Tech skill type: Data base user interface and query software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Adjustable end wrenches (Tool type: Adjustable wrenches)
+- Air wrenches (Tool type: Impact wrenches)
+- Angle grinders (Tool type: Angle grinder)
+- Arc welders (Tool type: Shielded metal arc welding or stick welding machine)
+- Automated lathes (Tool type: Automatic lathe or chucking machine)
+- Automatic center punches (Tool type: Center punch)
+- Aviation snips (Tool type: Tinners snips)
+- Bearing pullers (Tool type: Pullers)
+- Bench grinders (Tool type: Bench grinder)
+- Bench mount drill presses (Tool type: Drill press or radial drill)
+- C clamps (Tool type: C clamps)
+- Circular wire gauges (Tool type: Wire gauge)
+- Clamp-on bench vises (Tool type: Bench vises)
+- Clamping dial indicator (Tool type: Dial indicator or dial gauge)
+- Click type torque wrenches (Tool type: Torque wrenches)
+- Clutch head screwdrivers (Tool type: Screwdrivers)
+- Combination pliers (Tool type: Combination pliers)
+- Combination spanners (Tool type: Combination wrenches)
+- Countersink drill bits (Tool type: Countersinks)
+- Crimping tools (Tool type: Crimping pliers)
+- Curved claw hammers (Tool type: Claw hammer)
+- Diagnostic scan units (Tool type: Portable data input terminals)
+- Diagonal cutting pliers (Tool type: Diagonal cut pliers)
+- Diamond point chisels (Tool type: Cold chisels)
+- Digital multimeters (Tool type: Multimeters)
+- Digital ohmmeters (Tool type: Ohmmeters)
+- Digital oscilloscopes (Tool type: Oscilloscopes)
+- Digital pyrometers (Tool type: Pyrometers)
+- Digital tachometers (Tool type: Tachometers)
+- Digital tire pressure gauges (Tool type: Tire pressure gauge)
+- Digital torque screwdrivers (Tool type: Torque screwdriver)
+- Digital vacuum gauges (Tool type: Vacuum gauges)
+- Digital voltmeters (Tool type: Voltage or current meters)
+- Disk grinders (Tool type: Power grinders)
+- Drill bit sets (Tool type: Drill bit set)
+- Dual temperature heat guns (Tool type: Heat guns)
+- Electric drills (Tool type: Power drills)
+- Engine analyzers (Tool type: Engine tune up tester)
+- Engine compression testers (Tool type: Engine tune up tester)
+- Engine dynamometers (Tool type: Dynamometers)
+- Engine timing lights (Tool type: Timing light)
+- Extension sockets (Tool type: Sockets)
+- External gear pullers (Tool type: Pullers)
+- Flat bastard files (Tool type: Bastard cut file)
+- Flat cold chisels (Tool type: Cold chisels)
+- Flat feeler gauges (Tool type: Feeler gauges)
+- Flex handle sockets (Tool type: Sockets)
+- Flex head ratchets (Tool type: Ratchets)
+- Fuel flow gauges (Tool type: Flow sensors)
+- Fuel pressure gauges (Tool type: Fuel pressure sensor)
+- Gas powered air compressors (Tool type: Air compressors)
+- Grinding wheel dressers (Tool type: Grinding wheel dressers)
+- Groove joint pliers (Tool type: Slip or groove joint pliers)
+- Handsaws (Tool type: Saws)
+- Heavy duty bolt cutters (Tool type: Bolt cutters)
+- Hose clamp pliers (Tool type: Locking pliers)
+- Inductive ammeters (Tool type: Ammeters)
+- Inside calipers (Tool type: Calipers)
+- Inside micrometers (Tool type: Micrometers)
+- Insulation resistance testers (Tool type: Insulation resistance meters)
+- Internal gear pullers (Tool type: Pullers)
+- Laptop computers (Tool type: Notebook computers)
+- Lineman's pliers (Tool type: Linemans pliers)
+- Lining-up punches (Tool type: Taper punch)
+- Locking chain pliers (Tool type: Locking pliers)
+- Machinist's hammers (Tool type: Ball peen hammer)
+- Mechanic's levels (Tool type: Levels)
+- Metal inert gas MIG welders (Tool type: Metal inert gas welding machine)
+- Mini hacksaws (Tool type: Hacksaw)
+- Nail sets (Tool type: Punches or nail sets or drifts)
+- Needle nose pliers (Tool type: Needlenose pliers)
+- Offset box wrenches (Tool type: Box end wrenches)
+- Offset screwdrivers (Tool type: Offset screw driver)
+- Oil injectors (Tool type: Oil gun)
+- Oil stones (Tool type: Sharpening stones or tools or kits)
+- Outside calipers (Tool type: Calipers)
+- Outside micrometers (Tool type: Micrometers)
+- Oxyacetylene welders (Tool type: Gas welding or brazing or cutting apparatus)
+- Personal computers (Tool type: Personal computers)
+- Phillips screwdrivers (Tool type: Screwdrivers)
+- Pie dies (Tool type: Threading die hand tool)
+- Pipe cutters (Tool type: Pipe or tube cutter)
+- Pipe taps (Tool type: Threading taps)
+- Pop riveters (Tool type: Power riveter)
+- Portable cranes (Tool type: Workshop cranes)
+- Portable power hacksaws (Tool type: Power saws)
+- Rawhide hammers (Tool type: Mallets)
+- Reversible ratches (Tool type: Ratchets)
+- Ripping hammers (Tool type: Hammers)
+- Rivet guns (Tool type: Power riveter)
+- Round nose chisels (Tool type: Cold chisels)
+- Router bit sets (Tool type: Router bits)
+- Screw thread pitch gauges (Tool type: Thread pitch gauge)
+- Screwdriver bit sets (Tool type: Screwdriver bits)
+- Sheet metal gauges (Tool type: Thickness measuring devices)
+- Short chassis jacks (Tool type: Jacks)
+- Slide hammers (Tool type: Pullers)
+- Slip joint pliers (Tool type: Slip joint pliers)
+- Small hole gauges (Tool type: Hole gauge)
+- Soldering guns (Tool type: Soldering iron)
+- Spade drill bits (Tool type: Bullet pilot point)
+- Spark plug feeler gauges (Tool type: Spark plug gap gauge)
+- Spark plug sockets (Tool type: Spark plug wrench)
+- Speed indicators (Tool type: Speedometers)
+- Spiral pipe reamers (Tool type: Pipe reamer)
+- Spiral screw extractors (Tool type: Screw extractors)
+- Standard screwdrivers (Tool type: Screwdrivers)
+- Steel squares (Tool type: Squares)
+- Straight jaw locking pliers (Tool type: Locking pliers)
+- T-handle nut drivers (Tool type: Nut drivers)
+- Tap and die sets (Tool type: Taps)
+- Tungsten inert gas TIG welders (Tool type: Tungsten inert gas welding machine)
+- Universal socket wrenches (Tool type: Sockets)
+- Valve core removal tools (Tool type: Tire repair kit)
+- Vernier calipers (Tool type: Calipers)
+- Wire stripper pliers (Tool type: Wire-stripping pliers)
+
+# WORK CONTEXT
+- Conflict Situations: Once a month or more but not every week
+- Consequence of Error: Very serious
+- Contact With Others: Contact with others most of the time
+- Coordinate or Lead Others in Accomplishing Work Activities: Fairly important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Never
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Once a week or more but not every day
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Once a week or more but not every day
+- Exposed to Hazardous Conditions: Once a month or more but not every week
+- Exposed to Hazardous Equipment: Every day
+- Exposed to High Places: Once a month or more but not every week
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Once a month or more but not every week
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Once a week or more but not every day
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: High responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Very important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Every day
+- In an Open Vehicle or Operating Equipment: Every day
+- Indoors, Environmentally Controlled: Never
+- Indoors, Not Environmentally Controlled: Every day
+- Level of Competition: Slightly competitive
+- Outdoors, Exposed to All Weather Conditions: Once a week or more but not every day
+- Outdoors, Under Cover: Once a month or more but not every week
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: About half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Less than half the time
+- Spend Time Keeping or Regaining Balance: Less than half the time
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: More than half the time
+- Spend Time Making Repetitive Motions: More than half the time
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: Continually or almost continually
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: More than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Once a month or more but not every week
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Once a week or more but not every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Important
+- Written Letters and Memos: Every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Mobile Heavy Equipment Mechanics, Except Engines
+- Industrial Machinery Mechanics
+- Millwrights
+- Outdoor Power Equipment and Other Small Engine Mechanics
+- Maintenance and Repair Workers, General
+- Maintenance Workers, Machinery
+- Bus and Truck Mechanics and Diesel Engine Specialists
+- Engine and Other Machine Assemblers
+- Agricultural Equipment Operators
+- Electric Motor, Power Tool, and Related Repairers
+- Hydroelectric Plant Technicians
+- Control and Valve Installers and Repairers, Except Mechanical Door
+- Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+- Helpers--Installation, Maintenance, and Repair Workers
+- Rail Car Repairers
+- Operating Engineers and Other Construction Equipment Operators
+- Motorboat Mechanics and Service Technicians
+- Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders
+- Boilermakers
+- Stationary Engineers and Boiler Operators

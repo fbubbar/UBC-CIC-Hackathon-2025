@@ -1,0 +1,269 @@
+Job Title: Helpers--Installation, Maintenance, and Repair Workers
+O*NET-SOC Code: 49-9098.00
+
+# DESCRIPTION
+Help installation, maintenance, and repair workers in maintenance, parts replacement, and repair of vehicles, industrial machinery, and electrical and electronic equipment. Perform duties such as furnishing tools, materials, and supplies to other workers; cleaning work area, machines, and tools; and holding materials or tools for other workers.
+
+# TASKS
+- Install or replace machinery, equipment, and new or replacement parts and instruments, using hand or power tools.
+- Examine and test machinery, equipment, components, and parts for defects to ensure proper functioning.
+- Tend and observe equipment and machinery to verify efficient and safe operation.
+- Adjust, connect, or disconnect wiring, piping, tubing, and other parts, using hand or power tools.
+- Clean or lubricate vehicles, machinery, equipment, instruments, tools, work areas, and other objects, using hand tools, power tools, and cleaning equipment.
+- Hold or supply tools, parts, equipment, and supplies for other workers.
+- Diagnose electrical problems and install and rewire electrical components.
+- Disassemble broken or defective equipment to facilitate repair and reassemble equipment when repairs are complete.
+- Position vehicles, machinery, equipment, physical structures, and other objects for assembly or installation, using hand tools, power tools, and moving equipment.
+- Transfer tools, parts, equipment, and supplies to and from work stations and other areas.
+- Adjust, maintain, and repair tools, equipment, and machines, and assist more skilled workers with similar tasks.
+- Order new parts to maintain inventory.
+- Apply protective materials to equipment, components, and parts to prevent defects and corrosion.
+- Design, weld, and fabricate parts, using blueprints or other mechanical plans.
+- Assemble and maintain physical structures, using hand or power tools.
+- Prepare work stations for use by mechanics and repairers.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 4.07/5 | Level: 5.2/7)
+- Building and Construction (Importance: 3.75/5 | Level: 4.01/7)
+- Customer and Personal Service (Importance: 3.67/5 | Level: 4.09/7)
+- Public Safety and Security (Importance: 3.48/5 | Level: 3.6/7)
+- English Language (Importance: 3.47/5 | Level: 3.11/7)
+- Engineering and Technology (Importance: 3.36/5 | Level: 4.28/7)
+- Mathematics (Importance: 3.34/5 | Level: 3.48/7)
+- Design (Importance: 3.32/5 | Level: 3.85/7)
+- Production and Processing (Importance: 3.15/5 | Level: 3.26/7)
+- Computers and Electronics (Importance: 3.13/5 | Level: 3.31/7)
+- Education and Training (Importance: 2.75/5 | Level: 2.37/7)
+- Physics (Importance: 2.74/5 | Level: 3.57/7)
+- Administration and Management (Importance: 2.63/5 | Level: 2.52/7)
+- Personnel and Human Resources (Importance: 2.48/5 | Level: 2.18/7)
+- Administrative (Importance: 2.39/5 | Level: 2.3/7)
+- Sales and Marketing (Importance: 2.32/5 | Level: 1.39/7)
+- Telecommunications (Importance: 2.22/5 | Level: 1.65/7)
+- Transportation (Importance: 2.22/5 | Level: 1.64/7)
+- Chemistry (Importance: 1.99/5 | Level: 2.37/7)
+- Communications and Media (Importance: 1.95/5 | Level: 1.2/7)
+- Economics and Accounting (Importance: 1.85/5 | Level: 1.5/7)
+- Psychology (Importance: 1.79/5 | Level: 1.43/7)
+- Therapy and Counseling (Importance: 1.75/5 | Level: 1.48/7)
+- Law and Government (Importance: 1.67/5 | Level: 1.3/7)
+- Biology (Importance: 1.6/5 | Level: 0.72/7)
+- Food Production (Importance: 1.39/5 | Level: 0.79/7)
+- Medicine and Dentistry (Importance: 1.36/5 | Level: 0.59/7)
+- Foreign Language (Importance: 1.33/5 | Level: 0.43/7)
+- Geography (Importance: 1.31/5 | Level: 0.62/7)
+- Sociology and Anthropology (Importance: 1.27/5 | Level: 0.51/7)
+- History and Archeology (Importance: 1.21/5 | Level: 0.28/7)
+- Philosophy and Theology (Importance: 1.08/5 | Level: 0.22/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operation and Control (Importance: 3.12/5 | Level: 3.0/7)
+- Active Listening (Importance: 3.12/5 | Level: 2.75/7)
+- Troubleshooting (Importance: 3.12/5 | Level: 3.12/7)
+- Critical Thinking (Importance: 3.12/5 | Level: 2.75/7)
+- Equipment Maintenance (Importance: 3.12/5 | Level: 3.25/7)
+- Repairing (Importance: 3.12/5 | Level: 3.25/7)
+- Operations Monitoring (Importance: 3.12/5 | Level: 3.0/7)
+- Monitoring (Importance: 3.12/5 | Level: 2.62/7)
+- Coordination (Importance: 3.0/5 | Level: 2.88/7)
+- Speaking (Importance: 3.0/5 | Level: 2.38/7)
+- Quality Control Analysis (Importance: 3.0/5 | Level: 3.0/7)
+- Judgment and Decision Making (Importance: 2.88/5 | Level: 2.62/7)
+- Equipment Selection (Importance: 2.75/5 | Level: 2.38/7)
+- Time Management (Importance: 2.75/5 | Level: 2.5/7)
+- Social Perceptiveness (Importance: 2.62/5 | Level: 2.0/7)
+- Reading Comprehension (Importance: 2.62/5 | Level: 2.12/7)
+- Active Learning (Importance: 2.62/5 | Level: 2.5/7)
+- Complex Problem Solving (Importance: 2.62/5 | Level: 2.12/7)
+- Learning Strategies (Importance: 2.5/5 | Level: 2.12/7)
+- Service Orientation (Importance: 2.38/5 | Level: 2.0/7)
+- Installation (Importance: 2.38/5 | Level: 2.25/7)
+- Systems Evaluation (Importance: 2.12/5 | Level: 1.88/7)
+- Systems Analysis (Importance: 2.12/5 | Level: 2.12/7)
+- Instructing (Importance: 2.12/5 | Level: 2.0/7)
+- Writing (Importance: 2.12/5 | Level: 2.0/7)
+- Mathematics (Importance: 2.0/5 | Level: 1.62/7)
+- Management of Personnel Resources (Importance: 1.88/5 | Level: 1.5/7)
+- Persuasion (Importance: 1.88/5 | Level: 1.75/7)
+- Negotiation (Importance: 1.88/5 | Level: 1.5/7)
+- Operations Analysis (Importance: 1.62/5 | Level: 0.75/7)
+- Technology Design (Importance: 1.62/5 | Level: 0.62/7)
+- Management of Material Resources (Importance: 1.5/5 | Level: 0.62/7)
+- Programming (Importance: 1.38/5 | Level: 0.38/7)
+- Management of Financial Resources (Importance: 1.25/5 | Level: 0.38/7)
+- Science (Importance: 1.12/5 | Level: 0.12/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Atlas Construction Business Forms (Tech skill type: Word processing software)
+- Building automation software (Tech skill type: Industrial control software)
+- Computer aided design CAD software (Tech skill type: Computer aided design CAD software)
+- Data logging software (Tech skill type: Data base user interface and query software)
+- Facility energy management software (Tech skill type: Facilities management software)
+- HVAC tools software (Tech skill type: Computer aided design CAD software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Adjustable wrenches (Tool type: Adjustable wrenches)
+- Air chisels (Tool type: Pneumatic hammer)
+- Air compressors (Tool type: Air compressors)
+- Automatic levels (Tool type: Levels)
+- Backhoes (Tool type: Backhoes)
+- Ball peen hammers (Tool type: Ball peen hammer)
+- Boom trucks (Tool type: Conventional truck cranes)
+- Bosun chairs (Tool type: Manlift or personnel lift)
+- Box end wrenches (Tool type: Box end wrenches)
+- Bucket trucks (Tool type: Articulating boom lift)
+- Carpenter levels (Tool type: Levels)
+- Carpenters' levels (Tool type: Levels)
+- Caulking guns (Tool type: Caulking guns)
+- Chain hoists (Tool type: Hoists)
+- Circular saws (Tool type: Power saws)
+- Claw hammers (Tool type: Claw hammer)
+- Combination wrenches (Tool type: Combination wrenches)
+- Computerized meter readers (Tool type: Portable data input terminals)
+- Dollies (Tool type: Dollies)
+- Drill presses (Tool type: Drilling machines)
+- Face masks (Tool type: Facial shields)
+- Forklifts (Tool type: Forklifts)
+- Front end loaders (Tool type: Front end loaders)
+- Grease guns (Tool type: Grease guns)
+- Hand trucks (Tool type: Hand trucks or accessories)
+- Hi-los (Tool type: Hoists)
+- Jackhammers (Tool type: Pneumatic hammer)
+- Ladders (Tool type: Ladders)
+- Locking pliers (Tool type: Locking pliers)
+- Mallets (Tool type: Mallets)
+- Needlenose pliers (Tool type: Needlenose pliers)
+- Notebook computers (Tool type: Notebook computers)
+- Open end wrenches (Tool type: Open end wrenches)
+- Overhead cranes (Tool type: Track cranes)
+- Paint application brushes (Tool type: Paint brushes)
+- Paint application rollers (Tool type: Paint rollers)
+- Personal computers (Tool type: Personal computers)
+- Phillips head screwdrivers (Tool type: Screwdrivers)
+- Pipe cutters (Tool type: Pipe or tube cutter)
+- Pipe threading machines (Tool type: Threading machine)
+- Pipe wrenches (Tool type: Pipe wrenches)
+- Pneumatic drills (Tool type: Pneumatic drill)
+- Pneumatic hammers (Tool type: Pneumatic hammer)
+- Portable welding equipment (Tool type: Spot welding machine)
+- Power chippers (Tool type: Power chippers)
+- Power drills (Tool type: Power drills)
+- Power grinders (Tool type: Power grinders)
+- Power hoists (Tool type: Hoists)
+- Power nailers (Tool type: Power nail guns)
+- Power sanders (Tool type: Power sanders)
+- Power saws (Tool type: Power saws)
+- Ratchets (Tool type: Ratchets)
+- Reciprocating saws (Tool type: Power saws)
+- Saber saws (Tool type: Power saws)
+- Safety gloves (Tool type: Protective gloves)
+- Safety goggles (Tool type: Goggles)
+- Sandblasters (Tool type: Pneumatic sanding machines)
+- Scaffolding (Tool type: Scaffolding)
+- Skip loaders (Tool type: Skid steer loaders)
+- Sledgehammers (Tool type: Sledge hammer)
+- Steam cleaning equipment (Tool type: Pressure or steam cleaners)
+- Straight screwdrivers (Tool type: Screwdrivers)
+- Torpedo levels (Tool type: Levels)
+- Torque wrenches (Tool type: Torque wrenches)
+- Tube crimping tools (Tool type: Tube end finisher)
+- Utility knives (Tool type: Utility knives)
+- Vacuum pumps (Tool type: Vacuum pumps)
+- Wire cutters (Tool type: Wire cutters)
+- Wire strippers (Tool type: Stripping tools)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Extremely serious
+- Contact With Others: Contact with others most of the time
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Fairly important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a month or more but not every week
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Moderately automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Once a week or more but not every day
+- Exposed to Cramped Work Space, Awkward Positions: Once a month or more but not every week
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Once a week or more but not every day
+- Exposed to Hazardous Conditions: Every day
+- Exposed to Hazardous Equipment: Every day
+- Exposed to High Places: Once a week or more but not every day
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Once a month or more but not every week
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Once a week or more but not every day
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Very important
+- Importance of Repeating Same Tasks: Important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Every day
+- In an Open Vehicle or Operating Equipment: Once a month or more but not every week
+- Indoors, Environmentally Controlled: Never
+- Indoors, Not Environmentally Controlled: Every day
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Every day
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: More than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Less than half the time
+- Spend Time Keeping or Regaining Balance: Less than half the time
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Less than half the time
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: More than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Once a week or more but not every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Once a year or more but not every month
+- Work Outcomes and Results of Other Workers: High responsibility
+- Work With or Contribute to a Work Group or Team: Very important
+- Written Letters and Memos: Never
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Helpers--Production Workers
+- Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters
+- Helpers--Electricians
+- Helpers--Carpenters
+- Helpers--Extraction Workers
+- Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons
+- Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters
+- Maintenance Workers, Machinery
+- Millwrights
+- Electric Motor, Power Tool, and Related Repairers
+- Boilermakers
+- Industrial Machinery Mechanics
+- Maintenance and Repair Workers, General
+- Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+- Engine and Other Machine Assemblers
+- Mobile Heavy Equipment Mechanics, Except Engines
+- Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders
+- Control and Valve Installers and Repairers, Except Mechanical Door
+- Plumbers, Pipefitters, and Steamfitters
+- Electromechanical Equipment Assemblers

@@ -1,0 +1,323 @@
+Job Title: Web Administrators
+O*NET-SOC Code: 15-1299.01
+
+# DESCRIPTION
+Manage web environment design, deployment, development and maintenance activities. Perform testing and quality assurance of web sites and web applications.
+
+# TASKS
+- Monitor systems for intrusions or denial of service attacks, and report security breaches to appropriate personnel.
+- Identify or document backup or recovery plans.
+- Back up or modify applications and related data to provide for disaster recovery.
+- Correct testing-identified problems, or recommend actions for their resolution.
+- Identify, standardize, and communicate levels of access and security.
+- Determine sources of Web page or server problems, and take action to correct such problems.
+- Implement updates, upgrades, and patches in a timely manner to limit loss of service.
+- Implement Web site security measures, such as firewalls or message encryption.
+- Collaborate with development teams to discuss, analyze, or resolve usability issues.
+- Test issues such as system integration, performance, and system security on a regular schedule or after any major program modifications.
+- Perform user testing or usage analyses to determine Web sites' effectiveness or usability.
+- Document application and Web site changes or change procedures.
+- Track, compile, and analyze Web site usage data.
+- Test backup or recovery plans regularly and resolve any problems.
+- Recommend Web site improvements, and develop budgets to support recommendations.
+- Review or update Web page content or links in a timely manner, using appropriate tools.
+- Install or configure Web server software or hardware to ensure that directory structure is well-defined, logical, and secure, and that files are named properly.
+- Gather, analyze, or document user feedback to locate or resolve sources of problems.
+- Set up or maintain monitoring tools on Web servers or Web sites.
+- Monitor Web developments through continuing education, reading, or participation in professional conferences, workshops, or groups.
+- Develop or document style guidelines for Web site content.
+- Develop Web site performance metrics.
+- Collaborate with Web developers to create and operate internal and external Web sites, or to manage projects, such as e-marketing campaigns.
+- Identify or address interoperability requirements.
+- Develop or implement procedures for ongoing Web site revision.
+- Check and analyze operating system or application log files regularly to verify proper system performance.
+- Provide training or technical assistance in Web site implementation or use.
+- Evaluate testing routines or procedures for adequacy, sufficiency, and effectiveness.
+- Inform Web site users of problems, problem resolutions, or application changes and updates.
+- Document installation or configuration procedures to allow maintenance and repetition.
+- Develop testing routines and procedures.
+- Test new software packages for use in Web operations or other applications.
+- Develop and implement marketing plans for home pages, including print advertising or advertisement rotation.
+- Evaluate or recommend server hardware or software.
+- Administer internet or intranet infrastructure, including Web, file, and mail servers.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Computers and Electronics (Importance: 4.15/5 | Level: 5.35/7)
+- English Language (Importance: 4.1/5 | Level: 4.6/7)
+- Communications and Media (Importance: 4.1/5 | Level: 4.2/7)
+- Customer and Personal Service (Importance: 3.55/5 | Level: 4.4/7)
+- Administration and Management (Importance: 3.2/5 | Level: 4.05/7)
+- Engineering and Technology (Importance: 3.2/5 | Level: 3.55/7)
+- Design (Importance: 3.15/5 | Level: 3.8/7)
+- Sales and Marketing (Importance: 3.0/5 | Level: 4.2/7)
+- Education and Training (Importance: 2.9/5 | Level: 3.95/7)
+- Telecommunications (Importance: 2.7/5 | Level: 2.8/7)
+- Administrative (Importance: 2.68/5 | Level: 3.75/7)
+- Mathematics (Importance: 2.65/5 | Level: 3.65/7)
+- Law and Government (Importance: 2.47/5 | Level: 2.5/7)
+- Public Safety and Security (Importance: 2.3/5 | Level: 2.15/7)
+- Personnel and Human Resources (Importance: 2.26/5 | Level: 2.4/7)
+- Production and Processing (Importance: 2.25/5 | Level: 1.9/7)
+- Psychology (Importance: 1.95/5 | Level: 1.9/7)
+- Economics and Accounting (Importance: 1.9/5 | Level: 1.6/7)
+- Sociology and Anthropology (Importance: 1.85/5 | Level: 1.75/7)
+- Geography (Importance: 1.75/5 | Level: 1.6/7)
+- Fine Arts (Importance: 1.6/5 | Level: 1.5/7)
+- History and Archeology (Importance: 1.5/5 | Level: 1.0/7)
+- Mechanical (Importance: 1.45/5 | Level: 0.85/7)
+- Transportation (Importance: 1.4/5 | Level: 0.9/7)
+- Foreign Language (Importance: 1.35/5 | Level: 0.6/7)
+- Physics (Importance: 1.25/5 | Level: 0.75/7)
+- Building and Construction (Importance: 1.25/5 | Level: 0.4/7)
+- Philosophy and Theology (Importance: 1.2/5 | Level: 0.5/7)
+- Biology (Importance: 1.2/5 | Level: 0.35/7)
+- Medicine and Dentistry (Importance: 1.15/5 | Level: 0.25/7)
+- Food Production (Importance: 1.15/5 | Level: 0.3/7)
+- Chemistry (Importance: 1.15/5 | Level: 0.45/7)
+- Therapy and Counseling (Importance: 1.1/5 | Level: 0.25/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.12/7)
+- Reading Comprehension (Importance: 3.88/5 | Level: 4.12/7)
+- Complex Problem Solving (Importance: 3.75/5 | Level: 3.88/7)
+- Active Listening (Importance: 3.75/5 | Level: 3.88/7)
+- Monitoring (Importance: 3.38/5 | Level: 3.5/7)
+- Systems Evaluation (Importance: 3.38/5 | Level: 3.38/7)
+- Judgment and Decision Making (Importance: 3.38/5 | Level: 3.38/7)
+- Writing (Importance: 3.25/5 | Level: 3.38/7)
+- Systems Analysis (Importance: 3.25/5 | Level: 3.38/7)
+- Speaking (Importance: 3.25/5 | Level: 3.5/7)
+- Quality Control Analysis (Importance: 3.12/5 | Level: 3.38/7)
+- Programming (Importance: 3.12/5 | Level: 2.88/7)
+- Active Learning (Importance: 3.12/5 | Level: 3.75/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 3.0/7)
+- Coordination (Importance: 3.0/5 | Level: 3.25/7)
+- Time Management (Importance: 3.0/5 | Level: 3.12/7)
+- Instructing (Importance: 3.0/5 | Level: 3.62/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 3.0/7)
+- Service Orientation (Importance: 2.88/5 | Level: 2.88/7)
+- Operations Analysis (Importance: 2.75/5 | Level: 3.5/7)
+- Management of Personnel Resources (Importance: 2.62/5 | Level: 2.12/7)
+- Persuasion (Importance: 2.5/5 | Level: 2.62/7)
+- Troubleshooting (Importance: 2.5/5 | Level: 3.0/7)
+- Negotiation (Importance: 2.5/5 | Level: 2.75/7)
+- Operations Monitoring (Importance: 2.38/5 | Level: 2.25/7)
+- Technology Design (Importance: 2.38/5 | Level: 2.25/7)
+- Mathematics (Importance: 2.12/5 | Level: 2.12/7)
+- Science (Importance: 2.12/5 | Level: 2.38/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.75/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.38/7)
+- Operation and Control (Importance: 1.75/5 | Level: 1.12/7)
+- Equipment Selection (Importance: 1.75/5 | Level: 1.38/7)
+- Installation (Importance: 1.62/5 | Level: 1.0/7)
+- Equipment Maintenance (Importance: 1.12/5 | Level: 0.12/7)
+- Repairing (Importance: 1.12/5 | Level: 0.12/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adobe Acrobat (Tech skill type: Document management software)
+- Adobe ActionScript (Tech skill type: Development environment software)
+- Adobe ColdFusion (Tech skill type: Web platform development software)
+- Adobe Creative Cloud software (Tech skill type: Graphics or photo imaging software)
+- Adobe Director (Tech skill type: Video creation and editing software)
+- Adobe Dreamweaver (Tech skill type: Web page creation and editing software)
+- Adobe Experience Manager (AEM) (Tech skill type: Web page creation and editing software)
+- Adobe FreeHand MX (Tech skill type: Graphics or photo imaging software)
+- Adobe Illustrator (Tech skill type: Graphics or photo imaging software)
+- Adobe InDesign (Tech skill type: Desktop publishing software)
+- Adobe Macromedia HomeSite (Tech skill type: Web page creation and editing software)
+- Adobe PageMaker (Tech skill type: Desktop publishing software)
+- Adobe Photoshop (Tech skill type: Graphics or photo imaging software)
+- AJAX (Tech skill type: Web platform development software)
+- Amazon Web Services AWS software (Tech skill type: Data base user interface and query software)
+- Apache Ant (Tech skill type: Development environment software)
+- Apache HTTP Server (Tech skill type: Application server software)
+- Apache Struts (Tech skill type: Web platform development software)
+- Apache Tomcat (Tech skill type: Web platform development software)
+- Apple Safari (Tech skill type: Internet browser software)
+- Berkeley Internet Domain Name BIND (Tech skill type: Internet directory services software)
+- CA SiteMinder (Tech skill type: Network security or virtual private network VPN management software)
+- Cascading style sheets CSS (Tech skill type: Web platform development software)
+- Citrix cloud computing software (Tech skill type: Access software)
+- Common gateway interface CGI (Tech skill type: Enterprise application integration software)
+- Content management systems CMS (Tech skill type: Web page creation and editing software)
+- Corel CorelDraw Graphics Suite (Tech skill type: Graphics or photo imaging software)
+- Customer information control system CICS (Tech skill type: Transaction server software)
+- Drupal (Tech skill type: Web platform development software)
+- Dynamic hypertext markup language DHTML (Tech skill type: Web platform development software)
+- Email software (Tech skill type: Electronic mail software)
+- Embarcadero Delphi (Tech skill type: Object or component oriented development software)
+- Enterprise JavaBeans (Tech skill type: Web platform development software)
+- Extensible hypertext markup language XHTML (Tech skill type: Web platform development software)
+- Extensible markup language XML (Tech skill type: Enterprise application integration software)
+- Extensible stylesheet language XSL (Tech skill type: Enterprise application integration software)
+- Firewall software (Tech skill type: Network security and virtual private network VPN equipment software)
+- Google Ads (Tech skill type: Sales and marketing software)
+- Google Analytics (Tech skill type: Analytical or scientific software)
+- Hewlett Packard HP-UX (Tech skill type: Operating system software)
+- Hypertext markup language HTML (Tech skill type: Web platform development software)
+- IBM Middleware (Tech skill type: Transaction server software)
+- IBM WebSphere (Tech skill type: Cloud-based management software)
+- IBM WebSphere MQ (Tech skill type: Cloud-based management software)
+- JavaScript (Tech skill type: Web platform development software)
+- Joomla (Tech skill type: Web platform development software)
+- jQuery (Tech skill type: Web platform development software)
+- Juniper Networks NetScreen-Security Manager (Tech skill type: Network security and virtual private network VPN equipment software)
+- KornShell (Tech skill type: Operating system software)
+- Linux (Tech skill type: Operating system software)
+- Microsoft .NET Framework (Tech skill type: Development environment software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Active Directory (Tech skill type: Internet directory services software)
+- Microsoft Active Server Pages ASP (Tech skill type: Web platform development software)
+- Microsoft ActiveX (Tech skill type: Object or component oriented development software)
+- Microsoft Azure software (Tech skill type: Development environment software)
+- Microsoft DNS Server (Tech skill type: Internet directory services software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Exchange (Tech skill type: Electronic mail software)
+- Microsoft FrontPage (Tech skill type: Web page creation and editing software)
+- Microsoft Internet Explorer (Tech skill type: Internet browser software)
+- Microsoft Internet Information Services (IIS) (Tech skill type: Transaction server software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft SharePoint Server (Tech skill type: Document management software)
+- Microsoft SQL Server (Tech skill type: Data base user interface and query software)
+- Microsoft Virtual Server (Tech skill type: Application server software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Visual Basic Scripting Edition VBScript (Tech skill type: Development environment software)
+- Microsoft Visual Studio (Tech skill type: Development environment software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Mozilla Firefox (Tech skill type: Internet browser software)
+- MySQL (Tech skill type: Data base user interface and query software)
+- OpenText Livelink ECM (Tech skill type: Content workflow software)
+- Operating system software (Tech skill type: Operating system software)
+- Oracle Application Server (Tech skill type: Application server software)
+- Oracle Business Intelligence Enterprise Edition (Tech skill type: Business intelligence and data analysis software)
+- Oracle Fusion Applications (Tech skill type: Enterprise resource planning ERP software)
+- Oracle Fusion Middleware (Tech skill type: Enterprise application integration software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- Oracle JavaServer Pages JSP (Tech skill type: Web platform development software)
+- Oracle JDBC (Tech skill type: Data base user interface and query software)
+- Oracle Primavera Enterprise Project Portfolio Management (Tech skill type: Project management software)
+- Oracle Solaris (Tech skill type: Operating system software)
+- Oracle WebLogic Server (Tech skill type: Application server software)
+- Perl (Tech skill type: Object or component oriented development software)
+- PHP (Tech skill type: Web platform development software)
+- PostgreSQL (Tech skill type: Object oriented data base management software)
+- Python (Tech skill type: Object or component oriented development software)
+- Red Hat Enterprise Linux (Tech skill type: Operating system software)
+- Red Hat WildFly (Tech skill type: Application server software)
+- RESTful API (Tech skill type: Web platform development software)
+- Router software (Tech skill type: Switch or router software)
+- Salesforce Marketing Cloud (Tech skill type: Web page creation and editing software)
+- SAS (Tech skill type: Analytical or scientific software)
+- Shell script (Tech skill type: Operating system software)
+- Sony Sound Forge (Tech skill type: Music or sound editing software)
+- Sorenson Media Sorenson Squeeze (Tech skill type: Video creation and editing software)
+- Storage area network SAN software (Tech skill type: Storage networking software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Sun Microsystems Java Servlet API (Tech skill type: Object or component oriented development software)
+- Switch software (Tech skill type: Switch or router software)
+- Tool command language Tcl (Tech skill type: Development environment software)
+- UNIX (Tech skill type: Operating system software)
+- Vignette Content Management (Tech skill type: Content workflow software)
+- Vignette Portal (Tech skill type: Portal server software)
+- VMWare ESX Server (Tech skill type: Application server software)
+- Web content management system CMS software (Tech skill type: Web page creation and editing software)
+- Web server software (Tech skill type: Transaction server software)
+- WebTrends Analytics (Tech skill type: Analytical or scientific software)
+- WordPress (Tech skill type: Web page creation and editing software)
+
+## TOOLS USED
+- Computer data input scanners (Tool type: Scanners)
+- Desktop computers (Tool type: Desktop computers)
+- Laptop computers (Tool type: Notebook computers)
+- Personal computers (Tool type: Personal computers)
+- Web servers (Tool type: Computer servers)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Fairly serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Fairly important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Moderately automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Never
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: No responsibility
+- Impact of Decisions on Co-workers or Company Results: Moderate results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Extremely important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Highly competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Slightly close (e.g., shared office)
+- Public Speaking: Once a year or more but not every month
+- Spend Time Bending or Twisting Your Body: Never
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Continually or almost continually
+- Spend Time Sitting: Continually or almost continually
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Never
+- Telephone Conversations: Every day
+- Time Pressure: Once a week or more but not every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Never
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Moderate responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a year or more but not every month
+
+# INTERESTS (RIASEC)
+- Primary Interest: Conventional
+- Secondary Interest: Investigative
+- Tertiary Interest: Enterprising
+
+# RELATED OCCUPATIONS
+- Web and Digital Interface Designers
+- Web Developers
+- Software Developers
+- Database Administrators
+- Network and Computer Systems Administrators
+- Search Marketing Strategists
+- Computer Systems Engineers/Architects
+- Information Security Engineers
+- Computer Systems Analysts
+- Computer Programmers
+- Database Architects
+- Document Management Specialists
+- Information Technology Project Managers
+- Computer Network Support Specialists
+- Software Quality Assurance Analysts and Testers
+- Information Security Analysts
+- Computer User Support Specialists
+- Computer and Information Systems Managers
+- Business Intelligence Analysts
+- Computer Network Architects

@@ -1,0 +1,272 @@
+Job Title: Construction Managers
+O*NET-SOC Code: 11-9021.00
+
+# DESCRIPTION
+Plan, direct, or coordinate, usually through subordinate supervisory personnel, activities concerned with the construction and maintenance of structures, facilities, and systems. Participate in the conceptual development of a construction project and oversee its organization, scheduling, budgeting, and implementation. Includes managers in specialized construction fields, such as carpentry or plumbing.
+
+# TASKS
+- Plan, schedule, or coordinate construction project activities to meet deadlines.
+- Prepare and submit budget estimates, progress reports, or cost tracking reports.
+- Interpret and explain plans and contract terms to representatives of the owner or developer, including administrative staff, workers, or clients.
+- Direct and supervise construction or related workers.
+- Prepare contracts or negotiate revisions to contractual agreements with architects, consultants, clients, suppliers, or subcontractors.
+- Confer with supervisory personnel, owners, contractors, or design professionals to discuss and resolve matters, such as work procedures, complaints, or construction problems.
+- Plan, organize, or direct activities concerned with the construction or maintenance of structures, facilities, or systems.
+- Study job specifications to determine appropriate construction methods.
+- Inspect or review projects to monitor compliance with building and safety codes or other regulations.
+- Investigate damage, accidents, or delays at construction sites to ensure that proper construction procedures are being followed.
+- Implement new or modified plans in response to delays, bad weather, or construction site emergencies.
+- Develop or implement quality control programs.
+- Requisition supplies or materials to complete construction projects.
+- Determine labor requirements for dispatching workers to construction sites.
+- Contract or oversee craft work, such as painting or plumbing.
+- Inspect or review projects to monitor compliance with environmental regulations.
+- Perform, or contract others to perform, pre-building assessments, such as conceptual cost estimating, rough order of magnitude estimating, feasibility, or energy efficiency, environmental, and sustainability assessments.
+- Develop or implement environmental protection programs.
+- Apply for and obtain all necessary permits or licenses.
+- Evaluate construction methods and determine cost-effectiveness of plans, using computer models.
+- Apply green building strategies to reduce energy costs or minimize carbon output or other sources of harm to the environment.
+- Secure third-party verification from sources, such as Leadership in Energy Efficient Design (LEED), to ensure responsible design and building activities or to achieve favorable LEED ratings for building projects.
+- Develop construction budgets to compare green and non-green construction alternatives, in terms of short-term costs, long-term costs, or environmental impacts.
+- Implement training programs on environmentally responsible building topics to update employee skills and knowledge.
+- Direct acquisition of land for construction projects.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Building and Construction (Importance: 4.89/5 | Level: 6.0/7)
+- Administration and Management (Importance: 4.35/5 | Level: 4.9/7)
+- Engineering and Technology (Importance: 4.21/5 | Level: 4.89/7)
+- English Language (Importance: 4.0/5 | Level: 4.05/7)
+- Customer and Personal Service (Importance: 3.7/5 | Level: 4.7/7)
+- Public Safety and Security (Importance: 3.6/5 | Level: 4.25/7)
+- Mathematics (Importance: 3.6/5 | Level: 4.05/7)
+- Design (Importance: 3.58/5 | Level: 4.53/7)
+- Mechanical (Importance: 3.45/5 | Level: 4.2/7)
+- Economics and Accounting (Importance: 3.3/5 | Level: 3.45/7)
+- Computers and Electronics (Importance: 3.21/5 | Level: 3.95/7)
+- Personnel and Human Resources (Importance: 3.2/5 | Level: 4.25/7)
+- Production and Processing (Importance: 3.1/5 | Level: 4.0/7)
+- Education and Training (Importance: 3.05/5 | Level: 3.8/7)
+- Law and Government (Importance: 3.0/5 | Level: 3.6/7)
+- Transportation (Importance: 2.95/5 | Level: 3.25/7)
+- Sales and Marketing (Importance: 2.8/5 | Level: 3.6/7)
+- Administrative (Importance: 2.75/5 | Level: 3.75/7)
+- Psychology (Importance: 2.65/5 | Level: 3.25/7)
+- Physics (Importance: 2.6/5 | Level: 2.9/7)
+- Communications and Media (Importance: 2.4/5 | Level: 2.7/7)
+- Telecommunications (Importance: 2.35/5 | Level: 1.9/7)
+- Chemistry (Importance: 2.15/5 | Level: 2.65/7)
+- Geography (Importance: 2.0/5 | Level: 1.95/7)
+- Foreign Language (Importance: 1.75/5 | Level: 1.3/7)
+- Sociology and Anthropology (Importance: 1.7/5 | Level: 1.5/7)
+- Biology (Importance: 1.6/5 | Level: 1.25/7)
+- Medicine and Dentistry (Importance: 1.45/5 | Level: 0.85/7)
+- Therapy and Counseling (Importance: 1.45/5 | Level: 1.2/7)
+- History and Archeology (Importance: 1.4/5 | Level: 0.75/7)
+- Philosophy and Theology (Importance: 1.3/5 | Level: 0.75/7)
+- Fine Arts (Importance: 1.1/5 | Level: 0.2/7)
+- Food Production (Importance: 1.1/5 | Level: 0.3/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Coordination (Importance: 4.0/5 | Level: 4.12/7)
+- Management of Personnel Resources (Importance: 4.0/5 | Level: 4.25/7)
+- Time Management (Importance: 3.88/5 | Level: 4.0/7)
+- Speaking (Importance: 3.88/5 | Level: 4.12/7)
+- Active Listening (Importance: 3.88/5 | Level: 4.12/7)
+- Monitoring (Importance: 3.88/5 | Level: 4.25/7)
+- Complex Problem Solving (Importance: 3.75/5 | Level: 4.0/7)
+- Critical Thinking (Importance: 3.75/5 | Level: 4.12/7)
+- Reading Comprehension (Importance: 3.75/5 | Level: 4.12/7)
+- Judgment and Decision Making (Importance: 3.75/5 | Level: 4.25/7)
+- Active Learning (Importance: 3.62/5 | Level: 3.88/7)
+- Negotiation (Importance: 3.62/5 | Level: 3.88/7)
+- Social Perceptiveness (Importance: 3.38/5 | Level: 3.62/7)
+- Mathematics (Importance: 3.25/5 | Level: 3.62/7)
+- Writing (Importance: 3.25/5 | Level: 3.88/7)
+- Management of Financial Resources (Importance: 3.25/5 | Level: 4.0/7)
+- Management of Material Resources (Importance: 3.12/5 | Level: 3.88/7)
+- Systems Analysis (Importance: 3.12/5 | Level: 3.62/7)
+- Quality Control Analysis (Importance: 3.12/5 | Level: 3.12/7)
+- Systems Evaluation (Importance: 3.12/5 | Level: 3.88/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 3.12/7)
+- Operations Analysis (Importance: 3.0/5 | Level: 3.5/7)
+- Persuasion (Importance: 3.0/5 | Level: 3.75/7)
+- Instructing (Importance: 3.0/5 | Level: 3.38/7)
+- Service Orientation (Importance: 3.0/5 | Level: 2.88/7)
+- Operations Monitoring (Importance: 2.88/5 | Level: 3.0/7)
+- Troubleshooting (Importance: 2.0/5 | Level: 2.0/7)
+- Science (Importance: 1.88/5 | Level: 1.75/7)
+- Operation and Control (Importance: 1.88/5 | Level: 1.75/7)
+- Technology Design (Importance: 1.62/5 | Level: 0.75/7)
+- Programming (Importance: 1.5/5 | Level: 0.5/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- 3M Post-it App (Tech skill type: Word processing software)
+- Adobe Acrobat (Tech skill type: Document management software)
+- Adobe Creative Cloud software (Tech skill type: Graphics or photo imaging software)
+- AEC Software FastTrack Schedule (Tech skill type: Calendar and scheduling software)
+- ArenaSoft Estimating (Tech skill type: Analytical or scientific software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Autodesk AutoCAD Civil 3D (Tech skill type: Computer aided design CAD software)
+- Autodesk Revit (Tech skill type: Computer aided design CAD software)
+- Axios Systems assyst (Tech skill type: Document management software)
+- Bechtel Software SETROUTE (Tech skill type: Data base user interface and query software)
+- Cadsoft Design/Build (Tech skill type: Computer aided design CAD software)
+- CBS ProLog Manager (Tech skill type: Project management software)
+- Computer aided design and drafting software CADD (Tech skill type: Computer aided design CAD software)
+- CSI WSE CodeBuddy (Tech skill type: Compliance software)
+- Daily Manager (Tech skill type: Document management software)
+- Database software (Tech skill type: Data base user interface and query software)
+- Drone image capturing software (Tech skill type: Graphics or photo imaging software)
+- Dropbox (Tech skill type: Cloud-based data access and sharing software)
+- Email software (Tech skill type: Electronic mail software)
+- Explorer Engineer (Tech skill type: Data base user interface and query software)
+- Google Docs (Tech skill type: Word processing software)
+- Google Drive (Tech skill type: Cloud-based data access and sharing software)
+- HCSS HeavyBid (Tech skill type: Project management software)
+- HCSS HeavyJob (Tech skill type: Project management software)
+- IMPACT software (Tech skill type: Web page creation and editing software)
+- Integrated construction management software (Tech skill type: Data base user interface and query software)
+- Internet browser software (Tech skill type: Internet browser software)
+- ISS Construction Manager (Tech skill type: Data base user interface and query software)
+- Jobber Computer Plus (Tech skill type: Analytical or scientific software)
+- LinkedIn (Tech skill type: Web page creation and editing software)
+- Lombardi Teamworks (Tech skill type: Data base user interface and query software)
+- Loom (Tech skill type: Video creation and editing software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Dynamics (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Internet Explorer (Tech skill type: Internet browser software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Oracle JD Edwards EnterpriseOne (Tech skill type: Enterprise resource planning ERP software)
+- Oracle Primavera Enterprise Project Portfolio Management (Tech skill type: Project management software)
+- Presentation software (Tech skill type: Presentation software)
+- Procore software (Tech skill type: Analytical or scientific software)
+- Profitool GearWatch (Tech skill type: Inventory management software)
+- Profitool software (human resources feature) (Tech skill type: Human resources software)
+- Profitool software (time accounting feature) (Tech skill type: Time accounting software)
+- Project management software (Tech skill type: Project management software)
+- Quantum Software Solutions Quantum Project Manager (Tech skill type: Project management software)
+- QuickBase business management software (Tech skill type: Data base user interface and query software)
+- Sage 100 Contractor (Tech skill type: Data base user interface and query software)
+- Sage 300 Construction and Real Estate (Tech skill type: Data base user interface and query software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Scheduling software (Tech skill type: Calendar and scheduling software)
+- Site Manager (Tech skill type: Document management software)
+- SRC Cash Flow Forecasting (Tech skill type: Accounting software)
+- Supervisory control and data acquisition SCADA software (Tech skill type: Industrial control software)
+- Trimble SketchUp Pro (Tech skill type: Graphics or photo imaging software)
+- UDA Technologies ConstructionSuite (Tech skill type: Data base user interface and query software)
+- VirtualBoss (Tech skill type: Project management software)
+- Yardi software (Tech skill type: Data base user interface and query software)
+
+## TOOLS USED
+- DroneDeploy (Tool type: Aircraft guidance systems)
+- Fixed wing unmanned aerial vehicles UAV (Tool type: Airships)
+- Gas detection sensors (Tool type: Gas detectors)
+- Laptop computers (Tool type: Notebook computers)
+- Large-format scanners (Tool type: Scanners)
+- Laser imaging detection and ranging LIDAR systems (Tool type: Radarbased surveillance systems)
+- Lasers (Tool type: Lasers)
+- Levels (Tool type: Levels)
+- Multi-rotor unmanned aerial vehicles UAV (Tool type: Airships)
+- Personal computers (Tool type: Personal computers)
+- Pocket personal computers PC (Tool type: Personal computers)
+- RGB cameras (Tool type: Digital cameras)
+- Thermal imaging cameras (Tool type: Infrared camera)
+- Transit levels (Tool type: Level sensors or transmitters)
+
+# WORK CONTEXT
+- Conflict Situations: Once a week or more but not every day
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Very important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a month or more but not every week
+- Dealing with Violent or Physically Aggressive People: Once a year or more but not every month
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Once a year or more but not every month
+- Exposed to Cramped Work Space, Awkward Positions: Once a year or more but not every month
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Once a year or more but not every month
+- Exposed to Hazardous Conditions: Once a year or more but not every month
+- Exposed to Hazardous Equipment: Once a year or more but not every month
+- Exposed to High Places: Once a month or more but not every week
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Once a year or more but not every month
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Once a week or more but not every day
+- Exposed to Very Hot or Cold Temperatures: Once a year or more but not every month
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Fairly important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Every day
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Once a week or more but not every day
+- Level of Competition: Highly competitive
+- Outdoors, Exposed to All Weather Conditions: Once a week or more but not every day
+- Outdoors, Under Cover: Once a week or more but not every day
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Slightly close (e.g., shared office)
+- Public Speaking: Once a month or more but not every week
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Less than half the time
+- Spend Time Keeping or Regaining Balance: Less than half the time
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Less than half the time
+- Spend Time Sitting: About half the time
+- Spend Time Standing: About half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Less than half the time
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Once a week or more but not every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Once a year or more but not every month
+- Work Outcomes and Results of Other Workers: High responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a week or more but not every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Enterprising
+- Secondary Interest: Conventional
+- Tertiary Interest: Realistic
+
+# RELATED OCCUPATIONS
+- Civil Engineers
+- First-Line Supervisors of Construction Trades and Extraction Workers
+- Civil Engineering Technologists and Technicians
+- Construction and Building Inspectors
+- Solar Energy Installation Managers
+- Architects, Except Landscape and Naval
+- Project Management Specialists
+- Industrial Engineers
+- Facilities Managers
+- Architectural and Engineering Managers
+- Maintenance and Repair Workers, General
+- General and Operations Managers
+- Wind Energy Development Managers
+- Industrial Production Managers
+- Cost Estimators
+- Transportation Engineers
+- First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers
+- Geothermal Production Managers
+- First-Line Supervisors of Mechanics, Installers, and Repairers
+- Mining and Geological Engineers, Including Mining Safety Engineers

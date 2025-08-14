@@ -1,0 +1,402 @@
+Job Title: Machinists
+O*NET-SOC Code: 51-4041.00
+
+# DESCRIPTION
+Set up and operate a variety of machine tools to produce precision parts and instruments out of metal. Includes precision instrument makers who fabricate, modify, or repair mechanical instruments. May also fabricate and modify parts to make or repair machine tools or maintain industrial machines, applying knowledge of mechanics, mathematics, metal properties, layout, and machining procedures.
+
+# TASKS
+- Calculate dimensions or tolerances, using instruments, such as micrometers or vernier calipers.
+- Machine parts to specifications, using machine tools, such as lathes, milling machines, shapers, or grinders.
+- Measure, examine, or test completed units to check for defects and ensure conformance to specifications, using precision instruments, such as micrometers.
+- Set up, adjust, or operate basic or specialized machine tools used to perform precision machining operations.
+- Program computers or electronic instruments, such as numerically controlled machine tools.
+- Study sample parts, blueprints, drawings, or engineering information to determine methods or sequences of operations needed to fabricate products.
+- Monitor the feed and speed of machines during the machining process.
+- Maintain machine tools in proper operational condition.
+- Fit and assemble parts to make or repair machine tools.
+- Align and secure holding fixtures, cutting tools, attachments, accessories, or materials onto machines.
+- Confer with numerical control programmers to check and ensure that new programs or machinery will function properly and that output will meet specifications.
+- Operate equipment to verify operational efficiency.
+- Evaluate machining procedures and recommend changes or modifications for improved efficiency or adaptability.
+- Diagnose machine tool malfunctions to determine need for adjustments or repairs.
+- Design fixtures, tooling, or experimental parts to meet special engineering needs.
+- Dispose of scrap or waste material in accordance with company policies and environmental regulations.
+- Confer with engineering, supervisory, or manufacturing personnel to exchange technical information.
+- Lay out, measure, and mark metal stock to display placement of cuts.
+- Separate scrap waste and related materials for reuse, recycling, or disposal.
+- Check work pieces to ensure that they are properly lubricated or cooled.
+- Support metalworking projects from planning and fabrication through assembly, inspection, and testing, using knowledge of machine functions, metal properties, and mathematics.
+- Install repaired parts into equipment or install new equipment.
+- Dismantle machines or equipment, using hand tools or power tools to examine parts for defects and replace defective parts where needed.
+- Test experimental models under simulated operating conditions, for purposes such as development, standardization, or feasibility of design.
+- Set up or operate metalworking, brazing, heat-treating, welding, or cutting equipment.
+- Prepare working sketches for the illustration of product appearance.
+- Establish work procedures for fabricating new structural products, using a variety of metalworking machines.
+- Install experimental parts or assemblies, such as hydraulic systems, electrical wiring, lubricants, or batteries into machines or mechanisms.
+- Advise clients about the materials being used for finished products.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mathematics (Importance: 3.47/5 | Level: 3.54/7)
+- Mechanical (Importance: 3.3/5 | Level: 3.9/7)
+- Production and Processing (Importance: 3.26/5 | Level: 3.03/7)
+- Design (Importance: 3.01/5 | Level: 3.37/7)
+- Engineering and Technology (Importance: 2.7/5 | Level: 2.98/7)
+- English Language (Importance: 2.7/5 | Level: 2.0/7)
+- Customer and Personal Service (Importance: 2.4/5 | Level: 2.27/7)
+- Computers and Electronics (Importance: 2.37/5 | Level: 2.49/7)
+- Education and Training (Importance: 2.22/5 | Level: 2.58/7)
+- Physics (Importance: 2.2/5 | Level: 1.85/7)
+- Administration and Management (Importance: 2.1/5 | Level: 1.89/7)
+- Administrative (Importance: 2.05/5 | Level: 1.46/7)
+- Building and Construction (Importance: 1.82/5 | Level: 1.27/7)
+- Personnel and Human Resources (Importance: 1.79/5 | Level: 1.13/7)
+- Transportation (Importance: 1.68/5 | Level: 1.37/7)
+- Chemistry (Importance: 1.64/5 | Level: 1.43/7)
+- Public Safety and Security (Importance: 1.62/5 | Level: 1.09/7)
+- Economics and Accounting (Importance: 1.46/5 | Level: 0.54/7)
+- Telecommunications (Importance: 1.43/5 | Level: 0.61/7)
+- Sales and Marketing (Importance: 1.37/5 | Level: 0.58/7)
+- Communications and Media (Importance: 1.35/5 | Level: 0.69/7)
+- Foreign Language (Importance: 1.32/5 | Level: 0.57/7)
+- Biology (Importance: 1.3/5 | Level: 0.46/7)
+- Psychology (Importance: 1.3/5 | Level: 0.51/7)
+- Law and Government (Importance: 1.28/5 | Level: 0.52/7)
+- Sociology and Anthropology (Importance: 1.27/5 | Level: 0.53/7)
+- Medicine and Dentistry (Importance: 1.25/5 | Level: 0.07/7)
+- Philosophy and Theology (Importance: 1.23/5 | Level: 0.48/7)
+- Fine Arts (Importance: 1.22/5 | Level: 0.37/7)
+- History and Archeology (Importance: 1.03/5 | Level: 0.03/7)
+- Therapy and Counseling (Importance: 1.03/5 | Level: 0.11/7)
+- Geography (Importance: 1.03/5 | Level: 0.11/7)
+- Food Production (Importance: 1.01/5 | Level: 0.04/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operation and Control (Importance: 3.25/5 | Level: 3.38/7)
+- Critical Thinking (Importance: 3.12/5 | Level: 3.12/7)
+- Operations Monitoring (Importance: 3.12/5 | Level: 3.25/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.12/7)
+- Active Listening (Importance: 3.0/5 | Level: 2.88/7)
+- Complex Problem Solving (Importance: 3.0/5 | Level: 3.0/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Troubleshooting (Importance: 3.0/5 | Level: 2.88/7)
+- Speaking (Importance: 3.0/5 | Level: 3.0/7)
+- Quality Control Analysis (Importance: 3.0/5 | Level: 3.0/7)
+- Equipment Maintenance (Importance: 2.88/5 | Level: 2.88/7)
+- Time Management (Importance: 2.88/5 | Level: 2.62/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.75/7)
+- Repairing (Importance: 2.88/5 | Level: 2.75/7)
+- Reading Comprehension (Importance: 2.88/5 | Level: 3.0/7)
+- Mathematics (Importance: 2.88/5 | Level: 2.75/7)
+- Active Learning (Importance: 2.75/5 | Level: 2.88/7)
+- Judgment and Decision Making (Importance: 2.75/5 | Level: 2.75/7)
+- Equipment Selection (Importance: 2.62/5 | Level: 2.62/7)
+- Writing (Importance: 2.5/5 | Level: 2.62/7)
+- Installation (Importance: 2.5/5 | Level: 2.38/7)
+- Systems Evaluation (Importance: 2.5/5 | Level: 2.25/7)
+- Systems Analysis (Importance: 2.5/5 | Level: 2.12/7)
+- Instructing (Importance: 2.5/5 | Level: 2.75/7)
+- Negotiation (Importance: 2.38/5 | Level: 2.12/7)
+- Persuasion (Importance: 2.25/5 | Level: 2.12/7)
+- Service Orientation (Importance: 2.25/5 | Level: 2.12/7)
+- Learning Strategies (Importance: 2.12/5 | Level: 2.38/7)
+- Operations Analysis (Importance: 2.0/5 | Level: 1.88/7)
+- Management of Personnel Resources (Importance: 2.0/5 | Level: 2.0/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.88/7)
+- Management of Material Resources (Importance: 1.75/5 | Level: 1.0/7)
+- Programming (Importance: 1.75/5 | Level: 1.12/7)
+- Management of Financial Resources (Importance: 1.62/5 | Level: 0.75/7)
+- Science (Importance: 1.5/5 | Level: 0.75/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- 3D Printing software (Tech skill type: Computer aided design CAD software)
+- Armchair Machinist software (Tech skill type: Analytical or scientific software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Autodesk Fusion 360 (Tech skill type: Computer aided manufacturing CAM software)
+- Autodesk HSMWorks (Tech skill type: Computer aided manufacturing CAM software)
+- CNC Consulting Machinists' Calculator (Tech skill type: Analytical or scientific software)
+- CNC Mastercam (Tech skill type: Computer aided manufacturing CAM software)
+- Computer aided design CAD software (Tech skill type: Computer aided design CAD software)
+- Computer aided manufacturing CAM software (Tech skill type: Computer aided manufacturing CAM software)
+- Dassault Systemes CATIA (Tech skill type: Computer aided design CAD software)
+- Dassault Systemes SolidWorks (Tech skill type: Computer aided manufacturing CAM software)
+- EditCNC (Tech skill type: Industrial control software)
+- ERP software (Tech skill type: Enterprise resource planning ERP software)
+- G-code (Tech skill type: Object or component oriented development software)
+- GRZ Software MeshCAM (Tech skill type: Computer aided manufacturing CAM software)
+- Hexagon Metrology PC-DMIS (Tech skill type: Procedure management software)
+- IMSI TurboCAD (Tech skill type: Computer aided manufacturing CAM software)
+- JETCAM (Tech skill type: Computer aided manufacturing CAM software)
+- JobBOSS (Tech skill type: Enterprise resource planning ERP software)
+- Kentech Kipware Studio (Tech skill type: Computer aided design CAD software)
+- Kentech Kipware Trig Kalculator (Tech skill type: Analytical or scientific software)
+- Mastercam computer-aided design and manufacturing software (Tech skill type: Computer aided manufacturing CAM software)
+- Mazak Mazatrol SMART CNC (Tech skill type: Industrial control software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- OneCNC CAD/CAM (Tech skill type: Computer aided manufacturing CAM software)
+- OnShape (Tech skill type: Computer aided design CAD software)
+- PTC Creo Parametric (Tech skill type: Computer aided design CAD software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Siemens NX (Tech skill type: Computer aided design CAD software)
+- SolidCAM CAM software (Tech skill type: Computer aided design CAD software)
+- Vero Software SURFCAM (Tech skill type: Computer aided manufacturing CAM software)
+
+## TOOLS USED
+- 3-axis computerized numerical control CNC machines (Tool type: Traveling column milling machine)
+- Adjustable wrenches (Tool type: Adjustable wrenches)
+- Angle plates (Tool type: Adjustable angle plate)
+- Angled feeler gauges (Tool type: Feeler gauges)
+- Anvils (Tool type: Anvils)
+- Arbor presses (Tool type: Manual press brake)
+- Aviation snips (Tool type: Metal cutters)
+- Ball peen hammers (Tool type: Ball peen hammer)
+- Bandsaws (Tool type: Metal band sawing machine)
+- Beverly shears (Tool type: Shears)
+- Binocular light compound microscopes (Tool type: Binocular light compound microscopes)
+- Boring bars (Tool type: Boring machines)
+- Boring tools (Tool type: Boring machines)
+- Brake presses (Tool type: Manual press brake)
+- Brass hammers (Tool type: Hammers)
+- Brazing equipment (Tool type: Welder torch)
+- Breaker lathes (Tool type: Tracer or duplicating or contouring lathe)
+- Broachers (Tool type: Metal broaching machines)
+- Buffers (Tool type: Power buffers)
+- Calipers (Tool type: Calipers)
+- Center drills (Tool type: Drilling machines)
+- Centrifugal spin casters (Tool type: Casting machines)
+- Chamfer tools (Tool type: Chamfering machine)
+- Channel lock pliers (Tool type: Locking pliers)
+- Chippers (Tool type: Power chippers)
+- Chucks (Tool type: Chucks)
+- Cold chisels (Tool type: Cold chisels)
+- Cold saws (Tool type: Power saws)
+- Combination drills (Tool type: Power drills)
+- Combination pliers (Tool type: Combination pliers)
+- Combination wrenches (Tool type: Combination wrenches)
+- Composition hammers (Tool type: Hammers)
+- Computerized numerical control CNC machining centers (Tool type: Milling machines)
+- Computerized numerical control CNC turning lathes (Tool type: Horizontal turning center)
+- Coordinate measuring machines CMM (Tool type: Coordinate measuring machines CMM)
+- Crankshaft grinders (Tool type: Grinding machines)
+- Cutoff saws (Tool type: Power saws)
+- Cylinder honers (Tool type: Sharpening stones or tools or kits)
+- Cylindrical grinders (Tool type: Power grinders)
+- Deburring tools (Tool type: Deburring tool)
+- Desktop computers (Tool type: Desktop computers)
+- Dial calipers (Tool type: Calipers)
+- Dial indicators (Tool type: Dial indicator or dial gauge)
+- Drum lathes (Tool type: Horizontal turning center)
+- Edge finders (Tool type: Center gauge)
+- Engine lathes (Tool type: Horizontal turning center)
+- Feeler gauges (Tool type: Feeler gauges)
+- Flat files (Tool type: Flat hand file)
+- Flywheel lathes (Tool type: Horizontal turning center)
+- Forklifts (Tool type: Forklifts)
+- Full face shields (Tool type: Facial shields)
+- Gauges (Tool type: Height gauges)
+- Grinders (Tool type: Grinders)
+- Grinding dogs (Tool type: Bench dog)
+- Grinding wheel arbors (Tool type: Arbors)
+- Hacksaws (Tool type: Hacksaw)
+- Half-round files (Tool type: Half round file)
+- Hand clamps (Tool type: Hand clamps)
+- Hand saws (Tool type: Saws)
+- Handheld welders (Tool type: Spot welding machine)
+- Heat-treating equipment (Tool type: Induction heating machine)
+- Height gauges (Tool type: Height gauges)
+- Hermaphrodite calipers (Tool type: Calipers)
+- Hex keys (Tool type: Hex keys)
+- Hex wrenches (Tool type: Hex keys)
+- Horizontal boring bars (Tool type: Boring machines)
+- Horizontal lathes (Tool type: Horizontal turning center)
+- Horizontal mills (Tool type: Horizontal machining center)
+- Hydraulic presses (Tool type: Hydraulic press frames)
+- Inside micrometers (Tool type: Micrometers)
+- Inside spring calipers (Tool type: Calipers)
+- Jointers (Tool type: Power planes)
+- Knee mills (Tool type: Column and knee milling machine)
+- Ladders (Tool type: Ladders)
+- Laser printers (Tool type: Laser printers)
+- Lathes (Tool type: Tracer or duplicating or contouring lathe)
+- Machine shop rigging equipment (Tool type: Slings)
+- Machinists' hammers (Tool type: Hammers)
+- Machinists' squares (Tool type: Squares)
+- Magnetic retrievers (Tool type: Magnetic tools)
+- Marking blocks (Tool type: Gage block set)
+- Metal cutting taps (Tool type: Taps)
+- Metal inert gas MIG welders (Tool type: Metal inert gas welding machine)
+- Metal shears (Tool type: Shears)
+- Metal spray equipment (Tool type: Thermal spray machine)
+- Micrometers (Tool type: Micrometers)
+- Milling angle form cutters (Tool type: Machine end mill)
+- Milling machines (Tool type: Milling machines)
+- Milling vises (Tool type: Bench vises)
+- Multi-axis computerized numerical control CNC machines (Tool type: Multi-tasking or universal machining center)
+- Needlenose pliers (Tool type: Needlenose pliers)
+- Outside micrometers (Tool type: Micrometers)
+- Outside spring calipers (Tool type: Calipers)
+- Oxyacetylene welding equipment (Tool type: Gas welding or brazing or cutting apparatus)
+- Parallel blocks (Tool type: Gage block set)
+- Personal computers (Tool type: Personal computers)
+- Personal digital assistants PDA (Tool type: Personal digital assistant PDAs or organizers)
+- Phillips head screwdrivers (Tool type: Screwdrivers)
+- Pillar drill machines (Tool type: Drilling machines)
+- Pipe threaders (Tool type: Threading die hand tool)
+- Pipe wrenches (Tool type: Pipe wrenches)
+- Planer gauges (Tool type: Height gauges)
+- Planers (Tool type: Planing machines)
+- Plasma welders (Tool type: Plasma arc welding machine)
+- Platforms (Tool type: Platform lift)
+- Portable welding equipment (Tool type: Spot welding machine)
+- Power drills (Tool type: Power drills)
+- Power hacksaws (Tool type: Hacksaw)
+- Power sanders (Tool type: Power sanders)
+- Prick punches (Tool type: Punches or nail sets or drifts)
+- Pry bars (Tool type: Pry bars)
+- Punches (Tool type: Punches or nail sets or drifts)
+- Putty knives (Tool type: Putty knives)
+- Radial drill presses (Tool type: Drill press or radial drill)
+- Radial drills (Tool type: Drill press or radial drill)
+- Radius gauges (Tool type: Radius gauge)
+- Ratchet sets (Tool type: Ratchets)
+- Reamers (Tool type: Hand reamer)
+- Resurfacing machines (Tool type: Honing machine)
+- Ring gauges (Tool type: Cylinder gauge)
+- Rubber mallets (Tool type: Rubber mallet)
+- Sandblasters (Tool type: Pneumatic sanding machines)
+- Screw pitch gauges (Tool type: Pitch measuring instruments)
+- Screwdrivers (Tool type: Screwdrivers)
+- Scribers (Tool type: Scribers)
+- Sensitive drill presses (Tool type: Drill press or radial drill)
+- Shapers (Tool type: Shaper cutter)
+- Sharpening equipment (Tool type: Sharpening stones or tools or kits)
+- Shears (Tool type: Shears)
+- Shielded arc welding tools (Tool type: Shielded metal arc welding or stick welding machine)
+- Shims (Tool type: Double ended stud)
+- Side cutting pliers (Tool type: End cut pliers)
+- Sine bars (Tool type: Sine bar)
+- Single-cut mill saw files (Tool type: Mill saw file)
+- Sledgehammers (Tool type: Sledge hammer)
+- Socket wrench sets (Tool type: Socket sets)
+- Soldering equipment (Tool type: Wave soldering machine)
+- Spindle blade screwdrivers (Tool type: Screwdrivers)
+- Spirit levels (Tool type: Levels)
+- Square chisels (Tool type: Cold chisels)
+- Staging equipment (Tool type: Platform lift)
+- Steel rules (Tool type: Rulers)
+- Steel wedges (Tool type: Wedges)
+- Surface gauges (Tool type: Surface gauge)
+- Surface grinding machines (Tool type: Surface grinding machine)
+- Swaging tools (Tool type: Swaging tools)
+- Telescoping gauges (Tool type: Telescoping gauge)
+- Thread gauges (Tool type: Thread counters or gauges)
+- Threading machines (Tool type: Threading machine)
+- Tongs (Tool type: Tongs)
+- Torches (Tool type: Blow torch)
+- Tube benders (Tool type: Tube bending machine)
+- Tungsten inert gas TIG welding equipment (Tool type: Tungsten inert gas welding machine)
+- Turning lathes (Tool type: Horizontal turning center)
+- Turret lathes (Tool type: Turret lathe)
+- Undercut tools (Tool type: Angle cutter)
+- Utility knives (Tool type: Utility knives)
+- V blocks (Tool type: Gage block set)
+- Valve grinding machines (Tool type: Grinding machines)
+- Vernier bevel protractors (Tool type: Protractors)
+- Vernier calipers (Tool type: Calipers)
+- Vernier gear tooth calipers (Tool type: Calipers)
+- Vernier height gauges (Tool type: Height gauges)
+- Vertical milling machines (Tool type: Vertical machining center)
+- Vertical turret lathes VTL (Tool type: Turret lathe)
+- Wedges (Tool type: Wedges)
+- Welding lenses (Tool type: Safety glasses)
+- Welding shields (Tool type: Welding masks)
+- Workshop cranes (Tool type: Workshop cranes)
+
+# WORK CONTEXT
+- Conflict Situations: Never
+- Consequence of Error: Fairly serious
+- Contact With Others: Contact with others most of the time
+- Coordinate or Lead Others in Accomplishing Work Activities: Extremely important
+- Deal With External Customers or the Public in General: Not important at all
+- Dealing With Unpleasant, Angry, or Discourteous People: Never
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Moderately automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Never
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Every day
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Very important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Extremely important
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Continually or almost continually
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: Continually or almost continually
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Never
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: High responsibility
+- Work With or Contribute to a Work Group or Team: Very important
+- Written Letters and Memos: Never
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Computer Numerically Controlled Tool Operators
+- Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic
+- Tool and Die Makers
+- Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Computer Numerically Controlled Tool Programmers
+- Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+- Millwrights
+- Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders
+- Tool Grinders, Filers, and Sharpeners
+- Electromechanical Equipment Assemblers
+- Industrial Machinery Mechanics
+- Engine and Other Machine Assemblers
+- Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Model Makers, Metal and Plastic
+- Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+- Calibration Technologists and Technicians
+- Electrical and Electronic Equipment Assemblers
+- Layout Workers, Metal and Plastic

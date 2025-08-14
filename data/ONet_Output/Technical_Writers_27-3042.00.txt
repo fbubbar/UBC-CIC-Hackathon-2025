@@ -1,0 +1,261 @@
+Job Title: Technical Writers
+O*NET-SOC Code: 27-3042.00
+
+# DESCRIPTION
+Write technical materials, such as equipment manuals, appendices, or operating and maintenance instructions. May assist in layout work.
+
+# TASKS
+- Organize material and complete writing assignment according to set standards regarding order, clarity, conciseness, style, and terminology.
+- Maintain records and files of work and revisions.
+- Edit, standardize, or make changes to material prepared by other writers or establishment personnel.
+- Select photographs, drawings, sketches, diagrams, and charts to illustrate material.
+- Interview production and engineering personnel and read journals and other material to become familiar with product technologies and production methods.
+- Develop or maintain online help documentation.
+- Assist in laying out material for publication.
+- Study drawings, specifications, mockups, and product samples to integrate and delineate technology, operating procedure, and production sequence and detail.
+- Arrange for typing, duplication, and distribution of material.
+- Observe production, developmental, and experimental activities to determine operating procedure and detail.
+- Review manufacturer's and trade catalogs, drawings and other data relative to operation, maintenance, and service of equipment.
+- Analyze developments in specific field to determine need for revisions in previously published materials and development of new material.
+- Draw sketches to illustrate specified materials or assembly sequence.
+- Review published materials and recommend revisions or changes in scope, format, content, and methods of reproduction and binding.
+- Confer with customer representatives, vendors, plant executives, or publisher to establish technical specifications and to determine subject material to be developed for publication.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- English Language (Importance: 4.81/5 | Level: 5.39/7)
+- Computers and Electronics (Importance: 4.29/5 | Level: 4.86/7)
+- Administrative (Importance: 3.76/5 | Level: 5.15/7)
+- Communications and Media (Importance: 3.25/5 | Level: 4.17/7)
+- Administration and Management (Importance: 3.24/5 | Level: 3.82/7)
+- Public Safety and Security (Importance: 3.17/5 | Level: 3.56/7)
+- Education and Training (Importance: 3.16/5 | Level: 4.13/7)
+- Production and Processing (Importance: 3.13/5 | Level: 3.05/7)
+- Customer and Personal Service (Importance: 2.98/5 | Level: 2.58/7)
+- Mathematics (Importance: 2.93/5 | Level: 3.36/7)
+- Engineering and Technology (Importance: 2.88/5 | Level: 3.22/7)
+- Mechanical (Importance: 2.84/5 | Level: 2.88/7)
+- Telecommunications (Importance: 2.42/5 | Level: 2.47/7)
+- Design (Importance: 2.41/5 | Level: 2.67/7)
+- Transportation (Importance: 2.32/5 | Level: 1.24/7)
+- Law and Government (Importance: 2.29/5 | Level: 1.9/7)
+- Medicine and Dentistry (Importance: 2.02/5 | Level: 0.98/7)
+- Sales and Marketing (Importance: 2.02/5 | Level: 1.39/7)
+- Chemistry (Importance: 1.8/5 | Level: 1.36/7)
+- Psychology (Importance: 1.77/5 | Level: 1.63/7)
+- Economics and Accounting (Importance: 1.74/5 | Level: 1.0/7)
+- Physics (Importance: 1.67/5 | Level: 1.42/7)
+- Personnel and Human Resources (Importance: 1.6/5 | Level: 1.17/7)
+- Building and Construction (Importance: 1.42/5 | Level: 0.68/7)
+- Biology (Importance: 1.31/5 | Level: 0.61/7)
+- Sociology and Anthropology (Importance: 1.27/5 | Level: 0.69/7)
+- Geography (Importance: 1.21/5 | Level: 0.64/7)
+- Foreign Language (Importance: 1.17/5 | Level: 0.27/7)
+- Fine Arts (Importance: 1.12/5 | Level: 0.23/7)
+- History and Archeology (Importance: 1.1/5 | Level: 0.25/7)
+- Therapy and Counseling (Importance: 1.09/5 | Level: 0.23/7)
+- Philosophy and Theology (Importance: 1.02/5 | Level: 0.1/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Writing (Importance: 4.88/5 | Level: 5.0/7)
+- Reading Comprehension (Importance: 4.12/5 | Level: 4.88/7)
+- Active Listening (Importance: 3.75/5 | Level: 3.88/7)
+- Speaking (Importance: 3.75/5 | Level: 3.75/7)
+- Critical Thinking (Importance: 3.62/5 | Level: 3.88/7)
+- Active Learning (Importance: 3.25/5 | Level: 3.62/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 3.0/7)
+- Time Management (Importance: 3.12/5 | Level: 3.0/7)
+- Monitoring (Importance: 3.0/5 | Level: 3.0/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Persuasion (Importance: 2.88/5 | Level: 2.88/7)
+- Complex Problem Solving (Importance: 2.75/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 2.75/7)
+- Negotiation (Importance: 2.62/5 | Level: 2.38/7)
+- Operations Analysis (Importance: 2.5/5 | Level: 2.5/7)
+- Learning Strategies (Importance: 2.5/5 | Level: 2.25/7)
+- Instructing (Importance: 2.5/5 | Level: 2.75/7)
+- Systems Analysis (Importance: 2.38/5 | Level: 2.12/7)
+- Quality Control Analysis (Importance: 2.25/5 | Level: 1.88/7)
+- Management of Personnel Resources (Importance: 2.12/5 | Level: 2.12/7)
+- Service Orientation (Importance: 2.12/5 | Level: 1.88/7)
+- Systems Evaluation (Importance: 1.88/5 | Level: 1.25/7)
+- Mathematics (Importance: 1.62/5 | Level: 0.62/7)
+- Management of Material Resources (Importance: 1.62/5 | Level: 0.62/7)
+- Operations Monitoring (Importance: 1.5/5 | Level: 0.5/7)
+- Programming (Importance: 1.38/5 | Level: 0.38/7)
+- Management of Financial Resources (Importance: 1.38/5 | Level: 0.38/7)
+- Technology Design (Importance: 1.38/5 | Level: 0.38/7)
+- Science (Importance: 1.25/5 | Level: 0.25/7)
+- Troubleshooting (Importance: 1.12/5 | Level: 0.12/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Operation and Control (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adobe Acrobat (Tech skill type: Document management software)
+- Adobe Captivate (Tech skill type: Computer based training software)
+- Adobe Creative Cloud software (Tech skill type: Graphics or photo imaging software)
+- Adobe Dreamweaver (Tech skill type: Web page creation and editing software)
+- Adobe FrameMaker (Tech skill type: Desktop publishing software)
+- Adobe Illustrator (Tech skill type: Graphics or photo imaging software)
+- Adobe InDesign (Tech skill type: Desktop publishing software)
+- Adobe Photoshop (Tech skill type: Graphics or photo imaging software)
+- Adobe RoboHelp (Tech skill type: Graphical user interface development software)
+- Apple Final Cut Pro (Tech skill type: Video creation and editing software)
+- Atlassian Confluence (Tech skill type: Project management software)
+- Atlassian JIRA (Tech skill type: Content workflow software)
+- Author-it (Tech skill type: Data base user interface and query software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Blink (Tech skill type: Instant messaging software)
+- Cascading style sheets CSS (Tech skill type: Web platform development software)
+- Corel CorelDraw Graphics Suite (Tech skill type: Graphics or photo imaging software)
+- Corel Paint Shop Pro (Tech skill type: Graphics or photo imaging software)
+- Corel Ventura (Tech skill type: Desktop publishing software)
+- Darwin information typing architecture DITA (Tech skill type: Development environment software)
+- Dassault Systemes CATIA (Tech skill type: Computer aided design CAD software)
+- Dassault Systemes SolidWorks (Tech skill type: Computer aided design CAD software)
+- Drupal (Tech skill type: Web platform development software)
+- Dynamic hypertext markup language DHTML (Tech skill type: Web platform development software)
+- Epic Systems (Tech skill type: Medical software)
+- Extensible hypertext markup language XHTML (Tech skill type: Web platform development software)
+- Extensible markup language XML (Tech skill type: Enterprise application integration software)
+- FileMaker Pro (Tech skill type: Data base user interface and query software)
+- Git (Tech skill type: File versioning software)
+- GitHub (Tech skill type: Application server software)
+- Google Sites (Tech skill type: Web page creation and editing software)
+- Hypertext markup language HTML (Tech skill type: Web platform development software)
+- IBM Cognos Business Intelligence (Tech skill type: Data mining software)
+- IBM Notes (Tech skill type: Electronic mail software)
+- IBM Rational ClearCase (Tech skill type: Configuration management software)
+- IBM Rational ClearQuest (Tech skill type: Development environment software)
+- JavaScript (Tech skill type: Web platform development software)
+- JustSystems XMetaL (Tech skill type: Web page creation and editing software)
+- MadCap Software MadCap Flare (Tech skill type: Desktop publishing software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft ASP.NET (Tech skill type: Web platform development software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft Publisher (Tech skill type: Desktop publishing software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft SQL Server (Tech skill type: Data base user interface and query software)
+- Microsoft SQL Server Reporting Services SSRS (Tech skill type: Data base reporting software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Visual Basic (Tech skill type: Development environment software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Objective C (Tech skill type: Object or component oriented development software)
+- Oracle Business Intelligence Discoverer (Tech skill type: Data base reporting software)
+- Oracle E-Business Suite Financials (Tech skill type: Financial analysis software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- Oracle JavaServer Pages JSP (Tech skill type: Web platform development software)
+- ParentSquare (Tech skill type: Desktop communications software)
+- Perforce Helix software (Tech skill type: Configuration management software)
+- PHP (Tech skill type: Web platform development software)
+- PTC Arbortext (Tech skill type: Desktop publishing software)
+- PTC Creo Parametric (Tech skill type: Computer aided design CAD software)
+- Quadralay WebWorks ePublisher (Tech skill type: Web page creation and editing software)
+- SAP Business Objects (Tech skill type: Enterprise resource planning ERP software)
+- SAP Crystal Reports (Tech skill type: Data base reporting software)
+- SAS (Tech skill type: Analytical or scientific software)
+- Standardized general markup language SGML (Tech skill type: Development environment software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Talisma Knowledgebase (Tech skill type: Data base user interface and query software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Compact digital cameras (Tool type: Digital cameras)
+- Computer data input scanners (Tool type: Scanners)
+- Desktop computers (Tool type: Desktop computers)
+- Laptop computers (Tool type: Notebook computers)
+- Personal computers (Tool type: Personal computers)
+- Universal serial bus USB flash drives (Tool type: High capacity removable media drives)
+
+# WORK CONTEXT
+- Conflict Situations: Once a week or more but not every day
+- Consequence of Error: Fairly serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a month or more but not every week
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Slightly automated
+- Determine Tasks, Priorities and Goals: Limited freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Limited responsibility
+- Impact of Decisions on Co-workers or Company Results: Moderate results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Extremely important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Highly competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Slightly close (e.g., shared office)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Never
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: More than half the time
+- Spend Time Sitting: Continually or almost continually
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Never
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Never
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Moderate responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Conventional
+- Secondary Interest: Artistic
+- Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Document Management Specialists
+- Editors
+- Project Management Specialists
+- Management Analysts
+- Clinical Data Managers
+- Social Science Research Assistants
+- Proofreaders and Copy Markers
+- Data Scientists
+- Writers and Authors
+- Electrical and Electronics Drafters
+- Statistical Assistants
+- Industrial Engineers
+- Software Developers
+- Information Technology Project Managers
+- Correspondence Clerks
+- Computer Systems Analysts
+- File Clerks
+- Operations Research Analysts
+- Database Administrators
+- Web and Digital Interface Designers

@@ -1,0 +1,315 @@
+Job Title: Career/Technical Education Teachers, Postsecondary
+O*NET-SOC Code: 25-1194.00
+
+# DESCRIPTION
+Teach vocational courses intended to provide occupational training below the baccalaureate level in subjects such as construction, mechanics/repair, manufacturing, transportation, or cosmetology, primarily to students who have graduated from or left high school. Teaching takes place in public or private schools whose primary business is academic or vocational education.
+
+# TASKS
+- Observe and evaluate students' work to determine progress, provide feedback, and make suggestions for improvement.
+- Present lectures and conduct discussions to increase students' knowledge and competence using visual aids, such as graphs, charts, videotapes, and slides.
+- Supervise and monitor students' use of tools and equipment.
+- Administer oral, written, or performance tests to measure progress and to evaluate training effectiveness.
+- Provide individualized instruction and tutorial or remedial instruction.
+- Prepare reports and maintain records, such as student grades, attendance rolls, and training activity details.
+- Develop curricula and plan course content and methods of instruction.
+- Determine training needs of students or workers.
+- Supervise independent or group projects, field placements, laboratory work, or other training.
+- Integrate academic and vocational curricula so that students can obtain a variety of skills.
+- Select and assemble books, materials, supplies, and equipment for training, courses, or projects.
+- Conduct on-the-job training classes or training sessions to teach and demonstrate principles, techniques, procedures, or methods of designated subjects.
+- Acquire, maintain, and repair laboratory equipment and tools.
+- Prepare outlines of instructional programs and training schedules and establish course goals.
+- Advise students on course selection, career decisions, and other academic and vocational concerns.
+- Participate in conferences, seminars, and training sessions to keep abreast of developments in the field, and integrate relevant information into training programs.
+- Develop teaching aids, such as instructional software, multimedia visual aids, or study materials.
+- Serve on faculty and school committees concerned with budgeting, curriculum revision, and course and diploma requirements.
+- Arrange for lectures by experts in designated fields.
+- Review enrollment applications and correspond with applicants to obtain additional information.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Education and Training (Importance: 4.47/5 | Level: 5.42/7)
+- English Language (Importance: 3.84/5 | Level: 4.33/7)
+- Mechanical (Importance: 3.74/5 | Level: 4.38/7)
+- Customer and Personal Service (Importance: 3.72/5 | Level: 4.54/7)
+- Mathematics (Importance: 3.72/5 | Level: 4.38/7)
+- Administrative (Importance: 3.55/5 | Level: 4.23/7)
+- Engineering and Technology (Importance: 3.54/5 | Level: 4.0/7)
+- Computers and Electronics (Importance: 3.4/5 | Level: 4.23/7)
+- Administration and Management (Importance: 3.35/5 | Level: 3.76/7)
+- Public Safety and Security (Importance: 3.25/5 | Level: 3.56/7)
+- Design (Importance: 3.19/5 | Level: 3.98/7)
+- Chemistry (Importance: 3.06/5 | Level: 3.57/7)
+- Personnel and Human Resources (Importance: 3.01/5 | Level: 3.61/7)
+- Physics (Importance: 3.0/5 | Level: 3.4/7)
+- Economics and Accounting (Importance: 2.88/5 | Level: 2.56/7)
+- Production and Processing (Importance: 2.82/5 | Level: 3.18/7)
+- Sales and Marketing (Importance: 2.79/5 | Level: 3.19/7)
+- Building and Construction (Importance: 2.63/5 | Level: 3.15/7)
+- Psychology (Importance: 2.58/5 | Level: 2.91/7)
+- Law and Government (Importance: 2.57/5 | Level: 2.78/7)
+- Transportation (Importance: 2.5/5 | Level: 2.41/7)
+- Communications and Media (Importance: 2.42/5 | Level: 2.46/7)
+- Therapy and Counseling (Importance: 2.12/5 | Level: 2.27/7)
+- Medicine and Dentistry (Importance: 2.08/5 | Level: 1.73/7)
+- Biology (Importance: 2.06/5 | Level: 1.75/7)
+- Sociology and Anthropology (Importance: 2.06/5 | Level: 2.23/7)
+- Telecommunications (Importance: 2.0/5 | Level: 1.68/7)
+- Philosophy and Theology (Importance: 1.83/5 | Level: 1.85/7)
+- History and Archeology (Importance: 1.82/5 | Level: 1.66/7)
+- Foreign Language (Importance: 1.81/5 | Level: 1.3/7)
+- Geography (Importance: 1.8/5 | Level: 1.64/7)
+- Food Production (Importance: 1.59/5 | Level: 0.91/7)
+- Fine Arts (Importance: 1.54/5 | Level: 1.21/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Instructing (Importance: 4.0/5 | Level: 4.0/7)
+- Active Listening (Importance: 4.0/5 | Level: 4.0/7)
+- Learning Strategies (Importance: 4.0/5 | Level: 4.0/7)
+- Active Learning (Importance: 3.88/5 | Level: 4.0/7)
+- Speaking (Importance: 3.88/5 | Level: 4.0/7)
+- Reading Comprehension (Importance: 3.88/5 | Level: 3.88/7)
+- Critical Thinking (Importance: 3.75/5 | Level: 3.75/7)
+- Monitoring (Importance: 3.62/5 | Level: 4.0/7)
+- Writing (Importance: 3.62/5 | Level: 4.0/7)
+- Judgment and Decision Making (Importance: 3.25/5 | Level: 3.0/7)
+- Complex Problem Solving (Importance: 3.25/5 | Level: 3.12/7)
+- Social Perceptiveness (Importance: 3.25/5 | Level: 3.25/7)
+- Coordination (Importance: 3.12/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 3.0/7)
+- Negotiation (Importance: 3.0/5 | Level: 3.0/7)
+- Persuasion (Importance: 3.0/5 | Level: 3.0/7)
+- Service Orientation (Importance: 3.0/5 | Level: 3.0/7)
+- Management of Personnel Resources (Importance: 2.88/5 | Level: 2.88/7)
+- Systems Evaluation (Importance: 2.75/5 | Level: 2.88/7)
+- Systems Analysis (Importance: 2.75/5 | Level: 2.62/7)
+- Operations Analysis (Importance: 2.5/5 | Level: 2.62/7)
+- Operations Monitoring (Importance: 2.38/5 | Level: 2.5/7)
+- Troubleshooting (Importance: 2.25/5 | Level: 1.88/7)
+- Quality Control Analysis (Importance: 2.25/5 | Level: 2.38/7)
+- Equipment Selection (Importance: 2.25/5 | Level: 2.12/7)
+- Mathematics (Importance: 2.25/5 | Level: 2.25/7)
+- Operation and Control (Importance: 2.25/5 | Level: 1.88/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.88/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.5/7)
+- Science (Importance: 1.88/5 | Level: 1.0/7)
+- Equipment Maintenance (Importance: 1.88/5 | Level: 1.38/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.12/7)
+- Repairing (Importance: 1.75/5 | Level: 1.25/7)
+- Programming (Importance: 1.5/5 | Level: 0.62/7)
+- Installation (Importance: 1.12/5 | Level: 0.25/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Blackboard Learn (Tech skill type: Computer based training software)
+- Blackboard software (Tech skill type: Data base user interface and query software)
+- Calendar and scheduling software (Tech skill type: Calendar and scheduling software)
+- Career management systems CMS (Tech skill type: Data base user interface and query software)
+- Collaborative editing software (Tech skill type: Word processing software)
+- Common Curriculum (Tech skill type: Computer based training software)
+- Course management system software (Tech skill type: Computer based training software)
+- Desire2Learn LMS software (Tech skill type: Computer based training software)
+- DOC Cop (Tech skill type: Information retrieval or search software)
+- Edmodo (Tech skill type: Desktop communications software)
+- Email software (Tech skill type: Electronic mail software)
+- Google Classroom (Tech skill type: Project management software)
+- Google Docs (Tech skill type: Word processing software)
+- GroupMe (Tech skill type: Instant messaging software)
+- Image scanning software (Tech skill type: Optical character reader OCR or scanning software)
+- iParadigms Turnitin (Tech skill type: Information retrieval or search software)
+- Learning management system LMS (Tech skill type: Computer based training software)
+- Medical condition coding software (Tech skill type: Medical software)
+- Medical procedure coding software (Tech skill type: Medical software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Moodle (Tech skill type: Computer based training software)
+- Sakai CLE (Tech skill type: Computer based training software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Air chisel sets (Tool type: Pneumatic hammer)
+- Air pressure regulators (Tool type: Pressure regulator)
+- Air ratchets (Tool type: Ratchets)
+- Arm board stabilizers (Tool type: Patient restraint boards)
+- Autoclave sterilizers (Tool type: Steam autoclaves or sterilizers)
+- Automotive stethoscopes (Tool type: Sound detector)
+- Ball gauges (Tool type: Pressure gauge)
+- Battery conductance testers (Tool type: Battery hydrometer)
+- Blowdryers (Tool type: Domestic hair dryers)
+- Boot clamp pliers (Tool type: Flat nose pliers)
+- Brake bleeders (Tool type: Pneumatic vacuum equipment)
+- Brake disc micrometers (Tool type: Micrometers)
+- Brake drum lathes (Tool type: Brake drum lathe)
+- Brake drum micrometers (Tool type: Micrometers)
+- Brake shoe adjusting gauges (Tool type: Brake repair kits)
+- Brake spoons (Tool type: Brake repair kits)
+- Brake spring pliers (Tool type: Brake spring pliers)
+- Brake spring removers (Tool type: Brake repair kits)
+- Cam bearing driver sets (Tool type: Bearing fitting tool kits)
+- Carousel slide projectors (Tool type: Slide projectors)
+- Clutch alignment sets (Tool type: Clutch repair kits)
+- Compact digital cameras (Tool type: Digital cameras)
+- Compact disk CD players (Tool type: Compact disk players or recorders)
+- Computer data input scanners (Tool type: Scanners)
+- Computer laser printers (Tool type: Laser printers)
+- Computer projectors (Tool type: Multimedia projectors)
+- Conference telephones (Tool type: Teleconference equipment)
+- Coolant testers (Tool type: Liquid level controls or instruments)
+- Cooling system pressure testers (Tool type: Pressure indicators)
+- Desktop computers (Tool type: Desktop computers)
+- Digital calculators (Tool type: Scientific calculator)
+- Digital calipers (Tool type: Calipers)
+- Digital camcorders (Tool type: Digital camcorders or video cameras)
+- Digital video cameras (Tool type: Digital camcorders or video cameras)
+- Digital video disk DVD players (Tool type: Digital video disk players or recorders)
+- Dressing forceps (Tool type: Surgical clamps or clips or forceps)
+- Dye injectors (Tool type: Injectors)
+- E-readers (Tool type: Electronic reader or E-reader)
+- Educational anatomy models (Tool type: Anatomical human mannequins for medical education or training)
+- Electronic thermometers (Tool type: Handheld thermometer)
+- Emergency first aid kits (Tool type: Mobile medical services first aid kits)
+- Engine analyzers (Tool type: Engine tune up tester)
+- Hair clippers (Tool type: Electric hair clipper)
+- Hair cutting shears (Tool type: Shears)
+- Hairbrushes (Tool type: Hair combs or brushes)
+- Hand trucks (Tool type: Hand trucks or accessories)
+- Handheld bar code readers (Tool type: Bar code reader equipment)
+- Handheld grease guns (Tool type: Power grease gun)
+- Handheld microphones (Tool type: Microphones)
+- Handheld nebulizers (Tool type: Nebulizers)
+- Hole punchers (Tool type: Hole punching units)
+- Hose clamps (Tool type: Hold down clamps)
+- Hot glue guns (Tool type: Glue guns)
+- Hydraulic presses (Tool type: Industrial hydraulic press)
+- Hydraulic pressure gauge sets (Tool type: Pressure gauge)
+- Interactive whiteboard controllers (Tool type: Portable data input terminals)
+- Interactive whiteboards (Tool type: Touch screen monitors)
+- Label makers (Tool type: Label making machines)
+- Laminating equipment (Tool type: Laminators)
+- Laptop computers (Tool type: Notebook computers)
+- Laser engravers (Tool type: Engravers)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Liquid crystal display LCD projectors (Tool type: Liquid crystal display projector)
+- Liquid crystal display LCD televisions (Tool type: Televisions)
+- Manual blood pressure cuffs (Tool type: Mercury blood pressure units)
+- Mechanical stethoscopes (Tool type: Medical acoustic stethoscopes)
+- Microphone podiums (Tool type: Microphone stand)
+- MP3 digital voice recorders (Tool type: MP3 players or recorders)
+- Multi-line telephone systems (Tool type: Special purpose telephones)
+- Multimedia projection equipment (Tool type: Multimedia projectors)
+- Opaque projectors (Tool type: Epidiascopes)
+- Optometric lensometers (Tool type: Ophthalmic lensometers)
+- Otoscopes (Tool type: Ophthalmoscopes or otoscopes or scope sets)
+- Overhead data projectors (Tool type: Overhead projectors)
+- Oxygen tanks (Tool type: Medical gas cylinders or related devices)
+- Paper cutters (Tool type: Paper cutters or refills)
+- Photocopying equipment (Tool type: Photocopiers)
+- Poster printers (Tool type: Inkjet printers)
+- Power steering pump pulleys (Tool type: Power steering tuning cable)
+- Projector screens (Tool type: Projection screens or displays)
+- Refrigerant charging stations (Tool type: Electric vehicle charging kit)
+- Screwdriver sets (Tool type: Screwdrivers)
+- Shampoo chairs (Tool type: Swiveling barber chair)
+- Soldering guns (Tool type: Soldering iron)
+- Spark plug feeler gauges (Tool type: Spark plug gap gauge)
+- Spirometers (Tool type: Spirometers)
+- Stationary hairdryers (Tool type: Domestic hair dryers)
+- Student response systems (Tool type: Portable data input terminals)
+- Tablet computers (Tool type: Tablet computers)
+- Tap and die sets (Tool type: Taps)
+- Television monitors (Tool type: Televisions)
+- Tire pressure gauges (Tool type: Tire pressure gauge)
+- Universal serial bus USB flash drives (Tool type: High capacity removable media drives)
+- Vehicle jack stands (Tool type: Vehicle jack)
+- Videoconferencing equipment (Tool type: Videoconferencing systems)
+- Webcams (Tool type: Web cameras)
+- Wheel aligners (Tool type: Wheel alignment equipment)
+- Wheel balancers (Tool type: Wheel balancing equipment)
+- Wireless microphones (Tool type: Microphones)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Not serious at all
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Extremely important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Never
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Not at all competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Every day
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Never
+- Spend Time Sitting: About half the time
+- Spend Time Standing: About half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Less than half the time
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Once a week or more but not every day
+- Time Pressure: Once a week or more but not every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Never
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a week or more but not every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Social
+- Secondary Interest: Investigative
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Career/Technical Education Teachers, Secondary School
+- Career/Technical Education Teachers, Middle School
+- Teaching Assistants, Special Education
+- Special Education Teachers, Elementary School
+- Engineering Teachers, Postsecondary
+- Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education
+- Instructional Coordinators
+- Special Education Teachers, Kindergarten
+- Training and Development Specialists
+- Computer Science Teachers, Postsecondary
+- Training and Development Managers
+- Tutors
+- Special Education Teachers, Secondary School
+- Mechanical Engineering Technologists and Technicians
+- Industrial Engineers
+- Self-Enrichment Teachers
+- Business Teachers, Postsecondary
+- Secondary School Teachers, Except Special and Career/Technical Education
+- Health Specialties Teachers, Postsecondary
+- Automotive Engineering Technicians

@@ -1,0 +1,304 @@
+Job Title: Human Factors Engineers and Ergonomists
+O*NET-SOC Code: 17-2112.01
+
+# DESCRIPTION
+Design objects, facilities, and environments to optimize human well-being and overall system performance, applying theory, principles, and data regarding the relationship between humans and respective technology. Investigate and analyze characteristics of human behavior and performance as it relates to the use of technology.
+
+# TASKS
+- Collect data through direct observation of work activities or witnessing the conduct of tests.
+- Conduct interviews or surveys of users or customers to collect information on topics, such as requirements, needs, fatigue, ergonomics, or interfaces.
+- Advocate for end users in collaboration with other professionals, including engineers, designers, managers, or customers.
+- Inspect work sites to identify physical hazards.
+- Prepare reports or presentations summarizing results or conclusions of human factors engineering or ergonomics activities, such as testing, investigation, or validation.
+- Recommend workplace changes to improve health and safety, using knowledge of potentially harmful factors, such as heavy loads or repetitive motions.
+- Perform functional, task, or anthropometric analysis, using tools, such as checklists, surveys, videotaping, or force measurement.
+- Provide technical support to clients through activities, such as rearranging workplace fixtures to reduce physical hazards or discomfort or modifying task sequences to reduce cycle time.
+- Assess the user-interface or usability characteristics of products.
+- Establish system operating or training requirements to ensure optimized human-machine interfaces.
+- Integrate human factors requirements into operational hardware.
+- Review health, safety, accident, or worker compensation records to evaluate safety program effectiveness or to identify jobs with high incidence of injury.
+- Design or evaluate human work systems, using human factors engineering and ergonomic principles to optimize usability, cost, quality, safety, or performance.
+- Write, review, or comment on documents, such as proposals, test plans, or procedures.
+- Train users in task techniques or ergonomic principles.
+- Conduct research to evaluate potential solutions related to changes in equipment design, procedures, manpower, personnel, or training.
+- Provide human factors technical expertise on topics, such as advanced user-interface technology development or the role of human users in automated or autonomous sub-systems in advanced vehicle systems.
+- Develop or implement human performance research, investigation, or analysis protocols.
+- Develop or implement research methodologies or statistical analysis plans to test and evaluate developmental prototypes used in new products or processes, such as cockpit designs, user workstations, or computerized human models.
+- Estimate time or resource requirements for ergonomic or human factors research or development projects.
+- Design cognitive aids, such as procedural storyboards or decision support systems.
+- Analyze complex systems to determine potential for further development, production, interoperability, compatibility, or usefulness in a particular area, such as aviation.
+- Investigate theoretical or conceptual issues, such as the human design considerations of lunar landers or habitats.
+- Operate testing equipment, such as heat stress meters, octave band analyzers, motion analysis equipment, inclinometers, light meters, thermoanemometers, sling psychrometers, or colorimetric detection tubes.
+- Perform statistical analyses, such as social network pattern analysis, network modeling, discrete event simulation, agent-based modeling, statistical natural language processing, computational sociology, mathematical optimization, or systems dynamics.
+- Apply modeling or quantitative analysis to forecast events, such as human decisions or behaviors, the structure or processes of organizations, or the attitudes or actions of human groups.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Psychology (Importance: 4.16/5 | Level: 4.74/7)
+- English Language (Importance: 4.0/5 | Level: 4.32/7)
+- Design (Importance: 3.85/5 | Level: 4.8/7)
+- Engineering and Technology (Importance: 3.8/5 | Level: 4.85/7)
+- Education and Training (Importance: 3.65/5 | Level: 5.6/7)
+- Mathematics (Importance: 3.55/5 | Level: 4.35/7)
+- Customer and Personal Service (Importance: 3.45/5 | Level: 4.0/7)
+- Sociology and Anthropology (Importance: 3.05/5 | Level: 3.95/7)
+- Production and Processing (Importance: 3.0/5 | Level: 4.15/7)
+- Administration and Management (Importance: 3.0/5 | Level: 4.0/7)
+- Computers and Electronics (Importance: 3.0/5 | Level: 4.0/7)
+- Physics (Importance: 2.8/5 | Level: 3.35/7)
+- Public Safety and Security (Importance: 2.68/5 | Level: 3.15/7)
+- Communications and Media (Importance: 2.65/5 | Level: 2.85/7)
+- Biology (Importance: 2.65/5 | Level: 3.15/7)
+- Mechanical (Importance: 2.65/5 | Level: 3.1/7)
+- Sales and Marketing (Importance: 2.5/5 | Level: 3.3/7)
+- Personnel and Human Resources (Importance: 2.5/5 | Level: 3.4/7)
+- Medicine and Dentistry (Importance: 2.45/5 | Level: 2.5/7)
+- Administrative (Importance: 2.3/5 | Level: 3.05/7)
+- Law and Government (Importance: 2.3/5 | Level: 2.8/7)
+- Transportation (Importance: 2.25/5 | Level: 2.55/7)
+- Economics and Accounting (Importance: 2.2/5 | Level: 2.2/7)
+- Telecommunications (Importance: 2.1/5 | Level: 1.5/7)
+- Therapy and Counseling (Importance: 2.1/5 | Level: 2.2/7)
+- Chemistry (Importance: 2.05/5 | Level: 2.3/7)
+- Building and Construction (Importance: 1.75/5 | Level: 1.75/7)
+- Foreign Language (Importance: 1.7/5 | Level: 1.4/7)
+- Philosophy and Theology (Importance: 1.6/5 | Level: 1.15/7)
+- Geography (Importance: 1.6/5 | Level: 1.4/7)
+- History and Archeology (Importance: 1.55/5 | Level: 1.0/7)
+- Food Production (Importance: 1.37/5 | Level: 0.68/7)
+- Fine Arts (Importance: 1.3/5 | Level: 0.65/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Writing (Importance: 4.0/5 | Level: 4.38/7)
+- Active Listening (Importance: 4.0/5 | Level: 4.38/7)
+- Complex Problem Solving (Importance: 4.0/5 | Level: 4.0/7)
+- Speaking (Importance: 4.0/5 | Level: 4.38/7)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.38/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.75/7)
+- Active Learning (Importance: 3.75/5 | Level: 4.25/7)
+- Systems Evaluation (Importance: 3.62/5 | Level: 4.0/7)
+- Judgment and Decision Making (Importance: 3.62/5 | Level: 4.38/7)
+- Mathematics (Importance: 3.5/5 | Level: 4.0/7)
+- Monitoring (Importance: 3.5/5 | Level: 4.0/7)
+- Social Perceptiveness (Importance: 3.38/5 | Level: 3.5/7)
+- Operations Analysis (Importance: 3.25/5 | Level: 3.88/7)
+- Learning Strategies (Importance: 3.25/5 | Level: 3.25/7)
+- Systems Analysis (Importance: 3.25/5 | Level: 3.88/7)
+- Science (Importance: 3.25/5 | Level: 3.38/7)
+- Instructing (Importance: 3.12/5 | Level: 3.75/7)
+- Technology Design (Importance: 3.12/5 | Level: 3.88/7)
+- Time Management (Importance: 3.12/5 | Level: 3.12/7)
+- Coordination (Importance: 3.0/5 | Level: 3.12/7)
+- Service Orientation (Importance: 3.0/5 | Level: 3.0/7)
+- Management of Personnel Resources (Importance: 2.88/5 | Level: 3.0/7)
+- Persuasion (Importance: 2.88/5 | Level: 3.0/7)
+- Negotiation (Importance: 2.88/5 | Level: 3.0/7)
+- Quality Control Analysis (Importance: 2.62/5 | Level: 3.0/7)
+- Programming (Importance: 2.25/5 | Level: 2.38/7)
+- Operations Monitoring (Importance: 2.25/5 | Level: 2.12/7)
+- Troubleshooting (Importance: 2.0/5 | Level: 2.0/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.75/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.75/7)
+- Equipment Selection (Importance: 1.75/5 | Level: 1.38/7)
+- Operation and Control (Importance: 1.62/5 | Level: 0.75/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adobe Acrobat (Tech skill type: Document management software)
+- Adobe Creative Cloud software (Tech skill type: Graphics or photo imaging software)
+- Adobe Dreamweaver (Tech skill type: Web page creation and editing software)
+- Adobe Illustrator (Tech skill type: Graphics or photo imaging software)
+- Adobe InDesign (Tech skill type: Desktop publishing software)
+- Adobe Photoshop (Tech skill type: Graphics or photo imaging software)
+- AEMC DataView (Tech skill type: Analytical or scientific software)
+- AJAX (Tech skill type: Web platform development software)
+- Altia Design (Tech skill type: Graphical user interface development software)
+- Apple Safari (Tech skill type: Internet browser software)
+- Atlassian JIRA (Tech skill type: Content workflow software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Bit Debris Solutions Usability Activity Log (Tech skill type: Analytical or scientific software)
+- C++ (Tech skill type: Object or component oriented development software)
+- Cascading style sheets CSS (Tech skill type: Web platform development software)
+- Computer aided design CAD software (Tech skill type: Computer aided design CAD software)
+- Dartfish ProSuite (Tech skill type: Analytical or scientific software)
+- Dassault Systemes CATIA (Tech skill type: Computer aided design CAD software)
+- Dassault Systemes SolidWorks (Tech skill type: Computer aided design CAD software)
+- Data Translation quickDAQ (Tech skill type: Analytical or scientific software)
+- Debugging software (Tech skill type: Program testing software)
+- Dynamic hypertext markup language DHTML (Tech skill type: Web platform development software)
+- Extensible markup language XML (Tech skill type: Enterprise application integration software)
+- Graphical user interface GUI design software (Tech skill type: Graphical user interface development software)
+- Hypertext markup language HTML (Tech skill type: Web platform development software)
+- IBM SPSS Statistics (Tech skill type: Analytical or scientific software)
+- JavaScript (Tech skill type: Web platform development software)
+- JavaScript Object Notation JSON (Tech skill type: Web platform development software)
+- jQuery (Tech skill type: Object or component oriented development software)
+- Linux (Tech skill type: Operating system software)
+- Mangold INTERACT (Tech skill type: Analytical or scientific software)
+- Mangold LogSquare (Tech skill type: Analytical or scientific software)
+- Mangold Soundalyzer (Tech skill type: Analytical or scientific software)
+- MathWorks Simulink (Tech skill type: Analytical or scientific software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Internet Explorer (Tech skill type: Internet browser software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Visual Basic (Tech skill type: Development environment software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Mozilla Firefox (Tech skill type: Internet browser software)
+- National Instruments LabVIEW (Tech skill type: Development environment software)
+- Noldus Information Technology FaceReader (Tech skill type: Analytical or scientific software)
+- Noldus Information Technology The Observer XT (Tech skill type: Analytical or scientific software)
+- Noldus Information Technology uLog Pro (Tech skill type: Analytical or scientific software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- Ovo Studios Ovo Logger (Tech skill type: Analytical or scientific software)
+- Python (Tech skill type: Object or component oriented development software)
+- R (Tech skill type: Object or component oriented development software)
+- Regression testing software (Tech skill type: Program testing software)
+- SAS (Tech skill type: Analytical or scientific software)
+- Seeing Machines faceLAB (Tech skill type: Graphical user interface development software)
+- Simulation software (Tech skill type: Analytical or scientific software)
+- Statistical software (Tech skill type: Analytical or scientific software)
+- TechSmith Camtasia (Tech skill type: Video creation and editing software)
+- TechSmith Morae (Tech skill type: Program testing software)
+- The MathWorks MATLAB (Tech skill type: Analytical or scientific software)
+- Thought Technology BioGraph Infiniti (Tech skill type: Analytical or scientific software)
+- Triangle Research Collaborative Observational Coding System OCS Tools (Tech skill type: Analytical or scientific software)
+- Usability testing software (Tech skill type: Program testing software)
+- User interface design software (Tech skill type: Program testing software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Algometers (Tool type: Physiological recorders)
+- Anthropometers (Tool type: Thickness measuring devices)
+- Automated blood pressure measurement equipment (Tool type: Electronic blood pressure units)
+- Body fat measurement calipers (Tool type: Skinfold calipers)
+- Colorimeters (Tool type: Colorimeters)
+- Computer laser printers (Tool type: Laser printers)
+- Desktop computers (Tool type: Desktop computers)
+- Digital audio recorders (Tool type: Digital voice recorders)
+- Digital force gauges (Tool type: Compression testers)
+- Digital video cameras (Tool type: Digital camcorders or video cameras)
+- Electrocardiography EKG monitors (Tool type: Electrocardiography EKG units)
+- Electroencephalography EEG equipment (Tool type: Electroencephalograph EEGs)
+- Electromagnetic motion analysis systems (Tool type: Physiological recorders)
+- Electromyograph processing systems (Tool type: Electromyography EMG units)
+- Electronic distance measuring devices (Tool type: Distance meters)
+- Exercise treadmills (Tool type: Treadmills)
+- Flight simulation equipment (Tool type: Aircraft flight simulators or trainers)
+- Goniometers or arthrometers (Tool type: Goniometers or arthrometers)
+- Hand dynamometers (Tool type: Dynamometers)
+- Hand sensor gloves (Tool type: Physiological recorders)
+- Haptic devices (Tool type: Touch pads)
+- Heart rate monitors (Tool type: Cardiac output CO monitoring units)
+- Heat stress meters (Tool type: Heat stress monitors)
+- Inclinometers (Tool type: Physiological recorders)
+- Interactive whiteboards (Tool type: Touch screen monitors)
+- Isokinetic dynamometers (Tool type: Dynamometers)
+- Laptop computers (Tool type: Notebook computers)
+- Laser Doppler flowmeters (Tool type: Flowmeters)
+- Light meters (Tool type: Lux or light meter)
+- Lumbar motion monitors (Tool type: Physiological recorders)
+- Manual blood pressure measurement equipment (Tool type: Mercury blood pressure units)
+- Microphones (Tool type: Microphones)
+- Motion capture systems (Tool type: Physiological recorders)
+- Noise meters (Tool type: Sound measuring apparatus or decibel meter)
+- Octave band analyzers (Tool type: Sound measuring apparatus or decibel meter)
+- Oxygen analyzers (Tool type: Oxygen gas analyzers)
+- Personal computers (Tool type: Personal computers)
+- Push/pull dynamometers (Tool type: Dynamometers)
+- Sling psychrometers (Tool type: Psychrometers)
+- Tablet computers (Tool type: Tablet computers)
+- Torsiometers (Tool type: Physiological recorders)
+- Touch screen monitors (Tool type: Touch screen monitors)
+- Velometers (Tool type: Air velocity and temperature monitors)
+- Video goggles (Tool type: Digital camcorders or video cameras)
+- Video projectors (Tool type: Multimedia projectors)
+
+# WORK CONTEXT
+- Conflict Situations: Once a month or more but not every week
+- Consequence of Error: Fairly serious
+- Contact With Others: Contact with others most of the time
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Very important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Once a year or more but not every month
+- Exposed to Cramped Work Space, Awkward Positions: Once a year or more but not every month
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Once a year or more but not every month
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Once a year or more but not every month
+- Exposed to High Places: Once a year or more but not every month
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Once a year or more but not every month
+- Exposed to Very Hot or Cold Temperatures: Once a year or more but not every month
+- Exposed to Whole Body Vibration: Once a year or more but not every month
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Once a year or more but not every month
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Very important
+- Importance of Repeating Same Tasks: Very important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Once a year or more but not every month
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Once a year or more but not every month
+- Level of Competition: Highly competitive
+- Outdoors, Exposed to All Weather Conditions: Once a year or more but not every month
+- Outdoors, Under Cover: Once a year or more but not every month
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Once a year or more but not every month
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Less than half the time
+- Spend Time Sitting: More than half the time
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Less than half the time
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Once a week or more but not every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Once a year or more but not every month
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Once a year or more but not every month
+- Work Outcomes and Results of Other Workers: Moderate responsibility
+- Work With or Contribute to a Work Group or Team: Very important
+- Written Letters and Memos: Once a month or more but not every week
+
+# INTERESTS (RIASEC)
+- Primary Interest: Investigative
+- Secondary Interest: Realistic
+- Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Health and Safety Engineers, Except Mining Safety Engineers and Inspectors
+- Industrial Engineers
+- Validation Engineers
+- Bioengineers and Biomedical Engineers
+- Data Scientists
+- Computer and Information Research Scientists
+- Health Informatics Specialists
+- Robotics Engineers
+- Mechatronics Engineers
+- Manufacturing Engineers
+- Software Developers
+- Industrial Engineering Technologists and Technicians
+- Clinical Data Managers
+- Mechanical Engineering Technologists and Technicians
+- Software Quality Assurance Analysts and Testers
+- Occupational Health and Safety Technicians
+- Computer Hardware Engineers
+- Calibration Technologists and Technicians
+- Electrical and Electronic Engineering Technologists and Technicians
+- Management Analysts

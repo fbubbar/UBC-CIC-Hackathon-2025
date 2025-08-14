@@ -1,0 +1,250 @@
+Job Title: Biostatisticians
+O*NET-SOC Code: 15-2041.01
+
+# DESCRIPTION
+Develop and apply biostatistical theory and methods to the study of life sciences.
+
+# TASKS
+- Draw conclusions or make predictions, based on data summaries or statistical analyses.
+- Analyze clinical or survey data, using statistical approaches such as longitudinal analysis, mixed-effect modeling, logistic regression analyses, and model-building techniques.
+- Write detailed analysis plans and descriptions of analyses and findings for research protocols or reports.
+- Calculate sample size requirements for clinical studies.
+- Read current literature, attend meetings or conferences, and talk with colleagues to keep abreast of methodological or conceptual developments in fields such as biostatistics, pharmacology, life sciences, and social sciences.
+- Design research studies in collaboration with physicians, life scientists, or other professionals.
+- Prepare tables and graphs to present clinical data or results.
+- Write program code to analyze data with statistical analysis software.
+- Provide biostatistical consultation to clients or colleagues.
+- Review clinical or other medical research protocols and recommend appropriate statistical analyses.
+- Develop or implement data analysis algorithms.
+- Determine project plans, timelines, or technical objectives for statistical aspects of biological research studies.
+- Prepare statistical data for inclusion in reports to data monitoring committees, federal regulatory agencies, managers, or clients.
+- Plan or direct research studies related to life sciences.
+- Prepare articles for publication or presentation at professional conferences.
+- Monitor clinical trials or experiments to ensure adherence to established procedures or to verify the quality of data collected.
+- Write research proposals or grant applications for submission to external bodies.
+- Design or maintain databases of biological data.
+- Collect data through surveys or experimentation.
+- Apply research or simulation results to extend biological theory or recommend new research projects.
+- Develop or use mathematical models to track changes in biological phenomena, such as the spread of infectious diseases.
+- Assign work to biostatistical assistants or programmers.
+- Analyze archival data, such as birth, death, and disease records.
+- Design surveys to assess health issues.
+- Teach graduate or continuing education courses or seminars in biostatistics.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mathematics (Importance: 4.67/5 | Level: 5.83/7)
+- English Language (Importance: 3.88/5 | Level: 4.61/7)
+- Computers and Electronics (Importance: 3.7/5 | Level: 4.88/7)
+- Medicine and Dentistry (Importance: 3.04/5 | Level: 2.96/7)
+- Biology (Importance: 2.88/5 | Level: 4.29/7)
+- Education and Training (Importance: 2.77/5 | Level: 3.83/7)
+- Customer and Personal Service (Importance: 2.54/5 | Level: 2.54/7)
+- Administration and Management (Importance: 2.5/5 | Level: 3.04/7)
+- Psychology (Importance: 2.39/5 | Level: 3.35/7)
+- Administrative (Importance: 2.38/5 | Level: 3.0/7)
+- Personnel and Human Resources (Importance: 2.38/5 | Level: 2.88/7)
+- Communications and Media (Importance: 2.18/5 | Level: 2.21/7)
+- Engineering and Technology (Importance: 1.96/5 | Level: 2.21/7)
+- Law and Government (Importance: 1.96/5 | Level: 1.79/7)
+- Design (Importance: 1.87/5 | Level: 1.75/7)
+- Sociology and Anthropology (Importance: 1.81/5 | Level: 2.3/7)
+- Public Safety and Security (Importance: 1.79/5 | Level: 1.54/7)
+- Production and Processing (Importance: 1.71/5 | Level: 1.54/7)
+- Telecommunications (Importance: 1.71/5 | Level: 1.21/7)
+- Economics and Accounting (Importance: 1.7/5 | Level: 1.58/7)
+- Sales and Marketing (Importance: 1.7/5 | Level: 1.61/7)
+- Geography (Importance: 1.65/5 | Level: 2.0/7)
+- Therapy and Counseling (Importance: 1.58/5 | Level: 0.96/7)
+- Physics (Importance: 1.52/5 | Level: 1.25/7)
+- Chemistry (Importance: 1.52/5 | Level: 1.25/7)
+- Building and Construction (Importance: 1.38/5 | Level: 0.67/7)
+- Philosophy and Theology (Importance: 1.29/5 | Level: 0.57/7)
+- Foreign Language (Importance: 1.29/5 | Level: 0.58/7)
+- Mechanical (Importance: 1.26/5 | Level: 0.58/7)
+- Transportation (Importance: 1.22/5 | Level: 0.5/7)
+- History and Archeology (Importance: 1.21/5 | Level: 0.5/7)
+- Fine Arts (Importance: 1.21/5 | Level: 0.46/7)
+- Food Production (Importance: 1.13/5 | Level: 0.38/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mathematics (Importance: 4.62/5 | Level: 5.12/7)
+- Active Learning (Importance: 4.0/5 | Level: 4.88/7)
+- Judgment and Decision Making (Importance: 4.0/5 | Level: 4.38/7)
+- Complex Problem Solving (Importance: 4.0/5 | Level: 4.5/7)
+- Speaking (Importance: 4.0/5 | Level: 4.5/7)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.88/7)
+- Science (Importance: 4.0/5 | Level: 4.62/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 5.12/7)
+- Active Listening (Importance: 3.88/5 | Level: 4.25/7)
+- Writing (Importance: 3.88/5 | Level: 4.88/7)
+- Learning Strategies (Importance: 3.38/5 | Level: 3.88/7)
+- Programming (Importance: 3.38/5 | Level: 4.0/7)
+- Instructing (Importance: 3.12/5 | Level: 4.0/7)
+- Systems Evaluation (Importance: 3.12/5 | Level: 3.75/7)
+- Systems Analysis (Importance: 3.12/5 | Level: 3.88/7)
+- Time Management (Importance: 3.0/5 | Level: 3.5/7)
+- Monitoring (Importance: 3.0/5 | Level: 3.62/7)
+- Operations Analysis (Importance: 3.0/5 | Level: 3.38/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.88/7)
+- Service Orientation (Importance: 2.75/5 | Level: 2.75/7)
+- Management of Personnel Resources (Importance: 2.75/5 | Level: 3.12/7)
+- Persuasion (Importance: 2.75/5 | Level: 2.88/7)
+- Negotiation (Importance: 2.0/5 | Level: 2.5/7)
+- Quality Control Analysis (Importance: 1.75/5 | Level: 1.25/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 1.25/7)
+- Management of Material Resources (Importance: 1.75/5 | Level: 1.0/7)
+- Operations Monitoring (Importance: 1.62/5 | Level: 0.75/7)
+- Technology Design (Importance: 1.62/5 | Level: 1.0/7)
+- Equipment Selection (Importance: 1.5/5 | Level: 0.62/7)
+- Operation and Control (Importance: 1.12/5 | Level: 0.12/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Bash (Tech skill type: Operating system software)
+- C# (Tech skill type: Object or component oriented development software)
+- C++ (Tech skill type: Object or component oriented development software)
+- Clinical trials database software (Tech skill type: Data base user interface and query software)
+- Data mining software (Tech skill type: Data mining software)
+- Data visualization software (Tech skill type: Analytical or scientific software)
+- Database software (Tech skill type: Data base user interface and query software)
+- Extensible markup language XML (Tech skill type: Enterprise application integration software)
+- Git (Tech skill type: File versioning software)
+- Graphics software (Tech skill type: Graphics or photo imaging software)
+- IBM SPSS Statistics (Tech skill type: Analytical or scientific software)
+- Insightful S-PLUS (Tech skill type: Analytical or scientific software)
+- JavaScript (Tech skill type: Web platform development software)
+- Linux (Tech skill type: Operating system software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft operating system (Tech skill type: Operating system software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft SQL Server (Tech skill type: Data base user interface and query software)
+- Microsoft Visual Studio (Tech skill type: Development environment software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Minitab (Tech skill type: Analytical or scientific software)
+- MySQL (Tech skill type: Data base management system software)
+- Oracle Database (Tech skill type: Data base user interface and query software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- Patient monitoring systems (Tech skill type: Data base user interface and query software)
+- Perl (Tech skill type: Object or component oriented development software)
+- PHP (Tech skill type: Web platform development software)
+- Python (Tech skill type: Object or component oriented development software)
+- R (Tech skill type: Object or component oriented development software)
+- S-Plus software (Tech skill type: Analytical or scientific software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- SAS (Tech skill type: Analytical or scientific software)
+- SAS/STAT (Tech skill type: Analytical or scientific software)
+- Shell script (Tech skill type: Operating system software)
+- Software development tools (Tech skill type: Development environment software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- STAT! Systems QD Clinical (Tech skill type: Medical software)
+- StataCorp Stata (Tech skill type: Analytical or scientific software)
+- STATISTICA (Tech skill type: Analytical or scientific software)
+- Statistical software (Tech skill type: Analytical or scientific software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- The MathWorks MATLAB (Tech skill type: Analytical or scientific software)
+- Tibco S-PLUS (Tech skill type: Analytical or scientific software)
+- UNIX (Tech skill type: Operating system software)
+- Wolfram Research Mathematica (Tech skill type: Analytical or scientific software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Computer data input scanners (Tool type: Scanners)
+- Computer laser printers (Tool type: Laser printers)
+- Desktop computers (Tool type: Desktop computers)
+- Laptop computers (Tool type: Notebook computers)
+- Mainframe computers (Tool type: Mainframe computers)
+- Personal computers (Tool type: Personal computers)
+- Plotters (Tool type: Plotter printers)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Not serious at all
+- Contact With Others: Contact with others about half the time
+- Coordinate or Lead Others in Accomplishing Work Activities: Important
+- Deal With External Customers or the Public in General: Important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Never
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Once a week or more but not every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Once a year or more but not every month
+- Health and Safety of Other Workers: No responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Fairly important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Slightly close (e.g., shared office)
+- Public Speaking: Once a year or more but not every month
+- Spend Time Bending or Twisting Your Body: Never
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Less than half the time
+- Spend Time Sitting: Continually or almost continually
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Never
+- Spend Time Walking or Running: Never
+- Telephone Conversations: Once a week or more but not every day
+- Time Pressure: Once a week or more but not every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Never
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: High responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a month or more but not every week
+
+# INTERESTS (RIASEC)
+- Primary Interest: Investigative
+- Secondary Interest: Conventional
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Data Scientists
+- Statisticians
+- Bioinformatics Scientists
+- Clinical Data Managers
+- Bioinformatics Technicians
+- Statistical Assistants
+- Geneticists
+- Clinical Research Coordinators
+- Social Science Research Assistants
+- Mathematicians
+- Epidemiologists
+- Medical Scientists, Except Epidemiologists
+- Bioengineers and Biomedical Engineers
+- Molecular and Cellular Biologists
+- Health Informatics Specialists
+- Biochemists and Biophysicists
+- Microbiologists
+- Operations Research Analysts
+- Natural Sciences Managers
+- Financial Quantitative Analysts

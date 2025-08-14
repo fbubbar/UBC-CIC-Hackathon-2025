@@ -1,0 +1,242 @@
+Job Title: Petroleum Engineers
+O*NET-SOC Code: 17-2171.00
+
+# DESCRIPTION
+Devise methods to improve oil and gas extraction and production and determine the need for new or modified tool designs. Oversee drilling and offer technical advice.
+
+# TASKS
+- Specify and supervise well modification and stimulation programs to maximize oil and gas recovery.
+- Monitor production rates, and plan rework processes to improve production.
+- Maintain records of drilling and production operations.
+- Analyze data to recommend placement of wells and supplementary processes to enhance production.
+- Assist engineering and other personnel to solve operating problems.
+- Direct and monitor the completion and evaluation of wells, well testing, or well surveys.
+- Develop plans for oil and gas field drilling, and for product recovery and treatment.
+- Assess costs and estimate the production capabilities and economic value of oil and gas wells, to evaluate the economic viability of potential drilling sites.
+- Confer with scientific, engineering, and technical personnel to resolve design, research, and testing problems.
+- Interpret drilling and testing information for personnel.
+- Coordinate activities of workers engaged in research, planning, and development.
+- Write technical reports for engineering and management personnel.
+- Evaluate findings to develop, design, or test equipment or processes.
+- Test machinery and equipment to ensure that it is safe and conforms to performance specifications.
+- Assign work to staff to obtain maximum utilization of personnel.
+- Simulate reservoir performance for different recovery techniques, using computer models.
+- Design and implement environmental controls on oil and gas operations.
+- Supervise the removal of drilling equipment, the removal of any waste, and the safe return of land to structural stability when wells or pockets are exhausted.
+- Inspect oil and gas wells to determine that installations are completed.
+- Coordinate the installation, maintenance, and operation of mining and oil field equipment.
+- Take samples to assess the amount and quality of oil, the depth at which resources lie, and the equipment needed to properly extract them.
+- Design or modify mining and oil field machinery and tools, applying engineering principles.
+- Conduct engineering research experiments to improve or modify mining and oil machinery and operations.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Engineering and Technology (Importance: 4.4/5 | Level: 5.25/7)
+- Mathematics (Importance: 4.12/5 | Level: 5.02/7)
+- Physics (Importance: 3.52/5 | Level: 4.55/7)
+- Computers and Electronics (Importance: 3.51/5 | Level: 4.02/7)
+- Chemistry (Importance: 3.39/5 | Level: 4.41/7)
+- Administration and Management (Importance: 3.35/5 | Level: 4.12/7)
+- Economics and Accounting (Importance: 3.2/5 | Level: 3.48/7)
+- Administrative (Importance: 3.19/5 | Level: 3.76/7)
+- English Language (Importance: 3.15/5 | Level: 3.82/7)
+- Design (Importance: 3.14/5 | Level: 3.72/7)
+- Law and Government (Importance: 3.14/5 | Level: 3.3/7)
+- Mechanical (Importance: 2.81/5 | Level: 3.29/7)
+- Customer and Personal Service (Importance: 2.63/5 | Level: 3.08/7)
+- Public Safety and Security (Importance: 2.37/5 | Level: 2.18/7)
+- Education and Training (Importance: 2.33/5 | Level: 3.13/7)
+- Geography (Importance: 2.22/5 | Level: 3.02/7)
+- Sales and Marketing (Importance: 2.17/5 | Level: 2.33/7)
+- Communications and Media (Importance: 2.17/5 | Level: 1.98/7)
+- Personnel and Human Resources (Importance: 2.13/5 | Level: 2.43/7)
+- Transportation (Importance: 2.03/5 | Level: 2.0/7)
+- Production and Processing (Importance: 2.03/5 | Level: 2.0/7)
+- Telecommunications (Importance: 2.0/5 | Level: 1.54/7)
+- Biology (Importance: 1.79/5 | Level: 1.7/7)
+- Foreign Language (Importance: 1.69/5 | Level: 1.27/7)
+- Building and Construction (Importance: 1.69/5 | Level: 1.14/7)
+- Psychology (Importance: 1.46/5 | Level: 1.12/7)
+- Sociology and Anthropology (Importance: 1.18/5 | Level: 0.36/7)
+- History and Archeology (Importance: 1.13/5 | Level: 0.29/7)
+- Philosophy and Theology (Importance: 1.13/5 | Level: 0.44/7)
+- Medicine and Dentistry (Importance: 1.05/5 | Level: 0.15/7)
+- Food Production (Importance: 1.05/5 | Level: 0.15/7)
+- Therapy and Counseling (Importance: 1.05/5 | Level: 0.15/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.38/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.75/7)
+- Writing (Importance: 3.88/5 | Level: 4.25/7)
+- Complex Problem Solving (Importance: 3.88/5 | Level: 4.12/7)
+- Systems Evaluation (Importance: 3.88/5 | Level: 3.88/7)
+- Systems Analysis (Importance: 3.88/5 | Level: 3.88/7)
+- Speaking (Importance: 3.88/5 | Level: 4.0/7)
+- Active Listening (Importance: 3.88/5 | Level: 4.0/7)
+- Judgment and Decision Making (Importance: 3.88/5 | Level: 3.88/7)
+- Monitoring (Importance: 3.75/5 | Level: 3.88/7)
+- Active Learning (Importance: 3.75/5 | Level: 3.88/7)
+- Social Perceptiveness (Importance: 3.62/5 | Level: 3.62/7)
+- Coordination (Importance: 3.62/5 | Level: 3.75/7)
+- Time Management (Importance: 3.62/5 | Level: 3.75/7)
+- Science (Importance: 3.38/5 | Level: 4.0/7)
+- Mathematics (Importance: 3.25/5 | Level: 4.0/7)
+- Persuasion (Importance: 3.0/5 | Level: 3.12/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 3.0/7)
+- Instructing (Importance: 3.0/5 | Level: 3.0/7)
+- Service Orientation (Importance: 3.0/5 | Level: 3.0/7)
+- Management of Personnel Resources (Importance: 2.88/5 | Level: 3.5/7)
+- Negotiation (Importance: 2.88/5 | Level: 3.38/7)
+- Operations Monitoring (Importance: 2.88/5 | Level: 3.12/7)
+- Management of Material Resources (Importance: 2.75/5 | Level: 2.88/7)
+- Quality Control Analysis (Importance: 2.62/5 | Level: 2.62/7)
+- Management of Financial Resources (Importance: 2.5/5 | Level: 2.5/7)
+- Troubleshooting (Importance: 2.25/5 | Level: 2.0/7)
+- Operations Analysis (Importance: 2.25/5 | Level: 1.75/7)
+- Technology Design (Importance: 2.25/5 | Level: 2.25/7)
+- Operation and Control (Importance: 2.12/5 | Level: 2.0/7)
+- Equipment Selection (Importance: 1.88/5 | Level: 1.0/7)
+- Programming (Importance: 1.88/5 | Level: 1.12/7)
+- Installation (Importance: 1.75/5 | Level: 0.88/7)
+- Equipment Maintenance (Importance: 1.12/5 | Level: 0.25/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- C# (Tech skill type: Object or component oriented development software)
+- C++ (Tech skill type: Object or component oriented development software)
+- Computer Modelling Group CMG STARS (Tech skill type: Analytical or scientific software)
+- Dassault Systemes CATIA (Tech skill type: Computer aided design CAD software)
+- DFA Capital Management GEMS (Tech skill type: Financial analysis software)
+- Eclipse IDE (Tech skill type: Development environment software)
+- Enterprise resource planning ERP software (Tech skill type: Enterprise resource planning ERP software)
+- eProduction Solutions PanSystem (Tech skill type: Analytical or scientific software)
+- Finite element analysis FEA software (Tech skill type: Analytical or scientific software)
+- GeoGraphix ARIES Portfolio (Tech skill type: Financial analysis software)
+- Google Analytics (Tech skill type: Analytical or scientific software)
+- IBM Notes (Tech skill type: Electronic mail software)
+- IHS Petra (Tech skill type: Analytical or scientific software)
+- IHS QUE$TOR (Tech skill type: Financial analysis software)
+- Landmark Graphics TOW/cs (Tech skill type: Data base user interface and query software)
+- Linux (Tech skill type: Operating system software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Visual Studio (Tech skill type: Development environment software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Neotec WELLFLO (Tech skill type: Analytical or scientific software)
+- Oracle Database (Tech skill type: Data base user interface and query software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- Oracle Primavera Systems (Tech skill type: Project management software)
+- Python (Tech skill type: Object or component oriented development software)
+- R (Tech skill type: Object or component oriented development software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- SAS (Tech skill type: Analytical or scientific software)
+- Schlumberger ECLIPSE (Tech skill type: Analytical or scientific software)
+- Schlumberger Petrel E&P (Tech skill type: Analytical or scientific software)
+- Schlumberger PVTi (Tech skill type: Analytical or scientific software)
+- Software development tools (Tech skill type: Development environment software)
+- Structure query language SQL (Tech skill type: Data base user interface and query software)
+- TERRASCIENCES TerraStation (Tech skill type: Analytical or scientific software)
+- The MathWorks MATLAB (Tech skill type: Analytical or scientific software)
+- TIBCO Spotfire (Tech skill type: Business intelligence and data analysis software)
+- TRC Consultants PHDWin (Tech skill type: Analytical or scientific software)
+- Web browser software (Tech skill type: Internet browser software)
+- Well Flow Dynamics Wellflow (Tech skill type: Analytical or scientific software)
+
+## TOOLS USED
+- Computer scanners (Tool type: Scanners)
+- Desktop computers (Tool type: Desktop computers)
+- Laptop computers (Tool type: Notebook computers)
+- Personal computers (Tool type: Personal computers)
+- Personal digital assistants PDA (Tool type: Personal digital assistant PDAs or organizers)
+
+# WORK CONTEXT
+- Conflict Situations: Once a week or more but not every day
+- Consequence of Error: Not serious at all
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Extremely important
+- Deal With External Customers or the Public in General: Very important
+- Dealing With Unpleasant, Angry, or Discourteous People: Never
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Once a year or more but not every month
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Once a year or more but not every month
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Once a year or more but not every month
+- Exposed to Very Hot or Cold Temperatures: Once a year or more but not every month
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Very important
+- Importance of Repeating Same Tasks: Important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Once a month or more but not every week
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Once a month or more but not every week
+- Level of Competition: Highly competitive
+- Outdoors, Exposed to All Weather Conditions: Once a year or more but not every month
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: I work with others but not closely (e.g., private office)
+- Public Speaking: Once a month or more but not every week
+- Spend Time Bending or Twisting Your Body: Never
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Never
+- Spend Time Sitting: More than half the time
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Never
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Once a week or more but not every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Once a month or more but not every week
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Moderate responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a month or more but not every week
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Investigative
+- Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Mining and Geological Engineers, Including Mining Safety Engineers
+- Chemical Engineers
+- Water/Wastewater Engineers
+- Geothermal Production Managers
+- Industrial Engineers
+- Environmental Engineers
+- Mechanical Engineers
+- Electrical Engineers
+- Civil Engineers
+- Manufacturing Engineers
+- Geological Technicians, Except Hydrologic Technicians
+- Petroleum Pump System Operators, Refinery Operators, and Gaugers
+- Wellhead Pumpers
+- Gas Plant Operators
+- Industrial Engineering Technologists and Technicians
+- Service Unit Operators, Oil and Gas
+- Geothermal Technicians
+- Marine Engineers and Naval Architects
+- Mechanical Engineering Technologists and Technicians
+- Power Plant Operators

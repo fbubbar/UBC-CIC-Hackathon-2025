@@ -1,0 +1,207 @@
+Job Title: Pharmacy Aides
+O*NET-SOC Code: 31-9095.00
+
+# DESCRIPTION
+Record drugs delivered to the pharmacy, store incoming merchandise, and inform the supervisor of stock needs. May operate cash register and accept prescriptions for filling.
+
+# TASKS
+- Greet customers and help them locate merchandise.
+- Accept prescriptions for filling, gathering and processing necessary information.
+- Operate cash register to process cash or credit sales.
+- Answer telephone inquiries, referring callers to pharmacist when necessary.
+- Receive, store, and inventory pharmaceutical supplies or medications, check for out-of-date medications, and notify pharmacist when inventory levels are low.
+- Unpack, sort, count, and label incoming merchandise, including items requiring special handling or refrigeration.
+- Restock storage areas, replenishing items on shelves.
+- Maintain and clean equipment, work areas, or shelves.
+- Prepare prescription labels by typing or operating a computer and printer.
+- Compound, package, and label pharmaceutical products, under direction of pharmacist.
+- Process medical insurance claims, posting bill amounts and calculating copayments.
+- Perform clerical tasks, such as filing, compiling and maintaining prescription records, or composing letters.
+- Prepare, maintain, and record records of inventories, receipts, purchases, or deliveries, using a variety of computer screen formats.
+- Deliver medication to treatment areas, living units, residences, or clinics, using various means of transportation.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.77/5 | Level: 4.51/7)
+- English Language (Importance: 3.36/5 | Level: 2.5/7)
+- Administrative (Importance: 3.08/5 | Level: 2.81/7)
+- Sales and Marketing (Importance: 3.03/5 | Level: 2.02/7)
+- Law and Government (Importance: 2.93/5 | Level: 3.06/7)
+- Administration and Management (Importance: 2.89/5 | Level: 2.09/7)
+- Mathematics (Importance: 2.88/5 | Level: 2.24/7)
+- Medicine and Dentistry (Importance: 2.58/5 | Level: 2.46/7)
+- Public Safety and Security (Importance: 2.42/5 | Level: 2.37/7)
+- Computers and Electronics (Importance: 2.33/5 | Level: 2.51/7)
+- Economics and Accounting (Importance: 2.17/5 | Level: 1.22/7)
+- Communications and Media (Importance: 2.15/5 | Level: 1.98/7)
+- Telecommunications (Importance: 2.05/5 | Level: 1.03/7)
+- Education and Training (Importance: 2.0/5 | Level: 2.05/7)
+- Production and Processing (Importance: 1.9/5 | Level: 1.58/7)
+- Mechanical (Importance: 1.77/5 | Level: 1.35/7)
+- Psychology (Importance: 1.74/5 | Level: 1.7/7)
+- Therapy and Counseling (Importance: 1.71/5 | Level: 1.64/7)
+- Chemistry (Importance: 1.64/5 | Level: 1.39/7)
+- Geography (Importance: 1.57/5 | Level: 1.02/7)
+- Personnel and Human Resources (Importance: 1.53/5 | Level: 0.76/7)
+- Philosophy and Theology (Importance: 1.53/5 | Level: 0.93/7)
+- Foreign Language (Importance: 1.42/5 | Level: 0.7/7)
+- Biology (Importance: 1.33/5 | Level: 0.65/7)
+- Transportation (Importance: 1.28/5 | Level: 0.6/7)
+- Sociology and Anthropology (Importance: 1.25/5 | Level: 0.64/7)
+- Physics (Importance: 1.21/5 | Level: 0.44/7)
+- Design (Importance: 1.2/5 | Level: 0.61/7)
+- Building and Construction (Importance: 1.18/5 | Level: 0.52/7)
+- Engineering and Technology (Importance: 1.11/5 | Level: 0.16/7)
+- History and Archeology (Importance: 1.0/5 | Level: 0.0/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Active Listening (Importance: 3.5/5 | Level: 3.0/7)
+- Speaking (Importance: 3.38/5 | Level: 2.88/7)
+- Service Orientation (Importance: 3.38/5 | Level: 3.12/7)
+- Social Perceptiveness (Importance: 3.25/5 | Level: 2.88/7)
+- Reading Comprehension (Importance: 3.25/5 | Level: 3.25/7)
+- Coordination (Importance: 3.0/5 | Level: 2.75/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 2.88/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 2.25/7)
+- Active Learning (Importance: 2.88/5 | Level: 2.5/7)
+- Monitoring (Importance: 2.75/5 | Level: 2.62/7)
+- Writing (Importance: 2.75/5 | Level: 2.5/7)
+- Complex Problem Solving (Importance: 2.75/5 | Level: 2.38/7)
+- Time Management (Importance: 2.62/5 | Level: 2.25/7)
+- Mathematics (Importance: 2.5/5 | Level: 2.38/7)
+- Learning Strategies (Importance: 2.5/5 | Level: 2.25/7)
+- Persuasion (Importance: 2.25/5 | Level: 1.75/7)
+- Systems Analysis (Importance: 2.12/5 | Level: 1.5/7)
+- Instructing (Importance: 2.0/5 | Level: 2.0/7)
+- Quality Control Analysis (Importance: 2.0/5 | Level: 1.75/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.38/7)
+- Management of Personnel Resources (Importance: 1.88/5 | Level: 1.62/7)
+- Negotiation (Importance: 1.88/5 | Level: 1.62/7)
+- Operations Monitoring (Importance: 1.88/5 | Level: 1.62/7)
+- Systems Evaluation (Importance: 1.88/5 | Level: 1.12/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 0.88/7)
+- Troubleshooting (Importance: 1.75/5 | Level: 0.88/7)
+- Operation and Control (Importance: 1.75/5 | Level: 1.0/7)
+- Technology Design (Importance: 1.62/5 | Level: 0.62/7)
+- Equipment Maintenance (Importance: 1.5/5 | Level: 0.5/7)
+- Science (Importance: 1.5/5 | Level: 0.5/7)
+- Programming (Importance: 1.5/5 | Level: 0.5/7)
+- Operations Analysis (Importance: 1.5/5 | Level: 0.5/7)
+- Equipment Selection (Importance: 1.38/5 | Level: 0.38/7)
+- Repairing (Importance: 1.12/5 | Level: 0.12/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Database software (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Automatic unit dose strip packaging machines (Tool type: Filling or sealing auger dose machines)
+- Capsule counting machines (Tool type: Tablet counters)
+- Cash registers (Tool type: Cash registers)
+- Credit card processing machines (Tool type: Magnetic stripe readers and encoders)
+- Desktop computers (Tool type: Desktop computers)
+- HEPA filtered biosafety cabinets (Tool type: HEPA filtered enclosures)
+- Label printing machines (Tool type: Label making machines)
+- Laboratory blending or mixing equipment (Tool type: Laboratory blenders or emulsifiers)
+- Laminar flow hoods (Tool type: Laminar flow cabinets or stations)
+- Laser printers (Tool type: Laser printers)
+- Liquid dose packaging machines (Tool type: Filling or sealing auger dose machines)
+- Multi-line telephone systems (Tool type: Special purpose telephones)
+- Personal computers (Tool type: Personal computers)
+- Solid unit dose packaging machines (Tool type: Filling or sealing auger dose machines)
+- Tablet counting machines (Tool type: Tablet counters)
+
+# WORK CONTEXT
+- Conflict Situations: Once a week or more but not every day
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a week or more but not every day
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Moderately automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Every day
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Never
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Minor results
+- Importance of Being Exact or Accurate: Very important
+- Importance of Repeating Same Tasks: Important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Slightly competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Continually or almost continually
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: Continually or almost continually
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Once a year or more but not every month
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Never
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: High responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Conventional
+- Secondary Interest: Enterprising
+- Tertiary Interest: Realistic
+
+# RELATED OCCUPATIONS
+- Pharmacy Technicians
+- Medical Assistants
+- Opticians, Dispensing
+- Veterinary Assistants and Laboratory Animal Caretakers
+- Medical Secretaries and Administrative Assistants
+- Phlebotomists
+- Stockers and Order Fillers
+- Medical Equipment Preparers
+- Cashiers
+- Receptionists and Information Clerks
+- Pharmacists
+- Nursing Assistants
+- Emergency Medicine Physicians
+- Licensed Practical and Licensed Vocational Nurses
+- Medical Records Specialists
+- Veterinary Technologists and Technicians
+- Emergency Medical Technicians
+- Dental Assistants
+- Paramedics
+- Orderlies

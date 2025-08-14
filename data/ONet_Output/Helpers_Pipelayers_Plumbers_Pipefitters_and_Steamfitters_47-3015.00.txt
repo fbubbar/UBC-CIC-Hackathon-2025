@@ -1,0 +1,443 @@
+Job Title: Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters
+O*NET-SOC Code: 47-3015.00
+
+# DESCRIPTION
+Help plumbers, pipefitters, steamfitters, or pipelayers by performing duties requiring less skill. Duties include using, supplying, or holding materials or tools, and cleaning work area and equipment.
+
+# TASKS
+- Measure, cut, thread and assemble new pipe, placing the assembled pipe in hangers or other supports.
+- Cut or drill holes in walls or floors to accommodate the passage of pipes.
+- Perform rough-ins, repair and replace fixtures and water heaters, and locate, repair, or remove leaking or broken pipes.
+- Assist pipe fitters in the layout, assembly, and installation of piping for air, ammonia, gas, and water systems.
+- Cut pipe and lift up to fitters.
+- Fit or assist in fitting valves, couplings, or assemblies to tanks, pumps, or systems, using hand tools.
+- Requisition tools and equipment, select type and size of pipe, and collect and transport materials and equipment to work site.
+- Mount brackets and hangers on walls and ceilings to hold pipes, and set sleeves or inserts to provide support for pipes.
+- Excavate and grade ditches, and lay and join pipe for water and sewer service.
+- Disassemble and remove damaged or worn pipe.
+- Clean shop, work area, and machines, using solvent and rags.
+- Install gas burners to convert furnaces from wood, coal, or oil.
+- Fill pipes with sand or resin to prevent distortion, and hold pipes during bending and installation.
+- Immerse pipe in chemical solution to remove dirt, oil, and scale.
+- Clean and renew steam traps.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Building and Construction (Importance: 4.46/5 | Level: 4.64/7)
+- Customer and Personal Service (Importance: 3.67/5 | Level: 4.09/7)
+- Mechanical (Importance: 3.64/5 | Level: 4.42/7)
+- Mathematics (Importance: 3.5/5 | Level: 3.5/7)
+- English Language (Importance: 3.28/5 | Level: 2.69/7)
+- Administration and Management (Importance: 3.13/5 | Level: 2.74/7)
+- Design (Importance: 2.92/5 | Level: 3.11/7)
+- Engineering and Technology (Importance: 2.87/5 | Level: 2.59/7)
+- Education and Training (Importance: 2.81/5 | Level: 2.99/7)
+- Public Safety and Security (Importance: 2.81/5 | Level: 2.3/7)
+- Transportation (Importance: 2.72/5 | Level: 2.5/7)
+- Production and Processing (Importance: 2.37/5 | Level: 2.23/7)
+- Administrative (Importance: 2.34/5 | Level: 2.1/7)
+- Law and Government (Importance: 2.33/5 | Level: 1.67/7)
+- Personnel and Human Resources (Importance: 2.19/5 | Level: 1.8/7)
+- Economics and Accounting (Importance: 2.14/5 | Level: 1.2/7)
+- Foreign Language (Importance: 2.11/5 | Level: 1.13/7)
+- Sales and Marketing (Importance: 2.0/5 | Level: 1.77/7)
+- Physics (Importance: 1.92/5 | Level: 1.91/7)
+- Chemistry (Importance: 1.82/5 | Level: 1.48/7)
+- Computers and Electronics (Importance: 1.78/5 | Level: 1.27/7)
+- Telecommunications (Importance: 1.57/5 | Level: 0.52/7)
+- Geography (Importance: 1.56/5 | Level: 0.75/7)
+- Communications and Media (Importance: 1.34/5 | Level: 0.64/7)
+- Biology (Importance: 1.29/5 | Level: 0.3/7)
+- Psychology (Importance: 1.27/5 | Level: 0.4/7)
+- Therapy and Counseling (Importance: 1.15/5 | Level: 0.1/7)
+- History and Archeology (Importance: 1.13/5 | Level: 0.16/7)
+- Medicine and Dentistry (Importance: 1.1/5 | Level: 0.12/7)
+- Sociology and Anthropology (Importance: 1.05/5 | Level: 0.16/7)
+- Philosophy and Theology (Importance: 1.03/5 | Level: 0.06/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+- Food Production (Importance: 1.0/5 | Level: 0.01/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Monitoring (Importance: 2.88/5 | Level: 2.25/7)
+- Critical Thinking (Importance: 2.88/5 | Level: 2.38/7)
+- Judgment and Decision Making (Importance: 2.88/5 | Level: 2.12/7)
+- Active Listening (Importance: 2.88/5 | Level: 2.38/7)
+- Coordination (Importance: 2.75/5 | Level: 3.0/7)
+- Active Learning (Importance: 2.62/5 | Level: 1.88/7)
+- Complex Problem Solving (Importance: 2.62/5 | Level: 2.0/7)
+- Repairing (Importance: 2.62/5 | Level: 2.62/7)
+- Time Management (Importance: 2.5/5 | Level: 2.12/7)
+- Speaking (Importance: 2.5/5 | Level: 2.25/7)
+- Social Perceptiveness (Importance: 2.5/5 | Level: 2.12/7)
+- Troubleshooting (Importance: 2.38/5 | Level: 2.0/7)
+- Service Orientation (Importance: 2.38/5 | Level: 1.75/7)
+- Reading Comprehension (Importance: 2.38/5 | Level: 2.0/7)
+- Operation and Control (Importance: 2.38/5 | Level: 2.0/7)
+- Equipment Selection (Importance: 2.38/5 | Level: 2.0/7)
+- Mathematics (Importance: 2.25/5 | Level: 1.38/7)
+- Operations Monitoring (Importance: 2.25/5 | Level: 1.88/7)
+- Equipment Maintenance (Importance: 2.12/5 | Level: 1.75/7)
+- Quality Control Analysis (Importance: 2.12/5 | Level: 2.0/7)
+- Management of Material Resources (Importance: 2.12/5 | Level: 1.25/7)
+- Negotiation (Importance: 2.0/5 | Level: 1.62/7)
+- Installation (Importance: 2.0/5 | Level: 1.5/7)
+- Instructing (Importance: 2.0/5 | Level: 2.12/7)
+- Learning Strategies (Importance: 2.0/5 | Level: 1.88/7)
+- Writing (Importance: 2.0/5 | Level: 1.5/7)
+- Persuasion (Importance: 2.0/5 | Level: 1.62/7)
+- Systems Analysis (Importance: 1.88/5 | Level: 1.0/7)
+- Management of Personnel Resources (Importance: 1.88/5 | Level: 1.38/7)
+- Systems Evaluation (Importance: 1.75/5 | Level: 0.88/7)
+- Management of Financial Resources (Importance: 1.62/5 | Level: 0.75/7)
+- Technology Design (Importance: 1.62/5 | Level: 0.62/7)
+- Operations Analysis (Importance: 1.25/5 | Level: 0.25/7)
+- Science (Importance: 1.12/5 | Level: 0.12/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Word (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Adjustable wrenches (Tool type: Adjustable wrenches)
+- Air compressors (Tool type: Air compressors)
+- Air hammers (Tool type: Pneumatic hammer)
+- Air operated grinders (Tool type: Pneumatic grinders)
+- Air pressure gauges (Tool type: Pressure indicators)
+- Air wire brushes (Tool type: Wire brushes)
+- Aligning clamps (Tool type: Pipe vises)
+- Allen wrenches (Tool type: Hex keys)
+- Alternating current AC welding equipment (Tool type: Alternating current AC arc welder)
+- Amp meters (Tool type: Voltage or current meters)
+- Angle air grinders (Tool type: Pneumatic grinders)
+- Augers (Tool type: Augers)
+- Automatic levels (Tool type: Levels)
+- Backhoes (Tool type: Backhoes)
+- Ball peen hammers (Tool type: Ball peen hammer)
+- Bandsaws (Tool type: Metal band sawing machine)
+- Basin wrenches (Tool type: Specialty wrenches)
+- Basket strainer wrenches (Tool type: Specialty wrenches)
+- Belting slings (Tool type: Slings)
+- Bench chain vises (Tool type: Bench vises)
+- Bench vises (Tool type: Bench vises)
+- Bevel grinding machines (Tool type: Power grinders)
+- Bibb seat tools (Tool type: Specialty wrenches)
+- Block and tackle equipment (Tool type: Blocks or pulleys)
+- Bolt cutters (Tool type: Bolt cutters)
+- Boring machines (Tool type: Boring or sinking machinery)
+- Box end wrenches (Tool type: Box end wrenches)
+- Brazing equipment (Tool type: Welder torch)
+- Bulldozers (Tool type: Wheel bulldozers)
+- Butane torches (Tool type: Blow torch)
+- Cable plows (Tool type: Trenching machines)
+- Cable saws (Tool type: Wire or cable cutter)
+- Calipers (Tool type: Calipers)
+- Carpenters' levels (Tool type: Levels)
+- Caulking guns (Tool type: Caulking guns)
+- Centering head tools (Tool type: Metal markers or holders)
+- Chain falls (Tool type: Hoists)
+- Chain tongs (Tool type: Tongs)
+- Chain wrenches (Tool type: Specialty wrenches)
+- Channel lock pliers (Tool type: Locking pliers)
+- Circular saws (Tool type: Power saws)
+- Cleanout plug wrenches (Tool type: Specialty wrenches)
+- Compactors (Tool type: Compactors)
+- Compound leverage wrenches (Tool type: Specialty wrenches)
+- Comprehensive water gauges (Tool type: Pressure indicators)
+- Compression sleeve pullers (Tool type: Pullers)
+- Concrete saws (Tool type: Power saws)
+- Cordless drills (Tool type: Power drills)
+- Cordless screwdrivers (Tool type: Power screwguns)
+- Crescent wrenches (Tool type: Open end wrenches)
+- Crowbars (Tool type: Pry bars)
+- Cutoff saws (Tool type: Power saws)
+- Deburring tools (Tool type: Deburring tool)
+- Diagonal cutting pliers (Tool type: Diagonal cut pliers)
+- Die heads for plastic pipe/conduit (Tool type: Threading die hand tool)
+- Die heads for threading machines (Tool type: Industrial threading die)
+- Direct current DC arc welder (Tool type: Direct current DC arc welder)
+- Direct tap machines (Tool type: Power drills)
+- Ditch pumps (Tool type: Water pumps)
+- Drain cleaning cables (Tool type: Drain or pipe cleaning equipment)
+- Drain cleaning machines (Tool type: Drain or pipe cleaning equipment)
+- Dredges (Tool type: Dredgers)
+- Drill presses (Tool type: Drill press or radial drill)
+- Dump trucks (Tool type: Dump trucks)
+- Dumpy levels (Tool type: Levels)
+- End pipe wrenches (Tool type: Pipe wrenches)
+- Excavators (Tool type: Track excavators)
+- Expanding-jaw pliers (Tool type: Adjustable widemouth pliers)
+- Explosimeters (Tool type: Explosimeters)
+- Facing machines (Tool type: Tube end finisher)
+- Faucet handle pullers (Tool type: Pullers)
+- Faucet stem and cartridge pullers (Tool type: Pullers)
+- Fill pumps (Tool type: Water pumps)
+- Flaring tools (Tool type: Power flaring tool)
+- Flat files (Tool type: Flat hand file)
+- Flow gauges (Tool type: Flow sensors)
+- Forklifts (Tool type: Forklifts)
+- Four-in-one keys (Tool type: Torx keys)
+- Gas leak detection devices (Tool type: Gas detectors)
+- Gasket cutters (Tool type: Hose cutter)
+- Generators (Tool type: Gas generators)
+- Graders (Tool type: Graders)
+- Hacksaws (Tool type: Hacksaw)
+- Hand spinners (Tool type: Drain or pipe cleaning equipment)
+- Hand tachometers (Tool type: Tachometers)
+- Heavy duty water pressure gauges (Tool type: Pressure indicators)
+- Hex wrenches (Tool type: Hex keys)
+- Hole cutting tools (Tool type: Hole saws)
+- Hollow core socket wrenches (Tool type: Offset socket wrenches)
+- Horizontal boring machines (Tool type: Boring or sinking machinery)
+- Hydraulic cranes (Tool type: Hydraulic truck cranes)
+- Hydraulic valve turners (Tool type: Impact wrenches)
+- Hydrostatic testers (Tool type: Pressure indicators)
+- Impact hammers (Tool type: Impact hammers)
+- Impact screwdrivers (Tool type: Screwdrivers)
+- Impact wrenches (Tool type: Impact wrenches)
+- Internal wrenches (Tool type: Specialty wrenches)
+- Ladders (Tool type: Ladders)
+- Laser levels (Tool type: Levels)
+- Lathes (Tool type: Tracer or duplicating or contouring lathe)
+- Light pickup trucks (Tool type: Light trucks or sport utility vehicles)
+- Line locators (Tool type: Detection apparatus for non metallic objects)
+- Magnetic circle layout tools (Tool type: Metal markers or holders)
+- Magnetic locators (Tool type: Metal detectors)
+- Manlifts (Tool type: Manlift or personnel lift)
+- Manual benders (Tool type: Pipe bending tools)
+- Manual screw jacks (Tool type: Jacks)
+- Maximum reading water pressure gauges (Tool type: Pressure indicators)
+- Measuring tapes (Tool type: Tape measures)
+- Metal inert gas MIG welders (Tool type: Metal inert gas welding machine)
+- Mini hacksaws (Tool type: Hacksaw)
+- Mini tubing cutters (Tool type: Pipe or tube cutter)
+- Moisture meters (Tool type: Moisture meters)
+- Monkey wrench sets (Tool type: Specialty wrenches)
+- Motor-driven brushes (Tool type: Wire brushes)
+- Motor-driven grinders (Tool type: Power grinders)
+- Mud pumps (Tool type: Mud pumps)
+- Narrow mouth shovels (Tool type: Shovels)
+- Non-contact infrared thermometers (Tool type: Thermographs)
+- Null locators (Tool type: Metal detectors)
+- Offset grinders (Tool type: Power grinders)
+- Offset pipe wrenches (Tool type: Pipe wrenches)
+- Ohmmeters (Tool type: Ohmmeters)
+- Oilers (Tool type: Oil gun)
+- One stop wrenches (Tool type: Specialty wrenches)
+- Optical levels (Tool type: Levels)
+- Pedestal grinders (Tool type: Power grinders)
+- Pedestal sink wrenches (Tool type: Specialty wrenches)
+- Phillips head screwdrivers (Tool type: Screwdrivers)
+- Pigs (Tool type: Drain or pipe cleaning equipment)
+- Pipe benders (Tool type: Pipe bending tools)
+- Pipe bending mandrels (Tool type: Pipe bending mandrel)
+- Pipe beveling machines (Tool type: Pneumatic grinders)
+- Pipe cutters (Tool type: Pipe or tube cutter)
+- Pipe cutting machines (Tool type: Pipe or tube cutter)
+- Pipe extractors (Tool type: Pipe extractors)
+- Pipe flange aligners (Tool type: Levels)
+- Pipe freezing kits (Tool type: Fluid regulators)
+- Pipe lasers (Tool type: Laser measuring systems)
+- Pipe threaders (Tool type: Threading die hand tool)
+- Pipe threading machines (Tool type: Threading machine)
+- Pipe wrenches (Tool type: Pipe wrenches)
+- Pipelayers (Tool type: Pipe layer)
+- Pipeline jacks (Tool type: Jacks)
+- Plasma cutting guides (Tool type: Gas welding or brazing or cutting apparatus)
+- Plastic nut basin wrenches (Tool type: Specialty wrenches)
+- Plumbers' pliers (Tool type: Specialty wrenches)
+- Plumbers' snakes (Tool type: Drain or pipe cleaning equipment)
+- Plungers (Tool type: Drain or toilet plunger)
+- Pneumatic drills (Tool type: Pneumatic drill)
+- Pneumatic wire brushes (Tool type: Wire brushes)
+- Polyvinyl chloride PVC cutters (Tool type: Pipe or tube cutter)
+- Polyvinyl chloride PVC saws (Tool type: Pipe or tube cutter)
+- Pop-up plug wrenches (Tool type: Specialty wrenches)
+- Portable grinders (Tool type: Power grinders)
+- Portable welding machines (Tool type: Spot welding machine)
+- Power drills (Tool type: Power drills)
+- Power spinners (Tool type: Drain or pipe cleaning equipment)
+- Powered tampers (Tool type: Tampers)
+- Pressurized water pigs (Tool type: Drain or pipe cleaning equipment)
+- Propane torches (Tool type: Blow torch)
+- Pry bars (Tool type: Pry bars)
+- Pulleys (Tool type: Blocks or pulleys)
+- Radius markers (Tool type: Metal markers or holders)
+- Rapwrenches (Tool type: Specialty wrenches)
+- Rat-tail files (Tool type: Round file)
+- Ratchet wrenches (Tool type: Ratchets)
+- Ratcheting box wrenches (Tool type: Box end wrenches)
+- Reamers (Tool type: Hand reamer)
+- Rebar locators (Tool type: Metal detectors)
+- Reciprocating pipe saws (Tool type: Power saws)
+- Reciprocating saws (Tool type: Power saws)
+- Right-angle drills (Tool type: Power drills)
+- Rodders (Tool type: Pressure or steam cleaners)
+- Roll groovers (Tool type: Sheet metal grooving machine)
+- Root ranger jetter nozzles (Tool type: Pressure or steam cleaners)
+- Rotary hammers (Tool type: Hammer drills)
+- Round point shovels (Tool type: Shovels)
+- Rubber strap wrenches (Tool type: Strap wrenches)
+- Safety harnesses (Tool type: Safety harnesses or belts)
+- Sand pumps (Tool type: Mud pumps)
+- Sandblasters (Tool type: Pneumatic sanding machines)
+- Scaffolding (Tool type: Scaffolding)
+- Seat dressers (Tool type: Power grinders)
+- Seat wrenches (Tool type: Specialty wrenches)
+- Sewage pumps (Tool type: Sewage pumps)
+- Sewer tapes (Tool type: Drain or pipe cleaning equipment)
+- Shielded arc welding tools (Tool type: Shielded metal arc welding or stick welding machine)
+- Shower valve socket wrenches (Tool type: Specialty wrenches)
+- Shut-off keys (Tool type: Torx keys)
+- Six-step faucet seat wrenches (Tool type: Specialty wrenches)
+- Sledgehammers (Tool type: Sledge hammer)
+- Slip joint pliers (Tool type: Slip or groove joint pliers)
+- Snakes (Tool type: Drain or pipe cleaning equipment)
+- Soil pipe cutters (Tool type: Pipe or tube cutter)
+- Soldering equipment (Tool type: Soldering iron)
+- Soldering irons (Tool type: Soldering iron)
+- Spiral ratchet pipe reamers (Tool type: Pipe reamer)
+- Split bubble levels (Tool type: Levels)
+- Spud wrenches (Tool type: Specialty wrenches)
+- Staple guns (Tool type: Staple guns)
+- Stationary grinders (Tool type: Power grinders)
+- Stillson wrenches (Tool type: Specialty wrenches)
+- Straight pipe wrenches (Tool type: Pipe wrenches)
+- Straight-fluted pipe reamers (Tool type: Pipe reamer)
+- Strap wrenches (Tool type: Strap wrenches)
+- Sump pumps (Tool type: Sump pumps)
+- Swaging tools (Tool type: Swaging tools)
+- Tapping tools (Tool type: Tapping machine attachment)
+- Telescopic inspection mirrors (Tool type: Inspection mirror)
+- Telescoping basin wrenches (Tool type: Specialty wrenches)
+- Test pumps (Tool type: Diaphragm pumps)
+- Thread repair files (Tool type: Square file)
+- Tin snips (Tool type: Tinners snips)
+- Tirfors (Tool type: Hoists)
+- Torch cutter guides (Tool type: Gas welding or brazing or cutting apparatus)
+- Torches (Tool type: Blow torch)
+- Track loaders (Tool type: Track loaders)
+- Tractor pipe carrier attachments (Tool type: Integrated tool carriers)
+- Tractors with backhoe attachments (Tool type: Backhoes)
+- Tractors with loader attachments (Tool type: Track loaders)
+- Transit levels (Tool type: Level sensors or transmitters)
+- Transmitters (Tool type: Detection apparatus for non metallic objects)
+- Trenchers (Tool type: Trenching machines)
+- Trutest smoke detectors (Tool type: Leak testing equipment)
+- Tub drain removers (Tool type: Pullers)
+- Tube bending springs (Tool type: Pipe bending tools)
+- Tube crimping tools (Tool type: Tube end finisher)
+- Tubing cutters (Tool type: Pipe or tube cutter)
+- Tuggers (Tool type: Hoists)
+- Tungsten inert gas TIG welding equipment (Tool type: Tungsten inert gas welding machine)
+- Two way radios (Tool type: Two way radios)
+- Two-hole pins (Tool type: Levels)
+- Ultrasonic leak detectors (Tool type: Liquid leak detectors)
+- Universal nut wrenches (Tool type: Nut drivers)
+- Utility pumps (Tool type: Dewatering pumps)
+- Vacuum gauges (Tool type: Vacuum gauges)
+- Vacuum plungers (Tool type: Drain or toilet plunger)
+- Vertical bandsaws (Tool type: Bandsaw wheel)
+- Vibration analyzers (Tool type: Vibration testers)
+- Video diagnostic tools (Tool type: Digital camcorders or video cameras)
+- Voltmeters (Tool type: Voltage or current meters)
+- Water heater element removal wrenches (Tool type: Specialty wrenches)
+- Water jetters (Tool type: Pressure or steam cleaners)
+- Water meter keys (Tool type: Torx keys)
+- Water pressure gauges (Tool type: Pressure indicators)
+- Water pump pliers (Tool type: Adjustable widemouth pliers)
+- Water samplers (Tool type: Water samplers)
+- Water stoppers (Tool type: Fluid regulators)
+- Welding clamps (Tool type: Pipe vises)
+- Welding hoods (Tool type: Welding masks)
+- Wheel loaders (Tool type: Wheel loaders)
+- Wide roll pipe cutters (Tool type: Pipe or tube cutter)
+- Winches (Tool type: Winches)
+- Wire brushes (Tool type: Wire brushes)
+- Wire tracers (Tool type: Circuit tracers)
+
+# WORK CONTEXT
+- Conflict Situations: Once a month or more but not every week
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Fairly important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a month or more but not every week
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: No freedom
+- E-Mail: Never
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Every day
+- Exposed to Disease or Infections: Once a month or more but not every week
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Once a year or more but not every month
+- Exposed to Hazardous Equipment: Once a week or more but not every day
+- Exposed to High Places: Once a month or more but not every week
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Once a week or more but not every day
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Once a week or more but not every day
+- Exposed to Whole Body Vibration: Once a month or more but not every week
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: No responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Important
+- Importance of Repeating Same Tasks: Not important at all
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Every day
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Once a week or more but not every day
+- Indoors, Not Environmentally Controlled: Once a week or more but not every day
+- Level of Competition: Highly competitive
+- Outdoors, Exposed to All Weather Conditions: Every day
+- Outdoors, Under Cover: Once a week or more but not every day
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Continually or almost continually
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Less than half the time
+- Spend Time Keeping or Regaining Balance: Less than half the time
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: More than half the time
+- Spend Time Making Repetitive Motions: Continually or almost continually
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: More than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: About half the time
+- Telephone Conversations: Every day
+- Time Pressure: Once a week or more but not every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Moderate responsibility
+- Work With or Contribute to a Work Group or Team: Important
+- Written Letters and Memos: Never
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Plumbers, Pipefitters, and Steamfitters
+- Helpers--Installation, Maintenance, and Repair Workers
+- Helpers--Carpenters
+- Helpers--Electricians
+- Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons
+- Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters
+- Pipelayers
+- Boilermakers
+- Helpers--Extraction Workers
+- Septic Tank Servicers and Sewer Pipe Cleaners
+- Helpers--Roofers
+- Insulation Workers, Floor, Ceiling, and Wall
+- Maintenance and Repair Workers, General
+- Carpenters
+- Sheet Metal Workers
+- Electricians
+- Helpers--Production Workers
+- Structural Iron and Steel Workers
+- Insulation Workers, Mechanical
+- Structural Metal Fabricators and Fitters

@@ -1,0 +1,231 @@
+Job Title: Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+O*NET-SOC Code: 51-4032.00
+
+# DESCRIPTION
+Set up, operate, or tend drilling machines to drill, bore, ream, mill, or countersink metal or plastic work pieces.
+
+# TASKS
+- Verify conformance of machined work to specifications, using measuring instruments, such as calipers, micrometers, or fixed or telescoping gauges.
+- Study machining instructions, job orders, or blueprints to determine dimensional or finish specifications, sequences of operations, setups, or tooling requirements.
+- Move machine controls to lower tools to workpieces and to engage automatic feeds.
+- Verify that workpiece reference lines are parallel to the axis of table rotation, using dial indicators mounted in spindles.
+- Establish zero reference points on workpieces, such as at the intersections of two edges or over hole locations.
+- Change worn cutting tools, using wrenches.
+- Select and set cutting speeds, feed rates, depths of cuts, and cutting tools, according to machining instructions or knowledge of metal properties.
+- Position and secure workpieces on tables, using bolts, jigs, clamps, shims, or other holding devices.
+- Observe drilling or boring machine operations to detect any problems.
+- Lift workpieces onto work tables either manually or with hoists or direct crane operators to lift and position workpieces.
+- Turn valves and direct flow of coolants or cutting oil over cutting areas.
+- Install tools in spindles.
+- Perform minor assembly, such as fastening parts with nuts, bolts, or screws, using power tools or hand tools.
+- Operate single- or multiple-spindle drill presses to bore holes so that machining operations can be performed on metal or plastic workpieces.
+- Lay out reference lines and machining locations on work, using layout tools, and applying knowledge of shop math and layout techniques.
+- Sharpen cutting tools, using bench grinders.
+- Operate tracing attachments to duplicate contours from templates or models.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mathematics (Importance: 4.4/5 | Level: 4.84/7)
+- Production and Processing (Importance: 4.38/5 | Level: 4.32/7)
+- Mechanical (Importance: 4.32/5 | Level: 5.56/7)
+- English Language (Importance: 4.0/5 | Level: 3.8/7)
+- Engineering and Technology (Importance: 3.52/5 | Level: 4.09/7)
+- Education and Training (Importance: 3.32/5 | Level: 3.7/7)
+- Design (Importance: 3.25/5 | Level: 3.75/7)
+- Administration and Management (Importance: 3.01/5 | Level: 3.03/7)
+- Computers and Electronics (Importance: 2.96/5 | Level: 3.49/7)
+- Customer and Personal Service (Importance: 2.8/5 | Level: 2.49/7)
+- Physics (Importance: 2.75/5 | Level: 2.96/7)
+- Public Safety and Security (Importance: 2.61/5 | Level: 2.17/7)
+- Building and Construction (Importance: 2.49/5 | Level: 2.36/7)
+- Transportation (Importance: 2.14/5 | Level: 1.58/7)
+- Chemistry (Importance: 2.09/5 | Level: 2.42/7)
+- Administrative (Importance: 2.01/5 | Level: 2.3/7)
+- Personnel and Human Resources (Importance: 1.93/5 | Level: 1.49/7)
+- Law and Government (Importance: 1.68/5 | Level: 1.1/7)
+- Communications and Media (Importance: 1.68/5 | Level: 1.13/7)
+- Psychology (Importance: 1.68/5 | Level: 0.96/7)
+- Sales and Marketing (Importance: 1.65/5 | Level: 0.99/7)
+- Telecommunications (Importance: 1.58/5 | Level: 0.6/7)
+- Economics and Accounting (Importance: 1.5/5 | Level: 0.7/7)
+- Philosophy and Theology (Importance: 1.49/5 | Level: 0.65/7)
+- Therapy and Counseling (Importance: 1.38/5 | Level: 0.64/7)
+- Biology (Importance: 1.31/5 | Level: 0.59/7)
+- Foreign Language (Importance: 1.27/5 | Level: 0.35/7)
+- Medicine and Dentistry (Importance: 1.26/5 | Level: 0.35/7)
+- History and Archeology (Importance: 1.25/5 | Level: 0.42/7)
+- Geography (Importance: 1.23/5 | Level: 0.36/7)
+- Sociology and Anthropology (Importance: 1.19/5 | Level: 0.48/7)
+- Fine Arts (Importance: 1.02/5 | Level: 0.03/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operations Monitoring (Importance: 3.62/5 | Level: 3.75/7)
+- Operation and Control (Importance: 3.12/5 | Level: 3.12/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.12/7)
+- Reading Comprehension (Importance: 3.12/5 | Level: 3.0/7)
+- Complex Problem Solving (Importance: 3.0/5 | Level: 2.62/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 2.25/7)
+- Speaking (Importance: 3.0/5 | Level: 3.0/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 2.88/7)
+- Active Listening (Importance: 3.0/5 | Level: 3.0/7)
+- Quality Control Analysis (Importance: 2.88/5 | Level: 2.88/7)
+- Troubleshooting (Importance: 2.75/5 | Level: 2.88/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 2.12/7)
+- Active Learning (Importance: 2.75/5 | Level: 2.12/7)
+- Equipment Maintenance (Importance: 2.75/5 | Level: 2.5/7)
+- Repairing (Importance: 2.62/5 | Level: 2.25/7)
+- Equipment Selection (Importance: 2.62/5 | Level: 2.12/7)
+- Mathematics (Importance: 2.5/5 | Level: 2.62/7)
+- Writing (Importance: 2.25/5 | Level: 2.75/7)
+- Instructing (Importance: 2.25/5 | Level: 2.25/7)
+- Systems Analysis (Importance: 2.12/5 | Level: 2.25/7)
+- Persuasion (Importance: 2.12/5 | Level: 2.0/7)
+- Coordination (Importance: 2.12/5 | Level: 2.12/7)
+- Learning Strategies (Importance: 2.12/5 | Level: 2.12/7)
+- Negotiation (Importance: 2.0/5 | Level: 2.0/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 1.88/7)
+- Service Orientation (Importance: 2.0/5 | Level: 1.88/7)
+- Management of Personnel Resources (Importance: 2.0/5 | Level: 2.12/7)
+- Installation (Importance: 1.88/5 | Level: 1.62/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 0.88/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.0/7)
+- Science (Importance: 1.75/5 | Level: 1.12/7)
+- Operations Analysis (Importance: 1.75/5 | Level: 1.38/7)
+- Management of Financial Resources (Importance: 1.62/5 | Level: 0.62/7)
+- Programming (Importance: 1.25/5 | Level: 0.5/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Automated inventory software (Tech skill type: Inventory management software)
+- Computerized numerical control CNC software (Tech skill type: Industrial control software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Word (Tech skill type: Word processing software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+
+## TOOLS USED
+- Adjustable hand wrenches (Tool type: Adjustable wrenches)
+- Adjustable jigs (Tool type: Positioning jig)
+- Ball peen hammers (Tool type: Ball peen hammer)
+- Bench grinders (Tool type: Power grinders)
+- Boring tools (Tool type: Boring machines)
+- Computer terminals (Tool type: Mainframe console or dumb terminals)
+- Computerized numerical control CNC boring machines (Tool type: Boring machines)
+- Computerized numerical control CNC drill presses (Tool type: Drill press or radial drill)
+- Deburring tools (Tool type: Deburring tool)
+- Dial calipers (Tool type: Calipers)
+- Digital micrometers (Tool type: Micrometers)
+- Drill presses (Tool type: Drill press or radial drill)
+- Gauge blocks (Tool type: Gage block set)
+- Go/no-go gauges (Tool type: Go or no go gauge)
+- Height gauges (Tool type: Height gauges)
+- Hoisting equipment (Tool type: Hoists)
+- Holding clamps (Tool type: Hold down clamps)
+- Horizontal boring mills (Tool type: Horizontal boring machine)
+- Inspection loupes (Tool type: Loupes)
+- Jig boring machines (Tool type: Boring machines)
+- Lathes (Tool type: Tracer or duplicating or contouring lathe)
+- Layout scales (Tool type: Scales)
+- Metal scribers (Tool type: Scribers)
+- Multiple spindle drill presses (Tool type: Drill press or radial drill)
+- Personal computers (Tool type: Personal computers)
+- Precision files (Tool type: Precision file)
+- Precision gauges (Tool type: Gage block set)
+- Prick punches (Tool type: Punches or nail sets or drifts)
+- Protective ear muffs (Tool type: Acoustic ear muffs or defenders)
+- Radial drill presses (Tool type: Drill press or radial drill)
+- Safety glasses (Tool type: Safety glasses)
+- Shims (Tool type: Double ended stud)
+- Single spindle drill presses (Tool type: Drill press or radial drill)
+- Steel rules (Tool type: Rulers)
+- Surface gauges (Tool type: Surface gauge)
+- Tapping machines (Tool type: Tapping machine)
+- Telescoping gauges (Tool type: Telescoping gauge)
+- Utility knives (Tool type: Utility knives)
+- Workshop bench vises (Tool type: Bench vises)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Important
+- Deal With External Customers or the Public in General: Not important at all
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a month or more but not every week
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Moderately automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Never
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Every day
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: High responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Extremely important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Slightly competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Extremely important
+- Physical Proximity: Slightly close (e.g., shared office)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Continually or almost continually
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: More than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Never
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Moderate responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Never
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic
+- Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+- Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic
+- Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Tool Grinders, Filers, and Sharpeners
+- Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Tool and Die Makers
+- Grinding and Polishing Workers, Hand
+- Computer Numerically Controlled Tool Operators
+- Rolling Machine Setters, Operators, and Tenders, Metal and Plastic
+- Cutting and Slicing Machine Setters, Operators, and Tenders
+- Machinists
+- Sawing Machine Setters, Operators, and Tenders, Wood
+- Forging Machine Setters, Operators, and Tenders, Metal and Plastic
+- Industrial Machinery Mechanics
+- Earth Drillers, Except Oil and Gas
+- Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders
+- Layout Workers, Metal and Plastic
+- Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic

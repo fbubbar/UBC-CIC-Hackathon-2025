@@ -1,0 +1,249 @@
+Job Title: Nanotechnology Engineering Technologists and Technicians
+O*NET-SOC Code: 17-3026.01
+
+# DESCRIPTION
+Implement production processes and operate commercial-scale production equipment to produce, test, or modify materials, devices, or systems of unique molecular or macromolecular composition. Operate advanced microscopy equipment to manipulate nanoscale objects. Work under the supervision of nanoengineering staff.
+
+# TASKS
+- Operate nanotechnology compounding, testing, processing, or production equipment in accordance with appropriate standard operating procedures, good manufacturing practices, hazardous material restrictions, or health and safety requirements.
+- Maintain work area according to cleanroom or other processing standards.
+- Produce images or measurements, using tools or techniques such as atomic force microscopy, scanning electron microscopy, optical microscopy, particle size analysis, or zeta potential analysis.
+- Collaborate with scientists or engineers to design or conduct experiments for the development of nanotechnology materials, components, devices, or systems.
+- Repair nanotechnology processing or testing equipment or submit work orders for equipment repair.
+- Measure or mix chemicals or compounds in accordance with detailed instructions or formulas.
+- Monitor equipment during operation to ensure adherence to specifications for characteristics such as pressure, temperature, or flow.
+- Collect or compile nanotechnology research or engineering data.
+- Calibrate nanotechnology equipment, such as weighing, testing, or production equipment.
+- Monitor hazardous waste cleanup procedures to ensure proper application of nanocomposites or accomplishment of objectives.
+- Contribute written material or data for grant or patent applications.
+- Inspect or measure thin films of carbon nanotubes, polymers, or inorganic coatings, using a variety of techniques or analytical tools.
+- Compare the performance or environmental impact of nanomaterials by nanoparticle size, shape, or organization.
+- Develop or modify wet chemical or industrial laboratory experimental techniques for nanoscale use.
+- Process nanoparticles or nanostructures, using technologies such as ultraviolet radiation, microwave energy, or catalysis.
+- Implement new or enhanced methods or processes for the processing, testing, or manufacture of nanotechnology materials or products.
+- Prepare detailed verbal or written presentations for scientists, engineers, project managers, or upper management.
+- Perform functional tests of nano-enhanced assemblies, components, or systems, using equipment such as torque gauges or conductivity meters.
+- Maintain accurate record or batch-record documentation of nanoproduction.
+- Assemble components, using techniques such as interference fitting, solvent bonding, adhesive bonding, heat sealing, or ultrasonic welding.
+- Prepare capability data, training materials, or other documentation for transfer of processes to production.
+- Analyze the life cycle of nanomaterials or nano-enabled products to determine environmental impact.
+- Measure emission of nanodust or nanoparticles during nanocomposite or other nano-scale production processes, using systems such as aerosol detection systems.
+- Assist nanoscientists or engineers in processing or characterizing materials according to physical or chemical properties.
+- Assist nanoscientists or engineers in writing process specifications or documentation.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Engineering and Technology (Importance: 4.27/5 | Level: 4.97/7)
+- Chemistry (Importance: 4.13/5 | Level: 5.24/7)
+- Physics (Importance: 3.71/5 | Level: 4.6/7)
+- Computers and Electronics (Importance: 3.69/5 | Level: 4.74/7)
+- Mathematics (Importance: 3.56/5 | Level: 4.54/7)
+- English Language (Importance: 3.52/5 | Level: 3.84/7)
+- Mechanical (Importance: 3.34/5 | Level: 4.36/7)
+- Production and Processing (Importance: 3.19/5 | Level: 3.44/7)
+- Design (Importance: 2.92/5 | Level: 3.72/7)
+- Customer and Personal Service (Importance: 2.53/5 | Level: 2.54/7)
+- Education and Training (Importance: 2.52/5 | Level: 3.21/7)
+- Public Safety and Security (Importance: 2.26/5 | Level: 2.31/7)
+- Administrative (Importance: 2.26/5 | Level: 2.42/7)
+- Biology (Importance: 2.19/5 | Level: 2.42/7)
+- Administration and Management (Importance: 2.18/5 | Level: 2.5/7)
+- Communications and Media (Importance: 1.84/5 | Level: 1.78/7)
+- Telecommunications (Importance: 1.71/5 | Level: 1.21/7)
+- Building and Construction (Importance: 1.66/5 | Level: 1.23/7)
+- Economics and Accounting (Importance: 1.65/5 | Level: 1.2/7)
+- Law and Government (Importance: 1.62/5 | Level: 1.39/7)
+- Medicine and Dentistry (Importance: 1.61/5 | Level: 1.07/7)
+- Personnel and Human Resources (Importance: 1.6/5 | Level: 1.37/7)
+- Sales and Marketing (Importance: 1.57/5 | Level: 1.47/7)
+- Transportation (Importance: 1.3/5 | Level: 0.6/7)
+- Psychology (Importance: 1.27/5 | Level: 0.62/7)
+- Foreign Language (Importance: 1.24/5 | Level: 0.44/7)
+- Therapy and Counseling (Importance: 1.21/5 | Level: 0.41/7)
+- Geography (Importance: 1.16/5 | Level: 0.54/7)
+- Sociology and Anthropology (Importance: 1.15/5 | Level: 0.31/7)
+- Philosophy and Theology (Importance: 1.11/5 | Level: 0.28/7)
+- History and Archeology (Importance: 1.11/5 | Level: 0.26/7)
+- Food Production (Importance: 1.02/5 | Level: 0.09/7)
+- Fine Arts (Importance: 1.02/5 | Level: 0.06/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Reading Comprehension (Importance: 3.62/5 | Level: 3.88/7)
+- Active Learning (Importance: 3.5/5 | Level: 3.62/7)
+- Active Listening (Importance: 3.5/5 | Level: 3.75/7)
+- Monitoring (Importance: 3.38/5 | Level: 3.25/7)
+- Writing (Importance: 3.38/5 | Level: 3.75/7)
+- Critical Thinking (Importance: 3.38/5 | Level: 3.75/7)
+- Speaking (Importance: 3.25/5 | Level: 3.5/7)
+- Judgment and Decision Making (Importance: 3.25/5 | Level: 3.12/7)
+- Operations Monitoring (Importance: 3.25/5 | Level: 3.12/7)
+- Complex Problem Solving (Importance: 3.25/5 | Level: 3.38/7)
+- Mathematics (Importance: 3.12/5 | Level: 3.25/7)
+- Coordination (Importance: 3.12/5 | Level: 3.25/7)
+- Time Management (Importance: 3.12/5 | Level: 3.25/7)
+- Quality Control Analysis (Importance: 3.0/5 | Level: 3.0/7)
+- Instructing (Importance: 3.0/5 | Level: 3.12/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 2.62/7)
+- Service Orientation (Importance: 3.0/5 | Level: 2.88/7)
+- Operation and Control (Importance: 3.0/5 | Level: 2.75/7)
+- Learning Strategies (Importance: 2.88/5 | Level: 3.12/7)
+- Systems Evaluation (Importance: 2.88/5 | Level: 3.38/7)
+- Systems Analysis (Importance: 2.88/5 | Level: 3.25/7)
+- Science (Importance: 2.75/5 | Level: 2.38/7)
+- Persuasion (Importance: 2.62/5 | Level: 2.5/7)
+- Negotiation (Importance: 2.62/5 | Level: 2.62/7)
+- Operations Analysis (Importance: 2.5/5 | Level: 2.12/7)
+- Management of Personnel Resources (Importance: 2.5/5 | Level: 2.75/7)
+- Equipment Maintenance (Importance: 2.5/5 | Level: 2.12/7)
+- Troubleshooting (Importance: 2.38/5 | Level: 2.38/7)
+- Repairing (Importance: 2.25/5 | Level: 2.0/7)
+- Management of Material Resources (Importance: 2.25/5 | Level: 2.0/7)
+- Equipment Selection (Importance: 2.12/5 | Level: 1.88/7)
+- Technology Design (Importance: 2.12/5 | Level: 1.62/7)
+- Programming (Importance: 2.0/5 | Level: 1.38/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.62/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Computer aided design CAD software (Tech skill type: Computer aided design CAD software)
+- Image analysis software (Tech skill type: Analytical or scientific software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Optical imaging systems (Tech skill type: Graphics or photo imaging software)
+- Simulation software (Tech skill type: Analytical or scientific software)
+- SPMLab (Tech skill type: Analytical or scientific software)
+
+## TOOLS USED
+- Atomic force microscopes AFM (Tool type: Scanning probe microscopes)
+- Atomic layer deposition ALD systems (Tool type: Semiconductor process systems)
+- Auger electron microscopes (Tool type: Electron microscopes)
+- Bake ovens (Tool type: Laboratory mechanical convection ovens)
+- Bourdon tube gauges (Tool type: Pressure indicators)
+- Capacitance manometers (Tool type: Manometers)
+- Capacitively coupled plasma CCP reactors (Tool type: Semiconductor process systems)
+- Chemical aprons (Tool type: Protective aprons)
+- Chemical baths (Tool type: Thermostatic baths)
+- Chemical mechanical polishing CMP systems (Tool type: Tumblers or polishers)
+- Chemical protective aprons (Tool type: Protective aprons)
+- Contact aligners (Tool type: Semiconductor process systems)
+- Contact printers (Tool type: Semiconductor process systems)
+- Cryogenic gloves (Tool type: Protective gloves)
+- Deionization water systems (Tool type: Ion exchange equipment)
+- Desktop computers (Tool type: Desktop computers)
+- Dielectric deposition tools (Tool type: Semiconductor process systems)
+- Digital pattern generators (Tool type: Signal generators)
+- Electron beam evaporators (Tool type: Semiconductor process systems)
+- Electron beam writers (Tool type: Semiconductor process systems)
+- Ellipsometers (Tool type: Thickness measuring devices)
+- Energy dispersive x-ray EDX spectroscopes (Tool type: Spectrometers)
+- Extreme ultraviolet EUV systems (Tool type: Semiconductor process systems)
+- Eyewash stations (Tool type: Eyewashers or eye wash stations)
+- Face shields (Tool type: Facial shields)
+- Field emission scanning electron microscopes FESEM (Tool type: Scanning electron microscopes)
+- Fire extinguishers (Tool type: Fire extinguishers)
+- Fluorescence optical microscopes (Tool type: Binocular light compound microscopes)
+- Focused ion beam FIB etching tools (Tool type: Semiconductor process systems)
+- Focused ion beam scanning electron microscopes FIB-SEM (Tool type: Scanning electron microscopes)
+- Four-point probes (Tool type: Impedance meters)
+- Gowning gloves (Tool type: Protective gloves)
+- Helium leak detectors (Tool type: Single gas monitors)
+- Hotplates (Tool type: Laboratory hotplates)
+- Inductively coupled plasma reactive ion etchers ICP-RIE (Tool type: Semiconductor process systems)
+- Infrared spectroscopes (Tool type: Spectrometers)
+- Interferometers (Tool type: Interferometers)
+- Ion gauges (Tool type: Vacuum gauges)
+- Ion implanters (Tool type: Semiconductor process systems)
+- Ion mills (Tool type: Semiconductor process systems)
+- Ionization gauges (Tool type: Vacuum gauges)
+- Isolation glove boxes (Tool type: Isolation glove boxes)
+- Linewidth measurement systems (Tool type: Semiconductor testers)
+- Low pressure chemical vapor deposition LPCVD systems (Tool type: Semiconductor process systems)
+- Magnetron plasma sputter reactors (Tool type: Semiconductor process systems)
+- Mask aligners (Tool type: Semiconductor process systems)
+- Mask writers (Tool type: Semiconductor process systems)
+- Metal-organic chemical vapor deposition MOCVD systems (Tool type: Semiconductor process systems)
+- Molecular beam epitaxy MBE systems (Tool type: Semiconductor process systems)
+- Molecular vapor deposition MVD systems (Tool type: Semiconductor process systems)
+- Nanoimprint lithography NIL systems (Tool type: Semiconductor process systems)
+- Optical compound microscopes (Tool type: Binocular light compound microscopes)
+- Optical profilers (Tool type: Binocular light compound microscopes)
+- Optical thin film measurement systems (Tool type: Semiconductor testers)
+- Optical tweezers (Tool type: Tweezers)
+- Oxidation furnaces (Tool type: Laboratory safety furnaces)
+- Parallel plate reactive ion etchers RIE (Tool type: Semiconductor process systems)
+- Parametric analyzers (Tool type: Semiconductor testers)
+- Particle counters (Tool type: Electronic counters)
+- Particle size analyzers (Tool type: Optical diffraction apparatus)
+- Photoelectron spectroscopes (Tool type: Spectrometers)
+- Photoresist dispensing systems (Tool type: Semiconductor process systems)
+- Photoresist spin coaters (Tool type: Semiconductor process systems)
+- Pipettes (Tool type: Dropping pipettes)
+- Pirani gauges (Tool type: Vacuum gauges)
+- Plasma enhanced chemical vapor deposition PECVD systems (Tool type: Semiconductor process systems)
+- Plasma etchers (Tool type: Semiconductor process systems)
+- Profilometers (Tool type: Surface testers)
+- Protective gowns (Tool type: Lab coats)
+- Rapid thermal annealers RTA (Tool type: Temperature cycling chambers or thermal cyclers)
+- Residual gas analyzers (Tool type: Multi gas monitors)
+- Respirators (Tool type: Respirators)
+- Safety goggles (Tool type: Goggles)
+- Safety showers (Tool type: Decontamination shower)
+- Scanning acoustic microscopes (Tool type: Scanning probe microscopes)
+- Scanning electron microscopes SEM (Tool type: Scanning electron microscopes)
+- Scanning probe microscopes SPM (Tool type: Scanning probe microscopes)
+- Scanning tunneling microscopes STM (Tool type: Scanning probe microscopes)
+- Secondary ion mass spectrometers SIMS (Tool type: Spectrometers)
+- Self-contained breathing apparatus (Tool type: Respiration air supplying self contained breathing apparatus or accessories)
+- Spectrophotometers (Tool type: Spectrophotometers)
+- Spectroscopic ellipsometers (Tool type: Thickness measuring devices)
+- Spin dryers (Tool type: Drying cabinets or ovens)
+- Spin processors (Tool type: Semiconductor process systems)
+- Sputter coaters (Tool type: Semiconductor process systems)
+- Thermal evaporators (Tool type: Laboratory evaporators)
+- Transmission electron microscopes TEM (Tool type: Transmission electron microscopes)
+- Turbo pumps (Tool type: Turbine pumps)
+- Ultrasonic cleaners (Tool type: Ultrasonic cleaning equipment)
+- Ultrasonic welding equipment (Tool type: Ultrasonic welding machine)
+- Ultraviolet ozone cleaners (Tool type: Chemical or gas sterilizers)
+- Vacuum contact printers (Tool type: Semiconductor process systems)
+- Vacuum hotplates (Tool type: Laboratory hotplates)
+- Vacuum ovens (Tool type: Vacuum ovens)
+- Wafer substrate bonders (Tool type: Semiconductor process systems)
+- Wire bonders (Tool type: Semiconductor process systems)
+- X ray diffractometers (Tool type: X ray diffraction equipment)
+- Zeta potential analyzers (Tool type: Light scattering equipment)
+
+# WORK CONTEXT
+- No specific work context listed.
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Investigative
+- Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Nanosystems Engineers
+- Industrial Engineering Technologists and Technicians
+- Mechanical Engineering Technologists and Technicians
+- Calibration Technologists and Technicians
+- Aerospace Engineering and Operations Technologists and Technicians
+- Chemists
+- Chemical Technicians
+- Robotics Technicians
+- Chemical Engineers
+- Electrical and Electronic Engineering Technologists and Technicians
+- Bioengineers and Biomedical Engineers
+- Histotechnologists
+- Industrial Engineers
+- Materials Scientists
+- Materials Engineers
+- Microsystems Engineers
+- Photonics Technicians
+- Robotics Engineers
+- Mechatronics Engineers
+- Medical Equipment Repairers

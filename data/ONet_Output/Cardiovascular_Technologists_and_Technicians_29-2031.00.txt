@@ -1,0 +1,315 @@
+Job Title: Cardiovascular Technologists and Technicians
+O*NET-SOC Code: 29-2031.00
+
+# DESCRIPTION
+Conduct tests on pulmonary or cardiovascular systems of patients for diagnostic, therapeutic, or research purposes. May conduct or assist in electrocardiograms, cardiac catheterizations, pulmonary functions, lung capacity, and similar tests.
+
+# TASKS
+- Conduct electrocardiogram (EKG), phonocardiogram, echocardiogram, stress testing, or other cardiovascular tests to record patients' cardiac activity, using specialized electronic test equipment, recording devices, or laboratory instruments.
+- Explain testing procedures to patients to obtain cooperation and reduce anxiety.
+- Monitor patients' blood pressure and heart rate using electrocardiogram (EKG) equipment during diagnostic or therapeutic procedures to notify the physician if something appears wrong.
+- Obtain and record patient identification, medical history, or test results.
+- Monitor patients' comfort and safety during tests, alerting physicians to abnormalities or changes in patient responses.
+- Prepare and position patients for testing.
+- Attach electrodes to the patients' chests, arms, and legs, connect electrodes to leads from the electrocardiogram (EKG) machine, and operate the EKG machine to obtain a reading.
+- Adjust equipment and controls according to physicians' orders or established protocol.
+- Check, test, and maintain cardiology equipment, making minor repairs when necessary, to ensure proper operation.
+- Supervise or train other cardiology technologists or students.
+- Compare measurements of heart wall thickness and chamber sizes to standard norms to identify abnormalities.
+- Maintain a proper sterile field during surgical procedures.
+- Observe ultrasound display screen and listen to signals to record vascular information, such as blood pressure, limb volume changes, oxygen saturation, or cerebral circulation.
+- Assist physicians in the diagnosis and treatment of cardiac or peripheral vascular treatments, such as implanting pacemakers or assisting with balloon angioplasties to treat blood vessel blockages.
+- Assess cardiac physiology and calculate valve areas from blood flow velocity measurements.
+- Operate diagnostic imaging equipment to produce contrast enhanced radiographs of heart and cardiovascular system.
+- Observe gauges, recorder, and video screens of data analysis system during imaging of cardiovascular system.
+- Inject contrast medium into patients' blood vessels.
+- Transcribe, type, and distribute reports of diagnostic procedures for interpretation by physician.
+- Set up 24-hour Holter and event monitors, scan and interpret tapes, and report results to physicians.
+- Perform general administrative tasks, such as scheduling appointments or ordering supplies or equipment.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.29/5 | Level: 5.0/7)
+- Medicine and Dentistry (Importance: 3.89/5 | Level: 4.06/7)
+- English Language (Importance: 3.87/5 | Level: 3.44/7)
+- Computers and Electronics (Importance: 3.31/5 | Level: 3.89/7)
+- Education and Training (Importance: 3.27/5 | Level: 2.9/7)
+- Mathematics (Importance: 2.9/5 | Level: 3.3/7)
+- Public Safety and Security (Importance: 2.75/5 | Level: 1.95/7)
+- Administrative (Importance: 2.72/5 | Level: 3.26/7)
+- Physics (Importance: 2.62/5 | Level: 2.64/7)
+- Psychology (Importance: 2.6/5 | Level: 3.5/7)
+- Administration and Management (Importance: 2.47/5 | Level: 2.03/7)
+- Biology (Importance: 2.41/5 | Level: 2.29/7)
+- Telecommunications (Importance: 2.36/5 | Level: 1.5/7)
+- Chemistry (Importance: 2.26/5 | Level: 2.24/7)
+- Therapy and Counseling (Importance: 2.18/5 | Level: 2.16/7)
+- Communications and Media (Importance: 2.14/5 | Level: 1.62/7)
+- Mechanical (Importance: 2.1/5 | Level: 1.63/7)
+- Foreign Language (Importance: 1.91/5 | Level: 1.23/7)
+- Sociology and Anthropology (Importance: 1.9/5 | Level: 1.44/7)
+- Engineering and Technology (Importance: 1.82/5 | Level: 1.27/7)
+- Law and Government (Importance: 1.75/5 | Level: 1.35/7)
+- Philosophy and Theology (Importance: 1.71/5 | Level: 1.42/7)
+- Personnel and Human Resources (Importance: 1.63/5 | Level: 0.89/7)
+- Production and Processing (Importance: 1.62/5 | Level: 1.03/7)
+- Transportation (Importance: 1.59/5 | Level: 0.86/7)
+- Economics and Accounting (Importance: 1.4/5 | Level: 0.54/7)
+- Geography (Importance: 1.25/5 | Level: 0.46/7)
+- History and Archeology (Importance: 1.18/5 | Level: 0.4/7)
+- Sales and Marketing (Importance: 1.17/5 | Level: 0.16/7)
+- Fine Arts (Importance: 1.1/5 | Level: 0.21/7)
+- Design (Importance: 1.07/5 | Level: 0.19/7)
+- Building and Construction (Importance: 1.06/5 | Level: 0.17/7)
+- Food Production (Importance: 1.01/5 | Level: 0.01/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Active Listening (Importance: 3.88/5 | Level: 3.88/7)
+- Monitoring (Importance: 3.75/5 | Level: 3.75/7)
+- Speaking (Importance: 3.75/5 | Level: 3.62/7)
+- Critical Thinking (Importance: 3.75/5 | Level: 3.75/7)
+- Operations Monitoring (Importance: 3.75/5 | Level: 3.12/7)
+- Social Perceptiveness (Importance: 3.62/5 | Level: 3.25/7)
+- Reading Comprehension (Importance: 3.62/5 | Level: 4.12/7)
+- Service Orientation (Importance: 3.25/5 | Level: 3.25/7)
+- Judgment and Decision Making (Importance: 3.25/5 | Level: 3.25/7)
+- Active Learning (Importance: 3.12/5 | Level: 3.38/7)
+- Operation and Control (Importance: 3.12/5 | Level: 3.0/7)
+- Writing (Importance: 3.12/5 | Level: 3.5/7)
+- Complex Problem Solving (Importance: 3.12/5 | Level: 3.12/7)
+- Instructing (Importance: 3.0/5 | Level: 3.25/7)
+- Science (Importance: 3.0/5 | Level: 2.88/7)
+- Time Management (Importance: 3.0/5 | Level: 3.0/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 2.88/5 | Level: 3.0/7)
+- Persuasion (Importance: 2.75/5 | Level: 2.25/7)
+- Quality Control Analysis (Importance: 2.75/5 | Level: 2.5/7)
+- Negotiation (Importance: 2.62/5 | Level: 2.5/7)
+- Mathematics (Importance: 2.62/5 | Level: 2.5/7)
+- Troubleshooting (Importance: 2.5/5 | Level: 2.5/7)
+- Management of Personnel Resources (Importance: 2.5/5 | Level: 2.75/7)
+- Equipment Maintenance (Importance: 2.5/5 | Level: 2.38/7)
+- Systems Analysis (Importance: 2.38/5 | Level: 2.75/7)
+- Systems Evaluation (Importance: 2.25/5 | Level: 2.62/7)
+- Repairing (Importance: 2.25/5 | Level: 2.25/7)
+- Equipment Selection (Importance: 2.0/5 | Level: 2.12/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.25/7)
+- Technology Design (Importance: 1.75/5 | Level: 0.88/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 0.75/7)
+- Programming (Importance: 1.62/5 | Level: 0.62/7)
+- Operations Analysis (Importance: 1.62/5 | Level: 0.62/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Database software (Tech skill type: Data base user interface and query software)
+- Diagnostic image review software (Tech skill type: Medical software)
+- Digital Imaging Communications in Medicine DICOM-compatible image acquisition and integration software products (Tech skill type: Medical software)
+- Electronic medical record EMR software (Tech skill type: Medical software)
+- Hypertext preprocessor PHP (Tech skill type: Web platform development software)
+- Information systems integration software (Tech skill type: Information retrieval or search software)
+- Internet or intranet image distribution software (Tech skill type: Medical software)
+- JavaScript (Tech skill type: Web platform development software)
+- MEDITECH software (Tech skill type: Medical software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Practice management software PMS (Tech skill type: Medical software)
+- Pyxis MedStation software (Tech skill type: Inventory management software)
+- Smart Digital Holter Monitor (Tech skill type: Medical software)
+- Structured data entry software (Tech skill type: Data base user interface and query software)
+- Web browser software (Tech skill type: Internet browser software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- 3, 4, and 5 stopcock manifolds (Tool type: Perfusion oxygenators)
+- Activated clotting time ACT lab equipment (Tool type: Hematology analyzers)
+- Angiojets (Tool type: Diagnostic or interventional vascular catheters for general use)
+- Arterial line stop-cocks (Tool type: Intravenous catheters)
+- Automated external defibrillators AED (Tool type: Mobile medical services automated external defibrillators AED or hard paddles)
+- Automatic implantable cardioverter defibrillator AICD implants (Tool type: Cardiac pacemaker generators or cardiac resynchronization therapy pacemakers CRT-P)
+- Balloon catheters (Tool type: Angioplasty balloon catheters)
+- Bird's nest inferior vena caval filters (Tool type: Vascular filters)
+- Blood collection syringes (Tool type: Blood collection syringes)
+- Blood gas analyzers (Tool type: Blood gas analyzers)
+- Brachial artery needles (Tool type: Arterial needles)
+- Brockenbrough needles (Tool type: Diagnostic or interventional vascular catheter introducers)
+- C-clamps (Tool type: Surgical clamps or clips or forceps)
+- Cardio-page writers (Tool type: Electrocardiography EKG units)
+- Cardiovascular catheter sheaths (Tool type: Cardiovascular sheath kits)
+- Caval filters (Tool type: Vascular filters)
+- Central venous catheters (Tool type: Central venous catheters)
+- Chemical sterilizers (Tool type: Chemical or gas sterilizers)
+- Coagulation testing equipment (Tool type: Coagulation analyzers)
+- Computerized lung analyzers (Tool type: Pulmonary function calculators)
+- Contrast power injectors (Tool type: Angiography contrast medium delivery sets)
+- Coronary stents (Tool type: Coronary stents)
+- Defense digital imaging network-picture archiving and communications systems DIN-PACS (Tool type: Digital imaging network DIN system equipment)
+- Defibrillators (Tool type: Mobile medical services automated external defibrillators AED or hard paddles)
+- Desktop computers (Tool type: Desktop computers)
+- Digital Imaging Communications in Medicine DICOM system equipment (Tool type: Digital imaging communications in medicine DICOM standard system equipment)
+- Distal embolic protection devices (Tool type: Vascular filters)
+- Dual chamber pacemakers (Tool type: Cardiac pacemaker generators or cardiac resynchronization therapy pacemakers CRT-P)
+- Electrocardiography EKG electrodes (Tool type: Electrocardiography EKG electrode patches)
+- Electrocardiography EKG tape reading scanners (Tool type: Electrocardiography EKG accessories)
+- Electrocardiography EKG units (Tool type: Electrocardiography EKG units)
+- Electronic blood pressure units (Tool type: Electronic blood pressure units)
+- Electronic stethoscopes (Tool type: Electronic stethoscopes)
+- Evacuated blood collection tubes (Tool type: Vacuum blood collection tubes or containers)
+- Film processing equipment (Tool type: Medical imaging wet darkroom or daylight processors)
+- Fluoroscopes (Tool type: Medical cinefluoroscopy units)
+- Glucometers (Tool type: Glucose monitors or meters)
+- Grollmann catheters (Tool type: Diagnostic or interventional vascular catheters for general use)
+- Guidewires (Tool type: Introducer or guide pin or guidewire or glidewire or guide rod)
+- Heart catheters (Tool type: Diagnostic or interventional vascular catheters for general use)
+- Heart probes (Tool type: Angioscopes)
+- Hemodynamic monitors (Tool type: Cardiac output CO monitoring units)
+- Holter monitors (Tool type: Holter or wearable EKG monitoring systems or accessories)
+- Image capturing and transmission systems (Tool type: Medical picture archiving computer systems PACS)
+- Image storage systems (Tool type: Medical picture archiving computer systems PACS)
+- Indeflators (Tool type: Intraaortic balloon pumps)
+- Intra-aortic balloon pumps IABP (Tool type: Intraaortic balloon pumps)
+- Intravenous IV locks (Tool type: Intravenous or arterial tubing adapter or connector)
+- Intravenous IV syringes (Tool type: Medical syringes without needle)
+- Intravenous IV tubing (Tool type: Intravenous or arterial extension tubing)
+- Laboratory microscopes (Tool type: Binocular light compound microscopes)
+- Laser printers (Tool type: Laser printers)
+- Lasers (Tool type: Surgical lasers)
+- Lead aprons (Tool type: Medical radiological shielding aprons or masks or drapes)
+- Lead collars (Tool type: Medical radiological shielding aprons or masks or drapes)
+- Light and sound machines (Tool type: Electromyography EMG units)
+- Light meters (Tool type: Lux or light meter)
+- Mechanical stethoscopes (Tool type: Medical acoustic stethoscopes)
+- Mechanical thrombolytic devices (Tool type: Diagnostic or interventional vascular catheters for general use)
+- Medical picture archiving computer systems PACS (Tool type: Medical picture archiving computer systems PACS)
+- Medrad injectors (Tool type: Angiography contrast medium delivery sets)
+- Mercury sphygmomanometers (Tool type: Mercury blood pressure units)
+- Microscopes (Tool type: Surgical microscopes or loupes or magnifiers)
+- Miller catheters (Tool type: Diagnostic or interventional vascular catheters for general use)
+- Myocardial biopsy forceps (Tool type: Surgical clamps or clips or forceps)
+- NIH catheters (Tool type: Diagnostic or interventional vascular catheters for general use)
+- Nitric oxide administration equipment (Tool type: Oxygen therapy delivery system products)
+- Notebook computers (Tool type: Notebook computers)
+- Over-the-needle intravenous IV catheters (Tool type: Peripherally inserted central catheters PICC)
+- Oximeters (Tool type: Pulse oximeter units)
+- Oxygen therapy systems (Tool type: Oxygen therapy delivery system products)
+- Pacemaker analyzers (Tool type: Cardiac pacemaker generators or cardiac resynchronization therapy pacemakers CRT-P)
+- Pacemakers (Tool type: Cardiac pacemaker generators or cardiac resynchronization therapy pacemakers CRT-P)
+- Pacing generators (Tool type: Cardiac pacemaker generators or cardiac resynchronization therapy pacemakers CRT-P)
+- Percutaneous transluminal coronary angioplasty PTCA equipment (Tool type: Diagnostic or interventional vascular catheters for general use)
+- Personal computers (Tool type: Personal computers)
+- Physiological monitoring and analysis systems (Tool type: Cardiac output CO monitoring units)
+- Plethysmography machines (Tool type: Body plethysmographs)
+- Portable electrocardiography EKG machines (Tool type: Holter or wearable EKG monitoring systems or accessories)
+- Pressure injectors (Tool type: Angiography contrast medium delivery sets)
+- Pressure tubing (Tool type: Intravenous catheters)
+- Radi pressure wires (Tool type: Vascular imaging guidewires)
+- Radiofrequency ablation catheters (Tool type: Diagnostic or interventional vascular catheters for general use)
+- Rheolytic thrombectomy systems (Tool type: Diagnostic or interventional vascular catheters for general use)
+- Rotoblators (Tool type: Diagnostic or interventional vascular catheters for general use)
+- Scan converters (Tool type: Medical picture archiving computer systems PACS)
+- Silicone lead end caps (Tool type: Cardiac pacemaker generators or cardiac resynchronization therapy pacemakers CRT-P)
+- Spirometers (Tool type: Spirometers)
+- Sterile blood lancets (Tool type: Lancets)
+- Surgical trays/tables (Tool type: Surgical equipment stands)
+- Suture devices (Tool type: Surgical purstring devices)
+- Swan Ganz artery catheters (Tool type: Arterial line catheters)
+- Tablet computers (Tool type: Tablet computers)
+- Therapeutic treadmill exercisers (Tool type: Treadmill exercisers for rehabilitation or therapy)
+- Thermal printers (Tool type: Laser printers)
+- Thermodilution cardiac output computers (Tool type: Cardiac output CO monitoring units)
+- Tourniquets (Tool type: Tourniquets)
+- Transluminal extraction catheters (Tool type: Removal devices of diagnostic or interventional vascular catheters)
+- Transseptal sheaths (Tool type: Diagnostic or interventional vascular catheter introducers)
+- Ultracentrifuges (Tool type: Ultracentrifuges)
+- Vector-cardiographs (Tool type: Electrocardiography EKG unit analyzers)
+- Vena caval filters (Tool type: Vascular filters)
+- Venipuncture needles (Tool type: Hypodermic needle)
+- Ventricular demand pacemakers (Tool type: Cardiac pacemaker generators or cardiac resynchronization therapy pacemakers CRT-P)
+- Wave wires (Tool type: Vascular imaging guidewires)
+- X ray machines (Tool type: Medical x ray units for general diagnostic use)
+
+# WORK CONTEXT
+- Conflict Situations: Once a week or more but not every day
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a week or more but not every day
+- Dealing with Violent or Physically Aggressive People: Once a year or more but not every month
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Every day
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Every day
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Never
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Extremely important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Slightly competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Very close (near touching)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Continually or almost continually
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Continually or almost continually
+- Spend Time Sitting: More than half the time
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Moderate responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a month or more but not every week
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Investigative
+- Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Diagnostic Medical Sonographers
+- Neurodiagnostic Technologists
+- Radiologic Technologists and Technicians
+- Radiation Therapists
+- Respiratory Therapists
+- Magnetic Resonance Imaging Technologists
+- Medical and Clinical Laboratory Technicians
+- Ophthalmic Medical Technologists
+- Nuclear Medicine Technologists
+- Surgical Technologists
+- Cardiologists
+- Emergency Medicine Physicians
+- Pediatric Surgeons
+- Anesthesiologist Assistants
+- Medical and Clinical Laboratory Technologists
+- Histotechnologists
+- Orthopedic Surgeons, Except Pediatric
+- Surgical Assistants
+- Radiologists
+- Ophthalmic Medical Technicians

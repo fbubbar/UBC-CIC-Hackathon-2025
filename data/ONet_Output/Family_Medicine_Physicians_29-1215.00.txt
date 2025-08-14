@@ -1,0 +1,280 @@
+Job Title: Family Medicine Physicians
+O*NET-SOC Code: 29-1215.00
+
+# DESCRIPTION
+Diagnose, treat, and provide preventive care to individuals and families across the lifespan. May refer patients to specialists when needed for further diagnosis or treatment.
+
+# TASKS
+- Prescribe or administer treatment, therapy, medication, vaccination, and other specialized medical care to treat or prevent illness, disease, or injury.
+- Order, perform, and interpret tests and analyze records, reports, and examination information to diagnose patients' condition.
+- Collect, record, and maintain patient information, such as medical history, reports, or examination results.
+- Monitor patients' conditions and progress and reevaluate treatments as necessary.
+- Explain procedures and discuss test results or prescribed treatments with patients.
+- Advise patients and community members concerning diet, activity, hygiene, and disease prevention.
+- Direct and coordinate activities of nurses, students, assistants, specialists, therapists, and other medical staff.
+- Refer patients to medical specialists or other practitioners when necessary.
+- Coordinate work with nurses, social workers, rehabilitation therapists, pharmacists, psychologists, and other health care providers.
+- Plan, implement, or administer health programs or standards in hospitals, businesses, or communities for prevention or treatment of injury or illness.
+- Train residents, medical students, and other health care professionals.
+- Prepare government or organizational reports which include birth, death, and disease statistics, workforce evaluations, or medical status of individuals.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Medicine and Dentistry (Importance: 5.0/5 | Level: 5.89/7)
+- English Language (Importance: 4.67/5 | Level: 5.16/7)
+- Therapy and Counseling (Importance: 4.56/5 | Level: 5.36/7)
+- Psychology (Importance: 4.49/5 | Level: 5.58/7)
+- Biology (Importance: 4.46/5 | Level: 5.69/7)
+- Customer and Personal Service (Importance: 3.66/5 | Level: 5.73/7)
+- Computers and Electronics (Importance: 3.4/5 | Level: 3.35/7)
+- Mathematics (Importance: 3.29/5 | Level: 3.38/7)
+- Education and Training (Importance: 3.22/5 | Level: 4.35/7)
+- Sociology and Anthropology (Importance: 3.14/5 | Level: 2.97/7)
+- Law and Government (Importance: 3.06/5 | Level: 3.33/7)
+- Telecommunications (Importance: 2.99/5 | Level: 1.09/7)
+- Chemistry (Importance: 2.96/5 | Level: 3.05/7)
+- Communications and Media (Importance: 2.92/5 | Level: 2.9/7)
+- Administrative (Importance: 2.89/5 | Level: 3.63/7)
+- Public Safety and Security (Importance: 2.71/5 | Level: 2.91/7)
+- Administration and Management (Importance: 2.43/5 | Level: 2.61/7)
+- Personnel and Human Resources (Importance: 2.39/5 | Level: 2.57/7)
+- Foreign Language (Importance: 2.29/5 | Level: 1.54/7)
+- Philosophy and Theology (Importance: 2.11/5 | Level: 2.76/7)
+- Physics (Importance: 1.99/5 | Level: 1.44/7)
+- Sales and Marketing (Importance: 1.87/5 | Level: 1.05/7)
+- History and Archeology (Importance: 1.86/5 | Level: 1.52/7)
+- Engineering and Technology (Importance: 1.68/5 | Level: 1.01/7)
+- Production and Processing (Importance: 1.57/5 | Level: 1.32/7)
+- Transportation (Importance: 1.45/5 | Level: 1.03/7)
+- Economics and Accounting (Importance: 1.45/5 | Level: 0.71/7)
+- Geography (Importance: 1.43/5 | Level: 1.01/7)
+- Mechanical (Importance: 1.15/5 | Level: 0.29/7)
+- Food Production (Importance: 1.12/5 | Level: 0.17/7)
+- Fine Arts (Importance: 1.12/5 | Level: 0.16/7)
+- Design (Importance: 1.08/5 | Level: 0.12/7)
+- Building and Construction (Importance: 1.04/5 | Level: 0.08/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Critical Thinking (Importance: 4.38/5 | Level: 4.5/7)
+- Reading Comprehension (Importance: 4.25/5 | Level: 5.0/7)
+- Active Listening (Importance: 4.25/5 | Level: 4.88/7)
+- Writing (Importance: 4.12/5 | Level: 4.12/7)
+- Speaking (Importance: 4.12/5 | Level: 4.38/7)
+- Judgment and Decision Making (Importance: 4.0/5 | Level: 4.75/7)
+- Time Management (Importance: 4.0/5 | Level: 3.88/7)
+- Monitoring (Importance: 4.0/5 | Level: 4.0/7)
+- Active Learning (Importance: 4.0/5 | Level: 4.0/7)
+- Complex Problem Solving (Importance: 4.0/5 | Level: 4.25/7)
+- Science (Importance: 3.88/5 | Level: 4.0/7)
+- Social Perceptiveness (Importance: 3.88/5 | Level: 3.88/7)
+- Service Orientation (Importance: 3.88/5 | Level: 3.88/7)
+- Instructing (Importance: 3.38/5 | Level: 4.0/7)
+- Learning Strategies (Importance: 3.25/5 | Level: 3.25/7)
+- Coordination (Importance: 3.12/5 | Level: 3.88/7)
+- Management of Personnel Resources (Importance: 3.0/5 | Level: 3.5/7)
+- Persuasion (Importance: 3.0/5 | Level: 3.62/7)
+- Systems Evaluation (Importance: 2.88/5 | Level: 2.88/7)
+- Systems Analysis (Importance: 2.88/5 | Level: 2.88/7)
+- Negotiation (Importance: 2.88/5 | Level: 3.0/7)
+- Mathematics (Importance: 2.75/5 | Level: 2.88/7)
+- Operations Analysis (Importance: 2.5/5 | Level: 2.75/7)
+- Quality Control Analysis (Importance: 2.12/5 | Level: 2.0/7)
+- Operations Monitoring (Importance: 2.12/5 | Level: 2.12/7)
+- Management of Material Resources (Importance: 1.62/5 | Level: 1.25/7)
+- Management of Financial Resources (Importance: 1.62/5 | Level: 1.0/7)
+- Troubleshooting (Importance: 1.5/5 | Level: 0.62/7)
+- Programming (Importance: 1.25/5 | Level: 0.38/7)
+- Equipment Selection (Importance: 1.25/5 | Level: 0.38/7)
+- Technology Design (Importance: 1.25/5 | Level: 0.38/7)
+- Operation and Control (Importance: 1.12/5 | Level: 0.25/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Acrendo Medical Software Family Practice EMR (Tech skill type: Medical software)
+- Allscripts Professional EHR (Tech skill type: Medical software)
+- Billing software (Tech skill type: Accounting software)
+- Brickell Research Brickell Medical Office (Tech skill type: Medical software)
+- ChartWare EMR (Tech skill type: Medical software)
+- e-MDs software (Tech skill type: Medical software)
+- e-MDs topsE&M Coder (Tech skill type: Medical software)
+- eClinicalWorks EHR software (Tech skill type: Medical software)
+- Email software (Tech skill type: Electronic mail software)
+- Epic Systems (Tech skill type: Medical software)
+- Epocrates (Tech skill type: Medical software)
+- Greenway Health PrimeSuite (Tech skill type: Medical software)
+- Med Math (Tech skill type: Medical software)
+- MedcomSoft Record (Tech skill type: Medical software)
+- Medical procedure coding software (Tech skill type: Medical software)
+- Medical reference software (Tech skill type: Information retrieval or search software)
+- MEDITECH software (Tech skill type: Medical software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Misys Healthcare Systems Mysis Tiger (Tech skill type: Medical software)
+- Practice management software PMS (Tech skill type: Medical software)
+- Practice Partner Total Practice Partner (Tech skill type: Medical software)
+- Scheduling software (Tech skill type: Calendar and scheduling software)
+- SOAPware EMR (Tech skill type: Medical software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Adult Magill forceps (Tool type: Intubation forceps)
+- Angiocaths (Tool type: Diagnostic or interventional vascular catheters for general use)
+- Auditory testing equipment (Tool type: Auditory function screening units)
+- Automated external defibrillators AED (Tool type: Mobile medical services automated external defibrillators AED or hard paddles)
+- Baby scales (Tool type: Infant scales)
+- Blood collection syringes (Tool type: Blood collection syringes)
+- Cervical collars (Tool type: Cervical collars or neck braces)
+- Colposcopes (Tool type: Colposcopes or vaginoscopes)
+- Cord clamps (Tool type: Surgical clamps or clips or forceps)
+- Cryosurgical units (Tool type: Cryosurgery units)
+- Dermal curettes (Tool type: Surgical curettes or loops or curette sets)
+- Desktop computers (Tool type: Desktop computers)
+- Dictation equipment (Tool type: Dictation machines)
+- Dressing forceps (Tool type: Surgical clamps or clips or forceps)
+- Ear curettes (Tool type: Otological instruments)
+- Ear forceps (Tool type: Surgical clamps or clips or forceps)
+- Electrocardiography EKG machines (Tool type: Electrocardiography EKG units)
+- Electronic blood pressure units (Tool type: Electronic blood pressure units)
+- Electronic stethoscopes (Tool type: Electronic stethoscopes)
+- Electrosurgery units (Tool type: Electrosurgical or electrocautery equipment)
+- Episiotomy scissors (Tool type: Surgical scissors)
+- Evacuated blood collection tubes (Tool type: Vacuum blood collection tubes or containers)
+- Fetal doppler units (Tool type: Medical ultrasound or doppler or echocardiograph transducer accessories)
+- Fetal monitors (Tool type: Acute care fetal or maternal monitoring units)
+- Glucometers (Tool type: Glucose monitors or meters)
+- Holter monitors (Tool type: Holter or wearable EKG monitoring systems or accessories)
+- Infant warmers (Tool type: Clinical incubators or infant warmers)
+- Intravenous IV equipment (Tool type: Intravenous tubing with catheter administration kits)
+- Laboratory specimen containers (Tool type: Specimen collection container)
+- Laptop computers (Tool type: Notebook computers)
+- Laryngoscopes (Tool type: Intubation laryngoscopes)
+- Manual blood pressure units (Tool type: Mercury blood pressure units)
+- Mechanical stethoscopes (Tool type: Medical acoustic stethoscopes)
+- Medical examination protective gloves (Tool type: Medical exam or non surgical procedure gloves)
+- Medical lasers (Tool type: Surgical lasers)
+- Medical masks (Tool type: Surgical isolation or surgical masks)
+- Medical tuning forks (Tool type: Medical tuning forks)
+- Microscope slides (Tool type: Microscope slides)
+- Mosquito clamps (Tool type: Surgical clamps or clips or forceps)
+- Nasogastric tubes (Tool type: Nasogastric tubes)
+- Neonatal airways (Tool type: Medical oxygen masks or parts)
+- Neonatal resuscitation masks (Tool type: Resuscitation masks)
+- Neurological hammers (Tool type: Reflex hammers or mallets)
+- Operating scissors (Tool type: Surgical scissors)
+- Ophthalmoscopes (Tool type: Ophthalmoscopes or otoscopes or scope sets)
+- Orthopedic splints (Tool type: Orthopedic splint systems)
+- Otoscopes (Tool type: Ophthalmoscopes or otoscopes or scope sets)
+- Oxygen administration equipment (Tool type: Oxygen therapy delivery system products)
+- Oxygen masks (Tool type: Medical oxygen masks or parts)
+- Patient airways (Tool type: Medical oxygen masks or parts)
+- Personal computers (Tool type: Personal computers)
+- Personal digital assistants PDA (Tool type: Personal digital assistant PDAs or organizers)
+- Protective face shields (Tool type: Surgical isolation or surgical masks)
+- Pulse oximeters (Tool type: Pulse oximeter units)
+- Snellen eye charts (Tool type: Eye charts or vision cards)
+- Spirometers (Tool type: Spirometers)
+- Splinter forceps (Tool type: Surgical clamps or clips or forceps)
+- Suction catheters (Tool type: Irrigation or suction handpieces or cannulas or tips or catheters)
+- Suction machines (Tool type: Medical or surgical suction or vacuum appliances)
+- Surgical gloves (Tool type: Surgical gloves)
+- Surgical scalpels (Tool type: Surgical scalpels or knives or blades or trephines)
+- Suture forceps (Tool type: Surgical clamps or clips or forceps)
+- Suture needles (Tool type: Suture needles)
+- Suture removers (Tool type: Suture removers)
+- Suture scissors (Tool type: Suture removers)
+- Tablet computers (Tool type: Tablet computers)
+- Tourniquets (Tool type: Tourniquets)
+- Ultrasound bone density scanners (Tool type: Medical ultrasound bone densitometers)
+- Ultrasound imaging scanners (Tool type: Medical ultrasound or doppler or pulse echocardiograph or echocardiograph units for general diagnostic use)
+- Umbilical cord scissors (Tool type: Surgical scissors)
+- Vacuum extractors (Tool type: Surgical suction machine or vacuum extractor or ultrasonic surgical aspirator)
+- Vaginal exam speculas (Tool type: Vaginal exam speculas)
+- Valve mask resuscitators (Tool type: Resuscitation masks)
+- Vision screeners (Tool type: Binocular vision test sets)
+
+# WORK CONTEXT
+- Conflict Situations: Once a week or more but not every day
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a week or more but not every day
+- Dealing with Violent or Physically Aggressive People: Once a year or more but not every month
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Once a week or more but not every day
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Every day
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Never
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: High responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Not important at all
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Slightly competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Very close (near touching)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Never
+- Spend Time Sitting: More than half the time
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Once a week or more but not every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a week or more but not every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Social
+- Secondary Interest: Investigative
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Emergency Medicine Physicians
+- Pediatricians, General
+- General Internal Medicine Physicians
+- Obstetricians and Gynecologists
+- Pediatric Surgeons
+- Physician Assistants
+- Psychiatrists
+- Cardiologists
+- Advanced Practice Psychiatric Nurses
+- Hospitalists
+- Nurse Practitioners
+- Neurologists
+- Clinical Nurse Specialists
+- Orthopedic Surgeons, Except Pediatric
+- Registered Nurses
+- Nurse Midwives
+- Preventive Medicine Physicians
+- Anesthesiologists
+- Acute Care Nurses
+- Paramedics

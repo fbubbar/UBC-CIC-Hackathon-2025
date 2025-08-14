@@ -1,0 +1,239 @@
+Job Title: Bicycle Repairers
+O*NET-SOC Code: 49-3091.00
+
+# DESCRIPTION
+Repair and service bicycles.
+
+# TASKS
+- Install and adjust brakes and brake pads.
+- Help customers select bicycles that fit their body sizes and intended bicycle uses.
+- Align wheels.
+- Assemble new bicycles.
+- Sell bicycles and accessories.
+- Install, repair, and replace equipment or accessories, such as handlebars, stands, lights, and seats.
+- Install new tires and tubes.
+- Install and adjust speed and gear mechanisms.
+- Clean and lubricate bicycle parts.
+- Order bicycle parts.
+- Disassemble axles to repair, adjust, and replace defective parts, using hand tools.
+- Build wheels by cutting and threading new spokes.
+- Shape replacement parts, using bench grinders.
+- Repair holes in tire tubes, using scrapers and patches.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 4.97/5 | Level: 5.74/7)
+- Customer and Personal Service (Importance: 4.22/5 | Level: 4.31/7)
+- Sales and Marketing (Importance: 4.05/5 | Level: 3.63/7)
+- English Language (Importance: 3.64/5 | Level: 3.55/7)
+- Administration and Management (Importance: 3.48/5 | Level: 3.42/7)
+- Engineering and Technology (Importance: 3.48/5 | Level: 3.77/7)
+- Design (Importance: 3.23/5 | Level: 3.16/7)
+- Production and Processing (Importance: 3.12/5 | Level: 2.74/7)
+- Mathematics (Importance: 3.0/5 | Level: 3.75/7)
+- Administrative (Importance: 2.93/5 | Level: 3.56/7)
+- Education and Training (Importance: 2.86/5 | Level: 3.57/7)
+- Transportation (Importance: 2.77/5 | Level: 2.59/7)
+- Building and Construction (Importance: 2.63/5 | Level: 3.51/7)
+- Economics and Accounting (Importance: 2.49/5 | Level: 1.05/7)
+- Physics (Importance: 2.35/5 | Level: 2.67/7)
+- Computers and Electronics (Importance: 2.31/5 | Level: 3.07/7)
+- Personnel and Human Resources (Importance: 2.23/5 | Level: 1.42/7)
+- Communications and Media (Importance: 2.15/5 | Level: 1.95/7)
+- Chemistry (Importance: 2.14/5 | Level: 2.0/7)
+- Psychology (Importance: 2.02/5 | Level: 0.87/7)
+- Telecommunications (Importance: 2.0/5 | Level: 0.83/7)
+- Public Safety and Security (Importance: 1.98/5 | Level: 1.59/7)
+- Law and Government (Importance: 1.97/5 | Level: 1.7/7)
+- Geography (Importance: 1.97/5 | Level: 1.24/7)
+- Foreign Language (Importance: 1.83/5 | Level: 0.8/7)
+- Sociology and Anthropology (Importance: 1.65/5 | Level: 0.98/7)
+- History and Archeology (Importance: 1.5/5 | Level: 1.15/7)
+- Food Production (Importance: 1.35/5 | Level: 0.35/7)
+- Fine Arts (Importance: 1.19/5 | Level: 0.4/7)
+- Philosophy and Theology (Importance: 1.01/5 | Level: 0.02/7)
+- Therapy and Counseling (Importance: 1.01/5 | Level: 0.02/7)
+- Medicine and Dentistry (Importance: 1.0/5 | Level: 0.01/7)
+- Biology (Importance: 1.0/5 | Level: 0.01/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Repairing (Importance: 3.88/5 | Level: 3.12/7)
+- Troubleshooting (Importance: 3.62/5 | Level: 3.0/7)
+- Critical Thinking (Importance: 3.62/5 | Level: 3.12/7)
+- Active Listening (Importance: 3.62/5 | Level: 3.0/7)
+- Equipment Maintenance (Importance: 3.38/5 | Level: 2.88/7)
+- Equipment Selection (Importance: 3.38/5 | Level: 2.62/7)
+- Speaking (Importance: 3.38/5 | Level: 3.0/7)
+- Service Orientation (Importance: 3.38/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 3.25/5 | Level: 3.12/7)
+- Quality Control Analysis (Importance: 3.25/5 | Level: 3.12/7)
+- Complex Problem Solving (Importance: 3.0/5 | Level: 3.0/7)
+- Reading Comprehension (Importance: 3.0/5 | Level: 3.0/7)
+- Active Learning (Importance: 2.88/5 | Level: 2.5/7)
+- Negotiation (Importance: 2.88/5 | Level: 2.62/7)
+- Persuasion (Importance: 2.88/5 | Level: 2.62/7)
+- Writing (Importance: 2.88/5 | Level: 2.5/7)
+- Monitoring (Importance: 2.88/5 | Level: 2.88/7)
+- Coordination (Importance: 2.88/5 | Level: 2.5/7)
+- Judgment and Decision Making (Importance: 2.88/5 | Level: 2.75/7)
+- Learning Strategies (Importance: 2.75/5 | Level: 2.38/7)
+- Operations Monitoring (Importance: 2.75/5 | Level: 2.25/7)
+- Time Management (Importance: 2.75/5 | Level: 2.88/7)
+- Instructing (Importance: 2.75/5 | Level: 2.75/7)
+- Operation and Control (Importance: 2.62/5 | Level: 2.0/7)
+- Installation (Importance: 2.5/5 | Level: 1.75/7)
+- Systems Analysis (Importance: 2.5/5 | Level: 2.12/7)
+- Management of Personnel Resources (Importance: 2.5/5 | Level: 2.12/7)
+- Systems Evaluation (Importance: 2.38/5 | Level: 2.12/7)
+- Mathematics (Importance: 2.12/5 | Level: 2.0/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.25/7)
+- Management of Financial Resources (Importance: 1.88/5 | Level: 1.12/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.5/7)
+- Operations Analysis (Importance: 1.62/5 | Level: 0.75/7)
+- Science (Importance: 1.25/5 | Level: 0.38/7)
+- Programming (Importance: 1.12/5 | Level: 0.12/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Inventory management software (Tech skill type: Inventory management software)
+- LightSpeed Cloud (Tech skill type: Point of sale POS software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Pedal Powered Software Bicycle Repair Man (Tech skill type: Data base user interface and query software)
+- RepairTRAX (Tech skill type: Data base user interface and query software)
+- Upland Consulting Group Repair Traq (Tech skill type: Data base user interface and query software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Adjustable hand wrenches (Tool type: Adjustable wrenches)
+- Bench mount stands Wall mount stands (Tool type: Engine or vehicle stands)
+- Bike cable cutters (Tool type: Wire or cable cutter)
+- Box end spanners (Tool type: Box end wrenches)
+- Cable cutters (Tool type: Wire or cable cutter)
+- Cable stretchers (Tool type: Brake repair kits)
+- Cassette lock ring tools (Tool type: Specialty wrenches)
+- Chain checkers (Tool type: Tension testers)
+- Chain cleaner brushes (Tool type: Cleaning brushes)
+- Chainring nut wrenches (Tool type: Ring wrench or spanner)
+- Compact scissors (Tool type: Shears)
+- Component cleaning brushes (Tool type: Cleaning brushes)
+- Cone wrench sets (Tool type: Specialty wrenches)
+- Crank bolt wrenches (Tool type: Specialty wrenches)
+- Crank pullers (Tool type: Pullers)
+- Crown race setters (Tool type: Nut drivers)
+- Derailleur hanger alignment gauges (Tool type: Wheel alignment equipment)
+- Desktop computers (Tool type: Desktop computers)
+- Floor pumps (Tool type: Air pumps)
+- Folding hex wrench sets (Tool type: Hex keys)
+- Frame taps (Tool type: Taps)
+- Handlebar holders (Tool type: Engine or vehicle stands)
+- Hex tools (Tool type: Hex keys)
+- Linkage clamps (Tool type: Hand clamps)
+- Minipumps (Tool type: Air pumps)
+- Multipurpose hammers (Tool type: Hammers)
+- Needle nose pliers (Tool type: Needlenose pliers)
+- Offset brake wrenches (Tool type: Specialty wrenches)
+- Open end wrench sets (Tool type: Open end wrenches)
+- P-handled hex wrenches (Tool type: Hex keys)
+- Pedal wrenches (Tool type: Specialty wrenches)
+- Personal computers (Tool type: Personal computers)
+- Phillips head screwdrivers (Tool type: Screwdrivers)
+- Point of sale terminals (Tool type: Electronic funds transfer point of sale equipment)
+- Portable repair stands (Tool type: Engine or vehicle stands)
+- Precision spoke wrenches (Tool type: Specialty wrenches)
+- Screw type chain tools (Tool type: Pullers)
+- Shop repair stands (Tool type: Engine or vehicle stands)
+- Side cutter pliers (Tool type: End cut pliers)
+- Spoke gauges (Tool type: Wire gauge)
+- Sprocket removers (Tool type: Specialty wrenches)
+- Straight blade screwdrivers (Tool type: Screwdrivers)
+- Threadless nut setters (Tool type: Nut drivers)
+- Three-way hex wrenches (Tool type: Allen wrench)
+- Tire levers (Tool type: Tire repair kit)
+- Wall mount stands (Tool type: Engine or vehicle stands)
+- Wheel truing stands (Tool type: Engine or vehicle stands)
+
+# WORK CONTEXT
+- Conflict Situations: Once a month or more but not every week
+- Consequence of Error: Very serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Once a week or more but not every day
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Once a week or more but not every day
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Limited responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Not important at all
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Once a year or more but not every month
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Less than half the time
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Continually or almost continually
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: Continually or almost continually
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Moderate responsibility
+- Work With or Contribute to a Work Group or Team: Very important
+- Written Letters and Memos: Never
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Motorcycle Mechanics
+- Outdoor Power Equipment and Other Small Engine Mechanics
+- Tire Repairers and Changers
+- Rail Car Repairers
+- Engine and Other Machine Assemblers
+- Electric Motor, Power Tool, and Related Repairers
+- Recreational Vehicle Service Technicians
+- Motorboat Mechanics and Service Technicians
+- Tire Builders
+- Automotive Service Technicians and Mechanics
+- Mobile Heavy Equipment Mechanics, Except Engines
+- Shoe and Leather Workers and Repairers
+- Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+- Bus and Truck Mechanics and Diesel Engine Specialists
+- Riggers
+- Millwrights
+- Farm Equipment Mechanics and Service Technicians
+- Automotive Body and Related Repairers
+- Electromechanical Equipment Assemblers
+- Rail-Track Laying and Maintenance Equipment Operators

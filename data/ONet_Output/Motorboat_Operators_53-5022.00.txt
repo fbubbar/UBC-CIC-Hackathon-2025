@@ -1,0 +1,284 @@
+Job Title: Motorboat Operators
+O*NET-SOC Code: 53-5022.00
+
+# DESCRIPTION
+Operate small motor-driven boats. May assist in navigational activities.
+
+# TASKS
+- Operate engine throttles and steering mechanisms to guide boats on desired courses.
+- Direct safety operations in emergency situations.
+- Secure boats to docks with mooring lines, and cast off lines to enable departure.
+- Maintain desired courses, using compasses or electronic navigational aids.
+- Organize and direct the activities of crew members.
+- Follow safety procedures to ensure the protection of passengers, cargo, and vessels.
+- Maintain equipment such as range markers, fire extinguishers, boat fenders, lines, pumps, and fittings.
+- Report any observed navigational hazards to authorities.
+- Oversee operation of vessels used for carrying passengers, motor vehicles, or goods across rivers, harbors, lakes, and coastal waters.
+- Service motors by performing tasks such as changing oil and lubricating parts.
+- Arrange repairs, fuel, and supplies for vessels.
+- Issue directions for loading, unloading, and seating in boats.
+- Clean boats and repair hulls and superstructures, using hand tools, paint, and brushes.
+- Tow, push, or guide other boats, barges, logs, or rafts.
+- Take depth soundings in turning basins.
+- Perform general labor duties such as repairing booms.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.36/5 | Level: 5.23/7)
+- English Language (Importance: 4.1/5 | Level: 3.84/7)
+- Education and Training (Importance: 3.91/5 | Level: 4.48/7)
+- Public Safety and Security (Importance: 3.82/5 | Level: 3.74/7)
+- Transportation (Importance: 3.77/5 | Level: 4.01/7)
+- Mechanical (Importance: 3.46/5 | Level: 4.02/7)
+- Geography (Importance: 2.97/5 | Level: 3.32/7)
+- Personnel and Human Resources (Importance: 2.94/5 | Level: 3.37/7)
+- Administration and Management (Importance: 2.93/5 | Level: 3.78/7)
+- Telecommunications (Importance: 2.92/5 | Level: 2.84/7)
+- Engineering and Technology (Importance: 2.74/5 | Level: 3.34/7)
+- Law and Government (Importance: 2.66/5 | Level: 2.68/7)
+- Computers and Electronics (Importance: 2.65/5 | Level: 2.85/7)
+- Administrative (Importance: 2.57/5 | Level: 1.76/7)
+- Mathematics (Importance: 2.53/5 | Level: 2.71/7)
+- Building and Construction (Importance: 2.44/5 | Level: 3.04/7)
+- Communications and Media (Importance: 2.43/5 | Level: 2.25/7)
+- Psychology (Importance: 2.36/5 | Level: 2.74/7)
+- Production and Processing (Importance: 2.35/5 | Level: 2.36/7)
+- Physics (Importance: 2.16/5 | Level: 2.13/7)
+- Sales and Marketing (Importance: 2.14/5 | Level: 1.68/7)
+- Design (Importance: 1.97/5 | Level: 1.7/7)
+- Sociology and Anthropology (Importance: 1.95/5 | Level: 1.85/7)
+- Food Production (Importance: 1.88/5 | Level: 1.51/7)
+- Medicine and Dentistry (Importance: 1.87/5 | Level: 1.59/7)
+- Biology (Importance: 1.87/5 | Level: 1.6/7)
+- Foreign Language (Importance: 1.6/5 | Level: 0.84/7)
+- Chemistry (Importance: 1.59/5 | Level: 1.05/7)
+- Economics and Accounting (Importance: 1.56/5 | Level: 0.78/7)
+- History and Archeology (Importance: 1.37/5 | Level: 0.83/7)
+- Therapy and Counseling (Importance: 1.32/5 | Level: 0.69/7)
+- Philosophy and Theology (Importance: 1.11/5 | Level: 0.43/7)
+- Fine Arts (Importance: 1.02/5 | Level: 0.03/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operation and Control (Importance: 3.88/5 | Level: 4.0/7)
+- Operations Monitoring (Importance: 3.75/5 | Level: 3.62/7)
+- Equipment Maintenance (Importance: 3.38/5 | Level: 3.0/7)
+- Monitoring (Importance: 3.38/5 | Level: 3.38/7)
+- Speaking (Importance: 3.38/5 | Level: 2.88/7)
+- Judgment and Decision Making (Importance: 3.25/5 | Level: 3.12/7)
+- Critical Thinking (Importance: 3.12/5 | Level: 3.38/7)
+- Active Listening (Importance: 3.12/5 | Level: 2.88/7)
+- Troubleshooting (Importance: 3.0/5 | Level: 2.88/7)
+- Time Management (Importance: 3.0/5 | Level: 3.0/7)
+- Coordination (Importance: 3.0/5 | Level: 3.38/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 3.0/7)
+- Service Orientation (Importance: 3.0/5 | Level: 3.0/7)
+- Complex Problem Solving (Importance: 3.0/5 | Level: 3.0/7)
+- Instructing (Importance: 2.88/5 | Level: 2.88/7)
+- Repairing (Importance: 2.88/5 | Level: 2.88/7)
+- Reading Comprehension (Importance: 2.88/5 | Level: 3.0/7)
+- Quality Control Analysis (Importance: 2.88/5 | Level: 2.88/7)
+- Systems Analysis (Importance: 2.75/5 | Level: 2.25/7)
+- Active Learning (Importance: 2.75/5 | Level: 2.75/7)
+- Management of Personnel Resources (Importance: 2.75/5 | Level: 2.75/7)
+- Negotiation (Importance: 2.62/5 | Level: 2.38/7)
+- Systems Evaluation (Importance: 2.62/5 | Level: 2.25/7)
+- Equipment Selection (Importance: 2.62/5 | Level: 2.62/7)
+- Writing (Importance: 2.5/5 | Level: 2.75/7)
+- Persuasion (Importance: 2.38/5 | Level: 2.38/7)
+- Learning Strategies (Importance: 2.38/5 | Level: 2.5/7)
+- Mathematics (Importance: 2.25/5 | Level: 2.12/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.38/7)
+- Management of Financial Resources (Importance: 1.88/5 | Level: 1.0/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.0/7)
+- Operations Analysis (Importance: 1.62/5 | Level: 0.75/7)
+- Science (Importance: 1.5/5 | Level: 0.5/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Autopilot software (Tech skill type: Expert system software)
+- Cartography software (Tech skill type: Map creation software)
+- Echo sounder software (Tech skill type: Analytical or scientific software)
+- Global positioning system GPS software (Tech skill type: Mobile location based services software)
+- Radar software (Tech skill type: Analytical or scientific software)
+- Roam Devices Roam Marine Monitor Hub (Tech skill type: Expert system software)
+- SEA.AI Offshore ONE (Tech skill type: Mobile location based services software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Adjustable wrench sets (Tool type: Adjustable wrenches)
+- Air horns (Tool type: Safety horns)
+- Anchor lights (Tool type: Exterior ship or boat lighting)
+- Automatic bilge pumps (Tool type: Dewatering pumps)
+- Backfire flame arrestors (Tool type: Flame arrestor)
+- Binoculars (Tool type: Binoculars)
+- Boat hooks (Tool type: Boathooks)
+- Boat steering mechanisms (Tool type: Marine steering gear)
+- Boat tillers (Tool type: Tillers)
+- Boat towing hooks (Tool type: Towing hook)
+- Boat towing trailers (Tool type: Boat Trailer)
+- Booms (Tool type: Sail booms)
+- Burying anchors (Tool type: Tie down anchors)
+- Captive-pin shackles (Tool type: Shaft collar)
+- Carabiners (Tool type: Swivel carabiner)
+- Carbon dioxide fire extinguishers (Tool type: Fire extinguishers)
+- Carbon monoxide detectors (Tool type: Carbon monoxide analyzer)
+- Chafing gear (Tool type: Anchor lines)
+- Citizen's band CB radios (Tool type: Radio access equipment)
+- Danforth anchors (Tool type: Tie down anchors)
+- Desktop computers (Tool type: Desktop computers)
+- Die markers (Tool type: Emergency dye signals)
+- Discharger pumps (Tool type: Sump pumps)
+- Distress flags (Tool type: Marine signaling systems)
+- Diving masks (Tool type: Masks or fins or snorkels)
+- Drogues (Tool type: Marine rudders)
+- Dry chemical fire extinguishers (Tool type: Fire extinguishers)
+- Electronic navigational aids (Tool type: Complex controlling devices)
+- Emergency knives (Tool type: Utility knives)
+- Emergency position indicating radio beacons EPIRB (Tool type: Radio beacon)
+- Engine throttles (Tool type: Throttle)
+- Exposure suits (Tool type: Insulated or flotation suits)
+- Fire detectors (Tool type: Fire alarm systems)
+- First aid kits (Tool type: Mobile medical services first aid kits)
+- Fixed fire suppression systems (Tool type: Fire suppression system)
+- Floating smoke signals (Tool type: Smoke signal device)
+- Flotation aids (Tool type: Life rings)
+- Foam fire extinguishers (Tool type: Fire extinguishers)
+- Forced draft blowers (Tool type: Blowers)
+- Gas powered outboard motors (Tool type: Gasoline outboard motor)
+- Glow sticks (Tool type: Glow stick or light stick)
+- Grease dispensing guns (Tool type: Grease guns)
+- Halon fire extinguishers (Tool type: Fire extinguishers)
+- Handheld sprayers (Tool type: Hand sprayers)
+- High water alarms (Tool type: Depth indicators)
+- Inflatable personal flotation devices PFD (Tool type: Life vests or preservers)
+- Jet motors (Tool type: Gasoline outboard motor)
+- Jumper packs (Tool type: Electrical jumper cable)
+- Kedge anchors (Tool type: Tie down anchors)
+- Kicker engines (Tool type: Gasoline engines)
+- Lightning protection systems (Tool type: Lightning protection apparatus and accessories)
+- Manual bilge pumps (Tool type: Dewatering pumps)
+- Marine winches (Tool type: Winches)
+- Masthead lights (Tool type: Exterior ship or boat lighting)
+- Mini automatic radar plotting aids MARPA (Tool type: Radarbased surveillance systems)
+- Mobile radios (Tool type: Two way radios)
+- Mooring pendants (Tool type: Nylon rope)
+- Mushroom anchors (Tool type: Tie down anchors)
+- Navigational compasses (Tool type: Direction finding compasses)
+- Near-shore life jackets (Tool type: Life vests or preservers)
+- Nylon ropes (Tool type: Nylon rope)
+- Oars (Tool type: Paddles)
+- Offshore life jackets (Tool type: Life vests or preservers)
+- Oil dispensing cans (Tool type: Oil can)
+- Parachute flares (Tool type: Flares)
+- Pyrotechnic flares (Tool type: Flares)
+- Radar systems (Tool type: Radarbased surveillance systems)
+- Recreational life jackets (Tool type: Life vests or preservers)
+- Recreational motorboats (Tool type: Recreational motorboats)
+- Rescue throw bags (Tool type: Rope float lines)
+- Safety chains (Tool type: Safety chains)
+- Sanitation treatment tanks (Tool type: Collection tanks)
+- Satellite communications radios (Tool type: Marine craft communications systems)
+- Sidelights (Tool type: Exterior ship or boat lighting)
+- Signal bells (Tool type: Marine signaling systems)
+- Signal flags (Tool type: Flags or accessories)
+- Signal horns (Tool type: Marine signaling systems)
+- Signal lanterns (Tool type: Kerosene or propane or natural gas or butane lantern)
+- Signal mirrors (Tool type: Metallic mirrors)
+- Single sideband SSB radios (Tool type: Marine craft communications systems)
+- Smoke flares (Tool type: Flares)
+- Snorkels (Tool type: Masks or fins or snorkels)
+- Sonar devices (Tool type: Sonars)
+- Space blankets (Tool type: Reflective apparel or accessories)
+- Stern lights (Tool type: Exterior ship or boat lighting)
+- Strobe lights (Tool type: Strobe or warning lights)
+- Throwable flotation devices (Tool type: Life rings)
+- Very high frequency VHF radiotelephones (Tool type: Marine craft communications systems)
+- Visual distress signals (Tool type: Rescue light)
+- Wire cleaning brushes (Tool type: Wire brushes)
+- Wire ropes (Tool type: Wire rope)
+
+# WORK CONTEXT
+- Conflict Situations: Never
+- Consequence of Error: Not serious at all
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Extremely important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a week or more but not every day
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Never
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Every day
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Never
+- Exposed to Very Hot or Cold Temperatures: Every day
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Extremely important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Every day
+- Indoors, Environmentally Controlled: Never
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Slightly competitive
+- Outdoors, Exposed to All Weather Conditions: Every day
+- Outdoors, Under Cover: Every day
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Less than half the time
+- Spend Time Keeping or Regaining Balance: Less than half the time
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Less than half the time
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: More than half the time
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Once a week or more but not every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: High responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Never
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Enterprising
+
+# RELATED OCCUPATIONS
+- Captains, Mates, and Pilots of Water Vessels
+- Sailors and Marine Oilers
+- Ship Engineers
+- Motorboat Mechanics and Service Technicians
+- Dredge Operators
+- Riggers
+- Fishing and Hunting Workers
+- Hoist and Winch Operators
+- Heavy and Tractor-Trailer Truck Drivers
+- Commercial Pilots
+- Bridge and Lock Tenders
+- Aircraft Cargo Handling Supervisors
+- Rail Yard Engineers, Dinkey Operators, and Hostlers
+- Locomotive Engineers
+- Industrial Truck and Tractor Operators
+- Bus and Truck Mechanics and Diesel Engine Specialists
+- Highway Maintenance Workers
+- Railroad Brake, Signal, and Switch Operators and Locomotive Firers
+- Tank Car, Truck, and Ship Loaders
+- Crane and Tower Operators

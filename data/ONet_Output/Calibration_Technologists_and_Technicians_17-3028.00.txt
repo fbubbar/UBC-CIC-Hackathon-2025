@@ -1,0 +1,78 @@
+Job Title: Calibration Technologists and Technicians
+O*NET-SOC Code: 17-3028.00
+
+# DESCRIPTION
+Execute or adapt procedures and techniques for calibrating measurement devices, by applying knowledge of measurement science, mathematics, physics, chemistry, and electronics, sometimes under the direction of engineering staff. Determine measurement standard suitability for calibrating measurement devices. May perform preventive maintenance on equipment. May perform corrective actions to address identified calibration problems.
+
+# TASKS
+- Analyze test data to identify defects or determine calibration requirements.
+- Attend conferences, workshops, or other training sessions to learn about new tools or methods.
+- Calibrate devices by comparing measurements of pressure, temperature, humidity, or other environmental conditions to known standards.
+- Conduct calibration tests to determine performance or reliability of mechanical, structural, or electromechanical equipment.
+- Develop new calibration methods or techniques based on measurement science, analyses, or calibration requirements.
+- Disassemble and reassemble equipment for inspection.
+- Draw plans for developing jigs, fixtures, instruments, or other devices.
+- Maintain or repair measurement devices or equipment used for calibration testing.
+- Operate metalworking machines to fabricate housings, jigs, fittings, or fixtures.
+- Order replacement parts for malfunctioning equipment.
+- Plan sequences of calibration tests according to equipment specifications and scientific principles.
+- Read blueprints, schematics, diagrams, or technical orders.
+- Verify part dimensions or clearances using precision measuring instruments to ensure conformance to specifications.
+- Visually inspect equipment to detect surface defects.
+- Write and submit reports about the results of calibration tests.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- No specific knowledge areas listed.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- No specific skills listed.
+
+# TECHNOLOGY SKILLS & TOOLS
+- Apple macOS (Tech skill type: Operating system software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Autodesk AutoCAD Civil 3D (Tech skill type: Computer aided design CAD software)
+- Bentley MicroStation (Tech skill type: Computer aided design CAD software)
+- Dassault Systemes SolidWorks (Tech skill type: Computer aided design CAD software)
+- Linux (Tech skill type: Operating system software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Minitab (Tech skill type: Analytical or scientific software)
+- National Instruments LabVIEW (Tech skill type: Development environment software)
+- The MathWorks MATLAB (Tech skill type: Analytical or scientific software)
+- No specific tools listed.
+
+# WORK CONTEXT
+- No specific work context listed.
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Aerospace Engineering and Operations Technologists and Technicians
+- Electrical and Electronic Engineering Technologists and Technicians
+- Mechanical Engineering Technologists and Technicians
+- Electrical and Electronics Repairers, Commercial and Industrial Equipment
+- Robotics Technicians
+- Automotive Engineering Technicians
+- Electro-Mechanical and Mechatronics Technologists and Technicians
+- Electromechanical Equipment Assemblers
+- Inspectors, Testers, Sorters, Samplers, and Weighers
+- Medical Equipment Repairers
+- Electronics Engineers, Except Computer
+- Electrical and Electronics Installers and Repairers, Transportation Equipment
+- Mechanical Engineers
+- Electrical and Electronic Equipment Assemblers
+- Industrial Engineering Technologists and Technicians
+- Avionics Technicians
+- Photonics Technicians
+- Electrical and Electronics Repairers, Powerhouse, Substation, and Relay
+- Timing Device Assemblers and Adjusters
+- Mechatronics Engineers

@@ -1,0 +1,268 @@
+Job Title: Medical Appliance Technicians
+O*NET-SOC Code: 51-9082.00
+
+# DESCRIPTION
+Construct, maintain, or repair medical supportive devices such as braces, orthotics and prosthetic devices, joints, arch supports, and other surgical and medical appliances.
+
+# TASKS
+- Drill and tap holes for rivets, and glue, weld, bolt, or rivet parts together to form prosthetic or orthotic devices.
+- Read prescriptions or specifications to determine the type of product or device to be fabricated and the materials and tools required.
+- Make orthotic or prosthetic devices, using materials such as thermoplastic and thermosetting materials, metal alloys and leather, and hand or power tools.
+- Bend, form, and shape fabric or material to conform to prescribed contours of structural components.
+- Construct or receive casts or impressions of patients' torsos or limbs for use as cutting and fabrication patterns.
+- Repair, modify, or maintain medical supportive devices, such as artificial limbs, braces, or surgical supports, according to specifications.
+- Cover or pad metal or plastic structures or devices, using coverings such as rubber, leather, felt, plastic, or fiberglass.
+- Test medical supportive devices for proper alignment, movement, or biomechanical stability, using meters and alignment fixtures.
+- Lay out and mark dimensions of parts, using templates and precision measuring instruments.
+- Fit appliances onto patients, and make any necessary adjustments.
+- Polish artificial limbs, braces, or supports, using grinding and buffing wheels.
+- Take patients' body or limb measurements for use in device construction.
+- Instruct patients in use of prosthetic or orthotic devices.
+- Service or repair machinery used in the fabrication of appliances.
+- Mix pigments to match patients' skin coloring, according to formulas, and apply mixtures to orthotic or prosthetic devices.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Production and Processing (Importance: 3.89/5 | Level: 4.26/7)
+- Customer and Personal Service (Importance: 3.68/5 | Level: 4.21/7)
+- English Language (Importance: 3.47/5 | Level: 3.94/7)
+- Mechanical (Importance: 3.43/5 | Level: 3.85/7)
+- Design (Importance: 3.28/5 | Level: 3.76/7)
+- Education and Training (Importance: 3.07/5 | Level: 3.6/7)
+- Mathematics (Importance: 3.0/5 | Level: 3.17/7)
+- Administration and Management (Importance: 2.95/5 | Level: 3.25/7)
+- Administrative (Importance: 2.89/5 | Level: 3.17/7)
+- Engineering and Technology (Importance: 2.89/5 | Level: 3.31/7)
+- Physics (Importance: 2.87/5 | Level: 3.53/7)
+- Building and Construction (Importance: 2.76/5 | Level: 3.13/7)
+- Medicine and Dentistry (Importance: 2.73/5 | Level: 2.82/7)
+- Public Safety and Security (Importance: 2.65/5 | Level: 2.64/7)
+- Computers and Electronics (Importance: 2.63/5 | Level: 3.04/7)
+- Chemistry (Importance: 2.57/5 | Level: 3.09/7)
+- Sales and Marketing (Importance: 2.49/5 | Level: 2.23/7)
+- Personnel and Human Resources (Importance: 2.46/5 | Level: 2.4/7)
+- Therapy and Counseling (Importance: 2.4/5 | Level: 2.41/7)
+- Law and Government (Importance: 2.21/5 | Level: 2.15/7)
+- Communications and Media (Importance: 2.2/5 | Level: 2.05/7)
+- Biology (Importance: 2.18/5 | Level: 2.01/7)
+- Psychology (Importance: 2.18/5 | Level: 2.09/7)
+- Economics and Accounting (Importance: 2.15/5 | Level: 1.55/7)
+- Foreign Language (Importance: 2.06/5 | Level: 1.91/7)
+- Transportation (Importance: 1.98/5 | Level: 1.7/7)
+- Telecommunications (Importance: 1.81/5 | Level: 1.52/7)
+- Fine Arts (Importance: 1.69/5 | Level: 1.3/7)
+- Sociology and Anthropology (Importance: 1.66/5 | Level: 1.11/7)
+- Philosophy and Theology (Importance: 1.54/5 | Level: 1.12/7)
+- Geography (Importance: 1.5/5 | Level: 1.07/7)
+- History and Archeology (Importance: 1.49/5 | Level: 0.83/7)
+- Food Production (Importance: 1.35/5 | Level: 0.6/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Active Listening (Importance: 3.88/5 | Level: 3.62/7)
+- Critical Thinking (Importance: 3.75/5 | Level: 3.5/7)
+- Quality Control Analysis (Importance: 3.75/5 | Level: 3.75/7)
+- Troubleshooting (Importance: 3.62/5 | Level: 3.12/7)
+- Speaking (Importance: 3.62/5 | Level: 3.12/7)
+- Reading Comprehension (Importance: 3.62/5 | Level: 3.62/7)
+- Social Perceptiveness (Importance: 3.5/5 | Level: 3.0/7)
+- Operations Monitoring (Importance: 3.5/5 | Level: 3.0/7)
+- Complex Problem Solving (Importance: 3.38/5 | Level: 3.0/7)
+- Monitoring (Importance: 3.25/5 | Level: 3.12/7)
+- Judgment and Decision Making (Importance: 3.25/5 | Level: 3.12/7)
+- Service Orientation (Importance: 3.12/5 | Level: 3.0/7)
+- Active Learning (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 3.12/7)
+- Repairing (Importance: 3.0/5 | Level: 3.0/7)
+- Writing (Importance: 3.0/5 | Level: 3.0/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Equipment Maintenance (Importance: 3.0/5 | Level: 3.0/7)
+- Instructing (Importance: 3.0/5 | Level: 3.12/7)
+- Persuasion (Importance: 2.88/5 | Level: 2.38/7)
+- Systems Analysis (Importance: 2.88/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 2.88/5 | Level: 2.88/7)
+- Negotiation (Importance: 2.75/5 | Level: 2.12/7)
+- Mathematics (Importance: 2.75/5 | Level: 2.88/7)
+- Equipment Selection (Importance: 2.75/5 | Level: 2.62/7)
+- Operation and Control (Importance: 2.75/5 | Level: 2.75/7)
+- Management of Personnel Resources (Importance: 2.62/5 | Level: 2.12/7)
+- Systems Evaluation (Importance: 2.5/5 | Level: 2.5/7)
+- Technology Design (Importance: 2.38/5 | Level: 2.38/7)
+- Operations Analysis (Importance: 2.38/5 | Level: 2.25/7)
+- Management of Material Resources (Importance: 2.12/5 | Level: 2.12/7)
+- Management of Financial Resources (Importance: 1.88/5 | Level: 1.38/7)
+- Science (Importance: 1.88/5 | Level: 1.62/7)
+- Installation (Importance: 1.5/5 | Level: 0.88/7)
+- Programming (Importance: 1.38/5 | Level: 0.38/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Footmaxx Metascan software (Tech skill type: Medical software)
+- Gait analysis software (Tech skill type: Medical software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Ohio Willow Wood OMEGA Tracer System (Tech skill type: Computer aided design CAD software)
+- Orthotic fabrication software (Tech skill type: Computer aided manufacturing CAM software)
+- Seattle Systems Shapemaker (Tech skill type: Computer aided design CAD software)
+- SoftSource CADview (Tech skill type: Computer aided design CAD software)
+- Vorum Research Corporation CANFIT-PLUS (Tech skill type: Computer aided design CAD software)
+
+## TOOLS USED
+- 3D scanning systems (Tool type: Scanners)
+- Acetylene torches (Tool type: Blow torch)
+- Air compressors (Tool type: Respiratory therapy compressors)
+- Alignment stands (Tool type: Alignment jig)
+- Allen wrenches (Tool type: Hex keys)
+- Anvils (Tool type: Anvils)
+- Arbor presses (Tool type: Manual press brake)
+- Band saws (Tool type: Power saws)
+- Bead blasters (Tool type: Pneumatic sanding machines)
+- Belt sanders (Tool type: Belt sander)
+- Bench lathes (Tool type: Tracer or duplicating or contouring lathe)
+- Bench punches (Tool type: Punches or nail sets or drifts)
+- Bending brakes (Tool type: Hydraulic press brake)
+- Buffing wheels (Tool type: Power buffers)
+- Cast cutting saws (Tool type: Cast cutters or saws)
+- Claw hammers (Tool type: Claw hammer)
+- Computer numerical controlled CNC milling machines (Tool type: Traveling column milling machine)
+- Computerized lathes (Tool type: Horizontal turning center)
+- Cordless drills (Tool type: Power drills)
+- Cutting wheels (Tool type: Cutting machines)
+- Deburring tools (Tool type: Deburring tool)
+- Dial calipers (Tool type: Calipers)
+- Digital camcorders (Tool type: Digital camcorders or video cameras)
+- Digitizers (Tool type: Scanners)
+- Disk sanders (Tool type: Power sanders)
+- Drill presses (Tool type: Drilling machines)
+- Drum sanders (Tool type: Power sanders)
+- End cutting nippers (Tool type: End cut pliers)
+- Flatbed sewing machines (Tool type: Sewing machines)
+- Force platforms (Tool type: Pressure indicators)
+- Glue guns (Tool type: Glue guns)
+- Grinding equipment (Tool type: Power grinders)
+- Grinding rasps (Tool type: Rasps)
+- Grinding wheels (Tool type: Power grinders)
+- Half-round files (Tool type: Half round file)
+- Heat guns (Tool type: Heat guns)
+- Hex wrenches (Tool type: Hex keys)
+- High temperature laboratory box furnaces (Tool type: Laboratory box furnaces)
+- High temperature laboratory ovens (Tool type: Laboratory mechanical convection ovens)
+- High volume dust collectors (Tool type: Dust collectors)
+- Hot knives (Tool type: Utility knives)
+- Laboratory infrared ovens (Tool type: Laboratory mechanical convection ovens)
+- Laboratory mechanical benchtop convection ovens (Tool type: Laboratory mechanical convection ovens)
+- Laboratory mechanical convection ovens (Tool type: Laboratory mechanical convection ovens)
+- Laptop computers (Tool type: Notebook computers)
+- Longarm sewing machines (Tool type: Sewing machines)
+- Measuring tapes (Tool type: Tape measures)
+- Metal grinders (Tool type: Power grinders)
+- Metal-cutting bandsaws (Tool type: Power saws)
+- Personal computers (Tool type: Personal computers)
+- Pipe bending mandrels (Tool type: Pipe bending mandrel)
+- Pipe vises (Tool type: Pipe vises)
+- Pneumatic oscillating saws (Tool type: Power saws)
+- Pneumatic riveting hammers (Tool type: Pneumatic hammer)
+- Power drills (Tool type: Power drills)
+- Power planers (Tool type: Power planes)
+- Power routing tools (Tool type: Power routers)
+- Prosthetic bench vises (Tool type: Bench vises)
+- Protective ear muffs (Tool type: Acoustic ear muffs or defenders)
+- Rivet guns (Tool type: Power riveter)
+- Rotary saws (Tool type: Power saws)
+- Rubber mallets (Tool type: Rubber mallet)
+- Safety glasses (Tool type: Safety glasses)
+- Swaging tools (Tool type: Swaging tools)
+- Table saws (Tool type: Power saws)
+- Torque wrenches (Tool type: Torque wrenches)
+- Vacuum formers (Tool type: Vacuum molding machines)
+- Vacuum stations (Tool type: Pneumatic vacuum equipment)
+- Vertical routers (Tool type: Power routers)
+- Welders (Tool type: Spot welding machine)
+- Wood files (Tool type: Cheesegrater file)
+- Workshop bench vises (Tool type: Bench vises)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Serious
+- Contact With Others: Contact with others most of the time
+- Coordinate or Lead Others in Accomplishing Work Activities: Extremely important
+- Deal With External Customers or the Public in General: Very important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Once a week or more but not every day
+- Exposed to Hazardous Equipment: Every day
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Every day
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: High responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Highly competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Continually or almost continually
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: Continually or almost continually
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: About half the time
+- Telephone Conversations: Once a week or more but not every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Once a week or more but not every day
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a year or more but not every month
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Investigative
+- Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Dental Laboratory Technicians
+- Medical Equipment Repairers
+- Ophthalmic Laboratory Technicians
+- Structural Metal Fabricators and Fitters
+- Molders, Shapers, and Casters, Except Metal and Plastic
+- Surgical Technologists
+- Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders
+- Calibration Technologists and Technicians
+- Electrical and Electronic Equipment Assemblers
+- Medical Equipment Preparers
+- Orthotists and Prosthetists
+- Orthopedic Surgeons, Except Pediatric
+- Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+- Shoe and Leather Workers and Repairers
+- Prosthodontists
+- Endoscopy Technicians
+- Electromechanical Equipment Assemblers
+- Shoe Machine Operators and Tenders
+- Mechanical Engineering Technologists and Technicians
+- Pediatric Surgeons

@@ -1,0 +1,326 @@
+Job Title: Architectural and Engineering Managers
+O*NET-SOC Code: 11-9041.00
+
+# DESCRIPTION
+Plan, direct, or coordinate activities in such fields as architecture and engineering or research and development in these fields.
+
+# TASKS
+- Manage the coordination and overall integration of technical activities in architecture or engineering projects.
+- Direct, review, or approve project design changes.
+- Consult or negotiate with clients to prepare project specifications.
+- Prepare budgets, bids, or contracts.
+- Present and explain proposals, reports, or findings to clients.
+- Confer with management, production, or marketing staff to discuss project specifications or procedures.
+- Assess project feasibility by analyzing technology, resource needs, or market demand.
+- Review, recommend, or approve contracts or cost estimates.
+- Develop or implement policies, standards, or procedures for engineering and technical work.
+- Establish scientific or technical goals within broad outlines provided by top management.
+- Direct recruitment, placement, and evaluation of architecture or engineering project staff.
+- Perform administrative functions, such as reviewing or writing reports, approving expenditures, enforcing rules, or purchasing of materials or services.
+- Develop or implement programs to improve sustainability or reduce the environmental impacts of engineering or architecture activities or operations.
+- Evaluate the environmental impacts of engineering, architecture, or research and development activities.
+- Plan or direct the installation, testing, operation, maintenance, or repair of facilities or equipment.
+- Identify environmental threats or opportunities associated with the development and launch of new technologies.
+- Plan, direct, or coordinate survey work with other project activities.
+- Evaluate environmental regulations or social pressures related to environmental issues to inform strategic or operational decision-making.
+- Solicit project support by conferring with officials or providing information to the public.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Design (Importance: 4.32/5 | Level: 5.45/7)
+- Engineering and Technology (Importance: 4.29/5 | Level: 5.35/7)
+- Mathematics (Importance: 3.92/5 | Level: 4.91/7)
+- Administration and Management (Importance: 3.89/5 | Level: 4.46/7)
+- English Language (Importance: 3.87/5 | Level: 4.33/7)
+- Customer and Personal Service (Importance: 3.82/5 | Level: 5.21/7)
+- Mechanical (Importance: 3.66/5 | Level: 3.93/7)
+- Computers and Electronics (Importance: 3.38/5 | Level: 4.48/7)
+- Production and Processing (Importance: 3.21/5 | Level: 4.13/7)
+- Physics (Importance: 3.18/5 | Level: 3.89/7)
+- Administrative (Importance: 3.16/5 | Level: 4.22/7)
+- Public Safety and Security (Importance: 3.06/5 | Level: 3.43/7)
+- Building and Construction (Importance: 3.02/5 | Level: 3.59/7)
+- Law and Government (Importance: 2.94/5 | Level: 3.36/7)
+- Economics and Accounting (Importance: 2.85/5 | Level: 2.92/7)
+- Sales and Marketing (Importance: 2.82/5 | Level: 3.08/7)
+- Personnel and Human Resources (Importance: 2.77/5 | Level: 3.78/7)
+- Transportation (Importance: 2.53/5 | Level: 2.59/7)
+- Education and Training (Importance: 2.4/5 | Level: 3.54/7)
+- Chemistry (Importance: 2.39/5 | Level: 2.92/7)
+- Telecommunications (Importance: 2.39/5 | Level: 2.28/7)
+- Communications and Media (Importance: 2.36/5 | Level: 2.45/7)
+- Geography (Importance: 2.27/5 | Level: 3.08/7)
+- Psychology (Importance: 1.86/5 | Level: 1.93/7)
+- Fine Arts (Importance: 1.85/5 | Level: 1.82/7)
+- Foreign Language (Importance: 1.68/5 | Level: 1.17/7)
+- Sociology and Anthropology (Importance: 1.66/5 | Level: 1.45/7)
+- Philosophy and Theology (Importance: 1.61/5 | Level: 1.39/7)
+- Biology (Importance: 1.58/5 | Level: 1.46/7)
+- History and Archeology (Importance: 1.57/5 | Level: 1.13/7)
+- Medicine and Dentistry (Importance: 1.52/5 | Level: 1.06/7)
+- Therapy and Counseling (Importance: 1.3/5 | Level: 0.56/7)
+- Food Production (Importance: 1.03/5 | Level: 0.08/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Reading Comprehension (Importance: 4.12/5 | Level: 4.38/7)
+- Writing (Importance: 4.0/5 | Level: 4.12/7)
+- Complex Problem Solving (Importance: 4.0/5 | Level: 4.25/7)
+- Speaking (Importance: 4.0/5 | Level: 4.0/7)
+- Active Listening (Importance: 4.0/5 | Level: 4.0/7)
+- Judgment and Decision Making (Importance: 3.88/5 | Level: 4.25/7)
+- Time Management (Importance: 3.88/5 | Level: 4.0/7)
+- Mathematics (Importance: 3.88/5 | Level: 4.25/7)
+- Active Learning (Importance: 3.88/5 | Level: 3.88/7)
+- Critical Thinking (Importance: 3.88/5 | Level: 4.25/7)
+- Coordination (Importance: 3.75/5 | Level: 4.12/7)
+- Monitoring (Importance: 3.75/5 | Level: 4.0/7)
+- Social Perceptiveness (Importance: 3.5/5 | Level: 3.62/7)
+- Instructing (Importance: 3.25/5 | Level: 3.75/7)
+- Learning Strategies (Importance: 3.25/5 | Level: 3.12/7)
+- Management of Personnel Resources (Importance: 3.25/5 | Level: 3.88/7)
+- Service Orientation (Importance: 3.25/5 | Level: 3.25/7)
+- Systems Analysis (Importance: 3.12/5 | Level: 3.62/7)
+- Negotiation (Importance: 3.12/5 | Level: 3.88/7)
+- Persuasion (Importance: 3.12/5 | Level: 3.75/7)
+- Systems Evaluation (Importance: 3.0/5 | Level: 3.25/7)
+- Quality Control Analysis (Importance: 3.0/5 | Level: 3.12/7)
+- Management of Material Resources (Importance: 2.88/5 | Level: 3.0/7)
+- Management of Financial Resources (Importance: 2.88/5 | Level: 3.25/7)
+- Science (Importance: 2.62/5 | Level: 2.75/7)
+- Operations Monitoring (Importance: 2.5/5 | Level: 2.62/7)
+- Operations Analysis (Importance: 2.38/5 | Level: 2.25/7)
+- Troubleshooting (Importance: 2.0/5 | Level: 2.0/7)
+- Programming (Importance: 1.88/5 | Level: 1.12/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.75/7)
+- Operation and Control (Importance: 1.5/5 | Level: 1.12/7)
+- Equipment Maintenance (Importance: 1.12/5 | Level: 0.12/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adobe Acrobat Pro Extended (Tech skill type: Document management software)
+- Adobe LifeCycle ES (Tech skill type: Document management software)
+- Agile Product Lifecyle Management PLM (Tech skill type: Enterprise resource planning ERP software)
+- Amazon DynamoDB (Tech skill type: Data base management system software)
+- Amazon Elastic Compute Cloud EC2 (Tech skill type: Data base user interface and query software)
+- Amazon Redshift (Tech skill type: Data base user interface and query software)
+- Amazon Web Services AWS software (Tech skill type: Data base user interface and query software)
+- Ansible software (Tech skill type: Expert system software)
+- Apache Cassandra (Tech skill type: Data base management system software)
+- Apache Groovy (Tech skill type: Object or component oriented development software)
+- Apache Hadoop (Tech skill type: Data base management system software)
+- Apache Hive (Tech skill type: Data base management system software)
+- Apache Kafka (Tech skill type: Development environment software)
+- Apache Maven (Tech skill type: Development environment software)
+- Apache Pig (Tech skill type: Data base management system software)
+- Apache Solr (Tech skill type: Data base management system software)
+- Apple macOS (Tech skill type: Operating system software)
+- Aptean Made2Manage (Tech skill type: Enterprise resource planning ERP software)
+- Atlassian Confluence (Tech skill type: Project management software)
+- Atlassian JIRA (Tech skill type: Content workflow software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Autodesk AutoCAD Civil 3D (Tech skill type: Computer aided design CAD software)
+- Autodesk Revit (Tech skill type: Computer aided design CAD software)
+- Autodesk VIZ (Tech skill type: Computer aided design CAD software)
+- Backbone.js (Tech skill type: Web platform development software)
+- Bash (Tech skill type: Operating system software)
+- Bentley MicroStation (Tech skill type: Computer aided design CAD software)
+- C (Tech skill type: Development environment software)
+- C# (Tech skill type: Object or component oriented development software)
+- C++ (Tech skill type: Object or component oriented development software)
+- Chef (Tech skill type: Configuration management software)
+- Cisco IOS (Tech skill type: Operating system software)
+- Citrix cloud computing software (Tech skill type: Access software)
+- Computer aided design and drafting software CADD (Tech skill type: Computer aided design CAD software)
+- Computer aided manufacturing CAM software (Tech skill type: Computer aided manufacturing CAM software)
+- Customer information control system CICS (Tech skill type: Transaction server software)
+- Dassault Systemes CATIA (Tech skill type: Computer aided design CAD software)
+- Dassault Systemes SolidWorks (Tech skill type: Computer aided design CAD software)
+- Delcam PowerMILL (Tech skill type: Computer aided manufacturing CAM software)
+- Django (Tech skill type: Web platform development software)
+- Docker (Tech skill type: Application server software)
+- Drawing and drafting software (Tech skill type: Computer aided design CAD software)
+- Elasticsearch (Tech skill type: Data base management system software)
+- ESRI ArcGIS software (Tech skill type: Geographic information system)
+- ESRI ArcView (Tech skill type: Geographic information system)
+- Extensible markup language XML (Tech skill type: Enterprise application integration software)
+- Geographic information system GIS software (Tech skill type: Geographic information system)
+- Geometric CAMWorks (Tech skill type: Computer aided manufacturing CAM software)
+- Git (Tech skill type: File versioning software)
+- GitHub (Tech skill type: Application server software)
+- Go (Tech skill type: Development environment software)
+- HEC-1 (Tech skill type: Analytical or scientific software)
+- HEC-RAS (Tech skill type: Analytical or scientific software)
+- Hewlett Packard LoadRunner (Tech skill type: Program testing software)
+- Hewlett-Packard HP SolidDesigner (Tech skill type: Computer aided design CAD software)
+- IBM Notes (Tech skill type: Electronic mail software)
+- IBM SPSS Statistics (Tech skill type: Analytical or scientific software)
+- Inventory management software (Tech skill type: Inventory management software)
+- JavaScript (Tech skill type: Web platform development software)
+- JavaScript Object Notation JSON (Tech skill type: Web platform development software)
+- Kronos Workforce Timekeeper (Tech skill type: Time accounting software)
+- LAMP Stack (Tech skill type: Web platform development software)
+- Linux (Tech skill type: Operating system software)
+- LSA Visual Easy Lean (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Maintenance scheduling software (Tech skill type: Calendar and scheduling software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Azure software (Tech skill type: Development environment software)
+- Microsoft Dynamics (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Dynamics NAV (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Exchange (Tech skill type: Electronic mail software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft SQL Server (Tech skill type: Data base user interface and query software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Visual Basic (Tech skill type: Development environment software)
+- Microsoft Word (Tech skill type: Word processing software)
+- MicroStrategy (Tech skill type: Business intelligence and data analysis software)
+- Minitab (Tech skill type: Analytical or scientific software)
+- MongoDB (Tech skill type: Data base management system software)
+- MySQL (Tech skill type: Data base management system software)
+- Nagios (Tech skill type: Network monitoring software)
+- National Instruments LabVIEW (Tech skill type: Development environment software)
+- Node.js (Tech skill type: Web platform development software)
+- NoSQL (Tech skill type: Data base management system software)
+- Objective C (Tech skill type: Object or component oriented development software)
+- Open Mind hyperMILL (Tech skill type: Computer aided manufacturing CAM software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- Oracle JD Edwards EnterpriseOne (Tech skill type: Enterprise resource planning ERP software)
+- Oracle Primavera Enterprise Project Portfolio Management (Tech skill type: Project management software)
+- Oracle Solaris (Tech skill type: Operating system software)
+- Perforce Helix software (Tech skill type: Configuration management software)
+- Perl (Tech skill type: Object or component oriented development software)
+- PHP (Tech skill type: Web platform development software)
+- PostgreSQL (Tech skill type: Object oriented data base management software)
+- PTC Creo Parametric (Tech skill type: Computer aided design CAD software)
+- Puppet (Tech skill type: Configuration management software)
+- Python (Tech skill type: Object or component oriented development software)
+- Qlik Tech QlikView (Tech skill type: Business intelligence and data analysis software)
+- R (Tech skill type: Object or component oriented development software)
+- React (Tech skill type: Web platform development software)
+- Realization Streamliner (Tech skill type: Project management software)
+- Relational database management software (Tech skill type: Data base management system software)
+- RTA Fleet Management (Tech skill type: Industrial control software)
+- Ruby (Tech skill type: Development environment software)
+- Ruby on Rails (Tech skill type: Web platform development software)
+- Sage 50 Accounting (Tech skill type: Accounting software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Scala (Tech skill type: Object or component oriented development software)
+- Scheduling software (Tech skill type: Calendar and scheduling software)
+- Shell script (Tech skill type: Operating system software)
+- Splunk Enterprise (Tech skill type: Cloud-based management software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Supervisory control and data acquisition SCADA software (Tech skill type: Industrial control software)
+- Swift (Tech skill type: Object or component oriented development software)
+- Teradata Database (Tech skill type: Data base management system software)
+- The Gordian Group PROGEN Online (Tech skill type: Project management software)
+- The MathWorks MATLAB (Tech skill type: Analytical or scientific software)
+- Trimble SketchUp Pro (Tech skill type: Graphics or photo imaging software)
+- Ubuntu (Tech skill type: Operating system software)
+- UNIX (Tech skill type: Operating system software)
+- Verilog (Tech skill type: Development environment software)
+- Virtual private networking VPN software (Tech skill type: Network security and virtual private network VPN equipment software)
+- Water surface pressure gradient WSPG software (Tech skill type: Analytical or scientific software)
+- Web browser software (Tech skill type: Internet browser software)
+- Wireshark (Tech skill type: Network monitoring software)
+- Word processing software (Tech skill type: Word processing software)
+- Workflow software (Tech skill type: Content workflow software)
+
+## TOOLS USED
+- Desktop computers (Tool type: Desktop computers)
+- Drawing tablets (Tool type: Graphics tablets)
+- Notebook computers (Tool type: Notebook computers)
+- Personal computers (Tool type: Personal computers)
+- Personal digital assistants PDA (Tool type: Personal digital assistant PDAs or organizers)
+- Scanners (Tool type: Scanners)
+- Tablet computers (Tool type: Tablet computers)
+
+# WORK CONTEXT
+- Conflict Situations: Once a month or more but not every week
+- Consequence of Error: Fairly serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Once a year or more but not every month
+- Exposed to Cramped Work Space, Awkward Positions: Once a year or more but not every month
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Once a week or more but not every day
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Limited responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Very important
+- Importance of Repeating Same Tasks: Important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Once a year or more but not every month
+- Level of Competition: Highly competitive
+- Outdoors, Exposed to All Weather Conditions: Once a year or more but not every month
+- Outdoors, Under Cover: Once a year or more but not every month
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Slightly close (e.g., shared office)
+- Public Speaking: Once a month or more but not every week
+- Spend Time Bending or Twisting Your Body: Never
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Less than half the time
+- Spend Time Sitting: More than half the time
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Once a week or more but not every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Once a year or more but not every month
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: High responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a month or more but not every week
+
+# INTERESTS (RIASEC)
+- Primary Interest: Enterprising
+- Secondary Interest: Conventional
+- Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Project Management Specialists
+- Industrial Engineers
+- Electrical Engineers
+- Logistics Engineers
+- Mechatronics Engineers
+- Engineering Teachers, Postsecondary
+- Civil Engineers
+- Electronics Engineers, Except Computer
+- Natural Sciences Managers
+- Biofuels/Biodiesel Technology and Product Development Managers
+- Civil Engineering Technologists and Technicians
+- Mechanical Engineering Technologists and Technicians
+- Industrial Engineering Technologists and Technicians
+- Manufacturing Engineers
+- Sales Engineers
+- Construction Managers
+- Architectural and Civil Drafters
+- Electrical and Electronic Engineering Technologists and Technicians
+- Mechanical Engineers
+- Software Developers

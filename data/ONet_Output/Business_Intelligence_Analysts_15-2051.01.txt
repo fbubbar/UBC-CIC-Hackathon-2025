@@ -1,0 +1,392 @@
+Job Title: Business Intelligence Analysts
+O*NET-SOC Code: 15-2051.01
+
+# DESCRIPTION
+Produce financial and market intelligence by querying data repositories and generating periodic reports. Devise methods for identifying data patterns and trends in available information sources.
+
+# TASKS
+- Generate standard or custom reports summarizing business, financial, or economic data for review by executives, managers, clients, and other stakeholders.
+- Maintain or update business intelligence tools, databases, dashboards, systems, or methods.
+- Manage timely flow of business intelligence information to users.
+- Provide technical support for existing reports, dashboards, or other tools.
+- Identify and analyze industry or geographic trends with business strategy implications.
+- Document specifications for business intelligence or information technology reports, dashboards, or other outputs.
+- Create business intelligence tools or systems, including design of related databases, spreadsheets, or outputs.
+- Collect business intelligence data from available industry reports, public information, field reports, or purchased sources.
+- Disseminate information regarding tools, reports, or metadata enhancements.
+- Conduct or coordinate tests to ensure that intelligence is consistent with defined needs.
+- Synthesize current business intelligence or trend data to support recommendations for action.
+- Analyze competitive market strategies through analysis of related product, market, or share trends.
+- Identify or monitor current and potential customers, using business intelligence tools.
+- Communicate with customers, competitors, suppliers, professional organizations, or others to stay abreast of industry or business trends.
+- Maintain library of model documents, templates, or other reusable knowledge assets.
+- Create or review technical design documentation to ensure the accurate development of reporting solutions.
+- Analyze technology trends to identify markets for future product development or to improve sales of existing products.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Computers and Electronics (Importance: 4.29/5 | Level: 5.41/7)
+- Mathematics (Importance: 3.82/5 | Level: 4.67/7)
+- English Language (Importance: 3.77/5 | Level: 4.41/7)
+- Administration and Management (Importance: 3.14/5 | Level: 4.14/7)
+- Customer and Personal Service (Importance: 3.1/5 | Level: 3.76/7)
+- Economics and Accounting (Importance: 3.0/5 | Level: 3.59/7)
+- Communications and Media (Importance: 2.59/5 | Level: 2.95/7)
+- Education and Training (Importance: 2.5/5 | Level: 3.32/7)
+- Sales and Marketing (Importance: 2.45/5 | Level: 3.14/7)
+- Administrative (Importance: 2.43/5 | Level: 3.64/7)
+- Design (Importance: 2.43/5 | Level: 2.5/7)
+- Engineering and Technology (Importance: 2.36/5 | Level: 2.77/7)
+- Sociology and Anthropology (Importance: 2.23/5 | Level: 2.59/7)
+- Geography (Importance: 2.23/5 | Level: 3.45/7)
+- Psychology (Importance: 2.18/5 | Level: 2.41/7)
+- Law and Government (Importance: 2.14/5 | Level: 2.36/7)
+- Personnel and Human Resources (Importance: 1.91/5 | Level: 2.23/7)
+- Production and Processing (Importance: 1.75/5 | Level: 1.57/7)
+- History and Archeology (Importance: 1.73/5 | Level: 1.77/7)
+- Telecommunications (Importance: 1.55/5 | Level: 1.14/7)
+- Public Safety and Security (Importance: 1.55/5 | Level: 1.0/7)
+- Fine Arts (Importance: 1.5/5 | Level: 1.0/7)
+- Philosophy and Theology (Importance: 1.45/5 | Level: 1.23/7)
+- Foreign Language (Importance: 1.36/5 | Level: 0.77/7)
+- Therapy and Counseling (Importance: 1.18/5 | Level: 0.32/7)
+- Transportation (Importance: 1.18/5 | Level: 0.55/7)
+- Medicine and Dentistry (Importance: 1.18/5 | Level: 0.45/7)
+- Building and Construction (Importance: 1.14/5 | Level: 0.45/7)
+- Mechanical (Importance: 1.14/5 | Level: 0.32/7)
+- Food Production (Importance: 1.14/5 | Level: 0.55/7)
+- Physics (Importance: 1.09/5 | Level: 0.27/7)
+- Biology (Importance: 1.09/5 | Level: 0.36/7)
+- Chemistry (Importance: 1.09/5 | Level: 0.27/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.25/7)
+- Active Learning (Importance: 3.88/5 | Level: 4.12/7)
+- Active Listening (Importance: 3.88/5 | Level: 4.0/7)
+- Speaking (Importance: 3.88/5 | Level: 4.0/7)
+- Critical Thinking (Importance: 3.88/5 | Level: 4.25/7)
+- Writing (Importance: 3.75/5 | Level: 4.0/7)
+- Judgment and Decision Making (Importance: 3.62/5 | Level: 4.0/7)
+- Mathematics (Importance: 3.5/5 | Level: 3.88/7)
+- Complex Problem Solving (Importance: 3.38/5 | Level: 3.75/7)
+- Systems Evaluation (Importance: 3.12/5 | Level: 3.75/7)
+- Systems Analysis (Importance: 3.12/5 | Level: 3.75/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.25/7)
+- Time Management (Importance: 3.12/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 3.0/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Instructing (Importance: 3.0/5 | Level: 3.0/7)
+- Service Orientation (Importance: 2.88/5 | Level: 2.88/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.88/7)
+- Persuasion (Importance: 2.88/5 | Level: 3.0/7)
+- Negotiation (Importance: 2.5/5 | Level: 2.88/7)
+- Programming (Importance: 2.5/5 | Level: 2.5/7)
+- Management of Personnel Resources (Importance: 2.12/5 | Level: 2.0/7)
+- Quality Control Analysis (Importance: 2.0/5 | Level: 1.5/7)
+- Management of Financial Resources (Importance: 1.88/5 | Level: 1.75/7)
+- Operations Analysis (Importance: 1.88/5 | Level: 1.62/7)
+- Management of Material Resources (Importance: 1.75/5 | Level: 1.25/7)
+- Operations Monitoring (Importance: 1.75/5 | Level: 1.12/7)
+- Technology Design (Importance: 1.62/5 | Level: 0.88/7)
+- Science (Importance: 1.62/5 | Level: 0.75/7)
+- Operation and Control (Importance: 1.38/5 | Level: 0.38/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Actuate Eclipse BIRT (Tech skill type: Data base reporting software)
+- Adobe Acrobat (Tech skill type: Document management software)
+- Adobe ActionScript (Tech skill type: Development environment software)
+- Adobe Dreamweaver (Tech skill type: Web page creation and editing software)
+- Advanced business application programming ABAP (Tech skill type: Object or component oriented development software)
+- Airtable (Tech skill type: Data base user interface and query software)
+- AJAX (Tech skill type: Web platform development software)
+- Alteryx software (Tech skill type: Business intelligence and data analysis software)
+- Amazon DynamoDB (Tech skill type: Data base management system software)
+- Amazon Elastic Compute Cloud EC2 (Tech skill type: Data base user interface and query software)
+- Amazon Redshift (Tech skill type: Data base user interface and query software)
+- Amazon Web Services AWS software (Tech skill type: Data base user interface and query software)
+- Apache Ant (Tech skill type: Development environment software)
+- Apache Cassandra (Tech skill type: Data base management system software)
+- Apache Groovy (Tech skill type: Object or component oriented development software)
+- Apache Hadoop (Tech skill type: Data base management system software)
+- Apache Hive (Tech skill type: Data base management system software)
+- Apache HTTP Server (Tech skill type: Portal server software)
+- Apache Kafka (Tech skill type: Development environment software)
+- Apache Pig (Tech skill type: Data base management system software)
+- Apache Solr (Tech skill type: Data base management system software)
+- Apache Spark (Tech skill type: Business intelligence and data analysis software)
+- Apache Struts (Tech skill type: Web platform development software)
+- Apache Tomcat (Tech skill type: Web platform development software)
+- Atlassian Confluence (Tech skill type: Project management software)
+- Atlassian JIRA (Tech skill type: Content workflow software)
+- Bash (Tech skill type: Operating system software)
+- Blackbaud The Raiser's Edge (Tech skill type: Customer relationship management CRM software)
+- Business Objects Data Integrator (Tech skill type: Development environment software)
+- C (Tech skill type: Development environment software)
+- C# (Tech skill type: Object or component oriented development software)
+- C++ (Tech skill type: Object or component oriented development software)
+- Citrix cloud computing software (Tech skill type: Access software)
+- Common business oriented language COBOL (Tech skill type: Development environment software)
+- Customer information control system CICS (Tech skill type: Transaction server software)
+- Data modeling software (Tech skill type: Metadata management software)
+- Data warehouse software (Tech skill type: Data mining software)
+- Database software (Tech skill type: Data base user interface and query software)
+- Delphi Technology (Tech skill type: Financial analysis software)
+- Django (Tech skill type: Web platform development software)
+- Drupal (Tech skill type: Web platform development software)
+- Dynamic hypertext markup language DHTML (Tech skill type: Web platform development software)
+- Eclipse IDE (Tech skill type: Development environment software)
+- Eko (Tech skill type: Desktop communications software)
+- Elasticsearch (Tech skill type: Data base management system software)
+- Enterprise JavaBeans (Tech skill type: Web platform development software)
+- Enterprise resource planning ERP software (Tech skill type: Enterprise resource planning ERP software)
+- Epic Systems (Tech skill type: Medical software)
+- ESRI ArcGIS software (Tech skill type: Geographic information system)
+- Ext JS (Tech skill type: Web platform development software)
+- Extensible hypertext markup language XHTML (Tech skill type: Web platform development software)
+- Extensible markup language XML (Tech skill type: Enterprise application integration software)
+- Facebook (Tech skill type: Web page creation and editing software)
+- FileMaker Pro (Tech skill type: Data base user interface and query software)
+- Fund accounting software (Tech skill type: Accounting software)
+- Geographic information system GIS software (Tech skill type: Geographic information system)
+- Git (Tech skill type: File versioning software)
+- GitHub (Tech skill type: Application server software)
+- Go (Tech skill type: Development environment software)
+- Google Ads (Tech skill type: Sales and marketing software)
+- Google Analytics (Tech skill type: Data mining software)
+- Google Docs (Tech skill type: Word processing software)
+- Google Sites (Tech skill type: Web page creation and editing software)
+- Google Slides (Tech skill type: Presentation software)
+- Healthcare common procedure coding system HCPCS (Tech skill type: Medical software)
+- Hewlett Packard HP-UX (Tech skill type: Operating system software)
+- Hewlett Packard LoadRunner (Tech skill type: Program testing software)
+- Hibernate ORM (Tech skill type: Object oriented data base management software)
+- Human resource management software HRMS (Tech skill type: Human resources software)
+- Hypertext markup language HTML (Tech skill type: Web platform development software)
+- IBM Cognos Impromptu (Tech skill type: Business intelligence and data analysis software)
+- IBM DB2 (Tech skill type: Data base user interface and query software)
+- IBM Domino (Tech skill type: Communications server software)
+- IBM InfoSphere DataStage (Tech skill type: Enterprise application integration software)
+- IBM Notes (Tech skill type: Electronic mail software)
+- IBM Power Systems software (Tech skill type: Enterprise system management software)
+- IBM SPSS Statistics (Tech skill type: Analytical or scientific software)
+- IBM Unica Enterprise (Tech skill type: Financial analysis software)
+- IBM WebSphere (Tech skill type: Cloud-based management software)
+- Informatica Data Explorer (Tech skill type: Data mining software)
+- Informatica software (Tech skill type: Metadata management software)
+- Information Builders WebFOCUS (Tech skill type: Data base reporting software)
+- Integrated development environment IDE software (Tech skill type: Development environment software)
+- JavaScript (Tech skill type: Web platform development software)
+- JavaScript Object Notation JSON (Tech skill type: Web platform development software)
+- Job control language JCL (Tech skill type: Operating system software)
+- jQuery (Tech skill type: Object or component oriented development software)
+- Jupyter Notebook (Tech skill type: Object or component oriented development software)
+- KornShell (Tech skill type: Operating system software)
+- LexisNexis (Tech skill type: Information retrieval or search software)
+- Linux (Tech skill type: Operating system software)
+- Marketo Marketing Automation (Tech skill type: Sales and marketing software)
+- McAfee (Tech skill type: Transaction security and virus protection software)
+- Medical condition coding software (Tech skill type: Medical software)
+- Medical procedure coding software (Tech skill type: Medical software)
+- MEDITECH software (Tech skill type: Medical software)
+- Microsoft .NET Framework (Tech skill type: Development environment software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Active Server Pages ASP (Tech skill type: Web platform development software)
+- Microsoft ActiveX (Tech skill type: Object or component oriented development software)
+- Microsoft ASP.NET (Tech skill type: Web platform development software)
+- Microsoft Azure software (Tech skill type: Development environment software)
+- Microsoft Dynamics (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Dynamics GP (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Exchange (Tech skill type: Electronic mail software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Power BI (Tech skill type: Business intelligence and data analysis software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft PowerShell (Tech skill type: Development environment software)
+- Microsoft Proclarity (Tech skill type: Data base reporting software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft Publisher (Tech skill type: Desktop publishing software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft SQL Server (Tech skill type: Data base user interface and query software)
+- Microsoft SQL Server Integration Services SSIS (Tech skill type: Enterprise application integration software)
+- Microsoft SQL Server Reporting Services SSRS (Tech skill type: Data base reporting software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Visual Basic (Tech skill type: Development environment software)
+- Microsoft Visual Basic for Applications VBA (Tech skill type: Development environment software)
+- Microsoft Visual Basic Scripting Edition VBScript (Tech skill type: Development environment software)
+- Microsoft Visual Studio (Tech skill type: Development environment software)
+- Microsoft Windows Server (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- MicroStrategy (Tech skill type: Business intelligence and data analysis software)
+- Minitab (Tech skill type: Analytical or scientific software)
+- MongoDB (Tech skill type: Data base management system software)
+- MySQL (Tech skill type: Data base management system software)
+- Nagios (Tech skill type: Network monitoring software)
+- NetSuite ERP (Tech skill type: Enterprise resource planning ERP software)
+- NortonLifeLock cybersecurity software (Tech skill type: Transaction security and virus protection software)
+- NoSQL (Tech skill type: Data base management system software)
+- Oracle Business Intelligence Enterprise Edition (Tech skill type: Business intelligence and data analysis software)
+- Oracle Cloud software (Tech skill type: Cloud-based management software)
+- Oracle Database (Tech skill type: Data base user interface and query software)
+- Oracle E-Business Suite Financials (Tech skill type: Financial analysis software)
+- Oracle Eloqua (Tech skill type: Customer relationship management CRM software)
+- Oracle Essbase (Tech skill type: Data base user interface and query software)
+- Oracle Fusion Applications (Tech skill type: Enterprise resource planning ERP software)
+- Oracle Hyperion (Tech skill type: Enterprise resource planning ERP software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- Oracle JavaServer Pages JSP (Tech skill type: Web platform development software)
+- Oracle JD Edwards EnterpriseOne (Tech skill type: Enterprise resource planning ERP software)
+- Oracle JDBC (Tech skill type: Data base user interface and query software)
+- Oracle PeopleSoft (Tech skill type: Enterprise resource planning ERP software)
+- Oracle PeopleSoft Financials (Tech skill type: Enterprise resource planning ERP software)
+- Oracle PL/SQL (Tech skill type: Data base management system software)
+- Oracle Primavera Enterprise Project Portfolio Management (Tech skill type: Project management software)
+- Oracle Siebel Marketing Resource Management (Tech skill type: Customer relationship management CRM software)
+- Oracle Solaris (Tech skill type: Operating system software)
+- Oracle SQL Developer (Tech skill type: Development environment software)
+- Oracle Taleo (Tech skill type: Human resources software)
+- Oracle WebLogic Server (Tech skill type: Application server software)
+- Panorama NovaView (Tech skill type: Data base reporting software)
+- Perl (Tech skill type: Object or component oriented development software)
+- PHP (Tech skill type: Web platform development software)
+- PostgreSQL (Tech skill type: Object oriented data base management software)
+- PTC Creo Parametric (Tech skill type: Computer aided design CAD software)
+- Python (Tech skill type: Object or component oriented development software)
+- Qlik Tech QlikView (Tech skill type: Business intelligence and data analysis software)
+- Quest Erwin Data Modeler (Tech skill type: Metadata management software)
+- R (Tech skill type: Object or component oriented development software)
+- Red Hat Enterprise Linux (Tech skill type: Operating system software)
+- Red Hat WildFly (Tech skill type: Application server software)
+- Relational database management software (Tech skill type: Data base management system software)
+- Reporting software (Tech skill type: Data base reporting software)
+- Rogue Wave Software IMSL Numerical Libraries (Tech skill type: Analytical or scientific software)
+- Ruby (Tech skill type: Development environment software)
+- Ruby on Rails (Tech skill type: Web platform development software)
+- Salesforce software (Tech skill type: Customer relationship management CRM software)
+- Salesforce Visualforce (Tech skill type: Graphical user interface development software)
+- SAP Business Objects (Tech skill type: Enterprise resource planning ERP software)
+- SAP BusinessObjects Data Integrator (Tech skill type: Enterprise application integration software)
+- SAP Crystal Reports (Tech skill type: Data base reporting software)
+- SAP ERP (Tech skill type: Enterprise resource planning ERP software)
+- SAP NetWeaver BW (Tech skill type: Data mining software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- SAS (Tech skill type: Analytical or scientific software)
+- Scala (Tech skill type: Object or component oriented development software)
+- Shell script (Tech skill type: Operating system software)
+- SiSense Prism (Tech skill type: Data base reporting software)
+- Skype (Tech skill type: Desktop communications software)
+- Splunk Enterprise (Tech skill type: Cloud-based management software)
+- StataCorp Stata (Tech skill type: Analytical or scientific software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Swift (Tech skill type: Object or component oriented development software)
+- Tableau (Tech skill type: Business intelligence and data analysis software)
+- Tax software (Tech skill type: Accounting software)
+- Teradata Database (Tech skill type: Data base management system software)
+- The MathWorks MATLAB (Tech skill type: Analytical or scientific software)
+- Transact-SQL (Tech skill type: Data base user interface and query software)
+- Ubuntu (Tech skill type: Operating system software)
+- Unified modeling language UML (Tech skill type: Requirements analysis and system architecture software)
+- UNIX (Tech skill type: Operating system software)
+- UNIX Shell (Tech skill type: Operating system software)
+- Veritas NetBackup (Tech skill type: Backup or archival software)
+- Virtual private networking VPN software (Tech skill type: Network security and virtual private network VPN equipment software)
+- Wireshark (Tech skill type: Network monitoring software)
+- YouTube (Tech skill type: Video creation and editing software)
+
+## TOOLS USED
+- Computer servers (Tool type: Computer servers)
+- Data warehouse appliances (Tool type: High end computer servers)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Photocopiers (Tool type: Photocopiers)
+- Scanners (Tool type: Scanners)
+- Storage servers (Tool type: Computer servers)
+
+# WORK CONTEXT
+- Conflict Situations: Once a month or more but not every week
+- Consequence of Error: Fairly serious
+- Contact With Others: Contact with others about half the time
+- Coordinate or Lead Others in Accomplishing Work Activities: Important
+- Deal With External Customers or the Public in General: Not important at all
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Slightly automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Never
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Once a week or more but not every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Once a month or more but not every week
+- Health and Safety of Other Workers: No responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Not important at all
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Slightly close (e.g., shared office)
+- Public Speaking: Once a year or more but not every month
+- Spend Time Bending or Twisting Your Body: Never
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Never
+- Spend Time Sitting: Continually or almost continually
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Never
+- Spend Time Walking or Running: Never
+- Telephone Conversations: Once a week or more but not every day
+- Time Pressure: Once a week or more but not every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Never
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Limited responsibility
+- Work With or Contribute to a Work Group or Team: Very important
+- Written Letters and Memos: Every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Conventional
+- Secondary Interest: Investigative
+- Tertiary Interest: Enterprising
+
+# RELATED OCCUPATIONS
+- Data Scientists
+- Market Research Analysts and Marketing Specialists
+- Computer Systems Analysts
+- Marketing Managers
+- Statistical Assistants
+- Search Marketing Strategists
+- Document Management Specialists
+- Operations Research Analysts
+- Financial Risk Specialists
+- Clinical Data Managers
+- Management Analysts
+- Software Developers
+- Information Security Engineers
+- Database Architects
+- Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel
+- Computer Systems Engineers/Architects
+- Database Administrators
+- Financial and Investment Analysts
+- Data Warehousing Specialists
+- Logistics Analysts

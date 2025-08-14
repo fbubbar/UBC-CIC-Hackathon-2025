@@ -1,0 +1,239 @@
+Job Title: Traffic Technicians
+O*NET-SOC Code: 53-6041.00
+
+# DESCRIPTION
+Conduct field studies to determine traffic volume, speed, effectiveness of signals, adequacy of lighting, and other factors influencing traffic conditions, under direction of traffic engineer.
+
+# TASKS
+- Study traffic delays by noting times of delays, the numbers of vehicles affected, and vehicle speed through the delay area.
+- Interact with the public to answer traffic-related questions, respond to complaints or requests, or discuss traffic control ordinances, plans, policies, or procedures.
+- Prepare graphs, charts, diagrams, or other aids to illustrate observations or conclusions.
+- Analyze data related to traffic flow, accident rates, or proposed development to determine the most efficient methods to expedite traffic flow.
+- Prepare work orders for repair, maintenance, or changes in traffic systems.
+- Plan, design, and improve components of traffic control systems to accommodate current or projected traffic and to increase usability and efficiency.
+- Compute time settings for traffic signals or speed restrictions, using standard formulas.
+- Prepare drawings of proposed signal installations or other control devices, using drafting instruments or computer-automated drafting equipment.
+- Study factors affecting traffic conditions, such as lighting or sign and marking visibility, to assess their effectiveness.
+- Gather and compile data from hand count sheets, machine count tapes, or radar speed checks and code data for computer input.
+- Measure and record the speed of vehicular traffic, using electrical timing devices or radar equipment.
+- Lay out pavement markings for striping crews.
+- Provide technical supervision regarding traffic control devices to other traffic technicians or laborers.
+- Operate counters and record data to assess the volume, type, and movement of vehicular or pedestrian traffic at specified times.
+- Place and secure automatic counters, using power tools, and retrieve counters after counting periods end.
+- Review traffic control or barricade plans to issue permits for parades or other special events or for construction work that affects rights of way, providing assistance with plan preparation or revision, as necessary.
+- Time stoplights or other delays, using stopwatches.
+- Maintain or make minor adjustments or field repairs to equipment used in surveys, including the replacement of parts on traffic data gathering devices.
+- Visit development or work sites to determine projects' effect on traffic and the adequacy of traffic control and safety plans or to suggest traffic control measures.
+- Establish procedures for street closures or for repair or construction projects.
+- Provide traffic information, such as road conditions, to the public.
+- Monitor street or utility projects for compliance to traffic control permit conditions.
+- Develop plans or long-range strategies for providing adequate parking space.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Public Safety and Security (Importance: 3.91/5 | Level: 3.94/7)
+- Transportation (Importance: 3.9/5 | Level: 4.23/7)
+- Computers and Electronics (Importance: 3.9/5 | Level: 4.51/7)
+- English Language (Importance: 3.62/5 | Level: 3.72/7)
+- Engineering and Technology (Importance: 3.5/5 | Level: 4.15/7)
+- Law and Government (Importance: 3.34/5 | Level: 3.21/7)
+- Mathematics (Importance: 3.32/5 | Level: 4.02/7)
+- Customer and Personal Service (Importance: 3.29/5 | Level: 4.33/7)
+- Administrative (Importance: 3.28/5 | Level: 3.97/7)
+- Education and Training (Importance: 3.15/5 | Level: 3.85/7)
+- Mechanical (Importance: 3.11/5 | Level: 3.61/7)
+- Design (Importance: 3.1/5 | Level: 3.54/7)
+- Building and Construction (Importance: 3.05/5 | Level: 3.2/7)
+- Administration and Management (Importance: 2.99/5 | Level: 3.09/7)
+- Telecommunications (Importance: 2.67/5 | Level: 2.18/7)
+- Geography (Importance: 2.65/5 | Level: 3.0/7)
+- Personnel and Human Resources (Importance: 2.6/5 | Level: 2.26/7)
+- Physics (Importance: 2.45/5 | Level: 2.37/7)
+- Communications and Media (Importance: 2.42/5 | Level: 2.47/7)
+- Production and Processing (Importance: 2.29/5 | Level: 2.05/7)
+- Economics and Accounting (Importance: 1.94/5 | Level: 1.35/7)
+- Psychology (Importance: 1.77/5 | Level: 1.47/7)
+- Chemistry (Importance: 1.73/5 | Level: 1.57/7)
+- History and Archeology (Importance: 1.39/5 | Level: 0.67/7)
+- Sales and Marketing (Importance: 1.37/5 | Level: 0.78/7)
+- Sociology and Anthropology (Importance: 1.36/5 | Level: 0.67/7)
+- Foreign Language (Importance: 1.32/5 | Level: 0.53/7)
+- Biology (Importance: 1.32/5 | Level: 0.62/7)
+- Therapy and Counseling (Importance: 1.29/5 | Level: 0.6/7)
+- Philosophy and Theology (Importance: 1.23/5 | Level: 0.5/7)
+- Medicine and Dentistry (Importance: 1.19/5 | Level: 0.29/7)
+- Food Production (Importance: 1.12/5 | Level: 0.2/7)
+- Fine Arts (Importance: 1.09/5 | Level: 0.17/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Active Listening (Importance: 3.62/5 | Level: 3.62/7)
+- Complex Problem Solving (Importance: 3.25/5 | Level: 3.62/7)
+- Critical Thinking (Importance: 3.25/5 | Level: 3.5/7)
+- Speaking (Importance: 3.25/5 | Level: 3.38/7)
+- Judgment and Decision Making (Importance: 3.25/5 | Level: 3.12/7)
+- Reading Comprehension (Importance: 3.25/5 | Level: 4.0/7)
+- Writing (Importance: 3.12/5 | Level: 3.25/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.12/7)
+- Management of Personnel Resources (Importance: 3.0/5 | Level: 2.88/7)
+- Time Management (Importance: 3.0/5 | Level: 3.12/7)
+- Systems Evaluation (Importance: 3.0/5 | Level: 3.25/7)
+- Systems Analysis (Importance: 3.0/5 | Level: 3.5/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 3.0/7)
+- Active Learning (Importance: 3.0/5 | Level: 3.12/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Mathematics (Importance: 2.88/5 | Level: 3.12/7)
+- Instructing (Importance: 2.88/5 | Level: 2.88/7)
+- Operations Analysis (Importance: 2.88/5 | Level: 3.38/7)
+- Operations Monitoring (Importance: 2.88/5 | Level: 2.75/7)
+- Persuasion (Importance: 2.88/5 | Level: 2.88/7)
+- Service Orientation (Importance: 2.88/5 | Level: 2.88/7)
+- Science (Importance: 2.75/5 | Level: 2.88/7)
+- Operation and Control (Importance: 2.75/5 | Level: 2.75/7)
+- Negotiation (Importance: 2.75/5 | Level: 2.88/7)
+- Learning Strategies (Importance: 2.62/5 | Level: 2.88/7)
+- Quality Control Analysis (Importance: 2.38/5 | Level: 2.5/7)
+- Technology Design (Importance: 2.12/5 | Level: 1.38/7)
+- Troubleshooting (Importance: 2.12/5 | Level: 2.0/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.12/7)
+- Programming (Importance: 2.0/5 | Level: 1.25/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.12/7)
+- Equipment Selection (Importance: 2.0/5 | Level: 1.25/7)
+- Equipment Maintenance (Importance: 2.0/5 | Level: 1.0/7)
+- Repairing (Importance: 1.88/5 | Level: 1.0/7)
+- Installation (Importance: 1.12/5 | Level: 0.12/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Bentley MicroStation (Tech skill type: Computer aided design CAD software)
+- C++ (Tech skill type: Object or component oriented development software)
+- Computer aided design and drafting software CADD (Tech skill type: Computer aided design CAD software)
+- Dowling Associates TRAFFIX (Tech skill type: Analytical or scientific software)
+- ESRI ArcGIS software (Tech skill type: Geographic information system)
+- ESRI ArcView (Tech skill type: Geographic information system)
+- Geographic information system GIS systems (Tech skill type: Geographic information system)
+- JAMAR Technologies PETRAPro (Tech skill type: Analytical or scientific software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Oracle Database (Tech skill type: Data base user interface and query software)
+- Pd' Programming Intersection Magic (Tech skill type: Analytical or scientific software)
+- Python (Tech skill type: Object or component oriented development software)
+- R (Tech skill type: Object or component oriented development software)
+- Salesforce software (Tech skill type: Customer relationship management CRM software)
+- SAS (Tech skill type: Analytical or scientific software)
+- Structure query language SQL (Tech skill type: Data base user interface and query software)
+- Tableau (Tech skill type: Business intelligence and data analysis software)
+- The MathWorks MATLAB (Tech skill type: Analytical or scientific software)
+- Traffic control software (Tech skill type: Industrial control software)
+- Traffic signal software (Tech skill type: Industrial control software)
+- Trafficware SimTraffic (Tech skill type: Computer aided design CAD software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- 35 millimeter cameras (Tool type: Still cameras)
+- Data collectors (Tool type: Portable data input terminals)
+- Desktop computers (Tool type: Desktop computers)
+- Digital cameras (Tool type: Digital cameras)
+- Digital plotters (Tool type: Plotter printers)
+- Drafting instruments (Tool type: Drafting kits or sets)
+- Dynamic message signs (Tool type: Variable message sign)
+- Electric timing devices (Tool type: Clock timers)
+- Notebook computers (Tool type: Notebook computers)
+- Pavement cutting saws (Tool type: Power saws)
+- Personal computers (Tool type: Personal computers)
+- Pneumatic traffic counters (Tool type: Electronic counters)
+- Portable two way radios (Tool type: Two way radios)
+- Portable weight scales (Tool type: Floor or platform scales)
+- Radar guns (Tool type: Speed sensors)
+- Ramp meters (Tool type: Traffic signals)
+- Total stations (Tool type: Theodolites)
+- Traffic counters (Tool type: Electronic counters)
+
+# WORK CONTEXT
+- Conflict Situations: Once a month or more but not every week
+- Consequence of Error: Fairly serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Very important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Highly automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Once a year or more but not every month
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Once a week or more but not every day
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Once a year or more but not every month
+- Exposed to Very Hot or Cold Temperatures: Once a month or more but not every week
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Limited responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Extremely important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Every day
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Not at all competitive
+- Outdoors, Exposed to All Weather Conditions: Every day
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Slightly close (e.g., shared office)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Less than half the time
+- Spend Time Sitting: More than half the time
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: More than half the time
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Once a week or more but not every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: High responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a month or more but not every week
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Civil Engineering Technologists and Technicians
+- Construction and Building Inspectors
+- Power Distributors and Dispatchers
+- Railroad Conductors and Yardmasters
+- Air Traffic Controllers
+- Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation
+- Highway Maintenance Workers
+- Surveying and Mapping Technicians
+- Locomotive Engineers
+- Aviation Inspectors
+- Transportation Engineers
+- Transportation Planners
+- Civil Engineers
+- Geodetic Surveyors
+- Logistics Engineers
+- Transportation, Storage, and Distribution Managers
+- Transportation Inspectors
+- Geological Technicians, Except Hydrologic Technicians
+- Environmental Engineering Technologists and Technicians
+- Electrical and Electronics Repairers, Commercial and Industrial Equipment

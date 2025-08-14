@@ -1,0 +1,334 @@
+Job Title: Helpers--Electricians
+O*NET-SOC Code: 47-3013.00
+
+# DESCRIPTION
+Help electricians by performing duties requiring less skill. Duties include using, supplying, or holding materials or tools, and cleaning work area and equipment.
+
+# TASKS
+- Strip insulation from wire ends, using wire stripping pliers, and attach wires to terminals for subsequent soldering.
+- Trace out short circuits in wiring, using test meter.
+- Measure, cut, and bend wire and conduit, using measuring instruments and hand tools.
+- Examine electrical units for loose connections and broken insulation and tighten connections, using hand tools.
+- Maintain tools, vehicles, and equipment and keep parts and supplies in order.
+- Drill holes and pull or push wiring through openings, using hand and power tools.
+- Clean work area and wash parts.
+- Perform semi-skilled and unskilled laboring duties related to the installation, maintenance and repair of a wide variety of electrical systems and equipment.
+- Thread conduit ends, connect couplings, and fabricate and secure conduit support brackets, using hand tools.
+- Disassemble defective electrical equipment, replace defective or worn parts, and reassemble equipment, using hand tools.
+- Construct controllers and panels, using power drills, drill presses, taps, saws, and punches.
+- Transport tools, materials, equipment, and supplies to work site by hand, handtruck, or heavy, motorized truck.
+- String transmission lines or cables through ducts or conduits, under the ground, through equipment, or to towers.
+- Install copper-clad ground rods, using a manual post driver.
+- Dig trenches or holes for installation of conduit or supports.
+- Raise, lower, or position equipment, tools, and materials, using hoist, hand line, or block and tackle.
+- Bolt component parts together to form tower assemblies, using hand tools.
+- Erect electrical system components and barricades, and rig scaffolds, hoists, and shoring.
+- Trim trees and clear undergrowth along right-of-way.
+- Requisition materials, using warehouse requisition or release forms.
+- Solder electrical connections, using soldering iron.
+- Paint a variety of objects related to electrical functions.
+- Break up concrete, using airhammer, to facilitate installation, construction, or repair of equipment.
+- Operate heavy equipment, such as backhoes.
+- Operate cutting torches and welding equipment, while working with conduit and metal components to construct devices associated with electrical functions.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Building and Construction (Importance: 3.98/5 | Level: 4.35/7)
+- Mechanical (Importance: 3.9/5 | Level: 4.27/7)
+- Public Safety and Security (Importance: 3.89/5 | Level: 3.95/7)
+- Design (Importance: 3.8/5 | Level: 4.06/7)
+- Customer and Personal Service (Importance: 3.79/5 | Level: 3.86/7)
+- Administration and Management (Importance: 3.73/5 | Level: 3.99/7)
+- Education and Training (Importance: 3.63/5 | Level: 3.89/7)
+- English Language (Importance: 3.57/5 | Level: 3.13/7)
+- Mathematics (Importance: 3.53/5 | Level: 3.87/7)
+- Engineering and Technology (Importance: 3.33/5 | Level: 3.95/7)
+- Physics (Importance: 3.25/5 | Level: 3.37/7)
+- Transportation (Importance: 3.22/5 | Level: 2.85/7)
+- Telecommunications (Importance: 2.87/5 | Level: 2.76/7)
+- Computers and Electronics (Importance: 2.78/5 | Level: 3.18/7)
+- Production and Processing (Importance: 2.75/5 | Level: 2.65/7)
+- Communications and Media (Importance: 2.7/5 | Level: 2.64/7)
+- Administrative (Importance: 2.69/5 | Level: 2.5/7)
+- Economics and Accounting (Importance: 2.54/5 | Level: 2.0/7)
+- Personnel and Human Resources (Importance: 2.54/5 | Level: 2.27/7)
+- Law and Government (Importance: 2.36/5 | Level: 2.23/7)
+- Sales and Marketing (Importance: 2.25/5 | Level: 2.19/7)
+- Geography (Importance: 2.25/5 | Level: 2.23/7)
+- Chemistry (Importance: 2.19/5 | Level: 2.27/7)
+- Psychology (Importance: 1.98/5 | Level: 1.78/7)
+- Sociology and Anthropology (Importance: 1.87/5 | Level: 1.6/7)
+- Therapy and Counseling (Importance: 1.84/5 | Level: 1.63/7)
+- Foreign Language (Importance: 1.76/5 | Level: 1.13/7)
+- Medicine and Dentistry (Importance: 1.75/5 | Level: 1.54/7)
+- Biology (Importance: 1.67/5 | Level: 1.28/7)
+- Fine Arts (Importance: 1.41/5 | Level: 0.8/7)
+- Food Production (Importance: 1.4/5 | Level: 0.64/7)
+- History and Archeology (Importance: 1.37/5 | Level: 0.76/7)
+- Philosophy and Theology (Importance: 1.35/5 | Level: 0.84/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Active Listening (Importance: 3.25/5 | Level: 2.88/7)
+- Critical Thinking (Importance: 3.12/5 | Level: 3.0/7)
+- Speaking (Importance: 3.12/5 | Level: 2.38/7)
+- Coordination (Importance: 3.0/5 | Level: 2.88/7)
+- Troubleshooting (Importance: 3.0/5 | Level: 3.0/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 2.25/7)
+- Quality Control Analysis (Importance: 3.0/5 | Level: 2.88/7)
+- Active Learning (Importance: 2.88/5 | Level: 2.25/7)
+- Complex Problem Solving (Importance: 2.88/5 | Level: 2.25/7)
+- Installation (Importance: 2.88/5 | Level: 2.62/7)
+- Repairing (Importance: 2.88/5 | Level: 2.75/7)
+- Operations Monitoring (Importance: 2.88/5 | Level: 2.88/7)
+- Equipment Maintenance (Importance: 2.75/5 | Level: 2.62/7)
+- Equipment Selection (Importance: 2.75/5 | Level: 2.25/7)
+- Time Management (Importance: 2.75/5 | Level: 2.12/7)
+- Monitoring (Importance: 2.75/5 | Level: 2.25/7)
+- Operation and Control (Importance: 2.62/5 | Level: 2.75/7)
+- Reading Comprehension (Importance: 2.5/5 | Level: 2.62/7)
+- Social Perceptiveness (Importance: 2.5/5 | Level: 2.12/7)
+- Writing (Importance: 2.38/5 | Level: 2.12/7)
+- Instructing (Importance: 2.25/5 | Level: 1.88/7)
+- Learning Strategies (Importance: 2.25/5 | Level: 2.12/7)
+- Service Orientation (Importance: 2.25/5 | Level: 2.12/7)
+- Persuasion (Importance: 2.12/5 | Level: 1.75/7)
+- Mathematics (Importance: 2.12/5 | Level: 1.75/7)
+- Management of Personnel Resources (Importance: 2.0/5 | Level: 1.62/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.12/7)
+- Systems Analysis (Importance: 2.0/5 | Level: 1.38/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 1.38/7)
+- Negotiation (Importance: 2.0/5 | Level: 1.38/7)
+- Science (Importance: 1.88/5 | Level: 1.0/7)
+- Operations Analysis (Importance: 1.62/5 | Level: 0.75/7)
+- Management of Financial Resources (Importance: 1.5/5 | Level: 0.62/7)
+- Programming (Importance: 1.25/5 | Level: 0.25/7)
+- Technology Design (Importance: 1.25/5 | Level: 0.38/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Computer-aided drafting or design software (Tech skill type: Computer aided design CAD software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Recordkeeping software (Tech skill type: Data base user interface and query software)
+- Report generation software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Adjustable widemouth pliers (Tool type: Adjustable widemouth pliers)
+- Adjustable wrenches (Tool type: Adjustable wrenches)
+- Air compressors (Tool type: Air compressors)
+- Air spades (Tool type: Trenching machines)
+- Airhammers (Tool type: Pneumatic hammer)
+- Ammeters (Tool type: Ammeters)
+- Automatic wire strippers (Tool type: Stripping tools)
+- Awls (Tool type: Awls)
+- Backhoes (Tool type: Backhoes)
+- Bear claw wire threaders (Tool type: Cable accessories)
+- Block and tackle equipment (Tool type: Blocks or pulleys)
+- Bucket trucks (Tool type: Articulating boom lift)
+- Bulldozers (Tool type: Wheel bulldozers)
+- Cabinet tip screwdrivers (Tool type: Screwdrivers)
+- Cable cutters (Tool type: Wire or cable cutter)
+- Cable gripping gloves (Tool type: Protective gloves)
+- Cable labeling machines (Tool type: Label making machines)
+- Cable lacing needles (Tool type: Cable accessories)
+- Cable reels (Tool type: Cable reels)
+- Cable splicing knives (Tool type: Cable splicing kits)
+- Cable tie guns (Tool type: Banders)
+- Capacitance testers (Tool type: Capacitance meters)
+- Circle cutters (Tool type: Hole saws)
+- Circuit test meters (Tool type: Circuit tracers)
+- Compaction tampers (Tool type: Tampers)
+- Conduit deburring tools (Tool type: Deburring tool)
+- Conduit locknut and reaming pliers (Tool type: Locking pliers)
+- Continuity testers (Tool type: Circuit tester)
+- Cordless drills (Tool type: Power drills)
+- Crescent wrenches (Tool type: Open end wrenches)
+- Current clamps (Tool type: Voltage or current meters)
+- Cutting torches (Tool type: Blow torch)
+- Desktop computers (Tool type: Desktop computers)
+- Diagonal cutting pliers (Tool type: Diagonal cut pliers)
+- Digital multimeters (Tool type: Multimeters)
+- Double-end can socket wrenches (Tool type: Offset socket wrenches)
+- Drill presses (Tool type: Drilling machines)
+- Dump trucks (Tool type: Dump trucks)
+- Electric impact drivers (Tool type: Impact wrenches)
+- Electric manlifts (Tool type: Manlift or personnel lift)
+- Electricians' knives (Tool type: Utility knives)
+- Electricians' snips (Tool type: Wire cutters)
+- Excavators (Tool type: Track excavators)
+- Extension lamp extractors (Tool type: Light bulb changer)
+- External snap ring pliers (Tool type: Retaining ring pliers)
+- Fish tape pullers (Tool type: Fish tape)
+- Fuse pullers (Tool type: Fuse pullers)
+- Gas leak detection devices (Tool type: Gas detectors)
+- Generators (Tool type: Gas generators)
+- Ground fault circuit interrupter GFCI testers (Tool type: GFI circuit testers)
+- Growlers (Tool type: Circuit tester)
+- Hacksaws (Tool type: Hacksaw)
+- Hammers (Tool type: Hammers)
+- Hand operated indentors (Tool type: Wire lug crimping tool)
+- Handtrucks (Tool type: Hand trucks or accessories)
+- Heat guns (Tool type: Heat guns)
+- Heavy duty crimping tools (Tool type: Wire lug crimping tool)
+- Hex key sets (Tool type: Hex keys)
+- Hoist trucks (Tool type: Hoists)
+- Hoists (Tool type: Hoists)
+- Horizontal boring tools (Tool type: Boring machines)
+- Hydraulic conduit benders (Tool type: Conduit benders)
+- Inductance testers (Tool type: Calibrated inductance coils or boxes)
+- Infrared scanners (Tool type: Thermographs)
+- Insulated bolt cutters (Tool type: Bolt cutters)
+- Insulated cable cutters (Tool type: Wire or cable cutter)
+- Insulated knives (Tool type: Utility knives)
+- Insulated nutdrivers (Tool type: Nut drivers)
+- Insulated pliers (Tool type: Linemans pliers)
+- Insulated screwdrivers (Tool type: Insulated screwdriver)
+- Insulated socket sets (Tool type: Socket sets)
+- Insulated wrenches (Tool type: Specialty wrenches)
+- Internal snap ring pliers (Tool type: Retaining ring pliers)
+- Jackhammers (Tool type: Pneumatic hammer)
+- Ladders (Tool type: Ladders)
+- Levels (Tool type: Levels)
+- Lighted magnet pickups (Tool type: Magnetic tools)
+- Line trucks (Tool type: Hoists)
+- Lineman's pliers (Tool type: Linemans pliers)
+- Long nose pliers (Tool type: Longnose pliers)
+- Loop PSC testers (Tool type: Circuit tester)
+- Magnetic locators (Tool type: Metal detectors)
+- Manual conduit benders (Tool type: Conduit benders)
+- Megohmmeters (Tool type: Megohmmeters)
+- Metal locators (Tool type: Metal detectors)
+- Multimeters (Tool type: Multimeters)
+- Nibbler cutting tools (Tool type: Nibblers)
+- Non-contact voltage sensors (Tool type: Voltage or current meters)
+- Notebook computers (Tool type: Notebook computers)
+- Nut drivers (Tool type: Nut drivers)
+- Ohmmeters (Tool type: Ohmmeters)
+- Personal computers (Tool type: Personal computers)
+- Phase rotation meters (Tool type: Phasemeters)
+- Phillips head screwdrivers (Tool type: Screwdrivers)
+- Picks (Tool type: Picks)
+- Pipe threaders (Tool type: Threading die hand tool)
+- Plumb bobs (Tool type: Plumb bobs)
+- Pneumatic compacting equipment (Tool type: Compactors)
+- Polyvinyl chloride PVC cutters (Tool type: Pipe or tube cutter)
+- Post drivers (Tool type: Post hole digger)
+- Power cable cutters (Tool type: Wire or cable cutter)
+- Power conduit benders (Tool type: Conduit benders)
+- Power drills (Tool type: Power drills)
+- Punchdown tools (Tool type: Punches or nail sets or drifts)
+- Punches (Tool type: Stamping dies or punches)
+- Ratcheting cable cutters (Tool type: Wire or cable cutter)
+- Residual current device RCD testers (Tool type: Circuit tester)
+- Resistance bridges (Tool type: Calibrated resistance measuring equipment)
+- Respirators (Tool type: Respirators)
+- Saws (Tool type: Saws)
+- Scaffolding (Tool type: Scaffolding)
+- Screw-holding screwdrivers (Tool type: Screwdrivers)
+- Screwdrivers (Tool type: Screwdrivers)
+- Shears (Tool type: Shears)
+- Side cutting pliers (Tool type: End cut pliers)
+- Soldering irons (Tool type: Soldering iron)
+- Strap wrenches (Tool type: Strap wrenches)
+- Tape measures (Tool type: Tape measures)
+- Tapered reamers (Tool type: Hand reamer)
+- Telescoping lighted pickups (Tool type: Magnetic tools)
+- Threading die hand tool (Tool type: Threading die hand tool)
+- Threading taps (Tool type: Threading taps)
+- Tongue and groove pliers (Tool type: Tongue and groove pliers)
+- Transfer impedance meters (Tool type: Impedance meters)
+- Trenchers (Tool type: Trenching machines)
+- Two way radios (Tool type: Two way radios)
+- Utility knives (Tool type: Utility knives)
+- Voltage meters (Tool type: Voltage or current meters)
+- Welders (Tool type: Spot welding machine)
+- Welding hoods (Tool type: Welding masks)
+- Wire crimpers (Tool type: Wire lug crimping tool)
+- Wire cutters (Tool type: Wire cutters)
+- Wire pullers (Tool type: Fish tape)
+- Wire stripping pliers (Tool type: Stripping tools)
+- Wire wrap guns (Tool type: Wire wrapping tool)
+
+# WORK CONTEXT
+- Conflict Situations: Never
+- Consequence of Error: Fairly serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Important
+- Deal With External Customers or the Public in General: Important
+- Dealing With Unpleasant, Angry, or Discourteous People: Never
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: Limited freedom
+- E-Mail: Never
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Once a week or more but not every day
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Once a week or more but not every day
+- Exposed to Hazardous Conditions: Every day
+- Exposed to Hazardous Equipment: Every day
+- Exposed to High Places: Once a month or more but not every week
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Once a week or more but not every day
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Once a month or more but not every week
+- Exposed to Whole Body Vibration: Once a year or more but not every month
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Very important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Once a month or more but not every week
+- Indoors, Not Environmentally Controlled: Once a week or more but not every day
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Every day
+- Outdoors, Under Cover: Every day
+- Pace Determined by Speed of Equipment: Fairly important
+- Physical Proximity: Very close (near touching)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: About half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Continually or almost continually
+- Spend Time Keeping or Regaining Balance: Less than half the time
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: More than half the time
+- Spend Time Making Repetitive Motions: More than half the time
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: Continually or almost continually
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Continually or almost continually
+- Telephone Conversations: Every day
+- Time Pressure: Once a week or more but not every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Once a month or more but not every week
+- Work Outcomes and Results of Other Workers: Limited responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Never
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters
+- Helpers--Installation, Maintenance, and Repair Workers
+- Electricians
+- Helpers--Carpenters
+- Boilermakers
+- Millwrights
+- Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons
+- Electrical Power-Line Installers and Repairers
+- Lighting Technicians
+- Helpers--Extraction Workers
+- Plumbers, Pipefitters, and Steamfitters
+- Electrical and Electronics Installers and Repairers, Transportation Equipment
+- Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+- Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders
+- Electric Motor, Power Tool, and Related Repairers
+- Riggers
+- Structural Metal Fabricators and Fitters
+- Carpenters
+- Maintenance and Repair Workers, General
+- Structural Iron and Steel Workers

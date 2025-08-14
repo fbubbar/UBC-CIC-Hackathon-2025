@@ -1,0 +1,393 @@
+Job Title: Chemical Technicians
+O*NET-SOC Code: 19-4031.00
+
+# DESCRIPTION
+Conduct chemical and physical laboratory tests to assist scientists in making qualitative and quantitative analyses of solids, liquids, and gaseous materials for research and development of new products or processes, quality control, maintenance of environmental standards, and other work involving experimental, theoretical, or practical application of chemistry and related sciences.
+
+# TASKS
+- Conduct chemical or physical laboratory tests to assist scientists in making qualitative or quantitative analyses of solids, liquids, or gaseous materials.
+- Maintain, clean, or sterilize laboratory instruments or equipment.
+- Monitor product quality to ensure compliance with standards and specifications.
+- Set up and conduct chemical experiments, tests, and analyses, using techniques such as chromatography, spectroscopy, physical or chemical separation techniques, or microscopy.
+- Prepare chemical solutions for products or processes, following standardized formulas, or create experimental formulas.
+- Compile and interpret results of tests and analyses.
+- Provide and maintain a safe work environment by participating in safety programs, committees, or teams and by conducting laboratory or plant safety audits.
+- Provide technical support or assistance to chemists or engineers.
+- Develop or conduct programs of sampling and analysis to maintain quality standards of raw materials, chemical intermediates, or products.
+- Train new employees on topics such as the proper operation of laboratory equipment.
+- Write technical reports or prepare graphs or charts to document experimental results.
+- Order and inventory materials to maintain supplies.
+- Operate experimental pilot plants, assisting with experimental design.
+- Direct or monitor other workers producing chemical products.
+- Design or fabricate experimental apparatus to develop new products or processes.
+- Develop new chemical engineering processes or production techniques.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Chemistry (Importance: 3.81/5 | Level: 4.81/7)
+- English Language (Importance: 3.52/5 | Level: 3.25/7)
+- Mathematics (Importance: 3.39/5 | Level: 3.62/7)
+- Computers and Electronics (Importance: 3.11/5 | Level: 3.38/7)
+- Production and Processing (Importance: 2.97/5 | Level: 3.08/7)
+- Administrative (Importance: 2.94/5 | Level: 3.23/7)
+- Education and Training (Importance: 2.66/5 | Level: 3.27/7)
+- Customer and Personal Service (Importance: 2.41/5 | Level: 2.19/7)
+- Engineering and Technology (Importance: 2.4/5 | Level: 2.55/7)
+- Mechanical (Importance: 2.19/5 | Level: 2.23/7)
+- Transportation (Importance: 2.11/5 | Level: 2.42/7)
+- Physics (Importance: 2.04/5 | Level: 1.68/7)
+- Communications and Media (Importance: 1.93/5 | Level: 1.88/7)
+- Public Safety and Security (Importance: 1.9/5 | Level: 1.49/7)
+- Administration and Management (Importance: 1.88/5 | Level: 1.72/7)
+- Law and Government (Importance: 1.82/5 | Level: 1.53/7)
+- Personnel and Human Resources (Importance: 1.74/5 | Level: 1.31/7)
+- Design (Importance: 1.71/5 | Level: 1.44/7)
+- Biology (Importance: 1.62/5 | Level: 1.71/7)
+- Telecommunications (Importance: 1.61/5 | Level: 0.95/7)
+- Geography (Importance: 1.59/5 | Level: 1.28/7)
+- Psychology (Importance: 1.48/5 | Level: 0.61/7)
+- Foreign Language (Importance: 1.48/5 | Level: 0.49/7)
+- Sales and Marketing (Importance: 1.46/5 | Level: 0.81/7)
+- Building and Construction (Importance: 1.38/5 | Level: 0.86/7)
+- Fine Arts (Importance: 1.23/5 | Level: 0.11/7)
+- Sociology and Anthropology (Importance: 1.21/5 | Level: 0.21/7)
+- Economics and Accounting (Importance: 1.15/5 | Level: 0.19/7)
+- Philosophy and Theology (Importance: 1.11/5 | Level: 0.44/7)
+- Therapy and Counseling (Importance: 1.03/5 | Level: 0.06/7)
+- Food Production (Importance: 1.01/5 | Level: 0.02/7)
+- Medicine and Dentistry (Importance: 1.0/5 | Level: 0.01/7)
+- History and Archeology (Importance: 1.0/5 | Level: 0.0/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Science (Importance: 4.12/5 | Level: 4.12/7)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.12/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.12/7)
+- Writing (Importance: 3.88/5 | Level: 4.0/7)
+- Monitoring (Importance: 3.88/5 | Level: 3.88/7)
+- Active Listening (Importance: 3.88/5 | Level: 3.88/7)
+- Speaking (Importance: 3.38/5 | Level: 3.38/7)
+- Active Learning (Importance: 3.38/5 | Level: 3.25/7)
+- Operations Monitoring (Importance: 3.25/5 | Level: 3.25/7)
+- Learning Strategies (Importance: 3.12/5 | Level: 3.25/7)
+- Time Management (Importance: 3.12/5 | Level: 3.0/7)
+- Systems Evaluation (Importance: 3.12/5 | Level: 3.12/7)
+- Complex Problem Solving (Importance: 3.12/5 | Level: 3.12/7)
+- Quality Control Analysis (Importance: 3.12/5 | Level: 3.38/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 3.25/7)
+- Instructing (Importance: 3.0/5 | Level: 3.12/7)
+- Systems Analysis (Importance: 3.0/5 | Level: 3.0/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Operation and Control (Importance: 3.0/5 | Level: 3.0/7)
+- Mathematics (Importance: 3.0/5 | Level: 3.12/7)
+- Equipment Maintenance (Importance: 2.88/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.88/7)
+- Troubleshooting (Importance: 2.88/5 | Level: 3.0/7)
+- Equipment Selection (Importance: 2.75/5 | Level: 2.75/7)
+- Repairing (Importance: 2.75/5 | Level: 2.75/7)
+- Service Orientation (Importance: 2.75/5 | Level: 2.75/7)
+- Persuasion (Importance: 2.62/5 | Level: 2.25/7)
+- Negotiation (Importance: 2.62/5 | Level: 2.62/7)
+- Operations Analysis (Importance: 2.5/5 | Level: 2.62/7)
+- Management of Personnel Resources (Importance: 2.5/5 | Level: 2.5/7)
+- Management of Material Resources (Importance: 2.25/5 | Level: 1.88/7)
+- Technology Design (Importance: 2.0/5 | Level: 1.62/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 1.0/7)
+- Programming (Importance: 1.5/5 | Level: 0.62/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- C++ (Tech skill type: Object or component oriented development software)
+- Database software (Tech skill type: Data base user interface and query software)
+- Email software (Tech skill type: Electronic mail software)
+- Laboratory information management system LIMS (Tech skill type: Analytical or scientific software)
+- Linux (Tech skill type: Operating system software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Oracle Database (Tech skill type: Data base user interface and query software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- Python (Tech skill type: Object or component oriented development software)
+- R (Tech skill type: Object or component oriented development software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Software development tools (Tech skill type: Development environment software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Abbe refractometers (Tool type: Bench refractometers or polarimeters)
+- Agitation tanks (Tool type: Laboratory mixers)
+- Ammeters (Tool type: Ammeters)
+- Aneroid barometers (Tool type: Barometers)
+- Asbestos gloves (Tool type: Protective gloves)
+- Atomic absorption AA spectroscopes (Tool type: Atomic absorption AA spectrometers)
+- Atomic emissions spectroscopes (Tool type: Inductively coupled plasma ICP spectrometers)
+- Automated microviscometers (Tool type: Viscosimeters)
+- Automated polarimeters (Tool type: Polarimeters)
+- Automatic buret cleaners (Tool type: Pipette washers)
+- Automatic burets (Tool type: Robotic or automated liquid handling systems)
+- Automatic pipette cleaners (Tool type: Pipette washers)
+- Autotitrators (Tool type: Titration equipment)
+- Ball mills (Tool type: Laboratory mills)
+- Beckmann thermometers (Tool type: Handheld thermometer)
+- Bell jars (Tool type: Laboratory staining dishes or jars)
+- Benchtop centrifuges (Tool type: Benchtop centrifuges)
+- Bimetallic strip thermometers (Tool type: Bi metallic sensors)
+- Bomb calorimeters (Tool type: Calorimeters)
+- Bourdon gauges (Tool type: Pressure indicators)
+- Bubble flow meters (Tool type: Flowmeters)
+- Bubble-cap fractionating columns (Tool type: Fractionation apparatus)
+- Buchner funnels (Tool type: Laboratory funnels)
+- Bunsen burners (Tool type: Gas burners)
+- Canister gas masks (Tool type: Gas masks)
+- Capillary tubing (Tool type: Laboratory general purpose tubing)
+- Cartesian manostats (Tool type: Manostats)
+- Chromatography developing tanks (Tool type: Thin layer chromatography tanks)
+- Chromatography microsyringes (Tool type: Chromatography syringes)
+- Claisen flasks (Tool type: Laboratory flasks)
+- Closed-end manometers (Tool type: Manometers)
+- Comparators (Tool type: Comparators)
+- Computer-controlled pumps (Tool type: Laboratory vacuum pumps)
+- Constant temperature water baths (Tool type: Water baths)
+- Cooling baths (Tool type: Refrigerated baths)
+- Cork borer sets (Tool type: Laboratory cork borers)
+- Coulometers (Tool type: Coulometers)
+- Desktop computers (Tool type: Desktop computers)
+- Dessicators (Tool type: Heating or drying equipment or accessories)
+- Deuterium lamps (Tool type: Spectrophotometer accessories)
+- Differential refractometers (Tool type: Bench refractometers or polarimeters)
+- Differential scanning calorimeters (Tool type: Calorimeters)
+- Diffusion pumps (Tool type: Laboratory vacuum pumps)
+- Digital handheld thermometers (Tool type: Handheld thermometer)
+- Dissolved oxygen meters (Tool type: Dissolved oxygen meters)
+- Distilling condensers (Tool type: Laboratory heat exchange condensers)
+- Drying pistols (Tool type: Vacuum desiccators)
+- Dust and particulate respirators (Tool type: Respirators)
+- Dye lasers (Tool type: Lasers)
+- Electronic toploading balances (Tool type: Electronic toploading balances)
+- Evaporating dishes (Tool type: Laboratory dishes)
+- Evaporator rotators (Tool type: Vacuum or rotary evaporators)
+- Exhaust hoods (Tool type: Fume hoods or cupboards)
+- Explosion-proof fume hoods (Tool type: Fume hoods or cupboards)
+- Eyewash fountains (Tool type: Eyewashers or eye wash stations)
+- Face shields (Tool type: Facial shields)
+- Filter pumps (Tool type: Filtering machinery)
+- Finger pumps (Tool type: Syringe pumps)
+- Fire extinguishers (Tool type: Fire extinguishers)
+- Flame ionization detectors FID (Tool type: Flame ionization analyzers)
+- Flame photometers (Tool type: Photometer)
+- Fluid scintillation counters (Tool type: Liquid scintillation counters)
+- Fluorimeters (Tool type: Spectrofluorimeters or fluorimeters)
+- Fourier transfer infrared FTIR spectrometers (Tool type: Infrared spectrometers)
+- Gas burners (Tool type: Gas burners)
+- Gas chromatography equipment (Tool type: Gas chromatographs)
+- Gas drying tubes (Tool type: Laboratory general purpose tubing)
+- Gas leak detectors (Tool type: Gas detectors)
+- Geiger-Muller counters (Tool type: Geiger counters)
+- Glass burets (Tool type: Laboratory burets)
+- Glass laboratory crucibles (Tool type: Glass crucibles)
+- Glass tubing (Tool type: Laboratory glass tube)
+- Gooch crucibles (Tool type: Ceramic crucibles)
+- Graphing calculators (Tool type: Scientific calculator)
+- Graphite furnaces (Tool type: Programmable tube furnaces)
+- Gravitational field indicators (Tool type: Gravimeters)
+- Gravity convection ovens (Tool type: Laboratory mechanical convection ovens)
+- Hazardous material protective clothing (Tool type: Hazardous material protective apparel)
+- Heating mantles (Tool type: Heating mantles or tapes)
+- High pressure liquid chromatograph HPLC equipment (Tool type: High pressure liquid chromatograph chromatography)
+- High pressure sodium lamps (Tool type: High pressure sodium lamp HID)
+- Hirsch funnels (Tool type: Laboratory funnels)
+- Hollow cathode lamps (Tool type: Spectrophotometer accessories)
+- Homogenizers (Tool type: Homogenizers)
+- Hot air blowers (Tool type: Hot air blowers)
+- Hydrometers (Tool type: Hydrometers)
+- Immersion heaters (Tool type: Immersion heaters)
+- Infrared IR spectroscopes (Tool type: Infrared spectrometers)
+- Infrared lamps (Tool type: Infrared lamps)
+- Ion exchange chromatography equipment (Tool type: Ion chromatographs)
+- Ionization gauges (Tool type: Vacuum gauges)
+- Laboratory balances (Tool type: Laboratory balances)
+- Laboratory blenders (Tool type: Laboratory blenders or emulsifiers)
+- Laboratory centrifugal pumps (Tool type: Laboratory centrifugal pumps)
+- Laboratory drying ovens (Tool type: Drying cabinets or ovens)
+- Laboratory flasks (Tool type: Laboratory flasks)
+- Laboratory heating plates (Tool type: Laboratory hotplates)
+- Laboratory pressing equipment (Tool type: Laboratory presses)
+- Laboratory tongs (Tool type: Laboratory tongs)
+- Laboratory vacuum hand pumps (Tool type: Laboratory vacuum pumps)
+- Laboratory vacuum pumps (Tool type: Laboratory vacuum pumps)
+- Laminar flow burners (Tool type: Gas burners)
+- Lasers (Tool type: Lasers)
+- Lecture bottles (Tool type: Air or gas tanks or cylinders)
+- Liquid chromatography equipment (Tool type: Liquid chromatographs)
+- Liquid chromatography/mass spectrometry LC/MS equipment (Tool type: Mass spectrometers)
+- Liquid transfer pumps (Tool type: Peristaltic pumps)
+- Liquid-filled remote thermometers (Tool type: Remote reading thermometers)
+- Lyophilizers (Tool type: Freezedryers or lyophilzers)
+- Magnetic agitators (Tool type: Laboratory mixers)
+- Magnetic stirring bars (Tool type: Magnetic stirrers)
+- Mainframe computers (Tool type: Mainframe computers)
+- Mass spectrometers (Tool type: Mass spectrometers)
+- McLeod gauges (Tool type: Vacuum gauges)
+- Meker burners (Tool type: Gas burners)
+- Mercury barometers (Tool type: Barometers)
+- Mercury vapor lamps (Tool type: Mercury vapor lamp HID)
+- Metering pumps (Tool type: Metering pumps)
+- Molecular stills (Tool type: Fractionation apparatus)
+- Monochromators (Tool type: Monochromators)
+- Mortars and pestles (Tool type: Pestle or mortars)
+- Muffle furnaces (Tool type: Laboratory box furnaces)
+- Multimeters (Tool type: Multimeters)
+- Nebulizers (Tool type: Laboratory sprayers)
+- Nuclear magnetic resonance NMR spectroscopes (Tool type: Nuclear magnetic resonance NMR spectrometers)
+- Optical beamsplitting devices (Tool type: Optical beamsplitters)
+- Optical compound microscopes (Tool type: Binocular light compound microscopes)
+- Optical pyrometers (Tool type: Pyrometers)
+- Organic carbon analyzers (Tool type: Organic carbon analyzers)
+- Perchloric acid hoods (Tool type: Fume hoods or cupboards)
+- Personal computers (Tool type: Personal computers)
+- pH indicators (Tool type: pH meters)
+- Photo detectors (Tool type: Ion analyzers)
+- Photocells (Tool type: Photoelectric sensors)
+- Photomultiplier tubes (Tool type: Chromatography tubing)
+- Pirani gauges (Tool type: Vacuum gauges)
+- Plastic cuvettes (Tool type: Cuvettes)
+- Polarimeters (Tool type: Polarimeters)
+- Polarizers (Tool type: Polarizers)
+- Pressure gauges (Tool type: Pressure indicators)
+- Prisms (Tool type: Prisms)
+- Pull spring balances (Tool type: Pull spring balances)
+- Pycnometers (Tool type: Pycnometers)
+- Radiation detectors (Tool type: Radiation detectors)
+- Radioisotope fume hoods (Tool type: Fume hoods or cupboards)
+- Reaction flasks (Tool type: Laboratory flasks)
+- Reflux condensers (Tool type: Laboratory heat exchange condensers)
+- Refrigerated coolers (Tool type: Refrigerated cooling modules)
+- Rheometers (Tool type: Rheometers)
+- Rotameters (Tool type: Rotameters)
+- Rotary evaporators (Tool type: Vacuum or rotary evaporators)
+- Ruby lasers (Tool type: Lasers)
+- Safety glasses (Tool type: Safety glasses)
+- Safety gloves (Tool type: Protective gloves)
+- Safety goggles (Tool type: Goggles)
+- Safety showers (Tool type: Decontamination shower)
+- Sample crushers (Tool type: Laboratory crushers or pulverizers)
+- Single-pan balances (Tool type: Laboratory balances)
+- Spectrophotometers (Tool type: Spectrophotometers)
+- Steam baths (Tool type: Heating or drying equipment or accessories)
+- Tension gauges (Tool type: Tensiometers)
+- Test tube clamps (Tool type: Laboratory clamps)
+- Thermal conductivity detectors (Tool type: Thermal conductivity analyzers)
+- Thermocouples (Tool type: Thermocouples)
+- Thinlayer chromatography analyzers (Tool type: Thinlayer chromatographs)
+- Titrators (Tool type: Titration equipment)
+- Torsion balances (Tool type: Laboratory balances)
+- Transfer pipettes (Tool type: Pasteur or transfer pipettes)
+- Triple beam balances (Tool type: Triple beam balances)
+- Turbidimeters (Tool type: Turbidimeters)
+- U-tube manometers (Tool type: Manometers)
+- Ultracentrifuges (Tool type: Ultracentrifuges)
+- Ultraviolet UV lamps (Tool type: Ultraviolet UV lamps)
+- Ultraviolet UV light detectors (Tool type: Chromatographic detectors)
+- Ultraviolet UV spectroscopes (Tool type: Spectrofluorimeters or fluorimeters)
+- Unequal-arm balances (Tool type: Laboratory balances)
+- Utility clamps (Tool type: Laboratory clamps)
+- Vacuum flask traps (Tool type: Laboratory flasks)
+- Vacuum gauges (Tool type: Vacuum gauges)
+- Vapor monitor badges (Tool type: Multi gas monitors)
+- Velometers (Tool type: Air velocity and temperature monitors)
+- Viscosity meters (Tool type: Viscosimeters)
+- Voltmeters (Tool type: Voltage or current meters)
+- Volume displacement pumps (Tool type: Laboratory vacuum pumps)
+- Volumetric flasks (Tool type: Laboratory flasks)
+- Volumetric glass pipettes (Tool type: Volumetric pipettes)
+- Water aspirators (Tool type: Laboratory vacuum pumps)
+- Westphal balances (Tool type: Laboratory balances)
+
+# WORK CONTEXT
+- Conflict Situations: Never
+- Consequence of Error: Serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Extremely important
+- Deal With External Customers or the Public in General: Not important at all
+- Dealing With Unpleasant, Angry, or Discourteous People: Never
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Moderately automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Every day
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Extremely important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Once a year or more but not every month
+- Level of Competition: Slightly competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Important
+- Physical Proximity: Slightly close (e.g., shared office)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: About half the time
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: More than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: More than half the time
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Once a month or more but not every week
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: High responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a year or more but not every month
+
+# INTERESTS (RIASEC)
+- Primary Interest: Investigative
+- Secondary Interest: Realistic
+- Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Calibration Technologists and Technicians
+- Nanotechnology Engineering Technologists and Technicians
+- Industrial Engineering Technologists and Technicians
+- Histotechnologists
+- Quality Control Analysts
+- Medical and Clinical Laboratory Technicians
+- Food Science Technicians
+- Mechanical Engineering Technologists and Technicians
+- Automotive Engineering Technicians
+- Agricultural Technicians
+- Chemists
+- Chemical Engineers
+- Materials Engineers
+- Chemical Plant and System Operators
+- Materials Scientists
+- Inspectors, Testers, Sorters, Samplers, and Weighers
+- Industrial Engineers
+- Chemical Equipment Operators and Tenders
+- Environmental Science and Protection Technicians, Including Health
+- Medical and Clinical Laboratory Technologists

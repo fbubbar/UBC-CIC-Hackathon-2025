@@ -1,0 +1,421 @@
+Job Title: Registered Nurses
+O*NET-SOC Code: 29-1141.00
+
+# DESCRIPTION
+Assess patient health problems and needs, develop and implement nursing care plans, and maintain medical records. Administer nursing care to ill, injured, convalescent, or disabled patients. May advise patients on health maintenance and disease prevention or provide case management. Licensing or registration required.
+
+# TASKS
+- Record patients' medical information and vital signs.
+- Administer medications to patients and monitor patients for reactions or side effects.
+- Maintain accurate, detailed reports and records.
+- Monitor, record, and report symptoms or changes in patients' conditions.
+- Provide health care, first aid, immunizations, or assistance in convalescence or rehabilitation in locations such as schools, hospitals, or industry.
+- Consult and coordinate with healthcare team members to assess, plan, implement, or evaluate patient care plans.
+- Direct or supervise less-skilled nursing or healthcare personnel or supervise a particular unit.
+- Monitor all aspects of patient care, including diet and physical activity.
+- Instruct individuals, families, or other groups on topics such as health education, disease prevention, or childbirth and develop health improvement programs.
+- Modify patient treatment plans as indicated by patients' responses and conditions.
+- Conduct specified laboratory tests.
+- Observe nurses and visit patients to ensure proper nursing care.
+- Assess the needs of individuals, families, or communities, including assessment of individuals' home or work environments, to identify potential health or safety problems.
+- Work with individuals, groups, or families to plan or implement programs designed to improve the overall health of communities.
+- Prepare patients for and assist with examinations or treatments.
+- Perform administrative or managerial functions, such as taking responsibility for a unit's staff, budget, planning, or long-range goals.
+- Order, interpret, and evaluate diagnostic tests to identify and assess patient's condition.
+- Prescribe or recommend drugs, medical devices, or other forms of treatment, such as physical therapy, inhalation therapy, or related therapeutic procedures.
+- Direct or coordinate infection control programs, advising or consulting with specified personnel about necessary precautions.
+- Prepare rooms, sterile instruments, equipment, or supplies and ensure that stock of supplies is maintained.
+- Administer local, inhalation, intravenous, or other anesthetics.
+- Provide or arrange for training or instruction of auxiliary personnel or students.
+- Refer students or patients to specialized health resources or community agencies furnishing assistance.
+- Perform physical examinations, make tentative diagnoses, and treat patients en route to hospitals or at disaster site triage centers.
+- Consult with institutions or associations regarding issues or concerns relevant to the practice and profession of nursing.
+- Inform physician of patient's condition during anesthesia.
+- Engage in research activities related to nursing.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Psychology (Importance: 4.58/5 | Level: 6.08/7)
+- Customer and Personal Service (Importance: 4.4/5 | Level: 5.48/7)
+- Medicine and Dentistry (Importance: 4.36/5 | Level: 4.47/7)
+- English Language (Importance: 4.18/5 | Level: 3.71/7)
+- Administrative (Importance: 3.55/5 | Level: 3.83/7)
+- Mathematics (Importance: 3.43/5 | Level: 3.4/7)
+- Therapy and Counseling (Importance: 3.43/5 | Level: 3.62/7)
+- Administration and Management (Importance: 3.29/5 | Level: 2.89/7)
+- Education and Training (Importance: 3.2/5 | Level: 3.37/7)
+- Public Safety and Security (Importance: 3.11/5 | Level: 2.64/7)
+- Biology (Importance: 3.02/5 | Level: 2.58/7)
+- Sociology and Anthropology (Importance: 2.96/5 | Level: 3.07/7)
+- Chemistry (Importance: 2.6/5 | Level: 2.47/7)
+- Computers and Electronics (Importance: 2.59/5 | Level: 2.84/7)
+- Personnel and Human Resources (Importance: 2.48/5 | Level: 2.4/7)
+- Law and Government (Importance: 2.4/5 | Level: 2.43/7)
+- Communications and Media (Importance: 2.31/5 | Level: 1.74/7)
+- Telecommunications (Importance: 2.21/5 | Level: 1.08/7)
+- Philosophy and Theology (Importance: 1.9/5 | Level: 2.16/7)
+- Sales and Marketing (Importance: 1.89/5 | Level: 1.51/7)
+- Foreign Language (Importance: 1.83/5 | Level: 1.23/7)
+- Economics and Accounting (Importance: 1.74/5 | Level: 0.93/7)
+- Transportation (Importance: 1.71/5 | Level: 0.92/7)
+- Production and Processing (Importance: 1.64/5 | Level: 1.26/7)
+- Physics (Importance: 1.6/5 | Level: 1.04/7)
+- Engineering and Technology (Importance: 1.51/5 | Level: 1.2/7)
+- Food Production (Importance: 1.5/5 | Level: 0.7/7)
+- History and Archeology (Importance: 1.44/5 | Level: 0.79/7)
+- Mechanical (Importance: 1.35/5 | Level: 0.67/7)
+- Design (Importance: 1.29/5 | Level: 0.52/7)
+- Geography (Importance: 1.21/5 | Level: 0.48/7)
+- Building and Construction (Importance: 1.2/5 | Level: 0.39/7)
+- Fine Arts (Importance: 1.01/5 | Level: 0.03/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Social Perceptiveness (Importance: 4.12/5 | Level: 4.38/7)
+- Speaking (Importance: 4.0/5 | Level: 4.25/7)
+- Coordination (Importance: 4.0/5 | Level: 4.0/7)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.12/7)
+- Service Orientation (Importance: 4.0/5 | Level: 4.0/7)
+- Active Listening (Importance: 4.0/5 | Level: 4.25/7)
+- Reading Comprehension (Importance: 3.88/5 | Level: 4.25/7)
+- Judgment and Decision Making (Importance: 3.88/5 | Level: 3.75/7)
+- Writing (Importance: 3.75/5 | Level: 3.88/7)
+- Monitoring (Importance: 3.75/5 | Level: 4.0/7)
+- Active Learning (Importance: 3.5/5 | Level: 4.12/7)
+- Complex Problem Solving (Importance: 3.5/5 | Level: 3.38/7)
+- Learning Strategies (Importance: 3.25/5 | Level: 3.62/7)
+- Instructing (Importance: 3.25/5 | Level: 3.75/7)
+- Time Management (Importance: 3.12/5 | Level: 3.12/7)
+- Systems Analysis (Importance: 3.0/5 | Level: 2.88/7)
+- Systems Evaluation (Importance: 3.0/5 | Level: 3.0/7)
+- Operations Monitoring (Importance: 3.0/5 | Level: 2.88/7)
+- Science (Importance: 2.88/5 | Level: 2.88/7)
+- Quality Control Analysis (Importance: 2.88/5 | Level: 3.0/7)
+- Persuasion (Importance: 2.88/5 | Level: 2.88/7)
+- Mathematics (Importance: 2.88/5 | Level: 3.12/7)
+- Negotiation (Importance: 2.75/5 | Level: 2.88/7)
+- Management of Personnel Resources (Importance: 2.62/5 | Level: 2.88/7)
+- Operation and Control (Importance: 2.25/5 | Level: 2.12/7)
+- Operations Analysis (Importance: 2.0/5 | Level: 1.75/7)
+- Troubleshooting (Importance: 1.88/5 | Level: 1.38/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.75/7)
+- Equipment Selection (Importance: 1.88/5 | Level: 0.88/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.12/7)
+- Management of Financial Resources (Importance: 1.62/5 | Level: 1.38/7)
+- Programming (Importance: 1.62/5 | Level: 0.62/7)
+- Repairing (Importance: 1.12/5 | Level: 0.12/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Allscripts healthcare automation software (Tech skill type: Medical software)
+- Allscripts Sunrise (Tech skill type: Medical software)
+- Apache Spark (Tech skill type: Business intelligence and data analysis software)
+- Data entry software (Tech skill type: Data base user interface and query software)
+- Database software (Tech skill type: Data base user interface and query software)
+- Diagnostic and procedural coding software (Tech skill type: Categorization or classification software)
+- DoctorsPartner EMR (Tech skill type: Medical software)
+- Drug guide software (Tech skill type: Information retrieval or search software)
+- eClinicalWorks EHR software (Tech skill type: Medical software)
+- Electronic medical record EMR software (Tech skill type: Medical software)
+- Epic Systems (Tech skill type: Medical software)
+- FaceTime (Tech skill type: Video conferencing software)
+- FileMaker Pro (Tech skill type: Data base user interface and query software)
+- Google Docs (Tech skill type: Word processing software)
+- Google Drive (Tech skill type: Cloud-based data access and sharing software)
+- Healthcare common procedure coding system HCPCS (Tech skill type: Medical software)
+- Henry Schein Dentrix (Tech skill type: Medical software)
+- HMS (Tech skill type: Medical software)
+- Human resource management software HRMS (Tech skill type: Human resources software)
+- IBM Notes (Tech skill type: Electronic mail software)
+- Kronos Workforce Timekeeper (Tech skill type: Time accounting software)
+- LinkedIn (Tech skill type: Web page creation and editing software)
+- Medical condition coding software (Tech skill type: Medical software)
+- Medical procedure coding software (Tech skill type: Medical software)
+- MEDITECH software (Tech skill type: Medical software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Exchange (Tech skill type: Electronic mail software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Oracle Taleo (Tech skill type: Human resources software)
+- PCC EHR (Tech skill type: Medical software)
+- Per-Se Technologies ORSOS One-Call (Tech skill type: Calendar and scheduling software)
+- PointClickCare healthcare software (Tech skill type: Medical software)
+- Prognosis Innovation Healthcare ChartAccess (Tech skill type: Medical software)
+- QuadraMed Affinity Healthcare Information System (Tech skill type: Medical software)
+- Siemens SIENET Sky (Tech skill type: Medical software)
+- YouTube (Tech skill type: Video creation and editing software)
+
+## TOOLS USED
+- Angiocaths (Tool type: Diagnostic or interventional vascular catheters for general use)
+- Anti-embolism elastic stockings (Tool type: Vascular or compression apparel or support)
+- Apnea monitors (Tool type: Apnea monitors)
+- Aqua K pads (Tool type: Therapeutic heating or cooling pads or compresses or packs)
+- Arterial blood gas testing equipment (Tool type: Arterial blood gas monitors)
+- Arterial line catheters (Tool type: Arterial line catheters)
+- Audiometers (Tool type: Audiometers)
+- Autoclaves (Tool type: Steam autoclaves or sterilizers)
+- Automated medicine dispensing equipment (Tool type: Medication or pill dispensers)
+- Autotransfusion systems (Tool type: Autotransfusion units)
+- Bag-valve masks (Tool type: Ventilator accessories)
+- Balanced suspension traction equipment (Tool type: Leg traction supplies)
+- Bed scales (Tool type: Patient bed or table scales for general use)
+- Bilevel positive airway pressure BiPAP ventilators (Tool type: Non invasive bi level machines)
+- Bilimeters (Tool type: Acute care fetal or maternal monitoring units)
+- Binocular light compound microscopes (Tool type: Binocular light compound microscopes)
+- Bladder irrigation equipment (Tool type: Urological procedure trays or packs or kits)
+- Blood collection needles (Tool type: Blood collection needles)
+- Blood warming equipment (Tool type: Blood warming or transfusion systems)
+- Bucks traction equipment (Tool type: Arm traction supplies)
+- Canes (Tool type: Canes)
+- Capillary glucose monitors (Tool type: Glucose monitors or meters)
+- Cardiac monitor electrodes (Tool type: Cardiac output CO monitoring units)
+- Cardiac monitors (Tool type: Cardiac output CO monitoring units)
+- Centrifuges (Tool type: Benchtop centrifuges)
+- Cervical collars (Tool type: Cervical collars or neck braces)
+- Cervical traction equipment (Tool type: Head or neck traction supplies)
+- Chemotherapy spill kits (Tool type: Spill kits)
+- Colonoscopy equipment (Tool type: Colonoscopes)
+- Colposcopes (Tool type: Colposcopes or vaginoscopes)
+- Computerized electrocardiography EKG and hemodynamic monitoring systems (Tool type: Holter or wearable EKG monitoring systems or accessories)
+- Continuous enteral feeding equipment (Tool type: Enteral feeding administration sets)
+- Continuous passive motion CPM machines (Tool type: Continuous passive motion CPM devices)
+- Continuous positive airway pressure CPAP ventilators (Tool type: Non invasive continuous positive air pressure machines)
+- Cooling blankets (Tool type: Therapeutic heating or cooling blankets or drapes)
+- Crutches (Tool type: Crutches)
+- Curved hemostats (Tool type: Endoscopic hemostatic balloons or needles or tubes or accessories)
+- Defibrillators (Tool type: Mobile medical services automated external defibrillators AED or hard paddles)
+- Doppler pulse measurement devices (Tool type: Hand held dopplers)
+- Double lumen catheters (Tool type: Peripherally inserted central catheters PICC)
+- Electrocardiography EKG units (Tool type: Electrocardiography EKG units)
+- Electronic blood pressure monitors (Tool type: Electronic blood pressure units)
+- Electrosurgical devices (Tool type: Electrosurgical or electrocautery equipment)
+- Endotracheal ET tubes (Tool type: Endotracheal tubes)
+- Enema equipment (Tool type: Enema kits)
+- Epidural catheters (Tool type: Anesthesia nerve block kit or tray)
+- Epidural pumps (Tool type: Infusion pump kits)
+- Evacuated blood collection tubes (Tool type: Vacuum blood collection tubes or containers)
+- Fetal monitors (Tool type: Acute care fetal or maternal monitoring units)
+- Fetal scalp electrodes (Tool type: Acute care fetal or maternal monitoring units)
+- Flash sterilizers (Tool type: Steam autoclaves or sterilizers)
+- Flexible sigmoidoscopes (Tool type: Sigmoidoscopes)
+- Gait belts (Tool type: Gait belts for rehabilitation or therapy)
+- Gastrointestinal GI endoscopes (Tool type: Esophagogastroduodenoscopes or gastroduodenoscopes or gastroscopes)
+- Glucose testing equipment (Tool type: Glucose monitors or meters)
+- Grounding pads (Tool type: Electrosurgical or electrocautery equipment)
+- Head immobilizers (Tool type: Mobile medical services head immobilizers)
+- Heelstick blood sampling equipment (Tool type: Lancets)
+- Hemostats (Tool type: Endoscopic hemostatic balloons or needles or tubes or accessories)
+- Hemovac drains (Tool type: Surgical drains or drain sets)
+- Heparin locks (Tool type: Intravenous or arterial tubing adapter or connector)
+- Hospital beds (Tool type: Patient care beds for general use)
+- Hyper/hypothermia blankets (Tool type: Therapeutic heating or cooling blankets or drapes)
+- Incentive spirometers (Tool type: Spirometers)
+- Infant security sensors (Tool type: Patient motion sensors or alarms)
+- Infant warmers (Tool type: Clinical incubators or infant warmers)
+- Infusion control devices (Tool type: Intravenous infusion pump analyzers or sensors)
+- Infusion pump enteral feeding tubes (Tool type: Enteral feeding infusion pump tubing sets)
+- Insulin pumps (Tool type: Infusion pump kits)
+- Intermittent enteral feeding equipment (Tool type: Enteral feeding administration sets)
+- Intra-aortic balloon pumps IABP (Tool type: Intraaortic balloon pumps)
+- Intracranial pressure monitors (Tool type: Intracranial pressure ICP monitoring units)
+- Intramuscular needles (Tool type: Hypodermic needle)
+- Intravenous IV equipment (Tool type: Intravenous tubing with catheter administration kits)
+- Intravenous IV tubing (Tool type: Intravenous or arterial extension tubing)
+- Intravenous syringe pumps (Tool type: Intravenous syringe infusion pumps)
+- Intubation stylets (Tool type: Intubation stylets)
+- Isolettes (Tool type: Clinical incubators or infant warmers)
+- Jackson-Pratt drains (Tool type: Surgical drains or drain sets)
+- Lancets (Tool type: Lancets)
+- Laryngoscope blades (Tool type: Intubation laryngoscopes)
+- Laser printers (Tool type: Laser printers)
+- Leather restraints (Tool type: Restraint straps or buckles or supplies)
+- Levine tubes (Tool type: Gastric decompression tubes)
+- Limb restraints (Tool type: Extremity restraints)
+- Loop electrosurgical excision procedure LEEP equipment (Tool type: Electrosurgical or electrocautery equipment)
+- Lower extremity prosthetic devices (Tool type: Lower extremity prosthetic devices)
+- Lukens traps (Tool type: Sputum collection apparatus or containers)
+- Manometers (Tool type: Respiratory manometer kits)
+- Manual blood pressure monitors (Tool type: Electronic blood pressure units)
+- Manual resuscitation bags (Tool type: Manual resuscitators)
+- Manually operated oxygen supply resuscitators (Tool type: Manual resuscitators)
+- Mayo trays (Tool type: Lap mayo trays or mayo stands for surgical use)
+- Mechanical lift devices (Tool type: Clinical hydraulic lifts)
+- Mechanical stethoscopes (Tool type: Medical acoustic stethoscopes)
+- Meconium aspirators (Tool type: Respiratory aspirator products)
+- Medical encyclopedias (Tool type: Electronic encyclopedias)
+- Medical tuning forks (Tool type: Medical tuning forks)
+- Mobile medical services spine boards (Tool type: Mobile medical services spine boards)
+- Nasal cannulas (Tool type: Medical nasal cannulas)
+- Nasal suctioning equipment (Tool type: Medical or surgical suction or vacuum appliances)
+- Nasogastric tubes (Tool type: Nasogastric tubes)
+- Nebulizers (Tool type: Nebulizers)
+- Non-rebreather masks (Tool type: Medical oxygen masks or parts)
+- Notebook computers (Tool type: Notebook computers)
+- Occlusion clamps (Tool type: Surgical clamps or clips or forceps)
+- One-way valve protective shields (Tool type: Mobile resuscitator or aspirator kits)
+- Oral suctioning equipment (Tool type: Medical or surgical suction or vacuum appliances)
+- Otoscopes (Tool type: Ophthalmoscopes or otoscopes or scope sets)
+- Overhead clinical trapezes (Tool type: Clinical trapeze bars)
+- Oxygen administration equipment (Tool type: Oxygen therapy delivery system products)
+- Oxygen flowmeters (Tool type: Flow sensors or regulators or components)
+- Oxygen regulators (Tool type: Flow sensors or regulators or components)
+- Oxygen tanks (Tool type: Medical gas cylinders or related devices)
+- Oxyhoods (Tool type: Medical head hoods)
+- Pacemakers (Tool type: Cardiac pacemaker generators or cardiac resynchronization therapy pacemakers CRT-P)
+- Partial masks (Tool type: Medical oxygen masks or parts)
+- Patient controlled analgesia PCA pumps (Tool type: Patient controlled analgesia infusion pumps)
+- Patient lifters (Tool type: Patient lifts)
+- Pelvic specula (Tool type: Vaginal exam speculas)
+- Pelvic traction equipment (Tool type: Pelvis or back traction supplies)
+- Percussion hammers (Tool type: Reflex hammers or mallets)
+- Peripheral angiocaths (Tool type: Peripherally inserted central catheters PICC)
+- Peripheral butterflys (Tool type: Peripherally inserted central catheters PICC)
+- Peripheral intravenous IV locks (Tool type: Intravenous or arterial tubing adapter or connector)
+- Personal computers (Tool type: Personal computers)
+- Phaco apparatus (Tool type: Phacoemulsification or extrusion or vitrectomy equipment for ophthalmic surgery)
+- Phaco consoles (Tool type: Phacoemulsification or extrusion or vitrectomy equipment for ophthalmic surgery)
+- Photopheresis systems (Tool type: Hemodialysis dialyzer reprocessing systems)
+- Phototherapy equipment (Tool type: Ultraviolet UV lamps)
+- Pleuravacs (Tool type: Medical or surgical suction sets or kits)
+- Pocket personal computers PC (Tool type: Personal computers)
+- Pulmonary artery catheters (Tool type: Diagnostic or interventional vascular catheters for general use)
+- Pulse oximeters (Tool type: Pulse oximeter units)
+- Rape kits (Tool type: Sexual assault determination kits)
+- Reflex hammers (Tool type: Reflex hammers or mallets)
+- Retractors (Tool type: Surgical retractors)
+- Russell's traction equipment (Tool type: Leg traction supplies)
+- Scalpels (Tool type: Surgical scalpels or knives or blades or trephines)
+- Sequential compression devices (Tool type: Vascular sequential compression devices or tubing)
+- Single lumen catheters (Tool type: Peripherally inserted central catheters PICC)
+- Skin traction equipment (Tool type: Hand or finger traction supplies)
+- Snellen eye charts (Tool type: Eye charts or vision cards)
+- Splints (Tool type: Orthopedic splint systems)
+- Staple removers (Tool type: Skin staple removers or kits)
+- Straight hemostats (Tool type: Endoscopic hemostatic balloons or needles or tubes or accessories)
+- Subcutaneous hypodermic needles (Tool type: Hypodermic needle)
+- Suction equipment (Tool type: Medical or surgical suction or vacuum appliances)
+- Surgical clamps (Tool type: Surgical clamps or clips or forceps)
+- Surgical drapes (Tool type: Surgical drapes)
+- Surgical lights (Tool type: Endoscopic or surgical light sources)
+- Suture needleholders (Tool type: Surgical needle holders)
+- Suture needles (Tool type: Suture needles)
+- Suture removal kits (Tool type: Suture removal kits or trays or packs or sets)
+- Swab dryers (Tool type: Heating or drying equipment or accessories)
+- Syringes (Tool type: Medical syringes without needle)
+- T-pieces with aerosol (Tool type: Respiratory humidifiers or vaporizers)
+- Tablet computers (Tool type: Tablet computers)
+- Telemedicine equipment (Tool type: Radio frequency transmitters or receivers)
+- Telemetry units (Tool type: Electrocardiography EKG transmitters or telemetry devices)
+- Titmus vision screeners (Tool type: Vision testing stereoscopes)
+- Torso immobilizers (Tool type: Mobile medical services torso immobilizers)
+- Tourniquets (Tool type: Tourniquets)
+- Tracheal suctioning equipment (Tool type: Medical or surgical suction or vacuum appliances)
+- Tracheostomy collars (Tool type: Tracheostomy accessories)
+- Traction equipment (Tool type: Orthopedic traction hardware or weights)
+- Transcutaneous electric nerve stimulation TENS equipment (Tool type: Transcutaneous electric nerve stimulation units)
+- Transport cardiac monitors (Tool type: Multiparameter vital sign units)
+- Triple lumen catheters (Tool type: Peripherally inserted central catheters PICC)
+- Tuberculosis TB skin test equipment (Tool type: Tuberculin syringes)
+- Umbilical catheters (Tool type: Umbilical catheters)
+- Upper extremity prosthetic devices (Tool type: Upper extremity prosthetic devices)
+- Urinalysis test strips (Tool type: Urinalysis test strips)
+- Urinary catheters (Tool type: Urinary catheterization kits)
+- Urine analysis equipment (Tool type: Urinalysis analyzers)
+- Vacuum extractors (Tool type: Surgical suction machine or vacuum extractor or ultrasonic surgical aspirator)
+- Venous oxygen saturation SVO2 monitors (Tool type: Perfusion oxygen or hematocrit saturation monitors)
+- Ventilators (Tool type: Intermittent positive pressure breathing IPPB machines)
+- Ventimasks (Tool type: Medical oxygen masks or parts)
+- Ventricular assist devices VAD (Tool type: Ventricular assist devices)
+- Vest restraints (Tool type: Restraint vests and jackets)
+- Walkers (Tool type: Walkers or rollators)
+
+# WORK CONTEXT
+- Conflict Situations: Every day
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Extremely important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Every day
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Slightly automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Every day
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Once a month or more but not every week
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Extremely important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Very close (near touching)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: More than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Less than half the time
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a week or more but not every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Social
+- Secondary Interest: Investigative
+- Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Clinical Nurse Specialists
+- Nurse Practitioners
+- Acute Care Nurses
+- Critical Care Nurses
+- Licensed Practical and Licensed Vocational Nurses
+- Nurse Midwives
+- Advanced Practice Psychiatric Nurses
+- Nursing Assistants
+- Physician Assistants
+- Nurse Anesthetists
+- Emergency Medicine Physicians
+- Paramedics
+- Family Medicine Physicians
+- Anesthesiologists
+- Obstetricians and Gynecologists
+- Pediatric Surgeons
+- Emergency Medical Technicians
+- General Internal Medicine Physicians
+- Cardiologists
+- Hospitalists

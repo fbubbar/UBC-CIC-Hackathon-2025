@@ -1,0 +1,292 @@
+Job Title: Animal Scientists
+O*NET-SOC Code: 19-1011.00
+
+# DESCRIPTION
+Conduct research in the genetics, nutrition, reproduction, growth, and development of domestic farm animals.
+
+# TASKS
+- Study nutritional requirements of animals and nutritive values of animal feed materials.
+- Write up or orally communicate research findings to the scientific community, producers, and the public.
+- Develop improved practices in feeding, housing, sanitation, or parasite and disease control of animals.
+- Advise producers about improved products and techniques that could enhance their animal production efforts.
+- Conduct research concerning animal nutrition, breeding, or management to improve products or processes.
+- Study effects of management practices, processing methods, feed, or environmental conditions on quality and quantity of animal products, such as eggs and milk.
+- Research and control animal selection and breeding practices to increase production efficiency and improve animal quality.
+- Determine genetic composition of animal populations and heritability of traits, using principles of genetics.
+- Crossbreed animals with existing strains or cross strains to obtain new combinations of desirable characteristics.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Biology (Importance: 4.64/5 | Level: 5.87/7)
+- Mathematics (Importance: 4.13/5 | Level: 5.48/7)
+- English Language (Importance: 4.09/5 | Level: 4.82/7)
+- Chemistry (Importance: 4.04/5 | Level: 5.09/7)
+- Food Production (Importance: 3.83/5 | Level: 4.61/7)
+- Education and Training (Importance: 3.45/5 | Level: 4.77/7)
+- Customer and Personal Service (Importance: 3.39/5 | Level: 4.27/7)
+- Computers and Electronics (Importance: 3.35/5 | Level: 4.43/7)
+- Sales and Marketing (Importance: 3.13/5 | Level: 3.91/7)
+- Administration and Management (Importance: 3.0/5 | Level: 3.91/7)
+- Production and Processing (Importance: 2.83/5 | Level: 3.17/7)
+- Communications and Media (Importance: 2.82/5 | Level: 3.14/7)
+- Engineering and Technology (Importance: 2.52/5 | Level: 3.13/7)
+- Administrative (Importance: 2.43/5 | Level: 3.14/7)
+- Economics and Accounting (Importance: 2.43/5 | Level: 2.7/7)
+- Law and Government (Importance: 2.32/5 | Level: 2.5/7)
+- Physics (Importance: 2.32/5 | Level: 2.87/7)
+- Personnel and Human Resources (Importance: 2.3/5 | Level: 3.3/7)
+- Telecommunications (Importance: 2.18/5 | Level: 1.59/7)
+- Medicine and Dentistry (Importance: 2.18/5 | Level: 2.13/7)
+- Psychology (Importance: 2.13/5 | Level: 2.65/7)
+- Public Safety and Security (Importance: 2.1/5 | Level: 1.9/7)
+- Transportation (Importance: 2.09/5 | Level: 2.52/7)
+- Foreign Language (Importance: 2.0/5 | Level: 2.3/7)
+- Mechanical (Importance: 1.96/5 | Level: 2.35/7)
+- Geography (Importance: 1.91/5 | Level: 2.3/7)
+- Design (Importance: 1.86/5 | Level: 2.0/7)
+- Building and Construction (Importance: 1.74/5 | Level: 1.7/7)
+- Sociology and Anthropology (Importance: 1.61/5 | Level: 1.22/7)
+- Therapy and Counseling (Importance: 1.61/5 | Level: 1.22/7)
+- Philosophy and Theology (Importance: 1.57/5 | Level: 1.22/7)
+- History and Archeology (Importance: 1.43/5 | Level: 1.13/7)
+- Fine Arts (Importance: 1.22/5 | Level: 0.48/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Reading Comprehension (Importance: 4.12/5 | Level: 4.88/7)
+- Writing (Importance: 4.0/5 | Level: 4.25/7)
+- Judgment and Decision Making (Importance: 4.0/5 | Level: 4.5/7)
+- Complex Problem Solving (Importance: 4.0/5 | Level: 4.12/7)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.25/7)
+- Science (Importance: 4.0/5 | Level: 4.0/7)
+- Speaking (Importance: 3.88/5 | Level: 4.12/7)
+- Active Listening (Importance: 3.88/5 | Level: 4.0/7)
+- Active Learning (Importance: 3.88/5 | Level: 4.0/7)
+- Monitoring (Importance: 3.75/5 | Level: 3.88/7)
+- Systems Analysis (Importance: 3.75/5 | Level: 3.75/7)
+- Mathematics (Importance: 3.38/5 | Level: 3.88/7)
+- Learning Strategies (Importance: 3.25/5 | Level: 3.25/7)
+- Time Management (Importance: 3.25/5 | Level: 3.25/7)
+- Systems Evaluation (Importance: 3.25/5 | Level: 3.88/7)
+- Coordination (Importance: 3.12/5 | Level: 3.12/7)
+- Social Perceptiveness (Importance: 3.12/5 | Level: 3.25/7)
+- Instructing (Importance: 3.0/5 | Level: 3.25/7)
+- Management of Personnel Resources (Importance: 3.0/5 | Level: 3.12/7)
+- Negotiation (Importance: 3.0/5 | Level: 3.0/7)
+- Persuasion (Importance: 3.0/5 | Level: 3.12/7)
+- Service Orientation (Importance: 3.0/5 | Level: 3.0/7)
+- Quality Control Analysis (Importance: 2.75/5 | Level: 2.75/7)
+- Operations Analysis (Importance: 2.75/5 | Level: 2.75/7)
+- Operations Monitoring (Importance: 2.5/5 | Level: 2.75/7)
+- Management of Material Resources (Importance: 2.25/5 | Level: 2.0/7)
+- Programming (Importance: 2.0/5 | Level: 1.12/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.62/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.12/7)
+- Troubleshooting (Importance: 1.88/5 | Level: 1.0/7)
+- Operation and Control (Importance: 1.88/5 | Level: 1.88/7)
+- Equipment Selection (Importance: 1.12/5 | Level: 0.25/7)
+- Equipment Maintenance (Importance: 1.12/5 | Level: 0.12/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Best Linear Unbiased Prediction BLUP (Tech skill type: Analytical or scientific software)
+- Cowculator (Tech skill type: Analytical or scientific software)
+- COWGAME (Tech skill type: Analytical or scientific software)
+- DAGRIS (Tech skill type: Data base user interface and query software)
+- Database software (Tech skill type: Data base user interface and query software)
+- Deoxyribonucleic acid DNA sequence analysis software (Tech skill type: Analytical or scientific software)
+- Domestic Animal Diversity Information Service DAD-IS (Tech skill type: Data base user interface and query software)
+- Email software (Tech skill type: Electronic mail software)
+- ESRI ArcGIS software (Tech skill type: Geographic information system)
+- FEEDLOT CALC (Tech skill type: Analytical or scientific software)
+- Master Ration Calculator (Tech skill type: Analytical or scientific software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Nutrition Balance Analyzer NUTBAL (Tech skill type: Analytical or scientific software)
+- Online Mendelian Inheritance in Animals OMIA (Tech skill type: Data base user interface and query software)
+- Oracle HRIS (Tech skill type: Human resources software)
+- Oracle PeopleSoft (Tech skill type: Enterprise resource planning ERP software)
+- SAS (Tech skill type: Analytical or scientific software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Tableau (Tech skill type: Business intelligence and data analysis software)
+- VSNi ASReml (Tech skill type: Analytical or scientific software)
+- VSNi GenStat (Tech skill type: Analytical or scientific software)
+- Web browser software (Tech skill type: Internet browser software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Analytic balances (Tool type: Analytical balances)
+- Animal blood analyzers (Tool type: Hematology analyzers)
+- Animal catching equipment (Tool type: Animal husbandry equipment)
+- Animal feed mixers (Tool type: Feed mixers)
+- Animal feeders (Tool type: Animal husbandry equipment)
+- Animal heater lamps (Tool type: Animal husbandry equipment)
+- Artificial insemination kits (Tool type: Animal husbandry equipment)
+- Atomic absorption AA spectrometers (Tool type: Atomic absorption AA spectrometers)
+- Automatic carbon dioxide CO2 incubators (Tool type: Dry wall single chamber carbon dioxide incubators)
+- Balling guns (Tool type: Veterinary injection or suction unit)
+- Benchtop centrifuges (Tool type: Benchtop centrifuges)
+- Blood collection syringes (Tool type: Blood collection syringes)
+- Bomb calorimeters (Tool type: Calorimeters)
+- Brooders (Tool type: Incubators or brooders for poultry)
+- Bunsen burners (Tool type: Gas burners)
+- Calf pullers (Tool type: Animal husbandry equipment)
+- Calf restraints (Tool type: Restraints)
+- Calorimeters (Tool type: Calorimeters)
+- Captive bolt stunners (Tool type: Stunner)
+- Cattle scales (Tool type: Animal weighing scales)
+- Cattle squeeze chutes (Tool type: Animal husbandry equipment)
+- Circulating water baths (Tool type: Circulating baths)
+- Computerized cattle feeders (Tool type: Animal husbandry equipment)
+- Conductance meters (Tool type: Conductivity meters)
+- Dehorners (Tool type: Animal husbandry equipment)
+- Deoxyribonucleic acid DNA sequencers (Tool type: Deoxyribonucleic sequence analyzers)
+- Desktop computers (Tool type: Desktop computers)
+- Dissecting kits (Tool type: Histology sampling and dissecting stations)
+- Ear punches (Tool type: Animal husbandry equipment)
+- Electric stunners (Tool type: Stunner)
+- Electronic laboratory balances (Tool type: Laboratory balances)
+- Erlenmeyer flasks (Tool type: Laboratory flasks)
+- Evacuated blood collection tubes (Tool type: Vacuum blood collection tubes or containers)
+- Fiber digesters (Tool type: Reactors or fermenters or digesters)
+- Fluorescence spectrophotometers (Tool type: Spectrophotometers)
+- Fraction collectors (Tool type: Electrophoresis system accessories)
+- Freeze dryers (Tool type: Freeze dryers or lyopholizers)
+- Gas chromatographs GC (Tool type: Gas chromatographs)
+- Gel electrophoresis equipment (Tool type: Gel documentation systems)
+- Glass pipettes (Tool type: Dropping pipettes)
+- Graduated beakers (Tool type: Laboratory beakers)
+- Graduated cylinders (Tool type: Laboratory graduated cylinders)
+- Handheld digital thermometers (Tool type: Handheld thermometer)
+- High pressure liquid chromatograph HPLC equipment (Tool type: High pressure liquid chromatograph chromatography)
+- Homogenizers (Tool type: Homogenizers)
+- Hot plate stirrers (Tool type: Stirring hotplates)
+- Hybridization chambers (Tool type: Hybridization ovens or incubators)
+- Hydrometers (Tool type: Hydrometers)
+- Imaging microscopes (Tool type: Photo attachments for microscopes)
+- Infrared IR spectrometers (Tool type: Infrared spectrometers)
+- Laboratory drying ovens (Tool type: Drying cabinets or ovens)
+- Laboratory fume hoods (Tool type: Fume hoods or cupboards)
+- Laboratory vacuum ovens (Tool type: Vacuum ovens)
+- Laboratory vacuum pumps (Tool type: Laboratory vacuum pumps)
+- Laboratory water baths (Tool type: Water baths)
+- Laminar flow cabinets (Tool type: Laminar flow cabinets or stations)
+- Laptop computers (Tool type: Notebook computers)
+- Laser densitometers (Tool type: Densitometers)
+- Liquid scintillation counters (Tool type: Liquid scintillation counters)
+- Livestock scales (Tool type: Animal weighing scales)
+- Meat choppers (Tool type: Chopping machinery)
+- Meat grinders (Tool type: Commercial use food grinders)
+- Microcentrifuges (Tool type: Microcentrifuges)
+- Microscope slides (Tool type: Microscope slides)
+- Microultracentrifuges (Tool type: Microcentrifuges)
+- Optical compound microscopes (Tool type: Binocular light compound microscopes)
+- Orbital shaking water baths (Tool type: Orbital shaking water baths)
+- Oxygen meters (Tool type: Oxygen sensors)
+- Personal computers (Tool type: Personal computers)
+- Petri dishes (Tool type: Petri plates or dishes)
+- Polymerase chain reaction PCR equipment (Tool type: Rapid amplification or complementary deoxyribonucleic acid ends RACE technology products)
+- Poultry incubators (Tool type: Incubators or brooders for poultry)
+- Refrigerated benchtop centrifuges (Tool type: Refrigerated benchtop centrifuges)
+- Scanning densitometers (Tool type: Densitometers)
+- Scientific calculators (Tool type: Scientific calculator)
+- Slab dryers (Tool type: Gel dryers)
+- Specimen collection containers (Tool type: Specimen collection container)
+- Steam autoclaves (Tool type: Steam autoclaves or sterilizers)
+- Tissue culture incubators (Tool type: Tissue culture incubators)
+- Triple beam balances (Tool type: Triple beam balances)
+- Ultracentrifuges (Tool type: Ultracentrifuges)
+- Ultrasonic water baths (Tool type: Immersion circulators)
+- Ultrasound probes (Tool type: Medical ultrasound or doppler or echocardiograph probes)
+- Ultraviolet UV visible spectrophotometers (Tool type: Spectrophotometers)
+- Veterinary emasculators (Tool type: Veterinary castration instruments)
+- Volumetric flasks (Tool type: Laboratory flasks)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Fairly serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Very important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Moderately automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Once a year or more but not every month
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Once a year or more but not every month
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Once a year or more but not every month
+- Exposed to Very Hot or Cold Temperatures: Once a year or more but not every month
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Moderate responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Once a week or more but not every day
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Once a week or more but not every day
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Once a year or more but not every month
+- Outdoors, Under Cover: Once a week or more but not every day
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Slightly close (e.g., shared office)
+- Public Speaking: Once a month or more but not every week
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Less than half the time
+- Spend Time Sitting: More than half the time
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Less than half the time
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Once a week or more but not every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Once a year or more but not every month
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Moderate responsibility
+- Work With or Contribute to a Work Group or Team: Very important
+- Written Letters and Memos: Every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Investigative
+- Secondary Interest: Realistic
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Soil and Plant Scientists
+- Food Scientists and Technologists
+- Microbiologists
+- Biochemists and Biophysicists
+- Veterinarians
+- Agricultural Sciences Teachers, Postsecondary
+- Geneticists
+- Farmers, Ranchers, and Other Agricultural Managers
+- Biologists
+- Zoologists and Wildlife Biologists
+- Agricultural Technicians
+- Animal Breeders
+- Farmworkers, Farm, Ranch, and Aquacultural Animals
+- Food Science Technicians
+- Dietitians and Nutritionists
+- Biological Technicians
+- Agricultural Inspectors
+- Veterinary Assistants and Laboratory Animal Caretakers
+- Veterinary Technologists and Technicians
+- Medical Scientists, Except Epidemiologists

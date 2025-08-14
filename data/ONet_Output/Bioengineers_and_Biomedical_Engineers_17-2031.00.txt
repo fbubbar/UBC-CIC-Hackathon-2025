@@ -1,0 +1,549 @@
+Job Title: Bioengineers and Biomedical Engineers
+O*NET-SOC Code: 17-2031.00
+
+# DESCRIPTION
+Apply knowledge of engineering, biology, chemistry, computer science, and biomechanical principles to the design, development, and evaluation of biological, agricultural, and health systems and products, such as artificial organs, prostheses, instrumentation, medical information systems, and health management and care delivery systems.
+
+# TASKS
+- Evaluate the safety, efficiency, and effectiveness of biomedical equipment.
+- Prepare technical reports, data summary documents, or research articles for scientific publication, regulatory submissions, or patent applications.
+- Design or develop medical diagnostic or clinical instrumentation, equipment, or procedures, using the principles of engineering and biobehavioral sciences.
+- Conduct research, along with life scientists, chemists, and medical scientists, on the engineering aspects of the biological systems of humans and animals.
+- Adapt or design computer hardware or software for medical science uses.
+- Maintain databases of experiment characteristics or results.
+- Develop statistical models or simulations, using statistical or modeling software.
+- Read current scientific or trade literature to stay abreast of scientific, industrial, or technological advances.
+- Manage teams of engineers by creating schedules, tracking inventory, creating or using budgets, or overseeing contract obligations or deadlines.
+- Develop models or computer simulations of human biobehavioral systems to obtain data for measuring or controlling life processes.
+- Design or conduct follow-up experimentation, based on generated data, to meet established process objectives.
+- Write documents describing protocols, policies, standards for use, maintenance, and repair of medical equipment.
+- Communicate with bioregulatory authorities regarding licensing or compliance responsibilities.
+- Develop methodologies for transferring procedures or biological processes from laboratories to commercial-scale manufacturing production.
+- Collaborate with manufacturing or quality assurance staff to prepare product specification or safety sheets, standard operating procedures, user manuals, or qualification and validation reports.
+- Research new materials to be used for products, such as implanted artificial organs.
+- Prepare project plans for equipment or facility improvements, including time lines, budgetary estimates, or capital spending requests.
+- Consult with chemists or biologists to develop or evaluate novel technologies.
+- Confer with research and biomanufacturing personnel to ensure the compatibility of design and production.
+- Recommend process formulas, instrumentation, or equipment specifications, based on results of bench or pilot experimentation.
+- Communicate with suppliers regarding the design or specifications of bioproduction equipment, instrumentation, or materials.
+- Conduct training or in-services to educate clinicians and other personnel on proper use of equipment.
+- Advise hospital administrators on the planning, acquisition, and use of medical equipment.
+- Analyze new medical procedures to forecast likely outcomes.
+- Design and deliver technology, such as prosthetic devices, to assist people with disabilities.
+- Advise manufacturing staff regarding problems with fermentation, filtration, or other bioproduction processes.
+- Review existing manufacturing processes to identify opportunities for yield improvement or reduced process variation.
+- Develop bioremediation processes to reduce pollution, protect the environment, or treat waste products.
+- Lead studies to examine or recommend changes in process sequences or operation protocols.
+- Design or direct bench or pilot production experiments to determine the scale of production methods that optimize product yield and minimize production costs.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Engineering and Technology (Importance: 4.57/5 | Level: 6.09/7)
+- Computers and Electronics (Importance: 4.48/5 | Level: 5.83/7)
+- Mathematics (Importance: 4.43/5 | Level: 5.52/7)
+- Physics (Importance: 3.95/5 | Level: 5.0/7)
+- Design (Importance: 3.95/5 | Level: 5.22/7)
+- Biology (Importance: 3.82/5 | Level: 5.26/7)
+- English Language (Importance: 3.78/5 | Level: 4.48/7)
+- Medicine and Dentistry (Importance: 3.74/5 | Level: 4.26/7)
+- Education and Training (Importance: 3.65/5 | Level: 4.96/7)
+- Chemistry (Importance: 3.17/5 | Level: 4.17/7)
+- Administration and Management (Importance: 3.13/5 | Level: 4.0/7)
+- Mechanical (Importance: 2.91/5 | Level: 4.04/7)
+- Public Safety and Security (Importance: 2.78/5 | Level: 3.17/7)
+- Personnel and Human Resources (Importance: 2.7/5 | Level: 3.65/7)
+- Production and Processing (Importance: 2.65/5 | Level: 3.22/7)
+- Telecommunications (Importance: 2.57/5 | Level: 2.7/7)
+- Administrative (Importance: 2.35/5 | Level: 2.87/7)
+- Law and Government (Importance: 2.3/5 | Level: 2.83/7)
+- Psychology (Importance: 2.3/5 | Level: 2.78/7)
+- Customer and Personal Service (Importance: 2.3/5 | Level: 2.91/7)
+- Communications and Media (Importance: 2.26/5 | Level: 2.22/7)
+- Economics and Accounting (Importance: 2.09/5 | Level: 2.13/7)
+- Therapy and Counseling (Importance: 2.04/5 | Level: 1.96/7)
+- Sociology and Anthropology (Importance: 2.0/5 | Level: 2.5/7)
+- Sales and Marketing (Importance: 1.96/5 | Level: 2.39/7)
+- Geography (Importance: 1.78/5 | Level: 1.74/7)
+- Foreign Language (Importance: 1.74/5 | Level: 1.22/7)
+- Building and Construction (Importance: 1.64/5 | Level: 1.65/7)
+- Transportation (Importance: 1.61/5 | Level: 1.3/7)
+- Philosophy and Theology (Importance: 1.52/5 | Level: 1.09/7)
+- Food Production (Importance: 1.43/5 | Level: 0.87/7)
+- Fine Arts (Importance: 1.43/5 | Level: 0.74/7)
+- History and Archeology (Importance: 1.27/5 | Level: 0.59/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Writing (Importance: 4.0/5 | Level: 4.25/7)
+- Speaking (Importance: 4.0/5 | Level: 4.25/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 5.0/7)
+- Active Listening (Importance: 4.0/5 | Level: 4.12/7)
+- Mathematics (Importance: 3.88/5 | Level: 4.5/7)
+- Complex Problem Solving (Importance: 3.88/5 | Level: 4.5/7)
+- Critical Thinking (Importance: 3.88/5 | Level: 4.62/7)
+- Science (Importance: 3.88/5 | Level: 4.62/7)
+- Judgment and Decision Making (Importance: 3.88/5 | Level: 4.62/7)
+- Operations Analysis (Importance: 3.75/5 | Level: 4.0/7)
+- Monitoring (Importance: 3.75/5 | Level: 4.12/7)
+- Active Learning (Importance: 3.75/5 | Level: 4.62/7)
+- Systems Analysis (Importance: 3.62/5 | Level: 3.88/7)
+- Systems Evaluation (Importance: 3.5/5 | Level: 4.0/7)
+- Technology Design (Importance: 3.38/5 | Level: 3.75/7)
+- Learning Strategies (Importance: 3.25/5 | Level: 3.88/7)
+- Time Management (Importance: 3.12/5 | Level: 3.25/7)
+- Quality Control Analysis (Importance: 3.12/5 | Level: 3.62/7)
+- Programming (Importance: 3.12/5 | Level: 3.38/7)
+- Instructing (Importance: 3.12/5 | Level: 4.0/7)
+- Management of Personnel Resources (Importance: 3.0/5 | Level: 3.12/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 3.25/7)
+- Coordination (Importance: 3.0/5 | Level: 3.38/7)
+- Operations Monitoring (Importance: 2.88/5 | Level: 3.12/7)
+- Negotiation (Importance: 2.88/5 | Level: 3.0/7)
+- Troubleshooting (Importance: 2.88/5 | Level: 3.0/7)
+- Service Orientation (Importance: 2.88/5 | Level: 3.0/7)
+- Persuasion (Importance: 2.75/5 | Level: 3.12/7)
+- Equipment Selection (Importance: 2.75/5 | Level: 2.88/7)
+- Repairing (Importance: 2.5/5 | Level: 2.62/7)
+- Management of Material Resources (Importance: 2.25/5 | Level: 2.5/7)
+- Installation (Importance: 2.25/5 | Level: 2.25/7)
+- Equipment Maintenance (Importance: 2.12/5 | Level: 2.38/7)
+- Management of Financial Resources (Importance: 2.12/5 | Level: 2.0/7)
+- Operation and Control (Importance: 2.0/5 | Level: 2.12/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Ab Initio (Tech skill type: Enterprise resource planning ERP software)
+- Ada (Tech skill type: Development environment software)
+- ADInstruments LabChart (Tech skill type: Medical software)
+- Adobe Illustrator (Tech skill type: Graphics or photo imaging software)
+- Adobe Photoshop (Tech skill type: Graphics or photo imaging software)
+- Advanced computer simulation language ACSL (Tech skill type: Development environment software)
+- ANSYS simulation software (Tech skill type: Analytical or scientific software)
+- ApE A Plasmid Editor (Tech skill type: Analytical or scientific software)
+- AspenTech HYSYS (Tech skill type: Analytical or scientific software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Biomechanical modeling software (Tech skill type: Analytical or scientific software)
+- Bioreactor Design (Tech skill type: Computer aided design CAD software)
+- C (Tech skill type: Development environment software)
+- C++ (Tech skill type: Object or component oriented development software)
+- Cadence Allegro Design Entry Capture and Capture CIS (Tech skill type: Computer aided design CAD software)
+- Cadence Encounter Test (Tech skill type: Computer aided design CAD software)
+- Calculating optimum maintenance parameters COMPARE (Tech skill type: Analytical or scientific software)
+- Calibration software (Tech skill type: Analytical or scientific software)
+- Charting software (Tech skill type: Charting software)
+- Circuit simulation software (Tech skill type: Analytical or scientific software)
+- Common cause failure assessment software (Tech skill type: Analytical or scientific software)
+- Computational fluid dynamics CFD software (Tech skill type: Analytical or scientific software)
+- Computational modeling software (Tech skill type: Analytical or scientific software)
+- Computer aided design CAD software (Tech skill type: Computer aided design CAD software)
+- Computer aided manufacturing CAM software (Tech skill type: Computer aided manufacturing CAM software)
+- Criticality analysis software (Tech skill type: Analytical or scientific software)
+- Dassault Systemes SolidWorks (Tech skill type: Computer aided design CAD software)
+- Defect tracking software (Tech skill type: Program testing software)
+- Diagramming software (Tech skill type: Pattern design software)
+- Dyadem FMEA Pro-6 (Tech skill type: Analytical or scientific software)
+- Electromechanical testing analysis software (Tech skill type: Analytical or scientific software)
+- Electromyograph analysis software (Tech skill type: Medical software)
+- Electronic design automation EDA software (Tech skill type: Computer aided design CAD software)
+- Embedded systems testing software (Tech skill type: Analytical or scientific software)
+- Equipment compliance testing software (Tech skill type: Compliance software)
+- ERP software (Tech skill type: Enterprise resource planning ERP software)
+- Extensible markup language XML (Tech skill type: Enterprise application integration software)
+- Failure mode and effects analysis FMEA software (Tech skill type: Analytical or scientific software)
+- Failure rate data in perspective FARADIP software (Tech skill type: Analytical or scientific software)
+- Failure rate database software (Tech skill type: Data base user interface and query software)
+- Fault modeling software (Tech skill type: Analytical or scientific software)
+- Fault tree analysis FTA software (Tech skill type: Analytical or scientific software)
+- Finite element analysis FEA software (Tech skill type: Analytical or scientific software)
+- Finite element method FEM software (Tech skill type: Analytical or scientific software)
+- Force platform software (Tech skill type: Analytical or scientific software)
+- Force sensitive applications FSA software (Tech skill type: Analytical or scientific software)
+- Fourier transform infrared FTIR software (Tech skill type: Analytical or scientific software)
+- Functional modeling software (Tech skill type: Analytical or scientific software)
+- Gait analysis software (Tech skill type: Medical software)
+- Hardware description language HDL (Tech skill type: Development environment software)
+- Hierarchical simulation program with integrated circuit emphasis HSPICE (Tech skill type: Analytical or scientific software)
+- Human modeling software (Tech skill type: Analytical or scientific software)
+- Hypertext markup language HTML (Tech skill type: Web platform development software)
+- Hypertext preprocessor PHP (Tech skill type: Web platform development software)
+- IBM Rational ClearCase (Tech skill type: Configuration management software)
+- IBM Rational ClearQuest (Tech skill type: Development environment software)
+- IBM Rational RequisitePro (Tech skill type: Requirements analysis and system architecture software)
+- Image analysis software (Tech skill type: Analytical or scientific software)
+- ImageJ (Tech skill type: Graphics or photo imaging software)
+- Instrument control software (Tech skill type: Medical software)
+- Instrument validation software (Tech skill type: Medical software)
+- Integrated development environment IDE software (Tech skill type: Development environment software)
+- Intelligen SuperPro Designer (Tech skill type: Analytical or scientific software)
+- JavaScript (Tech skill type: Web platform development software)
+- Laboratory information management system LIMS (Tech skill type: Analytical or scientific software)
+- Linux (Tech skill type: Operating system software)
+- Lucidchart (Tech skill type: Process mapping and design software)
+- Maplesoft Maple (Tech skill type: Analytical or scientific software)
+- Materials testing software (Tech skill type: Analytical or scientific software)
+- Mathsoft Mathcad (Tech skill type: Computer aided design CAD software)
+- MathWorks Simulink (Tech skill type: Analytical or scientific software)
+- Mean time between failures MBTF software (Tech skill type: Analytical or scientific software)
+- Medical imaging software (Tech skill type: Medical software)
+- Medical information software (Tech skill type: Medical software)
+- Mentor Graphics software (Tech skill type: Computer aided design CAD software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Azure software (Tech skill type: Development environment software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft operating system (Tech skill type: Operating system software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft Teams (Tech skill type: Enterprise application integration software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Visual Basic (Tech skill type: Development environment software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Minitab (Tech skill type: Analytical or scientific software)
+- Molecular simulation software (Tech skill type: Analytical or scientific software)
+- Motion analysis software (Tech skill type: Analytical or scientific software)
+- National Instruments LabVIEW (Tech skill type: Development environment software)
+- Neural network modeling software (Tech skill type: Analytical or scientific software)
+- NeuroSolutions for MatLab (Tech skill type: Expert system software)
+- Numerical analysis software (Tech skill type: Analytical or scientific software)
+- Oracle Database (Tech skill type: Data base user interface and query software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- OrCAD Capture (Tech skill type: Computer aided design CAD software)
+- Polymath Software POLYMATH (Tech skill type: Analytical or scientific software)
+- Preventive maintenance software (Tech skill type: Analytical or scientific software)
+- Project estimation software (Tech skill type: Project management software)
+- PTC Creo Elements/Pro (Tech skill type: Computer aided design CAD software)
+- PTC Pro/ENGINEER Wildfire (Tech skill type: Computer aided design CAD software)
+- Python (Tech skill type: Object or component oriented development software)
+- R (Tech skill type: Object or component oriented development software)
+- Rapid application development RAD software (Tech skill type: Enterprise application integration software)
+- Rapid prototyping software (Tech skill type: Computer aided manufacturing CAM software)
+- Red Hat Enterprise Linux (Tech skill type: Operating system software)
+- Reliability centered maintenance RCM software (Tech skill type: Analytical or scientific software)
+- Requirements management software (Tech skill type: Requirements analysis and system architecture software)
+- Root cause analysis software (Tech skill type: Analytical or scientific software)
+- SAP BusinessObjects Crystal Reports (Tech skill type: Data base reporting software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- SAS (Tech skill type: Analytical or scientific software)
+- SAS JMP (Tech skill type: Analytical or scientific software)
+- Schematic design entry software (Tech skill type: Computer aided design CAD software)
+- Simulation program with integrated circuit emphasis SPICE (Tech skill type: Analytical or scientific software)
+- SNOINO RCM Pro (Tech skill type: Analytical or scientific software)
+- SNOINO Ttree (Tech skill type: Analytical or scientific software)
+- Software development tools (Tech skill type: Development environment software)
+- Splunk Enterprise (Tech skill type: Cloud-based management software)
+- Stochastic modeling software (Tech skill type: Analytical or scientific software)
+- Stratasys FDM MedModeler (Tech skill type: Analytical or scientific software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- System testing software (Tech skill type: Program testing software)
+- Systems analysis programs for hands on integrated reliability evaluation software SAPHIRE (Tech skill type: Analytical or scientific software)
+- Technis BETAPLUS (Tech skill type: Analytical or scientific software)
+- Test automation software (Tech skill type: Analytical or scientific software)
+- The MathWorks MATLAB (Tech skill type: Analytical or scientific software)
+- Thomson Reuters EndNote (Tech skill type: Data base user interface and query software)
+- Three-dimensional motion capture software (Tech skill type: Analytical or scientific software)
+- Unified modeling language UML (Tech skill type: Requirements analysis and system architecture software)
+- UNIX (Tech skill type: Operating system software)
+- User interface design software (Tech skill type: Program testing software)
+- Verilog (Tech skill type: Development environment software)
+- Virtual instrument software (Tech skill type: Medical software)
+- Wolfram Research Mathematica (Tech skill type: Analytical or scientific software)
+- Word processing software (Tech skill type: Word processing software)
+- Zuken electrical design software (Tech skill type: Computer aided design CAD software)
+
+## TOOLS USED
+- 3T scanners (Tool type: Medical magnetic resonance imaging MRI scanners)
+- Accelerometers (Tool type: Accelerometers)
+- Acoustic measurement systems (Tool type: Acoustic sensors)
+- Acousto-optic modulators (Tool type: Modulators)
+- Activity monitoring devices (Tool type: Physiological recorders)
+- Aerosol analyzers (Tool type: Air samplers or collectors)
+- Aerosol generators (Tool type: Fog or mist generators)
+- Analytical balances (Tool type: Analytical balances)
+- Anthropometers (Tool type: Thickness measuring devices)
+- Arbitrary waveform generators (Tool type: Wave generators)
+- Autoclaves (Tool type: Steam autoclaves or sterilizers)
+- Automated particle counters (Tool type: Electronic counters)
+- Automatic titrators (Tool type: Titration equipment)
+- Autosamplers (Tool type: Autosamplers)
+- Axial-torsional testing systems (Tool type: Physiological recorders)
+- Bacteria-based biosensors (Tool type: Bacteria transformation kits)
+- Basic stamp microcontrollers (Tool type: Microcontrollers)
+- Bio-sensors (Tool type: Biometric identification equipment)
+- Bio-signal amplifiers (Tool type: Amplifiers)
+- Bio-signal simulators (Tool type: Frequency calibrator or simulator)
+- Biomagnetic imaging scanners (Tool type: Medical magnetic resonance imaging MRI scanners)
+- Biomedical device electrical safety testers (Tool type: Electrometers)
+- Biomimetic robots (Tool type: Robot machines)
+- Bioreactors (Tool type: Tissue culture incubators)
+- Biosafety cabinets (Tool type: HEPA filtered enclosures)
+- Bomb calorimeters (Tool type: Calorimeters)
+- Camcorders (Tool type: Digital camcorders or video cameras)
+- Capillary electrophoresis systems (Tool type: Instrumentation for capillary electrophoresis)
+- Carbon dioxide CO2 incubators (Tool type: Dry wall single chamber carbon dioxide incubators)
+- Cardiovascular prosthetic device testers (Tool type: Fatigue testers)
+- Cell culture bioreactors (Tool type: Tissue culture incubators)
+- Centrifuges (Tool type: Benchtop centrifuges)
+- Chemiluminescence analyzers (Tool type: Chemiluminescence or bioluminescence analyzers)
+- Circuit analyzers (Tool type: Circuit tester)
+- Condensation nuclei counters CNC (Tool type: Electronic counters)
+- Cone-plate viscometers (Tool type: Viscosimeters)
+- Confocal laser scanning microscopes (Tool type: Scanning light or spinning disk or laser scanning microscopes)
+- Contact angle goniometers (Tool type: Surface tension measuring instruments)
+- Defibrillator testing devices (Tool type: Cardiac pacemaker generators or cardiac resynchronization therapy pacemakers CRT-P)
+- Deflectors (Tool type: Deflecting devices)
+- Deoxyribonucleic acid DNA synthesizers (Tool type: Complementary deoxyribonucleic acid cDNA synthesis kits)
+- Desktop computers (Tool type: Desktop computers)
+- Differential scanning calorimeters (Tool type: Calorimeters)
+- Digital cameras (Tool type: Digital cameras)
+- Digital luxmeters (Tool type: Lux or light meter)
+- Digital sonomicrometers (Tool type: Sonometers)
+- Dissolved oxygen polarographic measurement devices (Tool type: Dissolved oxygen meters)
+- Dissolved oxygen probes (Tool type: Dissolved oxygen meters)
+- Dynamometers (Tool type: Dynamometers)
+- Electrical particle detectors (Tool type: Proton spectrometers)
+- Electroblotting apparatus (Tool type: Blotting or transfer apparatus)
+- Electrode bevelers (Tool type: pH electrodes)
+- Electrode pullers (Tool type: pH electrodes)
+- Electroencephalography EEG equipment (Tool type: Electroencephalograph EEGs)
+- Electromyographs EMG (Tool type: Electromyography EMG units)
+- Electroplating apparatus (Tool type: pH electrodes)
+- Electrosurgery testing devices (Tool type: Electrometers)
+- Ellipsometers (Tool type: Thickness measuring devices)
+- Endovascular stent-graft testing instruments (Tool type: Endoscope maintenance units)
+- Environmental conditions measurement devices (Tool type: Pressure indicators)
+- Environmental growth chambers (Tool type: Refrigerated and heated reach in environmental or growth chambers)
+- Enzymatic membrane reactors (Tool type: Reactors or fermenters or digesters)
+- Enzyme-linked immunosorbent assay ELISA plate readers (Tool type: Microplate readers)
+- Extruders (Tool type: Extruders)
+- Eye tracking devices (Tool type: Camera based vision systems for automated data collection)
+- Fast protein liquid chromatographs FPLC (Tool type: Liquid chromatographs)
+- Finger joint flexure testers (Tool type: Flexure or transverse testing machines)
+- Flame ionization detectors FID (Tool type: Flame ionization analyzers)
+- Flash point detectors (Tool type: Thermocouples)
+- Flow control devices (Tool type: Flow injection analysis equipment)
+- Flow cytometers (Tool type: Microbiology analyzers)
+- Fluorescence microscopes (Tool type: Fluorescent microscopes)
+- Fluorospectrometers (Tool type: Spectrofluorimeters or fluorimeters)
+- Footswitch sensors (Tool type: Pressure indicators)
+- Force platforms (Tool type: Pressure indicators)
+- Fourier transform infrared FTIR spectrometers (Tool type: Infrared spectrometers)
+- Freeze dryers (Tool type: Freeze dryers or lyopholizers)
+- Frequency shifters (Tool type: Phase modulation circuit)
+- Functional magnetic resonance imaging fMRI scanners (Tool type: Medical magnetic resonance imaging MRI scanners)
+- Gas chromatographs GC (Tool type: Gas chromatographs)
+- Gas flow control systems (Tool type: Gas or vapour concentration measuring instruments)
+- Gel documentation systems (Tool type: Gel documentation systems)
+- Glass micromolds (Tool type: Glass injection moldings)
+- Grass stimulators (Tool type: Neuromuscular stimulators or kits)
+- Grip dynamometers (Tool type: Pressure indicators)
+- Hardness testing devices (Tool type: Hardness testers)
+- High pressure liquid chromatographs HPLC (Tool type: High pressure liquid chromatograph chromatography)
+- High-speed digital cameras (Tool type: Digital cameras)
+- Immuno-sensors (Tool type: Immunology or serology quality controls or calibrators or standards)
+- Impact testers (Tool type: Impact testers)
+- Incubator performance analyzers (Tool type: Electrometers)
+- Incubators (Tool type: Forced air or mechanical convection general purpose incubators)
+- Insole sensors (Tool type: Pressure indicators)
+- Intravenous IV pump analyzers (Tool type: Electrometers)
+- Inverted light microscopes (Tool type: Binocular light compound microscopes)
+- Ion chromatographs (Tool type: Ion chromatographs)
+- Ion exchange purification systems (Tool type: Ultra pure water systems)
+- Ion trap mass spectrometers (Tool type: Mass spectrometers)
+- Isolators (Tool type: Isolators)
+- Laminar flow hoods (Tool type: Laminar flow cabinets or stations)
+- Laptop computers (Tool type: Notebook computers)
+- Laser ablation machines (Tool type: Laser cutting machine)
+- Liquid handling robots (Tool type: Robotic or automated liquid handling systems)
+- Load sensors (Tool type: Electronic loads)
+- Low-pressure impactors (Tool type: Optical diffraction apparatus)
+- Magnetic resonance imaging MRI systems (Tool type: Medical magnetic resonance imaging MRI scanners)
+- Maskless photolithography equipment (Tool type: Computed tomography CT or CAT radiotherapy simulators)
+- Material fatigue and dynamics characterization devices (Tool type: Fatigue testers)
+- Material tension/compression testing devices (Tool type: Compression testers)
+- Medical radiation dosimeters (Tool type: Medical radiation dosimeters)
+- Microbial fermenters (Tool type: Microbiology fermentation equipment)
+- Microcontrollers (Tool type: Microcontrollers)
+- Microelectrodes (Tool type: pH electrodes)
+- Microfluidic networks (Tool type: Microscopic structure estimation apparatus)
+- Micromanipulation microrheology microscopes (Tool type: Transmission electron microscopes)
+- Micromolding lithography equipment (Tool type: Plastic injection moldings)
+- Microplate readers (Tool type: Microplate readers)
+- Microplate spectrophotometers (Tool type: Spectrophotometers)
+- Microplate washers (Tool type: Microplate washers)
+- Microplating equipment (Tool type: Microplates)
+- Micropumps (Tool type: Drug delivery systems)
+- Microvalves (Tool type: Drug delivery systems)
+- Milling machines (Tool type: Milling machines)
+- Molecular cytosensors (Tool type: Hemacytometer sets)
+- Molecular vacuum pumps (Tool type: Laboratory vacuum pumps)
+- Motion actuators (Tool type: Electronic actuators)
+- Multi-axis kinematic knee simulators (Tool type: Flexure or transverse testing machines)
+- Multi-photon microscopes (Tool type: Scanning electron microscopes)
+- Multimeters (Tool type: Multimeters)
+- Non-invasive blood pressure monitor analyzers (Tool type: Electrometers)
+- Nuclear magnetic resonance NMR spectroscopes (Tool type: Nuclear magnetic resonance NMR spectrometers)
+- Optical coherence tomography OCT scanners (Tool type: Medical computed tomography CT or CAT scanners or tubes)
+- Optical particle counters (Tool type: Electronic counters)
+- Optical particle detectors (Tool type: Spectrophotometers)
+- Optical tomographic imaging scanners (Tool type: Medical computed tomography CT or CAT scanners or tubes)
+- Optical traps (Tool type: Tweezers)
+- Opto-electronic electrogoniometers (Tool type: Physiological recorders)
+- Orbital shakers (Tool type: Orbital shakers)
+- Oscilloscopes (Tool type: Oscilloscopes)
+- Oxygen meters (Tool type: Oxygen sensors)
+- Pacemaker analyzers (Tool type: Cardiac pacemaker generators or cardiac resynchronization therapy pacemakers CRT-P)
+- Pacemaker testing devices (Tool type: Cardiac pacemaker generators or cardiac resynchronization therapy pacemakers CRT-P)
+- Particle size classifiers (Tool type: Optical diffraction apparatus)
+- Patient monitoring testing devices (Tool type: Physiological recorders)
+- Personal computers (Tool type: Personal computers)
+- pH meters (Tool type: pH meters)
+- Physical conditioning treadmill exercisers (Tool type: Treadmills)
+- Piezoelectric ceramic transducers (Tool type: Piezo electric crystals)
+- Piezoelectric sensors (Tool type: Piezo electric crystals)
+- Pinch gauges (Tool type: Pressure indicators)
+- Plant photosynthesis meters (Tool type: Photosynthesis measurement apparatus)
+- Plasma excitation chambers (Tool type: Inductively coupled plasma ICP spectrometers)
+- Plastic injection molding machines (Tool type: Injection molding machines)
+- Polygraph recorders (Tool type: Physiological recorders)
+- Polymer matrices (Tool type: Tissue culture coated plates or dishes or inserts)
+- Polymer scaffolds (Tool type: Tissue culture coated plates or dishes or inserts)
+- Polymerase chain reaction PCR equipment (Tool type: Rapid amplification or complementary deoxyribonucleic acid ends RACE technology products)
+- Positron emission tomography PET scanners (Tool type: Medical positron emission tomography PET units)
+- Posturographic measurement systems (Tool type: Pressure indicators)
+- Pressure and temperature measurement devices (Tool type: Electrometers)
+- Pressure sensors (Tool type: Pressure sensors)
+- Pressure transducers (Tool type: Electro pneumatic transducers)
+- Prosthetic limb testers (Tool type: Tension testers)
+- Protein gel electrophoresis (Tool type: Gel documentation systems)
+- Pulsating bubble surfactometers PBS (Tool type: Surface tension measuring instruments)
+- Pulse oximeters (Tool type: Pulse oximeter units)
+- Quadrupole mass spectrometers (Tool type: Mass spectrometers)
+- Quantum-based switching applications Q-switch electron waveguides (Tool type: Q Meters)
+- Radiation compliance testing devices (Tool type: Medical radiation dosimeters)
+- Radio frequency amplifiers (Tool type: Amplifiers)
+- Rapid toxicity testing systems (Tool type: Bacteria transformation kits)
+- Real-time polymerase chain reaction PCR equipment (Tool type: Rapid amplification or complementary deoxyribonucleic acid ends RACE technology products)
+- Refractive index detectors (Tool type: Liquid chromatographs)
+- Rheometers (Tool type: Rheometers)
+- Scanning electron microscopes SEM (Tool type: Scanning electron microscopes)
+- Scanning probe microscopes SPM (Tool type: Scanning probe microscopes)
+- Servopneumatic actuators (Tool type: Pneumatic actuators)
+- Servopneumatic axial test instruments (Tool type: Fatigue testers)
+- Single photon emission computed tomography SPECT scanners (Tool type: Medical single photon emission computed tomography SPECT units)
+- Skinfold calipers (Tool type: Skinfold calipers)
+- Soft materials in-vitro simulation system (Tool type: Tissue culture apparatus)
+- Spectrofluorimeters (Tool type: Spectrofluorimeters or fluorimeters)
+- Spinal disk implant wear testers (Tool type: Wear testers)
+- Spine simulators (Tool type: Flexure or transverse testing machines)
+- Spirometers (Tool type: Spirometers)
+- Sterilization-in-place equipment (Tool type: Sterilization sets)
+- Strain gauge conditioners (Tool type: Force or torque sensors)
+- Strain gauges (Tool type: Strain gauges)
+- Sublimation printers (Tool type: Dye sublimination printers)
+- Sugar analyzers (Tool type: Sugar analyzers)
+- Superconducting quantum interference devices SQUID (Tool type: Magnetometers)
+- Surface area analyzers (Tool type: Chemical absorption gas analyzers)
+- Tensionmeters (Tool type: Tensiometers)
+- Thermal cyclers (Tool type: Temperature cycling chambers or thermal cyclers)
+- Torsiometers (Tool type: Physiological recorders)
+- Total organic carbon TOC analyzers (Tool type: Organic carbon analyzers)
+- Toxic gas detectors (Tool type: Gas detectors)
+- Two-point discriminators (Tool type: Physiological recorders)
+- Ultra high speed magnetic resonance imaging MRI scanner machines (Tool type: Medical magnetic resonance imaging MRI scanners)
+- Ultrasonic testing apparatus (Tool type: Medical ultrasound or doppler or pulse echocardiograph or echocardiograph units for general diagnostic use)
+- Ultrasound imaging scanners (Tool type: Medical ultrasound or doppler or pulse echocardiograph or echocardiograph units for general diagnostic use)
+- Ultrasound indention probes (Tool type: Medical ultrasound or doppler or echocardiograph probes)
+- Ultrasound transducers (Tool type: Medical ultrasound or doppler or echocardiograph transducer)
+- Ultrasound wattmeters (Tool type: Wattmeters)
+- Ultraviolet spectrometers (Tool type: Spectrometers)
+- Ultraviolet spectrophotometers (Tool type: Spectrophotometers)
+- Ventilator performance analyzers (Tool type: Electrometers)
+- Viscometers (Tool type: Viscosimeters)
+- X ray diffractometers (Tool type: X ray diffraction equipment)
+- X ray lithography equipment (Tool type: X ray and fluoroscopy RF radiotherapy planning simulators)
+- X ray machines (Tool type: Medical x ray units for general diagnostic use)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Fairly serious
+- Contact With Others: Contact with others most of the time
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Fairly important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Slightly automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Once a year or more but not every month
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Once a year or more but not every month
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Once a week or more but not every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Once a month or more but not every week
+- Health and Safety of Other Workers: High responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Not important at all
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Highly competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Slightly close (e.g., shared office)
+- Public Speaking: Once a year or more but not every month
+- Spend Time Bending or Twisting Your Body: Never
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Never
+- Spend Time Sitting: More than half the time
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Less than half the time
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Once a week or more but not every day
+- Time Pressure: Once a month or more but not every week
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Once a year or more but not every month
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Moderate responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a week or more but not every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Investigative
+- Secondary Interest: Realistic
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Nanotechnology Engineering Technologists and Technicians
+- Nanosystems Engineers
+- Chemical Engineers
+- Biochemists and Biophysicists
+- Bioinformatics Scientists
+- Data Scientists
+- Molecular and Cellular Biologists
+- Industrial Engineering Technologists and Technicians
+- Bioinformatics Technicians
+- Chemists
+- Medical Equipment Repairers
+- Mechanical Engineering Technologists and Technicians
+- Natural Sciences Managers
+- Microsystems Engineers
+- Medical and Clinical Laboratory Technologists
+- Calibration Technologists and Technicians
+- Materials Engineers
+- Materials Scientists
+- Industrial Engineers
+- Histotechnologists

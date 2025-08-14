@@ -1,0 +1,220 @@
+Job Title: Shoe Machine Operators and Tenders
+O*NET-SOC Code: 51-6042.00
+
+# DESCRIPTION
+Operate or tend a variety of machines to join, decorate, reinforce, or finish shoes and shoe parts.
+
+# TASKS
+- Inspect finished products to ensure that shoes have been completed according to specifications.
+- Align parts to be stitched, following seams, edges, or markings, before positioning them under needles.
+- Operate or tend machines to join, decorate, reinforce, or finish shoes and shoe parts.
+- Remove and examine shoes, shoe parts, and designs to verify conformance to specifications such as proper embedding of stitches in channels.
+- Switch on machines, lower pressure feet or rollers to secure parts, and start machine stitching, using hand, foot, or knee controls.
+- Draw thread through machine guide slots, needles, and presser feet in preparation for stitching, or load rolls of wire through machine axles.
+- Study work orders or shoe part tags to obtain information about workloads, specifications, and the types of materials to be used.
+- Perform routine equipment maintenance such as cleaning and lubricating machines or replacing broken needles.
+- Test machinery to ensure proper functioning before beginning production.
+- Select and place spools of thread or pre-wound bobbins into shuttles, or onto spindles or loupers of stitching machines.
+- Cut excess thread or material from shoe parts, using scissors or knives.
+- Turn knobs to adjust stitch length and thread tension.
+- Fill shuttle spools with thread from a machine's bobbin winder by pressing a foot treadle.
+- Staple sides of shoes, pressing a foot treadle to position and hold each shoe under the feeder of the machine.
+- Position dies on material in a manner that will obtain the maximum number of parts from each portion of material.
+- Collect shoe parts from conveyer belts or racks and place them in machinery such as ovens or on molds for dressing, returning them to conveyers or racks to send them to the next work station.
+- Turn setscrews on needle bars, and position required numbers of needles in stitching machines.
+- Turn screws to regulate size of staples.
+- Hammer loose staples for proper attachment.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Production and Processing (Importance: 3.28/5 | Level: 3.19/7)
+- Administration and Management (Importance: 3.01/5 | Level: 2.94/7)
+- Education and Training (Importance: 2.66/5 | Level: 3.5/7)
+- Customer and Personal Service (Importance: 2.51/5 | Level: 2.77/7)
+- Personnel and Human Resources (Importance: 2.41/5 | Level: 2.25/7)
+- Public Safety and Security (Importance: 2.4/5 | Level: 1.78/7)
+- Engineering and Technology (Importance: 2.38/5 | Level: 2.39/7)
+- Administrative (Importance: 2.28/5 | Level: 2.11/7)
+- Sales and Marketing (Importance: 2.26/5 | Level: 1.4/7)
+- English Language (Importance: 2.13/5 | Level: 1.72/7)
+- Mathematics (Importance: 2.12/5 | Level: 1.79/7)
+- Mechanical (Importance: 2.06/5 | Level: 1.77/7)
+- Design (Importance: 2.04/5 | Level: 2.04/7)
+- Psychology (Importance: 1.76/5 | Level: 1.32/7)
+- Law and Government (Importance: 1.73/5 | Level: 1.15/7)
+- Chemistry (Importance: 1.7/5 | Level: 1.28/7)
+- Communications and Media (Importance: 1.7/5 | Level: 1.16/7)
+- Computers and Electronics (Importance: 1.68/5 | Level: 1.38/7)
+- Economics and Accounting (Importance: 1.67/5 | Level: 0.57/7)
+- Telecommunications (Importance: 1.63/5 | Level: 1.25/7)
+- Transportation (Importance: 1.59/5 | Level: 1.01/7)
+- Medicine and Dentistry (Importance: 1.52/5 | Level: 0.12/7)
+- Philosophy and Theology (Importance: 1.46/5 | Level: 0.46/7)
+- Foreign Language (Importance: 1.45/5 | Level: 0.55/7)
+- Sociology and Anthropology (Importance: 1.42/5 | Level: 0.94/7)
+- Therapy and Counseling (Importance: 1.42/5 | Level: 0.94/7)
+- History and Archeology (Importance: 1.41/5 | Level: 0.73/7)
+- Food Production (Importance: 1.41/5 | Level: 0.62/7)
+- Building and Construction (Importance: 1.41/5 | Level: 0.73/7)
+- Geography (Importance: 1.41/5 | Level: 0.73/7)
+- Physics (Importance: 1.34/5 | Level: 0.67/7)
+- Fine Arts (Importance: 1.31/5 | Level: 0.73/7)
+- Biology (Importance: 1.31/5 | Level: 0.52/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Reading Comprehension (Importance: 3.12/5 | Level: 2.88/7)
+- Operation and Control (Importance: 3.0/5 | Level: 3.0/7)
+- Monitoring (Importance: 3.0/5 | Level: 2.88/7)
+- Active Listening (Importance: 3.0/5 | Level: 2.88/7)
+- Operations Monitoring (Importance: 3.0/5 | Level: 3.0/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 2.5/7)
+- Equipment Maintenance (Importance: 2.88/5 | Level: 2.88/7)
+- Quality Control Analysis (Importance: 2.88/5 | Level: 2.75/7)
+- Troubleshooting (Importance: 2.75/5 | Level: 2.75/7)
+- Time Management (Importance: 2.75/5 | Level: 2.62/7)
+- Speaking (Importance: 2.75/5 | Level: 2.75/7)
+- Judgment and Decision Making (Importance: 2.62/5 | Level: 2.25/7)
+- Repairing (Importance: 2.62/5 | Level: 2.0/7)
+- Complex Problem Solving (Importance: 2.62/5 | Level: 2.5/7)
+- Equipment Selection (Importance: 2.5/5 | Level: 2.38/7)
+- Social Perceptiveness (Importance: 2.25/5 | Level: 2.0/7)
+- Coordination (Importance: 2.25/5 | Level: 2.0/7)
+- Systems Analysis (Importance: 2.12/5 | Level: 1.88/7)
+- Service Orientation (Importance: 2.12/5 | Level: 1.5/7)
+- Systems Evaluation (Importance: 2.12/5 | Level: 2.0/7)
+- Active Learning (Importance: 2.12/5 | Level: 1.88/7)
+- Persuasion (Importance: 2.12/5 | Level: 2.0/7)
+- Negotiation (Importance: 2.12/5 | Level: 1.38/7)
+- Management of Personnel Resources (Importance: 2.12/5 | Level: 1.88/7)
+- Learning Strategies (Importance: 2.12/5 | Level: 1.38/7)
+- Instructing (Importance: 2.12/5 | Level: 1.5/7)
+- Writing (Importance: 2.12/5 | Level: 2.0/7)
+- Mathematics (Importance: 2.0/5 | Level: 1.88/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 0.88/7)
+- Management of Financial Resources (Importance: 1.88/5 | Level: 0.88/7)
+- Operations Analysis (Importance: 1.75/5 | Level: 0.88/7)
+- Technology Design (Importance: 1.38/5 | Level: 0.38/7)
+- Programming (Importance: 1.25/5 | Level: 0.38/7)
+- Science (Importance: 1.12/5 | Level: 0.12/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adobe Acrobat (Tech skill type: Document management software)
+- Inventory tracking software (Tech skill type: Inventory management software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft operating system (Tech skill type: Operating system software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Production control software (Tech skill type: Industrial control software)
+
+## TOOLS USED
+- Adjustable hand wrenches (Tool type: Adjustable wrenches)
+- Automatic staple guns (Tool type: Staple guns)
+- Bobbin winders (Tool type: Winding or reeling or spooling machines)
+- Claw hammers (Tool type: Claw hammer)
+- Heavy duty scissors (Tool type: Shears)
+- Heel wheels (Tool type: Shoe heelpiece machine)
+- Industrial sewing machines (Tool type: Sewing machines)
+- Knife sharpeners (Tool type: Blade sharpener)
+- Leather pressing machines (Tool type: Leather presses)
+- Leather punches (Tool type: Punches or nail sets or drifts)
+- Multipurpose screwdrivers (Tool type: Screwdrivers)
+- Patch machines (Tool type: Sewing machines)
+- Production conveyor systems (Tool type: Conveyor system)
+- Sanding machines (Tool type: Power sanders)
+- Scissor sharpeners (Tool type: Blade sharpener)
+- Sewing needles (Tool type: Sewing needles)
+- Shoe cleaning machines (Tool type: Shoe shining machine)
+- Shoe nailers (Tool type: Leather nailing machines)
+- Shoe shine machines (Tool type: Shoe shining machine)
+- Shoe stretchers (Tool type: Shoe stretcher)
+- Textile finishing machines (Tool type: Finishing machines)
+- Utility knives (Tool type: Utility knives)
+- Vacuum presses (Tool type: Vacuum molding machines)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Not serious at all
+- Contact With Others: Contact with others most of the time
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Not important at all
+- Dealing With Unpleasant, Angry, or Discourteous People: Every day
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Never
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Every day
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Limited responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Very important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Every day
+- Level of Competition: Not at all competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Extremely important
+- Physical Proximity: I work with others but not closely (e.g., private office)
+- Public Speaking: Once a year or more but not every month
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Continually or almost continually
+- Spend Time Sitting: More than half the time
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Never
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Never
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Sewing Machine Operators
+- Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+- Cutting and Slicing Machine Setters, Operators, and Tenders
+- Grinding and Polishing Workers, Hand
+- Shoe and Leather Workers and Repairers
+- Cutters and Trimmers, Hand
+- Textile Cutting Machine Setters, Operators, and Tenders
+- Sawing Machine Setters, Operators, and Tenders, Wood
+- Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Adhesive Bonding Machine Operators and Tenders
+- Tool Grinders, Filers, and Sharpeners
+- Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic
+- Machine Feeders and Offbearers
+- Paper Goods Machine Setters, Operators, and Tenders
+- Molders, Shapers, and Casters, Except Metal and Plastic
+- Rolling Machine Setters, Operators, and Tenders, Metal and Plastic
+- Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Painting, Coating, and Decorating Workers
+- Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders
+- Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic

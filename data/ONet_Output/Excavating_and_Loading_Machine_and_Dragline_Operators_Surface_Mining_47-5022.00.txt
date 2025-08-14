@@ -1,0 +1,257 @@
+Job Title: Excavating and Loading Machine and Dragline Operators, Surface Mining
+O*NET-SOC Code: 47-5022.00
+
+# DESCRIPTION
+Operate or tend machinery at surface mining site, equipped with scoops, shovels, or buckets to excavate and load loose materials.
+
+# TASKS
+- Move levers, depress foot pedals, and turn dials to operate power machinery, such as power shovels, stripping shovels, scraper loaders, or backhoes.
+- Set up or inspect equipment prior to operation.
+- Become familiar with digging plans, machine capabilities and limitations, and efficient and safe digging procedures in a given application.
+- Observe hand signals, grade stakes, or other markings when operating machines so that work can be performed to specifications.
+- Operate machinery to perform activities such as backfilling excavations, vibrating or breaking rock or concrete, or making winter roads.
+- Receive written or oral instructions regarding material movement or excavation.
+- Move materials over short distances, such as around a construction site, factory, or warehouse.
+- Create or maintain inclines or ramps.
+- Lubricate, adjust, or repair machinery and replace parts, such as gears, bearings, or bucket teeth.
+- Handle slides, mud, or pit cleanings or maintenance.
+- Direct workers engaged in placing blocks or outriggers to prevent capsizing of machines when lifting heavy loads.
+- Measure and verify levels of rock or gravel, bases, or other excavated material.
+- Direct ground workers engaged in activities such as moving stakes or markers, or changing positions of towers.
+- Adjust dig face angles for varying overburden depths and set lengths.
+- Drive machines to work sites.
+- Perform manual labor to prepare or finish sites, such as shoveling materials by hand.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 3.24/5 | Level: 3.79/7)
+- Building and Construction (Importance: 3.17/5 | Level: 3.61/7)
+- Public Safety and Security (Importance: 2.97/5 | Level: 3.07/7)
+- English Language (Importance: 2.65/5 | Level: 2.13/7)
+- Mathematics (Importance: 2.63/5 | Level: 2.6/7)
+- Design (Importance: 2.41/5 | Level: 2.3/7)
+- Administration and Management (Importance: 2.4/5 | Level: 2.34/7)
+- Transportation (Importance: 2.29/5 | Level: 2.13/7)
+- Customer and Personal Service (Importance: 2.26/5 | Level: 2.05/7)
+- Education and Training (Importance: 2.22/5 | Level: 2.25/7)
+- Engineering and Technology (Importance: 2.1/5 | Level: 2.18/7)
+- Production and Processing (Importance: 1.94/5 | Level: 1.51/7)
+- Physics (Importance: 1.92/5 | Level: 1.58/7)
+- Personnel and Human Resources (Importance: 1.85/5 | Level: 1.15/7)
+- Chemistry (Importance: 1.82/5 | Level: 1.75/7)
+- Law and Government (Importance: 1.81/5 | Level: 1.42/7)
+- Computers and Electronics (Importance: 1.64/5 | Level: 1.24/7)
+- Psychology (Importance: 1.63/5 | Level: 1.54/7)
+- Telecommunications (Importance: 1.6/5 | Level: 0.88/7)
+- Administrative (Importance: 1.56/5 | Level: 0.88/7)
+- Sales and Marketing (Importance: 1.53/5 | Level: 0.89/7)
+- Economics and Accounting (Importance: 1.49/5 | Level: 0.65/7)
+- Geography (Importance: 1.45/5 | Level: 0.91/7)
+- Communications and Media (Importance: 1.44/5 | Level: 0.92/7)
+- Therapy and Counseling (Importance: 1.34/5 | Level: 0.62/7)
+- Foreign Language (Importance: 1.33/5 | Level: 0.41/7)
+- Biology (Importance: 1.3/5 | Level: 0.81/7)
+- Philosophy and Theology (Importance: 1.26/5 | Level: 0.58/7)
+- Medicine and Dentistry (Importance: 1.25/5 | Level: 0.41/7)
+- Sociology and Anthropology (Importance: 1.22/5 | Level: 0.57/7)
+- Food Production (Importance: 1.1/5 | Level: 0.19/7)
+- History and Archeology (Importance: 1.09/5 | Level: 0.16/7)
+- Fine Arts (Importance: 1.06/5 | Level: 0.06/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operation and Control (Importance: 4.12/5 | Level: 3.62/7)
+- Operations Monitoring (Importance: 3.62/5 | Level: 3.25/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.0/7)
+- Troubleshooting (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 2.88/7)
+- Speaking (Importance: 3.0/5 | Level: 2.75/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 2.62/7)
+- Repairing (Importance: 3.0/5 | Level: 3.12/7)
+- Reading Comprehension (Importance: 3.0/5 | Level: 3.0/7)
+- Persuasion (Importance: 3.0/5 | Level: 2.75/7)
+- Active Listening (Importance: 3.0/5 | Level: 3.0/7)
+- Active Learning (Importance: 3.0/5 | Level: 2.88/7)
+- Coordination (Importance: 3.0/5 | Level: 3.12/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 3.0/7)
+- Complex Problem Solving (Importance: 3.0/5 | Level: 2.88/7)
+- Equipment Maintenance (Importance: 3.0/5 | Level: 3.12/7)
+- Equipment Selection (Importance: 3.0/5 | Level: 2.88/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 2.75/7)
+- Management of Personnel Resources (Importance: 2.88/5 | Level: 2.88/7)
+- Quality Control Analysis (Importance: 2.75/5 | Level: 2.75/7)
+- Service Orientation (Importance: 2.5/5 | Level: 2.25/7)
+- Writing (Importance: 2.5/5 | Level: 2.38/7)
+- Instructing (Importance: 2.5/5 | Level: 2.25/7)
+- Learning Strategies (Importance: 2.38/5 | Level: 2.25/7)
+- Negotiation (Importance: 2.38/5 | Level: 2.25/7)
+- Systems Evaluation (Importance: 2.25/5 | Level: 2.12/7)
+- Mathematics (Importance: 2.25/5 | Level: 2.25/7)
+- Systems Analysis (Importance: 2.25/5 | Level: 2.12/7)
+- Operations Analysis (Importance: 2.0/5 | Level: 1.62/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.12/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 0.88/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 0.75/7)
+- Installation (Importance: 1.5/5 | Level: 0.62/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Email software (Tech skill type: Electronic mail software)
+- Google Gmail (Tech skill type: Electronic mail software)
+- Machine control systems (Tech skill type: Industrial control software)
+- Machine monitoring software (Tech skill type: Industrial control software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Adjustable wrenches (Tool type: Adjustable wrenches)
+- Air grease guns (Tool type: Grease guns)
+- Asphalt plants (Tool type: Batching plants or feeders)
+- Backhoes (Tool type: Backhoes)
+- Claw hammers (Tool type: Claw hammer)
+- Compact excavators (Tool type: Track excavators)
+- Computer terminals (Tool type: Mainframe console or dumb terminals)
+- Concrete plants (Tool type: Batching plants or feeders)
+- Crawler mounted draglines (Tool type: Draglines)
+- Crusher excavator buckets (Tool type: Earthmoving buckets or its parts or accessories)
+- Dump trucks (Tool type: Dump trucks)
+- Earthmover standard buckets (Tool type: Earthmoving buckets or its parts or accessories)
+- Engineers' levels (Tool type: Levels)
+- Excavator backhoes (Tool type: Backhoes)
+- Flatbed truck trailers (Tool type: Flatbed trailers)
+- Forklifts (Tool type: Forklifts)
+- Front and back shovel wheel loaders (Tool type: Wheel loaders)
+- Front end loaders (Tool type: Front end loaders)
+- Grading buckets (Tool type: Earthmoving buckets or its parts or accessories)
+- Grapplers (Tool type: Grapples)
+- Grease guns (Tool type: Grease guns)
+- Hand grease guns (Tool type: Grease guns)
+- Hand levels (Tool type: Levels)
+- High bed trailers (Tool type: Flatbed trailers)
+- Hydraulic excavators (Tool type: Track excavators)
+- Laser levels (Tool type: Levels)
+- Lifting slings (Tool type: Slings)
+- Locking pliers (Tool type: Locking pliers)
+- Long reach excavators (Tool type: Mobile excavators)
+- Low bed trailers (Tool type: Low bed trailer)
+- Measuring tapes (Tool type: Tape measures)
+- Mini excavators (Tool type: Mobile excavators)
+- Mud buckets (Tool type: Earthmoving buckets or its parts or accessories)
+- Phillips head screwdrivers (Tool type: Screwdrivers)
+- Power augers (Tool type: Boring or sinking machinery)
+- Protective ear muffs (Tool type: Acoustic ear muffs or defenders)
+- Respirators (Tool type: Respirators)
+- Rock buckets (Tool type: Earthmoving buckets or its parts or accessories)
+- Rock crushers (Tool type: Rock crushers)
+- Rock draglines (Tool type: Draglines)
+- Rock hammers (Tool type: Crusher hammer)
+- Rock trucks (Tool type: Dump trucks)
+- Safety goggles (Tool type: Goggles)
+- Self-loader trailers (Tool type: Flatbed trailers)
+- Skid steer loaders (Tool type: Skid steer loaders)
+- Skip loaders (Tool type: Skid steer loaders)
+- Straight screwdrivers (Tool type: Screwdrivers)
+- Telescoping excavators (Tool type: Mobile excavators)
+- Tire pressure gauges (Tool type: Tire pressure gauge)
+- Tracked excavators (Tool type: Track excavators)
+- Trencher excavator attachments (Tool type: Earthmoving buckets or its parts or accessories)
+- Truck excavators (Tool type: Mobile excavators)
+- Vacuum excavators (Tool type: Mobile excavators)
+- Walking draglines (Tool type: Draglines)
+- Water trucks (Tool type: Water trucks)
+- Wheel blocks (Tool type: Wheel chocks)
+- Wheel loaders (Tool type: Wheel loaders)
+- Wheeled excavators (Tool type: Wheel excavators)
+- Wheeled front end loaders (Tool type: Front end loaders)
+- Wireless touch screen monitors (Tool type: Touch screen monitors)
+
+# WORK CONTEXT
+- Conflict Situations: Never
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Important
+- Deal With External Customers or the Public in General: Not important at all
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a month or more but not every week
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Never
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Once a year or more but not every month
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Every day
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Once a week or more but not every day
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Every day
+- Exposed to Whole Body Vibration: Every day
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Very important
+- Importance of Repeating Same Tasks: Very important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Every day
+- In an Open Vehicle or Operating Equipment: Every day
+- Indoors, Environmentally Controlled: Never
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Highly competitive
+- Outdoors, Exposed to All Weather Conditions: Every day
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Very important
+- Physical Proximity: I don't work near other people (beyond 100 ft.)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Less than half the time
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Continually or almost continually
+- Spend Time Sitting: Continually or almost continually
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Moderate responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Never
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Operating Engineers and Other Construction Equipment Operators
+- Construction Laborers
+- Hoist and Winch Operators
+- Continuous Mining Machine Operators
+- Mobile Heavy Equipment Mechanics, Except Engines
+- Crane and Tower Operators
+- Industrial Truck and Tractor Operators
+- Loading and Moving Machine Operators, Underground Mining
+- Pile Driver Operators
+- Maintenance Workers, Machinery
+- Earth Drillers, Except Oil and Gas
+- Paving, Surfacing, and Tamping Equipment Operators
+- Helpers--Extraction Workers
+- Millwrights
+- Riggers
+- Industrial Machinery Mechanics
+- Rail-Track Laying and Maintenance Equipment Operators
+- Dredge Operators
+- Laborers and Freight, Stock, and Material Movers, Hand
+- Woodworking Machine Setters, Operators, and Tenders, Except Sawing

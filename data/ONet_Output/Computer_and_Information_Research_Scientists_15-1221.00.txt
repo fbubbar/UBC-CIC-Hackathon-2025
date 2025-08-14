@@ -1,0 +1,367 @@
+Job Title: Computer and Information Research Scientists
+O*NET-SOC Code: 15-1221.00
+
+# DESCRIPTION
+Conduct research into fundamental computer and information science as theorists, designers, or inventors. Develop solutions to problems in the field of computer hardware and software.
+
+# TASKS
+- Analyze problems to develop solutions involving computer hardware and software.
+- Apply theoretical expertise and innovation to create or apply new technology, such as adapting principles for applying computers to new uses.
+- Assign or schedule tasks to meet work priorities and goals.
+- Meet with managers, vendors, and others to solicit cooperation and resolve problems.
+- Design computers and the software that runs them.
+- Conduct logical analyses of business, scientific, engineering, and other technical problems, formulating mathematical models of problems for solution by computers.
+- Evaluate project plans and proposals to assess feasibility issues.
+- Participate in multidisciplinary projects in areas such as virtual reality, human-computer interaction, or robotics.
+- Consult with users, management, vendors, and technicians to determine computing needs and system requirements.
+- Develop and interpret organizational goals, policies, and procedures.
+- Develop performance standards, and evaluate work in light of established standards.
+- Maintain network hardware and software, direct network security measures, and monitor networks to ensure availability to system users.
+- Direct daily operations of departments, coordinating project activities with other departments.
+- Participate in staffing decisions and direct training of subordinates.
+- Approve, prepare, monitor, and adjust operational budgets.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Computers and Electronics (Importance: 4.57/5 | Level: 6.11/7)
+- Mathematics (Importance: 4.06/5 | Level: 5.43/7)
+- Engineering and Technology (Importance: 3.95/5 | Level: 4.84/7)
+- English Language (Importance: 3.89/5 | Level: 4.47/7)
+- Administration and Management (Importance: 3.3/5 | Level: 3.76/7)
+- Design (Importance: 3.27/5 | Level: 4.48/7)
+- Telecommunications (Importance: 3.09/5 | Level: 3.89/7)
+- Physics (Importance: 2.84/5 | Level: 3.53/7)
+- Sales and Marketing (Importance: 2.71/5 | Level: 2.93/7)
+- Customer and Personal Service (Importance: 2.71/5 | Level: 2.84/7)
+- Education and Training (Importance: 2.66/5 | Level: 3.68/7)
+- Administrative (Importance: 2.59/5 | Level: 2.63/7)
+- Production and Processing (Importance: 2.47/5 | Level: 2.47/7)
+- Personnel and Human Resources (Importance: 2.46/5 | Level: 2.7/7)
+- Public Safety and Security (Importance: 2.41/5 | Level: 2.73/7)
+- Psychology (Importance: 2.39/5 | Level: 2.36/7)
+- Communications and Media (Importance: 2.28/5 | Level: 2.12/7)
+- Economics and Accounting (Importance: 2.17/5 | Level: 2.13/7)
+- Mechanical (Importance: 2.07/5 | Level: 2.22/7)
+- Law and Government (Importance: 2.01/5 | Level: 2.38/7)
+- Biology (Importance: 1.9/5 | Level: 2.06/7)
+- Sociology and Anthropology (Importance: 1.89/5 | Level: 1.91/7)
+- Geography (Importance: 1.85/5 | Level: 1.94/7)
+- Chemistry (Importance: 1.85/5 | Level: 1.74/7)
+- Building and Construction (Importance: 1.56/5 | Level: 1.19/7)
+- History and Archeology (Importance: 1.43/5 | Level: 1.01/7)
+- Philosophy and Theology (Importance: 1.41/5 | Level: 1.21/7)
+- Medicine and Dentistry (Importance: 1.38/5 | Level: 1.03/7)
+- Fine Arts (Importance: 1.32/5 | Level: 0.7/7)
+- Therapy and Counseling (Importance: 1.31/5 | Level: 0.81/7)
+- Foreign Language (Importance: 1.28/5 | Level: 0.57/7)
+- Transportation (Importance: 1.28/5 | Level: 0.99/7)
+- Food Production (Importance: 1.05/5 | Level: 0.16/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Complex Problem Solving (Importance: 4.0/5 | Level: 4.38/7)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.25/7)
+- Judgment and Decision Making (Importance: 4.0/5 | Level: 4.62/7)
+- Systems Analysis (Importance: 3.75/5 | Level: 4.38/7)
+- Reading Comprehension (Importance: 3.75/5 | Level: 4.5/7)
+- Active Listening (Importance: 3.75/5 | Level: 4.12/7)
+- Systems Evaluation (Importance: 3.62/5 | Level: 4.88/7)
+- Programming (Importance: 3.62/5 | Level: 4.5/7)
+- Active Learning (Importance: 3.5/5 | Level: 4.88/7)
+- Speaking (Importance: 3.5/5 | Level: 4.12/7)
+- Mathematics (Importance: 3.38/5 | Level: 4.38/7)
+- Time Management (Importance: 3.38/5 | Level: 3.88/7)
+- Writing (Importance: 3.38/5 | Level: 4.12/7)
+- Technology Design (Importance: 3.12/5 | Level: 4.12/7)
+- Monitoring (Importance: 3.12/5 | Level: 4.0/7)
+- Science (Importance: 3.12/5 | Level: 3.38/7)
+- Operations Analysis (Importance: 3.12/5 | Level: 3.88/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 3.5/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 3.12/7)
+- Instructing (Importance: 3.0/5 | Level: 3.38/7)
+- Coordination (Importance: 3.0/5 | Level: 3.75/7)
+- Management of Personnel Resources (Importance: 2.88/5 | Level: 3.62/7)
+- Persuasion (Importance: 2.75/5 | Level: 3.5/7)
+- Service Orientation (Importance: 2.75/5 | Level: 2.88/7)
+- Operations Monitoring (Importance: 2.62/5 | Level: 2.75/7)
+- Management of Financial Resources (Importance: 2.5/5 | Level: 2.88/7)
+- Negotiation (Importance: 2.5/5 | Level: 2.62/7)
+- Quality Control Analysis (Importance: 2.38/5 | Level: 2.62/7)
+- Troubleshooting (Importance: 2.38/5 | Level: 3.0/7)
+- Management of Material Resources (Importance: 2.25/5 | Level: 2.62/7)
+- Operation and Control (Importance: 2.0/5 | Level: 1.75/7)
+- Equipment Selection (Importance: 1.88/5 | Level: 1.75/7)
+- Equipment Maintenance (Importance: 1.12/5 | Level: 0.25/7)
+- Repairing (Importance: 1.12/5 | Level: 0.25/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- 3D graphics software (Tech skill type: Graphics or photo imaging software)
+- Ada (Tech skill type: Development environment software)
+- Advanced numerical software (Tech skill type: Analytical or scientific software)
+- Algorithmic software (Tech skill type: Analytical or scientific software)
+- Amazon DynamoDB (Tech skill type: Data base management system software)
+- Amazon Elastic Compute Cloud EC2 (Tech skill type: Data base user interface and query software)
+- Amazon Redshift (Tech skill type: Data base user interface and query software)
+- Amazon Web Services AWS software (Tech skill type: Data base user interface and query software)
+- Apache Cassandra (Tech skill type: Data base management system software)
+- Apache Flume (Tech skill type: Data base management system software)
+- Apache Hadoop (Tech skill type: Data base management system software)
+- Apache Hive (Tech skill type: Data base user interface and query software)
+- Apache HTTP Server (Tech skill type: Portal server software)
+- Apache Kafka (Tech skill type: Development environment software)
+- Apache Pig (Tech skill type: Data base management system software)
+- Apache Solr (Tech skill type: Data base management system software)
+- Apache Spark (Tech skill type: Business intelligence and data analysis software)
+- Apache Subversion SVN (Tech skill type: File versioning software)
+- Augmint (Tech skill type: Analytical or scientific software)
+- Automated document generation software (Tech skill type: Development environment software)
+- Bash (Tech skill type: Operating system software)
+- Bidirectional encoder representations from transformers (BERT) (Tech skill type: Analytical or scientific software)
+- Business software applications (Tech skill type: Office suite software)
+- C (Tech skill type: Development environment software)
+- C# (Tech skill type: Object or component oriented development software)
+- C++ (Tech skill type: Object or component oriented development software)
+- Charm++ (Tech skill type: Object or component oriented development software)
+- Chatbot software (Tech skill type: Industrial control software)
+- Clustering software (Tech skill type: Clustering software)
+- Clustermatic (Tech skill type: Clustering software)
+- CMake (Tech skill type: Development environment software)
+- Computational statistics software (Tech skill type: Analytical or scientific software)
+- Computer aided design and drafting CADD software (Tech skill type: Computer aided design CAD software)
+- Data mining software (Tech skill type: Data mining software)
+- Data visualization software (Tech skill type: Analytical or scientific software)
+- Django (Tech skill type: Web platform development software)
+- Docker (Tech skill type: Application server software)
+- Doxygen (Tech skill type: Development environment software)
+- Eclipse IDE (Tech skill type: Development environment software)
+- Eiffel (Tech skill type: Object or component oriented development software)
+- Elasticsearch (Tech skill type: Data base management system software)
+- Embarcadero JBuilder (Tech skill type: Development environment software)
+- ESRI ArcGIS software (Tech skill type: Geographic information system)
+- Extensible markup language XML (Tech skill type: Enterprise application integration software)
+- Extensible stylesheet language transformations XSLT (Tech skill type: Web platform development software)
+- Formula translation/translator FORTRAN (Tech skill type: Development environment software)
+- Geographic information system GIS software (Tech skill type: Geographic information system)
+- Git (Tech skill type: File versioning software)
+- GitHub (Tech skill type: Application server software)
+- Google Ads (Tech skill type: Sales and marketing software)
+- Google Analytics (Tech skill type: Data mining software)
+- Graphics pipelines (Tech skill type: Graphics or photo imaging software)
+- Greenhills Ada compilers (Tech skill type: Compiler and decompiler software)
+- High-performance software libraries (Tech skill type: Development environment software)
+- Hugging Face (Tech skill type: Development environment software)
+- IBM Cognos Impromptu (Tech skill type: Business intelligence and data analysis software)
+- IBM Domino (Tech skill type: Communications server software)
+- IBM InfoSphere DataStage (Tech skill type: Enterprise application integration software)
+- IBM Rational Apex (Tech skill type: Configuration management software)
+- IBM Rational Rose XDE (Tech skill type: Development environment software)
+- IBM SPSS Statistics (Tech skill type: Analytical or scientific software)
+- Integrated development environment IDE software (Tech skill type: Development environment software)
+- Intel Integrated Performance Primitives (Tech skill type: Development environment software)
+- Intel Math Kernel Library (Tech skill type: Analytical or scientific software)
+- JavaScript (Tech skill type: Web platform development software)
+- Jupyter Notebook (Tech skill type: Object or component oriented development software)
+- Linux (Tech skill type: Operating system software)
+- List processing language LISP (Tech skill type: Development environment software)
+- Low-level virtual machine LLVM compilers (Tech skill type: Compiler and decompiler software)
+- Mathematical software (Tech skill type: Analytical or scientific software)
+- Microsoft ActiveX (Tech skill type: Object or component oriented development software)
+- Microsoft Azure software (Tech skill type: Development environment software)
+- Microsoft Dynamics (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Power BI (Tech skill type: Business intelligence and data analysis software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft SQL Server (Tech skill type: Data base user interface and query software)
+- Microsoft Visual Basic (Tech skill type: Development environment software)
+- Microsoft Visual Basic for Applications VBA (Tech skill type: Development environment software)
+- Microsoft Visual Basic Scripting Edition VBScript (Tech skill type: Development environment software)
+- Microsoft Visual Basic.NET (Tech skill type: Object or component oriented development software)
+- Microsoft Visual C# .NET (Tech skill type: Object or component oriented development software)
+- Microsoft Visual Studio (Tech skill type: Development environment software)
+- Microsoft Visual Studio.NET (Tech skill type: Development environment software)
+- Microsoft Windows XP (Tech skill type: Operating system software)
+- MicroStrategy (Tech skill type: Business intelligence and data analysis software)
+- Minitab (Tech skill type: Analytical or scientific software)
+- MongoDB (Tech skill type: Data base management system software)
+- Multisensory data representation software (Tech skill type: Analytical or scientific software)
+- MySQL (Tech skill type: Data base management system software)
+- National Instruments LabVIEW (Tech skill type: Development environment software)
+- Node.js (Tech skill type: Web platform development software)
+- NoSQL (Tech skill type: Data base management system software)
+- Object oriented development environment software (Tech skill type: Object or component oriented development software)
+- Open Graphics Library OpenGL (Tech skill type: Graphics or photo imaging software)
+- OpenAI ChatGPT (Tech skill type: Development environment software)
+- Operating system software (Tech skill type: Operating system software)
+- Optimization software (Tech skill type: Analytical or scientific software)
+- Oracle Business Intelligence Enterprise Edition (Tech skill type: Business intelligence and data analysis software)
+- Oracle Database (Tech skill type: Data base management system software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- Oracle Java 2 Platform Enterprise Edition J2EE (Tech skill type: Development environment software)
+- Oracle Solaris (Tech skill type: Operating system software)
+- pandas (Tech skill type: Data base user interface and query software)
+- Parallel systems software (Tech skill type: Clustering software)
+- Perforce Software Configuration Management System (Tech skill type: Configuration management software)
+- Perl (Tech skill type: Object or component oriented development software)
+- PHP (Tech skill type: Web platform development software)
+- Plug-in file software (Tech skill type: Web page creation and editing software)
+- Polaris parallelizing compilers (Tech skill type: Compiler and decompiler software)
+- Polhemus Fasttrack System (Tech skill type: Analytical or scientific software)
+- PostgreSQL (Tech skill type: Object oriented data base management software)
+- Prolog (Tech skill type: Development environment software)
+- PTC Creo Parametric (Tech skill type: Computer aided design CAD software)
+- Python (Tech skill type: Object or component oriented development software)
+- PyTorch (Tech skill type: Data base user interface and query software)
+- Qlik Tech QlikView (Tech skill type: Business intelligence and data analysis software)
+- Quest Erwin Data Modeler (Tech skill type: Metadata management software)
+- R (Tech skill type: Object or component oriented development software)
+- Relational database management software (Tech skill type: Data base management system software)
+- Relational database management system software (Tech skill type: Data base management system software)
+- Rice Simulator for ILP Multiprocessors RSIM (Tech skill type: Analytical or scientific software)
+- Ruby (Tech skill type: Development environment software)
+- SAP Business Objects (Tech skill type: Enterprise resource planning ERP software)
+- SAS (Tech skill type: Analytical or scientific software)
+- Scala (Tech skill type: Object or component oriented development software)
+- Scikit-learn (Tech skill type: Development environment software)
+- Shell script (Tech skill type: Operating system software)
+- Simulation software (Tech skill type: Analytical or scientific software)
+- Software libraries (Tech skill type: Development environment software)
+- Source code management SCM software (Tech skill type: Development environment software)
+- Splunk Enterprise (Tech skill type: Cloud-based management software)
+- StataCorp Stata (Tech skill type: Analytical or scientific software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- System testing software (Tech skill type: Program testing software)
+- Tableau (Tech skill type: Business intelligence and data analysis software)
+- TensorFlow (Tech skill type: Analytical or scientific software)
+- Teradata Database (Tech skill type: Data base management system software)
+- The MathWorks MATLAB (Tech skill type: Analytical or scientific software)
+- Transact-SQL (Tech skill type: Data base user interface and query software)
+- Ubuntu (Tech skill type: Operating system software)
+- Unified modeling language UML (Tech skill type: Requirements analysis and system architecture software)
+- UNIX (Tech skill type: Operating system software)
+- UNIX Shell (Tech skill type: Operating system software)
+- Verilog (Tech skill type: Development environment software)
+- Video editing software (Tech skill type: Video creation and editing software)
+- VME PowerPC VxWorks (Tech skill type: Operating system software)
+- Waikato Environment for Knowledge Analysis Weka (Tech skill type: Graphical user interface development software)
+
+## TOOLS USED
+- Articulated robots (Tool type: Pick or place robots)
+- Cluster systems (Tool type: High end computer servers)
+- Computer laser printers (Tool type: Laser printers)
+- Computer scanners (Tool type: Scanners)
+- Digital cameras (Tool type: Digital cameras)
+- Digital video cameras (Tool type: Digital camcorders or video cameras)
+- Distributed heterogeneous computers (Tool type: High end computer servers)
+- File servers (Tool type: Computer servers)
+- Free-field speakers (Tool type: Loudspeakers)
+- Graphics workstations (Tool type: Graphics tablets)
+- Hard disk drives (Tool type: Hard disk drives)
+- High end computer servers (Tool type: High end computer servers)
+- High-performance cluster HPC computers (Tool type: High end computer servers)
+- High-speed networking testbeds (Tool type: Content delivery networking equipment)
+- Image capture devices (Tool type: Camera based vision systems for automated data collection)
+- Laser scanners (Tool type: Scanners)
+- Lighting grids (Tool type: Stage or projection or studio lighting system)
+- Magneto optical discs (Tool type: Compact disks CDs)
+- Mainframe computers (Tool type: Mainframe computers)
+- Massively parallel processors MPP (Tool type: High end computer servers)
+- Microcomputers (Tool type: Microprocessors)
+- Mobile robots (Tool type: Pick or place robots)
+- Network interface cards NIC (Tool type: Network interface cards)
+- Network storage arrays (Tool type: Hard disk arrays)
+- Pan-tilt-zoom cameras (Tool type: Cinematographic cameras)
+- Personal computers (Tool type: Personal computers)
+- Quarter inch cartridge QIC tapes (Tool type: Tape arrays)
+- Real time motion capture systems (Tool type: Camera based vision systems for automated data collection)
+- Render farms (Tool type: High end computer servers)
+- Stereographic projectors (Tool type: Multimedia projectors)
+- Universal serial bus USB flash drives (Tool type: High capacity removable media drives)
+- Video projectors (Tool type: Multimedia projectors)
+- Web servers (Tool type: Computer servers)
+
+# WORK CONTEXT
+- Conflict Situations: Once a month or more but not every week
+- Consequence of Error: Not serious at all
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Moderately automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Once a year or more but not every month
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Once a year or more but not every month
+- Health and Safety of Other Workers: Limited responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Very important
+- Importance of Repeating Same Tasks: Fairly important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Slightly close (e.g., shared office)
+- Public Speaking: Once a year or more but not every month
+- Spend Time Bending or Twisting Your Body: Never
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Never
+- Spend Time Sitting: Continually or almost continually
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Less than half the time
+- Spend Time Walking or Running: Never
+- Telephone Conversations: Every day
+- Time Pressure: Once a week or more but not every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Never
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: High responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a month or more but not every week
+
+# INTERESTS (RIASEC)
+- Primary Interest: Investigative
+- Secondary Interest: Conventional
+- Tertiary Interest: Realistic
+
+# RELATED OCCUPATIONS
+- Data Scientists
+- Mathematicians
+- Operations Research Analysts
+- Software Developers
+- Computer Systems Engineers/Architects
+- Computer Systems Analysts
+- Computer Programmers
+- Bioinformatics Technicians
+- Bioinformatics Scientists
+- Database Architects
+- Natural Sciences Managers
+- Architectural and Engineering Managers
+- Computer and Information Systems Managers
+- Bioengineers and Biomedical Engineers
+- Robotics Engineers
+- Computer Science Teachers, Postsecondary
+- Computer Hardware Engineers
+- Computer Network Architects
+- Information Technology Project Managers
+- Nanosystems Engineers

@@ -1,0 +1,285 @@
+Job Title: Civil Engineering Technologists and Technicians
+O*NET-SOC Code: 17-3022.00
+
+# DESCRIPTION
+Apply theory and principles of civil engineering in planning, designing, and overseeing construction and maintenance of structures and facilities under the direction of engineering staff or physical scientists.
+
+# TASKS
+- Calculate dimensions, square footage, profile and component specifications, and material quantities, using calculator or computer.
+- Read and review project blueprints and structural specifications to determine dimensions of structure or system and material requirements.
+- Draft detailed dimensional drawings and design layouts for projects to ensure conformance to specifications.
+- Confer with supervisor to determine project details such as plan preparation, acceptance testing, and evaluation of field conditions.
+- Analyze proposed site factors and design maps, graphs, tracings, and diagrams to illustrate findings.
+- Prepare reports and document project activities and data.
+- Report maintenance problems occurring at project site to supervisor and negotiate changes to resolve system conflicts.
+- Inspect project site and evaluate contractor work to detect design malfunctions and ensure conformance to design specifications and applicable codes.
+- Conduct materials test and analysis, using tools and equipment and applying engineering knowledge.
+- Develop plans and estimate costs for installation of systems, utilization of facilities, or construction of structures.
+- Develop project budgets by estimating the cost of project activities.
+- Plan and conduct field surveys to locate new sites and analyze details of project sites.
+- Respond to public suggestions and complaints.
+- Negotiate with contractors on prices for new contracts or modifications to existing contracts.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Engineering and Technology (Importance: 4.47/5 | Level: 5.07/7)
+- Mathematics (Importance: 4.24/5 | Level: 4.93/7)
+- Building and Construction (Importance: 4.18/5 | Level: 4.74/7)
+- Design (Importance: 4.15/5 | Level: 4.92/7)
+- Administrative (Importance: 3.65/5 | Level: 4.25/7)
+- Administration and Management (Importance: 3.57/5 | Level: 3.9/7)
+- Computers and Electronics (Importance: 3.53/5 | Level: 4.43/7)
+- Customer and Personal Service (Importance: 3.52/5 | Level: 4.3/7)
+- English Language (Importance: 3.51/5 | Level: 3.84/7)
+- Mechanical (Importance: 3.45/5 | Level: 4.11/7)
+- Transportation (Importance: 3.27/5 | Level: 3.37/7)
+- Public Safety and Security (Importance: 3.1/5 | Level: 3.5/7)
+- Education and Training (Importance: 3.02/5 | Level: 3.17/7)
+- Physics (Importance: 3.02/5 | Level: 3.48/7)
+- Law and Government (Importance: 2.92/5 | Level: 3.48/7)
+- Personnel and Human Resources (Importance: 2.9/5 | Level: 2.81/7)
+- Geography (Importance: 2.89/5 | Level: 3.34/7)
+- Chemistry (Importance: 2.67/5 | Level: 2.94/7)
+- Production and Processing (Importance: 2.61/5 | Level: 2.18/7)
+- Telecommunications (Importance: 2.48/5 | Level: 1.86/7)
+- Economics and Accounting (Importance: 2.42/5 | Level: 1.63/7)
+- Communications and Media (Importance: 2.24/5 | Level: 1.79/7)
+- Psychology (Importance: 2.01/5 | Level: 1.74/7)
+- Biology (Importance: 1.96/5 | Level: 1.81/7)
+- History and Archeology (Importance: 1.62/5 | Level: 1.25/7)
+- Sales and Marketing (Importance: 1.55/5 | Level: 1.01/7)
+- Foreign Language (Importance: 1.34/5 | Level: 0.67/7)
+- Therapy and Counseling (Importance: 1.32/5 | Level: 0.81/7)
+- Sociology and Anthropology (Importance: 1.3/5 | Level: 0.75/7)
+- Fine Arts (Importance: 1.27/5 | Level: 0.54/7)
+- Medicine and Dentistry (Importance: 1.26/5 | Level: 0.56/7)
+- Philosophy and Theology (Importance: 1.18/5 | Level: 0.37/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Critical Thinking (Importance: 3.88/5 | Level: 3.62/7)
+- Reading Comprehension (Importance: 3.75/5 | Level: 4.12/7)
+- Active Listening (Importance: 3.75/5 | Level: 4.0/7)
+- Mathematics (Importance: 3.62/5 | Level: 3.38/7)
+- Speaking (Importance: 3.38/5 | Level: 3.5/7)
+- Writing (Importance: 3.25/5 | Level: 3.5/7)
+- Monitoring (Importance: 3.25/5 | Level: 3.38/7)
+- Complex Problem Solving (Importance: 3.12/5 | Level: 3.25/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 3.12/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 2.88/5 | Level: 2.88/7)
+- Systems Analysis (Importance: 2.88/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.88/7)
+- Active Learning (Importance: 2.88/5 | Level: 3.0/7)
+- Science (Importance: 2.75/5 | Level: 2.62/7)
+- Systems Evaluation (Importance: 2.75/5 | Level: 2.75/7)
+- Service Orientation (Importance: 2.75/5 | Level: 2.62/7)
+- Operations Analysis (Importance: 2.62/5 | Level: 3.0/7)
+- Negotiation (Importance: 2.5/5 | Level: 2.75/7)
+- Persuasion (Importance: 2.5/5 | Level: 2.38/7)
+- Operations Monitoring (Importance: 2.38/5 | Level: 2.38/7)
+- Instructing (Importance: 2.38/5 | Level: 2.38/7)
+- Management of Personnel Resources (Importance: 2.25/5 | Level: 2.25/7)
+- Learning Strategies (Importance: 2.25/5 | Level: 2.62/7)
+- Operation and Control (Importance: 2.12/5 | Level: 2.0/7)
+- Management of Material Resources (Importance: 2.12/5 | Level: 2.0/7)
+- Quality Control Analysis (Importance: 2.12/5 | Level: 2.0/7)
+- Management of Financial Resources (Importance: 2.12/5 | Level: 1.62/7)
+- Programming (Importance: 1.88/5 | Level: 1.0/7)
+- Technology Design (Importance: 1.75/5 | Level: 0.75/7)
+- Troubleshooting (Importance: 1.75/5 | Level: 0.88/7)
+- Equipment Selection (Importance: 1.12/5 | Level: 0.25/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Autodesk AutoCAD Civil 3D (Tech skill type: Computer aided design CAD software)
+- Autodesk Land Desktop (Tech skill type: Computer aided design CAD software)
+- Autodesk Revit (Tech skill type: Computer aided design CAD software)
+- Bentley MicroStation (Tech skill type: Computer aided design CAD software)
+- Bentley Systems InRoads Suite (Tech skill type: Map creation software)
+- Computer aided design and drafting software CADD (Tech skill type: Computer aided design CAD software)
+- Computer aided design CAD software (Tech skill type: Computer aided design CAD software)
+- Coordinate geometry COGO software (Tech skill type: Analytical or scientific software)
+- Digital terrain modeling software (Tech skill type: Map creation software)
+- Email software (Tech skill type: Electronic mail software)
+- ESRI ArcGIS software (Tech skill type: Geographic information system)
+- Geographic information system GIS software (Tech skill type: Geographic information system)
+- Geographic information system GIS systems (Tech skill type: Geographic information system)
+- Graphics software (Tech skill type: Graphics or photo imaging software)
+- IBM Notes (Tech skill type: Electronic mail software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Visual Basic (Tech skill type: Development environment software)
+- Microsoft Word (Tech skill type: Word processing software)
+- National Instruments LabVIEW (Tech skill type: Development environment software)
+- Operating system software (Tech skill type: Operating system software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Analytical balances (Tool type: Analytical balances)
+- Blueprint machines (Tool type: Digital image printers)
+- Brickmasons' trowels (Tool type: Trowels)
+- Bucket augers (Tool type: Augers)
+- Compression testing machines (Tool type: Compression testers)
+- Computer scanners (Tool type: Scanners)
+- Dessicators (Tool type: Heating or drying equipment or accessories)
+- Dilatometers (Tool type: Volumeters)
+- Dropping pipettes (Tool type: Dropping pipettes)
+- Drying ovens (Tool type: Drying cabinets or ovens)
+- Engineers' transits (Tool type: Theodolites)
+- Evaporating dishes (Tool type: Laboratory dishes)
+- Field data collectors (Tool type: Portable data input terminals)
+- Filter papers (Tool type: Filter papers)
+- Glass beakers (Tool type: Laboratory beakers)
+- Glass burets (Tool type: Laboratory burets)
+- Global positioning system GPS receivers (Tool type: Global positioning system GPS receiver)
+- Graduated glass cylinders (Tool type: Laboratory graduated cylinders)
+- Hand augers (Tool type: Augers)
+- Hand-operated boring machines (Tool type: Boring or sinking machinery)
+- Handheld digital thermometers (Tool type: Handheld thermometer)
+- Hydrometers (Tool type: Hydrometers)
+- Inclinometers (Tool type: Pitch measuring instruments)
+- Kneading compactors (Tool type: Vibratory plates)
+- Laboratory balances (Tool type: Laboratory balances)
+- Laboratory bulb syringes (Tool type: Sampling syringes)
+- Laboratory mechanical convection ovens (Tool type: Laboratory mechanical convection ovens)
+- Laboratory test sieves (Tool type: Test sieves)
+- Laboratory vials (Tool type: Laboratory vials)
+- Load cells (Tool type: Loadcells)
+- Machetes (Tool type: Machetes)
+- Magnetic stirrers (Tool type: Magnetic stirrers)
+- Measuring tapes (Tool type: Tape measures)
+- Mechanical sieve shakers (Tool type: Orbital shakers)
+- Metal cones (Tool type: Concrete or cement testing instruments)
+- Nuclear densometers (Tool type: Densitometers)
+- Paving sample splitters (Tool type: Concrete or cement testing instruments)
+- Personal computers (Tool type: Personal computers)
+- pH testers (Tool type: pH meters)
+- Picks (Tool type: Picks)
+- Plotters (Tool type: Plotter printers)
+- Pocket penetrometers (Tool type: Penetrometers)
+- Precipitation gauges (Tool type: Precipitation or evaporation recorders)
+- Precision levels (Tool type: Levels)
+- Pycnometers (Tool type: Pycnometers)
+- Rotary rock drills (Tool type: Hydraulic rock drills)
+- Rubber mallets (Tool type: Rubber mallet)
+- Safety glasses (Tool type: Safety glasses)
+- Safety gloves (Tool type: Protective gloves)
+- Seismographs (Tool type: Seismic recorders or seismographs)
+- Sledgehammers (Tool type: Sledge hammer)
+- Slump cones (Tool type: Concrete or cement testing instruments)
+- Small-gauge surface drilling rigs (Tool type: Land drilling rigs)
+- Soil augers (Tool type: Soil core sampling apparatus)
+- Soil density testers (Tool type: Permeability testing apparatus)
+- Soil moisture meters (Tool type: Moisture meters)
+- Soil resistivity test kits (Tool type: Soil testing kits)
+- Soil sampling tubes (Tool type: Soil core sampling apparatus)
+- Soil testing kits (Tool type: Soil testing kits)
+- Split spoon samplers (Tool type: Soil core sampling apparatus)
+- Stabilometers (Tool type: Concrete or cement testing instruments)
+- Straightedges (Tool type: Straight edges)
+- Strain gauges (Tool type: Strain gauges)
+- Stream flow gauges (Tool type: Open stream current meters)
+- Surveying rods (Tool type: Measuring rods)
+- Tamping rods (Tool type: Tampers)
+- Theodolites (Tool type: Theodolites)
+- Thin-walled Shelby tubes (Tool type: Soil core sampling apparatus)
+- Torvanes (Tool type: Shear strength testers)
+- Total stations (Tool type: Theodolites)
+- Transit levels (Tool type: Level sensors or transmitters)
+- Two way radios (Tool type: Two way radios)
+- Vibration monitors (Tool type: Vibration testers)
+- Water samplers (Tool type: Water samplers)
+- Wide-mouthed funnels (Tool type: Laboratory funnels)
+
+# WORK CONTEXT
+- Conflict Situations: Once a month or more but not every week
+- Consequence of Error: Fairly serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Extremely important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Highly automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Once a year or more but not every month
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Once a year or more but not every month
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Once a year or more but not every month
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Once a year or more but not every month
+- Exposed to Very Hot or Cold Temperatures: Once a month or more but not every week
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: No responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Very important
+- Importance of Repeating Same Tasks: Important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Every day
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Once a year or more but not every month
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Every day
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Slightly close (e.g., shared office)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: More than half the time
+- Spend Time Sitting: More than half the time
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Less than half the time
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Once a month or more but not every week
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Once a year or more but not every month
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Moderate responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Never
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Investigative
+- Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Architectural and Civil Drafters
+- Mechanical Engineering Technologists and Technicians
+- Construction and Building Inspectors
+- Construction Managers
+- Electrical and Electronics Drafters
+- Mechanical Drafters
+- Transportation Engineers
+- Environmental Engineering Technologists and Technicians
+- Electrical and Electronic Engineering Technologists and Technicians
+- Industrial Engineering Technologists and Technicians
+- Civil Engineers
+- Architectural and Engineering Managers
+- Industrial Engineers
+- First-Line Supervisors of Construction Trades and Extraction Workers
+- Project Management Specialists
+- Solar Energy Installation Managers
+- Marine Engineers and Naval Architects
+- Traffic Technicians
+- Calibration Technologists and Technicians
+- Architects, Except Landscape and Naval

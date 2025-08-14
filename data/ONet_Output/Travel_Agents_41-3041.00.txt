@@ -1,0 +1,217 @@
+Job Title: Travel Agents
+O*NET-SOC Code: 41-3041.00
+
+# DESCRIPTION
+Plan and sell transportation and accommodations for customers. Determine destination, modes of transportation, travel dates, costs, and accommodations required. May also describe, plan, and arrange itineraries and sell tour packages. May assist in resolving clients' travel problems.
+
+# TASKS
+- Collect payment for transportation and accommodations from customer.
+- Plan, describe, arrange, and sell itinerary tour packages and promotional travel incentives offered by various travel carriers.
+- Converse with customer to determine destination, mode of transportation, travel dates, financial considerations, and accommodations required.
+- Compute cost of travel and accommodations, using calculator, computer, carrier tariff books, and hotel rate books, or quote package tour's costs.
+- Record and maintain information on clients, vendors, and travel packages.
+- Book transportation and hotel reservations, using computer or telephone.
+- Print or request transportation carrier tickets, using computer printer system or system link to travel carrier.
+- Provide customer with brochures and publications containing travel information, such as local customs, points of interest, or foreign country regulations.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.25/5 | Level: 4.76/7)
+- English Language (Importance: 3.97/5 | Level: 4.27/7)
+- Sales and Marketing (Importance: 3.88/5 | Level: 4.5/7)
+- Geography (Importance: 3.43/5 | Level: 3.69/7)
+- Computers and Electronics (Importance: 3.36/5 | Level: 3.99/7)
+- Telecommunications (Importance: 3.17/5 | Level: 3.46/7)
+- Administrative (Importance: 3.17/5 | Level: 4.06/7)
+- Transportation (Importance: 3.09/5 | Level: 2.49/7)
+- Administration and Management (Importance: 2.89/5 | Level: 3.38/7)
+- Communications and Media (Importance: 2.85/5 | Level: 3.29/7)
+- Economics and Accounting (Importance: 2.72/5 | Level: 2.64/7)
+- Education and Training (Importance: 2.63/5 | Level: 3.32/7)
+- Foreign Language (Importance: 2.28/5 | Level: 2.37/7)
+- Mathematics (Importance: 2.06/5 | Level: 2.28/7)
+- Personnel and Human Resources (Importance: 1.95/5 | Level: 2.02/7)
+- Public Safety and Security (Importance: 1.89/5 | Level: 1.61/7)
+- Engineering and Technology (Importance: 1.87/5 | Level: 1.49/7)
+- Production and Processing (Importance: 1.81/5 | Level: 1.48/7)
+- Law and Government (Importance: 1.72/5 | Level: 1.64/7)
+- Psychology (Importance: 1.7/5 | Level: 1.43/7)
+- History and Archeology (Importance: 1.6/5 | Level: 0.91/7)
+- Sociology and Anthropology (Importance: 1.52/5 | Level: 1.08/7)
+- Philosophy and Theology (Importance: 1.36/5 | Level: 0.9/7)
+- Design (Importance: 1.17/5 | Level: 0.28/7)
+- Food Production (Importance: 1.08/5 | Level: 0.09/7)
+- Therapy and Counseling (Importance: 1.03/5 | Level: 0.07/7)
+- Fine Arts (Importance: 1.02/5 | Level: 0.04/7)
+- Mechanical (Importance: 1.02/5 | Level: 0.05/7)
+- Physics (Importance: 1.01/5 | Level: 0.01/7)
+- Chemistry (Importance: 1.01/5 | Level: 0.01/7)
+- Building and Construction (Importance: 1.01/5 | Level: 0.02/7)
+- Biology (Importance: 1.01/5 | Level: 0.01/7)
+- Medicine and Dentistry (Importance: 1.0/5 | Level: 0.0/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Service Orientation (Importance: 4.12/5 | Level: 4.0/7)
+- Active Listening (Importance: 4.12/5 | Level: 4.0/7)
+- Speaking (Importance: 4.0/5 | Level: 3.12/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 3.75/7)
+- Social Perceptiveness (Importance: 3.75/5 | Level: 3.12/7)
+- Persuasion (Importance: 3.62/5 | Level: 3.5/7)
+- Judgment and Decision Making (Importance: 3.38/5 | Level: 3.0/7)
+- Active Learning (Importance: 3.12/5 | Level: 3.12/7)
+- Negotiation (Importance: 3.12/5 | Level: 3.25/7)
+- Writing (Importance: 3.12/5 | Level: 3.0/7)
+- Critical Thinking (Importance: 3.12/5 | Level: 3.75/7)
+- Coordination (Importance: 3.12/5 | Level: 2.88/7)
+- Time Management (Importance: 3.0/5 | Level: 2.88/7)
+- Complex Problem Solving (Importance: 3.0/5 | Level: 2.88/7)
+- Monitoring (Importance: 3.0/5 | Level: 2.88/7)
+- Mathematics (Importance: 2.88/5 | Level: 2.5/7)
+- Instructing (Importance: 2.62/5 | Level: 2.62/7)
+- Learning Strategies (Importance: 2.5/5 | Level: 2.25/7)
+- Systems Analysis (Importance: 2.38/5 | Level: 2.0/7)
+- Systems Evaluation (Importance: 2.25/5 | Level: 2.0/7)
+- Management of Financial Resources (Importance: 2.12/5 | Level: 2.0/7)
+- Management of Personnel Resources (Importance: 1.88/5 | Level: 1.62/7)
+- Operations Monitoring (Importance: 1.75/5 | Level: 0.75/7)
+- Technology Design (Importance: 1.75/5 | Level: 0.88/7)
+- Programming (Importance: 1.75/5 | Level: 0.75/7)
+- Management of Material Resources (Importance: 1.75/5 | Level: 0.75/7)
+- Operations Analysis (Importance: 1.75/5 | Level: 1.25/7)
+- Operation and Control (Importance: 1.62/5 | Level: 0.62/7)
+- Science (Importance: 1.25/5 | Level: 0.25/7)
+- Quality Control Analysis (Importance: 1.25/5 | Level: 0.25/7)
+- Equipment Selection (Importance: 1.12/5 | Level: 0.12/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Amadeus CRS (Tech skill type: Data base user interface and query software)
+- Apollo Reservation System (Tech skill type: Calendar and scheduling software)
+- Colibripms Software Colibri (Tech skill type: Customer relationship management CRM software)
+- DataSwell (Tech skill type: Business intelligence and data analysis software)
+- Galor Travel Booster (Tech skill type: Data base user interface and query software)
+- Global distribution system GDS software (Tech skill type: Data base user interface and query software)
+- Globekey Agentkey (Tech skill type: Calendar and scheduling software)
+- Illusions Online Illusions OnDemand (Tech skill type: Business intelligence and data analysis software)
+- IMS Travel Agent Reservation Software System (Tech skill type: Calendar and scheduling software)
+- Intuit QuickBooks (Tech skill type: Accounting software)
+- MGHworld Travel Agents (Tech skill type: Customer relationship management CRM software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Orbitz Worldwide Orbitz for Agents (Tech skill type: Data base user interface and query software)
+- Rezdy booking software (Tech skill type: Calendar and scheduling software)
+- Rezgo online booking software (Tech skill type: Calendar and scheduling software)
+- Rezopia (Tech skill type: Data base user interface and query software)
+- Sabre Airline Solutions SabreSonic Customer Sales & Service (Tech skill type: Customer relationship management CRM software)
+- Sabre Central Command (Tech skill type: Enterprise resource planning ERP software)
+- SAP Concur (Tech skill type: Accounting software)
+- TourCMS (Tech skill type: Data base user interface and query software)
+- TourWriter (Tech skill type: Data base user interface and query software)
+- Travel Agent CMS (Tech skill type: Data base user interface and query software)
+- TravelCarma (Tech skill type: Data base user interface and query software)
+- Travii reservation system software (Tech skill type: Data base user interface and query software)
+- Zoom (Tech skill type: Video conferencing software)
+
+## TOOLS USED
+- Card readers (Tool type: Point of sale payment terminal)
+- Computer inkjet printers (Tool type: Inkjet printers)
+- Computer laser printers (Tool type: Laser printers)
+- Copy machines (Tool type: Photocopiers)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Multiline telephone systems (Tool type: Special purpose telephones)
+- Personal computers (Tool type: Personal computers)
+- Printing calculators (Tool type: Printer calculator)
+- Public address systems (Tool type: Public address systems)
+- Ticket printing machines (Tool type: Ticket dispensing machines)
+
+# WORK CONTEXT
+- Conflict Situations: Once a month or more but not every week
+- Consequence of Error: Very serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Fairly important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Completely automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Never
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Moderate responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Extremely important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Never
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Extremely competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Slightly close (e.g., shared office)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Never
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Less than half the time
+- Spend Time Sitting: Continually or almost continually
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Never
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Never
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Very important
+- Written Letters and Memos: Every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Enterprising
+- Secondary Interest: Conventional
+- Tertiary Interest: Social
+
+# RELATED OCCUPATIONS
+- Reservation and Transportation Ticket Agents and Travel Clerks
+- Travel Guides
+- Counter and Rental Clerks
+- Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel
+- Concierges
+- Customer Service Representatives
+- Telemarketers
+- Tour Guides and Escorts
+- Retail Salespersons
+- Receptionists and Information Clerks
+- Insurance Sales Agents
+- Advertising Sales Agents
+- Telephone Operators
+- Freight Forwarders
+- Hotel, Motel, and Resort Desk Clerks
+- Meeting, Convention, and Event Planners
+- Cargo and Freight Agents
+- Door-to-Door Sales Workers, News and Street Vendors, and Related Workers
+- Customs Brokers
+- Real Estate Sales Agents

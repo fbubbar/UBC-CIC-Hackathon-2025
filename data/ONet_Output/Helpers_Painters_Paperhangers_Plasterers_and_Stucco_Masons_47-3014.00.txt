@@ -1,0 +1,244 @@
+Job Title: Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons
+O*NET-SOC Code: 47-3014.00
+
+# DESCRIPTION
+Help painters, paperhangers, plasterers, or stucco masons by performing duties requiring less skill. Duties include using, supplying, or holding materials or tools, and cleaning work area and equipment.
+
+# TASKS
+- Clean work areas and equipment.
+- Perform support duties to assist painters, paperhangers, plasterers, or masons.
+- Apply protective coverings, such as masking tape, to articles or areas that could be damaged or stained by work processes.
+- Erect scaffolding.
+- Fill cracks or breaks in surfaces of plaster articles or areas with putty or epoxy compounds.
+- Supply or hold tools and materials.
+- Smooth surfaces of articles to be painted, using sanding and buffing tools and equipment.
+- Mix plaster, and carry plaster to plasterers.
+- Place articles to be stripped into stripping tanks.
+- Remove articles such as cabinets, metal furniture, and paint containers from stripping tanks after prescribed periods of time.
+- Pour specified amounts of chemical solutions into stripping tanks.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Building and Construction (Importance: 3.13/5 | Level: 3.59/7)
+- English Language (Importance: 3.1/5 | Level: 2.09/7)
+- Administration and Management (Importance: 2.26/5 | Level: 2.25/7)
+- Public Safety and Security (Importance: 2.21/5 | Level: 1.75/7)
+- Mathematics (Importance: 2.2/5 | Level: 1.74/7)
+- Customer and Personal Service (Importance: 2.18/5 | Level: 1.71/7)
+- Design (Importance: 2.14/5 | Level: 1.98/7)
+- Education and Training (Importance: 2.02/5 | Level: 1.72/7)
+- Transportation (Importance: 1.99/5 | Level: 1.25/7)
+- Mechanical (Importance: 1.89/5 | Level: 1.44/7)
+- Personnel and Human Resources (Importance: 1.86/5 | Level: 0.88/7)
+- Engineering and Technology (Importance: 1.84/5 | Level: 0.82/7)
+- Administrative (Importance: 1.77/5 | Level: 0.73/7)
+- Foreign Language (Importance: 1.76/5 | Level: 0.77/7)
+- Production and Processing (Importance: 1.73/5 | Level: 0.98/7)
+- Sales and Marketing (Importance: 1.68/5 | Level: 0.78/7)
+- Chemistry (Importance: 1.62/5 | Level: 1.04/7)
+- Economics and Accounting (Importance: 1.57/5 | Level: 0.81/7)
+- Physics (Importance: 1.42/5 | Level: 0.62/7)
+- Psychology (Importance: 1.41/5 | Level: 0.8/7)
+- Law and Government (Importance: 1.31/5 | Level: 0.6/7)
+- Geography (Importance: 1.21/5 | Level: 0.31/7)
+- Computers and Electronics (Importance: 1.21/5 | Level: 0.34/7)
+- Telecommunications (Importance: 1.15/5 | Level: 0.17/7)
+- Food Production (Importance: 1.14/5 | Level: 0.24/7)
+- Philosophy and Theology (Importance: 1.11/5 | Level: 0.3/7)
+- Sociology and Anthropology (Importance: 1.11/5 | Level: 0.24/7)
+- Medicine and Dentistry (Importance: 1.1/5 | Level: 0.18/7)
+- Biology (Importance: 1.09/5 | Level: 0.17/7)
+- Therapy and Counseling (Importance: 1.09/5 | Level: 0.18/7)
+- Communications and Media (Importance: 1.08/5 | Level: 0.13/7)
+- History and Archeology (Importance: 1.03/5 | Level: 0.14/7)
+- Fine Arts (Importance: 1.03/5 | Level: 0.1/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Coordination (Importance: 3.0/5 | Level: 2.62/7)
+- Speaking (Importance: 3.0/5 | Level: 2.0/7)
+- Active Listening (Importance: 2.88/5 | Level: 2.25/7)
+- Time Management (Importance: 2.75/5 | Level: 2.5/7)
+- Critical Thinking (Importance: 2.75/5 | Level: 2.25/7)
+- Monitoring (Importance: 2.75/5 | Level: 2.38/7)
+- Operations Monitoring (Importance: 2.62/5 | Level: 2.38/7)
+- Quality Control Analysis (Importance: 2.62/5 | Level: 2.38/7)
+- Social Perceptiveness (Importance: 2.62/5 | Level: 2.25/7)
+- Service Orientation (Importance: 2.5/5 | Level: 2.25/7)
+- Equipment Maintenance (Importance: 2.5/5 | Level: 2.12/7)
+- Repairing (Importance: 2.5/5 | Level: 2.12/7)
+- Troubleshooting (Importance: 2.5/5 | Level: 2.38/7)
+- Judgment and Decision Making (Importance: 2.5/5 | Level: 2.12/7)
+- Active Learning (Importance: 2.38/5 | Level: 2.0/7)
+- Complex Problem Solving (Importance: 2.38/5 | Level: 2.12/7)
+- Learning Strategies (Importance: 2.25/5 | Level: 2.12/7)
+- Negotiation (Importance: 2.25/5 | Level: 1.75/7)
+- Instructing (Importance: 2.25/5 | Level: 2.0/7)
+- Equipment Selection (Importance: 2.25/5 | Level: 1.62/7)
+- Persuasion (Importance: 2.25/5 | Level: 1.75/7)
+- Reading Comprehension (Importance: 2.12/5 | Level: 1.75/7)
+- Operation and Control (Importance: 2.12/5 | Level: 2.0/7)
+- Management of Personnel Resources (Importance: 2.12/5 | Level: 2.0/7)
+- Systems Analysis (Importance: 2.0/5 | Level: 1.12/7)
+- Writing (Importance: 2.0/5 | Level: 1.75/7)
+- Systems Evaluation (Importance: 1.88/5 | Level: 1.12/7)
+- Science (Importance: 1.12/5 | Level: 0.12/7)
+- Mathematics (Importance: 1.12/5 | Level: 0.25/7)
+- Management of Material Resources (Importance: 1.12/5 | Level: 0.12/7)
+- Installation (Importance: 1.12/5 | Level: 0.12/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+- Operations Analysis (Importance: 1.0/5 | Level: 0.0/7)
+- Technology Design (Importance: 1.0/5 | Level: 0.0/7)
+- Management of Financial Resources (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- A-Systems JobView (Tech skill type: Accounting software)
+- Apple iWork (Tech skill type: Office suite software)
+- Construction Software Center EasyEst (Tech skill type: Project management software)
+- Cost estimating software (Tech skill type: Project management software)
+- Evergreen Technology Eagle Bid Estimating (Tech skill type: Project management software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- On Center Quick Bid (Tech skill type: Project management software)
+- Sage Construction Anywhere (Tech skill type: Project management software)
+- Turtle Creek Software Goldenseal (Tech skill type: Project management software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Adjustable wrenches (Tool type: Adjustable wrenches)
+- Airless paint guns (Tool type: Paint sprayers)
+- Application spatulas (Tool type: Spatulas)
+- Bosun chairs (Tool type: Manlift or personnel lift)
+- Caulking guns (Tool type: Caulking guns)
+- Chalk lines (Tool type: Chalk lines)
+- Claw hammers (Tool type: Claw hammer)
+- Darbies (Tool type: Floats)
+- Drywall stilts (Tool type: Ladders)
+- Floats (Tool type: Floats)
+- Hand shears (Tool type: Shears)
+- Heat guns (Tool type: Heat guns)
+- Humidity indicators (Tool type: Temperature humidity testers)
+- Ladders (Tool type: Ladders)
+- Locking pliers (Tool type: Locking pliers)
+- Measuring tapes (Tool type: Tape measures)
+- Moisture meters (Tool type: Moisture meters)
+- Nail punches (Tool type: Punches or nail sets or drifts)
+- Notebook computers (Tool type: Notebook computers)
+- Nut drivers (Tool type: Nut drivers)
+- Paint application brushes (Tool type: Paint brushes)
+- Paint application rollers (Tool type: Paint rollers)
+- Paint spray guns (Tool type: Paint sprayers)
+- Paint stirrers (Tool type: Paint mixers)
+- Paint strainers (Tool type: Paint strainers)
+- Personal computers (Tool type: Personal computers)
+- Piston pumps (Tool type: Hydraulic pumps)
+- Plaster mixers (Tool type: Plaster or mortar mixers)
+- Plaster spraying machines (Tool type: Paint sprayers)
+- Plastering trowels (Tool type: Trowels)
+- Plumb bobs (Tool type: Plumb bobs)
+- Power buffers (Tool type: Power buffers)
+- Power sanders (Tool type: Power sanders)
+- Power saws (Tool type: Power saws)
+- Pressure rollers (Tool type: Paint rollers)
+- Protective masks (Tool type: Facial shields)
+- Putty knives (Tool type: Putty knives)
+- Razor knives (Tool type: Razor knives)
+- Respirators (Tool type: Respirators)
+- Safety glasses (Tool type: Safety glasses)
+- Sandblasters (Tool type: Pneumatic sanding machines)
+- Scaffolding (Tool type: Scaffolding)
+- Screeds (Tool type: Concrete spreaders)
+- Seam rollers (Tool type: Wallpaper roller)
+- Self-contained protective suits (Tool type: Hazardous material protective apparel)
+- Single-cut mill saw files (Tool type: Mill saw file)
+- Spirit levels (Tool type: Levels)
+- Squeegees (Tool type: Squeegees or washers)
+- Steam cleaning equipment (Tool type: Pressure or steam cleaners)
+- Straightedges (Tool type: Straight edges)
+- Swing stages (Tool type: Manlift or personnel lift)
+- Utility knives (Tool type: Utility knives)
+- Wire brushes (Tool type: Wire brushes)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Fairly serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Important
+- Deal With External Customers or the Public in General: Fairly important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Never
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Once a year or more but not every month
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Once a month or more but not every week
+- Exposed to High Places: Every day
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Once a week or more but not every day
+- Exposed to Very Hot or Cold Temperatures: Once a year or more but not every month
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: High responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Important
+- Importance of Repeating Same Tasks: Important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Never
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Slightly competitive
+- Outdoors, Exposed to All Weather Conditions: Every day
+- Outdoors, Under Cover: Once a year or more but not every month
+- Pace Determined by Speed of Equipment: Important
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: More than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Continually or almost continually
+- Spend Time Keeping or Regaining Balance: Less than half the time
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: More than half the time
+- Spend Time Sitting: Never
+- Spend Time Standing: Continually or almost continually
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Once a week or more but not every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Once a month or more but not every week
+- Work Outcomes and Results of Other Workers: Moderate responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Never
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters
+- Helpers--Carpenters
+- Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters
+- Plasterers and Stucco Masons
+- Painters, Construction and Maintenance
+- Helpers--Installation, Maintenance, and Repair Workers
+- Helpers--Roofers
+- Helpers--Electricians
+- Helpers--Production Workers
+- Helpers--Extraction Workers
+- Carpenters
+- Roofers
+- Painting, Coating, and Decorating Workers
+- Drywall and Ceiling Tile Installers
+- Cement Masons and Concrete Finishers
+- Brickmasons and Blockmasons
+- Insulation Workers, Floor, Ceiling, and Wall
+- Terrazzo Workers and Finishers
+- Construction Laborers
+- Paperhangers

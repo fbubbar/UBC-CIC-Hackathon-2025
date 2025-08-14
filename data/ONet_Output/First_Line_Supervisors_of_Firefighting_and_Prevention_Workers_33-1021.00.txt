@@ -1,0 +1,342 @@
+Job Title: First-Line Supervisors of Firefighting and Prevention Workers
+O*NET-SOC Code: 33-1021.00
+
+# DESCRIPTION
+Directly supervise and coordinate activities of workers engaged in firefighting and fire prevention and control.
+
+# TASKS
+- Assign firefighters to jobs at strategic locations to facilitate rescue of persons and maximize application of extinguishing agents.
+- Provide emergency medical services as required, and perform light to heavy rescue functions at emergencies.
+- Assess nature and extent of fire, condition of building, danger to adjacent buildings, and water supply status to determine crew or company requirements.
+- Communicate fire details to superiors, subordinates, or interagency dispatch centers, using two-way radios.
+- Serve as a working leader of an engine, hand, helicopter, or prescribed fire crew of three or more firefighters.
+- Instruct and drill fire department personnel in assigned duties, including firefighting, medical care, hazardous materials response, fire prevention, and related subjects.
+- Maintain fire suppression equipment in good condition, checking equipment periodically to ensure that it is ready for use.
+- Evaluate the performance of assigned firefighting personnel.
+- Direct the training of firefighters, assigning of instructors to training classes, and providing of supervisors with reports on training progress and status.
+- Perform maintenance and minor repairs on firefighting equipment, including vehicles, and write and submit proposals to modify, replace, and repair equipment.
+- Schedule employee work assignments and set work priorities.
+- Monitor fire suppression expenditures to ensure that they are necessary and reasonable.
+- Participate in creating fire safety guidelines and evacuation schemes for nonresidential buildings.
+- Maintain required maps and records.
+- Drive crew carriers to transport firefighters to fire sites.
+- Inspect stations, uniforms, equipment, or recreation areas to ensure compliance with safety standards, taking corrective action as necessary.
+- Evaluate fire station procedures to ensure efficiency and enforcement of departmental regulations.
+- Direct firefighters in station maintenance duties, and participate in these duties.
+- Recommend personnel actions related to disciplinary procedures, performance, leaves of absence, and grievances.
+- Perform administrative duties, such as compiling and maintaining records, completing forms, preparing reports, or composing correspondence.
+- Direct investigation of cases of suspected arson, hazards, and false alarms and submit reports outlining findings.
+- Recommend equipment modifications or new equipment purchases.
+- Supervise and participate in the inspection of properties to ensure that they are in compliance with applicable fire codes, ordinances, laws, regulations, and standards.
+- Inspect and test new and existing fire protection systems, fire detection systems, and fire safety equipment to ensure that they are operating properly.
+- Study and interpret fire safety codes to establish procedures for issuing permits to handle hazardous or flammable substances.
+- Analyze burn conditions and results, and prepare postburn reports.
+- Evaluate size, location, and condition of fires.
+- Maintain knowledge of fire laws and fire prevention techniques and tactics.
+- Plan, direct, and supervise prescribed burn projects.
+- Recruit or hire firefighting personnel.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Public Safety and Security (Importance: 4.69/5 | Level: 5.48/7)
+- Customer and Personal Service (Importance: 4.36/5 | Level: 6.19/7)
+- Education and Training (Importance: 4.09/5 | Level: 5.25/7)
+- Building and Construction (Importance: 4.05/5 | Level: 4.31/7)
+- Administration and Management (Importance: 4.01/5 | Level: 4.11/7)
+- English Language (Importance: 3.97/5 | Level: 4.45/7)
+- Mechanical (Importance: 3.72/5 | Level: 4.2/7)
+- Law and Government (Importance: 3.61/5 | Level: 3.69/7)
+- Personnel and Human Resources (Importance: 3.5/5 | Level: 4.1/7)
+- Administrative (Importance: 3.39/5 | Level: 4.43/7)
+- Medicine and Dentistry (Importance: 3.36/5 | Level: 3.33/7)
+- Psychology (Importance: 3.32/5 | Level: 4.37/7)
+- Chemistry (Importance: 3.25/5 | Level: 3.37/7)
+- Transportation (Importance: 3.08/5 | Level: 3.25/7)
+- Mathematics (Importance: 3.06/5 | Level: 3.22/7)
+- Telecommunications (Importance: 2.93/5 | Level: 2.77/7)
+- Physics (Importance: 2.91/5 | Level: 3.53/7)
+- Computers and Electronics (Importance: 2.78/5 | Level: 3.33/7)
+- Communications and Media (Importance: 2.76/5 | Level: 3.0/7)
+- Therapy and Counseling (Importance: 2.65/5 | Level: 3.02/7)
+- Engineering and Technology (Importance: 2.62/5 | Level: 2.84/7)
+- Geography (Importance: 2.55/5 | Level: 2.94/7)
+- Economics and Accounting (Importance: 2.51/5 | Level: 2.3/7)
+- Sociology and Anthropology (Importance: 2.36/5 | Level: 2.33/7)
+- Design (Importance: 2.28/5 | Level: 2.75/7)
+- Sales and Marketing (Importance: 2.16/5 | Level: 2.01/7)
+- Biology (Importance: 2.16/5 | Level: 1.85/7)
+- Production and Processing (Importance: 2.07/5 | Level: 1.75/7)
+- Philosophy and Theology (Importance: 1.66/5 | Level: 1.68/7)
+- Foreign Language (Importance: 1.63/5 | Level: 1.05/7)
+- History and Archeology (Importance: 1.47/5 | Level: 0.89/7)
+- Food Production (Importance: 1.41/5 | Level: 0.68/7)
+- Fine Arts (Importance: 1.19/5 | Level: 0.33/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Active Listening (Importance: 4.0/5 | Level: 3.75/7)
+- Critical Thinking (Importance: 3.88/5 | Level: 3.75/7)
+- Social Perceptiveness (Importance: 3.75/5 | Level: 3.5/7)
+- Monitoring (Importance: 3.62/5 | Level: 3.62/7)
+- Coordination (Importance: 3.62/5 | Level: 3.75/7)
+- Speaking (Importance: 3.62/5 | Level: 3.62/7)
+- Judgment and Decision Making (Importance: 3.62/5 | Level: 3.38/7)
+- Service Orientation (Importance: 3.62/5 | Level: 3.5/7)
+- Reading Comprehension (Importance: 3.62/5 | Level: 3.75/7)
+- Management of Personnel Resources (Importance: 3.62/5 | Level: 3.5/7)
+- Complex Problem Solving (Importance: 3.5/5 | Level: 3.38/7)
+- Time Management (Importance: 3.5/5 | Level: 3.75/7)
+- Instructing (Importance: 3.5/5 | Level: 3.38/7)
+- Active Learning (Importance: 3.25/5 | Level: 3.12/7)
+- Writing (Importance: 3.25/5 | Level: 3.38/7)
+- Negotiation (Importance: 3.12/5 | Level: 3.25/7)
+- Persuasion (Importance: 3.12/5 | Level: 3.38/7)
+- Learning Strategies (Importance: 3.12/5 | Level: 3.5/7)
+- Systems Evaluation (Importance: 3.0/5 | Level: 2.88/7)
+- Operations Monitoring (Importance: 3.0/5 | Level: 2.75/7)
+- Systems Analysis (Importance: 2.75/5 | Level: 2.88/7)
+- Operation and Control (Importance: 2.62/5 | Level: 2.25/7)
+- Mathematics (Importance: 2.5/5 | Level: 2.62/7)
+- Quality Control Analysis (Importance: 2.5/5 | Level: 2.25/7)
+- Management of Material Resources (Importance: 2.5/5 | Level: 2.38/7)
+- Equipment Selection (Importance: 2.25/5 | Level: 1.88/7)
+- Equipment Maintenance (Importance: 2.25/5 | Level: 2.0/7)
+- Troubleshooting (Importance: 2.25/5 | Level: 2.12/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.75/7)
+- Repairing (Importance: 2.0/5 | Level: 1.75/7)
+- Programming (Importance: 1.75/5 | Level: 0.88/7)
+- Operations Analysis (Importance: 1.75/5 | Level: 1.38/7)
+- Technology Design (Importance: 1.75/5 | Level: 1.12/7)
+- Science (Importance: 1.62/5 | Level: 1.12/7)
+- Installation (Importance: 1.25/5 | Level: 0.38/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Affiliated Computer Services ACS FIREHOUSE (Tech skill type: Data base user interface and query software)
+- BehavePlus (Tech skill type: Analytical or scientific software)
+- BIO-key FireRMS (Tech skill type: Data base user interface and query software)
+- Computer aided dispatch software (Tech skill type: Helpdesk or call center software)
+- Corel WordPerfect Office Suite (Tech skill type: Office suite software)
+- Email software (Tech skill type: Electronic mail software)
+- ESRI ArcView (Tech skill type: Geographic information system)
+- FARSITE (Tech skill type: Analytical or scientific software)
+- Fire incident reporting systems (Tech skill type: Data base user interface and query software)
+- FlamMap (Tech skill type: Analytical or scientific software)
+- Geographic information system GIS software (Tech skill type: Geographic information system)
+- Geographic information system GIS systems (Tech skill type: Geographic information system)
+- IBM Lotus 1-2-3 (Tech skill type: Spreadsheet software)
+- Incident command system ICS software (Tech skill type: Project management software)
+- Mapping software (Tech skill type: Map creation software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Plume modeling software (Tech skill type: Analytical or scientific software)
+- Resource Ordering and Statusing System ROSS (Tech skill type: Project management software)
+- Web browser software (Tech skill type: Internet browser software)
+- Wildland Fire Assessment System WFAS (Tech skill type: Data base user interface and query software)
+
+## TOOLS USED
+- Aerial lifting apparatus (Tool type: Manlift or personnel lift)
+- Air bag lifting systems (Tool type: Air bags for loading)
+- Air chisels (Tool type: Pneumatic hammer)
+- Air purifying respirators (Tool type: Respirators)
+- All terrain vehicles ATV (Tool type: All terrain vehicles tracked or wheeled)
+- Aluminum ladders (Tool type: Ladders)
+- Ambu bags (Tool type: Resuscitation masks)
+- Automated external defibrillators AED (Tool type: Mobile medical services automated external defibrillators AED or hard paddles)
+- Automatic blood pressure cuffs (Tool type: Electronic blood pressure units)
+- Backboards (Tool type: Mobile medical services spine boards)
+- Backfiring fusees (Tool type: Lighters)
+- Backpack pumps (Tool type: Fire pump sets)
+- Body harnesses (Tool type: Safety harnesses or belts)
+- Bolt cutters (Tool type: Bolt cutters)
+- Bomb response vehicles (Tool type: Armored recovery vehicle)
+- Carbon dioxide CO2 fire extinguishers (Tool type: Fire extinguishers)
+- Ceiling hooks (Tool type: Fire suppression hand tools)
+- Chain saws (Tool type: Power saws)
+- Chemical protection footwear (Tool type: Hazardous material protective footwear)
+- Chemical protection gloves (Tool type: Protective gloves)
+- Circular saws (Tool type: Power saws)
+- Claw hammers (Tool type: Claw hammer)
+- Crew transport buses (Tool type: Busses)
+- Desktop computers (Tool type: Desktop computers)
+- Drip torches (Tool type: Lighters)
+- Dry chemical fire extinguishers (Tool type: Fire extinguishers)
+- Electrocardiography EKG machines (Tool type: Electrocardiography EKG units)
+- Emergency suction kits (Tool type: Mobile medical services suction antichoke devices)
+- Equipment transport trailers (Tool type: Flatbed trailers)
+- Evacuation stretchers (Tool type: Mobile medical services litter)
+- Explosive detection robots (Tool type: Weapon or explosives detectors and supplies)
+- Extension ladders (Tool type: Ladders)
+- Falling saws (Tool type: Power saws)
+- Farm tractors (Tool type: Agricultural tractors)
+- Field emergency services neck braces (Tool type: Mobile medical services cervical or extrication collars)
+- Fire axes (Tool type: Fire suppression hand tools)
+- Fire engines (Tool type: Rescue truck)
+- Fire hose nozzles (Tool type: Fire hoses or nozzles)
+- Fire hoses (Tool type: Fire hoses or nozzles)
+- Fire resistant clothing (Tool type: Fire retardant apparel)
+- Fire resistant gloves (Tool type: Protective gloves)
+- Fire shelters (Tool type: Fire escape equipment)
+- First aid kits (Tool type: Mobile medical services first aid kits)
+- Foam pumps (Tool type: Fire pump sets)
+- Fuel trucks (Tool type: Cargo trucks)
+- Gas-powered generators (Tool type: Gas generators)
+- Global positioning system GPS receivers (Tool type: Global positioning system GPS receiver)
+- Glucometers (Tool type: Glucose monitors or meters)
+- Halligan bars (Tool type: Pry bars)
+- Hand saws (Tool type: Saws)
+- Hard hats (Tool type: Hard hats)
+- Hazardous materials protective suits (Tool type: Hazardous material protective apparel)
+- HAZMAT response vehicles (Tool type: Fire fighting chemical truck)
+- Hux bars (Tool type: Pry bars)
+- Hydrant shutoff wrenches (Tool type: Specialty wrenches)
+- Hydraulic extrication equipment (Tool type: Metal cutters)
+- Infrared thermometers (Tool type: Heat tracing equipment)
+- Intravenous IV administration sets (Tool type: Mobile medical service intravenous IV kits)
+- K-12 fire rescue saws (Tool type: Power saws)
+- Ladder trucks (Tool type: Fire fighting ladder truck)
+- Laptop computers (Tool type: Notebook computers)
+- Laryngoscopes (Tool type: Intubation laryngoscopes)
+- Life throw rings (Tool type: Life rings)
+- Life vests (Tool type: Life vests or preservers)
+- Listening devices (Tool type: Acoustic sensors)
+- Lug wrenches (Tool type: Wheel nut or lug wrench)
+- Manual blood pressure cuffs (Tool type: Mercury blood pressure units)
+- Marsh rigs (Tool type: All terrain vehicles tracked or wheeled)
+- McLeod tools (Tool type: Fire suppression hand tools)
+- Mechanical stethoscopes (Tool type: Medical acoustic stethoscopes)
+- Mobile data computers (Tool type: Notebook computers)
+- Multi-gas detectors (Tool type: Multi gas monitors)
+- Multipurpose fire extinguishers (Tool type: Fire extinguishers)
+- Navigation compasses (Tool type: Geological compasses)
+- Oxygen cylinders (Tool type: Medical gas cylinders or related devices)
+- Passenger vans (Tool type: Minivans or vans)
+- Personal computers (Tool type: Personal computers)
+- Pike poles (Tool type: Fire suppression hand tools)
+- Pinch bars (Tool type: Pry bars)
+- Portable centrifugual pumps (Tool type: Fire pump sets)
+- Portable diaphragm pumps (Tool type: Fire pump sets)
+- Portable low-pressure pumps (Tool type: Fire pump sets)
+- Portable meteorological stations (Tool type: Weather stations)
+- Portable pumps (Tool type: Fire pump sets)
+- Power pumps (Tool type: Fire pump sets)
+- Power saws (Tool type: Power saws)
+- Protective fire coats (Tool type: Fire retardant apparel)
+- Pry bars (Tool type: Pry bars)
+- Psychrometers (Tool type: Psychrometers)
+- Pulaski tools (Tool type: Fire suppression hand tools)
+- Pulse oximeters (Tool type: Pulse oximeter units)
+- Pyrotechnic flares (Tool type: Flares)
+- Safety glasses (Tool type: Safety glasses)
+- Safety goggles (Tool type: Goggles)
+- Safety helmets (Tool type: Safety helmets)
+- Search cameras (Tool type: Digital camcorders or video cameras)
+- Self-contained breathing apparatus (Tool type: Respiration air supplying self contained breathing apparatus or accessories)
+- Self-rescue ropes (Tool type: Nylon rope)
+- Shovels (Tool type: Shovels)
+- Sledgehammers (Tool type: Sledge hammer)
+- Smoke ejectors (Tool type: Air exhausters)
+- Stokes baskets (Tool type: Mobile medical services basket stretchers)
+- Surface thermometers (Tool type: Surface thermometers)
+- Surveillance binoculars (Tool type: Binoculars)
+- Thermal imaging cameras (Tool type: Heat tracing equipment)
+- Tracked bulldozers (Tool type: Track bulldozers)
+- Tractor-mounted mowers (Tool type: Mowers)
+- Truck wheel chocks (Tool type: Wheel chocks)
+- Truck-mounted winches (Tool type: Winches)
+- Two way radios (Tool type: Two way radios)
+- Utility knives (Tool type: Utility knives)
+- Ventilation fans (Tool type: Fans)
+- Ventilation saws (Tool type: Power saws)
+- Water rescue boats (Tool type: Fire fighting watercraft)
+- Water tenders (Tool type: Fire fighting water tank truck)
+- Wildland fire engines (Tool type: Rescue truck)
+- Wind gauges (Tool type: Anemometers)
+- Wrecking bars (Tool type: Pry bars)
+
+# WORK CONTEXT
+- Conflict Situations: Once a month or more but not every week
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Extremely important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Once a year or more but not every month
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Once a week or more but not every day
+- Exposed to Cramped Work Space, Awkward Positions: Once a week or more but not every day
+- Exposed to Disease or Infections: Every day
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Every day
+- Exposed to Hazardous Conditions: Once a month or more but not every week
+- Exposed to Hazardous Equipment: Every day
+- Exposed to High Places: Once a month or more but not every week
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Once a month or more but not every week
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Once a week or more but not every day
+- Exposed to Very Hot or Cold Temperatures: Once a week or more but not every day
+- Exposed to Whole Body Vibration: Once a year or more but not every month
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Very important
+- Importance of Repeating Same Tasks: Very important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Every day
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Every day
+- Level of Competition: Highly competitive
+- Outdoors, Exposed to All Weather Conditions: Every day
+- Outdoors, Under Cover: Every day
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Very close (near touching)
+- Public Speaking: Once a month or more but not every week
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Less than half the time
+- Spend Time Keeping or Regaining Balance: Less than half the time
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Less than half the time
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: More than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Less than half the time
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Once a week or more but not every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Once a week or more but not every day
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a week or more but not every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Enterprising
+- Secondary Interest: Realistic
+- Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Firefighters
+- Forest Fire Inspectors and Prevention Specialists
+- Fire Inspectors and Investigators
+- First-Line Supervisors of Security Workers
+- Fire-Prevention and Protection Engineers
+- First-Line Supervisors of Police and Detectives
+- Occupational Health and Safety Specialists
+- First-Line Supervisors of Construction Trades and Extraction Workers
+- Emergency Management Directors
+- First-Line Supervisors of Farming, Fishing, and Forestry Workers
+- First-Line Supervisors of Passenger Attendants
+- Airfield Operations Specialists
+- Police and Sheriff's Patrol Officers
+- First-Line Supervisors of Mechanics, Installers, and Repairers
+- Ship Engineers
+- First-Line Supervisors of Material-Moving Machine and Vehicle Operators
+- First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services
+- Health and Safety Engineers, Except Mining Safety Engineers and Inspectors
+- Aviation Inspectors
+- First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers

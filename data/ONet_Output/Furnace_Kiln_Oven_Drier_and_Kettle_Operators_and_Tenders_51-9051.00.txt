@@ -1,0 +1,224 @@
+Job Title: Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders
+O*NET-SOC Code: 51-9051.00
+
+# DESCRIPTION
+Operate or tend heating equipment other than basic metal, plastic, or food processing equipment. Includes activities such as annealing glass, drying lumber, curing rubber, removing moisture from materials, or boiling soap.
+
+# TASKS
+- Monitor equipment operation, gauges, and panel lights to detect deviations from standards.
+- Confer with supervisors or other equipment operators to report equipment malfunctions or to resolve production problems.
+- Press and adjust controls to activate, set, and regulate equipment according to specifications.
+- Record gauge readings, test results, and shift production in log books.
+- Read and interpret work orders and instructions to determine work assignments, process specifications, and production schedules.
+- Examine or test samples of processed substances, or collect samples for laboratory testing, to ensure conformance to specifications.
+- Transport materials and products to and from work areas, manually or using carts, handtrucks, or hoists.
+- Stop equipment and clear blockages or jams, using fingers, wire, or hand tools.
+- Load equipment receptacles or conveyors with material to be processed, by hand or using hoists.
+- Remove products from equipment, manually or using hoists, and prepare them for storage, shipment, or additional processing.
+- Calculate amounts of materials to be loaded into furnaces, adjusting amounts as necessary for specific conditions.
+- Melt or refine metal before casting, calculating required temperatures, and observe metal color, adjusting controls as necessary to maintain required temperatures.
+- Weigh or measure specified amounts of ingredients or materials for processing, using devices such as scales and calipers.
+- Direct crane operators and crew members to load vessels with materials to be processed.
+- Feed fuel, such as coal and coke, into fireboxes or onto conveyors, and remove ashes from furnaces, using shovels and buckets.
+- Replace worn or defective equipment parts, using hand tools.
+- Clean, lubricate, and adjust equipment, using scrapers, solvents, air hoses, oil, and hand tools.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 3.52/5 | Level: 3.58/7)
+- Production and Processing (Importance: 3.21/5 | Level: 3.28/7)
+- Public Safety and Security (Importance: 3.13/5 | Level: 2.69/7)
+- Computers and Electronics (Importance: 2.97/5 | Level: 2.93/7)
+- English Language (Importance: 2.84/5 | Level: 2.6/7)
+- Education and Training (Importance: 2.77/5 | Level: 3.26/7)
+- Mathematics (Importance: 2.68/5 | Level: 2.11/7)
+- Administration and Management (Importance: 2.63/5 | Level: 2.39/7)
+- Customer and Personal Service (Importance: 2.56/5 | Level: 2.13/7)
+- Chemistry (Importance: 2.42/5 | Level: 2.88/7)
+- Medicine and Dentistry (Importance: 2.3/5 | Level: 1.56/7)
+- Telecommunications (Importance: 2.29/5 | Level: 1.55/7)
+- Design (Importance: 2.28/5 | Level: 1.97/7)
+- Psychology (Importance: 2.24/5 | Level: 2.04/7)
+- Engineering and Technology (Importance: 2.16/5 | Level: 2.4/7)
+- Transportation (Importance: 2.1/5 | Level: 1.4/7)
+- Administrative (Importance: 2.09/5 | Level: 1.89/7)
+- Communications and Media (Importance: 2.01/5 | Level: 1.42/7)
+- Personnel and Human Resources (Importance: 1.99/5 | Level: 1.95/7)
+- Building and Construction (Importance: 1.97/5 | Level: 1.69/7)
+- Economics and Accounting (Importance: 1.91/5 | Level: 1.44/7)
+- Sales and Marketing (Importance: 1.89/5 | Level: 1.44/7)
+- Law and Government (Importance: 1.83/5 | Level: 1.03/7)
+- Foreign Language (Importance: 1.83/5 | Level: 1.2/7)
+- Philosophy and Theology (Importance: 1.83/5 | Level: 1.16/7)
+- Physics (Importance: 1.81/5 | Level: 1.34/7)
+- Therapy and Counseling (Importance: 1.76/5 | Level: 1.64/7)
+- Food Production (Importance: 1.71/5 | Level: 1.15/7)
+- Sociology and Anthropology (Importance: 1.71/5 | Level: 1.07/7)
+- Biology (Importance: 1.42/5 | Level: 0.86/7)
+- Geography (Importance: 1.35/5 | Level: 0.8/7)
+- History and Archeology (Importance: 1.31/5 | Level: 0.67/7)
+- Fine Arts (Importance: 1.19/5 | Level: 0.19/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operations Monitoring (Importance: 3.88/5 | Level: 3.5/7)
+- Operation and Control (Importance: 3.12/5 | Level: 3.25/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.12/7)
+- Speaking (Importance: 3.12/5 | Level: 3.0/7)
+- Reading Comprehension (Importance: 3.12/5 | Level: 3.0/7)
+- Critical Thinking (Importance: 3.12/5 | Level: 3.0/7)
+- Active Listening (Importance: 3.12/5 | Level: 3.12/7)
+- Quality Control Analysis (Importance: 3.0/5 | Level: 2.75/7)
+- Writing (Importance: 2.62/5 | Level: 2.62/7)
+- Coordination (Importance: 2.5/5 | Level: 2.5/7)
+- Judgment and Decision Making (Importance: 2.38/5 | Level: 2.12/7)
+- Time Management (Importance: 2.38/5 | Level: 2.12/7)
+- Complex Problem Solving (Importance: 2.38/5 | Level: 2.62/7)
+- Active Learning (Importance: 2.38/5 | Level: 2.38/7)
+- Mathematics (Importance: 2.25/5 | Level: 2.0/7)
+- Social Perceptiveness (Importance: 2.25/5 | Level: 2.12/7)
+- Learning Strategies (Importance: 2.12/5 | Level: 1.5/7)
+- Troubleshooting (Importance: 2.12/5 | Level: 2.0/7)
+- Service Orientation (Importance: 2.12/5 | Level: 1.75/7)
+- Instructing (Importance: 2.12/5 | Level: 2.12/7)
+- Management of Personnel Resources (Importance: 2.12/5 | Level: 2.0/7)
+- Equipment Maintenance (Importance: 2.12/5 | Level: 1.5/7)
+- Persuasion (Importance: 2.12/5 | Level: 1.5/7)
+- Negotiation (Importance: 2.12/5 | Level: 1.88/7)
+- Systems Analysis (Importance: 2.0/5 | Level: 1.25/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 1.25/7)
+- Science (Importance: 1.88/5 | Level: 1.12/7)
+- Repairing (Importance: 1.75/5 | Level: 1.0/7)
+- Equipment Selection (Importance: 1.5/5 | Level: 0.88/7)
+- Operations Analysis (Importance: 1.5/5 | Level: 0.62/7)
+- Management of Material Resources (Importance: 1.38/5 | Level: 0.38/7)
+- Technology Design (Importance: 1.38/5 | Level: 0.38/7)
+- Programming (Importance: 1.25/5 | Level: 0.25/7)
+- Management of Financial Resources (Importance: 1.25/5 | Level: 0.25/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Inventory tracking software (Tech skill type: Inventory management software)
+- Machine operation software (Tech skill type: Industrial control software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Word (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Basket strainers (Tool type: Basket strainer)
+- Cleaning scrapers (Tool type: Cleaning scrapers)
+- Continuous baking furnaces (Tool type: Forced air heating system)
+- Conveyor belts (Tool type: Belt conveyors)
+- Curing ovens (Tool type: Paint systems ovens)
+- Dielectric power loss moisture meters (Tool type: Moisture meters)
+- Digital bench scales (Tool type: Bench scales)
+- Digital calipers (Tool type: Calipers)
+- Digital hygrometers (Tool type: Hygrometers)
+- Digital micrometers (Tool type: Micrometers)
+- Drying ovens (Tool type: Drying cabinets or ovens)
+- Electric hoists (Tool type: Hoists)
+- Electric moisture meters (Tool type: Moisture meters)
+- Electronic top-loading balances (Tool type: Electronic toploading balances)
+- Glass kilns (Tool type: Kilns for firing ceramics)
+- Handtrucks (Tool type: Hand trucks or accessories)
+- High-heat digital thermometers (Tool type: Surface thermometers)
+- Hot air core drying ovens (Tool type: Core drying ovens)
+- Industrial air dryers (Tool type: Air dryers)
+- Industrial production electric furnaces (Tool type: Electric furnace)
+- Material shovels (Tool type: Shovels)
+- Moving carts (Tool type: Carts)
+- Natural gas powered boilers (Tool type: Natural gas powered boilers)
+- Optical pyrometers (Tool type: Pyrometers)
+- Portable saws (Tool type: Power saws)
+- Radial arm saws (Tool type: Power saws)
+- Resistance moisture meters (Tool type: Moisture meters)
+- Self-calculating balances (Tool type: Analytical balances)
+- Skid steers (Tool type: Skid steer loaders)
+- Swing saws (Tool type: Power saws)
+- Table saws (Tool type: Power saws)
+- Tracked overhead cranes (Tool type: Track cranes)
+- Triple beam balances (Tool type: Triple beam balances)
+- Wheeled forklifts (Tool type: Forklifts)
+
+# WORK CONTEXT
+- Conflict Situations: Never
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Important
+- Deal With External Customers or the Public in General: Not important at all
+- Dealing With Unpleasant, Angry, or Discourteous People: Never
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Never
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Every day
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Every day
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Every day
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Very important
+- Importance of Repeating Same Tasks: Important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Never
+- Indoors, Not Environmentally Controlled: Every day
+- Level of Competition: Highly competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Extremely important
+- Physical Proximity: Very close (near touching)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Continually or almost continually
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Continually or almost continually
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: Continually or almost continually
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Never
+- Time Pressure: Never
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Never
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders
+- Metal-Refining Furnace Operators and Tenders
+- Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders
+- Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic
+- Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders
+- Machine Feeders and Offbearers
+- Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders
+- Textile Bleaching and Dyeing Machine Operators and Tenders
+- Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders
+- Adhesive Bonding Machine Operators and Tenders
+- Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers
+- Cooling and Freezing Equipment Operators and Tenders
+- Industrial Machinery Mechanics
+- Rolling Machine Setters, Operators, and Tenders, Metal and Plastic
+- Mixing and Blending Machine Setters, Operators, and Tenders
+- Packaging and Filling Machine Operators and Tenders
+- Chemical Plant and System Operators
+- Chemical Equipment Operators and Tenders
+- Maintenance Workers, Machinery
+- Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic

@@ -1,0 +1,315 @@
+Job Title: Commercial Pilots
+O*NET-SOC Code: 53-2012.00
+
+# DESCRIPTION
+Pilot and navigate the flight of fixed-wing aircraft on nonscheduled air carrier routes, or helicopters. Requires Commercial Pilot certificate. Includes charter pilots with similar certification, and air ambulance and air tour pilots. Excludes regional, national, and international airline pilots.
+
+# TASKS
+- Check aircraft prior to flights to ensure that the engines, controls, instruments, and other systems are functioning properly.
+- Co-pilot aircraft or perform captain's duties, as required.
+- Consider airport altitudes, outside temperatures, plane weights, and wind speeds and directions to calculate the speed needed to become airborne.
+- Use instrumentation to pilot aircraft when visibility is poor.
+- Monitor engine operation, fuel consumption, and functioning of aircraft systems during flights.
+- Order changes in fuel supplies, loads, routes, or schedules to ensure safety of flights.
+- Contact control towers for takeoff clearances, arrival instructions, and other information, using radio equipment.
+- Plan flights according to government and company regulations, using aeronautical charts and navigation instruments.
+- Start engines, operate controls, and pilot airplanes to transport passengers, mail, or freight according to flight plans, regulations, and procedures.
+- Check baggage or cargo to ensure that it has been loaded correctly.
+- Obtain and review data such as load weights, fuel supplies, weather conditions, and flight schedules to determine flight plans and identify needed changes.
+- Conduct in-flight tests and evaluations at specified altitudes and in all types of weather to determine the receptivity and other characteristics of equipment and systems.
+- Choose routes, altitudes, and speeds that will provide the fastest, safest, and smoothest flights.
+- Write specified information in flight records, such as flight times, altitudes flown, and fuel consumption.
+- Coordinate flight activities with ground crews and air traffic control, and inform crew members of flight and test procedures.
+- Perform minor aircraft maintenance and repair work, or arrange for major maintenance.
+- Supervise other crew members.
+- Request changes in altitudes or routes as circumstances dictate.
+- File instrument flight plans with air traffic control so that flights can be coordinated with other air traffic.
+- Rescue and evacuate injured persons.
+- Instruct other pilots and student pilots in aircraft operations.
+- Fly with other pilots or pilot-license applicants to evaluate their proficiency.
+- Plan and formulate flight activities and test schedules and prepare flight evaluation reports.
+- Teach company regulations and procedures to other pilots.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.15/5 | Level: 4.47/7)
+- English Language (Importance: 4.01/5 | Level: 3.36/7)
+- Transportation (Importance: 3.98/5 | Level: 4.7/7)
+- Geography (Importance: 3.6/5 | Level: 4.08/7)
+- Public Safety and Security (Importance: 3.58/5 | Level: 3.64/7)
+- Mechanical (Importance: 3.36/5 | Level: 3.85/7)
+- Law and Government (Importance: 3.31/5 | Level: 3.2/7)
+- Computers and Electronics (Importance: 3.17/5 | Level: 3.85/7)
+- Physics (Importance: 3.13/5 | Level: 3.2/7)
+- Mathematics (Importance: 2.96/5 | Level: 3.07/7)
+- Education and Training (Importance: 2.9/5 | Level: 3.21/7)
+- Engineering and Technology (Importance: 2.78/5 | Level: 2.61/7)
+- Personnel and Human Resources (Importance: 2.59/5 | Level: 1.88/7)
+- Administration and Management (Importance: 2.55/5 | Level: 2.53/7)
+- Telecommunications (Importance: 2.45/5 | Level: 1.6/7)
+- Psychology (Importance: 2.43/5 | Level: 3.22/7)
+- Administrative (Importance: 2.18/5 | Level: 2.15/7)
+- Design (Importance: 1.74/5 | Level: 1.0/7)
+- Communications and Media (Importance: 1.71/5 | Level: 1.52/7)
+- Chemistry (Importance: 1.57/5 | Level: 1.34/7)
+- Biology (Importance: 1.54/5 | Level: 0.89/7)
+- Production and Processing (Importance: 1.5/5 | Level: 1.09/7)
+- Economics and Accounting (Importance: 1.47/5 | Level: 0.76/7)
+- Sales and Marketing (Importance: 1.37/5 | Level: 0.84/7)
+- History and Archeology (Importance: 1.35/5 | Level: 1.19/7)
+- Foreign Language (Importance: 1.35/5 | Level: 0.65/7)
+- Sociology and Anthropology (Importance: 1.33/5 | Level: 0.68/7)
+- Therapy and Counseling (Importance: 1.23/5 | Level: 0.57/7)
+- Medicine and Dentistry (Importance: 1.23/5 | Level: 0.42/7)
+- Philosophy and Theology (Importance: 1.18/5 | Level: 0.39/7)
+- Food Production (Importance: 1.03/5 | Level: 0.04/7)
+- Building and Construction (Importance: 1.01/5 | Level: 0.02/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operation and Control (Importance: 4.75/5 | Level: 5.25/7)
+- Operations Monitoring (Importance: 4.38/5 | Level: 4.75/7)
+- Monitoring (Importance: 4.12/5 | Level: 4.0/7)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.0/7)
+- Judgment and Decision Making (Importance: 3.88/5 | Level: 3.75/7)
+- Active Listening (Importance: 3.88/5 | Level: 4.12/7)
+- Speaking (Importance: 3.75/5 | Level: 3.75/7)
+- Reading Comprehension (Importance: 3.75/5 | Level: 4.12/7)
+- Active Learning (Importance: 3.62/5 | Level: 4.0/7)
+- Complex Problem Solving (Importance: 3.62/5 | Level: 3.62/7)
+- Coordination (Importance: 3.25/5 | Level: 3.5/7)
+- Learning Strategies (Importance: 3.12/5 | Level: 3.5/7)
+- Troubleshooting (Importance: 3.12/5 | Level: 3.12/7)
+- Systems Analysis (Importance: 3.12/5 | Level: 3.0/7)
+- Instructing (Importance: 3.0/5 | Level: 3.38/7)
+- Time Management (Importance: 3.0/5 | Level: 3.0/7)
+- Systems Evaluation (Importance: 3.0/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 3.0/7)
+- Writing (Importance: 3.0/5 | Level: 3.0/7)
+- Persuasion (Importance: 2.88/5 | Level: 3.0/7)
+- Service Orientation (Importance: 2.88/5 | Level: 2.88/7)
+- Management of Personnel Resources (Importance: 2.88/5 | Level: 3.0/7)
+- Mathematics (Importance: 2.75/5 | Level: 2.88/7)
+- Science (Importance: 2.62/5 | Level: 2.75/7)
+- Quality Control Analysis (Importance: 2.62/5 | Level: 2.75/7)
+- Negotiation (Importance: 2.12/5 | Level: 2.5/7)
+- Equipment Maintenance (Importance: 1.88/5 | Level: 1.38/7)
+- Repairing (Importance: 1.88/5 | Level: 1.12/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.0/7)
+- Operations Analysis (Importance: 1.62/5 | Level: 1.0/7)
+- Management of Financial Resources (Importance: 1.62/5 | Level: 0.75/7)
+- Programming (Importance: 1.5/5 | Level: 0.5/7)
+- Equipment Selection (Importance: 1.5/5 | Level: 0.88/7)
+- Technology Design (Importance: 1.5/5 | Level: 0.5/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adobe Creative Cloud software (Tech skill type: Graphics or photo imaging software)
+- Aeronautical charts (Tech skill type: Charting software)
+- AeroPlanner (Tech skill type: Information retrieval or search software)
+- Airdata (Tech skill type: Project management software)
+- Airline Pilots Daily Aviation Log PPC (Tech skill type: Data base user interface and query software)
+- AirSmith FlightPrompt (Tech skill type: Data base user interface and query software)
+- ArduPilot Mission Planner (Tech skill type: Aviation ground support software)
+- Calibration software (Tech skill type: Analytical or scientific software)
+- CloudCompare (Tech skill type: Analytical or scientific software)
+- doXstor Flight Level Logbook (Tech skill type: Data base user interface and query software)
+- Electronic aircraft information databases (Tech skill type: Data base user interface and query software)
+- ESRI Site Scan for ArcGIS (Tech skill type: Map creation software)
+- Flight simulation software (Tech skill type: Flight control software)
+- FLIR Thermal Studio Suite (Tech skill type: Analytical or scientific software)
+- Kitty Hawk (Tech skill type: Analytical or scientific software)
+- Litchi (Tech skill type: Analytical or scientific software)
+- LP360 (Tech skill type: Analytical or scientific software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- MJICCS PilotLog (Tech skill type: Data base user interface and query software)
+- Navzilla (Tech skill type: Route navigation software)
+- Nimblefeet Technologies Captain's Keeper (Tech skill type: Data base user interface and query software)
+- Notam Development Group Airport Insight (Tech skill type: Information retrieval or search software)
+- OpenDroneMap (Tech skill type: Map creation software)
+- Pilot Navigator Software Load Balance (Tech skill type: Analytical or scientific software)
+- Pix4D Pix4Dcapture (Tech skill type: Analytical or scientific software)
+- Pix4D Pix4Dmapper (Tech skill type: Analytical or scientific software)
+- Polaris Microsystems AeroLog Pro (Tech skill type: Data base user interface and query software)
+- Polaris Microsystems CharterLog (Tech skill type: Data base user interface and query software)
+- RMS Technology Flitesoft (Tech skill type: Data base user interface and query software)
+- SBS International Maestro Suite (Tech skill type: Calendar and scheduling software)
+- Skylog Services Skylog Pro (Tech skill type: Data base user interface and query software)
+- Standard generalized markup language SGML (Tech skill type: Development environment software)
+- UgCS (Tech skill type: Analytical or scientific software)
+
+## TOOLS USED
+- Air conditioning systems (Tool type: Aircraft environment regulators)
+- Air data computers (Tool type: Flight computer systems)
+- Air pressurization systems (Tool type: Aircraft environment controllers)
+- Airborne collision avoidance systems ACAS (Tool type: Aircraft warning systems)
+- Airfield lighting equipment (Tool type: Area lighting)
+- Anemometers (Tool type: Anemometers)
+- Anti-skid systems (Tool type: Aircraft anti skid controls)
+- Autobrakes (Tool type: Aircraft braking systems)
+- Automatic direction finder ADF radio systems (Tool type: Aircraft guidance systems)
+- Automatic landing systems (Tool type: Aircraft steering controls)
+- Autopilot systems (Tool type: Flight computer systems)
+- Battery chargers (Tool type: Battery chargers)
+- Channel lock pliers (Tool type: Locking pliers)
+- Cockpit displays of traffic information CDTI (Tool type: Aircraft guidance systems)
+- Continuous flow emergency oxygen systems (Tool type: Aircraft oxygen equipment)
+- De-icing equipment (Tool type: Aircraft deicing equipment)
+- Desktop computers (Tool type: Desktop computers)
+- Digital communications display units DCDU (Tool type: Aircraft communication systems)
+- Digital multimeters (Tool type: Multimeters)
+- Distance measuring equipment DME (Tool type: Aircraft guidance systems)
+- DJI GS Pro (Tool type: Aircraft guidance systems)
+- DroneDeploy (Tool type: Aircraft guidance systems)
+- DroneLogbook (Tool type: Aircraft guidance systems)
+- Electro-hydraulic control systems (Tool type: Aircraft hydraulic systems)
+- Electronic flight instrument systems EFIS (Tool type: Aerospace cockpit display panels)
+- Emergency exit slides (Tool type: Aircraft escape or ejection systems)
+- Emergency life rafts (Tool type: Aircraft escape or ejection systems)
+- Emergency pressurization systems (Tool type: Aircraft environment controllers)
+- Engine anti-icing equipment (Tool type: Aircraft onboard defrosting or defogging systems)
+- Engine fire detection systems (Tool type: Aircraft warning systems)
+- Engine fire extinguishing systems (Tool type: Aircraft fire control or extinguishing systems)
+- Engine indicating and crew alerting systems EICAS (Tool type: Aircraft warning systems)
+- Equipment cooling controls (Tool type: Aircraft cooling fans)
+- Fire suppression and control systems (Tool type: Aircraft fire control or extinguishing systems)
+- Fixed wing unmanned aerial vehicles UAV (Tool type: Airships)
+- Flight director FD systems (Tool type: Flight computer systems)
+- Flight management systems FMS (Tool type: Aircraft guidance systems)
+- Flight simulators (Tool type: Aircraft flight simulators or trainers)
+- Fuel control systems (Tool type: Aircraft fuel management systems)
+- Global positioning system GPS devices (Tool type: Aircraft guidance systems)
+- Ground control targets (Tool type: Landing gear assemblies)
+- Ground proximity warning systems GPWS (Tool type: Aircraft warning systems)
+- Handheld calculators (Tool type: Pocket calculator)
+- Hard hats (Tool type: Hard hats)
+- Head-up guidance systems HGS (Tool type: Aerospace head up display HUDs)
+- High frequency HF radio communication systems (Tool type: Aircraft communication systems)
+- Hydraulic landing gear systems (Tool type: Landing gear assemblies)
+- Inertial navigation systems INS (Tool type: Aircraft guidance systems)
+- Instrument landing system ILS localizers (Tool type: Aircraft guidance systems)
+- Instrument landing system ILS receivers (Tool type: Aircraft guidance systems)
+- Landing pad (Tool type: Aircraft guidance systems)
+- Laptop computers (Tool type: Notebook computers)
+- Local area augmentation system LAAS receivers (Tool type: Aircraft guidance systems)
+- Long range navigation systems LRNS (Tool type: Aircraft guidance systems)
+- Mechanical nose wheel steering systems (Tool type: Aircraft steering controls)
+- Microwave landing system MLS receivers (Tool type: Aircraft guidance systems)
+- Multi-rotor unmanned aerial vehicles UAV (Tool type: Airships)
+- Multimeters (Tool type: Multimeters)
+- Multipurpose fire extinguishers (Tool type: Fire extinguishers)
+- Navigation mode selectors (Tool type: Aircraft guidance systems)
+- Nondirectional radio beacon markers (Tool type: Aircraft navigation beacons)
+- Oil filter pliers (Tool type: Adjustable widemouth pliers)
+- Oil filter wrenches (Tool type: Specialty wrenches)
+- On-board intercom systems (Tool type: Aircraft communication systems)
+- Passenger oxygen control systems (Tool type: Aircraft oxygen equipment)
+- Personal computers (Tool type: Personal computers)
+- Personal digital assistants PDA (Tool type: Personal digital assistant PDAs or organizers)
+- Plotters (Tool type: Plotter printers)
+- Pneumatic emergency brake systems (Tool type: Aircraft braking systems)
+- Portable collision avoidance systems PCAS (Tool type: Aircraft warning systems)
+- Power brake systems (Tool type: Aircraft braking systems)
+- Power generation and distribution control systems (Tool type: Aircraft power supply units)
+- Power generators (Tool type: Gas generators)
+- Recirculation control systems (Tool type: Aircraft environment controllers)
+- Reflective vests (Tool type: Reflective apparel or accessories)
+- Safety cones (Tool type: Traffic cones or delineators)
+- Simlat (Tool type: Aircraft flight simulators or trainers)
+- Spectrum analyzers (Tool type: Frequency analyzers)
+- Stability augmentation systems SAS (Tool type: Flight computer systems)
+- Tablet computers (Tool type: Tablet computers)
+- Traffic alert and collision avoidance system TCAS (Tool type: Aircraft warning systems)
+- Transponder landing systems TLS (Tool type: Aircraft guidance systems)
+- Ultra high frequency UHF radio communication systems (Tool type: Aircraft communication systems)
+- Very high frequency omnidirectional range VOR systems (Tool type: Aircraft guidance systems)
+- Very high frequency VHF radio communication systems (Tool type: Aircraft communication systems)
+- Vise grip pliers (Tool type: Locking pliers)
+- Windscreen ice control systems (Tool type: Aircraft onboard defrosting or defogging systems)
+- Wing anti-ice systems (Tool type: Aircraft onboard defrosting or defogging systems)
+- Yaw damper systems (Tool type: Aircraft steering controls)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Extremely serious
+- Contact With Others: Contact with others most of the time
+- Coordinate or Lead Others in Accomplishing Work Activities: Extremely important
+- Deal With External Customers or the Public in General: Not important at all
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Once a week or more but not every day
+- Exposed to Cramped Work Space, Awkward Positions: Once a week or more but not every day
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Once a week or more but not every day
+- Exposed to Hazardous Conditions: Every day
+- Exposed to Hazardous Equipment: Every day
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Once a week or more but not every day
+- Exposed to Very Hot or Cold Temperatures: Once a week or more but not every day
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Every day
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Every day
+- Outdoors, Under Cover: Every day
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Less than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Less than half the time
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Less than half the time
+- Spend Time Sitting: More than half the time
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a year or more but not every month
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Enterprising
+
+# RELATED OCCUPATIONS
+- Airline Pilots, Copilots, and Flight Engineers
+- Air Traffic Controllers
+- Airfield Operations Specialists
+- Aviation Inspectors
+- Locomotive Engineers
+- Aircraft Mechanics and Service Technicians
+- Captains, Mates, and Pilots of Water Vessels
+- Avionics Technicians
+- Ship Engineers
+- Railroad Conductors and Yardmasters
+- Aircraft Service Attendants
+- Aircraft Cargo Handling Supervisors
+- Flight Attendants
+- Aerospace Engineering and Operations Technologists and Technicians
+- Remote Sensing Technicians
+- Dispatchers, Except Police, Fire, and Ambulance
+- Transportation Inspectors
+- Camera Operators, Television, Video, and Film
+- Heavy and Tractor-Trailer Truck Drivers
+- Rail Yard Engineers, Dinkey Operators, and Hostlers

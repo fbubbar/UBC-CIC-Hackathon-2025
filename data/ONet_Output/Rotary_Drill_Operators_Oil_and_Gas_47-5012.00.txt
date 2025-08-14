@@ -1,0 +1,254 @@
+Job Title: Rotary Drill Operators, Oil and Gas
+O*NET-SOC Code: 47-5012.00
+
+# DESCRIPTION
+Set up or operate a variety of drills to remove underground oil and gas, or remove core samples for testing during oil and gas exploration.
+
+# TASKS
+- Train crews, and introduce procedures to make drill work more safe and effective.
+- Observe pressure gauge and move throttles and levers to control the speed of rotary tables, and to regulate pressure of tools at bottoms of boreholes.
+- Count sections of drill rod to determine depths of boreholes.
+- Push levers and brake pedals to control gasoline, diesel, electric, or steam draw works that lower and raise drill pipes and casings in and out of wells.
+- Connect sections of drill pipe, using hand tools and powered wrenches and tongs.
+- Maintain records of footage drilled, location and nature of strata penetrated, materials and tools used, services rendered, and time required.
+- Maintain and adjust machinery to ensure proper performance.
+- Start and examine operation of slush pumps to ensure circulation and consistency of drilling fluid or mud in well.
+- Locate and recover lost or broken bits, casings, and drill pipes from wells, using special tools.
+- Weigh clay, and mix with water and chemicals to make drilling mud.
+- Direct rig crews in drilling and other activities, such as setting up rigs and completing or servicing wells.
+- Monitor progress of drilling operations, and select and change drill bits according to the nature of strata, using hand tools.
+- Repair or replace defective parts of machinery, such as rotary drill rigs, water trucks, air compressors, and pumps, using hand tools.
+- Clean and oil pulleys, blocks, and cables.
+- Bolt together pump and engine parts, and connect tanks and flow lines.
+- Remove core samples during drilling to determine the nature of the strata being drilled.
+- Cap wells with packers, or turn valves, to regulate outflow of oil from wells.
+- Line drilled holes with pipes, and install all necessary hardware, to prepare new wells.
+- Position and prepare truck-mounted derricks at drilling areas specified on field maps.
+- Plug observation wells, and restore sites.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 3.87/5 | Level: 4.94/7)
+- Mathematics (Importance: 3.76/5 | Level: 3.72/7)
+- Administration and Management (Importance: 3.33/5 | Level: 2.87/7)
+- Education and Training (Importance: 3.2/5 | Level: 3.74/7)
+- Personnel and Human Resources (Importance: 3.08/5 | Level: 3.32/7)
+- Public Safety and Security (Importance: 2.84/5 | Level: 2.63/7)
+- Chemistry (Importance: 2.75/5 | Level: 3.24/7)
+- Production and Processing (Importance: 2.74/5 | Level: 2.51/7)
+- Transportation (Importance: 2.74/5 | Level: 2.58/7)
+- Engineering and Technology (Importance: 2.62/5 | Level: 2.54/7)
+- English Language (Importance: 2.61/5 | Level: 1.69/7)
+- Psychology (Importance: 2.53/5 | Level: 2.69/7)
+- Customer and Personal Service (Importance: 2.4/5 | Level: 2.54/7)
+- Physics (Importance: 2.38/5 | Level: 2.06/7)
+- Administrative (Importance: 2.33/5 | Level: 1.66/7)
+- Building and Construction (Importance: 2.17/5 | Level: 1.77/7)
+- Communications and Media (Importance: 2.14/5 | Level: 1.4/7)
+- Law and Government (Importance: 2.06/5 | Level: 1.44/7)
+- Geography (Importance: 2.02/5 | Level: 1.6/7)
+- Medicine and Dentistry (Importance: 2.0/5 | Level: 1.64/7)
+- Therapy and Counseling (Importance: 1.76/5 | Level: 1.46/7)
+- Computers and Electronics (Importance: 1.69/5 | Level: 1.59/7)
+- Economics and Accounting (Importance: 1.64/5 | Level: 0.8/7)
+- Sales and Marketing (Importance: 1.62/5 | Level: 0.83/7)
+- Telecommunications (Importance: 1.61/5 | Level: 1.11/7)
+- Design (Importance: 1.6/5 | Level: 1.25/7)
+- Foreign Language (Importance: 1.36/5 | Level: 0.54/7)
+- Biology (Importance: 1.35/5 | Level: 0.82/7)
+- Philosophy and Theology (Importance: 1.24/5 | Level: 0.74/7)
+- History and Archeology (Importance: 1.2/5 | Level: 0.3/7)
+- Sociology and Anthropology (Importance: 1.09/5 | Level: 0.2/7)
+- Food Production (Importance: 1.01/5 | Level: 0.02/7)
+- Fine Arts (Importance: 1.01/5 | Level: 0.03/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operation and Control (Importance: 3.62/5 | Level: 3.62/7)
+- Critical Thinking (Importance: 3.62/5 | Level: 3.25/7)
+- Operations Monitoring (Importance: 3.62/5 | Level: 3.5/7)
+- Monitoring (Importance: 3.5/5 | Level: 3.25/7)
+- Instructing (Importance: 3.38/5 | Level: 3.38/7)
+- Active Listening (Importance: 3.38/5 | Level: 2.88/7)
+- Coordination (Importance: 3.25/5 | Level: 3.38/7)
+- Speaking (Importance: 3.25/5 | Level: 2.88/7)
+- Complex Problem Solving (Importance: 3.12/5 | Level: 3.12/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 3.0/7)
+- Reading Comprehension (Importance: 3.12/5 | Level: 3.0/7)
+- Troubleshooting (Importance: 3.0/5 | Level: 3.0/7)
+- Repairing (Importance: 3.0/5 | Level: 3.25/7)
+- Quality Control Analysis (Importance: 3.0/5 | Level: 3.25/7)
+- Writing (Importance: 3.0/5 | Level: 3.0/7)
+- Equipment Maintenance (Importance: 3.0/5 | Level: 3.12/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 3.12/7)
+- Active Learning (Importance: 2.88/5 | Level: 3.0/7)
+- Negotiation (Importance: 2.88/5 | Level: 2.75/7)
+- Management of Personnel Resources (Importance: 2.88/5 | Level: 3.25/7)
+- Time Management (Importance: 2.88/5 | Level: 3.38/7)
+- Persuasion (Importance: 2.88/5 | Level: 2.88/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.75/7)
+- Equipment Selection (Importance: 2.62/5 | Level: 2.25/7)
+- Service Orientation (Importance: 2.38/5 | Level: 2.25/7)
+- Mathematics (Importance: 2.38/5 | Level: 1.88/7)
+- Systems Analysis (Importance: 2.12/5 | Level: 2.12/7)
+- Systems Evaluation (Importance: 2.12/5 | Level: 1.88/7)
+- Operations Analysis (Importance: 1.75/5 | Level: 1.0/7)
+- Management of Material Resources (Importance: 1.62/5 | Level: 1.12/7)
+- Technology Design (Importance: 1.38/5 | Level: 0.5/7)
+- Management of Financial Resources (Importance: 1.25/5 | Level: 0.38/7)
+- Science (Importance: 1.25/5 | Level: 0.38/7)
+- Installation (Importance: 1.12/5 | Level: 0.38/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- CAPSHER Technology SureTec (Tech skill type: Industrial control software)
+- Drillingsoftware DrillPro (Tech skill type: Industrial control software)
+- Drillingsoftware Tubular Database (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Pason WellView Field Solution (Tech skill type: Data base user interface and query software)
+- Python (Tech skill type: Object or component oriented development software)
+- Salesforce software (Tech skill type: Customer relationship management CRM software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Schlumberger Petrel E&P (Tech skill type: Analytical or scientific software)
+- Structure query language SQL (Tech skill type: Data base user interface and query software)
+
+## TOOLS USED
+- Accumulator systems (Tool type: Blowout preventer controls)
+- Adapter spools (Tool type: Casing head spool)
+- Air hoists (Tool type: Hoists)
+- Cement pumping equipment (Tool type: Cement pumping units)
+- Chain driven draw works (Tool type: Drawworks)
+- Choke manifolds (Tool type: Choke manifolds)
+- Claw hammers (Tool type: Claw hammer)
+- Double studded adapters (Tool type: Tubing head adapter)
+- Downhole fishing tools (Tool type: Downhole fishing poles)
+- Drill casings (Tool type: Drilling casings)
+- Drill pipe tongs (Tool type: Makeup tongs)
+- Drilling chokes (Tool type: Wellhead production chokes)
+- Drilling collars (Tool type: Drill collars)
+- Drilling crosses (Tool type: Wellhead tees or crosses)
+- Drilling draw works (Tool type: Drawworks)
+- Drilling mud mixers (Tool type: Mud mixers)
+- Drilling rig rotary tables (Tool type: Drill rig rotary tables)
+- Drilling spools (Tool type: Casing head spool)
+- Drilling swivels (Tool type: Drill swivels)
+- Explosives detonating equipment (Tool type: Detonators)
+- Fall arrest systems (Tool type: Safety harnesses or belts)
+- Gasoline engines (Tool type: Gasoline engines)
+- Gear driven draw works (Tool type: Drawworks)
+- Hammer wrenches (Tool type: Specialty wrenches)
+- Hard hats (Tool type: Hard hats)
+- Hydraulic torque wrenches (Tool type: Torque wrenches)
+- Lifting taglines (Tool type: Taglines)
+- Mobile radios (Tool type: Two way radios)
+- Mud mixing equipment (Tool type: Mud mixers)
+- Multiphase flowmeters (Tool type: Flowmeters)
+- Oil drilling pipes (Tool type: Drill pipe)
+- Oil rig crown blocks (Tool type: Crown blocks)
+- Oil well blowout preventers (Tool type: Blowout preventers)
+- Personal computers (Tool type: Personal computers)
+- Pipe covering blind flanges (Tool type: Carbon steel pipe spectacle blind flange)
+- Pipe slips (Tool type: Drilling casings)
+- Portable air compressors (Tool type: Air compressors)
+- Power wrenches (Tool type: Impact wrenches)
+- Pressure recorders (Tool type: Pressure indicators)
+- Protective harnesses (Tool type: Safety harnesses or belts)
+- Protective safety glasses (Tool type: Safety glasses)
+- Reflective vests (Tool type: Safety vests)
+- Rig diesel engines (Tool type: Diesel engines)
+- Rotary drilling rigs (Tool type: Rotary drills)
+- Silicon controlled rectifiers SCR (Tool type: Electric rotary converters)
+- Slush pumps (Tool type: Mud pumps)
+- Spacer spools (Tool type: Casing head spool)
+- Stuck pipe tools (Tool type: Pipe handling equipment)
+- Traveling blocks (Tool type: Blocks or pulleys)
+- Truck mounted derricks (Tool type: Derricks)
+- Well cementing units (Tool type: Oilfield cementing tools)
+- Well drill bits (Tool type: Industrial drill bits)
+- Well packers (Tool type: Packers or tubing anchors)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Extremely important
+- Deal With External Customers or the Public in General: Important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a week or more but not every day
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Never
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Once a month or more but not every week
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Every day
+- Exposed to Hazardous Conditions: Every day
+- Exposed to Hazardous Equipment: Every day
+- Exposed to High Places: Every day
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Every day
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Every day
+- Exposed to Whole Body Vibration: Every day
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Extremely important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Every day
+- Indoors, Environmentally Controlled: Never
+- Indoors, Not Environmentally Controlled: Every day
+- Level of Competition: Extremely competitive
+- Outdoors, Exposed to All Weather Conditions: Every day
+- Outdoors, Under Cover: Every day
+- Pace Determined by Speed of Equipment: Extremely important
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: More than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Less than half the time
+- Spend Time Keeping or Regaining Balance: Less than half the time
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Continually or almost continually
+- Spend Time Sitting: Never
+- Spend Time Standing: Continually or almost continually
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Once a week or more but not every day
+- Time Pressure: Once a week or more but not every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Once a week or more but not every day
+- Work Outcomes and Results of Other Workers: Very high responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a week or more but not every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Earth Drillers, Except Oil and Gas
+- Helpers--Extraction Workers
+- Service Unit Operators, Oil and Gas
+- Roustabouts, Oil and Gas
+- Wellhead Pumpers
+- Derrick Operators, Oil and Gas
+- Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Continuous Mining Machine Operators
+- Dredge Operators
+- Petroleum Pump System Operators, Refinery Operators, and Gaugers
+- Maintenance Workers, Machinery
+- Excavating and Loading Machine and Dragline Operators, Surface Mining
+- Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders
+- Operating Engineers and Other Construction Equipment Operators
+- Tool Grinders, Filers, and Sharpeners
+- Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+- Hoist and Winch Operators
+- Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+- Rock Splitters, Quarry
+- Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic

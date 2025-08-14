@@ -1,0 +1,393 @@
+Job Title: Electrical Engineers
+O*NET-SOC Code: 17-2071.00
+
+# DESCRIPTION
+Research, design, develop, test, or supervise the manufacturing and installation of electrical equipment, components, or systems for commercial, industrial, military, or scientific use.
+
+# TASKS
+- Design, implement, maintain, or improve electrical instruments, equipment, facilities, components, products, or systems for commercial, industrial, or domestic purposes.
+- Oversee project production efforts to assure projects are completed on time and within budget.
+- Direct or coordinate manufacturing, construction, installation, maintenance, support, documentation, or testing activities to ensure compliance with specifications, codes, or customer requirements.
+- Perform detailed calculations to compute and establish manufacturing, construction, or installation standards or specifications.
+- Operate computer-assisted engineering or design software or equipment to perform engineering tasks.
+- Confer with engineers, customers, or others to discuss existing or potential engineering projects or products.
+- Investigate or test vendors' or competitors' products.
+- Inspect completed installations and observe operations to ensure conformance to design and equipment specifications and compliance with operational, safety, or environmental standards.
+- Investigate customer or public complaints to determine the nature and extent of problems.
+- Prepare technical drawings, specifications of electrical systems, or topographical maps to ensure that installation and operations conform to standards and customer requirements.
+- Compile data and write reports regarding existing or potential electrical engineering studies or projects.
+- Prepare specifications for purchases of materials or equipment.
+- Estimate labor, material, or construction costs for budget preparation purposes.
+- Plan or implement research methodology or procedures to apply principles of electrical theory to engineering projects.
+- Supervise or train project team members, as necessary.
+- Assist in developing capital project programs for new equipment or major repairs.
+- Collect data relating to commercial or residential development, population, or power system interconnection to determine operating efficiency of electrical systems.
+- Develop systems that produce electricity with renewable energy sources, such as wind, solar, or biofuels.
+- Develop software to control electrical systems.
+- Integrate electrical systems with renewable energy systems to improve overall efficiency.
+- Conduct field surveys or study maps, graphs, diagrams, or other data to identify and correct power system problems.
+- Design electrical systems or components that minimize electric energy requirements, such as lighting systems designed to account for natural lighting.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Engineering and Technology (Importance: 4.74/5 | Level: 6.04/7)
+- Computers and Electronics (Importance: 4.67/5 | Level: 6.01/7)
+- Design (Importance: 4.11/5 | Level: 5.36/7)
+- English Language (Importance: 3.77/5 | Level: 4.33/7)
+- Mathematics (Importance: 3.72/5 | Level: 5.01/7)
+- Physics (Importance: 3.58/5 | Level: 4.45/7)
+- Production and Processing (Importance: 3.25/5 | Level: 3.88/7)
+- Mechanical (Importance: 3.19/5 | Level: 3.76/7)
+- Public Safety and Security (Importance: 3.18/5 | Level: 3.37/7)
+- Customer and Personal Service (Importance: 3.1/5 | Level: 3.41/7)
+- Administrative (Importance: 2.9/5 | Level: 3.29/7)
+- Administration and Management (Importance: 2.89/5 | Level: 3.63/7)
+- Education and Training (Importance: 2.87/5 | Level: 3.57/7)
+- Telecommunications (Importance: 2.61/5 | Level: 2.94/7)
+- Communications and Media (Importance: 2.42/5 | Level: 2.18/7)
+- Law and Government (Importance: 2.37/5 | Level: 2.19/7)
+- Chemistry (Importance: 2.36/5 | Level: 2.63/7)
+- Economics and Accounting (Importance: 2.31/5 | Level: 2.15/7)
+- Building and Construction (Importance: 2.3/5 | Level: 2.61/7)
+- Personnel and Human Resources (Importance: 2.29/5 | Level: 2.74/7)
+- Sales and Marketing (Importance: 2.2/5 | Level: 2.19/7)
+- Transportation (Importance: 2.12/5 | Level: 2.04/7)
+- Geography (Importance: 1.8/5 | Level: 2.04/7)
+- Psychology (Importance: 1.75/5 | Level: 1.51/7)
+- Foreign Language (Importance: 1.56/5 | Level: 1.04/7)
+- Sociology and Anthropology (Importance: 1.42/5 | Level: 0.92/7)
+- Philosophy and Theology (Importance: 1.37/5 | Level: 1.0/7)
+- Food Production (Importance: 1.33/5 | Level: 0.46/7)
+- History and Archeology (Importance: 1.3/5 | Level: 0.69/7)
+- Medicine and Dentistry (Importance: 1.29/5 | Level: 0.48/7)
+- Therapy and Counseling (Importance: 1.28/5 | Level: 0.4/7)
+- Biology (Importance: 1.15/5 | Level: 0.37/7)
+- Fine Arts (Importance: 1.1/5 | Level: 0.0/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Writing (Importance: 4.12/5 | Level: 4.25/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.38/7)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.12/7)
+- Active Listening (Importance: 3.88/5 | Level: 4.12/7)
+- Speaking (Importance: 3.88/5 | Level: 4.25/7)
+- Active Learning (Importance: 3.88/5 | Level: 3.88/7)
+- Complex Problem Solving (Importance: 3.88/5 | Level: 4.0/7)
+- Monitoring (Importance: 3.5/5 | Level: 3.88/7)
+- Mathematics (Importance: 3.38/5 | Level: 4.12/7)
+- Judgment and Decision Making (Importance: 3.25/5 | Level: 3.38/7)
+- Systems Evaluation (Importance: 3.25/5 | Level: 3.62/7)
+- Systems Analysis (Importance: 3.25/5 | Level: 3.38/7)
+- Coordination (Importance: 3.25/5 | Level: 3.25/7)
+- Operations Analysis (Importance: 3.12/5 | Level: 3.25/7)
+- Quality Control Analysis (Importance: 3.0/5 | Level: 3.12/7)
+- Instructing (Importance: 3.0/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 3.0/7)
+- Science (Importance: 3.0/5 | Level: 3.62/7)
+- Management of Personnel Resources (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 3.12/7)
+- Persuasion (Importance: 2.88/5 | Level: 3.0/7)
+- Operations Monitoring (Importance: 2.88/5 | Level: 3.12/7)
+- Negotiation (Importance: 2.75/5 | Level: 2.88/7)
+- Service Orientation (Importance: 2.75/5 | Level: 2.75/7)
+- Troubleshooting (Importance: 2.75/5 | Level: 2.75/7)
+- Management of Financial Resources (Importance: 2.38/5 | Level: 2.62/7)
+- Technology Design (Importance: 2.25/5 | Level: 2.0/7)
+- Management of Material Resources (Importance: 2.25/5 | Level: 2.5/7)
+- Equipment Selection (Importance: 2.12/5 | Level: 2.12/7)
+- Programming (Importance: 2.12/5 | Level: 1.38/7)
+- Repairing (Importance: 2.0/5 | Level: 2.0/7)
+- Equipment Maintenance (Importance: 2.0/5 | Level: 1.75/7)
+- Operation and Control (Importance: 1.38/5 | Level: 0.38/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Ada (Tech skill type: Development environment software)
+- Advanced boolean expression language ABEL (Tech skill type: Development environment software)
+- Altera hardware description language AHDL (Tech skill type: Development environment software)
+- Apache Subversion SVN (Tech skill type: File versioning software)
+- APLAC (Tech skill type: Analytical or scientific software)
+- ATD protocol (Tech skill type: WAN switching software and firmware)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Autodesk AutoCAD Civil 3D (Tech skill type: Computer aided design CAD software)
+- Autodesk Revit (Tech skill type: Computer aided design CAD software)
+- Automated material handling software (Tech skill type: Analytical or scientific software)
+- Availability prediction modeling software (Tech skill type: Analytical or scientific software)
+- AVEVA InTouch HMI (Tech skill type: Industrial control software)
+- Bash (Tech skill type: Operating system software)
+- Bentley MicroStation (Tech skill type: Computer aided design CAD software)
+- C (Tech skill type: Development environment software)
+- C# (Tech skill type: Object or component oriented development software)
+- C++ (Tech skill type: Object or component oriented development software)
+- Cadence Allegro Design Entry Capture and Capture CIS (Tech skill type: Computer aided design CAD software)
+- Cadence Encounter Test (Tech skill type: Computer aided design CAD software)
+- Chip design software (Tech skill type: Computer aided design CAD software)
+- Circuit simulation software (Tech skill type: Analytical or scientific software)
+- Computer aided design and drafting CADD software (Tech skill type: Computer aided design CAD software)
+- Computer aided design and drafting software CADD (Tech skill type: Computer aided design CAD software)
+- Computer aided design CAD software (Tech skill type: Computer aided design CAD software)
+- Computer aided manufacturing CAM software (Tech skill type: Computer aided manufacturing CAM software)
+- Dassault Systemes CATIA (Tech skill type: Computer aided design CAD software)
+- Dassault Systemes SolidWorks (Tech skill type: Computer aided design CAD software)
+- Debugging software (Tech skill type: Program testing software)
+- Defect tracking software (Tech skill type: Program testing software)
+- Digital timing diagram editing software (Tech skill type: Analytical or scientific software)
+- Dynamic object-oriented requirements system DOORS (Tech skill type: Analytical or scientific software)
+- Eclipse IDE (Tech skill type: Development environment software)
+- Electromagnetic analysis software (Tech skill type: Analytical or scientific software)
+- Electronic design automation EDA software (Tech skill type: Computer aided design CAD software)
+- Electronic engineering calculator (Tech skill type: Analytical or scientific software)
+- Embedded systems testing software (Tech skill type: Analytical or scientific software)
+- ESRI ArcGIS software (Tech skill type: Geographic information system)
+- ETAP (Tech skill type: Geographic information system)
+- Failure mode and effects analysis FMEA software (Tech skill type: Analytical or scientific software)
+- Failure mode effects and criticality analysis FMECA software (Tech skill type: Analytical or scientific software)
+- Failure reporting analysis and corrective action FRACAS software (Tech skill type: Analytical or scientific software)
+- Fault modeling software (Tech skill type: Analytical or scientific software)
+- Fault tree analysis FTA software (Tech skill type: Analytical or scientific software)
+- Field programmable gate array FPGA design software (Tech skill type: Computer aided design CAD software)
+- Finite difference time domain FDTD software (Tech skill type: Analytical or scientific software)
+- Finite element method FEM software (Tech skill type: Analytical or scientific software)
+- Floor planning software (Tech skill type: Computer aided design CAD software)
+- Functional verification software (Tech skill type: Analytical or scientific software)
+- Hardware description language HDL (Tech skill type: Development environment software)
+- Hewlett-Packard HP Semiconductor Parameter Analyzer (Tech skill type: Analytical or scientific software)
+- IBM Notes (Tech skill type: Electronic mail software)
+- Integrated development environment IDE software (Tech skill type: Development environment software)
+- Isograph Markov (Tech skill type: Analytical or scientific software)
+- JHDL (Tech skill type: Object or component oriented development software)
+- Keysight Technologies Advanced Design System (Tech skill type: Computer aided design CAD software)
+- Life cycle cost software (Tech skill type: Analytical or scientific software)
+- Linux (Tech skill type: Operating system software)
+- Logic synthesis software (Tech skill type: Analytical or scientific software)
+- MAGIC (Tech skill type: Computer aided design CAD software)
+- MathWorks Simulink (Tech skill type: Analytical or scientific software)
+- Matrix calculation software (Tech skill type: Analytical or scientific software)
+- Mean time between failures MBTF software (Tech skill type: Analytical or scientific software)
+- Mean time to failure MTTF software (Tech skill type: Analytical or scientific software)
+- Mentor Graphics software (Tech skill type: Computer aided design CAD software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft OneNote (Tech skill type: Word processing software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft SQL Server (Tech skill type: Data base user interface and query software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Visual Basic (Tech skill type: Development environment software)
+- Microsoft Visual Basic for Applications VBA (Tech skill type: Development environment software)
+- Microsoft Visual Basic Scripting Edition VBScript (Tech skill type: Development environment software)
+- Microsoft Visual Studio (Tech skill type: Development environment software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Windows Server (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Microwave circuit simulation software (Tech skill type: Analytical or scientific software)
+- Minitab (Tech skill type: Analytical or scientific software)
+- National Instruments LabVIEW (Tech skill type: Development environment software)
+- Optimization software (Tech skill type: Analytical or scientific software)
+- Oracle E-Business Suite Financials (Tech skill type: Financial analysis software)
+- Oracle Primavera Enterprise Project Portfolio Management (Tech skill type: Project management software)
+- OrCAD Capture (Tech skill type: Computer aided design CAD software)
+- Perforce Helix software (Tech skill type: Configuration management software)
+- Perl (Tech skill type: Object or component oriented development software)
+- Physical design software (Tech skill type: Computer aided design CAD software)
+- Power analysis software (Tech skill type: Analytical or scientific software)
+- Powersim PSIM (Tech skill type: Analytical or scientific software)
+- Printed circuit board design software (Tech skill type: Computer aided design CAD software)
+- Programmable logic controller PLC code generation software (Tech skill type: Development environment software)
+- Programmable logic controller PLC software (Tech skill type: Industrial control software)
+- PTC Creo Parametric (Tech skill type: Computer aided design CAD software)
+- Python (Tech skill type: Object or component oriented development software)
+- Rapid prototyping software (Tech skill type: Computer aided manufacturing CAM software)
+- Reliability analysis software (Tech skill type: Analytical or scientific software)
+- ReliaSoft Weibull++ 6 (Tech skill type: Analytical or scientific software)
+- Requirements management software (Tech skill type: Requirements analysis and system architecture software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Schematic design entry software (Tech skill type: Computer aided design CAD software)
+- Shell script (Tech skill type: Operating system software)
+- Siemens ModelSim (Tech skill type: Analytical or scientific software)
+- Signal integrity simulation software (Tech skill type: Analytical or scientific software)
+- Simulation program with integrated circuit emphasis SPICE (Tech skill type: Analytical or scientific software)
+- SKM Systems Analysis Power Tools (Tech skill type: Analytical or scientific software)
+- SmugMug Flickr (Tech skill type: Graphics or photo imaging software)
+- Sun Microsystems Java (Tech skill type: Object or component oriented development software)
+- Supervisory control and data acquisition SCADA software (Tech skill type: Industrial control software)
+- Synopsys Design Compiler (Tech skill type: Analytical or scientific software)
+- Synopsys PrimeTime (Tech skill type: Analytical or scientific software)
+- Systems analysis programs for hands on integrated reliability evaluation software SAPHIRE (Tech skill type: Analytical or scientific software)
+- Tektronix EZ-TEST (Tech skill type: Analytical or scientific software)
+- Test automation software (Tech skill type: Analytical or scientific software)
+- The MathWorks MATLAB (Tech skill type: Analytical or scientific software)
+- Time and motion analysis software (Tech skill type: Analytical or scientific software)
+- Unified modeling language UML (Tech skill type: Requirements analysis and system architecture software)
+- UNIX (Tech skill type: Operating system software)
+- Verilog (Tech skill type: Development environment software)
+- Very high-speed integrated circuit VHSIC hardware description language VHDL (Tech skill type: Development environment software)
+- X.25 Protocol (Tech skill type: WAN switching software and firmware)
+- Zuken E3.schematic (Tech skill type: Computer aided design CAD software)
+
+## TOOLS USED
+- Accelerometers (Tool type: Accelerometers)
+- Annealing furnaces (Tool type: Laboratory safety furnaces)
+- Atomic force microscopes (Tool type: Scanning probe microscopes)
+- Auger electron spectrometers (Tool type: Spectrometers)
+- Computer servers (Tool type: Computer servers)
+- Cylindrical corona testers (Tool type: Corona treaters)
+- Diffractometers (Tool type: Diffractometers)
+- Diffusion furnaces (Tool type: Laboratory safety furnaces)
+- Digital oscilloscopes (Tool type: Oscilloscopes)
+- Digital video cameras (Tool type: Digital camcorders or video cameras)
+- Digital voltmeters DVM (Tool type: Voltage or current meters)
+- Doping tubes (Tool type: Tube furnaces)
+- Electrical flow meters (Tool type: Flow sensors)
+- Electrochemical CV dopant profilers (Tool type: Spectrometers)
+- Electrochemical etching devices (Tool type: Metal markers or holders)
+- Electron beam evaporators (Tool type: Semiconductor process systems)
+- Ellipsometers (Tool type: Thickness measuring devices)
+- Filament evaporators (Tool type: Laboratory evaporators)
+- Fog chambers (Tool type: Semiconductor process systems)
+- Frequency counters (Tool type: Frequency counters or timer or dividers)
+- Frequency drives (Tool type: Frequency calibrator or simulator)
+- Glove box systems (Tool type: Isolation glove boxes)
+- Imaging spectrographs (Tool type: Spectrographs)
+- Inductance capacitance resistance LCR meters (Tool type: Capacitance meters)
+- Laptop computers (Tool type: Notebook computers)
+- Laser printers (Tool type: Laser printers)
+- Laser ranging systems (Tool type: Laser measuring systems)
+- Linearization testbeds (Tool type: Semiconductor process systems)
+- Low pressure chemical vapor deposition LPCVD systems (Tool type: Semiconductor process systems)
+- Metal evaporation systems (Tool type: Laboratory evaporators)
+- Microbalances (Tool type: Laboratory balances)
+- Microwave automatic load-pull tuners (Tool type: Microwave core equipment)
+- Microwave power meters (Tool type: Power meters)
+- Mixed signal oscilloscopes (Tool type: Oscilloscopes)
+- Molecular beam epitaxy MBE systems (Tool type: Semiconductor process systems)
+- Multimeters (Tool type: Multimeters)
+- Network analyzers (Tool type: Network analyzers)
+- Noise figure meters (Tool type: Electrical frequency meters)
+- Oxidation furnaces (Tool type: Laboratory safety furnaces)
+- Oxidation tubes (Tool type: Tube furnaces)
+- Parameter analyzers (Tool type: Electronic measuring probes)
+- Pattern generator systems (Tool type: Transistor transistor logic TTL)
+- Personal computers (Tool type: Personal computers)
+- Photolithography equipment (Tool type: Semiconductor process systems)
+- Photoluminescence spectrometers (Tool type: Spectrometers)
+- Plasma ashers (Tool type: Semiconductor process systems)
+- Plasma reactors (Tool type: Reactors)
+- Plotters (Tool type: Plotter printers)
+- Profilometers (Tool type: Surface testers)
+- Programmable function generators (Tool type: Signal generators)
+- Pulse generators (Tool type: Level generators)
+- Pulsed current-voltage IV analyzer (Tool type: Voltage or current meters)
+- Pyrometers (Tool type: Pyrometers)
+- Rapid thermal annealers RTA (Tool type: Temperature cycling chambers or thermal cyclers)
+- Reactive ion etch systems (Tool type: Ion implantation equipment)
+- Sampling oscilloscopes (Tool type: Oscilloscopes)
+- Scanning electron microscopes SEM (Tool type: Scanning electron microscopes)
+- Scanning tunneling microscopes STM (Tool type: Scanning probe microscopes)
+- Secondary ion mass spectrometers SIMS (Tool type: Spectrometers)
+- Signal analyzers (Tool type: Frequency calibrator or simulator)
+- Signal generators (Tool type: Signal generators)
+- Spectrometers (Tool type: Spectrometers)
+- Spectrum analyzers (Tool type: Frequency analyzers)
+- Spin-coaters (Tool type: Semiconductor process systems)
+- Spinners (Tool type: Magnetic spin bars or stir bars or stirring beads)
+- Sweep oscillators (Tool type: Oscillographs)
+- Synthesized continuous wave CW generators (Tool type: Signal generators)
+- Thermocouples (Tool type: Thermocouples)
+- Tube etchers (Tool type: Semiconductor process systems)
+- Tube furnaces (Tool type: Tube furnaces)
+- Universal microwave transistor test fixtures (Tool type: Transistor circuit testers)
+- Vacuum chambers (Tool type: Semiconductor process systems)
+- Vacuum system/thermal evaporators (Tool type: Laboratory evaporators)
+- Vector signal generators (Tool type: Signal generators)
+- Vertical furnaces (Tool type: Tube furnaces)
+- Wafer steppers (Tool type: Semiconductor process systems)
+- Wet chemical clean benches (Tool type: Semiconductor process systems)
+- Wire bonders (Tool type: Semiconductor process systems)
+- X ray guns (Tool type: X ray generators)
+- X ray photoemission spectrometers (Tool type: Spectrometers)
+
+# WORK CONTEXT
+- Conflict Situations: Once a month or more but not every week
+- Consequence of Error: Fairly serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a month or more but not every week
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Once a month or more but not every week
+- Exposed to Very Hot or Cold Temperatures: Once a year or more but not every month
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Limited responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Very important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Once a year or more but not every month
+- Level of Competition: Highly competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: I work with others but not closely (e.g., private office)
+- Public Speaking: Once a year or more but not every month
+- Spend Time Bending or Twisting Your Body: Never
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: About half the time
+- Spend Time Sitting: More than half the time
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Less than half the time
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Once a week or more but not every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: High responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Never
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Investigative
+- Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Electronics Engineers, Except Computer
+- Electrical and Electronic Engineering Technologists and Technicians
+- Mechanical Engineers
+- Electrical and Electronics Repairers, Commercial and Industrial Equipment
+- Mechanical Engineering Technologists and Technicians
+- Mechatronics Engineers
+- Industrial Engineers
+- Electrical and Electronics Repairers, Powerhouse, Substation, and Relay
+- Solar Energy Systems Engineers
+- Microsystems Engineers
+- Power Distributors and Dispatchers
+- Electrical and Electronics Installers and Repairers, Transportation Equipment
+- Calibration Technologists and Technicians
+- Robotics Technicians
+- Industrial Engineering Technologists and Technicians
+- Manufacturing Engineers
+- Aerospace Engineering and Operations Technologists and Technicians
+- Electrical and Electronics Drafters
+- Automotive Engineers
+- Electrical and Electronic Equipment Assemblers

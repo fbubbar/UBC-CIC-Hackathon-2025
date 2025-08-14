@@ -1,0 +1,264 @@
+Job Title: Fallers
+O*NET-SOC Code: 45-4021.00
+
+# DESCRIPTION
+Use axes or chainsaws to fell trees using knowledge of tree characteristics and cutting techniques to control direction of fall and minimize tree damage.
+
+# TASKS
+- Stop saw engines, pull cutting bars from cuts, and run to safety as tree falls.
+- Appraise trees for certain characteristics, such as twist, rot, and heavy limb growth, and gauge amount and direction of lean, to determine how to control the direction of a tree's fall with the least damage.
+- Saw back-cuts, leaving sufficient sound wood to control direction of fall.
+- Clear brush from work areas and escape routes, and cut saplings and other trees from direction of falls, using axes, chainsaws, or bulldozers.
+- Measure felled trees and cut them into specified log lengths, using chain saws and axes.
+- Assess logs after cutting to ensure that the quality and length are correct.
+- Determine position, direction, and depth of cuts to be made, and placement of wedges or jacks.
+- Control the direction of a tree's fall by scoring cutting lines with axes, sawing undercuts along scored lines with chainsaws, knocking slabs from cuts with single-bit axes, and driving wedges.
+- Trim off the tops and limbs of trees, using chainsaws, delimbers, or axes.
+- Select trees to be cut down, assessing factors such as site, terrain, and weather conditions before beginning work.
+- Maintain and repair chainsaws and other equipment, cleaning, oiling, and greasing equipment, and sharpening equipment properly.
+- Insert jacks or drive wedges behind saws to prevent binding of saws and to start trees falling.
+- Tag unsafe trees with high-visibility ribbons.
+- Secure steel cables or chains to logs for dragging by tractors or for pulling by cable yarding systems.
+- Load logs or wood onto trucks, trailers, or railroad cars, by hand or using loaders or winches.
+- Mark logs for identification.
+- Work as a member of a team, rotating between chain saw operation and skidder operation.
+- Place supporting limbs or poles under felled trees to avoid splitting undersides, and to prevent logs from rolling.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mechanical (Importance: 2.86/5 | Level: 3.56/7)
+- Production and Processing (Importance: 2.73/5 | Level: 2.7/7)
+- Administration and Management (Importance: 2.5/5 | Level: 1.96/7)
+- Public Safety and Security (Importance: 2.43/5 | Level: 1.71/7)
+- Customer and Personal Service (Importance: 2.35/5 | Level: 1.89/7)
+- Mathematics (Importance: 2.23/5 | Level: 1.35/7)
+- Economics and Accounting (Importance: 2.18/5 | Level: 1.05/7)
+- Law and Government (Importance: 2.1/5 | Level: 1.45/7)
+- Education and Training (Importance: 2.07/5 | Level: 2.06/7)
+- Engineering and Technology (Importance: 2.07/5 | Level: 1.24/7)
+- Transportation (Importance: 2.07/5 | Level: 1.46/7)
+- Physics (Importance: 1.86/5 | Level: 0.73/7)
+- Design (Importance: 1.84/5 | Level: 0.96/7)
+- Biology (Importance: 1.83/5 | Level: 1.31/7)
+- Geography (Importance: 1.81/5 | Level: 1.41/7)
+- Chemistry (Importance: 1.63/5 | Level: 0.7/7)
+- English Language (Importance: 1.62/5 | Level: 0.74/7)
+- Communications and Media (Importance: 1.61/5 | Level: 0.93/7)
+- Administrative (Importance: 1.6/5 | Level: 0.71/7)
+- Sales and Marketing (Importance: 1.6/5 | Level: 0.59/7)
+- Medicine and Dentistry (Importance: 1.54/5 | Level: 0.8/7)
+- Personnel and Human Resources (Importance: 1.53/5 | Level: 0.51/7)
+- Psychology (Importance: 1.52/5 | Level: 0.54/7)
+- Food Production (Importance: 1.43/5 | Level: 0.44/7)
+- Sociology and Anthropology (Importance: 1.38/5 | Level: 0.47/7)
+- Therapy and Counseling (Importance: 1.37/5 | Level: 0.48/7)
+- Foreign Language (Importance: 1.36/5 | Level: 0.63/7)
+- Philosophy and Theology (Importance: 1.35/5 | Level: 0.48/7)
+- Computers and Electronics (Importance: 1.21/5 | Level: 0.32/7)
+- Telecommunications (Importance: 1.18/5 | Level: 0.18/7)
+- Building and Construction (Importance: 1.17/5 | Level: 0.26/7)
+- History and Archeology (Importance: 1.03/5 | Level: 0.07/7)
+- Fine Arts (Importance: 1.0/5 | Level: 0.0/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operation and Control (Importance: 3.38/5 | Level: 2.88/7)
+- Monitoring (Importance: 3.25/5 | Level: 2.75/7)
+- Critical Thinking (Importance: 3.25/5 | Level: 3.0/7)
+- Operations Monitoring (Importance: 3.25/5 | Level: 2.5/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 2.62/7)
+- Equipment Maintenance (Importance: 2.88/5 | Level: 2.5/7)
+- Active Listening (Importance: 2.88/5 | Level: 2.38/7)
+- Troubleshooting (Importance: 2.75/5 | Level: 2.5/7)
+- Repairing (Importance: 2.75/5 | Level: 2.25/7)
+- Complex Problem Solving (Importance: 2.62/5 | Level: 2.5/7)
+- Equipment Selection (Importance: 2.62/5 | Level: 2.38/7)
+- Speaking (Importance: 2.62/5 | Level: 2.38/7)
+- Quality Control Analysis (Importance: 2.62/5 | Level: 2.5/7)
+- Coordination (Importance: 2.5/5 | Level: 2.88/7)
+- Time Management (Importance: 2.5/5 | Level: 2.12/7)
+- Active Learning (Importance: 2.38/5 | Level: 2.0/7)
+- Mathematics (Importance: 2.38/5 | Level: 1.5/7)
+- Persuasion (Importance: 2.25/5 | Level: 2.12/7)
+- Social Perceptiveness (Importance: 2.25/5 | Level: 1.88/7)
+- Service Orientation (Importance: 2.12/5 | Level: 1.25/7)
+- Operations Analysis (Importance: 2.12/5 | Level: 1.38/7)
+- Negotiation (Importance: 2.0/5 | Level: 1.75/7)
+- Management of Personnel Resources (Importance: 2.0/5 | Level: 1.5/7)
+- Instructing (Importance: 2.0/5 | Level: 1.5/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 1.12/7)
+- Reading Comprehension (Importance: 2.0/5 | Level: 1.75/7)
+- Writing (Importance: 1.88/5 | Level: 1.25/7)
+- Management of Financial Resources (Importance: 1.88/5 | Level: 1.0/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.0/7)
+- Science (Importance: 1.75/5 | Level: 1.25/7)
+- Learning Strategies (Importance: 1.38/5 | Level: 0.75/7)
+- Systems Analysis (Importance: 1.12/5 | Level: 0.12/7)
+- Technology Design (Importance: 1.0/5 | Level: 0.0/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Assisi Compiler (Tech skill type: Analytical or scientific software)
+- Assisi Software Assisi Inventory (Tech skill type: Inventory management software)
+- Assisi Software Assisi Manager (Tech skill type: Data base user interface and query software)
+- Assisi Software Assisi Resource (Tech skill type: Analytical or scientific software)
+- BCS Woodlands Software The Logger Tracker (Tech skill type: Accounting software)
+- BCS Woodlands Software Woodlands Tracker (Tech skill type: Enterprise resource planning ERP software)
+- ESRI ArcView (Tech skill type: Geographic information system)
+- Geographic information system GIS systems (Tech skill type: Geographic information system)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+
+## TOOLS USED
+- All terrain vehicles ATV (Tool type: All terrain vehicles tracked or wheeled)
+- Auger bits (Tool type: Wood auger bit)
+- Boom boats (Tool type: Tug boats)
+- Caulk boots (Tool type: Safety boots)
+- Chain flail delimbers (Tool type: Lumbering equipment)
+- Chain saw chaps (Tool type: Protective pants)
+- Chain saws (Tool type: Power saws)
+- Climbing belts (Tool type: Safety harnesses or belts)
+- Combi cans (Tool type: Air or gas tanks or cylinders)
+- Debarking tools (Tool type: Lumbering equipment)
+- Diameter tape measures (Tool type: Tape measures)
+- Digital tachometers (Tool type: Tachometers)
+- Emergency first aid kits (Tool type: Mobile medical services first aid kits)
+- Feller bunchers (Tool type: Lumbering equipment)
+- Felling axes (Tool type: Lumbering equipment)
+- Felling wedges (Tool type: Wedges)
+- File sharpeners (Tool type: Sharpening stones or tools or kits)
+- Flat files (Tool type: Flat hand file)
+- Forestry helicopters (Tool type: Agricultural helicopters)
+- Forwarder cranes (Tool type: Conventional truck cranes)
+- Frequency modulation FM two way radios (Tool type: Two way radios)
+- Gas cans (Tool type: Air or gas tanks or cylinders)
+- Global positioning system GPS receivers (Tool type: Global positioning system GPS receiver)
+- Grapple yarders (Tool type: Lumbering equipment)
+- Guylines (Tool type: Lifting cables)
+- Hand winches (Tool type: Winches)
+- Haulback lines (Tool type: Lifting cables)
+- Hydraulic jacks (Tool type: Jacks)
+- Impact resonance devices (Tool type: Ultrasonic examination equipment)
+- Knuckleboom loaders (Tool type: Track loaders)
+- Laptop computers (Tool type: Notebook computers)
+- Log skidders (Tool type: Forestry skidders)
+- Logging boats (Tool type: Salvage ships)
+- Logging tractors (Tool type: Agricultural tractors)
+- Logging trucks (Tool type: Cargo trucks)
+- Mechanical tree harvesters (Tool type: Harvesters)
+- Personal computers (Tool type: Personal computers)
+- Pocket calculators (Tool type: Pocket calculator)
+- Portable dry chemical fire extinguishers (Tool type: Fire extinguishers)
+- Protective ear muffs (Tool type: Acoustic ear muffs or defenders)
+- Protective hard hats (Tool type: Hard hats)
+- Protective safety glasses (Tool type: Safety glasses)
+- Pullthrough delimbers (Tool type: Lumbering equipment)
+- Remote detonation systems (Tool type: Detonators)
+- Resistographs (Tool type: Forestry increment borers)
+- Round files (Tool type: Round file)
+- Rubber tire skidders (Tool type: Forestry skidders)
+- Screnches (Tool type: Specialty wrenches)
+- Self-loading log transporters (Tool type: Lumbering equipment)
+- Sharpening jigs (Tool type: Positioning jig)
+- Skidding lines (Tool type: Lifting cables)
+- Skylines (Tool type: Lifting cables)
+- Snow shovels (Tool type: Shovels)
+- Sonic devices (Tool type: Ultrasonic examination equipment)
+- Strawlines (Tool type: Lifting cables)
+- Stroke delimbers (Tool type: Lumbering equipment)
+- Tablet computers (Tool type: Tablet computers)
+- Timber tongs (Tool type: Grapples)
+- Tower yarders (Tool type: Lumbering equipment)
+- Tree climbing spikes (Tool type: Safety shoes)
+- Tuning screwdrivers (Tool type: Screwdrivers)
+- Warning whistles (Tool type: Safety horns)
+- Wide track bulldozers (Tool type: Track bulldozers)
+- Wood chippers (Tool type: Power chippers)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Extremely serious
+- Contact With Others: Occasional contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Fairly important
+- Deal With External Customers or the Public in General: Not important at all
+- Dealing With Unpleasant, Angry, or Discourteous People: Never
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Never
+- Exposed to Contaminants: Every day
+- Exposed to Cramped Work Space, Awkward Positions: Once a week or more but not every day
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Every day
+- Exposed to High Places: Once a year or more but not every month
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Every day
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Every day
+- Exposed to Very Hot or Cold Temperatures: Once a month or more but not every week
+- Exposed to Whole Body Vibration: Every day
+- Face-to-Face Discussions with Individuals and Within Teams: Once a week or more but not every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: High responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Very important
+- Importance of Repeating Same Tasks: Not important at all
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Never
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Highly competitive
+- Outdoors, Exposed to All Weather Conditions: Every day
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: I don't work near other people (beyond 100 ft.)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: More than half the time
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: More than half the time
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: About half the time
+- Spend Time Making Repetitive Motions: Continually or almost continually
+- Spend Time Sitting: Less than half the time
+- Spend Time Standing: Continually or almost continually
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Continually or almost continually
+- Spend Time Walking or Running: More than half the time
+- Telephone Conversations: Once a week or more but not every day
+- Time Pressure: Never
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Limited responsibility
+- Work With or Contribute to a Work Group or Team: Very important
+- Written Letters and Memos: Never
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Tree Trimmers and Pruners
+- Logging Equipment Operators
+- Log Graders and Scalers
+- Forest and Conservation Workers
+- Landscaping and Groundskeeping Workers
+- Sawing Machine Setters, Operators, and Tenders, Wood
+- Farmworkers and Laborers, Crop, Nursery, and Greenhouse
+- Rock Splitters, Quarry
+- Forest and Conservation Technicians
+- Agricultural Equipment Operators
+- Foresters
+- Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+- Operating Engineers and Other Construction Equipment Operators
+- First-Line Supervisors of Farming, Fishing, and Forestry Workers
+- Helpers--Extraction Workers
+- Riggers
+- Carpenters
+- Hoist and Winch Operators
+- Earth Drillers, Except Oil and Gas
+- Rail-Track Laying and Maintenance Equipment Operators

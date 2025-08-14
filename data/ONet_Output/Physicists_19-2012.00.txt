@@ -1,0 +1,374 @@
+Job Title: Physicists
+O*NET-SOC Code: 19-2012.00
+
+# DESCRIPTION
+Conduct research into physical phenomena, develop theories on the basis of observation and experiments, and devise methods to apply physical laws and theories.
+
+# TASKS
+- Perform complex calculations as part of the analysis and evaluation of data, using computers.
+- Analyze data from research conducted to detect and measure physical phenomena.
+- Describe and express observations and conclusions in mathematical terms.
+- Design computer simulations to model physical data so that it can be better understood.
+- Write research proposals to receive funding.
+- Teach physics to students.
+- Report experimental results by writing papers for scientific journals or by presenting information at scientific conferences.
+- Observe the structure and properties of matter, and the transformation and propagation of energy, using equipment such as masers, lasers, and telescopes, to explore and identify the basic principles governing these phenomena.
+- Develop theories and laws on the basis of observation and experiments, and apply these theories and laws to problems in areas such as nuclear energy, optics, and aerospace technology.
+- Collaborate with other scientists in the design, development, and testing of experimental, industrial, or medical equipment, instrumentation, and procedures.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Physics (Importance: 4.92/5 | Level: 6.81/7)
+- Mathematics (Importance: 4.82/5 | Level: 6.59/7)
+- Engineering and Technology (Importance: 4.54/5 | Level: 6.04/7)
+- Computers and Electronics (Importance: 4.38/5 | Level: 5.81/7)
+- English Language (Importance: 3.69/5 | Level: 4.93/7)
+- Education and Training (Importance: 3.41/5 | Level: 5.05/7)
+- Chemistry (Importance: 3.21/5 | Level: 4.3/7)
+- Administration and Management (Importance: 2.65/5 | Level: 3.81/7)
+- Communications and Media (Importance: 2.61/5 | Level: 3.22/7)
+- Design (Importance: 2.47/5 | Level: 3.16/7)
+- Production and Processing (Importance: 2.32/5 | Level: 2.36/7)
+- Administrative (Importance: 2.29/5 | Level: 2.82/7)
+- Personnel and Human Resources (Importance: 2.26/5 | Level: 2.66/7)
+- Law and Government (Importance: 2.19/5 | Level: 1.96/7)
+- Public Safety and Security (Importance: 2.17/5 | Level: 1.84/7)
+- Customer and Personal Service (Importance: 2.15/5 | Level: 2.59/7)
+- Mechanical (Importance: 2.08/5 | Level: 1.99/7)
+- Economics and Accounting (Importance: 2.01/5 | Level: 1.84/7)
+- Psychology (Importance: 2.0/5 | Level: 1.93/7)
+- Telecommunications (Importance: 1.76/5 | Level: 1.61/7)
+- Sales and Marketing (Importance: 1.7/5 | Level: 1.42/7)
+- Biology (Importance: 1.63/5 | Level: 1.13/7)
+- Therapy and Counseling (Importance: 1.58/5 | Level: 1.5/7)
+- Philosophy and Theology (Importance: 1.52/5 | Level: 1.23/7)
+- Sociology and Anthropology (Importance: 1.44/5 | Level: 0.87/7)
+- Transportation (Importance: 1.38/5 | Level: 0.85/7)
+- Building and Construction (Importance: 1.34/5 | Level: 1.04/7)
+- Geography (Importance: 1.32/5 | Level: 1.06/7)
+- History and Archeology (Importance: 1.27/5 | Level: 0.54/7)
+- Foreign Language (Importance: 1.25/5 | Level: 0.41/7)
+- Medicine and Dentistry (Importance: 1.19/5 | Level: 0.38/7)
+- Fine Arts (Importance: 1.08/5 | Level: 0.16/7)
+- Food Production (Importance: 1.0/5 | Level: 0.0/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Science (Importance: 4.62/5 | Level: 5.75/7)
+- Mathematics (Importance: 4.25/5 | Level: 5.5/7)
+- Reading Comprehension (Importance: 4.25/5 | Level: 5.88/7)
+- Speaking (Importance: 4.12/5 | Level: 4.75/7)
+- Critical Thinking (Importance: 4.12/5 | Level: 4.88/7)
+- Active Learning (Importance: 4.0/5 | Level: 5.5/7)
+- Active Listening (Importance: 4.0/5 | Level: 4.75/7)
+- Writing (Importance: 4.0/5 | Level: 5.0/7)
+- Learning Strategies (Importance: 3.88/5 | Level: 5.0/7)
+- Complex Problem Solving (Importance: 3.88/5 | Level: 4.88/7)
+- Judgment and Decision Making (Importance: 3.75/5 | Level: 4.5/7)
+- Instructing (Importance: 3.62/5 | Level: 4.62/7)
+- Systems Evaluation (Importance: 3.38/5 | Level: 3.88/7)
+- Systems Analysis (Importance: 3.38/5 | Level: 4.0/7)
+- Programming (Importance: 3.38/5 | Level: 3.88/7)
+- Monitoring (Importance: 3.25/5 | Level: 4.0/7)
+- Social Perceptiveness (Importance: 3.25/5 | Level: 3.12/7)
+- Time Management (Importance: 3.12/5 | Level: 3.62/7)
+- Operations Analysis (Importance: 3.12/5 | Level: 3.62/7)
+- Persuasion (Importance: 3.12/5 | Level: 3.5/7)
+- Service Orientation (Importance: 3.0/5 | Level: 3.0/7)
+- Management of Personnel Resources (Importance: 3.0/5 | Level: 3.12/7)
+- Coordination (Importance: 3.0/5 | Level: 3.38/7)
+- Negotiation (Importance: 2.75/5 | Level: 2.75/7)
+- Technology Design (Importance: 2.75/5 | Level: 3.38/7)
+- Quality Control Analysis (Importance: 2.62/5 | Level: 3.25/7)
+- Operations Monitoring (Importance: 2.38/5 | Level: 2.38/7)
+- Management of Financial Resources (Importance: 2.25/5 | Level: 2.12/7)
+- Management of Material Resources (Importance: 2.12/5 | Level: 2.25/7)
+- Troubleshooting (Importance: 2.0/5 | Level: 2.0/7)
+- Equipment Selection (Importance: 1.88/5 | Level: 1.5/7)
+- Operation and Control (Importance: 1.62/5 | Level: 0.62/7)
+- Installation (Importance: 1.12/5 | Level: 0.12/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adobe Audition (Tech skill type: Music or sound editing software)
+- Adobe Photoshop (Tech skill type: Graphics or photo imaging software)
+- Amazon Web Services AWS software (Tech skill type: Data base user interface and query software)
+- Ansible software (Tech skill type: Expert system software)
+- Aptech Systems GAUSS (Tech skill type: Analytical or scientific software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- C (Tech skill type: Development environment software)
+- C++ (Tech skill type: Object or component oriented development software)
+- Canu (Tech skill type: Development environment software)
+- CERN Physics Analysis Workstation PAW (Tech skill type: Analytical or scientific software)
+- CERN ROOT (Tech skill type: Analytical or scientific software)
+- COMSOL Multiphysics (Tech skill type: Analytical or scientific software)
+- Criss Software XRF11 (Tech skill type: Analytical or scientific software)
+- Database application software (Tech skill type: Data base user interface and query software)
+- Dose modeling software (Tech skill type: Analytical or scientific software)
+- Eclipse IDE (Tech skill type: Development environment software)
+- Enterprise resource planning ERP system (Tech skill type: Enterprise resource planning ERP software)
+- Experimental Physics and Industrial Control System EPICS (Tech skill type: Analytical or scientific software)
+- Extensible markup language XML (Tech skill type: Enterprise application integration software)
+- Formula translation/translator FORTRAN (Tech skill type: Development environment software)
+- Git (Tech skill type: File versioning software)
+- GNU Image Manipulation Program GIMP (Tech skill type: Graphics or photo imaging software)
+- GNU Octave (Tech skill type: Analytical or scientific software)
+- Gnuplot (Tech skill type: Analytical or scientific software)
+- JavaScript (Tech skill type: Web platform development software)
+- Lenox Softworks VideoPoint (Tech skill type: Video creation and editing software)
+- Linux (Tech skill type: Operating system software)
+- Maplesoft Maple (Tech skill type: Analytical or scientific software)
+- Mathsoft Mathcad (Tech skill type: Computer aided design CAD software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Azure software (Tech skill type: Development environment software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Visual Basic (Tech skill type: Development environment software)
+- Microsoft Visual J++ (Tech skill type: Development environment software)
+- Microsoft Visual Studio (Tech skill type: Development environment software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- MySQL (Tech skill type: Data base user interface and query software)
+- National Instruments LabVIEW (Tech skill type: Development environment software)
+- OpenStack (Tech skill type: Cloud-based management software)
+- Oracle Database (Tech skill type: Data base user interface and query software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- OriginLab Origin (Tech skill type: Analytical or scientific software)
+- Pascal (Tech skill type: Development environment software)
+- Perl (Tech skill type: Object or component oriented development software)
+- Ploticus (Tech skill type: Graphics or photo imaging software)
+- Puppet (Tech skill type: Configuration management software)
+- Python (Tech skill type: Object or component oriented development software)
+- Radiation dose calculation software (Tech skill type: Analytical or scientific software)
+- REDUCE (Tech skill type: Analytical or scientific software)
+- RibbonSoft QCad (Tech skill type: Computer aided design CAD software)
+- RSI interactive data language IDL software (Tech skill type: Analytical or scientific software)
+- SciGraphica (Tech skill type: Analytical or scientific software)
+- SciLab (Tech skill type: Analytical or scientific software)
+- Scribus (Tech skill type: Desktop publishing software)
+- Software development tools (Tech skill type: Development environment software)
+- Spectral Dynamics STAR (Tech skill type: Analytical or scientific software)
+- Spectroscopy software (Tech skill type: Analytical or scientific software)
+- SQLite (Tech skill type: Data base management system software)
+- Statistical software (Tech skill type: Analytical or scientific software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Sun Microsystems Java (Tech skill type: Object or component oriented development software)
+- Synergy Software KaleidaGraph (Tech skill type: Analytical or scientific software)
+- Systat Software SigmaPlot (Tech skill type: Analytical or scientific software)
+- The MathWorks MATLAB (Tech skill type: Analytical or scientific software)
+- UNIX (Tech skill type: Operating system software)
+- Vector Fields OPERA-3d (Tech skill type: Analytical or scientific software)
+- Video analysis software (Tech skill type: Analytical or scientific software)
+- VMware (Tech skill type: Clustering software)
+- Wolfram Research Mathematica (Tech skill type: Analytical or scientific software)
+- Xfig (Tech skill type: Graphics or photo imaging software)
+- xv (Tech skill type: Graphics or photo imaging software)
+
+## TOOLS USED
+- Accelerometers (Tool type: Accelerometers)
+- Analog frequency analyzers (Tool type: Frequency analyzers)
+- Analog sound level meters (Tool type: Sound measuring apparatus or decibel meter)
+- Analytical balances (Tool type: Analytical balances)
+- Annealing furnaces (Tool type: Laboratory safety furnaces)
+- Arbitrary function generators (Tool type: Signal generators)
+- Argon ion lasers (Tool type: Lasers)
+- Atomic absorption AA spectrometers (Tool type: Atomic absorption AA spectrometers)
+- Atomic emission detectors AED (Tool type: Chromatographic detectors)
+- Atomic force microscopes (Tool type: Scanning probe microscopes)
+- Betatrons (Tool type: Mobile or transportable medical linear accelerators)
+- Big G torsion balances (Tool type: Laboratory balances)
+- Capacitance bridges (Tool type: Capacitance meters)
+- Cavity dumpers or drivers (Tool type: Laser filters)
+- Charge-coupled device CCD cameras (Tool type: Photo attachments for microscopes)
+- Computed tomography CT scanners (Tool type: Medical computed tomography CT or CAT scanners or tubes)
+- Conditioning amplifiers (Tool type: Amplifiers)
+- Cryostats (Tool type: Cryostats)
+- Cyclotrons (Tool type: Mobile or transportable medical linear accelerators)
+- Desktop computers (Tool type: Desktop computers)
+- Diffusion pumps (Tool type: Laboratory vacuum pumps)
+- Diffusion-pumped vacuum systems (Tool type: High vacuum equipment)
+- Digital multimeters (Tool type: Multimeters)
+- Digital oscilloscopes (Tool type: Oscilloscopes)
+- Digital plotters (Tool type: Plotter printers)
+- Digital sound level meters (Tool type: Sound measuring apparatus or decibel meter)
+- Digital voltmeters DVM (Tool type: Voltage or current meters)
+- Diode lasers (Tool type: Lasers)
+- Double monochromators (Tool type: Monochromators)
+- Electron microscopes (Tool type: Electron microscopes)
+- Fourier transform infrared FTIR spectrometers (Tool type: Infrared spectrometers)
+- Friction-force microscopes (Tool type: Scanning probe microscopes)
+- Function generators (Tool type: Signal generators)
+- Galvanostats (Tool type: Galvanometers)
+- Gamma ray spectrometers (Tool type: Spectrometers)
+- Gas chromatography equipment (Tool type: Gas chromatographs)
+- Gas chromatography GC injectors (Tool type: Injectors)
+- Gaussmeters (Tool type: Magnetometer geophysical instruments)
+- Geiger-Muller counters (Tool type: Geiger counters)
+- Grating monochromators (Tool type: Monochromators)
+- Headspace autosamplers (Tool type: Autosamplers)
+- Helium lasers (Tool type: Lasers)
+- Helium refrigerators (Tool type: Cryogenic or liquid nitrogen freezers)
+- High intensity UV sources (Tool type: Ultraviolet UV lamps)
+- High vacuum equipment (Tool type: High vacuum equipment)
+- High-energy accelerators (Tool type: Mobile or transportable medical linear accelerators)
+- High-resolution semiconductor detectors (Tool type: Photosensitive diodes)
+- High-resolution spectrometers (Tool type: Spectrometers)
+- High-speed video cameras (Tool type: Digital camcorders or video cameras)
+- Interferometers (Tool type: Interferometers)
+- Ionization chambers (Tool type: Ionization chambers)
+- Isotope ratio mass spectrometers (Tool type: Mass spectrometers)
+- Laboratory box furnaces (Tool type: Laboratory box furnaces)
+- Laboratory centrifugal pumps (Tool type: Laboratory centrifugal pumps)
+- Laboratory electromagnets (Tool type: Electromagnets)
+- Laboratory tube furnaces (Tool type: Tube furnaces)
+- Laptop computers (Tool type: Notebook computers)
+- Laser power meters (Tool type: Laser beam analyzers)
+- Leak detection equipment (Tool type: Leak testing equipment)
+- Light scattering devices (Tool type: Light scattering equipment)
+- Linear accelerators (Tool type: Mobile or transportable medical linear accelerators)
+- Liquid helium level sensors (Tool type: Single gas monitors)
+- Magnetic force microscopes (Tool type: Scanning probe microscopes)
+- Magnetic resonance imaging MRI systems (Tool type: Medical magnetic resonance imaging MRI scanners)
+- Mass spectrometers (Tool type: Mass spectrometers)
+- Measuring microscopes (Tool type: Binocular light compound microscopes)
+- Mickelson interferometers (Tool type: Interferometers)
+- Microwave interferometers (Tool type: Interferometers)
+- Monochromators (Tool type: Monochromators)
+- Multiple diode lasers (Tool type: Lasers)
+- Nanovoltmeters (Tool type: Voltage or current meters)
+- Neutron detectors (Tool type: Radiation detectors)
+- Nuclear magnetic resonance NMR spectroscopes (Tool type: Nuclear magnetic resonance NMR spectrometers)
+- Optical beamsplitting devices (Tool type: Optical beamsplitters)
+- Optical choppers (Tool type: Optical choppers)
+- Optical detectors (Tool type: Signal generators)
+- Optical tables (Tool type: Optical breadboards)
+- Optical tweezers (Tool type: Tweezers)
+- Particle counters (Tool type: Electronic counters)
+- Personal computers (Tool type: Personal computers)
+- Photodetectors (Tool type: Chromatographic detectors)
+- Photometer (Tool type: Photometer)
+- Photon counting systems (Tool type: Frequency counters or timer or dividers)
+- Pinhole filters (Tool type: Visual filters)
+- Pistonphones (Tool type: Sound measuring apparatus or decibel meter)
+- Portable fast Fourier transform FFT analyzers (Tool type: Frequency analyzers)
+- Positive ion accelerators (Tool type: Mobile or transportable medical linear accelerators)
+- Power amplifiers (Tool type: Signal conditioners)
+- Prism spectrometers (Tool type: Spectrometers)
+- Programmable phase modulators (Tool type: Polarizers)
+- Pulsed nitrogen lasers (Tool type: Lasers)
+- Radiation detecting film badges (Tool type: Medical radiation films or badges)
+- Radiofrequency RF generators (Tool type: Signal generators)
+- Safety goggles (Tool type: Goggles)
+- Scanning electron microscopes SEM (Tool type: Scanning electron microscopes)
+- Scanning monochromators (Tool type: Monochromators)
+- Scanning tunneling microscopes STM (Tool type: Scanning probe microscopes)
+- Scintillation probes (Tool type: Radiation detectors)
+- Semiconductor parameter analyzers (Tool type: Semiconductor testers)
+- Signal generators (Tool type: Signal generators)
+- Single frequency dye lasers (Tool type: Lasers)
+- Sound intensity probes (Tool type: Sound measuring apparatus or decibel meter)
+- Spectrophotometers (Tool type: Spectrophotometers)
+- Spectrum analyzers (Tool type: Frequency analyzers)
+- Spring scales (Tool type: Pull spring balances)
+- Surface profilometers (Tool type: Roughness measuring instruments)
+- Telescopes (Tool type: Telescopes)
+- Thermoluminescent dosimeters (Tool type: Radiation detectors)
+- Transmission electron microscopes TEM (Tool type: Transmission electron microscopes)
+- Turbo-pumped vacuum systems (Tool type: High vacuum equipment)
+- Two-channel dynamic signal analyzers (Tool type: Frequency calibrator or simulator)
+- Two-channel fast Fourier transform FFT analyzers (Tool type: Frequency analyzers)
+- Two-channel network analyzers (Tool type: Network analyzers)
+- Vacuum stations (Tool type: Pneumatic vacuum equipment)
+- Vernier force sensors (Tool type: Force or torque sensors)
+- Vibrating sample magnetometers (Tool type: Magnetometers)
+- Vibration exciters (Tool type: Laboratory vibrators)
+- Visible spectrometers (Tool type: Spectrometers)
+- X ray crystallography equipment (Tool type: X ray diffraction equipment)
+- X ray photoemission spectrometers (Tool type: Spectrometers)
+- Zeeman split lasers (Tool type: Lasers)
+
+# WORK CONTEXT
+- Conflict Situations: Never
+- Consequence of Error: Not serious at all
+- Contact With Others: Occasional contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Extremely important
+- Deal With External Customers or the Public in General: Not important at all
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Never
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Once a year or more but not every month
+- Health and Safety of Other Workers: High responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Not important at all
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Extremely competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: I work with others but not closely (e.g., private office)
+- Public Speaking: Once a year or more but not every month
+- Spend Time Bending or Twisting Your Body: Never
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Never
+- Spend Time Sitting: Continually or almost continually
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Never
+- Spend Time Walking or Running: Never
+- Telephone Conversations: Once a week or more but not every day
+- Time Pressure: Once a month or more but not every week
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Never
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Limited responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a year or more but not every month
+
+# INTERESTS (RIASEC)
+- Primary Interest: Investigative
+- Secondary Interest: Realistic
+- Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Mathematicians
+- Astronomers
+- Data Scientists
+- Physics Teachers, Postsecondary
+- Biochemists and Biophysicists
+- Chemists
+- Nanosystems Engineers
+- Materials Scientists
+- Geoscientists, Except Hydrologists and Geographers
+- Molecular and Cellular Biologists
+- Nanotechnology Engineering Technologists and Technicians
+- Computer and Information Research Scientists
+- Nuclear Engineers
+- Bioengineers and Biomedical Engineers
+- Bioinformatics Scientists
+- Statisticians
+- Aerospace Engineers
+- Microsystems Engineers
+- Chemical Engineers
+- Hydrologists

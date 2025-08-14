@@ -1,0 +1,269 @@
+Job Title: Office Clerks, General
+O*NET-SOC Code: 43-9061.00
+
+# DESCRIPTION
+Perform duties too varied and diverse to be classified in any specific office clerical occupation, requiring knowledge of office systems and procedures. Clerical duties may be assigned in accordance with the office procedures of individual establishments and may include a combination of answering telephones, bookkeeping, typing or word processing, office machine operation, and filing.
+
+# TASKS
+- Operate office machines, such as photocopiers and scanners, facsimile machines, voice mail systems, and personal computers.
+- Answer telephones, direct calls, and take messages.
+- Communicate with customers, employees, and other individuals to answer questions, disseminate or explain information, take orders, and address complaints.
+- Maintain and update filing, inventory, mailing, and database systems, either manually or using a computer.
+- Compile, copy, sort, and file records of office activities, business transactions, and other activities.
+- Review files, records, and other documents to obtain information to respond to requests.
+- Open, sort, and route incoming mail, answer correspondence, and prepare outgoing mail.
+- Compute, record, and proofread data and other information, such as records or reports.
+- Complete work schedules, manage calendars, and arrange appointments.
+- Type, format, proofread, and edit correspondence and other documents, from notes or dictating machines, using computers or typewriters.
+- Inventory and order materials, supplies, and services.
+- Deliver messages and run errands.
+- Collect, count, and disburse money, do basic bookkeeping, and complete banking transactions.
+- Complete and mail bills, contracts, policies, invoices, or checks.
+- Process and prepare documents, such as business or government forms and expense reports.
+- Monitor and direct the work of lower-level clerks.
+- Prepare meeting agendas, attend meetings, and record and transcribe minutes.
+- Train other staff members to perform work activities, such as using computer applications.
+- Count, weigh, measure, or organize materials.
+- Troubleshoot problems involving office equipment, such as computer hardware and software.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Administrative (Importance: 4.19/5 | Level: 5.12/7)
+- English Language (Importance: 3.81/5 | Level: 3.31/7)
+- Customer and Personal Service (Importance: 3.44/5 | Level: 3.72/7)
+- Administration and Management (Importance: 3.01/5 | Level: 2.51/7)
+- Computers and Electronics (Importance: 2.89/5 | Level: 3.1/7)
+- Mathematics (Importance: 2.71/5 | Level: 2.84/7)
+- Public Safety and Security (Importance: 2.44/5 | Level: 2.05/7)
+- Economics and Accounting (Importance: 2.44/5 | Level: 2.07/7)
+- Communications and Media (Importance: 2.33/5 | Level: 2.03/7)
+- Personnel and Human Resources (Importance: 2.33/5 | Level: 2.09/7)
+- Education and Training (Importance: 2.25/5 | Level: 2.19/7)
+- Law and Government (Importance: 2.08/5 | Level: 1.93/7)
+- Psychology (Importance: 2.07/5 | Level: 1.61/7)
+- Sales and Marketing (Importance: 2.05/5 | Level: 1.63/7)
+- Telecommunications (Importance: 1.95/5 | Level: 0.91/7)
+- Production and Processing (Importance: 1.79/5 | Level: 1.33/7)
+- Sociology and Anthropology (Importance: 1.74/5 | Level: 1.25/7)
+- Philosophy and Theology (Importance: 1.68/5 | Level: 1.22/7)
+- Geography (Importance: 1.64/5 | Level: 1.28/7)
+- Transportation (Importance: 1.6/5 | Level: 1.26/7)
+- Engineering and Technology (Importance: 1.53/5 | Level: 0.62/7)
+- Design (Importance: 1.49/5 | Level: 0.96/7)
+- Therapy and Counseling (Importance: 1.49/5 | Level: 0.76/7)
+- Mechanical (Importance: 1.44/5 | Level: 0.58/7)
+- Foreign Language (Importance: 1.43/5 | Level: 0.66/7)
+- Chemistry (Importance: 1.35/5 | Level: 0.76/7)
+- Medicine and Dentistry (Importance: 1.33/5 | Level: 0.52/7)
+- Physics (Importance: 1.32/5 | Level: 0.55/7)
+- Fine Arts (Importance: 1.25/5 | Level: 0.44/7)
+- History and Archeology (Importance: 1.2/5 | Level: 0.54/7)
+- Food Production (Importance: 1.16/5 | Level: 0.46/7)
+- Building and Construction (Importance: 1.16/5 | Level: 0.32/7)
+- Biology (Importance: 1.03/5 | Level: 0.05/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Reading Comprehension (Importance: 3.75/5 | Level: 3.5/7)
+- Active Listening (Importance: 3.75/5 | Level: 3.5/7)
+- Speaking (Importance: 3.62/5 | Level: 3.0/7)
+- Writing (Importance: 3.12/5 | Level: 3.12/7)
+- Time Management (Importance: 3.0/5 | Level: 2.75/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 3.0/7)
+- Service Orientation (Importance: 3.0/5 | Level: 2.88/7)
+- Monitoring (Importance: 2.88/5 | Level: 2.88/7)
+- Active Learning (Importance: 2.75/5 | Level: 2.75/7)
+- Instructing (Importance: 2.75/5 | Level: 2.75/7)
+- Judgment and Decision Making (Importance: 2.75/5 | Level: 2.25/7)
+- Negotiation (Importance: 2.62/5 | Level: 2.12/7)
+- Complex Problem Solving (Importance: 2.62/5 | Level: 2.25/7)
+- Persuasion (Importance: 2.62/5 | Level: 2.12/7)
+- Management of Personnel Resources (Importance: 2.12/5 | Level: 2.0/7)
+- Mathematics (Importance: 2.12/5 | Level: 2.12/7)
+- Learning Strategies (Importance: 2.12/5 | Level: 2.25/7)
+- Operations Monitoring (Importance: 2.12/5 | Level: 2.0/7)
+- Systems Analysis (Importance: 2.0/5 | Level: 1.88/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 1.75/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.38/7)
+- Quality Control Analysis (Importance: 1.75/5 | Level: 1.0/7)
+- Management of Financial Resources (Importance: 1.62/5 | Level: 0.88/7)
+- Troubleshooting (Importance: 1.5/5 | Level: 0.5/7)
+- Technology Design (Importance: 1.38/5 | Level: 0.38/7)
+- Operation and Control (Importance: 1.38/5 | Level: 0.38/7)
+- Programming (Importance: 1.25/5 | Level: 0.38/7)
+- Operations Analysis (Importance: 1.12/5 | Level: 0.25/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- 3M Post-it App (Tech skill type: Word processing software)
+- Adobe Acrobat (Tech skill type: Document management software)
+- Adobe InDesign (Tech skill type: Desktop publishing software)
+- ADP Workforce Now (Tech skill type: Human resources software)
+- Alpha Software Alpha Five (Tech skill type: Data base user interface and query software)
+- Appointment scheduling software (Tech skill type: Calendar and scheduling software)
+- Billing software (Tech skill type: Accounting software)
+- Blackbaud The Raiser's Edge (Tech skill type: Customer relationship management CRM software)
+- Blackboard software (Tech skill type: Data base user interface and query software)
+- Bookkeeping software (Tech skill type: Accounting software)
+- Data entry software (Tech skill type: Data base user interface and query software)
+- Database software (Tech skill type: Data base user interface and query software)
+- Dropbox (Tech skill type: Cloud-based data access and sharing software)
+- Electronic Data Interchange EDI systems (Tech skill type: Enterprise application integration software)
+- Evernote (Tech skill type: Word processing software)
+- Facebook (Tech skill type: Web page creation and editing software)
+- FileMaker Pro (Tech skill type: Data base user interface and query software)
+- Filing system software (Tech skill type: Document management software)
+- Google Docs (Tech skill type: Word processing software)
+- Google Drive (Tech skill type: Cloud-based data access and sharing software)
+- Google Sites (Tech skill type: Web page creation and editing software)
+- GroupMe (Tech skill type: Instant messaging software)
+- Henry Schein Dentrix (Tech skill type: Medical software)
+- IBM Check Processing Control System CPSC (Tech skill type: Data base user interface and query software)
+- IBM Notes (Tech skill type: Electronic mail software)
+- Intuit QuickBooks (Tech skill type: Accounting software)
+- LexisNexis (Tech skill type: Information retrieval or search software)
+- LinkedIn (Tech skill type: Web page creation and editing software)
+- Mavenlink (Tech skill type: Project management software)
+- Medical condition coding software (Tech skill type: Medical software)
+- Medical procedure coding software (Tech skill type: Medical software)
+- MEDITECH software (Tech skill type: Medical software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Dynamics (Tech skill type: Customer relationship management CRM software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Exchange (Tech skill type: Electronic mail software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft Publisher (Tech skill type: Desktop publishing software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Oracle JD Edwards EnterpriseOne (Tech skill type: Enterprise resource planning ERP software)
+- Oracle PeopleSoft (Tech skill type: Enterprise resource planning ERP software)
+- Oracle PeopleSoft Financials (Tech skill type: Enterprise resource planning ERP software)
+- Propertyware (Tech skill type: Data base user interface and query software)
+- Records management software (Tech skill type: Document management software)
+- Sage 50 Accounting (Tech skill type: Accounting software)
+- Salesforce.com Salesforce CRM (Tech skill type: Customer relationship management CRM software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- SmugMug Flickr (Tech skill type: Graphics or photo imaging software)
+- Social media sites (Tech skill type: Web page creation and editing software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- St. Paul Travelers e-CARMA (Tech skill type: Data base user interface and query software)
+- Transcription system software (Tech skill type: Document management software)
+- Web browser software (Tech skill type: Internet browser software)
+- Word processing software (Tech skill type: Word processing software)
+- Yardi software (Tech skill type: Data base user interface and query software)
+
+## TOOLS USED
+- 10-key calculators (Tool type: Desktop calculator)
+- Computer laser printers (Tool type: Laser printers)
+- Computer terminals (Tool type: Mainframe console or dumb terminals)
+- Data input scanners (Tool type: Scanners)
+- Desktop computers (Tool type: Desktop computers)
+- Dictation equipment (Tool type: Dictation machines)
+- Digital duplicating machines (Tool type: Digital duplicators)
+- Electric typewriters (Tool type: Typewriters)
+- Laptop computers (Tool type: Notebook computers)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Letter folding machines (Tool type: Letter folders)
+- Multi-line telephone systems (Tool type: Special purpose telephones)
+- Personal computers (Tool type: Personal computers)
+- Photocopiers (Tool type: Photocopiers)
+- Photocopying equipment (Tool type: Photocopiers)
+- Postage machines (Tool type: Franking or postage machines)
+- Scanners (Tool type: Scanners)
+- Switchboards (Tool type: Premise branch exchange PBX systems)
+- Typewriters (Tool type: Typewriters)
+- Voice mail systems (Tool type: Voice mail systems)
+
+# WORK CONTEXT
+- Conflict Situations: Never
+- Consequence of Error: Fairly serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: Limited freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Never
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: No responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Extremely important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Not at all competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Slightly close (e.g., shared office)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Never
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Continually or almost continually
+- Spend Time Sitting: Continually or almost continually
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Never
+- Spend Time Walking or Running: Never
+- Telephone Conversations: Every day
+- Time Pressure: Once a week or more but not every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Never
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Limited responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Conventional
+- Secondary Interest: Unknown (0)
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Secretaries and Administrative Assistants, Except Legal, Medical, and Executive
+- File Clerks
+- Receptionists and Information Clerks
+- Administrative Services Managers
+- Medical Secretaries and Administrative Assistants
+- Correspondence Clerks
+- Executive Secretaries and Executive Administrative Assistants
+- First-Line Supervisors of Office and Administrative Support Workers
+- Switchboard Operators, Including Answering Service
+- Billing and Posting Clerks
+- Bookkeeping, Accounting, and Auditing Clerks
+- Medical Records Specialists
+- Management Analysts
+- Customer Service Representatives
+- Legal Secretaries and Administrative Assistants
+- Document Management Specialists
+- Brokerage Clerks
+- Human Resources Assistants, Except Payroll and Timekeeping
+- Insurance Claims and Policy Processing Clerks
+- Postal Service Clerks

@@ -1,0 +1,268 @@
+Job Title: Chemical Engineers
+O*NET-SOC Code: 17-2041.00
+
+# DESCRIPTION
+Design chemical plant equipment and devise processes for manufacturing chemicals and products, such as gasoline, synthetic rubber, plastics, detergents, cement, paper, and pulp, by applying principles and technology of chemistry, physics, and engineering.
+
+# TASKS
+- Monitor and analyze data from processes and experiments.
+- Develop safety procedures to be employed by workers operating equipment or working in close proximity to ongoing chemical reactions.
+- Develop processes to separate components of liquids or gases or generate electrical currents, using controlled chemical processes.
+- Troubleshoot problems with chemical manufacturing processes.
+- Evaluate chemical equipment and processes to identify ways to optimize performance or to ensure compliance with safety and environmental regulations.
+- Conduct research to develop new and improved chemical manufacturing processes.
+- Perform laboratory studies of steps in manufacture of new products and test proposed processes in small-scale operation, such as a pilot plant.
+- Prepare estimate of production costs and production progress reports for management.
+- Design measurement and control systems for chemical plants based on data collected in laboratory experiments and in pilot plant operations.
+- Determine most effective arrangement of operations such as mixing, crushing, heat transfer, distillation, and drying.
+- Direct activities of workers who operate or are engaged in constructing and improving absorption, evaporation, or electromagnetic equipment.
+- Perform tests and monitor performance of processes throughout stages of production to determine degree of control over variables such as temperature, density, specific gravity, and pressure.
+- Design and plan layout of equipment.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Engineering and Technology (Importance: 5.0/5 | Level: 6.55/7)
+- Mathematics (Importance: 4.77/5 | Level: 5.86/7)
+- Chemistry (Importance: 4.77/5 | Level: 6.32/7)
+- Physics (Importance: 4.36/5 | Level: 5.77/7)
+- Production and Processing (Importance: 4.27/5 | Level: 5.0/7)
+- Design (Importance: 4.27/5 | Level: 5.91/7)
+- English Language (Importance: 3.91/5 | Level: 3.95/7)
+- Computers and Electronics (Importance: 3.82/5 | Level: 5.32/7)
+- Public Safety and Security (Importance: 3.23/5 | Level: 3.59/7)
+- Mechanical (Importance: 3.14/5 | Level: 4.32/7)
+- Law and Government (Importance: 2.73/5 | Level: 3.14/7)
+- Economics and Accounting (Importance: 2.73/5 | Level: 3.18/7)
+- Administration and Management (Importance: 2.64/5 | Level: 3.68/7)
+- Building and Construction (Importance: 2.55/5 | Level: 3.18/7)
+- Biology (Importance: 2.55/5 | Level: 3.41/7)
+- Education and Training (Importance: 2.5/5 | Level: 3.73/7)
+- Customer and Personal Service (Importance: 2.27/5 | Level: 2.91/7)
+- Sales and Marketing (Importance: 2.18/5 | Level: 2.77/7)
+- Personnel and Human Resources (Importance: 2.14/5 | Level: 2.73/7)
+- Communications and Media (Importance: 2.0/5 | Level: 2.23/7)
+- Administrative (Importance: 1.91/5 | Level: 2.41/7)
+- Transportation (Importance: 1.86/5 | Level: 1.95/7)
+- Food Production (Importance: 1.82/5 | Level: 1.59/7)
+- Geography (Importance: 1.81/5 | Level: 2.62/7)
+- Telecommunications (Importance: 1.73/5 | Level: 1.36/7)
+- Foreign Language (Importance: 1.68/5 | Level: 1.73/7)
+- Psychology (Importance: 1.57/5 | Level: 1.41/7)
+- Medicine and Dentistry (Importance: 1.45/5 | Level: 0.95/7)
+- History and Archeology (Importance: 1.27/5 | Level: 0.68/7)
+- Therapy and Counseling (Importance: 1.23/5 | Level: 0.77/7)
+- Sociology and Anthropology (Importance: 1.18/5 | Level: 0.41/7)
+- Philosophy and Theology (Importance: 1.05/5 | Level: 0.14/7)
+- Fine Arts (Importance: 1.05/5 | Level: 0.19/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Science (Importance: 4.25/5 | Level: 5.12/7)
+- Complex Problem Solving (Importance: 4.12/5 | Level: 4.38/7)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.88/7)
+- Mathematics (Importance: 3.88/5 | Level: 4.62/7)
+- Systems Analysis (Importance: 3.88/5 | Level: 4.0/7)
+- Reading Comprehension (Importance: 3.88/5 | Level: 4.38/7)
+- Judgment and Decision Making (Importance: 3.88/5 | Level: 4.5/7)
+- Active Learning (Importance: 3.75/5 | Level: 4.5/7)
+- Systems Evaluation (Importance: 3.75/5 | Level: 4.25/7)
+- Speaking (Importance: 3.62/5 | Level: 3.88/7)
+- Operations Analysis (Importance: 3.62/5 | Level: 4.5/7)
+- Active Listening (Importance: 3.38/5 | Level: 4.0/7)
+- Monitoring (Importance: 3.25/5 | Level: 3.88/7)
+- Writing (Importance: 3.25/5 | Level: 3.88/7)
+- Operations Monitoring (Importance: 3.12/5 | Level: 3.5/7)
+- Coordination (Importance: 3.0/5 | Level: 3.62/7)
+- Negotiation (Importance: 3.0/5 | Level: 3.0/7)
+- Persuasion (Importance: 3.0/5 | Level: 3.12/7)
+- Instructing (Importance: 3.0/5 | Level: 3.38/7)
+- Troubleshooting (Importance: 3.0/5 | Level: 3.5/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 3.12/7)
+- Time Management (Importance: 3.0/5 | Level: 3.75/7)
+- Learning Strategies (Importance: 2.88/5 | Level: 3.62/7)
+- Quality Control Analysis (Importance: 2.88/5 | Level: 3.62/7)
+- Service Orientation (Importance: 2.88/5 | Level: 3.0/7)
+- Management of Personnel Resources (Importance: 2.75/5 | Level: 3.5/7)
+- Technology Design (Importance: 2.75/5 | Level: 3.12/7)
+- Management of Material Resources (Importance: 2.62/5 | Level: 2.88/7)
+- Management of Financial Resources (Importance: 2.5/5 | Level: 2.75/7)
+- Programming (Importance: 2.38/5 | Level: 2.88/7)
+- Operation and Control (Importance: 2.25/5 | Level: 1.62/7)
+- Equipment Selection (Importance: 2.12/5 | Level: 2.38/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Absorption process simulation software (Tech skill type: Analytical or scientific software)
+- Applied Flow Technology AFT Arrow (Tech skill type: Analytical or scientific software)
+- Applied Flow Technology AFT Fathom (Tech skill type: Analytical or scientific software)
+- AspenTech aspenONE (Tech skill type: Analytical or scientific software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- C (Tech skill type: Development environment software)
+- C++ (Tech skill type: Object or component oriented development software)
+- CD-adapco STAR-CAD (Tech skill type: Computer aided design CAD software)
+- Cerebro CerebroMix (Tech skill type: Analytical or scientific software)
+- ChemicaLogic SteamTab (Tech skill type: Analytical or scientific software)
+- Chempute Software ChemDraw (Tech skill type: Graphics or photo imaging software)
+- Chempute Software E-Notebook (Tech skill type: Data base user interface and query software)
+- Chempute Software Engineer's Aide SINET (Tech skill type: Analytical or scientific software)
+- Chempute Software EstPro (Tech skill type: Financial analysis software)
+- Chempute Software SuperPro Designer (Tech skill type: Analytical or scientific software)
+- Chempute Software VisiMix (Tech skill type: Analytical or scientific software)
+- Chemstations CHEMCAD (Tech skill type: Analytical or scientific software)
+- Computer aided design and drafting CADD software (Tech skill type: Computer aided design CAD software)
+- Computer aided design CAD software (Tech skill type: Computer aided design CAD software)
+- Computer aided manufacturing CAM software (Tech skill type: Computer aided manufacturing CAM software)
+- Control Station ENGINEER (Tech skill type: Analytical or scientific software)
+- Dassault Systemes CATIA (Tech skill type: Computer aided design CAD software)
+- Dassault Systemes SolidWorks (Tech skill type: Computer aided design CAD software)
+- Desktop publishing software (Tech skill type: Desktop publishing software)
+- EPCON International CHEMPRO Engineering Suite (Tech skill type: Analytical or scientific software)
+- EPCON International SiNET (Tech skill type: Analytical or scientific software)
+- EPCON International SYSTEM 7 Process Explorer (Tech skill type: Analytical or scientific software)
+- G&P Engineering Software EngVert (Tech skill type: Analytical or scientific software)
+- G&P Engineering Software PhysProps (Tech skill type: Data base user interface and query software)
+- G&P Engineering Software PipeDrop (Tech skill type: Analytical or scientific software)
+- GE Fanuc Proficy Machine Edition (Tech skill type: Industrial control software)
+- Laboratory information management system LIMS (Tech skill type: Analytical or scientific software)
+- Madison Technical Software Chempak Plus (Tech skill type: Analytical or scientific software)
+- Madison Technical Software Enviropak (Tech skill type: Analytical or scientific software)
+- Madison Technical Software Steampak (Tech skill type: Analytical or scientific software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Exchange (Tech skill type: Electronic mail software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Visual Basic (Tech skill type: Development environment software)
+- Microsoft Visual C# .NET (Tech skill type: Object or component oriented development software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Minitab (Tech skill type: Analytical or scientific software)
+- National Instruments LabVIEW (Tech skill type: Development environment software)
+- Presentation software (Tech skill type: Presentation software)
+- Prode PD-Plus (Tech skill type: Analytical or scientific software)
+- PTC Creo Parametric (Tech skill type: Computer aided design CAD software)
+- R (Tech skill type: Object or component oriented development software)
+- Relational database software (Tech skill type: Data base user interface and query software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- SoftLab PHEdesign (Tech skill type: Analytical or scientific software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- Statistical software (Tech skill type: Analytical or scientific software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Supervisory control and data acquisition SCADA software (Tech skill type: Industrial control software)
+- The MathWorks MATLAB (Tech skill type: Analytical or scientific software)
+- Thermal Analysis Systems The Energy Analyst (Tech skill type: Analytical or scientific software)
+
+## TOOLS USED
+- Agitators (Tool type: Laboratory mixers)
+- Atomic force microscopes (Tool type: Scanning probe microscopes)
+- Benchtop centrifuges (Tool type: Benchtop centrifuges)
+- Benchtop mixers (Tool type: Laboratory mixers)
+- Catalytic reactors (Tool type: Catalytic combustion analyzers)
+- Chromatographic scanning equipment (Tool type: Chromatographic scanners)
+- Distillation columns (Tool type: Distillation pipings or columns or fittings)
+- Distillation systems (Tool type: Bi distillation units)
+- Filtration systems (Tool type: Laboratory filtration hardware or accessories)
+- Gas absorbers (Tool type: Chemical absorption gas analyzers)
+- Heat exchangers (Tool type: Heat exchangers)
+- Laboratory evaporaters (Tool type: Laboratory evaporators)
+- Lyophilizers (Tool type: Freezedryers or lyophilzers)
+- Mass spectrometers (Tool type: Mass spectrometers)
+- Mixing tanks (Tool type: Processing tanks)
+- Personal computers (Tool type: Personal computers)
+- Personal digital assistants PDA (Tool type: Personal digital assistant PDAs or organizers)
+- Plate filter presses (Tool type: Ultrafiltration equipment)
+- Powder mixing equipment (Tool type: Laboratory mixers)
+- Programmable logic controllers PLC (Tool type: Microcontrollers)
+- Safety goggles (Tool type: Goggles)
+- Sludge dryers (Tool type: Dewatering equipment)
+- Surface analysis spectroscopes (Tool type: Spectrometers)
+- Vacuum pumps (Tool type: Vacuum pumps)
+- Vial handling systems (Tool type: Robotic or automated liquid handling systems)
+- Wet scrubbers (Tool type: Wet scrubbers)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Extremely serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Fairly important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Highly automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Once a year or more but not every month
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Once a month or more but not every week
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Once a year or more but not every month
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Once a week or more but not every day
+- Exposed to Very Hot or Cold Temperatures: Once a year or more but not every month
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: Some freedom
+- Frequency of Decision Making: Once a month or more but not every week
+- Health and Safety of Other Workers: Very high responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Not important at all
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Once a week or more but not every day
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Once a month or more but not every week
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Slightly close (e.g., shared office)
+- Public Speaking: Once a year or more but not every month
+- Spend Time Bending or Twisting Your Body: Never
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Less than half the time
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Less than half the time
+- Spend Time Making Repetitive Motions: Never
+- Spend Time Sitting: More than half the time
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Less than half the time
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Once a month or more but not every week
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Every day
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Once a year or more but not every month
+- Work Outcomes and Results of Other Workers: High responsibility
+- Work With or Contribute to a Work Group or Team: Extremely important
+- Written Letters and Memos: Once a week or more but not every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Investigative
+- Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Materials Engineers
+- Manufacturing Engineers
+- Chemists
+- Mechanical Engineers
+- Nuclear Engineers
+- Biofuels/Biodiesel Technology and Product Development Managers
+- Materials Scientists
+- Industrial Engineers
+- Petroleum Engineers
+- Mechatronics Engineers
+- Industrial Engineering Technologists and Technicians
+- Chemical Plant and System Operators
+- Chemical Technicians
+- Chemical Equipment Operators and Tenders
+- Nanosystems Engineers
+- Mechanical Engineering Technologists and Technicians
+- Bioengineers and Biomedical Engineers
+- Nanotechnology Engineering Technologists and Technicians
+- Biofuels Processing Technicians
+- Biomass Plant Technicians

@@ -1,0 +1,273 @@
+Job Title: Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products
+O*NET-SOC Code: 41-4011.00
+
+# DESCRIPTION
+Sell goods for wholesalers or manufacturers where technical or scientific knowledge is required in such areas as biology, engineering, chemistry, and electronics, normally obtained from at least 2 years of postsecondary education.
+
+# TASKS
+- Negotiate prices or terms of sales or service agreements.
+- Prepare and submit sales contracts for orders.
+- Visit establishments to evaluate needs or to promote product or service sales.
+- Maintain customer records, using automated systems.
+- Answer customers' questions about products, prices, availability, or credit terms.
+- Quote prices, credit terms, or other bid specifications.
+- Contact new or existing customers to discuss how specific products or services can meet their needs.
+- Emphasize product features, based on analyses of customers' needs and on technical knowledge of product capabilities and limitations.
+- Compute customer's installation or production costs and estimate savings from new services, products, or equipment.
+- Select or assist customers in selecting products based on customer needs, product specifications, and applicable regulations.
+- Prepare sales presentations or proposals to explain product specifications or applications.
+- Complete expense reports, sales reports, or other paperwork.
+- Verify that delivery schedules meet project deadlines.
+- Identify prospective customers, using business directories, leads from existing clients, participation in organizations, or trade show or conference attendance.
+- Inform customers of estimated delivery schedules, service contracts, warranties, or other information pertaining to purchased products.
+- Collaborate with colleagues to exchange information, such as selling strategies or marketing information.
+- Provide customers with ongoing technical support.
+- Advise customers on product usage to improve production.
+- Study documentation or other information for new scientific or technical products.
+- Stock or distribute resources, such as samples or promotional or educational materials.
+- Attend sales or trade meetings or read related publications to obtain information about market conditions, business trends, environmental regulations, or industry developments.
+- Sell service contracts for technical or scientific products.
+- Demonstrate the operation or use of technical or scientific products.
+- Provide feedback to product design teams so that products can be tailored to clients' needs.
+- Arrange for installation and testing of products or machinery.
+- Initiate sales campaigns to meet sales and production expectations.
+- Verify accuracy of materials lists.
+- Verify customer credit ratings.
+- Consult with engineers regarding technical problems with products.
+- Sell technical and scientific products that are environmentally sound or designed for environmental remediation.
+- Visit establishments, such as pharmacies, to determine product sales.
+- Present information to customers about the energy efficiency or environmental impact of scientific or technical products.
+- Inform customers about issues related to responsible use and disposal of products, such as waste reduction or product or byproduct recycling or disposal.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.42/5 | Level: 4.58/7)
+- Sales and Marketing (Importance: 4.31/5 | Level: 4.78/7)
+- English Language (Importance: 3.66/5 | Level: 3.66/7)
+- Administration and Management (Importance: 3.17/5 | Level: 3.59/7)
+- Mathematics (Importance: 3.16/5 | Level: 3.69/7)
+- Production and Processing (Importance: 3.1/5 | Level: 3.38/7)
+- Computers and Electronics (Importance: 3.03/5 | Level: 3.81/7)
+- Administrative (Importance: 2.85/5 | Level: 3.32/7)
+- Engineering and Technology (Importance: 2.61/5 | Level: 2.65/7)
+- Education and Training (Importance: 2.59/5 | Level: 2.76/7)
+- Psychology (Importance: 2.54/5 | Level: 2.55/7)
+- Communications and Media (Importance: 2.46/5 | Level: 2.3/7)
+- Telecommunications (Importance: 2.44/5 | Level: 1.84/7)
+- Economics and Accounting (Importance: 2.36/5 | Level: 1.97/7)
+- Transportation (Importance: 2.27/5 | Level: 2.1/7)
+- Chemistry (Importance: 2.17/5 | Level: 2.06/7)
+- Design (Importance: 2.16/5 | Level: 2.06/7)
+- Geography (Importance: 2.06/5 | Level: 1.86/7)
+- Personnel and Human Resources (Importance: 2.05/5 | Level: 1.63/7)
+- Law and Government (Importance: 1.93/5 | Level: 1.84/7)
+- Mechanical (Importance: 1.91/5 | Level: 1.61/7)
+- Sociology and Anthropology (Importance: 1.83/5 | Level: 1.55/7)
+- Public Safety and Security (Importance: 1.66/5 | Level: 1.28/7)
+- Foreign Language (Importance: 1.57/5 | Level: 0.99/7)
+- Building and Construction (Importance: 1.56/5 | Level: 1.13/7)
+- Therapy and Counseling (Importance: 1.47/5 | Level: 0.96/7)
+- Medicine and Dentistry (Importance: 1.46/5 | Level: 0.81/7)
+- Physics (Importance: 1.35/5 | Level: 0.66/7)
+- Philosophy and Theology (Importance: 1.3/5 | Level: 0.88/7)
+- Food Production (Importance: 1.28/5 | Level: 0.52/7)
+- Biology (Importance: 1.25/5 | Level: 0.55/7)
+- History and Archeology (Importance: 1.18/5 | Level: 0.47/7)
+- Fine Arts (Importance: 1.1/5 | Level: 0.17/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Speaking (Importance: 4.25/5 | Level: 4.0/7)
+- Persuasion (Importance: 4.25/5 | Level: 4.0/7)
+- Active Listening (Importance: 4.12/5 | Level: 4.12/7)
+- Negotiation (Importance: 4.0/5 | Level: 4.0/7)
+- Social Perceptiveness (Importance: 3.88/5 | Level: 3.75/7)
+- Service Orientation (Importance: 3.75/5 | Level: 3.38/7)
+- Reading Comprehension (Importance: 3.75/5 | Level: 4.12/7)
+- Coordination (Importance: 3.62/5 | Level: 3.38/7)
+- Active Learning (Importance: 3.5/5 | Level: 3.75/7)
+- Writing (Importance: 3.38/5 | Level: 3.62/7)
+- Critical Thinking (Importance: 3.38/5 | Level: 3.75/7)
+- Complex Problem Solving (Importance: 3.38/5 | Level: 3.12/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.12/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 3.38/7)
+- Time Management (Importance: 3.12/5 | Level: 3.0/7)
+- Mathematics (Importance: 2.88/5 | Level: 2.88/7)
+- Instructing (Importance: 2.88/5 | Level: 3.12/7)
+- Systems Analysis (Importance: 2.88/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 2.75/5 | Level: 3.0/7)
+- Management of Personnel Resources (Importance: 2.62/5 | Level: 2.5/7)
+- Management of Financial Resources (Importance: 2.62/5 | Level: 2.62/7)
+- Management of Material Resources (Importance: 2.5/5 | Level: 2.5/7)
+- Operations Analysis (Importance: 2.12/5 | Level: 2.5/7)
+- Systems Evaluation (Importance: 2.12/5 | Level: 2.62/7)
+- Technology Design (Importance: 2.0/5 | Level: 1.62/7)
+- Operation and Control (Importance: 2.0/5 | Level: 1.25/7)
+- Programming (Importance: 2.0/5 | Level: 1.0/7)
+- Operations Monitoring (Importance: 1.88/5 | Level: 1.62/7)
+- Quality Control Analysis (Importance: 1.88/5 | Level: 1.12/7)
+- Equipment Selection (Importance: 1.62/5 | Level: 0.62/7)
+- Science (Importance: 1.5/5 | Level: 0.62/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Act! (Tech skill type: Customer relationship management CRM software)
+- ActionWare (Tech skill type: Customer relationship management CRM software)
+- AdTrack Customer Acquisition Management CAM (Tech skill type: Customer relationship management CRM software)
+- Amazon Web Services AWS software (Tech skill type: Data base user interface and query software)
+- AMG Teleran SalesInSync (Tech skill type: Customer relationship management CRM software)
+- Apache Hadoop (Tech skill type: Data base management system software)
+- Cegedim Target Software Target SFA Pharmaceutical Suite (Tech skill type: Customer relationship management CRM software)
+- Citrix cloud computing software (Tech skill type: Access software)
+- Customer relationship management CRM software (Tech skill type: Customer relationship management CRM software)
+- Enterprise application integration EAI software (Tech skill type: Enterprise application integration software)
+- FileMaker Pro (Tech skill type: Data base user interface and query software)
+- Google Ads (Tech skill type: Sales and marketing software)
+- Google Analytics (Tech skill type: Data mining software)
+- Google Workspace software (Tech skill type: Office suite software)
+- HEAT Software GoldMine (Tech skill type: Customer relationship management CRM software)
+- HubSpot software (Tech skill type: Sales and marketing software)
+- IBM InfoSphere DataStage (Tech skill type: Enterprise application integration software)
+- IBM Notes (Tech skill type: Electronic mail software)
+- IBM SPSS Statistics (Tech skill type: Analytical or scientific software)
+- Infor ERP SyteLine (Tech skill type: Enterprise resource planning ERP software)
+- InsideSales.com (Tech skill type: Customer relationship management CRM software)
+- Intuit QuickBooks (Tech skill type: Accounting software)
+- Khameleon (Tech skill type: Project management software)
+- LexisNexis (Tech skill type: Information retrieval or search software)
+- LinkedIn (Tech skill type: Web page creation and editing software)
+- Linux (Tech skill type: Operating system software)
+- LogMeIn GoToMeeting (Tech skill type: Video conferencing software)
+- LogMeIn GoToWebinar (Tech skill type: Network conferencing software)
+- McAfee (Tech skill type: Transaction security and virus protection software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Azure software (Tech skill type: Development environment software)
+- Microsoft Dynamics (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Exchange (Tech skill type: Electronic mail software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft Publisher (Tech skill type: Desktop publishing software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft Word (Tech skill type: Word processing software)
+- MicroStrategy (Tech skill type: Business intelligence and data analysis software)
+- NetSuite ERP (Tech skill type: Enterprise resource planning ERP software)
+- NetSuite NetCRM (Tech skill type: Customer relationship management CRM software)
+- NortonLifeLock cybersecurity software (Tech skill type: Transaction security and virus protection software)
+- Oracle Database (Tech skill type: Data base user interface and query software)
+- Oracle Fusion Applications (Tech skill type: Enterprise resource planning ERP software)
+- Oracle Hyperion (Tech skill type: Enterprise resource planning ERP software)
+- Oracle PeopleSoft (Tech skill type: Enterprise resource planning ERP software)
+- Presentation software (Tech skill type: Presentation software)
+- R (Tech skill type: Object or component oriented development software)
+- Salesforce software (Tech skill type: Customer relationship management CRM software)
+- Salesforce.com Salesforce CRM (Tech skill type: Customer relationship management CRM software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- SAP Sybase SQL Anywhere (Tech skill type: Customer relationship management CRM software)
+- SAS (Tech skill type: Analytical or scientific software)
+- Scheduling software (Tech skill type: Calendar and scheduling software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- StataCorp Stata (Tech skill type: Analytical or scientific software)
+- Tax software (Tech skill type: Accounting software)
+- Teradata Database (Tech skill type: Data base management system software)
+- Virtual private networking VPN software (Tech skill type: Network security and virtual private network VPN equipment software)
+- Voice over internet protocol VoIP system software (Tech skill type: Internet protocol IP multimedia subsystem software)
+- Web browser software (Tech skill type: Internet browser software)
+- Word processing software (Tech skill type: Word processing software)
+- YouTube (Tech skill type: Video creation and editing software)
+- Zoom (Tech skill type: Video conferencing software)
+
+## TOOLS USED
+- Laptop computers (Tool type: Notebook computers)
+- Personal computers (Tool type: Personal computers)
+- Personal digital assistants PDA (Tool type: Personal digital assistant PDAs or organizers)
+- Tablet computers (Tool type: Tablet computers)
+
+# WORK CONTEXT
+- Conflict Situations: Once a week or more but not every day
+- Consequence of Error: Fairly serious
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a week or more but not every day
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: A lot of freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Never
+- Exposed to Very Hot or Cold Temperatures: Once a year or more but not every month
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: Limited responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Not important at all
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Every day
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Extremely competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: Moderately close (at arm's length)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Never
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Never
+- Spend Time Sitting: More than half the time
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Never
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Once a week or more but not every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Never
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Moderate responsibility
+- Work With or Contribute to a Work Group or Team: Very important
+- Written Letters and Memos: Every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Enterprising
+- Secondary Interest: Conventional
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products
+- Sales Engineers
+- Solar Sales Representatives and Assessors
+- Wholesale and Retail Buyers, Except Farm Products
+- Industrial Production Managers
+- Purchasing Agents, Except Wholesale, Retail, and Farm Products
+- Sales Managers
+- First-Line Supervisors of Non-Retail Sales Workers
+- Advertising Sales Agents
+- Purchasing Managers
+- Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel
+- Retail Salespersons
+- Counter and Rental Clerks
+- Logisticians
+- Parts Salespersons
+- Industrial Engineers
+- Production, Planning, and Expediting Clerks
+- Telemarketers
+- Door-to-Door Sales Workers, News and Street Vendors, and Related Workers
+- Calibration Technologists and Technicians

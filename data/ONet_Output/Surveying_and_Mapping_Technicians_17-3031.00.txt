@@ -1,0 +1,329 @@
+Job Title: Surveying and Mapping Technicians
+O*NET-SOC Code: 17-3031.00
+
+# DESCRIPTION
+Perform surveying and mapping duties, usually under the direction of an engineer, surveyor, cartographer, or photogrammetrist, to obtain data used for construction, mapmaking, boundary location, mining, or other purposes. May calculate mapmaking information and create maps from source data, such as surveying notes, aerial photography, satellite data, or other maps to show topographical features, political boundaries, and other features. May verify accuracy and completeness of maps.
+
+# TASKS
+- Position and hold the vertical rods, or targets, that theodolite operators use for sighting to measure angles, distances, and elevations.
+- Check all layers of maps to ensure accuracy, identifying and marking errors and making corrections.
+- Design or develop information databases that include geographic or topographic data.
+- Monitor mapping work or the updating of maps to ensure accuracy, inclusion of new or changed information, or compliance with rules and regulations.
+- Produce or update overlay maps to show information boundaries, water locations, or topographic features on various base maps or at different scales.
+- Determine scales, line sizes, or colors to be used for hard copies of computerized maps, using plotters.
+- Compile information necessary to stake projects for construction, using engineering plans.
+- Identify and compile database information to create requested maps.
+- Operate and manage land-information computer systems, performing tasks such as storing data, making inquiries, and producing plots and reports.
+- Compare survey computations with applicable standards to determine adequacy of data.
+- Analyze aerial photographs to detect and interpret significant military, industrial, resource, or topographical data.
+- Research and combine existing property information to describe property boundaries in relation to adjacent properties, taking into account parcel splits, combinations, or land boundary adjustments.
+- Calculate latitudes, longitudes, angles, areas, or other information for mapmaking, using survey field notes or reference tables.
+- Compare topographical features or contour lines with images from aerial photographs, old maps, or other reference materials to verify the accuracy of their identification.
+- Trace contours or topographic details to generate maps that denote specific land or property locations or geographic attributes.
+- Provide assistance in the development of methods and procedures for conducting field surveys.
+- Trim, align, and join prints to form photographic mosaics, maintaining scaled distances between reference points.
+- Answer questions and provide information to the public or to staff members regarding assessment maps, surveys, boundaries, easements, property ownership, roads, zoning, or similar matters.
+- Complete detailed source and method notes describing the location of routine or complex land parcels.
+- Adjust and operate surveying instruments such as prisms, theodolites, electronic distance measuring equipment, or electronic data collectors.
+- Collect information needed to carry out new surveys, using source maps, previous survey data, photographs, computer records, or other relevant information.
+- Conduct surveys to ascertain the locations of natural features and man-made structures on the Earth's surface, underground, and underwater, using electronic distance-measuring equipment, such as GPS, and other surveying instruments.
+- Enter Global Positioning System (GPS) data, legal deeds, field notes, or land survey reports into geographic information system (GIS) workstations so that information can be transformed into graphic land descriptions, such as maps and drawings.
+- Perform calculations to determine earth curvature corrections, atmospheric impacts on measurements, traverse closures or adjustments, azimuths, level runs, or placement of markers.
+- Prepare cost estimates for mapping projects.
+- Prepare topographic or contour maps of land surveyed, including site features and other relevant information, such as charts, drawings, and survey notes.
+- Record survey measurements or descriptive data, using notes, drawings, sketches, or inked tracings.
+- Search for section corners, property irons, or survey points.
+- Set out and recover stakes, marks, or other monumentation.
+- Supervise or coordinate activities of workers engaged in surveying, plotting data, drafting maps, or producing blueprints, photostats, or photographs.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Computers and Electronics (Importance: 4.15/5 | Level: 5.08/7)
+- Geography (Importance: 3.86/5 | Level: 5.52/7)
+- Mathematics (Importance: 3.66/5 | Level: 4.28/7)
+- English Language (Importance: 3.59/5 | Level: 3.76/7)
+- Engineering and Technology (Importance: 3.49/5 | Level: 3.84/7)
+- Design (Importance: 3.29/5 | Level: 4.04/7)
+- Customer and Personal Service (Importance: 3.17/5 | Level: 3.29/7)
+- Administrative (Importance: 2.92/5 | Level: 3.55/7)
+- Law and Government (Importance: 2.77/5 | Level: 2.67/7)
+- Administration and Management (Importance: 2.67/5 | Level: 2.95/7)
+- Building and Construction (Importance: 2.63/5 | Level: 2.79/7)
+- Public Safety and Security (Importance: 2.6/5 | Level: 2.45/7)
+- Education and Training (Importance: 2.54/5 | Level: 2.62/7)
+- History and Archeology (Importance: 2.25/5 | Level: 2.21/7)
+- Physics (Importance: 2.22/5 | Level: 2.46/7)
+- Transportation (Importance: 2.19/5 | Level: 2.22/7)
+- Communications and Media (Importance: 2.19/5 | Level: 2.25/7)
+- Production and Processing (Importance: 2.04/5 | Level: 1.73/7)
+- Telecommunications (Importance: 1.92/5 | Level: 1.5/7)
+- Mechanical (Importance: 1.92/5 | Level: 1.81/7)
+- Personnel and Human Resources (Importance: 1.92/5 | Level: 1.55/7)
+- Economics and Accounting (Importance: 1.9/5 | Level: 1.31/7)
+- Biology (Importance: 1.68/5 | Level: 1.34/7)
+- Sales and Marketing (Importance: 1.68/5 | Level: 1.37/7)
+- Chemistry (Importance: 1.61/5 | Level: 1.26/7)
+- Psychology (Importance: 1.54/5 | Level: 1.02/7)
+- Foreign Language (Importance: 1.51/5 | Level: 0.9/7)
+- Sociology and Anthropology (Importance: 1.46/5 | Level: 0.71/7)
+- Philosophy and Theology (Importance: 1.39/5 | Level: 0.75/7)
+- Therapy and Counseling (Importance: 1.31/5 | Level: 0.66/7)
+- Medicine and Dentistry (Importance: 1.31/5 | Level: 0.52/7)
+- Fine Arts (Importance: 1.25/5 | Level: 0.49/7)
+- Food Production (Importance: 1.13/5 | Level: 0.24/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Reading Comprehension (Importance: 3.88/5 | Level: 3.75/7)
+- Critical Thinking (Importance: 3.38/5 | Level: 3.25/7)
+- Writing (Importance: 3.25/5 | Level: 3.5/7)
+- Mathematics (Importance: 3.25/5 | Level: 3.5/7)
+- Complex Problem Solving (Importance: 3.12/5 | Level: 3.12/7)
+- Speaking (Importance: 3.12/5 | Level: 3.12/7)
+- Active Listening (Importance: 3.12/5 | Level: 3.5/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.12/7)
+- Active Learning (Importance: 3.0/5 | Level: 3.12/7)
+- Coordination (Importance: 3.0/5 | Level: 3.12/7)
+- Judgment and Decision Making (Importance: 2.88/5 | Level: 2.75/7)
+- Persuasion (Importance: 2.88/5 | Level: 2.62/7)
+- Time Management (Importance: 2.88/5 | Level: 2.88/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.88/7)
+- Service Orientation (Importance: 2.88/5 | Level: 2.88/7)
+- Systems Evaluation (Importance: 2.62/5 | Level: 2.62/7)
+- Management of Personnel Resources (Importance: 2.62/5 | Level: 2.25/7)
+- Instructing (Importance: 2.62/5 | Level: 2.88/7)
+- Systems Analysis (Importance: 2.62/5 | Level: 2.5/7)
+- Learning Strategies (Importance: 2.5/5 | Level: 2.75/7)
+- Operation and Control (Importance: 2.5/5 | Level: 2.5/7)
+- Operations Monitoring (Importance: 2.38/5 | Level: 2.12/7)
+- Negotiation (Importance: 2.38/5 | Level: 2.38/7)
+- Programming (Importance: 2.25/5 | Level: 1.25/7)
+- Quality Control Analysis (Importance: 2.25/5 | Level: 2.0/7)
+- Operations Analysis (Importance: 2.0/5 | Level: 1.75/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.25/7)
+- Technology Design (Importance: 1.75/5 | Level: 1.0/7)
+- Troubleshooting (Importance: 1.75/5 | Level: 1.0/7)
+- Science (Importance: 1.62/5 | Level: 0.88/7)
+- Management of Financial Resources (Importance: 1.62/5 | Level: 0.88/7)
+- Equipment Selection (Importance: 1.25/5 | Level: 0.62/7)
+- Repairing (Importance: 1.12/5 | Level: 0.12/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- 3D Nature LLC Visual Nature Studio (Tech skill type: Computer aided design CAD software)
+- 3D Nature LLC World Construction Set (Tech skill type: Computer aided design CAD software)
+- Adobe Acrobat Writer (Tech skill type: Word processing software)
+- Adobe FreeHand MX (Tech skill type: Graphics or photo imaging software)
+- Adobe Illustrator (Tech skill type: Graphics or photo imaging software)
+- Adobe Photoshop (Tech skill type: Graphics or photo imaging software)
+- Autodesk 3d Studio Viz (Tech skill type: Computer aided design CAD software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Autodesk AutoCAD Blue Sky (Tech skill type: Computer aided design CAD software)
+- Autodesk AutoCAD Civil 3D (Tech skill type: Computer aided design CAD software)
+- Autodesk AutoCAD Map 3D (Tech skill type: Computer aided design CAD software)
+- Autodesk CAiCE Visual Transportation (Tech skill type: Computer aided design CAD software)
+- Autodesk Land Desktop (Tech skill type: Computer aided design CAD software)
+- Bentley GeoPak Bridge (Tech skill type: Graphics or photo imaging software)
+- Bentley GEOPAK Civil Engineering Suite (Tech skill type: Computer aided design CAD software)
+- Bentley MicroStation (Tech skill type: Computer aided design CAD software)
+- Bentley Systems InRoads Suite (Tech skill type: Map creation software)
+- CARIS HIPS (Tech skill type: Analytical or scientific software)
+- CARIS SIPS (Tech skill type: Analytical or scientific software)
+- Carlson SurvCADD (Tech skill type: Computer aided design CAD software)
+- Carlson Survey (Tech skill type: Map creation software)
+- Computer aided design and drafting software CADD (Tech skill type: Computer aided design CAD software)
+- Computer aided design CAD software (Tech skill type: Computer aided design CAD software)
+- Coordinate geometry COGO software (Tech skill type: Analytical or scientific software)
+- Database software (Tech skill type: Data base user interface and query software)
+- Datalog with guidance DLWG software (Tech skill type: Analytical or scientific software)
+- Desktop digital photogrammetry system DDPS (Tech skill type: Map creation software)
+- Digital elevation model DEM software (Tech skill type: Analytical or scientific software)
+- Email software (Tech skill type: Electronic mail software)
+- ESRI ArcCatalog (Tech skill type: Geographic information system)
+- ESRI ArcEditor (Tech skill type: Geographic information system)
+- ESRI ArcGIS (analytical or scientific feature) (Tech skill type: Geographic information system)
+- ESRI ArcGIS ArcPy (Tech skill type: Analytical or scientific software)
+- ESRI ArcGIS software (Tech skill type: Geographic information system)
+- ESRI ArcGIS Spatial Analyst (Tech skill type: Geographic information system)
+- ESRI ArcIMS (Tech skill type: Geographic information system)
+- ESRI ArcInfo (Tech skill type: Geographic information system)
+- ESRI ArcSDE (Tech skill type: Geographic information system)
+- ESRI ArcToolbox (Tech skill type: Geographic information system)
+- ESRI ArcView (Tech skill type: Geographic information system)
+- ESRI ArcView 3D Analyst (Tech skill type: Geographic information system)
+- ESRI Maplex (Tech skill type: Geographic information system)
+- ESRI MapObjects (Tech skill type: Geographic information system)
+- ESRI Personal Geodatabase (Tech skill type: Geographic information system)
+- Foresoft CDS Cogo (Tech skill type: Analytical or scientific software)
+- Foresoft CDS Model (Tech skill type: Analytical or scientific software)
+- Geographic information system GIS software (Tech skill type: Geographic information system)
+- Geographic information system GIS systems (Tech skill type: Geographic information system)
+- Geomechanical design analysis GDA software (Tech skill type: Map creation software)
+- Global positioning system GPS software (Tech skill type: Mobile location based services software)
+- Graphics software (Tech skill type: Graphics or photo imaging software)
+- Hexagon Geospatial Imagine Photogrammetry (Tech skill type: Map creation software)
+- Hexagon Intergraph (Tech skill type: Map creation software)
+- Hypertext markup language HTML (Tech skill type: Web platform development software)
+- IMAGINE OrthoBASE (Tech skill type: Map creation software)
+- JavaScript (Tech skill type: Web platform development software)
+- Leica Geosystems ERDAS IMAGINE (Tech skill type: Map creation software)
+- Low-level driver LLD software (Tech skill type: Analytical or scientific software)
+- MapInfo (Tech skill type: Map creation software)
+- Mapping software (Tech skill type: Map creation software)
+- MENSI 3Dipsos (Tech skill type: Computer aided design CAD software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Exchange (Tech skill type: Electronic mail software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Visual Basic (Tech skill type: Development environment software)
+- Microsoft Visual Basic for Applications VBA (Tech skill type: Development environment software)
+- Microsoft Visual Basic Scripting Edition VBScript (Tech skill type: Development environment software)
+- Microsoft Word (Tech skill type: Word processing software)
+- MicroSurvey FieldGenius (Tech skill type: Analytical or scientific software)
+- MicroSurvey OfficeSync (Tech skill type: Analytical or scientific software)
+- MicroSurvey Star*Net (Tech skill type: Data base reporting software)
+- MicroSurveyCAD (Tech skill type: Computer aided design CAD software)
+- Modeling software (Tech skill type: Analytical or scientific software)
+- Muncy Plat Pronto (Tech skill type: Map creation software)
+- PCI Geomatics eCognition (Tech skill type: Categorization or classification software)
+- PCI Geomatics software (Tech skill type: Analytical or scientific software)
+- Project management software (Tech skill type: Project management software)
+- Python (Tech skill type: Object or component oriented development software)
+- QuarkXPress (Tech skill type: Desktop publishing software)
+- QuickCogo (Tech skill type: Analytical or scientific software)
+- RockWare ArcMap (Tech skill type: Map creation software)
+- SiteComp Survey (Tech skill type: Map creation software)
+- Software libraries (Tech skill type: Development environment software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- TELEDYNE CARIS (Tech skill type: Map creation software)
+- Traverse PC (Tech skill type: Map creation software)
+- Trimble Digital Fieldbook (Tech skill type: Map creation software)
+- Trimble Geomatics Office (Tech skill type: Analytical or scientific software)
+- Trimble GPS Pathfinder Office (Tech skill type: Map creation software)
+- Trimble Terramodel (Tech skill type: Computer aided design CAD software)
+- Trimble TerraSync (Tech skill type: Geographic information system)
+- Trimble Total Control (Tech skill type: Analytical or scientific software)
+- Tripod Data Systems COGO (Tech skill type: Map creation software)
+- Tripod Data Systems Foresight (Tech skill type: Computer aided design CAD software)
+- Tripod Data Systems software (Tech skill type: Analytical or scientific software)
+- Triton Elics International Isis (Tech skill type: Analytical or scientific software)
+- TRS Software TomCADD (Tech skill type: Computer aided design CAD software)
+- Web browser software (Tech skill type: Internet browser software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- 3D laser scanning systems (Tool type: Laser measuring systems)
+- Alidades (Tool type: Measuring tables)
+- Automatic optical pendulum leveling systems (Tool type: Levels)
+- Axes (Tool type: Axes)
+- Barometers (Tool type: Barometers)
+- Chain saws (Tool type: Power saws)
+- Clinometers (Tool type: Clinometers)
+- Community base station global positioning systems GPS (Tool type: Global positioning system GPS receiver)
+- Desktop computers (Tool type: Desktop computers)
+- Digital cameras (Tool type: Digital cameras)
+- Digitizers (Tool type: Scanners)
+- Distance meters (Tool type: Distance meters)
+- Drafting compasses (Tool type: Compasses)
+- Drafting kits (Tool type: Drafting kits or sets)
+- Drafting templates (Tool type: Templates)
+- Echosounders (Tool type: Sonars)
+- Electronic digital/bar-code leveling systems (Tool type: Levels)
+- Electronic distance measuring devices (Tool type: Distance meters)
+- Electrotapes (Tool type: Distance meters)
+- Engineering scales (Tool type: Scales)
+- Extensometers (Tool type: Extensometers)
+- Fathometer sonar equipment (Tool type: Sonars)
+- Four wheel drive 4WD vehicles (Tool type: All terrain vehicles tracked or wheeled)
+- Geodetic leveling rods (Tool type: Levels)
+- Geological compasses (Tool type: Geological compasses)
+- Global positioning system GPS receivers (Tool type: Global positioning system GPS receiver)
+- Ground vibration sensing equipment (Tool type: Seismic receivers)
+- Hand levels (Tool type: Levels)
+- Handheld data collectors (Tool type: Portable data input terminals)
+- Hatchets (Tool type: Hatchets)
+- Jackhammers (Tool type: Pneumatic hammer)
+- Laser distance measuring equipment (Tool type: Laser measuring systems)
+- Laser printers (Tool type: Laser printers)
+- Laser scanner coordinate capturing equipment (Tool type: Laser measuring systems)
+- Leveling bubbles (Tool type: Levels)
+- Levels (Tool type: Levels)
+- Machetes (Tool type: Machetes)
+- Magnetic field pipe locators (Tool type: Metal detectors)
+- Mallets (Tool type: Mallets)
+- Measuring chains (Tool type: Distance meters)
+- Measuring rods (Tool type: Measuring rods)
+- Measuring tapes (Tool type: Tape measures)
+- Metal detectors (Tool type: Metal detectors)
+- Multibeam sonar equipment (Tool type: Sonars)
+- Notebook computers (Tool type: Notebook computers)
+- Optical pendulum levels (Tool type: Levels)
+- Personal computers (Tool type: Personal computers)
+- Plane tables (Tool type: Measuring tables)
+- Plotters (Tool type: Plotter printers)
+- Plumb bobs (Tool type: Plumb bobs)
+- Pocket personal computers PC (Tool type: Personal computers)
+- Portable hydrographic surveying equipment (Tool type: Portable data input terminals)
+- Pre-programmed coordinate geometry COGO calculators (Tool type: Scientific calculator)
+- Prism poles (Tool type: Extension pole)
+- Prisms (Tool type: Prisms)
+- Programmable calculators (Tool type: Scientific calculator)
+- Protractors (Tool type: Protractors)
+- Ranger data collectors (Tool type: Portable data input terminals)
+- Real-time kinematics RTK global positioning systems GPS (Tool type: Global positioning system GPS receiver)
+- Robotic survey measuring instruments (Tool type: Portable data input terminals)
+- Scanners (Tool type: Scanners)
+- Side scan sonars (Tool type: Sonars)
+- Sight targets (Tool type: Measuring rods)
+- Survey instrument control units (Tool type: Portable data input terminals)
+- T-squares (Tool type: T squares)
+- Tablet computers (Tool type: Tablet computers)
+- Telescoping pole saws (Tool type: Saws)
+- Tellurometers (Tool type: Distance meters)
+- Templates (Tool type: Templates)
+- Theodolites (Tool type: Theodolites)
+- Total stations (Tool type: Theodolites)
+- Transit levels (Tool type: Level sensors or transmitters)
+- Triangles (Tool type: Triangles)
+- Tribrach level bubble adjusting blocks (Tool type: Theodolites)
+- Tribrach optical plummet adjusting cylinders (Tool type: Theodolites)
+- Tripods (Tool type: Instrument tripods)
+- Two way radios (Tool type: Two way radios)
+- Vertical/target rods (Tool type: Measuring rods)
+- Wheeled measuring devices (Tool type: Measuring wheels for distance)
+
+# WORK CONTEXT
+- No specific work context listed.
+
+# INTERESTS (RIASEC)
+- Primary Interest: Realistic
+- Secondary Interest: Conventional
+- Tertiary Interest: Investigative
+
+# RELATED OCCUPATIONS
+- Cartographers and Photogrammetrists
+- Geodetic Surveyors
+- Geographic Information Systems Technologists and Technicians
+- Surveyors
+- Geological Technicians, Except Hydrologic Technicians
+- Architectural and Civil Drafters
+- Civil Engineering Technologists and Technicians
+- Geographers
+- Remote Sensing Technicians
+- Remote Sensing Scientists and Technologists
+- Electrical and Electronics Drafters
+- Geoscientists, Except Hydrologists and Geographers
+- Data Scientists
+- Civil Engineers
+- Statistical Assistants
+- Traffic Technicians
+- Calibration Technologists and Technicians
+- Hydrologists
+- Hydrologic Technicians
+- Mining and Geological Engineers, Including Mining Safety Engineers

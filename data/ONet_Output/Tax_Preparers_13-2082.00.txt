@@ -1,0 +1,226 @@
+Job Title: Tax Preparers
+O*NET-SOC Code: 13-2082.00
+
+# DESCRIPTION
+Prepare tax returns for individuals or small businesses.
+
+# TASKS
+- Use all appropriate adjustments, deductions, and credits to keep clients' taxes to a minimum.
+- Compute taxes owed or overpaid, using adding machines or personal computers, and complete entries on forms, following tax form instructions and tax tables.
+- Interview clients to obtain additional information on taxable income and deductible expenses and allowances.
+- Review financial records, such as income statements and documentation of expenditures to determine forms needed to prepare tax returns.
+- Prepare or assist in preparing simple to complex tax returns for individuals or small businesses.
+- Check data input or verify totals on forms prepared by others to detect errors in arithmetic, data entry, or procedures.
+- Furnish taxpayers with sufficient information and advice to ensure correct tax form completion.
+- Consult tax law handbooks or bulletins to determine procedures for preparation of atypical returns.
+- Explain federal and state tax laws to individuals and companies.
+- Answer questions and provide future tax planning to clients.
+- Calculate form preparation fees according to return complexity and processing time required.
+- Schedule appointments with clients.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Customer and Personal Service (Importance: 4.0/5 | Level: 4.91/7)
+- Economics and Accounting (Importance: 3.86/5 | Level: 4.27/7)
+- English Language (Importance: 3.68/5 | Level: 4.18/7)
+- Computers and Electronics (Importance: 3.45/5 | Level: 4.23/7)
+- Law and Government (Importance: 3.45/5 | Level: 3.82/7)
+- Mathematics (Importance: 3.41/5 | Level: 4.05/7)
+- Administrative (Importance: 3.19/5 | Level: 3.86/7)
+- Administration and Management (Importance: 2.95/5 | Level: 3.09/7)
+- Sales and Marketing (Importance: 2.73/5 | Level: 3.14/7)
+- Personnel and Human Resources (Importance: 2.64/5 | Level: 2.91/7)
+- Production and Processing (Importance: 2.36/5 | Level: 2.09/7)
+- Education and Training (Importance: 2.27/5 | Level: 2.36/7)
+- Communications and Media (Importance: 1.95/5 | Level: 1.68/7)
+- Telecommunications (Importance: 1.91/5 | Level: 1.27/7)
+- Foreign Language (Importance: 1.86/5 | Level: 1.77/7)
+- Public Safety and Security (Importance: 1.77/5 | Level: 0.95/7)
+- Psychology (Importance: 1.73/5 | Level: 1.45/7)
+- Engineering and Technology (Importance: 1.55/5 | Level: 0.86/7)
+- Transportation (Importance: 1.36/5 | Level: 0.64/7)
+- Food Production (Importance: 1.33/5 | Level: 0.76/7)
+- Geography (Importance: 1.33/5 | Level: 0.57/7)
+- Design (Importance: 1.27/5 | Level: 0.5/7)
+- Therapy and Counseling (Importance: 1.27/5 | Level: 0.59/7)
+- History and Archeology (Importance: 1.23/5 | Level: 0.36/7)
+- Philosophy and Theology (Importance: 1.23/5 | Level: 0.55/7)
+- Fine Arts (Importance: 1.23/5 | Level: 0.27/7)
+- Building and Construction (Importance: 1.23/5 | Level: 0.27/7)
+- Sociology and Anthropology (Importance: 1.23/5 | Level: 0.41/7)
+- Mechanical (Importance: 1.18/5 | Level: 0.27/7)
+- Physics (Importance: 1.14/5 | Level: 0.14/7)
+- Medicine and Dentistry (Importance: 1.05/5 | Level: 0.09/7)
+- Chemistry (Importance: 1.05/5 | Level: 0.09/7)
+- Biology (Importance: 1.05/5 | Level: 0.05/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.0/7)
+- Active Listening (Importance: 3.88/5 | Level: 4.0/7)
+- Critical Thinking (Importance: 3.5/5 | Level: 3.62/7)
+- Speaking (Importance: 3.25/5 | Level: 3.5/7)
+- Active Learning (Importance: 3.12/5 | Level: 3.12/7)
+- Mathematics (Importance: 3.12/5 | Level: 3.25/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 2.88/7)
+- Service Orientation (Importance: 3.0/5 | Level: 3.12/7)
+- Writing (Importance: 3.0/5 | Level: 3.0/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 3.0/7)
+- Complex Problem Solving (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 2.88/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 2.75/5 | Level: 3.0/7)
+- Coordination (Importance: 2.75/5 | Level: 2.88/7)
+- Instructing (Importance: 2.75/5 | Level: 3.0/7)
+- Negotiation (Importance: 2.62/5 | Level: 2.62/7)
+- Systems Analysis (Importance: 2.5/5 | Level: 2.75/7)
+- Persuasion (Importance: 2.5/5 | Level: 2.5/7)
+- Systems Evaluation (Importance: 2.25/5 | Level: 2.25/7)
+- Management of Personnel Resources (Importance: 2.0/5 | Level: 1.75/7)
+- Quality Control Analysis (Importance: 1.88/5 | Level: 1.12/7)
+- Management of Financial Resources (Importance: 1.62/5 | Level: 0.88/7)
+- Programming (Importance: 1.62/5 | Level: 0.62/7)
+- Operations Analysis (Importance: 1.62/5 | Level: 0.88/7)
+- Technology Design (Importance: 1.5/5 | Level: 0.5/7)
+- Management of Material Resources (Importance: 1.5/5 | Level: 0.5/7)
+- Operations Monitoring (Importance: 1.38/5 | Level: 0.38/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+- Operation and Control (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- ACI TaskTracker (Tech skill type: Project management software)
+- ATX Total Accounting Office (Tech skill type: Accounting software)
+- ATX Total Tax Office (Tech skill type: Tax preparation software)
+- CCH ProSystem fx TAX (Tech skill type: Tax preparation software)
+- Creative Solutions CPA Depreciation (Tech skill type: Tax preparation software)
+- Creative Solutions UltraTax CS (Tech skill type: Tax preparation software)
+- Datagroup ElectroFile 1040 (Tech skill type: Tax preparation software)
+- Datagroup ElectroFile ELF (Tech skill type: Tax preparation software)
+- Datagroup ElectroFile ST (Tech skill type: Tax preparation software)
+- Datair Employee Benefits Systems (Tech skill type: Financial analysis software)
+- Electronic ToolKit for Tax Preparers (Tech skill type: Tax preparation software)
+- Email software (Tech skill type: Electronic mail software)
+- ExacTax PackageEX (Tech skill type: Tax preparation software)
+- Greatland Corporation Winfiler (Tech skill type: Human resources software)
+- GreatTax (Tech skill type: Tax preparation software)
+- Intellitax financial solutions software (Tech skill type: Tax preparation software)
+- Intuit ProSeries (Tech skill type: Tax preparation software)
+- Intuit QuickBooks (Tech skill type: Accounting software)
+- Intuit TurboTax (Tech skill type: Tax preparation software)
+- Kleinrock Publishing (Tech skill type: Financial analysis software)
+- LaCerte 1040 Tax Analyzer (Tech skill type: Tax preparation software)
+- Laserfiche Avante (Tech skill type: Document management software)
+- M8 Client Billing (Tech skill type: Accounting software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Internet Explorer (Tech skill type: Internet browser software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Petz Enterprises V-Tax (Tech skill type: Tax preparation software)
+- Quicken (Tech skill type: Accounting software)
+- Sage 50 Accounting (Tech skill type: Data base user interface and query software)
+- Sales Tax Tools Sales Tax Researcher (Tech skill type: Financial analysis software)
+- ScheduleVIEW (Tech skill type: Calendar and scheduling software)
+- Sungard Relius (Tech skill type: Financial analysis software)
+- Sync Essentials Trade Accountant (Tech skill type: Financial analysis software)
+- Tax compliance property tax management software (Tech skill type: Compliance software)
+- Tax software (Tech skill type: Accounting software)
+- Thomson GoSystem MyTaxInfo (Tech skill type: Spreadsheet software)
+- Thomson Reuters UltraTax CS (Tech skill type: Tax preparation software)
+- Universal Tax Systems TaxWise (Tech skill type: Tax preparation software)
+- Web page creation and editing software (Tech skill type: Web page creation and editing software)
+
+## TOOLS USED
+- 10-key calculators (Tool type: Desktop calculator)
+- Desktop computers (Tool type: Desktop computers)
+- Notebook computers (Tool type: Notebook computers)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Not serious at all
+- Contact With Others: Constant contact with others
+- Coordinate or Lead Others in Accomplishing Work Activities: Fairly important
+- Deal With External Customers or the Public in General: Extremely important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Moderately automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Never
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Never
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Never
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Never
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Never
+- Exposed to Very Hot or Cold Temperatures: Never
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Every day
+- Health and Safety of Other Workers: No responsibility
+- Impact of Decisions on Co-workers or Company Results: Very important results
+- Importance of Being Exact or Accurate: Extremely important
+- Importance of Repeating Same Tasks: Extremely important
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Never
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Never
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Never
+- Outdoors, Under Cover: Never
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: I work with others but not closely (e.g., private office)
+- Public Speaking: Never
+- Spend Time Bending or Twisting Your Body: Never
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Less than half the time
+- Spend Time Sitting: Continually or almost continually
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: More than half the time
+- Spend Time Walking or Running: Never
+- Telephone Conversations: Every day
+- Time Pressure: Once a week or more but not every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Never
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: Limited responsibility
+- Work With or Contribute to a Work Group or Team: Important
+- Written Letters and Memos: Every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Conventional
+- Secondary Interest: Enterprising
+- Tertiary Interest: Unknown (0)
+
+# RELATED OCCUPATIONS
+- Tax Examiners and Collectors, and Revenue Agents
+- Accountants and Auditors
+- Personal Financial Advisors
+- Bookkeeping, Accounting, and Auditing Clerks
+- Credit Counselors
+- Credit Analysts
+- Loan Officers
+- Compensation, Benefits, and Job Analysis Specialists
+- Financial Examiners
+- Brokerage Clerks
+- Credit Authorizers, Checkers, and Clerks
+- Eligibility Interviewers, Government Programs
+- Budget Analysts
+- Payroll and Timekeeping Clerks
+- Billing and Posting Clerks
+- Financial Managers
+- Loan Interviewers and Clerks
+- Appraisers and Assessors of Real Estate
+- Insurance Claims and Policy Processing Clerks
+- Investment Fund Managers

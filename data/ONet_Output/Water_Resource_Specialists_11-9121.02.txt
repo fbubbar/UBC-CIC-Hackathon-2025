@@ -1,0 +1,256 @@
+Job Title: Water Resource Specialists
+O*NET-SOC Code: 11-9121.02
+
+# DESCRIPTION
+Design or implement programs and strategies related to water resource issues such as supply, quality, and regulatory compliance issues.
+
+# TASKS
+- Perform hydrologic, hydraulic, or water quality modeling.
+- Analyze storm water systems to identify opportunities for water resource improvements.
+- Conduct, or oversee the conduct of, investigations on matters such as water storage, wastewater discharge, pollutants, permits, or other compliance and regulatory issues.
+- Develop strategies for watershed operations to meet water supply and conservation goals or to ensure regulatory compliance with clean water laws or regulations.
+- Conduct technical studies for water resources on topics such as pollutants and water treatment options.
+- Review or evaluate designs for water detention facilities, storm drains, flood control facilities, or other hydraulic structures.
+- Present water resource proposals to government, public interest groups, or community groups.
+- Develop plans to protect watershed health or rehabilitate watersheds.
+- Write proposals, project reports, informational brochures, or other documents on wastewater purification, water supply and demand, or other water resource subjects.
+- Conduct cost-benefit studies for watershed improvement projects or water management alternatives.
+- Provide technical expertise to assist communities in the development or implementation of storm water monitoring or other water programs.
+- Compile and maintain documentation on the health of a body of water.
+- Identify and characterize specific causes or sources of water pollution.
+- Conduct, or oversee the conduct of, chemical, physical, and biological water quality monitoring or sampling to ensure compliance with water quality standards.
+- Compile water resource data, using geographic information systems (GIS) or global position systems (GPS) software.
+- Recommend new or revised policies, procedures, or regulations to support water resource or conservation goals.
+- Develop or implement standardized water monitoring and assessment methods.
+- Supervise teams of workers who capture water from wells and rivers.
+- Negotiate for water rights with communities or water facilities to meet water supply demands.
+- Monitor water use, demand, or quality in a particular geographic area.
+- Identify methods for distributing purified wastewater into rivers, streams, or oceans.
+
+# KNOWLEDGE
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Engineering and Technology (Importance: 4.62/5 | Level: 6.23/7)
+- Mathematics (Importance: 4.18/5 | Level: 5.45/7)
+- Design (Importance: 3.95/5 | Level: 5.36/7)
+- Physics (Importance: 3.86/5 | Level: 4.86/7)
+- Computers and Electronics (Importance: 3.55/5 | Level: 4.91/7)
+- English Language (Importance: 3.41/5 | Level: 4.45/7)
+- Geography (Importance: 3.36/5 | Level: 5.09/7)
+- Building and Construction (Importance: 3.27/5 | Level: 4.14/7)
+- Law and Government (Importance: 3.23/5 | Level: 3.77/7)
+- Chemistry (Importance: 3.18/5 | Level: 4.64/7)
+- Biology (Importance: 2.95/5 | Level: 4.36/7)
+- Customer and Personal Service (Importance: 2.95/5 | Level: 4.18/7)
+- Administration and Management (Importance: 2.86/5 | Level: 4.05/7)
+- Education and Training (Importance: 2.82/5 | Level: 4.36/7)
+- Public Safety and Security (Importance: 2.82/5 | Level: 3.55/7)
+- Economics and Accounting (Importance: 2.73/5 | Level: 3.23/7)
+- Sales and Marketing (Importance: 2.62/5 | Level: 3.77/7)
+- Communications and Media (Importance: 2.59/5 | Level: 2.55/7)
+- Personnel and Human Resources (Importance: 2.45/5 | Level: 3.05/7)
+- Mechanical (Importance: 2.1/5 | Level: 2.64/7)
+- Telecommunications (Importance: 2.09/5 | Level: 2.18/7)
+- Transportation (Importance: 2.0/5 | Level: 2.18/7)
+- Production and Processing (Importance: 2.0/5 | Level: 1.91/7)
+- Administrative (Importance: 1.95/5 | Level: 2.32/7)
+- History and Archeology (Importance: 1.82/5 | Level: 2.14/7)
+- Sociology and Anthropology (Importance: 1.68/5 | Level: 1.73/7)
+- Psychology (Importance: 1.68/5 | Level: 1.45/7)
+- Foreign Language (Importance: 1.45/5 | Level: 1.09/7)
+- Philosophy and Theology (Importance: 1.32/5 | Level: 0.86/7)
+- Food Production (Importance: 1.32/5 | Level: 0.77/7)
+- Therapy and Counseling (Importance: 1.24/5 | Level: 0.68/7)
+- Medicine and Dentistry (Importance: 1.23/5 | Level: 0.5/7)
+- Fine Arts (Importance: 1.09/5 | Level: 0.23/7)
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Writing (Importance: 4.0/5 | Level: 4.0/7)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.0/7)
+- Speaking (Importance: 4.0/5 | Level: 4.0/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.12/7)
+- Active Listening (Importance: 4.0/5 | Level: 4.0/7)
+- Time Management (Importance: 3.88/5 | Level: 3.88/7)
+- Judgment and Decision Making (Importance: 3.88/5 | Level: 3.88/7)
+- Complex Problem Solving (Importance: 3.75/5 | Level: 4.12/7)
+- Systems Evaluation (Importance: 3.62/5 | Level: 3.88/7)
+- Systems Analysis (Importance: 3.62/5 | Level: 4.0/7)
+- Mathematics (Importance: 3.25/5 | Level: 3.75/7)
+- Monitoring (Importance: 3.25/5 | Level: 3.75/7)
+- Active Learning (Importance: 3.25/5 | Level: 3.75/7)
+- Coordination (Importance: 3.25/5 | Level: 3.25/7)
+- Learning Strategies (Importance: 3.12/5 | Level: 3.25/7)
+- Persuasion (Importance: 3.12/5 | Level: 3.5/7)
+- Science (Importance: 3.0/5 | Level: 3.25/7)
+- Negotiation (Importance: 3.0/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 3.62/7)
+- Quality Control Analysis (Importance: 3.0/5 | Level: 2.88/7)
+- Instructing (Importance: 3.0/5 | Level: 3.25/7)
+- Service Orientation (Importance: 3.0/5 | Level: 3.0/7)
+- Operations Analysis (Importance: 2.88/5 | Level: 2.62/7)
+- Operations Monitoring (Importance: 2.88/5 | Level: 3.0/7)
+- Management of Personnel Resources (Importance: 2.75/5 | Level: 3.25/7)
+- Operation and Control (Importance: 2.12/5 | Level: 2.0/7)
+- Management of Material Resources (Importance: 2.12/5 | Level: 2.62/7)
+- Management of Financial Resources (Importance: 2.12/5 | Level: 2.62/7)
+- Troubleshooting (Importance: 2.0/5 | Level: 1.88/7)
+- Programming (Importance: 1.88/5 | Level: 1.5/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.62/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Customer relationship management CRM software (Tech skill type: Customer relationship management CRM software)
+- Database software (Tech skill type: Data base user interface and query software)
+- DHI MIKE URBAN (Tech skill type: Analytical or scientific software)
+- ESRI ArcGIS software (Tech skill type: Geographic information system)
+- ESRI ArcGIS Spatial Analyst (Tech skill type: Geographic information system)
+- ESRI ArcInfo (Tech skill type: Geographic information system)
+- ESRI ArcPad (Tech skill type: Geographic information system)
+- ESRI ArcView (Tech skill type: Geographic information system)
+- ESRI ArcView 3D Analyst (Tech skill type: Geographic information system)
+- FishXing (Tech skill type: Analytical or scientific software)
+- Geographic information system GIS software (Tech skill type: Geographic information system)
+- Geographic information system GIS systems (Tech skill type: Geographic information system)
+- Global positioning system GPS software (Tech skill type: Mobile location based services software)
+- Google Earth Pro (Tech skill type: Geographic information system)
+- HEC-HMS (Tech skill type: Analytical or scientific software)
+- HEC-RAS (Tech skill type: Analytical or scientific software)
+- Laboratory information management system LIMS (Tech skill type: Analytical or scientific software)
+- Mapping software (Tech skill type: Map creation software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- MWH Soft H2ONET MSX (Tech skill type: Analytical or scientific software)
+- MWH Soft InfoSWMM (Tech skill type: Analytical or scientific software)
+- RIVERMorph (Tech skill type: Data base user interface and query software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- TIBCO Spotfire S+ (Tech skill type: Analytical or scientific software)
+- Wallingford Software InfoSewer (Tech skill type: Analytical or scientific software)
+- Wallingford Software InfoWater (Tech skill type: Analytical or scientific software)
+- Wallingford Software InfoWorks CS (Tech skill type: Analytical or scientific software)
+- Wallingford Software InfoWorks WS (Tech skill type: Analytical or scientific software)
+- Water flow modeling software (Tech skill type: Analytical or scientific software)
+- Web browser software (Tech skill type: Internet browser software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Automated water sampling equipment (Tool type: Water samplers)
+- Binocular light compound microscopes (Tool type: Binocular light compound microscopes)
+- Chlorine testers (Tool type: Single gas monitors)
+- Desktop computers (Tool type: Desktop computers)
+- Digital pH meters (Tool type: pH meters)
+- Dissolved oxygen indicators (Tool type: Dissolved oxygen meters)
+- Global positioning system GPS receivers (Tool type: Global positioning system GPS receiver)
+- Grab samplers (Tool type: Soil core sampling apparatus)
+- Gravitational field indicators (Tool type: Gravimeters)
+- Laptop computers (Tool type: Notebook computers)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Mobile radios (Tool type: Two way radios)
+- Multi-line telephone systems (Tool type: Special purpose telephones)
+- Multiparameter water probes (Tool type: Water analyzers)
+- Nitrate meters (Tool type: Nitrogen or nitrate or nitrite analyzer)
+- Nitrite meters (Tool type: Nitrogen or nitrate or nitrite analyzer)
+- Personal computers (Tool type: Personal computers)
+- Plankton nets (Tool type: Commercial fishing nets)
+- Rain gauges (Tool type: Rainfall recorders)
+- Seines (Tool type: Commercial fishing nets)
+- Stream flow gauges (Tool type: Open stream current meters)
+- Temperature gauges (Tool type: Temperature gauge)
+- Titrators (Tool type: Titration equipment)
+- Total dissolved solids TDS meters (Tool type: Water samplers)
+- Total stations (Tool type: Theodolites)
+- Turbidimeters (Tool type: Turbidimeters)
+- Water conductivity testers (Tool type: Conductivity meters)
+- Water flow meters (Tool type: Flow sensors)
+- Water quality test kits (Tool type: Water analyzers)
+- Water samplers (Tool type: Water samplers)
+
+# WORK CONTEXT
+- Conflict Situations: Once a year or more but not every month
+- Consequence of Error: Fairly serious
+- Contact With Others: Contact with others most of the time
+- Coordinate or Lead Others in Accomplishing Work Activities: Very important
+- Deal With External Customers or the Public in General: Very important
+- Dealing With Unpleasant, Angry, or Discourteous People: Once a year or more but not every month
+- Dealing with Violent or Physically Aggressive People: Never
+- Degree of Automation: Not at all automated
+- Determine Tasks, Priorities and Goals: Some freedom
+- E-Mail: Every day
+- Exposed to Contaminants: Once a year or more but not every month
+- Exposed to Cramped Work Space, Awkward Positions: Never
+- Exposed to Disease or Infections: Never
+- Exposed to Extremely Bright or Inadequate Lighting Conditions: Once a year or more but not every month
+- Exposed to Hazardous Conditions: Never
+- Exposed to Hazardous Equipment: Once a year or more but not every month
+- Exposed to High Places: Never
+- Exposed to Minor Burns, Cuts, Bites, or Stings: Once a year or more but not every month
+- Exposed to Radiation: Never
+- Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable: Once a year or more but not every month
+- Exposed to Very Hot or Cold Temperatures: Once a year or more but not every month
+- Exposed to Whole Body Vibration: Never
+- Face-to-Face Discussions with Individuals and Within Teams: Every day
+- Freedom to Make Decisions: A lot of freedom
+- Frequency of Decision Making: Once a month or more but not every week
+- Health and Safety of Other Workers: Moderate responsibility
+- Impact of Decisions on Co-workers or Company Results: Important results
+- Importance of Being Exact or Accurate: Very important
+- Importance of Repeating Same Tasks: Not important at all
+- In an Enclosed Vehicle or Operate Enclosed Equipment: Once a month or more but not every week
+- In an Open Vehicle or Operating Equipment: Never
+- Indoors, Environmentally Controlled: Every day
+- Indoors, Not Environmentally Controlled: Once a year or more but not every month
+- Level of Competition: Moderately competitive
+- Outdoors, Exposed to All Weather Conditions: Once a month or more but not every week
+- Outdoors, Under Cover: Once a year or more but not every month
+- Pace Determined by Speed of Equipment: Not important at all
+- Physical Proximity: I work with others but not closely (e.g., private office)
+- Public Speaking: Once a month or more but not every week
+- Spend Time Bending or Twisting Your Body: Never
+- Spend Time Climbing Ladders, Scaffolds, or Poles: Never
+- Spend Time Keeping or Regaining Balance: Never
+- Spend Time Kneeling, Crouching, Stooping, or Crawling: Never
+- Spend Time Making Repetitive Motions: Never
+- Spend Time Sitting: More than half the time
+- Spend Time Standing: Less than half the time
+- Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls: Less than half the time
+- Spend Time Walking or Running: Less than half the time
+- Telephone Conversations: Every day
+- Time Pressure: Once a week or more but not every day
+- Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets: Once a month or more but not every week
+- Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection: Never
+- Work Outcomes and Results of Other Workers: High responsibility
+- Work With or Contribute to a Work Group or Team: Very important
+- Written Letters and Memos: Once a week or more but not every day
+
+# INTERESTS (RIASEC)
+- Primary Interest: Investigative
+- Secondary Interest: Realistic
+- Tertiary Interest: Conventional
+
+# RELATED OCCUPATIONS
+- Water/Wastewater Engineers
+- Industrial Ecologists
+- Conservation Scientists
+- Environmental Engineers
+- Environmental Restoration Planners
+- Hydrologists
+- Brownfield Redevelopment Specialists and Site Managers
+- Environmental Scientists and Specialists, Including Health
+- Range Managers
+- Natural Sciences Managers
+- Hydrologic Technicians
+- Environmental Science and Protection Technicians, Including Health
+- Environmental Engineering Technologists and Technicians
+- Civil Engineers
+- Agricultural Engineers
+- Geothermal Production Managers
+- Petroleum Engineers
+- Energy Auditors
+- Wind Energy Development Managers
+- Environmental Compliance Inspectors
