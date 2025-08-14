@@ -16,8 +16,8 @@ export default function Home() {
       </div>
       {/* button to dashboard */}
       <div
-        className={`${styles.button} glass`}
-        onClick={() => router.push("/dashboard")}
+        className={`button glass`}
+        onClick={() => router.push("/intake-form")}
       >
         get started
       </div>

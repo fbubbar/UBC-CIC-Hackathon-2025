@@ -1,57 +1,131 @@
 "use client";
 
-import React from "react";
+import React, { useState } from "react";
 import Link from "next/link";
+import styles from "./form.module.css";
+import QuestionaireQ from "./QuestionaireQ";
 
 export default function IntakeForm() {
-  return (
-    <div className="min-h-screen bg-gray-100">
-      {/* Header */}
-      <header className="bg-white shadow-sm border-b">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="flex justify-between items-center py-4">
-            <div>
-              <h1 className="text-xl font-semibold text-gray-900">
-                Intake Form
-              </h1>
-              <p className="text-sm text-gray-600">Fill out the intake form</p>
-            </div>
-            <div className="flex items-center space-x-4">
-              <Link
-                href="/"
-                className="bg-gray-500 text-white px-4 py-2 rounded-md hover:bg-gray-600 text-sm font-medium"
-              >
-                Home
-              </Link>
-              <Link
-                href="/dashboard"
-                className="bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600 text-sm font-medium"
-              >
-                Dashboard
-              </Link>
-            </div>
-          </div>
-        </div>
-      </header>
+  const questions = [
+    "I see myself build Kitchen Cabinets",
+    "I see myself developing a new medicine",
+    "I see myself studying ways to reduce water pollution.",
+    "I see myself writing books or plays.",
+    "I see myself writing books.",
+    "I see myself playing a musical instrument.",
+    "I see myself teaching someone how to exercise.",
+    "I see myself helping people with personal or emotional problems.",
+    "I see myself managing a retail store.",
+    "I see myself buying and selling stocks.",
+    "I see myself creating an extensive spreadsheet.",
+    "I see myself proofreading other people's writing.",
+    "It is important to me to have a nice office space.",
+    "It is important to me to make lots of money.",
+    "It is important to me to have a flexible work schedule.",
+    "It is important to me to help others through my work.",
+    "It is important to me to have opportunities for creativity.",
+    "It is important to me to feel secure in my job.",
+    "It is important to me to work with people I like and respect.",
+  ];
 
-      {/* Main Content */}
-      <main className="py-8">
-        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="bg-white shadow rounded-lg p-6">
-            <h2 className="text-2xl font-bold text-gray-900 mb-6">
-              Intake Form
-            </h2>
-            <p className="text-gray-600 mb-4">
-              This is the intake form page. Add your form components here.
-            </p>
-            <div className="border-2 border-dashed border-gray-300 rounded-lg p-8 text-center">
-              <p className="text-gray-500">
-                Intake form content will be implemented here
-              </p>
-            </div>
+  const [currentPage, setCurrentPage] = useState(0);
+  const [nextPageEnabled, setNextPageEnabled] = useState(false);
+
+  /* 1. basic responses */
+  const [firstName, setFirstName] = useState("");
+  const [resumseFile, setResumseFile] = useState(null);
+
+  /* 2. questionaire responses */
+  const [currentQuestion, setCurrentQuestion] = useState(0);
+  const [userResponses, setUserResponses] = useState(
+    Array(questions.length).fill("")
+  );
+
+  /* 3. soft skills responses */
+  const [softSkills, setSoftSkills] = useState("");
+
+  /* 4. career prospects responses */
+  const [careerProspects, setCareerProspects] = useState("");
+
+  const setSpecificQuestionResponse = (
+    questionIndex: number,
+    userResponse: string
+  ) => {
+    const newUserResponse = [...userResponses];
+    newUserResponse[questionIndex] = userResponse;
+    setUserResponses(newUserResponse);
+  };
+
+  return (
+    <div className={styles.container}>
+      {currentPage === 0 && (
+        <div className={styles.formSection}>
+          <div className={styles.inputRow}>
+            <input
+              className={`${styles.input} glass`}
+              id="firstName"
+              placeholder="First Name"
+            ></input>
+            <input
+              className={`${styles.input} glass`}
+              id="lastName"
+              placeholder="Last Name"
+            ></input>
           </div>
+
+          <input
+            className={`${styles.input} glass`}
+            id="email"
+            placeholder="Email"
+          ></input>
+          <input
+            type="file"
+            accept=".pdf"
+            id="resumeUpload"
+            className={styles.fileInput}
+          ></input>
         </div>
-      </main>
+      )}
+      {currentPage === 1 && (
+        <div id="questionaire">
+          <QuestionaireQ
+            question={questions[currentQuestion]}
+            setUserResponse={(userResponse: string) =>
+              setSpecificQuestionResponse(currentQuestion, userResponse)
+            }
+          ></QuestionaireQ>
+        </div>
+      )}
+      {currentPage === 2 && (
+        <div>
+          <input
+            className={`${styles.input} glass`}
+            id="softSkills"
+            placeholder="Type soft skills separated by commas"
+          ></input>
+        </div>
+      )}
+      {currentPage === 3 && (
+        <input
+          className={`${styles.input} glass`}
+          id="prospects"
+          placeholder="Type careers that interest you separated by commas"
+        ></input>
+      )}
+      <div className={styles.buttonContainer}>
+        <div
+          className={`button glass ${currentPage === 0 ? styles.disabled : ""}`}
+          onClick={() => currentPage > 0 && setCurrentPage(currentPage - 1)}
+        >
+          Back
+        </div>
+        <div
+          className={`button glass ${nextPageEnabled ? "" : styles.disabled}`}
+          onClick={() => nextPageEnabled && setCurrentPage(currentPage + 1)}
+        >
+          Next
+        </div>
+      </div>
     </div>
   );
 }
