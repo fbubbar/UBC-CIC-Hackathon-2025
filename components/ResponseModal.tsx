@@ -1,9 +1,9 @@
 'use client';
 
-import type { Schema } from '@/amplify/data/resource';
+import { SavedResponse } from '@/lib/api';
 
 interface ResponseModalProps {
-  response: Schema['SavedResponse']['type'] | null;
+  response: SavedResponse | null;
   isOpen: boolean;
   onClose: () => void;
 }

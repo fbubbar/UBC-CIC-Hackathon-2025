@@ -1,21 +1,8 @@
 'use client';
 
 import { useState } from 'react';
-import { generateClient } from 'aws-amplify/data';
-import type { Schema } from '@/amplify/data/resource';
-
-const client = generateClient<Schema>();
-
-interface RelevantChunk {
-  content: string;
-  score: number;
-}
-
-interface QAResponse {
-  answer: string;
-  relevantChunks: RelevantChunk[];
-  success: boolean;
-}
+import { usePDFQuestion, useValidatePDFRequest, useCreateSavedResponse } from '@/hooks';
+import { PDFQuestionResponse } from '@/lib/api';
 
 interface PDFQuestionFormProps {
   onResponseSaved?: () => void;
@@ -24,11 +11,13 @@ interface PDFQuestionFormProps {
 export default function PDFQuestionForm({ onResponseSaved }: PDFQuestionFormProps) {
   const [file, setFile] = useState<File | null>(null);
   const [question, setQuestion] = useState('');
-  const [response, setResponse] = useState<QAResponse | null>(null);
-  const [loading, setLoading] = useState(false);
+  const [response, setResponse] = useState<PDFQuestionResponse | null>(null);
   const [error, setError] = useState<string | null>(null);
-  const [saving, setSaving] = useState(false);
   const [saveSuccess, setSaveSuccess] = useState(false);
+
+  const pdfQuestionMutation = usePDFQuestion();
+  const createSavedResponseMutation = useCreateSavedResponse();
+  const validateRequest = useValidatePDFRequest();
 
   const handleFileChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     const selectedFile = e.target.files?.[0];
@@ -49,37 +38,20 @@ export default function PDFQuestionForm({ onResponseSaved }: PDFQuestionFormProp
       return;
     }
 
-    if (question.length > 500) {
-      setError('Question must be 500 characters or less');
+    const validationErrors = validateRequest({ pdf: file, question });
+    if (validationErrors.length > 0) {
+      setError(validationErrors[0]);
       return;
     }
 
-    setLoading(true);
     setError(null);
     setResponse(null);
 
     try {
-      const formData = new FormData();
-      formData.append('pdf', file);
-      formData.append('question', question);
-
-      const res = await fetch('/api/pdf-qa', {
-        method: 'POST',
-        body: formData,
-      });
-
-      const data = await res.json();
-
-      if (data.success) {
-        setResponse(data);
-      } else {
-        setError(data.error || 'Failed to process request');
-      }
+      const result = await pdfQuestionMutation.mutateAsync({ pdf: file, question });
+      setResponse(result);
     } catch (err) {
-      setError('Network error occurred. Please try again.');
-      console.error('Submit error:', err);
-    } finally {
-      setLoading(false);
+      setError(err instanceof Error ? err.message : 'Failed to process request');
     }
   };
 
@@ -94,28 +66,22 @@ export default function PDFQuestionForm({ onResponseSaved }: PDFQuestionFormProp
   const saveResponse = async () => {
     if (!response || !question) return;
 
-    setSaving(true);
     try {
-      await client.models.SavedResponse.create({
-        question: question,
+      await createSavedResponseMutation.mutateAsync({
+        question,
         answer: response.answer,
         fileName: file?.name || '',
-        savedAt: new Date().toISOString(),
-        tags: [] // Could be enhanced to allow user to add tags
+        tags: []
       });
       
       setSaveSuccess(true);
-      setTimeout(() => setSaveSuccess(false), 3000); // Hide success message after 3 seconds
+      setTimeout(() => setSaveSuccess(false), 3000);
       
-      // Notify parent component that a response was saved
       if (onResponseSaved) {
         onResponseSaved();
       }
     } catch (error) {
-      console.error('Error saving response:', error);
       setError('Failed to save response. Please try again.');
-    } finally {
-      setSaving(false);
     }
   };
 
@@ -141,7 +107,7 @@ export default function PDFQuestionForm({ onResponseSaved }: PDFQuestionFormProp
               accept=".pdf"
               onChange={handleFileChange}
               className="block w-full text-sm text-gray-500 file:mr-4 file:py-2 file:px-4 file:rounded-md file:border-0 file:text-sm file:font-semibold file:bg-blue-50 file:text-blue-700 hover:file:bg-blue-100"
-              disabled={loading}
+              disabled={pdfQuestionMutation.isPending}
             />
             {file && (
               <p className="text-sm text-green-600 mt-1">
@@ -163,7 +129,7 @@ export default function PDFQuestionForm({ onResponseSaved }: PDFQuestionFormProp
               maxLength={500}
               rows={4}
               className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 text-gray-900 placeholder-gray-500"
-              disabled={loading}
+              disabled={pdfQuestionMutation.isPending}
             />
           </div>
 
@@ -178,10 +144,10 @@ export default function PDFQuestionForm({ onResponseSaved }: PDFQuestionFormProp
           <div className="flex space-x-4">
             <button
               type="submit"
-              disabled={loading || !file || !question.trim()}
+              disabled={pdfQuestionMutation.isPending || !file || !question.trim()}
               className="flex-1 bg-blue-600 text-white py-3 px-6 rounded-md hover:bg-blue-700 disabled:opacity-50 disabled:cursor-not-allowed font-medium"
             >
-              {loading ? (
+              {pdfQuestionMutation.isPending ? (
                 <span className="flex items-center justify-center">
                   <svg className="animate-spin -ml-1 mr-3 h-5 w-5 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
                     <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
@@ -198,7 +164,7 @@ export default function PDFQuestionForm({ onResponseSaved }: PDFQuestionFormProp
               type="button"
               onClick={handleReset}
               className="px-6 py-3 border border-gray-300 text-gray-700 rounded-md hover:bg-gray-50 font-medium"
-              disabled={loading}
+              disabled={pdfQuestionMutation.isPending}
             >
               Reset
             </button>
@@ -218,10 +184,10 @@ export default function PDFQuestionForm({ onResponseSaved }: PDFQuestionFormProp
                 )}
                 <button
                   onClick={saveResponse}
-                  disabled={saving}
+                  disabled={createSavedResponseMutation.isPending}
                   className="bg-green-600 text-white px-4 py-2 rounded-md hover:bg-green-700 disabled:opacity-50 disabled:cursor-not-allowed text-sm font-medium"
                 >
-                  {saving ? 'Saving...' : 'Save Response'}
+                  {createSavedResponseMutation.isPending ? 'Saving...' : 'Save Response'}
                 </button>
               </div>
             </div>

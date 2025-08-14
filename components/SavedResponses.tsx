@@ -1,47 +1,20 @@
 'use client';
 
-import { useState, useEffect } from 'react';
-import { generateClient } from 'aws-amplify/data';
-import type { Schema } from '@/amplify/data/resource';
-
-const client = generateClient<Schema>();
+import { useState } from 'react';
+import { useSavedResponses, useDeleteSavedResponse } from '@/hooks';
+import { SavedResponse } from '@/lib/api';
 
 interface SavedResponsesProps {
-  onSelectResponse?: (response: Schema['SavedResponse']['type']) => void;
+  onSelectResponse?: (response: SavedResponse) => void;
   refreshTrigger?: number;
 }
 
 export default function SavedResponses({ onSelectResponse, refreshTrigger }: SavedResponsesProps) {
-  const [savedResponses, setSavedResponses] = useState<Array<Schema['SavedResponse']['type']>>([]);
-  const [loading, setLoading] = useState(true);
   const [searchTerm, setSearchTerm] = useState('');
   const [selectedTag, setSelectedTag] = useState<string>('');
 
-  useEffect(() => {
-    fetchSavedResponses();
-  }, []);
-
-  // Refresh when refreshTrigger changes
-  useEffect(() => {
-    if (refreshTrigger !== undefined && refreshTrigger > 0) {
-      fetchSavedResponses();
-    }
-  }, [refreshTrigger]);
-
-  const fetchSavedResponses = async () => {
-    try {
-      const { data } = await client.models.SavedResponse.list();
-      // Sort by savedAt in descending order (newest first)
-      const sortedData = data.sort((a, b) => 
-        new Date(b.savedAt).getTime() - new Date(a.savedAt).getTime()
-      );
-      setSavedResponses(sortedData);
-    } catch (error) {
-      console.error('Error fetching saved responses:', error);
-    } finally {
-      setLoading(false);
-    }
-  };
+  const { data: savedResponses = [], isLoading, error } = useSavedResponses();
+  const deleteResponseMutation = useDeleteSavedResponse();
 
   const deleteResponse = async (id: string) => {
     if (!confirm('Are you sure you want to delete this saved response?')) {
@@ -49,8 +22,7 @@ export default function SavedResponses({ onSelectResponse, refreshTrigger }: Sav
     }
 
     try {
-      await client.models.SavedResponse.delete({ id });
-      setSavedResponses(prev => prev.filter(response => response.id !== id));
+      await deleteResponseMutation.mutateAsync(id);
     } catch (error) {
       console.error('Error deleting response:', error);
     }
@@ -80,12 +52,22 @@ export default function SavedResponses({ onSelectResponse, refreshTrigger }: Sav
     return Array.from(tags).sort();
   };
 
-  if (loading) {
+  if (isLoading) {
     return (
       <div className="p-6">
         <div className="flex items-center justify-center">
           <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-blue-600"></div>
           <span className="ml-2">Loading saved responses...</span>
+        </div>
+      </div>
+    );
+  }
+
+  if (error) {
+    return (
+      <div className="p-6">
+        <div className="bg-red-50 border border-red-200 text-red-700 px-4 py-3 rounded-md">
+          Error loading saved responses: {error.message}
         </div>
       </div>
     );
@@ -172,10 +154,11 @@ export default function SavedResponses({ onSelectResponse, refreshTrigger }: Sav
                     )}
                     <button
                       onClick={() => deleteResponse(response.id)}
-                      className="text-red-600 hover:text-red-800 text-sm"
+                      disabled={deleteResponseMutation.isPending}
+                      className="text-red-600 hover:text-red-800 text-sm disabled:opacity-50"
                       title="Delete response"
                     >
-                      Delete
+                      {deleteResponseMutation.isPending ? 'Deleting...' : 'Delete'}
                     </button>
                   </div>
                 </div>
