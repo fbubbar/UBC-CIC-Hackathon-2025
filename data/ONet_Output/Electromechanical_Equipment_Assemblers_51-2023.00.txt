@@ -1,0 +1,128 @@
+Job Title: Electromechanical Equipment Assemblers
+O*NET-SOC Code: 51-2023.00
+
+# DESCRIPTION
+Assemble or modify electromechanical equipment or devices, such as servomechanisms, gyros, dynamometers, magnetic drums, tape drives, brakes, control linkage, actuators, and appliances.
+
+# TASKS
+- Inspect, test, and adjust completed units to ensure that units meet specifications, tolerances, and customer order requirements.
+- Position, align, and adjust parts for proper fit and assembly.
+- Assemble parts or units, and position, align, and fasten units to assemblies, subassemblies, or frames, using hand tools and power tools.
+- Connect cables, tubes, and wiring, according to specifications.
+- Measure parts to determine tolerances, using precision measuring instruments such as micrometers, calipers, and verniers.
+- Read blueprints and specifications to determine component parts and assembly sequences of electromechanical units.
+- Attach name plates and mark identifying information on parts.
+- Disassemble units to replace parts or to crate them for shipping.
+- File, lap, and buff parts to fit, using hand and power tools.
+- Clean and lubricate parts and subassemblies, using grease paddles or oilcans.
+- Operate or tend automated assembling equipment, such as robotics and fixed automation equipment.
+- Drill, tap, ream, countersink, and spot-face bolt holes in parts, using drill presses and portable power drills.
+- Operate small cranes to transport or position large parts.
+- Pack or fold insulation between panels.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Quality Control Analysis (Importance: 3.25/5 | Level: 3.25/7)
+- Operations Monitoring (Importance: 3.25/5 | Level: 3.0/7)
+- Troubleshooting (Importance: 3.0/5 | Level: 3.12/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 2.88/7)
+- Speaking (Importance: 3.0/5 | Level: 2.62/7)
+- Reading Comprehension (Importance: 3.0/5 | Level: 3.0/7)
+- Monitoring (Importance: 2.88/5 | Level: 2.75/7)
+- Time Management (Importance: 2.88/5 | Level: 2.62/7)
+- Judgment and Decision Making (Importance: 2.88/5 | Level: 2.38/7)
+- Active Listening (Importance: 2.88/5 | Level: 2.75/7)
+- Equipment Maintenance (Importance: 2.75/5 | Level: 2.88/7)
+- Repairing (Importance: 2.75/5 | Level: 2.75/7)
+- Operation and Control (Importance: 2.62/5 | Level: 2.25/7)
+- Social Perceptiveness (Importance: 2.5/5 | Level: 1.75/7)
+- Writing (Importance: 2.5/5 | Level: 2.12/7)
+- Complex Problem Solving (Importance: 2.5/5 | Level: 2.12/7)
+- Active Learning (Importance: 2.38/5 | Level: 2.12/7)
+- Coordination (Importance: 2.38/5 | Level: 2.0/7)
+- Equipment Selection (Importance: 2.38/5 | Level: 2.0/7)
+- Systems Evaluation (Importance: 2.12/5 | Level: 1.5/7)
+- Systems Analysis (Importance: 2.12/5 | Level: 1.88/7)
+- Service Orientation (Importance: 2.0/5 | Level: 1.75/7)
+- Mathematics (Importance: 2.0/5 | Level: 1.88/7)
+- Science (Importance: 2.0/5 | Level: 2.0/7)
+- Learning Strategies (Importance: 1.88/5 | Level: 1.62/7)
+- Instructing (Importance: 1.88/5 | Level: 1.5/7)
+- Negotiation (Importance: 1.88/5 | Level: 1.62/7)
+- Persuasion (Importance: 1.88/5 | Level: 1.62/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.0/7)
+- Management of Personnel Resources (Importance: 1.88/5 | Level: 1.62/7)
+- Management of Material Resources (Importance: 1.75/5 | Level: 0.75/7)
+- Operations Analysis (Importance: 1.75/5 | Level: 0.75/7)
+- Management of Financial Resources (Importance: 1.62/5 | Level: 0.62/7)
+- Installation (Importance: 1.62/5 | Level: 1.0/7)
+- Programming (Importance: 1.5/5 | Level: 0.5/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Blueprint display software (Tech skill type: Graphics or photo imaging software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Word (Tech skill type: Word processing software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Timekeeping software (Tech skill type: Time accounting software)
+
+## TOOLS USED
+- Buffing wheels (Tool type: Power buffers)
+- C clamps (Tool type: C clamps)
+- Chain falls (Tool type: Hoists)
+- Chalk line markers (Tool type: Chalk lines)
+- Claw hammers (Tool type: Claw hammer)
+- Combination pliers (Tool type: Combination pliers)
+- Comealongs (Tool type: Pullers)
+- Component insertion machines (Tool type: Miscellaneous assembly machines)
+- Cornice brakes (Tool type: Manual press brake)
+- Digital calipers (Tool type: Calipers)
+- Digital dynamometers (Tool type: Dynamometers)
+- Digital micrometers (Tool type: Micrometers)
+- Digital oscilloscopes (Tool type: Oscilloscopes)
+- Dynamic actuators (Tool type: Electronic actuators)
+- Electric hoists (Tool type: Hoists)
+- Electric rotary wire brushes (Tool type: Wire brushes)
+- Electric sanders (Tool type: Power sanders)
+- Electric soldering irons (Tool type: Soldering iron)
+- Flat hand-held files (Tool type: Flat hand file)
+- Grease paddles (Tool type: Grease guns)
+- Grinding rasps (Tool type: Rasps)
+- Gyroscopes (Tool type: Gyroscopic instruments)
+- Hand reamers (Tool type: Hand reamer)
+- Handheld grinders (Tool type: Power grinders)
+- Hydraulic crimpers (Tool type: Wire lug crimping tool)
+- Inspection microscopes (Tool type: Binocular light compound microscopes)
+- Locking ratchet wrenches (Tool type: Ratchets)
+- Magnetic drill presses (Tool type: Drill press or radial drill)
+- Metal chisels (Tool type: Cold chisels)
+- Metal shears (Tool type: Shears)
+- Metal-cutting bandsaws (Tool type: Power saws)
+- Multifunction digital multimeters (Tool type: Multimeters)
+- Multipurpose wrenches (Tool type: Combination wrenches)
+- Nail pullers (Tool type: Pullers)
+- Optical squares (Tool type: Squares)
+- Personal computers (Tool type: Personal computers)
+- Pipe taps (Tool type: Threading taps)
+- Plumb lines (Tool type: Plumb bobs)
+- Pneumatic riveters (Tool type: Rivet tools)
+- Portable power drills (Tool type: Power drills)
+- Power brakes (Tool type: Hydraulic press brake)
+- Precision levels (Tool type: Levels)
+- Precision rulers (Tool type: Rulers)
+- Punch presses (Tool type: Drill press or radial drill)
+- Sledgehammers (Tool type: Sledge hammer)
+- Socket wrench sets (Tool type: Socket sets)
+- Spot welding tools (Tool type: Spot welding machine)
+- Steel wedges (Tool type: Wedges)
+- Straight screwdrivers (Tool type: Screwdrivers)
+- Temperature testers (Tool type: Temperature cycle chamber)
+- Test lights (Tool type: Circuit tester)
+- Torque drivers (Tool type: Torque wrenches)
+- Vernier calipers (Tool type: Calipers)
+- Vernier height gauges (Tool type: Height gauges)
+- Wire cutting tools (Tool type: Wire cutters)
+- Wire-routing tools (Tool type: Specialty assembly)
+- Workpiece positioning jigs (Tool type: Positioning jig)
+- Workshop bench vises (Tool type: Bench vises)

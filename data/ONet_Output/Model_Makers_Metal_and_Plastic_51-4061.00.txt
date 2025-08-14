@@ -1,0 +1,113 @@
+Job Title: Model Makers, Metal and Plastic
+O*NET-SOC Code: 51-4061.00
+
+# DESCRIPTION
+Set up and operate machines, such as lathes, milling and engraving machines, and jig borers to make working models of metal or plastic objects. Includes template makers.
+
+# TASKS
+- Study blueprints, drawings, and sketches to determine material dimensions, required equipment, and operations sequences.
+- Inspect and test products to verify conformance to specifications, using precision measuring instruments or circuit testers.
+- Drill, countersink, and ream holes in parts and assemblies for bolts, screws, and other fasteners, using power tools.
+- Cut, shape, and form metal parts, using lathes, power saws, snips, power brakes and shears, files, and mallets.
+- Set up and operate machines, such as lathes, drill presses, punch presses, or bandsaws, to fabricate prototypes or models.
+- Devise and construct tools, dies, molds, jigs, and fixtures, or modify existing tools and equipment.
+- Rework or alter component model or parts as required to ensure that products meet standards.
+- Grind, file, and sand parts to finished dimensions.
+- Program computer numerical control (CNC) machines to fabricate model parts.
+- Lay out and mark reference points and dimensions on materials, using measuring instruments and drawing or scribing tools.
+- Align, fit, and join parts, using bolts and screws or by welding or gluing.
+- Use computer-aided design (CAD) and computer-aided manufacturing (CAM) software or hardware to fabricate model parts.
+- Assemble mechanical, electrical, and electronic components into models or prototypes, using hand tools, power tools, and fabricating machines.
+- Consult and confer with engineering personnel to discuss developmental problems and to recommend product modifications.
+- Record specifications, production operations, and final dimensions of models for use in establishing operating standards and procedures.
+- Wire and solder electrical and electronic connections and components.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operation and Control (Importance: 3.62/5 | Level: 3.25/7)
+- Operations Monitoring (Importance: 3.38/5 | Level: 3.12/7)
+- Monitoring (Importance: 3.25/5 | Level: 3.0/7)
+- Quality Control Analysis (Importance: 3.25/5 | Level: 3.12/7)
+- Troubleshooting (Importance: 3.12/5 | Level: 3.12/7)
+- Critical Thinking (Importance: 3.12/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 3.0/7)
+- Speaking (Importance: 3.0/5 | Level: 2.62/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 2.88/7)
+- Active Listening (Importance: 3.0/5 | Level: 2.88/7)
+- Reading Comprehension (Importance: 2.88/5 | Level: 3.0/7)
+- Active Learning (Importance: 2.88/5 | Level: 2.88/7)
+- Equipment Selection (Importance: 2.88/5 | Level: 3.0/7)
+- Complex Problem Solving (Importance: 2.88/5 | Level: 2.75/7)
+- Coordination (Importance: 2.88/5 | Level: 2.88/7)
+- Repairing (Importance: 2.75/5 | Level: 2.62/7)
+- Writing (Importance: 2.75/5 | Level: 2.62/7)
+- Equipment Maintenance (Importance: 2.62/5 | Level: 2.62/7)
+- Mathematics (Importance: 2.62/5 | Level: 2.88/7)
+- Operations Analysis (Importance: 2.62/5 | Level: 2.5/7)
+- Social Perceptiveness (Importance: 2.62/5 | Level: 2.62/7)
+- Learning Strategies (Importance: 2.38/5 | Level: 2.0/7)
+- Instructing (Importance: 2.25/5 | Level: 2.12/7)
+- Technology Design (Importance: 2.12/5 | Level: 1.88/7)
+- Management of Personnel Resources (Importance: 2.12/5 | Level: 1.75/7)
+- Persuasion (Importance: 2.0/5 | Level: 1.88/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 1.88/7)
+- Systems Analysis (Importance: 2.0/5 | Level: 1.12/7)
+- Service Orientation (Importance: 1.88/5 | Level: 1.5/7)
+- Negotiation (Importance: 1.88/5 | Level: 1.38/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.38/7)
+- Science (Importance: 1.75/5 | Level: 1.25/7)
+- Programming (Importance: 1.75/5 | Level: 0.88/7)
+- Management of Financial Resources (Importance: 1.62/5 | Level: 0.88/7)
+- Installation (Importance: 1.38/5 | Level: 0.38/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- CNC Software Mastercam (Tech skill type: Computer aided manufacturing CAM software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Word (Tech skill type: Word processing software)
+- PTC Creo Parametric (Tech skill type: Computer aided design CAD software)
+
+## TOOLS USED
+- Audio-oscillators (Tool type: Simple harmonic oscillator)
+- Bandsaws (Tool type: Metal band sawing machine)
+- Benchtop drill presses (Tool type: Drill press or radial drill)
+- Capacitance checkers (Tool type: Capacitance meters)
+- Chain hoists (Tool type: Hoists)
+- Computer numerical control CNC routers (Tool type: Power routers)
+- Computer numerical control CNC vertical machine centers (Tool type: Vertical machining center)
+- Digital calipers (Tool type: Calipers)
+- Digital electrical frequency meters (Tool type: Electrical frequency meters)
+- Digital hardness testers (Tool type: Hardness testers)
+- Digital integrated circuit testers (Tool type: Integrated circuit testers)
+- Digital oscilloscopes (Tool type: Oscilloscopes)
+- Electrical discharge machines EDM (Tool type: Wire cathode electrode discharge machine)
+- Electronic micrometers (Tool type: Micrometers)
+- Engraving machines (Tool type: Engraving machines)
+- Flat smooth cut files (Tool type: Smooth cut file)
+- Fused deposition modeling FDM printers (Tool type: Three dimensional printing machine)
+- Gas powered brazing equipment (Tool type: Gas welding or brazing or cutting apparatus)
+- Grease dispensing guns (Tool type: Grease guns)
+- Hand snips (Tool type: Tinners snips)
+- Hydraulic punch presses (Tool type: Drill press or radial drill)
+- Jewelers lathes (Tool type: Tracer or duplicating or contouring lathe)
+- Jig bores (Tool type: Boring machines)
+- Mallets (Tool type: Mallets)
+- Manual lathes (Tool type: Tracer or duplicating or contouring lathe)
+- Manual mills (Tool type: Milling machines)
+- Metal shears (Tool type: Tinners snips)
+- Microsoldering equipment (Tool type: Soldering iron)
+- Portable workshop cranes (Tool type: Workshop cranes)
+- Power brakes (Tool type: Hydraulic press brake)
+- Power grinding machines (Tool type: Grinding machines)
+- Power saws (Tool type: Power saws)
+- Scribing tools (Tool type: Scribers)
+- Selective layered sintering SLS printers (Tool type: Three dimensional printing machine)
+- Shadowgraph optical comparators (Tool type: Comparators)
+- Signal generators (Tool type: Signal generators)
+- Soldering irons (Tool type: Soldering iron)
+- Stereolithography SLA printers (Tool type: Three dimensional printing machine)
+- Three-dimensional prototyping printers (Tool type: Three dimensional printing machine)
+- Tungsten inert gas TIG welding equipment (Tool type: Tungsten inert gas welding machine)
+- Visual autocollimators (Tool type: Autocollimator)
+- Volt-ohm meters VOM (Tool type: Ohmmeters)
+- Wheatstone bridges (Tool type: Calibrated resistance measuring equipment)

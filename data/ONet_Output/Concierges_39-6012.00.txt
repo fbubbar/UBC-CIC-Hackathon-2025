@@ -1,0 +1,87 @@
+Job Title: Concierges
+O*NET-SOC Code: 39-6012.00
+
+# DESCRIPTION
+Assist patrons at hotel, apartment, or office building with personal services. May take messages; arrange or give advice on transportation, business services, or entertainment; or monitor guest requests for housekeeping and maintenance.
+
+# TASKS
+- Provide directions to guests.
+- Make reservations for patrons, such as for dinner, spa treatments, or golf tee times, and obtain tickets to special events.
+- Provide information about local features, such as shopping, dining, nightlife, or recreational destinations.
+- Make travel arrangements for sightseeing or other tours.
+- Provide business services for guests, such as sending or receiving faxes or shipping packages.
+- Arrange childcare services for guests.
+- Pick up and deliver items or run errands for guests.
+- Order flowers for guests.
+- Carry out unusual requests, such as searching for hard-to-find items or arranging for exotic services, such as hot-air balloon rides.
+- Receive, store, or deliver luggage or mail.
+- Plan special events, parties, or meetings, which may include booking musicians or celebrities.
+- Perform office duties on a temporary basis when needed.
+- Arrange for interpreters or translators when patrons require such services.
+- Arrange for the replacement of items lost by travelers.
+- Provide food and beverage services to guests.
+- Clean and tidy hotel lounge.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Service Orientation (Importance: 4.25/5 | Level: 4.0/7)
+- Social Perceptiveness (Importance: 4.12/5 | Level: 3.12/7)
+- Speaking (Importance: 4.0/5 | Level: 3.38/7)
+- Active Listening (Importance: 4.0/5 | Level: 3.88/7)
+- Coordination (Importance: 3.5/5 | Level: 3.0/7)
+- Critical Thinking (Importance: 3.25/5 | Level: 3.62/7)
+- Monitoring (Importance: 3.0/5 | Level: 3.0/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 2.75/7)
+- Reading Comprehension (Importance: 3.0/5 | Level: 3.25/7)
+- Persuasion (Importance: 3.0/5 | Level: 2.88/7)
+- Active Learning (Importance: 2.88/5 | Level: 2.88/7)
+- Complex Problem Solving (Importance: 2.88/5 | Level: 2.62/7)
+- Time Management (Importance: 2.88/5 | Level: 2.75/7)
+- Negotiation (Importance: 2.75/5 | Level: 2.88/7)
+- Writing (Importance: 2.75/5 | Level: 2.88/7)
+- Management of Personnel Resources (Importance: 2.38/5 | Level: 2.12/7)
+- Learning Strategies (Importance: 2.25/5 | Level: 2.12/7)
+- Instructing (Importance: 2.25/5 | Level: 2.0/7)
+- Systems Evaluation (Importance: 2.12/5 | Level: 1.88/7)
+- Systems Analysis (Importance: 2.12/5 | Level: 2.0/7)
+- Mathematics (Importance: 2.0/5 | Level: 2.0/7)
+- Management of Material Resources (Importance: 1.62/5 | Level: 1.12/7)
+- Technology Design (Importance: 1.62/5 | Level: 0.75/7)
+- Management of Financial Resources (Importance: 1.62/5 | Level: 0.88/7)
+- Operations Monitoring (Importance: 1.5/5 | Level: 0.62/7)
+- Operation and Control (Importance: 1.38/5 | Level: 0.38/7)
+- Quality Control Analysis (Importance: 1.38/5 | Level: 0.38/7)
+- Programming (Importance: 1.38/5 | Level: 0.38/7)
+- Operations Analysis (Importance: 1.38/5 | Level: 0.5/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Billing software (Tech skill type: Accounting software)
+- Budgeting software (Tech skill type: Accounting software)
+- Delphi Technology (Tech skill type: Financial analysis software)
+- Mapping software (Tech skill type: Map creation software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Publisher (Tech skill type: Desktop publishing software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Web browser software (Tech skill type: Internet browser software)
+- Work scheduling software (Tech skill type: Calendar and scheduling software)
+- Yardi software (Tech skill type: Data base user interface and query software)
+
+## TOOLS USED
+- Computer laser printers (Tool type: Laser printers)
+- Copy machines (Tool type: Photocopiers)
+- Desktop computers (Tool type: Desktop computers)
+- Laptop computers (Tool type: Notebook computers)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Mobile radios (Tool type: Two way radios)
+- Multiline telephone systems (Tool type: Special purpose telephones)
+- Smart phones (Tool type: Mobile phones)
+- Tablet computers (Tool type: Tablet computers)

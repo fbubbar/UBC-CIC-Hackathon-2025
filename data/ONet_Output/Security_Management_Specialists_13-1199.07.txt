@@ -1,0 +1,108 @@
+Job Title: Security Management Specialists
+O*NET-SOC Code: 13-1199.07
+
+# DESCRIPTION
+Conduct security assessments for organizations, and design security systems and processes. May specialize in areas such as physical security or the safety of employees and facilities.
+
+# TASKS
+- Assess the nature and level of physical security threats so that the scope of the problem can be determined.
+- Budget and schedule security design work.
+- Conduct security audits to identify potential vulnerabilities related to physical security or staff safety.
+- Design security policies, programs, or practices to ensure adequate security relating to alarm response, access card use, and other security needs.
+- Design, implement, or establish requirements for security systems, video surveillance, motion detection, or closed-circuit television systems to ensure proper installation and operation.
+- Develop conceptual designs of security systems.
+- Develop or review specifications for design or construction of security systems.
+- Engineer, install, maintain, or repair security systems, programmable logic controls, or other security-related electronic systems.
+- Inspect fire, intruder detection, or other security systems.
+- Inspect physical security design features, installations, or programs to ensure compliance with applicable standards or regulations.
+- Interview witnesses or suspects to identify persons responsible for security breaches or to establish losses, pursue prosecutions, or obtain restitution.
+- Monitor tapes or digital recordings to identify the source of losses.
+- Monitor the work of contractors in the design, construction, and startup phases of security systems.
+- Outline system security criteria for pre-bid meetings with clients and companies to ensure comprehensiveness and appropriateness for implementation.
+- Perform risk analyses so that appropriate countermeasures can be developed.
+- Prepare documentation for case reports or court proceedings.
+- Prepare, maintain, or update security procedures, security system drawings, or related documentation.
+- Provide system design and integration recommendations.
+- Recommend improvements in security systems or procedures.
+- Respond to emergency situations on an on-call basis.
+- Review design drawings or technical documents for completeness, correctness, or appropriateness.
+- Test security measures for final acceptance and implement or provide procedures for ongoing monitoring and evaluation of the measures.
+- Train personnel in security procedures or use of security equipment.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- No specific skills listed.
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adobe Acrobat (Tech skill type: Document management software)
+- Amazon Web Services AWS software (Tech skill type: Data base user interface and query software)
+- ArcSight Enterprise Threat and Risk Management (Tech skill type: Risk management data and analysis software)
+- Chinotec Technologies Paros (Tech skill type: Transaction security and virus protection software)
+- Cisco Systems CiscoWorks (Tech skill type: Administration software)
+- Customer information control system CICS (Tech skill type: Transaction server software)
+- CyberArk (Tech skill type: Network security or virtual private network VPN management software)
+- Database software (Tech skill type: Data base user interface and query software)
+- Firewall software (Tech skill type: Network security and virtual private network VPN equipment software)
+- IBM Tivoli software (Tech skill type: Access software)
+- Intrusion prevention system IPS (Tech skill type: Network security or virtual private network VPN management software)
+- JavaScript (Tech skill type: Web platform development software)
+- Kismet (Tech skill type: Network security and virtual private network VPN equipment software)
+- Linux (Tech skill type: Operating system software)
+- Management information systems MIS (Tech skill type: Enterprise resource planning ERP software)
+- McAfee (Tech skill type: Transaction security and virus protection software)
+- Metasploit (Tech skill type: Transaction security and virus protection software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Active Directory (Tech skill type: Internet directory services software)
+- Microsoft Azure software (Tech skill type: Development environment software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft PowerShell (Tech skill type: Development environment software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Network directory services software (Tech skill type: Internet directory services software)
+- Nmap (Tech skill type: Transaction security and virus protection software)
+- NortonLifeLock cybersecurity software (Tech skill type: Transaction security and virus protection software)
+- Operating system software (Tech skill type: Operating system software)
+- Oracle Business Intelligence Enterprise Edition (Tech skill type: Business intelligence and data analysis software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- Photo editing software (Tech skill type: Graphics or photo imaging software)
+- Physical access management software (Tech skill type: Facilities management software)
+- SAP Crystal Reports (Tech skill type: Data base reporting software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Secure web gateway software (Tech skill type: Gateway software)
+- Security assertion markup language SAML (Tech skill type: Web platform development software)
+- ServiceNow (Tech skill type: Data base user interface and query software)
+- Single sign-on SSO (Tech skill type: Authentication server software)
+- Social networking software (Tech skill type: Web page creation and editing software)
+- Splunk Enterprise (Tech skill type: Cloud-based management software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Symantec PGP (Tech skill type: Network security and virtual private network VPN equipment software)
+- Tenable Nessus (Tech skill type: Cloud-based protection or security software)
+- TrueCrypt (Tech skill type: Network security and virtual private network VPN equipment software)
+- UNIX (Tech skill type: Operating system software)
+- Videoconferencing software (Tech skill type: Video conferencing software)
+- Virtual private networking VPN software (Tech skill type: Network security and virtual private network VPN equipment software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Approach detection systems (Tool type: Motion detectors)
+- Audioconferencing equipment (Tool type: Audioconferencing systems)
+- Card readers (Tool type: Card key lock)
+- Closed circuit television CCTV monitoring systems (Tool type: Closed circuit television CCTV system)
+- Computer network routers (Tool type: Network routers)
+- Computer server equipment (Tool type: Computer servers)
+- Desktop computers (Tool type: Desktop computers)
+- Digital video recorders (Tool type: Digital camcorders or video cameras)
+- Electronic access control systems (Tool type: Security or access control systems)
+- Intrusion detection systems (Tool type: Alarm systems)
+- Magnetometers (Tool type: Magnetometer geophysical instruments)
+- Mechanical access control systems (Tool type: Security or access control systems)
+- Network video recorders (Tool type: Digital camcorders or video cameras)
+- Personal computers (Tool type: Personal computers)
+- Tablet computers (Tool type: Tablet computers)
+- Videoconferencing equipment (Tool type: Videoconferencing systems)
+- X ray screening equipment (Tool type: X ray radiography examination equipment)

@@ -1,0 +1,197 @@
+Job Title: Control and Valve Installers and Repairers, Except Mechanical Door
+O*NET-SOC Code: 49-9012.00
+
+# DESCRIPTION
+Install, repair, and maintain mechanical regulating and controlling devices, such as electric meters, gas regulators, thermostats, safety and flow valves, and other mechanical governors.
+
+# TASKS
+- Record maintenance information, including test results, material usage, and repairs made.
+- Disassemble and repair mechanical control devices or valves, such as regulators, thermostats, or hydrants, using power tools, hand tools, and cutting torches.
+- Lubricate wearing surfaces of mechanical parts, using oils or other lubricants.
+- Calibrate instrumentation, such as meters, gauges, and regulators, for pressure, temperature, flow, and level.
+- Install, inspect and test electric meters, relays, and power sources to detect causes of malfunctions and inaccuracies, using hand tools and testing equipment.
+- Test valves and regulators for leaks and accurate temperature and pressure settings, using precision testing equipment.
+- Record meter readings and installation data on meter cards, work orders, or field service orders, or enter data into hand-held computers.
+- Turn meters on or off to establish or close service.
+- Shut off service and notify repair crews when major repairs are required, such as the replacement of underground pipes or wiring.
+- Install regulators and related equipment such as gas meters, odorization units, and gas pressure telemetering equipment.
+- Cut seats to receive new orifices, tap inspection ports, and perform other repairs to salvage usable materials, using hand tools and machine tools.
+- Turn valves to allow measured amounts of air or gas to pass through meters at specified flow rates.
+- Report hazardous field situations and damaged or missing meters.
+- Vary air pressure flowing into regulators and turn handles to assess functioning of valves and pistons.
+- Examine valves or mechanical control device parts for defects, dents, or loose attachments, and mark malfunctioning areas of defective units.
+- Mount and install meters and other electric equipment such as time clocks, transformers, and circuit breakers, using electricians' hand tools.
+- Connect regulators to test stands, and turn screw adjustments until gauges indicate that inlet and outlet pressures meet specifications.
+- Investigate instances of illegal tapping into service lines.
+- Trace and tag meters or house lines.
+- Repair electric meters and components, such as transformers and relays, and replace metering devices, dial glasses, and faulty or incorrect wiring, using hand tools.
+- Replace defective parts, such as bellows, range springs, and toggle switches, and reassemble units according to blueprints, using cam presses and hand tools.
+- Measure tolerances of assembled and salvageable parts for conformance to standards or specifications, using gauges, micrometers, and calipers.
+- Clean internal compartments and moving parts, using rags and cleaning compounds.
+- Dismantle meters, and replace or adjust defective parts such as cases, shafts, gears, disks, and recording mechanisms, using soldering irons and hand tools.
+- Disconnect or remove defective or unauthorized meters, using hand tools.
+- Attach air hoses to meter inlets, plug outlets, and observe gauges for pressure losses to test internal seams for leaks.
+- Make adjustments to meter components, such as setscrews or timing mechanisms, so that they conform to specifications.
+- Repair leaks in valve seats or bellows of automotive heater thermostats, using soft solder, flux, and acetylene torches.
+- Splice and connect cables from meters or current transformers to pull boxes or switchboards, using hand tools.
+- Advise customers on proper installation of valves or regulators and related equipment.
+- Clean plant growth, scale, paint, soil, or rust from meter housings, using wire brushes, scrapers, buffers, sandblasters, or cleaning compounds.
+- Connect hoses from provers to meter inlets and outlets, and raise prover bells until prover gauges register zero.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Critical Thinking (Importance: 3.38/5 | Level: 3.12/7)
+- Repairing (Importance: 3.25/5 | Level: 3.25/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.0/7)
+- Troubleshooting (Importance: 3.12/5 | Level: 3.12/7)
+- Speaking (Importance: 3.12/5 | Level: 3.0/7)
+- Equipment Maintenance (Importance: 3.12/5 | Level: 3.25/7)
+- Quality Control Analysis (Importance: 3.12/5 | Level: 3.25/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 3.0/7)
+- Operations Monitoring (Importance: 3.12/5 | Level: 3.0/7)
+- Active Listening (Importance: 3.12/5 | Level: 2.88/7)
+- Operation and Control (Importance: 3.0/5 | Level: 3.0/7)
+- Reading Comprehension (Importance: 3.0/5 | Level: 3.12/7)
+- Writing (Importance: 3.0/5 | Level: 2.88/7)
+- Complex Problem Solving (Importance: 3.0/5 | Level: 3.0/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Equipment Selection (Importance: 2.88/5 | Level: 2.5/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.75/7)
+- Active Learning (Importance: 2.88/5 | Level: 3.0/7)
+- Time Management (Importance: 2.75/5 | Level: 2.5/7)
+- Service Orientation (Importance: 2.5/5 | Level: 2.38/7)
+- Learning Strategies (Importance: 2.5/5 | Level: 2.38/7)
+- Installation (Importance: 2.38/5 | Level: 2.12/7)
+- Instructing (Importance: 2.25/5 | Level: 2.38/7)
+- Systems Analysis (Importance: 2.25/5 | Level: 2.12/7)
+- Negotiation (Importance: 2.12/5 | Level: 1.88/7)
+- Systems Evaluation (Importance: 2.12/5 | Level: 2.12/7)
+- Mathematics (Importance: 2.12/5 | Level: 1.5/7)
+- Management of Personnel Resources (Importance: 2.0/5 | Level: 1.5/7)
+- Persuasion (Importance: 2.0/5 | Level: 1.75/7)
+- Management of Financial Resources (Importance: 1.88/5 | Level: 0.88/7)
+- Technology Design (Importance: 1.88/5 | Level: 0.88/7)
+- Science (Importance: 1.75/5 | Level: 1.12/7)
+- Management of Material Resources (Importance: 1.75/5 | Level: 0.88/7)
+- Programming (Importance: 1.62/5 | Level: 0.75/7)
+- Operations Analysis (Importance: 1.62/5 | Level: 0.75/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Emerson FIRSTVUE Value Sizing (Tech skill type: Analytical or scientific software)
+- Graphical user interface GUI design software (Tech skill type: Graphical user interface development software)
+- IBM Maximo Asset Management (Tech skill type: Enterprise resource planning ERP software)
+- Ladder Logic (Tech skill type: Development environment software)
+- Maintenance record software (Tech skill type: Project management software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Operating system software (Tech skill type: Operating system software)
+- Oracle Primavera Enterprise Project Portfolio Management (Tech skill type: Project management software)
+- Programmable logic controller PLC software (Tech skill type: Industrial control software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Supervisory control and data acquisition SCADA software (Tech skill type: Industrial control software)
+- Wonderware software (Tech skill type: Industrial control software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Acetylene torches (Tool type: Blow torch)
+- Adjustable wrenches (Tool type: Adjustable wrenches)
+- Air compressors (Tool type: Air compressors)
+- Ammeters (Tool type: Ammeters)
+- Bench vises (Tool type: Bench vises)
+- Bucket trucks (Tool type: Articulating boom lift)
+- Burden testers (Tool type: Circuit tester)
+- Cable cutters (Tool type: Wire or cable cutter)
+- Circuit testers (Tool type: Circuit tester)
+- Clamp-on meters (Tool type: Ammeters)
+- Claw hammers (Tool type: Claw hammer)
+- Conduit benders (Tool type: Conduit benders)
+- Copper cutters (Tool type: Pipe or tube cutter)
+- Crescent wrenches (Tool type: Open end wrenches)
+- Cutting torches (Tool type: Blow torch)
+- Dataloggers (Tool type: Portable data input terminals)
+- Desktop computers (Tool type: Desktop computers)
+- Diagonal cutting pliers (Tool type: Diagonal cut pliers)
+- Electrician's pliers (Tool type: Linemans pliers)
+- Fish tapes (Tool type: Fish tape)
+- Flow meters (Tool type: Flowmeters)
+- Flow recorders (Tool type: Flowmeters)
+- Forklifts (Tool type: Forklifts)
+- Grease guns (Tool type: Grease guns)
+- Grinding tools (Tool type: Power grinders)
+- Groove-joint pliers (Tool type: Slip or groove joint pliers)
+- Hacksaws (Tool type: Hacksaw)
+- Hand saws (Tool type: Saws)
+- Handheld computers (Tool type: Portable data input terminals)
+- Handheld transmitters (Tool type: Radio frequency transmitters or receivers)
+- Hydraulic pumps (Tool type: Hydraulic pumps)
+- Hydraulic truck-mounted cranes (Tool type: Hydraulic truck cranes)
+- Hydraulic wrenches (Tool type: Impact wrenches)
+- Infrared cameras (Tool type: Infrared imagers)
+- Insulated adjustable widemouth pliers (Tool type: Adjustable widemouth pliers)
+- Insulated screwdrivers (Tool type: Insulated screwdriver)
+- Insulated wrenches (Tool type: Specialty wrenches)
+- Keyhole saws (Tool type: Pad or keyhole saw)
+- Ladders (Tool type: Ladders)
+- Laptop computers (Tool type: Notebook computers)
+- Layout squares (Tool type: Squares)
+- Locking pliers (Tool type: Locking pliers)
+- Longnose pliers (Tool type: Longnose pliers)
+- Measurement calipers (Tool type: Calipers)
+- Measuring tapes (Tool type: Tape measures)
+- Metal cutting dies (Tool type: Cutting die)
+- Metal cutting taps (Tool type: Taps)
+- Micrometers (Tool type: Micrometers)
+- Mobile data terminals (Tool type: Portable data input terminals)
+- Multimeters (Tool type: Multimeters)
+- Nut drivers (Tool type: Nut drivers)
+- Overhead cranes (Tool type: Track cranes)
+- Paint spray booths (Tool type: Paint application system)
+- Paint spray guns (Tool type: Paint sprayers)
+- Personal computers (Tool type: Personal computers)
+- Phasemeters (Tool type: Phasemeters)
+- Phillips head screwdrivers (Tool type: Screwdrivers)
+- Pipe cutters (Tool type: Pipe or tube cutter)
+- Pop rivet guns (Tool type: Rivet tools)
+- Portable welding equipment (Tool type: Spot welding machine)
+- Power drills (Tool type: Power drills)
+- Power saws (Tool type: Power saws)
+- Power screwdrivers (Tool type: Power screwguns)
+- Power system analyzers (Tool type: Frequency calibrator or simulator)
+- Power wrenches (Tool type: Impact wrenches)
+- Precision levels (Tool type: Levels)
+- Pressure gauges (Tool type: Pressure indicators)
+- Pressure recorders (Tool type: Pressure indicators)
+- Punches (Tool type: Punches or nail sets or drifts)
+- Quick wrenches (Tool type: Pipe wrenches)
+- Rasps (Tool type: Rasps)
+- Robertson screwdrivers (Tool type: Screwdrivers)
+- Rubber gloves (Tool type: Protective gloves)
+- Sandblasters (Tool type: Pneumatic sanding machines)
+- Scaffolding (Tool type: Scaffolding)
+- Scrapers (Tool type: Razor knives)
+- Side cutting pliers (Tool type: End cut pliers)
+- Single-cut mill saw files (Tool type: Mill saw file)
+- Slip joint pliers (Tool type: Slip or groove joint pliers)
+- Soldering irons (Tool type: Soldering iron)
+- Steel chisels (Tool type: Cold chisels)
+- Straight screwdrivers (Tool type: Screwdrivers)
+- Test lamps (Tool type: Voltage or current meters)
+- Tongs (Tool type: Tongs)
+- Two way radios (Tool type: Two way radios)
+- Utility knives (Tool type: Utility knives)
+- Voltmeters (Tool type: Voltage or current meters)
+- Watt-hour test meters (Tool type: Wattmeters)
+- Wire brushes (Tool type: Wire brushes)
+- Wire crimpers (Tool type: Wire lug crimping tool)
+- Wire cutters (Tool type: Wire cutters)
+- Wire strippers (Tool type: Stripping tools)

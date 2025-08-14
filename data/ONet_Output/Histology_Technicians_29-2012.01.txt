@@ -1,0 +1,72 @@
+Job Title: Histology Technicians
+O*NET-SOC Code: 29-2012.01
+
+# DESCRIPTION
+Prepare histological slides from tissue sections for microscopic examination and diagnosis by pathologists. May assist with research studies.
+
+# TASKS
+- Archive diagnostic material, such as histologic slides and blocks.
+- Cut sections of body tissues for microscopic examination, using microtomes.
+- Embed tissue specimens into paraffin wax blocks, or infiltrate tissue specimens with wax.
+- Freeze tissue specimens.
+- Maintain laboratory equipment, such as microscopes, mass spectrometers, microtomes, immunostainers, tissue processors, embedding centers, and water baths.
+- Mount tissue specimens on glass slides.
+- Operate computerized laboratory equipment to dehydrate, decalcify, or microincinerate tissue samples.
+- Stain tissue specimens with dyes or other chemicals to make cell details visible under microscopes.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- No specific skills listed.
+
+# TECHNOLOGY SKILLS & TOOLS
+- Brady Specimen Labeling System (Tech skill type: Label making software)
+- Cerner Millennium (Tech skill type: Medical software)
+- Laboratory information system LIS (Tech skill type: Medical software)
+- MEDITECH software (Tech skill type: Medical software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Presentation software (Tech skill type: Presentation software)
+- Specimen labeling system software (Tech skill type: Label making software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+
+## TOOLS USED
+- Anti-roll plates (Tool type: Histological knives or knife holders or blades)
+- Automated coverslippers (Tool type: Automated cover slipping equipment)
+- Automated tissue sectioning systems (Tool type: Tissue processors)
+- Back sledge microtomes (Tool type: Microtomes)
+- Clinical freezing microtomes (Tool type: Microtomes)
+- Cryostat microtomes (Tool type: Microtomes)
+- Cytocentrifuges (Tool type: Benchtop centrifuges)
+- Desktop computers (Tool type: Desktop computers)
+- Drying ovens (Tool type: Drying cabinets or ovens)
+- Electronic laboratory balances (Tool type: Laboratory balances)
+- Histology diamond knives (Tool type: Histological knives or knife holders or blades)
+- Histology glass knives (Tool type: Histological knives or knife holders or blades)
+- Incubators (Tool type: Tissue culture incubators)
+- Knife sharpeners (Tool type: Histological hones or straps or compounds)
+- Label printers (Tool type: Label making machines)
+- Laboratory microwave ovens (Tool type: Laboratory microwave ovens)
+- Laboratory refrigerators (Tool type: General purpose refrigerators or refrigerator freezers)
+- Laser microtomes (Tool type: Microtomes)
+- Manual tissue choppers (Tool type: Tissue processors)
+- Microscope slide drawers (Tool type: Microscope slide cabinets)
+- Paraffin microtomes (Tool type: Microtomes)
+- pH meters (Tool type: pH meters)
+- Rotary microtomes (Tool type: Microtomes)
+- Saw microtomes (Tool type: Microtomes)
+- Sled microtomes (Tool type: Microtomes)
+- Slide dryers (Tool type: Drying cabinets or ovens)
+- Slide stainers (Tool type: Histology or cytology slide stainers)
+- Specimen freezers (Tool type: Ultra cold or ultralow upright cabinets or freezers)
+- Staining dishes (Tool type: Laboratory staining dishes or jars)
+- Staining trays (Tool type: Laboratory staining dishes or jars)
+- Tissue block storage drawers (Tool type: Histology or tissue cassette cabinets)
+- Tissue embedding equipment (Tool type: Tissue embedding stations)
+- Tissue flotation baths (Tool type: Tissue flotation baths)
+- Tissue processors (Tool type: Tissue processors)
+- Ultramicrotomes (Tool type: Microtomes)
+- Vibratomes (Tool type: Microtomes)
+- Water baths (Tool type: Water baths)

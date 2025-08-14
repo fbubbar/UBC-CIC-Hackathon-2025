@@ -1,0 +1,131 @@
+Job Title: Rail Yard Engineers, Dinkey Operators, and Hostlers
+O*NET-SOC Code: 53-4013.00
+
+# DESCRIPTION
+Drive switching or other locomotive or dinkey engines within railroad yard, industrial plant, quarry, construction project, or similar location.
+
+# TASKS
+- Observe and respond to wayside and cab signals, including color light signals, position signals, torpedoes, flags, and hot box detectors.
+- Inspect engines before and after use to ensure proper operation.
+- Apply and release hand brakes.
+- Signal crew members for movement of engines or trains, using lanterns, hand signals, radios, or telephones.
+- Confer with conductors and other workers via radiotelephones or computers to exchange switching information.
+- Inspect track for defects such as broken rails and switch malfunctions.
+- Observe water levels and oil, air, and steam pressure gauges to ensure proper operation of equipment.
+- Couple and uncouple air hoses and electrical connections between cars.
+- Drive engines within railroad yards or other establishments to couple, uncouple, or switch railroad cars.
+- Inspect the condition of stationary trains, rolling stock, and equipment.
+- Read switching instructions and daily car schedules to determine work to be performed, or receive orders from yard conductors.
+- Receive, relay, and act upon instructions and inquiries from train operations and customer service center personnel.
+- Spot cars for loading and unloading at customer locations.
+- Operate track switches, derails, automatic switches, and retarders to change routing of train or cars.
+- Report arrival and departure times, train delays, work order completion, and time on duty.
+- Perform routine repair and maintenance duties.
+- Drive locomotives to and from various stations in roundhouses to have locomotives cleaned, serviced, repaired, or supplied.
+- Pull knuckles to open them for coupling.
+- Provide assistance in aligning drawbars, using available equipment to lift, pull, or push on the drawbars.
+- Ride on moving cars by holding onto grab irons and standing on ladder steps.
+- Record numbers of cars available, numbers of cars sent to repair stations, and types of service needed.
+- Operate flatcars equipped with derricks or railcars to transport personnel or equipment.
+- Provide assistance in the installation or repair of rails and ties.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operation and Control (Importance: 3.75/5 | Level: 3.62/7)
+- Monitoring (Importance: 3.62/5 | Level: 3.12/7)
+- Operations Monitoring (Importance: 3.62/5 | Level: 3.62/7)
+- Speaking (Importance: 3.5/5 | Level: 3.12/7)
+- Complex Problem Solving (Importance: 3.38/5 | Level: 3.12/7)
+- Active Listening (Importance: 3.38/5 | Level: 3.0/7)
+- Critical Thinking (Importance: 3.25/5 | Level: 3.0/7)
+- Coordination (Importance: 3.12/5 | Level: 3.25/7)
+- Troubleshooting (Importance: 3.12/5 | Level: 3.0/7)
+- Time Management (Importance: 3.12/5 | Level: 3.0/7)
+- Reading Comprehension (Importance: 3.12/5 | Level: 3.12/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 2.88/7)
+- Quality Control Analysis (Importance: 3.12/5 | Level: 3.0/7)
+- Active Learning (Importance: 3.0/5 | Level: 2.75/7)
+- Repairing (Importance: 2.88/5 | Level: 3.0/7)
+- Equipment Maintenance (Importance: 2.88/5 | Level: 2.62/7)
+- Writing (Importance: 2.88/5 | Level: 2.5/7)
+- Equipment Selection (Importance: 2.75/5 | Level: 2.0/7)
+- Systems Evaluation (Importance: 2.75/5 | Level: 2.25/7)
+- Systems Analysis (Importance: 2.75/5 | Level: 2.12/7)
+- Learning Strategies (Importance: 2.75/5 | Level: 2.5/7)
+- Instructing (Importance: 2.75/5 | Level: 2.88/7)
+- Management of Personnel Resources (Importance: 2.75/5 | Level: 2.38/7)
+- Service Orientation (Importance: 2.62/5 | Level: 2.0/7)
+- Social Perceptiveness (Importance: 2.62/5 | Level: 2.12/7)
+- Mathematics (Importance: 2.38/5 | Level: 2.0/7)
+- Persuasion (Importance: 2.38/5 | Level: 1.75/7)
+- Negotiation (Importance: 1.88/5 | Level: 1.75/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 0.88/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 0.75/7)
+- Installation (Importance: 1.62/5 | Level: 0.88/7)
+- Science (Importance: 1.5/5 | Level: 0.5/7)
+- Operations Analysis (Importance: 1.38/5 | Level: 0.38/7)
+- Programming (Importance: 1.25/5 | Level: 0.25/7)
+- Technology Design (Importance: 1.25/5 | Level: 0.25/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Positive train control PTC systems (Tech skill type: Expert system software)
+- Railcar inspection management software (Tech skill type: Facilities management software)
+- RailComm DocYard (Tech skill type: Industrial control software)
+- Railyard inventory software (Tech skill type: Inventory management software)
+- Railyard management software RMS (Tech skill type: Data base user interface and query software)
+- Softrail AEI Automatic Yard Tracking System (Tech skill type: Industrial control software)
+- Softrail AEI Rail & Road Manager (Tech skill type: Inventory management software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Air brake hoses (Tool type: Air hoses)
+- Air pressure gauges (Tool type: Pressure indicators)
+- Automatic switches (Tool type: Heavy rail turnout switch)
+- Backout punches (Tool type: Punches or nail sets or drifts)
+- Bumping posts (Tool type: Wheel chocks)
+- Cab signals (Tool type: Railway signaling systems)
+- Capstan car pullers (Tool type: Capstan)
+- Car-mounted derricks (Tool type: Derricks)
+- Color light signals (Tool type: Railway signaling systems)
+- Diagonal cut pliers (Tool type: Diagonal cut pliers)
+- Dinkey engines (Tool type: Diesel freight locomotives)
+- Flat cold chisels (Tool type: Cold chisels)
+- Hand brakes (Tool type: Train braking systems)
+- Hand wheels (Tool type: Train braking systems)
+- Handheld sprayers (Tool type: Hand sprayers)
+- Hard hats (Tool type: Hard hats)
+- Hearing protection plugs (Tool type: Ear plugs)
+- Hinged derailers (Tool type: Heavy rail turnout switch)
+- Hopper gate openers (Tool type: Drum openers)
+- Hot bearing detectors (Tool type: Temperature gauge)
+- Lanterns (Tool type: Kerosene or propane or natural gas or butane lantern)
+- Locking ratchet wrenches (Tool type: Ratchets)
+- Mobile radios (Tool type: Two way radios)
+- Multipurpose hammers (Tool type: Hammers)
+- Oil pressure gauges (Tool type: Oil gauges)
+- Personal computers (Tool type: Personal computers)
+- Portable derailers (Tool type: Heavy rail turnout switch)
+- Position signals (Tool type: Railway signaling systems)
+- Protective glasses (Tool type: Safety glasses)
+- Punch sets (Tool type: Punches or nail sets or drifts)
+- Rail car stops (Tool type: Wheel chocks)
+- Rail chocks (Tool type: Wheel chocks)
+- Rail skids (Tool type: Wheel chocks)
+- Railcar stabilizing jacks (Tool type: Railway rolling stock lifting jack)
+- Rerailers (Tool type: Heavy rail turnout switch)
+- Retarders (Tool type: Train braking systems)
+- Signal flags (Tool type: Flags or accessories)
+- Signal flares (Tool type: Flares)
+- Sliding derailers (Tool type: Heavy rail turnout switch)
+- Socket wrench sets (Tool type: Socket sets)
+- Steam pressure gauges (Tool type: Pressure indicators)
+- Steel-toed boots (Tool type: Safety boots)
+- Switching diesel engines (Tool type: Diesel freight locomotives)
+- Switching locomotives (Tool type: Diesel freight locomotives)
+- Tank car dome socket wrenches (Tool type: Specialty wrenches)
+- Track switches (Tool type: Rail switching systems)
+- Utility knives (Tool type: Utility knives)
+- Water pressure gauges (Tool type: Pressure indicators)
+- Winch car pullers (Tool type: Winches)
+- Wire cleaning brushes (Tool type: Wire brushes)
+- Wrench sets (Tool type: Specialty wrenches)

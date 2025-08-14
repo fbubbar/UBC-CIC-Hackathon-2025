@@ -1,0 +1,130 @@
+Job Title: Clinical Data Managers
+O*NET-SOC Code: 15-2051.02
+
+# DESCRIPTION
+Apply knowledge of health care and database management to analyze clinical data, and to identify and report trends.
+
+# TASKS
+- Design and validate clinical databases, including designing or testing logic checks.
+- Process clinical data, including receipt, entry, verification, or filing of information.
+- Generate data queries, based on validation checks or errors and omissions identified during data entry, to resolve identified problems.
+- Develop project-specific data management plans that address areas such as coding, reporting, or transfer of data, database locks, and work flow processes.
+- Monitor work productivity or quality to ensure compliance with standard operating procedures.
+- Prepare appropriate formatting to data sets as requested.
+- Design forms for receiving, processing, or tracking data.
+- Prepare data analysis listings and activity, performance, or progress reports.
+- Confer with end users to define or implement clinical system requirements such as data release formats, delivery schedules, and testing protocols.
+- Perform quality control audits to ensure accuracy, completeness, or proper usage of clinical systems and data.
+- Analyze clinical data using appropriate statistical tools.
+- Evaluate processes and technologies, and suggest revisions to increase productivity and efficiency.
+- Develop technical specifications for data management programming and communicate needs to information technology staff.
+- Write work instruction manuals, data capture guidelines, or standard operating procedures.
+- Track the flow of work forms, including in-house data flow or electronic forms transfer.
+- Supervise the work of data management project staff.
+- Contribute to the compilation, organization, and production of protocols, clinical study reports, regulatory submissions, or other controlled documentation.
+- Read technical literature and participate in continuing education or professional associations to maintain awareness of current database technology and best practices.
+- Train staff on technical procedures or software program usage.
+- Develop or select specific software programs for various research scenarios.
+- Provide support and information to functional areas such as marketing, clinical monitoring, and medical affairs.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.25/7)
+- Speaking (Importance: 3.88/5 | Level: 4.0/7)
+- Reading Comprehension (Importance: 3.88/5 | Level: 4.25/7)
+- Active Listening (Importance: 3.88/5 | Level: 3.88/7)
+- Writing (Importance: 3.75/5 | Level: 4.0/7)
+- Monitoring (Importance: 3.62/5 | Level: 4.12/7)
+- Active Learning (Importance: 3.62/5 | Level: 4.0/7)
+- Mathematics (Importance: 3.5/5 | Level: 3.88/7)
+- Complex Problem Solving (Importance: 3.5/5 | Level: 3.62/7)
+- Coordination (Importance: 3.38/5 | Level: 3.38/7)
+- Time Management (Importance: 3.38/5 | Level: 3.5/7)
+- Programming (Importance: 3.25/5 | Level: 3.62/7)
+- Systems Analysis (Importance: 3.25/5 | Level: 3.38/7)
+- Judgment and Decision Making (Importance: 3.25/5 | Level: 3.62/7)
+- Systems Evaluation (Importance: 3.12/5 | Level: 3.38/7)
+- Social Perceptiveness (Importance: 3.12/5 | Level: 3.5/7)
+- Management of Personnel Resources (Importance: 3.0/5 | Level: 3.38/7)
+- Instructing (Importance: 3.0/5 | Level: 3.75/7)
+- Learning Strategies (Importance: 2.88/5 | Level: 3.25/7)
+- Persuasion (Importance: 2.75/5 | Level: 2.62/7)
+- Service Orientation (Importance: 2.75/5 | Level: 2.62/7)
+- Operations Analysis (Importance: 2.75/5 | Level: 3.38/7)
+- Quality Control Analysis (Importance: 2.5/5 | Level: 2.5/7)
+- Negotiation (Importance: 2.5/5 | Level: 2.38/7)
+- Science (Importance: 2.38/5 | Level: 2.25/7)
+- Operations Monitoring (Importance: 2.12/5 | Level: 2.0/7)
+- Management of Financial Resources (Importance: 1.88/5 | Level: 1.25/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.5/7)
+- Equipment Selection (Importance: 1.88/5 | Level: 1.5/7)
+- Technology Design (Importance: 1.75/5 | Level: 1.38/7)
+- Operation and Control (Importance: 1.75/5 | Level: 1.25/7)
+- Troubleshooting (Importance: 1.62/5 | Level: 0.62/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- 5AM Glassbox Translational Research (Tech skill type: Data base user interface and query software)
+- Allscripts healthcare automation software (Tech skill type: Medical software)
+- Autocoders (Tech skill type: Categorization or classification software)
+- C# (Tech skill type: Object or component oriented development software)
+- C++ (Tech skill type: Object or component oriented development software)
+- Citrix cloud computing software (Tech skill type: Access software)
+- ClearTrial (Tech skill type: Data base user interface and query software)
+- Clinical trial management software (Tech skill type: Data base user interface and query software)
+- Drug coding software (Tech skill type: Categorization or classification software)
+- DZS Software Solutions ClinPlus (Tech skill type: Data base user interface and query software)
+- Electronic data capture EDC software (Tech skill type: Analytical or scientific software)
+- ePharmaSolutions eMVR (Tech skill type: Data base user interface and query software)
+- Epic Systems (Tech skill type: Medical software)
+- EpicCare Ambulatory Electronic Medical Records (EMR) software (Tech skill type: Medical software)
+- Extensible markup language XML (Tech skill type: Enterprise application integration software)
+- Fortress Medical Clindex (Tech skill type: Data base user interface and query software)
+- Go (Tech skill type: Development environment software)
+- IBM SPSS Statistics (Tech skill type: Analytical or scientific software)
+- InforSense InforSense (Tech skill type: Data base user interface and query software)
+- Invivo Data EPX ePRO Management System (Tech skill type: Data base user interface and query software)
+- KIKA Veracity (Tech skill type: Data base user interface and query software)
+- Medidata Rave Data Management (Tech skill type: Data base user interface and query software)
+- MEDITECH software (Tech skill type: Medical software)
+- Merge Healthcare eTrials (Tech skill type: Data base user interface and query software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft SQL Server (Tech skill type: Data base user interface and query software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Visual Basic (Tech skill type: Development environment software)
+- Microsoft Word (Tech skill type: Word processing software)
+- OpenClinica (Tech skill type: Data base user interface and query software)
+- Oracle Clinical (Tech skill type: Data base user interface and query software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- Oracle Remote Data Capture (Tech skill type: Analytical or scientific software)
+- Oracle SQL Loader (Tech skill type: Data base reporting software)
+- Patient tracking software (Tech skill type: Data base user interface and query software)
+- PercipEnz Technologies OnCore-Clinical Research Management OnCore-CRM (Tech skill type: Data base user interface and query software)
+- Phase Forward Clintrial (Tech skill type: Data base user interface and query software)
+- PPD eLoader (Tech skill type: Data base user interface and query software)
+- Project management software (Tech skill type: Project management software)
+- Relational database management software (Tech skill type: Data base management system software)
+- Relational database software (Tech skill type: Data base user interface and query software)
+- SAP BusinessObjects Crystal Reports (Tech skill type: Data base reporting software)
+- SAP Crystal Reports (Tech skill type: Data base reporting software)
+- SAS (Tech skill type: Analytical or scientific software)
+- SAS JMP (Tech skill type: Analytical or scientific software)
+- Sierra Scientific Software CRIS (Tech skill type: Data base user interface and query software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- StudyManager Sponsor Edition (Tech skill type: Data base user interface and query software)
+- SyMetric Sciences SyMetric (Tech skill type: Data base user interface and query software)
+- Teradata Database (Tech skill type: Data base management system software)
+- TOPAZ Enterprise Software Suite (Tech skill type: Data base user interface and query software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Handheld computers (Tool type: Portable data input terminals)
+- Laptop computers (Tool type: Notebook computers)
+- Smartphones (Tool type: Mobile phones)

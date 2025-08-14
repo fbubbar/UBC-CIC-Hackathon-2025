@@ -1,0 +1,124 @@
+Job Title: Forest Fire Inspectors and Prevention Specialists
+O*NET-SOC Code: 33-2022.00
+
+# DESCRIPTION
+Enforce fire regulations, inspect forest for fire hazards, and recommend forest fire prevention or control measures. May report forest fires and weather conditions.
+
+# TASKS
+- Relay messages about emergencies, accidents, locations of crew and personnel, and fire hazard conditions.
+- Conduct wildland firefighting training.
+- Estimate sizes and characteristics of fires, and report findings to base camps by radio or telephone.
+- Direct crews working on firelines during forest fires.
+- Locate forest fires on area maps, using azimuth sighters and known landmarks.
+- Extinguish smaller fires with portable extinguishers, shovels, and axes.
+- Patrol assigned areas, looking for forest fires, hazardous conditions, and weather phenomena.
+- Compile and report meteorological data, such as temperature, relative humidity, wind direction and velocity, and types of cloud formations.
+- Examine and inventory firefighting equipment, such as axes, fire hoses, shovels, pumps, buckets, and fire extinguishers, to determine amount and condition.
+- Educate the public about fire safety and prevention.
+- Direct maintenance and repair of firefighting equipment, or requisition new equipment.
+- Maintain records and logbooks.
+- Administer regulations regarding sanitation, fire prevention, violation corrections, and related forest regulations.
+- Restrict public access and recreational use of forest lands during critical fire seasons.
+- Inspect camp sites to ensure that campers are in compliance with forest use regulations.
+- Inspect forest tracts and logging areas for fire hazards such as accumulated wastes or mishandling of combustibles, and recommend appropriate fire prevention measures.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Critical Thinking (Importance: 4.0/5 | Level: 3.88/7)
+- Coordination (Importance: 3.75/5 | Level: 3.75/7)
+- Speaking (Importance: 3.75/5 | Level: 3.38/7)
+- Judgment and Decision Making (Importance: 3.62/5 | Level: 3.25/7)
+- Active Listening (Importance: 3.62/5 | Level: 3.25/7)
+- Complex Problem Solving (Importance: 3.5/5 | Level: 3.25/7)
+- Monitoring (Importance: 3.38/5 | Level: 3.38/7)
+- Instructing (Importance: 3.25/5 | Level: 3.0/7)
+- Writing (Importance: 3.12/5 | Level: 3.0/7)
+- Time Management (Importance: 3.12/5 | Level: 3.38/7)
+- Learning Strategies (Importance: 3.12/5 | Level: 3.12/7)
+- Reading Comprehension (Importance: 3.12/5 | Level: 3.38/7)
+- Management of Personnel Resources (Importance: 3.12/5 | Level: 3.38/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 2.88/7)
+- Persuasion (Importance: 3.0/5 | Level: 3.12/7)
+- Active Learning (Importance: 3.0/5 | Level: 3.25/7)
+- Negotiation (Importance: 2.88/5 | Level: 2.88/7)
+- Service Orientation (Importance: 2.88/5 | Level: 3.0/7)
+- Systems Evaluation (Importance: 2.88/5 | Level: 3.12/7)
+- Systems Analysis (Importance: 2.75/5 | Level: 3.12/7)
+- Operations Monitoring (Importance: 2.62/5 | Level: 2.62/7)
+- Operation and Control (Importance: 2.38/5 | Level: 2.38/7)
+- Quality Control Analysis (Importance: 2.25/5 | Level: 2.25/7)
+- Equipment Selection (Importance: 2.25/5 | Level: 1.38/7)
+- Equipment Maintenance (Importance: 2.25/5 | Level: 1.38/7)
+- Troubleshooting (Importance: 2.25/5 | Level: 2.12/7)
+- Mathematics (Importance: 2.12/5 | Level: 2.38/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.75/7)
+- Management of Financial Resources (Importance: 1.88/5 | Level: 1.12/7)
+- Repairing (Importance: 1.88/5 | Level: 1.12/7)
+- Science (Importance: 1.88/5 | Level: 1.75/7)
+- Technology Design (Importance: 1.75/5 | Level: 0.88/7)
+- Programming (Importance: 1.62/5 | Level: 0.62/7)
+- Operations Analysis (Importance: 1.62/5 | Level: 1.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Amazon Web Services AWS CloudFormation (Tech skill type: Cloud-based management software)
+- Amazon Web Services AWS software (Tech skill type: Data base user interface and query software)
+- Ansible software (Tech skill type: Expert system software)
+- Docker (Tech skill type: Application server software)
+- Enterprise resource planning ERP software (Tech skill type: Enterprise resource planning ERP software)
+- Facebook (Tech skill type: Web page creation and editing software)
+- Fire incident reporting systems (Tech skill type: Data base user interface and query software)
+- Git (Tech skill type: File versioning software)
+- Kubernetes (Tech skill type: Application server software)
+- Linux (Tech skill type: Operating system software)
+- Mapping software (Tech skill type: Map creation software)
+- Microsoft Active Server Pages ASP (Tech skill type: Web platform development software)
+- Microsoft Azure software (Tech skill type: Development environment software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft PowerShell (Tech skill type: Development environment software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft SQL Server (Tech skill type: Data base management system software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Windows Server (Tech skill type: Application server software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Object oriented development environment software (Tech skill type: Object or component oriented development software)
+- Perforce software (Tech skill type: Metadata management software)
+- Puppet (Tech skill type: Configuration management software)
+- Relational database software (Tech skill type: Data base user interface and query software)
+- Salesforce software (Tech skill type: Customer relationship management CRM software)
+
+## TOOLS USED
+- All terrain vehicles ATV (Tool type: All terrain vehicles tracked or wheeled)
+- Backpack pumps (Tool type: Fire pump sets)
+- Base radios (Tool type: Two way radios)
+- Brush hooks (Tool type: Brush cutter)
+- Claw hammers (Tool type: Claw hammer)
+- Crew transport buses (Tool type: Busses)
+- Digital anemometers (Tool type: Anemometers)
+- Digital hygrometers (Tool type: Hygrometers)
+- Emergency first aid kits (Tool type: Mobile medical services first aid kits)
+- Fire finders (Tool type: Direction finding compasses)
+- Forestry axes (Tool type: Axes)
+- Global positioning system GPS devices (Tool type: Global positioning system GPS receiver)
+- Laptop computers (Tool type: Notebook computers)
+- Machetes (Tool type: Machetes)
+- Mobile radios (Tool type: Two way radios)
+- Navigational compasses (Tool type: Direction finding compasses)
+- Passenger vans (Tool type: Minivans or vans)
+- Portable fire extinguishers (Tool type: Fire extinguishers)
+- Portable weather stations (Tool type: Weather stations)
+- Power saws (Tool type: Garden chainsaw)
+- Protective ear muffs (Tool type: Acoustic ear muffs or defenders)
+- Protective safety glasses (Tool type: Safety glasses)
+- Remote reading digital thermometers (Tool type: Remote reading thermometers)
+- Safety helmets (Tool type: Hard hats)
+- Signaling mirrors (Tool type: Signal mirror)
+- Spotting scopes (Tool type: Telescopes)
+- Surveillance binoculars (Tool type: Binoculars)
+- Tablet computers (Tool type: Tablet computers)
+- Tractor mounted mowers (Tool type: Lawnmowers)
+- Very high frequency VHF radios (Tool type: Radio frequency transmitters or receivers)
+- Wind vanes (Tool type: Wind vane)

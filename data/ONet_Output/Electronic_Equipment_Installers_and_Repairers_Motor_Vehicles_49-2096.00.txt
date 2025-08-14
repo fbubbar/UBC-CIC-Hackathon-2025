@@ -1,0 +1,107 @@
+Job Title: Electronic Equipment Installers and Repairers, Motor Vehicles
+O*NET-SOC Code: 49-2096.00
+
+# DESCRIPTION
+Install, diagnose, or repair communications, sound, security, or navigation equipment in motor vehicles.
+
+# TASKS
+- Install equipment and accessories, such as stereos, navigation equipment, communication equipment, and security systems.
+- Inspect and test electrical or electronic systems to locate and diagnose malfunctions, using visual inspections and testing instruments, such as oscilloscopes and voltmeters.
+- Cut openings and drill holes for fixtures and equipment, using electric drills and routers.
+- Splice wires with knives or cutting pliers, and solder connections to fixtures and equipment.
+- Diagnose or repair problems with electronic equipment, such as sound, navigation, communication, and security equipment, in motor vehicles.
+- Run new speaker and electrical cables.
+- Confer with customers to determine the nature of malfunctions.
+- Remove seats, carpeting, and interiors of doors and add sound-absorbing material in empty spaces, reinstalling interior parts.
+- Record results of diagnostic tests.
+- Estimate costs of repairs, based on parts and labor charges.
+- Replace and clean electrical or electronic components.
+- Build fiberglass or wooden enclosures for sound components, and fit them to automobile dimensions.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Troubleshooting (Importance: 3.62/5 | Level: 3.62/7)
+- Repairing (Importance: 3.62/5 | Level: 3.62/7)
+- Critical Thinking (Importance: 3.5/5 | Level: 3.12/7)
+- Operations Monitoring (Importance: 3.5/5 | Level: 3.0/7)
+- Active Listening (Importance: 3.38/5 | Level: 3.0/7)
+- Equipment Maintenance (Importance: 3.25/5 | Level: 2.88/7)
+- Installation (Importance: 3.25/5 | Level: 3.0/7)
+- Time Management (Importance: 3.12/5 | Level: 3.0/7)
+- Complex Problem Solving (Importance: 3.12/5 | Level: 3.0/7)
+- Reading Comprehension (Importance: 3.12/5 | Level: 3.12/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Equipment Selection (Importance: 3.0/5 | Level: 2.75/7)
+- Speaking (Importance: 3.0/5 | Level: 3.0/7)
+- Service Orientation (Importance: 3.0/5 | Level: 2.88/7)
+- Quality Control Analysis (Importance: 3.0/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.88/7)
+- Operation and Control (Importance: 2.88/5 | Level: 3.0/7)
+- Writing (Importance: 2.88/5 | Level: 2.88/7)
+- Monitoring (Importance: 2.88/5 | Level: 2.88/7)
+- Judgment and Decision Making (Importance: 2.88/5 | Level: 2.88/7)
+- Active Learning (Importance: 2.75/5 | Level: 2.38/7)
+- Persuasion (Importance: 2.75/5 | Level: 2.38/7)
+- Negotiation (Importance: 2.75/5 | Level: 2.5/7)
+- Instructing (Importance: 2.62/5 | Level: 2.38/7)
+- Learning Strategies (Importance: 2.5/5 | Level: 2.25/7)
+- Systems Analysis (Importance: 2.38/5 | Level: 2.25/7)
+- Mathematics (Importance: 2.25/5 | Level: 2.25/7)
+- Systems Evaluation (Importance: 2.25/5 | Level: 2.38/7)
+- Technology Design (Importance: 2.12/5 | Level: 1.38/7)
+- Management of Personnel Resources (Importance: 2.12/5 | Level: 2.12/7)
+- Management of Financial Resources (Importance: 2.12/5 | Level: 1.25/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.12/7)
+- Science (Importance: 1.88/5 | Level: 1.5/7)
+- Programming (Importance: 1.88/5 | Level: 1.12/7)
+- Operations Analysis (Importance: 1.88/5 | Level: 1.75/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Harris Tech X.over Pro (Tech skill type: Analytical or scientific software)
+- Harris Technologies BassBox (Tech skill type: Analytical or scientific software)
+- Installalogy Access Client (Tech skill type: Data base user interface and query software)
+- LinearTeam WinISD (Tech skill type: Analytical or scientific software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Internet Explorer (Tech skill type: Internet browser software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- MobileToys MAIDXL (Tech skill type: Data base user interface and query software)
+- True Audio WinSpeakerz (Tech skill type: Analytical or scientific software)
+- WHE Term-PAK (Tech skill type: Computer aided design CAD software)
+
+## TOOLS USED
+- Adjustable widemouth pliers (Tool type: Adjustable widemouth pliers)
+- Carpet knives (Tool type: Razor knives)
+- Circuit testers (Tool type: Circuit tester)
+- Clip and staple pullers (Tool type: Pullers)
+- Desktop computers (Tool type: Desktop computers)
+- Door panel fastener removal tools (Tool type: Trim or molding tools)
+- Flat blade screwdrivers (Tool type: Screwdrivers)
+- Glue guns (Tool type: Glue guns)
+- Hammers (Tool type: Hammers)
+- Heat guns (Tool type: Heat guns)
+- Multimeters (Tool type: Multimeters)
+- Notebook computers (Tool type: Notebook computers)
+- Offset screwdrivers (Tool type: Offset screw driver)
+- Oscilloscopes (Tool type: Oscilloscopes)
+- Panel tools (Tool type: Trim or molding tools)
+- Phillips head screwdrivers (Tool type: Screwdrivers)
+- Polarity testers (Tool type: Multimeters)
+- Power drills (Tool type: Power drills)
+- Radio removal tools (Tool type: Removal jig)
+- Rasps (Tool type: Rasps)
+- Ratchets (Tool type: Ratchets)
+- Socket wrench sets (Tool type: Socket sets)
+- Socket wrenches (Tool type: Sockets)
+- Soldering irons (Tool type: Soldering iron)
+- Spreader spatulas (Tool type: Spatulas)
+- Torx drivers (Tool type: Torx keys)
+- Trim removal tools (Tool type: Trim or molding tools)
+- Tubing cutters (Tool type: Pipe or tube cutter)
+- Tucking tools (Tool type: Trim or molding tools)
+- Utility knives (Tool type: Utility knives)
+- Window handle removal tools (Tool type: Pullers)
+- Wire crimpers (Tool type: Wire lug crimping tool)
+- Wire cutters (Tool type: Wire cutters)
+- Wire strippers (Tool type: Stripping tools)

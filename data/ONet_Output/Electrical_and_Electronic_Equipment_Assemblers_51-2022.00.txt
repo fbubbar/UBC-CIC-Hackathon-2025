@@ -1,0 +1,105 @@
+Job Title: Electrical and Electronic Equipment Assemblers
+O*NET-SOC Code: 51-2022.00
+
+# DESCRIPTION
+Assemble or modify electrical or electronic equipment, such as computers, test equipment telemetering systems, electric motors, and batteries.
+
+# TASKS
+- Read and interpret schematic drawings, diagrams, blueprints, specifications, work orders, or reports to determine materials requirements or assembly instructions.
+- Assemble electrical or electronic systems or support structures and install components, units, subassemblies, wiring, or assembly casings, using rivets, bolts, soldering or micro-welding equipment.
+- Adjust, repair, or replace electrical or electronic components to correct defects and to ensure conformance to specifications.
+- Position, align, or adjust workpieces or electrical parts to facilitate wiring or assembly.
+- Explain assembly procedures or techniques to other workers.
+- Clean parts, using cleaning solutions, air hoses, and cloths.
+- Drill or tap holes in specified equipment locations to mount control units or to provide openings for elements, wiring, or instruments.
+- Fabricate or form parts, coils, or structures according to specifications, using drills, calipers, cutters, or saws.
+- Confer with supervisors or engineers to plan or review work activities or to resolve production problems.
+- Inspect or test wiring installations, assemblies, or circuits for resistance factors or for operation, and record results.
+- Mark and tag components so that stock inventory can be tracked and identified.
+- Measure and adjust voltages to specified values to determine operational accuracy of instruments.
+- Complete, review, or maintain production, time, or component waste reports.
+- Distribute materials, supplies, or subassemblies to work areas.
+- Pack finished assemblies for shipment, and transport them to storage areas, using hoists or handtrucks.
+- Instruct customers in the installation, repair, or maintenance of products.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Reading Comprehension (Importance: 3.25/5 | Level: 3.12/7)
+- Monitoring (Importance: 3.12/5 | Level: 2.88/7)
+- Operations Monitoring (Importance: 3.12/5 | Level: 3.0/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 2.62/7)
+- Coordination (Importance: 3.0/5 | Level: 2.88/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 3.0/7)
+- Active Listening (Importance: 3.0/5 | Level: 2.88/7)
+- Operation and Control (Importance: 2.88/5 | Level: 2.88/7)
+- Time Management (Importance: 2.88/5 | Level: 2.75/7)
+- Speaking (Importance: 2.88/5 | Level: 2.75/7)
+- Quality Control Analysis (Importance: 2.88/5 | Level: 2.5/7)
+- Writing (Importance: 2.88/5 | Level: 2.62/7)
+- Active Learning (Importance: 2.62/5 | Level: 2.75/7)
+- Complex Problem Solving (Importance: 2.62/5 | Level: 2.5/7)
+- Social Perceptiveness (Importance: 2.62/5 | Level: 2.5/7)
+- Troubleshooting (Importance: 2.5/5 | Level: 2.0/7)
+- Instructing (Importance: 2.5/5 | Level: 2.5/7)
+- Systems Analysis (Importance: 2.38/5 | Level: 1.5/7)
+- Management of Personnel Resources (Importance: 2.25/5 | Level: 2.0/7)
+- Systems Evaluation (Importance: 2.25/5 | Level: 1.5/7)
+- Equipment Maintenance (Importance: 2.25/5 | Level: 1.5/7)
+- Service Orientation (Importance: 2.25/5 | Level: 2.38/7)
+- Repairing (Importance: 2.25/5 | Level: 1.75/7)
+- Equipment Selection (Importance: 2.25/5 | Level: 1.5/7)
+- Installation (Importance: 2.12/5 | Level: 1.62/7)
+- Persuasion (Importance: 2.12/5 | Level: 1.88/7)
+- Learning Strategies (Importance: 2.12/5 | Level: 2.0/7)
+- Negotiation (Importance: 2.12/5 | Level: 1.88/7)
+- Mathematics (Importance: 2.12/5 | Level: 2.0/7)
+- Science (Importance: 1.88/5 | Level: 1.5/7)
+- Technology Design (Importance: 1.75/5 | Level: 0.75/7)
+- Management of Material Resources (Importance: 1.75/5 | Level: 0.88/7)
+- Operations Analysis (Importance: 1.62/5 | Level: 0.62/7)
+- Management of Financial Resources (Importance: 1.5/5 | Level: 0.5/7)
+- Programming (Importance: 1.25/5 | Level: 0.25/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Calibration software (Tech skill type: Analytical or scientific software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Word (Tech skill type: Word processing software)
+- National Instruments LabVIEW (Tech skill type: Development environment software)
+- Production control software (Tech skill type: Industrial control software)
+- Rasmussen Software Anzio (Tech skill type: Network connectivity terminal emulation software)
+- Sage 100 ERP (Tech skill type: Enterprise resource planning ERP software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Terminal emulation software (Tech skill type: Network connectivity terminal emulation software)
+
+## TOOLS USED
+- Adjustable widemouth pliers (Tool type: Adjustable widemouth pliers)
+- Adjustable wrenches (Tool type: Adjustable wrenches)
+- Audio signal generators (Tool type: Signal generators)
+- Convection ovens (Tool type: Commercial use convection ovens)
+- Digital calipers (Tool type: Calipers)
+- Digital multimeters (Tool type: Multimeters)
+- Digital oscilloscopes (Tool type: Oscilloscopes)
+- Digital voltmeters DVM (Tool type: Voltage or current meters)
+- Flathead screwdrivers (Tool type: Screwdrivers)
+- Handtrucks (Tool type: Hand trucks or accessories)
+- Hoisting racks (Tool type: Hoists)
+- Laser micro-welding equipment (Tool type: Laser welding machine)
+- Laser power meters (Tool type: Laser beam analyzers)
+- Paint spray guns (Tool type: Paint sprayers)
+- Personal computers (Tool type: Personal computers)
+- Personal protective suits (Tool type: Hazardous material protective apparel)
+- Pin extractors (Tool type: Insertion tool)
+- Power drills (Tool type: Power drills)
+- Power saws (Tool type: Power saws)
+- Precision tweezers (Tool type: Tweezers)
+- Rulers (Tool type: Rulers)
+- Soldering irons (Tool type: Soldering iron)
+- Stirring hotplates (Tool type: Stirring hotplates)
+- Utility knives (Tool type: Utility knives)
+- Wire crimpers (Tool type: Wire lug crimping tool)
+- Wire cutters (Tool type: Wire cutters)
+- Wire cutting tools (Tool type: Wire cutters)
+- Wire pullers (Tool type: Fish tape)
+- Wire strippers (Tool type: Stripping tools)

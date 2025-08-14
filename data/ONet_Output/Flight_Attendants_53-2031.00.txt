@@ -1,0 +1,128 @@
+Job Title: Flight Attendants
+O*NET-SOC Code: 53-2031.00
+
+# DESCRIPTION
+Monitor safety of the aircraft cabin. Provide services to airline passengers, explain safety information, serve food and beverages, and respond to emergency incidents.
+
+# TASKS
+- Verify that first aid kits and other emergency equipment, including fire extinguishers and oxygen bottles, are in working order.
+- Announce and demonstrate safety and emergency procedures, such as the use of oxygen masks, seat belts, and life jackets.
+- Monitor passenger behavior to identify threats to the safety of the crew and other passengers.
+- Walk aisles of planes to verify that passengers have complied with federal regulations prior to takeoffs and landings.
+- Direct and assist passengers in emergency procedures, such as evacuating a plane following an emergency landing.
+- Prepare passengers and aircraft for landing, following procedures.
+- Administer first aid to passengers in distress.
+- Determine special assistance needs of passengers, such as small children, the elderly, or persons with disabilities.
+- Attend preflight briefings concerning weather, altitudes, routes, emergency procedures, crew coordination, lengths of flights, food and beverage services offered, and numbers of passengers.
+- Reassure passengers when situations, such as turbulence, are encountered.
+- Check to ensure that food, beverages, blankets, reading material, emergency equipment, and other supplies are aboard and are in adequate supply.
+- Prepare reports showing places of departure and destination, passenger ticket numbers, meal and beverage inventories, the conditions of cabin equipment, and any problems encountered by passengers.
+- Announce flight delays and descent preparations.
+- Greet passengers boarding aircraft and direct them to assigned seats.
+- Assist passengers entering or disembarking the aircraft.
+- Conduct periodic trips through the cabin to ensure passenger comfort and to distribute reading material, headphones, pillows, playing cards, and blankets.
+- Inspect and clean cabins, checking for any problems and making sure that cabins are in order.
+- Operate audio and video systems.
+- Answer passengers' questions about flights, aircraft, weather, travel routes and services, arrival times, or schedules.
+- Collect money for meals and beverages.
+- Heat and serve prepared foods.
+- Inspect passenger tickets to verify information and to obtain destination information.
+- Assist passengers in placing carry-on luggage in overhead, garment, or under-seat storage.
+- Take inventory of headsets, alcoholic beverages, and money collected.
+- Sell alcoholic beverages to passengers.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Speaking (Importance: 4.12/5 | Level: 3.75/7)
+- Monitoring (Importance: 3.88/5 | Level: 3.38/7)
+- Active Listening (Importance: 3.88/5 | Level: 3.25/7)
+- Social Perceptiveness (Importance: 3.75/5 | Level: 3.25/7)
+- Service Orientation (Importance: 3.75/5 | Level: 3.62/7)
+- Coordination (Importance: 3.62/5 | Level: 3.25/7)
+- Active Learning (Importance: 3.12/5 | Level: 3.0/7)
+- Time Management (Importance: 3.12/5 | Level: 3.0/7)
+- Critical Thinking (Importance: 3.12/5 | Level: 3.62/7)
+- Reading Comprehension (Importance: 3.12/5 | Level: 3.5/7)
+- Persuasion (Importance: 3.0/5 | Level: 2.88/7)
+- Writing (Importance: 3.0/5 | Level: 2.88/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 2.88/7)
+- Instructing (Importance: 2.88/5 | Level: 2.88/7)
+- Complex Problem Solving (Importance: 2.88/5 | Level: 2.62/7)
+- Negotiation (Importance: 2.88/5 | Level: 2.75/7)
+- Learning Strategies (Importance: 2.75/5 | Level: 2.25/7)
+- Management of Personnel Resources (Importance: 2.5/5 | Level: 2.25/7)
+- Operations Monitoring (Importance: 2.38/5 | Level: 2.12/7)
+- Quality Control Analysis (Importance: 2.12/5 | Level: 2.12/7)
+- Troubleshooting (Importance: 2.0/5 | Level: 1.62/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 1.88/7)
+- Systems Analysis (Importance: 2.0/5 | Level: 1.88/7)
+- Operation and Control (Importance: 2.0/5 | Level: 1.5/7)
+- Mathematics (Importance: 2.0/5 | Level: 1.88/7)
+- Management of Financial Resources (Importance: 1.88/5 | Level: 1.0/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.12/7)
+- Technology Design (Importance: 1.75/5 | Level: 0.75/7)
+- Operations Analysis (Importance: 1.62/5 | Level: 0.75/7)
+- Science (Importance: 1.38/5 | Level: 0.5/7)
+- Programming (Importance: 1.38/5 | Level: 0.38/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- AD OPT Altitude (Tech skill type: Calendar and scheduling software)
+- Arkitektia Flight Itinerary (Tech skill type: Calendar and scheduling software)
+- Bid Assistant (Tech skill type: Calendar and scheduling software)
+- IBM Lotus LearningSpace (Tech skill type: Computer based training software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- SBS International Maestro Suite (Tech skill type: Calendar and scheduling software)
+- ValtamTech Flight Crew Log (Tech skill type: Calendar and scheduling software)
+
+## TOOLS USED
+- Aircraft fire extinguishing systems (Tool type: Aircraft fire control or extinguishing systems)
+- Automated external defibrillators AED (Tool type: Mobile medical services automated external defibrillators AED or hard paddles)
+- Blood pressure recorders (Tool type: Blood pressure recording units)
+- Cabin management systems (Tool type: Aircraft environment controllers)
+- Cardiopulmonary resuscitation CPR equipment (Tool type: Mobile resuscitator or aspirator kits)
+- Cardiopulmonary resuscitation CPR masks (Tool type: Mobile resuscitator or aspirator kits)
+- Chemical oxygen generators (Tool type: Aircraft oxygen equipment)
+- Commercial cooking ovens (Tool type: Commercial use ovens)
+- Desktop computers (Tool type: Desktop computers)
+- Electrical circuit breakers (Tool type: Circuit breakers)
+- Emergency exit doors and windows (Tool type: Aircraft escape or ejection systems)
+- Emergency locator transmitters (Tool type: Radio frequency transmitters or receivers)
+- Emergency rafts (Tool type: Lifeboats or liferafts)
+- Epi-pens (Tool type: Hypodermic injection apparatus)
+- Evacuation slides (Tool type: Aircraft escape or ejection systems)
+- First aid kits (Tool type: Mobile medical services first aid kits)
+- Flotation seat cushions (Tool type: Life vests or preservers)
+- Halon fire extinguishers (Tool type: Fire extinguishers)
+- Heaving life lines (Tool type: Rope float lines)
+- Intravenous IV administration sets (Tool type: Mobile medical service intravenous IV kits)
+- Lavatory smoke detectors (Tool type: Smoke detectors)
+- Life preservers (Tool type: Life vests or preservers)
+- Mechanical stethoscopes (Tool type: Medical acoustic stethoscopes)
+- Megaphones (Tool type: Megaphones)
+- Nitroglycerin tablets (Tool type: Glyceryl trinitrate or glyceryltrinitrate or nitroglycerin)
+- Notebook computers (Tool type: Notebook computers)
+- Personal digital assistants PDA (Tool type: Personal digital assistant PDAs or organizers)
+- Portable oxygen equipment (Tool type: Aircraft oxygen equipment)
+- Protective breathing equipment (Tool type: Aircraft oxygen equipment)
+- Refreshment carts (Tool type: Cool containers)
+- Refrigeration units (Tool type: Cool containers)
+- Satellite aircraft communication systems (Tool type: Aircraft communication systems)
+- Self-inflating manual resuscitation devices (Tool type: Mobile resuscitator or aspirator kits)
+- Slideraft packs (Tool type: Aircraft escape or ejection systems)
+- Sliderafts (Tool type: Lifeboats or liferafts)
+- Smoke goggles (Tool type: Goggles)
+- Sphygmomanometers (Tool type: Blood pressure cuff kits)
+- Storage compartments (Tool type: Cool containers)
+- Supplemental oxygen systems (Tool type: Aircraft oxygen equipment)
+- Tourniquets (Tool type: Mobile medical services tourniquet or clamp)
+- Water system shutoff valves (Tool type: Control valves)
+- Window exit escape ropes (Tool type: Aircraft escape or ejection systems)

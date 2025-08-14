@@ -1,0 +1,88 @@
+Job Title: Machine Feeders and Offbearers
+O*NET-SOC Code: 53-7063.00
+
+# DESCRIPTION
+Feed materials into or remove materials from machines or equipment that is automatic or tended by other workers.
+
+# TASKS
+- Inspect materials and products for defects, and to ensure conformance to specifications.
+- Record production and operational data, such as amount of materials processed.
+- Push dual control buttons and move controls to start, stop, or adjust machinery and equipment.
+- Weigh or measure materials or products to ensure conformance to specifications.
+- Identify and mark materials, products, and samples, following instructions.
+- Clean and maintain machinery, equipment, and work areas to ensure proper functioning and safe working conditions.
+- Load materials and products into machines and equipment, or onto conveyors, using hand tools and moving devices.
+- Transfer materials and products to and from machinery and equipment, using industrial trucks or hand trucks.
+- Fasten, package, or stack materials and products, using hand tools and fastening equipment.
+- Remove materials and products from machines and equipment, and place them in boxes, trucks or conveyors, using hand tools and moving devices.
+- Shovel or scoop materials into containers, machines, or equipment for processing, storage, or transport.
+- Open and close gates of belt and pneumatic conveyors on machines that are fed directly from preceding machines.
+- Add chemicals, solutions, or ingredients to machines or equipment as required by the manufacturing process.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operations Monitoring (Importance: 3.38/5 | Level: 3.38/7)
+- Monitoring (Importance: 3.0/5 | Level: 2.88/7)
+- Troubleshooting (Importance: 2.75/5 | Level: 2.0/7)
+- Speaking (Importance: 2.75/5 | Level: 2.62/7)
+- Reading Comprehension (Importance: 2.75/5 | Level: 2.88/7)
+- Quality Control Analysis (Importance: 2.75/5 | Level: 2.5/7)
+- Active Listening (Importance: 2.75/5 | Level: 2.62/7)
+- Operation and Control (Importance: 2.62/5 | Level: 2.5/7)
+- Coordination (Importance: 2.5/5 | Level: 2.0/7)
+- Critical Thinking (Importance: 2.5/5 | Level: 2.62/7)
+- Time Management (Importance: 2.5/5 | Level: 2.5/7)
+- Social Perceptiveness (Importance: 2.5/5 | Level: 2.12/7)
+- Judgment and Decision Making (Importance: 2.5/5 | Level: 2.25/7)
+- Writing (Importance: 2.38/5 | Level: 2.0/7)
+- Mathematics (Importance: 2.12/5 | Level: 1.62/7)
+- Learning Strategies (Importance: 2.0/5 | Level: 1.75/7)
+- Complex Problem Solving (Importance: 2.0/5 | Level: 2.12/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 1.38/7)
+- Service Orientation (Importance: 2.0/5 | Level: 1.88/7)
+- Instructing (Importance: 2.0/5 | Level: 1.88/7)
+- Active Learning (Importance: 2.0/5 | Level: 2.0/7)
+- Persuasion (Importance: 2.0/5 | Level: 1.88/7)
+- Management of Personnel Resources (Importance: 1.88/5 | Level: 1.38/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 0.88/7)
+- Equipment Maintenance (Importance: 1.88/5 | Level: 1.25/7)
+- Negotiation (Importance: 1.88/5 | Level: 1.62/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 0.75/7)
+- Repairing (Importance: 1.75/5 | Level: 1.25/7)
+- Equipment Selection (Importance: 1.62/5 | Level: 0.88/7)
+- Systems Analysis (Importance: 1.62/5 | Level: 0.88/7)
+- Science (Importance: 1.25/5 | Level: 0.38/7)
+- Operations Analysis (Importance: 1.25/5 | Level: 0.38/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Technology Design (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Machine operation software (Tech skill type: Industrial control software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Work time tracking software (Tech skill type: Time accounting software)
+
+## TOOLS USED
+- Conveyor belt systems (Tool type: Belt conveyors)
+- Digital floor scales (Tool type: Floor or platform scales)
+- Electric hoists (Tool type: Hoists)
+- Electric winches (Tool type: Winches)
+- Feeder consoles (Tool type: Electronic actuators)
+- Folder gluers (Tool type: Glue roller spreader)
+- Grinder machines (Tool type: Grinding machines)
+- Hoppers (Tool type: Batching plants or feeders)
+- Label applicators (Tool type: Label applying machines)
+- Machine wrappers (Tool type: Wrapping machinery)
+- Manual pallet jacks (Tool type: Pallet trucks)
+- Mechanical sheet feeders (Tool type: Power feeder)
+- Milling machines (Tool type: Milling machines)
+- Overhead track cranes (Tool type: Track cranes)
+- Personal computers (Tool type: Personal computers)
+- Pneumatic conveyor systems (Tool type: Air conveyors)
+- Protective ear plugs (Tool type: Ear plugs)
+- Protective glasses (Tool type: Safety glasses)
+- Strappers (Tool type: Strapping tensioners or sealers)
+- Warehouse hand trucks (Tool type: Hand trucks or accessories)
+- Wheeled forklifts (Tool type: Forklifts)

@@ -1,0 +1,90 @@
+Job Title: Insurance Underwriters
+O*NET-SOC Code: 13-2053.00
+
+# DESCRIPTION
+Review individual applications for insurance to evaluate degree of risk involved and determine acceptance of applications.
+
+# TASKS
+- Examine documents to determine degree of risk from factors such as applicant health, financial standing and value, and condition of property.
+- Decline excessive risks.
+- Write to field representatives, medical personnel, or others to obtain further information, quote rates, or explain company underwriting policies.
+- Evaluate possibility of losses due to catastrophe or excessive insurance.
+- Review company records to determine amount of insurance in force on single risk or group of closely related risks.
+- Decrease value of policy when risk is substandard and specify applicable endorsements or apply rating to ensure safe, profitable distribution of risks, using reference materials.
+- Authorize reinsurance of policy when risk is high.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Writing (Importance: 3.75/5 | Level: 3.75/7)
+- Reading Comprehension (Importance: 3.75/5 | Level: 3.75/7)
+- Critical Thinking (Importance: 3.75/5 | Level: 3.88/7)
+- Active Listening (Importance: 3.75/5 | Level: 4.0/7)
+- Speaking (Importance: 3.62/5 | Level: 3.62/7)
+- Judgment and Decision Making (Importance: 3.5/5 | Level: 3.5/7)
+- Active Learning (Importance: 3.12/5 | Level: 3.38/7)
+- Complex Problem Solving (Importance: 3.12/5 | Level: 3.12/7)
+- Coordination (Importance: 3.0/5 | Level: 2.88/7)
+- Monitoring (Importance: 3.0/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 3.0/7)
+- Service Orientation (Importance: 3.0/5 | Level: 3.0/7)
+- Mathematics (Importance: 2.88/5 | Level: 2.88/7)
+- Time Management (Importance: 2.88/5 | Level: 2.88/7)
+- Persuasion (Importance: 2.88/5 | Level: 2.75/7)
+- Systems Analysis (Importance: 2.75/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 2.75/5 | Level: 3.0/7)
+- Negotiation (Importance: 2.75/5 | Level: 2.88/7)
+- Systems Evaluation (Importance: 2.75/5 | Level: 3.0/7)
+- Instructing (Importance: 2.75/5 | Level: 2.62/7)
+- Management of Personnel Resources (Importance: 2.38/5 | Level: 2.25/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.12/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.0/7)
+- Operations Analysis (Importance: 1.88/5 | Level: 1.75/7)
+- Operations Monitoring (Importance: 1.88/5 | Level: 0.88/7)
+- Technology Design (Importance: 1.62/5 | Level: 0.62/7)
+- Programming (Importance: 1.5/5 | Level: 0.75/7)
+- Science (Importance: 1.38/5 | Level: 0.38/7)
+- Quality Control Analysis (Importance: 1.12/5 | Level: 0.12/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Operation and Control (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Anodas Software Limited Phoenix (Tech skill type: Enterprise resource planning ERP software)
+- C++ (Tech skill type: Object or component oriented development software)
+- Consilience Software Maven Insurance Automation Suite (Tech skill type: Enterprise resource planning ERP software)
+- CSC nbAccelerator (Tech skill type: Enterprise resource planning ERP software)
+- Database software (Tech skill type: Data base user interface and query software)
+- Delphi Technology (Tech skill type: Financial analysis software)
+- Fair Isaac Enterprise Decision Management for Insurance (Tech skill type: Enterprise resource planning ERP software)
+- Fannie Mae Desktop Underwriter (Tech skill type: Financial analysis software)
+- Fiserv Advanced Underwriting (Tech skill type: Financial analysis software)
+- IBM FileNet Content Manager (Tech skill type: Document management software)
+- LabOne NET (Tech skill type: Financial analysis software)
+- LexisNexis (Tech skill type: Information retrieval or search software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- NIIT Technologies WinRisk (Tech skill type: Financial analysis software)
+- QualCorp FormsPlus (Tech skill type: Enterprise resource planning ERP software)
+- RGA AURA (Tech skill type: Financial analysis software)
+- RGA Facultative Application Console (Tech skill type: Financial analysis software)
+- SIS SEMCI PARTNER (Tech skill type: Enterprise resource planning ERP software)
+- Skywire Software InsBridge (Tech skill type: Enterprise resource planning ERP software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- Valen Technologies Risk Manager (Tech skill type: Financial analysis software)
+- Web browser software (Tech skill type: Internet browser software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- 10-key calculators (Tool type: Desktop calculator)
+- Desktop computers (Tool type: Desktop computers)
+- Laptop computers (Tool type: Notebook computers)
+- Notebook computers (Tool type: Notebook computers)
+- Personal computers (Tool type: Personal computers)

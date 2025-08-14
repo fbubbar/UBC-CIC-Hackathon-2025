@@ -1,0 +1,138 @@
+Job Title: Mechatronics Engineers
+O*NET-SOC Code: 17-2199.05
+
+# DESCRIPTION
+Research, design, develop, or test automation, intelligent systems, smart devices, or industrial systems control.
+
+# TASKS
+- Create mechanical design documents for parts, assemblies, or finished products.
+- Design advanced precision equipment for accurate or controlled applications.
+- Design engineering systems for the automation of industrial tasks.
+- Implement or test design solutions.
+- Maintain technical project files.
+- Identify materials appropriate for mechatronic system designs.
+- Research, select, or apply sensors, communication technologies, or control devices for motion control, position sensing, pressure sensing, or electronic communication.
+- Apply mechatronic or automated solutions to the transfer of materials, components, or finished goods.
+- Provide consultation or training on topics such as mechatronics or automated control.
+- Oversee the work of contractors in accordance with project requirements.
+- Publish engineering reports documenting design details or qualification test results.
+- Upgrade the design of existing devices by adding mechatronic elements.
+- Create mechanical models to simulate mechatronic design concepts.
+- Analyze existing development or manufacturing procedures and suggest improvements.
+- Determine the feasibility, costs, or performance benefits of new mechatronic equipment.
+- Develop electronic, mechanical, or computerized processes to perform tasks in dangerous situations, such as underwater exploration or extraterrestrial mining.
+- Monitor or calibrate automated systems, industrial control systems, or system components to maximize efficiency of production.
+- Create embedded software design programs.
+- Design advanced electronic control systems for mechanical systems.
+- Design self-monitoring mechanical systems, such as gear systems that monitor loading or condition of systems to detect and prevent failures.
+- Design or develop automated control systems for environmental applications, such as waste processing, air quality, or water quality systems.
+- Design, develop, or implement control circuits or algorithms for electromechanical or pneumatic devices or systems.
+- Design mechatronics components for computer-controlled products, such as cameras, video recorders, automobiles, or airplanes.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Complex Problem Solving (Importance: 3.88/5 | Level: 4.25/7)
+- Judgment and Decision Making (Importance: 3.88/5 | Level: 4.12/7)
+- Writing (Importance: 3.75/5 | Level: 4.0/7)
+- Critical Thinking (Importance: 3.75/5 | Level: 4.0/7)
+- Reading Comprehension (Importance: 3.75/5 | Level: 4.12/7)
+- Active Listening (Importance: 3.62/5 | Level: 4.0/7)
+- Speaking (Importance: 3.5/5 | Level: 3.88/7)
+- Monitoring (Importance: 3.38/5 | Level: 3.88/7)
+- Systems Evaluation (Importance: 3.38/5 | Level: 4.0/7)
+- Mathematics (Importance: 3.38/5 | Level: 4.0/7)
+- Systems Analysis (Importance: 3.25/5 | Level: 4.0/7)
+- Technology Design (Importance: 3.12/5 | Level: 3.62/7)
+- Science (Importance: 3.12/5 | Level: 3.25/7)
+- Operations Monitoring (Importance: 3.12/5 | Level: 3.5/7)
+- Operations Analysis (Importance: 3.12/5 | Level: 3.62/7)
+- Active Learning (Importance: 3.12/5 | Level: 4.0/7)
+- Learning Strategies (Importance: 3.12/5 | Level: 3.12/7)
+- Instructing (Importance: 3.0/5 | Level: 3.12/7)
+- Quality Control Analysis (Importance: 3.0/5 | Level: 3.75/7)
+- Time Management (Importance: 3.0/5 | Level: 3.38/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Operation and Control (Importance: 3.0/5 | Level: 3.0/7)
+- Persuasion (Importance: 2.88/5 | Level: 3.0/7)
+- Service Orientation (Importance: 2.88/5 | Level: 2.88/7)
+- Management of Personnel Resources (Importance: 2.75/5 | Level: 2.88/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 2.88/7)
+- Negotiation (Importance: 2.62/5 | Level: 2.88/7)
+- Programming (Importance: 2.5/5 | Level: 2.38/7)
+- Equipment Selection (Importance: 2.38/5 | Level: 2.5/7)
+- Troubleshooting (Importance: 2.25/5 | Level: 2.5/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.88/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.88/7)
+- Installation (Importance: 1.62/5 | Level: 0.75/7)
+- Equipment Maintenance (Importance: 1.5/5 | Level: 0.75/7)
+- Repairing (Importance: 1.38/5 | Level: 0.75/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Artisan Studio (Tech skill type: Development environment software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Autodesk AutoCAD Mechanical (Tech skill type: Computer aided design CAD software)
+- AVEVA InTouch HMI (Tech skill type: Industrial control software)
+- C (Tech skill type: Development environment software)
+- C++ (Tech skill type: Object or component oriented development software)
+- Computer aided design CAD software (Tech skill type: Computer aided design CAD software)
+- Computer aided manufacturing CAM software (Tech skill type: Computer aided manufacturing CAM software)
+- Computer assisted software engineering CASE software (Tech skill type: Computer aided design CAD software)
+- Dassault Systemes CATIA (Tech skill type: Computer aided design CAD software)
+- Dassault Systemes Dymola (Tech skill type: Analytical or scientific software)
+- Dassault Systemes SolidWorks (Tech skill type: Computer aided design CAD software)
+- Debuggers (Tech skill type: Program testing software)
+- Disk file systems (Tech skill type: Filesystem software)
+- dSPACE (Tech skill type: Document management software)
+- Finite element method FEM software (Tech skill type: Analytical or scientific software)
+- Hardware description language HDL (Tech skill type: Development environment software)
+- IBM Rational (Tech skill type: Development environment software)
+- Keysight Intuilink Connectivity Software (Tech skill type: Platform interconnectivity software)
+- Linux (Tech skill type: Operating system software)
+- Magellan Firmware (Tech skill type: Operating system software)
+- MathWorks Simulink (Tech skill type: Analytical or scientific software)
+- Mentor Graphics VeSys Design (Tech skill type: Computer aided design CAD software)
+- Microchip MPLAB Integrated Development Environment (IDE) (Tech skill type: Development environment software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Visual Basic (Tech skill type: Development environment software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Modelica (Tech skill type: Object or component oriented development software)
+- MSC Software Adams (Tech skill type: Analytical or scientific software)
+- MSC Software Nastran (Tech skill type: Analytical or scientific software)
+- National Instruments LabVIEW (Tech skill type: Development environment software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- Programmable logic controller PLC software (Tech skill type: Industrial control software)
+- PTC Creo Parametric (Tech skill type: Computer aided design CAD software)
+- Python (Tech skill type: Object or component oriented development software)
+- Rapid prototyping software (Tech skill type: Computer aided manufacturing CAM software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Simulation software (Tech skill type: Analytical or scientific software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- The MathWorks MATLAB (Tech skill type: Analytical or scientific software)
+- The MathWorks Real-Time Workshop (Tech skill type: Analytical or scientific software)
+- The MathWorks Stateflow (Tech skill type: Analytical or scientific software)
+- Unified modeling language UML (Tech skill type: Requirements analysis and system architecture software)
+- Vector CANalyzer (Tech skill type: Analytical or scientific software)
+- Vector Canape (Tech skill type: Analytical or scientific software)
+- Vector CANoe (Tech skill type: Development environment software)
+- Web browser software (Tech skill type: Internet browser software)
+- Woodward MotoTron Control Solutions MotoHawk (Tech skill type: Development environment software)
+
+## TOOLS USED
+- Bandsaws (Tool type: Metal band sawing machine)
+- Computer numerically controlled CNC machining centers (Tool type: Milling machines)
+- Desktop computers (Tool type: Desktop computers)
+- Digital multimeters (Tool type: Multimeters)
+- Dynamometers (Tool type: Dynamometers)
+- Function generators (Tool type: Signal generators)
+- Laser printers (Tool type: Laser printers)
+- Lathes (Tool type: Tracer or duplicating or contouring lathe)
+- Milling machines (Tool type: Milling machines)
+- Oscilloscopes (Tool type: Oscilloscopes)
+- Power grinders (Tool type: Power grinders)
+- Precision positioning tables (Tool type: Semiconductor process systems)
+- Soldering irons (Tool type: Soldering iron)

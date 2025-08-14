@@ -1,0 +1,102 @@
+Job Title: Rolling Machine Setters, Operators, and Tenders, Metal and Plastic
+O*NET-SOC Code: 51-4023.00
+
+# DESCRIPTION
+Set up, operate, or tend machines to roll steel or plastic forming bends, beads, knurls, rolls, or plate, or to flatten, temper, or reduce gauge of material.
+
+# TASKS
+- Monitor machine cycles and mill operation to detect jamming and to ensure that products conform to specifications.
+- Adjust and correct machine set-ups to reduce thicknesses, reshape products, and eliminate product defects.
+- Start operation of rolling and milling machines to flatten, temper, form, and reduce sheet metal sections and to produce steel strips.
+- Examine, inspect, and measure raw materials and finished products to verify conformance to specifications.
+- Read rolling orders, blueprints, and mill schedules to determine setup specifications, work sequences, product dimensions, and installation procedures.
+- Manipulate controls and observe dial indicators to monitor, adjust, and regulate speeds of machine mechanisms.
+- Set distance points between rolls, guides, meters, and stops, according to specifications.
+- Calculate draft space and roll speed for each mill stand to plan rolling sequences and specified dimensions and tempers.
+- Install equipment such as guides, guards, gears, cooling equipment, and rolls, using hand tools.
+- Position, align, and secure arbors, spindles, coils, mandrels, dies, and slitting knives.
+- Fill oil cups, adjust valves, and observe gauges to control flow of metal coolants and lubricants onto workpieces.
+- Activate shears and grinders to trim workpieces.
+- Signal and assist other workers to remove and position equipment, fill hoppers, and feed materials into machines.
+- Record mill production on schedule sheets.
+- Direct and train other workers to change rolls, operate mill equipment, remove coils and cobbles, and band and load material.
+- Thread or feed sheets or rods through rolling mechanisms, or start and control mechanisms that automatically feed steel into rollers.
+- Select rolls, dies, roll stands, and chucks from data charts to form specified contours and to fabricate products.
+- Remove scratches and polish roll surfaces, using polishing stones and electric buffers.
+- Disassemble sizing mills removed from rolling lines, and sort and store parts.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operation and Control (Importance: 4.0/5 | Level: 3.88/7)
+- Operations Monitoring (Importance: 4.0/5 | Level: 4.0/7)
+- Quality Control Analysis (Importance: 3.62/5 | Level: 3.88/7)
+- Monitoring (Importance: 3.5/5 | Level: 3.0/7)
+- Speaking (Importance: 3.25/5 | Level: 2.75/7)
+- Critical Thinking (Importance: 3.12/5 | Level: 3.0/7)
+- Active Listening (Importance: 3.12/5 | Level: 2.75/7)
+- Troubleshooting (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 3.0/7)
+- Repairing (Importance: 3.0/5 | Level: 2.88/7)
+- Reading Comprehension (Importance: 3.0/5 | Level: 2.88/7)
+- Active Learning (Importance: 3.0/5 | Level: 3.0/7)
+- Complex Problem Solving (Importance: 3.0/5 | Level: 2.75/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 2.88/7)
+- Equipment Maintenance (Importance: 3.0/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 2.88/5 | Level: 2.75/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.5/7)
+- Systems Evaluation (Importance: 2.75/5 | Level: 2.38/7)
+- Systems Analysis (Importance: 2.75/5 | Level: 2.75/7)
+- Instructing (Importance: 2.75/5 | Level: 2.88/7)
+- Management of Personnel Resources (Importance: 2.75/5 | Level: 2.62/7)
+- Writing (Importance: 2.62/5 | Level: 2.62/7)
+- Equipment Selection (Importance: 2.62/5 | Level: 2.38/7)
+- Service Orientation (Importance: 2.38/5 | Level: 2.0/7)
+- Installation (Importance: 2.38/5 | Level: 2.0/7)
+- Mathematics (Importance: 2.38/5 | Level: 2.5/7)
+- Negotiation (Importance: 2.0/5 | Level: 1.62/7)
+- Persuasion (Importance: 1.88/5 | Level: 1.75/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.25/7)
+- Operations Analysis (Importance: 1.75/5 | Level: 1.12/7)
+- Technology Design (Importance: 1.75/5 | Level: 0.88/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 0.88/7)
+- Programming (Importance: 1.62/5 | Level: 0.62/7)
+- Science (Importance: 1.38/5 | Level: 0.38/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Email software (Tech skill type: Electronic mail software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Chain hoists (Tool type: Hoists)
+- Cluster rolling mills (Tool type: Rolling press)
+- Crop shears (Tool type: Metal shearing machine)
+- Diameter gauges (Tool type: Radius gauge)
+- Digital calipers (Tool type: Calipers)
+- Digital radius gauges (Tool type: Radius gauge)
+- Digital strain gauges (Tool type: Strain gauges)
+- Displacement transducers (Tool type: Displacement transducer)
+- Electric overhead traveling EOT cranes (Tool type: Overhead crane)
+- Finishing mills (Tool type: Rolling press)
+- Fluid pressure transducers (Tool type: Pressure transducer)
+- Four-high rolling mills (Tool type: Rolling press)
+- Height gauges (Tool type: Height gauges)
+- Hot metal detectors (Tool type: Metal detectors)
+- Industrial furnaces (Tool type: Furnaces)
+- Long-handled brushes (Tool type: Dust brushes or pans)
+- Optical gauges (Tool type: Pressure sensors)
+- Plate outline gauges (Tool type: Thickness measuring devices)
+- Ring gauges (Tool type: Cylinder gauge)
+- Roll lubrication systems (Tool type: Lubricator pump)
+- Roughing mills (Tool type: Rolling press)
+- Sheet metal gauges (Tool type: Thickness measuring devices)
+- Steel tapes (Tool type: Tape measures)
+- Straight screwdrivers (Tool type: Screwdrivers)
+- Tandem rolling mills (Tool type: Rolling press)
+- Tensiometers (Tool type: Tension testers)
+- Three-high rolling mills (Tool type: Rolling press)
+- Two-high reversing rolling mills (Tool type: Rolling press)
+- Two-high rolling mills (Tool type: Rolling press)
+- Velocimeters (Tool type: Current meter)
+- Weighing load cells (Tool type: Strain gauges)
+- Width gauges (Tool type: Height gauges)

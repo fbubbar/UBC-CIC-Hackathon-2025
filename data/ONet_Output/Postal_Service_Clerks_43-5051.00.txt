@@ -1,0 +1,98 @@
+Job Title: Postal Service Clerks
+O*NET-SOC Code: 43-5051.00
+
+# DESCRIPTION
+Perform any combination of tasks in a United States Postal Service (USPS) post office, such as receive letters and parcels; sell postage and revenue stamps, postal cards, and stamped envelopes; fill out and sell money orders; place mail in pigeon holes of mail rack or in bags; and examine mail for correct postage. Includes postal service clerks employed by USPS contractors.
+
+# TASKS
+- Weigh letters and parcels, compute mailing costs based on type, weight, and destination, and affix correct postage.
+- Check mail to ensure correct postage and that packages and letters are in proper condition for mailing.
+- Sort incoming and outgoing mail, according to type and destination, by hand or by operating electronic mail-sorting and scanning devices.
+- Obtain signatures from recipients of registered or special delivery mail.
+- Answer questions regarding mail regulations and procedures, postage rates, and post office boxes.
+- Transport mail from one work station to another.
+- Sell and collect payment for products such as stamps, prepaid mail envelopes, and money orders.
+- Keep money drawers in order, and record and balance daily transactions.
+- Register, certify, and insure letters and parcels.
+- Complete forms regarding changes of address, or theft or loss of mail, or for special services such as registered or priority mail.
+- Receive letters and parcels, and place mail into bags.
+- Put undelivered parcels away, retrieve them when customers come to claim them, and complete any related documentation.
+- Respond to complaints regarding mail theft, delivery problems, and lost or damaged mail, filling out forms and making appropriate referrals for investigation.
+- Provide assistance to the public in complying with federal regulations of Postal Service and other federal agencies.
+- Rent post office boxes to customers.
+- Provide customers with assistance in filing claims for mail theft, or lost or damaged mail.
+- Feed mail into postage canceling devices or hand stamp mail to cancel postage.
+- Cash money orders.
+- Order retail items and other supplies for office use.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Active Listening (Importance: 3.38/5 | Level: 3.12/7)
+- Speaking (Importance: 3.25/5 | Level: 3.0/7)
+- Service Orientation (Importance: 3.12/5 | Level: 3.0/7)
+- Reading Comprehension (Importance: 3.12/5 | Level: 3.12/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 3.25/7)
+- Time Management (Importance: 3.0/5 | Level: 2.62/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 2.38/7)
+- Monitoring (Importance: 3.0/5 | Level: 2.5/7)
+- Writing (Importance: 2.88/5 | Level: 3.0/7)
+- Judgment and Decision Making (Importance: 2.88/5 | Level: 2.12/7)
+- Mathematics (Importance: 2.75/5 | Level: 2.5/7)
+- Complex Problem Solving (Importance: 2.75/5 | Level: 2.5/7)
+- Coordination (Importance: 2.75/5 | Level: 2.25/7)
+- Persuasion (Importance: 2.62/5 | Level: 2.5/7)
+- Active Learning (Importance: 2.62/5 | Level: 2.0/7)
+- Negotiation (Importance: 2.25/5 | Level: 2.0/7)
+- Management of Personnel Resources (Importance: 2.12/5 | Level: 2.0/7)
+- Learning Strategies (Importance: 2.12/5 | Level: 2.0/7)
+- Instructing (Importance: 2.0/5 | Level: 2.0/7)
+- Operations Monitoring (Importance: 2.0/5 | Level: 1.62/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 1.25/7)
+- Quality Control Analysis (Importance: 2.0/5 | Level: 2.0/7)
+- Systems Analysis (Importance: 2.0/5 | Level: 1.88/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.25/7)
+- Troubleshooting (Importance: 1.88/5 | Level: 1.5/7)
+- Management of Financial Resources (Importance: 1.88/5 | Level: 1.62/7)
+- Operation and Control (Importance: 1.75/5 | Level: 1.0/7)
+- Programming (Importance: 1.62/5 | Level: 0.62/7)
+- Technology Design (Importance: 1.5/5 | Level: 0.5/7)
+- Operations Analysis (Importance: 1.5/5 | Level: 0.5/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Budgeting software (Tech skill type: Accounting software)
+- Delivery operations information system DOIS (Tech skill type: Enterprise resource planning ERP software)
+- Electronic Time Clock ETC (Tech skill type: Time accounting software)
+- Inventory tracking software (Tech skill type: Inventory management software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- NCR Advanced Store (Tech skill type: Point of sale POS software)
+- Point of sale POS software (Tech skill type: Point of sale POS software)
+- Time and Attendance Collection System TACS (Tech skill type: Human resources software)
+
+## TOOLS USED
+- Automated mail processing equipment (Tool type: Automatic postal or mailing machine)
+- Barcode scanners (Tool type: Bar code reader equipment)
+- Barcode sorters (Tool type: Sorters)
+- Bin stackers (Tool type: Bin handlers)
+- Doubles detectors (Tool type: Sorters)
+- Electronic mail sorting devices (Tool type: Sorters)
+- General purpose mail containers (Tool type: Material handling racks)
+- Hand stamps (Tool type: Rubber stamping stamps)
+- Hand trucks (Tool type: Hand trucks or accessories)
+- Mail bags (Tool type: Mailing bags)
+- Mail scales (Tool type: Postal scales)
+- Mail transport carts (Tool type: Carts)
+- Money drawers (Tool type: Cash box trays)
+- Optical character readers (Tool type: Optical character recognition systems)
+- Packaging tape dispensers (Tool type: Box sealing tape dispensers)
+- Point of sale workstations (Tool type: Point of sale POS terminal)
+- Postage meters (Tool type: Franking or postage machines)
+- Security device removers (Tool type: Security tag detacher)
+- Security devices (Tool type: Security tags)
+- Sorting machines (Tool type: Sorters)
+- Stamp cancelers (Tool type: Stamp canceling machines)
+- Warehouse dollies (Tool type: Dollies)

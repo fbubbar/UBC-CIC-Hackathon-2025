@@ -1,0 +1,91 @@
+Job Title: Counter and Rental Clerks
+O*NET-SOC Code: 41-2021.00
+
+# DESCRIPTION
+Receive orders, generally in person, for repairs, rentals, and services. May describe available options, compute cost, and accept payment.
+
+# TASKS
+- Compute charges for merchandise or services and receive payments.
+- Receive orders for services, such as rentals, repairs, dry cleaning, and storage.
+- Explain rental fees, policies, and procedures.
+- Provide information about rental items, such as availability, operation, or description.
+- Advise customers on use and care of merchandise.
+- Greet customers and discuss the type, quality, and quantity of merchandise sought for rental.
+- Answer telephones to provide information and receive orders.
+- Inspect and adjust rental items to meet needs of customer.
+- Prepare rental forms, obtaining customer signature and other information, such as required licenses.
+- Rent items, arrange for provision of services to customers, and accept returns.
+- Keep records of transactions and of the number of customers entering an establishment.
+- Receive, examine, and tag articles to be altered, cleaned, stored, or repaired.
+- Reserve items for requested times and keep records of items rented.
+- Prepare merchandise for display or for purchase or rental.
+- Recommend and provide advice on a wide variety of products and services.
+- Allocate equipment to participants in sporting events or recreational activities.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Active Listening (Importance: 3.75/5 | Level: 3.12/7)
+- Speaking (Importance: 3.38/5 | Level: 3.0/7)
+- Service Orientation (Importance: 3.38/5 | Level: 3.25/7)
+- Reading Comprehension (Importance: 3.25/5 | Level: 3.12/7)
+- Critical Thinking (Importance: 3.12/5 | Level: 2.88/7)
+- Social Perceptiveness (Importance: 3.12/5 | Level: 2.88/7)
+- Writing (Importance: 3.0/5 | Level: 3.0/7)
+- Monitoring (Importance: 3.0/5 | Level: 2.88/7)
+- Time Management (Importance: 3.0/5 | Level: 2.38/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Judgment and Decision Making (Importance: 2.88/5 | Level: 2.25/7)
+- Persuasion (Importance: 2.88/5 | Level: 2.88/7)
+- Negotiation (Importance: 2.88/5 | Level: 2.88/7)
+- Active Learning (Importance: 2.75/5 | Level: 2.25/7)
+- Complex Problem Solving (Importance: 2.75/5 | Level: 2.38/7)
+- Instructing (Importance: 2.5/5 | Level: 2.62/7)
+- Operations Monitoring (Importance: 2.38/5 | Level: 2.25/7)
+- Management of Personnel Resources (Importance: 2.38/5 | Level: 2.25/7)
+- Mathematics (Importance: 2.25/5 | Level: 2.25/7)
+- Management of Material Resources (Importance: 2.12/5 | Level: 1.88/7)
+- Learning Strategies (Importance: 2.12/5 | Level: 2.0/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 1.88/7)
+- Systems Analysis (Importance: 2.0/5 | Level: 1.88/7)
+- Operation and Control (Importance: 2.0/5 | Level: 2.0/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.75/7)
+- Quality Control Analysis (Importance: 1.62/5 | Level: 1.0/7)
+- Equipment Selection (Importance: 1.62/5 | Level: 0.75/7)
+- Equipment Maintenance (Importance: 1.62/5 | Level: 0.62/7)
+- Technology Design (Importance: 1.62/5 | Level: 0.75/7)
+- Troubleshooting (Importance: 1.62/5 | Level: 1.0/7)
+- Repairing (Importance: 1.62/5 | Level: 0.62/7)
+- Programming (Importance: 1.38/5 | Level: 0.5/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Operations Analysis (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Database software (Tech skill type: Data base user interface and query software)
+- Inventory management systems (Tech skill type: Inventory management software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Oracle Database (Tech skill type: Data base user interface and query software)
+- Point of sale POS software (Tech skill type: Point of sale POS software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- 35 millimeter cameras (Tool type: Still cameras)
+- Adjustable widemouth pliers (Tool type: Adjustable widemouth pliers)
+- Adjustable wrenches (Tool type: Adjustable wrenches)
+- Barcode scanners (Tool type: Bar code reader equipment)
+- Cash registers (Tool type: Cash registers)
+- Credit card processing machines (Tool type: Magnetic stripe readers and encoders)
+- Delivery trucks (Tool type: Delivery trucks)
+- Desktop computers (Tool type: Desktop computers)
+- Digital cameras (Tool type: Digital cameras)
+- Handtrucks (Tool type: Hand trucks or accessories)
+- Nut drivers (Tool type: Nut drivers)
+- Personal computers (Tool type: Personal computers)
+- Screwdrivers (Tool type: Screwdrivers)
+- Surveillance cameras (Tool type: Security cameras)
+- Wire cutters (Tool type: Wire cutters)
+- Wire strippers (Tool type: Stripping tools)

@@ -1,0 +1,103 @@
+Job Title: First-Line Supervisors of Non-Retail Sales Workers
+O*NET-SOC Code: 41-1012.00
+
+# DESCRIPTION
+Directly supervise and coordinate activities of sales workers other than retail sales workers. May perform duties such as budgeting, accounting, and personnel work, in addition to supervisory duties.
+
+# TASKS
+- Monitor sales staff performance to ensure that goals are met.
+- Provide staff with assistance in performing difficult or complicated duties.
+- Direct and supervise employees engaged in sales, inventory-taking, reconciling cash receipts, or performing specific services.
+- Listen to and resolve customer complaints regarding services, products, or personnel.
+- Keep records pertaining to purchases, sales, and requisitions.
+- Hire, train, and evaluate personnel.
+- Confer with company officials to develop methods and procedures to increase sales, expand markets, and promote business.
+- Plan and prepare work schedules, and assign employees to specific duties.
+- Attend company meetings to exchange product information and coordinate work activities with other departments.
+- Visit retailers and sales representatives to promote products and gather information.
+- Formulate pricing policies on merchandise according to profitability requirements.
+- Prepare sales and inventory reports for management and budget departments.
+- Examine products purchased for resale or received for storage to determine product condition.
+- Examine merchandise to ensure correct pricing and display, and that it functions as advertised.
+- Analyze details of sales territories to assess their growth potential and to set quotas.
+- Inventory stock and reorder when inventories drop to specified levels.
+- Coordinate sales promotion activities, such as preparing merchandise displays and advertising copy.
+- Prepare rental or lease agreements, specifying charges and payment procedures for use of machinery, tools, or other items.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Monitoring (Importance: 4.0/5 | Level: 4.25/7)
+- Speaking (Importance: 4.0/5 | Level: 4.0/7)
+- Active Listening (Importance: 4.0/5 | Level: 4.0/7)
+- Management of Personnel Resources (Importance: 4.0/5 | Level: 4.0/7)
+- Coordination (Importance: 3.88/5 | Level: 4.0/7)
+- Time Management (Importance: 3.88/5 | Level: 4.0/7)
+- Social Perceptiveness (Importance: 3.88/5 | Level: 4.0/7)
+- Judgment and Decision Making (Importance: 3.88/5 | Level: 3.88/7)
+- Persuasion (Importance: 3.75/5 | Level: 3.88/7)
+- Writing (Importance: 3.62/5 | Level: 4.0/7)
+- Complex Problem Solving (Importance: 3.62/5 | Level: 3.62/7)
+- Critical Thinking (Importance: 3.62/5 | Level: 3.88/7)
+- Reading Comprehension (Importance: 3.62/5 | Level: 4.12/7)
+- Negotiation (Importance: 3.62/5 | Level: 3.75/7)
+- Active Learning (Importance: 3.5/5 | Level: 3.62/7)
+- Learning Strategies (Importance: 3.25/5 | Level: 3.62/7)
+- Instructing (Importance: 3.25/5 | Level: 4.0/7)
+- Service Orientation (Importance: 3.12/5 | Level: 3.12/7)
+- Systems Evaluation (Importance: 3.12/5 | Level: 3.5/7)
+- Systems Analysis (Importance: 3.12/5 | Level: 3.12/7)
+- Mathematics (Importance: 3.0/5 | Level: 3.0/7)
+- Management of Financial Resources (Importance: 2.88/5 | Level: 3.0/7)
+- Management of Material Resources (Importance: 2.88/5 | Level: 3.0/7)
+- Quality Control Analysis (Importance: 2.25/5 | Level: 2.0/7)
+- Operations Analysis (Importance: 2.0/5 | Level: 2.12/7)
+- Operations Monitoring (Importance: 1.75/5 | Level: 1.0/7)
+- Operation and Control (Importance: 1.62/5 | Level: 0.88/7)
+- Programming (Importance: 1.5/5 | Level: 0.62/7)
+- Technology Design (Importance: 1.5/5 | Level: 0.5/7)
+- Troubleshooting (Importance: 1.12/5 | Level: 0.12/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Budgeting software (Tech skill type: Accounting software)
+- Cisco Webex (Tech skill type: Video conferencing software)
+- Customer information databases (Tech skill type: Customer relationship management CRM software)
+- Delphi Discovery (Tech skill type: Financial analysis software)
+- Delphi Technology (Tech skill type: Financial analysis software)
+- Electronic data interchange EDI software (Tech skill type: Enterprise application integration software)
+- Financial accounting software (Tech skill type: Accounting software)
+- Flow chart software (Tech skill type: Process mapping and design software)
+- Fuze cloud communications and collaboration software (Tech skill type: Video conferencing software)
+- Graphics creation software (Tech skill type: Graphics or photo imaging software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Dynamics (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft Word (Tech skill type: Word processing software)
+- NetSuite ERP (Tech skill type: Enterprise resource planning ERP software)
+- Online meeting software (Tech skill type: Video conferencing software)
+- Oracle Eloqua (Tech skill type: Customer relationship management CRM software)
+- QuickBase business management software (Tech skill type: Data base user interface and query software)
+- Salesforce software (Tech skill type: Customer relationship management CRM software)
+- Salesforce.com Salesforce CRM (Tech skill type: Customer relationship management CRM software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- SugarCRM Sugar UX (Tech skill type: Customer relationship management CRM software)
+- Web browser software (Tech skill type: Internet browser software)
+- Work scheduling software (Tech skill type: Calendar and scheduling software)
+- YouTube (Tech skill type: Video creation and editing software)
+
+## TOOLS USED
+- Desktop computers (Tool type: Desktop computers)
+- Laptop computers (Tool type: Notebook computers)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Multiline telephone systems (Tool type: Special purpose telephones)
+- Printing calculators (Tool type: Printer calculator)
+- Smart phones (Tool type: Mobile phones)
+- Tablet computers (Tool type: Tablet computers)

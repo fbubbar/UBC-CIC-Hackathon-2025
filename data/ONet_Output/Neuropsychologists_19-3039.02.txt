@@ -1,0 +1,102 @@
+Job Title: Neuropsychologists
+O*NET-SOC Code: 19-3039.02
+
+# DESCRIPTION
+Apply theories and principles of neuropsychology to evaluate and diagnose disorders of higher cerebral functioning, often in research and medical settings. Study the human brain and the effect of physiological states on human cognition and behavior. May formulate and administer programs of treatment.
+
+# TASKS
+- Conduct neuropsychological evaluations such as assessments of intelligence, academic ability, attention, concentration, sensorimotor function, language, learning, and memory.
+- Write or prepare detailed clinical neuropsychological reports, using data from psychological or neuropsychological tests, self-report measures, rating scales, direct observations, or interviews.
+- Interview patients to obtain comprehensive medical histories.
+- Diagnose and treat conditions involving injury to the central nervous system, such as cerebrovascular accidents, neoplasms, infectious or inflammatory diseases, degenerative diseases, head traumas, demyelinating diseases, and various forms of dementing illnesses.
+- Establish neurobehavioral baseline measures for monitoring progressive cerebral disease or recovery.
+- Provide education or counseling to individuals and families.
+- Diagnose and treat pediatric populations for conditions such as learning disabilities with developmental or organic bases.
+- Read current literature, talk with colleagues, and participate in professional organizations or conferences to keep abreast of developments in neuropsychology.
+- Participate in educational programs, in-service training, or workshops to remain current in methods and techniques.
+- Consult with other professionals about patients' neurological conditions.
+- Educate and supervise practicum students, psychology interns, or hospital staff.
+- Design or implement rehabilitation plans for patients with cognitive dysfunction.
+- Diagnose and treat conditions such as chemical dependency, alcohol dependency, Acquired Immune Deficiency Syndrome (AIDS) dementia, and environmental toxin exposure.
+- Conduct research on neuropsychological disorders.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Reading Comprehension (Importance: 4.5/5 | Level: 5.38/7)
+- Active Listening (Importance: 4.5/5 | Level: 4.62/7)
+- Writing (Importance: 4.38/5 | Level: 4.75/7)
+- Judgment and Decision Making (Importance: 4.25/5 | Level: 4.38/7)
+- Speaking (Importance: 4.25/5 | Level: 4.75/7)
+- Critical Thinking (Importance: 4.25/5 | Level: 4.62/7)
+- Complex Problem Solving (Importance: 4.12/5 | Level: 4.62/7)
+- Social Perceptiveness (Importance: 4.12/5 | Level: 4.88/7)
+- Active Learning (Importance: 3.88/5 | Level: 4.38/7)
+- Monitoring (Importance: 3.62/5 | Level: 4.12/7)
+- Service Orientation (Importance: 3.62/5 | Level: 4.0/7)
+- Science (Importance: 3.62/5 | Level: 3.88/7)
+- Learning Strategies (Importance: 3.5/5 | Level: 4.25/7)
+- Instructing (Importance: 3.38/5 | Level: 3.88/7)
+- Systems Evaluation (Importance: 3.25/5 | Level: 3.75/7)
+- Systems Analysis (Importance: 3.25/5 | Level: 3.38/7)
+- Coordination (Importance: 3.25/5 | Level: 3.38/7)
+- Persuasion (Importance: 3.25/5 | Level: 3.5/7)
+- Time Management (Importance: 3.12/5 | Level: 3.25/7)
+- Mathematics (Importance: 3.0/5 | Level: 3.38/7)
+- Negotiation (Importance: 3.0/5 | Level: 2.88/7)
+- Management of Personnel Resources (Importance: 2.88/5 | Level: 2.88/7)
+- Quality Control Analysis (Importance: 2.25/5 | Level: 2.0/7)
+- Operations Monitoring (Importance: 2.0/5 | Level: 1.75/7)
+- Programming (Importance: 1.88/5 | Level: 1.38/7)
+- Operations Analysis (Importance: 1.88/5 | Level: 1.25/7)
+- Management of Material Resources (Importance: 1.75/5 | Level: 1.38/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 1.5/7)
+- Troubleshooting (Importance: 1.75/5 | Level: 1.12/7)
+- Technology Design (Importance: 1.62/5 | Level: 0.62/7)
+- Operation and Control (Importance: 1.12/5 | Level: 0.12/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Automated Neuropsychological Metric Assessments Battery (Tech skill type: Medical software)
+- Behavioral Assessment and Research System BARS (Tech skill type: Medical software)
+- BrainMetric The Category Test (Tech skill type: Medical software)
+- BrainTrain Captain's Log (Tech skill type: Medical software)
+- CogniSyst Computerized Assessment of Response Bias CARB (Tech skill type: Medical software)
+- Conners' Continuous Performance Test II (Tech skill type: Medical software)
+- Database software (Tech skill type: Data base user interface and query software)
+- Email software (Tech skill type: Electronic mail software)
+- IBM SPSS Statistics (Tech skill type: Analytical or scientific software)
+- Interactive psychological evaluation software (Tech skill type: Medical software)
+- MicroCog Assessment of Cognitive Functioning (Tech skill type: Medical software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Noldus Information Technology The Observer XT (Tech skill type: Analytical or scientific software)
+- Operational Data Store ODS software (Tech skill type: Data base user interface and query software)
+- Patient electronic medical record EMR software (Tech skill type: Medical software)
+- Psychological testing software (Tech skill type: Medical software)
+- Scheduling software (Tech skill type: Calendar and scheduling software)
+- Statistical software (Tech skill type: Analytical or scientific software)
+- The Tova Company Test of Variables of Attention (Tech skill type: Medical software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Auditory stimulation equipment (Tool type: Cognitive or dexterity or perceptual or sensory evaluation or testing products)
+- Block pattern sets (Tool type: Cognitive or dexterity or perceptual or sensory evaluation or testing products)
+- Computer laser printers (Tool type: Laser printers)
+- Desktop computers (Tool type: Desktop computers)
+- Facial electromyography equipment (Tool type: Electromyography EMG units)
+- Grip testing devices (Tool type: Cognitive or dexterity or perceptual or sensory evaluation or testing products)
+- Laptop computers (Tool type: Notebook computers)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Pegboards (Tool type: Therapeutic pegboards or activity boards)
+- Personal computers (Tool type: Personal computers)
+- Photocopying equipment (Tool type: Photocopiers)
+- Pocket smell tests (Tool type: Cognitive or dexterity or perceptual or sensory evaluation or testing products)
+- Respiration measurement equipment (Tool type: Respiratory monitoring kits)
+- Skin conductance testing equipment (Tool type: Galvanic or faradic stimulators)
+- Visual stimulation test equipment (Tool type: Cognitive or dexterity or perceptual or sensory evaluation or testing products)
+- Wisconsin Card Sorting Test (Tool type: Cognitive or dexterity or perceptual or sensory evaluation or testing products)

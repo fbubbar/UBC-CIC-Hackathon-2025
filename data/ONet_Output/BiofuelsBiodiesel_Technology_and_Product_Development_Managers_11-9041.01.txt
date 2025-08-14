@@ -1,0 +1,130 @@
+Job Title: Biofuels/Biodiesel Technology and Product Development Managers
+O*NET-SOC Code: 11-9041.01
+
+# DESCRIPTION
+Define, plan, or execute biofuels/biodiesel research programs that evaluate alternative feedstock and process technologies with near-term commercial potential.
+
+# TASKS
+- Design or conduct applied biodiesel or biofuels research projects on topics, such as transport, thermodynamics, mixing, filtration, distillation, fermentation, extraction, and separation.
+- Analyze data from biofuels studies, such as fluid dynamics, water treatments, or solvent extraction and recovery processes.
+- Prepare, or oversee the preparation of, experimental plans for biofuels research or development.
+- Provide technical or scientific guidance to technical staff in the conduct of biofuels research or development.
+- Propose new biofuels products, processes, technologies or applications based on findings from applied biofuels or biomass research projects.
+- Conduct experiments on biomass or pretreatment technologies.
+- Prepare biofuels research and development reports for senior management or technical professionals.
+- Develop lab scale models of industrial scale processes, such as fermentation.
+- Oversee biodiesel/biofuels prototyping or development projects.
+- Conduct experiments to test new or alternate feedstock fermentation processes.
+- Develop methods to estimate the efficiency of biomass pretreatments.
+- Perform protein functional analysis and engineering for processing of feedstock and creation of biofuels.
+- Conduct research to breed or develop energy crops with improved biomass yield, environmental adaptability, pest resistance, production efficiency, bioprocessing characteristics, or reduced environmental impacts.
+- Develop computational tools or approaches to improve biofuels research and development activities.
+- Develop separation processes to recover biofuels.
+- Design chemical conversion processes, such as etherification, esterification, interesterification, transesterification, distillation, hydrogenation, oxidation or reduction of fats and oils, and vegetable oil refining.
+- Design or execute solvent or product recovery experiments in laboratory or field settings.
+- Develop methods to recover ethanol or other fuels from complex bioreactor liquid and gas streams.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Writing (Importance: 3.62/5 | Level: 3.88/7)
+- Complex Problem Solving (Importance: 3.62/5 | Level: 3.88/7)
+- Critical Thinking (Importance: 3.62/5 | Level: 4.12/7)
+- Systems Analysis (Importance: 3.62/5 | Level: 3.5/7)
+- Speaking (Importance: 3.62/5 | Level: 3.5/7)
+- Reading Comprehension (Importance: 3.62/5 | Level: 4.25/7)
+- Judgment and Decision Making (Importance: 3.62/5 | Level: 3.88/7)
+- Systems Evaluation (Importance: 3.5/5 | Level: 3.5/7)
+- Active Listening (Importance: 3.5/5 | Level: 3.62/7)
+- Monitoring (Importance: 3.25/5 | Level: 3.88/7)
+- Time Management (Importance: 3.25/5 | Level: 3.5/7)
+- Active Learning (Importance: 3.25/5 | Level: 3.75/7)
+- Coordination (Importance: 3.25/5 | Level: 3.38/7)
+- Mathematics (Importance: 3.12/5 | Level: 3.12/7)
+- Quality Control Analysis (Importance: 3.12/5 | Level: 3.0/7)
+- Management of Personnel Resources (Importance: 3.12/5 | Level: 3.38/7)
+- Science (Importance: 3.12/5 | Level: 3.0/7)
+- Instructing (Importance: 3.0/5 | Level: 3.25/7)
+- Operations Monitoring (Importance: 3.0/5 | Level: 3.0/7)
+- Persuasion (Importance: 3.0/5 | Level: 3.38/7)
+- Service Orientation (Importance: 2.88/5 | Level: 2.88/7)
+- Negotiation (Importance: 2.88/5 | Level: 3.38/7)
+- Learning Strategies (Importance: 2.88/5 | Level: 3.25/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 3.12/7)
+- Operations Analysis (Importance: 2.38/5 | Level: 2.25/7)
+- Equipment Selection (Importance: 2.25/5 | Level: 2.12/7)
+- Operation and Control (Importance: 2.25/5 | Level: 1.75/7)
+- Technology Design (Importance: 2.12/5 | Level: 1.62/7)
+- Programming (Importance: 2.0/5 | Level: 1.38/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.88/7)
+- Troubleshooting (Importance: 2.0/5 | Level: 1.62/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.88/7)
+- Repairing (Importance: 1.75/5 | Level: 1.25/7)
+- Equipment Maintenance (Importance: 1.75/5 | Level: 1.38/7)
+- Installation (Importance: 1.12/5 | Level: 0.38/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Ab Initio (Tech skill type: Enterprise resource planning ERP software)
+- Adobe Illustrator (Tech skill type: Graphics or photo imaging software)
+- Agilent ChemStation (Tech skill type: Analytical or scientific software)
+- Computer aided design CAD software (Tech skill type: Computer aided design CAD software)
+- Dassault Systemes CATIA (Tech skill type: Computer aided manufacturing CAM software)
+- Email software (Tech skill type: Electronic mail software)
+- Epic Systems (Tech skill type: Medical software)
+- Fleet Asset Management and Optimization Solutions FAMOS PEPSE (Tech skill type: Analytical or scientific software)
+- Formula translation/translator FORTRAN (Tech skill type: Development environment software)
+- Fund accounting software (Tech skill type: Accounting software)
+- GE Energy GateCycle (Tech skill type: Analytical or scientific software)
+- Linux (Tech skill type: Operating system software)
+- Microsoft Dynamics (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Great Plains Personal Data Keeper (Tech skill type: Time accounting software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft SQL Server (Tech skill type: Data base management system software)
+- Microsoft SQL Server Integration Services SSIS (Tech skill type: Enterprise application integration software)
+- Microsoft SQL Server Reporting Services SSRS (Tech skill type: Object or component oriented development software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Word (Tech skill type: Word processing software)
+- National Instruments LabVIEW (Tech skill type: Development environment software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- Oracle Primavera Enterprise Project Portfolio Management (Tech skill type: Project management software)
+- Perl (Tech skill type: Object or component oriented development software)
+- Python (Tech skill type: Object or component oriented development software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Structure query language SQL (Tech skill type: Data base user interface and query software)
+- UNIX (Tech skill type: Operating system software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Absorption equipment (Tool type: Carbon filtration equipment)
+- Autosamplers (Tool type: Autosamplers)
+- Bioreactors (Tool type: Microbiology fermentation equipment)
+- Biosafety cabinets (Tool type: HEPA filtered enclosures)
+- Desktop computers (Tool type: Desktop computers)
+- Dissolved oxygen monitors (Tool type: Dissolved oxygen meters)
+- Distillation equipment (Tool type: Bi distillation units)
+- Extraction equipment (Tool type: Extracting equipment for laboratories)
+- Fermentation systems (Tool type: Standard fermentation units)
+- Flocculators (Tool type: Mixers or agitators)
+- Flow indicators (Tool type: Flow sensors)
+- Forced convection incubators (Tool type: Forced air or mechanical convection general purpose incubators)
+- Gas chromatograph mass spectrometers GC-MS (Tool type: Mass spectrometers)
+- Gas chromatographs GC (Tool type: Gas chromatographs)
+- Gel electrophoresis equipment (Tool type: Gel documentation systems)
+- Glass flasks (Tool type: Laboratory flasks)
+- High pressure liquid chromatographs HPLC (Tool type: High pressure liquid chromatograph chromatography)
+- Inverted compound microscopes (Tool type: Inverted microscopes)
+- Laptop computers (Tool type: Notebook computers)
+- Level indicators (Tool type: Level sensors or transmitters)
+- Mass spectrometers (Tool type: Mass spectrometers)
+- Orbital incubating shakers (Tool type: Shaking incubators)
+- Personal computers (Tool type: Personal computers)
+- pH indicators (Tool type: pH meters)
+- Polymerase chain reaction PCR equipment (Tool type: Rapid amplification or complementary deoxyribonucleic acid ends RACE technology products)
+- Pressure indicators (Tool type: Pressure indicators)
+- Safety glasses (Tool type: Safety glasses)
+- Safety gloves (Tool type: Protective gloves)
+- Spectrophotometers (Tool type: Spectrophotometers)
+- Temperature probes (Tool type: Remote reading thermometers)
+- Top-loading autoclaves (Tool type: Steam autoclaves or sterilizers)

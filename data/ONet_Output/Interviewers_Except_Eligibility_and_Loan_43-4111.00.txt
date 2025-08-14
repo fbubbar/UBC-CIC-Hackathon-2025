@@ -1,0 +1,98 @@
+Job Title: Interviewers, Except Eligibility and Loan
+O*NET-SOC Code: 43-4111.00
+
+# DESCRIPTION
+Interview persons by telephone, mail, in person, or by other means for the purpose of completing forms, applications, or questionnaires. Ask specific questions, record answers, and assist persons with completing form. May sort, classify, and file forms.
+
+# TASKS
+- Ask questions in accordance with instructions to obtain various specified information, such as person's name, address, age, religious preference, or state of residency.
+- Identify and report problems in obtaining valid data.
+- Ensure payment for services by verifying benefits with the person's insurance provider or working out financing options.
+- Perform office duties, such as telemarketing or customer service inquiries, maintaining staff records, billing patients, or receiving payments.
+- Review data obtained from interview for completeness and accuracy.
+- Compile, record, and code results or data from interview or survey, using computer or specified form.
+- Perform patient services, such as answering the telephone or assisting patients with financial or medical questions.
+- Assist individuals in filling out applications or questionnaires.
+- Identify and resolve inconsistencies in interviewees' responses by means of appropriate questioning or explanation.
+- Supervise or train other staff members.
+- Prepare reports to provide answers in response to specific problems.
+- Meet with supervisor daily to submit completed assignments and discuss progress.
+- Locate and list addresses and households.
+- Contact individuals to be interviewed at home, place of business, or field location, by telephone, mail, or in person.
+- Collect and analyze data, such as studying old records, tallying the number of outpatients entering each day or week, or participating in federal, state, or local population surveys as a Census Enumerator.
+- Explain survey objectives and procedures to interviewees and interpret survey questions to help interviewees' comprehension.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Active Listening (Importance: 4.0/5 | Level: 4.0/7)
+- Speaking (Importance: 3.88/5 | Level: 4.0/7)
+- Reading Comprehension (Importance: 3.5/5 | Level: 3.62/7)
+- Social Perceptiveness (Importance: 3.38/5 | Level: 3.25/7)
+- Writing (Importance: 3.25/5 | Level: 3.38/7)
+- Critical Thinking (Importance: 3.25/5 | Level: 3.25/7)
+- Time Management (Importance: 3.25/5 | Level: 3.25/7)
+- Service Orientation (Importance: 3.25/5 | Level: 3.25/7)
+- Complex Problem Solving (Importance: 3.12/5 | Level: 3.12/7)
+- Monitoring (Importance: 3.0/5 | Level: 3.12/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Persuasion (Importance: 3.0/5 | Level: 3.12/7)
+- Negotiation (Importance: 3.0/5 | Level: 3.12/7)
+- Active Learning (Importance: 2.88/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 2.88/5 | Level: 2.88/7)
+- Management of Personnel Resources (Importance: 2.88/5 | Level: 2.88/7)
+- Instructing (Importance: 2.88/5 | Level: 2.88/7)
+- Judgment and Decision Making (Importance: 2.62/5 | Level: 2.75/7)
+- Mathematics (Importance: 2.25/5 | Level: 2.12/7)
+- Systems Analysis (Importance: 2.25/5 | Level: 2.25/7)
+- Systems Evaluation (Importance: 2.12/5 | Level: 2.25/7)
+- Operations Monitoring (Importance: 2.0/5 | Level: 1.12/7)
+- Operations Analysis (Importance: 1.88/5 | Level: 1.62/7)
+- Programming (Importance: 1.88/5 | Level: 1.12/7)
+- Management of Material Resources (Importance: 1.5/5 | Level: 0.88/7)
+- Management of Financial Resources (Importance: 1.5/5 | Level: 0.88/7)
+- Technology Design (Importance: 1.25/5 | Level: 0.38/7)
+- Quality Control Analysis (Importance: 1.12/5 | Level: 0.12/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+- Operation and Control (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Creative Research Systems The Survey System (Tech skill type: Project management software)
+- Electronic health record EHR software (Tech skill type: Medical software)
+- FileMaker Pro (Tech skill type: Data base user interface and query software)
+- FluidSurveys (Tech skill type: Project management software)
+- Jenzabar EX (Tech skill type: Enterprise resource planning ERP software)
+- Medical condition coding software (Tech skill type: Medical software)
+- Medical procedure coding software (Tech skill type: Medical software)
+- MEDITECH software (Tech skill type: Medical software)
+- Microsoft Dynamics (Tech skill type: Customer relationship management CRM software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Nebu Dub InterViewer (Tech skill type: Project management software)
+- Oracle PeopleSoft (Tech skill type: Enterprise resource planning ERP software)
+- Qualtrics Insight (Tech skill type: Project management software)
+- RIVS automated interview software (Tech skill type: Human resources software)
+- SaaS SurveyMonkey (Tech skill type: Project management software)
+- SAP Business Objects (Tech skill type: Enterprise resource planning ERP software)
+- Statistical software (Tech skill type: Analytical or scientific software)
+- Student information systems SIS software (Tech skill type: Data base user interface and query software)
+- Web browser software (Tech skill type: Internet browser software)
+- Zoom (Tech skill type: Video conferencing software)
+
+## TOOLS USED
+- Computer data input scanners (Tool type: Scanners)
+- Computer inkjet printers (Tool type: Inkjet printers)
+- Copy machines (Tool type: Photocopiers)
+- Laptop computers (Tool type: Notebook computers)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Multiline telephone systems (Tool type: Special purpose telephones)
+- Passenger vehicles (Tool type: Automobiles or cars)
+- Personal computers (Tool type: Personal computers)
+- Telephone headsets (Tool type: Phone headsets)

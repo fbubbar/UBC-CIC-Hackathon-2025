@@ -1,0 +1,112 @@
+Job Title: Social Science Research Assistants
+O*NET-SOC Code: 19-4061.00
+
+# DESCRIPTION
+Assist social scientists in laboratory, survey, and other social science research. May help prepare findings for publication and assist in laboratory analysis, quality control, or data management.
+
+# TASKS
+- Design and create special programs for tasks such as statistical analysis and data entry and cleaning.
+- Provide assistance with the preparation of project-related reports, manuscripts, and presentations.
+- Prepare tables, graphs, fact sheets, and written reports summarizing research results.
+- Perform descriptive and multivariate statistical analyses of data, using computer software.
+- Verify the accuracy and validity of data entered in databases, correcting any errors.
+- Develop and implement research quality control procedures.
+- Prepare, manipulate, and manage extensive databases.
+- Perform data entry and other clerical work as required for project completion.
+- Conduct internet-based and library research.
+- Present research findings to groups of people.
+- Obtain informed consent of research subjects or their guardians.
+- Administer standardized tests to research subjects, or interview them to collect research data.
+- Recruit and schedule research participants.
+- Screen potential subjects to determine their suitability as study participants.
+- Track research participants, and perform any necessary follow-up tasks.
+- Edit and submit protocols and other required research documentation.
+- Code data in preparation for computer entry.
+- Track laboratory supplies and expenses such as participant reimbursement.
+- Provide assistance in the design of survey instruments such as questionnaires.
+- Supervise the work of survey interviewers.
+- Perform needs assessments or consult with clients to determine the types of research and information required.
+- Allocate and manage laboratory space and resources.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.75/7)
+- Writing (Importance: 3.75/5 | Level: 3.88/7)
+- Critical Thinking (Importance: 3.75/5 | Level: 3.88/7)
+- Active Listening (Importance: 3.75/5 | Level: 4.12/7)
+- Complex Problem Solving (Importance: 3.38/5 | Level: 3.12/7)
+- Speaking (Importance: 3.38/5 | Level: 3.75/7)
+- Science (Importance: 3.25/5 | Level: 3.38/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 3.12/7)
+- Mathematics (Importance: 3.12/5 | Level: 3.88/7)
+- Active Learning (Importance: 3.12/5 | Level: 3.62/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 3.12/7)
+- Systems Analysis (Importance: 3.0/5 | Level: 2.88/7)
+- Time Management (Importance: 2.88/5 | Level: 2.88/7)
+- Systems Evaluation (Importance: 2.88/5 | Level: 3.0/7)
+- Monitoring (Importance: 2.88/5 | Level: 3.12/7)
+- Coordination (Importance: 2.88/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.88/7)
+- Instructing (Importance: 2.62/5 | Level: 2.88/7)
+- Programming (Importance: 2.62/5 | Level: 2.75/7)
+- Persuasion (Importance: 2.5/5 | Level: 2.5/7)
+- Quality Control Analysis (Importance: 2.5/5 | Level: 2.88/7)
+- Service Orientation (Importance: 2.38/5 | Level: 2.5/7)
+- Negotiation (Importance: 2.38/5 | Level: 2.38/7)
+- Management of Personnel Resources (Importance: 2.38/5 | Level: 2.38/7)
+- Operations Monitoring (Importance: 2.12/5 | Level: 1.88/7)
+- Operations Analysis (Importance: 2.0/5 | Level: 2.0/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 2.0/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 1.5/7)
+- Technology Design (Importance: 1.75/5 | Level: 1.25/7)
+- Troubleshooting (Importance: 1.75/5 | Level: 1.38/7)
+- Operation and Control (Importance: 1.62/5 | Level: 0.62/7)
+- Equipment Selection (Importance: 1.38/5 | Level: 0.5/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adobe Illustrator (Tech skill type: Graphics or photo imaging software)
+- Adobe InDesign (Tech skill type: Desktop publishing software)
+- Appletree (Tech skill type: Computer based training software)
+- C++ (Tech skill type: Object or component oriented development software)
+- Database software (Tech skill type: Data base user interface and query software)
+- ESRI ArcGIS software (Tech skill type: Geographic information system)
+- Extensible markup language XML (Tech skill type: Enterprise application integration software)
+- Graphics software (Tech skill type: Graphics or photo imaging software)
+- IBM SPSS Statistics (Tech skill type: Analytical or scientific software)
+- JavaScript (Tech skill type: Web platform development software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft SQL Server (Tech skill type: Data base user interface and query software)
+- Microsoft Visual Basic (Tech skill type: Development environment software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Online library databases (Tech skill type: Information retrieval or search software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- Perl (Tech skill type: Object or component oriented development software)
+- Python (Tech skill type: Object or component oriented development software)
+- Qualtrics Insight (Tech skill type: Project management software)
+- R (Tech skill type: Object or component oriented development software)
+- REDCap Research Electronic Data Capture (Tech skill type: Analytical or scientific software)
+- SAS (Tech skill type: Analytical or scientific software)
+- StataCorp Stata (Tech skill type: Analytical or scientific software)
+- Statistical software (Tech skill type: Analytical or scientific software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Tableau (Tech skill type: Business intelligence and data analysis software)
+- The MathWorks MATLAB (Tech skill type: Analytical or scientific software)
+- Video development software (Tech skill type: Video creation and editing software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Computer data input scanners (Tool type: Scanners)
+- Computer laser printers (Tool type: Laser printers)
+- Desktop computers (Tool type: Desktop computers)
+- Multi-line telephone systems (Tool type: Special purpose telephones)
+- Personal computers (Tool type: Personal computers)
+- Photocopying equipment (Tool type: Photocopiers)
+- Tablet computers (Tool type: Tablet computers)
+- Transcription equipment (Tool type: Dictation machines)

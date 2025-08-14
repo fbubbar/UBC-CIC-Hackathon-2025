@@ -1,0 +1,102 @@
+Job Title: Meter Readers, Utilities
+O*NET-SOC Code: 43-5041.00
+
+# DESCRIPTION
+Read meter and record consumption of electricity, gas, water, or steam.
+
+# TASKS
+- Read electric, gas, water, or steam consumption meters and enter data in route books or hand-held computers.
+- Upload into office computers all information collected on hand-held computers during meter rounds, or return route books or hand-held computers to business offices so that data can be compiled.
+- Walk or drive vehicles along established routes to take readings of meter dials.
+- Inspect meters for unauthorized connections, defects, and damage, such as broken seals.
+- Verify readings in cases where consumption appears to be abnormal, and record possible reasons for fluctuations.
+- Report to service departments any problems, such as meter irregularities, damaged equipment, or impediments to meter access, including dogs.
+- Leave messages to arrange different times to read meters in cases in which meters are not accessible.
+- Connect and disconnect utility services at specific locations.
+- Answer customers' questions about services and charges, or direct them to customer service centers.
+- Update client address and meter location information.
+- Perform preventative maintenance or minor repairs on meters.
+- Report lost or broken keys.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Time Management (Importance: 3.0/5 | Level: 2.62/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 2.75/7)
+- Speaking (Importance: 3.0/5 | Level: 3.0/7)
+- Service Orientation (Importance: 3.0/5 | Level: 2.75/7)
+- Reading Comprehension (Importance: 3.0/5 | Level: 2.88/7)
+- Active Listening (Importance: 3.0/5 | Level: 3.0/7)
+- Operation and Control (Importance: 2.88/5 | Level: 2.38/7)
+- Monitoring (Importance: 2.88/5 | Level: 2.88/7)
+- Complex Problem Solving (Importance: 2.88/5 | Level: 2.62/7)
+- Operations Monitoring (Importance: 2.88/5 | Level: 2.38/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 2.12/7)
+- Active Learning (Importance: 2.75/5 | Level: 2.12/7)
+- Writing (Importance: 2.62/5 | Level: 2.75/7)
+- Judgment and Decision Making (Importance: 2.62/5 | Level: 2.5/7)
+- Coordination (Importance: 2.62/5 | Level: 2.12/7)
+- Troubleshooting (Importance: 2.5/5 | Level: 1.88/7)
+- Persuasion (Importance: 2.5/5 | Level: 2.12/7)
+- Instructing (Importance: 2.5/5 | Level: 2.38/7)
+- Negotiation (Importance: 2.38/5 | Level: 2.12/7)
+- Quality Control Analysis (Importance: 2.38/5 | Level: 2.12/7)
+- Mathematics (Importance: 2.38/5 | Level: 2.12/7)
+- Learning Strategies (Importance: 2.38/5 | Level: 2.5/7)
+- Management of Personnel Resources (Importance: 2.12/5 | Level: 1.88/7)
+- Repairing (Importance: 2.0/5 | Level: 1.0/7)
+- Equipment Maintenance (Importance: 2.0/5 | Level: 1.12/7)
+- Systems Analysis (Importance: 2.0/5 | Level: 1.88/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 1.75/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.0/7)
+- Management of Financial Resources (Importance: 1.88/5 | Level: 1.0/7)
+- Programming (Importance: 1.88/5 | Level: 0.88/7)
+- Equipment Selection (Importance: 1.62/5 | Level: 1.12/7)
+- Operations Analysis (Importance: 1.5/5 | Level: 0.62/7)
+- Technology Design (Importance: 1.5/5 | Level: 0.62/7)
+- Science (Importance: 1.12/5 | Level: 0.12/7)
+- Installation (Importance: 1.12/5 | Level: 0.25/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Billing software (Tech skill type: Accounting software)
+- Geographic information system GIS systems (Tech skill type: Geographic information system)
+- Graphing software (Tech skill type: Charting software)
+- Mapping software (Tech skill type: Map creation software)
+- Meter reading software (Tech skill type: Data base reporting software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Supervisory control and data acquisition SCADA software (Tech skill type: Industrial control software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Automatic meter reading systems (Tool type: Remote automatic meter reading system)
+- Copy machines (Tool type: Photocopiers)
+- Dataloggers (Tool type: Portable data input terminals)
+- Desktop computers (Tool type: Desktop computers)
+- Digital multimeters (Tool type: Multimeters)
+- Digital still cameras (Tool type: Digital cameras)
+- Electricity consumption meters (Tool type: Power meters)
+- Garden shovels (Tool type: Shovels)
+- Gas consumption meters (Tool type: Gas gauges)
+- Gas powered blowers (Tool type: Power blowers)
+- Gas powered pumps (Tool type: Water pumps)
+- Global positioning system GPS devices (Tool type: Global positioning system GPS receiver)
+- Groove joint pliers (Tool type: Slip or groove joint pliers)
+- High-power flashlights (Tool type: Flashlight)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Mobile radios (Tool type: Two way radios)
+- Multi-gas testers (Tool type: Multi gas monitors)
+- Multipurpose screwdrivers (Tool type: Screwdrivers)
+- Nut wrenches (Tool type: Nut drivers)
+- Passenger vehicles (Tool type: Automobiles or cars)
+- Portable calculators (Tool type: Pocket calculator)
+- Radio frequency RF meters (Tool type: Radio receivers)
+- Smart phones (Tool type: Mobile phones)
+- Steam consumption meters (Tool type: Gas gauges)
+- Tablet computers (Tool type: Tablet computers)
+- Utility trucks (Tool type: Light trucks or sport utility vehicles)
+- Water consumption meters (Tool type: Water meters)

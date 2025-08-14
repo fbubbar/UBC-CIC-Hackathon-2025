@@ -1,0 +1,104 @@
+Job Title: Customs and Border Protection Officers
+O*NET-SOC Code: 33-3051.04
+
+# DESCRIPTION
+Investigate and inspect persons, common carriers, goods, and merchandise, arriving in or departing from the United States or between states to detect violations of immigration and customs laws and regulations.
+
+# TASKS
+- Examine immigration applications, visas, and passports and interview persons to determine eligibility for admission, residence, and travel in the U.S.
+- Detain persons found to be in violation of customs or immigration laws and arrange for legal action, such as deportation.
+- Inspect cargo, baggage, and personal articles entering or leaving U.S. for compliance with revenue laws and U.S. customs regulations.
+- Locate and seize contraband, undeclared merchandise, and vehicles, aircraft, or boats that contain such merchandise.
+- Interpret and explain laws and regulations to travelers, prospective immigrants, shippers, and manufacturers.
+- Institute civil and criminal prosecutions and cooperate with other law enforcement agencies in the investigation and prosecution of those in violation of immigration or customs laws.
+- Testify regarding decisions at immigration appeals or in federal court.
+- Record and report job-related activities, findings, transactions, violations, discrepancies, and decisions.
+- Determine duty and taxes to be paid on goods.
+- Collect samples of merchandise for examination, appraisal, or testing.
+- Investigate applications for duty refunds and petition for remission or mitigation of penalties when warranted.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Speaking (Importance: 4.0/5 | Level: 4.0/7)
+- Critical Thinking (Importance: 4.0/5 | Level: 3.88/7)
+- Active Listening (Importance: 4.0/5 | Level: 4.0/7)
+- Social Perceptiveness (Importance: 3.88/5 | Level: 3.38/7)
+- Reading Comprehension (Importance: 3.88/5 | Level: 3.88/7)
+- Writing (Importance: 3.62/5 | Level: 3.75/7)
+- Judgment and Decision Making (Importance: 3.62/5 | Level: 3.5/7)
+- Monitoring (Importance: 3.62/5 | Level: 3.75/7)
+- Active Learning (Importance: 3.38/5 | Level: 3.12/7)
+- Coordination (Importance: 3.38/5 | Level: 3.38/7)
+- Complex Problem Solving (Importance: 3.12/5 | Level: 3.0/7)
+- Persuasion (Importance: 3.12/5 | Level: 3.12/7)
+- Time Management (Importance: 3.0/5 | Level: 3.25/7)
+- Negotiation (Importance: 3.0/5 | Level: 3.0/7)
+- Service Orientation (Importance: 3.0/5 | Level: 3.0/7)
+- Instructing (Importance: 2.75/5 | Level: 3.0/7)
+- Management of Personnel Resources (Importance: 2.75/5 | Level: 2.75/7)
+- Learning Strategies (Importance: 2.62/5 | Level: 2.88/7)
+- Systems Analysis (Importance: 2.62/5 | Level: 2.38/7)
+- Systems Evaluation (Importance: 2.38/5 | Level: 2.5/7)
+- Operations Monitoring (Importance: 2.38/5 | Level: 2.25/7)
+- Operation and Control (Importance: 2.25/5 | Level: 2.12/7)
+- Mathematics (Importance: 2.25/5 | Level: 2.12/7)
+- Quality Control Analysis (Importance: 2.12/5 | Level: 1.88/7)
+- Science (Importance: 1.88/5 | Level: 1.12/7)
+- Management of Material Resources (Importance: 1.75/5 | Level: 1.12/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 0.75/7)
+- Troubleshooting (Importance: 1.75/5 | Level: 0.88/7)
+- Programming (Importance: 1.5/5 | Level: 0.5/7)
+- Operations Analysis (Importance: 1.5/5 | Level: 0.62/7)
+- Technology Design (Importance: 1.5/5 | Level: 0.5/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Automated Manifest System AMS (Tech skill type: Data base user interface and query software)
+- Corel WordPerfect Office Suite (Tech skill type: Office suite software)
+- Global positioning system GPS software (Tech skill type: Mobile location based services software)
+- IBM WebSphere MQ (Tech skill type: Cloud-based management software)
+- Law enforcement information databases (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Word (Tech skill type: Word processing software)
+- National Crime Information Center (NCIC) database (Tech skill type: Data base user interface and query software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Treasury Enforcement Communications System TECS (Tech skill type: Data base user interface and query software)
+
+## TOOLS USED
+- Barcode scanners (Tool type: Bar code reader equipment)
+- Compound light microscopes (Tool type: Binocular light compound microscopes)
+- Desktop computers (Tool type: Desktop computers)
+- Digital video cameras (Tool type: Digital camcorders or video cameras)
+- Fingerprint scanners (Tool type: Biometric identification equipment)
+- Gamma ray spectrometers (Tool type: Spectrometers)
+- Hazardous material detectors (Tool type: Weapon or explosives detectors and supplies)
+- Hydrometers (Tool type: Hydrometers)
+- Identification card scanners (Tool type: Magnetic stripe readers and encoders)
+- Ion mobility spectrometers (Tool type: Weapon or explosives detectors and supplies)
+- Laptop computers (Tool type: Notebook computers)
+- Measurement calipers (Tool type: Calipers)
+- Metal handcuffs (Tool type: Handcuffs)
+- Mobile data computers (Tool type: Notebook computers)
+- Mobile truck X ray units (Tool type: X ray radiography examination equipment)
+- Pepper spray (Tool type: Hand sprayers)
+- Personal computers (Tool type: Personal computers)
+- Personal radiation detectors PRD (Tool type: Radiation detectors)
+- Plastic handcuffs (Tool type: Handcuffs)
+- Police shotguns (Tool type: Police or security shotguns)
+- Radiation isotope identifier devices RIID (Tool type: Radiation detectors)
+- Radiation portal monitor terminals (Tool type: Mainframe console or dumb terminals)
+- Radiation portal monitors RPM (Tool type: Radiation detectors)
+- Radioisotope detection devices (Tool type: Radiation detectors)
+- Security inspection mirrors (Tool type: Convex security mirrors)
+- Service revolvers (Tool type: Handguns)
+- Side-handle batons (Tool type: Riot batons)
+- Tire deflation devices (Tool type: Speed stoppers)
+- Two way radios (Tool type: Two way radios)
+- Vehicle and Cargo Inspection System VACIS (Tool type: X ray radiography examination equipment)
+- Videophones (Tool type: Videoconferencing systems)
+- X ray inspection equipment (Tool type: X ray radiography examination equipment)

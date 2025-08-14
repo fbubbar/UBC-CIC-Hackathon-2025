@@ -1,0 +1,98 @@
+Job Title: Court Reporters and Simultaneous Captioners
+O*NET-SOC Code: 27-3092.00
+
+# DESCRIPTION
+Use verbatim methods and equipment to capture, store, retrieve, and transcribe pretrial and trial proceedings or other information. Includes stenocaptioners who operate computerized stenographic captioning equipment to provide captions of live or prerecorded broadcasts for hearing-impaired viewers.
+
+# TASKS
+- Record verbatim proceedings of courts, legislative assemblies, committee meetings, and other proceedings, using computerized recording equipment, electronic stenograph machines, or stenomasks.
+- Proofread transcripts for correct spelling of words.
+- Ask speakers to clarify inaudible statements.
+- Provide transcripts of proceedings upon request of judges, lawyers, or the public.
+- Transcribe recorded proceedings in accordance with established formats.
+- Log and store exhibits from court proceedings.
+- File and store shorthand notes of court session.
+- File a legible transcript of records of a court case with the court clerk's office.
+- Verify accuracy of transcripts by checking copies against original records of proceedings and accuracy of rulings by checking with judges.
+- Respond to requests during court sessions to read portions of the proceedings already recorded.
+- Record symbols on computer storage media and use computer aided transcription to translate and display them as text.
+- Take notes in shorthand or use a stenotype or shorthand machine that prints letters on a paper tape.
+- Type court orders for judges.
+- Record depositions and other proceedings for attorneys.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Active Listening (Importance: 4.0/5 | Level: 3.88/7)
+- Writing (Importance: 3.38/5 | Level: 3.25/7)
+- Reading Comprehension (Importance: 3.12/5 | Level: 3.62/7)
+- Monitoring (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 2.62/7)
+- Speaking (Importance: 3.0/5 | Level: 3.12/7)
+- Social Perceptiveness (Importance: 2.62/5 | Level: 2.25/7)
+- Critical Thinking (Importance: 2.5/5 | Level: 2.75/7)
+- Active Learning (Importance: 2.38/5 | Level: 2.38/7)
+- Quality Control Analysis (Importance: 2.12/5 | Level: 1.88/7)
+- Complex Problem Solving (Importance: 2.12/5 | Level: 2.0/7)
+- Learning Strategies (Importance: 2.0/5 | Level: 1.88/7)
+- Coordination (Importance: 2.0/5 | Level: 1.75/7)
+- Judgment and Decision Making (Importance: 2.0/5 | Level: 2.0/7)
+- Service Orientation (Importance: 1.88/5 | Level: 1.75/7)
+- Systems Analysis (Importance: 1.88/5 | Level: 0.88/7)
+- Operations Monitoring (Importance: 1.88/5 | Level: 1.62/7)
+- Operation and Control (Importance: 1.75/5 | Level: 1.38/7)
+- Troubleshooting (Importance: 1.75/5 | Level: 0.75/7)
+- Systems Evaluation (Importance: 1.75/5 | Level: 0.75/7)
+- Persuasion (Importance: 1.75/5 | Level: 0.88/7)
+- Mathematics (Importance: 1.62/5 | Level: 0.62/7)
+- Negotiation (Importance: 1.62/5 | Level: 0.88/7)
+- Management of Personnel Resources (Importance: 1.5/5 | Level: 0.5/7)
+- Equipment Maintenance (Importance: 1.5/5 | Level: 0.5/7)
+- Instructing (Importance: 1.38/5 | Level: 0.5/7)
+- Repairing (Importance: 1.38/5 | Level: 0.38/7)
+- Equipment Selection (Importance: 1.25/5 | Level: 0.25/7)
+- Programming (Importance: 1.12/5 | Level: 0.12/7)
+- Operations Analysis (Importance: 1.12/5 | Level: 0.12/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+- Management of Material Resources (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Technology Design (Importance: 1.0/5 | Level: 0.0/7)
+- Management of Financial Resources (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Acclaim Legal Acclaim DepoManage (Tech skill type: Data base user interface and query software)
+- Acculaw Court Reporters Billing Scheduling Job Management System ABSMS (Tech skill type: Enterprise resource planning ERP software)
+- Advantage Software Total Eclipse (Tech skill type: Word processing software)
+- AudioScribe SpeechCAT (Tech skill type: Word processing software)
+- Chase Software Solutions Court Reporting Software (Tech skill type: Data base user interface and query software)
+- Cheetah International SmartCAT (Tech skill type: Word processing software)
+- Corel WordPerfect Office Suite (Tech skill type: Office suite software)
+- Courtpages (Tech skill type: Data base user interface and query software)
+- Courtroom Data Solutions Techlennium (Tech skill type: Voice recognition software)
+- Electronic Transcript Software ProTEXT (Tech skill type: Word processing software)
+- Equative TimeLedger (Tech skill type: Time accounting software)
+- ForTheRecord TheRecord Player (Tech skill type: Presentation software)
+- Gigatron StenoCAT (Tech skill type: Word processing software)
+- HTH Engineering Start-Stop PowerPlay (Tech skill type: Word processing software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Nuance Dragon NaturallySpeaking (Tech skill type: Voice recognition software)
+- OMTI ReporterBase (Tech skill type: Data base user interface and query software)
+- ProCAT Winner (Tech skill type: Word processing software)
+- ReporterWorks (Tech skill type: Enterprise resource planning ERP software)
+- Stenograph Case CATalyst (Tech skill type: Word processing software)
+- Stenovations Digital CAT (Tech skill type: Word processing software)
+- Thomson West LiveNote (Tech skill type: Word processing software)
+- VocEdit (Tech skill type: Word processing software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Audio tape recorders (Tool type: Cassette players or recorders)
+- Desktop computers (Tool type: Desktop computers)
+- Dictation equipment (Tool type: Dictation machines)
+- Digital audio recorders (Tool type: Digital voice recorders)
+- Laptop computers (Tool type: Notebook computers)
+- Personal computers (Tool type: Personal computers)
+- Personal digital assistants PDA (Tool type: Personal digital assistant PDAs or organizers)
+- Photocopying equipment (Tool type: Photocopiers)
+- Stenomasks (Tool type: Microphones)
+- Stenotype machines (Tool type: Stenotype machines)

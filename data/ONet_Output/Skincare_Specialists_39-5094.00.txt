@@ -1,0 +1,97 @@
+Job Title: Skincare Specialists
+O*NET-SOC Code: 39-5094.00
+
+# DESCRIPTION
+Provide skincare treatments to face and body to enhance an individual's appearance. Includes electrologists and laser hair removal specialists.
+
+# TASKS
+- Sterilize equipment and clean work areas.
+- Examine clients' skin, using magnifying lamps or visors when necessary, to evaluate skin condition and appearance.
+- Cleanse clients' skin with water, creams, or lotions.
+- Demonstrate how to clean and care for skin properly and recommend skin-care regimens.
+- Select and apply cosmetic products, such as creams, lotions, and tonics.
+- Perform simple extractions to remove blackheads.
+- Stay abreast of latest industry trends, products, research, and treatments.
+- Determine which products or colors will improve clients' skin quality and appearance.
+- Treat the facial skin to maintain and improve its appearance, using specialized techniques and products, such as peels and masks.
+- Refer clients to medical personnel for treatment of serious skin problems.
+- Remove body and facial hair by applying wax.
+- Provide facial and body massages.
+- Keep records of client needs and preferences and the services provided.
+- Apply chemical peels to reduce fine lines and age spots.
+- Advise clients about colors and types of makeup and instruct them in makeup application techniques.
+- Collaborate with plastic surgeons and dermatologists to provide patients with preoperative and postoperative skin care.
+- Sell makeup to clients.
+- Tint eyelashes and eyebrows.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Speaking (Importance: 3.62/5 | Level: 3.0/7)
+- Service Orientation (Importance: 3.5/5 | Level: 3.38/7)
+- Active Listening (Importance: 3.5/5 | Level: 3.12/7)
+- Active Learning (Importance: 3.12/5 | Level: 2.88/7)
+- Reading Comprehension (Importance: 3.12/5 | Level: 3.12/7)
+- Coordination (Importance: 3.0/5 | Level: 2.88/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 2.88/7)
+- Monitoring (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 2.88/5 | Level: 2.75/7)
+- Judgment and Decision Making (Importance: 2.88/5 | Level: 3.12/7)
+- Learning Strategies (Importance: 2.88/5 | Level: 2.75/7)
+- Complex Problem Solving (Importance: 2.75/5 | Level: 2.88/7)
+- Instructing (Importance: 2.75/5 | Level: 2.75/7)
+- Persuasion (Importance: 2.62/5 | Level: 2.5/7)
+- Negotiation (Importance: 2.5/5 | Level: 2.38/7)
+- Writing (Importance: 2.38/5 | Level: 2.75/7)
+- Operations Analysis (Importance: 2.0/5 | Level: 1.75/7)
+- Operations Monitoring (Importance: 2.0/5 | Level: 1.62/7)
+- Management of Personnel Resources (Importance: 2.0/5 | Level: 2.0/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 1.88/7)
+- Systems Analysis (Importance: 2.0/5 | Level: 1.88/7)
+- Quality Control Analysis (Importance: 1.88/5 | Level: 1.12/7)
+- Operation and Control (Importance: 1.75/5 | Level: 0.88/7)
+- Equipment Selection (Importance: 1.75/5 | Level: 1.0/7)
+- Mathematics (Importance: 1.5/5 | Level: 0.62/7)
+- Science (Importance: 1.38/5 | Level: 0.62/7)
+- Management of Material Resources (Importance: 1.38/5 | Level: 0.5/7)
+- Technology Design (Importance: 1.38/5 | Level: 0.38/7)
+- Troubleshooting (Importance: 1.38/5 | Level: 0.5/7)
+- Management of Financial Resources (Importance: 1.12/5 | Level: 0.12/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Spa management software (Tech skill type: Data base user interface and query software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Airbrushing tools (Tool type: Air brushes)
+- Cryoprobes (Tool type: Cryosurgery units)
+- Dermatoscopes (Tool type: Dermatoscopes)
+- Dry heat sterilizers (Tool type: Dry heat or hot air sterilizers)
+- Facial hair scissors (Tool type: Hair scissors)
+- Facial steamers (Tool type: Moist steam cabinets)
+- Galvanic facial machines (Tool type: Galvanic or faradic stimulators)
+- Hair removal tweezers (Tool type: Tweezers)
+- High frequency skin care machines (Tool type: High frequency electromagnetic wave stimulators)
+- Hot towel cabinets (Tool type: Warming cabinets)
+- Laptop computers (Tool type: Notebook computers)
+- Light-emitting diode LED light therapy equipment (Tool type: Visible light radiators)
+- Microdermabrasion machines (Tool type: Surgical dermatomes or dermabraders or dermameshers)
+- Personal computers (Tool type: Personal computers)
+- Skin lancets (Tool type: Lancets)
+- Skin magnification systems (Tool type: Magnifiers)
+- Skincare lasers (Tool type: Lasers)
+- Spoon extractors (Tool type: Blackhead remover)
+- Steam autoclaves (Tool type: Steam autoclaves or sterilizers)
+- Tablet computers (Tool type: Tablet computers)
+- Therapeutic massage tables (Tool type: Physical therapy massage tables)
+- Ultrasonic facial machines (Tool type: Ultrasonic therapy apparatus or supplies)
+- Ultraviolet UV sterilizers (Tool type: Ultraviolet sterilizers)
+- Wax heaters (Tool type: Blanket or solution warmer cabinets)

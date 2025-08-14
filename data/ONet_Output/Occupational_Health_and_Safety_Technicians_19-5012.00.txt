@@ -1,0 +1,172 @@
+Job Title: Occupational Health and Safety Technicians
+O*NET-SOC Code: 19-5012.00
+
+# DESCRIPTION
+Collect data on work environments for analysis by occupational health and safety specialists. Implement and conduct evaluation of programs designed to limit chemical, physical, biological, and ergonomic risks to workers.
+
+# TASKS
+- Evaluate situations or make determinations when a worker has refused to work on the grounds that danger or potential harm exists.
+- Supply, operate, or maintain personal protective equipment.
+- Train workers in safety procedures related to green jobs, such as the use of fall protection devices or maintenance of proper ventilation during wind turbine construction.
+- Test workplaces for environmental hazards, such as exposure to radiation, chemical or biological hazards, or excessive noise.
+- Maintain all required environmental records and documentation.
+- Provide consultation to organizations or agencies on the workplace application of safety principles, practices, or techniques.
+- Inspect fire suppression systems or portable fire systems to ensure proper working order.
+- Verify availability or monitor use of safety equipment, such as hearing protection or respirators.
+- Recommend corrective measures to be applied based on results of environmental contaminant analyses.
+- Prepare or review specifications or orders for the purchase of safety equipment, ensuring that proper features are present and that items conform to health and safety standards.
+- Prepare or calibrate equipment used to collect or analyze samples.
+- Conduct worker studies to determine whether specific instances of disease or illness are job-related.
+- Plan emergency response drills.
+- Examine credentials, licenses, or permits to ensure compliance with licensing requirements.
+- Review records or reports concerning laboratory results, staffing, floor plans, fire inspections, or sanitation to gather information for the development or enforcement of safety activities.
+- Educate the public about health issues or enforce health legislation to prevent disease, to promote health, or to help people understand health protection procedures and regulations.
+- Prepare documents to be used in legal proceedings, testifying in such proceedings when necessary.
+- Collect data regarding potential hazards from new equipment or products linked to green practices.
+- Maintain logbooks of daily activities, including areas visited or activities performed.
+- Help direct rescue or firefighting operations in the event of a fire or an explosion.
+- Test or balance newly installed HVAC systems to determine whether indoor air quality standards are met.
+- Confer with schools, state authorities, or community groups to develop health standards or programs.
+- Collect data related to ecological or human health risks at brownfield sites.
+- Conduct interviews to obtain information or evidence regarding communicable diseases or violations of health or sanitation regulations.
+- Perform tests to identify any potential hazards related to recycled products used at green building sites.
+- Examine practices at green building sites to determine whether adherence to green building standards alters risks to workers.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Active Listening (Importance: 4.0/5 | Level: 4.0/7)
+- Critical Thinking (Importance: 3.88/5 | Level: 4.0/7)
+- Speaking (Importance: 3.88/5 | Level: 3.75/7)
+- Reading Comprehension (Importance: 3.88/5 | Level: 3.88/7)
+- Writing (Importance: 3.75/5 | Level: 3.88/7)
+- Monitoring (Importance: 3.25/5 | Level: 3.75/7)
+- Complex Problem Solving (Importance: 3.25/5 | Level: 3.25/7)
+- Judgment and Decision Making (Importance: 3.25/5 | Level: 3.25/7)
+- Systems Analysis (Importance: 3.12/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 3.12/5 | Level: 3.12/7)
+- Persuasion (Importance: 3.12/5 | Level: 3.12/7)
+- Negotiation (Importance: 3.12/5 | Level: 3.0/7)
+- Active Learning (Importance: 3.12/5 | Level: 3.12/7)
+- Time Management (Importance: 3.0/5 | Level: 3.0/7)
+- Systems Evaluation (Importance: 3.0/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 3.0/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Instructing (Importance: 3.0/5 | Level: 3.0/7)
+- Service Orientation (Importance: 3.0/5 | Level: 3.0/7)
+- Operations Monitoring (Importance: 2.88/5 | Level: 3.0/7)
+- Quality Control Analysis (Importance: 2.88/5 | Level: 2.88/7)
+- Mathematics (Importance: 2.75/5 | Level: 2.75/7)
+- Science (Importance: 2.75/5 | Level: 2.62/7)
+- Management of Personnel Resources (Importance: 2.62/5 | Level: 2.12/7)
+- Operation and Control (Importance: 2.62/5 | Level: 2.25/7)
+- Operations Analysis (Importance: 2.12/5 | Level: 2.5/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.38/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.75/7)
+- Troubleshooting (Importance: 2.0/5 | Level: 1.62/7)
+- Programming (Importance: 1.88/5 | Level: 1.0/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.0/7)
+- Repairing (Importance: 1.12/5 | Level: 0.25/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Brady Lockout Pro (Tech skill type: Data base user interface and query software)
+- Database software (Tech skill type: Data base user interface and query software)
+- Email software (Tech skill type: Electronic mail software)
+- Graphics software (Tech skill type: Graphics or photo imaging software)
+- Industrial Scientific iNET (Tech skill type: Industrial control software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Presentation software (Tech skill type: Presentation software)
+- QuestSuite Professional (Tech skill type: Industrial control software)
+- Remedy Interactive iMitigate (Tech skill type: Data base user interface and query software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- Statistical analysis software (Tech skill type: Analytical or scientific software)
+- TapRooT (Tech skill type: Analytical or scientific software)
+- Teleconferencing software (Tech skill type: Video conferencing software)
+- Web browser software (Tech skill type: Internet browser software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Aerosol meters (Tool type: Air samplers or collectors)
+- Aerosol photometers (Tool type: Photometer)
+- Air compressors (Tool type: Air compressors)
+- Air flow calibrators (Tool type: Air velocity and temperature monitors)
+- Air quality dataloggers (Tool type: Air samplers or collectors)
+- Airflow indicators (Tool type: Flow sensors)
+- Anemometers (Tool type: Anemometers)
+- Carbon monoxide sensors (Tool type: Single gas monitors)
+- Cascade impactors (Tool type: Air samplers or collectors)
+- Combustible gas detectors (Tool type: Gas detectors)
+- Cyclone samplers (Tool type: Air samplers or collectors)
+- Data acquisition equipment (Tool type: Portable data input terminals)
+- Data loggers (Tool type: Portable data input terminals)
+- Diffusive air samplers (Tool type: Air samplers or collectors)
+- Digital cameras (Tool type: Digital cameras)
+- Digital video cameras (Tool type: Digital camcorders or video cameras)
+- Dry-gas meters (Tool type: Air samplers or collectors)
+- Dust collectors (Tool type: Dust collectors)
+- Electrobalances (Tool type: Laboratory balances)
+- Electrochemical gas monitors (Tool type: Multi gas monitors)
+- Electronic bubble meters (Tool type: Flowmeters)
+- Electronic pump calibrators (Tool type: Flowmeters)
+- Electrostatic precipitators (Tool type: Laboratory separators)
+- Flame ionization detectors FID (Tool type: Flame ionization analyzers)
+- Flow hoods (Tool type: Fume hoods or cupboards)
+- Gas chromatographs GC (Tool type: Gas chromatographs)
+- Gas detector tubes (Tool type: Gas detector tubes)
+- Gilibrators (Tool type: Air sampling pumps)
+- Grab samplers (Tool type: Soil core sampling apparatus)
+- Half-face respirators (Tool type: Respirators)
+- Handheld calculators (Tool type: Pocket calculator)
+- Heat stress monitors (Tool type: Heat stress monitors)
+- Impingers (Tool type: Air samplers or collectors)
+- Infrared analyzers (Tool type: Infrared imagers)
+- Infrared thermometers (Tool type: Heat tracing equipment)
+- Inspection lamps (Tool type: Ultraviolet UV lamps)
+- Light meters (Tool type: Lux or light meter)
+- Manometers (Tool type: Manometers)
+- Mass flow meters (Tool type: Flowmeters)
+- Medical measuring tapes (Tool type: Medical tape measures)
+- Mercury vapor analyzers (Tool type: Single gas monitors)
+- Microbial samplers (Tool type: Air samplers or collectors)
+- Moisture meters (Tool type: Moisture meters)
+- Multimeters (Tool type: Multimeters)
+- Octave band analyzers (Tool type: Sound measuring apparatus or decibel meter)
+- Oxygen monitors (Tool type: Respiratory monitoring kit accessories)
+- Particle counters (Tool type: Electronic counters)
+- Particle sensors (Tool type: Air pollutant samplers)
+- Particulate monitors (Tool type: Air pollutant samplers)
+- Passive dosimeters (Tool type: Dosimeters)
+- Passive samplers (Tool type: Chemical absorption gas analyzers)
+- Personal computers (Tool type: Personal computers)
+- Personal sampling pumps (Tool type: Air sampling pumps)
+- Photodetectors (Tool type: Chromatographic detectors)
+- Photoionization detectors PID (Tool type: Ion analyzers)
+- Portable infrared spectrophotometers (Tool type: Inductively coupled plasma ICP spectrometers)
+- Power blowers (Tool type: Power blowers)
+- Protective gloves (Tool type: Protective gloves)
+- Radiation detectors (Tool type: Radiation detectors)
+- Radon monitors (Tool type: Radon detectors)
+- Respirator hose masks (Tool type: Respirators)
+- Rotameters (Tool type: Rotameters)
+- Safety goggles (Tool type: Goggles)
+- Self-contained breathing apparatus (Tool type: Respiration air supplying self contained breathing apparatus or accessories)
+- Single gas monitors (Tool type: Single gas monitors)
+- Sorbent tubes (Tool type: Gas detector tubes)
+- Sound level meters (Tool type: Sound measuring apparatus or decibel meter)
+- Spectroscopes (Tool type: Spectrometers)
+- Spirometers (Tool type: Spirometers)
+- Thermal desorption tubes (Tool type: Air samplers or collectors)
+- Thermoanemometers (Tool type: Anemometers)
+- Two way radios (Tool type: Two way radios)
+- Vibration monitors (Tool type: Vibration testers)
+- Wet scrubbers (Tool type: Wet scrubbers)
+- X ray fluorescence XRF analyzers (Tool type: Spectrofluorimeters or fluorimeters)

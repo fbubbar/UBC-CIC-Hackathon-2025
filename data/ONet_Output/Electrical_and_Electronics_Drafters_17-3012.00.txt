@@ -1,0 +1,165 @@
+Job Title: Electrical and Electronics Drafters
+O*NET-SOC Code: 17-3012.00
+
+# DESCRIPTION
+Prepare wiring diagrams, circuit board assembly diagrams, and layout drawings used for the manufacture, installation, or repair of electrical equipment.
+
+# TASKS
+- Draft detail and assembly drawings of design components, circuitry or printed circuit boards, using computer-assisted equipment or standard drafting techniques and devices.
+- Draft working drawings, wiring diagrams, wiring connection specifications, or cross-sections of underground cables, as required for instructions to installation crew.
+- Assemble documentation packages and produce drawing sets to be checked by an engineer or an architect.
+- Review completed construction drawings and cost estimates for accuracy and conformity to standards and regulations.
+- Consult with engineers to discuss or interpret design concepts, or determine requirements of detailed working drawings.
+- Confer with engineering staff and other personnel to resolve problems.
+- Measure factors that affect installation and arrangement of equipment, such as distances to be spanned by wire and cable.
+- Design electrical systems, such as lighting systems.
+- Draw master sketches to scale showing relation of proposed installations to existing facilities and exact specifications and dimensions.
+- Review work orders or procedural manuals and confer with vendors or design staff to resolve problems or modify design.
+- Locate files relating to specified design project in database library, load program into computer, and record completed job data.
+- Examine electronic schematics and supporting documents to develop, compute, and verify specifications for drafting data, such as configuration of parts, dimensions, or tolerances.
+- Compare logic element configuration on display screen with engineering schematics and calculate figures to convert, redesign, or modify element.
+- Review blueprints to determine customer requirements and consult with assembler regarding schematics, wiring procedures, or conductor paths.
+- Study work order requests to determine type of service, such as lighting or power, demanded by installation.
+- Explain drawings to production or construction teams and provide adjustments, as necessary.
+- Reproduce working drawings on copy machines or trace drawings in ink.
+- Generate computer tapes of final layout design to produce layered photo masks or photo plotting design onto film.
+- Determine the order of work and the method of presentation, such as orthographic or isometric drawing.
+- Visit proposed installation sites and draw rough sketches of location.
+- Key and program specified commands and engineering specifications into computer system to change functions and test final layout.
+- Copy drawings of printed circuit board fabrication using print machine or blueprinting procedure.
+- Select drill size to drill test head, according to test design and specifications, and submit guide layout to designated department.
+- Plot electrical test points on layout sheets and draw schematics for wiring test fixture heads to frames.
+- Write technical reports and draw charts that display statistics and data.
+- Supervise and coordinate work activities of workers engaged in drafting, designing layouts, assembling, or testing printed circuit boards.
+- Train students to use drafting machines and to prepare schematic diagrams, block diagrams, control drawings, logic diagrams, integrated circuit drawings, or interconnection diagrams.
+- Prepare and interpret specifications, calculating weights, volumes, or stress factors.
+- Supervise or train other technologists, technicians, or drafters.
+- Use computer-aided drafting equipment or conventional drafting stations, technical handbooks, tables, calculators, or traditional drafting tools, such as boards, pencils, protractors, or T-squares.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Active Listening (Importance: 3.62/5 | Level: 3.5/7)
+- Writing (Importance: 3.5/5 | Level: 3.5/7)
+- Judgment and Decision Making (Importance: 3.5/5 | Level: 3.12/7)
+- Critical Thinking (Importance: 3.5/5 | Level: 3.62/7)
+- Complex Problem Solving (Importance: 3.38/5 | Level: 3.25/7)
+- Reading Comprehension (Importance: 3.38/5 | Level: 3.88/7)
+- Speaking (Importance: 3.25/5 | Level: 3.25/7)
+- Active Learning (Importance: 3.25/5 | Level: 3.12/7)
+- Time Management (Importance: 3.12/5 | Level: 3.12/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Monitoring (Importance: 3.0/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 3.0/7)
+- Systems Analysis (Importance: 2.88/5 | Level: 3.0/7)
+- Quality Control Analysis (Importance: 2.88/5 | Level: 2.75/7)
+- Systems Evaluation (Importance: 2.88/5 | Level: 2.75/7)
+- Service Orientation (Importance: 2.75/5 | Level: 2.62/7)
+- Instructing (Importance: 2.75/5 | Level: 3.25/7)
+- Mathematics (Importance: 2.75/5 | Level: 3.5/7)
+- Operations Analysis (Importance: 2.62/5 | Level: 2.38/7)
+- Persuasion (Importance: 2.62/5 | Level: 2.88/7)
+- Learning Strategies (Importance: 2.62/5 | Level: 2.62/7)
+- Negotiation (Importance: 2.5/5 | Level: 2.88/7)
+- Management of Personnel Resources (Importance: 2.5/5 | Level: 2.75/7)
+- Troubleshooting (Importance: 2.38/5 | Level: 1.88/7)
+- Operations Monitoring (Importance: 2.25/5 | Level: 2.0/7)
+- Technology Design (Importance: 2.25/5 | Level: 1.75/7)
+- Programming (Importance: 2.12/5 | Level: 1.62/7)
+- Science (Importance: 1.88/5 | Level: 1.25/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.25/7)
+- Management of Financial Resources (Importance: 1.88/5 | Level: 1.25/7)
+- Equipment Selection (Importance: 1.62/5 | Level: 0.75/7)
+- Operation and Control (Importance: 1.5/5 | Level: 0.75/7)
+- Equipment Maintenance (Importance: 1.25/5 | Level: 0.38/7)
+- Installation (Importance: 1.25/5 | Level: 0.38/7)
+- Repairing (Importance: 1.12/5 | Level: 0.25/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- 1CadCam Unigraphics (Tech skill type: Computer aided manufacturing CAM software)
+- Adobe Illustrator (Tech skill type: Graphics or photo imaging software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Autodesk Revit (Tech skill type: Computer aided design CAD software)
+- Aveva Group Plant Design Management System PDMS (Tech skill type: Computer aided design CAD software)
+- Bentley AutoPLANT (Tech skill type: Computer aided design CAD software)
+- Bentley I/RAS B (Tech skill type: Computer aided design CAD software)
+- Bentley MicroStation (Tech skill type: Computer aided design CAD software)
+- Bentley PlantSpace SupportModeler (Tech skill type: Computer aided design CAD software)
+- Bentley Systems ProjectWise (Tech skill type: Project management software)
+- Bowen & Groves M1 ERP (Tech skill type: Enterprise resource planning ERP software)
+- C (Tech skill type: Development environment software)
+- C++ (Tech skill type: Object or component oriented development software)
+- Cadence OrCAD software (Tech skill type: Computer aided design CAD software)
+- Cadence PSpice (Tech skill type: Analytical or scientific software)
+- Cadence Virtuoso Layout Suite (Tech skill type: Computer aided design CAD software)
+- COADE CADWorx P&ID (Tech skill type: Computer aided design CAD software)
+- Computer aided design and drafting software CADD (Tech skill type: Computer aided design CAD software)
+- Corel CorelDraw Graphics Suite (Tech skill type: Graphics or photo imaging software)
+- Dassault Systemes CATIA (Tech skill type: Computer aided design CAD software)
+- Dassault Systemes SolidWorks (Tech skill type: Computer aided design CAD software)
+- Design specification database software (Tech skill type: Data base user interface and query software)
+- ECT International Raceway Multi-Pack (Tech skill type: Computer aided design CAD software)
+- Enterprise resource planning ERP software (Tech skill type: Enterprise resource planning ERP software)
+- Epicor Vantage ERP (Tech skill type: Enterprise resource planning ERP software)
+- Exact Software Macola ERP (Tech skill type: Enterprise resource planning ERP software)
+- Field programmable gate array FPGA design software (Tech skill type: Computer aided design CAD software)
+- Geographic information system GIS systems (Tech skill type: Geographic information system)
+- IBM Lotus Notes (Tech skill type: Electronic mail software)
+- Intergraph INtools (Tech skill type: Computer aided design CAD software)
+- Linux (Tech skill type: Operating system software)
+- Linux Virtual Server (Tech skill type: Application server software)
+- Made2Manage Systems M2M ERP (Tech skill type: Enterprise resource planning ERP software)
+- Magellan Firmware (Tech skill type: Operating system software)
+- Manufacturing resource planning MRP software (Tech skill type: Enterprise resource planning ERP software)
+- MathWorks Simulink (Tech skill type: Analytical or scientific software)
+- Mentor Graphics Expedition Enterprise (Tech skill type: Computer aided design CAD software)
+- Mentor Graphics PADS (Tech skill type: Computer aided design CAD software)
+- Mentor Graphics Xpedition xDX Designer (Tech skill type: Computer aided design CAD software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Word (Tech skill type: Word processing software)
+- NavisWorks Jetstream (Tech skill type: Computer aided design CAD software)
+- Operating system software (Tech skill type: Operating system software)
+- Oracle JD Edwards EnterpriseOne Project Management (Tech skill type: Project management software)
+- PCI Express PCIe (Tech skill type: Data base user interface and query software)
+- PEDYN P2000 (Tech skill type: Data base user interface and query software)
+- Perl (Tech skill type: Object or component oriented development software)
+- Programmable logic controller PLC software (Tech skill type: Industrial control software)
+- PTC Creo Parametric (Tech skill type: Computer aided design CAD software)
+- PTC Pro/Cable (Tech skill type: Computer aided design CAD software)
+- PTC Pro/INTRALINK (Tech skill type: Project management software)
+- PTC Pro/Pipe (Tech skill type: Computer aided design CAD software)
+- PTC Windchill (Tech skill type: Document management software)
+- Python (Tech skill type: Object or component oriented development software)
+- Sage ERP Accpac (Tech skill type: Enterprise resource planning ERP software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Simulation program with integrated circuit emphasis SPICE (Tech skill type: Analytical or scientific software)
+- SKM Systems Analysis Power Tools (Tech skill type: Analytical or scientific software)
+- SoftBrands Fourth Shift Edition (Tech skill type: Enterprise resource planning ERP software)
+- SofTech CADRA (Tech skill type: Computer aided design CAD software)
+- Supervisory control and data acquisition SCADA software (Tech skill type: Industrial control software)
+- SystemVerilog (Tech skill type: Development environment software)
+- The MathWorks MATLAB (Tech skill type: Analytical or scientific software)
+- Tool command language Tcl (Tech skill type: Development environment software)
+- UGS Solid Edge (Tech skill type: Computer aided design CAD software)
+- UNIX (Tech skill type: Operating system software)
+- Verilog (Tech skill type: Development environment software)
+- Very high speed integrated circuit VHSIC hardware description language VHDL simulation software (Tech skill type: Analytical or scientific software)
+- Zuken CADSTAR (Tech skill type: Computer aided design CAD software)
+
+## TOOLS USED
+- Compasses (Tool type: Compasses)
+- Desktop computers (Tool type: Desktop computers)
+- Dividers (Tool type: Compasses)
+- Drafting curves (Tool type: Curves)
+- Drafting machines (Tool type: Drafting kits or sets)
+- Drafting triangles (Tool type: Triangles)
+- Personal computers (Tool type: Personal computers)
+- Protractors (Tool type: Protractors)
+- Steel rules (Tool type: Rulers)
+- T-squares (Tool type: T squares)

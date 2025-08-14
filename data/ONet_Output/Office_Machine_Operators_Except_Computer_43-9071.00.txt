@@ -1,0 +1,105 @@
+Job Title: Office Machine Operators, Except Computer
+O*NET-SOC Code: 43-9071.00
+
+# DESCRIPTION
+Operate one or more of a variety of office machines, such as photocopying, photographic, and duplicating machines, or other office machines.
+
+# TASKS
+- Read job orders to determine the type of work to be done, the quantities to be produced, and the materials needed.
+- Deliver completed work.
+- Place original copies in feed trays, feed originals into feed rolls, or position originals on tables beneath camera lenses.
+- Sort, assemble, and proof completed work.
+- Operate office machines such as high speed business photocopiers, readers, scanners, addressing machines, stencil-cutting machines, microfilm readers or printers, folding and inserting machines, bursters, and binder machines.
+- Complete records of production, including work volumes and outputs, materials used, and any backlogs.
+- Compute prices for services and receive payment, or provide supervisors with billing information.
+- Set up and adjust machines, regulating factors such as speed, ink flow, focus, and number of copies.
+- Load machines with materials such as blank paper or film.
+- Monitor machine operation, and make adjustments as necessary to ensure proper operation.
+- Clean machines, perform minor repairs, and report major repair needs.
+- File and store completed documents.
+- Operate auxiliary machines such as collators, pad and tablet making machines, staplers, and paper punching, folding, cutting, and perforating machines.
+- Maintain stock of supplies, and requisition any needed items.
+- Prepare and process papers for use in scanning, microfilming, and microfiche.
+- Clean and file master copies or plates.
+- Cut copies apart and write identifying information, such as page numbers or titles, on copies.
+- Move heat units and clamping frames over screen beds to form Braille impressions on pages, raising frames to release individual copies.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operation and Control (Importance: 3.25/5 | Level: 2.62/7)
+- Reading Comprehension (Importance: 3.12/5 | Level: 2.88/7)
+- Operations Monitoring (Importance: 3.12/5 | Level: 2.88/7)
+- Monitoring (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 2.62/7)
+- Speaking (Importance: 3.0/5 | Level: 3.0/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 2.62/7)
+- Active Listening (Importance: 3.0/5 | Level: 2.88/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 2.5/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.25/7)
+- Writing (Importance: 2.88/5 | Level: 2.75/7)
+- Complex Problem Solving (Importance: 2.88/5 | Level: 2.5/7)
+- Active Learning (Importance: 2.75/5 | Level: 2.62/7)
+- Quality Control Analysis (Importance: 2.75/5 | Level: 2.62/7)
+- Troubleshooting (Importance: 2.75/5 | Level: 2.5/7)
+- Coordination (Importance: 2.75/5 | Level: 2.62/7)
+- Equipment Maintenance (Importance: 2.75/5 | Level: 2.5/7)
+- Service Orientation (Importance: 2.75/5 | Level: 2.75/7)
+- Systems Analysis (Importance: 2.62/5 | Level: 2.12/7)
+- Repairing (Importance: 2.62/5 | Level: 1.88/7)
+- Equipment Selection (Importance: 2.5/5 | Level: 1.75/7)
+- Mathematics (Importance: 2.5/5 | Level: 2.0/7)
+- Management of Personnel Resources (Importance: 2.5/5 | Level: 2.12/7)
+- Persuasion (Importance: 2.25/5 | Level: 2.12/7)
+- Management of Material Resources (Importance: 2.25/5 | Level: 2.0/7)
+- Negotiation (Importance: 2.25/5 | Level: 2.12/7)
+- Instructing (Importance: 2.12/5 | Level: 2.12/7)
+- Systems Evaluation (Importance: 2.12/5 | Level: 2.0/7)
+- Management of Financial Resources (Importance: 2.12/5 | Level: 1.88/7)
+- Learning Strategies (Importance: 2.0/5 | Level: 2.0/7)
+- Programming (Importance: 1.75/5 | Level: 0.88/7)
+- Technology Design (Importance: 1.75/5 | Level: 0.75/7)
+- Operations Analysis (Importance: 1.62/5 | Level: 0.75/7)
+- Installation (Importance: 1.12/5 | Level: 0.25/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adobe Acrobat (Tech skill type: Document management software)
+- Adobe Illustrator (Tech skill type: Graphics or photo imaging software)
+- Adobe InDesign (Tech skill type: Desktop publishing software)
+- Adobe Photoshop (Tech skill type: Graphics or photo imaging software)
+- Eko (Tech skill type: Desktop communications software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Publisher (Tech skill type: Desktop publishing software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Multi-line optical character reader OCR software (Tech skill type: Optical character reader OCR or scanning software)
+
+## TOOLS USED
+- Automated microfilm processors (Tool type: Microfilm processors)
+- Automatic labeling equipment (Tool type: Automatic labeling systems)
+- Barcode scanners (Tool type: Bar code reader equipment)
+- Computer data input scanners (Tool type: Scanners)
+- Computer form printers (Tool type: Dot matrix printers)
+- Copy machines (Tool type: Photocopiers)
+- Embossing machines (Tool type: Embossing tools)
+- Form separators (Tool type: Paper cutting machines or accessories)
+- Graphic plotters (Tool type: Plotter printers)
+- High speed impact printers (Tool type: Dot matrix printers)
+- Inkjet facsimile machines (Tool type: Inkjet fax machine)
+- Lithographic presses (Tool type: Lithographic equipment)
+- Mail addressing machines (Tool type: Addressing machines)
+- Mail opening equipment (Tool type: Mail opening machines)
+- Mail sorting machines (Tool type: Sorters)
+- Microfiche duplicators (Tool type: Microfiche reader printers)
+- Microfilm duplicators (Tool type: Microfiche reader printers)
+- Microfilm readers (Tool type: Microfiche or microfilm viewers)
+- Paper binding machines (Tool type: Paper punching or binding machines)
+- Paper collators (Tool type: Printing collators or decollators)
+- Paper joggers (Tool type: Paper jogging machines)
+- Parallel folding equipment (Tool type: Letter folders)
+- Personal computers (Tool type: Personal computers)
+- Thermal binder machines (Tool type: Thermal binding machine)

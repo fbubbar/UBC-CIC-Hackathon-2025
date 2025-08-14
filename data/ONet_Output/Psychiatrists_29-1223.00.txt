@@ -1,0 +1,100 @@
+Job Title: Psychiatrists
+O*NET-SOC Code: 29-1223.00
+
+# DESCRIPTION
+Diagnose, treat, and help prevent mental disorders.
+
+# TASKS
+- Prescribe, direct, or administer psychotherapeutic treatments or medications to treat mental, emotional, or behavioral disorders.
+- Gather and maintain patient information and records, including social or medical history obtained from patients, relatives, or other professionals.
+- Design individualized care plans, using a variety of treatments.
+- Collaborate with physicians, psychologists, social workers, psychiatric nurses, or other professionals to discuss treatment plans and progress.
+- Analyze and evaluate patient data or test findings to diagnose nature or extent of mental disorder.
+- Examine or conduct laboratory or diagnostic tests on patients to provide information on general physical condition or mental disorder.
+- Counsel outpatients or other patients during office visits.
+- Advise or inform guardians, relatives, or significant others of patients' conditions or treatment.
+- Teach, take continuing education classes, attend conferences or seminars, or conduct research and publish findings to increase understanding of mental, emotional, or behavioral states or disorders.
+- Review and evaluate treatment procedures and outcomes of other psychiatrists or medical professionals.
+- Prepare and submit case reports or summaries to government or mental health agencies.
+- Serve on committees to promote or maintain community mental health services or delivery systems.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Active Listening (Importance: 4.62/5 | Level: 5.0/7)
+- Social Perceptiveness (Importance: 4.5/5 | Level: 5.38/7)
+- Speaking (Importance: 4.25/5 | Level: 4.38/7)
+- Critical Thinking (Importance: 4.25/5 | Level: 4.62/7)
+- Writing (Importance: 4.12/5 | Level: 4.38/7)
+- Judgment and Decision Making (Importance: 4.12/5 | Level: 4.25/7)
+- Reading Comprehension (Importance: 4.12/5 | Level: 5.0/7)
+- Monitoring (Importance: 4.0/5 | Level: 4.12/7)
+- Active Learning (Importance: 4.0/5 | Level: 4.38/7)
+- Coordination (Importance: 3.88/5 | Level: 3.88/7)
+- Complex Problem Solving (Importance: 3.88/5 | Level: 4.25/7)
+- Service Orientation (Importance: 3.88/5 | Level: 4.12/7)
+- Science (Importance: 3.88/5 | Level: 4.12/7)
+- Learning Strategies (Importance: 3.75/5 | Level: 4.0/7)
+- Persuasion (Importance: 3.5/5 | Level: 4.0/7)
+- Instructing (Importance: 3.5/5 | Level: 4.0/7)
+- Negotiation (Importance: 3.25/5 | Level: 3.88/7)
+- Time Management (Importance: 3.25/5 | Level: 3.5/7)
+- Systems Evaluation (Importance: 3.25/5 | Level: 3.62/7)
+- Systems Analysis (Importance: 3.25/5 | Level: 3.38/7)
+- Operations Analysis (Importance: 3.25/5 | Level: 3.5/7)
+- Management of Personnel Resources (Importance: 2.75/5 | Level: 3.0/7)
+- Mathematics (Importance: 2.5/5 | Level: 2.38/7)
+- Operations Monitoring (Importance: 1.62/5 | Level: 0.75/7)
+- Management of Material Resources (Importance: 1.62/5 | Level: 0.75/7)
+- Management of Financial Resources (Importance: 1.62/5 | Level: 1.0/7)
+- Technology Design (Importance: 1.5/5 | Level: 0.62/7)
+- Programming (Importance: 1.5/5 | Level: 0.62/7)
+- Quality Control Analysis (Importance: 1.38/5 | Level: 0.62/7)
+- Operation and Control (Importance: 1.25/5 | Level: 0.38/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- ADL Data Systems OptimumClinicals Electronic Health Record (Tech skill type: Medical software)
+- Advantage Software Psych Advantage (Tech skill type: Medical software)
+- Allscripts Sunrise (Tech skill type: Medical software)
+- Blumenthal Software PBSW24 (Tech skill type: Time accounting software)
+- Cerner ProFile (Tech skill type: Medical software)
+- Computer Assisted Diagnostic Interview CADI software (Tech skill type: Medical software)
+- eClinicalWorks EHR software (Tech skill type: Medical software)
+- Electronic medical record EMR software (Tech skill type: Medical software)
+- Epic EpicCare Inpatient Clinical System (Tech skill type: Medical software)
+- Epic Systems (Tech skill type: Medical software)
+- FifthWalk BillingTracker Pro (Tech skill type: Accounting software)
+- GE Healthcare Centricity EMR (Tech skill type: Medical software)
+- ICANotes (Tech skill type: Medical software)
+- Integrated Systems Management OmniMD (Tech skill type: Medical software)
+- MDofficeManager MediVoxx (Tech skill type: Medical software)
+- MEDITECH Behavioral Health Clinicals (Tech skill type: Medical software)
+- MEDITECH software (Tech skill type: Medical software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Netsmart Technologies Avatar Clinical Workstation CWS (Tech skill type: Medical software)
+- Practice management software PMS (Tech skill type: Medical software)
+- Psychiatric assessment software (Tech skill type: Medical software)
+- Psychiatric information databases (Tech skill type: Data base user interface and query software)
+- Sigmund Software Sigmund Enterprise Management (Tech skill type: Medical software)
+- SoftPsych Psychiatric Diagnosis (Tech skill type: Medical software)
+- Texas Medical Software SpringCharts EMR (Tech skill type: Medical software)
+- UnisonCare UniCharts (Tech skill type: Medical software)
+- Virtual reality software (Tech skill type: Graphics or photo imaging software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Desktop computers (Tool type: Desktop computers)
+- Electronic blood pressure units (Tool type: Electronic blood pressure units)
+- Laptop computers (Tool type: Notebook computers)
+- Manual blood pressure units (Tool type: Mercury blood pressure units)
+- Mechanical stethoscopes (Tool type: Medical acoustic stethoscopes)
+- Personal computers (Tool type: Personal computers)
+- Personal digital assistants PDA (Tool type: Personal digital assistant PDAs or organizers)
+- Tablet computers (Tool type: Tablet computers)

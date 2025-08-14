@@ -1,0 +1,114 @@
+Job Title: Tailors, Dressmakers, and Custom Sewers
+O*NET-SOC Code: 51-6052.00
+
+# DESCRIPTION
+Design, make, alter, repair, or fit garments.
+
+# TASKS
+- Measure parts, such as sleeves or pant legs, and mark or pin-fold alteration lines.
+- Remove stitches from garments to be altered, using rippers or razor blades.
+- Sew garments, using needles and thread or sewing machines.
+- Let out or take in seams in suits and other garments to improve fit.
+- Measure customers, using tape measures, and record measurements.
+- Fit and study garments on customers to determine required alterations.
+- Trim excess material, using scissors.
+- Assemble garment parts and join parts with basting stitches, using needles and thread or sewing machines.
+- Make garment style changes, such as tapering pant legs, narrowing lapels, and adding or removing padding.
+- Maintain garment drape and proportions as alterations are performed.
+- Take up or let down hems to shorten or lengthen garment parts, such as sleeves.
+- Repair or replace defective garment parts, such as pockets, zippers, snaps, buttons, and linings.
+- Press garments, using hand irons or pressing machines.
+- Fit, alter, repair, and make made-to-measure clothing, according to customers' and clothing manufacturers' specifications and fit, and applying principles of garment design, construction, and styling.
+- Estimate how much a garment will cost to make, based on factors such as time and material requirements.
+- Position patterns of garment parts on fabric, and cut fabric along outlines, using scissors.
+- Record required alterations and instructions on tags, and attach them to garments.
+- Confer with customers to determine types of material and garment styles desired.
+- Examine tags on garments to determine alterations that are needed.
+- Develop, copy, or adapt designs for garments, and design patterns to fit measurements, applying knowledge of garment design, construction, styling, and fabric.
+- Put in padding and shaping materials.
+- Sew buttonholes and attach buttons to finish garments.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Time Management (Importance: 3.12/5 | Level: 2.88/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 3.0/7)
+- Speaking (Importance: 3.0/5 | Level: 2.88/7)
+- Active Listening (Importance: 3.0/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.88/7)
+- Monitoring (Importance: 2.75/5 | Level: 2.62/7)
+- Judgment and Decision Making (Importance: 2.75/5 | Level: 2.75/7)
+- Active Learning (Importance: 2.62/5 | Level: 2.62/7)
+- Complex Problem Solving (Importance: 2.62/5 | Level: 2.62/7)
+- Coordination (Importance: 2.62/5 | Level: 2.5/7)
+- Service Orientation (Importance: 2.62/5 | Level: 2.75/7)
+- Reading Comprehension (Importance: 2.62/5 | Level: 2.62/7)
+- Operations Monitoring (Importance: 2.5/5 | Level: 2.12/7)
+- Writing (Importance: 2.5/5 | Level: 2.25/7)
+- Operations Analysis (Importance: 2.38/5 | Level: 2.12/7)
+- Operation and Control (Importance: 2.25/5 | Level: 2.38/7)
+- Instructing (Importance: 2.12/5 | Level: 1.88/7)
+- Negotiation (Importance: 2.12/5 | Level: 2.12/7)
+- Troubleshooting (Importance: 2.12/5 | Level: 1.38/7)
+- Persuasion (Importance: 2.12/5 | Level: 2.0/7)
+- Quality Control Analysis (Importance: 2.12/5 | Level: 2.12/7)
+- Equipment Maintenance (Importance: 2.0/5 | Level: 1.5/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 1.25/7)
+- Systems Analysis (Importance: 2.0/5 | Level: 1.25/7)
+- Equipment Selection (Importance: 2.0/5 | Level: 1.88/7)
+- Repairing (Importance: 2.0/5 | Level: 1.25/7)
+- Management of Personnel Resources (Importance: 2.0/5 | Level: 2.0/7)
+- Learning Strategies (Importance: 2.0/5 | Level: 1.75/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.0/7)
+- Mathematics (Importance: 1.88/5 | Level: 1.62/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 0.75/7)
+- Management of Material Resources (Importance: 1.62/5 | Level: 0.88/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- ArbelSoft TailorMax (Tech skill type: Point of sale POS software)
+- Bookkeeping software (Tech skill type: Accounting software)
+- Garment design software (Tech skill type: Computer aided design CAD software)
+- Google Docs (Tech skill type: Word processing software)
+- Inventory tracking software (Tech skill type: Inventory management software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Tailor Master (Tech skill type: Customer relationship management CRM software)
+
+## TOOLS USED
+- Blind stitching machines (Tool type: Sewing machines)
+- Buttonhole makers (Tool type: Buttonhole machines)
+- Chain stitching machines (Tool type: Sewing machines)
+- Chalk pencil holders (Tool type: Fabric or tailors chalk holders)
+- Coiless safety pins (Tool type: Safety pins)
+- Computer laser printers (Tool type: Laser printers)
+- Computerized sewing machines (Tool type: Sewing machines)
+- Desktop computers (Tool type: Desktop computers)
+- Dress forms (Tool type: Full body form or mannequin)
+- Dressmakers shears (Tool type: Shears)
+- Fabric machines (Tool type: Shears)
+- French curves (Tool type: Curves)
+- Industrial sewing machines (Tool type: Sewing machines)
+- Ironing presses (Tool type: Ironing machines or presses)
+- Measuring tapes (Tool type: Tape measures)
+- Pinking shears (Tool type: Shears)
+- Point turners (Tool type: Sewing kits)
+- Pressing mitts (Tool type: Protective gloves)
+- Razor knives (Tool type: Razor knives)
+- Rotary fabric cutters (Tool type: Rotary paper or fabric cutter)
+- Seam creasers (Tool type: Sewing kits)
+- Seam measurement gauges (Tool type: Seam gauge)
+- Seam rippers (Tool type: Seam ripper)
+- Seam rolls (Tool type: Sewing patterns)
+- Serrated pattern tracing wheels (Tool type: Serrated pattern tracing wheel)
+- Sewing needles (Tool type: Sewing needles)
+- Sleeve boards (Tool type: Ironing boards)
+- Steam fabric pressing machines (Tool type: Steam pressing machines)
+- Steam irons (Tool type: Domestic clothing irons)
+- Steel straight pins (Tool type: Straight pins)
+- Tailor's hams (Tool type: Sewing patterns)
+- Tailor's point scissors (Tool type: Shears)
+- Tailoring rulers (Tool type: Dressmakers ruler)
+- Transparent rulers (Tool type: Rulers)

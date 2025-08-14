@@ -1,0 +1,58 @@
+Job Title: First-Line Supervisors of Passenger Attendants
+O*NET-SOC Code: 53-1044.00
+
+# DESCRIPTION
+Supervise and coordinate activities of passenger attendants.
+
+# TASKS
+- Analyze and record personnel or operational data and write related activity reports.
+- Apply customer feedback to service improvement efforts.
+- Compute or estimate cash, payroll, transportation, or personnel requirements.
+- Confer with customers, supervisors, contractors, or other personnel to exchange information or to resolve problems.
+- Direct or coordinate the activities of workers, such as flight or car attendants.
+- Enforce safety rules and regulations.
+- Explain and demonstrate work tasks to new workers or assign training tasks to experienced workers.
+- Inform workers about interests or special needs of specific groups.
+- Inspect materials, stock, vehicles, equipment, or facilities to ensure that they are safe, free of defects, and consistent with specifications.
+- Inspect work areas or operating equipment to ensure conformance to established standards in areas such as cleanliness or maintenance.
+- Meet with managers or other supervisors to stay informed of changes affecting operations.
+- Observe and evaluate workers' appearance and performance to ensure quality service and compliance with specifications.
+- Participate in continuing education to stay abreast of industry trends and developments.
+- Recommend and implement measures to improve worker motivation, work methods, or customer services.
+- Recruit and hire staff members.
+- Requisition necessary supplies, equipment, or services.
+- Resolve customer complaints regarding worker performance or services rendered.
+- Take disciplinary action to address performance problems.
+- Train workers in proper operational procedures and functions and explain company policies.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- No specific skills listed.
+
+# TECHNOLOGY SKILLS & TOOLS
+- Accellos Real Dispatch (Tech skill type: Mobile location based services software)
+- Commercial vehicle operations CVO software (Tech skill type: Mobile location based services software)
+- Enterprise resource planning ERP software (Tech skill type: Enterprise resource planning ERP software)
+- General ledger software (Tech skill type: Accounting software)
+- Inventory management systems (Tech skill type: Inventory management software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Point of sale POS software (Tech skill type: Point of sale POS software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Scheduling software (Tech skill type: Calendar and scheduling software)
+- Timekeeping software (Tech skill type: Time accounting software)
+- Web browser software (Tech skill type: Internet browser software)
+- Work scheduling software (Tech skill type: Calendar and scheduling software)
+
+## TOOLS USED
+- Computer laser printers (Tool type: Laser printers)
+- Desktop computers (Tool type: Desktop computers)
+- Laptop computers (Tool type: Notebook computers)
+- Multi-line telephone systems (Tool type: Special purpose telephones)
+- Personal computers (Tool type: Personal computers)
+- Photocopying equipment (Tool type: Photocopiers)
+- Two way radios (Tool type: Two way radios)

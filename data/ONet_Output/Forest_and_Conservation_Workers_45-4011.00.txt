@@ -1,0 +1,120 @@
+Job Title: Forest and Conservation Workers
+O*NET-SOC Code: 45-4011.00
+
+# DESCRIPTION
+Under supervision, perform manual labor necessary to develop, maintain, or protect areas such as forests, forested areas, woodlands, wetlands, and rangelands through such activities as raising and transporting seedlings; combating insects, pests, and diseases harmful to plant life; and building structures to control water, erosion, and leaching of soil. Includes forester aides, seedling pullers, tree planters, and gatherers of nontimber forestry products such as pine straw.
+
+# TASKS
+- Check equipment to ensure that it is operating properly.
+- Fight forest fires or perform prescribed burning tasks under the direction of fire suppression officers or forestry technicians.
+- Perform fire protection or suppression duties, such as constructing fire breaks or disposing of brush.
+- Confer with other workers to discuss issues, such as safety, cutting heights, or work needs.
+- Maintain tallies of trees examined and counted during tree marking or measuring efforts.
+- Explain or enforce regulations regarding camping, vehicle use, fires, use of buildings, or sanitation.
+- Operate skidders, bulldozers, or other prime movers to pull a variety of scarification or site preparation equipment over areas to be regenerated.
+- Spray or inject vegetation with insecticides to kill insects or to protect against disease or with herbicides to reduce competing vegetation.
+- Thin or space trees, using power thinning saws.
+- Identify diseased or undesirable trees and remove them, using power saws or hand saws.
+- Select or cut trees according to markings or sizes, types, or grades.
+- Prune or shear tree tops or limbs to control growth, increase density, or improve shape.
+- Maintain campsites or recreational areas, replenishing firewood or other supplies and cleaning kitchens or restrooms.
+- Erect signs or fences, using posthole diggers, shovels, or other hand tools.
+- Select tree seedlings, prepare the ground, or plant the trees in reforestation areas, using manual planting tools.
+- Provide assistance to forest survey crews by clearing site-lines, holding measuring tools, or setting stakes.
+- Sort tree seedlings, discarding substandard seedlings, according to standard charts or verbal instructions.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Monitoring (Importance: 3.12/5 | Level: 2.88/7)
+- Critical Thinking (Importance: 3.12/5 | Level: 3.0/7)
+- Active Learning (Importance: 3.0/5 | Level: 2.75/7)
+- Coordination (Importance: 3.0/5 | Level: 3.25/7)
+- Speaking (Importance: 3.0/5 | Level: 3.0/7)
+- Reading Comprehension (Importance: 3.0/5 | Level: 2.88/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 2.88/7)
+- Active Listening (Importance: 3.0/5 | Level: 2.88/7)
+- Complex Problem Solving (Importance: 2.88/5 | Level: 2.5/7)
+- Time Management (Importance: 2.88/5 | Level: 2.75/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 2.75/7)
+- Operations Monitoring (Importance: 2.75/5 | Level: 2.75/7)
+- Operation and Control (Importance: 2.62/5 | Level: 2.62/7)
+- Writing (Importance: 2.62/5 | Level: 2.38/7)
+- Learning Strategies (Importance: 2.62/5 | Level: 2.5/7)
+- Persuasion (Importance: 2.38/5 | Level: 2.12/7)
+- Service Orientation (Importance: 2.38/5 | Level: 2.38/7)
+- Instructing (Importance: 2.25/5 | Level: 2.25/7)
+- Equipment Maintenance (Importance: 2.25/5 | Level: 2.0/7)
+- Systems Analysis (Importance: 2.25/5 | Level: 2.38/7)
+- Troubleshooting (Importance: 2.12/5 | Level: 2.0/7)
+- Equipment Selection (Importance: 2.12/5 | Level: 2.0/7)
+- Mathematics (Importance: 2.12/5 | Level: 1.88/7)
+- Management of Personnel Resources (Importance: 2.12/5 | Level: 1.75/7)
+- Quality Control Analysis (Importance: 2.12/5 | Level: 2.0/7)
+- Repairing (Importance: 2.12/5 | Level: 2.0/7)
+- Science (Importance: 2.0/5 | Level: 1.62/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 1.88/7)
+- Negotiation (Importance: 2.0/5 | Level: 1.75/7)
+- Management of Material Resources (Importance: 1.62/5 | Level: 0.88/7)
+- Programming (Importance: 1.38/5 | Level: 0.38/7)
+- Management of Financial Resources (Importance: 1.38/5 | Level: 0.5/7)
+- Technology Design (Importance: 1.38/5 | Level: 0.38/7)
+- Operations Analysis (Importance: 1.25/5 | Level: 0.25/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Database software (Tech skill type: Data base user interface and query software)
+- ESRI ArcGIS software (Tech skill type: Geographic information system)
+- Geographic information system GIS software (Tech skill type: Geographic information system)
+- Geographic information system GIS systems (Tech skill type: Geographic information system)
+- IBM Lotus 1-2-3 (Tech skill type: Spreadsheet software)
+- IBM Lotus Notes (Tech skill type: Electronic mail software)
+- Leica Geosystems ERDAS IMAGINE (Tech skill type: Map creation software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Backhoes (Tool type: Backhoes)
+- Backpack sprayers (Tool type: Sprayers)
+- Brush hogs (Tool type: Mowers)
+- Chain saws (Tool type: Power saws)
+- Claw hammers (Tool type: Claw hammer)
+- Dibblers (Tool type: Dibblers)
+- Directional compasses (Tool type: Geological compasses)
+- Dump trucks (Tool type: Dump trucks)
+- Electronic measuring devices (Tool type: Distance meters)
+- Epicormic knives (Tool type: Forestry saws)
+- Fire plows (Tool type: Earthmoving shovels)
+- Fire trucks (Tool type: Rescue truck)
+- Four wheel drive 4WD vehicles (Tool type: All terrain vehicles tracked or wheeled)
+- Geodetic ground global positioning system GPS receivers (Tool type: Global positioning system GPS receiver)
+- Hand saws (Tool type: Saws)
+- Hard hats (Tool type: Hard hats)
+- Harvesting machines (Tool type: Harvesters)
+- Herbicide sprayers (Tool type: Sprayers)
+- Loppers (Tool type: Secateurs or pruning shears)
+- Mattocks (Tool type: Picks)
+- Measuring tapes (Tool type: Tape measures)
+- Motorboats (Tool type: Recreational motorboats)
+- Multipurpose tractors (Tool type: Agricultural tractors)
+- Personal computers (Tool type: Personal computers)
+- Phillips head screwdrivers (Tool type: Screwdrivers)
+- Planting drills (Tool type: Planters)
+- Portable data collectors (Tool type: Portable data input terminals)
+- Portable ladders (Tool type: Ladders)
+- Power drills (Tool type: Power drills)
+- Protective ear muffs (Tool type: Acoustic ear muffs or defenders)
+- Pruning saws (Tool type: Forestry saws)
+- Riding mowers (Tool type: Lawnmowers)
+- Spades (Tool type: Spades)
+- Spray guns (Tool type: Hand sprayers)
+- Straight screwdrivers (Tool type: Screwdrivers)
+- Two way radios (Tool type: Two way radios)
+- Water pumps (Tool type: Water pumps)
+- Weedeaters (Tool type: Weeders)

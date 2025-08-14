@@ -1,0 +1,126 @@
+Job Title: Marine Engineers and Naval Architects
+O*NET-SOC Code: 17-2121.00
+
+# DESCRIPTION
+Design, develop, and evaluate the operation of marine vessels, ship machinery, and related equipment, such as power supply and propulsion systems.
+
+# TASKS
+- Design complete hull and superstructure according to specifications and test data, in conformity with standards of safety, efficiency, and economy.
+- Supervise other engineers and crew members and train them for routine and emergency duties.
+- Study design proposals and specifications to establish basic characteristics of craft, such as size, weight, speed, propulsion, displacement, and draft.
+- Perform monitoring activities to ensure that ships comply with international regulations and standards for life-saving equipment and pollution preventatives.
+- Oversee construction and testing of prototype in model basin and develop sectional and waterline curves of hull to establish center of gravity, ideal hull form, and buoyancy and stability data.
+- Evaluate performance of craft during dock and sea trials to determine design changes and conformance with national and international standards.
+- Prepare plans, estimates, design and construction schedules, and contract specifications, including any special provisions.
+- Check, test, and maintain automatic controls and alarm systems.
+- Design layout of craft interior, including cargo space, passenger compartments, ladder wells, and elevators.
+- Evaluate operation of marine equipment during acceptance testing and shakedown cruises.
+- Act as liaisons between ships' captains and shore personnel to ensure that schedules and budgets are maintained, and that ships are operated safely and efficiently.
+- Conduct environmental, operational, or performance tests on marine machinery and equipment.
+- Inspect marine equipment and machinery to draw up work requests and job specifications.
+- Prepare, or direct the preparation of, product or system layouts and detailed drawings and schematics.
+- Investigate and observe tests on machinery and equipment for compliance with standards.
+- Maintain records of engineering department activities, including expense records and details of equipment maintenance and repairs.
+- Coordinate activities with regulatory bodies to ensure repairs and alterations are at minimum cost and consistent with safety.
+- Design and oversee testing, installation, and repair of marine apparatus and equipment.
+- Prepare technical reports for use by engineering, management, or sales personnel.
+- Procure materials needed to repair marine equipment and machinery.
+- Maintain contact with, and formulate reports for, contractors and clients to ensure completion of work at minimum cost.
+- Maintain and coordinate repair of marine machinery and equipment for installation on vessels.
+- Confer with research personnel to clarify or resolve problems and to develop or modify designs.
+- Conduct analytical, environmental, operational, or performance studies to develop designs for products, such as marine engines, equipment, and structures.
+- Determine conditions under which tests are to be conducted, as well as sequences and phases of test operations.
+- Review work requests and compare them with previous work completed on ships to ensure that costs are economically sound.
+- Analyze data to determine feasibility of product proposals.
+- Schedule machine overhauls and the servicing of electrical, heating, ventilation, refrigeration, water, and sewage systems.
+- Conduct analyses of ships, such as stability, structural, weight, and vibration analyses.
+- Establish arrangement of boiler room equipment and propulsion machinery, heating and ventilating systems, refrigeration equipment, piping, and other functional equipment.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.5/7)
+- Speaking (Importance: 4.0/5 | Level: 4.12/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.5/7)
+- Active Listening (Importance: 4.0/5 | Level: 4.0/7)
+- Writing (Importance: 3.88/5 | Level: 4.38/7)
+- Complex Problem Solving (Importance: 3.75/5 | Level: 4.12/7)
+- Mathematics (Importance: 3.62/5 | Level: 4.25/7)
+- Judgment and Decision Making (Importance: 3.62/5 | Level: 3.88/7)
+- Monitoring (Importance: 3.62/5 | Level: 3.88/7)
+- Systems Analysis (Importance: 3.38/5 | Level: 3.62/7)
+- Social Perceptiveness (Importance: 3.38/5 | Level: 3.62/7)
+- Active Learning (Importance: 3.38/5 | Level: 3.88/7)
+- Coordination (Importance: 3.25/5 | Level: 3.88/7)
+- Operations Monitoring (Importance: 3.25/5 | Level: 3.62/7)
+- Learning Strategies (Importance: 3.12/5 | Level: 3.38/7)
+- Quality Control Analysis (Importance: 3.12/5 | Level: 3.38/7)
+- Time Management (Importance: 3.0/5 | Level: 3.38/7)
+- Instructing (Importance: 3.0/5 | Level: 3.5/7)
+- Persuasion (Importance: 3.0/5 | Level: 3.25/7)
+- Systems Evaluation (Importance: 3.0/5 | Level: 3.5/7)
+- Management of Personnel Resources (Importance: 3.0/5 | Level: 3.0/7)
+- Science (Importance: 3.0/5 | Level: 3.38/7)
+- Operations Analysis (Importance: 2.88/5 | Level: 3.5/7)
+- Negotiation (Importance: 2.75/5 | Level: 3.12/7)
+- Service Orientation (Importance: 2.75/5 | Level: 2.75/7)
+- Technology Design (Importance: 2.62/5 | Level: 2.88/7)
+- Troubleshooting (Importance: 2.62/5 | Level: 2.75/7)
+- Management of Material Resources (Importance: 2.5/5 | Level: 2.75/7)
+- Programming (Importance: 2.38/5 | Level: 2.5/7)
+- Management of Financial Resources (Importance: 2.25/5 | Level: 2.25/7)
+- Operation and Control (Importance: 1.62/5 | Level: 1.0/7)
+- Equipment Selection (Importance: 1.5/5 | Level: 1.25/7)
+- Equipment Maintenance (Importance: 1.25/5 | Level: 0.38/7)
+- Repairing (Importance: 1.12/5 | Level: 0.12/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adobe Acrobat (Tech skill type: Document management software)
+- AeroHydro MultiSurf (Tech skill type: Computer aided design CAD software)
+- ANSYS AQWA (Tech skill type: Analytical or scientific software)
+- ANSYS ASAS (Tech skill type: Analytical or scientific software)
+- Ansys Fluent (Tech skill type: Analytical or scientific software)
+- Autodesk Algor Simulation (Tech skill type: Analytical or scientific software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Bentley STAAD (Tech skill type: Computer aided design CAD software)
+- Creative System GHS (Tech skill type: Analytical or scientific software)
+- Dassault Systemes SolidWorks (Tech skill type: Computer aided design CAD software)
+- Herbert Software Solutions HECSALV (Tech skill type: Analytical or scientific software)
+- HydroComp NavCad (Tech skill type: Analytical or scientific software)
+- IBM Lotus 1-2-3 (Tech skill type: Spreadsheet software)
+- Intergraph SmartMarine 3D (Tech skill type: Computer aided design CAD software)
+- MAYA Nastran (Tech skill type: Analytical or scientific software)
+- McNeel Rhinoceros 3D (Tech skill type: Graphics or photo imaging software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft Word (Tech skill type: Word processing software)
+- MSC Software Nastran (Tech skill type: Analytical or scientific software)
+- Oracle Primavera Systems (Tech skill type: Project management software)
+- Proteus Engineering FastShip (Tech skill type: Analytical or scientific software)
+- PTC Creo Parametric (Tech skill type: Computer aided design CAD software)
+- PTC Pro/Pipe (Tech skill type: Computer aided design CAD software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Seasafe Marine Software Seasafe (Tech skill type: Analytical or scientific software)
+- Seaworthy Systems Shipboard Automated Maintenance Management SAMM (Tech skill type: Facilities management software)
+- ShipConstructor (Tech skill type: Computer aided design CAD software)
+- Siemens NX (Tech skill type: Computer aided design CAD software)
+- Siemens Solid Edge (Tech skill type: Computer aided design CAD software)
+- Strand7 (Tech skill type: Analytical or scientific software)
+- Structural Dynamics StruCAD*3D (Tech skill type: Computer aided design CAD software)
+- Tension Technology International OPTIMOOR (Tech skill type: Analytical or scientific software)
+- The MathWorks MATLAB (Tech skill type: Analytical or scientific software)
+- The Napa Group NAPA (Tech skill type: Computer aided design CAD software)
+- Zoom (Tech skill type: Video conferencing software)
+
+## TOOLS USED
+- Desktop computers (Tool type: Desktop computers)
+- Hard hats (Tool type: Hard hats)
+- Laptop computers (Tool type: Notebook computers)
+- Personal computers (Tool type: Personal computers)
+- Plotters (Tool type: Plotter printers)
+- Programmable logic controllers PLC (Tool type: Microcontrollers)
+- Safety glasses (Tool type: Safety glasses)

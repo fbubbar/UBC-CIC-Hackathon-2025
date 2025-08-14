@@ -1,0 +1,129 @@
+Job Title: Conservation Scientists
+O*NET-SOC Code: 19-1031.00
+
+# DESCRIPTION
+Manage, improve, and protect natural resources to maximize their use without damaging the environment. May conduct soil surveys and develop plans to eliminate soil erosion or to protect rangelands. May instruct farmers, agricultural production managers, or ranchers in best ways to use crop rotation, contour plowing, or terracing to conserve soil and water; in the number and kind of livestock and forage plants best suited to particular ranges; and in range and farm improvements, such as fencing and reservoirs for stock watering.
+
+# TASKS
+- Apply principles of specialized fields of science, such as agronomy, soil science, forestry, or agriculture, to achieve conservation objectives.
+- Plan soil management or conservation practices, such as crop rotation, reforestation, permanent vegetation, contour plowing, or terracing, to maintain soil or conserve water.
+- Monitor projects during or after construction to ensure projects conform to design specifications.
+- Advise land users, such as farmers or ranchers, on plans, problems, or alternative conservation solutions.
+- Implement soil or water management techniques, such as nutrient management, erosion control, buffers, or filter strips, in accordance with conservation plans.
+- Compute design specifications for implementation of conservation practices, using survey or field information, technical guides or engineering manuals.
+- Gather information from geographic information systems (GIS) databases or applications to formulate land use recommendations.
+- Participate on work teams to plan, develop, or implement programs or policies for improving environmental habitats, wetlands, or groundwater or soil resources.
+- Compute cost estimates of different conservation practices, based on needs of land users, maintenance requirements, or life expectancy of practices.
+- Develop or maintain working relationships with local government staff or board members.
+- Revisit land users to view implemented land use practices or plans.
+- Visit areas affected by erosion problems to identify causes or determine solutions.
+- Provide information, knowledge, expertise, or training to government agencies at all levels to solve water or soil management problems or to assure coordination of resource protection activities.
+- Enter local soil, water, or other environmental data into adaptive or Web-based decision tools to identify appropriate analyses or techniques.
+- Analyze results of investigations to determine measures needed to maintain or restore proper soil management.
+- Develop, conduct, or participate in surveys, studies, or investigations of various land uses to inform corrective action plans.
+- Coordinate or implement technical, financial, or administrative assistance programs for local government units to ensure efficient program implementation or timely responses to requests for assistance.
+- Respond to complaints or questions on wetland jurisdiction, providing information or clarification.
+- Compile or interpret biodata to determine extent or type of wetlands or to aid in program formulation.
+- Review or approve amendments to comprehensive local water plans or conservation district plans.
+- Review proposed wetland restoration easements or provide technical recommendations.
+- Develop soil maps.
+- Manage field offices or involve staff in cooperative ventures.
+- Initiate, schedule, or conduct annual audits or compliance checks of program implementation by local government.
+- Identify or recommend integrated weed and pest management (IPM) strategies, such as resistant plants, cultural or behavioral controls, soil amendments, insects, natural enemies, barriers, or pesticides.
+- Review annual reports of counties, conservation districts, or watershed management organizations, certifying compliance with mandated reporting requirements.
+- Review grant applications or make funding recommendations.
+- Develop or conduct environmental studies, such as plant material field trials or wildlife habitat impact studies.
+- Conduct fact-finding or mediation sessions among government units, landowners, or other agencies to resolve disputes.
+- Develop water conservation or harvest plans, using weather information systems, irrigation information management systems, or other sources of daily evapotranspiration (ET) data.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Reading Comprehension (Importance: 3.88/5 | Level: 3.88/7)
+- Active Listening (Importance: 3.88/5 | Level: 3.75/7)
+- Complex Problem Solving (Importance: 3.62/5 | Level: 3.75/7)
+- Speaking (Importance: 3.62/5 | Level: 3.75/7)
+- Writing (Importance: 3.5/5 | Level: 3.88/7)
+- Critical Thinking (Importance: 3.5/5 | Level: 3.75/7)
+- Science (Importance: 3.5/5 | Level: 3.5/7)
+- Monitoring (Importance: 3.25/5 | Level: 3.25/7)
+- Time Management (Importance: 3.25/5 | Level: 3.25/7)
+- Social Perceptiveness (Importance: 3.25/5 | Level: 3.25/7)
+- Active Learning (Importance: 3.25/5 | Level: 3.38/7)
+- Judgment and Decision Making (Importance: 3.25/5 | Level: 3.5/7)
+- Service Orientation (Importance: 3.12/5 | Level: 3.0/7)
+- Mathematics (Importance: 3.12/5 | Level: 3.12/7)
+- Persuasion (Importance: 3.12/5 | Level: 3.12/7)
+- Coordination (Importance: 3.12/5 | Level: 3.38/7)
+- Systems Evaluation (Importance: 3.12/5 | Level: 3.25/7)
+- Systems Analysis (Importance: 3.12/5 | Level: 3.12/7)
+- Negotiation (Importance: 3.0/5 | Level: 2.75/7)
+- Instructing (Importance: 2.88/5 | Level: 3.12/7)
+- Management of Personnel Resources (Importance: 2.88/5 | Level: 2.88/7)
+- Learning Strategies (Importance: 2.88/5 | Level: 2.88/7)
+- Operations Analysis (Importance: 2.38/5 | Level: 2.12/7)
+- Operations Monitoring (Importance: 2.38/5 | Level: 2.0/7)
+- Management of Material Resources (Importance: 2.38/5 | Level: 2.5/7)
+- Management of Financial Resources (Importance: 2.25/5 | Level: 2.12/7)
+- Quality Control Analysis (Importance: 2.25/5 | Level: 1.62/7)
+- Operation and Control (Importance: 2.25/5 | Level: 1.75/7)
+- Troubleshooting (Importance: 2.0/5 | Level: 1.62/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.12/7)
+- Programming (Importance: 1.88/5 | Level: 1.25/7)
+- Equipment Selection (Importance: 1.38/5 | Level: 0.5/7)
+- Installation (Importance: 1.12/5 | Level: 0.25/7)
+- Equipment Maintenance (Importance: 1.12/5 | Level: 0.25/7)
+- Repairing (Importance: 1.12/5 | Level: 0.25/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adobe Acrobat (Tech skill type: Document management software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Autodesk Maya (Tech skill type: Graphics or photo imaging software)
+- Clover Technology GALENA (Tech skill type: Analytical or scientific software)
+- CroPMan (Tech skill type: Data base user interface and query software)
+- CropSyst Suite (Tech skill type: Analytical or scientific software)
+- Datasurge GEOPRO (Tech skill type: Analytical or scientific software)
+- Delft GeoSystems MStab (Tech skill type: Analytical or scientific software)
+- Email software (Tech skill type: Electronic mail software)
+- ESRI ArcGIS software (Tech skill type: Geographic information system)
+- ESRI ArcInfo (Tech skill type: Geographic information system)
+- ESRI ArcView (Tech skill type: Geographic information system)
+- GEO-SLOPE SEEP/W (Tech skill type: Analytical or scientific software)
+- Geographic information system GIS software (Tech skill type: Geographic information system)
+- Geographic information system GIS systems (Tech skill type: Geographic information system)
+- GFA2D (Tech skill type: Analytical or scientific software)
+- Global positioning system GPS software (Tech skill type: Mobile location based services software)
+- HYDRUS-2D (Tech skill type: Analytical or scientific software)
+- Interstudio Geo-Tec B (Tech skill type: Analytical or scientific software)
+- Landscape Management System LMS (Tech skill type: Analytical or scientific software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Active Server Pages ASP (Tech skill type: Web platform development software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Mitre Software GSLOPE (Tech skill type: Analytical or scientific software)
+- Salix Applied Earthcare Erosion Draw (Tech skill type: Analytical or scientific software)
+- State Soil Geographic STATSGO Database (Tech skill type: Data base user interface and query software)
+- Studio of Analytical Models STANMOD (Tech skill type: Analytical or scientific software)
+- U.S. Department of Agriculture USDA WinSRM (Tech skill type: Analytical or scientific software)
+- USDA Forest Vegetation Simulator FVS (Tech skill type: Analytical or scientific software)
+- Water resources databases (Tech skill type: Data base user interface and query software)
+- Water Soil and Hydro-Environmental Decision Support System WATERSHEDSS (Tech skill type: Analytical or scientific software)
+- Web browser software (Tech skill type: Internet browser software)
+- WinEPIC (Tech skill type: Analytical or scientific software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Desktop computers (Tool type: Desktop computers)
+- Digital cameras (Tool type: Digital cameras)
+- Dumpy levels (Tool type: Levels)
+- Dutch augers (Tool type: Soil core sampling apparatus)
+- Global positioning system GPS receivers (Tool type: Global positioning system GPS receiver)
+- Laptop computers (Tool type: Notebook computers)
+- Laser distance measurement systems (Tool type: Laser measuring systems)
+- Personal computers (Tool type: Personal computers)
+- Theodolites (Tool type: Theodolites)
+- Total stations (Tool type: Theodolites)
+- Water samplers (Tool type: Water samplers)

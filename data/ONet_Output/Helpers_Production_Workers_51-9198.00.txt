@@ -1,0 +1,129 @@
+Job Title: Helpers--Production Workers
+O*NET-SOC Code: 51-9198.00
+
+# DESCRIPTION
+Help production workers by performing duties requiring less skill. Duties include supplying or holding materials or tools, and cleaning work area and equipment.
+
+# TASKS
+- Load and unload items from machines, conveyors, and conveyances.
+- Operate machinery used in the production process, or assist machine operators.
+- Place products in equipment or on work surfaces for further processing, inspecting, or wrapping.
+- Examine products to verify conformance to quality standards.
+- Start machines or equipment to begin production processes.
+- Observe equipment operations so that malfunctions can be detected, and notify operators of any malfunctions.
+- Remove products, machine attachments, or waste material from machines.
+- Lift raw materials, finished products, and packed items, manually or using hoists.
+- Transfer finished products, raw materials, tools, or equipment between storage and work areas of plants and warehouses, by hand or using hand trucks or powered lift trucks.
+- Pack and store materials and products.
+- Help production workers by performing duties of lesser skill, such as supplying or holding materials or tools, or cleaning work areas and equipment.
+- Count finished products to determine if product orders are complete.
+- Measure amounts of products, lengths of extruded articles, or weights of filled containers to ensure conformance to specifications.
+- Separate products according to weight, grade, size, or composition of materials used to produce them.
+- Turn valves to regulate flow of liquids or air, to reverse machines, to start pumps, or to regulate equipment.
+- Mark or tag identification on parts.
+- Mix ingredients according to specified procedures or formulas.
+- Tie products in bundles for further processing or shipment, following prescribed procedures.
+- Record information, such as the number of products tested, meter readings, or dates and times of product production.
+- Read gauges or charts, and record data obtained.
+- Unclamp and hoist full reels from braiding, winding, or other fabricating machines, using power hoists.
+- Signal coworkers to direct them to move products during the production process.
+- Clean and lubricate equipment.
+- Prepare raw materials for processing.
+- Perform minor repairs to machines, such as replacing damaged or worn parts.
+- Attach slings, ropes, or cables to objects such as pipes, hoses, or bundles.
+- Position spouts or chutes of storage bins so that containers can be filled.
+- Wash work areas, machines, equipment, vehicles, or products.
+- Break up defective products for reprocessing.
+- Cut or break flashing from materials or products.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Active Listening (Importance: 2.88/5 | Level: 2.0/7)
+- Monitoring (Importance: 2.88/5 | Level: 2.38/7)
+- Operations Monitoring (Importance: 2.75/5 | Level: 2.5/7)
+- Critical Thinking (Importance: 2.75/5 | Level: 2.25/7)
+- Speaking (Importance: 2.75/5 | Level: 2.12/7)
+- Quality Control Analysis (Importance: 2.62/5 | Level: 2.25/7)
+- Reading Comprehension (Importance: 2.62/5 | Level: 2.25/7)
+- Social Perceptiveness (Importance: 2.62/5 | Level: 2.0/7)
+- Operation and Control (Importance: 2.62/5 | Level: 2.5/7)
+- Coordination (Importance: 2.62/5 | Level: 2.38/7)
+- Time Management (Importance: 2.25/5 | Level: 1.88/7)
+- Complex Problem Solving (Importance: 2.25/5 | Level: 2.0/7)
+- Judgment and Decision Making (Importance: 2.25/5 | Level: 1.88/7)
+- Troubleshooting (Importance: 2.12/5 | Level: 1.88/7)
+- Service Orientation (Importance: 2.12/5 | Level: 1.5/7)
+- Repairing (Importance: 2.12/5 | Level: 1.75/7)
+- Equipment Maintenance (Importance: 2.12/5 | Level: 1.75/7)
+- Systems Analysis (Importance: 2.0/5 | Level: 1.12/7)
+- Active Learning (Importance: 2.0/5 | Level: 1.88/7)
+- Mathematics (Importance: 2.0/5 | Level: 1.75/7)
+- Learning Strategies (Importance: 2.0/5 | Level: 1.88/7)
+- Instructing (Importance: 2.0/5 | Level: 2.0/7)
+- Equipment Selection (Importance: 2.0/5 | Level: 1.5/7)
+- Persuasion (Importance: 1.88/5 | Level: 1.38/7)
+- Negotiation (Importance: 1.88/5 | Level: 1.0/7)
+- Management of Personnel Resources (Importance: 1.88/5 | Level: 1.62/7)
+- Systems Evaluation (Importance: 1.88/5 | Level: 1.12/7)
+- Writing (Importance: 1.88/5 | Level: 1.62/7)
+- Management of Material Resources (Importance: 1.75/5 | Level: 0.75/7)
+- Operations Analysis (Importance: 1.62/5 | Level: 0.62/7)
+- Management of Financial Resources (Importance: 1.62/5 | Level: 0.62/7)
+- Programming (Importance: 1.25/5 | Level: 0.25/7)
+- Science (Importance: 1.25/5 | Level: 0.25/7)
+- Technology Design (Importance: 1.25/5 | Level: 0.25/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adobe Acrobat (Tech skill type: Document management software)
+- Adobe InDesign (Tech skill type: Desktop publishing software)
+- Adobe Photoshop (Tech skill type: Graphics or photo imaging software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Enterprise resource planning ERP software (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Operational databases (Tech skill type: Data base user interface and query software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+
+## TOOLS USED
+- Adjustable wrenches (Tool type: Adjustable wrenches)
+- Claw hammers (Tool type: Claw hammer)
+- Crescent wrenches (Tool type: Open end wrenches)
+- Forklifts (Tool type: Forklifts)
+- Grease guns (Tool type: Grease guns)
+- Hand jacks (Tool type: Jacks)
+- Hand saws (Tool type: Saws)
+- Handtrucks (Tool type: Hand trucks or accessories)
+- Hydraulic booms (Tool type: Hydraulic truck cranes)
+- Hydraulic winches (Tool type: Winches)
+- Industrial platform scales (Tool type: Floor or platform scales)
+- Industrial vacuum cleaners (Tool type: Vacuum cleaners)
+- Jackhammers (Tool type: Pneumatic hammer)
+- Label-making machines (Tool type: Label making machines)
+- Locking pliers (Tool type: Locking pliers)
+- Material-hoisting slings (Tool type: Slings)
+- Measuring tapes (Tool type: Tape measures)
+- Personal computers (Tool type: Personal computers)
+- Phillips head screwdrivers (Tool type: Screwdrivers)
+- Pipe jacks (Tool type: Jacks)
+- Pipe wrenches (Tool type: Pipe wrenches)
+- Planers (Tool type: Planes)
+- Platform ladders (Tool type: Ladders)
+- Power drills (Tool type: Power drills)
+- Power grinders (Tool type: Power grinders)
+- Power hoists (Tool type: Hoists)
+- Power nail guns (Tool type: Power nail guns)
+- Power sanders (Tool type: Power sanders)
+- Power saws (Tool type: Power saws)
+- Precision files (Tool type: Precision file)
+- Pressure wands (Tool type: Pressure or steam cleaners)
+- Ratcheting box wrenches (Tool type: Box end wrenches)
+- Razor knives (Tool type: Razor knives)
+- Skid steer loaders (Tool type: Skid steer loaders)
+- Soldering equipment (Tool type: Soldering iron)
+- Staple guns (Tool type: Staple guns)
+- Straight screwdrivers (Tool type: Screwdrivers)
+- Utility knives (Tool type: Utility knives)

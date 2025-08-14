@@ -1,0 +1,148 @@
+Job Title: Wind Energy Engineers
+O*NET-SOC Code: 17-2199.10
+
+# DESCRIPTION
+Design underground or overhead wind farm collector systems and prepare and develop site specifications.
+
+# TASKS
+- Create or maintain wind farm layouts, schematics, or other visual documentation for wind farms.
+- Recommend process or infrastructure changes to improve wind turbine performance, reduce operational costs, or comply with regulations.
+- Create models to optimize the layout of wind farm access roads, crane pads, crane paths, collection systems, substations, switchyards, or transmission lines.
+- Provide engineering technical support to designers of prototype wind turbines.
+- Investigate experimental wind turbines or wind turbine technologies for properties such as aerodynamics, production, noise, and load.
+- Develop active control algorithms, electronics, software, electromechanical, or electrohydraulic systems for wind turbines.
+- Develop specifications for wind technology components, such as gearboxes, blades, generators, frequency converters, or pad transformers.
+- Test wind turbine components, using mechanical or electronic testing equipment.
+- Oversee the work activities of wind farm consultants or subcontractors.
+- Test wind turbine equipment to determine effects of stress or fatigue.
+- Monitor wind farm construction to ensure compliance with regulatory standards or environmental requirements.
+- Direct balance of plant (BOP) construction, generator installation, testing, commissioning, or supervisory control and data acquisition (SCADA) to ensure compliance with specifications.
+- Analyze operation of wind farms or wind farm components to determine reliability, performance, and compliance with specifications.
+- Perform root cause analysis on wind turbine tower component failures.
+- Design underground or overhead wind farm collector systems.
+- Write reports to document wind farm collector system test results.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.5/7)
+- Reading Comprehension (Importance: 3.75/5 | Level: 4.62/7)
+- Judgment and Decision Making (Importance: 3.5/5 | Level: 4.0/7)
+- Mathematics (Importance: 3.5/5 | Level: 4.5/7)
+- Writing (Importance: 3.38/5 | Level: 3.75/7)
+- Complex Problem Solving (Importance: 3.38/5 | Level: 4.0/7)
+- Systems Analysis (Importance: 3.38/5 | Level: 3.75/7)
+- Speaking (Importance: 3.38/5 | Level: 3.5/7)
+- Active Listening (Importance: 3.38/5 | Level: 3.75/7)
+- Systems Evaluation (Importance: 3.25/5 | Level: 3.62/7)
+- Science (Importance: 3.25/5 | Level: 3.75/7)
+- Operations Analysis (Importance: 3.25/5 | Level: 3.62/7)
+- Monitoring (Importance: 3.12/5 | Level: 4.0/7)
+- Social Perceptiveness (Importance: 3.12/5 | Level: 3.0/7)
+- Persuasion (Importance: 3.0/5 | Level: 3.38/7)
+- Active Learning (Importance: 3.0/5 | Level: 3.75/7)
+- Coordination (Importance: 3.0/5 | Level: 3.5/7)
+- Time Management (Importance: 2.88/5 | Level: 3.25/7)
+- Negotiation (Importance: 2.75/5 | Level: 2.88/7)
+- Learning Strategies (Importance: 2.75/5 | Level: 2.88/7)
+- Service Orientation (Importance: 2.75/5 | Level: 2.75/7)
+- Management of Personnel Resources (Importance: 2.75/5 | Level: 3.0/7)
+- Instructing (Importance: 2.75/5 | Level: 3.38/7)
+- Quality Control Analysis (Importance: 2.62/5 | Level: 3.0/7)
+- Operations Monitoring (Importance: 2.62/5 | Level: 2.75/7)
+- Technology Design (Importance: 2.38/5 | Level: 2.62/7)
+- Management of Material Resources (Importance: 2.25/5 | Level: 2.12/7)
+- Operation and Control (Importance: 2.25/5 | Level: 2.12/7)
+- Programming (Importance: 2.12/5 | Level: 1.88/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.75/7)
+- Troubleshooting (Importance: 1.88/5 | Level: 1.75/7)
+- Equipment Selection (Importance: 1.25/5 | Level: 0.38/7)
+- Equipment Maintenance (Importance: 1.12/5 | Level: 0.25/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Amazon Web Services AWS software (Tech skill type: Data base user interface and query software)
+- ANSYS simulation software (Tech skill type: Analytical or scientific software)
+- Apache Ant (Tech skill type: Development environment software)
+- Apache Subversion SVN (Tech skill type: File versioning software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Bentley MicroStation (Tech skill type: Computer aided design CAD software)
+- C# (Tech skill type: Object or component oriented development software)
+- C++ (Tech skill type: Object or component oriented development software)
+- Computational fluid dynamics CFD software (Tech skill type: Analytical or scientific software)
+- Dassault Systemes SolidWorks (Tech skill type: Computer aided design CAD software)
+- DIgSILENT PowerFactory (Tech skill type: Analytical or scientific software)
+- EMD International WindPRO (Tech skill type: Analytical or scientific software)
+- Enterprise resource planning ERP software (Tech skill type: Enterprise resource planning ERP software)
+- ESRI ArcGIS software (Tech skill type: Geographic information system)
+- ESRI ArcGIS Spatial Analyst (Tech skill type: Geographic information system)
+- ESRI ArcInfo (Tech skill type: Geographic information system)
+- Extensible markup language XML (Tech skill type: Enterprise application integration software)
+- Formula translation/translator FORTRAN (Tech skill type: Development environment software)
+- GE Energy Positive Sequence Load Flow Software PSLF (Tech skill type: Analytical or scientific software)
+- Geographic information system GIS software (Tech skill type: Geographic information system)
+- Git (Tech skill type: File versioning software)
+- Global Mapper Software Global Mapper (Tech skill type: Map creation software)
+- Google Earth Pro (Tech skill type: Geographic information system)
+- JUnit (Tech skill type: Program testing software)
+- Linux (Tech skill type: Operating system software)
+- Manitoba HVDC Research Centre PSCAD (Tech skill type: Analytical or scientific software)
+- Mathsoft Mathcad (Tech skill type: Analytical or scientific software)
+- Microsoft .NET Framework (Tech skill type: Development environment software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft SQL Server (Tech skill type: Data base management system software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Visual Basic (Tech skill type: Development environment software)
+- Microsoft Visual Basic Scripting Edition VBScript (Tech skill type: Development environment software)
+- Microsoft Visual Basic.NET (Tech skill type: Object or component oriented development software)
+- Microsoft Visual C# .NET (Tech skill type: Object or component oriented development software)
+- Microsoft Visual Studio (Tech skill type: Development environment software)
+- Microsoft Word (Tech skill type: Word processing software)
+- National Instruments LabVIEW (Tech skill type: Development environment software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- Oracle Primavera Systems (Tech skill type: Project management software)
+- Power system modeling software (Tech skill type: Analytical or scientific software)
+- PowerWorld Corporation PowerWorld Simulator (Tech skill type: Analytical or scientific software)
+- PTC Creo Parametric (Tech skill type: Computer aided design CAD software)
+- Python (Tech skill type: Object or component oriented development software)
+- ReSoft WindFarm (Tech skill type: Analytical or scientific software)
+- Risoe National Laboratory Wind Atlas Analysis and Application Program WAsP (Tech skill type: Analytical or scientific software)
+- Schneider Electric Direct Coordination (Tech skill type: Analytical or scientific software)
+- Siemens PSS Product Suite (Tech skill type: Analytical or scientific software)
+- SKM Systems Analysis Power Tools (Tech skill type: Analytical or scientific software)
+- Software development tools (Tech skill type: Development environment software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Supervisory control and data acquisition SCADA software (Tech skill type: Industrial control software)
+- Tableau (Tech skill type: Business intelligence and data analysis software)
+- The MathWorks MATLAB (Tech skill type: Analytical or scientific software)
+- UNIX (Tech skill type: Operating system software)
+- Web browser software (Tech skill type: Internet browser software)
+- Web conferencing software (Tech skill type: Video conferencing software)
+- WindSim (Tech skill type: Analytical or scientific software)
+- Wonderware software (Tech skill type: Industrial control software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Barometric pressure sensors (Tool type: Barometers)
+- Cup anemometers (Tool type: Anemometers)
+- Dataloggers (Tool type: Portable data input terminals)
+- Desktop computers (Tool type: Desktop computers)
+- Digital still cameras (Tool type: Digital cameras)
+- Digital video cameras (Tool type: Digital camcorders or video cameras)
+- Electronic temperature sensors (Tool type: Temperature transmitters)
+- Handheld global positioning system GPS units (Tool type: Global positioning system GPS receiver)
+- Laptop computers (Tool type: Notebook computers)
+- Light detection and ranging LIDAR systems (Tool type: Radarbased surveillance systems)
+- Mainframe computers (Tool type: Mainframe computers)
+- Portable meteorological stations (Tool type: Weather stations)
+- Propeller anemometers (Tool type: Anemometers)
+- Pyranometers (Tool type: Solar radiation surface observing apparatus)
+- Recording anemometers (Tool type: Anemometers)
+- Soil samplers (Tool type: Soil core sampling apparatus)
+- Sonic detection and ranging SODAR equipment (Tool type: Wind surface observing apparatus)
+- Wind vanes (Tool type: Wind surface observing apparatus)

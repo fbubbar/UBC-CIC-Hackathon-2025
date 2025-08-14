@@ -1,0 +1,130 @@
+Job Title: Anesthesiologists
+O*NET-SOC Code: 29-1211.00
+
+# DESCRIPTION
+Administer anesthetics and analgesics for pain management prior to, during, or after surgery.
+
+# TASKS
+- Monitor patient before, during, and after anesthesia and counteract adverse reactions or complications.
+- Record type and amount of anesthesia and patient condition throughout procedure.
+- Provide and maintain life support and airway management and help prepare patients for emergency surgery.
+- Administer anesthetic or sedation during medical procedures, using local, intravenous, spinal, or caudal methods.
+- Examine patient, obtain medical history, and use diagnostic tests to determine risk during surgical, obstetrical, and other medical procedures.
+- Position patient on operating table to maximize patient comfort and surgical accessibility.
+- Coordinate administration of anesthetics with surgeons during operation.
+- Decide when patients have recovered or stabilized enough to be sent to another room or ward or to be sent home following outpatient surgery.
+- Confer with other medical professionals to determine type and method of anesthetic or sedation to render patient insensible to pain.
+- Order laboratory tests, x-rays, and other diagnostic procedures.
+- Inform students and staff of types and methods of anesthesia administration, signs of complications, and emergency methods to counteract reactions.
+- Provide medical care and consultation in many settings, prescribing medication and treatment and referring patients for surgery.
+- Manage anesthesiological services, coordinating them with other medical activities and formulating plans and procedures.
+- Diagnose illnesses, using examinations, tests, and reports.
+- Coordinate and direct work of nurses, medical technicians, and other health care providers.
+- Instruct individuals and groups on ways to preserve health and prevent disease.
+- Schedule and maintain use of surgical suite, including operating, wash-up, waiting rooms, or anesthetic and sterilizing equipment.
+- Conduct medical research to aid in controlling and curing disease, to investigate new medications, and to develop and test new medical techniques.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Critical Thinking (Importance: 4.5/5 | Level: 4.38/7)
+- Monitoring (Importance: 4.12/5 | Level: 4.38/7)
+- Judgment and Decision Making (Importance: 4.12/5 | Level: 4.25/7)
+- Active Listening (Importance: 4.12/5 | Level: 4.25/7)
+- Writing (Importance: 4.0/5 | Level: 4.0/7)
+- Complex Problem Solving (Importance: 4.0/5 | Level: 4.0/7)
+- Science (Importance: 4.0/5 | Level: 3.88/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.88/7)
+- Speaking (Importance: 3.88/5 | Level: 4.0/7)
+- Time Management (Importance: 3.75/5 | Level: 4.0/7)
+- Social Perceptiveness (Importance: 3.75/5 | Level: 3.75/7)
+- Operations Monitoring (Importance: 3.62/5 | Level: 3.62/7)
+- Active Learning (Importance: 3.62/5 | Level: 4.12/7)
+- Systems Evaluation (Importance: 3.25/5 | Level: 3.25/7)
+- Learning Strategies (Importance: 3.25/5 | Level: 3.38/7)
+- Service Orientation (Importance: 3.25/5 | Level: 3.75/7)
+- Instructing (Importance: 3.12/5 | Level: 3.75/7)
+- Coordination (Importance: 3.12/5 | Level: 3.75/7)
+- Systems Analysis (Importance: 3.12/5 | Level: 3.25/7)
+- Management of Personnel Resources (Importance: 3.0/5 | Level: 3.5/7)
+- Persuasion (Importance: 3.0/5 | Level: 3.38/7)
+- Mathematics (Importance: 3.0/5 | Level: 3.38/7)
+- Negotiation (Importance: 2.88/5 | Level: 2.88/7)
+- Operation and Control (Importance: 2.75/5 | Level: 3.12/7)
+- Quality Control Analysis (Importance: 2.75/5 | Level: 2.62/7)
+- Operations Analysis (Importance: 2.62/5 | Level: 2.75/7)
+- Management of Financial Resources (Importance: 2.25/5 | Level: 2.25/7)
+- Management of Material Resources (Importance: 2.12/5 | Level: 2.25/7)
+- Troubleshooting (Importance: 2.12/5 | Level: 2.25/7)
+- Technology Design (Importance: 1.62/5 | Level: 1.0/7)
+- Equipment Selection (Importance: 1.38/5 | Level: 0.5/7)
+- Programming (Importance: 1.12/5 | Level: 0.12/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- AetherPalm InfusiCalc (Tech skill type: Medical software)
+- Anesthesia machine software (Tech skill type: Medical software)
+- AtStaff Physician Scheduler (Tech skill type: Calendar and scheduling software)
+- Drug database software (Tech skill type: Medical software)
+- EDImis Anesthesia Manager (Tech skill type: Medical software)
+- Electronic medical record EMR software (Tech skill type: Medical software)
+- Epic Systems (Tech skill type: Medical software)
+- Healthpac Medical Billing (Tech skill type: Accounting software)
+- Medical calculator software (Tech skill type: Medical software)
+- MEDITECH software (Tech skill type: Medical software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Skyscape 5-Minute Clinical Consult (Tech skill type: Medical software)
+- Skyscape AnesthesiaDrugs (Tech skill type: Medical software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Anesthesia gas concentration monitors (Tool type: Gas anesthesia apparatus or machines)
+- Anesthesia monitors (Tool type: Gas anesthesia apparatus or machines)
+- Automated external defibrillators AED (Tool type: Mobile medical services automated external defibrillators AED or hard paddles)
+- Blood collection syringes (Tool type: Blood collection syringes)
+- Calibrated vaporizers (Tool type: Anesthesia inhalers or inhaler units)
+- Capnographs (Tool type: Patient carbon dioxide detectors)
+- Cricothyrotomy equipment (Tool type: Mobile medical services non-suction antichoke devices)
+- Desktop computers (Tool type: Desktop computers)
+- Digital anesthesia machines (Tool type: Gas anesthesia apparatus or machines)
+- Electrocardiography EKG machines (Tool type: Electrocardiography EKG units)
+- Electronic blood pressure units (Tool type: Electronic blood pressure units)
+- End tidal carbon dioxide monitors (Tool type: End tidal carbon dioxide monitors)
+- Endotracheal ET tubes (Tool type: Endotracheal tubes)
+- Epidural catheters (Tool type: Anesthesia nerve block kit or tray)
+- Esophageal tracheal airway devices (Tool type: Esophageal tubes)
+- Evacuated blood collection tubes (Tool type: Vacuum blood collection tubes or containers)
+- Fiberoptic bronchoscopes (Tool type: Bronchoscopes)
+- Gas anesthesia administration machines (Tool type: Gas anesthesia apparatus or machines)
+- Heart rate monitors (Tool type: Cardiac output CO monitoring units)
+- Injection syringes (Tool type: Medical syringes without needle)
+- Intra-arterial catheters (Tool type: Arterial line catheters)
+- Intravenous IV equipment (Tool type: Intravenous tubing with catheter administration kits)
+- Intubation equipment (Tool type: Intubator components)
+- Invasive hemodynamic pressure monitors (Tool type: Cardiac output CO monitoring units)
+- Laryngeal mask airways LMA (Tool type: Pharyngeal airways or airways kits)
+- Medical masks (Tool type: Surgical isolation or surgical masks)
+- Nasogastric tubes (Tool type: Nasogastric tubes)
+- Notebook computers (Tool type: Notebook computers)
+- Oxygen masks (Tool type: Medical oxygen masks or parts)
+- Patient controlled analgesia PCA pumps (Tool type: Patient controlled analgesia infusion pumps)
+- Peripheral nerve stimulators (Tool type: Surgical nerve stimulators)
+- Personal computers (Tool type: Personal computers)
+- Personal digital assistants PDA (Tool type: Personal digital assistant PDAs or organizers)
+- Plethysmography machines (Tool type: Body plethysmographs)
+- Precordial stethoscopes (Tool type: Electronic stethoscopes)
+- Pretracheal stethoscopes (Tool type: Electronic stethoscopes)
+- Pulse oximeters (Tool type: Pulse oximeter units)
+- Spirometers (Tool type: Spirometers)
+- Suction machines (Tool type: Medical or surgical suction or vacuum appliances)
+- Surgical gloves (Tool type: Surgical gloves)
+- Swan Ganz artery catheters (Tool type: Arterial line catheters)
+- Tablet computers (Tool type: Tablet computers)
+- Tourniquets (Tool type: Tourniquets)
+- Tracheostomy sets (Tool type: Endotracheal or tracheotomy sets)
+- Valve mask resuscitators (Tool type: Resuscitation masks)

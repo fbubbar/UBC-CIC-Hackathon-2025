@@ -1,0 +1,136 @@
+Job Title: Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic
+O*NET-SOC Code: 51-4035.00
+
+# DESCRIPTION
+Set up, operate, or tend milling or planing machines to mill, plane, shape, groove, or profile metal or plastic work pieces.
+
+# TASKS
+- Remove workpieces from machines, and check to ensure that they conform to specifications, using measuring instruments such as microscopes, gauges, calipers, and micrometers.
+- Verify alignment of workpieces on machines, using measuring instruments such as rules, gauges, or calipers.
+- Move controls to set cutting specifications, to position cutting tools and workpieces in relation to each other, and to start machines.
+- Observe milling or planing machine operation, and adjust controls to ensure conformance with specified tolerances.
+- Select and install cutting tools and other accessories according to specifications, using hand tools or power tools.
+- Position and secure workpieces on machines, using holding devices, measuring instruments, hand tools, and hoists.
+- Replace worn tools, using hand tools, and sharpen dull tools, using bench grinders.
+- Study blueprints, layouts, sketches, or work orders to assess workpiece specifications and to determine tooling instructions, tools and materials needed, and sequences of operations.
+- Compute dimensions, tolerances, and angles of workpieces or machines according to specifications and knowledge of metal properties and shop mathematics.
+- Move cutters or material manually or by turning handwheels, or engage automatic feeding mechanisms to mill workpieces to specifications.
+- Mount attachments and tools, such as pantographs, engravers, or routers, to perform other operations, such as drilling or boring.
+- Select cutting speeds, feed rates, and depths of cuts, applying knowledge of metal properties and shop mathematics.
+- Record production output.
+- Turn valves or pull levers to start and regulate the flow of coolant or lubricant to work areas.
+- Make templates or cutting tools.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operations Monitoring (Importance: 3.88/5 | Level: 3.88/7)
+- Operation and Control (Importance: 3.38/5 | Level: 3.25/7)
+- Critical Thinking (Importance: 3.12/5 | Level: 3.0/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.12/7)
+- Active Listening (Importance: 3.0/5 | Level: 2.88/7)
+- Speaking (Importance: 2.88/5 | Level: 2.5/7)
+- Reading Comprehension (Importance: 2.88/5 | Level: 2.75/7)
+- Quality Control Analysis (Importance: 2.88/5 | Level: 3.0/7)
+- Complex Problem Solving (Importance: 2.75/5 | Level: 2.38/7)
+- Coordination (Importance: 2.75/5 | Level: 2.5/7)
+- Troubleshooting (Importance: 2.75/5 | Level: 2.75/7)
+- Mathematics (Importance: 2.62/5 | Level: 2.75/7)
+- Time Management (Importance: 2.62/5 | Level: 2.38/7)
+- Social Perceptiveness (Importance: 2.62/5 | Level: 2.0/7)
+- Active Learning (Importance: 2.62/5 | Level: 2.38/7)
+- Writing (Importance: 2.62/5 | Level: 2.25/7)
+- Judgment and Decision Making (Importance: 2.62/5 | Level: 2.38/7)
+- Equipment Maintenance (Importance: 2.38/5 | Level: 2.38/7)
+- Repairing (Importance: 2.38/5 | Level: 2.38/7)
+- Equipment Selection (Importance: 2.25/5 | Level: 2.12/7)
+- Systems Analysis (Importance: 2.12/5 | Level: 2.12/7)
+- Instructing (Importance: 2.12/5 | Level: 2.0/7)
+- Learning Strategies (Importance: 2.12/5 | Level: 2.12/7)
+- Service Orientation (Importance: 2.0/5 | Level: 1.75/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 1.88/7)
+- Management of Personnel Resources (Importance: 2.0/5 | Level: 2.0/7)
+- Persuasion (Importance: 1.88/5 | Level: 1.62/7)
+- Operations Analysis (Importance: 1.88/5 | Level: 1.25/7)
+- Negotiation (Importance: 1.75/5 | Level: 1.38/7)
+- Installation (Importance: 1.62/5 | Level: 0.88/7)
+- Technology Design (Importance: 1.62/5 | Level: 0.75/7)
+- Management of Material Resources (Importance: 1.62/5 | Level: 0.62/7)
+- Programming (Importance: 1.5/5 | Level: 0.5/7)
+- Management of Financial Resources (Importance: 1.5/5 | Level: 0.5/7)
+- Science (Importance: 1.38/5 | Level: 0.38/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- EditCNC (Tech skill type: Industrial control software)
+- Extensible markup language XML (Tech skill type: Enterprise application integration software)
+- G-code (Tech skill type: Object or component oriented development software)
+- Kentech machine shop software (Tech skill type: Analytical or scientific software)
+- M-code (Tech skill type: Object or component oriented development software)
+- Mastercam computer-aided design and manufacturing software (Tech skill type: Computer aided manufacturing CAM software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Siemens Solid Edge (Tech skill type: Computer aided design CAD software)
+- SmartCAMcnc SmartCAM (Tech skill type: Computer aided design CAD software)
+- SWIVEL Software (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Vero Software ALPHACAM (Tech skill type: Computer aided design CAD software)
+- Vero Software Edgecam (Tech skill type: Computer aided design CAD and computer aided manufacturing CAM system)
+
+## TOOLS USED
+- Adjustable spanner wrenches (Tool type: Spanner wrenches)
+- Allen wrench sets (Tool type: Allen wrench)
+- Automatic tool changers (Tool type: Tool holders)
+- Bore gauges (Tool type: Hole gauge)
+- Boring bars (Tool type: Horizontal boring machine)
+- Center finders (Tool type: Tool template sets)
+- Coaxial indicators (Tool type: Dial indicator or dial gauge)
+- Collet chucks (Tool type: Collets)
+- Computer numerical control CNC milling machines (Tool type: Universal milling machine)
+- Coolant chillers (Tool type: Unit cooler)
+- Coordinate measuring machines CMM (Tool type: Coordinate measuring machines CMM)
+- Crescent wrenches (Tool type: Adjustable wrenches)
+- Desktop computers (Tool type: Desktop computers)
+- Dial calipers (Tool type: Calipers)
+- Digital bench scales (Tool type: Bench scales)
+- Digital calipers (Tool type: Calipers)
+- Digital height gauges (Tool type: Height gauges)
+- Drill presses (Tool type: Drill press or radial drill)
+- Drop indicators (Tool type: Dial indicator or dial gauge)
+- Electronic edge finders (Tool type: Tool template sets)
+- End mills (Tool type: End mills)
+- Fillet gauges (Tool type: Radius gauge)
+- Grease dispensers (Tool type: Grease guns)
+- Hand grinders (Tool type: Grinders)
+- Height gauges (Tool type: Height gauges)
+- Height setters (Tool type: Tool template sets)
+- Horizontal boring mills (Tool type: Horizontal boring machine)
+- Horizontal milling machines (Tool type: Universal milling machine)
+- Industrial bench grinders (Tool type: Bench grinder)
+- Inside digital ID micrometers (Tool type: Micrometers)
+- Lapping tools (Tool type: Hand lapper)
+- Layout compasses (Tool type: Compasses)
+- Machine deburring tools (Tool type: Deburring tool)
+- Mechanical comparators (Tool type: Comparators)
+- Mechanical edge finders (Tool type: Tool template sets)
+- Metal cutters (Tool type: Sawing and cut-off machine)
+- Metal planers (Tool type: Planer style milling machine)
+- Metal shears (Tool type: Tinners snips)
+- Multipurpose screwdrivers (Tool type: Screwdrivers)
+- Outside digital OD micrometers (Tool type: Micrometers)
+- Overhead cranes (Tool type: Track cranes)
+- Pin gauge sets (Tool type: Pin gauge)
+- Polishing tools (Tool type: Metal polishing machine)
+- Power hoists (Tool type: Hoists)
+- Precision milling vises (Tool type: Milling vise)
+- Precision rules (Tool type: Rulers)
+- Protective safety glasses (Tool type: Safety glasses)
+- Setting jigs (Tool type: Setting jig)
+- Soft jaws (Tool type: Chucks)
+- Tool probes (Tool type: Tool template sets)
+- Turret lathes (Tool type: Turret lathe)
+- Vernier calipers (Tool type: Calipers)
+- Vertical machining centers VMC (Tool type: Vertical machining center)
+- Vertical milling machines (Tool type: Turret milling machine)
+- Wheeled forklifts (Tool type: Forklifts)
+- Wire cleaning brushes (Tool type: Wire brushes)

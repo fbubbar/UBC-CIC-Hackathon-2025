@@ -1,0 +1,96 @@
+Job Title: Log Graders and Scalers
+O*NET-SOC Code: 45-4023.00
+
+# DESCRIPTION
+Grade logs or estimate the marketable content or value of logs or pulpwood in sorting yards, millpond, log deck, or similar locations. Inspect logs for defects or measure logs to determine volume.
+
+# TASKS
+- Evaluate log characteristics and determine grades, using established criteria.
+- Record data about individual trees or load volumes into tally books or hand-held collection terminals.
+- Measure felled logs or loads of pulpwood to calculate volume, weight, dimensions, and marketable value, using measuring devices and conversion tables.
+- Paint identification marks of specified colors on logs to identify grades or species, using spray cans, or call out grades to log markers.
+- Jab logs with metal ends of scale sticks, and inspect logs to ascertain characteristics or defects such as water damage, splits, knots, broken ends, rotten areas, twists, and curves.
+- Identify logs of substandard or special grade so that they can be returned to shippers, regraded, recut, or transferred for other processing.
+- Arrange for hauling of logs to appropriate mill sites.
+- Weigh log trucks before and after unloading, and record load weights and supplier identities.
+- Measure log lengths and mark boles for bucking into logs, according to specifications.
+- Communicate with coworkers by signals to direct log movement.
+- Drive to sawmills, wharfs, or skids to inspect logs or pulpwood.
+- Saw felled trees into lengths.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Active Listening (Importance: 3.25/5 | Level: 2.88/7)
+- Critical Thinking (Importance: 3.25/5 | Level: 3.0/7)
+- Speaking (Importance: 3.12/5 | Level: 2.88/7)
+- Active Learning (Importance: 3.0/5 | Level: 2.75/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 3.0/7)
+- Monitoring (Importance: 3.0/5 | Level: 3.0/7)
+- Writing (Importance: 3.0/5 | Level: 3.0/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Operations Monitoring (Importance: 2.88/5 | Level: 2.62/7)
+- Complex Problem Solving (Importance: 2.88/5 | Level: 2.75/7)
+- Reading Comprehension (Importance: 2.88/5 | Level: 2.88/7)
+- Time Management (Importance: 2.88/5 | Level: 2.88/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 2.75/7)
+- Persuasion (Importance: 2.75/5 | Level: 2.75/7)
+- Operation and Control (Importance: 2.75/5 | Level: 2.25/7)
+- Mathematics (Importance: 2.75/5 | Level: 2.75/7)
+- Negotiation (Importance: 2.62/5 | Level: 2.62/7)
+- Service Orientation (Importance: 2.62/5 | Level: 2.5/7)
+- Instructing (Importance: 2.5/5 | Level: 2.5/7)
+- Quality Control Analysis (Importance: 2.5/5 | Level: 2.5/7)
+- Systems Analysis (Importance: 2.5/5 | Level: 2.25/7)
+- Management of Personnel Resources (Importance: 2.38/5 | Level: 1.88/7)
+- Learning Strategies (Importance: 2.38/5 | Level: 2.12/7)
+- Systems Evaluation (Importance: 2.12/5 | Level: 2.12/7)
+- Troubleshooting (Importance: 2.0/5 | Level: 1.38/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.5/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 0.88/7)
+- Science (Importance: 1.75/5 | Level: 0.75/7)
+- Equipment Selection (Importance: 1.75/5 | Level: 1.0/7)
+- Equipment Maintenance (Importance: 1.62/5 | Level: 1.0/7)
+- Operations Analysis (Importance: 1.62/5 | Level: 0.62/7)
+- Programming (Importance: 1.5/5 | Level: 0.5/7)
+- Technology Design (Importance: 1.38/5 | Level: 0.38/7)
+- Repairing (Importance: 1.38/5 | Level: 0.75/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- AS/400 Database (Tech skill type: Data base user interface and query software)
+- Atterbury Consultants SuperACE/FLIPS (Tech skill type: Inventory management software)
+- Customer relationship management CRM software (Tech skill type: Customer relationship management CRM software)
+- Enterprise resource planning ERP software (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- 3D laser scanning systems (Tool type: Laser measuring systems)
+- Ball peen hammers (Tool type: Ball peen hammer)
+- Chain saws (Tool type: Power saws)
+- Digital measuring wheels (Tool type: Measuring wheels for distance)
+- Forestry hard hats (Tool type: Hard hats)
+- Forestry safety glasses (Tool type: Safety glasses)
+- Hand calculators (Tool type: Pocket calculator)
+- Handheld computers (Tool type: Portable data input terminals)
+- Laptop computers (Tool type: Notebook computers)
+- Light curtains (Tool type: Infrared imagers)
+- Log calipers (Tool type: Calipers)
+- Log counters (Tool type: Electronic counters)
+- Log truck scales (Tool type: Truck or rail scales)
+- Logger tapes (Tool type: Measuring tapes)
+- Lumber crayons (Tool type: Crayons)
+- Personal computers (Tool type: Personal computers)
+- Safety whistles (Tool type: Safety horns)
+- Single-bit hatchets (Tool type: Hatchets)
+- Tablet computers (Tool type: Tablet computers)
+- Tree scale sticks (Tool type: Measuring rods)
+- Wood moisture meters (Tool type: Moisture meters)
+- X-ray log scanners (Tool type: X ray radiography examination equipment)

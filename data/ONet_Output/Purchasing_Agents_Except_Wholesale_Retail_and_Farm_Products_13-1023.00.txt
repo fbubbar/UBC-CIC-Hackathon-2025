@@ -1,0 +1,136 @@
+Job Title: Purchasing Agents, Except Wholesale, Retail, and Farm Products
+O*NET-SOC Code: 13-1023.00
+
+# DESCRIPTION
+Purchase machinery, equipment, tools, parts, supplies, or services necessary for the operation of an establishment. Purchase raw or semifinished materials for manufacturing. May negotiate contracts.
+
+# TASKS
+- Monitor and follow applicable laws and regulations.
+- Prepare purchase orders, solicit bid proposals, and review requisitions for goods and services.
+- Negotiate, renegotiate, and administer contracts with suppliers, vendors, and other representatives.
+- Purchase the highest quality merchandise at the lowest possible price and in correct amounts.
+- Analyze price proposals, financial reports, and other data and information to determine reasonable prices.
+- Formulate policies and procedures for bid proposals and procurement of goods and services.
+- Hire, train, or supervise purchasing clerks, buyers, and expediters.
+- Maintain and review computerized or manual records of purchased items, costs, deliveries, product performance, and inventories.
+- Research and evaluate suppliers, based on price, quality, selection, service, support, availability, reliability, production and distribution capabilities, and the supplier's reputation and history.
+- Confer with staff, users, and vendors to discuss defective or unacceptable goods or services and determine corrective action.
+- Evaluate and monitor contract performance to ensure compliance with contractual obligations and to determine need for changes.
+- Monitor shipments to ensure that goods come in on time, and resolve problems related to undelivered goods.
+- Study sales records and inventory levels of current stock to develop strategic purchasing programs that facilitate employee access to supplies.
+- Write and review product specifications, maintaining a working technical knowledge of the goods or services to be purchased.
+- Review catalogs, industry periodicals, directories, trade journals, and Internet sites and consult with other department personnel to locate necessary goods and services.
+- Monitor changes affecting supply and demand, tracking market conditions, price trends, or futures markets.
+- Interview vendors and visit suppliers' plants and distribution centers to examine and learn about products, services, and prices.
+- Arrange the payment of duty and freight charges.
+- Attend meetings, trade shows, conferences, conventions, and seminars to network with people in other purchasing departments.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.0/7)
+- Negotiation (Importance: 4.0/5 | Level: 4.0/7)
+- Complex Problem Solving (Importance: 3.88/5 | Level: 3.88/7)
+- Speaking (Importance: 3.88/5 | Level: 4.0/7)
+- Active Listening (Importance: 3.88/5 | Level: 3.88/7)
+- Active Learning (Importance: 3.75/5 | Level: 3.88/7)
+- Management of Financial Resources (Importance: 3.75/5 | Level: 3.75/7)
+- Persuasion (Importance: 3.75/5 | Level: 4.0/7)
+- Monitoring (Importance: 3.75/5 | Level: 3.88/7)
+- Writing (Importance: 3.75/5 | Level: 3.75/7)
+- Judgment and Decision Making (Importance: 3.75/5 | Level: 3.88/7)
+- Critical Thinking (Importance: 3.75/5 | Level: 3.88/7)
+- Social Perceptiveness (Importance: 3.5/5 | Level: 3.5/7)
+- Time Management (Importance: 3.38/5 | Level: 3.88/7)
+- Instructing (Importance: 3.25/5 | Level: 3.25/7)
+- Service Orientation (Importance: 3.12/5 | Level: 3.12/7)
+- Management of Material Resources (Importance: 3.12/5 | Level: 3.25/7)
+- Management of Personnel Resources (Importance: 3.12/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 3.12/7)
+- Systems Evaluation (Importance: 3.0/5 | Level: 3.12/7)
+- Coordination (Importance: 3.0/5 | Level: 3.12/7)
+- Mathematics (Importance: 2.88/5 | Level: 2.88/7)
+- Systems Analysis (Importance: 2.62/5 | Level: 2.62/7)
+- Operations Analysis (Importance: 2.5/5 | Level: 2.38/7)
+- Quality Control Analysis (Importance: 2.25/5 | Level: 1.88/7)
+- Troubleshooting (Importance: 1.62/5 | Level: 0.75/7)
+- Operations Monitoring (Importance: 1.5/5 | Level: 0.75/7)
+- Technology Design (Importance: 1.5/5 | Level: 0.75/7)
+- Programming (Importance: 1.25/5 | Level: 0.38/7)
+- Science (Importance: 1.12/5 | Level: 0.25/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Operation and Control (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Accounting software (Tech skill type: Accounting software)
+- Adobe Acrobat (Tech skill type: Document management software)
+- Apple AppleWorks (Tech skill type: Spreadsheet software)
+- Assured Software JPP (Tech skill type: Data base user interface and query software)
+- Choice Job Cost (Tech skill type: Accounting software)
+- Construction Management Software ProEst (Tech skill type: Analytical or scientific software)
+- Corel QuattroPro (Tech skill type: Spreadsheet software)
+- Cost accounting software (Tech skill type: Accounting software)
+- Cost estimating software (Tech skill type: Financial analysis software)
+- CPR International GeneralCOST Estimator (Tech skill type: Accounting software)
+- CPR Visual Estimator (Tech skill type: Financial analysis software)
+- Database reporting software (Tech skill type: Data base reporting software)
+- Database software (Tech skill type: Data base user interface and query software)
+- Dexter + Cheney Spectrum Construction Software (Tech skill type: Project management software)
+- FileMaker Pro (Tech skill type: Data base user interface and query software)
+- Financial analysis software (Tech skill type: Financial analysis software)
+- Galorath SEER-SEM (Tech skill type: Project management software)
+- Google Ads (Tech skill type: Sales and marketing software)
+- Google Docs (Tech skill type: Word processing software)
+- IBM Cognos Impromptu (Tech skill type: Business intelligence and data analysis software)
+- IBM Costimater (Tech skill type: Financial analysis software)
+- IBM Lotus 1-2-3 (Tech skill type: Spreadsheet software)
+- IBM Notes (Tech skill type: Electronic mail software)
+- IBM Power Systems software (Tech skill type: Enterprise system management software)
+- Infor ERP SyteLine (Tech skill type: Enterprise resource planning ERP software)
+- Intuit QuickBooks (Tech skill type: Accounting software)
+- Inventory management systems (Tech skill type: Inventory management software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Dynamics (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Dynamics GP (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Word (Tech skill type: Word processing software)
+- MicroStrategy (Tech skill type: Business intelligence and data analysis software)
+- NetSuite ERP (Tech skill type: Enterprise resource planning ERP software)
+- Oracle Database (Tech skill type: Data base user interface and query software)
+- Oracle E-Business Suite Financials (Tech skill type: Financial analysis software)
+- Oracle JD Edwards EnterpriseOne (Tech skill type: Enterprise resource planning ERP software)
+- Oracle PeopleSoft (Tech skill type: Enterprise resource planning ERP software)
+- Oracle PeopleSoft Financials (Tech skill type: Enterprise resource planning ERP software)
+- Oracle Primavera Enterprise Project Portfolio Management (Tech skill type: Project management software)
+- QSM SLIM Suite (Tech skill type: Analytical or scientific software)
+- Resources Calculations Incorporated SoftCost (Tech skill type: Analytical or scientific software)
+- Sage 100 Contractor (Tech skill type: Data base user interface and query software)
+- SAP Business Objects (Tech skill type: Enterprise resource planning ERP software)
+- SAP BusinessObjects Crystal Reports (Tech skill type: Data base reporting software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- SmugMug Flickr (Tech skill type: Graphics or photo imaging software)
+- Softstar Costar COCOMO II (Tech skill type: Financial analysis software)
+- Software AG enterprise software (Tech skill type: Data base reporting software)
+- Web browser software (Tech skill type: Internet browser software)
+- WinEstimator WinEst (Tech skill type: Analytical or scientific software)
+- Xactware Xactimate (Tech skill type: Data base user interface and query software)
+
+## TOOLS USED
+- 10-key calculators (Tool type: Desktop calculator)
+- Desktop computers (Tool type: Desktop computers)
+- Laptop computers (Tool type: Notebook computers)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Multi-line telephone systems (Tool type: Special purpose telephones)
+- Personal computers (Tool type: Personal computers)
+- Personal digital assistants PDA (Tool type: Personal digital assistant PDAs or organizers)
+- Photocopying equipment (Tool type: Photocopiers)
+- Scanners (Tool type: Scanners)
+- Tablet computers (Tool type: Tablet computers)

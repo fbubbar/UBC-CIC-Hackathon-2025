@@ -1,0 +1,118 @@
+Job Title: Audiovisual Equipment Installers and Repairers
+O*NET-SOC Code: 49-2097.00
+
+# DESCRIPTION
+Install, repair, or adjust audio or television receivers, stereo systems, camcorders, video systems, or other electronic entertainment equipment in homes or other venues. May perform routine maintenance.
+
+# TASKS
+- Install, service, and repair electronic equipment or instruments such as televisions, radios, and videocassette recorders.
+- Calibrate and test equipment, and locate circuit and component faults, using hand and power tools and measuring and testing instruments such as resistance meters and oscilloscopes.
+- Confer with customers to determine the nature of problems or to explain repairs.
+- Position or mount speakers, and wire speakers to consoles.
+- Instruct customers on the safe and proper use of equipment.
+- Make service calls to repair units in customers' homes, or return units to shops for major repairs.
+- Read and interpret electronic circuit diagrams, function block diagrams, specifications, engineering drawings, and service manuals.
+- Tune or adjust equipment and instruments to obtain optimum visual or auditory reception, according to specifications, manuals, and drawings.
+- Keep records of work orders and test and maintenance reports.
+- Disassemble entertainment equipment and repair or replace loose, worn, or defective components and wiring, using hand tools and soldering irons.
+- Compute cost estimates for labor and materials.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Repairing (Importance: 3.62/5 | Level: 3.38/7)
+- Troubleshooting (Importance: 3.62/5 | Level: 3.5/7)
+- Quality Control Analysis (Importance: 3.62/5 | Level: 3.5/7)
+- Complex Problem Solving (Importance: 3.38/5 | Level: 3.12/7)
+- Equipment Maintenance (Importance: 3.38/5 | Level: 3.0/7)
+- Installation (Importance: 3.38/5 | Level: 3.25/7)
+- Speaking (Importance: 3.38/5 | Level: 3.12/7)
+- Judgment and Decision Making (Importance: 3.25/5 | Level: 2.88/7)
+- Operations Monitoring (Importance: 3.12/5 | Level: 3.0/7)
+- Critical Thinking (Importance: 3.12/5 | Level: 3.5/7)
+- Active Listening (Importance: 3.12/5 | Level: 3.25/7)
+- Reading Comprehension (Importance: 3.12/5 | Level: 3.25/7)
+- Time Management (Importance: 3.0/5 | Level: 2.88/7)
+- Service Orientation (Importance: 3.0/5 | Level: 3.0/7)
+- Equipment Selection (Importance: 3.0/5 | Level: 2.88/7)
+- Systems Analysis (Importance: 2.88/5 | Level: 2.88/7)
+- Active Learning (Importance: 2.88/5 | Level: 3.0/7)
+- Operation and Control (Importance: 2.88/5 | Level: 2.62/7)
+- Coordination (Importance: 2.88/5 | Level: 2.62/7)
+- Monitoring (Importance: 2.88/5 | Level: 2.88/7)
+- Writing (Importance: 2.75/5 | Level: 2.75/7)
+- Instructing (Importance: 2.75/5 | Level: 2.75/7)
+- Systems Evaluation (Importance: 2.75/5 | Level: 2.75/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 2.5/7)
+- Learning Strategies (Importance: 2.62/5 | Level: 2.75/7)
+- Persuasion (Importance: 2.5/5 | Level: 2.38/7)
+- Management of Personnel Resources (Importance: 2.38/5 | Level: 2.38/7)
+- Mathematics (Importance: 2.25/5 | Level: 2.25/7)
+- Management of Material Resources (Importance: 2.12/5 | Level: 1.75/7)
+- Negotiation (Importance: 2.12/5 | Level: 2.0/7)
+- Management of Financial Resources (Importance: 1.88/5 | Level: 1.38/7)
+- Operations Analysis (Importance: 1.88/5 | Level: 1.5/7)
+- Technology Design (Importance: 1.75/5 | Level: 1.0/7)
+- Science (Importance: 1.75/5 | Level: 1.38/7)
+- Programming (Importance: 1.62/5 | Level: 1.25/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Audio calibration software (Tech skill type: Analytical or scientific software)
+- Global positioning system GPS software (Tech skill type: Mobile location based services software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Word (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Adjustable hand wrenches (Tool type: Adjustable wrenches)
+- Box cutters (Tool type: Razor knives)
+- Cable flaring tools (Tool type: Flaring tool)
+- Cable pulling tools (Tool type: Wire and cable pulling device)
+- Cable ringers (Tool type: Circuit tester)
+- Cable stripping tools (Tool type: Stripping tools)
+- Coaxial cable strippers (Tool type: Stripping tools)
+- Cordless drills (Tool type: Power drills)
+- Digital multimeters (Tool type: Multimeters)
+- Digital still cameras (Tool type: Digital cameras)
+- Drywall saws (Tool type: Saws)
+- Flat head screwdrivers (Tool type: Screwdrivers)
+- Gas soldering irons (Tool type: Soldering iron)
+- Hex key sets (Tool type: Hex keys)
+- High-leverage cutters (Tool type: Wire or cable cutter)
+- Hydraulic wire crimpers (Tool type: Hydraulic hand crimp tool)
+- Installation inspection mirrors (Tool type: Inspection mirror)
+- Insulated screwdrivers (Tool type: Insulated screwdriver)
+- Insulated shears (Tool type: Insulated scissors)
+- Junior hacksaws (Tool type: Hacksaw)
+- Krone tools (Tool type: Network punchdown tool)
+- Labeling kits (Tool type: Wire labeling tool and printer)
+- Laptop computers (Tool type: Notebook computers)
+- Lighted tape measures (Tool type: Tape measures)
+- Longnosed pliers (Tool type: Longnose pliers)
+- Magnetic screwdrivers (Tool type: Screwdrivers)
+- Mains soldering irons (Tool type: Soldering iron)
+- Mains test screwdrivers (Tool type: Screwdrivers)
+- Measuring tapes (Tool type: Tape measures)
+- Mini blow torches (Tool type: Blow torch)
+- Multi-bit screwdriver sets (Tool type: Multiple tip screwdriver)
+- Nailing hammers (Tool type: Claw hammer)
+- Network cable testers (Tool type: Voice data video cable tester)
+- Nut wrenches (Tool type: Nut drivers)
+- Outlet testers (Tool type: Circuit tester)
+- Phillips head screwdrivers (Tool type: Screwdrivers)
+- Pick-up tools (Tool type: Magnetic tools)
+- Pozi screwdrivers (Tool type: Screwdrivers)
+- Rotary coaxial cable strippers (Tool type: Stripping tools)
+- Socket wrench sets (Tool type: Socket sets)
+- Sound level meters (Tool type: Sound measuring apparatus or decibel meter)
+- Spirit levels (Tool type: Levels)
+- Splicer's snips (Tool type: Wire cutters)
+- Stepladders (Tool type: Ladders)
+- Stud sensors (Tool type: Stud finders)
+- Tone and probe kits (Tool type: Circuit tracers)
+- Torque wrenches (Tool type: Torque wrenches)
+- Torx screwdrivers (Tool type: Torx keys)
+- Universal compression tools (Tool type: Hydraulic hand crimp tool)
+- Universal serial bus USB flash drives (Tool type: High capacity removable media drives)
+- Voltage detectors (Tool type: Voltage or current meters)
+- Wire cutting tools (Tool type: Wire cutters)
+- Work vans (Tool type: Minivans or vans)

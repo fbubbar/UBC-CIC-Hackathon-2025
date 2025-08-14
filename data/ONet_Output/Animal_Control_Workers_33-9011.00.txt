@@ -1,0 +1,111 @@
+Job Title: Animal Control Workers
+O*NET-SOC Code: 33-9011.00
+
+# DESCRIPTION
+Handle animals for the purpose of investigations of mistreatment, or control of abandoned, dangerous, or unattended animals.
+
+# TASKS
+- Investigate reports of animal attacks or animal cruelty, interviewing witnesses, collecting evidence, and writing reports.
+- Capture and remove stray, uncontrolled, or abused animals from undesirable conditions, using nets, nooses, or tranquilizer darts as necessary.
+- Supply animals with food, water, and personal care.
+- Write reports of activities, and maintain files of impoundments and dispositions of animals.
+- Prepare for prosecutions related to animal treatment, and give evidence in court.
+- Examine animals for injuries or malnutrition, and arrange for any necessary medical treatment.
+- Contact animal owners to inform them that their pets are at animal holding facilities.
+- Educate the public about animal welfare, and animal control laws and regulations.
+- Clean facilities and equipment such as dog pens and animal control trucks.
+- Remove captured animals from animal-control service vehicles and place animals in shelter cages or other enclosures.
+- Issue warnings or citations in connection with animal-related offenses, or contact police to report violations and request arrests.
+- Examine animal licenses, and inspect establishments housing animals for compliance with laws.
+- Euthanize rabid, unclaimed, or severely injured animals.
+- Answer inquiries from the public concerning animal control operations.
+- Organize the adoption of unclaimed animals.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Speaking (Importance: 3.75/5 | Level: 3.0/7)
+- Active Listening (Importance: 3.75/5 | Level: 3.38/7)
+- Critical Thinking (Importance: 3.5/5 | Level: 3.5/7)
+- Social Perceptiveness (Importance: 3.12/5 | Level: 2.88/7)
+- Service Orientation (Importance: 3.12/5 | Level: 2.88/7)
+- Reading Comprehension (Importance: 3.12/5 | Level: 3.0/7)
+- Active Learning (Importance: 3.0/5 | Level: 2.88/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 2.88/7)
+- Monitoring (Importance: 3.0/5 | Level: 2.88/7)
+- Writing (Importance: 3.0/5 | Level: 2.88/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 2.88/5 | Level: 2.88/7)
+- Complex Problem Solving (Importance: 2.88/5 | Level: 2.75/7)
+- Persuasion (Importance: 2.88/5 | Level: 2.88/7)
+- Negotiation (Importance: 2.62/5 | Level: 2.5/7)
+- Learning Strategies (Importance: 2.5/5 | Level: 2.62/7)
+- Instructing (Importance: 2.5/5 | Level: 2.62/7)
+- Management of Personnel Resources (Importance: 2.25/5 | Level: 2.0/7)
+- Systems Evaluation (Importance: 2.12/5 | Level: 2.12/7)
+- Systems Analysis (Importance: 2.12/5 | Level: 1.88/7)
+- Operations Monitoring (Importance: 2.0/5 | Level: 1.75/7)
+- Operation and Control (Importance: 1.88/5 | Level: 1.5/7)
+- Mathematics (Importance: 1.88/5 | Level: 1.25/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.0/7)
+- Operations Analysis (Importance: 1.75/5 | Level: 1.38/7)
+- Management of Financial Resources (Importance: 1.62/5 | Level: 0.75/7)
+- Quality Control Analysis (Importance: 1.62/5 | Level: 1.25/7)
+- Equipment Selection (Importance: 1.38/5 | Level: 0.38/7)
+- Programming (Importance: 1.38/5 | Level: 0.38/7)
+- Troubleshooting (Importance: 1.38/5 | Level: 0.38/7)
+- Science (Importance: 1.25/5 | Level: 0.25/7)
+- Technology Design (Importance: 1.25/5 | Level: 0.25/7)
+- Equipment Maintenance (Importance: 1.12/5 | Level: 0.12/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Animal Shelter Manager (Tech skill type: Data base user interface and query software)
+- ARK Software Ark Shelter Software (Tech skill type: Data base user interface and query software)
+- CISCO Software ACS Animal Control System (Tech skill type: Data base user interface and query software)
+- Esri ArcGIS (Tech skill type: Geographic information system)
+- Geographic information system GIS software (Tech skill type: Geographic information system)
+- Geographic information system GIS systems (Tech skill type: Geographic information system)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Multiple Options Animal Shelter Management System (Tech skill type: Data base user interface and query software)
+- RescueConnection Software ShelterConntection (Tech skill type: Data base user interface and query software)
+- RoseRush Services Shelter Pro (Tech skill type: Data base user interface and query software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- TRAX Animal Control and Dog Warden Officer Software (Tech skill type: Data base user interface and query software)
+- Web browser software (Tech skill type: Internet browser software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Animal cages (Tool type: Cages or its accessories)
+- Animal capture nets (Tool type: Animal control traps)
+- Animal catch poles (Tool type: Dog catching pole)
+- Animal control shotguns (Tool type: Sporting shotguns)
+- Animal traps (Tool type: Animal control traps)
+- Bat excluders (Tool type: Animal control traps)
+- Blowguns (Tool type: Compressed air gun)
+- Cable winches (Tool type: Winches)
+- Cat crates (Tool type: Animal transport cage)
+- Compact digital cameras (Tool type: Digital cameras)
+- Crimping pliers (Tool type: Crimping pliers)
+- Dog muzzles (Tool type: Muzzles)
+- Electro muscular disruption devices EMDD (Tool type: Handguns)
+- Leashes (Tool type: Leashes or leads)
+- Microchip readers (Tool type: Bar code reader equipment)
+- Mobile radios (Tool type: Two way radios)
+- Noose poles (Tool type: Dog catching pole)
+- Personal computers (Tool type: Personal computers)
+- Power lifts (Tool type: Lifts)
+- Snake hooks (Tool type: Lariats)
+- Snake tongs (Tool type: Tongs)
+- Tranquilizer guns (Tool type: Air rifles or air handguns)
+- Veterinary stethoscopes (Tool type: Medical acoustic stethoscopes)
+- Wildlife cameras (Tool type: Security cameras)
+- Work trucks (Tool type: Light trucks or sport utility vehicles)

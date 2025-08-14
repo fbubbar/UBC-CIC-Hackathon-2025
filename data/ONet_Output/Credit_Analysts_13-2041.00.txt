@@ -1,0 +1,106 @@
+Job Title: Credit Analysts
+O*NET-SOC Code: 13-2041.00
+
+# DESCRIPTION
+Analyze credit data and financial statements of individuals or firms to determine the degree of risk involved in extending credit or lending money. Prepare reports with credit information for use in decisionmaking.
+
+# TASKS
+- Analyze credit data and financial statements to determine the degree of risk involved in extending credit or lending money.
+- Complete loan applications, including credit analyses and summaries of loan requests, and submit to loan committees for approval.
+- Generate financial ratios, using computer programs, to evaluate customers' financial status.
+- Prepare reports that include the degree of risk involved in extending credit or lending money.
+- Analyze financial data, such as income growth, quality of management, and market share to determine expected profitability of loans.
+- Compare liquidity, profitability, and credit histories of establishments being evaluated with those of similar establishments in the same industries and geographic locations.
+- Consult with customers to resolve complaints and verify financial and credit transactions.
+- Contact customers to collect payments on delinquent accounts.
+- Evaluate customer records and recommend payment plans, based on earnings, savings data, payment history, and purchase activity.
+- Review individual or commercial customer files to identify and select delinquent accounts for collection.
+- Confer with credit association and other business representatives to exchange credit information.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Critical Thinking (Importance: 3.88/5 | Level: 4.0/7)
+- Active Learning (Importance: 3.62/5 | Level: 3.62/7)
+- Speaking (Importance: 3.62/5 | Level: 4.0/7)
+- Reading Comprehension (Importance: 3.62/5 | Level: 4.0/7)
+- Active Listening (Importance: 3.5/5 | Level: 4.0/7)
+- Mathematics (Importance: 3.38/5 | Level: 4.12/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 3.75/7)
+- Writing (Importance: 3.12/5 | Level: 3.88/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 2.88/7)
+- Complex Problem Solving (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 3.0/7)
+- Monitoring (Importance: 3.0/5 | Level: 3.0/7)
+- Service Orientation (Importance: 3.0/5 | Level: 3.0/7)
+- Systems Analysis (Importance: 2.75/5 | Level: 3.0/7)
+- Systems Evaluation (Importance: 2.75/5 | Level: 3.12/7)
+- Coordination (Importance: 2.62/5 | Level: 2.5/7)
+- Operations Analysis (Importance: 2.5/5 | Level: 2.38/7)
+- Persuasion (Importance: 2.38/5 | Level: 2.5/7)
+- Negotiation (Importance: 2.38/5 | Level: 2.75/7)
+- Learning Strategies (Importance: 2.38/5 | Level: 2.5/7)
+- Instructing (Importance: 2.12/5 | Level: 2.38/7)
+- Management of Personnel Resources (Importance: 2.0/5 | Level: 1.88/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.88/7)
+- Operations Monitoring (Importance: 1.75/5 | Level: 1.0/7)
+- Management of Material Resources (Importance: 1.75/5 | Level: 0.88/7)
+- Programming (Importance: 1.62/5 | Level: 1.0/7)
+- Quality Control Analysis (Importance: 1.62/5 | Level: 0.75/7)
+- Science (Importance: 1.38/5 | Level: 0.38/7)
+- Operation and Control (Importance: 1.25/5 | Level: 0.25/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Technology Design (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- CGI-AMS BureauLink Enterprise (Tech skill type: Information retrieval or search software)
+- CGI-AMS CACS Enterprise (Tech skill type: Financial analysis software)
+- CGI-AMS Strata (Tech skill type: Financial analysis software)
+- Credit adjudication and lending management system CALMS (Tech skill type: Document management software)
+- Credit and risk analysis software (Tech skill type: Financial analysis software)
+- Credit fraud detection software (Tech skill type: Financial analysis software)
+- Dun and Bradstreet Global DecisionMaker (Tech skill type: Financial analysis software)
+- eCredit Enterprise (Tech skill type: Financial analysis software)
+- Equifax Advanced Decisioning (Tech skill type: Financial analysis software)
+- Equifax Application Engine (Tech skill type: Content workflow software)
+- Equifax InterConnect (Tech skill type: Financial analysis software)
+- Experian Credinomics (Tech skill type: Financial analysis software)
+- Experian Detect (Tech skill type: Financial analysis software)
+- Experian FraudShield (Tech skill type: Financial analysis software)
+- Experian Quest (Tech skill type: Financial analysis software)
+- Experian Retention Triggers (Tech skill type: Financial analysis software)
+- Experian Strategy Management (Tech skill type: Office suite software)
+- Experian Transact SM (Tech skill type: Content workflow software)
+- Fair Isaac Application Risk Model Software (Tech skill type: Financial analysis software)
+- Fair Isaac Capstone Decision Manager (Tech skill type: Financial analysis software)
+- Fair Isaac Falcon ID (Tech skill type: Financial analysis software)
+- Microsoft Dynamics (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft SQL Server (Tech skill type: Data base user interface and query software)
+- Microsoft Visual Basic (Tech skill type: Development environment software)
+- Microsoft Visual Basic for Applications VBA (Tech skill type: Development environment software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Moody's KMV CreditEdge (Tech skill type: Financial analysis software)
+- Moody's KMV Decisions (Tech skill type: Financial analysis software)
+- Moody's KMV Financial Analyst (Tech skill type: Financial analysis software)
+- Moody's KMV Risk Advisor (Tech skill type: Financial analysis software)
+- Moody's KMV Risk Analyst (Tech skill type: Financial analysis software)
+- Oracle Business Intelligence Enterprise Edition (Tech skill type: Business intelligence and data analysis software)
+- Oracle JD Edwards EnterpriseOne (Tech skill type: Enterprise resource planning ERP software)
+- Python (Tech skill type: Object or component oriented development software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- SAS (Tech skill type: Analytical or scientific software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+
+## TOOLS USED
+- 10-key calculators (Tool type: Desktop calculator)
+- Desktop computers (Tool type: Desktop computers)
+- Notebook computers (Tool type: Notebook computers)
+- Personal computers (Tool type: Personal computers)
+- Scanners (Tool type: Scanners)

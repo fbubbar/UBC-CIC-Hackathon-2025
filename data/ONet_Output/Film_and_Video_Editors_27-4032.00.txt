@@ -1,0 +1,117 @@
+Job Title: Film and Video Editors
+O*NET-SOC Code: 27-4032.00
+
+# DESCRIPTION
+Edit moving images on film, video, or other media. May work with a producer or director to organize images for final production. May edit or synchronize soundtracks with images.
+
+# TASKS
+- Organize and string together raw footage into a continuous whole according to scripts or the instructions of directors and producers.
+- Edit films and videotapes to insert music, dialogue, and sound effects, to arrange films into sequences, and to correct errors, using editing equipment.
+- Select and combine the most effective shots of each scene to form a logical and smoothly running story.
+- Review footage sequence by sequence to become familiar with it before assembling it into a final product.
+- Set up and operate computer editing systems, electronic titling systems, video switching equipment, and digital video effects units to produce a final product.
+- Trim film segments to specified lengths and reassemble segments in sequences that present stories with maximum effect.
+- Cut shot sequences to different angles at specific points in scenes, making each individual cut as fluid and seamless as possible.
+- Review assembled films or edited videotapes on screens or monitors to determine if corrections are necessary.
+- Verify key numbers and time codes on materials.
+- Manipulate plot, score, sound, and graphics to make the parts into a continuous whole, working closely with people in audio, visual, music, optical, or special effects departments.
+- Program computerized graphic effects.
+- Study scripts to become familiar with production concepts and requirements.
+- Supervise and coordinate activities of workers engaged in film editing, assembling, and recording activities.
+- Determine the specific audio and visual effects and music necessary to complete films.
+- Mark frames where a particular shot or piece of sound is to begin or end.
+- Record needed sounds or obtain them from sound effects libraries.
+- Conduct film screenings for directors and members of production staffs.
+- Discuss the sound requirements of pictures with sound effects editors.
+- Piece sounds together to develop film soundtracks.
+- Confer with producers and directors concerning layout or editing approaches needed to increase dramatic or entertainment value of productions.
+- Develop post-production models for films.
+- Collaborate with music editors to select appropriate passages of music and develop production scores.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Active Listening (Importance: 3.75/5 | Level: 3.75/7)
+- Critical Thinking (Importance: 3.5/5 | Level: 3.5/7)
+- Reading Comprehension (Importance: 3.38/5 | Level: 3.75/7)
+- Active Learning (Importance: 3.25/5 | Level: 3.25/7)
+- Complex Problem Solving (Importance: 3.25/5 | Level: 3.12/7)
+- Speaking (Importance: 3.25/5 | Level: 3.25/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 3.12/7)
+- Time Management (Importance: 3.12/5 | Level: 3.0/7)
+- Writing (Importance: 3.12/5 | Level: 3.12/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Monitoring (Importance: 3.0/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.88/7)
+- Persuasion (Importance: 2.75/5 | Level: 3.0/7)
+- Systems Analysis (Importance: 2.75/5 | Level: 2.88/7)
+- Systems Evaluation (Importance: 2.62/5 | Level: 2.75/7)
+- Learning Strategies (Importance: 2.62/5 | Level: 2.75/7)
+- Quality Control Analysis (Importance: 2.5/5 | Level: 2.38/7)
+- Negotiation (Importance: 2.5/5 | Level: 2.62/7)
+- Service Orientation (Importance: 2.5/5 | Level: 2.62/7)
+- Instructing (Importance: 2.38/5 | Level: 2.62/7)
+- Operations Monitoring (Importance: 2.25/5 | Level: 2.12/7)
+- Management of Personnel Resources (Importance: 2.25/5 | Level: 1.88/7)
+- Operations Analysis (Importance: 2.12/5 | Level: 2.0/7)
+- Mathematics (Importance: 1.88/5 | Level: 1.75/7)
+- Troubleshooting (Importance: 1.88/5 | Level: 1.25/7)
+- Operation and Control (Importance: 1.88/5 | Level: 1.25/7)
+- Equipment Selection (Importance: 1.75/5 | Level: 1.25/7)
+- Technology Design (Importance: 1.75/5 | Level: 1.38/7)
+- Management of Material Resources (Importance: 1.62/5 | Level: 0.75/7)
+- Management of Financial Resources (Importance: 1.62/5 | Level: 0.88/7)
+- Programming (Importance: 1.5/5 | Level: 0.62/7)
+- Repairing (Importance: 1.38/5 | Level: 0.5/7)
+- Equipment Maintenance (Importance: 1.38/5 | Level: 0.5/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adobe After Effects (Tech skill type: Graphics or photo imaging software)
+- Adobe Creative Cloud software (Tech skill type: Graphics or photo imaging software)
+- Adobe Director (Tech skill type: Video creation and editing software)
+- Adobe Illustrator (Tech skill type: Graphics or photo imaging software)
+- Adobe Photoshop (Tech skill type: Graphics or photo imaging software)
+- Adobe Premiere Pro (Tech skill type: Video creation and editing software)
+- AJAX (Tech skill type: Web platform development software)
+- Apple DVD Studio Pro (Tech skill type: Video creation and editing software)
+- Apple Final Cut Pro (Tech skill type: Video creation and editing software)
+- Apple QuickTime (Tech skill type: Video creation and editing software)
+- Apple Xsan (Tech skill type: Filesystem software)
+- Autodesk Maya (Tech skill type: Computer aided design CAD software)
+- Autodesk Smoke (Tech skill type: Video creation and editing software)
+- Avid Digidesign Pro Tools (Tech skill type: Music or sound editing software)
+- Avid Technology audio visual editing software (Tech skill type: Video creation and editing software)
+- Boris FX Continuum Complete (Tech skill type: Video creation and editing software)
+- Brightcove (Tech skill type: Web page creation and editing software)
+- Cascading style sheets CSS (Tech skill type: Web platform development software)
+- DaVinci Resolve (Tech skill type: Video creation and editing software)
+- Extensible markup language XML (Tech skill type: Enterprise application integration software)
+- Google Video (Tech skill type: Web page creation and editing software)
+- Hypertext markup language HTML (Tech skill type: Web platform development software)
+- Instagram (Tech skill type: Web page creation and editing software)
+- JavaScript (Tech skill type: Web platform development software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Project management software (Tech skill type: Project management software)
+- RSS (Tech skill type: Web platform development software)
+- Screencastify (Tech skill type: Video creation and editing software)
+- Sorenson Media Sorenson Squeeze (Tech skill type: Video creation and editing software)
+- TikTok (Tech skill type: Video creation and editing software)
+- Video editing software (Tech skill type: Video creation and editing software)
+- Web browser software (Tech skill type: Internet browser software)
+- Windows Media Services (Tech skill type: Video creation and editing software)
+- YouTube (Tech skill type: Video creation and editing software)
+
+## TOOLS USED
+- Audio patch bays (Tool type: Media control systems)
+- Desktop computers (Tool type: Desktop computers)
+- Digital video disk DVD recorders (Tool type: Digital video disk players or recorders)
+- Digital video editing systems (Tool type: Video editors)
+- Laptop computers (Tool type: Notebook computers)
+- Network routers (Tool type: Network routers)
+- Personal computers (Tool type: Personal computers)
+- Video patch bays (Tool type: Media control systems)
+- YouTube.com (Tool type: Video streaming system)

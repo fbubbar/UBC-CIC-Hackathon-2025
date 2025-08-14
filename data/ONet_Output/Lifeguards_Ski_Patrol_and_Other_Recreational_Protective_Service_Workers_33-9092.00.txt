@@ -1,0 +1,106 @@
+Job Title: Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers
+O*NET-SOC Code: 33-9092.00
+
+# DESCRIPTION
+Monitor recreational areas, such as pools, beaches, or ski slopes, to provide assistance and protection to participants.
+
+# TASKS
+- Patrol or monitor recreational areas, such as trails, slopes, or swimming areas, on foot, in vehicles, or from towers.
+- Rescue distressed persons, using rescue techniques and equipment.
+- Contact emergency medical personnel in case of serious injury.
+- Examine injured persons and administer first aid or cardiopulmonary resuscitation, if necessary, using training and medical supplies and equipment.
+- Warn recreational participants of inclement weather, unsafe areas, or illegal conduct.
+- Maintain quality of pool water by testing chemical levels.
+- Complete and maintain records of weather and beach conditions, emergency medical treatments performed, and other relevant incident information.
+- Instruct participants in skiing, swimming, or other recreational activities and provide safety precaution information.
+- Inspect recreational equipment, such as rope tows, T-bars, J-bars, or chair lifts, for safety hazards and damage or wear.
+- Inspect recreational facilities for cleanliness.
+- Observe activities in assigned areas, using binoculars, to detect hazards, disturbances, or safety infractions.
+- Operate underwater recovery units.
+- Provide assistance with staff selection, training, and supervision.
+- Provide assistance in the safe use of equipment, such as ski lifts.
+- Participate in recreational demonstrations to entertain resort guests.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Monitoring (Importance: 3.75/5 | Level: 3.5/7)
+- Speaking (Importance: 3.5/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 3.38/5 | Level: 3.25/7)
+- Service Orientation (Importance: 3.25/5 | Level: 3.12/7)
+- Learning Strategies (Importance: 3.12/5 | Level: 3.0/7)
+- Active Listening (Importance: 3.12/5 | Level: 3.12/7)
+- Complex Problem Solving (Importance: 3.0/5 | Level: 2.62/7)
+- Coordination (Importance: 3.0/5 | Level: 2.88/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 3.0/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 3.0/7)
+- Reading Comprehension (Importance: 2.88/5 | Level: 2.88/7)
+- Active Learning (Importance: 2.75/5 | Level: 2.75/7)
+- Instructing (Importance: 2.75/5 | Level: 2.5/7)
+- Persuasion (Importance: 2.5/5 | Level: 2.5/7)
+- Writing (Importance: 2.5/5 | Level: 2.62/7)
+- Time Management (Importance: 2.38/5 | Level: 1.88/7)
+- Operations Monitoring (Importance: 2.12/5 | Level: 1.25/7)
+- Negotiation (Importance: 2.0/5 | Level: 2.0/7)
+- Management of Personnel Resources (Importance: 2.0/5 | Level: 2.0/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 1.38/7)
+- Quality Control Analysis (Importance: 1.88/5 | Level: 1.5/7)
+- Systems Analysis (Importance: 1.88/5 | Level: 1.12/7)
+- Troubleshooting (Importance: 1.62/5 | Level: 0.75/7)
+- Science (Importance: 1.5/5 | Level: 0.62/7)
+- Equipment Selection (Importance: 1.38/5 | Level: 0.5/7)
+- Mathematics (Importance: 1.38/5 | Level: 0.62/7)
+- Operation and Control (Importance: 1.38/5 | Level: 0.5/7)
+- Repairing (Importance: 1.25/5 | Level: 0.25/7)
+- Equipment Maintenance (Importance: 1.25/5 | Level: 0.25/7)
+- Management of Material Resources (Importance: 1.25/5 | Level: 0.38/7)
+- Operations Analysis (Importance: 1.25/5 | Level: 0.25/7)
+- Management of Financial Resources (Importance: 1.12/5 | Level: 0.12/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+- Technology Design (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- GroupMe (Tech skill type: Instant messaging software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Publisher (Tech skill type: Desktop publishing software)
+- Microsoft Word (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Air splints (Tool type: Orthopedic splint systems)
+- Automated external defibrillators AED (Tool type: Mobile medical services automated external defibrillators AED or hard paddles)
+- Avalanche beacons (Tool type: Radio frequency transmitters or receivers)
+- Chair lifts (Tool type: Manlift or personnel lift)
+- Chlorine testers (Tool type: Single gas monitors)
+- Collapsible snow shovels (Tool type: Shovels)
+- Emergency first aid kits (Tool type: Mobile medical services first aid kits)
+- Four wheel drive 4WD vehicles (Tool type: All terrain vehicles tracked or wheeled)
+- Global positioning system GPS receivers (Tool type: Global positioning system GPS receiver)
+- Handheld digital thermometers (Tool type: Handheld thermometer)
+- Ice axes (Tool type: Axes)
+- Mechanical stethoscopes (Tool type: Medical acoustic stethoscopes)
+- Mercury sphygmomanometers (Tool type: Mercury blood pressure units)
+- Mountain bikes (Tool type: Mountain bicycles)
+- Navigational compasses (Tool type: Direction finding compasses)
+- Oxygen administration sets (Tool type: Oxygen therapy delivery system products)
+- pH indicators (Tool type: pH meters)
+- Pool vacuums (Tool type: Automatic pool cleaner)
+- Public address PA systems (Tool type: Public address systems)
+- Reach poles (Tool type: Extension pole)
+- Rescue buoys (Tool type: Life rings)
+- Rescue rappel equipment (Tool type: Mobile medical services rappel kits)
+- Rescue rings (Tool type: Life rings)
+- Rescue toboggans (Tool type: Mobile medical services litter)
+- Safety harnesses (Tool type: Safety harnesses or belts)
+- Scuba suits (Tool type: Wetsuits)
+- Snow skis (Tool type: Skis)
+- Snowboards (Tool type: Snowboards)
+- Snowmobiles (Tool type: Snowmobiles or snow scooter)
+- Snowshoes (Tool type: Skis)
+- Surfboards (Tool type: Surfboards)
+- Swim fins (Tool type: Swim goggles or swim fins)
+- Tow lines (Tool type: Manlift or personnel lift)
+- Two way radios (Tool type: Two way radios)
+- Water samplers (Tool type: Water samplers)
+- Water testers (Tool type: Water analyzers)

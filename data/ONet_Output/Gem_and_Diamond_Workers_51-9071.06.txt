@@ -1,0 +1,126 @@
+Job Title: Gem and Diamond Workers
+O*NET-SOC Code: 51-9071.06
+
+# DESCRIPTION
+Fabricate, finish, or evaluate the quality of gems and diamonds used in jewelry or industrial tools.
+
+# TASKS
+- Examine gems during processing to ensure accuracy of angles and positions of cuts or bores, using magnifying glasses, loupes, or shadowgraphs.
+- Assign polish, symmetry, and clarity grades to stones, according to established grading systems.
+- Estimate wholesale and retail value of gems, following pricing guides, market fluctuations, and other relevant economic factors.
+- Examine gem surfaces and internal structures, using polariscopes, refractometers, microscopes, and other optical instruments, to differentiate between stones, to identify rare specimens, or to detect flaws, defects, or peculiarities affecting gem values.
+- Identify and document stones' clarity characteristics, using plot diagrams.
+- Advise customers and others on the best use of gems to create attractive jewelry items.
+- Examine diamonds or gems to ascertain the shape, cut, and width of cut stones, or to select the cuts that will result in the biggest, best quality stones.
+- Immerse stones in prescribed chemical solutions to determine specific gravities and key properties of gemstones or substitutes.
+- Hold stones, gems, dies, or styluses against rotating plates, wheels, saws, or slitters to cut, shape, slit, grind, or polish them.
+- Sort rough diamonds into categories based on shape, size, color, and quality.
+- Secure gems or diamonds in holders, chucks, dops, lapidary sticks, or blocks for cutting, polishing, grinding, drilling, or shaping.
+- Measure sizes of stones' bore holes and cuts to ensure adherence to specifications, using precision measuring instruments.
+- Select shaping wheels for tasks, and mix and apply abrasives, bort, or polishing compounds.
+- Dismantle lapping, boring, cutting, polishing, and shaping equipment and machinery to clean and lubricate it.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Quality Control Analysis (Importance: 3.38/5 | Level: 3.5/7)
+- Active Listening (Importance: 3.12/5 | Level: 3.0/7)
+- Speaking (Importance: 3.12/5 | Level: 3.0/7)
+- Monitoring (Importance: 3.0/5 | Level: 3.0/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 3.12/7)
+- Reading Comprehension (Importance: 2.88/5 | Level: 2.88/7)
+- Judgment and Decision Making (Importance: 2.88/5 | Level: 3.25/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 2.62/7)
+- Service Orientation (Importance: 2.75/5 | Level: 3.0/7)
+- Mathematics (Importance: 2.75/5 | Level: 2.88/7)
+- Complex Problem Solving (Importance: 2.75/5 | Level: 2.62/7)
+- Operations Monitoring (Importance: 2.75/5 | Level: 2.5/7)
+- Equipment Selection (Importance: 2.62/5 | Level: 2.5/7)
+- Coordination (Importance: 2.62/5 | Level: 2.38/7)
+- Writing (Importance: 2.62/5 | Level: 2.88/7)
+- Operations Analysis (Importance: 2.5/5 | Level: 2.38/7)
+- Time Management (Importance: 2.5/5 | Level: 2.38/7)
+- Persuasion (Importance: 2.5/5 | Level: 2.88/7)
+- Active Learning (Importance: 2.5/5 | Level: 2.62/7)
+- Negotiation (Importance: 2.25/5 | Level: 1.88/7)
+- Management of Material Resources (Importance: 2.25/5 | Level: 2.0/7)
+- Learning Strategies (Importance: 2.25/5 | Level: 2.12/7)
+- Operation and Control (Importance: 2.25/5 | Level: 2.25/7)
+- Management of Personnel Resources (Importance: 2.12/5 | Level: 2.0/7)
+- Management of Financial Resources (Importance: 2.12/5 | Level: 1.88/7)
+- Equipment Maintenance (Importance: 2.12/5 | Level: 1.75/7)
+- Instructing (Importance: 2.0/5 | Level: 1.75/7)
+- Systems Analysis (Importance: 2.0/5 | Level: 1.5/7)
+- Technology Design (Importance: 2.0/5 | Level: 1.38/7)
+- Troubleshooting (Importance: 2.0/5 | Level: 1.75/7)
+- Repairing (Importance: 1.88/5 | Level: 1.5/7)
+- Systems Evaluation (Importance: 1.88/5 | Level: 1.5/7)
+- Science (Importance: 1.38/5 | Level: 0.62/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Business accounting software (Tech skill type: Accounting software)
+- Gem identification databases (Tech skill type: Data base user interface and query software)
+- GemCad (Tech skill type: Computer aided design CAD software)
+- Inventory tracking software (Tech skill type: Inventory management software)
+- Jewelry design software (Tech skill type: Computer aided design CAD software)
+- Spectrophotometer analysis software (Tech skill type: Analytical or scientific software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Angle grinders (Tool type: Angle grinder)
+- Arbors (Tool type: Arbors)
+- Bead drilling vises (Tool type: Drill vise)
+- Belt sanders (Tool type: Belt sander)
+- Bench refractometers (Tool type: Bench refractometers or polarimeters)
+- Chipping hammers (Tool type: Hammers)
+- Crack hammers (Tool type: Hammers)
+- Cross peen hammers (Tool type: Cross and straight pein hammer)
+- Cutting laps (Tool type: Cutting machines)
+- Diamond girding lathes (Tool type: Automatic lathe or chucking machine)
+- Diamond grinders (Tool type: Grinding or polishing machines)
+- Diamond saws (Tool type: Saws)
+- Digital balances (Tool type: Laboratory balances)
+- Digital calipers (Tool type: Calipers)
+- Digital micrometers (Tool type: Micrometers)
+- Digital polariscopes (Tool type: Polariscopes)
+- Digital still cameras (Tool type: Digital cameras)
+- Faceting machines (Tool type: Faceting machines)
+- Gem drills (Tool type: Power drills)
+- Glass bevelers (Tool type: Grinding or polishing machines)
+- Glass cutting saws (Tool type: Power saws)
+- Glass polishers (Tool type: Grinding or polishing machines)
+- Grinders (Tool type: Grinders)
+- Handheld magnifiers (Tool type: Magnifiers)
+- Inspection microscopes (Tool type: Monocular microscopes)
+- Jewelers kits (Tool type: General tool kits)
+- Jewelers' hammers (Tool type: Hammers)
+- Jewelers' loupes (Tool type: Loupes)
+- Jewelers' mandrels (Tool type: Jewelry mandrels)
+- Lapidary slitters (Tool type: Power saws)
+- Lapidary units (Tool type: Faceting laps)
+- Laser engraving tools (Tool type: Engraving machines)
+- Mini bench vises (Tool type: Bench vises)
+- Mini drills (Tool type: Power drills)
+- Mini hand clamps (Tool type: Hand clamps)
+- Optically magnified facet machines (Tool type: Cutting machines)
+- Piezo microtorches (Tool type: Blow torch)
+- Polishing laps (Tool type: Grinding or polishing machines)
+- Polishing wheels (Tool type: Power buffers)
+- Precision file sets (Tool type: Precision file)
+- Precision rulers (Tool type: Rulers)
+- Precision tape measures (Tool type: Tape measures)
+- Revolving saws (Tool type: Power saws)
+- Ring saws (Tool type: Saws)
+- Rock picks (Tool type: Picks)
+- Specific gravity liquid sets (Tool type: Hydrometers)
+- Spectrophotometers (Tool type: Spectrophotometers)
+- Sphere machines (Tool type: Grinding machines)
+- Steam cleaners (Tool type: Pressure or steam cleaners)
+- Stone polishers (Tool type: Tumblers or polishers)
+- Thermal conductivity testers (Tool type: Conductivity meters)
+- Trim saws (Tool type: Power saws)
+- Ultrasonic cleaners (Tool type: Mechanical or ultrasonic metal cleaner)
+- Ultraviolet UV lights (Tool type: Ultraviolet UV lamps)
+- Vibrating laps (Tool type: Faceting laps)
+- Vibratory tumblers (Tool type: Tumblers or polishers)

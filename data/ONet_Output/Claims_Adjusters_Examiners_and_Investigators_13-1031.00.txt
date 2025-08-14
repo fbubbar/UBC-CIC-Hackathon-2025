@@ -1,0 +1,164 @@
+Job Title: Claims Adjusters, Examiners, and Investigators
+O*NET-SOC Code: 13-1031.00
+
+# DESCRIPTION
+Review settled claims to determine that payments and settlements are made in accordance with company practices and procedures. Confer with legal counsel on claims requiring litigation. May also settle insurance claims.
+
+# TASKS
+- Examine claims forms and other records to determine insurance coverage.
+- Analyze information gathered by investigation and report findings and recommendations.
+- Pay and process claims within designated authority level.
+- Investigate, evaluate, and settle claims, applying technical knowledge and human relations skills to effect fair and prompt disposal of cases and to contribute to a reduced loss ratio.
+- Verify and analyze data used in settling claims to ensure that claims are valid and that settlements are made according to company practices and procedures.
+- Review police reports, medical treatment records, medical bills, or physical property damage to determine the extent of liability.
+- Investigate and assess damage to property and create or review property damage estimates.
+- Interview or correspond with agents and claimants to correct errors or omissions and to investigate questionable claims.
+- Interview or correspond with claimants, witnesses, police, physicians, or other relevant parties to determine claim settlement, denial, or review.
+- Enter claim payments, reserves and new claims on computer system, inputting concise yet sufficient file documentation.
+- Resolve complex, severe exposure claims, using high service oriented file handling.
+- Adjust reserves or provide reserve recommendations to ensure that reserve activities are consistent with corporate policies.
+- Confer with legal counsel on claims requiring litigation.
+- Examine claims investigated by insurance adjusters, further investigating questionable claims to determine whether to authorize payments.
+- Maintain claim files, such as records of settled claims and an inventory of claims requiring detailed analysis.
+- Refer questionable claims to investigator or claims adjuster for investigation or settlement.
+- Collect evidence to support contested claims in court.
+- Contact or interview claimants, doctors, medical specialists, or employers to get additional information.
+- Present cases and participate in their discussion at claim committee meetings.
+- Report overpayments, underpayments, and other irregularities.
+- Attend mediations or trials.
+- Supervise claims adjusters to ensure that adjusters have followed proper methods.
+- Conduct detailed bill reviews to implement sound litigation management and expense control.
+- Communicate with reinsurance brokers to obtain information necessary for processing claims.
+- Prepare reports to be submitted to company's data processing department.
+- Examine titles to property to determine validity and act as company agent in transactions with property owners.
+- Obtain credit information from banks and other credit services.
+- Communicate with former associates to verify employment record or to obtain background information regarding persons or businesses applying for credit.
+- Negotiate claim settlements or recommend litigation when settlement cannot be negotiated.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Reading Comprehension (Importance: 4.12/5 | Level: 4.5/7)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.25/7)
+- Active Listening (Importance: 4.0/5 | Level: 4.25/7)
+- Speaking (Importance: 3.88/5 | Level: 4.0/7)
+- Judgment and Decision Making (Importance: 3.75/5 | Level: 3.75/7)
+- Writing (Importance: 3.62/5 | Level: 3.88/7)
+- Complex Problem Solving (Importance: 3.5/5 | Level: 3.38/7)
+- Social Perceptiveness (Importance: 3.38/5 | Level: 3.38/7)
+- Monitoring (Importance: 3.38/5 | Level: 3.88/7)
+- Active Learning (Importance: 3.25/5 | Level: 3.5/7)
+- Coordination (Importance: 3.25/5 | Level: 3.12/7)
+- Negotiation (Importance: 3.12/5 | Level: 3.25/7)
+- Service Orientation (Importance: 3.12/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 3.0/7)
+- Systems Analysis (Importance: 3.0/5 | Level: 2.62/7)
+- Persuasion (Importance: 2.88/5 | Level: 3.0/7)
+- Mathematics (Importance: 2.88/5 | Level: 2.88/7)
+- Systems Evaluation (Importance: 2.88/5 | Level: 3.12/7)
+- Management of Personnel Resources (Importance: 2.75/5 | Level: 2.75/7)
+- Quality Control Analysis (Importance: 2.62/5 | Level: 2.5/7)
+- Learning Strategies (Importance: 2.5/5 | Level: 2.75/7)
+- Instructing (Importance: 2.5/5 | Level: 2.88/7)
+- Programming (Importance: 2.12/5 | Level: 1.5/7)
+- Management of Financial Resources (Importance: 2.12/5 | Level: 1.88/7)
+- Operations Monitoring (Importance: 1.88/5 | Level: 1.25/7)
+- Technology Design (Importance: 1.75/5 | Level: 0.75/7)
+- Management of Material Resources (Importance: 1.75/5 | Level: 1.38/7)
+- Troubleshooting (Importance: 1.62/5 | Level: 0.88/7)
+- Operations Analysis (Importance: 1.5/5 | Level: 0.88/7)
+- Science (Importance: 1.38/5 | Level: 0.5/7)
+- Equipment Selection (Importance: 1.12/5 | Level: 0.38/7)
+- Operation and Control (Importance: 1.12/5 | Level: 0.25/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- 4n6xprt Systems StiffCalcs (Tech skill type: Computer aided design CAD software)
+- ADP software (Tech skill type: Enterprise resource planning ERP software)
+- Agency Management Systems AMS 360 (Tech skill type: Document management software)
+- Apple Safari (Tech skill type: Internet browser software)
+- ARSoftware WinSMAC (Tech skill type: Computer aided design CAD software)
+- AutoClaims Direct DirectLink (Tech skill type: Document management software)
+- Automatic Data Processing Autosource (Tech skill type: Document management software)
+- Automatic Data Processing Claims Manager & Dispatch (Tech skill type: Document management software)
+- Automatic Data Processing Estimating (Tech skill type: Financial analysis software)
+- Axonwave Fraud and Abuse Management System (Tech skill type: Expert system software)
+- BCCORP Burkitt W5 (Tech skill type: Document management software)
+- BCCORP W5 for Adjusters (Tech skill type: Document management software)
+- Bill review software (Tech skill type: Expert system software)
+- Bramerhill ClaimsTech (Tech skill type: Document management software)
+- Bridium Claims 3 (Tech skill type: Document management software)
+- Brightwork Alyce Claims Systems (Tech skill type: Document management software)
+- Business software applications (Tech skill type: Office suite software)
+- CAD Zone Insurance (Tech skill type: Computer aided design CAD software)
+- Captiva InputAccel (Tech skill type: Document management software)
+- Castek Insure3 Claims (Tech skill type: Document management software)
+- CCC EZNet electronic communications network (Tech skill type: Access software)
+- CCC GuidePost Decision Support (Tech skill type: Expert system software)
+- CCC Pathways Appraisal Quality Solution (Tech skill type: Enterprise resource planning ERP software)
+- CCC Pathways Image Management Solution (Tech skill type: Document management software)
+- CCC TL2000 Solution (Tech skill type: Document management software)
+- CGI INSideOUT (Tech skill type: Document management software)
+- CGI-AMS BureauLink Enterprise (Tech skill type: Information retrieval or search software)
+- Claims processing administration and management software (Tech skill type: Data base user interface and query software)
+- Clear Technology Tranzax (Tech skill type: Document management software)
+- Computerized voice stress analyzer CVSA software (Tech skill type: Interactive voice response software)
+- Corporate Systems ClaimsPro (Tech skill type: Data base reporting software)
+- Covansys ClaimConnect (Tech skill type: Document management software)
+- CSC Automated Work Distributor AWD (Tech skill type: Access software)
+- CSC Colossus (Tech skill type: Financial analysis software)
+- CSC Fault Evaluator (Tech skill type: Expert system software)
+- Datanex ClaimTrac (Tech skill type: Document management software)
+- Document management system software (Tech skill type: Document management software)
+- Fair Isaac Claims Advisor (Tech skill type: Data base user interface and query software)
+- Fair Isaac SmartAdvisor (Tech skill type: Expert system software)
+- First Notice Systems ClaimCapture (Tech skill type: Expert system software)
+- Healthcare common procedure coding system HCPCS (Tech skill type: Medical software)
+- Hummingbird Legal Bill Review (Tech skill type: Expert system software)
+- Hyland OnBase Enterprise Content Management (Tech skill type: Document management software)
+- IBM Fraud and Abuse Management System (Tech skill type: Expert system software)
+- Injury Sciences EDR InSight (Tech skill type: Analytical or scientific software)
+- Insurance claims fraud detection software (Tech skill type: Analytical or scientific software)
+- InSystems Calligo Document Management System (Tech skill type: Document management software)
+- ISO ClaimSearch (Tech skill type: Expert system software)
+- ISO NetMap for Claims (Tech skill type: Expert system software)
+- LexisNexis RiskWise (Tech skill type: Expert system software)
+- Magnify Predictive Targeting System (Tech skill type: Analytical or scientific software)
+- MapScenes Evidence Recorder (Tech skill type: Computer aided design CAD software)
+- MapScenes Pro (Tech skill type: Computer aided design CAD software)
+- Medical condition coding software (Tech skill type: Medical software)
+- Medical procedure coding software (Tech skill type: Medical software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Publisher (Tech skill type: Desktop publishing software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Mozilla Firefox (Tech skill type: Internet browser software)
+- PhotoModeler (Tech skill type: Computer aided design CAD software)
+- Property damage, bodily injury, and liability estimation software (Tech skill type: Financial analysis software)
+- QwikQuote software (Tech skill type: Financial analysis software)
+- Simsol for Adjusters (Tech skill type: Financial analysis software)
+- StrataCare StrataWare eReview (Tech skill type: Expert system software)
+- Tropics Claims Reserve Management (Tech skill type: Data base user interface and query software)
+- Turtle Creek Software Goldenseal Architect (Tech skill type: Financial analysis software)
+- Visual Statement Investigator Suite (Tech skill type: Computer aided design CAD software)
+- Xactware Xactimate (Tech skill type: Data base user interface and query software)
+- Zoom (Tech skill type: Video conferencing software)
+
+## TOOLS USED
+- Data collectors (Tool type: Portable data input terminals)
+- Desktop computers (Tool type: Desktop computers)
+- Event data recorders (Tool type: Automotive computer systems)
+- Field computers (Tool type: Portable data input terminals)
+- Handheld computers (Tool type: Portable data input terminals)
+- Measure markers (Tool type: Measuring wheels for distance)
+- Mobile wireless handheld communication devices (Tool type: Portable data input terminals)
+- Notebook computers (Tool type: Notebook computers)
+- Personal computers (Tool type: Personal computers)
+- Personal digital assistants PDA (Tool type: Personal digital assistant PDAs or organizers)
+- Scanners (Tool type: Scanners)
+- Tablet computers (Tool type: Tablet computers)
+- Total stations (Tool type: Theodolites)

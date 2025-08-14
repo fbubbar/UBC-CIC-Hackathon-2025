@@ -1,0 +1,127 @@
+Job Title: Fish and Game Wardens
+O*NET-SOC Code: 33-3031.00
+
+# DESCRIPTION
+Patrol assigned area to prevent fish and game law violations. Investigate reports of damage to crops or property by wildlife. Compile biological data.
+
+# TASKS
+- Patrol assigned areas by car, boat, airplane, horse, or on foot to enforce game, fish, or boating laws or to manage wildlife programs, lakes, or land.
+- Compile and present evidence for court actions.
+- Investigate hunting accidents or reports of fish or game law violations.
+- Protect and preserve native wildlife, plants, or ecosystems.
+- Issue warnings or citations and file reports as necessary.
+- Serve warrants and make arrests.
+- Provide assistance to other local law enforcement agencies as required.
+- Promote or provide hunter or trapper safety training.
+- Participate in search-and-rescue operations.
+- Arrange for disposition of fish or game illegally taken or possessed.
+- Seize equipment used in fish and game law violations.
+- Address schools, civic groups, sporting clubs, or the media to disseminate information concerning wildlife conservation and regulations.
+- Recommend revisions in hunting and trapping regulations or in animal management programs so that wildlife balances or habitats can be maintained.
+- Inspect commercial operations relating to fish or wildlife, recreation, or protected areas.
+- Survey areas and compile figures of bag counts of hunters to determine the effectiveness of control measures.
+- Collect and report information on populations or conditions of fish and wildlife in their habitats, availability of game food or cover, or suspected pollution.
+- Design or implement control measures to prevent or counteract damage caused by wildlife or people.
+- Provide advice or information to park or reserve visitors.
+- Investigate crop, property, or habitat damage or destruction or instances of water pollution to determine causes and to advise property owners of preventive measures.
+- Issue licenses, permits, or other documentation.
+- Document the extent of crop, property, or habitat damage and make financial loss estimates or compensation recommendations.
+- Supervise the activities of seasonal workers.
+- Perform facilities maintenance work, such as constructing or repairing structures or controlling weeds or pests.
+- Participate in firefighting efforts.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Active Listening (Importance: 3.88/5 | Level: 3.75/7)
+- Critical Thinking (Importance: 3.88/5 | Level: 4.0/7)
+- Speaking (Importance: 3.75/5 | Level: 3.62/7)
+- Reading Comprehension (Importance: 3.62/5 | Level: 4.12/7)
+- Judgment and Decision Making (Importance: 3.5/5 | Level: 3.25/7)
+- Complex Problem Solving (Importance: 3.38/5 | Level: 3.25/7)
+- Social Perceptiveness (Importance: 3.38/5 | Level: 3.5/7)
+- Persuasion (Importance: 3.38/5 | Level: 3.38/7)
+- Monitoring (Importance: 3.38/5 | Level: 3.5/7)
+- Coordination (Importance: 3.25/5 | Level: 3.38/7)
+- Writing (Importance: 3.12/5 | Level: 3.38/7)
+- Systems Analysis (Importance: 3.12/5 | Level: 3.25/7)
+- Service Orientation (Importance: 3.12/5 | Level: 3.12/7)
+- Time Management (Importance: 3.0/5 | Level: 3.0/7)
+- Systems Evaluation (Importance: 3.0/5 | Level: 3.25/7)
+- Operations Monitoring (Importance: 3.0/5 | Level: 2.62/7)
+- Active Learning (Importance: 3.0/5 | Level: 3.5/7)
+- Instructing (Importance: 3.0/5 | Level: 3.12/7)
+- Negotiation (Importance: 2.88/5 | Level: 2.88/7)
+- Learning Strategies (Importance: 2.88/5 | Level: 3.0/7)
+- Operation and Control (Importance: 2.88/5 | Level: 2.88/7)
+- Science (Importance: 2.75/5 | Level: 2.75/7)
+- Mathematics (Importance: 2.62/5 | Level: 2.88/7)
+- Quality Control Analysis (Importance: 2.5/5 | Level: 2.75/7)
+- Management of Personnel Resources (Importance: 2.5/5 | Level: 2.88/7)
+- Operations Analysis (Importance: 2.38/5 | Level: 2.5/7)
+- Troubleshooting (Importance: 2.25/5 | Level: 1.88/7)
+- Repairing (Importance: 2.0/5 | Level: 1.88/7)
+- Equipment Maintenance (Importance: 2.0/5 | Level: 1.88/7)
+- Equipment Selection (Importance: 1.88/5 | Level: 1.25/7)
+- Technology Design (Importance: 1.75/5 | Level: 0.75/7)
+- Management of Material Resources (Importance: 1.62/5 | Level: 0.62/7)
+- Management of Financial Resources (Importance: 1.62/5 | Level: 0.75/7)
+- Programming (Importance: 1.5/5 | Level: 0.5/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Customer relationship management CRM software (Tech skill type: Customer relationship management CRM software)
+- Database software (Tech skill type: Data base user interface and query software)
+- Global positioning system GPS software (Tech skill type: Mobile location based services software)
+- Mapping software (Tech skill type: Map creation software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Puppet (Tech skill type: Configuration management software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- Swift (Tech skill type: Object or component oriented development software)
+- Web browser software (Tech skill type: Internet browser software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- .40 caliber semi-automatic pistols (Tool type: Handguns)
+- 12-gauge shotguns (Tool type: Police or security shotguns)
+- Airboats (Tool type: Recreational motorboats)
+- All terrain vehicles ATV (Tool type: All terrain vehicles tracked or wheeled)
+- Animal traps (Tool type: Sporting traps)
+- Blood collection kits (Tool type: Biological evidence collection kits)
+- Canoes (Tool type: Canoes or kayaks)
+- Deoxyribonucleic acid DNA collection kits (Tool type: Biological evidence collection kits)
+- Desktop computers (Tool type: Desktop computers)
+- Digital camcorders (Tool type: Digital camcorders or video cameras)
+- Digital cameras (Tool type: Digital cameras)
+- Emergency first aid kits (Tool type: Mobile medical services first aid kits)
+- Fingerprint evidence kits (Tool type: Fingerprint latent print kits)
+- Four wheel drive 4WD vehicles (Tool type: All terrain vehicles tracked or wheeled)
+- Geodetic ground global positioning system GPS receivers (Tool type: Global positioning system GPS receiver)
+- Horse bridles (Tool type: Bridles)
+- Horse saddles (Tool type: Saddles)
+- Impression casting kits (Tool type: Footprint lifters)
+- Infrared cameras (Tool type: Infrared imagers)
+- Jet propulsion motor boats (Tool type: Recreational motorboats)
+- Jet skis (Tool type: Personal motorized watercraft)
+- Metal handcuffs (Tool type: Handcuffs)
+- Military rifles (Tool type: Military rifles)
+- Necropsy equipment (Tool type: Necropsy tables)
+- Night vision scopes (Tool type: Light enhancing cameras or vision devices)
+- Noise meters (Tool type: Sound measuring apparatus or decibel meter)
+- Patrol boats (Tool type: Recreational motorboats)
+- Pepper spray (Tool type: Hand sprayers)
+- Personal computers (Tool type: Personal computers)
+- Police rifles (Tool type: Military rifles)
+- Semiautomatic rifles (Tool type: Military rifles)
+- Service revolvers (Tool type: Handguns)
+- Shotguns (Tool type: Police or security shotguns)
+- Side-handle batons (Tool type: Riot batons)
+- Snowmobiles (Tool type: Snowmobiles or snow scooter)
+- Sonar equipment (Tool type: Sonars)
+- Sport fishing nets (Tool type: Commercial fishing nets)
+- Sport fishing reels (Tool type: Fishing reels)
+- Surveillance binoculars (Tool type: Binoculars)
+- Tranquilizer guns (Tool type: Air rifles or air handguns)
+- Two way radios (Tool type: Two way radios)

@@ -1,0 +1,170 @@
+Job Title: Commercial Divers
+O*NET-SOC Code: 49-9092.00
+
+# DESCRIPTION
+Work below surface of water, using surface-supplied air or scuba equipment to inspect, repair, remove, or install equipment and structures. May use a variety of power and hand tools, such as drills, sledgehammers, torches, and welding equipment. May conduct tests or experiments, rig explosives, or photograph structures or marine life.
+
+# TASKS
+- Take appropriate safety precautions, such as monitoring dive lengths and depths and registering with authorities before diving expeditions begin.
+- Check and maintain diving equipment, such as helmets, masks, air tanks, harnesses, or gauges.
+- Communicate with workers on the surface while underwater, using signal lines or telephones.
+- Descend into water with the aid of diver helpers, using scuba gear or diving suits.
+- Obtain information about diving tasks and environmental conditions.
+- Supervise or train other divers, including hobby divers.
+- Inspect the condition of underwater steel or wood structures.
+- Inspect and test docks, ships, buoyage systems, plant intakes or outflows, or underwater pipelines, cables, or sewers, using closed circuit television, still photography, and testing equipment.
+- Repair ships, bridge foundations, or other structures below the water line, using caulk, bolts, and hand tools.
+- Recover objects by placing rigging around sunken objects, hooking rigging to crane lines, and operating winches, derricks, or cranes to raise objects.
+- Operate underwater video, sonar, recording, or related equipment to investigate underwater structures or marine life.
+- Take test samples or photographs to assess the condition of vessels or structures.
+- Cut and weld steel, using underwater welding equipment, jigs, and supports.
+- Install, inspect, clean, or repair piping or valves.
+- Carry out non-destructive testing, such as tests for cracks on the legs of oil rigs at sea.
+- Install pilings or footings for piers or bridges.
+- Salvage wrecked ships or their cargo, using pneumatic power velocity and hydraulic tools and explosive charges, when necessary.
+- Remove obstructions from strainers or marine railway or launching ways, using pneumatic or power hand tools.
+- Set or guide placement of pilings or sandbags to provide support for structures, such as docks, bridges, cofferdams, or platforms.
+- Perform activities related to underwater search and rescue, salvage, recovery, or cleanup operations.
+- Perform offshore oil or gas exploration or extraction duties, such as conducting underwater surveys or repairing and maintaining drilling rigs or platforms.
+- Drill holes in rock and rig explosives for underwater demolitions.
+- Remove rubbish or pollution from the sea.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Critical Thinking (Importance: 3.88/5 | Level: 3.75/7)
+- Operations Monitoring (Importance: 3.75/5 | Level: 3.62/7)
+- Active Listening (Importance: 3.75/5 | Level: 3.62/7)
+- Speaking (Importance: 3.62/5 | Level: 3.38/7)
+- Quality Control Analysis (Importance: 3.5/5 | Level: 3.25/7)
+- Time Management (Importance: 3.38/5 | Level: 3.12/7)
+- Operation and Control (Importance: 3.38/5 | Level: 3.12/7)
+- Troubleshooting (Importance: 3.25/5 | Level: 3.12/7)
+- Equipment Maintenance (Importance: 3.25/5 | Level: 3.0/7)
+- Judgment and Decision Making (Importance: 3.25/5 | Level: 3.25/7)
+- Coordination (Importance: 3.25/5 | Level: 3.12/7)
+- Repairing (Importance: 3.25/5 | Level: 3.25/7)
+- Reading Comprehension (Importance: 3.25/5 | Level: 3.5/7)
+- Complex Problem Solving (Importance: 3.25/5 | Level: 3.12/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.25/7)
+- Instructing (Importance: 3.12/5 | Level: 3.12/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 3.0/7)
+- Active Learning (Importance: 3.0/5 | Level: 3.12/7)
+- Writing (Importance: 3.0/5 | Level: 3.0/7)
+- Negotiation (Importance: 3.0/5 | Level: 2.62/7)
+- Equipment Selection (Importance: 3.0/5 | Level: 2.88/7)
+- Persuasion (Importance: 2.88/5 | Level: 2.62/7)
+- Systems Analysis (Importance: 2.88/5 | Level: 2.75/7)
+- Learning Strategies (Importance: 2.88/5 | Level: 3.0/7)
+- Service Orientation (Importance: 2.75/5 | Level: 2.38/7)
+- Management of Personnel Resources (Importance: 2.75/5 | Level: 3.0/7)
+- Systems Evaluation (Importance: 2.62/5 | Level: 2.5/7)
+- Science (Importance: 2.5/5 | Level: 2.25/7)
+- Installation (Importance: 2.5/5 | Level: 2.38/7)
+- Mathematics (Importance: 2.12/5 | Level: 2.12/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.38/7)
+- Operations Analysis (Importance: 1.88/5 | Level: 1.75/7)
+- Technology Design (Importance: 1.75/5 | Level: 0.88/7)
+- Management of Financial Resources (Importance: 1.62/5 | Level: 0.88/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Diving logbook software (Tech skill type: Data base user interface and query software)
+- Diving table software (Tech skill type: Data base user interface and query software)
+- Dynamic positioning DP software (Tech skill type: Analytical or scientific software)
+- Remote operated vehicle ROV dive log software (Tech skill type: Data base user interface and query software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Adjustable crescent wrenches (Tool type: Adjustable wrenches)
+- Air tanks (Tool type: Scuba tanks)
+- Bailout bottles (Tool type: Diving instruments or accessories)
+- Barometers (Tool type: Barometers)
+- Box end wrenches (Tool type: Box end wrenches)
+- Buoyancy control devices (Tool type: Bouyancy compensators)
+- Carbon dioxide CO2 monitors (Tool type: Single gas monitors)
+- Chain hoists (Tool type: Hoists)
+- Closed circuit system helmets (Tool type: Masks or fins or snorkels)
+- Closed circuit televisions (Tool type: Closed circuit television CCTV system)
+- Closed diving bells (Tool type: Diving instruments or accessories)
+- Code alpha flags (Tool type: Diving instruments or accessories)
+- Comealongs (Tool type: Pullers)
+- Cylinder harnesses (Tool type: Diving instruments or accessories)
+- Digital thickness gauges (Tool type: Thickness measuring devices)
+- Dive computers (Tool type: Diving instruments or accessories)
+- Dive timing devices (Tool type: Clock timers)
+- Divers' knives (Tool type: Diving instruments or accessories)
+- Divers' lights (Tool type: Diving instruments or accessories)
+- Divers' safety harnesses (Tool type: Diving instruments or accessories)
+- Diving compressor systems (Tool type: Diving air pump)
+- Diving gauges (Tool type: Diving instruments or accessories)
+- Diving masks (Tool type: Masks or fins or snorkels)
+- Diving suits (Tool type: Wetsuits)
+- Dry suits (Tool type: Drysuits)
+- Emergency diver recovery hoists (Tool type: Hoists)
+- Explosive detonation devices (Tool type: Detonators)
+- Fins (Tool type: Masks or fins or snorkels)
+- Folding knives (Tool type: Utility knives)
+- Gas blending panels (Tool type: Gas mixer)
+- Gas reclaim system helmets (Tool type: Masks or fins or snorkels)
+- Hammer wrenches (Tool type: Specialty wrenches)
+- Hand winches (Tool type: Winches)
+- Hard sole wet boots (Tool type: Diving boot)
+- Heavyweight diving helmets (Tool type: Masks or fins or snorkels)
+- Hydraulic breakers (Tool type: Demolition hammers)
+- Hydraulic cutters (Tool type: Hydraulic shears)
+- Hydraulic hose reels (Tool type: Hose reel)
+- Hydraulic torque wrenches (Tool type: Torque wrenches)
+- Inflatable dive markers (Tool type: Diving instruments or accessories)
+- Jib cranes (Tool type: Jib crane)
+- Lightweight diving helmets (Tool type: Masks or fins or snorkels)
+- Magnetic particle inspectors (Tool type: Magnetic particle examination equipment)
+- Measuring jigs (Tool type: Measuring jigs)
+- Mechanical pit gauges (Tool type: Corrosion testers)
+- Mechanical sampling buckets (Tool type: Water samplers)
+- Mixed gas analysis equipment (Tool type: Multi gas monitors)
+- Open bottom diving bells (Tool type: Diving instruments or accessories)
+- Oxygen analyzers (Tool type: Oxygen gas analyzers)
+- Pry bars (Tool type: Pry bars)
+- Rebar locators (Tool type: Metal detectors)
+- Rebound hammers (Tool type: Concrete or cement testing instruments)
+- Rebreathers (Tool type: Scuba regulators)
+- Remote operated vehicles ROV (Tool type: Pick or place robots)
+- Rigging knives (Tool type: Utility knives)
+- Sample jars (Tool type: Water samplers)
+- Snorkels (Tool type: Masks or fins or snorkels)
+- Steel sledge hammers (Tool type: Sledge hammer)
+- Submersible pumps (Tool type: Submersible pumps)
+- Ultrasonic pulse velocity meters (Tool type: Ultrasonic examination equipment)
+- Ultrasonic thickness testers (Tool type: Ultrasonic examination equipment)
+- Umbilical cutters (Tool type: Wire or cable cutter)
+- Underwater blow torches (Tool type: Blow torch)
+- Underwater chainsaws (Tool type: Chain saw)
+- Underwater chipping hammers (Tool type: Power chippers)
+- Underwater compasses (Tool type: Geological compasses)
+- Underwater cutoff saws (Tool type: Power saws)
+- Underwater depth gauges (Tool type: Depth gauges)
+- Underwater flashlights (Tool type: Flashlight)
+- Underwater hammer drills (Tool type: Hammer drills)
+- Underwater hydraulic drills (Tool type: Power drills)
+- Underwater impact wrenches (Tool type: Impact wrenches)
+- Underwater jackhammers (Tool type: Pneumatic hammer)
+- Underwater power drills (Tool type: Power drills)
+- Underwater power grinders (Tool type: Power grinders)
+- Underwater pressure gauges (Tool type: Pressure gauge)
+- Underwater reciprocating saws (Tool type: Reciprocating saw)
+- Underwater recording equipment (Tool type: Underwater cameras)
+- Underwater sinker drills (Tool type: Sinker drills)
+- Underwater sonar equipment (Tool type: Sonars)
+- Underwater video cameras (Tool type: Underwater cameras)
+- Underwater video equipment (Tool type: Underwater cameras)
+- Underwater welding current breakers (Tool type: Circuit breakers)
+- Underwater welding equipment (Tool type: Shielded metal arc welding or stick welding machine)
+- Underwater welding oxygen regulators (Tool type: Welding regulator oxygen)
+- Underwater writing slates (Tool type: Diving instruments or accessories)
+- Water dredges (Tool type: Dredge pumps)
+- Water jets (Tool type: Water hoses)
+- Weight belts (Tool type: Diving instruments or accessories)
+- Welding electrode holders (Tool type: Electrode holder)
+- Wet suit gloves (Tool type: Diving instruments or accessories)
+- Wind sensors (Tool type: Anemometers)
+- Wireless communication systems (Tool type: Underwater communication system)

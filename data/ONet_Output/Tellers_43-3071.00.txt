@@ -1,0 +1,117 @@
+Job Title: Tellers
+O*NET-SOC Code: 43-3071.00
+
+# DESCRIPTION
+Receive and pay out money. Keep records of money and negotiable instruments involved in a financial institution's various transactions.
+
+# TASKS
+- Balance currency, coin, and checks in cash drawers at ends of shifts and calculate daily transactions, using computers, calculators, or adding machines.
+- Receive checks and cash for deposit, verify amounts, and check accuracy of deposit slips.
+- Monitor bank vaults to ensure cash balances are correct.
+- Cash checks and pay out money after verifying that signatures are correct, that written and numerical amounts agree, and that accounts have sufficient funds.
+- Count currency, coins, and checks received, by hand or using currency-counting machine, to prepare them for deposit or shipment to branch banks or the Federal Reserve Bank.
+- Enter customers' transactions into computers to record transactions and issue computer-generated receipts.
+- Examine checks for endorsements and to verify other information, such as dates, bank names, identification of the persons receiving payments, and the legality of the documents.
+- Resolve problems or discrepancies concerning customers' accounts.
+- Prepare and verify cashier's checks.
+- Process transactions, such as term deposits, retirement savings plan contributions, automated teller transactions, night deposits, and mail deposits.
+- Answer telephones and assist customers with their questions.
+- Identify transaction mistakes when debits and credits do not balance.
+- Carry out special services for customers, such as ordering bank cards and checks.
+- Sort and file deposit slips and checks.
+- Receive and count daily inventories of cash, drafts, and travelers' checks.
+- Order a supply of cash to meet daily needs.
+- Arrange monies received in cash boxes and coin dispensers according to denomination.
+- Receive mortgage, loan, or public utility bill payments, verifying payment dates and amounts due.
+- Explain, promote, or sell products or services, such as travelers' checks, savings bonds, money orders, and cashier's checks, using computerized information about customers to tailor recommendations.
+- Count, verify, and post armored car deposits.
+- Obtain and process information required for the provision of services, such as opening accounts, savings plans, and purchasing bonds.
+- Perform clerical tasks, such as typing, filing, and microfilm photography.
+- Compute financial fees, interest, and service charges.
+- Compose, type, and mail customer statements and other correspondence related to issues such as discrepancies and outstanding unpaid items.
+- Process and maintain records of customer loans.
+- Quote unit exchange rates, following daily international rate sheets or computer displays.
+- Issue checks to bond owners in settlement of transactions.
+- Inform customers about foreign currency regulations and compute transaction fees for currency exchanges.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Active Listening (Importance: 3.5/5 | Level: 3.62/7)
+- Speaking (Importance: 3.25/5 | Level: 3.0/7)
+- Critical Thinking (Importance: 3.12/5 | Level: 3.25/7)
+- Social Perceptiveness (Importance: 3.12/5 | Level: 3.0/7)
+- Service Orientation (Importance: 3.12/5 | Level: 3.0/7)
+- Reading Comprehension (Importance: 3.12/5 | Level: 3.25/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.12/7)
+- Writing (Importance: 3.0/5 | Level: 3.0/7)
+- Mathematics (Importance: 3.0/5 | Level: 2.75/7)
+- Time Management (Importance: 3.0/5 | Level: 2.88/7)
+- Active Learning (Importance: 2.88/5 | Level: 3.0/7)
+- Coordination (Importance: 2.88/5 | Level: 2.75/7)
+- Judgment and Decision Making (Importance: 2.88/5 | Level: 2.88/7)
+- Instructing (Importance: 2.88/5 | Level: 2.88/7)
+- Complex Problem Solving (Importance: 2.88/5 | Level: 2.88/7)
+- Persuasion (Importance: 2.75/5 | Level: 2.38/7)
+- Negotiation (Importance: 2.5/5 | Level: 2.12/7)
+- Management of Personnel Resources (Importance: 2.38/5 | Level: 2.25/7)
+- Systems Evaluation (Importance: 2.38/5 | Level: 2.25/7)
+- Learning Strategies (Importance: 2.25/5 | Level: 2.5/7)
+- Systems Analysis (Importance: 2.12/5 | Level: 2.12/7)
+- Operation and Control (Importance: 2.0/5 | Level: 1.38/7)
+- Operations Monitoring (Importance: 2.0/5 | Level: 2.0/7)
+- Quality Control Analysis (Importance: 1.88/5 | Level: 1.5/7)
+- Management of Financial Resources (Importance: 1.62/5 | Level: 1.0/7)
+- Management of Material Resources (Importance: 1.5/5 | Level: 0.88/7)
+- Troubleshooting (Importance: 1.5/5 | Level: 0.62/7)
+- Technology Design (Importance: 1.38/5 | Level: 0.5/7)
+- Programming (Importance: 1.25/5 | Level: 0.38/7)
+- Operations Analysis (Importance: 1.12/5 | Level: 0.25/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Accounting software (Tech skill type: Accounting software)
+- Email software (Tech skill type: Electronic mail software)
+- Hyland Software OnBase (Tech skill type: Document management software)
+- IBM Notes (Tech skill type: Electronic mail software)
+- Information Technology Incorporated Premier Teller (Tech skill type: Accounting software)
+- Internet browser software (Tech skill type: Internet browser software)
+- Jack Henry & Associates Vertex (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Dynamics (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Exchange (Tech skill type: Electronic mail software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Sage 50 Accounting (Tech skill type: Accounting software)
+- Southern Data Systems TellerPro (Tech skill type: Accounting software)
+- Total Turnkey Solutions E-Vision (Tech skill type: Data base user interface and query software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- 10-key calculators (Tool type: Desktop calculator)
+- Automatic teller machines ATMs (Tool type: Automatic teller machines ATMs)
+- Cash advance terminals (Tool type: Electronic funds transfer point of sale equipment)
+- Check encoders (Tool type: Check endorsing machines)
+- Check validation printers (Tool type: Multi function printers)
+- Checkwriters (Tool type: Check writing machines)
+- Currency counters (Tool type: Money counting machines)
+- Desktop computers (Tool type: Desktop computers)
+- Document printers (Tool type: Laser printers)
+- Filmers (Tool type: Microfilm cameras)
+- Journal printers (Tool type: Multi function printers)
+- Microfilmers (Tool type: Microfilm processors)
+- Official check imprinters (Tool type: Check endorsing machines)
+- Online video terminals (Tool type: Videoconferencing systems)
+- Passbook printers (Tool type: Multi function printers)
+- Personal computers (Tool type: Personal computers)
+- Receipt printers (Tool type: Point of sale POS receipt printers)
+- Scanners (Tool type: Scanners)
+- Teller alarms (Tool type: Alarm systems)
+- Teller terminals (Tool type: Mainframe console or dumb terminals)
+- Vault security alarms (Tool type: Alarm systems)

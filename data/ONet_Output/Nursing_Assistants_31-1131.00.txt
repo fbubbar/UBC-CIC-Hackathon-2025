@@ -1,0 +1,154 @@
+Job Title: Nursing Assistants
+O*NET-SOC Code: 31-1131.00
+
+# DESCRIPTION
+Provide or assist with basic care or support under the direction of onsite licensed nursing staff. Perform duties such as monitoring of health status, feeding, bathing, dressing, grooming, toileting, or ambulation of patients in a health or nursing facility. May include medication administration and other health-related tasks. Includes nursing care attendants, nursing aides, and nursing attendants.
+
+# TASKS
+- Turn or reposition bedridden patients.
+- Answer patient call signals, signal lights, bells, or intercom systems to determine patients' needs.
+- Feed patients or assist patients to eat or drink.
+- Measure and record food and liquid intake or urinary and fecal output, reporting changes to medical or nursing staff.
+- Provide physical support to assist patients to perform daily living activities, such as getting out of bed, bathing, dressing, using the toilet, standing, walking, or exercising.
+- Document or otherwise report observations of patient behavior, complaints, or physical symptoms to nurses.
+- Remind patients to take medications or nutritional supplements.
+- Review patients' dietary restrictions, food allergies, and preferences to ensure patient receives appropriate diet.
+- Undress, wash, and dress patients who are unable to do so for themselves.
+- Observe or examine patients to detect symptoms that may require medical attention, such as bruises, open wounds, or blood in urine.
+- Lift or assist others to lift patients to move them on or off beds, examination tables, surgical tables, or stretchers.
+- Supply, collect, or empty bedpans.
+- Communicate with patients to ascertain feelings or need for assistance or social and emotional support.
+- Record vital signs, such as temperature, blood pressure, pulse, or respiration rate, as directed by medical or nursing staff.
+- Gather information from caregivers, nurses, or physicians about patient condition, treatment plans, or appropriate activities.
+- Wash, groom, shave, or drape patients to prepare them for surgery, treatment, or examination.
+- Prepare or serve food trays.
+- Change bed linens or make beds.
+- Exercise patients who are comatose, paralyzed, or have restricted mobility.
+- Restock patient rooms with personal hygiene items, such as towels, washcloths, soap, or toilet paper.
+- Clean and sanitize patient rooms, bathrooms, examination rooms, or other patient areas.
+- Assist nurses or physicians in the operation of medical equipment or provision of patient care.
+- Record height or weight of patients.
+- Transport patients to treatment units, testing units, operating rooms, or other areas, using wheelchairs, stretchers, or moveable beds.
+- Collect specimens, such as urine, feces, or sputum.
+- Provide information, such as directions, visiting hours, or patient status information to visitors or callers.
+- Position or hold patients in position for surgical preparation.
+- Set up treating or testing equipment, such as oxygen tents, portable radiograph (x-ray) equipment, or overhead irrigation bottles, as directed by a physician or nurse.
+- Administer medications or treatments, such as catheterizations, suppositories, irrigations, enemas, massages, or douches, as directed by a physician or nurse.
+- Apply clean dressings, slings, stockings, or support bandages, under direction of nurse or physician.
+- Stock or issue medical supplies, such as dressing packs or treatment trays.
+- Explain medical instructions to patients or family members.
+- Transport specimens, laboratory items, or pharmacy items, ensuring proper documentation and delivery to authorized personnel.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Service Orientation (Importance: 4.0/5 | Level: 3.88/7)
+- Social Perceptiveness (Importance: 3.62/5 | Level: 3.25/7)
+- Active Listening (Importance: 3.62/5 | Level: 3.0/7)
+- Monitoring (Importance: 3.25/5 | Level: 3.0/7)
+- Coordination (Importance: 3.12/5 | Level: 3.0/7)
+- Critical Thinking (Importance: 3.12/5 | Level: 3.12/7)
+- Speaking (Importance: 3.12/5 | Level: 3.0/7)
+- Reading Comprehension (Importance: 3.12/5 | Level: 3.0/7)
+- Active Learning (Importance: 2.88/5 | Level: 2.75/7)
+- Time Management (Importance: 2.88/5 | Level: 2.25/7)
+- Judgment and Decision Making (Importance: 2.88/5 | Level: 2.5/7)
+- Writing (Importance: 2.75/5 | Level: 2.75/7)
+- Complex Problem Solving (Importance: 2.62/5 | Level: 2.25/7)
+- Instructing (Importance: 2.5/5 | Level: 2.62/7)
+- Learning Strategies (Importance: 2.38/5 | Level: 2.12/7)
+- Operations Monitoring (Importance: 2.25/5 | Level: 1.88/7)
+- Quality Control Analysis (Importance: 2.25/5 | Level: 1.88/7)
+- Mathematics (Importance: 2.12/5 | Level: 1.88/7)
+- Systems Evaluation (Importance: 2.12/5 | Level: 2.0/7)
+- Persuasion (Importance: 2.0/5 | Level: 1.75/7)
+- Management of Personnel Resources (Importance: 2.0/5 | Level: 1.88/7)
+- Systems Analysis (Importance: 2.0/5 | Level: 1.38/7)
+- Troubleshooting (Importance: 1.88/5 | Level: 0.88/7)
+- Negotiation (Importance: 1.88/5 | Level: 1.75/7)
+- Science (Importance: 1.75/5 | Level: 0.88/7)
+- Management of Material Resources (Importance: 1.62/5 | Level: 0.62/7)
+- Operation and Control (Importance: 1.62/5 | Level: 0.88/7)
+- Technology Design (Importance: 1.5/5 | Level: 0.62/7)
+- Management of Financial Resources (Importance: 1.38/5 | Level: 0.38/7)
+- Equipment Selection (Importance: 1.25/5 | Level: 0.38/7)
+- Operations Analysis (Importance: 1.12/5 | Level: 0.12/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Apache Spark (Tech skill type: Business intelligence and data analysis software)
+- Billing software (Tech skill type: Accounting software)
+- Epic Systems (Tech skill type: Medical software)
+- FaceTime (Tech skill type: Video conferencing software)
+- GE Healthcare Centricity EMR (Tech skill type: Medical software)
+- Health information database software (Tech skill type: Data base user interface and query software)
+- Medical condition coding software (Tech skill type: Medical software)
+- Medical procedure coding software (Tech skill type: Medical software)
+- Medical record charting software (Tech skill type: Medical software)
+- MEDITECH software (Tech skill type: Medical software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Word (Tech skill type: Word processing software)
+- PointClickCare healthcare software (Tech skill type: Medical software)
+- Telemetry software (Tech skill type: Medical software)
+- Web browser software (Tech skill type: Internet browser software)
+- YouTube (Tech skill type: Video creation and editing software)
+
+## TOOLS USED
+- Adjustable hospital beds (Tool type: Patient care beds for general use)
+- Anti-embolism elastic stockings (Tool type: Vascular or compression apparel or support)
+- Automated blood pressure cuffs (Tool type: Electronic blood pressure units)
+- Automated external defibrillators AED (Tool type: Mobile medical services automated external defibrillators AED or hard paddles)
+- Bed cradles (Tool type: Extremities cradles)
+- Bladder ultrasounds (Tool type: Medical ultrasound or doppler or pulse echocardiograph or echocardiograph units for general diagnostic use)
+- Blood glucometers (Tool type: Glucose monitors or meters)
+- Clinical trapeze traction bars (Tool type: Clinical trapeze bars)
+- Crutches (Tool type: Crutches)
+- Desktop computers (Tool type: Desktop computers)
+- Electronic patient thermometers (Tool type: Electronic medical thermometers)
+- Electronic stethoscopes (Tool type: Electronic stethoscopes)
+- Foot boards (Tool type: Blanket frames or lifters)
+- Gait belts (Tool type: Gait belts for rehabilitation or therapy)
+- Hospital bedpans (Tool type: Bedpans)
+- Hospital intercom equipment (Tool type: Hospital intercom systems)
+- Hydraulic patient lifts (Tool type: Clinical hydraulic lifts)
+- Incentive spirometers (Tool type: Spirometers)
+- Laptop computers (Tool type: Notebook computers)
+- Manual blood pressure equipment (Tool type: Mercury blood pressure units)
+- Mechanical stethoscopes (Tool type: Medical acoustic stethoscopes)
+- Medical examination protective gloves (Tool type: Medical exam or non surgical procedure gloves)
+- Medical gurneys (Tool type: Gurneys or scissor lifts)
+- Medical scales (Tool type: Patient floor scales)
+- Multi-line telephone systems (Tool type: Special purpose telephones)
+- Oral thermometers (Tool type: Electronic medical thermometers)
+- Orthopedic splint sets (Tool type: Orthopedic splint systems)
+- Oxygen masks (Tool type: Medical oxygen masks or parts)
+- Oxygen nasal cannulas (Tool type: Medical nasal cannulas)
+- Oxygen tanks (Tool type: Medical gas cylinders or related devices)
+- Oxygen tents (Tool type: Medical aerosol tents)
+- Oxygen therapy equipment (Tool type: Oxygen therapy delivery system products)
+- Patient arm slings (Tool type: Arm orthopedic softgoods)
+- Patient bed scales (Tool type: Patient bed or table scales for general use)
+- Patient limb restraints (Tool type: Extremity restraints)
+- Patient transfer boards (Tool type: Patient shifting boards)
+- Patient transport wheelchairs (Tool type: Wheelchairs)
+- Patient walkers (Tool type: Walkers or rollators)
+- Personal computers (Tool type: Personal computers)
+- Photocopying equipment (Tool type: Photocopiers)
+- Protective patient restraints (Tool type: Patient stabilization or fall prevention devices)
+- Pulse oximeters (Tool type: Pulse oximeter units)
+- Rectal thermometers (Tool type: Electronic medical thermometers)
+- Safety razors (Tool type: Razors)
+- Shower chairs (Tool type: Shower or bath chairs or seats for the physically challenged)
+- Specimen collection containers (Tool type: Specimen collection container)
+- Steam sterilizers (Tool type: Steam autoclaves or sterilizers)
+- Therapeutic cold packs (Tool type: Therapeutic heating or cooling pads or compresses or packs)
+- Therapeutic hot packs (Tool type: Therapeutic heating or cooling pads or compresses or packs)
+- Tympanic thermometers (Tool type: Electronic medical thermometers)
+- Urinals (Tool type: Patient urinals)
+- Urinalysis test strips (Tool type: Urinalysis test strips)
+- Urinary catheters (Tool type: Urinary catheterization kits)
+- Walking canes (Tool type: Canes)

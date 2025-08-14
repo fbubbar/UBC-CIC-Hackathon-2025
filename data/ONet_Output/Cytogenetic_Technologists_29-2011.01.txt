@@ -1,0 +1,169 @@
+Job Title: Cytogenetic Technologists
+O*NET-SOC Code: 29-2011.01
+
+# DESCRIPTION
+Analyze chromosomes or chromosome segments found in biological specimens, such as amniotic fluids, bone marrow, solid tumors, and blood to aid in the study, diagnosis, classification, or treatment of inherited or acquired genetic diseases. Conduct analyses through classical cytogenetic, fluorescent in situ hybridization (FISH) or array comparative genome hybridization (aCGH) techniques.
+
+# TASKS
+- Arrange and attach chromosomes in numbered pairs on karyotype charts, using standard genetics laboratory practices and nomenclature, to identify normal or abnormal chromosomes.
+- Count numbers of chromosomes and identify the structural abnormalities by viewing culture slides through microscopes, light microscopes, or photomicroscopes.
+- Examine chromosomes found in biological specimens to detect abnormalities.
+- Apply prepared specimen and control to appropriate grid, run instrumentation, and produce analyzable results.
+- Select appropriate culturing system or procedure based on specimen type and reason for referral.
+- Analyze chromosomes found in biological specimens to aid diagnoses and treatments for genetic diseases such as congenital disabilities, fertility problems, and hematological disorders.
+- Harvest cell cultures using substances such as mitotic arrestants, cell releasing agents, and cell fixatives.
+- Summarize test results and report to appropriate authorities.
+- Prepare biological specimens such as amniotic fluids, bone marrow, tumors, chorionic villi, and blood, for chromosome examinations.
+- Select or prepare specimens and media for cell cultures using aseptic techniques, knowledge of medium components, or cell nutritional requirements.
+- Input details of specimen processing, analysis, and technical issues into logs or laboratory information systems (LIS).
+- Prepare slides of cell cultures following standard procedures.
+- Input details of specimens into logs or computer systems.
+- Select appropriate methods of preparation and storage of media to maintain potential of hydrogen (pH), sterility, or ability to support growth.
+- Develop, implement, and monitor quality control and quality assurance programs to ensure accurate and precise test performance and reports.
+- Stain slides to make chromosomes visible for microscopy.
+- Describe chromosome, FISH and aCGH analysis results in International System of Cytogenetic Nomenclature (ISCN) language.
+- Evaluate appropriateness of received specimens for requested tests.
+- Create chromosome images using computer imaging systems.
+- Recognize and report abnormalities in the color, size, shape, composition, or pattern of cells.
+- Determine optimal time sequences and methods for manual or robotic cell harvests.
+- Communicate to responsible parties unacceptable specimens and suggest remediation for future submissions.
+- Select banding methods to permit identification of chromosome pairs.
+- Maintain laboratory equipment such as photomicroscopes, inverted microscopes, and standard darkroom equipment.
+- Identify appropriate methods of specimen collection, preservation, or transport.
+- Archive case documentation and study materials as required by regulations and laws.
+- Supervise subordinate laboratory staff.
+- Develop and implement training programs for trainees, medical students, resident physicians or post-doctoral fellows.
+- Communicate test results or technical information to patients, physicians, family members, or researchers.
+- Extract, measure, dilute as appropriate, label, and prepare DNA for array analysis.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Critical Thinking (Importance: 3.88/5 | Level: 4.0/7)
+- Reading Comprehension (Importance: 3.88/5 | Level: 4.5/7)
+- Writing (Importance: 3.75/5 | Level: 4.0/7)
+- Speaking (Importance: 3.62/5 | Level: 4.0/7)
+- Active Listening (Importance: 3.62/5 | Level: 4.0/7)
+- Judgment and Decision Making (Importance: 3.5/5 | Level: 3.25/7)
+- Complex Problem Solving (Importance: 3.38/5 | Level: 3.38/7)
+- Science (Importance: 3.25/5 | Level: 3.75/7)
+- Active Learning (Importance: 3.25/5 | Level: 3.38/7)
+- Time Management (Importance: 3.12/5 | Level: 3.12/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.38/7)
+- Systems Analysis (Importance: 3.0/5 | Level: 3.0/7)
+- Mathematics (Importance: 3.0/5 | Level: 3.0/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 3.0/7)
+- Instructing (Importance: 2.88/5 | Level: 3.12/7)
+- Operations Monitoring (Importance: 2.88/5 | Level: 2.62/7)
+- Systems Evaluation (Importance: 2.88/5 | Level: 2.88/7)
+- Learning Strategies (Importance: 2.88/5 | Level: 3.0/7)
+- Quality Control Analysis (Importance: 2.88/5 | Level: 2.88/7)
+- Service Orientation (Importance: 2.75/5 | Level: 2.88/7)
+- Management of Personnel Resources (Importance: 2.75/5 | Level: 2.88/7)
+- Persuasion (Importance: 2.38/5 | Level: 2.38/7)
+- Negotiation (Importance: 2.12/5 | Level: 2.12/7)
+- Operation and Control (Importance: 2.12/5 | Level: 2.12/7)
+- Operations Analysis (Importance: 2.0/5 | Level: 1.25/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.25/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.38/7)
+- Troubleshooting (Importance: 2.0/5 | Level: 1.12/7)
+- Equipment Maintenance (Importance: 1.75/5 | Level: 0.88/7)
+- Equipment Selection (Importance: 1.62/5 | Level: 0.88/7)
+- Repairing (Importance: 1.62/5 | Level: 0.62/7)
+- Technology Design (Importance: 1.5/5 | Level: 0.75/7)
+- Programming (Importance: 1.38/5 | Level: 0.5/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adobe Illustrator (Tech skill type: Graphics or photo imaging software)
+- C++ (Tech skill type: Object or component oriented development software)
+- Cell Bioscience Automated Image Capture (Tech skill type: Analytical or scientific software)
+- Customer relationship management CRM software (Tech skill type: Customer relationship management CRM software)
+- Digital karyotyping software (Tech skill type: Analytical or scientific software)
+- Genetix CytoVision (Tech skill type: Analytical or scientific software)
+- Genial Genetics iPassport QMS (Tech skill type: Data base user interface and query software)
+- Genial Genetics Shire (Tech skill type: Data base user interface and query software)
+- Geniel Genetics iGene (Tech skill type: Analytical or scientific software)
+- Image analysis software (Tech skill type: Analytical or scientific software)
+- Image capture software (Tech skill type: Analytical or scientific software)
+- KARIO (Tech skill type: Analytical or scientific software)
+- Lucia CGH (Tech skill type: Analytical or scientific software)
+- Lucia Comet Assay (Tech skill type: Analytical or scientific software)
+- Lucia FISH (Tech skill type: Analytical or scientific software)
+- Lucia Karyo (Tech skill type: Analytical or scientific software)
+- Lucia Metaphase Finder (Tech skill type: Analytical or scientific software)
+- LUCIA MFISH (Tech skill type: Analytical or scientific software)
+- MetaSystems Isis Color Karyotyping (Tech skill type: Analytical or scientific software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Python (Tech skill type: Object or component oriented development software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- 1 ml pipettes (Tool type: Dropping pipettes)
+- 10 ml pipettes (Tool type: Dropping pipettes)
+- 2 ml cryovials (Tool type: Laboratory vials)
+- 25 ml pipettes (Tool type: Dropping pipettes)
+- 35m petri dishes (Tool type: Petri plates or dishes)
+- 4 ml cryovials (Tool type: Laboratory vials)
+- Automated imaging systems (Tool type: Fluorescent microscopes)
+- Automatic slide loading systems (Tool type: Histological staining apparatus)
+- Bench-top autoclaves (Tool type: Steam autoclaves or sterilizers)
+- Benchtop drying chambers (Tool type: Slide dryers)
+- Binocular compound microscopes (Tool type: Binocular light compound microscopes)
+- Biological containment hoods (Tool type: Fume hoods or cupboards)
+- Biological safety cabinets (Tool type: Sterilization cabinets)
+- Cell culture tubes (Tool type: Culture tubes)
+- Cell harvesters (Tool type: Ultrasonic disintegrators)
+- Computerized karotype equipment (Tool type: Deoxyribonucleic sequence analyzers)
+- Counting chambers (Tool type: Counters)
+- Denaturation/hybridization systems (Tool type: Hybridization ovens or incubators)
+- Desktop computers (Tool type: Desktop computers)
+- Digital cameras (Tool type: Digital cameras)
+- Digital image printers (Tool type: Digital image printers)
+- Flat bottom microtiter plates (Tool type: Multiwell plates)
+- Floor model drying chambers (Tool type: Slide dryers)
+- Fluorescent in situ hybridization FISH automation instruments (Tool type: Deoxyribonucleic sequence analyzers)
+- Fluorescent microscopes (Tool type: Fluorescent microscopes)
+- Glass flasks (Tool type: Laboratory flasks)
+- Glass water distillers (Tool type: Distillation pipings or columns or fittings)
+- Heated magnetic stirrers (Tool type: Magnetic stirrers)
+- Hot air sterilizers (Tool type: Dry heat or hot air sterilizers)
+- Hybridization ovens (Tool type: Hybridization ovens or incubators)
+- Incubators (Tool type: Dry wall single chamber carbon dioxide incubators)
+- Interferometers (Tool type: Interferometers)
+- Inverted compound microscopes (Tool type: Inverted microscopes)
+- Laboratory freezers (Tool type: Ultra cold or ultralow upright cabinets or freezers)
+- Laboratory microwave ovens (Tool type: Laboratory microwave ovens)
+- Laboratory refrigerators (Tool type: General purpose refrigerators or refrigerator freezers)
+- Liquid nitrogen containers (Tool type: Cryogenic or liquid nitrogen freezers)
+- Low speed refrigerated centrifuges (Tool type: Refrigerated benchtop centrifuges)
+- Masks (Tool type: Surgical isolation or surgical masks)
+- Media filtration systems (Tool type: Laboratory filtration hardware or accessories)
+- Mercury vapor lamps (Tool type: Mercury vapor lamp HID)
+- Metaphase finding system software (Tool type: Deoxyribonucleic sequence analyzers)
+- Microarray scanners (Tool type: Scanners)
+- Microscope camera adapters (Tool type: Photo attachments for microscopes)
+- Microscope filters (Tool type: Microscope condensers)
+- Microscope slides (Tool type: Microscope slides)
+- pH meters (Tool type: pH meters)
+- Phase contrast microscopes (Tool type: Darkfield microscopes)
+- Photomicroscopes (Tool type: Photo attachments for microscopes)
+- Pipette aids (Tool type: Pipette bulbs)
+- Reference thermometers (Tool type: Laboratory incubator thermometers)
+- Robotic harvesters (Tool type: Ultrasonic disintegrators)
+- Safety gloves (Tool type: Protective gloves)
+- Slide cassettes (Tool type: Microscope slide racks)
+- Slide sorters (Tool type: Microscope slide racks)
+- Steam autoclaves (Tool type: Steam autoclaves or sterilizers)
+- Stereo microscopes (Tool type: Stereo or dissecting light microscopes)
+- Tachometers (Tool type: Tachometers)
+- Test tube racks (Tool type: Test tube racks)
+- Ultrasonic sterilization units (Tool type: Ultrasonic cleaning equipment)
+- Uncooled charge-coupled device cameras (Tool type: Digital cameras)
+- Vortex mixers (Tool type: Vortex mixers)
+- Water baths (Tool type: Water baths)
+- Water deionizers (Tool type: Ion exchange apparatus)

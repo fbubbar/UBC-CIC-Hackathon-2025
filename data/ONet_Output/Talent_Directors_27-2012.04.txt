@@ -1,0 +1,92 @@
+Job Title: Talent Directors
+O*NET-SOC Code: 27-2012.04
+
+# DESCRIPTION
+Audition and interview performers to select most appropriate talent for parts in stage, television, radio, or motion picture productions.
+
+# TASKS
+- Audition and interview performers to match their attributes to specific roles or to increase the pool of available acting talent.
+- Prepare actors for auditions by providing scripts and information about roles and casting requirements.
+- Select performers for roles or submit lists of suitable performers to producers or directors for final selection.
+- Contact agents and actors to provide notification of audition and performance opportunities and to set up audition times.
+- Serve as liaisons between directors, actors, and agents.
+- Negotiate contract agreements with performers, with agents, or between performers and agents or production companies.
+- Arrange for or design screen tests or auditions for prospective performers.
+- Review performer information, such as photos, resumes, voice tapes, videos, and union membership, to decide whom to audition for parts.
+- Maintain talent files that include information such as performers' specialties, past performances, and availability.
+- Read scripts and confer with producers to determine the types and numbers of performers required for a given production.
+- Attend or view productions to maintain knowledge of available actors.
+- Direct shows, productions, and plays.
+- Hire and supervise workers who help locate people with specified attributes and talents.
+- Teach acting classes.
+- Locate performers or extras for crowd and background scenes, and stand-ins or photo doubles for actors, by direct contact or through agents.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Speaking (Importance: 4.0/5 | Level: 4.0/7)
+- Active Listening (Importance: 4.0/5 | Level: 4.0/7)
+- Critical Thinking (Importance: 3.88/5 | Level: 4.0/7)
+- Social Perceptiveness (Importance: 3.88/5 | Level: 3.75/7)
+- Reading Comprehension (Importance: 3.88/5 | Level: 4.0/7)
+- Judgment and Decision Making (Importance: 3.88/5 | Level: 3.5/7)
+- Monitoring (Importance: 3.38/5 | Level: 3.62/7)
+- Negotiation (Importance: 3.38/5 | Level: 3.75/7)
+- Writing (Importance: 3.25/5 | Level: 3.25/7)
+- Complex Problem Solving (Importance: 3.25/5 | Level: 3.25/7)
+- Coordination (Importance: 3.25/5 | Level: 3.38/7)
+- Time Management (Importance: 3.25/5 | Level: 3.0/7)
+- Persuasion (Importance: 3.12/5 | Level: 3.25/7)
+- Active Learning (Importance: 3.0/5 | Level: 3.12/7)
+- Instructing (Importance: 3.0/5 | Level: 3.0/7)
+- Management of Personnel Resources (Importance: 3.0/5 | Level: 3.0/7)
+- Service Orientation (Importance: 2.75/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 2.75/5 | Level: 2.62/7)
+- Systems Analysis (Importance: 2.62/5 | Level: 2.88/7)
+- Systems Evaluation (Importance: 2.38/5 | Level: 2.62/7)
+- Operations Analysis (Importance: 2.12/5 | Level: 2.0/7)
+- Mathematics (Importance: 2.0/5 | Level: 1.88/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.75/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.38/7)
+- Programming (Importance: 1.62/5 | Level: 0.62/7)
+- Technology Design (Importance: 1.5/5 | Level: 0.5/7)
+- Science (Importance: 1.5/5 | Level: 0.5/7)
+- Quality Control Analysis (Importance: 1.5/5 | Level: 0.62/7)
+- Operations Monitoring (Importance: 1.38/5 | Level: 0.5/7)
+- Troubleshooting (Importance: 1.25/5 | Level: 0.25/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Operation and Control (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- AgencyPro (Tech skill type: Data base user interface and query software)
+- Amazon Web Services AWS software (Tech skill type: Data base user interface and query software)
+- Appointment scheduling software (Tech skill type: Calendar and scheduling software)
+- Blogging software (Tech skill type: Web page creation and editing software)
+- Database software (Tech skill type: Data base user interface and query software)
+- Email software (Tech skill type: Electronic mail software)
+- Linux (Tech skill type: Operating system software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft operating system (Tech skill type: Operating system software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- Oracle JavaServer Pages JSP (Tech skill type: Web platform development software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- UNIX (Tech skill type: Operating system software)
+- Video content editing software (Tech skill type: Video creation and editing software)
+- Web browser software (Tech skill type: Internet browser software)
+- Website development software (Tech skill type: Web page creation and editing software)
+
+## TOOLS USED
+- Computer data input scanners (Tool type: Scanners)
+- Desktop computers (Tool type: Desktop computers)
+- Digital video cameras (Tool type: Digital camcorders or video cameras)
+- Digital video disk DVD players (Tool type: Digital video disk players or recorders)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Multi-line telephone systems (Tool type: Special purpose telephones)
+- Personal computers (Tool type: Personal computers)
+- Tablet computers (Tool type: Tablet computers)

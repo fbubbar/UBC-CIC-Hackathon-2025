@@ -1,0 +1,142 @@
+Job Title: Coroners
+O*NET-SOC Code: 13-1041.06
+
+# DESCRIPTION
+Direct activities such as autopsies, pathological and toxicological analyses, and inquests relating to the investigation of deaths occurring within a legal jurisdiction to determine cause of death or to fix responsibility for accidental, violent, or unexplained deaths.
+
+# TASKS
+- Complete death certificates, including the assignment of cause and manner of death.
+- Perform medicolegal examinations and autopsies, conducting preliminary examinations of the body to identify victims, locate signs of trauma, and identify factors that would indicate time of death.
+- Interview persons present at death scenes to obtain information useful in determining the manner of death.
+- Observe and record the positions and conditions of bodies and related evidence.
+- Provide information concerning the circumstances of death to relatives of the deceased.
+- Remove or supervise removal of bodies from death scenes, using the proper equipment and supplies, and arrange for transportation to morgues.
+- Inquire into the cause, manner, and circumstances of human deaths and establish the identities of deceased persons.
+- Observe, record, and preserve any objects or personal property related to deaths, including objects such as medication containers and suicide notes.
+- Complete reports and forms required to finalize cases.
+- Arrange for the next of kin to be notified of deaths.
+- Locate and document information regarding the next of kin, including their relationship to the deceased and the status of notification attempts.
+- Collect and document any pertinent medical history information.
+- Inventory personal effects recovered from bodies, such as jewelry or wallets.
+- Direct activities of workers conducting autopsies, performing pathological and toxicological analyses, and preparing documents for permanent records.
+- Coordinate the release of personal effects to authorized persons and facilitate the disposition of unclaimed corpses and personal effects.
+- Witness and certify deaths that are the result of a judicial order.
+- Testify at inquests, hearings, and court trials.
+- Confer with officials of public health and law enforcement agencies to coordinate interdepartmental activities.
+- Collect wills, burial instructions, and other documentation needed for investigations and for handling of the remains.
+- Record the disposition of minor children, as well as details of arrangements made for their care.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Speaking (Importance: 4.12/5 | Level: 4.0/7)
+- Critical Thinking (Importance: 4.12/5 | Level: 4.0/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.5/7)
+- Active Listening (Importance: 3.88/5 | Level: 4.0/7)
+- Coordination (Importance: 3.75/5 | Level: 3.5/7)
+- Writing (Importance: 3.62/5 | Level: 4.0/7)
+- Social Perceptiveness (Importance: 3.62/5 | Level: 3.88/7)
+- Judgment and Decision Making (Importance: 3.5/5 | Level: 3.75/7)
+- Active Learning (Importance: 3.38/5 | Level: 3.88/7)
+- Complex Problem Solving (Importance: 3.38/5 | Level: 3.0/7)
+- Monitoring (Importance: 3.25/5 | Level: 3.5/7)
+- Science (Importance: 3.25/5 | Level: 3.75/7)
+- Learning Strategies (Importance: 3.12/5 | Level: 3.12/7)
+- Time Management (Importance: 3.12/5 | Level: 3.0/7)
+- Service Orientation (Importance: 3.12/5 | Level: 3.12/7)
+- Instructing (Importance: 3.0/5 | Level: 3.12/7)
+- Mathematics (Importance: 2.62/5 | Level: 2.62/7)
+- Negotiation (Importance: 2.62/5 | Level: 2.75/7)
+- Systems Analysis (Importance: 2.62/5 | Level: 2.75/7)
+- Persuasion (Importance: 2.62/5 | Level: 2.75/7)
+- Management of Personnel Resources (Importance: 2.5/5 | Level: 2.75/7)
+- Systems Evaluation (Importance: 2.25/5 | Level: 2.25/7)
+- Quality Control Analysis (Importance: 2.12/5 | Level: 2.0/7)
+- Operations Monitoring (Importance: 2.0/5 | Level: 2.0/7)
+- Operation and Control (Importance: 2.0/5 | Level: 2.0/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.38/7)
+- Equipment Selection (Importance: 1.75/5 | Level: 1.0/7)
+- Management of Financial Resources (Importance: 1.62/5 | Level: 1.0/7)
+- Programming (Importance: 1.5/5 | Level: 0.5/7)
+- Operations Analysis (Importance: 1.5/5 | Level: 0.62/7)
+- Technology Design (Importance: 1.5/5 | Level: 0.62/7)
+- Troubleshooting (Importance: 1.5/5 | Level: 0.5/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- 3D graphics software (Tech skill type: Graphics or photo imaging software)
+- Alcestis (Tech skill type: Data base user interface and query software)
+- Autopsy information databases (Tech skill type: Data base user interface and query software)
+- Bite analysis software (Tech skill type: Analytical or scientific software)
+- Corel WordPerfect Office Suite (Tech skill type: Office suite software)
+- Customer relationship management CRM software (Tech skill type: Customer relationship management CRM software)
+- Douglas Associates Forensic Filer (Tech skill type: Data base user interface and query software)
+- Email software (Tech skill type: Electronic mail software)
+- EMC Documentum (Tech skill type: Document management software)
+- Fingerprint databases (Tech skill type: Data base user interface and query software)
+- Genetic database software (Tech skill type: Data base user interface and query software)
+- Git (Tech skill type: File versioning software)
+- Google Android (Tech skill type: Operating system software)
+- Graphics software (Tech skill type: Graphics or photo imaging software)
+- Ingenuware CoronerBase (Tech skill type: Data base user interface and query software)
+- Linux (Tech skill type: Operating system software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft SQL Server Reporting Services SSRS (Tech skill type: Data base reporting software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Mideo Systems EZDoc Plus (Tech skill type: Graphics or photo imaging software)
+- Rapid Medical Examiners System (Tech skill type: Data base user interface and query software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Toxicology databases (Tech skill type: Data base user interface and query software)
+- Transact-SQL (Tech skill type: Data base user interface and query software)
+- UNIX (Tech skill type: Operating system software)
+- Web browser software (Tech skill type: Internet browser software)
+- Word processing software (Tech skill type: Word processing software)
+- Zoom (Tech skill type: Video conferencing software)
+
+## TOOLS USED
+- 35 millimeter cameras (Tool type: Still cameras)
+- Autopsy bone saws (Tool type: Autopsy saws)
+- Autopsy evidence collection kits (Tool type: Biological evidence collection kits)
+- Autopsy fluid collection vacuum aspirators (Tool type: Autopsy fluid collection vacuum aspirators or tubing)
+- Autopsy knives (Tool type: Autopsy knives or blades)
+- Autopsy saws (Tool type: Autopsy saws)
+- Autopsy scissors (Tool type: Autopsy scissors)
+- Binocular light compound microscopes (Tool type: Binocular light compound microscopes)
+- Bone cutters (Tool type: Autopsy saws)
+- Bone dust collectors (Tool type: Bone dust collectors)
+- Cadaver lifts (Tool type: Cadaver lifter or transfer devices)
+- Desktop computers (Tool type: Desktop computers)
+- Dictation equipment (Tool type: Dictation machines)
+- Digital autopsy scales (Tool type: Autopsy hanging scales)
+- Digital cameras (Tool type: Digital cameras)
+- Digital video cameras (Tool type: Digital camcorders or video cameras)
+- Dissecting knives (Tool type: Autopsy knives or blades)
+- Dissection forceps (Tool type: Autopsy dissection forceps for general use)
+- Dissection scissors (Tool type: Autopsy scissors)
+- Enterotomes (Tool type: Autopsy scissors)
+- Floor scales (Tool type: Floor or platform scales)
+- Laptop computers (Tool type: Notebook computers)
+- Microscope slides (Tool type: Microscope slides)
+- Personal computers (Tool type: Personal computers)
+- Portable x ray machines (Tool type: Medical x ray units for general diagnostic use)
+- Postmortem blood drawing syringes (Tool type: Postmortem blood detection kits or supplies)
+- Postmortem fingerprint equipment (Tool type: Postmortem fingerprint or impression materials)
+- Postmortem suturing needles (Tool type: Postmortem needles)
+- Protective coveralls (Tool type: Medical staff aprons or bibs)
+- Protective eye shields (Tool type: Facial shields)
+- Rib cutters (Tool type: Autopsy saws)
+- Skull chisels (Tool type: Autopsy chisels or osteotomes)
+- Specimen collection containers (Tool type: Autopsy specimen bags or containers)
+- Specimen scales (Tool type: Autopsy hanging scales)
+- Staining dishes (Tool type: Laboratory staining dishes or jars)
+- Stryker saws (Tool type: Autopsy saws)
+- Surgical gloves (Tool type: Surgical gloves)
+- Surgical masks (Tool type: Surgical isolation or surgical masks)
+- Surgical scalpels (Tool type: Surgical scalpels or knives or blades or trephines)
+- Tabletop centrifuges (Tool type: Benchtop centrifuges)
+- Toothed forceps (Tool type: Autopsy dissection forceps for general use)
+- Triple beam balances (Tool type: Triple beam balances)

@@ -1,0 +1,150 @@
+Job Title: Dermatologists
+O*NET-SOC Code: 29-1213.00
+
+# DESCRIPTION
+Diagnose and treat diseases relating to the skin, hair, and nails. May perform both medical and dermatological surgery functions.
+
+# TASKS
+- Conduct complete skin examinations.
+- Diagnose and treat pigmented lesions such as common acquired nevi, congenital nevi, dysplastic nevi, Spitz nevi, blue nevi, or melanoma.
+- Perform incisional biopsies to diagnose melanoma.
+- Perform skin surgery to improve appearance, make early diagnoses, or control diseases such as skin cancer.
+- Counsel patients on topics such as the need for annual dermatologic screenings, sun protection, skin cancer awareness, or skin and lymph node self-examinations.
+- Diagnose and treat skin conditions such as acne, dandruff, athlete's foot, moles, psoriasis, or skin cancer.
+- Record patients' health histories.
+- Recommend diagnostic tests based on patients' histories and physical examination findings.
+- Prescribe hormonal agents or topical treatments such as contraceptives, spironolactone, antiandrogens, oral corticosteroids, retinoids, benzoyl peroxide, or antibiotics.
+- Conduct or order diagnostic tests such as chest radiographs (x-rays), microbiologic tests, or endocrinologic tests.
+- Read current literature, talk with colleagues, and participate in professional organizations or conferences to keep abreast of developments in dermatology.
+- Provide dermatologic consultation to other health professionals.
+- Refer patients to other specialists, as needed.
+- Instruct interns or residents in diagnosis and treatment of dermatological diseases.
+- Provide therapies such as intralesional steroids, chemical peels, or comodo removal to treat age spots, sun damage, rough skin, discolored skin, or oily skin.
+- Provide dermabrasion or laser abrasion to treat atrophic scars, elevated scars, or other skin conditions.
+- Conduct clinical or basic research.
+- Evaluate patients to determine eligibility for cosmetic procedures such as liposuction, laser resurfacing, or microdermabrasion.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Critical Thinking (Importance: 4.12/5 | Level: 4.25/7)
+- Service Orientation (Importance: 4.0/5 | Level: 4.0/7)
+- Active Listening (Importance: 4.0/5 | Level: 4.12/7)
+- Speaking (Importance: 3.88/5 | Level: 4.0/7)
+- Social Perceptiveness (Importance: 3.88/5 | Level: 4.0/7)
+- Reading Comprehension (Importance: 3.88/5 | Level: 4.88/7)
+- Active Learning (Importance: 3.75/5 | Level: 3.88/7)
+- Judgment and Decision Making (Importance: 3.75/5 | Level: 4.0/7)
+- Science (Importance: 3.62/5 | Level: 3.75/7)
+- Monitoring (Importance: 3.5/5 | Level: 3.88/7)
+- Writing (Importance: 3.5/5 | Level: 4.0/7)
+- Complex Problem Solving (Importance: 3.5/5 | Level: 3.88/7)
+- Persuasion (Importance: 3.25/5 | Level: 3.62/7)
+- Instructing (Importance: 3.25/5 | Level: 3.88/7)
+- Coordination (Importance: 3.25/5 | Level: 3.88/7)
+- Learning Strategies (Importance: 3.12/5 | Level: 3.25/7)
+- Negotiation (Importance: 3.12/5 | Level: 3.12/7)
+- Time Management (Importance: 3.12/5 | Level: 3.12/7)
+- Management of Personnel Resources (Importance: 3.0/5 | Level: 3.0/7)
+- Systems Evaluation (Importance: 2.88/5 | Level: 3.12/7)
+- Systems Analysis (Importance: 2.75/5 | Level: 3.12/7)
+- Mathematics (Importance: 2.25/5 | Level: 2.5/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.25/7)
+- Operations Monitoring (Importance: 2.0/5 | Level: 1.38/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.88/7)
+- Programming (Importance: 1.88/5 | Level: 1.12/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.0/7)
+- Operations Analysis (Importance: 1.88/5 | Level: 1.62/7)
+- Quality Control Analysis (Importance: 1.75/5 | Level: 1.5/7)
+- Troubleshooting (Importance: 1.38/5 | Level: 0.38/7)
+- Operation and Control (Importance: 1.25/5 | Level: 0.38/7)
+- Equipment Selection (Importance: 1.25/5 | Level: 0.5/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Allscripts PM (Tech skill type: Medical software)
+- athenahealth athenaCollector (Tech skill type: Medical software)
+- Automatic Data Processing AdvancedMD EHR (Tech skill type: Medical software)
+- Benchmark Systems Benchmark Clinical EHR (Tech skill type: Medical software)
+- Bizmatics PrognoCIS EMR (Tech skill type: Medical software)
+- Calendar software (Tech skill type: Calendar and scheduling software)
+- CareCloud Central (Tech skill type: Medical software)
+- Cerner PowerWorks Practice Management (Tech skill type: Medical software)
+- Cisco Webex (Tech skill type: Video conferencing software)
+- doc2MD (Tech skill type: Medical software)
+- eClinicalWorks EHR software (Tech skill type: Medical software)
+- Email software (Tech skill type: Electronic mail software)
+- Encite Dermatology Electronic Health Records EHR Software (Tech skill type: Medical software)
+- Epic Practice Management (Tech skill type: Medical software)
+- GalacTek ECLIPSE (Tech skill type: Medical software)
+- GE Healthcare Centricity Practice Solution (Tech skill type: Medical software)
+- Greenway Medical Technologies PrimeSUITE (Tech skill type: Medical software)
+- HealthFusion MediTouch (Tech skill type: Medical software)
+- IOS Health Systems Medios EHR (Tech skill type: Medical software)
+- Kareo Practice Management (Tech skill type: Medical software)
+- McKesson Practice Plus (Tech skill type: Medical software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Modernizing Medicine Practice Management (Tech skill type: Medical software)
+- NexTech EMR & PM (Tech skill type: Medical software)
+- NextGen Healthcare NextGen Practice Management (Tech skill type: Medical software)
+- Nuesoft Technologies NueMD (Tech skill type: Medical software)
+- simplifyMD (Tech skill type: Medical software)
+- Vitera Healthcare Solutions Vitera Intergy (Tech skill type: Medical software)
+- WRSHealth EMR (Tech skill type: Medical software)
+- Zoom (Tech skill type: Video conferencing software)
+
+## TOOLS USED
+- Aspiration guns (Tool type: Biopsy aspirator products)
+- Automated external defibrillators AED (Tool type: Mobile medical services automated external defibrillators AED or hard paddles)
+- Biopsy containers (Tool type: Histology or pathology specimen container)
+- Biopsy punches (Tool type: Surgical punches or punch holders)
+- Cauterizers (Tool type: Electrosurgical or electrocautery accessories or attachments)
+- Chalazion clamps (Tool type: Surgical clamps or clips or forceps)
+- Cilia forceps (Tool type: Surgical clamps or clips or forceps)
+- Cryo tweezers (Tool type: Cryosurgery units)
+- Cryoguns (Tool type: Cryosurgery units)
+- Cryosurgical units (Tool type: Cryosurgery units)
+- Dermal curettes (Tool type: Surgical curettes or loops or curette sets)
+- Dermatological lasers (Tool type: Surgical lasers)
+- Dermatoscopes (Tool type: Dermatoscopes)
+- Desktop computers (Tool type: Desktop computers)
+- Digital medical thermometers (Tool type: Electronic medical thermometers)
+- Digital still cameras (Tool type: Digital cameras)
+- Dressing forceps (Tool type: Surgical clamps or clips or forceps)
+- Electrical suction pumps (Tool type: Medical or surgical suction or vacuum appliances)
+- Electrocardiography EKG machines (Tool type: Electrocardiography EKG units)
+- Electrode pencils (Tool type: Electrosurgical or electrocautery accessories or attachments)
+- Fixation forceps (Tool type: Surgical clamps or clips or forceps)
+- Hair transplant punches (Tool type: Surgical punches or punch holders)
+- Injection syringes (Tool type: Medical syringes without needle)
+- Laptop computers (Tool type: Notebook computers)
+- Mechanical stethoscopes (Tool type: Medical acoustic stethoscopes)
+- Medical examination protective gloves (Tool type: Medical exam or non surgical procedure gloves)
+- Medical magnifiers (Tool type: Surgical microscopes or loupes or magnifiers)
+- Medical masks (Tool type: Surgical isolation or surgical masks)
+- Medical nail nippers (Tool type: Surgical nippers)
+- Medical scissors (Tool type: Surgical scissors)
+- Microdermabrasion tools (Tool type: Surgical dermatomes or dermabraders or dermameshers)
+- Nebulizers (Tool type: Nebulizers)
+- Otoscopes (Tool type: Ophthalmoscopes or otoscopes or scope sets)
+- Phototherapy units (Tool type: Visible light radiators)
+- Protective face shields (Tool type: Surgical isolation or surgical masks)
+- Pulse oximeters (Tool type: Pulse oximeter units)
+- Serrated hemostats (Tool type: Endoscopic hemostatic balloons or needles or tubes or accessories)
+- simplifyMD Dermatology (Tool type: Ophthalmoscopes or otoscopes or scope sets)
+- Skin hooks (Tool type: Surgical retraction hooks)
+- Sphygmomanometers (Tool type: Mercury blood pressure units)
+- Splinter forceps (Tool type: Surgical clamps or clips or forceps)
+- Sponge forceps (Tool type: Surgical clamps or clips or forceps)
+- Surgical elevators (Tool type: Surgical elevators or levers)
+- Surgical needle holders (Tool type: Surgical needle holders)
+- Surgical retractors (Tool type: Surgical retractors)
+- Surgical scalpels (Tool type: Surgical scalpels or knives or blades or trephines)
+- Suture scissors (Tool type: Surgical scissors)
+- Tablet computers (Tool type: Tablet computers)
+- Tissue forceps (Tool type: Surgical clamps or clips or forceps)
+- Vein locaters (Tool type: Medical exam transilluminators)
+- Wood's lamps (Tool type: Ultraviolet UV lamps)

@@ -1,0 +1,92 @@
+Job Title: Tank Car, Truck, and Ship Loaders
+O*NET-SOC Code: 53-7121.00
+
+# DESCRIPTION
+Load and unload chemicals and bulk solids, such as coal, sand, and grain, into or from tank cars, trucks, or ships, using material moving equipment. May perform a variety of other tasks relating to shipment of products. May gauge or sample shipping tanks and test them for leaks.
+
+# TASKS
+- Seal outlet valves on tank cars, barges, and trucks.
+- Verify tank car, barge, or truck load numbers to ensure car placement accuracy based on written or verbal instructions.
+- Start pumps and adjust valves or cables to regulate the flow of products to vessels, using knowledge of loading procedures.
+- Check conditions and weights of vessels to ensure cleanliness and compliance with loading procedures.
+- Observe positions of cars passing loading spouts, and swing spouts into the correct positions at the appropriate times.
+- Monitor product movement to and from storage tanks, coordinating activities with other workers to ensure constant product flow.
+- Operate ship loading and unloading equipment, conveyors, hoists, and other specialized material handling equipment such as railroad tank car unloading equipment.
+- Record operating data such as products and quantities pumped, gauge readings, and operating times, manually or using computers.
+- Operate industrial trucks, tractors, loaders, and other equipment to transport materials to and from transportation vehicles and loading docks, and to store and retrieve materials in warehouses.
+- Connect ground cables to carry off static electricity when unloading tanker cars.
+- Copy and attach load specifications to loaded tanks.
+- Remove and replace tank car dome caps, or direct other workers in their removal and replacement.
+- Test samples for specific gravity, using hydrometers, or send samples to laboratories for testing.
+- Test vessels for leaks, damage, and defects, and repair or replace defective parts as necessary.
+- Unload cars containing liquids by connecting hoses to outlet plugs and pumping compressed air into cars to force liquids into storage tanks.
+- Clean interiors of tank cars or tank trucks, using mechanical spray nozzles.
+- Lower gauge rods into tanks or read meters to verify contents, temperatures, and volumes of liquid loads.
+- Operate conveyors and equipment to transfer grain or other materials from transportation vehicles.
+- Perform general warehouse activities, such as opening containers and crates, filling warehouse orders, assisting in taking inventory, and weighing and checking materials.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operation and Control (Importance: 3.75/5 | Level: 3.25/7)
+- Operations Monitoring (Importance: 3.75/5 | Level: 3.38/7)
+- Reading Comprehension (Importance: 3.25/5 | Level: 3.12/7)
+- Time Management (Importance: 3.12/5 | Level: 2.88/7)
+- Monitoring (Importance: 3.0/5 | Level: 3.12/7)
+- Speaking (Importance: 3.0/5 | Level: 2.88/7)
+- Active Listening (Importance: 3.0/5 | Level: 3.0/7)
+- Writing (Importance: 3.0/5 | Level: 2.75/7)
+- Complex Problem Solving (Importance: 3.0/5 | Level: 2.88/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 2.88/7)
+- Judgment and Decision Making (Importance: 2.88/5 | Level: 2.88/7)
+- Management of Personnel Resources (Importance: 2.88/5 | Level: 2.75/7)
+- Coordination (Importance: 2.88/5 | Level: 2.88/7)
+- Quality Control Analysis (Importance: 2.88/5 | Level: 2.88/7)
+- Active Learning (Importance: 2.75/5 | Level: 2.75/7)
+- Troubleshooting (Importance: 2.62/5 | Level: 2.5/7)
+- Social Perceptiveness (Importance: 2.62/5 | Level: 2.12/7)
+- Equipment Maintenance (Importance: 2.62/5 | Level: 2.0/7)
+- Systems Analysis (Importance: 2.5/5 | Level: 2.62/7)
+- Repairing (Importance: 2.5/5 | Level: 2.25/7)
+- Instructing (Importance: 2.5/5 | Level: 2.62/7)
+- Mathematics (Importance: 2.5/5 | Level: 2.12/7)
+- Learning Strategies (Importance: 2.5/5 | Level: 2.38/7)
+- Equipment Selection (Importance: 2.38/5 | Level: 2.38/7)
+- Negotiation (Importance: 2.25/5 | Level: 2.12/7)
+- Service Orientation (Importance: 2.25/5 | Level: 2.12/7)
+- Systems Evaluation (Importance: 2.12/5 | Level: 2.12/7)
+- Persuasion (Importance: 2.0/5 | Level: 2.12/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.88/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.12/7)
+- Technology Design (Importance: 1.75/5 | Level: 0.75/7)
+- Science (Importance: 1.5/5 | Level: 0.75/7)
+- Programming (Importance: 1.38/5 | Level: 0.38/7)
+- Operations Analysis (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- CompuWeigh GMS (Tech skill type: Data base user interface and query software)
+- Distributed control system DCS (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Linux (Tech skill type: Operating system software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Warehouse management system WMS (Tech skill type: Materials requirements planning logistics and supply chain software)
+
+## TOOLS USED
+- Computer laser printers (Tool type: Laser printers)
+- Conveyor belt systems (Tool type: Belt conveyors)
+- Digital hydrometers (Tool type: Hydrometers)
+- Electric hoists (Tool type: Hoists)
+- Loading scales (Tool type: Floor or platform scales)
+- Mechanical spray nozzles (Tool type: Spray hose)
+- Mobile shiploaders (Tool type: Loading equipment)
+- Personal computers (Tool type: Personal computers)
+- Protective respirators (Tool type: Respirators)
+- Reach trucks (Tool type: Stackers)
+- Riding pallet jacks (Tool type: Pallet trucks)
+- Skid steers (Tool type: Skid steer loaders)
+- Stock pickers (Tool type: Loading equipment)
+- Tablet computers (Tool type: Tablet computers)
+- Walk behind pallet jacks (Tool type: Pallet trucks)
+- Warehouse forklifts (Tool type: Forklifts)
+- Wheeled front end loaders (Tool type: Front end loaders)

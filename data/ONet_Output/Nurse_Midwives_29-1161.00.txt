@@ -1,0 +1,144 @@
+Job Title: Nurse Midwives
+O*NET-SOC Code: 29-1161.00
+
+# DESCRIPTION
+Diagnose and coordinate all aspects of the birthing process, either independently or as part of a healthcare team. May provide well-woman gynecological care. Must have specialized, graduate nursing education.
+
+# TASKS
+- Provide prenatal, intrapartum, postpartum, or newborn care to patients.
+- Monitor fetal development by listening to fetal heartbeat, taking external uterine measurements, identifying fetal position, or estimating fetal size and weight.
+- Document patients' health histories, symptoms, physical conditions, or other diagnostic information.
+- Provide patients with direct family planning services, such as inserting intrauterine devices, dispensing oral contraceptives, and fitting cervical barriers, including cervical caps or diaphragms.
+- Prescribe medications as permitted by state regulations.
+- Develop and implement individualized plans for health care management.
+- Explain procedures to patients, family members, staff members or others.
+- Order and interpret diagnostic or laboratory tests.
+- Initiate emergency interventions to stabilize patients.
+- Document findings of physical examinations.
+- Educate patients and family members regarding prenatal, intrapartum, postpartum, newborn, or interconception care.
+- Perform physical examinations by taking vital signs, checking neurological reflexes, examining breasts, or performing pelvic examinations.
+- Write information in medical records or provide narrative summaries to communicate patient information to other health care providers.
+- Provide primary health care, including pregnancy and childbirth, to women.
+- Consult with or refer patients to appropriate specialists when conditions exceed the scope of practice or expertise.
+- Read current literature, talk with colleagues, or participate in professional organizations or conferences to keep abreast of developments in midwifery.
+- Instruct student nurse midwives, medical students, or residents on the birthing process.
+- Establish practice guidelines for specialty areas such as primary health care of women, care of the childbearing family, and newborn care.
+- Plan, provide, or evaluate educational programs for nursing staff, health care teams, or the community.
+- Conduct clinical research on topics such as maternal or infant health care, contraceptive methods, breastfeeding, and gynecological care.
+- Manage newborn care during the first weeks of life.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Speaking (Importance: 4.12/5 | Level: 4.12/7)
+- Social Perceptiveness (Importance: 4.12/5 | Level: 4.12/7)
+- Critical Thinking (Importance: 4.12/5 | Level: 4.38/7)
+- Active Listening (Importance: 4.12/5 | Level: 4.12/7)
+- Active Learning (Importance: 4.0/5 | Level: 4.12/7)
+- Monitoring (Importance: 4.0/5 | Level: 4.12/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.12/7)
+- Service Orientation (Importance: 3.88/5 | Level: 4.12/7)
+- Writing (Importance: 3.88/5 | Level: 4.0/7)
+- Complex Problem Solving (Importance: 3.88/5 | Level: 3.75/7)
+- Coordination (Importance: 3.88/5 | Level: 3.75/7)
+- Judgment and Decision Making (Importance: 3.75/5 | Level: 3.88/7)
+- Instructing (Importance: 3.25/5 | Level: 3.75/7)
+- Learning Strategies (Importance: 3.25/5 | Level: 3.38/7)
+- Time Management (Importance: 3.12/5 | Level: 3.25/7)
+- Systems Analysis (Importance: 3.12/5 | Level: 3.0/7)
+- Systems Evaluation (Importance: 3.0/5 | Level: 3.25/7)
+- Science (Importance: 2.88/5 | Level: 3.25/7)
+- Negotiation (Importance: 2.75/5 | Level: 2.62/7)
+- Persuasion (Importance: 2.75/5 | Level: 2.88/7)
+- Management of Personnel Resources (Importance: 2.62/5 | Level: 2.88/7)
+- Mathematics (Importance: 2.62/5 | Level: 2.62/7)
+- Operations Analysis (Importance: 2.38/5 | Level: 2.25/7)
+- Operations Monitoring (Importance: 2.38/5 | Level: 2.12/7)
+- Quality Control Analysis (Importance: 2.12/5 | Level: 2.0/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.38/7)
+- Technology Design (Importance: 1.75/5 | Level: 0.88/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 0.88/7)
+- Operation and Control (Importance: 1.75/5 | Level: 1.0/7)
+- Programming (Importance: 1.62/5 | Level: 0.62/7)
+- Troubleshooting (Importance: 1.5/5 | Level: 0.62/7)
+- Equipment Selection (Importance: 1.25/5 | Level: 0.25/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Acrendo Medical Software Ob/Gyn EMR (Tech skill type: Medical software)
+- Allscripts Professional EHR (Tech skill type: Medical software)
+- Amkai AmkaiCharts (Tech skill type: Medical software)
+- Bizmatics PrognoCIS EMR (Tech skill type: Medical software)
+- Cerner Millennium (Tech skill type: Medical software)
+- ChartWare EMR (Tech skill type: Medical software)
+- digiChart OB-GYN (Tech skill type: Medical software)
+- e-MDs software (Tech skill type: Medical software)
+- eClinicalWorks EHR software (Tech skill type: Medical software)
+- Epic Systems (Tech skill type: Medical software)
+- GE Healthcare Centricity EMR (Tech skill type: Medical software)
+- Greenway Medical Technologies PrimeSUITE (Tech skill type: Medical software)
+- Medscribbler Enterprise (Tech skill type: Medical software)
+- MicroFour PracticeStudio.NET EMR (Tech skill type: Medical software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- NextGen Healthcare Information Systems EMR (Tech skill type: Medical software)
+- Practice Partner Total Practice Partner (Tech skill type: Medical software)
+- Prognosis Innovation Healthcare ChartAccess (Tech skill type: Medical software)
+- SOAPware EMR (Tech skill type: Medical software)
+- StatCom Patient Flow Logistics Enterprise Suite (Tech skill type: Medical software)
+- SynaMed EMR (Tech skill type: Medical software)
+- Texas Medical Software SpringCharts EMR (Tech skill type: Medical software)
+
+## TOOLS USED
+- Allis clamps (Tool type: Surgical clamps or clips or forceps)
+- Baby scales (Tool type: Infant scales)
+- Bag valve mask BVM resuscitators (Tool type: Resuscitation masks)
+- Blood drawing syringes (Tool type: Blood collection syringes)
+- Bulb syringes (Tool type: Medical aspiration or irrigation syringes)
+- Colposcopes (Tool type: Colposcopes or vaginoscopes)
+- Curved forceps (Tool type: Surgical clamps or clips or forceps)
+- Curved hemostats (Tool type: Endoscopic hemostatic balloons or needles or tubes or accessories)
+- Curved needle holders (Tool type: Surgical needle holders)
+- Digital medical thermometers (Tool type: Electronic medical thermometers)
+- Episiotomy scissors (Tool type: Surgical scissors)
+- Evacuated blood collection containers (Tool type: Vacuum blood collection tubes or containers)
+- Fetal doppler units (Tool type: Medical ultrasound or doppler or echocardiograph transducer accessories)
+- Fetal heart rate monitors (Tool type: Acute care fetal or maternal monitoring units)
+- Hypodermic syringes (Tool type: Medical syringes with needle)
+- Infant oxygen masks (Tool type: Medical oxygen masks or parts)
+- Infant warmers (Tool type: Clinical incubators or infant warmers)
+- Intravenous IV administration equipment (Tool type: Intravenous tubing with catheter administration kits)
+- Lancets (Tool type: Lancets)
+- Laptop computers (Tool type: Notebook computers)
+- Mechanical stethoscopes (Tool type: Medical acoustic stethoscopes)
+- Medical measuring tapes (Tool type: Medical tape measures)
+- Medical scales (Tool type: Patient floor scales)
+- Microscope slides (Tool type: Microscope slides)
+- Mosquito forceps (Tool type: Surgical clamps or clips or forceps)
+- Obstetrical forceps (Tool type: Surgical clamps or clips or forceps)
+- Oxygen concentrators (Tool type: Oxygen concentrators)
+- Oxygen delivery masks (Tool type: Medical oxygen masks or parts)
+- Oxygen flowmeters (Tool type: Flow sensors or regulators or components)
+- Oxygen nasal cannulae (Tool type: Medical nasal cannulas)
+- Personal computers (Tool type: Personal computers)
+- Personal digital assistants PDA (Tool type: Personal digital assistant PDAs or organizers)
+- Protective face shields (Tool type: Surgical isolation or surgical masks)
+- Reflex hammers (Tool type: Reflex hammers or mallets)
+- Ring forceps (Tool type: Surgical clamps or clips or forceps)
+- Specimen collection containers (Tool type: Specimen collection container)
+- Sphygmomanometers (Tool type: Blood pressure cuff kits)
+- Straight hemostats (Tool type: Endoscopic hemostatic balloons or needles or tubes or accessories)
+- Straight needle holders (Tool type: Surgical needle holders)
+- Suction catheters (Tool type: Irrigation or suction handpieces or cannulas or tips or catheters)
+- Surgical gloves (Tool type: Surgical gloves)
+- Surgical scissors (Tool type: Surgical scissors)
+- Suturing kits (Tool type: Suturing kits or trays or packs or sets)
+- Tissue forceps (Tool type: Surgical clamps or clips or forceps)
+- Tourniquets (Tool type: Tourniquets)
+- Transcutaneous electric nerve stimulation TENS equipment (Tool type: Transcutaneous electric nerve stimulation units)
+- Umbilical cord clamps (Tool type: Surgical clamps or clips or forceps)
+- Umbilical cord scissors (Tool type: Surgical scissors)
+- Urinary catheters (Tool type: Urinary catheterization kits)
+- Vaginal exam speculas (Tool type: Vaginal exam speculas)
+- Vaginal ultrasound probes (Tool type: Medical ultrasound or doppler or echocardiograph probes)

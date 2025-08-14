@@ -1,0 +1,100 @@
+Job Title: Natural Sciences Managers
+O*NET-SOC Code: 11-9121.00
+
+# DESCRIPTION
+Plan, direct, or coordinate activities in such fields as life sciences, physical sciences, mathematics, statistics, and research and development in these fields.
+
+# TASKS
+- Hire, supervise, or evaluate engineers, technicians, researchers, or other staff.
+- Design or coordinate successive phases of problem analysis, solution proposals, or testing.
+- Plan or direct research, development, or production activities.
+- Review project activities and prepare and review research, testing, or operational reports.
+- Confer with scientists, engineers, regulators, or others to plan or review projects or to provide technical assistance.
+- Develop client relationships and communicate with clients to explain proposals, present research findings, establish specifications, or discuss project status.
+- Determine scientific or technical goals within broad outlines provided by top management and make detailed plans to accomplish these goals.
+- Prepare project proposals.
+- Develop or implement policies, standards, or procedures for the architectural, scientific, or technical work performed to ensure regulatory compliance or operations enhancement.
+- Recruit personnel or oversee the development or maintenance of staff competence.
+- Prepare and administer budgets, approve and review expenditures, and prepare financial reports.
+- Conduct own research in field of expertise.
+- Develop innovative technology or train staff for its implementation.
+- Make presentations at professional meetings to further knowledge in the field.
+- Provide for stewardship of plant or animal resources or habitats, studying land use, monitoring animal populations, or providing shelter, resources, or medical treatment for animals.
+- Advise or assist in obtaining patents or meeting other legal requirements.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Science (Importance: 4.12/5 | Level: 4.88/7)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.38/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 5.0/7)
+- Active Listening (Importance: 4.0/5 | Level: 4.75/7)
+- Monitoring (Importance: 4.0/5 | Level: 4.12/7)
+- Writing (Importance: 3.88/5 | Level: 5.0/7)
+- Complex Problem Solving (Importance: 3.88/5 | Level: 4.25/7)
+- Speaking (Importance: 3.88/5 | Level: 4.25/7)
+- Judgment and Decision Making (Importance: 3.75/5 | Level: 4.12/7)
+- Management of Personnel Resources (Importance: 3.62/5 | Level: 4.62/7)
+- Active Learning (Importance: 3.5/5 | Level: 4.75/7)
+- Learning Strategies (Importance: 3.5/5 | Level: 3.88/7)
+- Social Perceptiveness (Importance: 3.38/5 | Level: 3.88/7)
+- Coordination (Importance: 3.38/5 | Level: 4.0/7)
+- Instructing (Importance: 3.25/5 | Level: 3.88/7)
+- Operations Analysis (Importance: 3.25/5 | Level: 3.88/7)
+- Persuasion (Importance: 3.25/5 | Level: 3.75/7)
+- Systems Analysis (Importance: 3.25/5 | Level: 3.88/7)
+- Systems Evaluation (Importance: 3.12/5 | Level: 3.88/7)
+- Mathematics (Importance: 3.12/5 | Level: 4.0/7)
+- Negotiation (Importance: 3.12/5 | Level: 3.12/7)
+- Time Management (Importance: 3.12/5 | Level: 4.12/7)
+- Service Orientation (Importance: 3.0/5 | Level: 2.88/7)
+- Management of Material Resources (Importance: 2.75/5 | Level: 3.0/7)
+- Management of Financial Resources (Importance: 2.62/5 | Level: 3.62/7)
+- Technology Design (Importance: 2.62/5 | Level: 2.88/7)
+- Quality Control Analysis (Importance: 2.12/5 | Level: 2.0/7)
+- Operations Monitoring (Importance: 2.12/5 | Level: 2.12/7)
+- Operation and Control (Importance: 2.0/5 | Level: 1.5/7)
+- Programming (Importance: 1.88/5 | Level: 1.62/7)
+- Troubleshooting (Importance: 1.88/5 | Level: 1.12/7)
+- Equipment Selection (Importance: 1.12/5 | Level: 0.25/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adobe Acrobat (Tech skill type: Document management software)
+- Adobe Photoshop (Tech skill type: Graphics or photo imaging software)
+- Clinical trial management software (Tech skill type: Data base user interface and query software)
+- ESRI ArcGIS software (Tech skill type: Geographic information system)
+- Graphics software (Tech skill type: Graphics or photo imaging software)
+- IBM Lotus 1-2-3 (Tech skill type: Spreadsheet software)
+- IBM SPSS Statistics (Tech skill type: Analytical or scientific software)
+- Integrated development environment IDE software (Tech skill type: Development environment software)
+- Laboratory information management system LIMS (Tech skill type: Analytical or scientific software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Oracle Database (Tech skill type: Data base management system software)
+- R (Tech skill type: Object or component oriented development software)
+- SAP Business Objects (Tech skill type: Data base reporting software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- SAS (Tech skill type: Analytical or scientific software)
+- StataCorp Stata (Tech skill type: Analytical or scientific software)
+- STATISTICA (Tech skill type: Analytical or scientific software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- The MathWorks MATLAB (Tech skill type: Analytical or scientific software)
+- Web browser software (Tech skill type: Internet browser software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Color plotters (Tool type: Plotter printers)
+- Desktop computers (Tool type: Desktop computers)
+- Laptop computers (Tool type: Notebook computers)
+- Liquid crystal display LCD video projectors (Tool type: Liquid crystal display projector)
+- Personal computers (Tool type: Personal computers)
+- Universal serial bus USB flash drives (Tool type: High capacity removable media drives)

@@ -1,0 +1,119 @@
+Job Title: Bicycle Repairers
+O*NET-SOC Code: 49-3091.00
+
+# DESCRIPTION
+Repair and service bicycles.
+
+# TASKS
+- Install and adjust brakes and brake pads.
+- Help customers select bicycles that fit their body sizes and intended bicycle uses.
+- Align wheels.
+- Assemble new bicycles.
+- Sell bicycles and accessories.
+- Install, repair, and replace equipment or accessories, such as handlebars, stands, lights, and seats.
+- Install new tires and tubes.
+- Install and adjust speed and gear mechanisms.
+- Clean and lubricate bicycle parts.
+- Order bicycle parts.
+- Disassemble axles to repair, adjust, and replace defective parts, using hand tools.
+- Build wheels by cutting and threading new spokes.
+- Shape replacement parts, using bench grinders.
+- Repair holes in tire tubes, using scrapers and patches.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Repairing (Importance: 3.88/5 | Level: 3.12/7)
+- Troubleshooting (Importance: 3.62/5 | Level: 3.0/7)
+- Critical Thinking (Importance: 3.62/5 | Level: 3.12/7)
+- Active Listening (Importance: 3.62/5 | Level: 3.0/7)
+- Equipment Maintenance (Importance: 3.38/5 | Level: 2.88/7)
+- Equipment Selection (Importance: 3.38/5 | Level: 2.62/7)
+- Speaking (Importance: 3.38/5 | Level: 3.0/7)
+- Service Orientation (Importance: 3.38/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 3.25/5 | Level: 3.12/7)
+- Quality Control Analysis (Importance: 3.25/5 | Level: 3.12/7)
+- Complex Problem Solving (Importance: 3.0/5 | Level: 3.0/7)
+- Reading Comprehension (Importance: 3.0/5 | Level: 3.0/7)
+- Active Learning (Importance: 2.88/5 | Level: 2.5/7)
+- Negotiation (Importance: 2.88/5 | Level: 2.62/7)
+- Persuasion (Importance: 2.88/5 | Level: 2.62/7)
+- Writing (Importance: 2.88/5 | Level: 2.5/7)
+- Monitoring (Importance: 2.88/5 | Level: 2.88/7)
+- Coordination (Importance: 2.88/5 | Level: 2.5/7)
+- Judgment and Decision Making (Importance: 2.88/5 | Level: 2.75/7)
+- Learning Strategies (Importance: 2.75/5 | Level: 2.38/7)
+- Operations Monitoring (Importance: 2.75/5 | Level: 2.25/7)
+- Time Management (Importance: 2.75/5 | Level: 2.88/7)
+- Instructing (Importance: 2.75/5 | Level: 2.75/7)
+- Operation and Control (Importance: 2.62/5 | Level: 2.0/7)
+- Installation (Importance: 2.5/5 | Level: 1.75/7)
+- Systems Analysis (Importance: 2.5/5 | Level: 2.12/7)
+- Management of Personnel Resources (Importance: 2.5/5 | Level: 2.12/7)
+- Systems Evaluation (Importance: 2.38/5 | Level: 2.12/7)
+- Mathematics (Importance: 2.12/5 | Level: 2.0/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.25/7)
+- Management of Financial Resources (Importance: 1.88/5 | Level: 1.12/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.5/7)
+- Operations Analysis (Importance: 1.62/5 | Level: 0.75/7)
+- Science (Importance: 1.25/5 | Level: 0.38/7)
+- Programming (Importance: 1.12/5 | Level: 0.12/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Inventory management software (Tech skill type: Inventory management software)
+- LightSpeed Cloud (Tech skill type: Point of sale POS software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Pedal Powered Software Bicycle Repair Man (Tech skill type: Data base user interface and query software)
+- RepairTRAX (Tech skill type: Data base user interface and query software)
+- Upland Consulting Group Repair Traq (Tech skill type: Data base user interface and query software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Adjustable hand wrenches (Tool type: Adjustable wrenches)
+- Bench mount stands Wall mount stands (Tool type: Engine or vehicle stands)
+- Bike cable cutters (Tool type: Wire or cable cutter)
+- Box end spanners (Tool type: Box end wrenches)
+- Cable cutters (Tool type: Wire or cable cutter)
+- Cable stretchers (Tool type: Brake repair kits)
+- Cassette lock ring tools (Tool type: Specialty wrenches)
+- Chain checkers (Tool type: Tension testers)
+- Chain cleaner brushes (Tool type: Cleaning brushes)
+- Chainring nut wrenches (Tool type: Ring wrench or spanner)
+- Compact scissors (Tool type: Shears)
+- Component cleaning brushes (Tool type: Cleaning brushes)
+- Cone wrench sets (Tool type: Specialty wrenches)
+- Crank bolt wrenches (Tool type: Specialty wrenches)
+- Crank pullers (Tool type: Pullers)
+- Crown race setters (Tool type: Nut drivers)
+- Derailleur hanger alignment gauges (Tool type: Wheel alignment equipment)
+- Desktop computers (Tool type: Desktop computers)
+- Floor pumps (Tool type: Air pumps)
+- Folding hex wrench sets (Tool type: Hex keys)
+- Frame taps (Tool type: Taps)
+- Handlebar holders (Tool type: Engine or vehicle stands)
+- Hex tools (Tool type: Hex keys)
+- Linkage clamps (Tool type: Hand clamps)
+- Minipumps (Tool type: Air pumps)
+- Multipurpose hammers (Tool type: Hammers)
+- Needle nose pliers (Tool type: Needlenose pliers)
+- Offset brake wrenches (Tool type: Specialty wrenches)
+- Open end wrench sets (Tool type: Open end wrenches)
+- P-handled hex wrenches (Tool type: Hex keys)
+- Pedal wrenches (Tool type: Specialty wrenches)
+- Personal computers (Tool type: Personal computers)
+- Phillips head screwdrivers (Tool type: Screwdrivers)
+- Point of sale terminals (Tool type: Electronic funds transfer point of sale equipment)
+- Portable repair stands (Tool type: Engine or vehicle stands)
+- Precision spoke wrenches (Tool type: Specialty wrenches)
+- Screw type chain tools (Tool type: Pullers)
+- Shop repair stands (Tool type: Engine or vehicle stands)
+- Side cutter pliers (Tool type: End cut pliers)
+- Spoke gauges (Tool type: Wire gauge)
+- Sprocket removers (Tool type: Specialty wrenches)
+- Straight blade screwdrivers (Tool type: Screwdrivers)
+- Threadless nut setters (Tool type: Nut drivers)
+- Three-way hex wrenches (Tool type: Allen wrench)
+- Tire levers (Tool type: Tire repair kit)
+- Wall mount stands (Tool type: Engine or vehicle stands)
+- Wheel truing stands (Tool type: Engine or vehicle stands)

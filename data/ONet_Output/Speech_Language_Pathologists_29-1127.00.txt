@@ -1,0 +1,133 @@
+Job Title: Speech-Language Pathologists
+O*NET-SOC Code: 29-1127.00
+
+# DESCRIPTION
+Assess and treat persons with speech, language, voice, and fluency disorders. May select alternative communication systems and teach their use. May perform research related to speech and language problems.
+
+# TASKS
+- Evaluate hearing or speech and language test results, barium swallow results, or medical or background information to diagnose and plan treatment for speech, language, fluency, voice, or swallowing disorders.
+- Write reports and maintain proper documentation of information, such as client Medicaid or billing records or caseload activities, including the initial evaluation, treatment, progress, and discharge of clients.
+- Monitor patients' progress and adjust treatments accordingly.
+- Develop or implement treatment plans for problems such as stuttering, delayed language, swallowing disorders, or inappropriate pitch or harsh voice problems, based on own assessments and recommendations of physicians, psychologists, or social workers.
+- Administer hearing or speech and language evaluations, tests, or examinations to patients to collect information on type and degree of impairments, using written or oral tests or special instruments.
+- Educate patients and family members about various topics, such as communication techniques or strategies to cope with or to avoid personal misunderstandings.
+- Supervise or collaborate with therapy team.
+- Participate in and write reports for meetings regarding patients' progress, such as individualized educational planning (IEP) meetings, in-service meetings, or intervention assistance team meetings.
+- Teach clients to control or strengthen tongue, jaw, face muscles, or breathing mechanisms.
+- Instruct clients in techniques for more effective communication, such as sign language, lip reading, or voice improvement.
+- Consult with and advise educators or medical staff on speech or hearing topics, such as communication strategies or speech and language stimulation.
+- Develop speech exercise programs to reduce disabilities.
+- Complete administrative responsibilities, such as coordinating paperwork, scheduling case management activities, or writing lesson plans.
+- Consult with and refer clients to additional medical or educational services.
+- Design, develop, or employ alternative diagnostic or communication devices or strategies.
+- Participate in conferences, training, continuing education courses, or publish research results to share knowledge of new hearing or speech disorder treatment methods or technologies.
+- Use computer applications to identify or assist with communication disabilities.
+- Develop individual or group activities or programs in schools to deal with behavior, speech, language, or swallowing problems.
+- Conduct lessons or direct educational or therapeutic games to assist teachers dealing with speech problems.
+- Provide communication instruction to dialect speakers or students with limited English proficiency.
+- Supervise students or assistants.
+- Communicate with students who use an alternative method of communications, using sign language or computer technology.
+- Conduct or direct research on speech or hearing topics and report findings for use in developing procedures, technologies, or treatments.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Social Perceptiveness (Importance: 4.12/5 | Level: 4.25/7)
+- Critical Thinking (Importance: 4.12/5 | Level: 4.12/7)
+- Reading Comprehension (Importance: 4.12/5 | Level: 5.0/7)
+- Active Listening (Importance: 4.12/5 | Level: 4.12/7)
+- Writing (Importance: 4.0/5 | Level: 4.38/7)
+- Learning Strategies (Importance: 4.0/5 | Level: 4.12/7)
+- Speaking (Importance: 4.0/5 | Level: 4.25/7)
+- Monitoring (Importance: 3.88/5 | Level: 4.12/7)
+- Active Learning (Importance: 3.88/5 | Level: 4.25/7)
+- Instructing (Importance: 3.88/5 | Level: 4.0/7)
+- Complex Problem Solving (Importance: 3.88/5 | Level: 3.88/7)
+- Judgment and Decision Making (Importance: 3.75/5 | Level: 3.88/7)
+- Service Orientation (Importance: 3.75/5 | Level: 3.75/7)
+- Time Management (Importance: 3.25/5 | Level: 3.25/7)
+- Coordination (Importance: 3.25/5 | Level: 3.75/7)
+- Systems Evaluation (Importance: 3.12/5 | Level: 3.62/7)
+- Systems Analysis (Importance: 3.12/5 | Level: 3.25/7)
+- Operations Analysis (Importance: 3.0/5 | Level: 3.12/7)
+- Negotiation (Importance: 2.88/5 | Level: 2.88/7)
+- Persuasion (Importance: 2.88/5 | Level: 3.0/7)
+- Science (Importance: 2.88/5 | Level: 3.0/7)
+- Management of Personnel Resources (Importance: 2.38/5 | Level: 2.62/7)
+- Quality Control Analysis (Importance: 2.25/5 | Level: 2.25/7)
+- Operations Monitoring (Importance: 2.12/5 | Level: 1.88/7)
+- Mathematics (Importance: 2.0/5 | Level: 2.38/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.88/7)
+- Programming (Importance: 1.62/5 | Level: 0.88/7)
+- Troubleshooting (Importance: 1.62/5 | Level: 0.62/7)
+- Operation and Control (Importance: 1.62/5 | Level: 0.75/7)
+- Equipment Selection (Importance: 1.5/5 | Level: 0.62/7)
+- Management of Material Resources (Importance: 1.12/5 | Level: 0.12/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Management of Financial Resources (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adobe Audition (Tech skill type: Music or sound editing software)
+- Apple Logic Pro (Tech skill type: Music or sound editing software)
+- Avaaz Innovations AphasiaMate (Tech skill type: Medical software)
+- Avaaz Innovations Computerized Speech Research Environment CSRE (Tech skill type: Analytical or scientific software)
+- Avaaz Innovations Interactive Voice Analysis System IVANS (Tech skill type: Medical software)
+- Biofeedback software (Tech skill type: Medical software)
+- Bungalow Software Aphasia Tutor (Tech skill type: Medical software)
+- Dropbox (Tech skill type: Cloud-based data access and sharing software)
+- eClinicalWorks EHR software (Tech skill type: Medical software)
+- ELR Software eLr Extra Language Resources (Tech skill type: Medical software)
+- Email software (Tech skill type: Electronic mail software)
+- KayPENTAX Multi-Speech (Tech skill type: Medical software)
+- KayPENTAX Nasometer (Tech skill type: Medical software)
+- Language analysis software (Tech skill type: Analytical or scientific software)
+- Learning Fundamentals Speech Visualization (Tech skill type: Medical software)
+- Micro Video Voice Speech Training System (Tech skill type: Medical software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Propeller Multimedia React2 (Tech skill type: Medical software)
+- Signal analysis software (Tech skill type: Analytical or scientific software)
+- Speech analysis software (Tech skill type: Analytical or scientific software)
+- Tadpoles (Tech skill type: Desktop communications software)
+- Text to speech software (Tech skill type: Computer based training software)
+- Web browser software (Tech skill type: Internet browser software)
+- Words+ E Z Keys for Windows (Tech skill type: Voice recognition software)
+- YouTube (Tech skill type: Video creation and editing software)
+
+## TOOLS USED
+- Airflow measurement devices (Tool type: Flow sensors)
+- Alternative computer keyboards (Tool type: Keyboards)
+- Audiometers (Tool type: Audiometers)
+- Augmentative communication devices (Tool type: Voice synthesizers for the physically challenged)
+- Closed circuit television systems (Tool type: Televisions)
+- Compact disk CD players (Tool type: Compact disk players or recorders)
+- Compact stereo systems (Tool type: Portable stereo systems)
+- Desktop computers (Tool type: Desktop computers)
+- Diagnostic stroboscopes (Tool type: Stroboscopes)
+- Digital audio recorders (Tool type: Digital voice recorders)
+- Digital cameras (Tool type: Digital cameras)
+- Digital video stroboscopy systems (Tool type: Stroboscopes)
+- Dynamic display devices (Tool type: Tablet computers)
+- Electroglottographs EGG (Tool type: Sound measuring apparatus or decibel meter)
+- Electromyographs EMG (Tool type: Electromyography EMG units)
+- Handheld camcorders (Tool type: Hand held camcorders or video cameras)
+- Headphones (Tool type: Headphones)
+- Infrared switches (Tool type: Adaptive communication switches for the physically challenged)
+- Jellybean switches (Tool type: Adaptive communication switches for the physically challenged)
+- Laptop computers (Tool type: Notebook computers)
+- Laryngographs (Tool type: Sound measuring apparatus or decibel meter)
+- Personal computers (Tool type: Personal computers)
+- Reading pens (Tool type: Scanners)
+- Recording microphones (Tool type: Microphones)
+- Sound booths (Tool type: Audiometric booths or acoustic hearing test chambers)
+- Sound switches (Tool type: Adaptive communication switches for the physically challenged)
+- Speech therapy mirrors (Tool type: Speech mirror)
+- Subglottal air pressure measurement devices (Tool type: Pressure indicators)
+- Tablet computers (Tool type: Tablet computers)
+- Tape recorders (Tool type: Cassette players or recorders)
+- Therapeutic voice synthesizers (Tool type: Voice synthesizers for the physically challenged)
+- Touch switches (Tool type: Adaptive communication switches for the physically challenged)
+- Video cassette recorders VCR (Tool type: Video cassette players or recorders)
+- Video stroboscopes (Tool type: Stroboscopes)

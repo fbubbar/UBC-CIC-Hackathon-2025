@@ -1,0 +1,104 @@
+Job Title: Endoscopy Technicians
+O*NET-SOC Code: 31-9099.02
+
+# DESCRIPTION
+Maintain a sterile field to provide support for physicians and nurses during endoscopy procedures. Prepare and maintain instruments and equipment. May obtain specimens.
+
+# TASKS
+- Clean, disinfect, or calibrate scopes or other endoscopic instruments according to manufacturer recommendations and facility standards.
+- Collect specimens from patients, using standard medical procedures.
+- Perform safety checks to verify proper equipment functioning.
+- Maintain or repair endoscopic equipment.
+- Assist physicians or registered nurses in the conduct of endoscopic procedures.
+- Place devices, such as blood pressure cuffs, pulse oximeter sensors, nasal cannulas, surgical cautery pads, and cardiac monitoring electrodes, on patients to monitor vital signs.
+- Prepare suites or rooms according to endoscopic procedure requirements.
+- Maintain inventories of endoscopic equipment and supplies.
+- Attend in-service training to validate or refresh basic professional skills.
+- Conduct in-service training sessions to disseminate information regarding equipment or instruments.
+- Position or transport patients in accordance with instructions from medical personnel.
+- Read current literature, talk with colleagues, or participate in professional organizations or conferences to keep abreast of developments in endoscopy.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Reading Comprehension (Importance: 3.62/5 | Level: 4.0/7)
+- Active Listening (Importance: 3.62/5 | Level: 3.38/7)
+- Critical Thinking (Importance: 3.38/5 | Level: 3.12/7)
+- Social Perceptiveness (Importance: 3.25/5 | Level: 3.12/7)
+- Active Learning (Importance: 3.12/5 | Level: 3.25/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.12/7)
+- Speaking (Importance: 3.12/5 | Level: 3.25/7)
+- Operations Monitoring (Importance: 3.12/5 | Level: 3.0/7)
+- Writing (Importance: 3.12/5 | Level: 3.0/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 2.88/7)
+- Instructing (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 2.88/7)
+- Complex Problem Solving (Importance: 3.0/5 | Level: 3.0/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Service Orientation (Importance: 3.0/5 | Level: 3.0/7)
+- Operation and Control (Importance: 3.0/5 | Level: 3.0/7)
+- Troubleshooting (Importance: 2.88/5 | Level: 2.75/7)
+- Equipment Maintenance (Importance: 2.88/5 | Level: 2.88/7)
+- Repairing (Importance: 2.88/5 | Level: 2.5/7)
+- Quality Control Analysis (Importance: 2.75/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 2.75/5 | Level: 2.5/7)
+- Systems Analysis (Importance: 2.5/5 | Level: 2.38/7)
+- Equipment Selection (Importance: 2.38/5 | Level: 2.12/7)
+- Persuasion (Importance: 2.38/5 | Level: 2.25/7)
+- Management of Personnel Resources (Importance: 2.25/5 | Level: 2.0/7)
+- Systems Evaluation (Importance: 2.25/5 | Level: 2.12/7)
+- Negotiation (Importance: 2.0/5 | Level: 2.0/7)
+- Mathematics (Importance: 2.0/5 | Level: 2.0/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.0/7)
+- Science (Importance: 1.75/5 | Level: 1.25/7)
+- Technology Design (Importance: 1.62/5 | Level: 0.62/7)
+- Management of Financial Resources (Importance: 1.5/5 | Level: 0.5/7)
+- Programming (Importance: 1.25/5 | Level: 0.25/7)
+- Operations Analysis (Importance: 1.25/5 | Level: 0.25/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Email software (Tech skill type: Electronic mail software)
+- MEDITECH software (Tech skill type: Medical software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Patient electronic medical record EMR software (Tech skill type: Medical software)
+- Scheduling software (Tech skill type: Calendar and scheduling software)
+
+## TOOLS USED
+- Automated blood pressure cuffs (Tool type: Electronic blood pressure units)
+- Automated endoscope washers (Tool type: Endoscope maintenance units)
+- Blood drawing syringes (Tool type: Blood collection syringes)
+- Bronchoscopes (Tool type: Bronchoscopes)
+- Cardiac monitoring equipment (Tool type: Cardiac output CO monitoring units)
+- Desktop computers (Tool type: Desktop computers)
+- Digital patient thermometers (Tool type: Electronic medical thermometers)
+- Electrocardiography EKG machines (Tool type: Electrocardiography EKG units)
+- Endoscopic electrocautery equipment (Tool type: Endoscopic instrument sets)
+- Endoscopic image printers (Tool type: Endoscopic printers or film or accessories)
+- Endoscopic image recording systems (Tool type: Endoscopic video cameras or recorders or adapters or accessories)
+- Endoscopic inflation equipment (Tool type: Endoscopic dilators or inflation devices)
+- Endoscopic procedure sets (Tool type: Endoscopic instrument packs or trays or kits)
+- Endoscopic snares (Tool type: Endoscopic snares or snare wires)
+- Endoscopic suction pumps (Tool type: Endoscopic suction or irrigation tips or coagulation probes)
+- Endoscopic water bottles (Tool type: Endoscopic water bottles or accessories)
+- Enema equipment (Tool type: Enema kits)
+- Evacuated blood collection tubes (Tool type: Vacuum blood collection tubes or containers)
+- Flexible endoscopes (Tool type: Endoscopic instrument sets)
+- Flexible sigmoidoscopes (Tool type: Sigmoidoscopes)
+- Intravenous IV administration equipment (Tool type: Intravenous tubing with catheter administration kits)
+- Laptop computers (Tool type: Notebook computers)
+- Manual blood pressure cuffs (Tool type: Mercury blood pressure units)
+- Medical safety gloves (Tool type: Medical exam or non surgical procedure gloves)
+- Medical safety masks (Tool type: Surgical isolation or surgical masks)
+- Medical scales (Tool type: Patient floor scales)
+- Multi-line telephone systems (Tool type: Special purpose telephones)
+- Patient transport stretchers (Tool type: Patient stretchers)
+- Patient transport wheelchairs (Tool type: Wheelchairs)
+- Personal computers (Tool type: Personal computers)
+- Pulse oximeters (Tool type: Pulse oximeter units)
+- Safety goggles (Tool type: Goggles)
+- Scope reprocessing equipment (Tool type: Endoscope maintenance units)
+- Specimen collection containers (Tool type: Specimen collection container)
+- Steam autoclaves (Tool type: Steam autoclaves or sterilizers)

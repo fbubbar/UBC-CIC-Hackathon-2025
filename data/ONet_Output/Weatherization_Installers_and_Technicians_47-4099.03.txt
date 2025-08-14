@@ -1,0 +1,151 @@
+Job Title: Weatherization Installers and Technicians
+O*NET-SOC Code: 47-4099.03
+
+# DESCRIPTION
+Perform a variety of activities to weatherize homes and make them more energy efficient. Duties include repairing windows, insulating ducts, and performing heating, ventilating, and air-conditioning (HVAC) work. May perform energy audits and advise clients on energy conservation measures.
+
+# TASKS
+- Test combustible appliances, such as gas appliances.
+- Determine amount of air leakage in buildings, using a blower door machine.
+- Test and diagnose air flow systems, using furnace efficiency analysis equipment.
+- Install and seal air ducts, combustion air openings, or ventilation openings to improve heating and cooling efficiency.
+- Inspect buildings to identify required weatherization measures, including repair work, modification, or replacement.
+- Recommend weatherization techniques to clients in accordance with needs and applicable energy regulations, codes, policies, or statutes.
+- Apply insulation materials, such as loose, blanket, board, and foam insulation to attics, crawl spaces, basements, or walls.
+- Make minor repairs using basic hand or power tools and materials, such as glass, lumber, and drywall.
+- Prepare cost estimates or specifications for rehabilitation or weatherization services.
+- Contact residents or building owners to schedule appointments.
+- Wrap air ducts and water lines with insulating materials, such as duct wrap and pipe insulation.
+- Prepare and apply weather-stripping, glazing, caulking, or door sweeps to reduce energy losses.
+- Clean and maintain tools and equipment.
+- Apply spackling, compounding, or other materials to repair holes in walls.
+- Explain recommendations, policies, procedures, requirements, or other related information to residents or building owners.
+- Maintain activity logs, financial transaction logs, or other records of weatherization work performed.
+- Explain energy conservation measures, such as the use of low flow showerheads and energy-efficient lighting.
+- Prepare or assist in the preparation of bids, contracts, or written reports related to weatherization work.
+- Install storm windows or storm doors and verify proper fit.
+- Wrap water heaters with water heater blankets.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Monitoring (Importance: 3.38/5 | Level: 3.25/7)
+- Installation (Importance: 3.25/5 | Level: 2.88/7)
+- Critical Thinking (Importance: 3.25/5 | Level: 3.25/7)
+- Judgment and Decision Making (Importance: 3.25/5 | Level: 3.0/7)
+- Systems Analysis (Importance: 3.12/5 | Level: 2.75/7)
+- Speaking (Importance: 3.12/5 | Level: 3.0/7)
+- Active Listening (Importance: 3.12/5 | Level: 3.0/7)
+- Operations Monitoring (Importance: 3.12/5 | Level: 2.88/7)
+- Systems Evaluation (Importance: 3.0/5 | Level: 2.5/7)
+- Time Management (Importance: 3.0/5 | Level: 2.88/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Service Orientation (Importance: 3.0/5 | Level: 3.0/7)
+- Reading Comprehension (Importance: 3.0/5 | Level: 3.0/7)
+- Quality Control Analysis (Importance: 3.0/5 | Level: 2.88/7)
+- Troubleshooting (Importance: 3.0/5 | Level: 3.0/7)
+- Operation and Control (Importance: 3.0/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.38/7)
+- Active Learning (Importance: 2.88/5 | Level: 2.88/7)
+- Writing (Importance: 2.88/5 | Level: 3.0/7)
+- Complex Problem Solving (Importance: 2.88/5 | Level: 2.38/7)
+- Persuasion (Importance: 2.75/5 | Level: 2.75/7)
+- Mathematics (Importance: 2.75/5 | Level: 2.75/7)
+- Management of Personnel Resources (Importance: 2.75/5 | Level: 2.5/7)
+- Repairing (Importance: 2.75/5 | Level: 2.88/7)
+- Negotiation (Importance: 2.75/5 | Level: 2.25/7)
+- Learning Strategies (Importance: 2.75/5 | Level: 2.38/7)
+- Instructing (Importance: 2.75/5 | Level: 2.62/7)
+- Equipment Maintenance (Importance: 2.5/5 | Level: 2.62/7)
+- Equipment Selection (Importance: 2.38/5 | Level: 2.12/7)
+- Management of Financial Resources (Importance: 2.38/5 | Level: 2.0/7)
+- Management of Material Resources (Importance: 2.25/5 | Level: 2.0/7)
+- Technology Design (Importance: 2.12/5 | Level: 1.38/7)
+- Operations Analysis (Importance: 2.12/5 | Level: 1.88/7)
+- Science (Importance: 2.0/5 | Level: 0.88/7)
+- Programming (Importance: 1.62/5 | Level: 0.88/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Database software (Tech skill type: Data base user interface and query software)
+- Energy auditing software (Tech skill type: Analytical or scientific software)
+- Energy use ratings databases (Tech skill type: Data base user interface and query software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Salesforce.com Salesforce CRM (Tech skill type: Customer relationship management CRM software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Web browser software (Tech skill type: Internet browser software)
+- Work scheduling software (Tech skill type: Calendar and scheduling software)
+
+## TOOLS USED
+- Blower doors (Tool type: Leak testing equipment)
+- Carbon dioxide CO2 testers (Tool type: Single gas monitors)
+- Cat's paws (Tool type: Pullers)
+- Caulking guns (Tool type: Caulking guns)
+- Circular saws (Tool type: Power saws)
+- Claw hammers (Tool type: Claw hammer)
+- Cold chisels (Tool type: Cold chisels)
+- Combination squares (Tool type: Squares)
+- Cordless drills (Tool type: Power drills)
+- Desktop computers (Tool type: Desktop computers)
+- Digital manometers (Tool type: Manometers)
+- Digital voltmeters DVM (Tool type: Voltage or current meters)
+- Digital wattmeters (Tool type: Wattmeters)
+- Dust masks (Tool type: Masks or accessories)
+- Electric tin snips (Tool type: Tinners snips)
+- Electrician's pliers (Tool type: Linemans pliers)
+- End cutting nippers (Tool type: End cut pliers)
+- Extension ladders (Tool type: Ladders)
+- Framing squares (Tool type: Squares)
+- Hacksaws (Tool type: Hacksaw)
+- Hand saws (Tool type: Saws)
+- Hand tin snips (Tool type: Tinners snips)
+- Handheld calculators (Tool type: Pocket calculator)
+- Handheld digital thermometers (Tool type: Handheld thermometer)
+- Heating system combustion analyzers (Tool type: Catalytic combustion analyzers)
+- Infrared thermographic scanners (Tool type: Infrared imagers)
+- Inspection mirrors (Tool type: Inspection mirror)
+- Insulation blowers (Tool type: Power blowers)
+- Laptop computers (Tool type: Notebook computers)
+- Moisture detectors (Tool type: Moisture meters)
+- Multi-gas analyzers (Tool type: Multi gas monitors)
+- Needlenose pliers (Tool type: Needlenose pliers)
+- Non-contact digital thermometers (Tool type: Remote reading thermometers)
+- Non-contact voltage detectors (Tool type: Voltage or current meters)
+- Personal computers (Tool type: Personal computers)
+- Phillips head screwdrivers (Tool type: Screwdrivers)
+- Pin punches (Tool type: Punches or nail sets or drifts)
+- Plug-in circuit testers (Tool type: Circuit tester)
+- Pop rivet guns (Tool type: Rivet tools)
+- Portable air compressors (Tool type: Air compressors)
+- Power saws (Tool type: Power saws)
+- Power staplers (Tool type: Power staple guns)
+- Protective ear muffs (Tool type: Acoustic ear muffs or defenders)
+- Protective respirators (Tool type: Respirators)
+- Putty knives (Tool type: Putty knives)
+- Putty scrapers (Tool type: Putty knives)
+- Ratchet sets (Tool type: Ratchets)
+- Reciprocating saws (Tool type: Power saws)
+- Remote video cameras (Tool type: Digital camcorders or video cameras)
+- Safety goggles (Tool type: Goggles)
+- Scaffolding (Tool type: Scaffolding)
+- Scratch awls (Tool type: Awls)
+- Sheet metal crimpers (Tool type: Wire lug crimping tool)
+- Shop vacuums (Tool type: Wet or dry combination vacuum cleaners)
+- Slip joint pliers (Tool type: Slip or groove joint pliers)
+- Smoke generators (Tool type: Leak testing equipment)
+- Socket wrench sets (Tool type: Socket sets)
+- Steel measuring tapes (Tool type: Tape measures)
+- Straight screwdrivers (Tool type: Screwdrivers)
+- Tape measures (Tool type: Tape measures)
+- Universal nut wrenches (Tool type: Nut drivers)
+- Volt-ohm meters VOM (Tool type: Ohmmeters)
+- Wire cleaning brushes (Tool type: Wire brushes)
+- Wire strippers (Tool type: Stripping tools)
+- Wood chisels (Tool type: Wood chisels)
+- Work vans (Tool type: Minivans or vans)
+- Wrecking bars (Tool type: Pry bars)

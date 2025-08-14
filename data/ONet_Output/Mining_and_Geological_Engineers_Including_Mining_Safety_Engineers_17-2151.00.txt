@@ -1,0 +1,129 @@
+Job Title: Mining and Geological Engineers, Including Mining Safety Engineers
+O*NET-SOC Code: 17-2151.00
+
+# DESCRIPTION
+Conduct subsurface surveys to identify the characteristics of potential land or mining development sites. May specify the ground support systems, processes, and equipment for safe, economical, and environmentally sound extraction or underground construction activities. May inspect areas for unsafe geological conditions, equipment, and working conditions. May design, implement, and coordinate mine safety programs.
+
+# TASKS
+- Prepare technical reports for use by mining, engineering, and management personnel.
+- Inspect mining areas for unsafe structures, equipment, and working conditions.
+- Select or develop mineral location, extraction, and production methods, based on factors such as safety, cost, and deposit characteristics.
+- Select locations and plan underground or surface mining operations, specifying processes, labor usage, and equipment that will result in safe, economical, and environmentally sound extraction of minerals and ores.
+- Prepare schedules, reports, and estimates of the costs involved in developing and operating mines.
+- Monitor mine production rates to assess operational effectiveness.
+- Supervise, train, and evaluate technicians, technologists, survey personnel, engineers, scientists or other mine personnel.
+- Examine maps, deposits, drilling locations, or mines to determine the location, size, accessibility, contents, value, and potential profitability of mineral, oil, and gas deposits.
+- Design, implement, and monitor the development of mines, facilities, systems, or equipment.
+- Test air to detect toxic gases and recommend measures to remove them, such as installation of ventilation shafts.
+- Implement and coordinate mine safety programs, including the design and maintenance of protective and rescue equipment and safety devices.
+- Devise solutions to problems of land reclamation and water and air pollution, such as methods of storing excavated soil and returning exhausted mine sites to natural states.
+- Lay out, direct, and supervise mine construction operations, such as the construction of shafts and tunnels.
+- Design, develop, and implement computer applications for use in mining operations such as mine design, modeling, or mapping or for monitoring mine conditions.
+- Select or devise materials-handling methods and equipment to transport ore, waste materials, and mineral products efficiently and economically.
+- Evaluate data to develop new mining products, equipment, or processes.
+- Design mining and mineral treatment equipment and machinery in collaboration with other engineering specialists.
+- Conduct or direct mining experiments to test or prove research findings.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Complex Problem Solving (Importance: 4.12/5 | Level: 4.38/7)
+- Writing (Importance: 4.0/5 | Level: 4.25/7)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.5/7)
+- Speaking (Importance: 4.0/5 | Level: 4.12/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.75/7)
+- Judgment and Decision Making (Importance: 4.0/5 | Level: 4.62/7)
+- Active Listening (Importance: 3.88/5 | Level: 4.0/7)
+- Mathematics (Importance: 3.75/5 | Level: 4.62/7)
+- Systems Evaluation (Importance: 3.75/5 | Level: 4.25/7)
+- Systems Analysis (Importance: 3.75/5 | Level: 4.0/7)
+- Monitoring (Importance: 3.75/5 | Level: 4.5/7)
+- Science (Importance: 3.5/5 | Level: 4.0/7)
+- Active Learning (Importance: 3.5/5 | Level: 4.12/7)
+- Coordination (Importance: 3.5/5 | Level: 3.75/7)
+- Time Management (Importance: 3.38/5 | Level: 3.88/7)
+- Learning Strategies (Importance: 3.12/5 | Level: 3.38/7)
+- Operations Analysis (Importance: 3.12/5 | Level: 4.12/7)
+- Instructing (Importance: 3.12/5 | Level: 3.5/7)
+- Management of Personnel Resources (Importance: 3.0/5 | Level: 3.62/7)
+- Operations Monitoring (Importance: 3.0/5 | Level: 3.38/7)
+- Management of Material Resources (Importance: 3.0/5 | Level: 3.25/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 3.25/7)
+- Management of Financial Resources (Importance: 2.88/5 | Level: 3.75/7)
+- Negotiation (Importance: 2.88/5 | Level: 3.25/7)
+- Persuasion (Importance: 2.88/5 | Level: 3.38/7)
+- Quality Control Analysis (Importance: 2.88/5 | Level: 3.5/7)
+- Programming (Importance: 2.62/5 | Level: 3.0/7)
+- Service Orientation (Importance: 2.62/5 | Level: 2.62/7)
+- Technology Design (Importance: 2.5/5 | Level: 2.88/7)
+- Equipment Selection (Importance: 2.25/5 | Level: 2.5/7)
+- Operation and Control (Importance: 2.0/5 | Level: 2.0/7)
+- Troubleshooting (Importance: 1.88/5 | Level: 1.88/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Autodesk AutoCAD Civil 3D (Tech skill type: Computer aided design CAD software)
+- Bentley MicroStation (Tech skill type: Computer aided design CAD software)
+- Business software applications (Tech skill type: Office suite software)
+- Carlson SurvCADD (Tech skill type: Computer aided design CAD software)
+- Computer aided design and drafting CADD software (Tech skill type: Computer aided design CAD software)
+- CyberArk (Tech skill type: Network security or virtual private network VPN management software)
+- Enterprise resource planning ERP software (Tech skill type: Enterprise resource planning ERP software)
+- Gemcom PCBC (Tech skill type: Analytical or scientific software)
+- Gemcom Surpac (Tech skill type: Analytical or scientific software)
+- Gemcom Whittle (Tech skill type: Analytical or scientific software)
+- GEO-SLOPE GeoStudio (Tech skill type: Analytical or scientific software)
+- Geographic information system GIS systems (Tech skill type: Geographic information system)
+- GijimaAst Mining Solutions International Mine2-4D (Tech skill type: Data base user interface and query software)
+- Hellman & Schofield MP3 (Tech skill type: Analytical or scientific software)
+- Maptek Vulcan (Tech skill type: Analytical or scientific software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Mincom MineScape (Tech skill type: Data base user interface and query software)
+- Minemax iGantt (Tech skill type: Data base user interface and query software)
+- MineSight (Tech skill type: Analytical or scientific software)
+- Modular Mining Systems DISPATCH (Tech skill type: Analytical or scientific software)
+- MySQL (Tech skill type: Data base user interface and query software)
+- Ohio Automation Integrated Computer Aided Mine Planning System ICAMPS (Tech skill type: Analytical or scientific software)
+- Oracle Database (Tech skill type: Data base user interface and query software)
+- Oracle JD Edwards EnterpriseOne (Tech skill type: Enterprise resource planning ERP software)
+- Oracle Primavera Systems (Tech skill type: Project management software)
+- Overland Conveyor Belt Analyst (Tech skill type: Analytical or scientific software)
+- Promine (Tech skill type: Computer aided design CAD software)
+- RungePincockMinarco XERAS (Tech skill type: Financial analysis software)
+- RungePincockMinarco XPAC (Tech skill type: Analytical or scientific software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Schlumberger PIPESIM (Tech skill type: Analytical or scientific software)
+- Site mapping software (Tech skill type: Map creation software)
+- Statistical software (Tech skill type: Analytical or scientific software)
+- Structure query language SQL (Tech skill type: Data base user interface and query software)
+- Trimble Geomatics Office (Tech skill type: Analytical or scientific software)
+- Ventsim (Tech skill type: Analytical or scientific software)
+- VMware (Tech skill type: Clustering software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Clinometers (Tool type: Clinometers)
+- Color plotting printers (Tool type: Plotter printers)
+- Combustible gas detectors (Tool type: Gas detectors)
+- Computer scanners (Tool type: Scanners)
+- Desktop computers (Tool type: Desktop computers)
+- Digital plotters (Tool type: Plotter printers)
+- Directional compasses (Tool type: Geological compasses)
+- Geological hammers (Tool type: Hammers)
+- Global positioning system GPS receivers (Tool type: Global positioning system GPS receiver)
+- Handheld calculators (Tool type: Pocket calculator)
+- Laptop computers (Tool type: Notebook computers)
+- Measuring tapes (Tool type: Tape measures)
+- Personal computers (Tool type: Personal computers)
+- Stratum compasses (Tool type: Geological compasses)
+- Universal serial bus USB flash drives (Tool type: High capacity removable media drives)

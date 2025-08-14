@@ -1,0 +1,208 @@
+Job Title: Geological Technicians, Except Hydrologic Technicians
+O*NET-SOC Code: 19-4043.00
+
+# DESCRIPTION
+Assist scientists or engineers in the use of electronic, sonic, or nuclear measuring instruments in laboratory, exploration, and production activities to obtain data indicating resources such as metallic ore, minerals, gas, coal, or petroleum. Analyze mud and drill cuttings. Chart pressure, temperature, and other characteristics of wells or bore holes.
+
+# TASKS
+- Test and analyze samples to determine their content and characteristics, using laboratory apparatus or testing equipment.
+- Collect or prepare solid or fluid samples for analysis.
+- Compile, log, or record testing or operational data for review and further analysis.
+- Prepare notes, sketches, geological maps, or cross-sections.
+- Participate in geological, geophysical, geochemical, hydrographic, or oceanographic surveys, prospecting field trips, exploratory drilling, well logging, or underground mine survey programs.
+- Prepare or review professional, technical, or other reports regarding sampling, testing, or recommendations of data analysis.
+- Adjust or repair testing, electrical, or mechanical equipment or devices.
+- Read and study reports in order to compile information and data for geological and geophysical prospecting.
+- Interview individuals, and research public databases in order to obtain information.
+- Plot information from aerial photographs, well logs, section descriptions, or other databases.
+- Assemble, maintain, or distribute information for library or record systems.
+- Operate or adjust equipment or apparatus used to obtain geological data.
+- Plan and direct activities of workers who operate equipment to collect data.
+- Set up or direct set-up of instruments used to collect geological data.
+- Record readings in order to compile data used in prospecting for oil or gas.
+- Create photographic recordings of information, using equipment.
+- Measure geological characteristics used in prospecting for oil or gas, using measuring instruments.
+- Participate in the evaluation of possible mining locations.
+- Assess the environmental impacts of development projects on subsurface materials.
+- Evaluate and interpret core samples and cuttings, and other geological data used in prospecting for oil or gas.
+- Supervise well exploration, drilling activities, or well completions.
+- Inspect engines for wear or defective parts, using equipment or measuring devices.
+- Collaborate with hydrogeologists to evaluate groundwater or well circulation.
+- Apply new technologies, such as improved seismic imaging techniques, to locate untapped oil or natural gas deposits.
+- Collect data on underground areas, such as reservoirs, that could be used in carbon sequestration operations.
+- Collect geological data from potential geothermal energy plant sites.
+- Compile data used to address environmental issues, such as the suitability of potential landfill sites.
+- Conduct geophysical surveys of potential sites for wind farms or solar installations to determine their suitability.
+- Evaluate and interpret seismic data with the aid of computers.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Reading Comprehension (Importance: 3.75/5 | Level: 4.0/7)
+- Critical Thinking (Importance: 3.5/5 | Level: 3.25/7)
+- Writing (Importance: 3.25/5 | Level: 3.5/7)
+- Time Management (Importance: 3.25/5 | Level: 3.12/7)
+- Monitoring (Importance: 3.25/5 | Level: 3.25/7)
+- Complex Problem Solving (Importance: 3.12/5 | Level: 3.25/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 3.0/7)
+- Active Listening (Importance: 3.12/5 | Level: 3.5/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Speaking (Importance: 3.0/5 | Level: 3.25/7)
+- Operations Monitoring (Importance: 3.0/5 | Level: 2.62/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.62/7)
+- Mathematics (Importance: 2.75/5 | Level: 3.0/7)
+- Active Learning (Importance: 2.75/5 | Level: 3.12/7)
+- Operation and Control (Importance: 2.75/5 | Level: 2.38/7)
+- Instructing (Importance: 2.62/5 | Level: 2.62/7)
+- Systems Analysis (Importance: 2.62/5 | Level: 2.5/7)
+- Learning Strategies (Importance: 2.62/5 | Level: 2.38/7)
+- Persuasion (Importance: 2.62/5 | Level: 3.0/7)
+- Science (Importance: 2.62/5 | Level: 2.25/7)
+- Systems Evaluation (Importance: 2.5/5 | Level: 2.25/7)
+- Service Orientation (Importance: 2.5/5 | Level: 2.5/7)
+- Management of Personnel Resources (Importance: 2.5/5 | Level: 2.38/7)
+- Negotiation (Importance: 2.38/5 | Level: 2.38/7)
+- Quality Control Analysis (Importance: 2.25/5 | Level: 2.38/7)
+- Equipment Selection (Importance: 2.25/5 | Level: 2.0/7)
+- Management of Material Resources (Importance: 2.12/5 | Level: 1.38/7)
+- Troubleshooting (Importance: 2.12/5 | Level: 2.0/7)
+- Technology Design (Importance: 2.0/5 | Level: 1.12/7)
+- Repairing (Importance: 2.0/5 | Level: 1.88/7)
+- Equipment Maintenance (Importance: 1.88/5 | Level: 1.62/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 1.25/7)
+- Programming (Importance: 1.62/5 | Level: 1.25/7)
+- Operations Analysis (Importance: 1.5/5 | Level: 0.88/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adobe Illustrator (Tech skill type: Graphics or photo imaging software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Clark Labs IDRISI Andes (Tech skill type: Map creation software)
+- Corel CorelDraw Graphics Suite (Tech skill type: Graphics or photo imaging software)
+- Database software (Tech skill type: Data base user interface and query software)
+- Dynamic Graphics EarthVision (Tech skill type: Computer aided design CAD software)
+- ESRI ArcGIS software (Tech skill type: Geographic information system)
+- Geographic information system GIS software (Tech skill type: Geographic information system)
+- Geographic information system GIS systems (Tech skill type: Geographic information system)
+- Geographic resources analysis support system GRASS (Tech skill type: Map creation software)
+- Global positioning system GPS software (Tech skill type: Mobile location based services software)
+- Golden Software Surfer (Tech skill type: Map creation software)
+- Halliburton ProMAX (Tech skill type: Analytical or scientific software)
+- IHS Petra (Tech skill type: Analytical or scientific software)
+- Inventory management systems (Tech skill type: Inventory management software)
+- Juniper Systems LandMark Mobile (Tech skill type: Mobile location based services software)
+- Landmark Graphics GeoGraphix (Tech skill type: Analytical or scientific software)
+- Landmark SeisWorks (Tech skill type: Analytical or scientific software)
+- Leica Geosystems ERDAS IMAGINE (Tech skill type: Map creation software)
+- Martin D Adamiker's TruFlite (Tech skill type: Map creation software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Midland Valley 2DMove (Tech skill type: Computer aided design CAD software)
+- Parallel Geoscience SPW (Tech skill type: Analytical or scientific software)
+- Petroleum Software Technologies (Tech skill type: Analytical or scientific software)
+- petroWEB Global Seismic Library (Tech skill type: Analytical or scientific software)
+- SAP BusinessObjects Crystal Reports (Tech skill type: Data base reporting software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Schlumberger GeoFrame (Tech skill type: Analytical or scientific software)
+- Seismic Micro-Technology KINGDOM (Tech skill type: Analytical or scientific software)
+- Surface III (Tech skill type: Map creation software)
+- Techsia Techlog (Tech skill type: Analytical or scientific software)
+
+## TOOLS USED
+- 35 millimeter cameras (Tool type: Still cameras)
+- Abney levels (Tool type: Height gauges)
+- Automatic burets (Tool type: Robotic or automated liquid handling systems)
+- Binocular polarizing microscopes (Tool type: Polarizing microscopes)
+- Calorimeters (Tool type: Calorimeters)
+- Carbon hydrogen nitrogen CHN analyzers (Tool type: Multi gas monitors)
+- Chipmunk crushers (Tool type: Laboratory crushers or pulverizers)
+- Clinometers (Tool type: Clinometers)
+- Conductivity indicators (Tool type: Conductivity meters)
+- Cryogenic magnetometers (Tool type: Magnetometer geophysical instruments)
+- Desktop computers (Tool type: Desktop computers)
+- Digital cameras (Tool type: Digital cameras)
+- Digital chlorine testers (Tool type: Single gas monitors)
+- Digital hydrometers (Tool type: Hydrometers)
+- Digital micropipettes (Tool type: Dropping pipettes)
+- Digital pH meters (Tool type: pH meters)
+- Digital seismographs (Tool type: Seismic recorders or seismographs)
+- Directional compasses (Tool type: Geological compasses)
+- Dissolved organic carbon analyzers (Tool type: Organic carbon analyzers)
+- Dissolved oxygen meters (Tool type: Dissolved oxygen meters)
+- Dissolved salt meters (Tool type: Salinity meter)
+- Earth drills (Tool type: Soil core sampling apparatus)
+- Electronic digital levels (Tool type: Levels)
+- Electronic digital theodolites (Tool type: Theodolites)
+- Electronic distance meters (Tool type: Distance meters)
+- Electronic laboratory balances (Tool type: Laboratory balances)
+- Erlenmeyer flasks (Tool type: Laboratory flasks)
+- Fluorescence microscopes (Tool type: Fluorescent microscopes)
+- Fluorescence spectrophotometers (Tool type: Spectrophotometers)
+- Fourier transfer infrared FTIR spectrometers (Tool type: Infrared spectrometers)
+- Gas chromatography equipment (Tool type: Gas chromatographs)
+- General purpose burets (Tool type: Laboratory burets)
+- Geological hammers (Tool type: Hammers)
+- Glass beakers (Tool type: Laboratory beakers)
+- Glass dropping pipettes (Tool type: Dropping pipettes)
+- Glass funnels (Tool type: Laboratory funnels)
+- Glass graduated cylinders (Tool type: Laboratory graduated cylinders)
+- Glass laboratory crucibles (Tool type: Glass crucibles)
+- Global positioning system GPS receivers (Tool type: Global positioning system GPS receiver)
+- Gravitational field indicators (Tool type: Gravimeters)
+- Ground penetrating radar GPR systems (Tool type: Radarbased surveillance systems)
+- Groundwater sampling peristaltic pumps (Tool type: Peristaltic pumps)
+- Hand augers (Tool type: Augers)
+- Hand lenses (Tool type: Magnifiers)
+- Hand levels (Tool type: Levels)
+- Heated magnetic stirrers (Tool type: Magnetic stirrers)
+- High pressure liquid chromatograph HPLC equipment (Tool type: High pressure liquid chromatograph chromatography)
+- Hydraulic vibracorers (Tool type: Soil core sampling apparatus)
+- Inductively coupled plasma ICP optical emission spectrometers (Tool type: Inductively coupled plasma ICP spectrometers)
+- Jaw crushers (Tool type: Jaw crushers)
+- Laboratory drying ovens (Tool type: Drying cabinets or ovens)
+- Laboratory pulverizers (Tool type: Laboratory crushers or pulverizers)
+- Laboratory sieves (Tool type: Test sieves)
+- Laboratory vacuum pumps (Tool type: Laboratory vacuum pumps)
+- Laptop computers (Tool type: Notebook computers)
+- Laser rangefinders (Tool type: Rangefinders)
+- Magnetometers (Tool type: Magnetometer geophysical instruments)
+- Mass spectrometers (Tool type: Mass spectrometers)
+- Microwave digestion systems (Tool type: Extracting equipment for laboratories)
+- Optical particle detectors (Tool type: Spectrophotometers)
+- Personal computers (Tool type: Personal computers)
+- Phase contrast microscopes (Tool type: Darkfield microscopes)
+- Piezometers (Tool type: Pressure sensors)
+- Planimeters (Tool type: Map measurers)
+- Pocket transits (Tool type: Geological compasses)
+- Portable dataloggers (Tool type: Portable data input terminals)
+- Power rock coring drills (Tool type: Pneumatic rock drills)
+- Proton magnetometers (Tool type: Magnetometer geophysical instruments)
+- Rock picks (Tool type: Picks)
+- Rock saws (Tool type: Rock cutters)
+- Rotary pulverizers (Tool type: Laboratory crushers or pulverizers)
+- Sample microsplitters (Tool type: Soil core sampling apparatus)
+- Scanning electron microscopes SEM (Tool type: Scanning electron microscopes)
+- Scientific calculators (Tool type: Scientific calculator)
+- Shatterboxes (Tool type: Laboratory crushers or pulverizers)
+- Sieve shakers (Tool type: Laboratory sifting equipment)
+- Single crystal x ray diffractometers (Tool type: X ray diffraction equipment)
+- Soil augers (Tool type: Soil core sampling apparatus)
+- Soil core samplers (Tool type: Soil core sampling apparatus)
+- Spectrophotometers (Tool type: Spectrophotometers)
+- Spinner magnetometers (Tool type: Magnetometer geophysical instruments)
+- Stadia rods (Tool type: Measuring rods)
+- Surveillance binoculars (Tool type: Binoculars)
+- Survey altimeters (Tool type: Height gauges)
+- Terrain conductivity meters (Tool type: Conductivity meters)
+- Top-loading electronic balances (Tool type: Electronic toploading balances)
+- Total stations (Tool type: Theodolites)
+- Total sulfur analyzers (Tool type: Sulfur dioxide analyzers or detectors)
+- Turbidimeters (Tool type: Turbidimeters)
+- Ultraviolet-Visible UV/VIS spectrophotometers (Tool type: Spectrophotometers)
+- Volumetric flasks (Tool type: Laboratory flasks)
+- Water distillation units (Tool type: Bi distillation units)
+- Water sampling bailers (Tool type: Laboratory bailers)
+- X ray fluorescence XRF spectrometers (Tool type: Spectrofluorimeters or fluorimeters)

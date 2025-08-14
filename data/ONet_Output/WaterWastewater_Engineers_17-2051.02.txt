@@ -1,0 +1,135 @@
+Job Title: Water/Wastewater Engineers
+O*NET-SOC Code: 17-2051.02
+
+# DESCRIPTION
+Design or oversee projects involving provision of potable water, disposal of wastewater and sewage, or prevention of flood-related damage. Prepare environmental documentation for water resources, regulatory program compliance, data management and analysis, and field work. Perform hydraulic modeling and pipeline design.
+
+# TASKS
+- Provide technical direction or supervision to junior engineers, engineering or computer-aided design (CAD) technicians, or other technical personnel.
+- Review and critique proposals, plans, or designs related to water or wastewater treatment systems.
+- Design domestic or industrial water or wastewater treatment plants, including advanced facilities with sequencing batch reactors (SBR), membranes, lift stations, headworks, surge overflow basins, ultraviolet disinfection systems, aerobic digesters, sludge lagoons, or control buildings.
+- Evaluate the operation and maintenance of water or wastewater systems to identify ways to improve their efficiency.
+- Design or select equipment for use in wastewater processing to ensure compliance with government standards.
+- Design pumping systems, pumping stations, pipelines, force mains, or sewers for the collection of wastewater.
+- Design water distribution systems for potable or non-potable water.
+- Conduct water quality studies to identify and characterize water pollutant sources.
+- Analyze and recommend chemical, biological, or other wastewater treatment methods to prepare water for industrial or domestic use.
+- Identify design alternatives for the development of new water resources.
+- Design water runoff collection networks, water supply channels, or water supply system networks.
+- Design water or wastewater lift stations, including water wells.
+- Conduct cost-benefit analyses for the construction of water supply systems, runoff collection networks, water and wastewater treatment plants, or wastewater collection systems.
+- Provide technical support on water resource or treatment issues to government agencies.
+- Conduct feasibility studies for the construction of facilities, such as water supply systems, runoff collection networks, water and wastewater treatment plants, or wastewater collection systems.
+- Analyze storm water or floodplain drainage systems to control erosion, stabilize river banks, repair channel streams, or design bridges.
+- Oversee the construction of decentralized or on-site wastewater treatment systems, including reclaimed water facilities.
+- Develop plans for new water resources or water efficiency programs.
+- Perform hydrological analyses, using three-dimensional simulation software, to model the movement of water or forecast the dispersion of chemical pollutants in the water supply.
+- Perform hydraulic analyses of water supply systems or water distribution networks to model flow characteristics, test for pressure losses, or to identify opportunities to mitigate risks and improve operational efficiency.
+- Write technical reports or publications related to water resources development or water use efficiency.
+- Design water storage tanks or other water storage facilities.
+- Analyze and recommend sludge treatment or disposal methods.
+- Design sludge treatment plants.
+- Gather and analyze water use data to forecast water demand.
+- Conduct environmental impact studies related to water and wastewater collection, treatment, or distribution.
+- Analyze the efficiency of water delivery structures, such as dams, tainter gates, canals, pipes, penstocks, or cofferdams.
+- Perform mathematical modeling of underground or surface water resources, such as floodplains, ocean coastlines, streams, rivers, or wetlands.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Writing (Importance: 4.0/5 | Level: 4.0/7)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.12/7)
+- Judgment and Decision Making (Importance: 4.0/5 | Level: 4.12/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.38/7)
+- Mathematics (Importance: 3.88/5 | Level: 4.5/7)
+- Complex Problem Solving (Importance: 3.88/5 | Level: 4.75/7)
+- Systems Evaluation (Importance: 3.88/5 | Level: 4.12/7)
+- Systems Analysis (Importance: 3.88/5 | Level: 4.12/7)
+- Active Listening (Importance: 3.88/5 | Level: 4.0/7)
+- Time Management (Importance: 3.75/5 | Level: 3.88/7)
+- Speaking (Importance: 3.75/5 | Level: 4.0/7)
+- Monitoring (Importance: 3.62/5 | Level: 4.0/7)
+- Science (Importance: 3.5/5 | Level: 4.12/7)
+- Operations Analysis (Importance: 3.25/5 | Level: 3.88/7)
+- Active Learning (Importance: 3.25/5 | Level: 4.0/7)
+- Management of Personnel Resources (Importance: 3.25/5 | Level: 3.62/7)
+- Learning Strategies (Importance: 3.12/5 | Level: 3.75/7)
+- Coordination (Importance: 3.12/5 | Level: 3.62/7)
+- Instructing (Importance: 3.12/5 | Level: 3.62/7)
+- Persuasion (Importance: 3.0/5 | Level: 3.12/7)
+- Negotiation (Importance: 3.0/5 | Level: 3.0/7)
+- Service Orientation (Importance: 3.0/5 | Level: 2.88/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 3.0/7)
+- Operations Monitoring (Importance: 2.88/5 | Level: 3.0/7)
+- Technology Design (Importance: 2.88/5 | Level: 3.25/7)
+- Quality Control Analysis (Importance: 2.62/5 | Level: 3.38/7)
+- Management of Financial Resources (Importance: 2.25/5 | Level: 2.75/7)
+- Programming (Importance: 2.12/5 | Level: 2.5/7)
+- Management of Material Resources (Importance: 2.12/5 | Level: 2.75/7)
+- Troubleshooting (Importance: 2.12/5 | Level: 2.25/7)
+- Operation and Control (Importance: 2.12/5 | Level: 2.0/7)
+- Equipment Selection (Importance: 1.75/5 | Level: 1.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Autodesk AutoCAD Civil 3D (Tech skill type: Computer aided design CAD software)
+- Autodesk Revit (Tech skill type: Computer aided design CAD software)
+- Bash (Tech skill type: Operating system software)
+- Bentley GEOPAK Civil Engineering Suite (Tech skill type: Computer aided design CAD software)
+- Bentley InRoads Suite (Tech skill type: Computer aided design CAD software)
+- Bentley MicroStation (Tech skill type: Computer aided design CAD software)
+- Bentley SewerCAD (Tech skill type: Computer aided design CAD software)
+- Bentley StormCAD (Tech skill type: Analytical or scientific software)
+- Bentley WaterCAD (Tech skill type: Computer aided design CAD software)
+- Business software applications (Tech skill type: Office suite software)
+- Computer aided design and drafting software CADD (Tech skill type: Computer aided design CAD software)
+- DHI MIKE URBAN (Tech skill type: Analytical or scientific software)
+- Eagle Point LANDCADD (Tech skill type: Computer aided design CAD software)
+- EPA Storm Water Management Model SWMM (Tech skill type: Analytical or scientific software)
+- ESRI ArcGIS software (Tech skill type: Geographic information system)
+- ESRI software (Tech skill type: Geographic information system)
+- Geographic information system GIS software (Tech skill type: Geographic information system)
+- Geographic information system GIS systems (Tech skill type: Geographic information system)
+- Google Chrome (Tech skill type: Internet browser software)
+- HEC-1 (Tech skill type: Analytical or scientific software)
+- HEC-GeoRAS (Tech skill type: Analytical or scientific software)
+- HEC-HMS (Tech skill type: Analytical or scientific software)
+- HEC-RAS (Tech skill type: Analytical or scientific software)
+- Hydraulic modeling software (Tech skill type: Analytical or scientific software)
+- HydroCAD Software Solutions HydroCAD Stormwater Modeling System (Tech skill type: Computer aided design CAD software)
+- KYPipe (Tech skill type: Analytical or scientific software)
+- MapInfo (Tech skill type: Map creation software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Internet Explorer (Tech skill type: Internet browser software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Minitab (Tech skill type: Analytical or scientific software)
+- Mozilla Firefox (Tech skill type: Internet browser software)
+- MWH Soft InfoSWMM (Tech skill type: Analytical or scientific software)
+- NIWA Tideda (Tech skill type: Analytical or scientific software)
+- OpenRoads Designer (Tech skill type: Computer aided design CAD software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- Python (Tech skill type: Object or component oriented development software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Supervisory control and data acquisition SCADA software (Tech skill type: Industrial control software)
+- Wallingford Software InfoSewer (Tech skill type: Analytical or scientific software)
+- Wallingford Software InfoWorks WS (Tech skill type: Analytical or scientific software)
+- Web browser software (Tech skill type: Internet browser software)
+- Word processing software (Tech skill type: Word processing software)
+- XP Software XPSWMM (Tech skill type: Analytical or scientific software)
+
+## TOOLS USED
+- Computer data input scanners (Tool type: Scanners)
+- Computer laser printers (Tool type: Laser printers)
+- Desktop computers (Tool type: Desktop computers)
+- Digitizers (Tool type: Scanners)
+- Laptop computers (Tool type: Notebook computers)
+- Large-format plotters (Tool type: Plotter printers)
+- Personal computers (Tool type: Personal computers)

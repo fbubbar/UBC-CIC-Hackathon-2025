@@ -1,0 +1,96 @@
+Job Title: Customs Brokers
+O*NET-SOC Code: 13-1041.08
+
+# DESCRIPTION
+Prepare customs documentation and ensure that shipments meet all applicable laws to facilitate the import and export of goods. Determine and track duties and taxes payable and process payments on behalf of client. Sign documents under a power of attorney. Represent clients in meetings with customs officials and apply for duty refunds and tariff reclassifications. Coordinate transportation and storage of imported goods.
+
+# TASKS
+- Prepare and process import and export documentation according to customs regulations, laws, or procedures.
+- Clear goods through customs and to their destinations for clients.
+- Pay, or arrange for payment of, taxes and duties on shipments.
+- Calculate duty and tariff payments owed on shipments.
+- Request or compile necessary import documentation, such as customs invoices, certificates of origin, and cargo-control documents.
+- Classify goods according to tariff coding system.
+- Stay abreast of changes in import or export laws or regulations by reading current literature, attending meetings or conferences, or conferring with colleagues.
+- Sign documents on behalf of clients, using powers of attorney.
+- Advise customers on import and export restrictions, tariff systems, insurance requirements, quotas, or other customs-related matters.
+- Post bonds for the products being imported or assist clients in obtaining bonds.
+- Quote duty and tax rates on goods to be imported, based on federal tariffs and excise taxes.
+- Arrange for transportation, warehousing, or product distribution of imported or exported products.
+- Monitor or trace the location of goods.
+- Confer with officials in various agencies to facilitate clearance of goods through customs and quarantine.
+- Inform importers and exporters of steps to reduce duties and taxes.
+- Obtain line releases for frequent shippers of low-risk commodities, high-volume entries, or multiple-container loads.
+- Provide advice on transportation options, types of carriers, or shipping routes.
+- Contract with freight forwarders for destination services.
+- Apply for tariff concessions or for duty drawbacks and other refunds.
+- Insure cargo against loss, damage, or pilferage.
+- Prepare papers for shippers to appeal duty charges.
+- Suggest best methods of packaging or labeling products.
+- Maintain relationships with customs brokers in other ports to expedite clearing of cargo.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Active Listening (Importance: 4.0/5 | Level: 4.0/7)
+- Reading Comprehension (Importance: 3.88/5 | Level: 4.0/7)
+- Writing (Importance: 3.75/5 | Level: 3.88/7)
+- Complex Problem Solving (Importance: 3.75/5 | Level: 3.12/7)
+- Critical Thinking (Importance: 3.75/5 | Level: 3.88/7)
+- Speaking (Importance: 3.75/5 | Level: 4.0/7)
+- Monitoring (Importance: 3.25/5 | Level: 3.62/7)
+- Time Management (Importance: 3.25/5 | Level: 3.12/7)
+- Service Orientation (Importance: 3.25/5 | Level: 3.0/7)
+- Active Learning (Importance: 3.25/5 | Level: 3.62/7)
+- Judgment and Decision Making (Importance: 3.25/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 3.12/5 | Level: 3.0/7)
+- Negotiation (Importance: 3.0/5 | Level: 3.12/7)
+- Coordination (Importance: 3.0/5 | Level: 3.12/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 3.0/7)
+- Instructing (Importance: 3.0/5 | Level: 3.0/7)
+- Systems Analysis (Importance: 3.0/5 | Level: 3.0/7)
+- Mathematics (Importance: 3.0/5 | Level: 3.0/7)
+- Management of Personnel Resources (Importance: 3.0/5 | Level: 3.0/7)
+- Persuasion (Importance: 2.88/5 | Level: 3.0/7)
+- Systems Evaluation (Importance: 2.88/5 | Level: 3.0/7)
+- Management of Material Resources (Importance: 2.5/5 | Level: 2.5/7)
+- Management of Financial Resources (Importance: 2.25/5 | Level: 2.62/7)
+- Operations Monitoring (Importance: 1.88/5 | Level: 1.38/7)
+- Programming (Importance: 1.88/5 | Level: 1.38/7)
+- Technology Design (Importance: 1.75/5 | Level: 0.88/7)
+- Operations Analysis (Importance: 1.62/5 | Level: 0.75/7)
+- Quality Control Analysis (Importance: 1.25/5 | Level: 0.25/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+- Operation and Control (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Automated commercial environment software ACE (Tech skill type: Data base user interface and query software)
+- Automated system for customs data ASYCUDA (Tech skill type: Compliance software)
+- Customs records databases (Tech skill type: Data base user interface and query software)
+- Electronic data interchange EDI software (Tech skill type: Electronic mail software)
+- Materials requirement planning MRP software (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Operating system software (Tech skill type: Operating system software)
+- Optical character reader OCR software (Tech skill type: Optical character reader OCR or scanning software)
+- Parts classification databases (Tech skill type: Data base user interface and query software)
+- SAP Customs Management (Tech skill type: Project management software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Tariff databases (Tech skill type: Data base user interface and query software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Computer data input scanners (Tool type: Scanners)
+- Desktop computers (Tool type: Desktop computers)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Multiline telephone systems (Tool type: Special purpose telephones)
+- Personal computers (Tool type: Personal computers)
+- Tablet computers (Tool type: Tablet computers)

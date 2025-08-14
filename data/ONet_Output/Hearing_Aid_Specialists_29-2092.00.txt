@@ -1,0 +1,103 @@
+Job Title: Hearing Aid Specialists
+O*NET-SOC Code: 29-2092.00
+
+# DESCRIPTION
+Select and fit hearing aids for customers. Administer and interpret tests of hearing. Assess hearing instrument efficacy. Take ear impressions and prepare, design, and modify ear molds.
+
+# TASKS
+- Train clients to use hearing aids or other augmentative communication devices.
+- Counsel patients and families on communication strategies and the effects of hearing loss.
+- Select and administer tests to evaluate hearing or related disabilities.
+- Administer basic hearing tests including air conduction, bone conduction, or speech audiometry tests.
+- Maintain or repair hearing aids or other communication devices.
+- Perform basic screening procedures, such as pure tone screening, otoacoustic screening, immittance screening, and screening of ear canal status using otoscope.
+- Create or modify impressions for earmolds and hearing aid shells.
+- Read current literature, talk with colleagues, and participate in professional organizations or conferences to keep abreast of developments in audiology.
+- Demonstrate assistive listening devices (ALDs) to clients.
+- Assist audiologists in performing aural procedures, such as real ear measurements, speech audiometry, auditory brainstem responses, electronystagmography, and cochlear implant mapping.
+- Diagnose and treat hearing or related disabilities under the direction of an audiologist.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Active Listening (Importance: 3.88/5 | Level: 3.88/7)
+- Service Orientation (Importance: 3.62/5 | Level: 3.75/7)
+- Instructing (Importance: 3.5/5 | Level: 3.25/7)
+- Speaking (Importance: 3.38/5 | Level: 3.62/7)
+- Social Perceptiveness (Importance: 3.25/5 | Level: 3.25/7)
+- Reading Comprehension (Importance: 3.25/5 | Level: 3.38/7)
+- Active Learning (Importance: 3.12/5 | Level: 3.12/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.0/7)
+- Persuasion (Importance: 3.12/5 | Level: 3.25/7)
+- Writing (Importance: 3.12/5 | Level: 3.0/7)
+- Critical Thinking (Importance: 3.12/5 | Level: 3.62/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 3.12/7)
+- Complex Problem Solving (Importance: 3.12/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 3.0/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Systems Evaluation (Importance: 2.88/5 | Level: 3.0/7)
+- Systems Analysis (Importance: 2.88/5 | Level: 2.88/7)
+- Quality Control Analysis (Importance: 2.88/5 | Level: 2.88/7)
+- Negotiation (Importance: 2.75/5 | Level: 2.75/7)
+- Operations Monitoring (Importance: 2.62/5 | Level: 2.62/7)
+- Troubleshooting (Importance: 2.62/5 | Level: 2.12/7)
+- Repairing (Importance: 2.25/5 | Level: 2.25/7)
+- Equipment Maintenance (Importance: 2.12/5 | Level: 2.0/7)
+- Mathematics (Importance: 2.12/5 | Level: 2.62/7)
+- Equipment Selection (Importance: 2.0/5 | Level: 2.0/7)
+- Management of Personnel Resources (Importance: 2.0/5 | Level: 2.25/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.62/7)
+- Science (Importance: 1.75/5 | Level: 0.88/7)
+- Technology Design (Importance: 1.75/5 | Level: 1.38/7)
+- Management of Financial Resources (Importance: 1.62/5 | Level: 1.12/7)
+- Operations Analysis (Importance: 1.62/5 | Level: 0.62/7)
+- Operation and Control (Importance: 1.62/5 | Level: 0.75/7)
+- Programming (Importance: 1.5/5 | Level: 0.62/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- HIMSA Noah (Tech skill type: Medical software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Otometrics OTOsuite (Tech skill type: Medical software)
+
+## TOOLS USED
+- Auditory brainstem response screening systems (Tool type: Electroencephalograph EEGs)
+- Automatic impedance audiometers (Tool type: Audiometers)
+- Behind-the-ear hearing aids (Tool type: Hearing aid)
+- Caloric irrigators (Tool type: Auditory function screening units)
+- Circumaural headphones (Tool type: Headphones)
+- Color laser printers (Tool type: Laser printers)
+- Desktop computers (Tool type: Desktop computers)
+- Diagnostic tuning forks (Tool type: Medical tuning forks)
+- Ear probes (Tool type: Aural probes)
+- Electroacoustic impedance bridges (Tool type: Aural probes)
+- Handheld otoscopes (Tool type: Ophthalmoscopes or otoscopes or scope sets)
+- Hearing aid analyzers (Tool type: Hearing aid analyzers or test systems)
+- Hearing aid programming interfaces (Tool type: Programmable Logic Controller Programming Device)
+- Hearing aid vacuum systems (Tool type: Medical or surgical suction or vacuum appliances)
+- In-the-canal hearing aids (Tool type: Hearing aid)
+- In-the-ear hearing aids (Tool type: Hearing aid)
+- Laser measurement systems (Tool type: Laser measuring systems)
+- Mechanical stethoscopes (Tool type: Medical acoustic stethoscopes)
+- Mini hearing aids (Tool type: Hearing aid)
+- Otoacoustic emissions equipment OAE (Tool type: Auditory function screening units)
+- Personal computers (Tool type: Personal computers)
+- Portable auditory screeners (Tool type: Auditory function screening units)
+- Probe microphones (Tool type: Auditory function screening units)
+- Programmable hearing aids (Tool type: Hearing aid)
+- Pure tone audiometers (Tool type: Audiometers)
+- Sound booths (Tool type: Audiometric booths or acoustic hearing test chambers)
+- Speech audiometers (Tool type: Audiometers)
+- Speech mapping systems (Tool type: Auditory function screening units)
+- Tablet computers (Tool type: Tablet computers)
+- Two-channel amplifiers (Tool type: Amplifiers)
+- Two-channel audiometers (Tool type: Audiometers)
+- Tympanometers (Tool type: Tympanometers)
+- Ultrasonic cleaning systems (Tool type: Ultrasonic cleaning equipment)
+- Video-otoscopes (Tool type: Ophthalmoscopes or otoscopes or scope sets)
+- Warble tone audiometers (Tool type: Audiometers)
+- Wide range audiometers (Tool type: Audiometers)

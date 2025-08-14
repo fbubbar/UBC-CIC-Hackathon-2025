@@ -1,0 +1,107 @@
+Job Title: Insurance Claims and Policy Processing Clerks
+O*NET-SOC Code: 43-9041.00
+
+# DESCRIPTION
+Process new insurance policies, modifications to existing policies, and claims forms. Obtain information from policyholders to verify the accuracy and completeness of information on claims forms, applications and related documents, and company records. Update existing policies and company records to reflect changes requested by policyholders and insurance company representatives.
+
+# TASKS
+- Prepare insurance claim forms or related documents, and review them for completeness.
+- Calculate amount of claim.
+- Post or attach information to claim file.
+- Transmit claims for payment or further investigation.
+- Contact insured or other involved persons to obtain missing information.
+- Review insurance policy to determine coverage.
+- Process and record new insurance policies and claims.
+- Organize or work with detailed office or warehouse records, using computers to enter, access, search or retrieve data.
+- Provide customer service, such as limited instructions on proceeding with claims or referrals to auto repair facilities or local contractors.
+- Correspond with insured or agent to obtain information or to inform them of account status or changes.
+- Review and verify data, such as age, name, address, and principal sum and value of property, on insurance applications and policies.
+- Compare information from application to criteria for policy reinstatement, and approve reinstatement when criteria are met.
+- Examine letters from policyholders or agents, original insurance applications, and other company documents to determine if changes are needed and effects of changes.
+- Transcribe data to worksheets, and enter data into computer for use in preparing documents and adjusting accounts.
+- Notify insurance agent and accounting department of policy cancellation.
+- Pay small claims.
+- Process, prepare, and submit business or government forms, such as submitting applications for coverage to insurance carriers.
+- Collect initial premiums and issue receipts.
+- Interview clients and take their calls to provide customer service and obtain information on claims.
+- Obtain computer printout of policy cancellations, or retrieve cancellation cards from file.
+- Compose business correspondence for supervisors, managers, and professionals.
+- Calculate premiums, refunds, commissions, adjustments, or new reserve requirements, using insurance rate standards.
+- Enter insurance- and claims-related information into database systems.
+- Modify, update, or process existing policies and claims to reflect any change in beneficiary, amount of coverage, or type of insurance.
+- Organize or work with detailed office or warehouse records, maintaining files for each policyholder, including policies that are to be reinstated or cancelled.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Time Management (Importance: 3.5/5 | Level: 3.0/7)
+- Reading Comprehension (Importance: 3.5/5 | Level: 3.5/7)
+- Speaking (Importance: 3.38/5 | Level: 3.25/7)
+- Critical Thinking (Importance: 3.25/5 | Level: 3.38/7)
+- Active Listening (Importance: 3.25/5 | Level: 3.5/7)
+- Writing (Importance: 3.12/5 | Level: 3.12/7)
+- Coordination (Importance: 3.12/5 | Level: 2.75/7)
+- Social Perceptiveness (Importance: 3.12/5 | Level: 2.88/7)
+- Service Orientation (Importance: 3.12/5 | Level: 3.25/7)
+- Complex Problem Solving (Importance: 3.0/5 | Level: 2.88/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 2.88/7)
+- Monitoring (Importance: 3.0/5 | Level: 2.88/7)
+- Negotiation (Importance: 2.88/5 | Level: 2.88/7)
+- Persuasion (Importance: 2.75/5 | Level: 2.75/7)
+- Systems Evaluation (Importance: 2.62/5 | Level: 2.12/7)
+- Systems Analysis (Importance: 2.62/5 | Level: 2.38/7)
+- Active Learning (Importance: 2.62/5 | Level: 2.75/7)
+- Learning Strategies (Importance: 2.62/5 | Level: 2.38/7)
+- Instructing (Importance: 2.5/5 | Level: 2.25/7)
+- Mathematics (Importance: 2.38/5 | Level: 2.38/7)
+- Management of Personnel Resources (Importance: 2.0/5 | Level: 2.0/7)
+- Operations Monitoring (Importance: 1.88/5 | Level: 1.25/7)
+- Programming (Importance: 1.62/5 | Level: 0.88/7)
+- Quality Control Analysis (Importance: 1.62/5 | Level: 0.75/7)
+- Management of Financial Resources (Importance: 1.5/5 | Level: 0.75/7)
+- Operations Analysis (Importance: 1.38/5 | Level: 0.62/7)
+- Management of Material Resources (Importance: 1.38/5 | Level: 0.62/7)
+- Operation and Control (Importance: 1.25/5 | Level: 0.38/7)
+- Science (Importance: 1.12/5 | Level: 0.12/7)
+- Technology Design (Importance: 1.12/5 | Level: 0.12/7)
+- Troubleshooting (Importance: 1.12/5 | Level: 0.12/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Account management software (Tech skill type: Accounting software)
+- Alpha Software Alpha Five (Tech skill type: Data base user interface and query software)
+- Automated information system software (Tech skill type: Data base user interface and query software)
+- Billing software (Tech skill type: Accounting software)
+- Claim processing system software (Tech skill type: Data base user interface and query software)
+- Database software (Tech skill type: Data base user interface and query software)
+- GroupMe (Tech skill type: Instant messaging software)
+- Healthcare common procedure coding system HCPCS (Tech skill type: Medical software)
+- IBM Check Processing Control System CPSC (Tech skill type: Data base user interface and query software)
+- IBM Lotus Notes (Tech skill type: Electronic mail software)
+- Insurance rating software (Tech skill type: Financial analysis software)
+- InSystems Calligo Enterprise (Tech skill type: Document management software)
+- Medical condition coding software (Tech skill type: Medical software)
+- Medical procedure coding software (Tech skill type: Medical software)
+- MicroFocus GroupWise (Tech skill type: Electronic mail software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Internet Explorer (Tech skill type: Internet browser software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Policy issuance system software (Tech skill type: Data base user interface and query software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- St. Paul Travelers e-CARMA (Tech skill type: Data base user interface and query software)
+- Web browser software (Tech skill type: Internet browser software)
+- Word processing software (Tech skill type: Word processing software)
+- Xactware Xactimate (Tech skill type: Data base user interface and query software)
+
+## TOOLS USED
+- 10-key calculators (Tool type: Desktop calculator)
+- Desktop computers (Tool type: Desktop computers)
+- Dictation machines (Tool type: Dictation machines)
+- Personal computers (Tool type: Personal computers)

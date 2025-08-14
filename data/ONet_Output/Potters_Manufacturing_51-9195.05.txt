@@ -1,0 +1,127 @@
+Job Title: Potters, Manufacturing
+O*NET-SOC Code: 51-9195.05
+
+# DESCRIPTION
+Operate production machines such as pug mill, jigger machine, or potter's wheel to process clay in manufacture of ceramic, pottery and stoneware products.
+
+# TASKS
+- Operate gas or electric kilns to fire pottery pieces.
+- Mix and apply glazes to pottery pieces, using tools, such as spray guns.
+- Raise and shape clay into wares, such as vases and pitchers, on revolving wheels, using hands, fingers, and thumbs.
+- Adjust wheel speeds according to the feel of the clay as pieces enlarge and walls become thinner.
+- Position balls of clay in centers of potters' wheels, and start motors or pump treadles with feet to revolve wheels.
+- Move pieces from wheels so that they can dry.
+- Prepare work for sale or exhibition, and maintain relationships with retail, pottery, art, and resource networks that can facilitate sale or exhibition of work.
+- Attach handles to pottery pieces.
+- Press thumbs into centers of revolving clay to form hollows, and press on the inside and outside of emerging clay cylinders with hands and fingers, gradually raising and shaping clay to desired forms and sizes.
+- Pack and ship pottery to stores or galleries for retail sale.
+- Smooth surfaces of finished pieces, using rubber scrapers and wet sponges.
+- Pull wires through bases of articles and wheels to separate finished pieces.
+- Design spaces to display pottery for sale.
+- Verify accuracy of shapes and sizes of objects, using calipers and templates.
+- Examine finished ware for defects and measure dimensions, using rule and thickness gauge.
+- Maintain supplies of tools, equipment, and materials, and order additional supplies as needed.
+- Operate pug mills to blend and extrude clay.
+- Perform test-fires of pottery to determine how to achieve specific colors and textures.
+- Start machine units and conveyors and observe lights and gauges on panel board to verify operational efficiency.
+- Operate drying chambers to dry or finish molded ceramic ware.
+- Adjust pressures, temperatures, and trimming tool settings as required.
+- Design clay forms and molds, and decorations for forms.
+- Teach pottery classes.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operations Monitoring (Importance: 3.25/5 | Level: 3.12/7)
+- Operation and Control (Importance: 3.12/5 | Level: 3.12/7)
+- Monitoring (Importance: 3.0/5 | Level: 3.0/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 3.12/7)
+- Active Listening (Importance: 3.0/5 | Level: 2.88/7)
+- Speaking (Importance: 2.88/5 | Level: 2.88/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.75/7)
+- Quality Control Analysis (Importance: 2.88/5 | Level: 2.5/7)
+- Reading Comprehension (Importance: 2.75/5 | Level: 2.88/7)
+- Complex Problem Solving (Importance: 2.62/5 | Level: 2.12/7)
+- Coordination (Importance: 2.62/5 | Level: 2.5/7)
+- Judgment and Decision Making (Importance: 2.62/5 | Level: 2.62/7)
+- Time Management (Importance: 2.38/5 | Level: 2.38/7)
+- Service Orientation (Importance: 2.38/5 | Level: 2.0/7)
+- Writing (Importance: 2.38/5 | Level: 2.62/7)
+- Mathematics (Importance: 2.12/5 | Level: 1.75/7)
+- Systems Analysis (Importance: 2.12/5 | Level: 1.88/7)
+- Troubleshooting (Importance: 2.12/5 | Level: 1.62/7)
+- Management of Material Resources (Importance: 2.12/5 | Level: 1.62/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 1.38/7)
+- Active Learning (Importance: 2.0/5 | Level: 2.12/7)
+- Persuasion (Importance: 2.0/5 | Level: 2.0/7)
+- Operations Analysis (Importance: 2.0/5 | Level: 1.88/7)
+- Management of Personnel Resources (Importance: 2.0/5 | Level: 1.88/7)
+- Instructing (Importance: 1.88/5 | Level: 1.75/7)
+- Learning Strategies (Importance: 1.75/5 | Level: 1.38/7)
+- Negotiation (Importance: 1.75/5 | Level: 1.38/7)
+- Management of Financial Resources (Importance: 1.62/5 | Level: 0.75/7)
+- Equipment Selection (Importance: 1.62/5 | Level: 0.75/7)
+- Technology Design (Importance: 1.62/5 | Level: 0.75/7)
+- Equipment Maintenance (Importance: 1.5/5 | Level: 0.62/7)
+- Science (Importance: 1.5/5 | Level: 0.62/7)
+- Repairing (Importance: 1.38/5 | Level: 0.62/7)
+- Programming (Importance: 1.12/5 | Level: 0.12/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Inventory control software (Tech skill type: Inventory management software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+
+## TOOLS USED
+- Air cleaners (Tool type: Air exhausters)
+- Air compressors (Tool type: Air compressors)
+- Ball mills (Tool type: Laboratory mills)
+- Banding wheels (Tool type: Potters wheels for hand made ceramics)
+- Carving spatulas (Tool type: Clay or modeling tools)
+- Carving tools (Tool type: Clay or modeling tools)
+- Ceramics kilns (Tool type: Kilns for firing ceramics)
+- Clay cutters (Tool type: Clay or modeling tools)
+- Clay extruders (Tool type: Extruders for modeling materials)
+- Clay mixers (Tool type: Clay or modeling tools)
+- Clay presses (Tool type: Extruders for modeling materials)
+- Cleanup tools (Tool type: Clay or modeling tools)
+- Conveyor feeding systems (Tool type: Conveyor feeders)
+- Dial calipers (Tool type: Calipers)
+- Digital scales (Tool type: Bench scales)
+- Dipping tongs (Tool type: Tongs)
+- Drying ovens (Tool type: Drying cabinets or ovens)
+- Dust masks (Tool type: Masks or accessories)
+- Electric kilns (Tool type: Kilns for firing ceramics)
+- Fettling knives (Tool type: Clay or modeling tools)
+- Gas kilns (Tool type: Kilns for firing ceramics)
+- Grinding wheels (Tool type: Power grinders)
+- Hake brushes (Tool type: Clay or modeling tools)
+- Handheld sprayers (Tool type: Hand sprayers)
+- Hole cutters (Tool type: Clay or modeling tools)
+- Insulated gloves (Tool type: Protective gloves)
+- Kick wheels (Tool type: Potters wheels for hand made ceramics)
+- Kiln glasses (Tool type: Safety glasses)
+- Kiln gloves (Tool type: Protective gloves)
+- Lace tools (Tool type: Clay or modeling tools)
+- Laptop computers (Tool type: Notebook computers)
+- Layout templates (Tool type: Templates)
+- Mold trimming knives (Tool type: Clay or modeling tools)
+- Oxyprobes (Tool type: Oxygen sensors)
+- Personal computers (Tool type: Personal computers)
+- Portable pottery wheels (Tool type: Potters wheels for hand made ceramics)
+- Pottery molds (Tool type: Clay or modeling tools)
+- Pottery wheels (Tool type: Potters wheels for hand made ceramics)
+- Precision rulers (Tool type: Rulers)
+- Pug mills (Tool type: Clay or modeling tools)
+- Pyrometers (Tool type: Pyrometers)
+- Raku tongs (Tool type: Tongs)
+- Safety glasses (Tool type: Safety glasses)
+- Scoring tools (Tool type: Scribers)
+- Slab rollers (Tool type: Clay or modeling tools)
+- Slip trail applicators (Tool type: Clay or modeling tools)
+- Spray booths (Tool type: Paint application system)
+- Spring scales (Tool type: Pull spring balances)
+- Texturing brushes (Tool type: Clay or modeling tools)
+- Thickness gauges (Tool type: Thickness measuring devices)
+- Tile cutters (Tool type: Tile cutter)
+- Triple beam balances (Tool type: Triple beam balances)

@@ -1,0 +1,102 @@
+Job Title: Postmasters and Mail Superintendents
+O*NET-SOC Code: 11-9131.00
+
+# DESCRIPTION
+Plan, direct, or coordinate operational, administrative, management, and support services of a U.S. post office; or coordinate activities of workers engaged in postal and related work in assigned post office.
+
+# TASKS
+- Monitor employees' work schedules and attendance for payroll purposes.
+- Organize and supervise activities, such as the processing of incoming and outgoing mail.
+- Resolve customer complaints.
+- Prepare employee work schedules.
+- Direct and coordinate operational, management, and supportive services of one or a number of postal facilities.
+- Hire and train employees, and evaluate their performance.
+- Prepare and submit detailed and summary reports of post office activities to designated supervisors.
+- Negotiate labor disputes.
+- Select and train postmasters and managers of associate postal units.
+- Inform the public of available services, and of postal laws and regulations.
+- Issue and cash money orders.
+- Collect rents for post office boxes.
+- Confer with suppliers to obtain bids for proposed purchases and to requisition supplies, disbursing funds according to federal regulations.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Time Management (Importance: 4.0/5 | Level: 3.88/7)
+- Coordination (Importance: 4.0/5 | Level: 3.5/7)
+- Speaking (Importance: 4.0/5 | Level: 4.0/7)
+- Social Perceptiveness (Importance: 4.0/5 | Level: 3.5/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 3.88/7)
+- Active Listening (Importance: 4.0/5 | Level: 3.38/7)
+- Management of Personnel Resources (Importance: 3.88/5 | Level: 3.5/7)
+- Monitoring (Importance: 3.75/5 | Level: 3.62/7)
+- Critical Thinking (Importance: 3.75/5 | Level: 3.88/7)
+- Negotiation (Importance: 3.62/5 | Level: 3.25/7)
+- Service Orientation (Importance: 3.38/5 | Level: 3.12/7)
+- Learning Strategies (Importance: 3.38/5 | Level: 3.25/7)
+- Active Learning (Importance: 3.25/5 | Level: 3.12/7)
+- Persuasion (Importance: 3.25/5 | Level: 3.5/7)
+- Writing (Importance: 3.25/5 | Level: 3.75/7)
+- Judgment and Decision Making (Importance: 3.25/5 | Level: 3.12/7)
+- Instructing (Importance: 3.25/5 | Level: 3.25/7)
+- Complex Problem Solving (Importance: 3.12/5 | Level: 3.12/7)
+- Systems Analysis (Importance: 3.0/5 | Level: 3.0/7)
+- Systems Evaluation (Importance: 2.88/5 | Level: 3.0/7)
+- Mathematics (Importance: 2.75/5 | Level: 2.5/7)
+- Management of Financial Resources (Importance: 2.75/5 | Level: 2.75/7)
+- Management of Material Resources (Importance: 2.75/5 | Level: 2.75/7)
+- Operations Analysis (Importance: 2.5/5 | Level: 2.12/7)
+- Operations Monitoring (Importance: 2.5/5 | Level: 2.25/7)
+- Quality Control Analysis (Importance: 2.25/5 | Level: 1.88/7)
+- Troubleshooting (Importance: 2.0/5 | Level: 1.5/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.12/7)
+- Programming (Importance: 1.75/5 | Level: 0.88/7)
+- Operation and Control (Importance: 1.62/5 | Level: 1.25/7)
+- Science (Importance: 1.5/5 | Level: 0.5/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Collection Point Management System CPMS (Tech skill type: Data base user interface and query software)
+- eBuy (Tech skill type: Procurement software)
+- Email software (Tech skill type: Electronic mail software)
+- Facility database software (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Payroll software (Tech skill type: Time accounting software)
+- Personnel management software (Tech skill type: Human resources software)
+- Personnel scheduling software (Tech skill type: Human resources software)
+- Point of sale POS software (Tech skill type: Point of sale POS software)
+- Postal boundary mapping software (Tech skill type: Map creation software)
+- Postal tracking software (Tech skill type: Data base user interface and query software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Vehicle management software (Tech skill type: Facilities management software)
+- Web Box Activity Tracing System WebBATS (Tech skill type: Data base user interface and query software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Barcode scanners (Tool type: Bar code reader equipment)
+- Computer data input scanners (Tool type: Scanners)
+- Computer laser printers (Tool type: Laser printers)
+- Credit card machines (Tool type: Magnetic stripe readers and encoders)
+- Date stamps (Tool type: Time stamping machines)
+- Digital postal scales (Tool type: Postal scales)
+- Electronic cash registers (Tool type: Cash registers)
+- Mail delivery trucks (Tool type: Delivery trucks)
+- Mail sorting equipment (Tool type: Sorters)
+- Measuring tapes (Tool type: Tape measures)
+- Multiline telephone systems (Tool type: Special purpose telephones)
+- Personal computers (Tool type: Personal computers)
+- Point of sale POS computer terminals (Tool type: Point of sale POS terminal)
+- Postage canceling machines (Tool type: Stamp canceling machines)
+- Postage meters (Tool type: Franking or postage machines)
+- Postage validation imprinters (Tool type: Franking or postage machines)
+- Security alarm systems (Tool type: Alarm systems)
+- Tablet computers (Tool type: Tablet computers)
+- Time clocks (Tool type: Time card or time clock machine accessories)
+- Video monitoring systems (Tool type: Video monitors)
+- Warning flares (Tool type: Signal Flare)

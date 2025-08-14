@@ -1,0 +1,107 @@
+Job Title: Riggers
+O*NET-SOC Code: 49-9096.00
+
+# DESCRIPTION
+Set up or repair rigging for construction projects, manufacturing plants, logging yards, ships and shipyards, or for the entertainment industry.
+
+# TASKS
+- Test rigging to ensure safety and reliability.
+- Signal or verbally direct workers engaged in hoisting and moving loads to ensure safety of workers and materials.
+- Control movement of heavy equipment through narrow openings or confined spaces, using chainfalls, gin poles, gallows frames, and other equipment.
+- Tilt, dip, and turn suspended loads to maneuver over, under, or around obstacles, using multi-point suspension techniques.
+- Select gear, such as cables, pulleys, and winches, according to load weights and sizes, facilities, and work schedules.
+- Dismantle and store rigging equipment after use.
+- Attach loads to rigging to provide support or prepare them for moving, using hand and power tools.
+- Manipulate rigging lines, hoists, and pulling gear to move or support materials, such as heavy equipment, ships, or theatrical sets.
+- Align, level, and anchor machinery.
+- Load machines onto trucks to prepare for transportation.
+- Attach pulleys and blocks to fixed overhead structures, such as beams, ceilings, and gin pole booms, using bolts and clamps.
+- Fabricate, set up, and repair rigging, supporting structures, hoists, and pulling gear, using hand and power tools.
+- Clean and dress machine surfaces and component parts.
+- Install ground rigging for yarding lines, attaching chokers to logs and to the lines.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operation and Control (Importance: 3.25/5 | Level: 3.25/7)
+- Active Listening (Importance: 3.12/5 | Level: 3.0/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.12/7)
+- Reading Comprehension (Importance: 3.12/5 | Level: 2.38/7)
+- Operations Monitoring (Importance: 3.12/5 | Level: 3.12/7)
+- Critical Thinking (Importance: 3.12/5 | Level: 3.0/7)
+- Coordination (Importance: 3.12/5 | Level: 3.12/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 3.0/7)
+- Speaking (Importance: 3.0/5 | Level: 2.75/7)
+- Complex Problem Solving (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 2.88/7)
+- Equipment Selection (Importance: 2.88/5 | Level: 2.75/7)
+- Troubleshooting (Importance: 2.88/5 | Level: 2.88/7)
+- Quality Control Analysis (Importance: 2.88/5 | Level: 3.0/7)
+- Equipment Maintenance (Importance: 2.75/5 | Level: 2.5/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 2.5/7)
+- Repairing (Importance: 2.75/5 | Level: 2.62/7)
+- Active Learning (Importance: 2.62/5 | Level: 2.25/7)
+- Management of Personnel Resources (Importance: 2.5/5 | Level: 2.88/7)
+- Service Orientation (Importance: 2.38/5 | Level: 2.25/7)
+- Writing (Importance: 2.38/5 | Level: 2.38/7)
+- Persuasion (Importance: 2.25/5 | Level: 2.12/7)
+- Negotiation (Importance: 2.12/5 | Level: 2.12/7)
+- Systems Analysis (Importance: 2.12/5 | Level: 2.12/7)
+- Systems Evaluation (Importance: 2.12/5 | Level: 2.12/7)
+- Instructing (Importance: 2.12/5 | Level: 2.12/7)
+- Operations Analysis (Importance: 2.12/5 | Level: 2.12/7)
+- Installation (Importance: 2.0/5 | Level: 1.75/7)
+- Mathematics (Importance: 1.62/5 | Level: 1.0/7)
+- Learning Strategies (Importance: 1.62/5 | Level: 1.12/7)
+- Technology Design (Importance: 1.5/5 | Level: 0.62/7)
+- Management of Material Resources (Importance: 1.38/5 | Level: 0.38/7)
+- Science (Importance: 1.38/5 | Level: 0.5/7)
+- Management of Financial Resources (Importance: 1.38/5 | Level: 0.38/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Autodesk Maya (Tech skill type: Graphics or photo imaging software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Word (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Adjustable hand wrenches (Tool type: Adjustable wrenches)
+- Allen wrench sets (Tool type: Allen wrench)
+- Beam type torque wrenches (Tool type: Torque wrenches)
+- Chain hoists (Tool type: Hoists)
+- Channellock pliers (Tool type: Slip or groove joint pliers)
+- Dial caliper gauges (Tool type: Dial indicator or dial gauge)
+- Electric winches (Tool type: Winches)
+- Electronic levels (Tool type: Levels)
+- Flat cold chisels (Tool type: Cold chisels)
+- Floor drill presses (Tool type: Drill press or radial drill)
+- Gear pullers (Tool type: Pullers)
+- Gin poles (Tool type: Gin pole and accessories)
+- Grease dispensers (Tool type: Grease guns)
+- Hacksaws (Tool type: Hacksaw)
+- Hole cutters (Tool type: Hole saws)
+- Hot knives (Tool type: Utility knives)
+- Lifting jacks (Tool type: Jacks)
+- Load moving skates (Tool type: Hand trucks or accessories)
+- Marlinspikes (Tool type: Splices or splice plates)
+- Metal punches (Tool type: Punches or nail sets or drifts)
+- Moving dollies (Tool type: Dollies)
+- Multipurpose hammers (Tool type: Hammers)
+- Oxyacetylene torches (Tool type: Gas welding or brazing or cutting apparatus)
+- Pallet pullers (Tool type: Pallet trucks)
+- Phillips screwdrivers (Tool type: Screwdrivers)
+- Power wrenches (Tool type: Impact wrenches)
+- Precision needle files (Tool type: Precision file)
+- Precision reamers (Tool type: Reamer)
+- Pressure monitors (Tool type: Pressure gauge)
+- Pry bars (Tool type: Pry bars)
+- Ratchet sets (Tool type: Ratchets)
+- Rigging vises (Tool type: Splices or splice plates)
+- Spanner wrenches (Tool type: Spanner wrenches)
+- Steel banding tools (Tool type: Banders)
+- Steel sledge hammers (Tool type: Sledge hammer)
+- Threading die hand tool (Tool type: Threading die hand tool)
+- Threading taps (Tool type: Threading taps)
+- Utility knives (Tool type: Utility knives)
+- Welding torches (Tool type: Welder torch)

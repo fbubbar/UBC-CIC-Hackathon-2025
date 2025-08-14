@@ -1,0 +1,126 @@
+Job Title: Food Batchmakers
+O*NET-SOC Code: 51-3092.00
+
+# DESCRIPTION
+Set up and operate equipment that mixes or blends ingredients used in the manufacturing of food products. Includes candy makers and cheese makers.
+
+# TASKS
+- Record production and test data for each food product batch, such as the ingredients used, temperature, test results, and time cycle.
+- Clean and sterilize vats and factory processing areas.
+- Set up, operate, and tend equipment that cooks, mixes, blends, or processes ingredients in the manufacturing of food products, according to formulas or recipes.
+- Mix or blend ingredients, according to recipes, using a paddle or an agitator, or by controlling vats that heat and mix ingredients.
+- Follow recipes to produce food products of specified flavor, texture, clarity, bouquet, or color.
+- Give directions to other workers who are assisting in the batchmaking process.
+- Select and measure or weigh ingredients, using English or metric measures and balance scales.
+- Press switches and turn knobs to start, adjust, and regulate equipment, such as beaters, extruders, discharge pipes, and salt pumps.
+- Determine mixing sequences, based on knowledge of temperature effects and of the solubility of specific ingredients.
+- Observe and listen to equipment to detect possible malfunctions, such as leaks or plugging, and report malfunctions or undesirable tastes to supervisors.
+- Observe gauges and thermometers to determine if the mixing chamber temperature is within specified limits, and turn valves to control the temperature.
+- Turn valve controls to start equipment and to adjust operation to maintain product quality.
+- Modify cooking and forming operations based on the results of sampling processes, adjusting time cycles and ingredients to achieve desired qualities, such as firmness or texture.
+- Examine, feel, and taste product samples during production to evaluate quality, color, texture, flavor, and bouquet, and document the results.
+- Test food product samples for moisture content, acidity level, specific gravity, or butter-fat content, and continue processing until desired levels are reached.
+- Inspect vats after cleaning to ensure that fermentable residue has been removed.
+- Fill processing or cooking containers, such as kettles, rotating cookers, pressure cookers, or vats, with ingredients, by opening valves, by starting pumps or injectors, or by hand.
+- Manipulate products, by hand or using machines, to separate, spread, knead, spin, cast, cut, pull, or roll products.
+- Cool food product batches on slabs or in water-cooled kettles.
+- Place products on carts or conveyors to transfer them to the next stage of processing.
+- Homogenize or pasteurize material to prevent separation or to obtain prescribed butterfat content, using a homogenizing device.
+- Grade food products according to government regulations or according to type, color, bouquet, and moisture content.
+- Operate refining machines to reduce the particle size of cooked batches.
+- Formulate or modify recipes for specific kinds of food products.
+- Inspect and pack the final product.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operations Monitoring (Importance: 3.25/5 | Level: 3.0/7)
+- Critical Thinking (Importance: 3.12/5 | Level: 2.88/7)
+- Reading Comprehension (Importance: 3.12/5 | Level: 3.0/7)
+- Operation and Control (Importance: 3.0/5 | Level: 2.88/7)
+- Speaking (Importance: 3.0/5 | Level: 3.0/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Active Listening (Importance: 3.0/5 | Level: 3.0/7)
+- Judgment and Decision Making (Importance: 2.88/5 | Level: 2.38/7)
+- Monitoring (Importance: 2.88/5 | Level: 3.0/7)
+- Writing (Importance: 2.88/5 | Level: 2.88/7)
+- Complex Problem Solving (Importance: 2.88/5 | Level: 2.62/7)
+- Quality Control Analysis (Importance: 2.75/5 | Level: 2.12/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 2.62/7)
+- Time Management (Importance: 2.75/5 | Level: 2.5/7)
+- Active Learning (Importance: 2.75/5 | Level: 2.12/7)
+- Mathematics (Importance: 2.75/5 | Level: 2.38/7)
+- Instructing (Importance: 2.12/5 | Level: 2.12/7)
+- Service Orientation (Importance: 2.12/5 | Level: 2.12/7)
+- Troubleshooting (Importance: 2.12/5 | Level: 2.0/7)
+- Management of Personnel Resources (Importance: 2.12/5 | Level: 2.12/7)
+- Learning Strategies (Importance: 2.12/5 | Level: 2.0/7)
+- Negotiation (Importance: 2.0/5 | Level: 2.0/7)
+- Persuasion (Importance: 2.0/5 | Level: 2.12/7)
+- Systems Analysis (Importance: 2.0/5 | Level: 1.5/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 1.5/7)
+- Science (Importance: 2.0/5 | Level: 1.75/7)
+- Operations Analysis (Importance: 1.88/5 | Level: 1.75/7)
+- Equipment Maintenance (Importance: 1.62/5 | Level: 1.25/7)
+- Equipment Selection (Importance: 1.62/5 | Level: 0.88/7)
+- Repairing (Importance: 1.5/5 | Level: 0.62/7)
+- Technology Design (Importance: 1.5/5 | Level: 0.5/7)
+- Management of Material Resources (Importance: 1.5/5 | Level: 0.62/7)
+- Management of Financial Resources (Importance: 1.25/5 | Level: 0.38/7)
+- Programming (Importance: 1.12/5 | Level: 0.12/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Edible Software (Tech skill type: Inventory management software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Plex Systems Plex Manufacturing Cloud (Tech skill type: Enterprise resource planning ERP software)
+
+## TOOLS USED
+- Agitators (Tool type: Commercial use mixers)
+- Balance scales (Tool type: Commercial use scales)
+- Ball mills (Tool type: Milling machinery)
+- Beaters (Tool type: Commercial use mixers)
+- Candy cookers (Tool type: Commercial use ranges)
+- Candy stoves (Tool type: Commercial use ranges)
+- Centrifugal clarifiers (Tool type: Cheese making machine)
+- Cheese cutters (Tool type: Cutting machinery)
+- Cheese finishing tables (Tool type: Cheese making machine)
+- Cheese presses (Tool type: Cheese making machine)
+- Cheese vats (Tool type: Cheese making machine)
+- Chocolate melters (Tool type: Commercial use ranges)
+- Commercial cream separators (Tool type: Cream separator)
+- Commercial induction cookers (Tool type: Commercial use ranges)
+- Commercial use homogenizers (Tool type: Homogenizers)
+- Cooker mixers (Tool type: Commercial use mixers)
+- Cooling tables (Tool type: Cooling machine)
+- Cream beaters (Tool type: Commercial use mixers)
+- Deep-fry cookers (Tool type: Commercial use deep fryers)
+- Depositing pumps (Tool type: Metering or injection or proportioning pumps)
+- Digital kitchen thermometers (Tool type: Domestic kitchen or food thermometers)
+- Dough processing machines (Tool type: Commercial use dough machines)
+- Evaporators (Tool type: Dehydrating machinery)
+- Extruders (Tool type: Commercial use dough machines)
+- Flour milling machines (Tool type: Milling machinery)
+- Food broilers (Tool type: Commercial use broilers)
+- Food heating cabinets (Tool type: Commercial use food warmers)
+- Food sterilizing machines (Tool type: Food sterilizing machine)
+- Heating tables (Tool type: Commercial use food warmers)
+- Ice cream machines (Tool type: Ice cream machines)
+- Injector pumps (Tool type: Metering or injection or proportioning pumps)
+- Kettle dollies (Tool type: Pushcarts)
+- Kettle lifters (Tool type: Lifts)
+- Levelers (Tool type: Commercial use rolling pins)
+- Liquid filling machines (Tool type: Filling machinery)
+- Meat cutting machines (Tool type: Slicing machinery)
+- Meat tenderizing tools (Tool type: Manual meat tenderizer)
+- Metered transfer pumps (Tool type: Metering or injection or proportioning pumps)
+- Microwave drying machines (Tool type: Commercial use microwave ovens)
+- Revolving pan depositors (Tool type: Metering or injection or proportioning pumps)
+- Roller cutters (Tool type: Cutting machinery)
+- Sausage machines (Tool type: Forming machine)
+- Sizers (Tool type: Commercial use rolling pins)
+- Steam-cooking vats (Tool type: Commercial use high pressure steamers)
+- Tilting commercial cooking kettles (Tool type: Commercial use jacketed tilting kettle)
+- Torque wrenches (Tool type: Torque wrenches)
+- Vacuum packagers (Tool type: Packaging vacuum)
+- Vibrating tables (Tool type: Sorting machinery)
+- Water-cooled kettles (Tool type: Commercial use jacketed tilting kettle)

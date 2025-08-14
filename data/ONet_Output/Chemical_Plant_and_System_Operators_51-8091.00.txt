@@ -1,0 +1,135 @@
+Job Title: Chemical Plant and System Operators
+O*NET-SOC Code: 51-8091.00
+
+# DESCRIPTION
+Control or operate entire chemical processes or system of machines.
+
+# TASKS
+- Monitor recording instruments, flowmeters, panel lights, or other indicators and listen for warning signals to verify conformity of process conditions.
+- Regulate or shut down equipment during emergency situations, as directed by supervisory personnel.
+- Control or operate chemical processes or systems of machines, using panelboards, control boards, or semi-automatic equipment.
+- Move control settings to make necessary adjustments on equipment units affecting speeds of chemical reactions, quality, or yields.
+- Inspect operating units, such as towers, soap-spray storage tanks, scrubbers, collectors, or driers to ensure that all are functioning and to maintain maximum efficiency.
+- Draw samples of products and conduct quality control tests to monitor processing and to ensure that standards are met.
+- Record operating data, such as process conditions, test results, or instrument readings.
+- Patrol work areas to ensure that solutions in tanks or troughs are not in danger of overflowing.
+- Turn valves to regulate flow of products or byproducts through agitator tanks, storage drums, or neutralizer tanks.
+- Interpret chemical reactions visible through sight glasses or on television monitors and review laboratory test reports for process adjustments.
+- Confer with technical and supervisory personnel to report or resolve conditions affecting safety, efficiency, or product quality.
+- Start pumps to wash and rinse reactor vessels, to exhaust gases or vapors, to regulate the flow of oil, steam, air, or perfume to towers, or to add products to converter or blending vessels.
+- Notify maintenance, stationary engineering, or other auxiliary personnel to correct equipment malfunctions or to adjust power, steam, water, or air supplies.
+- Repair or replace damaged equipment.
+- Gauge tank levels, using calibrated rods.
+- Calculate material requirements or yields according to formulas.
+- Direct workers engaged in operating machinery that regulates the flow of materials and products.
+- Supervise the cleaning of towers, strainers, or spray tips.
+- Defrost frozen valves, using steam hoses.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operations Monitoring (Importance: 4.12/5 | Level: 4.5/7)
+- Operation and Control (Importance: 4.0/5 | Level: 3.88/7)
+- Quality Control Analysis (Importance: 3.62/5 | Level: 3.5/7)
+- Monitoring (Importance: 3.62/5 | Level: 3.75/7)
+- Critical Thinking (Importance: 3.5/5 | Level: 3.75/7)
+- Active Listening (Importance: 3.38/5 | Level: 3.75/7)
+- Judgment and Decision Making (Importance: 3.25/5 | Level: 3.0/7)
+- Time Management (Importance: 3.25/5 | Level: 3.0/7)
+- Reading Comprehension (Importance: 3.25/5 | Level: 3.75/7)
+- Active Learning (Importance: 3.25/5 | Level: 3.0/7)
+- Complex Problem Solving (Importance: 3.25/5 | Level: 3.12/7)
+- Speaking (Importance: 3.12/5 | Level: 3.12/7)
+- Writing (Importance: 3.0/5 | Level: 3.0/7)
+- Coordination (Importance: 2.88/5 | Level: 2.75/7)
+- Troubleshooting (Importance: 2.88/5 | Level: 2.62/7)
+- Systems Evaluation (Importance: 2.88/5 | Level: 2.75/7)
+- Science (Importance: 2.88/5 | Level: 2.88/7)
+- Learning Strategies (Importance: 2.88/5 | Level: 2.88/7)
+- Equipment Maintenance (Importance: 2.75/5 | Level: 2.75/7)
+- Management of Personnel Resources (Importance: 2.75/5 | Level: 2.75/7)
+- Repairing (Importance: 2.75/5 | Level: 2.75/7)
+- Social Perceptiveness (Importance: 2.62/5 | Level: 2.62/7)
+- Mathematics (Importance: 2.62/5 | Level: 2.88/7)
+- Systems Analysis (Importance: 2.62/5 | Level: 2.5/7)
+- Instructing (Importance: 2.62/5 | Level: 2.62/7)
+- Service Orientation (Importance: 2.5/5 | Level: 2.12/7)
+- Persuasion (Importance: 2.38/5 | Level: 2.12/7)
+- Negotiation (Importance: 2.25/5 | Level: 2.12/7)
+- Equipment Selection (Importance: 2.12/5 | Level: 2.0/7)
+- Operations Analysis (Importance: 2.12/5 | Level: 2.0/7)
+- Management of Financial Resources (Importance: 1.88/5 | Level: 1.12/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.38/7)
+- Programming (Importance: 1.75/5 | Level: 1.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Technology Design (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Alarm management system software (Tech skill type: Industrial control software)
+- Coordinated incident management system CIMS software (Tech skill type: Network security or virtual private network VPN management software)
+- Distributed control system DCS (Tech skill type: Industrial control software)
+- Interlock shutdown systems (Tech skill type: Industrial control software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Word (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Agitator tanks (Tool type: Processing tanks)
+- Air conditioning systems (Tool type: Air conditioners)
+- Axial flow fans (Tool type: Fans)
+- Barometers (Tool type: Barometers)
+- Belt conveyors (Tool type: Belt conveyors)
+- Blending vessels (Tool type: Chemical tanks)
+- Boilers (Tool type: Water tube boiler)
+- Bourdon tubes (Tool type: Pressure sensors)
+- Bucket elevators (Tool type: Bucket conveyors)
+- Calibrated rods (Tool type: Logging instruments for water wells)
+- Capacitance probes (Tool type: Capacitance meters)
+- Centrifugal compressors (Tool type: Centrifugal compressors)
+- Centrifugal fans (Tool type: Fans)
+- Centrifugal pumps (Tool type: Centrifugal pumps)
+- Chain conveyors (Tool type: Chain conveyors)
+- Chemical reactor vessels (Tool type: Chemical tanks)
+- Collectors (Tool type: Collection tanks)
+- Control boards (Tool type: Distribution or control board fixtures)
+- Converter vessels (Tool type: Chemical tanks)
+- Conveyor feeders (Tool type: Conveyor feeders)
+- Cooling towers (Tool type: Evaporative coolers)
+- Desktop computers (Tool type: Desktop computers)
+- Digital surface thermometers (Tool type: Surface thermometers)
+- Display screens (Tool type: Cathode ray tube CRT monitors)
+- Distillation columns (Tool type: Distillation pipings or columns or fittings)
+- Effluent treatment systems (Tool type: Packaged water treatment systems)
+- Fire extinguishers (Tool type: Fire extinguishers)
+- Gas analyzers (Tool type: Chemical absorption gas analyzers)
+- Heating vessels (Tool type: Heating or drying equipment or accessories)
+- Hoppers (Tool type: Processing tanks)
+- Humidifiers (Tool type: Humidifiers)
+- Hydraulic accumulators (Tool type: Hydraulic accumulators)
+- Industrial dryers (Tool type: Air dryers)
+- Industrial fans (Tool type: Fans)
+- Industrial liquid flowmeters (Tool type: Flowmeters)
+- Manometers (Tool type: Manometers)
+- Mixing tanks (Tool type: Processing tanks)
+- Neutralizer tanks (Tool type: Processing tanks)
+- Panel lights (Tool type: Distribution or control board fixtures)
+- Panelboards (Tool type: Distribution or control board fixtures)
+- Personal protective equipment (Tool type: Hazardous material protective apparel)
+- Positive displacement pumps (Tool type: Positive displacement pumps)
+- Pressure gauges (Tool type: Pressure sensors)
+- Radiographic detecting instruments (Tool type: Radiation detectors)
+- Reciprocating compressors (Tool type: Reciprocating compressors)
+- Reciprocating pumps (Tool type: Reciprocating pumps)
+- Recording calorimeters (Tool type: Calorimeters)
+- Refrigeration systems (Tool type: Refrigerated tanks)
+- Rotary pumps (Tool type: Rotary pumps)
+- Screw conveyors (Tool type: Screw conveyor)
+- Silencers (Tool type: Silencer sections)
+- Soap-spray storage tanks (Tool type: Storage tanks)
+- Steam hoses (Tool type: Special hoses)
+- Steam turbines (Tool type: Steam engines)
+- Storage drums (Tool type: Storage tanks)
+- Tensometers (Tool type: Tension testers)
+- Thermocouple temperature probes (Tool type: Thermocouple probes)
+- Thermocouples (Tool type: Thermocouples)
+- Viscometers (Tool type: Viscosimeters)
+- Wet scrubbers (Tool type: Wet scrubbers)

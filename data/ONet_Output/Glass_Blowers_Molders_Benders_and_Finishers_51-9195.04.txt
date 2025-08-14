@@ -1,0 +1,105 @@
+Job Title: Glass Blowers, Molders, Benders, and Finishers
+O*NET-SOC Code: 51-9195.04
+
+# DESCRIPTION
+Shape molten glass according to patterns.
+
+# TASKS
+- Heat glass to pliable stage, using gas flames or ovens and rotating glass to heat it uniformly.
+- Inspect, weigh, and measure products to verify conformance to specifications, using instruments such as micrometers, calipers, magnifiers, or rulers.
+- Record manufacturing information, such as quantities, sizes, or types of goods produced.
+- Place glass into dies or molds of presses and control presses to form products, such as glassware components or optical blanks.
+- Spray or swab molds with oil solutions to prevent adhesion of glass.
+- Blow tubing into specified shapes to prevent glass from collapsing, using compressed air or own breath, or blow and rotate gathers in molds or on boards to obtain final shapes.
+- Determine types and quantities of glass required to fabricate products.
+- Set up and adjust machine press stroke lengths and pressures and regulate oven temperatures, according to glass types to be processed.
+- Shape, bend, or join sections of glass, using paddles, pressing and flattening hand tools, or cork.
+- Design and create glass objects, using blowpipes and artisans' hand tools and equipment.
+- Operate and maintain finishing machines to grind, drill, sand, bevel, decorate, wash, or polish glass or glass products.
+- Repair broken scrolls by replacing them with new sections of tubing.
+- Develop sketches of glass products into blueprint specifications, applying knowledge of glass technology and glass blowing.
+- Superimpose bent tubing on asbestos patterns to ensure accuracy.
+- Cut lengths of tubing to specified sizes, using files or cutting wheels.
+- Place rubber hoses on ends of tubing and charge tubing with gas.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operation and Control (Importance: 3.38/5 | Level: 2.88/7)
+- Quality Control Analysis (Importance: 3.38/5 | Level: 3.0/7)
+- Operations Monitoring (Importance: 3.38/5 | Level: 3.0/7)
+- Monitoring (Importance: 3.25/5 | Level: 3.0/7)
+- Reading Comprehension (Importance: 3.0/5 | Level: 3.0/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 3.0/7)
+- Active Listening (Importance: 3.0/5 | Level: 3.0/7)
+- Active Learning (Importance: 2.88/5 | Level: 2.88/7)
+- Speaking (Importance: 2.75/5 | Level: 2.75/7)
+- Complex Problem Solving (Importance: 2.75/5 | Level: 2.75/7)
+- Time Management (Importance: 2.75/5 | Level: 2.62/7)
+- Judgment and Decision Making (Importance: 2.75/5 | Level: 2.75/7)
+- Writing (Importance: 2.62/5 | Level: 2.62/7)
+- Learning Strategies (Importance: 2.62/5 | Level: 2.38/7)
+- Mathematics (Importance: 2.62/5 | Level: 2.12/7)
+- Coordination (Importance: 2.5/5 | Level: 2.5/7)
+- Equipment Maintenance (Importance: 2.5/5 | Level: 2.38/7)
+- Repairing (Importance: 2.5/5 | Level: 2.38/7)
+- Social Perceptiveness (Importance: 2.5/5 | Level: 2.62/7)
+- Troubleshooting (Importance: 2.5/5 | Level: 2.5/7)
+- Equipment Selection (Importance: 2.38/5 | Level: 2.25/7)
+- Persuasion (Importance: 2.38/5 | Level: 2.0/7)
+- Management of Personnel Resources (Importance: 2.38/5 | Level: 2.12/7)
+- Systems Analysis (Importance: 2.38/5 | Level: 1.75/7)
+- Systems Evaluation (Importance: 2.25/5 | Level: 1.88/7)
+- Instructing (Importance: 2.12/5 | Level: 2.38/7)
+- Negotiation (Importance: 2.12/5 | Level: 1.88/7)
+- Management of Material Resources (Importance: 2.12/5 | Level: 1.62/7)
+- Service Orientation (Importance: 2.0/5 | Level: 1.75/7)
+- Operations Analysis (Importance: 1.88/5 | Level: 1.62/7)
+- Management of Financial Resources (Importance: 1.88/5 | Level: 1.12/7)
+- Science (Importance: 1.75/5 | Level: 1.25/7)
+- Technology Design (Importance: 1.75/5 | Level: 0.88/7)
+- Programming (Importance: 1.38/5 | Level: 0.38/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Billing software (Tech skill type: Accounting software)
+- Inventory control software (Tech skill type: Inventory management software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+
+## TOOLS USED
+- Air compressors (Tool type: Air compressors)
+- Annealing ovens (Tool type: Vacuum ovens)
+- Cutting wheels (Tool type: Cutting machines)
+- Dial calipers (Tool type: Calipers)
+- Digital micrometers (Tool type: Micrometers)
+- Drill presses (Tool type: Drilling machines)
+- Electric kilns (Tool type: Kilns for firing ceramics)
+- Engine lathes (Tool type: Horizontal turning center)
+- Glass blowing pipes (Tool type: Glass blowing instrument)
+- Glass knives (Tool type: Glass cutters)
+- Glass lathes (Tool type: Glass cutters)
+- Glass saws (Tool type: Power saws)
+- Glass tongs (Tool type: Tongs)
+- Grinders (Tool type: Grinding or polishing machines)
+- Hand held magnifiers (Tool type: Magnifiers)
+- Holding clamps (Tool type: Hold down clamps)
+- Induction heaters (Tool type: Induction heaters)
+- Lapping wheels (Tool type: Grinders)
+- Laptop computers (Tool type: Notebook computers)
+- Meeker burners (Tool type: Gas burners)
+- Personal computers (Tool type: Personal computers)
+- Polariscopes (Tool type: Polariscopes)
+- Polishing wheels (Tool type: Power buffers)
+- Precision files (Tool type: Precision file)
+- Precision rulers (Tool type: Rulers)
+- Propane torches (Tool type: Blow torch)
+- Protective respirators (Tool type: Respirators)
+- Safety glasses (Tool type: Safety glasses)
+- Safety gloves (Tool type: Protective gloves)
+- Safety goggles (Tool type: Goggles)
+- Sandblasters (Tool type: Pneumatic sanding machines)
+- Shears (Tool type: Shears)
+- Spot welders (Tool type: Spot welding machine)
+- Tweezers (Tool type: Tweezers)
+- Vacuum ovens (Tool type: Vacuum ovens)
+- Vacuum pumps (Tool type: Vacuum pumps)

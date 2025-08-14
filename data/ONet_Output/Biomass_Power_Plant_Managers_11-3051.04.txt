@@ -1,0 +1,91 @@
+Job Title: Biomass Power Plant Managers
+O*NET-SOC Code: 11-3051.04
+
+# DESCRIPTION
+Manage operations at biomass power generation facilities. Direct work activities at plant, including supervision of operations and maintenance staff.
+
+# TASKS
+- Manage safety programs at power generation facilities.
+- Review biomass operations performance specifications to ensure compliance with regulatory requirements.
+- Review logs, datasheets, or reports to ensure adequate production levels and safe production environments or to identify abnormalities with power production equipment or processes.
+- Supervise operations or maintenance employees in the production of power from biomass, such as wood, coal, paper sludge, or other waste or refuse.
+- Supervise biomass plant or substation operations, maintenance, repair, or testing activities.
+- Conduct field inspections of biomass plants, stations, or substations to ensure normal and safe operating conditions.
+- Plan and schedule plant activities, such as wood, waste, or refuse fuel deliveries, ash removal, and regular maintenance.
+- Prepare and manage biomass plant budgets.
+- Evaluate power production or demand trends to identify opportunities for improved operations.
+- Inspect biomass gasification processes, equipment, and facilities for ways to maximize capacity and minimize operating costs.
+- Prepare reports on biomass plant operations, status, maintenance, and other information.
+- Manage parts and supply inventories for biomass plants.
+- Monitor and operate communications systems, such as mobile radios.
+- Shut down and restart biomass power plants or equipment in emergency situations or for equipment maintenance, repairs, or replacements.
+- Compile and record operational data on forms or in log books.
+- Monitor the operating status of biomass plants by observing control system parameters, distributed control systems, switchboard gauges, dials, or other indicators.
+- Adjust equipment controls to generate specified amounts of electrical power.
+- Test, maintain, or repair electrical power distribution machinery or equipment, using hand tools, power tools, and testing devices.
+- Operate controls to start, stop, or regulate biomass-fueled generators, generator units, boilers, engines, or auxiliary systems.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.0/7)
+- Speaking (Importance: 4.0/5 | Level: 4.0/7)
+- Reading Comprehension (Importance: 3.88/5 | Level: 4.25/7)
+- Monitoring (Importance: 3.88/5 | Level: 4.62/7)
+- Active Listening (Importance: 3.88/5 | Level: 3.88/7)
+- Complex Problem Solving (Importance: 3.75/5 | Level: 3.75/7)
+- Coordination (Importance: 3.75/5 | Level: 4.0/7)
+- Management of Personnel Resources (Importance: 3.75/5 | Level: 4.12/7)
+- Judgment and Decision Making (Importance: 3.75/5 | Level: 3.88/7)
+- Time Management (Importance: 3.62/5 | Level: 3.75/7)
+- Operations Monitoring (Importance: 3.38/5 | Level: 3.88/7)
+- Instructing (Importance: 3.25/5 | Level: 3.5/7)
+- Social Perceptiveness (Importance: 3.25/5 | Level: 3.62/7)
+- Systems Analysis (Importance: 3.12/5 | Level: 3.75/7)
+- Quality Control Analysis (Importance: 3.12/5 | Level: 3.25/7)
+- Systems Evaluation (Importance: 3.12/5 | Level: 3.75/7)
+- Active Learning (Importance: 3.12/5 | Level: 3.38/7)
+- Writing (Importance: 3.12/5 | Level: 3.75/7)
+- Management of Material Resources (Importance: 3.12/5 | Level: 3.62/7)
+- Management of Financial Resources (Importance: 3.12/5 | Level: 3.62/7)
+- Operation and Control (Importance: 3.0/5 | Level: 3.0/7)
+- Persuasion (Importance: 3.0/5 | Level: 3.25/7)
+- Troubleshooting (Importance: 3.0/5 | Level: 3.0/7)
+- Mathematics (Importance: 3.0/5 | Level: 3.25/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 3.12/7)
+- Negotiation (Importance: 2.88/5 | Level: 2.88/7)
+- Service Orientation (Importance: 2.75/5 | Level: 2.75/7)
+- Science (Importance: 2.5/5 | Level: 2.5/7)
+- Equipment Maintenance (Importance: 2.38/5 | Level: 2.75/7)
+- Repairing (Importance: 2.25/5 | Level: 2.75/7)
+- Equipment Selection (Importance: 2.12/5 | Level: 2.0/7)
+- Operations Analysis (Importance: 2.12/5 | Level: 2.12/7)
+- Technology Design (Importance: 1.62/5 | Level: 0.75/7)
+- Programming (Importance: 1.62/5 | Level: 0.88/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Computer aided design CAD software (Tech skill type: Computer aided design CAD software)
+- Computerized maintenance management system CMMS (Tech skill type: Facilities management software)
+- Distributed control system DCS (Tech skill type: Industrial control software)
+- Employee scheduling software (Tech skill type: Calendar and scheduling software)
+- Inventory control software (Tech skill type: Inventory management software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Biomass boilers (Tool type: Fire tube boilers)
+- Bubbling fluidized bed boilers (Tool type: Fire tube boilers)
+- Circulating fluidized bed boilers (Tool type: Fire tube boilers)
+- Cooling towers (Tool type: Evaporative coolers)
+- Desktop computers (Tool type: Desktop computers)
+- Heat recovery steam generators (Tool type: Steam generators)
+- Laptop computers (Tool type: Notebook computers)
+- Personal computers (Tool type: Personal computers)
+- Radial stackers (Tool type: Extendable conveyors)
+- Steam boilers (Tool type: Water tube boiler)
+- Steam turbines (Tool type: Steam engines)
+- Water samplers (Tool type: Water samplers)
+- Wood feed systems (Tool type: Batching plants or feeders)

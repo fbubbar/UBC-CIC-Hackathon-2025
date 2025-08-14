@@ -1,0 +1,117 @@
+Job Title: Statistical Assistants
+O*NET-SOC Code: 43-9111.00
+
+# DESCRIPTION
+Compile and compute data according to statistical formulas for use in statistical studies. May perform actuarial computations and compile charts and graphs for use by actuaries. Includes actuarial clerks.
+
+# TASKS
+- Compute and analyze data, using statistical formulas and computers or calculators.
+- Check source data to verify completeness and accuracy.
+- Enter data into computers for use in analyses or reports.
+- Compile reports, charts, or graphs that describe and interpret findings of analyses.
+- Participate in the publication of data or information.
+- File data and related information, and maintain and update databases.
+- Organize paperwork, such as survey forms or reports, for distribution or analysis.
+- Code data prior to computer entry, using lists of codes.
+- Compile statistics from source materials, such as production or sales records, quality-control or test records, time sheets, or survey sheets.
+- Interview people and keep track of their responses.
+- Check survey responses for errors, such as the use of pens instead of pencils, and set aside response forms that cannot be used.
+- Select statistical tests for analyzing data.
+- Discuss data presentation requirements with clients.
+- Send out surveys.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mathematics (Importance: 4.38/5 | Level: 4.88/7)
+- Reading Comprehension (Importance: 3.75/5 | Level: 4.0/7)
+- Critical Thinking (Importance: 3.75/5 | Level: 3.88/7)
+- Active Learning (Importance: 3.62/5 | Level: 3.75/7)
+- Complex Problem Solving (Importance: 3.62/5 | Level: 3.38/7)
+- Writing (Importance: 3.5/5 | Level: 3.75/7)
+- Speaking (Importance: 3.38/5 | Level: 3.75/7)
+- Active Listening (Importance: 3.38/5 | Level: 3.62/7)
+- Time Management (Importance: 3.25/5 | Level: 3.0/7)
+- Judgment and Decision Making (Importance: 3.25/5 | Level: 3.0/7)
+- Monitoring (Importance: 3.0/5 | Level: 3.0/7)
+- Programming (Importance: 3.0/5 | Level: 3.5/7)
+- Learning Strategies (Importance: 2.88/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.88/7)
+- Service Orientation (Importance: 2.88/5 | Level: 2.75/7)
+- Coordination (Importance: 2.88/5 | Level: 2.75/7)
+- Persuasion (Importance: 2.75/5 | Level: 2.62/7)
+- Instructing (Importance: 2.75/5 | Level: 2.88/7)
+- Management of Personnel Resources (Importance: 2.62/5 | Level: 2.0/7)
+- Negotiation (Importance: 2.62/5 | Level: 2.62/7)
+- Systems Analysis (Importance: 2.5/5 | Level: 2.5/7)
+- Systems Evaluation (Importance: 2.5/5 | Level: 2.62/7)
+- Quality Control Analysis (Importance: 2.25/5 | Level: 1.75/7)
+- Science (Importance: 2.12/5 | Level: 2.5/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.0/7)
+- Operations Analysis (Importance: 1.88/5 | Level: 1.38/7)
+- Operations Monitoring (Importance: 1.38/5 | Level: 0.75/7)
+- Management of Material Resources (Importance: 1.38/5 | Level: 0.38/7)
+- Management of Financial Resources (Importance: 1.38/5 | Level: 0.5/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Operation and Control (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- A programming language APL (Tech skill type: Development environment software)
+- Avidian Technologies Prophet (Tech skill type: Customer relationship management CRM software)
+- Benfield ReMetrica (Tech skill type: Analytical or scientific software)
+- Bentley MicroStation (Tech skill type: Computer aided design CAD software)
+- C# (Tech skill type: Object or component oriented development software)
+- C++ (Tech skill type: Object or component oriented development software)
+- Corel WordPerfect Office Suite (Tech skill type: Office suite software)
+- Data visualization software (Tech skill type: Analytical or scientific software)
+- Database software (Tech skill type: Data base user interface and query software)
+- dBASE (Tech skill type: Data base user interface and query software)
+- GGY AXIS (Tech skill type: Financial analysis software)
+- Google Workspace software (Tech skill type: Office suite software)
+- Harvard Graphics (Tech skill type: Graphics or photo imaging software)
+- Hyland OnBase Enterprise Content Management (Tech skill type: Document management software)
+- IBM Lotus 1-2-3 (Tech skill type: Spreadsheet software)
+- IBM SPSS Statistics (Tech skill type: Analytical or scientific software)
+- Insightful S-PLUS (Tech skill type: Analytical or scientific software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Active Server Pages ASP (Tech skill type: Web platform development software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Visual Basic (Tech skill type: Development environment software)
+- Microsoft Visual Studio (Tech skill type: Development environment software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Minitab (Tech skill type: Analytical or scientific software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- Oracle PL/SQL (Tech skill type: Data base management system software)
+- PolySystems Asset Delphi (Tech skill type: Financial analysis software)
+- Python (Tech skill type: Object or component oriented development software)
+- QSR International NVivo (Tech skill type: Data base user interface and query software)
+- R (Tech skill type: Object or component oriented development software)
+- SAP BusinessObjects Crystal Reports (Tech skill type: Data base reporting software)
+- SAS (Tech skill type: Analytical or scientific software)
+- Software development tools (Tech skill type: Development environment software)
+- StataCorp Stata (Tech skill type: Analytical or scientific software)
+- STATISTICA (Tech skill type: Analytical or scientific software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Systat Software SigmaStat (Tech skill type: Analytical or scientific software)
+- Tableau (Tech skill type: Business intelligence and data analysis software)
+- The MathWorks MATLAB (Tech skill type: Analytical or scientific software)
+- Towers Perrin MoSes (Tech skill type: Financial analysis software)
+- Web browser software (Tech skill type: Internet browser software)
+- Wolfram Research Mathematica (Tech skill type: Analytical or scientific software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- 10-key calculators (Tool type: Desktop calculator)
+- Desktop computers (Tool type: Desktop computers)
+- Graphing calculators (Tool type: Scientific calculator)
+- Laptop computers (Tool type: Notebook computers)
+- Liquid crystal display LCD video projectors (Tool type: Liquid crystal display projector)
+- Personal computers (Tool type: Personal computers)
+- Supercomputers (Tool type: Mainframe computers)
+- Universal serial bus USB flash drives (Tool type: High capacity removable media drives)

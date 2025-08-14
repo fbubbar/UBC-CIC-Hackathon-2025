@@ -1,0 +1,109 @@
+Job Title: Tapers
+O*NET-SOC Code: 47-2082.00
+
+# DESCRIPTION
+Seal joints between plasterboard or other wallboard to prepare wall surface for painting or papering.
+
+# TASKS
+- Spread sealing compound between boards or panels or over cracks, holes, nail heads, or screw heads, using trowels, broadknives, or spatulas.
+- Press paper tape over joints to embed tape into sealing compound and to seal joints.
+- Apply additional coats to fill in holes and make surfaces smooth.
+- Seal joints between plasterboard or other wallboard to prepare wall surfaces for painting or papering.
+- Spread and smooth cementing material over tape, using trowels or floating machines to blend joints with wall surfaces.
+- Sand or patch nicks or cracks in plasterboard or wallboard.
+- Mix sealing compounds by hand or with portable electric mixers.
+- Work on high ceilings, using scaffolding or other tools, such as stilts.
+- Select the correct sealing compound or tape.
+- Countersink nails or screws below surfaces of walls before applying sealing compounds, using hammers or screwdrivers.
+- Remove extra compound after surfaces have been covered sufficiently.
+- Install metal molding at wall corners to secure wallboard.
+- Apply texturizing compounds or primers to walls or ceilings before final finishing, using trowels, brushes, rollers, or spray guns.
+- Check adhesives to ensure that they will work and will remain durable.
+- Sand rough spots of dried cement between applications of compounds.
+- Use mechanical applicators that spread compounds and embed tape in one operation.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Monitoring (Importance: 2.88/5 | Level: 2.62/7)
+- Speaking (Importance: 2.88/5 | Level: 2.12/7)
+- Active Listening (Importance: 2.88/5 | Level: 2.62/7)
+- Time Management (Importance: 2.75/5 | Level: 2.62/7)
+- Critical Thinking (Importance: 2.62/5 | Level: 2.38/7)
+- Social Perceptiveness (Importance: 2.62/5 | Level: 2.12/7)
+- Coordination (Importance: 2.5/5 | Level: 2.38/7)
+- Judgment and Decision Making (Importance: 2.38/5 | Level: 2.38/7)
+- Active Learning (Importance: 2.25/5 | Level: 2.0/7)
+- Reading Comprehension (Importance: 2.25/5 | Level: 2.12/7)
+- Operations Monitoring (Importance: 2.25/5 | Level: 2.12/7)
+- Service Orientation (Importance: 2.12/5 | Level: 2.12/7)
+- Quality Control Analysis (Importance: 2.12/5 | Level: 1.88/7)
+- Operation and Control (Importance: 2.12/5 | Level: 2.0/7)
+- Complex Problem Solving (Importance: 2.12/5 | Level: 2.25/7)
+- Learning Strategies (Importance: 2.12/5 | Level: 2.0/7)
+- Instructing (Importance: 2.12/5 | Level: 1.88/7)
+- Management of Personnel Resources (Importance: 2.12/5 | Level: 2.0/7)
+- Writing (Importance: 2.0/5 | Level: 2.0/7)
+- Negotiation (Importance: 2.0/5 | Level: 1.75/7)
+- Troubleshooting (Importance: 2.0/5 | Level: 1.38/7)
+- Persuasion (Importance: 2.0/5 | Level: 2.0/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 1.25/7)
+- Systems Analysis (Importance: 2.0/5 | Level: 1.38/7)
+- Operations Analysis (Importance: 1.75/5 | Level: 1.12/7)
+- Equipment Selection (Importance: 1.62/5 | Level: 0.88/7)
+- Equipment Maintenance (Importance: 1.62/5 | Level: 0.75/7)
+- Mathematics (Importance: 1.62/5 | Level: 0.62/7)
+- Installation (Importance: 1.62/5 | Level: 1.0/7)
+- Management of Material Resources (Importance: 1.62/5 | Level: 0.88/7)
+- Repairing (Importance: 1.5/5 | Level: 0.88/7)
+- Science (Importance: 1.12/5 | Level: 0.25/7)
+- Technology Design (Importance: 1.12/5 | Level: 0.12/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+- Management of Financial Resources (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Applied Computer Systems JOBPOWER (Tech skill type: Accounting software)
+- Construction Software Center EasyEst (Tech skill type: Project management software)
+- DevWave Estimate Works (Tech skill type: Project management software)
+- Intuit QuickBooks (Tech skill type: Accounting software)
+- Microsoft Dynamics (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- On Center Quick Bid (Tech skill type: Project management software)
+- Turtle Creek Software Goldenseal (Tech skill type: Accounting software)
+
+## TOOLS USED
+- Air compressors (Tool type: Air compressors)
+- Application brushes (Tool type: Applicator brushes)
+- Automatic taping tools (Tool type: Tape guide)
+- Banjo drywall tapers (Tool type: Tape guide)
+- Corner knives (Tool type: Putty knives)
+- Corner rollers (Tool type: Paint rollers)
+- Drywall knockdown knives (Tool type: Putty knives)
+- Drywall mud mixers (Tool type: Plaster or mortar mixers)
+- Drywall power sanders (Tool type: Power sanders)
+- Drywall saws (Tool type: Saws)
+- Drywall stilts (Tool type: Ladders)
+- Drywall taping knives (Tool type: Putty knives)
+- Drywall trowels (Tool type: Trowels)
+- Dust masks (Tool type: Masks or accessories)
+- Feather edge drywall darbies (Tool type: Putty knives)
+- Goggles (Tool type: Goggles)
+- Hand operated spray guns (Tool type: Hand sprayers)
+- Hopper guns (Tool type: Hand sprayers)
+- Industrial vacuums (Tool type: Vacuum cleaners)
+- Joint knives (Tool type: Putty knives)
+- Ladders (Tool type: Ladders)
+- Mud mixing drills (Tool type: Power drills)
+- Notebook computers (Tool type: Notebook computers)
+- Patch guns (Tool type: Hand sprayers)
+- Personal computers (Tool type: Personal computers)
+- Pivoting drywall knives (Tool type: Putty knives)
+- Putty knives (Tool type: Putty knives)
+- Radius trowels (Tool type: Trowels)
+- Scaffolding (Tool type: Scaffolding)
+- Screwdrivers (Tool type: Screwdrivers)
+- Texture brushes (Tool type: Paint brushes)
+- Texture rollers (Tool type: Paint rollers)
+- Texture sprayers (Tool type: Hand sprayers)
+- Utility knives (Tool type: Utility knives)
+- Wall scrapers (Tool type: Spatulas)
+- Wipe-down knives (Tool type: Putty knives)

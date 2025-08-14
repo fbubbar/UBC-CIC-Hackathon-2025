@@ -1,0 +1,159 @@
+Job Title: Robotics Technicians
+O*NET-SOC Code: 17-3024.01
+
+# DESCRIPTION
+Build, install, test, or maintain robotic equipment or related automated production systems.
+
+# TASKS
+- Make repairs to robots or peripheral equipment, such as replacement of defective circuit boards, sensors, controllers, encoders, or servomotors.
+- Troubleshoot robotic systems, using knowledge of microprocessors, programmable controllers, electronics, circuit analysis, mechanics, sensor or feedback systems, hydraulics, or pneumatics.
+- Install, program, or repair programmable controllers, robot controllers, end-of-arm tools, or conveyors.
+- Maintain service records of robotic equipment or automated production systems.
+- Modify computer-controlled robot movements.
+- Perform preventive or corrective maintenance on robotic systems or components.
+- Align, fit, or assemble components, using hand tools, power tools, fixtures, templates, or microscopes.
+- Attach wires between controllers.
+- Evaluate the efficiency and reliability of industrial robotic systems, reprogramming or calibrating to achieve maximum quantity and quality.
+- Test performance of robotic assemblies, using instruments such as oscilloscopes, electronic voltmeters, or bridges.
+- Train customers or other personnel to install, use, or maintain robots.
+- Build or assemble robotic devices or systems.
+- Document robotics test procedures and results.
+- Assist engineers in the design, configuration, or application of robotic systems.
+- Install new robotic systems in stationary positions or on tracks.
+- Program complex robotic systems, such as vision systems.
+- Develop robotic path motions to maximize efficiency, safety, and quality.
+- Fabricate housings, jigs, fittings, or fixtures, using metalworking machines.
+- Train robots, using artificial intelligence software or interactive training techniques, to perform simple or complex tasks, such as designing and carrying out a series of iterative tests of chemical samples.
+- Inspect installation sites.
+- Maintain inventories of robotic production supplies, such as sensors or cables.
+- Develop three-dimensional simulations of automation systems.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Troubleshooting (Importance: 4.0/5 | Level: 4.0/7)
+- Repairing (Importance: 4.0/5 | Level: 4.0/7)
+- Critical Thinking (Importance: 3.88/5 | Level: 4.0/7)
+- Equipment Maintenance (Importance: 3.88/5 | Level: 3.88/7)
+- Reading Comprehension (Importance: 3.88/5 | Level: 4.0/7)
+- Active Listening (Importance: 3.75/5 | Level: 3.62/7)
+- Complex Problem Solving (Importance: 3.75/5 | Level: 3.62/7)
+- Operations Monitoring (Importance: 3.75/5 | Level: 3.88/7)
+- Quality Control Analysis (Importance: 3.62/5 | Level: 3.88/7)
+- Operation and Control (Importance: 3.38/5 | Level: 3.62/7)
+- Speaking (Importance: 3.25/5 | Level: 3.25/7)
+- Writing (Importance: 3.25/5 | Level: 3.12/7)
+- Active Learning (Importance: 3.12/5 | Level: 3.62/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.25/7)
+- Time Management (Importance: 3.12/5 | Level: 2.88/7)
+- Systems Evaluation (Importance: 3.12/5 | Level: 3.25/7)
+- Systems Analysis (Importance: 3.12/5 | Level: 3.12/7)
+- Equipment Selection (Importance: 3.12/5 | Level: 3.25/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 3.12/7)
+- Installation (Importance: 3.12/5 | Level: 3.25/7)
+- Mathematics (Importance: 3.0/5 | Level: 3.75/7)
+- Coordination (Importance: 3.0/5 | Level: 3.12/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 3.12/7)
+- Service Orientation (Importance: 2.88/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.75/7)
+- Instructing (Importance: 2.88/5 | Level: 3.12/7)
+- Programming (Importance: 2.88/5 | Level: 2.75/7)
+- Science (Importance: 2.75/5 | Level: 3.25/7)
+- Technology Design (Importance: 2.75/5 | Level: 2.88/7)
+- Management of Personnel Resources (Importance: 2.5/5 | Level: 2.38/7)
+- Persuasion (Importance: 2.5/5 | Level: 2.62/7)
+- Negotiation (Importance: 2.38/5 | Level: 2.25/7)
+- Operations Analysis (Importance: 2.25/5 | Level: 2.25/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 1.0/7)
+- Management of Material Resources (Importance: 1.75/5 | Level: 1.25/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- ABB RobotStudio (Tech skill type: Development environment software)
+- Ada (Tech skill type: Development environment software)
+- Analytical software (Tech skill type: Analytical or scientific software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- AVEVA InTouch HMI (Tech skill type: Industrial control software)
+- Bentley MicroStation (Tech skill type: Computer aided design CAD software)
+- C (Tech skill type: Development environment software)
+- C# (Tech skill type: Object or component oriented development software)
+- C++ (Tech skill type: Object or component oriented development software)
+- CODESYS (Tech skill type: Industrial control software)
+- Computer aided design CAD software (Tech skill type: Computer aided design CAD software)
+- Computer aided manufacturing CAM software (Tech skill type: Computer aided manufacturing CAM software)
+- Dassault Systemes CATIA (Tech skill type: Computer aided design CAD software)
+- Dassault Systemes SolidWorks (Tech skill type: Computer aided design CAD software)
+- Database software (Tech skill type: Data base user interface and query software)
+- FANUC Robotics ArcTool (Tech skill type: Industrial control software)
+- FANUC Robotics Diagnostic Resource Center DRC (Tech skill type: Industrial control software)
+- FANUC Robotics Dual Check Safety DCS Position and Speed Check (Tech skill type: Industrial control software)
+- FANUC Robotics HandlingTool (Tech skill type: Industrial control software)
+- FANUC Robotics iRCalibration Vision Suite (Tech skill type: Industrial control software)
+- FANUC Robotics iRVision (Tech skill type: Industrial control software)
+- FANUC Robotics MultiARM Systems (Tech skill type: Industrial control software)
+- FANUC Robotics SpotTool+ (Tech skill type: Industrial control software)
+- FANUC Robotics Through Arc Seam Tracking TAST (Tech skill type: Industrial control software)
+- FANUC Robotics Torchmate 3 (Tech skill type: Industrial control software)
+- Git (Tech skill type: File versioning software)
+- Human machine interface HMI software (Tech skill type: Industrial control software)
+- JavaScript (Tech skill type: Web platform development software)
+- Keb Combivis Studio (Tech skill type: Industrial control software)
+- Ladder Logic (Tech skill type: Development environment software)
+- Linux (Tech skill type: Operating system software)
+- Logic Design RoboLogix (Tech skill type: Analytical or scientific software)
+- MathWorks Simulink (Tech skill type: Analytical or scientific software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- Programmable logic controller PLC software (Tech skill type: Industrial control software)
+- Python (Tech skill type: Object or component oriented development software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Siemens SIMATIC STEP 7 (Tech skill type: Industrial control software)
+- Siemens SIMATIC WinCC (Tech skill type: Industrial control software)
+- Simulation software (Tech skill type: Analytical or scientific software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Supervisory control and data acquisition SCADA software (Tech skill type: Industrial control software)
+- The MathWorks MATLAB (Tech skill type: Analytical or scientific software)
+- UNIX (Tech skill type: Operating system software)
+- Variable frequency drive VFD software (Tech skill type: Industrial control software)
+- Windows Embedded Compact (Tech skill type: Operating system software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Adjustable widemouth pliers (Tool type: Adjustable widemouth pliers)
+- Binocular light compound microscopes (Tool type: Binocular light compound microscopes)
+- Chart recorders (Tool type: Chart recorders)
+- Coordinate measuring machines CMM (Tool type: Coordinate measuring machines CMM)
+- Copy machines (Tool type: Photocopiers)
+- Electric drills (Tool type: Power drills)
+- Flow meters (Tool type: Flowmeters)
+- Force gauges (Tool type: Force or torque sensors)
+- Frequency counters (Tool type: Frequency counters or timer or dividers)
+- Function generators (Tool type: Signal generators)
+- Hammers (Tool type: Hammers)
+- Hydraulic dataloggers (Tool type: Portable data input terminals)
+- Hydrometers (Tool type: Hydrometers)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Laser interferometers (Tool type: Interferometers)
+- Laser printers (Tool type: Laser printers)
+- Laser scanners (Tool type: Scanners)
+- Logic analyzers (Tool type: Integrated circuit testers)
+- Multimeters (Tool type: Multimeters)
+- Open end wrenches (Tool type: Open end wrenches)
+- Oscilloscopes (Tool type: Oscilloscopes)
+- Personal computers (Tool type: Personal computers)
+- Potentiometers (Tool type: Potentiometers)
+- Programmable automation controllers PAC (Tool type: Microcontrollers)
+- Programmable logic controllers PLC (Tool type: Microcontrollers)
+- Robotic teach pendants (Tool type: Welding robots)
+- Screwdrivers (Tool type: Screwdrivers)
+- Shielded arc welding tools (Tool type: Shielded metal arc welding or stick welding machine)
+- Soldering tools (Tool type: Soldering iron)
+- Volt-ohm meters VOM (Tool type: Ohmmeters)
+- Voltmeters (Tool type: Voltage or current meters)
+- Waveform monitors (Tool type: Oscilloscopes)
+- Workshop cranes (Tool type: Workshop cranes)

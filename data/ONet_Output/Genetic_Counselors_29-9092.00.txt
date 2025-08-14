@@ -1,0 +1,105 @@
+Job Title: Genetic Counselors
+O*NET-SOC Code: 29-9092.00
+
+# DESCRIPTION
+Assess individual or family risk for a variety of inherited conditions, such as genetic disorders and birth defects. Provide information to other healthcare providers or to individuals and families concerned with the risk of inherited conditions. Advise individuals and families to support informed decisionmaking and coping methods for those at risk. May help conduct research related to genetic conditions or genetic counseling.
+
+# TASKS
+- Interpret laboratory results and communicate findings to patients or physicians.
+- Discuss testing options and the associated risks, benefits and limitations with patients and families to assist them in making informed decisions.
+- Analyze genetic information to identify patients or families at risk for specific disorders or syndromes.
+- Provide counseling to patient and family members by providing information, education, or reassurance.
+- Write detailed consultation reports to provide information on complex genetic concepts to patients or referring physicians.
+- Provide genetic counseling in specified areas of clinical genetics, such as obstetrics, pediatrics, oncology and neurology.
+- Determine or coordinate treatment plans by requesting laboratory services, reviewing genetics or counseling literature, and considering histories or diagnostic data.
+- Interview patients or review medical records to obtain comprehensive patient or family medical histories, and document findings.
+- Assess patients' psychological or emotional needs, such as those relating to stress, fear of test results, financial issues, and marital conflicts to make referral recommendations or assist patients in managing test outcomes.
+- Provide patients with information about the inheritance of conditions such as cardiovascular disease, Alzheimer's disease, diabetes, and various forms of cancer.
+- Read current literature, talk with colleagues, or participate in professional organizations or conferences to keep abreast of developments in genetics.
+- Prepare or provide genetics-related educational materials to patients or medical personnel.
+- Explain diagnostic procedures such as chorionic villus sampling (CVS), ultrasound, fetal blood sampling, and amniocentesis.
+- Refer patients to specialists or community resources.
+- Design and conduct genetics training programs for physicians, graduate students, other health professions or the general community.
+- Evaluate or make recommendations for standards of care or clinical operations, ensuring compliance with applicable regulations, ethics, legislation, or policies.
+- Engage in research activities related to the field of medical genetics or genetic counseling.
+- Collect for, or share with, research projects patient data on specific genetic disorders or syndromes.
+- Identify funding sources and write grant proposals for eligible programs or services.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Reading Comprehension (Importance: 4.12/5 | Level: 4.75/7)
+- Active Listening (Importance: 4.0/5 | Level: 4.0/7)
+- Complex Problem Solving (Importance: 4.0/5 | Level: 3.75/7)
+- Active Learning (Importance: 3.88/5 | Level: 3.88/7)
+- Speaking (Importance: 3.88/5 | Level: 3.88/7)
+- Social Perceptiveness (Importance: 3.88/5 | Level: 4.0/7)
+- Writing (Importance: 3.88/5 | Level: 4.25/7)
+- Critical Thinking (Importance: 3.88/5 | Level: 4.12/7)
+- Judgment and Decision Making (Importance: 3.25/5 | Level: 4.0/7)
+- Science (Importance: 3.25/5 | Level: 3.12/7)
+- Systems Analysis (Importance: 3.12/5 | Level: 3.0/7)
+- Service Orientation (Importance: 3.12/5 | Level: 3.12/7)
+- Instructing (Importance: 3.12/5 | Level: 3.25/7)
+- Time Management (Importance: 3.12/5 | Level: 3.12/7)
+- Negotiation (Importance: 3.0/5 | Level: 3.0/7)
+- Systems Evaluation (Importance: 3.0/5 | Level: 3.12/7)
+- Persuasion (Importance: 3.0/5 | Level: 3.0/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 3.25/7)
+- Monitoring (Importance: 3.0/5 | Level: 3.0/7)
+- Management of Personnel Resources (Importance: 2.88/5 | Level: 2.88/7)
+- Mathematics (Importance: 2.75/5 | Level: 2.75/7)
+- Operations Monitoring (Importance: 1.88/5 | Level: 1.5/7)
+- Technology Design (Importance: 1.5/5 | Level: 0.62/7)
+- Programming (Importance: 1.38/5 | Level: 0.5/7)
+- Management of Financial Resources (Importance: 1.25/5 | Level: 0.62/7)
+- Operations Analysis (Importance: 1.25/5 | Level: 0.38/7)
+- Quality Control Analysis (Importance: 1.12/5 | Level: 0.25/7)
+- Management of Material Resources (Importance: 1.12/5 | Level: 0.12/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Operation and Control (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Benetech PRA (Tech skill type: Medical software)
+- BRCAPRO (Tech skill type: Medical software)
+- Breast Cancer Risk Assessment Tool (Tech skill type: Medical software)
+- CancerGene (Tech skill type: Medical software)
+- CyrillicSoftware Cyrillic (Tech skill type: Medical software)
+- Database software (Tech skill type: Data base user interface and query software)
+- FileMaker Pro (Tech skill type: Data base user interface and query software)
+- Ftree (Tech skill type: Analytical or scientific software)
+- Jurek Software Pedigree-Draw (Tech skill type: Medical software)
+- Medgen PED (Tech skill type: Medical software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- PedHunter (Tech skill type: Medical software)
+- PediDraw (Tech skill type: Medical software)
+- Pedigree drawing and management software (Tech skill type: Analytical or scientific software)
+- Progeny Software Progeny Clinical (Tech skill type: Medical software)
+- Prognosis Innovation Healthcare ChartAccess (Tech skill type: Medical software)
+- SynDiag (Tech skill type: Medical software)
+- Wageningen MapChart (Tech skill type: Medical software)
+- Web browser software (Tech skill type: Internet browser software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Automated deoxyribonucleic acid DNA sequencers (Tool type: Deoxyribonucleic sequence analyzers)
+- Benchtop ultracentrifuges (Tool type: Ultracentrifuges)
+- Cryostats (Tool type: Cryostats)
+- Differential interference microscopes (Tool type: Darkfield microscopes)
+- Fluorescent microscopes (Tool type: Fluorescent microscopes)
+- Gel documentation systems (Tool type: Gel documentation systems)
+- High speed centrifuges (Tool type: Ultracentrifuges)
+- Microplate readers (Tool type: Microplate readers)
+- Personal computers (Tool type: Personal computers)
+- Phosphor imagers (Tool type: X ray radiography examination equipment)
+- Table top centrifuges (Tool type: Benchtop centrifuges)
+- Ultracentrifuges (Tool type: Ultracentrifuges)

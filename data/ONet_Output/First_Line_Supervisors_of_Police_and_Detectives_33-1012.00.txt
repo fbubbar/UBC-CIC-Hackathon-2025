@@ -1,0 +1,140 @@
+Job Title: First-Line Supervisors of Police and Detectives
+O*NET-SOC Code: 33-1012.00
+
+# DESCRIPTION
+Directly supervise and coordinate activities of members of police force.
+
+# TASKS
+- Supervise and coordinate the investigation of criminal cases, offering guidance and expertise to investigators, and ensuring that procedures are conducted in accordance with laws and regulations.
+- Prepare work schedules and assign duties to subordinates.
+- Direct collection, preparation, and handling of evidence and personal property of prisoners.
+- Investigate and resolve personnel problems within organization and charges of misconduct against staff.
+- Explain police operations to subordinates to assist them in performing their job duties.
+- Maintain logs, prepare reports, and direct the preparation, handling, and maintenance of departmental records.
+- Inform personnel of changes in regulations and policies, implications of new or amended laws, and new techniques of police work.
+- Train staff in proper police work procedures.
+- Discipline staff for violation of department rules and regulations.
+- Monitor and evaluate the job performance of subordinates, and authorize promotions and transfers.
+- Review contents of written orders to ensure adherence to legal requirements.
+- Conduct raids and order detention of witnesses and suspects for questioning.
+- Cooperate with court personnel and officials from other law enforcement agencies and testify in court, as necessary.
+- Meet with civic, educational, and community groups to develop community programs and events, and to discuss law enforcement subjects.
+- Inspect facilities, supplies, vehicles, and equipment to ensure conformance to standards.
+- Direct release or transfer of prisoners.
+- Requisition and issue equipment and supplies.
+- Develop, implement, and revise departmental policies and procedures.
+- Prepare news releases and respond to police correspondence.
+- Prepare budgets and manage expenditures of department funds.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Management of Personnel Resources (Importance: 4.0/5 | Level: 4.0/7)
+- Speaking (Importance: 4.0/5 | Level: 4.0/7)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.0/7)
+- Social Perceptiveness (Importance: 4.0/5 | Level: 4.0/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.0/7)
+- Active Listening (Importance: 4.0/5 | Level: 4.0/7)
+- Monitoring (Importance: 4.0/5 | Level: 4.0/7)
+- Active Learning (Importance: 3.88/5 | Level: 4.0/7)
+- Coordination (Importance: 3.88/5 | Level: 4.0/7)
+- Persuasion (Importance: 3.88/5 | Level: 4.0/7)
+- Instructing (Importance: 3.88/5 | Level: 3.88/7)
+- Writing (Importance: 3.75/5 | Level: 4.0/7)
+- Learning Strategies (Importance: 3.75/5 | Level: 4.0/7)
+- Judgment and Decision Making (Importance: 3.75/5 | Level: 3.88/7)
+- Complex Problem Solving (Importance: 3.75/5 | Level: 4.0/7)
+- Time Management (Importance: 3.5/5 | Level: 3.88/7)
+- Service Orientation (Importance: 3.5/5 | Level: 3.5/7)
+- Negotiation (Importance: 3.25/5 | Level: 3.12/7)
+- Systems Evaluation (Importance: 3.12/5 | Level: 3.25/7)
+- Systems Analysis (Importance: 3.12/5 | Level: 3.25/7)
+- Management of Material Resources (Importance: 2.5/5 | Level: 2.75/7)
+- Management of Financial Resources (Importance: 2.5/5 | Level: 2.75/7)
+- Operation and Control (Importance: 2.5/5 | Level: 2.0/7)
+- Operations Monitoring (Importance: 2.5/5 | Level: 2.25/7)
+- Mathematics (Importance: 2.38/5 | Level: 2.5/7)
+- Quality Control Analysis (Importance: 2.12/5 | Level: 2.12/7)
+- Operations Analysis (Importance: 2.12/5 | Level: 2.12/7)
+- Troubleshooting (Importance: 2.0/5 | Level: 1.38/7)
+- Repairing (Importance: 1.5/5 | Level: 0.75/7)
+- Science (Importance: 1.5/5 | Level: 0.5/7)
+- Programming (Importance: 1.5/5 | Level: 0.5/7)
+- Equipment Maintenance (Importance: 1.5/5 | Level: 0.75/7)
+- Technology Design (Importance: 1.5/5 | Level: 0.62/7)
+- Equipment Selection (Importance: 1.5/5 | Level: 0.88/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Computer aided composite drawing software (Tech skill type: Graphics or photo imaging software)
+- Computer aided dispatch software (Tech skill type: Helpdesk or call center software)
+- Corel WordPerfect Office Suite (Tech skill type: Office suite software)
+- Crime mapping software (Tech skill type: Map creation software)
+- DesignWare 3D EyeWitness (Tech skill type: Graphics or photo imaging software)
+- Email software (Tech skill type: Electronic mail software)
+- Integrated Automated Fingerprint Identification System IAFIS (Tech skill type: Data base user interface and query software)
+- Law enforcement information databases (Tech skill type: Data base user interface and query software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Active Server Pages ASP (Tech skill type: Web platform development software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Internet Explorer (Tech skill type: Internet browser software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Word (Tech skill type: Word processing software)
+- National Crime Information Center (NCIC) database (Tech skill type: Data base user interface and query software)
+- National Integrated Ballistics Information Network NIBIN (Tech skill type: Data base user interface and query software)
+- Scheduling software (Tech skill type: Calendar and scheduling software)
+- SmartDraw Legal (Tech skill type: Graphics or photo imaging software)
+- Spillman Technologies Records Management (Tech skill type: Data base user interface and query software)
+- The CAD Zone The Crime Zone (Tech skill type: Graphics or photo imaging software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- 35 millimeter cameras (Tool type: Still cameras)
+- Audio recording equipment (Tool type: Surveillance video or audio recorders)
+- Automated external defibrillators AED (Tool type: Mobile medical services automated external defibrillators AED or hard paddles)
+- Base station radios (Tool type: Two way radios)
+- Biohazard suits (Tool type: Hazardous material protective apparel)
+- Body armor (Tool type: Body armour)
+- Breathalyzers (Tool type: Alcohol analyzers)
+- Bulletproof vests (Tool type: Bullet proof vests)
+- Crime scene tape measures (Tool type: Tape measures)
+- Desktop computers (Tool type: Desktop computers)
+- Digital cameras (Tool type: Digital cameras)
+- Digital video cameras (Tool type: Digital camcorders or video cameras)
+- Distance measuring wheels (Tool type: Measuring wheels for distance)
+- Drug testing kits (Tool type: Narcotic test kits)
+- Explosive detectors (Tool type: Weapon or explosives detectors and supplies)
+- Filter masks (Tool type: Masks or accessories)
+- Fingerprint evidence kits (Tool type: Fingerprint latent print kits)
+- Fingerprint scanners (Tool type: Biometric identification equipment)
+- First aid kits (Tool type: Mobile medical services first aid kits)
+- Laptop computers (Tool type: Notebook computers)
+- Metal detectors (Tool type: Metal detectors)
+- Metal handcuffs (Tool type: Handcuffs)
+- Mobile data computers (Tool type: Notebook computers)
+- Multi-line telephone systems (Tool type: Special purpose telephones)
+- Multipurpose fire extinguishers (Tool type: Fire extinguishers)
+- Nightsticks (Tool type: Night sticks)
+- Noise meters (Tool type: Sound measuring apparatus or decibel meter)
+- Pepper spray (Tool type: Hand sprayers)
+- Personal computers (Tool type: Personal computers)
+- Plastic handcuffs (Tool type: Handcuffs)
+- Police motorcycles (Tool type: Police vehicles)
+- Police patrol cars (Tool type: Police vehicles)
+- Police rifles (Tool type: Military rifles)
+- Police shotguns (Tool type: Police or security shotguns)
+- Radar speed readers (Tool type: Radarbased surveillance systems)
+- Radio scanners (Tool type: Radio frequency scanners)
+- Remote traffic signal controllers (Tool type: Traffic signals)
+- Riot shields (Tool type: Riot shields)
+- Road flares (Tool type: Flares)
+- Semiautomatic handguns (Tool type: Handguns)
+- Semiautomatic pistols (Tool type: Handguns)
+- Service revolvers (Tool type: Handguns)
+- Side-handle batons (Tool type: Riot batons)
+- Surveillance binoculars (Tool type: Binoculars)
+- Suspect fingerprinting equipment (Tool type: Fingerprint equipment)
+- Teletype terminals (Tool type: Teletype input devices)
+- Two way radios (Tool type: Two way radios)

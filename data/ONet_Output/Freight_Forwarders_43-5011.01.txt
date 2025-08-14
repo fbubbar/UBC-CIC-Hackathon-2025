@@ -1,0 +1,110 @@
+Job Title: Freight Forwarders
+O*NET-SOC Code: 43-5011.01
+
+# DESCRIPTION
+Research rates, routings, or modes of transport for shipment of products. Maintain awareness of regulations affecting the international movement of cargo. Make arrangements for additional services, such as storage or inland transportation.
+
+# TASKS
+- Negotiate shipping rates with freight carriers.
+- Arrange for special transport of sensitive cargoes, such as livestock, food, or medical supplies.
+- Arrange for applicable duties, taxes, or paperwork for customs clearance.
+- Inform clients of factors such as shipping options, timelines, transfers, or regulations affecting shipments.
+- Prepare shipping documentation, such as bills of lading, packing lists, dock receipts, or certificates of origin.
+- Complete customs paperwork.
+- Prepare invoices or cost quotations for freight transportation.
+- Select shipment routes, based on nature of goods shipped, transit times, or security needs.
+- Calculate weight, volume, or cost of goods to be moved.
+- Arrange delivery or storage of goods at destinations.
+- Arrange for transport, using a variety of modes, such as rail, short sea shipping, air, or roadways, to minimize carbon emissions or other environmental impacts.
+- Determine efficient and cost-effective methods of moving goods from one location to another.
+- Pay or arrange for payment of freight or insurance fees or other charges.
+- Monitor or record locations of goods in transit.
+- Keep records of goods dispatched or received.
+- Reserve necessary space on ships, aircraft, trains, or trucks.
+- Obtain or arrange cargo insurance.
+- Consolidate loads with a common destination to reduce costs to individual shippers.
+- Provide detailed port information to importers or exporters.
+- Provide shipment status notification to exporters, consignees, or insurers.
+- Verify proper packaging and labeling of exported goods.
+- Verify adherence of documentation to customs, insurance, or regulatory requirements.
+- Maintain current knowledge of relevant legislation, political situations, or other factors that could affect freight shipping.
+- Recommend or arrange appropriate merchandise packing methods, according to climate, terrain, weight, nature of goods, or costs.
+- Refer exporters to experts in areas such as trade financing, international marketing, government export requirements, international banking, or marine insurance.
+- Make arrangements with customs brokers to facilitate the passage of goods through customs.
+- Recommend shipping solutions to minimize cost or environmental impacts.
+- Review the environmental records of freight carriers to inform shipping decisions.
+- Analyze shipping routes to determine how to minimize environmental impact.
+- Consider environmental sustainability factors when determining merchandise packing methods.
+- Assist clients in obtaining insurance reimbursements.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Coordination (Importance: 3.75/5 | Level: 3.38/7)
+- Reading Comprehension (Importance: 3.75/5 | Level: 3.25/7)
+- Monitoring (Importance: 3.5/5 | Level: 3.12/7)
+- Critical Thinking (Importance: 3.38/5 | Level: 3.38/7)
+- Active Listening (Importance: 3.38/5 | Level: 3.38/7)
+- Writing (Importance: 3.25/5 | Level: 3.12/7)
+- Time Management (Importance: 3.25/5 | Level: 3.12/7)
+- Speaking (Importance: 3.25/5 | Level: 3.25/7)
+- Social Perceptiveness (Importance: 3.25/5 | Level: 3.25/7)
+- Service Orientation (Importance: 3.25/5 | Level: 3.12/7)
+- Negotiation (Importance: 3.25/5 | Level: 3.38/7)
+- Persuasion (Importance: 3.12/5 | Level: 3.25/7)
+- Active Learning (Importance: 3.12/5 | Level: 3.12/7)
+- Complex Problem Solving (Importance: 3.12/5 | Level: 3.12/7)
+- Systems Analysis (Importance: 3.0/5 | Level: 3.12/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 3.0/7)
+- Mathematics (Importance: 3.0/5 | Level: 3.12/7)
+- Systems Evaluation (Importance: 3.0/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 2.75/5 | Level: 2.88/7)
+- Instructing (Importance: 2.75/5 | Level: 2.88/7)
+- Management of Personnel Resources (Importance: 2.5/5 | Level: 2.62/7)
+- Management of Financial Resources (Importance: 2.38/5 | Level: 2.0/7)
+- Operations Monitoring (Importance: 2.25/5 | Level: 2.12/7)
+- Management of Material Resources (Importance: 2.12/5 | Level: 2.0/7)
+- Operations Analysis (Importance: 1.75/5 | Level: 0.75/7)
+- Technology Design (Importance: 1.75/5 | Level: 0.75/7)
+- Programming (Importance: 1.62/5 | Level: 0.75/7)
+- Quality Control Analysis (Importance: 1.62/5 | Level: 0.88/7)
+- Troubleshooting (Importance: 1.5/5 | Level: 0.88/7)
+- Repairing (Importance: 1.5/5 | Level: 0.62/7)
+- Equipment Maintenance (Importance: 1.5/5 | Level: 0.75/7)
+- Equipment Selection (Importance: 1.5/5 | Level: 0.75/7)
+- Operation and Control (Importance: 1.5/5 | Level: 0.75/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- AESDirect (Tech skill type: Data base user interface and query software)
+- Arcline ArcFreight (Tech skill type: Materials requirements planning logistics and supply chain software)
+- CargoWise ediEnterprise (Tech skill type: Materials requirements planning logistics and supply chain software)
+- CEDAS Gateway (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Email software (Tech skill type: Electronic mail software)
+- IES Ecellerate (Tech skill type: Compliance software)
+- Kewill Global Trade and Logistics (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Manufacturing resource planning MRP software (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Oracle JD Edwards EnterpriseOne (Tech skill type: Enterprise resource planning ERP software)
+- Order management software (Tech skill type: Procurement software)
+- Package tracking software (Tech skill type: Industrial control software)
+- QuestaWeb TradeMaster QW (Tech skill type: Compliance software)
+- RedBerry Logistics (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Riege Software International Procars (Tech skill type: Materials requirements planning logistics and supply chain software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Star Tec Software Hercules Export (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Tailwind Management Systems Tailwind (Tech skill type: Materials requirements planning logistics and supply chain software)
+- TMW Enterprise Transportation Management Systems (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Web browser software (Tech skill type: Internet browser software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Desktop computers (Tool type: Desktop computers)
+- Laptop computers (Tool type: Notebook computers)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Multi-line telephone systems (Tool type: Special purpose telephones)
+- Personal computers (Tool type: Personal computers)

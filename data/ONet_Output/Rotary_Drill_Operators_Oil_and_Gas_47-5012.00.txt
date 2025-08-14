@@ -1,0 +1,134 @@
+Job Title: Rotary Drill Operators, Oil and Gas
+O*NET-SOC Code: 47-5012.00
+
+# DESCRIPTION
+Set up or operate a variety of drills to remove underground oil and gas, or remove core samples for testing during oil and gas exploration.
+
+# TASKS
+- Train crews, and introduce procedures to make drill work more safe and effective.
+- Observe pressure gauge and move throttles and levers to control the speed of rotary tables, and to regulate pressure of tools at bottoms of boreholes.
+- Count sections of drill rod to determine depths of boreholes.
+- Push levers and brake pedals to control gasoline, diesel, electric, or steam draw works that lower and raise drill pipes and casings in and out of wells.
+- Connect sections of drill pipe, using hand tools and powered wrenches and tongs.
+- Maintain records of footage drilled, location and nature of strata penetrated, materials and tools used, services rendered, and time required.
+- Maintain and adjust machinery to ensure proper performance.
+- Start and examine operation of slush pumps to ensure circulation and consistency of drilling fluid or mud in well.
+- Locate and recover lost or broken bits, casings, and drill pipes from wells, using special tools.
+- Weigh clay, and mix with water and chemicals to make drilling mud.
+- Direct rig crews in drilling and other activities, such as setting up rigs and completing or servicing wells.
+- Monitor progress of drilling operations, and select and change drill bits according to the nature of strata, using hand tools.
+- Repair or replace defective parts of machinery, such as rotary drill rigs, water trucks, air compressors, and pumps, using hand tools.
+- Clean and oil pulleys, blocks, and cables.
+- Bolt together pump and engine parts, and connect tanks and flow lines.
+- Remove core samples during drilling to determine the nature of the strata being drilled.
+- Cap wells with packers, or turn valves, to regulate outflow of oil from wells.
+- Line drilled holes with pipes, and install all necessary hardware, to prepare new wells.
+- Position and prepare truck-mounted derricks at drilling areas specified on field maps.
+- Plug observation wells, and restore sites.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operation and Control (Importance: 3.62/5 | Level: 3.62/7)
+- Critical Thinking (Importance: 3.62/5 | Level: 3.25/7)
+- Operations Monitoring (Importance: 3.62/5 | Level: 3.5/7)
+- Monitoring (Importance: 3.5/5 | Level: 3.25/7)
+- Instructing (Importance: 3.38/5 | Level: 3.38/7)
+- Active Listening (Importance: 3.38/5 | Level: 2.88/7)
+- Coordination (Importance: 3.25/5 | Level: 3.38/7)
+- Speaking (Importance: 3.25/5 | Level: 2.88/7)
+- Complex Problem Solving (Importance: 3.12/5 | Level: 3.12/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 3.0/7)
+- Reading Comprehension (Importance: 3.12/5 | Level: 3.0/7)
+- Troubleshooting (Importance: 3.0/5 | Level: 3.0/7)
+- Repairing (Importance: 3.0/5 | Level: 3.25/7)
+- Quality Control Analysis (Importance: 3.0/5 | Level: 3.25/7)
+- Writing (Importance: 3.0/5 | Level: 3.0/7)
+- Equipment Maintenance (Importance: 3.0/5 | Level: 3.12/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 3.12/7)
+- Active Learning (Importance: 2.88/5 | Level: 3.0/7)
+- Negotiation (Importance: 2.88/5 | Level: 2.75/7)
+- Management of Personnel Resources (Importance: 2.88/5 | Level: 3.25/7)
+- Time Management (Importance: 2.88/5 | Level: 3.38/7)
+- Persuasion (Importance: 2.88/5 | Level: 2.88/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.75/7)
+- Equipment Selection (Importance: 2.62/5 | Level: 2.25/7)
+- Service Orientation (Importance: 2.38/5 | Level: 2.25/7)
+- Mathematics (Importance: 2.38/5 | Level: 1.88/7)
+- Systems Analysis (Importance: 2.12/5 | Level: 2.12/7)
+- Systems Evaluation (Importance: 2.12/5 | Level: 1.88/7)
+- Operations Analysis (Importance: 1.75/5 | Level: 1.0/7)
+- Management of Material Resources (Importance: 1.62/5 | Level: 1.12/7)
+- Technology Design (Importance: 1.38/5 | Level: 0.5/7)
+- Management of Financial Resources (Importance: 1.25/5 | Level: 0.38/7)
+- Science (Importance: 1.25/5 | Level: 0.38/7)
+- Installation (Importance: 1.12/5 | Level: 0.38/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- CAPSHER Technology SureTec (Tech skill type: Industrial control software)
+- Drillingsoftware DrillPro (Tech skill type: Industrial control software)
+- Drillingsoftware Tubular Database (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Pason WellView Field Solution (Tech skill type: Data base user interface and query software)
+- Python (Tech skill type: Object or component oriented development software)
+- Salesforce software (Tech skill type: Customer relationship management CRM software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Schlumberger Petrel E&P (Tech skill type: Analytical or scientific software)
+- Structure query language SQL (Tech skill type: Data base user interface and query software)
+
+## TOOLS USED
+- Accumulator systems (Tool type: Blowout preventer controls)
+- Adapter spools (Tool type: Casing head spool)
+- Air hoists (Tool type: Hoists)
+- Cement pumping equipment (Tool type: Cement pumping units)
+- Chain driven draw works (Tool type: Drawworks)
+- Choke manifolds (Tool type: Choke manifolds)
+- Claw hammers (Tool type: Claw hammer)
+- Double studded adapters (Tool type: Tubing head adapter)
+- Downhole fishing tools (Tool type: Downhole fishing poles)
+- Drill casings (Tool type: Drilling casings)
+- Drill pipe tongs (Tool type: Makeup tongs)
+- Drilling chokes (Tool type: Wellhead production chokes)
+- Drilling collars (Tool type: Drill collars)
+- Drilling crosses (Tool type: Wellhead tees or crosses)
+- Drilling draw works (Tool type: Drawworks)
+- Drilling mud mixers (Tool type: Mud mixers)
+- Drilling rig rotary tables (Tool type: Drill rig rotary tables)
+- Drilling spools (Tool type: Casing head spool)
+- Drilling swivels (Tool type: Drill swivels)
+- Explosives detonating equipment (Tool type: Detonators)
+- Fall arrest systems (Tool type: Safety harnesses or belts)
+- Gasoline engines (Tool type: Gasoline engines)
+- Gear driven draw works (Tool type: Drawworks)
+- Hammer wrenches (Tool type: Specialty wrenches)
+- Hard hats (Tool type: Hard hats)
+- Hydraulic torque wrenches (Tool type: Torque wrenches)
+- Lifting taglines (Tool type: Taglines)
+- Mobile radios (Tool type: Two way radios)
+- Mud mixing equipment (Tool type: Mud mixers)
+- Multiphase flowmeters (Tool type: Flowmeters)
+- Oil drilling pipes (Tool type: Drill pipe)
+- Oil rig crown blocks (Tool type: Crown blocks)
+- Oil well blowout preventers (Tool type: Blowout preventers)
+- Personal computers (Tool type: Personal computers)
+- Pipe covering blind flanges (Tool type: Carbon steel pipe spectacle blind flange)
+- Pipe slips (Tool type: Drilling casings)
+- Portable air compressors (Tool type: Air compressors)
+- Power wrenches (Tool type: Impact wrenches)
+- Pressure recorders (Tool type: Pressure indicators)
+- Protective harnesses (Tool type: Safety harnesses or belts)
+- Protective safety glasses (Tool type: Safety glasses)
+- Reflective vests (Tool type: Safety vests)
+- Rig diesel engines (Tool type: Diesel engines)
+- Rotary drilling rigs (Tool type: Rotary drills)
+- Silicon controlled rectifiers SCR (Tool type: Electric rotary converters)
+- Slush pumps (Tool type: Mud pumps)
+- Spacer spools (Tool type: Casing head spool)
+- Stuck pipe tools (Tool type: Pipe handling equipment)
+- Traveling blocks (Tool type: Blocks or pulleys)
+- Truck mounted derricks (Tool type: Derricks)
+- Well cementing units (Tool type: Oilfield cementing tools)
+- Well drill bits (Tool type: Industrial drill bits)
+- Well packers (Tool type: Packers or tubing anchors)

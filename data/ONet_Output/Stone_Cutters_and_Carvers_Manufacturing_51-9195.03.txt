@@ -1,0 +1,118 @@
+Job Title: Stone Cutters and Carvers, Manufacturing
+O*NET-SOC Code: 51-9195.03
+
+# DESCRIPTION
+Cut or carve stone according to diagrams and patterns.
+
+# TASKS
+- Verify depths and dimensions of cuts or carvings to ensure adherence to specifications, blueprints, or models, using measuring instruments.
+- Move fingers over surfaces of carvings to ensure smoothness of finish.
+- Shape, trim, or touch up roughed-out designs with appropriate tools to finish carvings.
+- Lay out designs or dimensions from sketches or blueprints on stone surfaces, freehand or by transferring them from tracing paper, using scribes or chalk and measuring instruments.
+- Cut, shape, and finish rough blocks of building or monumental stone, according to diagrams or patterns.
+- Drill holes and cut or carve moldings and grooves in stone, according to diagrams and patterns.
+- Select chisels, pneumatic or surfacing tools, or sandblasting nozzles, and determine sequence of use.
+- Study artistic objects or graphic materials, such as models, sketches, or blueprints, to plan carving or cutting techniques.
+- Carve designs or figures in full or bas relief on stone, employing knowledge of stone carving techniques and sense of artistry to produce carvings consistent with designers' plans.
+- Carve rough designs freehand or by chipping along marks on stone, using mallets and chisels or pneumatic tools.
+- Guide nozzles over stone, following stencil outlines, or chip along marks to create designs or to work surfaces down to specified finishes.
+- Smooth surfaces of carvings, using rubbing stones.
+- Load sandblasting equipment with abrasives, attach nozzles to hoses, and turn valves to admit compressed air and activate jets.
+- Dress stone surfaces, using bushhammers.
+- Remove or add stencils during blasting to create differing cut depths, intricate designs, or rough, pitted finishes.
+- Copy drawings on rough clay or plaster models.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Critical Thinking (Importance: 3.0/5 | Level: 2.88/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 2.25/7)
+- Active Listening (Importance: 3.0/5 | Level: 2.75/7)
+- Monitoring (Importance: 2.88/5 | Level: 2.62/7)
+- Time Management (Importance: 2.88/5 | Level: 2.12/7)
+- Speaking (Importance: 2.88/5 | Level: 2.38/7)
+- Reading Comprehension (Importance: 2.88/5 | Level: 2.88/7)
+- Complex Problem Solving (Importance: 2.75/5 | Level: 2.38/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 2.5/7)
+- Coordination (Importance: 2.62/5 | Level: 2.38/7)
+- Active Learning (Importance: 2.5/5 | Level: 2.0/7)
+- Operations Monitoring (Importance: 2.5/5 | Level: 2.38/7)
+- Operation and Control (Importance: 2.5/5 | Level: 2.38/7)
+- Quality Control Analysis (Importance: 2.38/5 | Level: 2.38/7)
+- Equipment Selection (Importance: 2.38/5 | Level: 1.75/7)
+- Writing (Importance: 2.25/5 | Level: 2.25/7)
+- Service Orientation (Importance: 2.25/5 | Level: 1.62/7)
+- Learning Strategies (Importance: 2.25/5 | Level: 2.25/7)
+- Mathematics (Importance: 2.25/5 | Level: 1.62/7)
+- Systems Evaluation (Importance: 2.12/5 | Level: 1.62/7)
+- Systems Analysis (Importance: 2.12/5 | Level: 1.62/7)
+- Instructing (Importance: 2.12/5 | Level: 2.25/7)
+- Management of Personnel Resources (Importance: 2.12/5 | Level: 1.88/7)
+- Operations Analysis (Importance: 2.12/5 | Level: 2.12/7)
+- Negotiation (Importance: 2.12/5 | Level: 1.62/7)
+- Persuasion (Importance: 2.0/5 | Level: 1.5/7)
+- Equipment Maintenance (Importance: 2.0/5 | Level: 1.38/7)
+- Troubleshooting (Importance: 2.0/5 | Level: 1.5/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.0/7)
+- Technology Design (Importance: 1.75/5 | Level: 0.75/7)
+- Repairing (Importance: 1.75/5 | Level: 1.12/7)
+- Management of Financial Resources (Importance: 1.62/5 | Level: 0.62/7)
+- Programming (Importance: 1.5/5 | Level: 0.5/7)
+- Science (Importance: 1.38/5 | Level: 0.38/7)
+- Installation (Importance: 1.12/5 | Level: 0.12/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Corel Paint Shop Pro (Tech skill type: Graphics or photo imaging software)
+- Inventory control software (Tech skill type: Inventory management software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Timekeeping software (Tech skill type: Time accounting software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Air compressors (Tool type: Air compressors)
+- Blow torches (Tool type: Blow torch)
+- Bush hammers (Tool type: Hammers)
+- Bushing chisels (Tool type: Cold chisels)
+- Cold chisels (Tool type: Cold chisels)
+- Combination squares (Tool type: Squares)
+- Computer terminals (Tool type: Mainframe console or dumb terminals)
+- Computerized numerical control CNC routers (Tool type: Milling machines)
+- Computerized numerical control CNC water jet cutters (Tool type: Cutting machines)
+- Criss-cross chisels (Tool type: Cross cut chisels)
+- Cup chisels (Tool type: Cold chisels)
+- Design stencils (Tool type: Stencils or lettering aids)
+- Desktop computers (Tool type: Desktop computers)
+- Dial calipers (Tool type: Calipers)
+- Flat chisels (Tool type: Cold chisels)
+- Frosting chisels (Tool type: Cold chisels)
+- Granite saws (Tool type: Rock cutters)
+- Hammer drills (Tool type: Power drills)
+- Layout compasses (Tool type: Compasses)
+- Lump hammers (Tool type: Hammers)
+- Mallets (Tool type: Mallets)
+- Pneumatic chisels (Tool type: Pneumatic hammer)
+- Pneumatic hammers (Tool type: Pneumatic hammer)
+- Point chisels (Tool type: Cold chisels)
+- Polishing machines (Tool type: Grinding or polishing machines)
+- Power buffers (Tool type: Power buffers)
+- Power drills (Tool type: Power drills)
+- Power grinders (Tool type: Power grinders)
+- Power sanders (Tool type: Power sanders)
+- Power saws (Tool type: Power saws)
+- Precision files (Tool type: Precision file)
+- Precision levels (Tool type: Levels)
+- Precision rulers (Tool type: Rulers)
+- Protective ear muffs (Tool type: Acoustic ear muffs or defenders)
+- Protective respirators (Tool type: Respirators)
+- Rasps (Tool type: Rasps)
+- Rondel chisels (Tool type: Cold chisels)
+- Rubbing stones (Tool type: Abrasive stones)
+- Safety glasses (Tool type: Safety glasses)
+- Safety gloves (Tool type: Protective gloves)
+- Sandblasters (Tool type: Pneumatic sanding machines)
+- Scribers (Tool type: Scribers)
+- Stone saws (Tool type: Rock cutters)
+- Straightedges (Tool type: Straight edges)
+- Tooth chisels (Tool type: Cold chisels)
+- Variable speed routers (Tool type: Power routers)
+- Vixen files (Tool type: Flat taper file)

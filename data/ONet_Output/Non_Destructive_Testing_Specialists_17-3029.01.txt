@@ -1,0 +1,148 @@
+Job Title: Non-Destructive Testing Specialists
+O*NET-SOC Code: 17-3029.01
+
+# DESCRIPTION
+Test the safety of structures, vehicles, or vessels using x-ray, ultrasound, fiber optic or related equipment.
+
+# TASKS
+- Interpret the results of all methods of non-destructive testing (NDT), such as acoustic emission, electromagnetic, leak, liquid penetrant, magnetic particle, neutron radiographic, radiographic, thermal or infrared, ultrasonic, vibration analysis, and visual testing.
+- Interpret or evaluate test results in accordance with applicable codes, standards, specifications, or procedures.
+- Identify defects in solid materials, using ultrasonic testing techniques.
+- Make radiographic images to detect flaws in objects while leaving objects intact.
+- Prepare reports on non-destructive testing results.
+- Select, calibrate, or operate equipment used in the non-destructive testing of products or materials.
+- Visually examine materials, structures, or components for signs of corrosion, metal fatigue, cracks, or other flaws, using tools and equipment such as endoscopes, closed-circuit television systems, and fiber optics.
+- Examine structures or vehicles such as aircraft, trains, nuclear reactors, bridges, dams, and pipelines, using non-destructive testing techniques.
+- Document non-destructive testing methods, processes, or results.
+- Produce images of objects on film, using radiographic techniques.
+- Supervise or direct the work of non-destructive testing trainees or staff.
+- Conduct liquid penetrant tests to locate surface cracks by coating objects with fluorescent dyes, cleaning excess penetrant, and applying developer.
+- Map the presence of imperfections within objects, using sonic measurements.
+- Develop or use new non-destructive testing methods, such as acoustic emission testing, leak testing, and thermal or infrared testing.
+- Identify defects in concrete or other building materials, using thermal or infrared testing.
+- Evaluate material properties, using radio astronomy, voltage and amperage measurement, or rheometric flow measurement.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Reading Comprehension (Importance: 3.88/5 | Level: 3.88/7)
+- Quality Control Analysis (Importance: 3.88/5 | Level: 4.0/7)
+- Active Listening (Importance: 3.62/5 | Level: 3.38/7)
+- Critical Thinking (Importance: 3.5/5 | Level: 3.62/7)
+- Monitoring (Importance: 3.38/5 | Level: 3.62/7)
+- Active Learning (Importance: 3.25/5 | Level: 3.62/7)
+- Operations Monitoring (Importance: 3.25/5 | Level: 3.12/7)
+- Writing (Importance: 3.25/5 | Level: 3.12/7)
+- Operation and Control (Importance: 3.12/5 | Level: 3.0/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 3.12/5 | Level: 3.25/7)
+- Systems Evaluation (Importance: 3.12/5 | Level: 3.0/7)
+- Mathematics (Importance: 3.12/5 | Level: 3.12/7)
+- Systems Analysis (Importance: 3.12/5 | Level: 3.12/7)
+- Speaking (Importance: 3.12/5 | Level: 3.12/7)
+- Complex Problem Solving (Importance: 3.12/5 | Level: 3.0/7)
+- Troubleshooting (Importance: 3.0/5 | Level: 2.88/7)
+- Time Management (Importance: 3.0/5 | Level: 2.88/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 3.0/7)
+- Science (Importance: 3.0/5 | Level: 3.0/7)
+- Coordination (Importance: 3.0/5 | Level: 2.88/7)
+- Instructing (Importance: 3.0/5 | Level: 3.0/7)
+- Management of Personnel Resources (Importance: 2.75/5 | Level: 3.0/7)
+- Equipment Maintenance (Importance: 2.62/5 | Level: 2.75/7)
+- Service Orientation (Importance: 2.62/5 | Level: 2.5/7)
+- Equipment Selection (Importance: 2.62/5 | Level: 2.38/7)
+- Persuasion (Importance: 2.5/5 | Level: 2.5/7)
+- Negotiation (Importance: 2.5/5 | Level: 2.25/7)
+- Repairing (Importance: 2.0/5 | Level: 2.0/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.12/7)
+- Operations Analysis (Importance: 1.75/5 | Level: 0.88/7)
+- Technology Design (Importance: 1.75/5 | Level: 0.88/7)
+- Management of Financial Resources (Importance: 1.5/5 | Level: 0.5/7)
+- Programming (Importance: 1.5/5 | Level: 0.62/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Dassault Systemes CATIA (Tech skill type: Computer aided design CAD software)
+- Fractal Concept SoftScan (Tech skill type: Analytical or scientific software)
+- GE Sensing & Inspection Technologies Rhythm UT (Tech skill type: Analytical or scientific software)
+- Geographic information system GIS systems (Tech skill type: Geographic information system)
+- IBM Notes (Tech skill type: Electronic mail software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft Word (Tech skill type: Word processing software)
+- National Instruments DAQ Assistant (Tech skill type: Analytical or scientific software)
+- National Instruments LabVIEW (Tech skill type: Development environment software)
+- National Instruments NI Motion Assistant (Tech skill type: Computer aided manufacturing CAM software)
+- National Instruments NI Vision Builder for Automated Inspection AI (Tech skill type: Analytical or scientific software)
+- Operating system software (Tech skill type: Operating system software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Visualization Sciences Group VSG Avizo Fire (Tech skill type: Analytical or scientific software)
+- Visualization Sciences Group VSG Open Inventor (Tech skill type: Graphics or photo imaging software)
+
+## TOOLS USED
+- Acoustic emissions systems (Tool type: Sound measuring apparatus or decibel meter)
+- Acoustic testers (Tool type: Acoustic sensors)
+- Amp meters (Tool type: Voltage or current meters)
+- Binocular polarizing microscopes (Tool type: Polarizing microscopes)
+- Binoculars (Tool type: Binoculars)
+- Black lights (Tool type: Ultraviolet UV lamps)
+- Capacitance testers (Tool type: Capacitance meters)
+- Charge-coupled device CCD cameras (Tool type: Photo attachments for microscopes)
+- Closed circuit television systems (Tool type: Televisions)
+- Computer assisted tomography CAT inspection equipment (Tool type: X ray radiography examination equipment)
+- Depth gauges (Tool type: Thickness measuring devices)
+- Desktop computers (Tool type: Desktop computers)
+- Digital micrometers (Tool type: Micrometers)
+- Digital oscilloscopes (Tool type: Oscilloscopes)
+- Digital refractometers (Tool type: Handheld refractometers or polarimeters)
+- Digital video cameras (Tool type: Digital camcorders or video cameras)
+- Eddy current inspection equipment (Tool type: Eddy current examination equipment)
+- Electric hoists (Tool type: Hoists)
+- Electrical conductivity meters (Tool type: Conductivity meters)
+- Fiber optic strain sensors (Tool type: Strain gauges)
+- Fluorescent microscopes (Tool type: Fluorescent microscopes)
+- Gamma ray testing equipment (Tool type: IR 192 radiography examination equipment)
+- Gauss meters (Tool type: Electromagnetic field meters)
+- Ground penetrating radar GPR systems (Tool type: Radarbased surveillance systems)
+- Handheld accelerometers (Tool type: Accelerometers)
+- Handheld sprayers (Tool type: Hand sprayers)
+- Height gauges (Tool type: Height gauges)
+- Immersion tanks (Tool type: Dip tanks)
+- Infrared thermographic scanners (Tool type: Infrared imagers)
+- Inspection endoscopes (Tool type: Borescope inspection equipment)
+- Laptop computers (Tool type: Notebook computers)
+- Laser alignment tools (Tool type: Laser measuring systems)
+- Light meters (Tool type: Lux or light meter)
+- Load indenters (Tool type: Impact testers)
+- Magnifying glasses (Tool type: Magnifiers)
+- Measuring tapes (Tool type: Tape measures)
+- Metallurgical microscopes (Tool type: Metallurgical microscopes)
+- Microwave meters (Tool type: Leak testing equipment)
+- Neutron detectors (Tool type: Radiation detectors)
+- Personal computers (Tool type: Personal computers)
+- Piezoelectric sensors (Tool type: Piezo electric crystals)
+- Portable microscopes (Tool type: Binocular light compound microscopes)
+- Power drills (Tool type: Power drills)
+- Precision rulers (Tool type: Rulers)
+- Radiation detection badges (Tool type: Radiation detectors)
+- Recirculating hot air drying ovens (Tool type: Drying cabinets or ovens)
+- Remote reading electronic thermometers (Tool type: Remote reading thermometers)
+- Scanning electron microscopes SEM (Tool type: Scanning electron microscopes)
+- Schmidt rebound hammers (Tool type: Hardness testers)
+- Stereo microscopes (Tool type: Stereo or dissecting light microscopes)
+- Telescopes (Tool type: Telescopes)
+- Timing equipment (Tool type: Clock timers)
+- Two-channel oscilloscopes (Tool type: Oscilloscopes)
+- Ultrasound inspection equipment (Tool type: Ultrasonic examination equipment)
+- Velocity meters (Tool type: Anemometers)
+- Vernier calipers (Tool type: Calipers)
+- Vibration analysis equipment (Tool type: Vibration testers)
+- Volt meters (Tool type: Voltage or current meters)
+- Width gauges (Tool type: Thickness measuring devices)
+- Windsor probes (Tool type: Compression testers)
+- X ray equipment (Tool type: X ray radiography examination equipment)
+- X ray microscopes (Tool type: Electron microscopes)

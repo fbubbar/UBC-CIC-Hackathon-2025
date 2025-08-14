@@ -1,0 +1,144 @@
+Job Title: Respiratory Therapists
+O*NET-SOC Code: 29-1126.00
+
+# DESCRIPTION
+Assess, treat, and care for patients with breathing disorders. Assume primary responsibility for all respiratory care modalities, including the supervision of respiratory therapy technicians. Initiate and conduct therapeutic procedures; maintain patient records; and select, assemble, check, and operate equipment.
+
+# TASKS
+- Provide emergency care, such as artificial respiration, external cardiac massage, or assistance with cardiopulmonary resuscitation.
+- Monitor patient's physiological responses to therapy, such as vital signs, arterial blood gases, or blood chemistry changes, and consult with physician if adverse reactions occur.
+- Set up and operate devices, such as mechanical ventilators, therapeutic gas administration apparatus, environmental control systems, or aerosol generators, following specified parameters of treatment.
+- Work as part of a team of physicians, nurses, or other healthcare professionals to manage patient care by assisting with medical procedures or related duties.
+- Maintain charts that contain patients' pertinent identification and therapy information.
+- Read prescription, measure arterial blood gases, and review patient information to assess patient condition.
+- Relay blood analysis results to a physician.
+- Inspect, clean, test, and maintain respiratory therapy equipment to ensure equipment is functioning safely and efficiently, ordering repairs when necessary.
+- Explain treatment procedures to patients to gain cooperation and allay fears.
+- Make emergency visits to resolve equipment problems.
+- Determine requirements for treatment, such as type, method and duration of therapy, precautions to be taken, or medication and dosages, compatible with physicians' orders.
+- Enforce safety rules and ensure careful adherence to physicians' orders.
+- Educate patients and their families about their conditions and teach appropriate disease management techniques, such as breathing exercises or the use of medications or respiratory equipment.
+- Perform bronchopulmonary drainage and assist or instruct patients in performance of breathing exercises.
+- Conduct tests, such as electrocardiograms (EKGs), stress testing, or lung capacity tests, to evaluate patients' cardiopulmonary functions.
+- Perform pulmonary function and adjust equipment to obtain optimum results in therapy.
+- Demonstrate respiratory care procedures to trainees or other healthcare personnel.
+- Use a variety of testing techniques to assist doctors in cardiac or pulmonary research or to diagnose disorders.
+- Transport patients to the hospital or within the hospital.
+- Teach, train, supervise, or use the assistance of students, respiratory therapy technicians, or assistants.
+- Perform endotracheal intubation to maintain open airways for patients who are unable to breathe on their own.
+- Monitor cardiac patients, using electrocardiography devices, such as a holter monitor.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Monitoring (Importance: 3.88/5 | Level: 3.88/7)
+- Critical Thinking (Importance: 3.88/5 | Level: 4.0/7)
+- Active Listening (Importance: 3.88/5 | Level: 3.88/7)
+- Speaking (Importance: 3.75/5 | Level: 4.0/7)
+- Active Learning (Importance: 3.62/5 | Level: 3.62/7)
+- Social Perceptiveness (Importance: 3.62/5 | Level: 3.75/7)
+- Service Orientation (Importance: 3.62/5 | Level: 3.62/7)
+- Reading Comprehension (Importance: 3.62/5 | Level: 4.0/7)
+- Complex Problem Solving (Importance: 3.38/5 | Level: 3.12/7)
+- Coordination (Importance: 3.38/5 | Level: 3.0/7)
+- Judgment and Decision Making (Importance: 3.38/5 | Level: 3.5/7)
+- Instructing (Importance: 3.25/5 | Level: 3.0/7)
+- Time Management (Importance: 3.12/5 | Level: 3.12/7)
+- Writing (Importance: 3.12/5 | Level: 3.5/7)
+- Learning Strategies (Importance: 3.12/5 | Level: 3.0/7)
+- Operations Monitoring (Importance: 3.0/5 | Level: 3.0/7)
+- Quality Control Analysis (Importance: 3.0/5 | Level: 3.0/7)
+- Science (Importance: 3.0/5 | Level: 3.5/7)
+- Operation and Control (Importance: 2.88/5 | Level: 3.0/7)
+- Management of Personnel Resources (Importance: 2.88/5 | Level: 3.0/7)
+- Negotiation (Importance: 2.88/5 | Level: 2.88/7)
+- Systems Evaluation (Importance: 2.88/5 | Level: 3.0/7)
+- Systems Analysis (Importance: 2.88/5 | Level: 2.88/7)
+- Persuasion (Importance: 2.88/5 | Level: 2.88/7)
+- Mathematics (Importance: 2.75/5 | Level: 2.88/7)
+- Equipment Selection (Importance: 2.38/5 | Level: 2.25/7)
+- Troubleshooting (Importance: 2.38/5 | Level: 2.12/7)
+- Equipment Maintenance (Importance: 2.25/5 | Level: 2.38/7)
+- Repairing (Importance: 2.25/5 | Level: 2.12/7)
+- Operations Analysis (Importance: 2.12/5 | Level: 2.12/7)
+- Technology Design (Importance: 2.12/5 | Level: 1.38/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.62/7)
+- Management of Financial Resources (Importance: 1.88/5 | Level: 1.38/7)
+- Programming (Importance: 1.5/5 | Level: 0.5/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Calendar and scheduling software (Tech skill type: Calendar and scheduling software)
+- Database software (Tech skill type: Data base user interface and query software)
+- eClinicalWorks EHR software (Tech skill type: Medical software)
+- Electronic medical record EMR software (Tech skill type: Medical software)
+- HMS (Tech skill type: Medical software)
+- MEDITECH software (Tech skill type: Medical software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Aerosol masks (Tool type: Nebulizers)
+- Air compressors (Tool type: Respiratory therapy compressors)
+- Ambu bags (Tool type: Resuscitation masks)
+- Apnea monitors (Tool type: Apnea monitors)
+- Bedside spirometers (Tool type: Bedside pulmonary function screeners)
+- Bilevel positive airway pressure BiPAP ventilators (Tool type: Non invasive bi level machines)
+- Blood collection syringes (Tool type: Blood collection syringes)
+- Blood gas kits (Tool type: Arterial blood gas monitors)
+- Blood gas machines (Tool type: Arterial blood gas monitors)
+- Bronchoscopes (Tool type: Bronchoscopes)
+- Cannulas (Tool type: Medical nasal cannulas)
+- Capillary catheters (Tool type: Pulmonary functioning tubing)
+- Cell savers (Tool type: Autotransfusion units)
+- Christmas tree adapters (Tool type: Oxygen delivery connectors or adapters)
+- Continuous positive airway pressure CPAP ventilators (Tool type: Non invasive continuous positive air pressure machines)
+- Electrocardiography EKG units (Tool type: Electrocardiography EKG units)
+- Electronic blood pressure equipment (Tool type: Electronic blood pressure units)
+- Endotracheal ET tubes (Tool type: Endotracheal tubes)
+- Evacuated blood collection tubes (Tool type: Vacuum blood collection tubes or containers)
+- Hemodynamic monitors (Tool type: Cardiac output CO monitoring units)
+- High-frequency ventilators (Tool type: High frequency ventilators)
+- Humidifiers (Tool type: Respiratory humidifiers or vaporizers)
+- Incentive spirometers (Tool type: Spirometers)
+- Indirect calorimeters (Tool type: Respiratory monitoring kits)
+- Infant incubators (Tool type: Clinical incubators or infant warmers)
+- Internal positive pressure breathing IPPB machines (Tool type: Intermittent positive pressure breathing IPPB machines)
+- Intra-aortic balloon pumps IABP (Tool type: Intraaortic balloon pumps)
+- Manometers (Tool type: Respiratory manometer kits)
+- Manual blood pressure equipment (Tool type: Mercury blood pressure units)
+- Mechanical stethoscopes (Tool type: Medical acoustic stethoscopes)
+- Medical aerosol tents (Tool type: Medical aerosol tents)
+- Medical oxygen masks (Tool type: Medical oxygen masks or parts)
+- Medical suction equipment (Tool type: Medical or surgical suction or vacuum appliances)
+- Nasal airways (Tool type: Medical nasal cannulas)
+- Nebulizers (Tool type: Nebulizers)
+- Negative pressure ventilators (Tool type: Chest cuirass products)
+- Notebook computers (Tool type: Notebook computers)
+- Oral airways (Tool type: Medical oxygen masks or parts)
+- Oxygen concentrators (Tool type: Oxygen concentrators)
+- Oxygen flowmeters (Tool type: Flow sensors or regulators or components)
+- Oxygen hoods (Tool type: Medical head hoods)
+- Oxygen masks (Tool type: Medical oxygen masks or parts)
+- Oxygen monitors (Tool type: Respiratory monitoring kit accessories)
+- Oxygen regulators (Tool type: Flow sensors or regulators or components)
+- Oxygen tanks (Tool type: Medical gas cylinders or related devices)
+- Oxygen tents (Tool type: Medical aerosol tents)
+- Percussors (Tool type: Chest percussors)
+- Personal computers (Tool type: Personal computers)
+- Personal digital assistants PDA (Tool type: Personal digital assistant PDAs or organizers)
+- Portable flat computers (Tool type: Tablet computers)
+- Pulmonary function testing PFT equipment (Tool type: Spirometers)
+- Pulse oximeters (Tool type: Pulse oximeter units)
+- Saturation of oxygen SaO2 monitors (Tool type: Perfusion oxygen or hematocrit saturation monitors)
+- Small particle aerosol generators (Tool type: Nebulizers)
+- Sputum traps (Tool type: Sputum collection apparatus or containers)
+- Surgical suits (Tool type: Surgical isolation suit or helmet or shield)
+- Therapeutic treadmill exercisers (Tool type: Treadmill exercisers for rehabilitation or therapy)
+- Tourniquets (Tool type: Tourniquets)
+- Tracheostomy tubes (Tool type: Tracheostomy tubes)
+- Tracheotomy masks (Tool type: Nebulizers)
+- Volume ventilators (Tool type: Intensive care ventilators)
+- Wright's spirometers (Tool type: Spirometers)

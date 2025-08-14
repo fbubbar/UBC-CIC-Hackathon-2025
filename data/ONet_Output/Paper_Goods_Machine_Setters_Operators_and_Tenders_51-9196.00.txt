@@ -1,0 +1,99 @@
+Job Title: Paper Goods Machine Setters, Operators, and Tenders
+O*NET-SOC Code: 51-9196.00
+
+# DESCRIPTION
+Set up, operate, or tend paper goods machines that perform a variety of functions, such as converting, sawing, corrugating, banding, wrapping, boxing, stitching, forming, or sealing paper or paperboard sheets into products.
+
+# TASKS
+- Examine completed work to detect defects and verify conformance to work orders, and adjust machinery as necessary to correct production problems.
+- Observe operation of various machines to detect and correct machine malfunctions such as improper forming, glue flow, or pasteboard tension.
+- Start machines and move controls to regulate tension on pressure rolls, to synchronize speed of machine components, and to adjust temperatures of glue or paraffin.
+- Disassemble machines to maintain, repair, or replace broken or worn parts, using hand or power tools.
+- Install attachments to machines for gluing, folding, printing, or cutting.
+- Cut products to specified dimensions, using hand or power cutters.
+- Place rolls of paper or cardboard on machine feed tracks, and thread paper through gluing, coating, and slitting rollers.
+- Monitor finished cartons as they drop from forming machines into rotating hoppers and into gravity feed chutes to prevent jamming.
+- Adjust guide assemblies, forming bars, and folding mechanisms according to specifications, using hand tools.
+- Measure, space, and set saw blades, cutters, and perforators, according to product specifications.
+- Fill glue and paraffin reservoirs, and position rollers to dispense glue onto paperboard.
+- Stamp products with information such as dates, using hand stamps or automatic stamping devices.
+- Remove finished cores, and stack or place them on conveyors for transfer to other work areas.
+- Lift tote boxes of finished cartons, and dump cartons into feed hoppers.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operations Monitoring (Importance: 3.62/5 | Level: 3.12/7)
+- Operation and Control (Importance: 3.25/5 | Level: 3.0/7)
+- Quality Control Analysis (Importance: 3.12/5 | Level: 2.75/7)
+- Monitoring (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 2.62/7)
+- Speaking (Importance: 3.0/5 | Level: 2.75/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 2.88/7)
+- Active Listening (Importance: 3.0/5 | Level: 2.75/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.5/7)
+- Active Learning (Importance: 2.88/5 | Level: 2.25/7)
+- Complex Problem Solving (Importance: 2.88/5 | Level: 2.38/7)
+- Coordination (Importance: 2.88/5 | Level: 2.62/7)
+- Equipment Maintenance (Importance: 2.88/5 | Level: 2.75/7)
+- Reading Comprehension (Importance: 2.75/5 | Level: 2.25/7)
+- Troubleshooting (Importance: 2.75/5 | Level: 2.62/7)
+- Judgment and Decision Making (Importance: 2.75/5 | Level: 2.25/7)
+- Service Orientation (Importance: 2.38/5 | Level: 2.12/7)
+- Persuasion (Importance: 2.38/5 | Level: 2.12/7)
+- Equipment Selection (Importance: 2.25/5 | Level: 2.25/7)
+- Systems Evaluation (Importance: 2.25/5 | Level: 2.25/7)
+- Systems Analysis (Importance: 2.25/5 | Level: 2.5/7)
+- Repairing (Importance: 2.25/5 | Level: 2.25/7)
+- Writing (Importance: 2.25/5 | Level: 2.12/7)
+- Negotiation (Importance: 2.25/5 | Level: 2.12/7)
+- Management of Personnel Resources (Importance: 2.25/5 | Level: 2.0/7)
+- Instructing (Importance: 2.12/5 | Level: 2.12/7)
+- Mathematics (Importance: 2.12/5 | Level: 2.0/7)
+- Operations Analysis (Importance: 2.0/5 | Level: 1.75/7)
+- Learning Strategies (Importance: 2.0/5 | Level: 2.12/7)
+- Technology Design (Importance: 1.88/5 | Level: 0.88/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.0/7)
+- Management of Financial Resources (Importance: 1.62/5 | Level: 0.75/7)
+- Installation (Importance: 1.38/5 | Level: 0.62/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adobe Acrobat (Tech skill type: Document management software)
+- Adobe Illustrator (Tech skill type: Graphics or photo imaging software)
+- Adobe InDesign (Tech skill type: Desktop publishing software)
+- Adobe Photoshop (Tech skill type: Graphics or photo imaging software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Objectif Lune PrintShop Mail (Tech skill type: Electronic mail software)
+- Quark enterprise publishing software (Tech skill type: Desktop publishing software)
+- Virtual Systems Mail-Shop (Tech skill type: Customer relationship management CRM software)
+
+## TOOLS USED
+- Automatic stamping machines (Tool type: Hot stamp printer)
+- Automatic stapling machines (Tool type: Stapler units)
+- Black and white laser printers (Tool type: Laser printers)
+- Book stitchers (Tool type: Book stitching machines)
+- Case making machines (Tool type: Thermal book binding machines)
+- Collator gatherers (Tool type: Printing collators or decollators)
+- Color laser printers (Tool type: Laser printers)
+- Combining machines (Tool type: Paper punching or binding machines)
+- Commercial inkjet printers (Tool type: Inkjet printer for commercial printing applications)
+- Corrugated paper machines (Tool type: Paper machine)
+- Fully automatic binding machines (Tool type: Paper punching or binding machines)
+- Guillotine paper cutters (Tool type: Printing guillotines)
+- Hand stamps (Tool type: Rubber stamping stamps)
+- Mailing machines (Tool type: Automatic postal or mailing machine)
+- Mallets (Tool type: Mallets)
+- Paper drills (Tool type: Paper drilling machines)
+- Paper padding presses (Tool type: Paper press machine)
+- Paper slitter machines (Tool type: Slitters)
+- Personal computers (Tool type: Personal computers)
+- Power folders (Tool type: Book folding machines)
+- Power paper cutters (Tool type: Cutters)
+- Power speed binders (Tool type: Paper punching or binding machines)
+- Printing collators (Tool type: Printing collators or decollators)
+- Programmable cutters (Tool type: Cutters)
+- Shrink wrap machines (Tool type: Industrial shrink wrap equipment)
+- Thermal book binding machines (Tool type: Thermal book binding machines)

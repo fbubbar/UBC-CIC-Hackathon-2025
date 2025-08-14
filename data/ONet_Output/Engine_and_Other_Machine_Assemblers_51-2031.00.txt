@@ -1,0 +1,118 @@
+Job Title: Engine and Other Machine Assemblers
+O*NET-SOC Code: 51-2031.00
+
+# DESCRIPTION
+Construct, assemble, or rebuild machines, such as engines, turbines, and similar equipment used in such industries as construction, extraction, textiles, and paper manufacturing.
+
+# TASKS
+- Read and interpret assembly blueprints or specifications manuals, and plan assembly or building operations.
+- Inspect, operate, and test completed products to verify functioning, machine capabilities, or conformance to customer specifications.
+- Position or align components for assembly, manually or using hoists.
+- Set and verify parts clearances.
+- Verify conformance of parts to stock lists or blueprints, using measuring instruments such as calipers, gauges, or micrometers.
+- Fasten or install piping, fixtures, or wiring and electrical components to form assemblies or subassemblies, using hand tools, rivet guns, or welding equipment.
+- Remove rough spots and smooth surfaces to fit, trim, or clean parts, using hand tools or power tools.
+- Lay out and drill, ream, tap, or cut parts for assembly.
+- Rework, repair, or replace damaged parts or assemblies.
+- Assemble systems of gears by aligning and meshing gears in gearboxes.
+- Set up and operate metalworking machines, such as milling or grinding machines, to shape or fabricate parts.
+- Maintain and lubricate parts or components.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operations Monitoring (Importance: 3.38/5 | Level: 3.12/7)
+- Quality Control Analysis (Importance: 3.12/5 | Level: 3.25/7)
+- Reading Comprehension (Importance: 3.12/5 | Level: 3.12/7)
+- Active Listening (Importance: 3.0/5 | Level: 3.0/7)
+- Monitoring (Importance: 3.0/5 | Level: 3.0/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 3.0/7)
+- Speaking (Importance: 3.0/5 | Level: 2.88/7)
+- Repairing (Importance: 2.88/5 | Level: 2.88/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.12/7)
+- Operation and Control (Importance: 2.88/5 | Level: 2.88/7)
+- Time Management (Importance: 2.88/5 | Level: 2.25/7)
+- Troubleshooting (Importance: 2.88/5 | Level: 3.0/7)
+- Equipment Maintenance (Importance: 2.88/5 | Level: 2.88/7)
+- Complex Problem Solving (Importance: 2.88/5 | Level: 2.25/7)
+- Coordination (Importance: 2.75/5 | Level: 2.25/7)
+- Judgment and Decision Making (Importance: 2.62/5 | Level: 2.5/7)
+- Equipment Selection (Importance: 2.5/5 | Level: 2.25/7)
+- Systems Analysis (Importance: 2.38/5 | Level: 2.0/7)
+- Active Learning (Importance: 2.38/5 | Level: 2.25/7)
+- Persuasion (Importance: 2.25/5 | Level: 2.0/7)
+- Service Orientation (Importance: 2.25/5 | Level: 2.0/7)
+- Writing (Importance: 2.25/5 | Level: 2.25/7)
+- Negotiation (Importance: 2.12/5 | Level: 2.0/7)
+- Management of Personnel Resources (Importance: 2.12/5 | Level: 2.12/7)
+- Systems Evaluation (Importance: 2.12/5 | Level: 2.0/7)
+- Instructing (Importance: 2.12/5 | Level: 2.25/7)
+- Mathematics (Importance: 2.0/5 | Level: 2.0/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.12/7)
+- Learning Strategies (Importance: 2.0/5 | Level: 2.0/7)
+- Installation (Importance: 2.0/5 | Level: 1.38/7)
+- Science (Importance: 1.88/5 | Level: 1.62/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.0/7)
+- Operations Analysis (Importance: 1.75/5 | Level: 0.75/7)
+- Programming (Importance: 1.75/5 | Level: 0.75/7)
+- Management of Financial Resources (Importance: 1.62/5 | Level: 0.62/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Computer aided design and drafting CADD software (Tech skill type: Computer aided design CAD software)
+- Dassault Systemes SolidWorks (Tech skill type: Computer aided design CAD software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Word (Tech skill type: Word processing software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Adjustable wrenches (Tool type: Adjustable wrenches)
+- Allen wrenches (Tool type: Hex keys)
+- Backup wrenches (Tool type: Adjustable wrenches)
+- Band saws (Tool type: Metal band sawing machine)
+- Claw hammers (Tool type: Claw hammer)
+- Dial calipers (Tool type: Calipers)
+- Dial indicators (Tool type: Dial indicator or dial gauge)
+- Engine repair stands (Tool type: Engine or vehicle stands)
+- Feeler gauges (Tool type: Feeler gauges)
+- Flaring tools (Tool type: Power flaring tool)
+- Flat head screwdrivers (Tool type: Screwdrivers)
+- Gear pullers (Tool type: Pullers)
+- Gear wrenches (Tool type: Specialty wrenches)
+- Grinding machines (Tool type: Power grinders)
+- Hand drills (Tool type: Power drills)
+- Heat guns (Tool type: Heat guns)
+- Hydraulic presses (Tool type: Hydraulic press frames)
+- Jib cranes (Tool type: Jib crane)
+- Lapping tools (Tool type: Tumblers or polishers)
+- Metal chisels (Tool type: Cold chisels)
+- Metal cutting taps (Tool type: Taps)
+- Micrometers (Tool type: Micrometers)
+- Milling machines (Tool type: Milling machines)
+- Needlenose pliers (Tool type: Needlenose pliers)
+- Nut drivers (Tool type: Nut drivers)
+- Nylon hammers (Tool type: Rubber mallet)
+- Personal computers (Tool type: Personal computers)
+- Plastic mallets (Tool type: Mallets)
+- Portable welding equipment (Tool type: Spot welding machine)
+- Power drills (Tool type: Power drills)
+- Power hoists (Tool type: Hoists)
+- Power wrenches (Tool type: Impact wrenches)
+- Precision files (Tool type: Precision file)
+- Pry bars (Tool type: Pry bars)
+- Ratchets (Tool type: Ratchets)
+- Reamers (Tool type: Hand reamer)
+- Ring filing wheels (Tool type: Grinding wheels)
+- Ring squeezers (Tool type: Hydraulic cylinder or component repair kits)
+- Rivet guns (Tool type: Power riveter)
+- Rubber mallets (Tool type: Rubber mallet)
+- Snap ring pliers (Tool type: Retaining ring pliers)
+- Socket wrenches (Tool type: Sockets)
+- Soldering guns (Tool type: Soldering iron)
+- Timing lights (Tool type: Speed sensors)
+- Torque angle meters (Tool type: Force or torque sensors)
+- Torque wrenches (Tool type: Torque wrenches)
+- Tube benders (Tool type: Tube bending machine)
+- Tube cutters (Tool type: Pipe or tube cutter)
+- Vernier calipers (Tool type: Calipers)

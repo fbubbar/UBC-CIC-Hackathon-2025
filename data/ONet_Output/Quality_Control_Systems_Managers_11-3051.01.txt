@@ -1,0 +1,145 @@
+Job Title: Quality Control Systems Managers
+O*NET-SOC Code: 11-3051.01
+
+# DESCRIPTION
+Plan, direct, or coordinate quality assurance programs. Formulate quality control policies and control quality of laboratory and production efforts.
+
+# TASKS
+- Stop production if serious product defects are present.
+- Review and update standard operating procedures or quality assurance manuals.
+- Monitor performance of quality control systems to ensure effectiveness and efficiency.
+- Review quality documentation necessary for regulatory submissions and inspections.
+- Analyze quality control test results and provide feedback and interpretation to production management or staff.
+- Verify that raw materials, purchased parts or components, in-process samples, and finished products meet established testing and inspection standards.
+- Oversee workers including supervisors, inspectors, or laboratory workers engaged in testing activities.
+- Direct product testing activities throughout production cycles.
+- Instruct staff in quality control and analytical procedures.
+- Direct the tracking of defects, test results, or other regularly reported quality control data.
+- Participate in the development of product specifications.
+- Identify quality problems or areas for improvement and recommend solutions.
+- Collect and analyze production samples to evaluate quality.
+- Produce reports regarding nonconformance of products or processes, daily production quality, root cause analyses, or quality trends.
+- Communicate quality control information to all relevant organizational departments, outside vendors, or contractors.
+- Monitor development of new products to help identify possible problems for mass production.
+- Identify critical points in the manufacturing process and specify sampling procedures to be used at these points.
+- Create and implement inspection and testing criteria or procedures.
+- Document testing procedures, methodologies, or criteria.
+- Review statistical studies, technological advances, or regulatory standards and trends to stay abreast of issues in the field of quality control.
+- Coordinate the selection and implementation of quality control equipment, such as inspection gauges.
+- Generate and maintain quality control operating budgets.
+- Instruct vendors or contractors on quality guidelines, testing procedures, or ways to eliminate deficiencies.
+- Confer with marketing and sales departments to define client requirements and expectations.
+- Evaluate new testing and sampling methodologies or technologies to determine usefulness.
+- Review and approve quality plans submitted by contractors.
+- Audit and inspect subcontractor facilities including external laboratories.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.12/7)
+- Judgment and Decision Making (Importance: 4.0/5 | Level: 4.12/7)
+- Quality Control Analysis (Importance: 4.0/5 | Level: 4.12/7)
+- Writing (Importance: 3.88/5 | Level: 4.0/7)
+- Monitoring (Importance: 3.88/5 | Level: 4.5/7)
+- Speaking (Importance: 3.88/5 | Level: 4.12/7)
+- Active Listening (Importance: 3.88/5 | Level: 4.12/7)
+- Complex Problem Solving (Importance: 3.75/5 | Level: 4.12/7)
+- Coordination (Importance: 3.75/5 | Level: 3.88/7)
+- Critical Thinking (Importance: 3.75/5 | Level: 4.12/7)
+- Systems Evaluation (Importance: 3.75/5 | Level: 4.0/7)
+- Systems Analysis (Importance: 3.62/5 | Level: 3.88/7)
+- Active Learning (Importance: 3.62/5 | Level: 4.12/7)
+- Time Management (Importance: 3.5/5 | Level: 3.75/7)
+- Management of Personnel Resources (Importance: 3.25/5 | Level: 3.5/7)
+- Instructing (Importance: 3.25/5 | Level: 3.62/7)
+- Social Perceptiveness (Importance: 3.25/5 | Level: 3.75/7)
+- Operations Monitoring (Importance: 3.25/5 | Level: 3.5/7)
+- Persuasion (Importance: 3.25/5 | Level: 3.5/7)
+- Mathematics (Importance: 3.12/5 | Level: 3.25/7)
+- Learning Strategies (Importance: 3.12/5 | Level: 3.38/7)
+- Negotiation (Importance: 3.0/5 | Level: 3.12/7)
+- Service Orientation (Importance: 3.0/5 | Level: 3.25/7)
+- Operation and Control (Importance: 2.88/5 | Level: 3.0/7)
+- Operations Analysis (Importance: 2.75/5 | Level: 3.0/7)
+- Management of Financial Resources (Importance: 2.75/5 | Level: 3.0/7)
+- Management of Material Resources (Importance: 2.75/5 | Level: 2.75/7)
+- Troubleshooting (Importance: 2.75/5 | Level: 2.75/7)
+- Science (Importance: 2.25/5 | Level: 2.25/7)
+- Technology Design (Importance: 2.12/5 | Level: 1.62/7)
+- Equipment Selection (Importance: 2.0/5 | Level: 1.38/7)
+- Programming (Importance: 1.88/5 | Level: 1.25/7)
+- Equipment Maintenance (Importance: 1.88/5 | Level: 1.5/7)
+- Repairing (Importance: 1.75/5 | Level: 1.12/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Abbott Informatics STARLIMS:LIMS (Tech skill type: Analytical or scientific software)
+- Adobe Acrobat (Tech skill type: Document management software)
+- ASI DATAMYTE GageMetrics (Tech skill type: Industrial control software)
+- ASI DATAMYTE QDA (Tech skill type: Industrial control software)
+- ASIDATAMYTE DataMetrics (Tech skill type: Industrial control software)
+- Atlassian JIRA (Tech skill type: Content workflow software)
+- CAMA Software Quality Collaboration By Design QCBD (Tech skill type: Industrial control software)
+- CEBOS MQ1 software (Tech skill type: Industrial control software)
+- Computing Solutions LabSoft LIMS (Tech skill type: Analytical or scientific software)
+- Core Informatics Laboratory Information Management System LIMS (Tech skill type: Analytical or scientific software)
+- Database software (Tech skill type: Data base user interface and query software)
+- Eko (Tech skill type: Desktop communications software)
+- EtQ Reliance (Tech skill type: Compliance software)
+- Extensible markup language XML (Tech skill type: Enterprise application integration software)
+- Harrington Group caWeb (Tech skill type: Data base user interface and query software)
+- Harrington Group HQMS (Tech skill type: Industrial control software)
+- Hewlett Packard LoadRunner (Tech skill type: Program testing software)
+- Illumina Laboratory Information Management System LIMS (Tech skill type: Analytical or scientific software)
+- Infinity QS ProFicient (Tech skill type: Industrial control software)
+- Lablite Laboratory Information Management Systems LIMS (Tech skill type: Analytical or scientific software)
+- Laboratory Automated Quality Control Systems LAQC (Tech skill type: Industrial control software)
+- Labvantage Solutions LIMS (Tech skill type: Analytical or scientific software)
+- Linux (Tech skill type: Operating system software)
+- MasterControl software (Tech skill type: Risk management data and analysis software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft SQL Server (Tech skill type: Data base user interface and query software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Minitab (Tech skill type: Analytical or scientific software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- Pearson Education PHStat2 (Tech skill type: Analytical or scientific software)
+- PQ Systems CHARTrunner Lean (Tech skill type: Industrial control software)
+- PQ Systems GAGEpack (Tech skill type: Industrial control software)
+- PQ Systems MEASUREspy (Tech skill type: Industrial control software)
+- PQ Systems SQCpack (Tech skill type: Analytical or scientific software)
+- Promium Element DataSystem LIMS (Tech skill type: Analytical or scientific software)
+- Quality Systems International WinLIMS (Tech skill type: Analytical or scientific software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Selenium (Tech skill type: Program testing software)
+- Sparta Systems TrackWise (Tech skill type: Compliance software)
+- Statgraphics (Tech skill type: Analytical or scientific software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Systat Software LISA.lims (Tech skill type: Analytical or scientific software)
+- Thermo Fisher Scientific Laboratory Information Management Systems LIMS (Tech skill type: Analytical or scientific software)
+- Vivaldi Software Vivaldi Quality Management (Tech skill type: Industrial control software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Automated diluters (Tool type: Laboratory diluters)
+- Automated microplate ELISA readers (Tool type: Microplate readers)
+- Cellular assay equipment (Tool type: Immunology analyzers)
+- Computer inkjet printers (Tool type: Inkjet printers)
+- Electrophoresis equipment (Tool type: Instrumentation for capillary electrophoresis)
+- Fourier transfer infrared FTIR spectrometers (Tool type: Infrared spectrometers)
+- Gas chromatography equipment (Tool type: Gas chromatographs)
+- Handheld data collectors (Tool type: Portable data input terminals)
+- Infrared spectroscopic equipment (Tool type: Spectrometers)
+- Laboratory analytical balances (Tool type: Analytical balances)
+- Laboratory benchtop centrifuges (Tool type: Benchtop centrifuges)
+- Laboratory extraction equipment (Tool type: Extracting equipment for laboratories)
+- Laboratory moisture balances (Tool type: Moisture balances)
+- Laptop computers (Tool type: Notebook computers)
+- Liquid chromatography equipment (Tool type: Liquid chromatographs)
+- Personal computers (Tool type: Personal computers)
+- pH analyzers (Tool type: pH meters)
+- Titrators (Tool type: Titration equipment)

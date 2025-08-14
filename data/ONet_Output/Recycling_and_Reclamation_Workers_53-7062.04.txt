@@ -1,0 +1,108 @@
+Job Title: Recycling and Reclamation Workers
+O*NET-SOC Code: 53-7062.04
+
+# DESCRIPTION
+Prepare and sort materials or products for recycling. Identify and remove hazardous substances. Dismantle components of products such as appliances.
+
+# TASKS
+- Sort materials, such as metals, glass, wood, paper or plastics, into appropriate containers for recycling.
+- Clean recycling yard by sweeping, raking, picking up broken glass and loose paper debris, or moving barrels and bins.
+- Operate forklifts, pallet jacks, power lifts, or front-end loaders to load bales, bundles, or other heavy items onto trucks for shipping to smelters or other recycled materials processing facilities.
+- Sort metals to separate high-grade metals, such as copper, brass, and aluminum, for recycling.
+- Clean, inspect, or lubricate recyclable collection equipment or perform routine maintenance or minor repairs on recycling equipment, such as star gears, finger sorters, destoners, belts, and grinders.
+- Collect and sort recyclable construction materials, such as concrete, drywall, plastics, or wood, into containers.
+- Extract chemicals from discarded appliances, such as air conditioners or refrigerators, using specialized machinery, such as refrigerant recovery equipment.
+- Deposit recoverable materials into chutes or place materials on conveyor belts.
+- Operate balers to compress recyclable materials into bundles or bales.
+- Clean materials, such as metals, according to recycling requirements.
+- Record logs of recycled materials or waste chemicals removed from products.
+- Operate processing equipment, such as fiber-sorters and grinders, to sort, crush, or grind recyclable materials.
+- Collect recyclable materials from curbside for delivery to designated facilities.
+- Operate automated refuse or manual recycling collection vehicles.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operation and Control (Importance: 3.25/5 | Level: 2.75/7)
+- Monitoring (Importance: 3.12/5 | Level: 2.75/7)
+- Operations Monitoring (Importance: 3.12/5 | Level: 2.75/7)
+- Active Listening (Importance: 3.12/5 | Level: 2.88/7)
+- Critical Thinking (Importance: 2.75/5 | Level: 2.75/7)
+- Speaking (Importance: 2.75/5 | Level: 2.38/7)
+- Quality Control Analysis (Importance: 2.75/5 | Level: 2.25/7)
+- Coordination (Importance: 2.62/5 | Level: 2.12/7)
+- Time Management (Importance: 2.62/5 | Level: 2.5/7)
+- Social Perceptiveness (Importance: 2.62/5 | Level: 2.62/7)
+- Judgment and Decision Making (Importance: 2.62/5 | Level: 2.12/7)
+- Reading Comprehension (Importance: 2.62/5 | Level: 2.88/7)
+- Troubleshooting (Importance: 2.5/5 | Level: 2.38/7)
+- Service Orientation (Importance: 2.5/5 | Level: 2.25/7)
+- Active Learning (Importance: 2.5/5 | Level: 2.25/7)
+- Writing (Importance: 2.38/5 | Level: 2.5/7)
+- Complex Problem Solving (Importance: 2.38/5 | Level: 2.38/7)
+- Equipment Maintenance (Importance: 2.38/5 | Level: 2.62/7)
+- Management of Personnel Resources (Importance: 2.25/5 | Level: 2.0/7)
+- Repairing (Importance: 2.25/5 | Level: 2.38/7)
+- Equipment Selection (Importance: 2.25/5 | Level: 1.88/7)
+- Instructing (Importance: 2.12/5 | Level: 2.0/7)
+- Persuasion (Importance: 2.0/5 | Level: 1.5/7)
+- Learning Strategies (Importance: 2.0/5 | Level: 2.0/7)
+- Systems Evaluation (Importance: 1.88/5 | Level: 1.5/7)
+- Systems Analysis (Importance: 1.88/5 | Level: 1.5/7)
+- Mathematics (Importance: 1.88/5 | Level: 1.5/7)
+- Negotiation (Importance: 1.88/5 | Level: 1.5/7)
+- Management of Material Resources (Importance: 1.75/5 | Level: 1.12/7)
+- Management of Financial Resources (Importance: 1.5/5 | Level: 0.62/7)
+- Technology Design (Importance: 1.5/5 | Level: 0.75/7)
+- Operations Analysis (Importance: 1.25/5 | Level: 0.38/7)
+- Science (Importance: 1.12/5 | Level: 0.25/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Work scheduling software (Tech skill type: Calendar and scheduling software)
+
+## TOOLS USED
+- Adjustable hand wrenches (Tool type: Adjustable wrenches)
+- Belt conveyor systems (Tool type: Belt conveyors)
+- Blow torches (Tool type: Blow torch)
+- Cardboard balers (Tool type: Packaging compactors)
+- Channel lock pliers (Tool type: Locking pliers)
+- Claw hammers (Tool type: Claw hammer)
+- Cordless drills (Tool type: Power drills)
+- Crushing machines (Tool type: Crushers)
+- Desktop computers (Tool type: Desktop computers)
+- Extension ladders (Tool type: Ladders)
+- Fiber sorters (Tool type: Sorters)
+- Forklifts (Tool type: Forklifts)
+- Grinders (Tool type: Grinding or polishing machines)
+- Handheld calculators (Tool type: Pocket calculator)
+- Hex wrenches (Tool type: Hex keys)
+- Horizontal balers (Tool type: Packaging compactors)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Magnetized can sorters (Tool type: Sorters)
+- Material compactors (Tool type: Packaging compactors)
+- Material hoists (Tool type: Hoists)
+- Mobile radios (Tool type: Two way radios)
+- Multi-line telephone systems (Tool type: Special purpose telephones)
+- Pallet jacks (Tool type: Pallet trucks)
+- Paper shredders (Tool type: Paper shredding machines or accessories)
+- Personal computers (Tool type: Personal computers)
+- Phillips head screwdrivers (Tool type: Screwdrivers)
+- Photocopying equipment (Tool type: Photocopiers)
+- Power lifts (Tool type: Lifts)
+- Power saws (Tool type: Power saws)
+- Protective ear muffs (Tool type: Acoustic ear muffs or defenders)
+- Recycling collection trucks (Tool type: Cargo trucks)
+- Refrigerant reclamation equipment (Tool type: Refrigerant compressors)
+- Safety glasses (Tool type: Safety glasses)
+- Skid steer loaders (Tool type: Skid steer loaders)
+- Straight screwdrivers (Tool type: Screwdrivers)
+- Tractor-trailer trucks (Tool type: Cargo trucks)
+- Utility knives (Tool type: Utility knives)
+- Utility work machines (Tool type: Front end loaders)
+- Wheeled front end loaders (Tool type: Front end loaders)
+- Wire cutters (Tool type: Wire cutters)
+- Work vans (Tool type: Minivans or vans)

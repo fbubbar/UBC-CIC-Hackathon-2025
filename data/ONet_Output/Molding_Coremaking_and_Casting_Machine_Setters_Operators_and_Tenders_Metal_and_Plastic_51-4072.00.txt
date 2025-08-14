@@ -1,0 +1,146 @@
+Job Title: Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic
+O*NET-SOC Code: 51-4072.00
+
+# DESCRIPTION
+Set up, operate, or tend metal or plastic molding, casting, or coremaking machines to mold or cast metal or thermoplastic parts or products.
+
+# TASKS
+- Measure and visually inspect products for surface and dimension defects to ensure conformance to specifications, using precision measuring instruments.
+- Observe continuous operation of automatic machines to ensure that products meet specifications and to detect jams or malfunctions, making adjustments as necessary.
+- Set up, operate, or tend metal or plastic molding, casting, or coremaking machines to mold or cast metal or thermoplastic parts or products.
+- Turn valves and dials of machines to regulate pressure, temperature, and speed and feed rates, and to set cycle times.
+- Read specifications, blueprints, and work orders to determine setups, temperatures, and time settings required to mold, form, or cast plastic materials, as well as to plan production sequences.
+- Observe meters and gauges to verify and record temperatures, pressures, and press-cycle times.
+- Connect water hoses to cooling systems of dies, using hand tools.
+- Remove parts, such as dies, from machines after production runs are finished.
+- Perform maintenance work such as cleaning and oiling machines.
+- Smooth and clean inner surfaces of molds, using brushes, scrapers, air hoses, or grinding wheels, and fill imperfections with refractory material.
+- Operate hoists to position dies or patterns on foundry floors.
+- Cool products after processing to prevent distortion.
+- Install dies onto machines or presses and coat dies with parting agents, according to work order specifications.
+- Unload finished products from conveyor belts, pack them in containers, and place containers in warehouses.
+- Remove finished or cured products from dies or molds, using hand tools, air hoses, and other equipment, stamping identifying information on products when necessary.
+- Obtain and move specified patterns to work stations, manually or using hoists, and secure patterns to machines, using wrenches.
+- Select and install blades, tools, or other attachments for each operation.
+- Repair or replace damaged molds, pipes, belts, chains, or other equipment, using hand tools, hand-powered presses, or jib cranes.
+- Inventory and record quantities of materials and finished products, requisitioning additional supplies as necessary.
+- Select coolants and lubricants, and start their flow.
+- Adjust equipment and workpiece holding fixtures, such as mold frames, tubs, and cutting tables, to ensure proper functioning.
+- Maintain inventories of materials.
+- Position and secure workpieces on machines, and start feeding mechanisms.
+- Trim excess material from parts, using knives, and grind scrap plastic into powder for reuse.
+- Mix and measure compounds, or weigh premixed compounds, and dump them into machine tubs, cavities, or molds.
+- Spray, smoke, or coat molds with compounds to lubricate or insulate molds, using acetylene torches or sprayers.
+- Preheat tools, dies, plastic materials, or patterns, using blowtorches or other equipment.
+- Pour or load metal or sand into melting pots, furnaces, molds, or hoppers, using shovels, ladles, or machines.
+- Skim or pour dross, slag, or impurities from molten metal, using ladles, rakes, hoes, spatulas, or spoons.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operations Monitoring (Importance: 3.38/5 | Level: 3.88/7)
+- Active Listening (Importance: 3.25/5 | Level: 3.0/7)
+- Operation and Control (Importance: 3.12/5 | Level: 3.75/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.0/7)
+- Reading Comprehension (Importance: 3.12/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 2.38/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 2.62/7)
+- Speaking (Importance: 3.0/5 | Level: 2.38/7)
+- Quality Control Analysis (Importance: 3.0/5 | Level: 3.12/7)
+- Troubleshooting (Importance: 2.88/5 | Level: 2.75/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.12/7)
+- Repairing (Importance: 2.88/5 | Level: 2.62/7)
+- Active Learning (Importance: 2.88/5 | Level: 2.25/7)
+- Judgment and Decision Making (Importance: 2.75/5 | Level: 2.25/7)
+- Complex Problem Solving (Importance: 2.75/5 | Level: 2.25/7)
+- Equipment Maintenance (Importance: 2.75/5 | Level: 2.75/7)
+- Writing (Importance: 2.62/5 | Level: 2.5/7)
+- Coordination (Importance: 2.38/5 | Level: 2.0/7)
+- Equipment Selection (Importance: 2.25/5 | Level: 2.0/7)
+- Mathematics (Importance: 2.25/5 | Level: 2.12/7)
+- Instructing (Importance: 2.25/5 | Level: 2.12/7)
+- Management of Personnel Resources (Importance: 2.25/5 | Level: 2.12/7)
+- Learning Strategies (Importance: 2.25/5 | Level: 2.25/7)
+- Persuasion (Importance: 2.12/5 | Level: 2.0/7)
+- Service Orientation (Importance: 2.12/5 | Level: 1.62/7)
+- Systems Evaluation (Importance: 2.12/5 | Level: 1.75/7)
+- Negotiation (Importance: 2.12/5 | Level: 2.0/7)
+- Installation (Importance: 2.0/5 | Level: 1.12/7)
+- Operations Analysis (Importance: 1.88/5 | Level: 1.62/7)
+- Systems Analysis (Importance: 1.62/5 | Level: 1.12/7)
+- Management of Financial Resources (Importance: 1.5/5 | Level: 0.62/7)
+- Management of Material Resources (Importance: 1.5/5 | Level: 0.5/7)
+- Programming (Importance: 1.38/5 | Level: 0.5/7)
+- Technology Design (Importance: 1.38/5 | Level: 0.5/7)
+- Science (Importance: 1.12/5 | Level: 0.25/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- FANUC Robotics iRVision (Tech skill type: Industrial control software)
+- HotFlo! Die-Shot Monitor (Tech skill type: Analytical or scientific software)
+- Intera Systems Hawk-i (Tech skill type: Computer aided manufacturing CAM software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Word (Tech skill type: Word processing software)
+- RobotWare DieCast (Tech skill type: Computer aided manufacturing CAM software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Visi-Trak True-Trak 20/20 (Tech skill type: Computer aided manufacturing CAM software)
+
+## TOOLS USED
+- Air angle die grinders (Tool type: Power grinders)
+- Air guns (Tool type: Compressed air gun)
+- Air purifying respirators (Tool type: Respirators)
+- Aluminized suits (Tool type: Heat resistant clothing)
+- Aluminum hammers (Tool type: Hammers)
+- Brass hammers (Tool type: Hammers)
+- Cold chamber die casting machines (Tool type: Die casting machine)
+- Compressed air sprayers (Tool type: Spray gun)
+- Deflashing tools (Tool type: Utility knives)
+- Die bars (Tool type: Pry bars)
+- Die cast dies (Tool type: Die casting die)
+- Digital handheld thermometers (Tool type: Handheld thermometer)
+- Digital micrometers (Tool type: Micrometers)
+- Digital psychrometers (Tool type: Psychrometers)
+- Digital radius gauges (Tool type: Radius gauge)
+- Digital surface thermometers (Tool type: Surface thermometers)
+- Digital timers (Tool type: Stop watch)
+- Digital torque wrenches (Tool type: Torque wrenches)
+- Duckbill pliers (Tool type: Longnose pliers)
+- Electric overhead traveling EOT cranes (Tool type: Overhead crane)
+- Extruding equipment (Tool type: Extruders)
+- Flash trimming knives (Tool type: Metal cutters)
+- Gate cutters (Tool type: Metal cutters)
+- Gravity die casting machines (Tool type: Casting machines)
+- Hand crimpers (Tool type: Hydraulic hand crimp tool)
+- Hand scrapers (Tool type: Cleaning scrapers)
+- Hex key sets (Tool type: Hex keys)
+- Hot chamber die casting machines (Tool type: Die casting machine)
+- Hydraulic pressure gauges (Tool type: Pressure indicators)
+- Injection molding machines (Tool type: Injection molding machines)
+- Lifting slings (Tool type: Slings)
+- Loading robots (Tool type: Machine tending robot)
+- Measuring tapes (Tool type: Tape measures)
+- Mechanical limit switches (Tool type: Limit switch)
+- Melt pressure transducers (Tool type: Pressure transducer)
+- Mold clamps (Tool type: Power clamp)
+- Multipurpose screwdrivers (Tool type: Screwdrivers)
+- Needle nose pliers (Tool type: Needlenose pliers)
+- Orifice gauges (Tool type: Thickness measuring devices)
+- Pneumatic die grinders (Tool type: Power grinders)
+- Powered industrial trucks (Tool type: Powered platform truck)
+- Pressure die casting machines (Tool type: Casting machines)
+- Pressure washers (Tool type: Pressure or steam cleaners)
+- Protective glasses (Tool type: Safety glasses)
+- Right angle pliers (Tool type: Adjustable widemouth pliers)
+- Robotic metal ladles (Tool type: Foundry ladles)
+- Round nose pliers (Tool type: Round nose pliers)
+- Sprue pullers (Tool type: Pullers)
+- Standard metal ladles (Tool type: Foundry ladles)
+- Stopwatches (Tool type: Stop watch)
+- Thermal imaging cameras (Tool type: Heat tracing equipment)
+- Thermocouples (Tool type: Thermocouples)
+- Tie bar strain gauges (Tool type: Strain gauges)
+- Trim presses (Tool type: Trim press)
+- Utility knives (Tool type: Utility knives)
+- Video borescopes (Tool type: Borescope inspection equipment)
+- Wheeled forklifts (Tool type: Forklifts)
+- Wire cleaning brushes (Tool type: Wire brushes)

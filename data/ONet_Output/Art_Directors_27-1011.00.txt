@@ -1,0 +1,124 @@
+Job Title: Art Directors
+O*NET-SOC Code: 27-1011.00
+
+# DESCRIPTION
+Formulate design concepts and presentation approaches for visual productions and media, such as print, broadcasting, video, and film. Direct workers engaged in artwork or layout design.
+
+# TASKS
+- Work with creative directors to develop design solutions.
+- Present final layouts to clients for approval.
+- Manage own accounts and projects, working within budget and scheduling requirements.
+- Confer with creative, art, copywriting, or production department heads to discuss client requirements and presentation concepts and to coordinate creative activities.
+- Confer with clients to determine objectives, budget, background information, and presentation approaches, styles, and techniques.
+- Formulate basic layout design or presentation approach and specify material details, such as style and size of type, photographs, graphics, animation, video, and sound.
+- Review and approve art materials, copy materials, and proofs of printed copy developed by staff members.
+- Create custom illustrations or other graphic elements.
+- Attend photo shoots and printing sessions to ensure that the products needed are obtained.
+- Review illustrative material to determine if it conforms to standards and specifications.
+- Hire, train, and direct staff members who develop design concepts into art layouts or who prepare layouts for printing.
+- Research current trends and new technology, such as printing production techniques, computer software, and design trends.
+- Mark up, paste, and complete layouts and write typography instructions to prepare materials for typesetting or printing.
+- Conceptualize and help design interfaces for multimedia games, products, and devices.
+- Prepare detailed storyboards showing sequence and timing of story development for television production.
+- Negotiate with printers and estimators to determine what services will be performed.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Speaking (Importance: 4.0/5 | Level: 4.0/7)
+- Active Listening (Importance: 4.0/5 | Level: 4.0/7)
+- Critical Thinking (Importance: 3.75/5 | Level: 4.0/7)
+- Reading Comprehension (Importance: 3.75/5 | Level: 3.75/7)
+- Judgment and Decision Making (Importance: 3.75/5 | Level: 3.88/7)
+- Complex Problem Solving (Importance: 3.62/5 | Level: 3.75/7)
+- Coordination (Importance: 3.62/5 | Level: 3.88/7)
+- Time Management (Importance: 3.62/5 | Level: 3.62/7)
+- Writing (Importance: 3.38/5 | Level: 4.0/7)
+- Persuasion (Importance: 3.38/5 | Level: 3.75/7)
+- Operations Analysis (Importance: 3.38/5 | Level: 3.5/7)
+- Monitoring (Importance: 3.25/5 | Level: 3.62/7)
+- Social Perceptiveness (Importance: 3.25/5 | Level: 3.38/7)
+- Active Learning (Importance: 3.25/5 | Level: 3.88/7)
+- Instructing (Importance: 3.12/5 | Level: 3.38/7)
+- Systems Evaluation (Importance: 3.0/5 | Level: 3.38/7)
+- Negotiation (Importance: 3.0/5 | Level: 3.25/7)
+- Systems Analysis (Importance: 3.0/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 3.38/7)
+- Service Orientation (Importance: 3.0/5 | Level: 3.12/7)
+- Management of Personnel Resources (Importance: 3.0/5 | Level: 3.25/7)
+- Management of Financial Resources (Importance: 2.5/5 | Level: 2.75/7)
+- Management of Material Resources (Importance: 2.38/5 | Level: 2.62/7)
+- Mathematics (Importance: 2.25/5 | Level: 2.62/7)
+- Quality Control Analysis (Importance: 2.12/5 | Level: 2.0/7)
+- Operations Monitoring (Importance: 1.75/5 | Level: 1.0/7)
+- Technology Design (Importance: 1.5/5 | Level: 0.5/7)
+- Programming (Importance: 1.5/5 | Level: 0.75/7)
+- Science (Importance: 1.25/5 | Level: 0.25/7)
+- Troubleshooting (Importance: 1.12/5 | Level: 0.12/7)
+- Equipment Maintenance (Importance: 1.12/5 | Level: 0.12/7)
+- Repairing (Importance: 1.12/5 | Level: 0.12/7)
+- Equipment Selection (Importance: 1.12/5 | Level: 0.12/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Operation and Control (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adobe Acrobat (Tech skill type: Document management software)
+- Adobe ActionScript (Tech skill type: Development environment software)
+- Adobe After Effects (Tech skill type: Video creation and editing software)
+- Adobe Creative Cloud software (Tech skill type: Graphics or photo imaging software)
+- Adobe Director (Tech skill type: Video creation and editing software)
+- Adobe Dreamweaver (Tech skill type: Web page creation and editing software)
+- Adobe Illustrator (Tech skill type: Graphics or photo imaging software)
+- Adobe ImageReady (Tech skill type: Graphics or photo imaging software)
+- Adobe InDesign (Tech skill type: Desktop publishing software)
+- Adobe Photoshop (Tech skill type: Graphics or photo imaging software)
+- Adobe Premiere Pro (Tech skill type: Video creation and editing software)
+- AJAX (Tech skill type: Web platform development software)
+- Apache Flex (Tech skill type: Web platform development software)
+- Apple Final Cut Pro (Tech skill type: Video creation and editing software)
+- Apple iWork Keynote (Tech skill type: Presentation software)
+- Apple Keynote (Tech skill type: Presentation software)
+- Apple macOS (Tech skill type: Operating system software)
+- Atlassian Confluence (Tech skill type: Network conferencing software)
+- Atlassian JIRA (Tech skill type: Project management software)
+- Autodesk 3ds Max Design (Tech skill type: Computer aided design CAD software)
+- Autodesk Maya (Tech skill type: Graphics or photo imaging software)
+- Cascading style sheets CSS (Tech skill type: Web platform development software)
+- Computer assisted design software (Tech skill type: Computer aided design CAD software)
+- Data visualization software (Tech skill type: Analytical or scientific software)
+- Drupal (Tech skill type: Web platform development software)
+- Dynamic hypertext markup language DHTML (Tech skill type: Web platform development software)
+- Extensible hypertext markup language XHTML (Tech skill type: Web platform development software)
+- Facebook (Tech skill type: Web page creation and editing software)
+- Figma (Tech skill type: Graphical user interface development software)
+- Google Slides (Tech skill type: Presentation software)
+- Hypertext markup language HTML (Tech skill type: Web platform development software)
+- JavaScript (Tech skill type: Web platform development software)
+- jQuery (Tech skill type: Object or component oriented development software)
+- Mag+ (Tech skill type: Mobile operator specific application software)
+- Maxon Cinema 4D (Tech skill type: Video creation and editing software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Mobile application software (Tech skill type: Mobile operator specific application software)
+- PHP (Tech skill type: Web platform development software)
+- Quark enterprise publishing software (Tech skill type: Desktop publishing software)
+- QuarkXPress (Tech skill type: Desktop publishing software)
+- Social media software (Tech skill type: Web page creation and editing software)
+- Tablet application software (Tech skill type: Mobile operator specific application software)
+- User interface design software (Tech skill type: Program testing software)
+- Web broswer software (Tech skill type: Internet browser software)
+- WeVideo (Tech skill type: Video creation and editing software)
+- WoodWing (Tech skill type: Web platform development software)
+- WordPress (Tech skill type: Web page creation and editing software)
+- YouTube (Tech skill type: Video creation and editing software)
+
+## TOOLS USED
+- Desktop computers (Tool type: Desktop computers)
+- Digital still cameras (Tool type: Digital cameras)
+- Digital video cameras (Tool type: Digital camcorders or video cameras)
+- Laptop computers (Tool type: Notebook computers)
+- Personal computers (Tool type: Personal computers)
+- Sketching pencils (Tool type: Charcoal pencils)
+- Tablet computers (Tool type: Tablet computers)

@@ -1,0 +1,106 @@
+Job Title: Insulation Workers, Mechanical
+O*NET-SOC Code: 47-2132.00
+
+# DESCRIPTION
+Apply insulating materials to pipes or ductwork, or other mechanical systems in order to help control and maintain temperature.
+
+# TASKS
+- Measure and cut insulation for covering surfaces, using tape measures, handsaws, knives, and scissors.
+- Apply, remove, and repair insulation on industrial equipment, pipes, ductwork, or other mechanical systems such as heat exchangers, tanks, and vessels, to help control noise and maintain temperatures.
+- Select appropriate insulation, such as fiberglass, Styrofoam, or cork, based on the heat retaining or excluding characteristics of the material.
+- Fit insulation around obstructions, and shape insulating materials and protective coverings as required.
+- Determine the amounts and types of insulation needed, and methods of installation, based on factors such as location, surface shape, and equipment use.
+- Cover, seal, or finish insulated surfaces or access holes with plastic covers, canvas strips, sealants, tape, cement, or asphalt mastic.
+- Install sheet metal around insulated pipes with screws to protect the insulation from weather conditions or physical damage.
+- Read blueprints and specifications to determine job requirements.
+- Prepare surfaces for insulation application by brushing or spreading on adhesives, cement, or asphalt, or by attaching metal pins to surfaces.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Monitoring (Importance: 3.0/5 | Level: 2.75/7)
+- Time Management (Importance: 3.0/5 | Level: 2.75/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 3.0/7)
+- Active Listening (Importance: 3.0/5 | Level: 2.88/7)
+- Speaking (Importance: 2.88/5 | Level: 2.62/7)
+- Judgment and Decision Making (Importance: 2.88/5 | Level: 2.5/7)
+- Active Learning (Importance: 2.75/5 | Level: 2.62/7)
+- Reading Comprehension (Importance: 2.75/5 | Level: 2.75/7)
+- Quality Control Analysis (Importance: 2.75/5 | Level: 2.0/7)
+- Operations Monitoring (Importance: 2.75/5 | Level: 2.5/7)
+- Social Perceptiveness (Importance: 2.62/5 | Level: 2.38/7)
+- Operation and Control (Importance: 2.62/5 | Level: 2.12/7)
+- Complex Problem Solving (Importance: 2.62/5 | Level: 2.38/7)
+- Instructing (Importance: 2.5/5 | Level: 2.0/7)
+- Management of Personnel Resources (Importance: 2.25/5 | Level: 2.0/7)
+- Mathematics (Importance: 2.12/5 | Level: 2.0/7)
+- Troubleshooting (Importance: 2.12/5 | Level: 1.88/7)
+- Negotiation (Importance: 2.12/5 | Level: 1.75/7)
+- Learning Strategies (Importance: 2.12/5 | Level: 2.12/7)
+- Service Orientation (Importance: 2.12/5 | Level: 2.0/7)
+- Installation (Importance: 2.12/5 | Level: 1.38/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 1.62/7)
+- Systems Analysis (Importance: 2.0/5 | Level: 1.75/7)
+- Writing (Importance: 2.0/5 | Level: 2.0/7)
+- Persuasion (Importance: 2.0/5 | Level: 1.75/7)
+- Operations Analysis (Importance: 1.88/5 | Level: 1.38/7)
+- Equipment Selection (Importance: 1.75/5 | Level: 1.0/7)
+- Management of Material Resources (Importance: 1.75/5 | Level: 1.12/7)
+- Technology Design (Importance: 1.5/5 | Level: 0.5/7)
+- Science (Importance: 1.38/5 | Level: 0.38/7)
+- Equipment Maintenance (Importance: 1.38/5 | Level: 0.38/7)
+- Management of Financial Resources (Importance: 1.38/5 | Level: 0.38/7)
+- Repairing (Importance: 1.38/5 | Level: 0.38/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- CMSN FieldPAK (Tech skill type: Data base user interface and query software)
+- Comput-Ability Mechanical Insulation Key Estimator (Tech skill type: Data base user interface and query software)
+- IBM Maximo Asset Management (Tech skill type: Enterprise resource planning ERP software)
+- North American Insulation Manufacturers Association NAIMA 3E Plus (Tech skill type: Analytical or scientific software)
+- Turtle Creek Software Goldenseal (Tech skill type: Project management software)
+
+## TOOLS USED
+- Acetylene torches (Tool type: Blow torch)
+- Adjustable widemouth pliers (Tool type: Adjustable widemouth pliers)
+- Air compressors (Tool type: Air compressors)
+- Air filtering devices (Tool type: Filtering machinery)
+- Aviation snips (Tool type: Metal cutters)
+- Batt knives (Tool type: Utility knives)
+- Beader crimpers (Tool type: Wire lug crimping tool)
+- Caulking guns (Tool type: Caulking guns)
+- Chalk lines (Tool type: Chalk lines)
+- Conduit benders (Tool type: Conduit benders)
+- Copper benders (Tool type: Pipe bending tools)
+- Copper cutters (Tool type: Pipe or tube cutter)
+- Desktop computers (Tool type: Desktop computers)
+- Drop cloths (Tool type: Drop cloths)
+- Filtered vacuum cleaners (Tool type: Filtering machinery)
+- Hacksaws (Tool type: Hacksaw)
+- Hammer staplers (Tool type: Staple guns)
+- Hole saws (Tool type: Hole saws)
+- Hooded protective suits (Tool type: Hazardous material protective apparel)
+- Industrial sewing machines (Tool type: Sewing machines)
+- Knives (Tool type: Utility knives)
+- Ladders (Tool type: Ladders)
+- Notebook computers (Tool type: Notebook computers)
+- Painters whites (Tool type: Protective coveralls)
+- Pneumatic staplers (Tool type: Staple guns)
+- Power drills (Tool type: Power drills)
+- Power saws (Tool type: Power saws)
+- Protective suits (Tool type: Hazardous material protective apparel)
+- R-value rulers (Tool type: Thickness measuring devices)
+- Reciprocating saws (Tool type: Power saws)
+- Respirators (Tool type: Respirators)
+- Safety glasses (Tool type: Safety glasses)
+- Saws (Tool type: Saws)
+- Scaffolding (Tool type: Scaffolding)
+- Scissors (Tool type: Shears)
+- Screwdrivers (Tool type: Screwdrivers)
+- Sheet metal cutters (Tool type: Metal cutters)
+- Sheet metal templates (Tool type: Tool template sets)
+- Staple guns (Tool type: Staple guns)
+- Stilts (Tool type: Ladders)
+- Stud scrubbers (Tool type: Power buffers)
+- Tape measures (Tool type: Tape measures)
+- Trowels (Tool type: Trowels)

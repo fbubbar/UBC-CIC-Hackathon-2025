@@ -1,0 +1,89 @@
+Job Title: Telephone Operators
+O*NET-SOC Code: 43-2021.00
+
+# DESCRIPTION
+Provide information by accessing alphabetical, geographical, or other directories. Assist customers with special billing requests, such as charges to a third party and credits or refunds for incorrectly dialed numbers or bad connections. May handle emergency calls and assist children or people with physical disabilities to make telephone calls.
+
+# TASKS
+- Observe signal lights on switchboards, and dial or press buttons to make connections.
+- Operate telephone switchboards and systems to advance and complete connections, including those for local, long distance, pay telephone, mobile, person-to-person, and emergency calls.
+- Listen to customer requests, referring to alphabetical or geographical directories to answer questions and provide telephone information.
+- Update directory information.
+- Suggest and check alternate spellings, locations, or listing formats to customers lacking details or complete information.
+- Perform clerical duties such as typing, proofreading, and sorting mail.
+- Offer special assistance to persons such as those who are unable to dial or who are in emergency situations.
+- Operate paging systems or other systems of bells or buzzers to notify recipients of incoming calls.
+- Monitor automated systems for placing collect calls and intervene for a callers needing assistance.
+- Interrupt busy lines if an emergency warrants.
+- Provide assistance for customers with special billing requests.
+- Provide relay service for users who are deaf or hard of hearing.
+- Keep records of calls placed and received, and of related toll charges.
+- Promote company products, services, and savings plans when appropriate.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Speaking (Importance: 4.0/5 | Level: 3.38/7)
+- Active Listening (Importance: 4.0/5 | Level: 3.62/7)
+- Service Orientation (Importance: 3.5/5 | Level: 3.12/7)
+- Social Perceptiveness (Importance: 3.12/5 | Level: 2.88/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 2.88/7)
+- Reading Comprehension (Importance: 3.0/5 | Level: 2.88/7)
+- Monitoring (Importance: 2.75/5 | Level: 2.25/7)
+- Complex Problem Solving (Importance: 2.62/5 | Level: 2.5/7)
+- Coordination (Importance: 2.5/5 | Level: 2.25/7)
+- Time Management (Importance: 2.5/5 | Level: 2.0/7)
+- Active Learning (Importance: 2.25/5 | Level: 2.0/7)
+- Writing (Importance: 2.25/5 | Level: 2.25/7)
+- Judgment and Decision Making (Importance: 2.25/5 | Level: 1.88/7)
+- Management of Personnel Resources (Importance: 2.0/5 | Level: 1.75/7)
+- Learning Strategies (Importance: 2.0/5 | Level: 2.0/7)
+- Systems Analysis (Importance: 2.0/5 | Level: 1.62/7)
+- Persuasion (Importance: 2.0/5 | Level: 1.75/7)
+- Instructing (Importance: 2.0/5 | Level: 1.88/7)
+- Mathematics (Importance: 1.88/5 | Level: 0.88/7)
+- Systems Evaluation (Importance: 1.88/5 | Level: 1.12/7)
+- Negotiation (Importance: 1.88/5 | Level: 1.75/7)
+- Operations Monitoring (Importance: 1.75/5 | Level: 0.88/7)
+- Management of Material Resources (Importance: 1.38/5 | Level: 0.38/7)
+- Programming (Importance: 1.38/5 | Level: 0.38/7)
+- Management of Financial Resources (Importance: 1.38/5 | Level: 0.38/7)
+- Technology Design (Importance: 1.25/5 | Level: 0.25/7)
+- Operation and Control (Importance: 1.25/5 | Level: 0.25/7)
+- Quality Control Analysis (Importance: 1.12/5 | Level: 0.12/7)
+- Operations Analysis (Importance: 1.12/5 | Level: 0.12/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Computer aided dispatch software (Tech skill type: Helpdesk or call center software)
+- Handheld computer device software (Tech skill type: Operating system software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Operating system software (Tech skill type: Operating system software)
+- Video conference software (Tech skill type: Video conferencing software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- 10-key calculators (Tool type: Desktop calculator)
+- Alarm system monitors (Tool type: Alarm systems)
+- Computer laser printers (Tool type: Laser printers)
+- Copy machines (Tool type: Photocopiers)
+- Electric typewriters (Tool type: Typewriters)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Mobile radios (Tool type: Two way radios)
+- Multiline telephone systems (Tool type: Special purpose telephones)
+- Paging systems (Tool type: Paging controllers)
+- Personal computers (Tool type: Personal computers)
+- Premise branch exchange PBX equipment (Tool type: Premise branch exchange PBX systems)
+- Secure voice equipment (Tool type: Special purpose telephones)
+- Telephone headsets (Tool type: Phone headsets)
+- Telephone switchboards (Tool type: Premise branch exchange PBX systems)
+- Voice over internet protocol VoIP systems (Tool type: Digital telephones)

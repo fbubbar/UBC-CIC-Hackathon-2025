@@ -1,0 +1,186 @@
+Job Title: Sailors and Marine Oilers
+O*NET-SOC Code: 53-5011.00
+
+# DESCRIPTION
+Stand watch to look for obstructions in path of vessel, measure water depth, turn wheel on bridge, or use emergency equipment as directed by captain, mate, or pilot. Break out, rig, overhaul, and store cargo-handling gear, stationary rigging, and running gear. Perform a variety of maintenance tasks to preserve the painted surface of the ship and to maintain line and ship equipment. Must hold government-issued certification and tankerman certification when working aboard liquid-carrying vessels. Includes able seamen and ordinary seamen.
+
+# TASKS
+- Tie barges together into tow units for tugboats to handle, inspecting barges periodically during voyages and disconnecting them when destinations are reached.
+- Attach hoses and operate pumps to transfer substances to and from liquid cargo tanks.
+- Handle lines to moor vessels to wharfs, to tie up vessels to other vessels, or to rig towing lines.
+- Read pressure and temperature gauges or displays and record data in engineering logs.
+- Stand watch in ships' bows or bridge wings to look for obstructions in a ship's path or to locate navigational aids, such as buoys or lighthouses.
+- Maintain government-issued certifications, as required.
+- Examine machinery to verify specified pressures or lubricant flows.
+- Maintain a ship's engines under the direction of the ship's engineering officers.
+- Break out, rig, and stow cargo-handling gear, stationary rigging, or running gear.
+- Lubricate machinery, equipment, or engine parts, such as gears, shafts, or bearings.
+- Lower and man lifeboats when emergencies occur.
+- Sweep, mop, and wash down decks to remove oil, dirt, and debris, using brooms, mops, brushes, and hoses.
+- Splice and repair ropes, wire cables, or cordage, using marlinespikes, wire cutters, twine, and hand tools.
+- Load or unload materials, vehicles, or passengers from vessels.
+- Chip and clean rust spots on decks, superstructures, or sides of ships, using wire brushes and hand or air chipping machines.
+- Provide engineers with assistance in repairing or adjusting machinery.
+- Operate, maintain, or repair ship equipment, such as winches, cranes, derricks, or weapons system.
+- Paint or varnish decks, superstructures, lifeboats, or sides of ships.
+- Give directions to crew members engaged in cleaning wheelhouses or quarterdecks.
+- Stand by wheels when ships are on automatic pilot, and verify accuracy of courses, using magnetic compasses.
+- Steer ships under the direction of commanders or navigating officers or direct helmsmen to steer, following designated courses.
+- Relay specified signals to other ships, using visual signaling devices, such as blinker lights or semaphores.
+- Overhaul lifeboats or lifeboat gear and lower or raise lifeboats with winches or falls.
+- Stand gangway watches to prevent unauthorized persons from boarding ships while in port.
+- Record data in ships' logs, such as weather conditions or distances traveled.
+- Measure depth of water in shallow or unfamiliar waters, using leadlines, and telephone or shout depth information to vessel bridges.
+- Clean and polish wood trim, brass, or other metal parts.
+- Participate in shore patrols.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operations Monitoring (Importance: 3.88/5 | Level: 3.75/7)
+- Operation and Control (Importance: 3.62/5 | Level: 3.5/7)
+- Monitoring (Importance: 3.25/5 | Level: 3.12/7)
+- Active Listening (Importance: 3.12/5 | Level: 3.0/7)
+- Critical Thinking (Importance: 3.12/5 | Level: 3.0/7)
+- Troubleshooting (Importance: 3.12/5 | Level: 3.12/7)
+- Repairing (Importance: 3.12/5 | Level: 3.12/7)
+- Complex Problem Solving (Importance: 3.0/5 | Level: 2.88/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 3.0/7)
+- Speaking (Importance: 3.0/5 | Level: 3.0/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 3.0/7)
+- Quality Control Analysis (Importance: 3.0/5 | Level: 3.12/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.88/7)
+- Service Orientation (Importance: 2.88/5 | Level: 2.88/7)
+- Reading Comprehension (Importance: 2.88/5 | Level: 3.12/7)
+- Active Learning (Importance: 2.88/5 | Level: 2.88/7)
+- Equipment Maintenance (Importance: 2.88/5 | Level: 3.0/7)
+- Writing (Importance: 2.75/5 | Level: 2.88/7)
+- Persuasion (Importance: 2.75/5 | Level: 2.62/7)
+- Equipment Selection (Importance: 2.75/5 | Level: 2.5/7)
+- Management of Personnel Resources (Importance: 2.75/5 | Level: 2.75/7)
+- Instructing (Importance: 2.62/5 | Level: 3.0/7)
+- Negotiation (Importance: 2.5/5 | Level: 2.5/7)
+- Mathematics (Importance: 2.5/5 | Level: 2.12/7)
+- Learning Strategies (Importance: 2.5/5 | Level: 2.62/7)
+- Systems Analysis (Importance: 2.12/5 | Level: 2.25/7)
+- Systems Evaluation (Importance: 2.12/5 | Level: 2.25/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.5/7)
+- Management of Financial Resources (Importance: 1.88/5 | Level: 1.12/7)
+- Science (Importance: 1.88/5 | Level: 1.0/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.38/7)
+- Operations Analysis (Importance: 1.25/5 | Level: 0.5/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Computerized maintenance management system CMMS (Tech skill type: Facilities management software)
+- KNMI TurboWin (Tech skill type: Data base user interface and query software)
+- Kongsberg Maritime K-Log Deck Logbook (Tech skill type: Data base user interface and query software)
+- Log book software (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Operating system software (Tech skill type: Operating system software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Air chippers (Tool type: Power chippers)
+- Anti-exposure coveralls (Tool type: Insulated or flotation suits)
+- Bilge pumping systems (Tool type: Dewatering pumps)
+- Blinker lights (Tool type: Marine signaling systems)
+- Bolt cutters (Tool type: Bolt cutters)
+- Bridge telephones (Tool type: Marine craft communications systems)
+- Carbon dioxide CO2 firefighting systems (Tool type: Fire suppression system)
+- Cargo booms (Tool type: Forklift or elevator accessories or supplies)
+- Cargo derricks (Tool type: Hoists)
+- Cargo hooks (Tool type: Lifting hooks)
+- Centrifugal cargo pumps (Tool type: Centrifugal pumps)
+- Centrifugal ventilators (Tool type: Fans)
+- Chain cargo falls (Tool type: Hoists)
+- Chipping hammers (Tool type: Demolition hammers)
+- Claw hammers (Tool type: Claw hammer)
+- Container lift trucks (Tool type: Loading equipment)
+- Crescent wrenches (Tool type: Open end wrenches)
+- Desktop computers (Tool type: Desktop computers)
+- Electric deck cranes (Tool type: Bridge cranes)
+- Electric mooring winches (Tool type: Winches)
+- Electric telegraphs (Tool type: Telegraph sounders)
+- Electric windlasses (Tool type: Anchor rollers)
+- Emergency generators (Tool type: Gas generators)
+- Emergency position-indicating radio beacons (Tool type: Radio navigation instruments)
+- Engine room alarm systems (Tool type: Alarm systems)
+- Explosimeters (Tool type: Explosimeters)
+- Fids (Tool type: Fids)
+- Filter masks (Tool type: Masks or accessories)
+- Fire hoses (Tool type: Fire hoses or nozzles)
+- Foam firefighting systems (Tool type: Fire suppression system)
+- Forklifts (Tool type: Forklifts)
+- Galvanized thimbles (Tool type: Eye bolts)
+- Gear pumps (Tool type: Gear pumps)
+- Grabbing cranes (Tool type: Bridge cranes)
+- Grease dispensing guns (Tool type: Grease guns)
+- Gyrocompasses (Tool type: Gyroscopic instruments)
+- Hand capstans (Tool type: Anchor rollers)
+- Hand punches (Tool type: Punches or nail sets or drifts)
+- Hand windlasses (Tool type: Anchor rollers)
+- Hydraulic capstans (Tool type: Anchor rollers)
+- Hydraulic deck cranes (Tool type: Bridge cranes)
+- Hydraulic mooring winches (Tool type: Winches)
+- Hydraulic windlasses (Tool type: Anchor rollers)
+- Life buoys (Tool type: Life rings)
+- Life jackets (Tool type: Life vests or preservers)
+- Life rings (Tool type: Life rings)
+- Lifeboat davits (Tool type: Lifts)
+- Lifeboats (Tool type: Lifeboats or liferafts)
+- Lifting slings (Tool type: Slings)
+- Lifting spreaders (Tool type: Loading equipment)
+- Liquid cargo transfer hoses (Tool type: Material handling hoses)
+- Locking jaw pliers (Tool type: Locking pliers)
+- Magnet hoists (Tool type: Hoists)
+- Magnetic compasses (Tool type: Direction finding compasses)
+- Manual winches (Tool type: Winches)
+- Mechanical telegraphs (Tool type: Telegraph sounders)
+- Metal chisels (Tool type: Cold chisels)
+- Mooring cables (Tool type: Anchor lines)
+- Mooring chains (Tool type: Anchor lines)
+- Natural fiber mooring ropes (Tool type: Anchor lines)
+- Oil dispensing cans (Tool type: Oil can)
+- Personal computers (Tool type: Personal computers)
+- Pilot ladders (Tool type: Ladders)
+- Pipe wrenches (Tool type: Pipe wrenches)
+- Portable fire extinguishers (Tool type: Fire extinguishers)
+- Portable gas detectors (Tool type: Gas detectors)
+- Pyrotechnic distress signals (Tool type: Flares)
+- Radar navigation systems (Tool type: Radarbased surveillance systems)
+- Radio direction finders RDF (Tool type: Radio navigation instruments)
+- Ratchet sets (Tool type: Ratchets)
+- Reciprocating pumps (Tool type: Reciprocating pumps)
+- Respirators (Tool type: Respirators)
+- Riding pawls (Tool type: Pawls)
+- Safety belts (Tool type: Safety harnesses or belts)
+- Safety glasses (Tool type: Safety glasses)
+- Safety helmets (Tool type: Safety helmets)
+- Safety lanyards (Tool type: Fall protection lanyard)
+- Semaphores (Tool type: Marine signaling systems)
+- Sewing needles (Tool type: Sewing needles)
+- Sharpening steels (Tool type: Sharpening stones or tools or kits)
+- Sheave blocks (Tool type: Blocks or pulleys)
+- Ship alarm systems (Tool type: Alarm systems)
+- Ship anchor chocks (Tool type: Anchor chocks)
+- Signal flags (Tool type: Marine signaling systems)
+- Sounding rods (Tool type: Depth gauges)
+- Sounding tapes (Tool type: Depth gauges)
+- Spanner wrenches (Tool type: Spanner wrenches)
+- Steam winches (Tool type: Winches)
+- Synthetic mooring ropes (Tool type: Anchor lines)
+- Tank level gauges (Tool type: Depth gauges)
+- Thermal protective aids TPA (Tool type: Insulated clothing for cold environments)
+- Two way radios (Tool type: Two way radios)
+- Voice pipes (Tool type: Marine craft communications systems)
+- Welders (Tool type: Spot welding machine)
+- Wire cutters (Tool type: Wire cutters)
+- Wire splicers (Tool type: Cable splicing kits)
+- Workshop vises (Tool type: Bench vises)

@@ -1,0 +1,138 @@
+Job Title: Pharmacy Technicians
+O*NET-SOC Code: 29-2052.00
+
+# DESCRIPTION
+Prepare medications under the direction of a pharmacist. May measure, mix, count out, label, and record amounts and dosages of medications according to prescription orders.
+
+# TASKS
+- Receive written prescription or refill requests and verify that information is complete and accurate.
+- Enter prescription information into computer databases.
+- Establish or maintain patient profiles, including lists of medications taken by individual patients.
+- Maintain proper storage and security conditions for drugs.
+- Receive and store incoming supplies, verify quantities against invoices, check for outdated medications in current inventory, and inform supervisors of stock needs and shortages.
+- Answer telephones, responding to questions or requests.
+- Assist customers by answering simple questions, locating items, or referring them to the pharmacist for medication information.
+- Operate cash registers to accept payment from customers.
+- Price and file prescriptions that have been filled.
+- Mix pharmaceutical preparations, according to written prescriptions.
+- Order, label, and count stock of medications, chemicals, or supplies and enter inventory data into computer.
+- Clean and help maintain equipment or work areas and sterilize glassware, according to prescribed methods.
+- Prepack bulk medicines, fill bottles with prescribed medications, and type and affix labels.
+- Compute charges for medication or equipment dispensed to hospital patients and enter data in computer.
+- Prepare and process medical insurance claim forms and records.
+- Transfer medication from vials to the appropriate number of sterile, disposable syringes, using aseptic techniques.
+- Restock intravenous (IV) supplies and add measured drugs or nutrients to IV solutions under sterile conditions to prepare IV packs for various uses, such as chemotherapy medication.
+- Supply and monitor robotic machines that dispense medicine into containers and label the containers.
+- Deliver medications or pharmaceutical supplies to patients, nursing stations, or surgery.
+- Maintain and merchandise home healthcare products or services.
+- Price stock and mark items for sale.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Active Listening (Importance: 4.0/5 | Level: 3.88/7)
+- Speaking (Importance: 3.75/5 | Level: 3.25/7)
+- Reading Comprehension (Importance: 3.75/5 | Level: 3.62/7)
+- Critical Thinking (Importance: 3.25/5 | Level: 3.62/7)
+- Active Learning (Importance: 3.12/5 | Level: 3.12/7)
+- Complex Problem Solving (Importance: 3.12/5 | Level: 2.88/7)
+- Social Perceptiveness (Importance: 3.12/5 | Level: 3.12/7)
+- Service Orientation (Importance: 3.12/5 | Level: 3.12/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 3.0/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.12/7)
+- Mathematics (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 3.0/7)
+- Writing (Importance: 3.0/5 | Level: 3.0/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 2.88/5 | Level: 2.88/7)
+- Management of Personnel Resources (Importance: 2.5/5 | Level: 2.0/7)
+- Persuasion (Importance: 2.5/5 | Level: 2.0/7)
+- Systems Analysis (Importance: 2.38/5 | Level: 2.0/7)
+- Instructing (Importance: 2.25/5 | Level: 2.12/7)
+- Operations Monitoring (Importance: 2.25/5 | Level: 2.0/7)
+- Systems Evaluation (Importance: 2.12/5 | Level: 2.0/7)
+- Management of Material Resources (Importance: 2.12/5 | Level: 2.0/7)
+- Operation and Control (Importance: 2.12/5 | Level: 1.12/7)
+- Quality Control Analysis (Importance: 2.12/5 | Level: 2.12/7)
+- Negotiation (Importance: 2.0/5 | Level: 1.75/7)
+- Science (Importance: 1.88/5 | Level: 1.5/7)
+- Operations Analysis (Importance: 1.75/5 | Level: 0.75/7)
+- Technology Design (Importance: 1.75/5 | Level: 0.75/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 1.5/7)
+- Troubleshooting (Importance: 1.75/5 | Level: 0.75/7)
+- Programming (Importance: 1.5/5 | Level: 0.5/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Apple Safari (Tech skill type: Internet browser software)
+- Billing and reimbursement software (Tech skill type: Accounting software)
+- Compounder software (Tech skill type: Medical software)
+- Database software (Tech skill type: Data base user interface and query software)
+- Drug compatibility software (Tech skill type: Data base user interface and query software)
+- Inventory management software (Tech skill type: Inventory management software)
+- Label-making software (Tech skill type: Label making software)
+- Medical condition coding software (Tech skill type: Medical software)
+- MEDITECH software (Tech skill type: Medical software)
+- Microsoft Edge (Tech skill type: Internet browser software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Mozilla Firefox (Tech skill type: Internet browser software)
+- Patient record maintenance software (Tech skill type: Medical software)
+- Pharmaceutical software (Tech skill type: Medical software)
+- Pharmacy management software (Tech skill type: Enterprise resource planning ERP software)
+- Point of sale POS software (Tech skill type: Point of sale POS software)
+- Prescription processing software (Tech skill type: Medical software)
+- Pyxis MedStation software (Tech skill type: Inventory management software)
+
+## TOOLS USED
+- Agar slides (Tool type: Microscope slides)
+- Autoclaves (Tool type: Steam autoclaves or sterilizers)
+- Automatic bottle filling machines (Tool type: Sterile or aseptic processing or filling machines)
+- Automatic unit dose strip packaging machines (Tool type: Filling or sealing auger dose machines)
+- Benchtop colloid mills (Tool type: Laboratory mills)
+- Blending/agitating machines (Tool type: Laboratory blenders or emulsifiers)
+- Bunsen burners (Tool type: Gas burners)
+- Cash registers (Tool type: Cash registers)
+- Centrifuges (Tool type: Benchtop centrifuges)
+- Colloid mills (Tool type: Laboratory mills)
+- Computer laser printers (Tool type: Laser printers)
+- Computer-based dispensing equipment (Tool type: Sterile or aseptic processing or filling machines)
+- Data input scanners (Tool type: Bar code reader equipment)
+- Desktop computers (Tool type: Desktop computers)
+- Double-beam balances (Tool type: Laboratory balances)
+- Electronic signature capture equipment (Tool type: Digital pen)
+- Equal-arm balances (Tool type: Laboratory balances)
+- Evacuated blood collection containers (Tool type: Vacuum blood collection tubes or containers)
+- Filtering devices (Tool type: Pharmaceutical filters or ultra filters)
+- Flask washers (Tool type: Laboratory washing machines)
+- Graduated cylinders (Tool type: Laboratory graduated cylinders)
+- Grinding and shearing colloid mills (Tool type: Laboratory mills)
+- Horizontal and vertical flow hoods (Tool type: Fume hoods or cupboards)
+- Incubators (Tool type: Forced air or mechanical convection general purpose incubators)
+- Intravenous IV infusion pumps (Tool type: Intravenous infusion pumps for general use)
+- Intravenous IV supplies (Tool type: Intravenous tubing with catheter administration kits)
+- Label printers (Tool type: Compact disc CD or labeling printers)
+- Laboratory vacuum pumps (Tool type: Laboratory vacuum pumps)
+- Laminar flow hoods (Tool type: Laminar flow cabinets or stations)
+- Notebook computers (Tool type: Notebook computers)
+- Personal computers (Tool type: Personal computers)
+- Petri dishes (Tool type: Petri plates or dishes)
+- Point of sale POS computer terminals (Tool type: Point of sale POS terminal)
+- Robotic dispensing systems (Tool type: Medication or pill dispensers)
+- Semiautomatic sterile solution transferring devices (Tool type: Sterile or aseptic processing or filling machines)
+- Single-beam balances (Tool type: Laboratory balances)
+- Specific gravity testing equipment (Tool type: Hydrometers)
+- Sterilizing equipment (Tool type: Dry heat or hot air sterilizers)
+- Syringes (Tool type: Medical syringes without needle)
+- Tablet counting machines (Tool type: Tablet counters)
+- Test tubes (Tool type: Multipurpose or general test tubes)
+- Torsion balances (Tool type: Laboratory balances)
+- Total parenteral nutrition TPN compounders (Tool type: Laboratory blenders or emulsifiers)
+- Tube filling and crimping machines (Tool type: Filling or sealing auger dose machines)
+- Unequal-arm balances (Tool type: Laboratory balances)
+- Water distillation equipment (Tool type: Bi distillation units)

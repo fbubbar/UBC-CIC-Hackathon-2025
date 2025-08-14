@@ -1,0 +1,127 @@
+Job Title: First-Line Supervisors of Material-Moving Machine and Vehicle Operators
+O*NET-SOC Code: 53-1043.00
+
+# DESCRIPTION
+Directly supervise and coordinate activities of material-moving machine and vehicle operators and helpers.
+
+# TASKS
+- Enforce safety rules and regulations.
+- Interpret transportation or tariff regulations, shipping orders, safety regulations, or company policies and procedures for workers.
+- Resolve worker problems or collaborate with employees to assist in problem resolution.
+- Confer with customers, supervisors, contractors, or other personnel to exchange information or to resolve problems.
+- Plan work assignments and equipment allocations to meet transportation, operations or production goals.
+- Examine, measure, or weigh cargo or materials to determine specific handling requirements.
+- Explain and demonstrate work tasks to new workers or assign training tasks to experienced workers.
+- Review orders, production schedules, blueprints, or shipping or receiving notices to determine work sequences and material shipping dates, types, volumes, or destinations.
+- Drive vehicles or operate machines or equipment to complete work assignments or to assist workers.
+- Inspect or test materials, stock, vehicles, equipment, or facilities to ensure that they are safe, free of defects, and consistent with specifications.
+- Maintain or verify records of time, materials, expenditures, or crew activities.
+- Requisition needed personnel, supplies, equipment, parts, or repair services.
+- Recommend and implement measures to improve worker motivation, equipment performance, work methods, or customer services.
+- Prepare, compile, and submit reports on work activities, operations, production, or work-related accidents.
+- Dispatch personnel and vehicles in response to telephone or radio reports of emergencies.
+- Monitor field work to ensure proper performance and use of materials.
+- Recommend or implement personnel actions, such as employee selection, evaluation, rewards, or disciplinary actions.
+- Perform or schedule repairs or preventive maintenance of vehicles or other equipment.
+- Compute or estimate cash, payroll, transportation, personnel, or storage requirements.
+- Assist workers in tasks, such as loading vehicles.
+- Direct workers in transportation or related services, such as pumping, moving, storing, or loading or unloading of materials.
+- Plan and establish schedules.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Management of Personnel Resources (Importance: 4.0/5 | Level: 3.75/7)
+- Coordination (Importance: 4.0/5 | Level: 3.88/7)
+- Time Management (Importance: 4.0/5 | Level: 3.88/7)
+- Active Listening (Importance: 4.0/5 | Level: 3.88/7)
+- Speaking (Importance: 3.88/5 | Level: 3.88/7)
+- Critical Thinking (Importance: 3.62/5 | Level: 3.62/7)
+- Social Perceptiveness (Importance: 3.62/5 | Level: 3.5/7)
+- Reading Comprehension (Importance: 3.62/5 | Level: 3.75/7)
+- Judgment and Decision Making (Importance: 3.62/5 | Level: 3.25/7)
+- Complex Problem Solving (Importance: 3.5/5 | Level: 3.38/7)
+- Monitoring (Importance: 3.5/5 | Level: 3.75/7)
+- Writing (Importance: 3.38/5 | Level: 3.62/7)
+- Negotiation (Importance: 3.12/5 | Level: 2.88/7)
+- Active Learning (Importance: 3.12/5 | Level: 3.12/7)
+- Learning Strategies (Importance: 3.12/5 | Level: 3.12/7)
+- Instructing (Importance: 3.12/5 | Level: 3.12/7)
+- Persuasion (Importance: 3.0/5 | Level: 3.0/7)
+- Service Orientation (Importance: 3.0/5 | Level: 3.0/7)
+- Systems Analysis (Importance: 2.88/5 | Level: 3.12/7)
+- Systems Evaluation (Importance: 2.88/5 | Level: 3.0/7)
+- Mathematics (Importance: 2.75/5 | Level: 2.25/7)
+- Operations Analysis (Importance: 2.5/5 | Level: 2.5/7)
+- Operations Monitoring (Importance: 2.5/5 | Level: 2.5/7)
+- Management of Material Resources (Importance: 2.5/5 | Level: 2.25/7)
+- Quality Control Analysis (Importance: 2.38/5 | Level: 2.38/7)
+- Troubleshooting (Importance: 2.25/5 | Level: 2.0/7)
+- Equipment Maintenance (Importance: 2.25/5 | Level: 2.0/7)
+- Repairing (Importance: 2.25/5 | Level: 2.0/7)
+- Operation and Control (Importance: 2.25/5 | Level: 2.25/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 1.38/7)
+- Equipment Selection (Importance: 1.62/5 | Level: 0.88/7)
+- Technology Design (Importance: 1.38/5 | Level: 0.38/7)
+- Science (Importance: 1.25/5 | Level: 0.25/7)
+- Programming (Importance: 1.25/5 | Level: 0.25/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- @Road GeoManager (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Accellos Real Dispatch (Tech skill type: Mobile location based services software)
+- Actsoft Comet Tracker (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Barcode software (Tech skill type: Bar coding software)
+- Bill of lading software (Tech skill type: Materials requirements planning logistics and supply chain software)
+- CAPE Systems CAPE PACK (Tech skill type: Materials requirements planning logistics and supply chain software)
+- CAPE Systems TRUCKFILL (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Commercial vehicle operations CVO software (Tech skill type: Mobile location based services software)
+- Coptimal Logics AutoLoad Pro (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Creative Systems Corporation Freight-Link System (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Enterprise resource planning ERP software (Tech skill type: Enterprise resource planning ERP software)
+- Fleet management systems (Tech skill type: Materials requirements planning logistics and supply chain software)
+- General ledger software (Tech skill type: Accounting software)
+- JDA Manugistics (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Load optimization software (Tech skill type: Materials requirements planning logistics and supply chain software)
+- MagicLogic Optimization Cube-IQ (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Mapping software (Tech skill type: Map creation software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Optimum Logistics LoadPlanner (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Proof of delivery POD software (Tech skill type: Materials requirements planning logistics and supply chain software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Scheduling software (Tech skill type: Calendar and scheduling software)
+- Softtruck CargoWiz (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Starre Enterprises Star Bill of Lading (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Strategic Business Systems Proof of Delivery (Tech skill type: Materials requirements planning logistics and supply chain software)
+- TOPS Engineering MaxLoad Pro (Tech skill type: Materials requirements planning logistics and supply chain software)
+- UPS Logistics Technologies Roadnet Transportation Suite (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Warehouse management system WMS (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Web browser software (Tech skill type: Internet browser software)
+- XATA XATANET (Tech skill type: Materials requirements planning logistics and supply chain software)
+
+## TOOLS USED
+- Adjustable widemouth pliers (Tool type: Adjustable widemouth pliers)
+- Desktop computers (Tool type: Desktop computers)
+- Forklifts (Tool type: Forklifts)
+- Grease guns (Tool type: Grease guns)
+- Hand trucks (Tool type: Hand trucks or accessories)
+- Hydraulic jacks (Tool type: Jacks)
+- Impact wrenches (Tool type: Impact wrenches)
+- Lowboys (Tool type: Flatbed trailers)
+- Lug wrenches (Tool type: Wheel nut or lug wrench)
+- Micrometers (Tool type: Micrometers)
+- Pallet jacks (Tool type: Pallet trucks)
+- Personal computers (Tool type: Personal computers)
+- Personal digital assistants PDA (Tool type: Personal digital assistant PDAs or organizers)
+- Phillips head screwdrivers (Tool type: Screwdrivers)
+- Portable welding equipment (Tool type: Spot welding machine)
+- Ratchet wrenches (Tool type: Ratchets)
+- Refrigerated trailers (Tool type: Temperature controlled container trailers)
+- Roller beds (Tool type: Conveyor roller)
+- Straight screwdrivers (Tool type: Screwdrivers)
+- Torque wrenches (Tool type: Torque wrenches)
+- Two way radios (Tool type: Two way radios)

@@ -1,0 +1,113 @@
+Job Title: Brownfield Redevelopment Specialists and Site Managers
+O*NET-SOC Code: 11-9199.11
+
+# DESCRIPTION
+Plan and direct cleanup and redevelopment of contaminated properties for reuse. Does not include properties sufficiently contaminated to qualify as Superfund sites.
+
+# TASKS
+- Identify environmental contamination sources.
+- Coordinate on-site activities for environmental cleanup or remediation projects to ensure compliance with environmental laws, standards, regulations, or other requirements.
+- Identify and apply for project funding.
+- Plan or implement brownfield redevelopment projects to ensure safety, quality, and compliance with applicable standards or requirements.
+- Estimate costs for environmental cleanup and remediation of land redevelopment projects.
+- Conduct quantitative risk assessments for human health, environmental, or other risks.
+- Design or implement plans for surface or ground water remediation.
+- Design or implement measures to improve the water, air, and soil quality of military test sites, abandoned mine land, or other contaminated sites.
+- Review or evaluate environmental remediation project proposals.
+- Prepare reports or presentations to communicate brownfield redevelopment needs, status, or progress.
+- Inspect sites to assess environmental damage or monitor cleanup progress.
+- Maintain records of decisions, actions, and progress related to environmental redevelopment projects.
+- Coordinate the disposal of hazardous waste.
+- Develop or implement plans for the sustainable regeneration of brownfield sites to ensure regeneration of a wider area by providing environmental protection or economic and social benefits.
+- Conduct feasibility or cost-benefit studies for environmental remediation projects.
+- Prepare and submit permit applications for demolition, cleanup, remediation, or construction projects.
+- Negotiate contracts for services or materials needed for environmental remediation.
+- Design or implement plans for structural demolition and debris removal.
+- Design or conduct environmental restoration studies.
+- Review or evaluate designs for contaminant treatment or disposal facilities.
+- Provide training on hazardous material or waste cleanup procedures and technologies.
+- Develop or implement plans for revegetation of brownfield sites.
+- Provide expert witness testimony on issues such as soil, air, or water contamination and associated cleanup measures.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Complex Problem Solving (Importance: 4.12/5 | Level: 4.12/7)
+- Monitoring (Importance: 4.0/5 | Level: 4.12/7)
+- Coordination (Importance: 4.0/5 | Level: 4.12/7)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.25/7)
+- Speaking (Importance: 4.0/5 | Level: 4.12/7)
+- Judgment and Decision Making (Importance: 4.0/5 | Level: 4.0/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.5/7)
+- Writing (Importance: 3.88/5 | Level: 4.12/7)
+- Active Listening (Importance: 3.88/5 | Level: 4.0/7)
+- Systems Evaluation (Importance: 3.62/5 | Level: 3.75/7)
+- Mathematics (Importance: 3.62/5 | Level: 3.88/7)
+- Negotiation (Importance: 3.5/5 | Level: 3.75/7)
+- Time Management (Importance: 3.38/5 | Level: 3.5/7)
+- Systems Analysis (Importance: 3.38/5 | Level: 3.75/7)
+- Social Perceptiveness (Importance: 3.25/5 | Level: 3.12/7)
+- Active Learning (Importance: 3.25/5 | Level: 3.88/7)
+- Persuasion (Importance: 3.12/5 | Level: 3.5/7)
+- Management of Financial Resources (Importance: 3.12/5 | Level: 3.75/7)
+- Science (Importance: 3.0/5 | Level: 3.25/7)
+- Operations Analysis (Importance: 3.0/5 | Level: 3.0/7)
+- Instructing (Importance: 3.0/5 | Level: 3.12/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 3.0/7)
+- Management of Material Resources (Importance: 2.88/5 | Level: 3.12/7)
+- Service Orientation (Importance: 2.88/5 | Level: 3.0/7)
+- Management of Personnel Resources (Importance: 2.88/5 | Level: 3.12/7)
+- Quality Control Analysis (Importance: 2.75/5 | Level: 2.88/7)
+- Operations Monitoring (Importance: 2.62/5 | Level: 2.62/7)
+- Operation and Control (Importance: 2.0/5 | Level: 1.75/7)
+- Technology Design (Importance: 1.75/5 | Level: 1.62/7)
+- Programming (Importance: 1.62/5 | Level: 0.75/7)
+- Troubleshooting (Importance: 1.5/5 | Level: 1.0/7)
+- Equipment Selection (Importance: 1.25/5 | Level: 0.38/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Business software applications (Tech skill type: Office suite software)
+- Calendar management software (Tech skill type: Calendar and scheduling software)
+- Enterprise resource planning ERP software (Tech skill type: Enterprise resource planning ERP software)
+- ESRI ArcGIS software (Tech skill type: Geographic information system)
+- ESRI ArcMap (Tech skill type: Geographic information system)
+- ESRI ArcView (Tech skill type: Geographic information system)
+- Linux (Tech skill type: Operating system software)
+- Maptek Vulcan (Tech skill type: Analytical or scientific software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft PowerShell (Tech skill type: Development environment software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft SQL Server Reporting Services SSRS (Tech skill type: Object or component oriented development software)
+- Microsoft Word (Tech skill type: Word processing software)
+- MineSight (Tech skill type: Computer aided design CAD software)
+- Oracle Database (Tech skill type: Data base user interface and query software)
+- Oracle Hyperion (Tech skill type: Enterprise resource planning ERP software)
+- PostgreSQL (Tech skill type: Object oriented data base management software)
+- Python (Tech skill type: Object or component oriented development software)
+- Salesforce software (Tech skill type: Customer relationship management CRM software)
+- SAP Business Objects (Tech skill type: Enterprise resource planning ERP software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Social media sites (Tech skill type: Web page creation and editing software)
+- Structure query language SQL (Tech skill type: Data base user interface and query software)
+- Tableau (Tech skill type: Business intelligence and data analysis software)
+- Tanium software (Tech skill type: Enterprise system management software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Computer data input scanners (Tool type: Scanners)
+- Desktop computers (Tool type: Desktop computers)
+- Digital cameras (Tool type: Digital cameras)
+- Global positioning system GPS receivers (Tool type: Global positioning system GPS receiver)
+- Laptop computers (Tool type: Notebook computers)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Multi-line telephone systems (Tool type: Special purpose telephones)
+- Personal computers (Tool type: Personal computers)
+- Photocopying equipment (Tool type: Photocopiers)
+- Subcentimeter global positioning system GPS units (Tool type: Global positioning system GPS receiver)

@@ -1,0 +1,113 @@
+Job Title: Precision Agriculture Technicians
+O*NET-SOC Code: 19-4012.01
+
+# DESCRIPTION
+Apply geospatial technologies, including geographic information systems (GIS) and Global Positioning System (GPS), to agricultural production or management activities, such as pest scouting, site-specific pesticide application, yield mapping, or variable-rate irrigation. May use computers to develop or analyze maps or remote sensing images to compare physical topography with data on soils, fertilizer, pests, or weather.
+
+# TASKS
+- Document and maintain records of precision agriculture information.
+- Collect information about soil or field attributes, yield data, or field boundaries, using field data recorders and basic geographic information systems (GIS).
+- Use geospatial technology to develop soil sampling grids or identify sampling sites for testing characteristics such as nitrogen, phosphorus, or potassium content, pH, or micronutrients.
+- Divide agricultural fields into georeferenced zones, based on soil characteristics and production potentials.
+- Install, calibrate, or maintain sensors, mechanical controls, GPS-based vehicle guidance systems, or computer settings.
+- Create, layer, and analyze maps showing precision agricultural data, such as crop yields, soil characteristics, input applications, terrain, drainage patterns, or field management history.
+- Compare crop yield maps with maps of soil test data, chemical application patterns, or other information to develop site-specific crop management plans.
+- Analyze geospatial data to determine agricultural implications of factors such as soil quality, terrain, field productivity, fertilizers, or weather conditions.
+- Identify spatial coordinates, using remote sensing and Global Positioning System (GPS) data.
+- Analyze data from harvester monitors to develop yield maps.
+- Apply precision agriculture information to specifically reduce the negative environmental impacts of farming practices.
+- Demonstrate the applications of geospatial technology, such as Global Positioning System (GPS), geographic information systems (GIS), automatic tractor guidance systems, variable rate chemical input applicators, surveying equipment, or computer mapping software.
+- Draw or read maps, such as soil, contour, or plat maps.
+- Recommend best crop varieties or seeding rates for specific field areas, based on analysis of geospatial data.
+- Prepare reports in graphical or tabular form, summarizing field productivity or profitability.
+- Provide advice on the development or application of better boom-spray technology to limit the overapplication of chemicals and to reduce the migration of chemicals beyond the fields being treated.
+- Program farm equipment, such as variable-rate planting equipment or pesticide sprayers, based on input from crop scouting and analysis of field condition variability.
+- Participate in efforts to advance precision agriculture technology, such as developing advanced weed identification or automated spot spraying systems.
+- Analyze remote sensing imagery to identify relationships between soil quality, crop canopy densities, light reflectance, and weather history.
+- Advise farmers on upgrading Global Positioning System (GPS) equipment to take advantage of newly installed advanced satellite technology.
+- Contact equipment manufacturers for technical assistance, as needed.
+- Identify areas in need of pesticide treatment by analyzing geospatial data to determine insect movement and damage patterns.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Reading Comprehension (Importance: 3.88/5 | Level: 4.0/7)
+- Active Listening (Importance: 3.75/5 | Level: 3.88/7)
+- Speaking (Importance: 3.75/5 | Level: 3.5/7)
+- Critical Thinking (Importance: 3.75/5 | Level: 3.62/7)
+- Writing (Importance: 3.5/5 | Level: 3.5/7)
+- Active Learning (Importance: 3.38/5 | Level: 3.75/7)
+- Complex Problem Solving (Importance: 3.38/5 | Level: 3.25/7)
+- Judgment and Decision Making (Importance: 3.25/5 | Level: 3.5/7)
+- Mathematics (Importance: 3.25/5 | Level: 3.25/7)
+- Monitoring (Importance: 3.25/5 | Level: 3.5/7)
+- Systems Evaluation (Importance: 3.12/5 | Level: 3.25/7)
+- Systems Analysis (Importance: 3.12/5 | Level: 3.25/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 2.88/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 3.0/7)
+- Operation and Control (Importance: 2.88/5 | Level: 3.0/7)
+- Operations Analysis (Importance: 2.88/5 | Level: 2.88/7)
+- Operations Monitoring (Importance: 2.88/5 | Level: 3.0/7)
+- Science (Importance: 2.88/5 | Level: 2.62/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 3.0/7)
+- Service Orientation (Importance: 2.75/5 | Level: 3.12/7)
+- Persuasion (Importance: 2.75/5 | Level: 3.0/7)
+- Instructing (Importance: 2.75/5 | Level: 2.88/7)
+- Quality Control Analysis (Importance: 2.62/5 | Level: 2.88/7)
+- Negotiation (Importance: 2.62/5 | Level: 2.62/7)
+- Troubleshooting (Importance: 2.62/5 | Level: 2.38/7)
+- Equipment Maintenance (Importance: 2.5/5 | Level: 2.38/7)
+- Programming (Importance: 2.38/5 | Level: 1.88/7)
+- Repairing (Importance: 2.38/5 | Level: 2.12/7)
+- Management of Personnel Resources (Importance: 2.25/5 | Level: 2.12/7)
+- Equipment Selection (Importance: 2.12/5 | Level: 2.12/7)
+- Installation (Importance: 1.88/5 | Level: 1.38/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.0/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 0.75/7)
+- Technology Design (Importance: 1.62/5 | Level: 0.75/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Ag Leader Technology SMS Advanced (Tech skill type: Data base user interface and query software)
+- AGCO GTA Software Suite (Tech skill type: Analytical or scientific software)
+- ESRI ArcGIS software (Tech skill type: Geographic information system)
+- ESRI ArcPad (Tech skill type: Geographic information system)
+- ESRI ArcView (Tech skill type: Geographic information system)
+- Farm Works Site Pro (Tech skill type: Analytical or scientific software)
+- GeoAgro GIS (Tech skill type: Map creation software)
+- Geographic information system GIS systems (Tech skill type: Geographic information system)
+- Global positioning system GPS software (Tech skill type: Mobile location based services software)
+- John Deere Apex Farm Management (Tech skill type: Data base user interface and query software)
+- MapShots EASi Suite (Tech skill type: Analytical or scientific software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Novariant AutoFarm AF Viewer (Tech skill type: Data base user interface and query software)
+- SST Development Group SSToolbox (Tech skill type: Analytical or scientific software)
+- Trimble AgGPS EZ-Map (Tech skill type: Map creation software)
+- Trimble AgGPS MultiPlane (Tech skill type: Map creation software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Air clutches (Tool type: Seeder attachment)
+- Automatic boom control systems (Tool type: Sprayers)
+- Automatic land leveling systems (Tool type: Complex controlling devices)
+- Autosteering systems (Tool type: Complex controlling devices)
+- Desktop computers (Tool type: Desktop computers)
+- Fertilizer spreading equipment (Tool type: Fertilizer spreaders or distributors)
+- Field personal computers PC (Tool type: Portable data input terminals)
+- Global positioning system GPS receivers (Tool type: Global positioning system GPS receiver)
+- Laptop computers (Tool type: Notebook computers)
+- Lightbar guidance systems (Tool type: Complex controlling devices)
+- Moisture monitors (Tool type: Moisture meters)
+- Personal computers (Tool type: Personal computers)
+- Seed drills (Tool type: Seed drills)
+- Soil electrical conductivity measurement devices (Tool type: Conductivity meters)
+- Soil samplers (Tool type: Soil core sampling apparatus)
+- Sprayer application equipment (Tool type: Sprayers)
+- Tractor mounted soil probes (Tool type: Penetrometers)
+- Variable rate applicators (Tool type: Sprayers)
+- Yield monitor systems (Tool type: Flow sensors)

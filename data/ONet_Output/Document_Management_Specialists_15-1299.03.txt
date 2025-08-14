@@ -1,0 +1,184 @@
+Job Title: Document Management Specialists
+O*NET-SOC Code: 15-1299.03
+
+# DESCRIPTION
+Implement and administer enterprise-wide document management systems and related procedures that allow organizations to capture, store, retrieve, share, and destroy electronic records and documents.
+
+# TASKS
+- Assist in determining document management policies to facilitate efficient, legal, and secure access to electronic content.
+- Assist in the development of document or content classification taxonomies to facilitate information capture, search, and retrieval.
+- Implement electronic document processing, retrieval, and distribution systems in collaboration with other information technology specialists.
+- Identify and classify documents or other electronic content according to characteristics such as security level, function, and metadata.
+- Develop, document, or maintain standards, best practices, or system usage procedures.
+- Assist in the assessment, acquisition, or deployment of new electronic document management systems.
+- Administer document and system access rights and revision control to ensure security of system and integrity of master documents.
+- Prepare and record changes to official documents and confirm changes with legal and compliance management staff, including enterprise-wide records management staff.
+- Write, review, or execute plans for testing new or established document management systems.
+- Monitor regulatory activity to maintain compliance with records and document management laws.
+- Retrieve electronic assets from repository for distribution to users, collecting and returning to repository, if necessary.
+- Keep abreast of developments in document management technologies and techniques by reviewing current literature, talking with colleagues, participating in educational programs, attending meetings or workshops, or participating in professional organizations or conferences.
+- Conduct needs assessments to identify document management requirements of departments or end users.
+- Develop or configure document management system features, such as user interfaces, access profiles, and document workflow procedures.
+- Document technical functions and specifications for new or proposed content management systems.
+- Exercise security surveillance over document processing, reproduction, distribution, storage, or archiving.
+- Consult with end users regarding problems in accessing electronic content.
+- Propose recommendations for improving content management system capabilities.
+- Operate data capture technology to import digitized documents into document management system.
+- Prepare support documentation and training materials for end users of document management systems.
+- Search electronic sources, such as databases or repositories, or manual sources for information.
+- Implement scanning or other automated data entry procedures, using imaging devices and document imaging software.
+- Analyze, interpret, or disseminate system performance data.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Reading Comprehension (Importance: 3.88/5 | Level: 3.88/7)
+- Writing (Importance: 3.75/5 | Level: 3.88/7)
+- Critical Thinking (Importance: 3.75/5 | Level: 3.75/7)
+- Active Listening (Importance: 3.75/5 | Level: 3.88/7)
+- Monitoring (Importance: 3.62/5 | Level: 3.12/7)
+- Complex Problem Solving (Importance: 3.62/5 | Level: 3.62/7)
+- Systems Analysis (Importance: 3.62/5 | Level: 3.38/7)
+- Systems Evaluation (Importance: 3.25/5 | Level: 3.25/7)
+- Active Learning (Importance: 3.25/5 | Level: 3.25/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 3.38/7)
+- Time Management (Importance: 3.12/5 | Level: 3.38/7)
+- Speaking (Importance: 3.12/5 | Level: 3.25/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 3.12/7)
+- Service Orientation (Importance: 3.0/5 | Level: 3.0/7)
+- Instructing (Importance: 3.0/5 | Level: 3.0/7)
+- Persuasion (Importance: 2.88/5 | Level: 2.88/7)
+- Negotiation (Importance: 2.75/5 | Level: 2.88/7)
+- Management of Personnel Resources (Importance: 2.75/5 | Level: 2.88/7)
+- Programming (Importance: 2.5/5 | Level: 1.88/7)
+- Mathematics (Importance: 2.25/5 | Level: 2.25/7)
+- Operations Analysis (Importance: 2.25/5 | Level: 2.25/7)
+- Technology Design (Importance: 2.12/5 | Level: 1.75/7)
+- Operations Monitoring (Importance: 2.0/5 | Level: 1.88/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.88/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.62/7)
+- Quality Control Analysis (Importance: 1.75/5 | Level: 1.0/7)
+- Science (Importance: 1.25/5 | Level: 0.5/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+- Operation and Control (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Ademero Content Central (Tech skill type: Document management software)
+- Adobe Acrobat (Tech skill type: Document management software)
+- Adobe Dreamweaver (Tech skill type: Web page creation and editing software)
+- Adobe InDesign (Tech skill type: Desktop publishing software)
+- Adobe Photoshop (Tech skill type: Graphics or photo imaging software)
+- Advanced Processing and Imaging OptiView ECM (Tech skill type: Document management software)
+- Alfresco Software Alfresco (Tech skill type: Document management software)
+- Apache Groovy (Tech skill type: Object or component oriented development software)
+- Apache Tomcat (Tech skill type: Web platform development software)
+- Apple Final Cut Pro (Tech skill type: Video creation and editing software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Autonomy iManage WorkSite (Tech skill type: Document management software)
+- Business process management BPM software (Tech skill type: Enterprise resource planning ERP software)
+- Cabinet NG CNG-SAFE (Tech skill type: Document management software)
+- CAPSYS Capture (Tech skill type: Analytical or scientific software)
+- Central Desktop (Tech skill type: Project management software)
+- Computhink ViewWise (Tech skill type: Document management software)
+- Conarc iChannel (Tech skill type: Document management software)
+- Dassault Systemes SolidWorks (Tech skill type: Computer aided design CAD software)
+- Day Software CQ5 Web Content Management (Tech skill type: Document management software)
+- DB Tech RAS (Tech skill type: Document management software)
+- Doc.It DM (Tech skill type: Document management software)
+- Document imaging software (Tech skill type: Document management software)
+- Document indexing software (Tech skill type: Document management software)
+- Document management system software (Tech skill type: Document management software)
+- DocuSign eSignature (Tech skill type: Document management software)
+- EMC Captiva (Tech skill type: Analytical or scientific software)
+- EMC Document Sciences xPression (Tech skill type: Document management software)
+- EMC Documentum (Tech skill type: Document management software)
+- Enterprise report management ERM software (Tech skill type: Document management software)
+- Ever Team EverSuite Content Management (Tech skill type: Document management software)
+- Extensible markup language XML (Tech skill type: Enterprise application integration software)
+- Fabasoft Folio (Tech skill type: Document management software)
+- File compression software (Tech skill type: Data compression software)
+- File system software (Tech skill type: Filesystem software)
+- FileHold Systems FileHold (Tech skill type: Document management software)
+- FileMaker Pro (Tech skill type: Data base user interface and query software)
+- FileVision (Tech skill type: Document management software)
+- Google Ads (Tech skill type: Sales and marketing software)
+- Google Analytics (Tech skill type: Data mining software)
+- Google Meet (Tech skill type: Video conferencing software)
+- Google Sites (Tech skill type: Web page creation and editing software)
+- Hewlett Packard Exstream Dialogue (Tech skill type: Document management software)
+- Hyland Software OnBase (Tech skill type: Document management software)
+- Hypertext markup language HTML (Tech skill type: Web platform development software)
+- IBM BPM Blueprint (Tech skill type: Enterprise resource planning ERP software)
+- IBM DB2 (Tech skill type: Data base user interface and query software)
+- IBM FileNet Content Manager (Tech skill type: Content workflow software)
+- IBM MVS (Tech skill type: Operating system software)
+- IBM Notes (Tech skill type: Electronic mail software)
+- IBM WebSphere MQ (Tech skill type: Cloud-based management software)
+- Laserfiche Rio (Tech skill type: Document management software)
+- Linux (Tech skill type: Operating system software)
+- Microsoft .NET Framework (Tech skill type: Development environment software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Dynamics (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office Document Imaging (Tech skill type: Analytical or scientific software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft SQL Server (Tech skill type: Data base user interface and query software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Visual Basic (Tech skill type: Development environment software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Newgen Software Technologies OmniDocs (Tech skill type: Document management software)
+- Objectif Lune PlanetPress Suite (Tech skill type: Document management software)
+- Objective Electronic Document Management (Tech skill type: Document management software)
+- Office Gemini Diamond Vision (Tech skill type: Analytical or scientific software)
+- Open Text Web Solutions (Tech skill type: Document management software)
+- OpenDocMan (Tech skill type: Document management software)
+- Optical character recognition OCR software (Tech skill type: Optical character reader OCR or scanning software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- Oracle PeopleSoft Financials (Tech skill type: Enterprise resource planning ERP software)
+- Oracle SQL Developer (Tech skill type: Development environment software)
+- Oracle Universal Content Management (Tech skill type: Document management software)
+- Oracle WebLogic Server (Tech skill type: Application server software)
+- Pegasystems SmartBPM (Tech skill type: Enterprise resource planning ERP software)
+- Perceptive Software ImageNow (Tech skill type: Analytical or scientific software)
+- Perl (Tech skill type: Object or component oriented development software)
+- Personable Workflow DMS (Tech skill type: Document management software)
+- PTC Creo Parametric (Tech skill type: Computer aided design CAD software)
+- Records management software (Tech skill type: Document management software)
+- SAP Business Objects (Tech skill type: Data base reporting software)
+- SAP BusinessObjects Data Integrator (Tech skill type: Enterprise application integration software)
+- SAP DMS (Tech skill type: Document management software)
+- SAP ERP Financials (Tech skill type: Enterprise resource planning ERP software)
+- SAP PowerBuilder (Tech skill type: Object or component oriented development software)
+- Saperion ECM (Tech skill type: Document management software)
+- Skype (Tech skill type: Desktop communications software)
+- Systemware (Tech skill type: Document management software)
+- Teradata Database (Tech skill type: Data base management system software)
+- Thomson Reuters FileCabinet CS (Tech skill type: Document management software)
+- Thomson Reuters GoFileRoom (Tech skill type: Content workflow software)
+- Treeno Software Treeno Content Server (Tech skill type: Document management software)
+- Unified modeling language UML (Tech skill type: Requirements analysis and system architecture software)
+- UNIX (Tech skill type: Operating system software)
+- Version control software (Tech skill type: File versioning software)
+- Vertafore ImageRight (Tech skill type: Data base user interface and query software)
+- Westbrook Fortis (Tech skill type: Document management software)
+- WeVideo (Tech skill type: Video creation and editing software)
+- Xerox DocuShare (Tech skill type: Document management software)
+- Xythos Enterprise Document Management Suite (Tech skill type: Document management software)
+
+## TOOLS USED
+- Cloud computing servers (Tool type: Computer servers)
+- Computer hard disk drives (Tool type: Hard disk drives)
+- Content servers (Tool type: Computer servers)
+- Magneto optical drives (Tool type: Magneto optical MO drives)
+- Scanners (Tool type: Scanners)
+- Tape libraries (Tool type: Tape arrays)

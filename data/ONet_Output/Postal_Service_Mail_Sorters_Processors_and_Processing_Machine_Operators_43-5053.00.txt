@@ -1,0 +1,111 @@
+Job Title: Postal Service Mail Sorters, Processors, and Processing Machine Operators
+O*NET-SOC Code: 43-5053.00
+
+# DESCRIPTION
+Prepare incoming and outgoing mail for distribution for the United States Postal Service (USPS). Examine, sort, and route mail. Load, operate, and occasionally adjust and repair mail processing, sorting, and canceling machinery. Keep records of shipments, pouches, and sacks, and perform other duties related to mail handling within the postal service. Includes postal service mail sorters and processors employed by USPS contractors.
+
+# TASKS
+- Clear jams in sorting equipment.
+- Operate various types of equipment, such as computer scanning equipment, addressographs, mimeographs, optical character readers, and bar-code sorters.
+- Sort odd-sized mail by hand, sort mail that other workers have been unable to sort, and segregate items requiring special handling.
+- Direct items according to established routing schemes, using computer-controlled keyboards or voice-recognition equipment.
+- Check items to ensure that addresses are legible and correct, that sufficient postage has been paid or the appropriate documentation is attached, and that items are in a suitable condition for processing.
+- Bundle, label, and route sorted mail to designated areas, depending on destinations and according to established procedures and deadlines.
+- Move containers of mail, using equipment, such as forklifts and automated "trains".
+- Open and label mail containers.
+- Load and unload mail trucks, sometimes lifting containers of mail onto equipment that transports items to sorting stations.
+- Distribute incoming mail into the correct boxes or pigeonholes.
+- Rewrap soiled or broken parcels.
+- Train new workers.
+- Search directories to find correct addresses for redirected mail.
+- Cancel letter or parcel post stamps by hand.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Monitoring (Importance: 3.12/5 | Level: 2.75/7)
+- Coordination (Importance: 3.0/5 | Level: 2.88/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 2.62/7)
+- Speaking (Importance: 3.0/5 | Level: 2.62/7)
+- Reading Comprehension (Importance: 3.0/5 | Level: 2.75/7)
+- Time Management (Importance: 2.88/5 | Level: 2.5/7)
+- Judgment and Decision Making (Importance: 2.88/5 | Level: 2.12/7)
+- Operations Monitoring (Importance: 2.88/5 | Level: 2.62/7)
+- Active Listening (Importance: 2.88/5 | Level: 2.75/7)
+- Operation and Control (Importance: 2.75/5 | Level: 2.38/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 2.38/7)
+- Complex Problem Solving (Importance: 2.5/5 | Level: 2.0/7)
+- Service Orientation (Importance: 2.5/5 | Level: 1.88/7)
+- Quality Control Analysis (Importance: 2.25/5 | Level: 1.88/7)
+- Writing (Importance: 2.25/5 | Level: 1.88/7)
+- Instructing (Importance: 2.25/5 | Level: 2.38/7)
+- Active Learning (Importance: 2.12/5 | Level: 2.0/7)
+- Learning Strategies (Importance: 2.12/5 | Level: 2.12/7)
+- Management of Personnel Resources (Importance: 2.12/5 | Level: 1.88/7)
+- Troubleshooting (Importance: 2.12/5 | Level: 1.62/7)
+- Systems Analysis (Importance: 2.12/5 | Level: 1.62/7)
+- Mathematics (Importance: 2.0/5 | Level: 1.38/7)
+- Persuasion (Importance: 2.0/5 | Level: 1.5/7)
+- Systems Evaluation (Importance: 1.88/5 | Level: 1.25/7)
+- Negotiation (Importance: 1.75/5 | Level: 1.38/7)
+- Programming (Importance: 1.62/5 | Level: 0.62/7)
+- Equipment Maintenance (Importance: 1.62/5 | Level: 0.62/7)
+- Operations Analysis (Importance: 1.5/5 | Level: 0.62/7)
+- Repairing (Importance: 1.38/5 | Level: 0.38/7)
+- Equipment Selection (Importance: 1.12/5 | Level: 0.12/7)
+- Management of Financial Resources (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Management of Material Resources (Importance: 1.0/5 | Level: 0.0/7)
+- Technology Design (Importance: 1.0/5 | Level: 0.0/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Address Management System AMS (Tech skill type: Data base user interface and query software)
+- Automated Package Processing System APPS (Tech skill type: Inventory management software)
+- Barcode reader software (Tech skill type: Bar coding software)
+- Delivery operations information system DOIS (Tech skill type: Enterprise resource planning ERP software)
+- Delivery Routing System DRS (Tech skill type: Map creation software)
+- Directory software (Tech skill type: Data base user interface and query software)
+- Electronic Time Clock ETC (Tech skill type: Time accounting software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Multi-line optical character reader OCR software (Tech skill type: Optical character reader OCR or scanning software)
+- NCR Advanced Store (Tech skill type: Point of sale POS software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Teradata Database (Tech skill type: Data base management system software)
+- Time and Attendance Collection System TACS (Tech skill type: Human resources software)
+
+## TOOLS USED
+- Addressographs (Tool type: Label making machines)
+- Automatic airline assignment systems (Tool type: Sorters)
+- Automatic pallet unloaders (Tool type: Depalletizers)
+- Barcode scanners (Tool type: Bar code reader equipment)
+- Barcode sorters (Tool type: Sorters)
+- Compact assignment machines (Tool type: Sorters)
+- Computer data input scanners (Tool type: Scanners)
+- Conveyor belts (Tool type: Belt conveyors)
+- Conveyor sorting systems (Tool type: Sorters)
+- Copy machines (Tool type: Photocopiers)
+- Delivery point packagers (Tool type: Wrapping machinery)
+- Dollies (Tool type: Dollies)
+- Electric material moving tractors (Tool type: Tugger)
+- General purpose mail containers (Tool type: Material handling racks)
+- Hand-pushed carts (Tool type: Carts)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Mail canceling machines (Tool type: Stamp canceling machines)
+- Mail processing machines (Tool type: Automatic postal or mailing machine)
+- Mail scales (Tool type: Postal scales)
+- Mail sorting machines (Tool type: Sorters)
+- Mail trucks (Tool type: Delivery trucks)
+- Multi-position letter sorting machines (Tool type: Sorters)
+- Optical character readers (Tool type: Optical character recognition systems)
+- Packaging machines (Tool type: Parcel wrapping machines)
+- Personal computers (Tool type: Personal computers)
+- Point of sale workstations (Tool type: Point of sale POS terminal)
+- Postage marking machines (Tool type: Franking or postage machines)
+- Postal automated redirection systems (Tool type: Sorters)
+- Small parcel bundle sorter machines (Tool type: Sorters)
+- Voice recognition equipment (Tool type: Interactive voice recognition equipment)
+- Warehouse forklifts (Tool type: Forklifts)

@@ -1,0 +1,152 @@
+Job Title: Regulatory Affairs Managers
+O*NET-SOC Code: 11-9199.01
+
+# DESCRIPTION
+Plan, direct, or coordinate production activities of an organization to ensure compliance with regulations and standard operating procedures.
+
+# TASKS
+- Develop regulatory strategies and implementation plans for the preparation and submission of new products.
+- Review all regulatory agency submission materials to ensure timeliness, accuracy, comprehensiveness, or compliance with regulatory standards.
+- Direct the preparation and submission of regulatory agency applications, reports, or correspondence.
+- Investigate product complaints and prepare documentation and submissions to appropriate regulatory agencies as necessary.
+- Provide responses to regulatory agencies regarding product information or issues.
+- Represent organizations before domestic or international regulatory agencies on major policy matters or decisions regarding company products.
+- Provide regulatory guidance to departments or development project teams regarding design, development, evaluation, or marketing of products.
+- Manage activities such as audits, regulatory agency inspections, or product recalls.
+- Communicate regulatory information to multiple departments and ensure that information is interpreted correctly.
+- Maintain current knowledge of relevant regulations, including proposed and final rules.
+- Formulate or implement regulatory affairs policies and procedures to ensure that regulatory compliance is maintained or enhanced.
+- Direct documentation efforts to ensure compliance with domestic and international regulations and standards.
+- Review materials such as marketing literature or user manuals to ensure that regulatory agency requirements are met.
+- Participate in the development or implementation of clinical trial protocols.
+- Implement or monitor complaint processing systems to ensure effective and timely resolution of all complaint investigations.
+- Establish procedures or systems for publishing document submissions in hardcopy or electronic formats.
+- Establish regulatory priorities or budgets and allocate resources and workloads.
+- Train staff in regulatory policies or procedures.
+- Develop and maintain standard operating procedures or local working practices.
+- Contribute to the development or implementation of business unit strategic and operating plans.
+- Monitor regulatory affairs activities to ensure their alignment with corporate sustainability or green initiatives.
+- Coordinate internal discoveries and depositions with legal department staff.
+- Monitor emerging trends regarding industry regulations to determine potential impacts on organizational processes.
+- Develop relationships with state or federal environmental regulatory agencies to learn about and analyze the potential impacts of proposed environmental policy regulations.
+- Monitor regulatory affairs trends related to environmental issues.
+- Evaluate regulatory affairs aspects that are specifically green, such as the use of toxic substances in packaging, carbon footprinting issues, or green policy implementation.
+- Evaluate new software publishing systems and confer with regulatory agencies concerning news or updates on electronic publishing of submissions.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Writing (Importance: 4.25/5 | Level: 4.12/7)
+- Reading Comprehension (Importance: 4.12/5 | Level: 4.12/7)
+- Speaking (Importance: 4.0/5 | Level: 4.12/7)
+- Active Listening (Importance: 4.0/5 | Level: 4.0/7)
+- Critical Thinking (Importance: 3.88/5 | Level: 4.0/7)
+- Complex Problem Solving (Importance: 3.75/5 | Level: 3.25/7)
+- Systems Evaluation (Importance: 3.75/5 | Level: 3.75/7)
+- Systems Analysis (Importance: 3.75/5 | Level: 3.88/7)
+- Judgment and Decision Making (Importance: 3.75/5 | Level: 4.0/7)
+- Monitoring (Importance: 3.62/5 | Level: 4.12/7)
+- Time Management (Importance: 3.62/5 | Level: 3.75/7)
+- Active Learning (Importance: 3.5/5 | Level: 3.75/7)
+- Coordination (Importance: 3.5/5 | Level: 3.5/7)
+- Instructing (Importance: 3.25/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 3.25/5 | Level: 3.62/7)
+- Negotiation (Importance: 3.0/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 3.5/7)
+- Persuasion (Importance: 3.0/5 | Level: 3.0/7)
+- Management of Personnel Resources (Importance: 3.0/5 | Level: 3.5/7)
+- Service Orientation (Importance: 2.88/5 | Level: 3.0/7)
+- Operations Analysis (Importance: 2.75/5 | Level: 3.12/7)
+- Science (Importance: 2.38/5 | Level: 1.88/7)
+- Mathematics (Importance: 2.38/5 | Level: 2.62/7)
+- Management of Financial Resources (Importance: 2.12/5 | Level: 2.12/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 2.0/7)
+- Programming (Importance: 1.88/5 | Level: 0.88/7)
+- Operations Monitoring (Importance: 1.88/5 | Level: 0.88/7)
+- Technology Design (Importance: 1.62/5 | Level: 0.75/7)
+- Quality Control Analysis (Importance: 1.25/5 | Level: 0.38/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+- Operation and Control (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adlib Express (Tech skill type: Document management software)
+- Adobe Acrobat (Tech skill type: Document management software)
+- Analyse-it (Tech skill type: Analytical or scientific software)
+- Aris Global Register (Tech skill type: Compliance software)
+- Axway eSubmissions (Tech skill type: Document management software)
+- Database software (Tech skill type: Data base user interface and query software)
+- Datafarm a-Pulse (Tech skill type: Document management software)
+- Datafarm eCTDGatekeeper (Tech skill type: Document management software)
+- Datafarm eCTDViewer (Tech skill type: Document management software)
+- Datafarm S-Cubed (Tech skill type: Document management software)
+- Dialog DialogLink (Tech skill type: Information retrieval or search software)
+- Document publishing software (Tech skill type: Desktop publishing software)
+- DoubleBridge ROSETTA Phoenix eCTD Viewer (Tech skill type: Document management software)
+- DoubleBridge ROSETTA Pyramid (Tech skill type: Document management software)
+- DoubleBridge ROSETTA Sceptre (Tech skill type: Document management software)
+- DoubleBridge ROSETTA Scribe (Tech skill type: Document management software)
+- Electronic common technical document eCTD software (Tech skill type: Document management software)
+- Electronic common technical document eCTD validating software (Tech skill type: Document management software)
+- Electronic common technical document eCTD viewing software (Tech skill type: Document management software)
+- Electronic document management system EDMS (Tech skill type: Document management software)
+- Enterprise content management ECM software (Tech skill type: Document management software)
+- Extedo DOCvalidator (Tech skill type: Document management software)
+- Extedo eCTDmanager Suite (Tech skill type: Document management software)
+- Extedo PLmanager (Tech skill type: Document management software)
+- GlobalSubmit REVIEW (Tech skill type: Document management software)
+- GlobalSubmit VALIDATE (Tech skill type: Document management software)
+- IBM Notes (Tech skill type: Electronic mail software)
+- Image Solutions eCTDXpress (Tech skill type: Document management software)
+- Image Solutions ISIPublisher (Tech skill type: Document management software)
+- Integrated development environment IDE software (Tech skill type: Development environment software)
+- Lorenz DocuBridge (Tech skill type: Document management software)
+- Lorenz eValidator (Tech skill type: Document management software)
+- Lorenz labelBridge (Tech skill type: Document management software)
+- MasterControl software (Tech skill type: Risk management data and analysis software)
+- MediRegs E-dition Compliance Monitor (Tech skill type: Compliance software)
+- MediRegs Pharmaceutical Regulation Suite (Tech skill type: Compliance software)
+- MediRegs Regulation and Reimbursement Suite (Tech skill type: Compliance software)
+- MediRegs Risk Assessment Manager (Tech skill type: Compliance software)
+- MedXView eCTDauditor (Tech skill type: Document management software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Octagon StartingPoint (Tech skill type: Document management software)
+- Octagon ViewPoint eCTD Complete (Tech skill type: Document management software)
+- Pilgrim Regulatory Submission (Tech skill type: Compliance software)
+- Risk management software (Tech skill type: Risk management data and analysis software)
+- Samarind RMS (Tech skill type: Compliance software)
+- SAP EHS Management (Tech skill type: Compliance software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Software development tools (Tech skill type: Development environment software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- Statistical analysis software (Tech skill type: Analytical or scientific software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Tableau (Tech skill type: Business intelligence and data analysis software)
+- Take Solutions PharmaReady Document Management System (Tech skill type: Document management software)
+- Thomson Reuters Liquent CoreDossier Submission Accelerator for eCTD (Tech skill type: Document management software)
+- Thomson Reuters Liquent InSight Suite (Tech skill type: Compliance software)
+- Total quality management TQM software (Tech skill type: Project management software)
+- Virtify eCTD (Tech skill type: Document management software)
+- Web browser software (Tech skill type: Internet browser software)
+- Word processing software (Tech skill type: Word processing software)
+- XML authoring software (Tech skill type: Enterprise application integration software)
+
+## TOOLS USED
+- Computer laser printers (Tool type: Laser printers)
+- Desktop computers (Tool type: Desktop computers)
+- Laptop computers (Tool type: Notebook computers)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Multi-line telephone systems (Tool type: Special purpose telephones)
+- Personal computers (Tool type: Personal computers)
+- Photocopying equipment (Tool type: Photocopiers)

@@ -1,0 +1,126 @@
+Job Title: Bridge and Lock Tenders
+O*NET-SOC Code: 53-6011.00
+
+# DESCRIPTION
+Operate and tend bridges, canal locks, and lighthouses to permit marine passage on inland waterways, near shores, and at danger points in waterway passages. May supervise such operations. Includes drawbridge operators, lock operators, and slip bridge operators.
+
+# TASKS
+- Control machinery to open and close canal locks and dams, railroad or highway drawbridges, or horizontally or vertically adjustable bridges.
+- Direct movements of vessels in locks or bridge areas, using signals, telecommunication equipment, or loudspeakers.
+- Observe position and progress of vessels to ensure best use of lock spaces or bridge opening spaces.
+- Record names, types, and destinations of vessels passing through bridge openings or locks, and numbers of trains or vehicles crossing bridges.
+- Observe approaching vessels to determine size and speed, and listen for whistle signals indicating desire to pass.
+- Move levers to activate traffic signals, navigation lights, and alarms.
+- Write and submit maintenance work requisitions.
+- Log data, such as water levels and weather conditions.
+- Prepare accident reports.
+- Perform maintenance duties, such as sweeping, painting, and yard work to keep facilities clean and in order.
+- Turn valves to increase or decrease water levels in locks.
+- Check that bridges are clear of vehicles and pedestrians prior to opening.
+- Stop automobile and pedestrian traffic on bridges, and lower automobile gates prior to moving bridges.
+- Raise drawbridges and observe passage of water traffic or lower drawbridges and raise automobile gates.
+- Maintain and guard stations in bridges to check waterways for boat traffic.
+- Clean and lubricate equipment, and make minor repairs and adjustments.
+- Inspect canal and bridge equipment, and areas, such as roadbeds, for damage or defects, reporting problems to supervisors as necessary.
+- Attach ropes or cable lines to bitts on lock decks or wharfs to secure vessels.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Monitoring (Importance: 3.25/5 | Level: 3.0/7)
+- Operation and Control (Importance: 3.0/5 | Level: 3.0/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 3.0/7)
+- Speaking (Importance: 3.0/5 | Level: 2.88/7)
+- Operations Monitoring (Importance: 3.0/5 | Level: 3.0/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 2.62/7)
+- Active Listening (Importance: 3.0/5 | Level: 2.75/7)
+- Time Management (Importance: 2.88/5 | Level: 2.62/7)
+- Service Orientation (Importance: 2.88/5 | Level: 2.62/7)
+- Reading Comprehension (Importance: 2.88/5 | Level: 2.38/7)
+- Writing (Importance: 2.88/5 | Level: 2.88/7)
+- Complex Problem Solving (Importance: 2.88/5 | Level: 2.75/7)
+- Instructing (Importance: 2.75/5 | Level: 2.62/7)
+- Persuasion (Importance: 2.62/5 | Level: 2.25/7)
+- Social Perceptiveness (Importance: 2.62/5 | Level: 2.25/7)
+- Quality Control Analysis (Importance: 2.5/5 | Level: 2.25/7)
+- Negotiation (Importance: 2.5/5 | Level: 2.12/7)
+- Learning Strategies (Importance: 2.5/5 | Level: 2.12/7)
+- Active Learning (Importance: 2.38/5 | Level: 2.12/7)
+- Troubleshooting (Importance: 2.38/5 | Level: 2.0/7)
+- Management of Personnel Resources (Importance: 2.25/5 | Level: 2.12/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 1.5/7)
+- Mathematics (Importance: 2.0/5 | Level: 1.88/7)
+- Systems Analysis (Importance: 1.75/5 | Level: 1.0/7)
+- Equipment Maintenance (Importance: 1.75/5 | Level: 1.38/7)
+- Repairing (Importance: 1.62/5 | Level: 1.25/7)
+- Equipment Selection (Importance: 1.5/5 | Level: 0.75/7)
+- Technology Design (Importance: 1.12/5 | Level: 0.12/7)
+- Management of Material Resources (Importance: 1.12/5 | Level: 0.12/7)
+- Science (Importance: 1.12/5 | Level: 0.25/7)
+- Programming (Importance: 1.12/5 | Level: 0.12/7)
+- Operations Analysis (Importance: 1.12/5 | Level: 0.12/7)
+- Management of Financial Resources (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Email software (Tech skill type: Electronic mail software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Oracle PeopleSoft (Tech skill type: Enterprise resource planning ERP software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Virtual private networking VPN software (Tech skill type: Network security or virtual private network VPN management software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Adjustable wrenches (Tool type: Adjustable wrenches)
+- Balance weights (Tool type: Counter weight bag and counterweight)
+- Bitts (Tool type: Dock rings)
+- Bridge traffic signals (Tool type: Traffic signals)
+- Cable lines (Tool type: Lifting cables)
+- Closed circuit television CCTV monitoring systems (Tool type: Closed circuit television CCTV system)
+- Desktop computers (Tool type: Desktop computers)
+- Electric drawbridges (Tool type: Steel bridge)
+- Fall protection equipment (Tool type: Safety harnesses or belts)
+- Gas detectors (Tool type: Multi gas monitors)
+- Gas powered generators (Tool type: Gas generators)
+- Gas powered snow blowers (Tool type: Snow blowers)
+- Grease dispensing guns (Tool type: Grease guns)
+- Hand trucks (Tool type: Hand trucks or accessories)
+- Hard hats (Tool type: Hard hats)
+- Hearing protectors (Tool type: Ear plugs)
+- Intrusion alarms (Tool type: Alarm systems)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Lawn mowers (Tool type: Lawnmowers)
+- Life jackets (Tool type: Life vests or preservers)
+- Loudspeaker warning system (Tool type: Loudspeakers)
+- Megaphones (Tool type: Megaphones)
+- Mobile radios (Tool type: Two way radios)
+- Motor vehicles (Tool type: Automobiles or cars)
+- Navigation lights (Tool type: Roadway or highway lighting)
+- Protective glasses (Tool type: Safety glasses)
+- Putty knives (Tool type: Putty knives)
+- Radar systems (Tool type: Radarbased surveillance systems)
+- Safety gloves (Tool type: Protective gloves)
+- Safety-toe boots (Tool type: Safety boots)
+- Signal bells (Tool type: Marine signaling systems)
+- Signal flags (Tool type: Marine signaling systems)
+- Signal flares (Tool type: Flares)
+- Smoke detectors (Tool type: Smoke detectors)
+- Snow plows (Tool type: Snowplow attachments)
+- Span lights (Tool type: Roadway or highway lighting)
+- Spot lights (Tool type: Storm lights)
+- Step ladders (Tool type: Ladders)
+- Sump pumps (Tool type: Sump pumps)
+- Surveillance binoculars (Tool type: Binoculars)
+- Television monitors (Tool type: Televisions)
+- Traffic directional cones (Tool type: Traffic cones or delineators)
+- Traffic gates (Tool type: Gate barrier systems)
+- Very high frequency VHF radiotelephones (Tool type: Marine craft communications systems)
+- Warning horns (Tool type: Vehicle horns)
+- Warning sirens (Tool type: Sirens)
+- Weather monitoring instruments (Tool type: Weather stations)
+- Wire cutting tools (Tool type: Wire cutters)
+- Wire ropes (Tool type: Wire rope)
+- X ray scanners (Tool type: X ray radiography examination equipment)

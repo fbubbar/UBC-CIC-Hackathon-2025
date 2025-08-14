@@ -1,0 +1,89 @@
+Job Title: Refuse and Recyclable Material Collectors
+O*NET-SOC Code: 53-7081.00
+
+# DESCRIPTION
+Collect and dump refuse or recyclable materials from containers into truck. May drive truck.
+
+# TASKS
+- Inspect trucks prior to beginning routes to ensure safe operating condition.
+- Drive trucks, following established routes, through residential streets or alleys or through business or industrial areas.
+- Refuel trucks or add other fluids, such as oil or brake fluid.
+- Dump refuse or recyclable materials at disposal sites.
+- Fill out defective equipment reports.
+- Operate automated or semi-automated hoisting devices that raise refuse bins and dump contents into openings in truck bodies.
+- Dismount garbage trucks to collect garbage and remount trucks to ride to the next collection point.
+- Operate equipment that compresses collected refuse.
+- Communicate with dispatchers concerning delays, unsafe sites, accidents, equipment breakdowns, or other maintenance problems.
+- Check road or weather conditions to determine how routes will be affected.
+- Clean trucks or compactor bodies after routes have been completed.
+- Tag garbage or recycling containers to inform customers of problems, such as excess garbage or inclusion of items that are not permitted.
+- Make special pickups of recyclable materials, such as food scraps, used oil, discarded computers, or other electronic items.
+- Organize schedules for refuse collection.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operation and Control (Importance: 3.0/5 | Level: 2.88/7)
+- Operations Monitoring (Importance: 3.0/5 | Level: 2.62/7)
+- Speaking (Importance: 2.88/5 | Level: 2.0/7)
+- Active Listening (Importance: 2.88/5 | Level: 2.5/7)
+- Critical Thinking (Importance: 2.75/5 | Level: 2.62/7)
+- Equipment Maintenance (Importance: 2.75/5 | Level: 2.0/7)
+- Coordination (Importance: 2.62/5 | Level: 2.5/7)
+- Reading Comprehension (Importance: 2.62/5 | Level: 2.0/7)
+- Monitoring (Importance: 2.5/5 | Level: 2.0/7)
+- Troubleshooting (Importance: 2.5/5 | Level: 2.0/7)
+- Time Management (Importance: 2.5/5 | Level: 2.38/7)
+- Social Perceptiveness (Importance: 2.5/5 | Level: 2.12/7)
+- Repairing (Importance: 2.5/5 | Level: 1.88/7)
+- Writing (Importance: 2.5/5 | Level: 2.0/7)
+- Judgment and Decision Making (Importance: 2.38/5 | Level: 2.12/7)
+- Complex Problem Solving (Importance: 2.38/5 | Level: 2.12/7)
+- Service Orientation (Importance: 2.38/5 | Level: 1.88/7)
+- Quality Control Analysis (Importance: 2.25/5 | Level: 2.0/7)
+- Active Learning (Importance: 2.25/5 | Level: 1.62/7)
+- Persuasion (Importance: 2.0/5 | Level: 2.0/7)
+- Management of Personnel Resources (Importance: 2.0/5 | Level: 1.75/7)
+- Negotiation (Importance: 2.0/5 | Level: 1.88/7)
+- Instructing (Importance: 1.88/5 | Level: 1.5/7)
+- Equipment Selection (Importance: 1.75/5 | Level: 0.88/7)
+- Learning Strategies (Importance: 1.38/5 | Level: 0.38/7)
+- Systems Analysis (Importance: 1.38/5 | Level: 0.75/7)
+- Systems Evaluation (Importance: 1.38/5 | Level: 0.75/7)
+- Operations Analysis (Importance: 1.12/5 | Level: 0.12/7)
+- Management of Financial Resources (Importance: 1.0/5 | Level: 0.0/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+- Management of Material Resources (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Technology Design (Importance: 1.0/5 | Level: 0.0/7)
+- Mathematics (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- AMCS Platform (Tech skill type: Analytical or scientific software)
+- Computerized maintenance management system CMMS (Tech skill type: Facilities management software)
+- Dossier software (Tech skill type: Data base user interface and query software)
+- Fleet management software (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Global positioning system GPS software (Tech skill type: Mobile location based services software)
+- Mileage logging software (Tech skill type: Data base user interface and query software)
+- Payroll software (Tech skill type: Time accounting software)
+- Routeware software (Tech skill type: Map creation software)
+- Squeegee (Tech skill type: Cloud-based data access and sharing software)
+- WAM software (Tech skill type: Compliance software)
+
+## TOOLS USED
+- Aluminum compactors (Tool type: Packaging compactors)
+- Cardboard compactors (Tool type: Packaging compactors)
+- Desktop computers (Tool type: Desktop computers)
+- Front loading garbage trucks (Tool type: Cargo trucks)
+- Garbage trucks (Tool type: Cargo trucks)
+- Grapple trucks (Tool type: Cargo trucks)
+- Lifting arms (Tool type: Loading equipment)
+- Mobile radios (Tool type: Two way radios)
+- Personal computers (Tool type: Personal computers)
+- Pneumatic collection garbage trucks (Tool type: Cargo trucks)
+- Rear-loading garbage trucks (Tool type: Cargo trucks)
+- Recycling trucks (Tool type: Cargo trucks)
+- Shredder trucks (Tool type: Cargo trucks)
+- Side-loading garbage trucks (Tool type: Cargo trucks)
+- Tractor-trailer trucks (Tool type: Cargo trucks)
+- Walking floor trailers (Tool type: Container trailers)

@@ -1,0 +1,169 @@
+Job Title: Architects, Except Landscape and Naval
+O*NET-SOC Code: 17-1011.00
+
+# DESCRIPTION
+Plan and design structures, such as private residences, office buildings, theaters, factories, and other structural property.
+
+# TASKS
+- Develop final construction plans that include aesthetic representations of the structure or details for its construction.
+- Prepare scale drawings or architectural designs, using computer-aided design or other tools.
+- Prepare information regarding design, structure specifications, materials, color, equipment, estimated costs, or construction time.
+- Consult with clients to determine functional or spatial requirements of structures.
+- Meet with clients to review or discuss architectural drawings.
+- Monitor the work of specialists, such as electrical engineers, mechanical engineers, interior designers, or sound specialists to ensure optimal form or function of designs or final structures.
+- Integrate engineering elements into unified architectural designs.
+- Plan layouts of structural architectural projects.
+- Conduct periodic on-site observations of construction work to monitor compliance with plans.
+- Prepare contract documents for building contractors.
+- Plan or design structures such as residences, office buildings, theatres, factories, or other structural properties in accordance with environmental, safety, or other regulations.
+- Direct activities of technicians engaged in preparing drawings or specification documents.
+- Administer construction contracts.
+- Create three-dimensional or interactive representations of designs, using computer-assisted design software.
+- Represent clients in obtaining bids or awarding construction contracts.
+- Develop marketing materials, proposals, or presentations to generate new work opportunities.
+- Perform predesign services, such as feasibility or environmental impact studies.
+- Design structures that incorporate environmentally friendly building practices or concepts, such as Leadership in Energy and Environmental Design (LEED) standards.
+- Design or plan construction of green building projects to minimize adverse environmental impact or conserve energy.
+- Gather information related to projects' environmental sustainability or operational efficiency.
+- Inspect proposed building sites to determine suitability for construction.
+- Design environmentally sound structural upgrades to existing buildings, such as natural lighting systems, green roofs, or rainwater collection systems.
+- Calculate potential energy savings by comparing estimated energy consumption of proposed design to baseline standards.
+- Prepare operating and maintenance manuals, studies, or reports.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Speaking (Importance: 4.0/5 | Level: 4.0/7)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.5/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.75/7)
+- Operations Analysis (Importance: 4.0/5 | Level: 4.38/7)
+- Writing (Importance: 3.88/5 | Level: 4.12/7)
+- Active Listening (Importance: 3.88/5 | Level: 4.25/7)
+- Judgment and Decision Making (Importance: 3.75/5 | Level: 4.5/7)
+- Complex Problem Solving (Importance: 3.75/5 | Level: 4.25/7)
+- Monitoring (Importance: 3.75/5 | Level: 4.38/7)
+- Active Learning (Importance: 3.62/5 | Level: 4.12/7)
+- Systems Analysis (Importance: 3.5/5 | Level: 3.62/7)
+- Mathematics (Importance: 3.5/5 | Level: 4.12/7)
+- Coordination (Importance: 3.5/5 | Level: 4.0/7)
+- Systems Evaluation (Importance: 3.38/5 | Level: 3.75/7)
+- Learning Strategies (Importance: 3.25/5 | Level: 3.12/7)
+- Social Perceptiveness (Importance: 3.25/5 | Level: 3.25/7)
+- Persuasion (Importance: 3.12/5 | Level: 3.5/7)
+- Quality Control Analysis (Importance: 3.12/5 | Level: 3.25/7)
+- Negotiation (Importance: 3.12/5 | Level: 3.5/7)
+- Management of Personnel Resources (Importance: 3.0/5 | Level: 3.5/7)
+- Time Management (Importance: 3.0/5 | Level: 3.62/7)
+- Instructing (Importance: 3.0/5 | Level: 2.88/7)
+- Service Orientation (Importance: 2.88/5 | Level: 3.38/7)
+- Science (Importance: 2.88/5 | Level: 3.0/7)
+- Management of Financial Resources (Importance: 2.75/5 | Level: 3.38/7)
+- Management of Material Resources (Importance: 2.75/5 | Level: 3.0/7)
+- Operations Monitoring (Importance: 2.25/5 | Level: 2.0/7)
+- Technology Design (Importance: 2.0/5 | Level: 2.0/7)
+- Troubleshooting (Importance: 1.88/5 | Level: 1.5/7)
+- Operation and Control (Importance: 1.88/5 | Level: 1.75/7)
+- Programming (Importance: 1.88/5 | Level: 1.25/7)
+- Equipment Selection (Importance: 1.25/5 | Level: 0.25/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- 1ST Pricing Window & Door Toolkit (Tech skill type: Procurement software)
+- Adobe Acrobat (Tech skill type: Document management software)
+- Adobe Creative Cloud software (Tech skill type: Graphics or photo imaging software)
+- Adobe Illustrator (Tech skill type: Graphics or photo imaging software)
+- Adobe InDesign (Tech skill type: Desktop publishing software)
+- Adobe Photoshop (Tech skill type: Graphics or photo imaging software)
+- Amazon Elastic Compute Cloud EC2 (Tech skill type: Data base user interface and query software)
+- Amazon Redshift (Tech skill type: Data base user interface and query software)
+- Amazon Web Services AWS software (Tech skill type: Data base user interface and query software)
+- Apache Cassandra (Tech skill type: Data base management system software)
+- Apache Hadoop (Tech skill type: Data base management system software)
+- Apache Hive (Tech skill type: Data base management system software)
+- Apache Maven (Tech skill type: Development environment software)
+- Apache Pig (Tech skill type: Data base management system software)
+- Applied Search Technology CADFind (Tech skill type: Document management software)
+- Artifice DesignWorkshop (Tech skill type: Computer aided design CAD software)
+- Autodesk 3ds Max Design (Tech skill type: Computer aided design CAD software)
+- Autodesk Architectural Studio (Tech skill type: Computer aided design CAD software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Autodesk AutoCAD Civil 3D (Tech skill type: Computer aided design CAD software)
+- Autodesk Revit (Tech skill type: Computer aided design CAD software)
+- AutoDesSys form Z (Tech skill type: Computer aided design CAD software)
+- AzTechSoft GPS2CAD (Tech skill type: Computer aided design CAD software)
+- BeamChek (Tech skill type: Analytical or scientific software)
+- Bentley MicroStation (Tech skill type: Computer aided design CAD software)
+- BQE Software ArchiOffice (Tech skill type: Office suite software)
+- Chef (Tech skill type: Configuration management software)
+- Computer aided design and drafting software CADD (Tech skill type: Computer aided design CAD software)
+- Computer aided manufacturing CAM software (Tech skill type: Computer aided manufacturing CAM software)
+- Craftsman CD Estimator (Tech skill type: Project management software)
+- Database software (Tech skill type: Data base user interface and query software)
+- Drcauto Smart Architect LT Pro (Tech skill type: Computer aided design CAD software)
+- ESRI ArcGIS software (Tech skill type: Geographic information system)
+- FEMA EMMIE (Tech skill type: Data base user interface and query software)
+- FileNet P8 (Tech skill type: Document management software)
+- Graphisoft ArchiCAD (Tech skill type: Computer aided design CAD software)
+- Intuit QuickBooks (Tech skill type: Accounting software)
+- McNeel Rhinoceros 3D (Tech skill type: Graphics or photo imaging software)
+- Micro-Press MicroStation PowerDraft (Tech skill type: Graphics or photo imaging software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Internet Explorer (Tech skill type: Internet browser software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft PowerShell (Tech skill type: Development environment software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft SQL Server (Tech skill type: Data base user interface and query software)
+- Microsoft Word (Tech skill type: Word processing software)
+- MongoDB (Tech skill type: Data base management system software)
+- MyFamilySoftware Instant Architect (Tech skill type: Computer aided design CAD software)
+- NavisWorks Jetstream (Tech skill type: Computer aided design CAD software)
+- NoSQL (Tech skill type: Data base management system software)
+- Oracle JDBC (Tech skill type: Data base user interface and query software)
+- Oracle Primavera Enterprise Project Portfolio Management (Tech skill type: Project management software)
+- Oracle Primavera Systems (Tech skill type: Project management software)
+- PostgreSQL (Tech skill type: Object oriented data base management software)
+- Puppet (Tech skill type: Configuration management software)
+- Qlik Tech QlikView (Tech skill type: Business intelligence and data analysis software)
+- Quality Plans & Software HVAC Calculator (Tech skill type: Analytical or scientific software)
+- Quark enterprise publishing software (Tech skill type: Desktop publishing software)
+- Quest Erwin Data Modeler (Tech skill type: Metadata management software)
+- Roof Builder Tools (Tech skill type: Computer aided design CAD software)
+- Trimble SketchUp Pro (Tech skill type: Computer aided design CAD software)
+- Turtle Creek Software Goldenseal (Tech skill type: Project management software)
+- Turtle Creek Software Goldenseal (accounting feature) (Tech skill type: Accounting software)
+- Turtle Creek Software Goldenseal (calendar and scheduling feature) (Tech skill type: Calendar and scheduling software)
+- Turtle Creek Software Goldenseal (time accounting feature) (Tech skill type: Time accounting software)
+- VectorWorks ARCHITECT (Tech skill type: Computer aided design CAD software)
+- Verilog (Tech skill type: Development environment software)
+- Virtual reality modeling language VRML software (Tech skill type: Computer aided design CAD software)
+
+## TOOLS USED
+- Architectural templates (Tool type: Templates)
+- Arm drafting machines (Tool type: Drafting kits or sets)
+- Circular saws (Tool type: Power saws)
+- Compasses (Tool type: Compasses)
+- Computer laser printers (Tool type: Laser printers)
+- Computer-guided milling machines (Tool type: Milling machines)
+- Diazo copiers (Tool type: Photocopiers)
+- Digital cameras (Tool type: Digital cameras)
+- Disk grinding machines (Tool type: Grinding machines)
+- Dividers (Tool type: Compasses)
+- Engineering copiers (Tool type: Photocopiers)
+- Fretsaws (Tool type: Power saws)
+- Hand saws (Tool type: Saws)
+- Mat knives (Tool type: Mat knives)
+- Mitre boxes (Tool type: Mitre box)
+- Notebook computers (Tool type: Notebook computers)
+- Parallel bars (Tool type: Straight edges)
+- Personal computers (Tool type: Personal computers)
+- Plotters (Tool type: Plotter printers)
+- Precision knives (Tool type: Utility knives)
+- Soldering irons (Tool type: Soldering iron)
+- Tablet computers (Tool type: Tablet computers)
+- Thermal saws (Tool type: Saws)
+- Track drafting machines (Tool type: Drafting kits or sets)
+- Triangles (Tool type: Triangles)

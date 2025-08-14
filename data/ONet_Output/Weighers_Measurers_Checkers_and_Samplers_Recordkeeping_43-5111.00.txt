@@ -1,0 +1,127 @@
+Job Title: Weighers, Measurers, Checkers, and Samplers, Recordkeeping
+O*NET-SOC Code: 43-5111.00
+
+# DESCRIPTION
+Weigh, measure, and check materials, supplies, and equipment for the purpose of keeping relevant records. Duties are primarily clerical by nature. Includes workers who collect and keep record of samples of products or materials.
+
+# TASKS
+- Document quantity, quality, type, weight, test result data, and value of materials or products to maintain shipping, receiving, and production records and files.
+- Weigh or measure materials, equipment, or products to maintain relevant records, using volume meters, scales, rules, or calipers.
+- Collect or prepare measurement, weight, or identification labels and attach them to products.
+- Examine products or materials, parts, subassemblies, and packaging for damage, defects, or shortages, using specification sheets, gauges, and standards charts.
+- Signal or instruct other workers to weigh, move, or check products.
+- Collect product samples and prepare them for laboratory analysis or testing.
+- Maintain, monitor, and clean work areas, such as recycling collection sites, drop boxes, counters and windows, and areas around scale houses.
+- Compare product labels, tags, or tickets, shipping manifests, purchase orders, and bills of lading to verify accuracy of shipment contents, quality specifications, or weights.
+- Remove from stock products or loads not meeting quality standards, and notify supervisors or appropriate departments of discrepancies or shortages.
+- Inspect products and examination records to determine the number of defects per worker and the reasons for examiners' rejections.
+- Store samples of finished products in labeled cartons and record their location.
+- Count or estimate quantities of materials, parts, or products received or shipped.
+- Communicate with customers and vendors to exchange information regarding products, materials, and services.
+- Fill orders for products and samples, following order tickets, and forward or mail items.
+- Operate scalehouse computers to obtain weight information about incoming shipments such as those from waste haulers.
+- Sort products or materials into predetermined sequences or groupings for display, packing, shipping, or storage.
+- Transport materials, products, or samples to processing, shipping, or storage areas, manually or using conveyors, pumps, or hand trucks.
+- Unload or unpack incoming shipments.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Critical Thinking (Importance: 3.38/5 | Level: 3.0/7)
+- Reading Comprehension (Importance: 3.25/5 | Level: 3.0/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.12/7)
+- Speaking (Importance: 3.12/5 | Level: 3.0/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 2.88/7)
+- Service Orientation (Importance: 3.0/5 | Level: 3.0/7)
+- Quality Control Analysis (Importance: 3.0/5 | Level: 2.75/7)
+- Active Listening (Importance: 3.0/5 | Level: 3.0/7)
+- Writing (Importance: 2.88/5 | Level: 3.0/7)
+- Complex Problem Solving (Importance: 2.88/5 | Level: 2.75/7)
+- Time Management (Importance: 2.88/5 | Level: 2.88/7)
+- Judgment and Decision Making (Importance: 2.88/5 | Level: 2.88/7)
+- Persuasion (Importance: 2.88/5 | Level: 2.25/7)
+- Mathematics (Importance: 2.88/5 | Level: 2.75/7)
+- Active Learning (Importance: 2.75/5 | Level: 2.75/7)
+- Learning Strategies (Importance: 2.75/5 | Level: 2.5/7)
+- Operations Monitoring (Importance: 2.62/5 | Level: 2.25/7)
+- Negotiation (Importance: 2.5/5 | Level: 2.12/7)
+- Instructing (Importance: 2.5/5 | Level: 2.38/7)
+- Systems Analysis (Importance: 2.38/5 | Level: 2.12/7)
+- Management of Personnel Resources (Importance: 2.38/5 | Level: 2.75/7)
+- Systems Evaluation (Importance: 2.25/5 | Level: 2.12/7)
+- Operation and Control (Importance: 2.0/5 | Level: 1.75/7)
+- Programming (Importance: 1.75/5 | Level: 1.12/7)
+- Equipment Selection (Importance: 1.75/5 | Level: 1.25/7)
+- Equipment Maintenance (Importance: 1.75/5 | Level: 1.25/7)
+- Troubleshooting (Importance: 1.75/5 | Level: 1.38/7)
+- Repairing (Importance: 1.62/5 | Level: 1.25/7)
+- Management of Financial Resources (Importance: 1.62/5 | Level: 1.12/7)
+- Management of Material Resources (Importance: 1.62/5 | Level: 1.0/7)
+- Science (Importance: 1.5/5 | Level: 0.75/7)
+- Technology Design (Importance: 1.38/5 | Level: 0.5/7)
+- Operations Analysis (Importance: 1.25/5 | Level: 0.5/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Email software (Tech skill type: Electronic mail software)
+- Enterprise resource planning ERP software (Tech skill type: Enterprise resource planning ERP software)
+- IBM Notes (Tech skill type: Electronic mail software)
+- Infor ERP Baan (Tech skill type: Enterprise resource planning ERP software)
+- Infor XA (Tech skill type: Enterprise resource planning ERP software)
+- Inventory management systems (Tech skill type: Inventory management software)
+- Inventory software (Tech skill type: Inventory management software)
+- Materials resource planning MRP software (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Dynamics AX (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- NetSuite ERP (Tech skill type: Enterprise resource planning ERP software)
+- Oracle Database (Tech skill type: Data base user interface and query software)
+- Oracle JD Edwards EnterpriseOne (Tech skill type: Enterprise resource planning ERP software)
+- Root cause analysis software (Tech skill type: Analytical or scientific software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Warehouse management system WMS (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Automatic bulk weighing systems (Tool type: Automatic selective scale)
+- Axle load scales (Tool type: Axle load scales)
+- Beam scales (Tool type: Triple beam balances)
+- Belt conveyor scales (Tool type: Conveyor weighting scale)
+- Calculators (Tool type: Desktop calculator)
+- Cherry pickers (Tool type: Articulating boom lift)
+- Computer terminals (Tool type: Mainframe console or dumb terminals)
+- Computerized scales (Tool type: Bench scales)
+- Cordage measurers (Tool type: Distance meters)
+- Crane scales (Tool type: Crane scale)
+- Electric overhead traveling crane EOT (Tool type: Overhead crane)
+- Facial shields (Tool type: Facial shields)
+- Grain analyzers (Tool type: Grain analyzers)
+- Grain moisture meters (Tool type: Moisture meters)
+- High lifts (Tool type: Manlift or personnel lift)
+- Hoists (Tool type: Hoists)
+- Hopper scales (Tool type: Hopper scale)
+- Industrial trucks (Tool type: Hand trucks or accessories)
+- Label printers (Tool type: Bar code printer)
+- Livestock scales (Tool type: Animal weighing scales)
+- Mass flow meters (Tool type: Flowmeters)
+- Milk meters (Tool type: Water meters)
+- Monorail scales (Tool type: Truck or rail scales)
+- Order selectors (Tool type: Manlift or personnel lift)
+- Pallet jacks (Tool type: Pallet trucks)
+- Personal computers (Tool type: Personal computers)
+- Protective coveralls (Tool type: Protective coveralls)
+- Radio frequency RF scanners (Tool type: Radio frequency identification devices)
+- Railway track scales (Tool type: Truck or rail scales)
+- Safety glasses (Tool type: Safety glasses)
+- Safety shoes (Tool type: Safety shoes)
+- Scissor lifts (Tool type: Scissor lift or lift table)
+- Tablet computers (Tool type: Tablet computers)
+- Two-way radios (Tool type: Two way radios)
+- Vehicle tank meters (Tool type: Water meters)
+- Warehouse forklifts (Tool type: Forklifts)
+- Water meters (Tool type: Water meters)
+- Wire cutters (Tool type: Wire cutters)

@@ -1,0 +1,123 @@
+Job Title: First-Line Supervisors of Food Preparation and Serving Workers
+O*NET-SOC Code: 35-1012.00
+
+# DESCRIPTION
+Directly supervise and coordinate activities of workers engaged in preparing and serving food.
+
+# TASKS
+- Perform various financial activities, such as cash handling, deposit preparation, and payroll.
+- Resolve customer complaints regarding food service.
+- Compile and balance cash receipts at the end of the day or shift.
+- Present bills and accept payments.
+- Inspect supplies, equipment, and work areas to ensure efficient service and conformance to standards.
+- Perform food preparation and serving duties, such as carving meat, preparing flambe dishes, or serving wine and liquor.
+- Train workers in food preparation, and in service, sanitation, and safety procedures.
+- Supervise and participate in kitchen and dining area cleaning activities.
+- Perform personnel actions, such as hiring and firing staff, providing employee orientation and training, and conducting supervisory activities, such as creating work schedules or organizing employee time sheets.
+- Control inventories of food, equipment, smallware, and liquor, and report shortages to designated personnel.
+- Assign duties, responsibilities, and work stations to employees in accordance with work requirements.
+- Specify food portions and courses, production and time sequences, and workstation and equipment arrangements.
+- Record production, operational, and personnel data on specified forms.
+- Observe and evaluate workers and work procedures to ensure quality standards and service, and complete disciplinary write-ups.
+- Estimate ingredients and supplies required to prepare a recipe.
+- Analyze operational problems, such as theft and wastage, and establish procedures to alleviate these problems.
+- Forecast staff, equipment, and supply requirements, based on a master menu.
+- Recommend measures for improving work procedures and worker performance to increase service quality and enhance job safety.
+- Develop equipment maintenance schedules and arrange for repairs.
+- Greet and seat guests, and present menus and wine lists.
+- Purchase or requisition supplies and equipment needed to ensure quality and timely delivery of services.
+- Develop departmental objectives, budgets, policies, procedures, and strategies.
+- Conduct meetings and collaborate with other personnel for menu planning, serving arrangements, and related details.
+- Evaluate new products for usefulness and suitability.
+- Schedule parties and take reservations.
+- Assess nutritional needs of patients, plan special menus, supervise the assembly of regular and special diet trays, and oversee the delivery of food trolleys to hospital patients.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Speaking (Importance: 3.88/5 | Level: 3.75/7)
+- Coordination (Importance: 3.88/5 | Level: 3.75/7)
+- Monitoring (Importance: 3.88/5 | Level: 3.75/7)
+- Service Orientation (Importance: 3.75/5 | Level: 3.62/7)
+- Active Listening (Importance: 3.75/5 | Level: 3.12/7)
+- Instructing (Importance: 3.62/5 | Level: 3.0/7)
+- Management of Personnel Resources (Importance: 3.62/5 | Level: 3.62/7)
+- Reading Comprehension (Importance: 3.38/5 | Level: 3.5/7)
+- Social Perceptiveness (Importance: 3.38/5 | Level: 3.62/7)
+- Persuasion (Importance: 3.25/5 | Level: 3.25/7)
+- Critical Thinking (Importance: 3.25/5 | Level: 4.0/7)
+- Management of Financial Resources (Importance: 3.12/5 | Level: 2.88/7)
+- Learning Strategies (Importance: 3.12/5 | Level: 3.12/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 3.0/7)
+- Systems Evaluation (Importance: 3.12/5 | Level: 3.25/7)
+- Time Management (Importance: 3.12/5 | Level: 3.62/7)
+- Complex Problem Solving (Importance: 3.12/5 | Level: 3.0/7)
+- Mathematics (Importance: 3.0/5 | Level: 3.0/7)
+- Negotiation (Importance: 3.0/5 | Level: 3.0/7)
+- Systems Analysis (Importance: 3.0/5 | Level: 3.0/7)
+- Active Learning (Importance: 3.0/5 | Level: 3.25/7)
+- Quality Control Analysis (Importance: 2.88/5 | Level: 2.62/7)
+- Writing (Importance: 2.88/5 | Level: 3.12/7)
+- Management of Material Resources (Importance: 2.88/5 | Level: 2.75/7)
+- Operations Monitoring (Importance: 2.12/5 | Level: 2.0/7)
+- Troubleshooting (Importance: 2.0/5 | Level: 1.38/7)
+- Operation and Control (Importance: 2.0/5 | Level: 1.88/7)
+- Operations Analysis (Importance: 1.88/5 | Level: 1.62/7)
+- Technology Design (Importance: 1.62/5 | Level: 0.62/7)
+- Programming (Importance: 1.38/5 | Level: 0.38/7)
+- Equipment Selection (Importance: 1.12/5 | Level: 0.12/7)
+- Equipment Maintenance (Importance: 1.12/5 | Level: 0.12/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- ADP Workforce Now (Tech skill type: Human resources software)
+- CaterPro (Tech skill type: Data base user interface and query software)
+- CBORD Foodservice Suite (Tech skill type: Data base user interface and query software)
+- CBORD Group Menu Management System (Tech skill type: Inventory management software)
+- Compeat Restaurant Accounting Systems (Tech skill type: Accounting software)
+- Compris Advanced Manager's Workstation (Tech skill type: Point of sale POS software)
+- Compris software (Tech skill type: Point of sale POS software)
+- CostGuard (Tech skill type: Accounting software)
+- Delphi Technology (Tech skill type: Financial analysis software)
+- Evernote (Tech skill type: Word processing software)
+- IBM Domino (Tech skill type: Communications server software)
+- Intuit QuickBooks Point of Sale (Tech skill type: Point of sale POS software)
+- Inventory management software (Tech skill type: Inventory management software)
+- MICROS Systems HSI Profits Series (Tech skill type: Point of sale POS software)
+- Microsoft Dynamics (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft Publisher (Tech skill type: Desktop publishing software)
+- Microsoft Word (Tech skill type: Word processing software)
+- NCR Advanced Checkout Solution (Tech skill type: Point of sale POS software)
+- NCR NeighborhoodPOS (Tech skill type: Point of sale POS software)
+- Ordering and purchasing software (Tech skill type: Procurement software)
+- ParTech PixelPoint POS (Tech skill type: Point of sale POS software)
+- Point of sale POS software (Tech skill type: Point of sale POS software)
+- Quizlet (Tech skill type: Computer based training software)
+- Regnow Chrysanth Inventory Manager (Tech skill type: Inventory management software)
+- Restaurant Operations & Management Spreadsheet Library (Tech skill type: Spreadsheet software)
+- Sage 50 Accounting (Tech skill type: Accounting software)
+- SoftCafe ScheduleWriter (Tech skill type: Human resources software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- Staff scheduling software (Tech skill type: Calendar and scheduling software)
+- The General Store (Tech skill type: Point of sale POS software)
+
+## TOOLS USED
+- Barcode scanners (Tool type: Bar code reader equipment)
+- Card readers (Tool type: Point of sale payment terminal)
+- Cash registers (Tool type: Cash registers)
+- Credit card processing machines (Tool type: Magnetic stripe readers and encoders)
+- Desktop computers (Tool type: Desktop computers)
+- Linear imaging scanners (Tool type: Bar code reader equipment)
+- Long range charged coupled device CCD barcode scanners (Tool type: Bar code reader equipment)
+- Notebook computers (Tool type: Notebook computers)
+- Point of sale POS printers (Tool type: Point of sale POS receipt printers)
+- Point of sale POS terminals (Tool type: Point of sale POS terminal)
+- Point of service scanners (Tool type: Bar code reader equipment)
+- Point of service workstations (Tool type: Point of sale POS terminal)
+- Restaurant guest and server paging systems (Tool type: Paging controllers)

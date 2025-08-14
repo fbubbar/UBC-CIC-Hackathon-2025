@@ -1,0 +1,166 @@
+Job Title: Atmospheric and Space Scientists
+O*NET-SOC Code: 19-2021.00
+
+# DESCRIPTION
+Investigate atmospheric phenomena and interpret meteorological data, gathered by surface and air stations, satellites, and radar to prepare reports and forecasts for public and other uses. Includes weather analysts and forecasters whose functions require the detailed knowledge of meteorology.
+
+# TASKS
+- Develop or use mathematical or computer models for weather forecasting.
+- Interpret data, reports, maps, photographs, or charts to predict long- or short-range weather conditions, using computer models and knowledge of climate theory, physics, and mathematics.
+- Conduct meteorological research into the processes or determinants of atmospheric phenomena, weather, or climate.
+- Formulate predictions by interpreting environmental data, such as meteorological, atmospheric, oceanic, paleoclimate, climate, or related information.
+- Broadcast weather conditions, forecasts, or severe weather warnings to the public via television, radio, or the Internet or provide this information to the news media.
+- Prepare forecasts or briefings to meet the needs of industry, business, government, or other groups.
+- Gather data from sources such as surface or upper air stations, satellites, weather bureaus, or radar for use in meteorological reports or forecasts.
+- Develop computer programs to collect meteorological data or to present meteorological information.
+- Prepare weather reports or maps for analysis, distribution, or use in weather broadcasts, using computer graphics.
+- Develop and deliver training on weather topics.
+- Prepare scientific atmospheric or climate reports, articles, or texts.
+- Analyze climate data sets, using techniques such as geophysical fluid dynamics, data assimilation, or numerical modeling.
+- Analyze historical climate information, such as precipitation or temperature records, to help predict future weather or climate trends.
+- Consult with other offices, agencies, professionals, or researchers regarding the use and interpretation of climatological information for weather predictions and warnings.
+- Speak to the public to discuss weather topics or answer questions.
+- Apply meteorological knowledge to issues such as global warming, pollution control, or ozone depletion.
+- Perform managerial duties, such as creating work schedules, creating or implementing staff training, matching staff expertise to situations, or analyzing performance of offices.
+- Measure wind, temperature, and humidity in the upper atmosphere, using weather balloons.
+- Direct forecasting services at weather stations or at radio or television broadcasting facilities.
+- Collect air samples from planes or ships over land or sea to study atmospheric composition.
+- Teach college-level courses on topics such as atmospheric and space science, meteorology, or global climate change.
+- Design or develop new equipment or methods for meteorological data collection, remote sensing, or related applications.
+- Research the impact of industrial projects or pollution on climate, air quality, or weather phenomena.
+- Conduct wind assessment, integration, or validation studies.
+- Conduct numerical simulations of climate conditions to understand and predict global or regional weather patterns.
+- Estimate or predict the effects of global warming over time for specific geographic regions.
+- Create visualizations to illustrate historical or future changes in the Earth's climate, using paleoclimate or climate geographic information systems (GIS) databases.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Reading Comprehension (Importance: 4.12/5 | Level: 4.88/7)
+- Active Learning (Importance: 4.0/5 | Level: 4.12/7)
+- Active Listening (Importance: 4.0/5 | Level: 4.25/7)
+- Speaking (Importance: 4.0/5 | Level: 4.38/7)
+- Science (Importance: 4.0/5 | Level: 4.88/7)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.12/7)
+- Writing (Importance: 3.88/5 | Level: 4.0/7)
+- Complex Problem Solving (Importance: 3.88/5 | Level: 4.0/7)
+- Judgment and Decision Making (Importance: 3.75/5 | Level: 3.88/7)
+- Mathematics (Importance: 3.38/5 | Level: 4.0/7)
+- Learning Strategies (Importance: 3.12/5 | Level: 3.38/7)
+- Social Perceptiveness (Importance: 3.12/5 | Level: 3.25/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.5/7)
+- Systems Analysis (Importance: 3.12/5 | Level: 3.62/7)
+- Instructing (Importance: 3.0/5 | Level: 3.5/7)
+- Coordination (Importance: 3.0/5 | Level: 3.12/7)
+- Time Management (Importance: 3.0/5 | Level: 3.0/7)
+- Service Orientation (Importance: 2.88/5 | Level: 2.88/7)
+- Management of Personnel Resources (Importance: 2.88/5 | Level: 2.88/7)
+- Systems Evaluation (Importance: 2.88/5 | Level: 3.0/7)
+- Persuasion (Importance: 2.88/5 | Level: 2.88/7)
+- Operations Analysis (Importance: 2.62/5 | Level: 2.75/7)
+- Negotiation (Importance: 2.5/5 | Level: 2.75/7)
+- Operations Monitoring (Importance: 2.0/5 | Level: 1.88/7)
+- Programming (Importance: 2.0/5 | Level: 1.75/7)
+- Technology Design (Importance: 1.75/5 | Level: 1.38/7)
+- Management of Material Resources (Importance: 1.75/5 | Level: 1.25/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 1.25/7)
+- Quality Control Analysis (Importance: 1.62/5 | Level: 0.75/7)
+- Operation and Control (Importance: 1.12/5 | Level: 0.12/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- AccuWeather Galileo (Tech skill type: Graphics or photo imaging software)
+- Adobe Photoshop (Tech skill type: Graphics or photo imaging software)
+- Advanced Visual Systems AVS/Express (Tech skill type: Graphics or photo imaging software)
+- Air quality modeling software (Tech skill type: Analytical or scientific software)
+- Aninoquisi MesoTRAC (Tech skill type: Analytical or scientific software)
+- Apple Final Cut Pro (Tech skill type: Video creation and editing software)
+- Baron Services FasTrac (Tech skill type: Analytical or scientific software)
+- Baron Volumetric Imaging and Processing of Integrated Radar VIPIR (Tech skill type: Analytical or scientific software)
+- C++ (Tech skill type: Object or component oriented development software)
+- Cave5D (Tech skill type: Analytical or scientific software)
+- Cisco IOS (Tech skill type: Operating system software)
+- Environmental Research Services RAOB (Tech skill type: Analytical or scientific software)
+- ESRI ArcInfo (Tech skill type: Geographic information system)
+- ESRI ArcView (Tech skill type: Geographic information system)
+- Facebook (Tech skill type: Web page creation and editing software)
+- Ferret (Tech skill type: Analytical or scientific software)
+- Flow Analysis Software Toolkit FAST (Tech skill type: Analytical or scientific software)
+- Formula translation/translator FORTRAN (Tech skill type: Development environment software)
+- Grid analysis and display system GrADS (Tech skill type: Analytical or scientific software)
+- IBM SPSS Statistics (Tech skill type: Analytical or scientific software)
+- Image editing software (Tech skill type: Graphics or photo imaging software)
+- Interactive radar analysis software IRAS (Tech skill type: Analytical or scientific software)
+- ITT Visual Information Solutions ENVI (Tech skill type: Map creation software)
+- Lakes Environmental Software WRPLOT View (Tech skill type: Analytical or scientific software)
+- Linux (Tech skill type: Operating system software)
+- Maplesoft Maple (Tech skill type: Analytical or scientific software)
+- Mesoscale modeling software (Tech skill type: Analytical or scientific software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Paint (Tech skill type: Graphics or photo imaging software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- PC Weather Products HURRTRAK (Tech skill type: Analytical or scientific software)
+- Perl (Tech skill type: Object or component oriented development software)
+- Python (Tech skill type: Object or component oriented development software)
+- QuarkXPress (Tech skill type: Desktop publishing software)
+- R (Tech skill type: Object or component oriented development software)
+- SAS (Tech skill type: Analytical or scientific software)
+- SatView (Tech skill type: Analytical or scientific software)
+- Social media sites (Tech skill type: Web page creation and editing software)
+- Software development tools (Tech skill type: Development environment software)
+- STATISTICA (Tech skill type: Analytical or scientific software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- SVRPLOT (Tech skill type: Analytical or scientific software)
+- Systat Software SigmaPlot (Tech skill type: Analytical or scientific software)
+- Systat Software SigmaStat (Tech skill type: Analytical or scientific software)
+- The MathWorks MATLAB (Tech skill type: Analytical or scientific software)
+- Unidata GEMPAK (Tech skill type: Analytical or scientific software)
+- Unidata Gempak Analysis and Rendering Program GARP (Tech skill type: Analytical or scientific software)
+- Unidata Integrated Data Viewer IDV (Tech skill type: Analytical or scientific software)
+- Unidata McIDAS-X (Tech skill type: Analytical or scientific software)
+- UNIX (Tech skill type: Operating system software)
+- Vis5d+ (Tech skill type: Analytical or scientific software)
+- VorTek Site Assessment of Tornado Threat SATT (Tech skill type: Analytical or scientific software)
+- Wind flow modeling software (Tech skill type: Analytical or scientific software)
+- WINGRIDDS (Tech skill type: Analytical or scientific software)
+- Wolfram Research Mathematica (Tech skill type: Analytical or scientific software)
+- Word processing software (Tech skill type: Word processing software)
+- WSI Titan (Tech skill type: Analytical or scientific software)
+- WSI TrueView Professional (Tech skill type: Analytical or scientific software)
+
+## TOOLS USED
+- Air quality samplers (Tool type: Air samplers or collectors)
+- Air temperature thermometers (Tool type: Temperature or humidity surface observing apparatus)
+- Analog anemometers (Tool type: Anemometers)
+- Desktop computers (Tool type: Desktop computers)
+- Digital anemometers (Tool type: Anemometers)
+- Doppler radar equipment (Tool type: Radarbased surveillance systems)
+- Graphic tablets (Tool type: Tablet computers)
+- Hygrometers (Tool type: Hygrometers)
+- Laptop computers (Tool type: Notebook computers)
+- Light meters (Tool type: Lux or light meter)
+- Mercury barometers (Tool type: Barometers)
+- Next Generation Weather Radar NEXRAD (Tool type: Radarbased surveillance systems)
+- Personal computers (Tool type: Personal computers)
+- Psychrometers (Tool type: Psychrometers)
+- Radiosonde launchers (Tool type: Radiosonde apparatus)
+- Rain gauges (Tool type: Rainfall recorders)
+- Relative humidity gauges (Tool type: Temperature or humidity surface observing apparatus)
+- Soil temperature probes (Tool type: Temperature transmitters)
+- Solarimeters (Tool type: Solar radiation surface observing apparatus)
+- Storm chase vehicles (Tool type: Light trucks or sport utility vehicles)
+- Surface temperature probes (Tool type: Surface thermometers)
+- Temperature and humidity data loggers (Tool type: Temperature or humidity surface observing apparatus)
+- Tipping bucket rain gauges (Tool type: Rainfall recorders)
+- Two way radios (Tool type: Two way radios)
+- Weather balloons (Tool type: Meteorology instrument accessories)
+- Weather observation stations (Tool type: Weather stations)
+- Whirling hygrometers (Tool type: Hygrometers)

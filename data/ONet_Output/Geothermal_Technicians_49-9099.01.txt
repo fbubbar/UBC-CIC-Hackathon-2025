@@ -1,0 +1,121 @@
+Job Title: Geothermal Technicians
+O*NET-SOC Code: 49-9099.01
+
+# DESCRIPTION
+Perform technical activities at power plants or individual installations necessary for the generation of power from geothermal energy sources. Monitor and control operating activities at geothermal power generation facilities and perform maintenance and repairs as necessary. Install, test, and maintain residential and commercial geothermal heat pumps.
+
+# TASKS
+- Monitor and adjust operations of geothermal power plant equipment or systems.
+- Prepare and maintain logs, reports, or other documentation of work performed.
+- Identify and correct malfunctions of geothermal plant equipment, electrical systems, instrumentation, or controls.
+- Collect and record data associated with operating geothermal power plants or well fields.
+- Determine whether emergency or auxiliary systems will be needed to keep properties heated or cooled in extreme weather conditions.
+- Perform pre- and post-installation pressure, flow, and related tests of vertical and horizontal geothermal loop piping.
+- Identify equipment options, such as compressors, and make appropriate selections.
+- Adjust power production systems to meet load and distribution demands.
+- Maintain electrical switchgear, process controls, transmitters, gauges, and control equipment in accordance with geothermal plant procedures.
+- Calculate heat loss and heat gain factors for residential properties to determine heating and cooling required by installed geothermal systems.
+- Maintain, calibrate, or repair plant instrumentation, control, and electronic devices in geothermal plants.
+- Install and maintain geothermal plant electrical protection equipment.
+- Design and lay out geothermal heat systems according to property characteristics, heating and cooling requirements, piping and equipment requirements, applicable regulations, or other factors.
+- Install and maintain geothermal system instrumentation or controls.
+- Prepare newly installed geothermal heat systems for operation by flushing, purging, or other actions.
+- Weld piping, such as high density polyethylene (HDPE) piping, using techniques such as butt, socket, side-wall, and electro-fusion welding.
+- Test water sources for factors, such as flow volume and contaminant presence.
+- Install, maintain, or repair ground or water source-coupled heat pumps to heat and cool residential or commercial building air or water.
+- Integrate hot water heater systems with geothermal heat exchange systems.
+- Determine the type of geothermal loop system most suitable to a specific property and its heating and cooling needs.
+- Dig trenches for system piping to appropriate depths and lay piping in trenches.
+- Apply coatings or operate systems to mitigate corrosion of geothermal plant equipment or structures.
+- Backfill piping trenches to protect pipes from damage.
+- Operate equipment, such as excavators, backhoes, rock hammers, trench compactors, pavement saws, grout mixers or pumps, geothermal loop reels, and coil tubing units (CTU).
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operations Monitoring (Importance: 3.88/5 | Level: 4.0/7)
+- Monitoring (Importance: 3.75/5 | Level: 3.62/7)
+- Troubleshooting (Importance: 3.62/5 | Level: 3.75/7)
+- Operation and Control (Importance: 3.38/5 | Level: 3.75/7)
+- Critical Thinking (Importance: 3.25/5 | Level: 3.12/7)
+- Reading Comprehension (Importance: 3.25/5 | Level: 3.12/7)
+- Quality Control Analysis (Importance: 3.25/5 | Level: 3.25/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 3.0/7)
+- Repairing (Importance: 3.12/5 | Level: 3.62/7)
+- Active Learning (Importance: 3.12/5 | Level: 3.0/7)
+- Equipment Maintenance (Importance: 3.12/5 | Level: 3.25/7)
+- Complex Problem Solving (Importance: 3.12/5 | Level: 2.88/7)
+- Writing (Importance: 3.0/5 | Level: 3.0/7)
+- Systems Analysis (Importance: 3.0/5 | Level: 3.0/7)
+- Speaking (Importance: 3.0/5 | Level: 3.0/7)
+- Active Listening (Importance: 3.0/5 | Level: 3.0/7)
+- Installation (Importance: 3.0/5 | Level: 3.12/7)
+- Coordination (Importance: 3.0/5 | Level: 3.12/7)
+- Time Management (Importance: 2.88/5 | Level: 3.0/7)
+- Systems Evaluation (Importance: 2.88/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.25/7)
+- Service Orientation (Importance: 2.88/5 | Level: 2.38/7)
+- Equipment Selection (Importance: 2.88/5 | Level: 2.88/7)
+- Mathematics (Importance: 2.75/5 | Level: 3.12/7)
+- Instructing (Importance: 2.62/5 | Level: 2.62/7)
+- Management of Personnel Resources (Importance: 2.62/5 | Level: 2.25/7)
+- Negotiation (Importance: 2.38/5 | Level: 2.12/7)
+- Persuasion (Importance: 2.25/5 | Level: 2.25/7)
+- Science (Importance: 2.12/5 | Level: 2.0/7)
+- Learning Strategies (Importance: 2.12/5 | Level: 2.25/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.38/7)
+- Operations Analysis (Importance: 2.0/5 | Level: 1.62/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.75/7)
+- Programming (Importance: 1.88/5 | Level: 1.12/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.5/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- ClimateMaster GeoDesigner (Tech skill type: Analytical or scientific software)
+- Distributed control system DCS (Tech skill type: Industrial control software)
+- Email software (Tech skill type: Electronic mail software)
+- Geographic information system GIS systems (Tech skill type: Geographic information system)
+- Geothermal Properties Measurement Tool (Tech skill type: Analytical or scientific software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Word (Tech skill type: Word processing software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Thermal Dynamics Ground Loop Design GLD (Tech skill type: Analytical or scientific software)
+- WaterFurnace International Ground Loop Design PREMIER (Tech skill type: Analytical or scientific software)
+
+## TOOLS USED
+- Adjustable hand wrenches (Tool type: Adjustable wrenches)
+- Adjustable pipe wrenches (Tool type: Pipe wrenches)
+- Air monitoring equipment (Tool type: Air samplers or collectors)
+- Air wrenches (Tool type: Pneumatic impact wrenches)
+- Alignment clamps (Tool type: Pipe vises)
+- Butt fusion machines (Tool type: Flash butt welding machine)
+- Channel lock pliers (Tool type: Locking pliers)
+- Claw hammers (Tool type: Claw hammer)
+- Coil tubing units (Tool type: Coiled tubing units)
+- Deburring tools (Tool type: Deburring tool)
+- Depth meters (Tool type: Logging instruments for water wells)
+- Desktop computers (Tool type: Desktop computers)
+- Grout mixers (Tool type: Plaster or mortar mixers)
+- Grout pumps (Tool type: Grouting pump)
+- Laptop computers (Tool type: Notebook computers)
+- Pavement saws (Tool type: Power saws)
+- Personal computers (Tool type: Personal computers)
+- Phillips head screwdrivers (Tool type: Screwdrivers)
+- Pipe cutters (Tool type: Pipe or tube cutter)
+- Pipe squeeze off tools (Tool type: Pipe bending tools)
+- Portable welding equipment (Tool type: Spot welding machine)
+- Programmable logic controllers PLC (Tool type: Microcontrollers)
+- Protective respirators (Tool type: Respirators)
+- Pyrometers (Tool type: Pyrometers)
+- Ratchet sets (Tool type: Ratchets)
+- Safety glasses (Tool type: Safety glasses)
+- Safety gloves (Tool type: Protective gloves)
+- Socket wrench sets (Tool type: Socket sets)
+- Straight screwdrivers (Tool type: Screwdrivers)
+- Tracked excavators (Tool type: Track excavators)
+- Trench compacters (Tool type: Compactors)
+- Valve wrenches (Tool type: Specialty wrenches)
+- Well drilling rigs (Tool type: Land drilling rigs)
+- Wire cutters (Tool type: Wire cutters)
+- Wire strippers (Tool type: Stripping tools)

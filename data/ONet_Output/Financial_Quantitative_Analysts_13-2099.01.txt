@@ -1,0 +1,113 @@
+Job Title: Financial Quantitative Analysts
+O*NET-SOC Code: 13-2099.01
+
+# DESCRIPTION
+Develop quantitative techniques to inform securities investing, equities investing, pricing, or valuation of financial instruments. Develop mathematical or statistical models for risk management, asset optimization, pricing, or relative value analysis.
+
+# TASKS
+- Apply mathematical or statistical techniques to address practical issues in finance, such as derivative valuation, securities trading, risk management, or financial market regulation.
+- Research or develop analytical tools to address issues such as portfolio construction or optimization, performance measurement, attribution, profit and loss measurement, or pricing models.
+- Interpret results of financial analysis procedures.
+- Develop core analytical capabilities or model libraries, using advanced statistical, quantitative, or econometric techniques.
+- Define or recommend model specifications or data collection methods.
+- Produce written summary reports of financial research results.
+- Maintain or modify all financial analytic models in use.
+- Provide application or analytical support to researchers or traders on issues such as valuations or data.
+- Devise or apply independent models or tools to help verify results of analytical systems.
+- Collaborate in the development or testing of new analytical software to ensure compliance with user requirements, specifications, or scope.
+- Confer with other financial engineers or analysts on trading strategies, market dynamics, or trading system performance to inform development of quantitative techniques.
+- Consult traders or other financial industry personnel to determine the need for new or improved analytical applications.
+- Research new financial products or analytics to determine their usefulness.
+- Identify, track, or maintain metrics for trading system operations.
+- Develop methods of assessing or measuring corporate performance in terms of environmental, social, and governance (ESG) issues.
+- Collaborate with product development teams to research, model, validate, or implement quantitative structured solutions for new or expanded markets.
+- Prepare requirements documentation for use by software developers.
+- Develop solutions to help clients hedge carbon exposure or risk.
+- Develop tools to assess green technologies or green financial products, such as green hedge funds or social responsibility investment funds.
+- Assess the potential impact of climate change on business financial issues, such as damage repairs, insurance costs, or potential disruptions of daily activities.
+- Analyze pricing or risks of carbon trading products.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mathematics (Importance: 4.38/5 | Level: 5.0/7)
+- Critical Thinking (Importance: 4.12/5 | Level: 4.75/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.75/7)
+- Complex Problem Solving (Importance: 3.88/5 | Level: 4.12/7)
+- Active Learning (Importance: 3.75/5 | Level: 3.88/7)
+- Judgment and Decision Making (Importance: 3.75/5 | Level: 4.25/7)
+- Speaking (Importance: 3.75/5 | Level: 4.0/7)
+- Active Listening (Importance: 3.75/5 | Level: 4.0/7)
+- Writing (Importance: 3.5/5 | Level: 4.0/7)
+- Systems Analysis (Importance: 3.25/5 | Level: 3.75/7)
+- Systems Evaluation (Importance: 3.25/5 | Level: 3.88/7)
+- Persuasion (Importance: 3.12/5 | Level: 3.38/7)
+- Instructing (Importance: 3.0/5 | Level: 3.25/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 3.0/7)
+- Monitoring (Importance: 3.0/5 | Level: 3.12/7)
+- Time Management (Importance: 3.0/5 | Level: 3.0/7)
+- Negotiation (Importance: 2.88/5 | Level: 2.88/7)
+- Management of Financial Resources (Importance: 2.88/5 | Level: 3.0/7)
+- Service Orientation (Importance: 2.88/5 | Level: 2.88/7)
+- Programming (Importance: 2.62/5 | Level: 2.62/7)
+- Management of Personnel Resources (Importance: 2.62/5 | Level: 2.62/7)
+- Operations Monitoring (Importance: 2.0/5 | Level: 1.25/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.88/7)
+- Operations Analysis (Importance: 2.0/5 | Level: 1.88/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.38/7)
+- Science (Importance: 1.88/5 | Level: 1.38/7)
+- Quality Control Analysis (Importance: 1.75/5 | Level: 1.38/7)
+- Troubleshooting (Importance: 1.12/5 | Level: 0.12/7)
+- Operation and Control (Importance: 1.12/5 | Level: 0.12/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Amazon Web Services AWS software (Tech skill type: Data base user interface and query software)
+- Apache Hive (Tech skill type: Data base management system software)
+- Bloomberg Professional (Tech skill type: Financial analysis software)
+- C# (Tech skill type: Object or component oriented development software)
+- C++ (Tech skill type: Object or component oriented development software)
+- IBM Cognos Business Intelligence (Tech skill type: Data mining software)
+- IBM SPSS Statistics (Tech skill type: Analytical or scientific software)
+- Insightful S-PLUS (Tech skill type: Analytical or scientific software)
+- JavaScript (Tech skill type: Web platform development software)
+- Linux (Tech skill type: Operating system software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Azure software (Tech skill type: Development environment software)
+- Microsoft Dynamics (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Power BI (Tech skill type: Business intelligence and data analysis software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft SQL Server (Tech skill type: Data base user interface and query software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Visual Basic (Tech skill type: Development environment software)
+- Microsoft Visual Basic for Applications VBA (Tech skill type: Development environment software)
+- Microsoft Visual Studio (Tech skill type: Development environment software)
+- MicroStrategy (Tech skill type: Business intelligence and data analysis software)
+- MicroStrategy Desktop (Tech skill type: Enterprise resource planning ERP software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- Oracle JD Edwards EnterpriseOne (Tech skill type: Enterprise resource planning ERP software)
+- Perl (Tech skill type: Object or component oriented development software)
+- Python (Tech skill type: Object or component oriented development software)
+- R (Tech skill type: Object or component oriented development software)
+- SAS (Tech skill type: Analytical or scientific software)
+- StataCorp Stata (Tech skill type: Analytical or scientific software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Tableau (Tech skill type: Business intelligence and data analysis software)
+- The MathWorks MATLAB (Tech skill type: Analytical or scientific software)
+- UNIX (Tech skill type: Operating system software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Computer data input scanners (Tool type: Scanners)
+- Desktop computers (Tool type: Desktop computers)
+- Laptop computers (Tool type: Notebook computers)
+- Mainframe computers (Tool type: Mainframe computers)
+- Multi-line telephone systems (Tool type: Special purpose telephones)
+- Personal computers (Tool type: Personal computers)
+- Photocopying equipment (Tool type: Photocopiers)

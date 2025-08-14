@@ -1,0 +1,140 @@
+Job Title: Wellhead Pumpers
+O*NET-SOC Code: 53-7073.00
+
+# DESCRIPTION
+Operate power pumps and auxiliary equipment to produce flow of oil or gas from wells in oil field.
+
+# TASKS
+- Monitor pumps and flow lines for gas and fluid leaks.
+- Gauge oil and gas production.
+- Start compressor engines and divert oil from storage tanks into compressor units and auxiliary equipment to recover natural gas from oil.
+- Monitor control panels during pumping operations to ensure that materials are being pumped at the correct pressure, density, rate, and concentration.
+- Operate engines and pumps to shut off wells according to production schedules, and to switch flow of oil into storage tanks.
+- Repair gas and oil meters and gauges.
+- Perform routine maintenance on vehicles and equipment.
+- Open valves to return compressed gas to bottoms of specified wells to repressurize them and force oil to surface.
+- Change water filters.
+- Prepare trucks and equipment necessary for the type of pumping service required.
+- Attach pumps and hoses to wellheads.
+- Mix acids, chemicals, or dry cement as required for a specific job.
+- Unload and assemble pipes and pumping equipment, using hand tools.
+- Supervise oil pumpers and other workers engaged in producing oil from wells.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operations Monitoring (Importance: 4.0/5 | Level: 3.88/7)
+- Operation and Control (Importance: 3.88/5 | Level: 3.88/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.25/7)
+- Troubleshooting (Importance: 3.12/5 | Level: 3.0/7)
+- Critical Thinking (Importance: 3.12/5 | Level: 3.0/7)
+- Equipment Maintenance (Importance: 3.12/5 | Level: 3.25/7)
+- Repairing (Importance: 3.12/5 | Level: 3.75/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 2.88/7)
+- Complex Problem Solving (Importance: 3.0/5 | Level: 2.88/7)
+- Speaking (Importance: 3.0/5 | Level: 3.0/7)
+- Active Listening (Importance: 2.88/5 | Level: 2.75/7)
+- Time Management (Importance: 2.75/5 | Level: 2.75/7)
+- Reading Comprehension (Importance: 2.75/5 | Level: 2.88/7)
+- Writing (Importance: 2.62/5 | Level: 2.12/7)
+- Social Perceptiveness (Importance: 2.5/5 | Level: 2.12/7)
+- Active Learning (Importance: 2.38/5 | Level: 2.12/7)
+- Quality Control Analysis (Importance: 2.38/5 | Level: 2.5/7)
+- Coordination (Importance: 2.25/5 | Level: 2.38/7)
+- Equipment Selection (Importance: 2.25/5 | Level: 2.12/7)
+- Mathematics (Importance: 2.25/5 | Level: 1.62/7)
+- Management of Personnel Resources (Importance: 2.12/5 | Level: 2.0/7)
+- Instructing (Importance: 2.12/5 | Level: 2.0/7)
+- Persuasion (Importance: 2.0/5 | Level: 1.25/7)
+- Systems Analysis (Importance: 2.0/5 | Level: 1.38/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 1.38/7)
+- Negotiation (Importance: 2.0/5 | Level: 1.0/7)
+- Learning Strategies (Importance: 1.88/5 | Level: 1.38/7)
+- Service Orientation (Importance: 1.88/5 | Level: 1.25/7)
+- Management of Material Resources (Importance: 1.75/5 | Level: 0.88/7)
+- Technology Design (Importance: 1.5/5 | Level: 0.5/7)
+- Management of Financial Resources (Importance: 1.38/5 | Level: 0.38/7)
+- Operations Analysis (Importance: 1.38/5 | Level: 0.38/7)
+- Programming (Importance: 1.25/5 | Level: 0.25/7)
+- Installation (Importance: 1.25/5 | Level: 0.25/7)
+- Science (Importance: 1.12/5 | Level: 0.12/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Moxa software (Tech skill type: Industrial control software)
+- Operational databases (Tech skill type: Data base user interface and query software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Supervisory control and data acquisition SCADA software (Tech skill type: Industrial control software)
+
+## TOOLS USED
+- Air compressors (Tool type: Air compressors)
+- All terrain vehicles ATV (Tool type: All terrain vehicles tracked or wheeled)
+- Beam gas compressors (Tool type: Gas compressors)
+- Chemical injection pumps (Tool type: Chemical pumps)
+- Circulating pumps (Tool type: Circulating pumps)
+- Combination wrenches (Tool type: Combination wrenches)
+- Crescent wrenches (Tool type: Adjustable wrenches)
+- Dead weight testers (Tool type: Pressure calibrator)
+- Diesel engines (Tool type: Diesel engines)
+- Digital calipers (Tool type: Calipers)
+- Digital depth gauges (Tool type: Depth gauges)
+- Digital multimeters (Tool type: Multimeters)
+- Downhole jet pumps (Tool type: Downhole jet pumps)
+- Echometers (Tool type: Level sensors or transmitters)
+- Electric downhole pumps (Tool type: Electric downhole pumps)
+- Electric submersible pumps (Tool type: Submersible pumps)
+- Electrical chemical pumps (Tool type: Chemical pumps)
+- Eye wash stations (Tool type: Eyewashers or eye wash stations)
+- First aid kits (Tool type: Mobile medical services first aid kits)
+- Four-cycle engines (Tool type: Gasoline engines)
+- Fuse pulling tools (Tool type: Fuse pullers)
+- Gas meters (Tool type: Gas gauges)
+- Gas powered compressors (Tool type: Gas compressors)
+- Gas powered generators (Tool type: Gas generators)
+- Gauging lines (Tool type: Depth gauges)
+- Grease dispensing guns (Tool type: Grease guns)
+- Hearing protection plugs (Tool type: Ear plugs)
+- Heat exchanging units (Tool type: Heat exchangers)
+- Heat treaters (Tool type: Oil well heater treaters)
+- Hydraulic lift systems (Tool type: Downhole jet pumps)
+- Insert pumps (Tool type: Electric downhole pumps)
+- Insulated gloves (Tool type: Protective gloves)
+- Jet guns (Tool type: Through tubing perforation guns)
+- Laptop computers (Tool type: Notebook computers)
+- Lease automatic lease custody LACT units (Tool type: Volumeters)
+- Measuring tapes (Tool type: Tape measures)
+- Mechanical chemical pumps (Tool type: Chemical pumps)
+- Mechanical lifting pumps (Tool type: Mechanical rod pumps)
+- Mobile radios (Tool type: Two way radios)
+- Mud pumps (Tool type: Mud pumps)
+- Multipurpose fire extinguishers (Tool type: Fire extinguishers)
+- Multipurpose screwdrivers (Tool type: Screwdrivers)
+- Natural gas lifts (Tool type: Well pumps)
+- Oil level gauges (Tool type: Oil gauges)
+- Oil retention tanks (Tool type: Oil storage tanks)
+- Oil sampling tools (Tool type: Oil samplers)
+- Oil separation tools (Tool type: Oil water separators)
+- Parallel pumps (Tool type: Well pumps)
+- Personal computers (Tool type: Personal computers)
+- Pickup trucks (Tool type: Light trucks or sport utility vehicles)
+- Plunger lifts (Tool type: Plunger lift equipment)
+- Pneumatic chemical pumps (Tool type: Chemical pumps)
+- Pressure gauges (Tool type: Pressure indicators)
+- Protective respirators (Tool type: Respirators)
+- Pump jacks (Tool type: Scaffolding)
+- Pumping wellheads (Tool type: Well pumps)
+- Quartz pressure gauges (Tool type: Pressure indicators)
+- Safety goggles (Tool type: Goggles)
+- Shop hammers (Tool type: Hammers)
+- Slop tanks (Tool type: Storage tanks)
+- Spark plug wrenches (Tool type: Spark plug wrench)
+- Stuffing boxes (Tool type: Stuffing box)
+- Temperature recording instruments (Tool type: Remote reading thermometers)
+- Test separators (Tool type: Well testing separators)
+- Tubing pumps (Tool type: Electric downhole pumps)
+- Two-cycle engines (Tool type: Gasoline engines)
+- Wash tanks (Tool type: Oil water separators)
+- Water disposal tanks (Tool type: Water storage tanks)
+- Water heating tanks (Tool type: Hot water tank)

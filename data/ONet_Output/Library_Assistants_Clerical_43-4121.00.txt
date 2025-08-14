@@ -1,0 +1,130 @@
+Job Title: Library Assistants, Clerical
+O*NET-SOC Code: 43-4121.00
+
+# DESCRIPTION
+Compile records, and sort, shelve, issue, and receive library materials such as books, electronic media, pictures, cards, slides and microfilm. Locate library materials for loan and replace material in shelving area, stacks, or files according to identification number and title. Register patrons to permit them to borrow books, periodicals, and other library materials.
+
+# TASKS
+- Sort books, publications, and other items according to established procedure and return them to shelves, files, or other designated storage areas.
+- Open and close library during specified hours and secure library equipment, such as computers and audio-visual equipment.
+- Locate library materials for patrons, including books, periodicals, tape cassettes, Braille volumes, and pictures.
+- Enter and update patrons' records on computers.
+- Answer routine inquiries and refer patrons in need of professional assistance to librarians.
+- Manage reserve materials by placing items on reserve for library patrons, checking items in and out of library, and removing out-of-date items.
+- Lend, reserve, and collect books, periodicals, videotapes, and other materials at circulation desks and process materials for inter-library loans.
+- Instruct patrons on how to use reference sources, card catalogs, and automated information systems.
+- Inspect returned books for condition and due-date status and compute any applicable fines.
+- Maintain records of items received, stored, issued, and returned and file catalog cards according to system used.
+- Perform clerical activities, such as answering phones, sorting mail, filing, typing, word processing, and photocopying and mailing out material.
+- Register new patrons and issue borrower identification cards that permit patrons to borrow books and other materials.
+- Process new materials including books, audio-visual materials, and computer software.
+- Provide assistance to librarians in the maintenance of collections of books, periodicals, magazines, newspapers, and audio-visual and other materials.
+- Review records, such as microfilm and issue cards, to identify titles of overdue materials and delinquent borrowers.
+- Send out notices and accept fine payments for lost or overdue books.
+- Maintain library equipment, such as photocopiers, scanners, and computers, and instruct patrons in proper use of such equipment.
+- Schedule, supervise, and train clerical workers, volunteers, student assistants, and other library employees.
+- Repair books using mending tape, paste, and brushes or prepare books to be sent to a bindery for repair.
+- Take action to deal with disruptive or problem patrons.
+- Prepare, store, and retrieve classification and catalog information, lecture notes, or other information related to stored documents, using computers.
+- Select substitute titles when requested materials are unavailable, following criteria such as age, education, and interests.
+- Prepare library statistics reports.
+- Deliver and retrieve items to and from departments by hand or using push carts.
+- Assist in the preparation of book displays.
+- Classify and catalog items according to content and purpose.
+- Operate small branch libraries, under the direction of off-site librarian supervisors.
+- Plan or participate in library events and programs, such as story time with children.
+- Perform accounting and bookkeeping activities, such as invoicing, maintaining financial records, budgeting, and handling cash.
+- Operate and maintain audio-visual equipment.
+- Design or maintain library web site and online catalogues.
+- Acquire books, pamphlets, periodicals, audio-visual materials, and other library supplies by checking prices, figuring costs, and preparing appropriate order forms and facilitating the ordering process by providing such information to others.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Service Orientation (Importance: 3.38/5 | Level: 3.0/7)
+- Reading Comprehension (Importance: 3.25/5 | Level: 3.25/7)
+- Active Listening (Importance: 3.25/5 | Level: 3.0/7)
+- Writing (Importance: 3.0/5 | Level: 3.0/7)
+- Coordination (Importance: 3.0/5 | Level: 2.88/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 2.88/7)
+- Speaking (Importance: 3.0/5 | Level: 3.0/7)
+- Monitoring (Importance: 2.88/5 | Level: 2.75/7)
+- Complex Problem Solving (Importance: 2.88/5 | Level: 2.12/7)
+- Time Management (Importance: 2.88/5 | Level: 2.5/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.75/7)
+- Instructing (Importance: 2.75/5 | Level: 2.5/7)
+- Judgment and Decision Making (Importance: 2.75/5 | Level: 2.25/7)
+- Learning Strategies (Importance: 2.5/5 | Level: 2.12/7)
+- Active Learning (Importance: 2.25/5 | Level: 2.12/7)
+- Management of Personnel Resources (Importance: 2.25/5 | Level: 2.12/7)
+- Mathematics (Importance: 2.12/5 | Level: 2.12/7)
+- Persuasion (Importance: 2.12/5 | Level: 2.12/7)
+- Quality Control Analysis (Importance: 2.0/5 | Level: 1.25/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.62/7)
+- Negotiation (Importance: 2.0/5 | Level: 2.12/7)
+- Systems Analysis (Importance: 2.0/5 | Level: 1.88/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 1.75/7)
+- Management of Financial Resources (Importance: 1.88/5 | Level: 1.12/7)
+- Operations Monitoring (Importance: 1.75/5 | Level: 1.0/7)
+- Programming (Importance: 1.5/5 | Level: 0.5/7)
+- Technology Design (Importance: 1.38/5 | Level: 0.38/7)
+- Repairing (Importance: 1.25/5 | Level: 0.25/7)
+- Troubleshooting (Importance: 1.25/5 | Level: 0.25/7)
+- Equipment Maintenance (Importance: 1.25/5 | Level: 0.25/7)
+- Operations Analysis (Importance: 1.12/5 | Level: 0.25/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Operation and Control (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adobe Acrobat (Tech skill type: Document management software)
+- Adobe Photoshop (Tech skill type: Graphics or photo imaging software)
+- Automated circulation systems (Tech skill type: Library software)
+- C++ (Tech skill type: Object or component oriented development software)
+- Cataloging software (Tech skill type: Library software)
+- Database software (Tech skill type: Data base user interface and query software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Publisher (Tech skill type: Desktop publishing software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Online Computer Library Center (OCLC) databases (Tech skill type: Library software)
+- Recordkeeping software (Tech skill type: Data base user interface and query software)
+- ResourceMate Plus (Tech skill type: Library software)
+- Video retrieval systems (Tech skill type: Information retrieval or search software)
+- Web browser software (Tech skill type: Internet browser software)
+- Word processing software (Tech skill type: Word processing software)
+- WorldCat (Tech skill type: Library software)
+
+## TOOLS USED
+- 10-key calculators (Tool type: Desktop calculator)
+- Barcode scanners (Tool type: Bar code reader equipment)
+- Bookmobiles (Tool type: Cargo trucks)
+- Braile embossers (Tool type: Braille devices for the physically challenged)
+- Cash registers (Tool type: Cash registers)
+- Delivery vans (Tool type: Minivans or vans)
+- Desktop computers (Tool type: Desktop computers)
+- Digital cameras (Tool type: Digital cameras)
+- Film projectors (Tool type: Film projectors)
+- Handheld calculators (Tool type: Pocket calculator)
+- Laminating machines (Tool type: Laminators)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Laser printers (Tool type: Laser printers)
+- Magnifiers (Tool type: Magnifiers)
+- Mail opening equipment (Tool type: Mail opening machines)
+- Microfiche printers (Tool type: Microfiche or microfilm viewers)
+- Microfiche readers (Tool type: Microfiche or microfilm viewers)
+- Microfilm printers (Tool type: Microfiche reader printers)
+- Microfilm readers (Tool type: Microfiche or microfilm viewers)
+- Multi function printers (Tool type: Multi function printers)
+- Multi-line telephone systems (Tool type: Special purpose telephones)
+- Multimedia projectors (Tool type: Multimedia projectors)
+- Personal readers (Tool type: Voice synthesizers for the physically challenged)
+- Photocopying equipment (Tool type: Photocopiers)
+- Scanners (Tool type: Scanners)
+- Thermal book binders (Tool type: Thermal book binding machines)
+- Typewriters (Tool type: Typewriters)
+- Video teleconferencing systems (Tool type: Videoconferencing systems)

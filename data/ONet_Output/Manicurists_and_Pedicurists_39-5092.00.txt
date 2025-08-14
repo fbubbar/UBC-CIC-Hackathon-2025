@@ -1,0 +1,106 @@
+Job Title: Manicurists and Pedicurists
+O*NET-SOC Code: 39-5092.00
+
+# DESCRIPTION
+Clean and shape customers' fingernails and toenails. May polish or decorate nails.
+
+# TASKS
+- Clean and sanitize tools and work environment.
+- Apply undercoat and clear or colored polish onto nails with brush.
+- Maintain supply inventories and records of client services.
+- Shape and smooth ends of nails, using scissors, files, or emery boards.
+- Prepare nail cuticles with water and oil, using cuticle knives to push back cuticles and scissors or nippers to trim cuticles.
+- Prepare customers' nails in soapy water, using swabs, files, and orange sticks.
+- Remove previously applied nail polish, using liquid remover and swabs.
+- Use rotary abrasive wheels to shape and smooth nails or artificial extensions.
+- Schedule client appointments and accept payments.
+- Assess the condition of clients' hands, remove dead skin, and massage hands.
+- Roughen surfaces of fingernails, using abrasive wheel.
+- Advise clients on nail care and use of products and colors.
+- Treat nails to repair or improve strength and resilience by wrapping.
+- Extend nails using powder, solvent, and paper forms attached to tips of customers' fingers to support and shape artificial nails.
+- Polish nails, using powdered polish and buffer.
+- Whiten underside of nails with white paste or pencils.
+- Promote and sell nail care products.
+- Decorate clients' nails by piercing or attaching ornaments or designs.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Speaking (Importance: 3.0/5 | Level: 2.62/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 2.62/7)
+- Service Orientation (Importance: 3.0/5 | Level: 2.62/7)
+- Active Listening (Importance: 3.0/5 | Level: 2.75/7)
+- Active Learning (Importance: 2.75/5 | Level: 2.25/7)
+- Coordination (Importance: 2.75/5 | Level: 2.25/7)
+- Time Management (Importance: 2.75/5 | Level: 2.12/7)
+- Reading Comprehension (Importance: 2.75/5 | Level: 2.12/7)
+- Monitoring (Importance: 2.62/5 | Level: 2.12/7)
+- Persuasion (Importance: 2.62/5 | Level: 2.12/7)
+- Critical Thinking (Importance: 2.5/5 | Level: 2.5/7)
+- Negotiation (Importance: 2.5/5 | Level: 2.12/7)
+- Judgment and Decision Making (Importance: 2.38/5 | Level: 2.12/7)
+- Complex Problem Solving (Importance: 2.25/5 | Level: 2.0/7)
+- Writing (Importance: 2.12/5 | Level: 1.88/7)
+- Learning Strategies (Importance: 2.12/5 | Level: 1.88/7)
+- Instructing (Importance: 2.12/5 | Level: 2.0/7)
+- Systems Analysis (Importance: 2.0/5 | Level: 1.75/7)
+- Management of Personnel Resources (Importance: 2.0/5 | Level: 1.88/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 1.75/7)
+- Mathematics (Importance: 1.88/5 | Level: 1.25/7)
+- Quality Control Analysis (Importance: 1.75/5 | Level: 1.38/7)
+- Technology Design (Importance: 1.75/5 | Level: 0.88/7)
+- Management of Material Resources (Importance: 1.5/5 | Level: 0.5/7)
+- Operations Analysis (Importance: 1.5/5 | Level: 0.5/7)
+- Operations Monitoring (Importance: 1.5/5 | Level: 0.88/7)
+- Equipment Selection (Importance: 1.5/5 | Level: 0.62/7)
+- Management of Financial Resources (Importance: 1.38/5 | Level: 0.38/7)
+- Troubleshooting (Importance: 1.38/5 | Level: 0.38/7)
+- Operation and Control (Importance: 1.12/5 | Level: 0.12/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Aknaf ADVANTAGE Salon Software and Spa Software (Tech skill type: Data base user interface and query software)
+- Appointment Search (Tech skill type: Calendar and scheduling software)
+- AppointmentQuest Online Appointment Scheduler (Tech skill type: Calendar and scheduling software)
+- Customer information databases (Tech skill type: Customer relationship management CRM software)
+- DaySmart Software Appointment-Plus (Tech skill type: Calendar and scheduling software)
+- DaySmart Software Salon Iris (Tech skill type: Data base user interface and query software)
+- Facebook (Tech skill type: Web page creation and editing software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+
+## TOOLS USED
+- Callus shavers (Tool type: Pedicure implements)
+- Credit card processing machines (Tool type: Magnetic stripe readers and encoders)
+- Cuticle knives (Tool type: Manicure implements)
+- Cuticle nippers (Tool type: Manicure implements)
+- Cuticle pushers (Tool type: Manicure implements)
+- Cuticle scissors (Tool type: Manicure implements)
+- Dry heat sterilizers (Tool type: Dry heat or hot air sterilizers)
+- Electronic cash registers (Tool type: Cash registers)
+- Emery boards (Tool type: Manicure implements)
+- Finger separators (Tool type: Manicure implements)
+- Finishing nail stones (Tool type: Manicure implements)
+- Foot baths (Tool type: Extremity hydrotherapy baths or tanks)
+- Laptop computers (Tool type: Notebook computers)
+- Manicure airbrushes (Tool type: Air brushes)
+- Manicure tables (Tool type: Tables)
+- Manicure tweezers (Tool type: Tweezers)
+- Nail buffing blocks (Tool type: Manicure implements)
+- Nail clippers (Tool type: Nail clippers)
+- Nail dryers (Tool type: Nail dryers)
+- Nail files (Tool type: Manicure implements)
+- Nail nippers (Tool type: Nail clippers)
+- Nail scissors (Tool type: Manicure implements)
+- Nail scrub brushes (Tool type: Manicure implements)
+- Nail slicers (Tool type: Nail clippers)
+- Pedicure carts (Tool type: Carts)
+- Personal computers (Tool type: Personal computers)
+- Pumice stones (Tool type: Pumice stone)
+- Steam autoclaves (Tool type: Steam autoclaves or sterilizers)
+- Toe separators (Tool type: Pedicure implements)
+- Ultraviolet UV sterilizers (Tool type: Ultraviolet sterilizers)

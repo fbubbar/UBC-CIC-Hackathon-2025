@@ -1,0 +1,125 @@
+Job Title: Loading and Moving Machine Operators, Underground Mining
+O*NET-SOC Code: 47-5044.00
+
+# DESCRIPTION
+Operate underground loading or moving machine to load or move coal, ore, or rock using shuttle or mine car or conveyors. Equipment may include power shovels, hoisting engines equipped with cable-drawn scraper or scoop, or machines equipped with gathering arms and conveyor.
+
+# TASKS
+- Handle high voltage sources and hang electrical cables.
+- Drive loaded shuttle cars to ramps and move controls to discharge loads into mine cars or onto conveyors.
+- Pry off loose material from roofs and move it into the paths of machines, using crowbars.
+- Move trailing electrical cables clear of obstructions, using rubber safety gloves.
+- Control conveyors that run the entire length of shuttle cars to distribute loads as loading progresses.
+- Observe hand signals, grade stakes, or other markings when operating machines.
+- Examine roadway and clear obstructions from the path of travel.
+- Drive machines into piles of material blasted from working faces.
+- Operate levers to move conveyor booms or shovels so that mine contents such as coal, rock, and ore can be placed into cars or onto conveyors.
+- Clean, fuel, service, and perform safety checks on all equipment, and repair and replace parts as necessary.
+- Clean hoppers, and clean spillage from tracks, walks, driveways, and conveyor decking.
+- Oil, lubricate, and adjust conveyors, crushers, and other equipment, using hand tools and lubricating equipment.
+- Monitor loading processes to ensure that materials are loaded according to specifications.
+- Measure, weigh, or verify levels of rock, gravel, or other excavated material to prevent equipment overloads.
+- Replace hydraulic hoses, headlight bulbs, and gathering-arm teeth.
+- Stop gathering arms when cars are full.
+- Move mine cars into position for loading and unloading, using pinchbars inserted under car wheels to position cars under loading spouts.
+- Advance machines to gather material and convey it into cars.
+- Signal workers to move loaded cars.
+- Guide and stop cars by switching, applying brakes, or placing scotches, or wooden wedges, between wheels and rails.
+- Observe and record car numbers, carriers, customers, tonnages, and grades and conditions of material.
+- Read written instructions or confer with supervisors about schedules and materials to be moved.
+- Maintain records of materials moved.
+- Direct other workers to move stakes, place blocks, position anchors or cables, or move materials.
+- Push or ride cars down slopes, or hook cars to cables and control cable drum brakes, to ease cars down inclines.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operation and Control (Importance: 3.38/5 | Level: 3.25/7)
+- Operations Monitoring (Importance: 3.25/5 | Level: 3.25/7)
+- Troubleshooting (Importance: 3.12/5 | Level: 3.12/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 2.75/7)
+- Equipment Maintenance (Importance: 3.0/5 | Level: 3.12/7)
+- Active Listening (Importance: 3.0/5 | Level: 2.88/7)
+- Speaking (Importance: 3.0/5 | Level: 2.88/7)
+- Monitoring (Importance: 2.88/5 | Level: 2.62/7)
+- Reading Comprehension (Importance: 2.88/5 | Level: 2.62/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.38/7)
+- Repairing (Importance: 2.75/5 | Level: 3.0/7)
+- Complex Problem Solving (Importance: 2.62/5 | Level: 2.5/7)
+- Equipment Selection (Importance: 2.5/5 | Level: 2.38/7)
+- Time Management (Importance: 2.38/5 | Level: 2.12/7)
+- Judgment and Decision Making (Importance: 2.38/5 | Level: 2.25/7)
+- Management of Personnel Resources (Importance: 2.25/5 | Level: 2.0/7)
+- Instructing (Importance: 2.25/5 | Level: 2.25/7)
+- Persuasion (Importance: 2.25/5 | Level: 2.12/7)
+- Service Orientation (Importance: 2.12/5 | Level: 2.25/7)
+- Quality Control Analysis (Importance: 2.12/5 | Level: 2.62/7)
+- Active Learning (Importance: 2.12/5 | Level: 2.0/7)
+- Negotiation (Importance: 2.12/5 | Level: 2.12/7)
+- Learning Strategies (Importance: 2.12/5 | Level: 1.5/7)
+- Mathematics (Importance: 2.0/5 | Level: 1.25/7)
+- Writing (Importance: 2.0/5 | Level: 2.0/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 0.88/7)
+- Operations Analysis (Importance: 1.75/5 | Level: 1.0/7)
+- Management of Financial Resources (Importance: 1.62/5 | Level: 0.62/7)
+- Systems Analysis (Importance: 1.62/5 | Level: 0.75/7)
+- Systems Evaluation (Importance: 1.5/5 | Level: 0.62/7)
+- Installation (Importance: 1.25/5 | Level: 0.38/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+- Technology Design (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Automated systems software (Tech skill type: Industrial control software)
+- Inventory management systems (Tech skill type: Inventory management software)
+- Maintenance management software (Tech skill type: Facilities management software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Mine maintenance software (Tech skill type: Facilities management software)
+- Work time accounting software (Tech skill type: Time accounting software)
+
+## TOOLS USED
+- Bucket belt conveyors (Tool type: Belt conveyors)
+- Cable drawn scrapers (Tool type: Earthmoving shovels)
+- Cap lamps (Tool type: Mining headlamp)
+- Channel lock pliers (Tool type: Locking pliers)
+- Claw hammers (Tool type: Claw hammer)
+- Cleaning scrapers (Tool type: Cleaning scrapers)
+- Conveyor belt systems (Tool type: Belt conveyors)
+- Crowbars (Tool type: Wrecking or crow bar)
+- Diesel shuttle cars (Tool type: Bulk material carriers)
+- Dust suppression systems (Tool type: Filtering machinery)
+- Electric shuttle cars (Tool type: Bulk material carriers)
+- Electric switch controls (Tool type: Electric actuators)
+- Filter conveyor belts (Tool type: Belt conveyors)
+- Gathering-arm machines (Tool type: Earthmoving shovels)
+- Grease dispensing guns (Tool type: Grease guns)
+- Hand grease guns (Tool type: Grease guns)
+- Hearing protection plugs (Tool type: Ear plugs)
+- Hydraulic valve controls (Tool type: Valve actuators)
+- Mining conveyor systems (Tool type: Belt conveyors)
+- Mobile radios (Tool type: Two way radios)
+- Multipurpose screwdrivers (Tool type: Screwdrivers)
+- Oil guns (Tool type: Oil gun)
+- Payloaders (Tool type: Front end loaders)
+- Pinch bars (Tool type: Pry bars)
+- Portable fire extinguishers (Tool type: Fire extinguishers)
+- Power shovels (Tool type: Earthmoving shovels)
+- Protective glasses (Tool type: Safety glasses)
+- Protective respirators (Tool type: Respirators)
+- Ratchet sets (Tool type: Ratchets)
+- Reflective vests (Tool type: Safety vests)
+- Rock breaking chisels (Tool type: Hydraulic breaker chisel)
+- Safety gloves (Tool type: Protective gloves)
+- Self-rescuers (Tool type: Respirators)
+- Sledgehammers (Tool type: Sledge hammer)
+- Socket wrench sets (Tool type: Socket sets)
+- Soil bucket chisels (Tool type: Hydraulic breaker chisel)
+- Steel-toed boots (Tool type: Safety boots)
+- Trencher chisels (Tool type: Hydraulic breaker chisel)
+- Underground mining bulldozer (Tool type: Track bulldozers)
+- Underground mining excavators (Tool type: Track excavators)
+- Underground mining loaders (Tool type: Earthmoving shovels)
+- Utility knives (Tool type: Utility knives)

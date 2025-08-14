@@ -1,0 +1,107 @@
+Job Title: Pourers and Casters, Metal
+O*NET-SOC Code: 51-4052.00
+
+# DESCRIPTION
+Operate hand-controlled mechanisms to pour and regulate the flow of molten metal into molds to produce castings or ingots.
+
+# TASKS
+- Pour and regulate the flow of molten metal into molds and forms to produce ingots or other castings, using ladles or hand-controlled mechanisms.
+- Read temperature gauges and observe color changes, adjusting furnace flames, torches, or electrical heating units as necessary to melt metal to specifications.
+- Remove solidified steel or slag from pouring nozzles, using long bars or oxygen burners.
+- Examine molds to ensure they are clean, smooth, and properly coated.
+- Collect samples, or signal workers to sample metal for analysis.
+- Load specified amounts of metal and flux into furnaces or clay crucibles.
+- Position equipment such as ladles, grinding wheels, pouring nozzles, or crucibles, or signal other workers to position equipment.
+- Skim slag or remove excess metal from ingots or equipment, using hand tools, strainers, rakes, or burners, collecting scrap for recycling.
+- Transport metal ingots to storage areas, using forklifts.
+- Assemble and embed cores in casting frames, using hand tools and equipment.
+- Turn valves to circulate water through cores, or spray water on filled molds to cool and solidify metal.
+- Pull levers to lift ladle stoppers and to allow molten steel to flow into ingot molds to specified heights.
+- Remove metal ingots or cores from molds, using hand tools, cranes, and chain hoists.
+- Repair and maintain metal forms and equipment, using hand tools, sledges, and bars.
+- Add metal to molds to compensate for shrinkage.
+- Stencil identifying information on ingots and pigs, using special hand tools.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operation and Control (Importance: 3.12/5 | Level: 3.0/7)
+- Operations Monitoring (Importance: 3.12/5 | Level: 3.12/7)
+- Monitoring (Importance: 3.0/5 | Level: 3.0/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 3.0/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 3.0/7)
+- Active Listening (Importance: 3.0/5 | Level: 3.0/7)
+- Coordination (Importance: 2.88/5 | Level: 2.75/7)
+- Time Management (Importance: 2.88/5 | Level: 2.38/7)
+- Quality Control Analysis (Importance: 2.88/5 | Level: 2.75/7)
+- Equipment Maintenance (Importance: 2.75/5 | Level: 2.62/7)
+- Speaking (Importance: 2.75/5 | Level: 2.75/7)
+- Reading Comprehension (Importance: 2.75/5 | Level: 2.62/7)
+- Complex Problem Solving (Importance: 2.5/5 | Level: 2.12/7)
+- Troubleshooting (Importance: 2.5/5 | Level: 2.5/7)
+- Social Perceptiveness (Importance: 2.5/5 | Level: 2.12/7)
+- Active Learning (Importance: 2.25/5 | Level: 2.0/7)
+- Learning Strategies (Importance: 2.25/5 | Level: 2.0/7)
+- Management of Material Resources (Importance: 2.12/5 | Level: 1.12/7)
+- Repairing (Importance: 2.12/5 | Level: 2.0/7)
+- Negotiation (Importance: 2.0/5 | Level: 1.88/7)
+- Mathematics (Importance: 2.0/5 | Level: 1.5/7)
+- Equipment Selection (Importance: 2.0/5 | Level: 1.62/7)
+- Systems Analysis (Importance: 2.0/5 | Level: 1.38/7)
+- Instructing (Importance: 2.0/5 | Level: 2.0/7)
+- Service Orientation (Importance: 2.0/5 | Level: 1.88/7)
+- Writing (Importance: 2.0/5 | Level: 2.12/7)
+- Persuasion (Importance: 2.0/5 | Level: 2.0/7)
+- Management of Personnel Resources (Importance: 2.0/5 | Level: 1.75/7)
+- Systems Evaluation (Importance: 1.88/5 | Level: 1.5/7)
+- Science (Importance: 1.88/5 | Level: 1.0/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 0.75/7)
+- Operations Analysis (Importance: 1.75/5 | Level: 0.88/7)
+- Technology Design (Importance: 1.38/5 | Level: 0.38/7)
+- Programming (Importance: 1.25/5 | Level: 0.25/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Husky Injection Molding Systems Shotscope NX (Tech skill type: Industrial control software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Acetylene torches (Tool type: Blow torch)
+- Automatic extractors (Tool type: Hydraulic extractor)
+- Automatic ladles (Tool type: Foundry ladles)
+- Bandsaws (Tool type: Metal band sawing machine)
+- Chain falls (Tool type: Hoists)
+- Cold chamber die casting machines (Tool type: Die casting machine)
+- Coordinate measuring machines CMM (Tool type: Coordinate measuring machines CMM)
+- Deburring tools (Tool type: Deburring tool)
+- Depth gauges (Tool type: Rulers)
+- Dross hoes (Tool type: Foundry shovels)
+- Electric arc furnaces (Tool type: Electric furnace)
+- Electric overhead transfer EOT cranes (Tool type: Overhead crane)
+- Electric tilt furnaces (Tool type: Electric furnace)
+- Foundry molds (Tool type: Foundry molds)
+- Foundry tongs (Tool type: Tongs)
+- Go/no-go gauges (Tool type: Go or no go gauge)
+- Hand ladles (Tool type: Foundry ladles)
+- Hand scrapers (Tool type: Cleaning scrapers)
+- Handheld pneumatic grinders (Tool type: Bench grinder)
+- Heat resistant suits (Tool type: Heat resistant clothing)
+- High temperature thermometers (Tool type: Pyrometers)
+- Hot chamber die casting machines (Tool type: Die casting machine)
+- Jib cranes (Tool type: Jib crane)
+- Lubricant pumpers (Tool type: Lubricator pump)
+- Lubricant reciprocators (Tool type: Lubricator pump)
+- Mallets (Tool type: Mallets)
+- Metal sledgehammers (Tool type: Sledge hammer)
+- Open-hearth furnaces (Tool type: Furnaces)
+- Oxygen furnaces (Tool type: Furnaces)
+- Power metal shears (Tool type: Power shears)
+- Precision bench scales (Tool type: Bench scales)
+- Protective ear plugs (Tool type: Ear plugs)
+- Protective glasses (Tool type: Safety glasses)
+- Slag scrappers (Tool type: Foundry shovels)
+- Vise-grip pliers (Tool type: Locking pliers)
+- Wheeled forklifts (Tool type: Forklifts)
+- Wire brushes (Tool type: Wire brushes)

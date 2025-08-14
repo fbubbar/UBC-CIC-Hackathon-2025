@@ -1,0 +1,152 @@
+Job Title: Biofuels Processing Technicians
+O*NET-SOC Code: 51-8099.01
+
+# DESCRIPTION
+Calculate, measure, load, mix, and process refined feedstock with additives in fermentation or reaction process vessels and monitor production process. Perform, and keep records of, plant maintenance, repairs, and safety inspections.
+
+# TASKS
+- Monitor batch, continuous flow, or hybrid biofuels production processes.
+- Operate valves, pumps, engines, or generators to control and adjust biofuels production.
+- Monitor and record biofuels processing data.
+- Collect biofuels samples and perform routine laboratory tests or analyses to assess biofuels quality.
+- Operate equipment, such as a centrifuge, to extract biofuels products and secondary by-products or reusable fractions.
+- Process refined feedstock with additives in fermentation or reaction process vessels.
+- Operate chemical processing equipment for the production of biofuels.
+- Monitor and record flow meter performance.
+- Inspect biofuels plant or processing equipment regularly, recording or reporting damage and mechanical problems.
+- Measure and monitor raw biofuels feedstock.
+- Preprocess feedstock in preparation for physical, chemical, or biological fuel production processes.
+- Calculate, measure, load, or mix refined feedstock used in biofuels production.
+- Monitor stored biofuels products or secondary by-products until reused or transferred to users.
+- Assess the quality of biofuels additives for reprocessing.
+- Clean biofuels processing work area, ensuring compliance with safety regulations.
+- Perform routine maintenance on mechanical, electrical, or electronic equipment or instruments used in the processing of biofuels.
+- Calibrate liquid flow devices and meters, including fuel, chemical, and water meters.
+- Rebuild, repair, or replace biofuels processing equipment components.
+- Coordinate raw product sourcing or collection.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operations Monitoring (Importance: 3.88/5 | Level: 3.75/7)
+- Operation and Control (Importance: 3.75/5 | Level: 3.5/7)
+- Reading Comprehension (Importance: 3.5/5 | Level: 3.75/7)
+- Monitoring (Importance: 3.38/5 | Level: 3.25/7)
+- Quality Control Analysis (Importance: 3.38/5 | Level: 3.38/7)
+- Speaking (Importance: 3.25/5 | Level: 3.5/7)
+- Equipment Maintenance (Importance: 3.25/5 | Level: 3.38/7)
+- Active Listening (Importance: 3.25/5 | Level: 3.38/7)
+- Social Perceptiveness (Importance: 3.12/5 | Level: 3.12/7)
+- Writing (Importance: 3.12/5 | Level: 3.0/7)
+- Coordination (Importance: 3.12/5 | Level: 3.12/7)
+- Critical Thinking (Importance: 3.12/5 | Level: 3.12/7)
+- Service Orientation (Importance: 3.0/5 | Level: 2.75/7)
+- Troubleshooting (Importance: 3.0/5 | Level: 3.25/7)
+- Instructing (Importance: 3.0/5 | Level: 3.0/7)
+- Repairing (Importance: 3.0/5 | Level: 3.12/7)
+- Active Learning (Importance: 2.88/5 | Level: 2.75/7)
+- Time Management (Importance: 2.88/5 | Level: 3.0/7)
+- Mathematics (Importance: 2.88/5 | Level: 2.88/7)
+- Judgment and Decision Making (Importance: 2.88/5 | Level: 3.25/7)
+- Negotiation (Importance: 2.88/5 | Level: 2.62/7)
+- Systems Evaluation (Importance: 2.88/5 | Level: 2.75/7)
+- Systems Analysis (Importance: 2.88/5 | Level: 2.88/7)
+- Persuasion (Importance: 2.88/5 | Level: 2.5/7)
+- Complex Problem Solving (Importance: 2.88/5 | Level: 3.0/7)
+- Science (Importance: 2.88/5 | Level: 2.5/7)
+- Learning Strategies (Importance: 2.5/5 | Level: 2.75/7)
+- Management of Personnel Resources (Importance: 2.5/5 | Level: 2.38/7)
+- Equipment Selection (Importance: 2.5/5 | Level: 2.25/7)
+- Management of Material Resources (Importance: 2.25/5 | Level: 2.0/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 1.38/7)
+- Programming (Importance: 1.62/5 | Level: 1.0/7)
+- Installation (Importance: 1.5/5 | Level: 0.88/7)
+- Technology Design (Importance: 1.5/5 | Level: 0.75/7)
+- Operations Analysis (Importance: 1.12/5 | Level: 0.25/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Computerized maintenance management system CMMS (Tech skill type: Facilities management software)
+- Data visualization software (Tech skill type: Analytical or scientific software)
+- Digital control systems DCS (Tech skill type: Industrial control software)
+- Enterprise resource planning ERP software (Tech skill type: Enterprise resource planning ERP software)
+- Human machine interface HMI software (Tech skill type: Industrial control software)
+- Inventory control software (Tech skill type: Inventory management software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Python (Tech skill type: Object or component oriented development software)
+- R (Tech skill type: Object or component oriented development software)
+- SAS (Tech skill type: Analytical or scientific software)
+- Tableau (Tech skill type: Business intelligence and data analysis software)
+
+## TOOLS USED
+- Adjustable hand wrenches (Tool type: Adjustable wrenches)
+- Adjustable widemouth pliers (Tool type: Adjustable widemouth pliers)
+- Agitators (Tool type: Laboratory mixers)
+- Air compressors (Tool type: Air compressors)
+- Air monitoring equipment (Tool type: Air samplers or collectors)
+- Autotitrators (Tool type: Titration equipment)
+- Ball valves (Tool type: Ball valves)
+- Belt conveyor systems (Tool type: Belt conveyors)
+- Belt filters (Tool type: Filtering machinery)
+- Benchtop centrifuges (Tool type: Benchtop centrifuges)
+- Binocular light compound microscopes (Tool type: Binocular light compound microscopes)
+- Chain hoists (Tool type: Hoists)
+- Cooling towers (Tool type: Evaporative coolers)
+- Crusher screens (Tool type: Laboratory crushers or pulverizers)
+- Demineralizers (Tool type: Deionization or demineralization equipment)
+- Desktop computers (Tool type: Desktop computers)
+- Digital hydrometers (Tool type: Hydrometers)
+- Distillation columns (Tool type: Distillation pipings or columns or fittings)
+- Dust and particulate respirators (Tool type: Respirators)
+- Electric timing devices (Tool type: Clock timers)
+- Emergency alarm systems (Tool type: Alarm systems)
+- Emissions monitoring systems (Tool type: Air samplers or collectors)
+- Fall protection harnesses (Tool type: Safety harnesses or belts)
+- Fermentation processing vessels (Tool type: Standard fermentation units)
+- Flow control valves FCV (Tool type: Control valves)
+- Flow transmitters (Tool type: Flow transmitters)
+- Forklifts (Tool type: Forklifts)
+- Gas chromatographs GC (Tool type: Gas chromatographs)
+- Gate butterfly valves (Tool type: Gate valves)
+- Glass graduated cylinders (Tool type: Laboratory graduated cylinders)
+- Gravity convection ovens (Tool type: Laboratory mechanical convection ovens)
+- Halogen moisture balances (Tool type: Moisture balances)
+- Hand sampling pumps (Tool type: Hand pumps)
+- Hazardous material spill kits (Tool type: Spill kits)
+- Heat exchangers (Tool type: Heat exchangers)
+- High pressure liquid chromatograph HPLC equipment (Tool type: High pressure liquid chromatograph chromatography)
+- High vacuum evaporation systems (Tool type: Laboratory evaporators)
+- Infrared temperature guns (Tool type: Infrared imagers)
+- Level transmitters (Tool type: Level sensors or transmitters)
+- Materials dryers (Tool type: Air dryers)
+- Methanators (Tool type: Digestion systems)
+- Milling equipment (Tool type: Grinding mills)
+- Mobile radios (Tool type: Two way radios)
+- Moisture analyzers (Tool type: Moisture meters)
+- Mole sieves (Tool type: Test sieves)
+- Pallet jacks (Tool type: Pallet trucks)
+- Personal computers (Tool type: Personal computers)
+- pH probes (Tool type: pH meters)
+- Phillips head screwdrivers (Tool type: Screwdrivers)
+- Pneumatic conveyor systems (Tool type: Air conveyors)
+- Portable refractometers (Tool type: Handheld refractometers or polarimeters)
+- Pressure gauges (Tool type: Pressure transmitters)
+- Protective ear plugs (Tool type: Ear plugs)
+- Reaction flasks (Tool type: Laboratory flasks)
+- Reverse osmosis equipment (Tool type: Reverse osmosis equipment)
+- Safety gloves (Tool type: Protective gloves)
+- Sample ports (Tool type: Plant samples analysis equipment)
+- Self-contained breathing apparatus (Tool type: Respiration air supplying self contained breathing apparatus or accessories)
+- Sifting screens (Tool type: Laboratory sifting equipment)
+- Skid steer loaders (Tool type: Skid steer loaders)
+- Static mixers (Tool type: Mixers or agitators)
+- Steam boilers (Tool type: Water tube boiler)
+- Stop valves (Tool type: Globe valves)
+- Straight screwdrivers (Tool type: Screwdrivers)
+- Stripper columns (Tool type: Distillation pipings or columns or fittings)
+- Temperature sensors (Tool type: Temperature transmitters)
+- Throttle control valves TCV (Tool type: Control valves)
+- Titrators (Tool type: Titration equipment)
+- Vacuum systems (Tool type: Vacuum or mercury vapour equipment)
+- Viscosity meters (Tool type: Viscosimeters)
+- Water samplers (Tool type: Water samplers)
+- Wheeled front end loaders (Tool type: Front end loaders)

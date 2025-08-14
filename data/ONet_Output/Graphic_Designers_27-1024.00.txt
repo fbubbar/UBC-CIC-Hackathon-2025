@@ -1,0 +1,156 @@
+Job Title: Graphic Designers
+O*NET-SOC Code: 27-1024.00
+
+# DESCRIPTION
+Design or create graphics to meet specific commercial or promotional needs, such as packaging, displays, or logos. May use a variety of mediums to achieve artistic or decorative effects.
+
+# TASKS
+- Key information into computer equipment to create layouts for client or supervisor.
+- Review final layouts and suggest improvements, as needed.
+- Determine size and arrangement of illustrative material and copy, and select style and size of type.
+- Develop graphics and layouts for product illustrations, company logos, and Web sites.
+- Create designs, concepts, and sample layouts, based on knowledge of layout principles and esthetic design concepts.
+- Use computer software to generate new images.
+- Prepare digital files for printing.
+- Confer with clients to discuss and determine layout design.
+- Research the target audience of projects.
+- Draw and print charts, graphs, illustrations, and other artwork, using computer.
+- Mark up, paste, and assemble final layouts to prepare layouts for printer.
+- Study illustrations and photographs to plan presentation of materials, products, or services.
+- Maintain archive of images, photos, or previous work products.
+- Prepare notes and instructions for workers who assemble and prepare final layouts for printing.
+- Prepare illustrations or rough sketches of material, discussing them with clients or supervisors and making necessary changes.
+- Research new software or design concepts.
+- Produce still and animated graphics for on-air and taped portions of television news broadcasts, using electronic video equipment.
+- Photograph layouts, using camera, to make layout prints for supervisors or clients.
+- Write or edit copy for clients.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Active Listening (Importance: 3.75/5 | Level: 3.25/7)
+- Speaking (Importance: 3.38/5 | Level: 3.75/7)
+- Active Learning (Importance: 3.25/5 | Level: 3.25/7)
+- Critical Thinking (Importance: 3.25/5 | Level: 3.88/7)
+- Writing (Importance: 3.25/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 3.12/5 | Level: 3.0/7)
+- Time Management (Importance: 3.12/5 | Level: 3.0/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 3.0/7)
+- Reading Comprehension (Importance: 3.12/5 | Level: 3.75/7)
+- Coordination (Importance: 3.12/5 | Level: 3.12/7)
+- Complex Problem Solving (Importance: 3.12/5 | Level: 3.12/7)
+- Monitoring (Importance: 3.0/5 | Level: 3.12/7)
+- Service Orientation (Importance: 3.0/5 | Level: 3.0/7)
+- Persuasion (Importance: 3.0/5 | Level: 3.12/7)
+- Negotiation (Importance: 3.0/5 | Level: 3.12/7)
+- Systems Analysis (Importance: 2.88/5 | Level: 2.75/7)
+- Operations Analysis (Importance: 2.75/5 | Level: 2.75/7)
+- Learning Strategies (Importance: 2.75/5 | Level: 3.0/7)
+- Instructing (Importance: 2.75/5 | Level: 3.0/7)
+- Systems Evaluation (Importance: 2.62/5 | Level: 2.75/7)
+- Management of Personnel Resources (Importance: 2.25/5 | Level: 2.5/7)
+- Technology Design (Importance: 2.25/5 | Level: 1.88/7)
+- Programming (Importance: 2.12/5 | Level: 1.38/7)
+- Mathematics (Importance: 2.0/5 | Level: 2.12/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.12/7)
+- Operations Monitoring (Importance: 2.0/5 | Level: 1.75/7)
+- Management of Financial Resources (Importance: 1.88/5 | Level: 1.12/7)
+- Quality Control Analysis (Importance: 1.88/5 | Level: 1.12/7)
+- Operation and Control (Importance: 1.12/5 | Level: 0.12/7)
+- Science (Importance: 1.12/5 | Level: 0.12/7)
+- Equipment Selection (Importance: 1.12/5 | Level: 0.12/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adobe Acrobat (Tech skill type: Document management software)
+- Adobe ActionScript (Tech skill type: Development environment software)
+- Adobe After Effects (Tech skill type: Video creation and editing software)
+- Adobe ColdFusion (Tech skill type: Web platform development software)
+- Adobe Creative Cloud software (Tech skill type: Graphics or photo imaging software)
+- Adobe Distiller (Tech skill type: Desktop publishing software)
+- Adobe Dreamweaver (Tech skill type: Web page creation and editing software)
+- Adobe FrameMaker (Tech skill type: Desktop publishing software)
+- Adobe FreeHand MX (Tech skill type: Graphics or photo imaging software)
+- Adobe Illustrator (Tech skill type: Graphics or photo imaging software)
+- Adobe InDesign (Tech skill type: Desktop publishing software)
+- Adobe Macromedia HomeSite (Tech skill type: Web page creation and editing software)
+- Adobe PageMaker (Tech skill type: Desktop publishing software)
+- Adobe Photoshop (Tech skill type: Graphics or photo imaging software)
+- Adobe Premiere Pro (Tech skill type: Video creation and editing software)
+- AJAX (Tech skill type: Web platform development software)
+- Apple Final Cut Pro (Tech skill type: Video creation and editing software)
+- Apple iMovie (Tech skill type: Video creation and editing software)
+- Apple iWork Keynote (Tech skill type: Presentation software)
+- Apple Keynote (Tech skill type: Presentation software)
+- Apple macOS (Tech skill type: Operating system software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Autodesk AutoCAD Civil 3D (Tech skill type: Computer aided design CAD software)
+- Autodesk Revit (Tech skill type: Computer aided design CAD software)
+- Avid Pro Tools (Tech skill type: Music or sound editing software)
+- Bentley MicroStation (Tech skill type: Computer aided design CAD software)
+- Cascading style sheets CSS (Tech skill type: Web platform development software)
+- Computer aided design and drafting CADD software (Tech skill type: Computer aided design CAD software)
+- Computer aided design and drafting software CADD (Tech skill type: Computer aided design CAD software)
+- Corel CorelDraw Graphics Suite (Tech skill type: Graphics or photo imaging software)
+- Corel WordPerfect Office Suite (Tech skill type: Office suite software)
+- Dassault Systemes CATIA (Tech skill type: Computer aided design CAD software)
+- Drupal (Tech skill type: Web platform development software)
+- Dynamic hypertext markup language DHTML (Tech skill type: Web platform development software)
+- Extensible hypertext markup language XHTML (Tech skill type: Web platform development software)
+- Extensible markup language XML (Tech skill type: Enterprise application integration software)
+- Facebook (Tech skill type: Web page creation and editing software)
+- Figma (Tech skill type: Graphical user interface development software)
+- FileMaker Pro (Tech skill type: Data base user interface and query software)
+- Google Ads (Tech skill type: Sales and marketing software)
+- Google Chrome (Tech skill type: Internet browser software)
+- Google Docs (Tech skill type: Word processing software)
+- Google Drive (Tech skill type: Cloud-based data access and sharing software)
+- Google Slides (Tech skill type: Presentation software)
+- Hypertext markup language HTML (Tech skill type: Web platform development software)
+- IBM Notes (Tech skill type: Electronic mail software)
+- Intuit QuickBooks (Tech skill type: Accounting software)
+- JavaScript (Tech skill type: Web platform development software)
+- jQuery (Tech skill type: Object or component oriented development software)
+- LinkedIn (Tech skill type: Web page creation and editing software)
+- Maxon Cinema 4D (Tech skill type: Video creation and editing software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft Publisher (Tech skill type: Desktop publishing software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Nuance OmniPage Professional (Tech skill type: Optical character reader OCR or scanning software)
+- Oracle Eloqua (Tech skill type: Customer relationship management CRM software)
+- Oracle JavaServer Pages JSP (Tech skill type: Web platform development software)
+- PDF readers (Tech skill type: Document management software)
+- PHP (Tech skill type: Web platform development software)
+- PTC Creo Parametric (Tech skill type: Computer aided design CAD software)
+- QuarkXPress (Tech skill type: Desktop publishing software)
+- SignCAD Systems SignCAD (Tech skill type: Computer aided design CAD software)
+- SmugMug Flickr (Tech skill type: Graphics or photo imaging software)
+- Social media sites (Tech skill type: Web page creation and editing software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Trimble SketchUp Pro (Tech skill type: Graphics or photo imaging software)
+- Verilog (Tech skill type: Development environment software)
+- Web browser software (Tech skill type: Internet browser software)
+- WeVideo (Tech skill type: Video creation and editing software)
+- WordPress (Tech skill type: Web page creation and editing software)
+- YouTube (Tech skill type: Video creation and editing software)
+
+## TOOLS USED
+- 35 millimeter cameras (Tool type: Still cameras)
+- Computer laser printers (Tool type: Laser printers)
+- Computer scanners (Tool type: Scanners)
+- Desktop computers (Tool type: Desktop computers)
+- Digital cameras (Tool type: Digital cameras)
+- Graphics tablets (Tool type: Tablet computers)
+- Laptop computers (Tool type: Notebook computers)
+- Personal computers (Tool type: Personal computers)
+- Photocopying equipment (Tool type: Photocopiers)
+- Wide format printers (Tool type: Laser printers)

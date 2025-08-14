@@ -1,0 +1,109 @@
+Job Title: Cargo and Freight Agents
+O*NET-SOC Code: 43-5011.00
+
+# DESCRIPTION
+Expedite and route movement of incoming and outgoing cargo and freight shipments in airline, train, and trucking terminals and shipping docks. Take orders from customers and arrange pickup of freight and cargo for delivery to loading platform. Prepare and examine bills of lading to determine shipping charges and tariffs.
+
+# TASKS
+- Negotiate and arrange transport of goods with shipping or freight companies.
+- Determine method of shipment and prepare bills of lading, invoices, and other shipping documents.
+- Track delivery progress of shipments.
+- Advise clients on transportation and payment methods.
+- Estimate freight or postal rates and record shipment costs and weights.
+- Keep records of all goods shipped, received, and stored.
+- Notify consignees, passengers, or customers of freight or baggage arrival and arrange for delivery.
+- Retrieve stored items and trace lost shipments as necessary.
+- Enter shipping information into a computer by hand or by a hand-held scanner that reads bar codes on goods.
+- Prepare manifests showing numbers of airplane passengers and baggage, mail, and freight weights, transmitting data to destinations.
+- Arrange insurance coverage for goods.
+- Install straps, braces, and padding to loads to prevent shifting or damage during shipment.
+- Check import or export documentation to determine cargo contents and use tariff coding system to classify goods according to fee or tariff group.
+- Coordinate and supervise activities of workers engaged in packing and shipping merchandise.
+- Contact vendors or claims adjustment departments to resolve shipment problems or contact service depots to arrange for repairs.
+- Inspect and count items received and check them against invoices or other documents, recording shortages and rejecting damaged goods.
+- Route received goods to first available flight or to appropriate storage areas or departments, using forklifts, hand trucks, or other equipment.
+- Direct delivery trucks to shipping doors or designated marshaling areas and help load and unload goods safely.
+- Assemble containers and crates used to transport items, such as machines or vehicles.
+- Maintain a supply of packing materials.
+- Direct or participate in cargo loading to ensure completeness of load and even distribution of weight.
+- Pack goods for shipping, using tools such as staplers, strapping machines, and hammers.
+- Attach address labels, identification codes, and shipping instructions to containers.
+- Open cargo containers and unwrap contents, using steel cutters, crowbars, or other hand tools.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Speaking (Importance: 3.62/5 | Level: 3.0/7)
+- Active Listening (Importance: 3.5/5 | Level: 3.0/7)
+- Critical Thinking (Importance: 3.25/5 | Level: 3.62/7)
+- Reading Comprehension (Importance: 3.25/5 | Level: 3.12/7)
+- Time Management (Importance: 3.12/5 | Level: 3.0/7)
+- Negotiation (Importance: 3.12/5 | Level: 3.12/7)
+- Writing (Importance: 3.0/5 | Level: 3.0/7)
+- Monitoring (Importance: 3.0/5 | Level: 3.12/7)
+- Complex Problem Solving (Importance: 3.0/5 | Level: 2.88/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 3.0/7)
+- Service Orientation (Importance: 3.0/5 | Level: 3.0/7)
+- Persuasion (Importance: 2.88/5 | Level: 2.88/7)
+- Active Learning (Importance: 2.75/5 | Level: 2.75/7)
+- Judgment and Decision Making (Importance: 2.75/5 | Level: 2.75/7)
+- Instructing (Importance: 2.5/5 | Level: 2.5/7)
+- Operations Monitoring (Importance: 2.38/5 | Level: 1.62/7)
+- Mathematics (Importance: 2.25/5 | Level: 2.5/7)
+- Quality Control Analysis (Importance: 2.25/5 | Level: 2.0/7)
+- Systems Analysis (Importance: 2.25/5 | Level: 2.12/7)
+- Management of Material Resources (Importance: 2.12/5 | Level: 1.38/7)
+- Management of Personnel Resources (Importance: 2.12/5 | Level: 2.25/7)
+- Troubleshooting (Importance: 2.0/5 | Level: 1.38/7)
+- Operations Analysis (Importance: 2.0/5 | Level: 1.38/7)
+- Learning Strategies (Importance: 2.0/5 | Level: 1.88/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 2.12/7)
+- Equipment Selection (Importance: 1.62/5 | Level: 0.75/7)
+- Equipment Maintenance (Importance: 1.62/5 | Level: 0.62/7)
+- Operation and Control (Importance: 1.62/5 | Level: 1.25/7)
+- Repairing (Importance: 1.5/5 | Level: 0.5/7)
+- Technology Design (Importance: 1.38/5 | Level: 0.38/7)
+- Programming (Importance: 1.38/5 | Level: 0.38/7)
+- Management of Financial Resources (Importance: 1.38/5 | Level: 0.38/7)
+- Installation (Importance: 1.12/5 | Level: 0.25/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Brokerage software (Tech skill type: Procurement software)
+- Corel WordPerfect Office Suite (Tech skill type: Office suite software)
+- Database software (Tech skill type: Data base user interface and query software)
+- Email software (Tech skill type: Electronic mail software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft OneNote (Tech skill type: Word processing software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Operating system software (Tech skill type: Operating system software)
+- Posting software (Tech skill type: Inventory management software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- Transportation management software (Tech skill type: Mobile location based services software)
+- Transportation management system TMS software (Tech skill type: Mobile location based services software)
+- Web browser software (Tech skill type: Internet browser software)
+- Web-based dispatch software (Tech skill type: Mobile location based services software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Crow bars (Tool type: Pry bars)
+- Desktop computers (Tool type: Desktop computers)
+- Electrical power unit (Tool type: Ground power units for aircraft)
+- Forklifts (Tool type: Forklifts)
+- Hammers (Tool type: Hammers)
+- Hand trucks (Tool type: Hand trucks or accessories)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Laser printers (Tool type: Laser printers)
+- Mobile air-conditioning units (Tool type: Air conditioners)
+- Radio frequency identification RFID scanners (Tool type: Radio frequency scanners)
+- Staple guns (Tool type: Staple guns)
+- Steel cutters (Tool type: Metal cutters)
+- Straight trucks (Tool type: Cargo trucks)
+- Strapping machines (Tool type: Wrapping machinery)
+- Tow tractors (Tool type: Aircraft pushback or tow tractors)
+- Two way radios (Tool type: Two way radios)
+- Wheel chocks (Tool type: Wheel chocks)

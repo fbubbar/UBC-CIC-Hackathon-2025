@@ -1,0 +1,129 @@
+Job Title: Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic
+O*NET-SOC Code: 51-4021.00
+
+# DESCRIPTION
+Set up, operate, or tend machines to extrude or draw thermoplastic or metal materials into tubes, rods, hoses, wire, bars, or structural shapes.
+
+# TASKS
+- Measure and examine extruded products to locate defects and to check for conformance to specifications, adjusting controls as necessary to alter products.
+- Determine setup procedures and select machine dies and parts, according to specifications.
+- Start machines and set controls to regulate vacuum, air pressure, sizing rings, and temperature, and to synchronize speed of extrusion.
+- Reel extruded products into rolls of specified lengths and weights.
+- Install dies, machine screws, and sizing rings on machines that extrude thermoplastic or metal materials.
+- Change dies on extruding machines, according to production line changes.
+- Clean work areas.
+- Troubleshoot, maintain, and make minor repairs to equipment.
+- Weigh and mix pelletized, granular, or powdered thermoplastic materials and coloring pigments.
+- Test physical properties of products with testing devices such as acid-bath testers, burst testers, and impact testers.
+- Load machine hoppers with mixed materials, using augers, or stuff rolls of plastic dough into machine cylinders.
+- Maintain an inventory of materials.
+- Adjust controls to draw or press metal into specified shapes and diameters.
+- Replace worn dies when products vary from specifications.
+- Select nozzles, spacers, and wire guides, according to diameters and lengths of rods.
+- Operate shearing mechanisms to cut rods to specified lengths.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operations Monitoring (Importance: 3.5/5 | Level: 3.62/7)
+- Operation and Control (Importance: 3.38/5 | Level: 3.5/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.25/7)
+- Critical Thinking (Importance: 3.12/5 | Level: 2.75/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 2.75/7)
+- Quality Control Analysis (Importance: 3.12/5 | Level: 3.38/7)
+- Complex Problem Solving (Importance: 3.0/5 | Level: 2.62/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Troubleshooting (Importance: 3.0/5 | Level: 2.75/7)
+- Speaking (Importance: 3.0/5 | Level: 2.5/7)
+- Time Management (Importance: 2.88/5 | Level: 2.5/7)
+- Reading Comprehension (Importance: 2.88/5 | Level: 2.88/7)
+- Active Listening (Importance: 2.88/5 | Level: 2.62/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 2.38/7)
+- Repairing (Importance: 2.75/5 | Level: 2.88/7)
+- Active Learning (Importance: 2.62/5 | Level: 2.25/7)
+- Writing (Importance: 2.62/5 | Level: 2.0/7)
+- Equipment Maintenance (Importance: 2.62/5 | Level: 2.62/7)
+- Equipment Selection (Importance: 2.62/5 | Level: 2.5/7)
+- Mathematics (Importance: 2.5/5 | Level: 2.5/7)
+- Systems Analysis (Importance: 2.38/5 | Level: 2.25/7)
+- Persuasion (Importance: 2.38/5 | Level: 1.88/7)
+- Systems Evaluation (Importance: 2.38/5 | Level: 2.25/7)
+- Management of Personnel Resources (Importance: 2.25/5 | Level: 1.88/7)
+- Learning Strategies (Importance: 2.25/5 | Level: 2.12/7)
+- Service Orientation (Importance: 2.25/5 | Level: 1.75/7)
+- Instructing (Importance: 2.25/5 | Level: 2.25/7)
+- Installation (Importance: 2.12/5 | Level: 1.62/7)
+- Technology Design (Importance: 1.88/5 | Level: 0.88/7)
+- Science (Importance: 1.88/5 | Level: 1.12/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 0.75/7)
+- Management of Material Resources (Importance: 1.75/5 | Level: 1.25/7)
+- Operations Analysis (Importance: 1.75/5 | Level: 1.38/7)
+- Negotiation (Importance: 1.75/5 | Level: 1.5/7)
+- Programming (Importance: 1.5/5 | Level: 0.5/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Enterprise application integration EAI software (Tech skill type: Enterprise application integration software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Operational databases (Tech skill type: Data base user interface and query software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+
+## TOOLS USED
+- Air cooling systems (Tool type: Blowers)
+- Automatic vacuum pumps (Tool type: Vacuum pumps)
+- Batch dryers (Tool type: Air dryers)
+- Billet heating furnaces (Tool type: Furnaces)
+- Billet loaders (Tool type: Loading equipment)
+- Blown film extruders (Tool type: Extruders)
+- Braiders (Tool type: Rubber or plastic extrusion dies)
+- Burst testers (Tool type: Tensile strength tester)
+- Conveyor augers (Tool type: Screw conveyor)
+- Desktop computers (Tool type: Desktop computers)
+- Die changers (Tool type: Compression die adaptor)
+- Die holders (Tool type: Compression die adaptor)
+- Die shuffles (Tool type: Compression die adaptor)
+- Die slides (Tool type: Compression die adaptor)
+- Digital calipers (Tool type: Calipers)
+- Digital micrometers (Tool type: Micrometers)
+- Dummy blocks (Tool type: Rubber or plastic extrusion dies)
+- Dye water tank farm systems (Tool type: Steel holding tank)
+- Electrical panel boards (Tool type: Electrical control panels for generators)
+- Extrusion press conveyors (Tool type: Belt conveyors)
+- Extrusion pullers (Tool type: Wire drawing machine)
+- Horizontal cooling tanks (Tool type: Quench machine)
+- Hot log shears (Tool type: Metal shearing machine)
+- Industrial floor scales (Tool type: Floor or platform scales)
+- Injection molding machines (Tool type: Injection molding machines)
+- Jacket extruder (Tool type: Extruders)
+- Lubrication systems (Tool type: Pneumatic lubricators)
+- Measuring tapes (Tool type: Tape measures)
+- Metal bending mandrels (Tool type: Pipe bending mandrel)
+- Metal shearing machines (Tool type: Metal shearing machine)
+- Nip rolls (Tool type: Laminators)
+- Packaging hoppers (Tool type: Packaging hoppers)
+- Paddle blenders (Tool type: Intensive mixers)
+- Pellet classifiers (Tool type: Hydraulic classifier)
+- Pin gauge sets (Tool type: Pin gauge)
+- Plastic film extrusion dies (Tool type: Rubber or plastic extrusion dies)
+- Plastic profile extrusion dies (Tool type: Rubber or plastic extrusion dies)
+- Plastic sheet extrusion dies (Tool type: Rubber or plastic extrusion dies)
+- Plate conveyors (Tool type: Belt conveyors)
+- Production counters (Tool type: Counters)
+- Ribbon blenders (Tool type: Intensive mixers)
+- Ring gauges (Tool type: Cylinder gauge)
+- Roller conveyors (Tool type: Roller conveyors)
+- Sheet extruders (Tool type: Extruders)
+- Sheet stackers (Tool type: Stackers)
+- Sigma blade mixers (Tool type: Intensive mixers)
+- Single screw extruders (Tool type: Extruders)
+- Slat conveyors (Tool type: Belt conveyors)
+- Snap gauges (Tool type: Go or no go gauge)
+- Steam controls (Tool type: Compressor control panels)
+- Tubing extruders (Tool type: Extruders)
+- Twin screw extruders (Tool type: Extruders)
+- Two-roll mills (Tool type: Rubber or plastic mills)
+- Variable impact testers (Tool type: Impact testers)
+- Wheeled forklifts (Tool type: Forklifts)
+- Wire drawing machines (Tool type: Wire drawing machine)

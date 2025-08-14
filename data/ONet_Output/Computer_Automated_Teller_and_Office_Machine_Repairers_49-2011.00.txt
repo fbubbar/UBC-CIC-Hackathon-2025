@@ -1,0 +1,148 @@
+Job Title: Computer, Automated Teller, and Office Machine Repairers
+O*NET-SOC Code: 49-2011.00
+
+# DESCRIPTION
+Repair, maintain, or install computers, word processing systems, automated teller machines, and electronic office machines, such as duplicating and fax machines.
+
+# TASKS
+- Reassemble machines after making repairs or replacing parts.
+- Converse with customers to determine details of equipment problems.
+- Disassemble machines to examine parts, such as wires, gears, or bearings for wear or defects, using hand or power tools and measuring devices.
+- Advise customers concerning equipment operation, maintenance, or programming.
+- Align, adjust, or calibrate equipment according to specifications.
+- Repair, adjust, or replace electrical or mechanical components or parts, using hand tools, power tools, or soldering or welding equipment.
+- Travel to customers' stores or offices to service machines or to provide emergency repair service.
+- Maintain parts inventories and order any additional parts needed for repairs.
+- Operate machines to test functioning of parts or mechanisms.
+- Reinstall software programs or adjust settings on existing software to fix machine malfunctions.
+- Clean, oil, or adjust mechanical parts to maintain machines' operating efficiency and to prevent breakdowns.
+- Maintain records of equipment maintenance work or repairs.
+- Test new systems to ensure that they are in working order.
+- Complete repair bills, shop records, time cards, or expense reports.
+- Install and configure new equipment, including operating software or peripheral equipment.
+- Analyze equipment performance records to assess equipment functioning.
+- Read specifications, such as blueprints, charts, or schematics, to determine machine settings or adjustments.
+- Update existing equipment, performing tasks such as installing updated circuit boards or additional memory.
+- Test components or circuits of faulty equipment to locate defects, using oscilloscopes, signal generators, ammeters, voltmeters, or special diagnostic software programs.
+- Assemble machines according to specifications, using hand or power tools and measuring devices.
+- Lay cable and hook up electrical connections between machines, power sources, and phone lines.
+- Enter information into computers to copy programs from one electronic component to another or to draw, modify, or store schematics.
+- Fill machines with toners, inks, or other duplicating fluids.
+- Train new repairers.
+- Calibrate testing instruments.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Repairing (Importance: 3.62/5 | Level: 3.12/7)
+- Active Listening (Importance: 3.62/5 | Level: 3.0/7)
+- Critical Thinking (Importance: 3.5/5 | Level: 3.12/7)
+- Complex Problem Solving (Importance: 3.38/5 | Level: 3.12/7)
+- Troubleshooting (Importance: 3.38/5 | Level: 3.25/7)
+- Equipment Maintenance (Importance: 3.25/5 | Level: 2.88/7)
+- Equipment Selection (Importance: 3.25/5 | Level: 3.0/7)
+- Time Management (Importance: 3.25/5 | Level: 3.0/7)
+- Speaking (Importance: 3.25/5 | Level: 3.0/7)
+- Quality Control Analysis (Importance: 3.25/5 | Level: 3.0/7)
+- Reading Comprehension (Importance: 3.12/5 | Level: 3.12/7)
+- Operations Monitoring (Importance: 3.12/5 | Level: 3.0/7)
+- Active Learning (Importance: 3.0/5 | Level: 3.0/7)
+- Monitoring (Importance: 3.0/5 | Level: 3.0/7)
+- Service Orientation (Importance: 3.0/5 | Level: 2.88/7)
+- Writing (Importance: 3.0/5 | Level: 3.0/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 2.62/7)
+- Coordination (Importance: 3.0/5 | Level: 2.88/7)
+- Installation (Importance: 3.0/5 | Level: 2.5/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 3.0/7)
+- Negotiation (Importance: 2.75/5 | Level: 2.12/7)
+- Systems Analysis (Importance: 2.75/5 | Level: 2.62/7)
+- Operation and Control (Importance: 2.75/5 | Level: 2.88/7)
+- Learning Strategies (Importance: 2.62/5 | Level: 2.62/7)
+- Instructing (Importance: 2.62/5 | Level: 2.88/7)
+- Persuasion (Importance: 2.5/5 | Level: 2.75/7)
+- Management of Personnel Resources (Importance: 2.5/5 | Level: 2.12/7)
+- Systems Evaluation (Importance: 2.38/5 | Level: 2.38/7)
+- Management of Material Resources (Importance: 2.12/5 | Level: 1.25/7)
+- Programming (Importance: 2.12/5 | Level: 1.25/7)
+- Operations Analysis (Importance: 2.12/5 | Level: 2.0/7)
+- Technology Design (Importance: 2.0/5 | Level: 1.88/7)
+- Mathematics (Importance: 1.88/5 | Level: 1.75/7)
+- Science (Importance: 1.88/5 | Level: 1.62/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 0.88/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adobe Acrobat (Tech skill type: Document management software)
+- Call tracking software (Tech skill type: Helpdesk or call center software)
+- Cisco Systems VPN Client (Tech skill type: Network security or virtual private network VPN management software)
+- Database software (Tech skill type: Data base user interface and query software)
+- Debugging software (Tech skill type: Program testing software)
+- Email software (Tech skill type: Electronic mail software)
+- Extensible markup language XML (Tech skill type: Enterprise application integration software)
+- Extensible stylesheet language XSL (Tech skill type: Enterprise application integration software)
+- Hypertext markup language HTML (Tech skill type: Web platform development software)
+- IBM Notes (Tech skill type: Electronic mail software)
+- IBM WebSphere (Tech skill type: Cloud-based management software)
+- Inventory control system software (Tech skill type: Inventory management software)
+- JavaScript (Tech skill type: Web platform development software)
+- Linux (Tech skill type: Operating system software)
+- Macromedia Cold Fusion (Tech skill type: Web page creation and editing software)
+- McNeel Rhinoceros 3D (Tech skill type: Graphics or photo imaging software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Active Directory (Tech skill type: Internet directory services software)
+- Microsoft Active Server Pages ASP (Tech skill type: Web platform development software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Exchange (Tech skill type: Electronic mail software)
+- Microsoft Hyperterminal (Tech skill type: Platform interconnectivity software)
+- Microsoft Internet Explorer (Tech skill type: Internet browser software)
+- Microsoft Office Live Meeting (Tech skill type: Video conferencing software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft operating system (Tech skill type: Operating system software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Visual Basic.NET (Tech skill type: Object or component oriented development software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Norton AntiVirus (Tech skill type: Transaction security and virus protection software)
+- Operating system software (Tech skill type: Operating system software)
+- Personal computer diagnostic software (Tech skill type: Program testing software)
+- Scheduling software (Tech skill type: Calendar and scheduling software)
+- ServiceNow (Tech skill type: Data base user interface and query software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Symantec Altiris Deployment Solution (Tech skill type: Configuration management software)
+- Symantec Norton Utilities (Tech skill type: Filesystem software)
+- Terminal emulation software (Tech skill type: Network connectivity terminal emulation software)
+- UNIX (Tech skill type: Operating system software)
+- Virus detection software (Tech skill type: Transaction security and virus protection software)
+- Web browser software (Tech skill type: Internet browser software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Adjustable widemouth pliers (Tool type: Adjustable widemouth pliers)
+- Air compressors (Tool type: Air compressors)
+- Armored cars (Tool type: Delivery trucks)
+- Asynchronous transfer mode ATM analyzers (Tool type: Network analyzers)
+- Bit error rate testers BERT (Tool type: Digital testers)
+- Cable verifiers (Tool type: Cable accessories)
+- Combination wrenches (Tool type: Combination wrenches)
+- Computer servers (Tool type: Computer servers)
+- Desktop computers (Tool type: Desktop computers)
+- Digital multimeters (Tool type: Multimeters)
+- Digital ohmmeters (Tool type: Ohmmeters)
+- Digital oscilloscopes (Tool type: Oscilloscopes)
+- Drill presses (Tool type: Drill press or radial drill)
+- Field replaceable units FRU (Tool type: Bare printed circuit boards)
+- Flathead screwdrivers (Tool type: Screwdrivers)
+- Mini vacuums (Tool type: Vacuum cleaners)
+- Notebook computers (Tool type: Notebook computers)
+- Nut drivers (Tool type: Nut drivers)
+- Portable signal generators (Tool type: Signal generators)
+- Power drills (Tool type: Power drills)
+- Powerline monitors (Tool type: Power meters)
+- Protocol analyzers (Tool type: Protocol analyzers)
+- Soldering irons (Tool type: Soldering iron)
+- Synchronous optical network SONET analyzers (Tool type: Network analyzers)
+- T-Birds (Tool type: Network analyzers)
+- Telecommunication analyzers (Tool type: Network analyzers)
+- Test pattern generators (Tool type: Signal generators)
+- Voltmeters (Tool type: Voltage or current meters)
+- Wire strippers (Tool type: Stripping tools)

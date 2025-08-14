@@ -1,0 +1,89 @@
+Job Title: Security Managers
+O*NET-SOC Code: 11-3013.01
+
+# DESCRIPTION
+Direct an organization's security functions, including physical security and safety of employees and facilities.
+
+# TASKS
+- Analyze and evaluate security operations to identify risks or opportunities for improvement through auditing, review, or assessment.
+- Assess risks to mitigate potential consequences of incidents and develop a plan to respond to incidents.
+- Attend meetings, professional seminars, or conferences to keep abreast of changes in executive legislative directives or new technologies impacting security operations.
+- Communicate security status, updates, and actual or potential problems, using established protocols.
+- Conduct physical examinations of property to ensure compliance with security policies and regulations.
+- Conduct threat or vulnerability analyses to determine probable frequency, criticality, consequence, or severity of natural or man-made disasters or criminal activity on the organization's profitability or delivery of products or services.
+- Coordinate security operations or activities with public law enforcement, fire and other agencies.
+- Create or implement security standards, policies, and procedures.
+- Develop budgets for security operations.
+- Develop or manage investigation programs, including collection and preservation of video and notes of surveillance processes or investigative interviews.
+- Develop, arrange for, perform, or assess executive protection activities to reduce security risks.
+- Develop, conduct, support, or assist in governmental reviews, internal corporate evaluations, or assessments of the overall effectiveness of facility and personnel security processes.
+- Develop, implement, manage, or evaluate policies and methods to protect personnel against harassment, threats, or violence.
+- Develop, recommend, or manage security procedures for operations or processes, such as security call centers, access control, and reporting tools.
+- Direct or participate in emergency management and contingency planning.
+- Identify, investigate, or resolve security breaches.
+- Monitor and ensure a sound, ethical environment.
+- Monitor security policies, programs or procedures to ensure compliance with internal security policies, or applicable government security requirements, policies, and directives.
+- Plan security for special and high-risk events.
+- Plan, direct, or coordinate security activities to safeguard company employees, guests, or others on company property.
+- Prepare reports or make presentations on internal investigations, losses, or violations of regulations, policies and procedures.
+- Purchase security-related supplies, equipment, or technology.
+- Respond to medical emergencies, bomb threats, fire alarms, or intrusion alarms, following emergency response procedures.
+- Review financial reports to ensure efficiency and quality of security operations.
+- Supervise or provide leadership to subordinate security professionals, performing activities such as hiring, investigating applicants' backgrounds, training, assigning work, evaluating performance, or disciplining.
+- Support efforts to reduce substance abuse or other illegal activities in the workplace.
+- Train subordinate security professionals or other organization members in security rules and procedures.
+- Write or review security-related documents, such as incident reports, proposals, and tactical or strategic initiatives.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- No specific skills listed.
+
+# TECHNOLOGY SKILLS & TOOLS
+- Alarm system software (Tech skill type: Facilities management software)
+- Amazon Web Services AWS software (Tech skill type: Data base user interface and query software)
+- Corel WordPerfect Office Suite (Tech skill type: Office suite software)
+- Emergency notification system software (Tech skill type: Communications server software)
+- Facebook (Tech skill type: Web page creation and editing software)
+- FieldSoft AIMSonScene (Tech skill type: Project management software)
+- Firewall software (Tech skill type: Network security and virtual private network VPN equipment software)
+- Graphics software (Tech skill type: Graphics or photo imaging software)
+- Human resources management system HRMS (Tech skill type: Human resources software)
+- Incident command system ICS software (Tech skill type: Project management software)
+- Inventory tracking software (Tech skill type: Inventory management software)
+- Maintenance management software (Tech skill type: Facilities management software)
+- Mapping software (Tech skill type: Map creation software)
+- McAfee (Tech skill type: Transaction security and virus protection software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Azure software (Tech skill type: Development environment software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Word (Tech skill type: Word processing software)
+- NortonLifeLock cybersecurity software (Tech skill type: Transaction security and virus protection software)
+- Operating system software (Tech skill type: Operating system software)
+- Oracle PeopleSoft (Tech skill type: Enterprise resource planning ERP software)
+- Payroll software (Tech skill type: Time accounting software)
+- Physical access management software (Tech skill type: Facilities management software)
+- Platform as a service PaaS (Tech skill type: Cloud-based data access and sharing software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Twitter (Tech skill type: Instant messaging software)
+- Web browser software (Tech skill type: Internet browser software)
+- Work scheduling software (Tech skill type: Calendar and scheduling software)
+
+## TOOLS USED
+- Approach detection systems (Tool type: Motion detectors)
+- Computer laser printers (Tool type: Laser printers)
+- Explosives detectors (Tool type: Chemical agent detector)
+- Fire alarm systems (Tool type: Alarm systems)
+- Keyless entry systems (Tool type: Security or access control systems)
+- Laptop computers (Tool type: Notebook computers)
+- Multiline telephone systems (Tool type: Special purpose telephones)
+- Personal computers (Tool type: Personal computers)
+- Physical access control systems (Tool type: Security or access control systems)
+- Security alarm systems (Tool type: Alarm systems)
+- Teleconferencing equipment (Tool type: Teleconference equipment)
+- Video surveillance systems (Tool type: Video monitors)
+- Videoconferencing equipment (Tool type: Videoconferencing systems)

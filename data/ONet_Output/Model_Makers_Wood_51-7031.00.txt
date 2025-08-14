@@ -1,0 +1,115 @@
+Job Title: Model Makers, Wood
+O*NET-SOC Code: 51-7031.00
+
+# DESCRIPTION
+Construct full-size and scale wooden precision models of products. Includes wood jig builders and loft workers.
+
+# TASKS
+- Read blueprints, drawings, or written specifications, and consult with designers to determine sizes and shapes of patterns and required machine setups.
+- Fit, fasten, and assemble wood parts together to form patterns, models, or sections, using glue, nails, dowels, bolts, screws, and other fasteners.
+- Verify dimensions and contours of models during hand-forming processes, using templates and measuring devices.
+- Trim, smooth, and shape surfaces, and plane, shave, file, scrape, and sand models to attain specified shapes, using hand tools.
+- Plan, lay out, and draw outlines of units, sectional patterns, or full-scale mock-ups of products.
+- Construct wooden models, patterns, templates, full scale mock-ups, and molds for parts of products and production tools.
+- Select wooden stock, determine layouts, and mark layouts of parts on stock, using precision equipment such as scribers, squares, and protractors.
+- Mark identifying information on patterns, parts, and templates to indicate assembly methods and details.
+- Set up, operate, and adjust a variety of woodworking machines such as bandsaws and planers to cut and shape sections, parts, and patterns, according to specifications.
+- Maintain pattern records for reference.
+- Build jigs that can be used as guides for assembling oversized or special types of box shooks.
+- Issue patterns to designated machine operators.
+- Fabricate work aids such as scrapers or templates.
+- Finish patterns or models with protective or decorative coatings such as shellac, lacquer, or wax.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Monitoring (Importance: 3.12/5 | Level: 3.0/7)
+- Operations Monitoring (Importance: 3.12/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 2.75/7)
+- Speaking (Importance: 3.0/5 | Level: 2.88/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 3.0/7)
+- Reading Comprehension (Importance: 3.0/5 | Level: 2.88/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 2.75/7)
+- Operation and Control (Importance: 2.88/5 | Level: 3.0/7)
+- Quality Control Analysis (Importance: 2.88/5 | Level: 2.75/7)
+- Operations Analysis (Importance: 2.88/5 | Level: 2.88/7)
+- Active Listening (Importance: 2.88/5 | Level: 2.88/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 2.38/7)
+- Active Learning (Importance: 2.75/5 | Level: 2.62/7)
+- Complex Problem Solving (Importance: 2.75/5 | Level: 2.88/7)
+- Coordination (Importance: 2.75/5 | Level: 2.75/7)
+- Writing (Importance: 2.62/5 | Level: 2.62/7)
+- Service Orientation (Importance: 2.38/5 | Level: 2.25/7)
+- Mathematics (Importance: 2.38/5 | Level: 2.12/7)
+- Learning Strategies (Importance: 2.25/5 | Level: 1.88/7)
+- Instructing (Importance: 2.25/5 | Level: 2.0/7)
+- Equipment Selection (Importance: 2.12/5 | Level: 1.38/7)
+- Troubleshooting (Importance: 2.12/5 | Level: 2.0/7)
+- Systems Analysis (Importance: 2.12/5 | Level: 2.12/7)
+- Management of Personnel Resources (Importance: 2.12/5 | Level: 2.0/7)
+- Persuasion (Importance: 2.12/5 | Level: 2.0/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 1.75/7)
+- Equipment Maintenance (Importance: 1.88/5 | Level: 1.38/7)
+- Technology Design (Importance: 1.75/5 | Level: 0.88/7)
+- Negotiation (Importance: 1.75/5 | Level: 1.5/7)
+- Repairing (Importance: 1.75/5 | Level: 1.25/7)
+- Science (Importance: 1.62/5 | Level: 0.62/7)
+- Management of Material Resources (Importance: 1.62/5 | Level: 0.75/7)
+- Management of Financial Resources (Importance: 1.38/5 | Level: 0.38/7)
+- Installation (Importance: 1.12/5 | Level: 0.25/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Dassault Systemes CATIA (Tech skill type: Computer aided design CAD software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Siemens NX (Tech skill type: Computer aided design CAD software)
+
+## TOOLS USED
+- Adjustable hand reamers (Tool type: Hand reamer)
+- Bandsaws (Tool type: Power saws)
+- Belt sanders (Tool type: Belt sander)
+- Bench circular saws (Tool type: Power saws)
+- Benchtop disk sanders (Tool type: Disc sander)
+- Benchtop drill presses (Tool type: Drill press or radial drill)
+- Carving knives (Tool type: Carving tools)
+- Cleaning brushes (Tool type: Cleaning brushes)
+- Computer numerically controlled CNC lathes (Tool type: Automatic lathe or chucking machine)
+- Computer numerically controlled CNC milling machines (Tool type: Milling machines)
+- Cordless angle grinders (Tool type: Angle grinder)
+- Cordless power drills (Tool type: Power drills)
+- Engraving tools (Tool type: Engravers)
+- Heavy duty bench clamps (Tool type: Bench clamp)
+- Metal rulers (Tool type: Rulers)
+- Micro band saws (Tool type: Bandsaw wheel)
+- Micro mills (Tool type: Milling machines)
+- Micro planers (Tool type: Planes)
+- Mini hammers (Tool type: Hammers)
+- Mini tweezers (Tool type: Tweezers)
+- Multipurpose screwdrivers (Tool type: Screwdrivers)
+- Needlenose pliers sets (Tool type: Needlenose pliers)
+- Pen sanders (Tool type: Power sanders)
+- Plank bending tools (Tool type: Bending machines)
+- Plunge routers (Tool type: Power routers)
+- Power nailing tools (Tool type: Power nail guns)
+- Power routers (Tool type: Power routers)
+- Power sanders (Tool type: Power sanders)
+- Powered screwdrivers (Tool type: Power screwguns)
+- Precision bench vises (Tool type: Bench vises)
+- Precision file sets (Tool type: Precision file)
+- Protractors (Tool type: Protractors)
+- Razor saws (Tool type: Saws)
+- Rotary tools (Tool type: Power grinders)
+- Scratch awls (Tool type: Awls)
+- Scribing tools (Tool type: Scribers)
+- Scroll saws (Tool type: Scroll saw)
+- Sharpening stones (Tool type: Sharpening stones or tools or kits)
+- Stereolithography prototyping machines (Tool type: Stereolithography machine)
+- Table saws (Tool type: Power saws)
+- Turning tools (Tool type: Turning machines)
+- Variable speed jigsaws (Tool type: Jigsaw)
+- Vertical mills (Tool type: Milling machines)
+- Wire cutting tools (Tool type: Wire cutters)
+- Woodturning lathes (Tool type: Automatic lathe or chucking machine)
+- Woodworking jointers (Tool type: Woodworking jointer)

@@ -1,0 +1,100 @@
+Job Title: Insulation Workers, Floor, Ceiling, and Wall
+O*NET-SOC Code: 47-2131.00
+
+# DESCRIPTION
+Line and cover structures with insulating materials. May work with batt, roll, or blown insulation materials.
+
+# TASKS
+- Measure and cut insulation for covering surfaces, using tape measures, handsaws, power saws, knives, or scissors.
+- Fit, wrap, staple, or glue insulating materials to structures or surfaces, using hand tools or wires.
+- Cover and line structures with blown or rolled forms of materials to insulate against cold, heat, or moisture, using saws, knives, rasps, trowels, blowers, or other tools and implements.
+- Distribute insulating materials evenly into small spaces within floors, ceilings, or walls, using blowers and hose attachments, or cement mortars.
+- Move controls, buttons, or levers to start blowers and regulate flow of materials through nozzles.
+- Fill blower hoppers with insulating materials.
+- Cover, seal, or finish insulated surfaces or access holes with plastic covers, canvas strips, sealants, tape, cement or asphalt mastic.
+- Read blueprints, and select appropriate insulation, based on space characteristics and the heat retaining or excluding characteristics of the material.
+- Remove old insulation, such as asbestos, following safety procedures.
+- Prepare surfaces for insulation application by brushing or spreading on adhesives, cement, or asphalt, or by attaching metal pins to surfaces.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operation and Control (Importance: 3.0/5 | Level: 3.0/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 2.75/7)
+- Speaking (Importance: 3.0/5 | Level: 2.25/7)
+- Active Listening (Importance: 3.0/5 | Level: 2.25/7)
+- Monitoring (Importance: 2.88/5 | Level: 2.75/7)
+- Coordination (Importance: 2.88/5 | Level: 2.75/7)
+- Operations Monitoring (Importance: 2.88/5 | Level: 2.88/7)
+- Complex Problem Solving (Importance: 2.75/5 | Level: 2.12/7)
+- Time Management (Importance: 2.75/5 | Level: 2.38/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 2.25/7)
+- Reading Comprehension (Importance: 2.62/5 | Level: 2.25/7)
+- Quality Control Analysis (Importance: 2.62/5 | Level: 2.62/7)
+- Persuasion (Importance: 2.62/5 | Level: 2.12/7)
+- Active Learning (Importance: 2.62/5 | Level: 2.12/7)
+- Judgment and Decision Making (Importance: 2.62/5 | Level: 2.38/7)
+- Negotiation (Importance: 2.5/5 | Level: 2.0/7)
+- Troubleshooting (Importance: 2.38/5 | Level: 2.0/7)
+- Service Orientation (Importance: 2.38/5 | Level: 2.12/7)
+- Mathematics (Importance: 2.25/5 | Level: 1.88/7)
+- Equipment Selection (Importance: 2.25/5 | Level: 1.88/7)
+- Instructing (Importance: 2.25/5 | Level: 2.12/7)
+- Management of Personnel Resources (Importance: 2.12/5 | Level: 2.12/7)
+- Repairing (Importance: 2.12/5 | Level: 1.88/7)
+- Learning Strategies (Importance: 2.12/5 | Level: 2.0/7)
+- Writing (Importance: 2.12/5 | Level: 2.12/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.0/7)
+- Systems Analysis (Importance: 2.0/5 | Level: 1.75/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 1.75/7)
+- Equipment Maintenance (Importance: 2.0/5 | Level: 1.88/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.0/7)
+- Operations Analysis (Importance: 1.88/5 | Level: 1.12/7)
+- Technology Design (Importance: 1.75/5 | Level: 1.0/7)
+- Installation (Importance: 1.25/5 | Level: 0.38/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- CMSN FieldPAK (Tech skill type: Data base user interface and query software)
+- Comput-Ability Mechanical Insulation Key Estimator (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- North American Insulation Manufacturers Association NAIMA 3E Plus (Tech skill type: Analytical or scientific software)
+- Turtle Creek Software Goldenseal (Tech skill type: Project management software)
+
+## TOOLS USED
+- Adjustable widemouth pliers (Tool type: Adjustable widemouth pliers)
+- Air compressors (Tool type: Air compressors)
+- Air filtering devices (Tool type: Filtering machinery)
+- Asbestos cutters (Tool type: Shears)
+- Batt knives (Tool type: Utility knives)
+- Blower machines (Tool type: Power blowers)
+- Caulking guns (Tool type: Caulking guns)
+- Chalk lines (Tool type: Chalk lines)
+- Desktop computers (Tool type: Desktop computers)
+- Filtered vacuum cleaners (Tool type: Filtering machinery)
+- Hammer staplers (Tool type: Staple guns)
+- Hole saws (Tool type: Hole saws)
+- Hooded protective suits (Tool type: Hazardous material protective apparel)
+- Knives (Tool type: Utility knives)
+- Ladders (Tool type: Ladders)
+- Notebook computers (Tool type: Notebook computers)
+- Pneumatic staplers (Tool type: Staple guns)
+- Power drills (Tool type: Power drills)
+- Power saws (Tool type: Power saws)
+- Protective suits (Tool type: Hazardous material protective apparel)
+- R-value rulers (Tool type: Thickness measuring devices)
+- Reciprocating saws (Tool type: Power saws)
+- Respirators (Tool type: Respirators)
+- Saws (Tool type: Saws)
+- Scaffolding (Tool type: Scaffolding)
+- Scissors (Tool type: Shears)
+- Screwdrivers (Tool type: Screwdrivers)
+- Sheet metal cutters (Tool type: Metal cutters)
+- Sheet metal templates (Tool type: Tool template sets)
+- Staple guns (Tool type: Staple guns)
+- Stud scrubbers (Tool type: Power buffers)
+- Tape measures (Tool type: Tape measures)
+- Trowels (Tool type: Trowels)

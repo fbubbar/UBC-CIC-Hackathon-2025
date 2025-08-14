@@ -1,0 +1,124 @@
+Job Title: Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons
+O*NET-SOC Code: 47-3014.00
+
+# DESCRIPTION
+Help painters, paperhangers, plasterers, or stucco masons by performing duties requiring less skill. Duties include using, supplying, or holding materials or tools, and cleaning work area and equipment.
+
+# TASKS
+- Clean work areas and equipment.
+- Perform support duties to assist painters, paperhangers, plasterers, or masons.
+- Apply protective coverings, such as masking tape, to articles or areas that could be damaged or stained by work processes.
+- Erect scaffolding.
+- Fill cracks or breaks in surfaces of plaster articles or areas with putty or epoxy compounds.
+- Supply or hold tools and materials.
+- Smooth surfaces of articles to be painted, using sanding and buffing tools and equipment.
+- Mix plaster, and carry plaster to plasterers.
+- Place articles to be stripped into stripping tanks.
+- Remove articles such as cabinets, metal furniture, and paint containers from stripping tanks after prescribed periods of time.
+- Pour specified amounts of chemical solutions into stripping tanks.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Coordination (Importance: 3.0/5 | Level: 2.62/7)
+- Speaking (Importance: 3.0/5 | Level: 2.0/7)
+- Active Listening (Importance: 2.88/5 | Level: 2.25/7)
+- Time Management (Importance: 2.75/5 | Level: 2.5/7)
+- Critical Thinking (Importance: 2.75/5 | Level: 2.25/7)
+- Monitoring (Importance: 2.75/5 | Level: 2.38/7)
+- Operations Monitoring (Importance: 2.62/5 | Level: 2.38/7)
+- Quality Control Analysis (Importance: 2.62/5 | Level: 2.38/7)
+- Social Perceptiveness (Importance: 2.62/5 | Level: 2.25/7)
+- Service Orientation (Importance: 2.5/5 | Level: 2.25/7)
+- Equipment Maintenance (Importance: 2.5/5 | Level: 2.12/7)
+- Repairing (Importance: 2.5/5 | Level: 2.12/7)
+- Troubleshooting (Importance: 2.5/5 | Level: 2.38/7)
+- Judgment and Decision Making (Importance: 2.5/5 | Level: 2.12/7)
+- Active Learning (Importance: 2.38/5 | Level: 2.0/7)
+- Complex Problem Solving (Importance: 2.38/5 | Level: 2.12/7)
+- Learning Strategies (Importance: 2.25/5 | Level: 2.12/7)
+- Negotiation (Importance: 2.25/5 | Level: 1.75/7)
+- Instructing (Importance: 2.25/5 | Level: 2.0/7)
+- Equipment Selection (Importance: 2.25/5 | Level: 1.62/7)
+- Persuasion (Importance: 2.25/5 | Level: 1.75/7)
+- Reading Comprehension (Importance: 2.12/5 | Level: 1.75/7)
+- Operation and Control (Importance: 2.12/5 | Level: 2.0/7)
+- Management of Personnel Resources (Importance: 2.12/5 | Level: 2.0/7)
+- Systems Analysis (Importance: 2.0/5 | Level: 1.12/7)
+- Writing (Importance: 2.0/5 | Level: 1.75/7)
+- Systems Evaluation (Importance: 1.88/5 | Level: 1.12/7)
+- Science (Importance: 1.12/5 | Level: 0.12/7)
+- Mathematics (Importance: 1.12/5 | Level: 0.25/7)
+- Management of Material Resources (Importance: 1.12/5 | Level: 0.12/7)
+- Installation (Importance: 1.12/5 | Level: 0.12/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+- Operations Analysis (Importance: 1.0/5 | Level: 0.0/7)
+- Technology Design (Importance: 1.0/5 | Level: 0.0/7)
+- Management of Financial Resources (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- A-Systems JobView (Tech skill type: Accounting software)
+- Apple iWork (Tech skill type: Office suite software)
+- Construction Software Center EasyEst (Tech skill type: Project management software)
+- Cost estimating software (Tech skill type: Project management software)
+- Evergreen Technology Eagle Bid Estimating (Tech skill type: Project management software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- On Center Quick Bid (Tech skill type: Project management software)
+- Sage Construction Anywhere (Tech skill type: Project management software)
+- Turtle Creek Software Goldenseal (Tech skill type: Project management software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Adjustable wrenches (Tool type: Adjustable wrenches)
+- Airless paint guns (Tool type: Paint sprayers)
+- Application spatulas (Tool type: Spatulas)
+- Bosun chairs (Tool type: Manlift or personnel lift)
+- Caulking guns (Tool type: Caulking guns)
+- Chalk lines (Tool type: Chalk lines)
+- Claw hammers (Tool type: Claw hammer)
+- Darbies (Tool type: Floats)
+- Drywall stilts (Tool type: Ladders)
+- Floats (Tool type: Floats)
+- Hand shears (Tool type: Shears)
+- Heat guns (Tool type: Heat guns)
+- Humidity indicators (Tool type: Temperature humidity testers)
+- Ladders (Tool type: Ladders)
+- Locking pliers (Tool type: Locking pliers)
+- Measuring tapes (Tool type: Tape measures)
+- Moisture meters (Tool type: Moisture meters)
+- Nail punches (Tool type: Punches or nail sets or drifts)
+- Notebook computers (Tool type: Notebook computers)
+- Nut drivers (Tool type: Nut drivers)
+- Paint application brushes (Tool type: Paint brushes)
+- Paint application rollers (Tool type: Paint rollers)
+- Paint spray guns (Tool type: Paint sprayers)
+- Paint stirrers (Tool type: Paint mixers)
+- Paint strainers (Tool type: Paint strainers)
+- Personal computers (Tool type: Personal computers)
+- Piston pumps (Tool type: Hydraulic pumps)
+- Plaster mixers (Tool type: Plaster or mortar mixers)
+- Plaster spraying machines (Tool type: Paint sprayers)
+- Plastering trowels (Tool type: Trowels)
+- Plumb bobs (Tool type: Plumb bobs)
+- Power buffers (Tool type: Power buffers)
+- Power sanders (Tool type: Power sanders)
+- Power saws (Tool type: Power saws)
+- Pressure rollers (Tool type: Paint rollers)
+- Protective masks (Tool type: Facial shields)
+- Putty knives (Tool type: Putty knives)
+- Razor knives (Tool type: Razor knives)
+- Respirators (Tool type: Respirators)
+- Safety glasses (Tool type: Safety glasses)
+- Sandblasters (Tool type: Pneumatic sanding machines)
+- Scaffolding (Tool type: Scaffolding)
+- Screeds (Tool type: Concrete spreaders)
+- Seam rollers (Tool type: Wallpaper roller)
+- Self-contained protective suits (Tool type: Hazardous material protective apparel)
+- Single-cut mill saw files (Tool type: Mill saw file)
+- Spirit levels (Tool type: Levels)
+- Squeegees (Tool type: Squeegees or washers)
+- Steam cleaning equipment (Tool type: Pressure or steam cleaners)
+- Straightedges (Tool type: Straight edges)
+- Swing stages (Tool type: Manlift or personnel lift)
+- Utility knives (Tool type: Utility knives)
+- Wire brushes (Tool type: Wire brushes)

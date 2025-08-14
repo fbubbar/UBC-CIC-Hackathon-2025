@@ -1,0 +1,101 @@
+Job Title: Archivists
+O*NET-SOC Code: 25-4011.00
+
+# DESCRIPTION
+Appraise, edit, and direct safekeeping of permanent records and historically valuable documents. Participate in research activities based on archival materials.
+
+# TASKS
+- Organize archival records and develop classification systems to facilitate access to archival materials.
+- Provide reference services and assistance for users needing archival materials.
+- Prepare archival records, such as document descriptions, to allow easy access to information.
+- Create and maintain accessible, retrievable computer archives and databases, incorporating current advances in electronic information storage technology.
+- Establish and administer policy guidelines concerning public access and use of materials.
+- Direct activities of workers who assist in arranging, cataloguing, exhibiting, and maintaining collections of valuable materials.
+- Preserve records, documents, and objects, copying records to film, videotape, audiotape, disk, or computer formats as necessary.
+- Research and record the origins and historical significance of archival materials.
+- Locate new materials and direct their acquisition and display.
+- Authenticate and appraise historical documents and archival materials.
+- Coordinate educational and public outreach programs, such as tours, workshops, lectures, and classes.
+- Specialize in an area of history or technology, researching topics or items relevant to collections to determine what should be retained or acquired.
+- Select and edit documents for publication and display, applying knowledge of subject, literary expression, and presentation techniques.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Reading Comprehension (Importance: 4.12/5 | Level: 4.12/7)
+- Writing (Importance: 3.88/5 | Level: 4.12/7)
+- Active Listening (Importance: 3.88/5 | Level: 4.0/7)
+- Speaking (Importance: 3.5/5 | Level: 3.88/7)
+- Active Learning (Importance: 3.38/5 | Level: 3.38/7)
+- Critical Thinking (Importance: 3.38/5 | Level: 3.88/7)
+- Complex Problem Solving (Importance: 3.25/5 | Level: 3.12/7)
+- Service Orientation (Importance: 3.12/5 | Level: 3.12/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 3.25/7)
+- Monitoring (Importance: 3.0/5 | Level: 3.12/7)
+- Coordination (Importance: 2.88/5 | Level: 2.88/7)
+- Time Management (Importance: 2.88/5 | Level: 2.88/7)
+- Systems Evaluation (Importance: 2.88/5 | Level: 2.88/7)
+- Systems Analysis (Importance: 2.88/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 2.88/5 | Level: 3.0/7)
+- Instructing (Importance: 2.88/5 | Level: 2.88/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 2.88/7)
+- Persuasion (Importance: 2.62/5 | Level: 2.75/7)
+- Management of Personnel Resources (Importance: 2.5/5 | Level: 2.88/7)
+- Negotiation (Importance: 2.5/5 | Level: 2.5/7)
+- Operations Analysis (Importance: 2.12/5 | Level: 2.12/7)
+- Quality Control Analysis (Importance: 2.12/5 | Level: 2.0/7)
+- Mathematics (Importance: 2.0/5 | Level: 2.0/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 2.0/7)
+- Management of Financial Resources (Importance: 1.88/5 | Level: 1.62/7)
+- Science (Importance: 1.88/5 | Level: 1.38/7)
+- Operations Monitoring (Importance: 1.75/5 | Level: 1.38/7)
+- Technology Design (Importance: 1.62/5 | Level: 0.88/7)
+- Troubleshooting (Importance: 1.62/5 | Level: 0.62/7)
+- Programming (Importance: 1.5/5 | Level: 0.62/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Operation and Control (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adlib Information Systems Adlib Archive (Tech skill type: Data base user interface and query software)
+- Adobe Acrobat (Tech skill type: Document management software)
+- Adobe Creative Cloud software (Tech skill type: Graphics or photo imaging software)
+- Adobe Illustrator (Tech skill type: Graphics or photo imaging software)
+- Adobe InDesign (Tech skill type: Desktop publishing software)
+- Adobe Photoshop (Tech skill type: Graphics or photo imaging software)
+- Adobe Premiere Pro (Tech skill type: Video creation and editing software)
+- Apple Final Cut Pro (Tech skill type: Video creation and editing software)
+- Archivists' Toolkit (Tech skill type: Data base user interface and query software)
+- Archon (Tech skill type: Data base user interface and query software)
+- Corel Paint Shop Pro (Tech skill type: Graphics or photo imaging software)
+- Database software (Tech skill type: Data base user interface and query software)
+- DiMeMa CONTENTdm (Tech skill type: Data base user interface and query software)
+- Dynamic hypertext markup language DHTML (Tech skill type: Web platform development software)
+- Encoded archival system EAD (Tech skill type: Development environment software)
+- Esri ArcGIS (Tech skill type: Geographic information system)
+- Extensible markup language XML (Tech skill type: Enterprise application integration software)
+- FileMaker Pro (Tech skill type: Data base user interface and query software)
+- Gallery Systems The Museum System (Tech skill type: Data base user interface and query software)
+- Geographic information system GIS systems (Tech skill type: Geographic information system)
+- Hypertext markup language HTML (Tech skill type: Web platform development software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Omeka software (Tech skill type: Document management software)
+- PREMIS (Tech skill type: Data base user interface and query software)
+- Presentation software (Tech skill type: Presentation software)
+- Web browser software (Tech skill type: Internet browser software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Compact digital cameras (Tool type: Digital cameras)
+- Data input scanners (Tool type: Scanners)
+- Desktop computers (Tool type: Desktop computers)
+- Digitizers (Tool type: Scanners)
+- Inkjet printers (Tool type: Inkjet printers)
+- Laptop computers (Tool type: Notebook computers)
+- Personal computers (Tool type: Personal computers)

@@ -1,0 +1,113 @@
+Job Title: Bill and Account Collectors
+O*NET-SOC Code: 43-3011.00
+
+# DESCRIPTION
+Locate and notify customers of delinquent accounts by mail, telephone, or personal visit to solicit payment. Duties include receiving payment and posting amount to customer's account, preparing statements to credit department if customer fails to respond, initiating repossession proceedings or service disconnection, and keeping records of collection and status of accounts.
+
+# TASKS
+- Record information about financial status of customers and status of collection efforts.
+- Locate and notify customers of delinquent accounts by mail, telephone, or personal visits to solicit payment.
+- Locate and monitor overdue accounts, using computers and a variety of automated systems.
+- Arrange for debt repayment or establish repayment schedules, based on customers' financial situations.
+- Advise customers of necessary actions and strategies for debt repayment.
+- Answer customer questions regarding problems with their accounts.
+- Persuade customers to pay amounts due on credit accounts, damage claims, or nonpayable checks, or to return merchandise.
+- Confer with customers by telephone or in person to determine reasons for overdue payments and to review the terms of sales, service, or credit contracts.
+- Receive payments and post amounts paid to customer accounts.
+- Trace delinquent customers to new addresses by inquiring at post offices, telephone companies, credit bureaus, or through the questioning of neighbors.
+- Notify credit departments, order merchandise repossession or service disconnection, and turn over account records to attorneys when customers fail to respond to collection attempts.
+- Sort and file correspondence and perform miscellaneous clerical duties, such as answering correspondence and writing reports.
+- Perform various administrative functions for assigned accounts, such as recording address changes and purging the records of deceased customers.
+- Contact insurance companies to check on status of claims payments and write appeal letters for denial on claims.
+- Negotiate credit extensions when necessary.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Speaking (Importance: 3.88/5 | Level: 3.62/7)
+- Active Listening (Importance: 3.88/5 | Level: 3.62/7)
+- Social Perceptiveness (Importance: 3.38/5 | Level: 3.0/7)
+- Persuasion (Importance: 3.38/5 | Level: 3.62/7)
+- Writing (Importance: 3.25/5 | Level: 3.12/7)
+- Critical Thinking (Importance: 3.12/5 | Level: 3.5/7)
+- Reading Comprehension (Importance: 3.12/5 | Level: 3.62/7)
+- Monitoring (Importance: 3.0/5 | Level: 2.88/7)
+- Time Management (Importance: 3.0/5 | Level: 2.88/7)
+- Service Orientation (Importance: 3.0/5 | Level: 2.75/7)
+- Negotiation (Importance: 3.0/5 | Level: 3.12/7)
+- Active Learning (Importance: 2.88/5 | Level: 2.75/7)
+- Coordination (Importance: 2.88/5 | Level: 2.88/7)
+- Judgment and Decision Making (Importance: 2.88/5 | Level: 2.75/7)
+- Complex Problem Solving (Importance: 2.88/5 | Level: 2.88/7)
+- Mathematics (Importance: 2.62/5 | Level: 2.62/7)
+- Instructing (Importance: 2.38/5 | Level: 2.38/7)
+- Systems Analysis (Importance: 2.25/5 | Level: 2.38/7)
+- Learning Strategies (Importance: 2.12/5 | Level: 2.12/7)
+- Management of Personnel Resources (Importance: 2.12/5 | Level: 2.0/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 2.0/7)
+- Operations Monitoring (Importance: 1.88/5 | Level: 1.0/7)
+- Quality Control Analysis (Importance: 1.62/5 | Level: 0.88/7)
+- Troubleshooting (Importance: 1.5/5 | Level: 0.5/7)
+- Management of Financial Resources (Importance: 1.5/5 | Level: 0.75/7)
+- Management of Material Resources (Importance: 1.5/5 | Level: 0.5/7)
+- Programming (Importance: 1.25/5 | Level: 0.38/7)
+- Operations Analysis (Importance: 1.12/5 | Level: 0.25/7)
+- Technology Design (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Operation and Control (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- ADP Drive DMS for Accounting (Tech skill type: Accounting software)
+- ADS Advantage (Tech skill type: Customer relationship management CRM software)
+- Adtec Agency Manager (Tech skill type: Customer relationship management CRM software)
+- Austin Logistics CallSelect (Tech skill type: Customer relationship management CRM software)
+- Collection Data Systems CollectOne-Tiger (Tech skill type: Customer relationship management CRM software)
+- Columbia Ultimate Archive (Tech skill type: Customer relationship management CRM software)
+- Columbia Ultimate Remit (Tech skill type: Point of sale POS software)
+- Columbia Ultimate RPCS (Tech skill type: Customer relationship management CRM software)
+- CU Connect processing software (Tech skill type: Access software)
+- Data-Tel Ceasar (Tech skill type: Customer relationship management CRM software)
+- Debt account management and collection software (Tech skill type: Customer relationship management CRM software)
+- Diagnostic and procedural coding software (Tech skill type: Categorization or classification software)
+- Document management system software (Tech skill type: Document management software)
+- Healthcare common procedure coding system HCPCS (Tech skill type: Medical software)
+- HMS (Tech skill type: Time accounting software)
+- Internet browser software (Tech skill type: Internet browser software)
+- Intuit QuickBooks (Tech skill type: Accounting software)
+- LexisNexis (Tech skill type: Information retrieval or search software)
+- LexisNexis Banko (Tech skill type: Information retrieval or search software)
+- Medical condition coding software (Tech skill type: Medical software)
+- Medical procedure coding software (Tech skill type: Medical software)
+- MEDITECH software (Tech skill type: Medical software)
+- Microsoft Dynamics (Tech skill type: Customer relationship management CRM software)
+- Microsoft Dynamics GP (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- NetSuite ERP (Tech skill type: Enterprise resource planning ERP software)
+- Ontario Systems FACS (Tech skill type: Customer relationship management CRM software)
+- Optical character recognition OCR software (Tech skill type: Optical character reader OCR or scanning software)
+- Oracle JD Edwards EnterpriseOne (Tech skill type: Accounting software)
+- Quantrax Intelec (Tech skill type: Customer relationship management CRM software)
+- Relational database software (Tech skill type: Data base user interface and query software)
+- Sage 50 Accounting (Tech skill type: Accounting software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- System Innovators (Tech skill type: Point of sale POS software)
+- TCI XML Credit Interface (Tech skill type: Information retrieval or search software)
+- W3 Data BatchAppend411 (Tech skill type: Information retrieval or search software)
+- Web browser software (Tech skill type: Internet browser software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Amplified telephones (Tool type: Special purpose telephones)
+- Autodialers (Tool type: Autodialers)
+- Laptop computers (Tool type: Notebook computers)
+- Personal digital assistants PDA (Tool type: Personal digital assistant PDAs or organizers)
+- Predictive dialers (Tool type: Autodialers)
+- Scanners (Tool type: Scanners)

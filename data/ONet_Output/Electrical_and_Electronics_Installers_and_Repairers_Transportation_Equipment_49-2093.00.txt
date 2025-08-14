@@ -1,0 +1,129 @@
+Job Title: Electrical and Electronics Installers and Repairers, Transportation Equipment
+O*NET-SOC Code: 49-2093.00
+
+# DESCRIPTION
+Install, adjust, or maintain mobile electronics communication equipment, including sound, sonar, security, navigation, and surveillance systems on trains, watercraft, or other mobile equipment.
+
+# TASKS
+- Inspect and test electrical systems and equipment to locate and diagnose malfunctions, using visual inspections, testing devices, and computer software.
+- Reassemble and test equipment after repairs.
+- Adjust, repair, or replace defective wiring and relays in ignition, lighting, air-conditioning, and safety control systems, using electrician's tools.
+- Splice wires with knives or cutting pliers, and solder connections to fixtures, outlets, and equipment.
+- Locate and remove or repair circuit defects such as blown fuses or malfunctioning transistors.
+- Maintain equipment service records.
+- Refer to schematics and manufacturers' specifications that show connections and provide instructions on how to locate problems.
+- Install fixtures, outlets, terminal boards, switches, and wall boxes, using hand tools.
+- Install new fuses, electrical cables, or power sources as required.
+- Cut openings and drill holes for fixtures, outlet boxes, and fuse holders, using electric drills and routers.
+- Confer with customers to determine the nature of malfunctions.
+- Install electrical equipment such as air-conditioning, heating, or ignition systems and components such as generator brushes and commutators, using hand tools.
+- Repair or rebuild equipment such as starters, generators, distributors, or door controls, using electrician's tools.
+- Estimate costs of repairs based on parts and labor requirements.
+- Measure, cut, and install frameworks and conduit to support and connect wiring, control panels, and junction boxes, using hand tools.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Critical Thinking (Importance: 3.62/5 | Level: 3.0/7)
+- Active Listening (Importance: 3.38/5 | Level: 3.0/7)
+- Quality Control Analysis (Importance: 3.25/5 | Level: 3.25/7)
+- Operations Monitoring (Importance: 3.25/5 | Level: 3.12/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.0/7)
+- Complex Problem Solving (Importance: 3.12/5 | Level: 3.0/7)
+- Repairing (Importance: 3.12/5 | Level: 3.12/7)
+- Reading Comprehension (Importance: 3.12/5 | Level: 3.12/7)
+- Operation and Control (Importance: 3.0/5 | Level: 2.5/7)
+- Troubleshooting (Importance: 3.0/5 | Level: 3.25/7)
+- Time Management (Importance: 3.0/5 | Level: 3.12/7)
+- Speaking (Importance: 3.0/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 3.0/7)
+- Writing (Importance: 3.0/5 | Level: 3.0/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Equipment Maintenance (Importance: 3.0/5 | Level: 3.0/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 2.88/7)
+- Persuasion (Importance: 2.88/5 | Level: 2.75/7)
+- Installation (Importance: 2.75/5 | Level: 2.38/7)
+- Equipment Selection (Importance: 2.62/5 | Level: 2.25/7)
+- Active Learning (Importance: 2.25/5 | Level: 2.38/7)
+- Service Orientation (Importance: 2.25/5 | Level: 2.25/7)
+- Negotiation (Importance: 2.25/5 | Level: 2.12/7)
+- Systems Evaluation (Importance: 2.25/5 | Level: 2.38/7)
+- Systems Analysis (Importance: 2.25/5 | Level: 2.25/7)
+- Management of Personnel Resources (Importance: 2.25/5 | Level: 2.25/7)
+- Mathematics (Importance: 2.12/5 | Level: 2.25/7)
+- Science (Importance: 2.12/5 | Level: 2.25/7)
+- Learning Strategies (Importance: 2.12/5 | Level: 2.25/7)
+- Operations Analysis (Importance: 2.12/5 | Level: 1.62/7)
+- Instructing (Importance: 2.12/5 | Level: 2.5/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.12/7)
+- Technology Design (Importance: 2.0/5 | Level: 1.38/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.0/7)
+- Programming (Importance: 1.62/5 | Level: 0.75/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adobe Acrobat (Tech skill type: Document management software)
+- Adobe Creative Cloud software (Tech skill type: Graphics or photo imaging software)
+- Adobe Illustrator (Tech skill type: Graphics or photo imaging software)
+- Adobe InDesign (Tech skill type: Desktop publishing software)
+- Adobe Photoshop (Tech skill type: Graphics or photo imaging software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Autodesk Revit (Tech skill type: Computer aided design CAD software)
+- Fluke Corporation FlukeView Forms (Tech skill type: Analytical or scientific software)
+- IBM Lotus 1-2-3 (Tech skill type: Spreadsheet software)
+- IBM Lotus Notes (Tech skill type: Electronic mail software)
+- Linux (Tech skill type: Operating system software)
+- Megger PowerDB (Tech skill type: Compliance software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Trimble SketchUp Pro (Tech skill type: Computer aided design CAD software)
+
+## TOOLS USED
+- Adjustable hand wrenches (Tool type: Adjustable wrenches)
+- Analog ohmmeters (Tool type: Ohmmeters)
+- Ball end hex key sets (Tool type: Hex keys)
+- Bench ammeters (Tool type: Ammeters)
+- Bench voltmeters (Tool type: Voltage or current meters)
+- Breaker bars (Tool type: Specialty wrenches)
+- Cabinet-tip screwdrivers (Tool type: Screwdrivers)
+- Cable cutters (Tool type: Wire or cable cutter)
+- Center punches (Tool type: Punches or nail sets or drifts)
+- Circuit testing devices (Tool type: Circuit tester)
+- Clamp ammeters (Tool type: Ammeters)
+- Clamp voltmeters (Tool type: Voltage or current meters)
+- Conduit fitting and reaming screwdrivers (Tool type: Screwdrivers)
+- Cutting torches (Tool type: Blow torch)
+- Diagonal-cutting pliers (Tool type: Diagonal cut pliers)
+- Digital multimeters (Tool type: Multimeters)
+- Digital ohmmeters (Tool type: Ohmmeters)
+- Drive ratchets (Tool type: Ratchets)
+- Industrial overhead cranes (Tool type: Overhead crane)
+- Insulation resistance testers (Tool type: Insulation resistance meters)
+- Keystone-tip screwdrivers (Tool type: Screwdrivers)
+- Laptop computers (Tool type: Notebook computers)
+- Light emitting diode LED voltage tester (Tool type: Voltage or current meters)
+- Longnosed pliers (Tool type: Longnose pliers)
+- Machinist's hammers (Tool type: Ball peen hammer)
+- Measuring tapes (Tool type: Tape measures)
+- Neon voltage testers (Tool type: Voltage or current meters)
+- Nut wrenches (Tool type: Nut drivers)
+- Overhead workshop cranes (Tool type: Workshop cranes)
+- Parallel pin punches (Tool type: Parallel pin punch)
+- Personal computers (Tool type: Personal computers)
+- Pinch bars (Tool type: Pry bars)
+- Plasma welders (Tool type: Plasma arc welding machine)
+- Pump pliers (Tool type: Adjustable widemouth pliers)
+- Rubber-grip hacksaws (Tool type: Hacksaw)
+- Series solenoid voltage testers (Tool type: Voltage or current meters)
+- Side cutting pliers (Tool type: End cut pliers)
+- Spinner handle drives (Tool type: Screwdrivers)
+- Square-recess tip screwdrivers (Tool type: Screwdrivers)
+- Stepladders (Tool type: Ladders)
+- Straight locking pliers (Tool type: Locking pliers)
+- Tablet computers (Tool type: Tablet computers)
+- Torpedo levels (Tool type: Levels)
+- Utility knives (Tool type: Utility knives)
+- Volt-ammeters (Tool type: Ammeters)
+- Wheeled forklifts (Tool type: Forklifts)
+- Wire cutting tools (Tool type: Wire cutters)
+- Wire stripping tools (Tool type: Wire-stripping pliers)

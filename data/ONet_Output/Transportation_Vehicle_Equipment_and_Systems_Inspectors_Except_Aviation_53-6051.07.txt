@@ -1,0 +1,121 @@
+Job Title: Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation
+O*NET-SOC Code: 53-6051.07
+
+# DESCRIPTION
+Inspect and monitor transportation equipment, vehicles, or systems to ensure compliance with regulations and safety standards.
+
+# TASKS
+- Inspect vehicles or other equipment for evidence of abuse, damage, or mechanical malfunction.
+- Inspect vehicles or equipment to ensure compliance with rules, standards, or regulations.
+- Inspect repairs to transportation vehicles or equipment to ensure that repair work was performed properly.
+- Identify modifications to engines, fuel systems, emissions control equipment, or other vehicle systems to determine the impact of modifications on inspection procedures or conclusions.
+- Conduct remote inspections of motor vehicles, using handheld controllers and remotely directed vehicle inspection devices.
+- Prepare reports on investigations or inspections and actions taken.
+- Issue notices and recommend corrective actions when infractions or problems are found.
+- Conduct visual inspections of emission control equipment and smoke emitted from gasoline or diesel vehicles.
+- Conduct vehicle or transportation equipment tests, using diagnostic equipment.
+- Investigate incidents or violations, such as delays, accidents, and equipment failures.
+- Review commercial vehicle logs, shipping papers, or driver and equipment records to detect any problems or to ensure compliance with regulations.
+- Attach onboard diagnostics (OBD) scanner cables to vehicles to conduct emissions inspections.
+- Investigate complaints regarding safety violations.
+- Examine carrier operating rules, employee qualification guidelines, or carrier training and testing programs for compliance with regulations or safety standards.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Quality Control Analysis (Importance: 3.5/5 | Level: 3.25/7)
+- Operations Monitoring (Importance: 3.25/5 | Level: 3.12/7)
+- Active Listening (Importance: 3.12/5 | Level: 2.88/7)
+- Operation and Control (Importance: 3.0/5 | Level: 3.0/7)
+- Troubleshooting (Importance: 3.0/5 | Level: 2.88/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 2.88/7)
+- Speaking (Importance: 3.0/5 | Level: 2.88/7)
+- Reading Comprehension (Importance: 3.0/5 | Level: 3.12/7)
+- Monitoring (Importance: 2.88/5 | Level: 2.88/7)
+- Time Management (Importance: 2.88/5 | Level: 2.88/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 2.75/7)
+- Active Learning (Importance: 2.75/5 | Level: 2.0/7)
+- Coordination (Importance: 2.75/5 | Level: 2.75/7)
+- Judgment and Decision Making (Importance: 2.75/5 | Level: 2.5/7)
+- Equipment Maintenance (Importance: 2.75/5 | Level: 2.88/7)
+- Repairing (Importance: 2.62/5 | Level: 2.62/7)
+- Writing (Importance: 2.62/5 | Level: 2.75/7)
+- Complex Problem Solving (Importance: 2.62/5 | Level: 2.25/7)
+- Science (Importance: 2.38/5 | Level: 2.38/7)
+- Service Orientation (Importance: 2.38/5 | Level: 2.0/7)
+- Negotiation (Importance: 2.12/5 | Level: 1.88/7)
+- Persuasion (Importance: 2.12/5 | Level: 2.12/7)
+- Instructing (Importance: 2.12/5 | Level: 2.0/7)
+- Learning Strategies (Importance: 2.0/5 | Level: 1.88/7)
+- Management of Personnel Resources (Importance: 2.0/5 | Level: 2.0/7)
+- Equipment Selection (Importance: 2.0/5 | Level: 2.0/7)
+- Mathematics (Importance: 2.0/5 | Level: 1.75/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 1.75/7)
+- Systems Analysis (Importance: 1.75/5 | Level: 1.5/7)
+- Operations Analysis (Importance: 1.62/5 | Level: 0.88/7)
+- Technology Design (Importance: 1.62/5 | Level: 0.88/7)
+- Management of Material Resources (Importance: 1.38/5 | Level: 0.38/7)
+- Management of Financial Resources (Importance: 1.25/5 | Level: 0.25/7)
+- Installation (Importance: 1.12/5 | Level: 0.25/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- ASPEN (Tech skill type: Data base user interface and query software)
+- Commercial driver's license information system CDLIS (Tech skill type: Data base user interface and query software)
+- Diagnostic scanner software (Tech skill type: Analytical or scientific software)
+- Inspection Selection System ISS (Tech skill type: Data base user interface and query software)
+- Law enforcement database software (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Past Inspection Query PIQ (Tech skill type: Data base user interface and query software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Vehicle identification number VIN database (Tech skill type: Data base user interface and query software)
+- Vehicle inspection databases (Tech skill type: Data base user interface and query software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Adjustable wrenches (Tool type: Adjustable wrenches)
+- Barcode scanners (Tool type: Bar code reader equipment)
+- Battery charge testers (Tool type: Battery testers)
+- Battery test hydrometers (Tool type: Battery acid hydrometers)
+- Computer data input scanners (Tool type: Scanners)
+- Decelerometers (Tool type: Speed sensors)
+- Desktop computers (Tool type: Desktop computers)
+- Dial indicators (Tool type: Dial indicator or dial gauge)
+- Digital cameras (Tool type: Digital cameras)
+- Digital timing lights (Tool type: Speed sensors)
+- Distance measuring wheels (Tool type: Measuring wheels for distance)
+- Dynamometers (Tool type: Dynamometers)
+- Exhaust analyzers (Tool type: Automotive exhaust emission analyzers)
+- Flammable gas detection meters (Tool type: Multi gas monitors)
+- Floor jacks (Tool type: Jacks)
+- Go/no-go gauges (Tool type: Go or no go gauge)
+- Handheld computers (Tool type: Portable data input terminals)
+- Hydraulic automobile lifts (Tool type: Lifts)
+- Kingpin gauges (Tool type: Side slip tester)
+- Laptop computers (Tool type: Notebook computers)
+- Locking pliers (Tool type: Locking pliers)
+- Measurement calipers (Tool type: Calipers)
+- Micrometers (Tool type: Micrometers)
+- Onboard diagnostics OBD scanners (Tool type: Scanners)
+- Opacity meters (Tool type: Opacity or dust or visibility sensors)
+- Passenger cars (Tool type: Automobiles or cars)
+- Personal computers (Tool type: Personal computers)
+- Platform scales (Tool type: Floor or platform scales)
+- Precision rulers (Tool type: Rulers)
+- Rotor gauges (Tool type: Thickness measuring devices)
+- Service revolvers (Tool type: Handguns)
+- Steel measuring tapes (Tool type: Tape measures)
+- Straight screwdrivers (Tool type: Screwdrivers)
+- Stroboscopes (Tool type: Speed sensors)
+- Tachometers (Tool type: Tachometers)
+- Tire pressure gauges (Tool type: Tire pressure gauge)
+- Tire tread depth gauges (Tool type: Height gauges)
+- Torque wrenches (Tool type: Torque wrenches)
+- Two way radios (Tool type: Two way radios)
+- Vehicle weight scales (Tool type: Truck or rail scales)
+- Voltmeters (Tool type: Voltage or current meters)
+- Wheel alignment gauges (Tool type: Wheel alignment equipment)
+- Wheel blocks (Tool type: Wheel chocks)

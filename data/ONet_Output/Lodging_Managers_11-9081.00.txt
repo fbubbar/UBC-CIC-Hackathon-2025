@@ -1,0 +1,112 @@
+Job Title: Lodging Managers
+O*NET-SOC Code: 11-9081.00
+
+# DESCRIPTION
+Plan, direct, or coordinate activities of an organization or department that provides lodging and other accommodations.
+
+# TASKS
+- Answer inquiries pertaining to hotel policies and services, and resolve occupants' complaints.
+- Participate in financial activities, such as the setting of room rates, the establishment of budgets, and the allocation of funds to departments.
+- Confer and cooperate with other managers to ensure coordination of hotel activities.
+- Greet and register guests.
+- Monitor the revenue activity of the hotel or facility.
+- Manage and maintain temporary or permanent lodging facilities.
+- Train staff members.
+- Observe and monitor staff performance to ensure efficient operations and adherence to facility's policies and procedures.
+- Coordinate front-office activities of hotels or motels, and resolve problems.
+- Inspect guest rooms, public areas, and grounds for cleanliness and appearance.
+- Assign duties to workers, and schedule shifts.
+- Receive and process advance registration payments, mail letters of confirmation, or return checks when registrations cannot be accepted.
+- Interview and hire applicants.
+- Purchase supplies, and arrange for outside services, such as deliveries, laundry, maintenance and repair, and trash collection.
+- Collect payments and record data pertaining to funds and expenditures.
+- Develop and implement policies and procedures for the operation of a department or establishment.
+- Prepare required paperwork pertaining to departmental functions.
+- Show, rent, or assign accommodations.
+- Perform marketing and public relations activities.
+- Organize and coordinate the work of staff and convention personnel for meetings to be held at a particular facility.
+- Provide assistance to staff members by inspecting rooms, setting tables, or doing laundry.
+- Arrange telephone answering services, deliver mail and packages, or answer questions regarding locations for eating and entertainment.
+- Meet with clients to schedule and plan details of conventions, banquets, receptions and other functions.
+- Book tickets for guests for local tours and attractions.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Service Orientation (Importance: 4.12/5 | Level: 4.12/7)
+- Active Listening (Importance: 4.12/5 | Level: 4.0/7)
+- Management of Personnel Resources (Importance: 4.0/5 | Level: 4.0/7)
+- Speaking (Importance: 4.0/5 | Level: 4.0/7)
+- Social Perceptiveness (Importance: 4.0/5 | Level: 3.88/7)
+- Writing (Importance: 3.88/5 | Level: 4.0/7)
+- Coordination (Importance: 3.88/5 | Level: 3.75/7)
+- Reading Comprehension (Importance: 3.88/5 | Level: 3.88/7)
+- Negotiation (Importance: 3.88/5 | Level: 4.0/7)
+- Time Management (Importance: 3.75/5 | Level: 3.88/7)
+- Persuasion (Importance: 3.75/5 | Level: 4.0/7)
+- Monitoring (Importance: 3.75/5 | Level: 3.75/7)
+- Active Learning (Importance: 3.75/5 | Level: 3.88/7)
+- Critical Thinking (Importance: 3.75/5 | Level: 3.88/7)
+- Judgment and Decision Making (Importance: 3.75/5 | Level: 3.75/7)
+- Complex Problem Solving (Importance: 3.75/5 | Level: 3.25/7)
+- Instructing (Importance: 3.75/5 | Level: 3.75/7)
+- Learning Strategies (Importance: 3.38/5 | Level: 3.62/7)
+- Systems Evaluation (Importance: 3.38/5 | Level: 3.5/7)
+- Systems Analysis (Importance: 3.12/5 | Level: 3.0/7)
+- Management of Material Resources (Importance: 3.0/5 | Level: 3.62/7)
+- Management of Financial Resources (Importance: 2.88/5 | Level: 3.5/7)
+- Quality Control Analysis (Importance: 2.62/5 | Level: 2.38/7)
+- Mathematics (Importance: 2.62/5 | Level: 2.88/7)
+- Operations Monitoring (Importance: 2.38/5 | Level: 2.12/7)
+- Operation and Control (Importance: 2.12/5 | Level: 2.0/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.0/7)
+- Troubleshooting (Importance: 1.88/5 | Level: 1.5/7)
+- Operations Analysis (Importance: 1.75/5 | Level: 1.0/7)
+- Programming (Importance: 1.62/5 | Level: 0.88/7)
+- Equipment Selection (Importance: 1.38/5 | Level: 0.75/7)
+- Equipment Maintenance (Importance: 1.38/5 | Level: 0.75/7)
+- Repairing (Importance: 1.38/5 | Level: 0.75/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Accounting software (Tech skill type: Accounting software)
+- Anand Systems ASI FrontDesk (Tech skill type: Facilities management software)
+- Delphi Technology (Tech skill type: Financial analysis software)
+- Email software (Tech skill type: Electronic mail software)
+- Enablez ResortSuite (Tech skill type: Customer relationship management CRM software)
+- ePOS Business Solutions System 3 POS (Tech skill type: Point of sale POS software)
+- Execu/Tech Systems HOTEL Premium (Tech skill type: Facilities management software)
+- Facebook (Tech skill type: Web page creation and editing software)
+- GraceSoft Easy InnKeeping Suite (Tech skill type: Facilities management software)
+- Hotel management system software (Tech skill type: Facilities management software)
+- Housekeeping management software (Tech skill type: Facilities management software)
+- INN-Client Server Systems ICSS Atrium (Tech skill type: Facilities management software)
+- iRez Systems Rezware XP7 (Tech skill type: Facilities management software)
+- M-Tech Hotel Service Optimization System HotSOS (Tech skill type: Facilities management software)
+- MICROS Systems OPERA Enterprise Solution OES (Tech skill type: Facilities management software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Oracle JD Edwards EnterpriseOne (Tech skill type: Enterprise resource planning ERP software)
+- Payroll software (Tech skill type: Time accounting software)
+- Property management system PMS software (Tech skill type: Data base user interface and query software)
+- RedSky IT Entirety e-Booking (Tech skill type: Facilities management software)
+- Silverbyte Systems Optima Property Management System PMS (Tech skill type: Facilities management software)
+- TCS Hotel Software Guest Tracker (Tech skill type: Facilities management software)
+- UniResMan (Tech skill type: Facilities management software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- 10-key calculators (Tool type: Desktop calculator)
+- Cash registers (Tool type: Cash registers)
+- Credit card processing machines (Tool type: Magnetic stripe readers and encoders)
+- Desktop computers (Tool type: Desktop computers)
+- Handheld computers (Tool type: Portable data input terminals)
+- Laptop computers (Tool type: Notebook computers)
+- Multi-line telephone systems (Tool type: Special purpose telephones)
+- Personal computers (Tool type: Personal computers)
+- Private automatic branch exchange PABX systems (Tool type: Premise branch exchange PBX systems)
+- Voice mail systems (Tool type: Voice mail systems)

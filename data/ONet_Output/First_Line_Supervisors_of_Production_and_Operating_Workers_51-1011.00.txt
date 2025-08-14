@@ -1,0 +1,137 @@
+Job Title: First-Line Supervisors of Production and Operating Workers
+O*NET-SOC Code: 51-1011.00
+
+# DESCRIPTION
+Directly supervise and coordinate the activities of production and operating workers, such as inspectors, precision workers, machine setters and operators, assemblers, fabricators, and plant and system operators. Excludes team or work leaders.
+
+# TASKS
+- Enforce safety and sanitation regulations.
+- Keep records of employees' attendance and hours worked.
+- Inspect materials, products, or equipment to detect defects or malfunctions.
+- Read and analyze charts, work orders, production schedules, and other records and reports to determine production requirements and to evaluate current production estimates and outputs.
+- Plan and establish work schedules, assignments, and production sequences to meet production goals.
+- Confer with other supervisors to coordinate operations and activities within or between departments.
+- Interpret specifications, blueprints, job orders, and company policies and procedures for workers.
+- Observe work and monitor gauges, dials, and other indicators to ensure that operators conform to production or processing standards.
+- Direct and coordinate the activities of employees engaged in the production or processing of goods, such as inspectors, machine setters, or fabricators.
+- Conduct employee training in equipment operations or work and safety procedures, or assign employee training to experienced workers.
+- Evaluate employee performance.
+- Confer with management or subordinates to resolve worker problems, complaints, or grievances.
+- Determine standards, budgets, production goals, and rates, based on company policies, equipment and labor availability, and workloads.
+- Calculate labor and equipment requirements and production specifications, using standard formulas.
+- Recommend or implement measures to motivate employees and to improve production methods, equipment performance, product quality, or efficiency.
+- Maintain operations data, such as time, production, and cost records, and prepare management reports of production results.
+- Requisition materials, supplies, equipment parts, or repair services.
+- Set up and adjust machines and equipment.
+- Recommend or execute personnel actions, such as hirings, evaluations, or promotions.
+- Plan and develop new products and production processes.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Management of Personnel Resources (Importance: 3.88/5 | Level: 3.75/7)
+- Time Management (Importance: 3.88/5 | Level: 3.88/7)
+- Speaking (Importance: 3.88/5 | Level: 3.75/7)
+- Active Listening (Importance: 3.88/5 | Level: 4.0/7)
+- Coordination (Importance: 3.75/5 | Level: 3.88/7)
+- Critical Thinking (Importance: 3.75/5 | Level: 3.75/7)
+- Social Perceptiveness (Importance: 3.75/5 | Level: 3.88/7)
+- Monitoring (Importance: 3.75/5 | Level: 3.88/7)
+- Judgment and Decision Making (Importance: 3.62/5 | Level: 3.25/7)
+- Reading Comprehension (Importance: 3.5/5 | Level: 3.75/7)
+- Active Learning (Importance: 3.12/5 | Level: 3.12/7)
+- Systems Analysis (Importance: 3.12/5 | Level: 3.0/7)
+- Operations Monitoring (Importance: 3.12/5 | Level: 3.38/7)
+- Writing (Importance: 3.12/5 | Level: 3.62/7)
+- Complex Problem Solving (Importance: 3.12/5 | Level: 3.62/7)
+- Learning Strategies (Importance: 3.12/5 | Level: 3.12/7)
+- Service Orientation (Importance: 3.0/5 | Level: 2.88/7)
+- Negotiation (Importance: 3.0/5 | Level: 3.12/7)
+- Persuasion (Importance: 3.0/5 | Level: 3.12/7)
+- Systems Evaluation (Importance: 3.0/5 | Level: 3.0/7)
+- Quality Control Analysis (Importance: 3.0/5 | Level: 3.12/7)
+- Instructing (Importance: 3.0/5 | Level: 3.12/7)
+- Operations Analysis (Importance: 2.88/5 | Level: 2.75/7)
+- Operation and Control (Importance: 2.75/5 | Level: 2.75/7)
+- Mathematics (Importance: 2.38/5 | Level: 2.88/7)
+- Equipment Selection (Importance: 2.25/5 | Level: 2.25/7)
+- Management of Financial Resources (Importance: 2.25/5 | Level: 2.62/7)
+- Troubleshooting (Importance: 2.25/5 | Level: 2.5/7)
+- Repairing (Importance: 2.25/5 | Level: 2.12/7)
+- Management of Material Resources (Importance: 2.12/5 | Level: 2.62/7)
+- Equipment Maintenance (Importance: 2.12/5 | Level: 2.12/7)
+- Technology Design (Importance: 2.0/5 | Level: 1.25/7)
+- Science (Importance: 1.5/5 | Level: 0.62/7)
+- Programming (Importance: 1.25/5 | Level: 0.38/7)
+- Installation (Importance: 1.12/5 | Level: 0.12/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Apple iWork Pages (Tech skill type: Word processing software)
+- Apple Safari (Tech skill type: Internet browser software)
+- Aptean Made2Manage (Tech skill type: Enterprise resource planning ERP software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Bowen & Groves M1 ERP (Tech skill type: Enterprise resource planning ERP software)
+- Capterra Enterprise Resource Planning (Tech skill type: Enterprise resource planning ERP software)
+- Computer aided design CAD software (Tech skill type: Computer aided design CAD software)
+- Computer aided manufacturing CAM software (Tech skill type: Computer aided manufacturing CAM software)
+- Database software (Tech skill type: Data base user interface and query software)
+- Delphi Technology (Tech skill type: Financial analysis software)
+- Email software (Tech skill type: Electronic mail software)
+- Encompix ERP (Tech skill type: Enterprise resource planning ERP software)
+- Epicor Vantage ERP (Tech skill type: Enterprise resource planning ERP software)
+- Epicor Vista ERP (Tech skill type: Enterprise resource planning ERP software)
+- Exact MAX (Tech skill type: Enterprise resource planning ERP software)
+- Extensible markup language XML (Tech skill type: Enterprise application integration software)
+- GHG Clockwise (Tech skill type: Human resources software)
+- Giraffe Production Systems Giraffe Schedule System (Tech skill type: Enterprise resource planning ERP software)
+- Google Chrome (Tech skill type: Internet browser software)
+- HCSS HeavyJob (Tech skill type: Project management software)
+- IBM Notes (Tech skill type: Electronic mail software)
+- Intacct ERP (Tech skill type: Enterprise resource planning ERP software)
+- Integrated materials management systems (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Inventory management software (Tech skill type: Inventory management software)
+- Kronos Workforce Timekeeper (Tech skill type: Time accounting software)
+- Materials management software (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Axapta (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Exchange (Tech skill type: Electronic mail software)
+- Microsoft Internet Explorer (Tech skill type: Internet browser software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft Total Quality Control Management (Tech skill type: Data base user interface and query software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Minitab (Tech skill type: Analytical or scientific software)
+- Mozilla Firefox (Tech skill type: Internet browser software)
+- NetSuite NetERP (Tech skill type: Enterprise resource planning ERP software)
+- Operating system software (Tech skill type: Operating system software)
+- Operational databases (Tech skill type: Data base user interface and query software)
+- Oracle JD Edwards EnterpriseOne (Tech skill type: Enterprise resource planning ERP software)
+- QA Software QMS Materials Management (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Resource planning software (Tech skill type: Enterprise resource planning ERP software)
+- Retain Resource Planning (Tech skill type: Enterprise resource planning ERP software)
+- SAP Business One (Tech skill type: Enterprise resource planning ERP software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- Supervisory control and data acquisition SCADA software (Tech skill type: Industrial control software)
+- SYSPRO business software (Tech skill type: Enterprise resource planning ERP software)
+- Technology Group International Enterprise 21 ERP (Tech skill type: Enterprise resource planning ERP software)
+- Timekeeping software (Tech skill type: Time accounting software)
+- Total quality management TQM software (Tech skill type: Project management software)
+- Word processing software (Tech skill type: Word processing software)
+- Work Technology WorkTech Time (Tech skill type: Time accounting software)
+
+## TOOLS USED
+- Desktop computers (Tool type: Desktop computers)
+- Hard hats (Tool type: Hard hats)
+- Laser printers (Tool type: Laser printers)
+- Laser scanners (Tool type: Scanners)
+- Notebook computers (Tool type: Notebook computers)
+- Operator terminals (Tool type: Touch screen monitors)
+- Personal computers (Tool type: Personal computers)
+- Personal protective clothing (Tool type: Hazardous material protective apparel)
+- Respirators (Tool type: Respirators)
+- Safety glasses (Tool type: Safety glasses)
+- Safety shoes (Tool type: Safety shoes)

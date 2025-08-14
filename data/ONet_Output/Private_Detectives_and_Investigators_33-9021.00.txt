@@ -1,0 +1,95 @@
+Job Title: Private Detectives and Investigators
+O*NET-SOC Code: 33-9021.00
+
+# DESCRIPTION
+Gather, analyze, compile, and report information regarding individuals or organizations to clients, or detect occurrences of unlawful acts or infractions of rules in private establishment.
+
+# TASKS
+- Write reports or case summaries to document investigations.
+- Conduct private investigations on a paid basis.
+- Search computer databases, credit reports, public records, tax or legal filings, or other resources to locate persons or to compile information for investigations.
+- Conduct personal background investigations, such as pre-employment checks, to obtain information about an individual's character, financial status, or personal history.
+- Expose fraudulent insurance claims or stolen funds.
+- Obtain and analyze information on suspects, crimes, or disturbances to solve cases, to identify criminal activity, or to gather information for court cases.
+- Testify at hearings or court trials to present evidence.
+- Question persons to obtain evidence for cases of divorce, child custody, or missing persons or information about individuals' character or financial status.
+- Observe and document activities of individuals to detect unlawful acts or to obtain evidence for cases, using binoculars and still or video cameras.
+- Confer with establishment officials, security departments, police, or postal officials to identify problems, provide information, or receive instructions.
+- Investigate companies' financial standings, or locate funds stolen by embezzlers, using accounting skills.
+- Perform undercover operations, such as evaluating the performance or honesty of employees by posing as customers or employees.
+- Alert appropriate personnel to suspects' locations.
+- Count cash and review transactions, sales checks, or register tapes to verify amounts or to identify shortages.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Active Listening (Importance: 4.12/5 | Level: 4.12/7)
+- Speaking (Importance: 4.0/5 | Level: 3.88/7)
+- Critical Thinking (Importance: 3.88/5 | Level: 4.12/7)
+- Reading Comprehension (Importance: 3.88/5 | Level: 4.0/7)
+- Complex Problem Solving (Importance: 3.75/5 | Level: 3.0/7)
+- Writing (Importance: 3.62/5 | Level: 3.62/7)
+- Social Perceptiveness (Importance: 3.5/5 | Level: 3.5/7)
+- Judgment and Decision Making (Importance: 3.38/5 | Level: 3.38/7)
+- Monitoring (Importance: 3.38/5 | Level: 3.5/7)
+- Active Learning (Importance: 3.38/5 | Level: 3.38/7)
+- Service Orientation (Importance: 3.0/5 | Level: 2.88/7)
+- Time Management (Importance: 3.0/5 | Level: 3.0/7)
+- Coordination (Importance: 3.0/5 | Level: 2.88/7)
+- Negotiation (Importance: 2.88/5 | Level: 2.88/7)
+- Systems Analysis (Importance: 2.88/5 | Level: 2.88/7)
+- Persuasion (Importance: 2.88/5 | Level: 3.0/7)
+- Systems Evaluation (Importance: 2.75/5 | Level: 2.88/7)
+- Learning Strategies (Importance: 2.5/5 | Level: 2.12/7)
+- Management of Personnel Resources (Importance: 2.25/5 | Level: 2.0/7)
+- Mathematics (Importance: 2.25/5 | Level: 2.12/7)
+- Instructing (Importance: 2.25/5 | Level: 2.25/7)
+- Operation and Control (Importance: 2.12/5 | Level: 1.38/7)
+- Operations Monitoring (Importance: 1.88/5 | Level: 0.88/7)
+- Operations Analysis (Importance: 1.88/5 | Level: 1.5/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.0/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 1.12/7)
+- Programming (Importance: 1.75/5 | Level: 1.0/7)
+- Quality Control Analysis (Importance: 1.75/5 | Level: 1.25/7)
+- Technology Design (Importance: 1.62/5 | Level: 0.62/7)
+- Science (Importance: 1.5/5 | Level: 0.62/7)
+- Troubleshooting (Importance: 1.38/5 | Level: 0.38/7)
+- Equipment Selection (Importance: 1.25/5 | Level: 0.38/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Computer imaging software (Tech skill type: Graphics or photo imaging software)
+- Email software (Tech skill type: Electronic mail software)
+- Facebook (Tech skill type: Web page creation and editing software)
+- LexisNexis (Tech skill type: Information retrieval or search software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft operating system (Tech skill type: Operating system software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Operating system software (Tech skill type: Operating system software)
+- Web browser software (Tech skill type: Internet browser software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- 35 millimeter cameras (Tool type: Still cameras)
+- Biological evidence collection kits (Tool type: Biological evidence collection kits)
+- Compact digital cameras (Tool type: Digital cameras)
+- Computer data input scanners (Tool type: Scanners)
+- Desktop computers (Tool type: Desktop computers)
+- Digital audio recorders (Tool type: Digital voice recorders)
+- Digital video cameras (Tool type: Digital camcorders or video cameras)
+- Fingerprint evidence kits (Tool type: Fingerprint latent print kits)
+- Global positioning system GPS receivers (Tool type: Global positioning system GPS receiver)
+- Handguns (Tool type: Handguns)
+- High powered binoculars (Tool type: Binoculars)
+- Laptop computers (Tool type: Notebook computers)
+- Law enforcement handguns (Tool type: Handguns)
+- Night vision goggles (Tool type: Light enhancing cameras or vision devices)
+- Optical telescopes (Tool type: Telescopes)
+- Personal computers (Tool type: Personal computers)
+- Surveillance binoculars (Tool type: Binoculars)

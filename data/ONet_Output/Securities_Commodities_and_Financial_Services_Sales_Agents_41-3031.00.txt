@@ -1,0 +1,163 @@
+Job Title: Securities, Commodities, and Financial Services Sales Agents
+O*NET-SOC Code: 41-3031.00
+
+# DESCRIPTION
+Buy and sell securities or commodities in investment and trading firms, or provide financial services to businesses and individuals. May advise customers about stocks, bonds, mutual funds, commodities, and market conditions.
+
+# TASKS
+- Make bids or offers to buy or sell securities.
+- Monitor markets or positions.
+- Agree on buying or selling prices at optimal levels for clients.
+- Keep accurate records of transactions.
+- Buy or sell stocks, bonds, commodity futures, foreign currencies, or other securities on behalf of investment dealers.
+- Complete sales order tickets and submit for processing of client-requested transactions.
+- Report all positions or trading results.
+- Interview clients to determine clients' assets, liabilities, cash flow, insurance coverage, tax status, or financial objectives.
+- Discuss financial options with clients and keep them informed about transactions.
+- Identify opportunities or develop channels for purchase or sale of securities or commodities.
+- Develop financial plans, based on analysis of clients' financial status.
+- Review all securities transactions to ensure accuracy of information and conformance to governing agency regulations.
+- Devise trading, option, or hedge strategies.
+- Determine customers' financial services needs and prepare proposals to sell services that address these needs.
+- Track and analyze factors that affect price movement, such as trade policies, weather conditions, political developments, or supply and demand changes.
+- Inform other traders, managers, or customers of market conditions, including volume, price, competition, or dynamics.
+- Offer advice on the purchase or sale of particular securities.
+- Contact prospective customers to present information and explain available services.
+- Explain stock market terms or trading practices to clients.
+- Calculate costs for billings or commissions.
+- Prepare financial reports to monitor client or corporate finances.
+- Supply the latest price quotes on any security, as well as information on the activities or financial positions of the corporations issuing these securities.
+- Supervise support staff and ensure proper execution of contracts.
+- Relay buy or sell orders to securities exchanges or to firm trading departments.
+- Evaluate costs and revenue of agreements to determine continued profitability.
+- Sell services or equipment, such as trusts, investments, or check processing services.
+- Negotiate prices or contracts for securities or commodities sales or purchases.
+- Prepare and send requests for price quotations to all companies in a particular market.
+- Price securities or commodities based on market conditions.
+- Purchase or sell financial derivatives for customers.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Critical Thinking (Importance: 3.75/5 | Level: 3.75/7)
+- Active Listening (Importance: 3.75/5 | Level: 3.88/7)
+- Judgment and Decision Making (Importance: 3.62/5 | Level: 3.5/7)
+- Monitoring (Importance: 3.62/5 | Level: 3.75/7)
+- Active Learning (Importance: 3.5/5 | Level: 3.75/7)
+- Speaking (Importance: 3.5/5 | Level: 3.75/7)
+- Reading Comprehension (Importance: 3.5/5 | Level: 3.75/7)
+- Persuasion (Importance: 3.5/5 | Level: 3.62/7)
+- Social Perceptiveness (Importance: 3.38/5 | Level: 3.25/7)
+- Writing (Importance: 3.38/5 | Level: 3.5/7)
+- Complex Problem Solving (Importance: 3.38/5 | Level: 3.5/7)
+- Service Orientation (Importance: 3.25/5 | Level: 3.62/7)
+- Systems Analysis (Importance: 3.25/5 | Level: 3.38/7)
+- Management of Financial Resources (Importance: 3.12/5 | Level: 2.75/7)
+- Mathematics (Importance: 3.12/5 | Level: 3.25/7)
+- Time Management (Importance: 3.12/5 | Level: 2.88/7)
+- Systems Evaluation (Importance: 3.12/5 | Level: 3.62/7)
+- Negotiation (Importance: 3.0/5 | Level: 3.25/7)
+- Instructing (Importance: 2.88/5 | Level: 3.25/7)
+- Coordination (Importance: 2.88/5 | Level: 3.12/7)
+- Management of Personnel Resources (Importance: 2.75/5 | Level: 2.62/7)
+- Learning Strategies (Importance: 2.62/5 | Level: 2.88/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.38/7)
+- Operations Analysis (Importance: 2.0/5 | Level: 1.62/7)
+- Programming (Importance: 1.88/5 | Level: 1.5/7)
+- Technology Design (Importance: 1.62/5 | Level: 0.88/7)
+- Operations Monitoring (Importance: 1.62/5 | Level: 0.88/7)
+- Quality Control Analysis (Importance: 1.38/5 | Level: 0.88/7)
+- Science (Importance: 1.25/5 | Level: 0.38/7)
+- Equipment Maintenance (Importance: 1.12/5 | Level: 0.12/7)
+- Equipment Selection (Importance: 1.12/5 | Level: 0.38/7)
+- Installation (Importance: 1.12/5 | Level: 0.12/7)
+- Troubleshooting (Importance: 1.12/5 | Level: 0.12/7)
+- Operation and Control (Importance: 1.12/5 | Level: 0.12/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- ADP/Vantra VOLTS (Tech skill type: Desktop communications software)
+- AIQ Systems TradingExpert Pro (Tech skill type: Financial analysis software)
+- AnalyzerXL (Tech skill type: Financial analysis software)
+- Aspen Graphics Technical Analysis Software (Tech skill type: Financial analysis software)
+- Bloomberg Professional (Tech skill type: Financial analysis software)
+- BondDesk Group Trader WorkStation (Tech skill type: Financial analysis software)
+- C++ (Tech skill type: Object or component oriented development software)
+- CableSoft LiveWire Trader (Tech skill type: Financial analysis software)
+- Calypso Technology Calypso Asset Management (Tech skill type: Financial analysis software)
+- Charles River Development Charles River Investment Management System (Tech skill type: Financial analysis software)
+- Citi The Yield Book Calculator (Tech skill type: Financial analysis software)
+- CQG Integrated Client (Tech skill type: Financial analysis software)
+- CSI Complex Systems ClientTrade (Tech skill type: Customer relationship management CRM software)
+- Customer information control system CICS (Tech skill type: Transaction server software)
+- Customer relationship management CRM software (Tech skill type: Customer relationship management CRM software)
+- Database management software (Tech skill type: Data base user interface and query software)
+- Derivicom FinOptions XL (Tech skill type: Financial analysis software)
+- Email software (Tech skill type: Electronic mail software)
+- FileMaker Pro (Tech skill type: Data base user interface and query software)
+- Financial needs analysis software (Tech skill type: Financial analysis software)
+- Fixed income alternative trading systems ATS (Tech skill type: Financial analysis software)
+- Fund accounting software (Tech skill type: Accounting software)
+- FundCount Web (Tech skill type: Data base user interface and query software)
+- Graphics software (Tech skill type: Graphics or photo imaging software)
+- IBM Cognos Impromptu (Tech skill type: Business intelligence and data analysis software)
+- IBM Notes (Tech skill type: Electronic mail software)
+- Imagine Software Imagine Trading System (Tech skill type: Desktop communications software)
+- Knight BondPoint (Tech skill type: Financial analysis software)
+- Leading Market Technologies EXPO (Tech skill type: Financial analysis software)
+- LinkedIn (Tech skill type: Web page creation and editing software)
+- Linux (Tech skill type: Operating system software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Dynamics (Tech skill type: Customer relationship management CRM software)
+- Microsoft Dynamics GP (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft Visual Basic (Tech skill type: Development environment software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Multiple trading transaction systems (Tech skill type: Financial analysis software)
+- Oracle E-Business Suite Financials (Tech skill type: Financial analysis software)
+- Oracle Hyperion (Tech skill type: Enterprise resource planning ERP software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- Oracle PeopleSoft (Tech skill type: Enterprise resource planning ERP software)
+- Oracle PeopleSoft Financials (Tech skill type: Enterprise resource planning ERP software)
+- Oracle Siebel CRM (Tech skill type: Customer relationship management CRM software)
+- Project management software (Tech skill type: Project management software)
+- Python (Tech skill type: Object or component oriented development software)
+- R (Tech skill type: Object or component oriented development software)
+- Realm Business Solutions INSIGHT for ARGUS (Tech skill type: Financial analysis software)
+- Redi Enterprise Development Redi ERM (Tech skill type: Financial analysis software)
+- Regulatory agency compliance software (Tech skill type: Compliance software)
+- Sage 50 Accounting (Tech skill type: Accounting software)
+- Sales analysis software (Tech skill type: Financial analysis software)
+- Salesforce software (Tech skill type: Customer relationship management CRM software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Scheduling software (Tech skill type: Calendar and scheduling software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- SunGard MicroHedge (Tech skill type: Financial analysis software)
+- Telvent DTN ProphetX (Tech skill type: Financial analysis software)
+- The MathWorks MATLAB (Tech skill type: Analytical or scientific software)
+- Thomson Reuters Tradeweb (Tech skill type: Financial analysis software)
+- Tradeweb Markets Tradeweb (Tech skill type: Financial analysis software)
+- Trading Blox (Tech skill type: Financial analysis software)
+- Triple Point Commodity XL (Tech skill type: Financial analysis software)
+- UNIX (Tech skill type: Operating system software)
+- Web browser software (Tech skill type: Internet browser software)
+- Web-based information systems (Tech skill type: Data base user interface and query software)
+- Web-based trading systems (Tech skill type: Financial analysis software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- 10-key calculators (Tool type: Desktop calculator)
+- Computer data input scanners (Tool type: Scanners)
+- Desktop computers (Tool type: Desktop computers)
+- Laptop computers (Tool type: Notebook computers)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Mobile computing devices (Tool type: Wearable computing devices)
+- Multi-line telephone systems (Tool type: Special purpose telephones)
+- Notebook computers (Tool type: Notebook computers)
+- Personal computers (Tool type: Personal computers)
+- Photocopying equipment (Tool type: Photocopiers)
+- Tablet computers (Tool type: Tablet computers)

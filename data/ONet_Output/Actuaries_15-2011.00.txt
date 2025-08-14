@@ -1,0 +1,113 @@
+Job Title: Actuaries
+O*NET-SOC Code: 15-2011.00
+
+# DESCRIPTION
+Analyze statistical data, such as mortality, accident, sickness, disability, and retirement rates and construct probability tables to forecast risk and liability for payment of future benefits. May ascertain insurance rates required and cash reserves necessary to ensure payment of future benefits.
+
+# TASKS
+- Ascertain premium rates required and cash reserves and liabilities necessary to ensure payment of future benefits.
+- Collaborate with programmers, underwriters, accounts, claims experts, and senior management to help companies develop plans for new lines of business or improvements to existing business.
+- Analyze statistical information to estimate mortality, accident, sickness, disability, and retirement rates.
+- Design, review, and help administer insurance, annuity and pension plans, determining financial soundness and calculating premiums.
+- Determine, or help determine, company policy, and explain complex technical matters to company executives, government officials, shareholders, policyholders, or the public.
+- Construct probability tables for events such as fires, natural disasters, and unemployment, based on analysis of statistical data and other pertinent information.
+- Provide advice to clients on a contract basis, working as a consultant.
+- Determine equitable basis for distributing surplus earnings under participating insurance and annuity contracts in mutual companies.
+- Negotiate terms and conditions of reinsurance with other companies.
+- Provide expertise to help financial institutions manage risks and maximize returns associated with investment products or credit offerings.
+- Testify before public agencies on proposed legislation affecting businesses.
+- Determine policy contract provisions for each type of insurance.
+- Testify in court as expert witness or to provide legal evidence on matters such as the value of potential lifetime earnings of a person disabled or killed in an accident.
+- Explain changes in contract provisions to customers.
+- Manage credit and help price corporate security offerings.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mathematics (Importance: 4.25/5 | Level: 5.0/7)
+- Critical Thinking (Importance: 4.25/5 | Level: 4.75/7)
+- Reading Comprehension (Importance: 4.25/5 | Level: 4.75/7)
+- Judgment and Decision Making (Importance: 4.25/5 | Level: 4.62/7)
+- Complex Problem Solving (Importance: 4.0/5 | Level: 4.62/7)
+- Systems Evaluation (Importance: 4.0/5 | Level: 4.62/7)
+- Active Listening (Importance: 4.0/5 | Level: 4.12/7)
+- Systems Analysis (Importance: 3.88/5 | Level: 4.62/7)
+- Speaking (Importance: 3.88/5 | Level: 4.12/7)
+- Writing (Importance: 3.5/5 | Level: 4.0/7)
+- Active Learning (Importance: 3.25/5 | Level: 4.0/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.75/7)
+- Service Orientation (Importance: 3.0/5 | Level: 3.0/7)
+- Operations Analysis (Importance: 3.0/5 | Level: 3.25/7)
+- Time Management (Importance: 3.0/5 | Level: 3.5/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 3.0/7)
+- Persuasion (Importance: 2.88/5 | Level: 3.62/7)
+- Management of Personnel Resources (Importance: 2.88/5 | Level: 2.88/7)
+- Learning Strategies (Importance: 2.88/5 | Level: 3.38/7)
+- Negotiation (Importance: 2.75/5 | Level: 3.25/7)
+- Instructing (Importance: 2.75/5 | Level: 3.38/7)
+- Management of Financial Resources (Importance: 2.62/5 | Level: 2.75/7)
+- Programming (Importance: 2.12/5 | Level: 2.5/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.88/7)
+- Science (Importance: 2.0/5 | Level: 2.12/7)
+- Operations Monitoring (Importance: 2.0/5 | Level: 1.12/7)
+- Quality Control Analysis (Importance: 1.88/5 | Level: 1.5/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.0/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Operation and Control (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Appraisal software (Tech skill type: Financial analysis software)
+- ARMON Technologies XLActuary (Tech skill type: Financial analysis software)
+- C++ (Tech skill type: Object or component oriented development software)
+- Cash flow software (Tech skill type: Financial analysis software)
+- Compliance testing software (Tech skill type: Compliance software)
+- dBASE Plus (Tech skill type: Data base user interface and query software)
+- GGY AXIS (Tech skill type: Financial analysis software)
+- IBM Lotus Notes (Tech skill type: Electronic mail software)
+- IBM SPSS Statistics (Tech skill type: Analytical or scientific software)
+- Insightful S-PLUS (Tech skill type: Analytical or scientific software)
+- Insureware ICRFS-ELRF (Tech skill type: Financial analysis software)
+- Lewis & Ellis LEAPPS (Tech skill type: Financial analysis software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Power BI (Tech skill type: Business intelligence and data analysis software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft SQL Server (Tech skill type: Data base user interface and query software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Visual Basic (Tech skill type: Development environment software)
+- Microsoft Visual Basic for Applications VBA (Tech skill type: Development environment software)
+- Microsoft Visual FoxPro (Tech skill type: Object oriented data base management software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Milliman Corporate Affinity (Tech skill type: Financial analysis software)
+- Milliman ReservePro (Tech skill type: Financial analysis software)
+- Oak Mountain Software AnnuityValue (Tech skill type: Financial analysis software)
+- Oracle Database (Tech skill type: Data base user interface and query software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- PolySystems Asset Delphi (Tech skill type: Financial analysis software)
+- Presentation software (Tech skill type: Presentation software)
+- Pricing software (Tech skill type: Financial analysis software)
+- Python (Tech skill type: Object or component oriented development software)
+- Qlik Tech QlikView (Tech skill type: Business intelligence and data analysis software)
+- R (Tech skill type: Object or component oriented development software)
+- SAP BusinessObjects Desktop Intelligence (Tech skill type: Data base user interface and query software)
+- SAS (Tech skill type: Analytical or scientific software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- SS&C PTS (Tech skill type: Financial analysis software)
+- Statistical software (Tech skill type: Analytical or scientific software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Tableau (Tech skill type: Business intelligence and data analysis software)
+- Towers Perrin MoSes (Tech skill type: Financial analysis software)
+- Wolfram Research Mathematica (Tech skill type: Analytical or scientific software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- 10-key calculators (Tool type: Desktop calculator)
+- Desktop computers (Tool type: Desktop computers)
+- Notebook computers (Tool type: Notebook computers)
+- Personal computers (Tool type: Personal computers)

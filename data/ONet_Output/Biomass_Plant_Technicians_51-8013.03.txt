@@ -1,0 +1,98 @@
+Job Title: Biomass Plant Technicians
+O*NET-SOC Code: 51-8013.03
+
+# DESCRIPTION
+Control and monitor biomass plant activities and perform maintenance as needed.
+
+# TASKS
+- Operate biomass fuel-burning boiler or biomass fuel gasification system equipment in accordance with specifications or instructions.
+- Perform tests of water chemistry in boilers.
+- Operate high-pressure steam boiler or water chiller equipment for electrical cogeneration operations.
+- Operate equipment to heat biomass, using knowledge of controls, combustion, and firing mechanisms.
+- Operate equipment to start, stop, or regulate biomass-fueled generators, generator units, boilers, engines, or auxiliary systems.
+- Inspect biomass power plant or processing equipment, recording or reporting damage and mechanical problems.
+- Record or report operational data, such as readings on meters, instruments, and gauges.
+- Operate valves, pumps, engines, or generators to control and adjust production of biofuels or biomass-fueled power.
+- Calculate, measure, load, or mix biomass feedstock for power generation.
+- Clean work areas to ensure compliance with safety regulations.
+- Perform routine maintenance or make minor repairs to mechanical, electrical, or electronic equipment in biomass plants.
+- Measure and monitor raw biomass feedstock, including wood, waste, or refuse materials.
+- Calibrate liquid flow devices or meters, including fuel, chemical, and water meters.
+- Assess quality of biomass feedstock.
+- Read and interpret instruction manuals or technical drawings related to biomass-fueled power or biofuels production equipment or processes.
+- Operate heavy equipment, such as bulldozers and front-end loaders.
+- Preprocess feedstock to prepare for biochemical or thermochemical production processes.
+- Manage parts and supply inventories for biomass plants.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operations Monitoring (Importance: 4.0/5 | Level: 3.88/7)
+- Operation and Control (Importance: 3.88/5 | Level: 3.5/7)
+- Monitoring (Importance: 3.38/5 | Level: 3.25/7)
+- Critical Thinking (Importance: 3.12/5 | Level: 3.12/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 3.0/7)
+- Speaking (Importance: 3.0/5 | Level: 3.0/7)
+- Reading Comprehension (Importance: 3.0/5 | Level: 3.0/7)
+- Quality Control Analysis (Importance: 3.0/5 | Level: 3.0/7)
+- Active Listening (Importance: 3.0/5 | Level: 3.0/7)
+- Active Learning (Importance: 3.0/5 | Level: 3.0/7)
+- Equipment Maintenance (Importance: 3.0/5 | Level: 3.12/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 3.0/7)
+- Complex Problem Solving (Importance: 3.0/5 | Level: 3.0/7)
+- Coordination (Importance: 3.0/5 | Level: 2.88/7)
+- Writing (Importance: 3.0/5 | Level: 3.0/7)
+- Negotiation (Importance: 2.75/5 | Level: 2.12/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 2.88/7)
+- Troubleshooting (Importance: 2.75/5 | Level: 2.88/7)
+- Systems Evaluation (Importance: 2.75/5 | Level: 2.25/7)
+- Systems Analysis (Importance: 2.75/5 | Level: 2.75/7)
+- Equipment Selection (Importance: 2.75/5 | Level: 2.12/7)
+- Mathematics (Importance: 2.75/5 | Level: 2.75/7)
+- Repairing (Importance: 2.75/5 | Level: 2.88/7)
+- Instructing (Importance: 2.75/5 | Level: 2.75/7)
+- Service Orientation (Importance: 2.75/5 | Level: 2.88/7)
+- Persuasion (Importance: 2.62/5 | Level: 2.5/7)
+- Science (Importance: 2.25/5 | Level: 1.62/7)
+- Management of Personnel Resources (Importance: 2.12/5 | Level: 2.25/7)
+- Operations Analysis (Importance: 2.12/5 | Level: 1.25/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.62/7)
+- Technology Design (Importance: 1.88/5 | Level: 0.88/7)
+- Management of Financial Resources (Importance: 1.88/5 | Level: 1.0/7)
+- Programming (Importance: 1.75/5 | Level: 0.75/7)
+- Installation (Importance: 1.12/5 | Level: 0.12/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Distributed control system DCS (Tech skill type: Industrial control software)
+- Energy analysis software (Tech skill type: Analytical or scientific software)
+- Inventory control software (Tech skill type: Inventory management software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Word (Tech skill type: Word processing software)
+- National Instruments LabVIEW (Tech skill type: Development environment software)
+
+## TOOLS USED
+- Belt conveyor systems (Tool type: Belt conveyors)
+- Biomass boilers (Tool type: Fire tube boilers)
+- Biomass dryers (Tool type: Air dryers)
+- Biomass screeners (Tool type: Intake structures)
+- Bubbling fluidized bed boilers (Tool type: Fire tube boilers)
+- Circulating fluidized bed boilers (Tool type: Fire tube boilers)
+- Desktop computers (Tool type: Desktop computers)
+- Disc screeners (Tool type: Intake structures)
+- Drive-on scales (Tool type: Truck or rail scales)
+- Dump trucks (Tool type: Dump trucks)
+- Fuel metering conveyors (Tool type: Conveyor feeders)
+- Grinders (Tool type: Grinding mills)
+- Hammer hogs (Tool type: Hammer mills)
+- Heat recovery steam generators (Tool type: Steam generators)
+- Laptop computers (Tool type: Notebook computers)
+- Personal computers (Tool type: Personal computers)
+- Radial stackers (Tool type: Extendable conveyors)
+- Reclaim feeders (Tool type: Batching plants or feeders)
+- Steam boilers (Tool type: Water tube boiler)
+- Steam turbines (Tool type: Steam engines)
+- Tub grinders (Tool type: Grinding mills)
+- Water samplers (Tool type: Water samplers)
+- Wheeled front end loaders (Tool type: Front end loaders)

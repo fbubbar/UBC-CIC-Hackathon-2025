@@ -1,0 +1,189 @@
+Job Title: Remote Sensing Scientists and Technologists
+O*NET-SOC Code: 19-2099.01
+
+# DESCRIPTION
+Apply remote sensing principles and methods to analyze data and solve problems in areas such as natural resource management, urban planning, or homeland security. May develop new sensor systems, analytical techniques, or new applications for existing systems.
+
+# TASKS
+- Manage or analyze data obtained from remote sensing systems to obtain meaningful results.
+- Analyze data acquired from aircraft, satellites, or ground-based platforms, using statistical analysis software, image analysis software, or Geographic Information Systems (GIS).
+- Integrate other geospatial data sources into projects.
+- Organize and maintain geospatial data and associated documentation.
+- Compile and format image data to increase its usefulness.
+- Prepare or deliver reports or presentations of geospatial project information.
+- Discuss project goals, equipment requirements, or methodologies with colleagues or team members.
+- Process aerial or satellite imagery to create products such as land cover maps.
+- Design or implement strategies for collection, analysis, or display of geographic data.
+- Develop or build databases for remote sensing or related geospatial project information.
+- Collect supporting data, such as climatic or field survey data, to corroborate remote sensing data analyses.
+- Monitor quality of remote sensing data collection operations to determine if procedural or equipment changes are necessary.
+- Train technicians in the use of remote sensing technology.
+- Set up or maintain remote sensing data collection systems.
+- Direct all activity associated with implementation, operation, or enhancement of remote sensing hardware or software.
+- Attend meetings or seminars or read current literature to maintain knowledge of developments in the field of remote sensing.
+- Conduct research into the application or enhancement of remote sensing technology.
+- Recommend new remote sensing hardware or software acquisitions.
+- Use remote sensing data for forest or carbon tracking activities to assess the impact of environmental change.
+- Develop automated routines to correct for the presence of image distorting artifacts, such as ground vegetation.
+- Develop new analytical techniques or sensor systems.
+- Participate in fieldwork.
+- Apply remote sensing data or techniques, such as surface water modeling or dust cloud detection, to address environmental issues.
+- Direct installation or testing of new remote sensing hardware or software.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.38/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.75/7)
+- Writing (Importance: 3.88/5 | Level: 4.62/7)
+- Speaking (Importance: 3.88/5 | Level: 4.25/7)
+- Science (Importance: 3.88/5 | Level: 4.0/7)
+- Active Listening (Importance: 3.88/5 | Level: 4.0/7)
+- Mathematics (Importance: 3.75/5 | Level: 4.12/7)
+- Complex Problem Solving (Importance: 3.75/5 | Level: 4.12/7)
+- Judgment and Decision Making (Importance: 3.75/5 | Level: 4.12/7)
+- Systems Evaluation (Importance: 3.62/5 | Level: 3.88/7)
+- Systems Analysis (Importance: 3.62/5 | Level: 3.88/7)
+- Monitoring (Importance: 3.38/5 | Level: 3.88/7)
+- Active Learning (Importance: 3.38/5 | Level: 4.0/7)
+- Operations Analysis (Importance: 3.25/5 | Level: 3.62/7)
+- Learning Strategies (Importance: 3.12/5 | Level: 3.12/7)
+- Instructing (Importance: 3.0/5 | Level: 3.38/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Management of Personnel Resources (Importance: 2.88/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 3.0/7)
+- Time Management (Importance: 2.88/5 | Level: 3.12/7)
+- Programming (Importance: 2.88/5 | Level: 2.75/7)
+- Service Orientation (Importance: 2.88/5 | Level: 2.88/7)
+- Persuasion (Importance: 2.62/5 | Level: 2.88/7)
+- Negotiation (Importance: 2.5/5 | Level: 2.62/7)
+- Operations Monitoring (Importance: 2.5/5 | Level: 2.5/7)
+- Quality Control Analysis (Importance: 2.38/5 | Level: 1.75/7)
+- Technology Design (Importance: 2.38/5 | Level: 2.38/7)
+- Operation and Control (Importance: 2.0/5 | Level: 1.62/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.75/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 1.38/7)
+- Equipment Selection (Importance: 1.5/5 | Level: 0.5/7)
+- Troubleshooting (Importance: 1.5/5 | Level: 0.75/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adobe Creative Cloud software (Tech skill type: Graphics or photo imaging software)
+- Aeronautical charts (Tech skill type: Charting software)
+- Agisoft Metashape (Tech skill type: Analytical or scientific software)
+- Airdata (Tech skill type: Project management software)
+- Amazon DynamoDB (Tech skill type: Data base management system software)
+- Amazon Elastic Compute Cloud EC2 (Tech skill type: Data base user interface and query software)
+- Amazon Redshift (Tech skill type: Data base user interface and query software)
+- Amazon Simple Storage Service S3 (Tech skill type: Storage networking software)
+- Amazon Web Services AWS CloudFormation (Tech skill type: Cloud-based management software)
+- Amazon Web Services AWS software (Tech skill type: Data base user interface and query software)
+- Ansible software (Tech skill type: Expert system software)
+- Apache Hadoop (Tech skill type: Data base management system software)
+- Apache Hive (Tech skill type: Data base management system software)
+- Apache HTTP Server (Tech skill type: Application server software)
+- Apache Kafka (Tech skill type: Development environment software)
+- ArduPilot Mission Planner (Tech skill type: Aviation ground support software)
+- Atlassian JIRA (Tech skill type: Project management software)
+- BAE Systems SOCET GXP (Tech skill type: Map creation software)
+- Bash (Tech skill type: Operating system software)
+- C (Tech skill type: Development environment software)
+- C# (Tech skill type: Object or component oriented development software)
+- C++ (Tech skill type: Object or component oriented development software)
+- Calibration software (Tech skill type: Analytical or scientific software)
+- CloudCompare (Tech skill type: Analytical or scientific software)
+- Customer relationship management CRM software (Tech skill type: Customer relationship management CRM software)
+- Docker (Tech skill type: Application server software)
+- Elasticsearch (Tech skill type: Data base management system software)
+- Epic Systems (Tech skill type: Medical software)
+- ESRI ArcGIS software (Tech skill type: Geographic information system)
+- ESRI Site Scan for ArcGIS (Tech skill type: Map creation software)
+- Extensible markup language XML (Tech skill type: Enterprise application integration software)
+- FLIR Thermal Studio Suite (Tech skill type: Analytical or scientific software)
+- Gamma remote sensing software (Tech skill type: Map creation software)
+- Geographic information system GIS systems (Tech skill type: Geographic information system)
+- Git (Tech skill type: File versioning software)
+- GitHub (Tech skill type: Application server software)
+- Global positioning system GPS software (Tech skill type: Mobile location based services software)
+- Go (Tech skill type: Development environment software)
+- Healthcare common procedure coding system HCPCS (Tech skill type: Medical software)
+- Hypertext preprocessor PHP (Tech skill type: Web platform development software)
+- Image processing software (Tech skill type: Graphics or photo imaging software)
+- Interface definition language IDL (Tech skill type: Development environment software)
+- JavaScript (Tech skill type: Web platform development software)
+- JavaScript Object Notation JSON (Tech skill type: Web platform development software)
+- Kitty Hawk (Tech skill type: Analytical or scientific software)
+- Learning management system LMS (Tech skill type: Computer based training software)
+- Leica Geosystems ERDAS IMAGINE (Tech skill type: Map creation software)
+- Linux (Tech skill type: Operating system software)
+- Litchi (Tech skill type: Analytical or scientific software)
+- LP360 (Tech skill type: Analytical or scientific software)
+- Microsoft Azure software (Tech skill type: Development environment software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Image Composite Editor (Tech skill type: Graphics or photo imaging software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft SQL Server (Tech skill type: Data base management system software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Visual Studio (Tech skill type: Development environment software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- MySQL (Tech skill type: Data base management system software)
+- Node.js (Tech skill type: Web platform development software)
+- NoSQL (Tech skill type: Data base management system software)
+- Objective C (Tech skill type: Object or component oriented development software)
+- OpenDroneMap (Tech skill type: Map creation software)
+- Oracle Database (Tech skill type: Data base user interface and query software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- PCI Geomatics Geomatica (Tech skill type: Map creation software)
+- Perl (Tech skill type: Object or component oriented development software)
+- Pix4D Pix4Dmapper (Tech skill type: Analytical or scientific software)
+- PostgreSQL (Tech skill type: Object oriented data base management software)
+- Puppet (Tech skill type: Configuration management software)
+- Python (Tech skill type: Object or component oriented development software)
+- R (Tech skill type: Object or component oriented development software)
+- RSI ENVI (Tech skill type: Analytical or scientific software)
+- Ruby (Tech skill type: Development environment software)
+- Ruby on Rails (Tech skill type: Web platform development software)
+- Salesforce software (Tech skill type: Customer relationship management CRM software)
+- Scala (Tech skill type: Object or component oriented development software)
+- Selenium (Tech skill type: Program testing software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Swift (Tech skill type: Object or component oriented development software)
+- Tableau (Tech skill type: Business intelligence and data analysis software)
+- The MathWorks MATLAB (Tech skill type: Analytical or scientific software)
+- UgCS (Tech skill type: Analytical or scientific software)
+- UNIX (Tech skill type: Operating system software)
+- Web browser software (Tech skill type: Internet browser software)
+- YouTube (Tech skill type: Video creation and editing software)
+
+## TOOLS USED
+- Airborne imaging systems (Tool type: Aerial cameras)
+- Airfield lighting equipment (Tool type: Area lighting)
+- Anemometers (Tool type: Anemometers)
+- Desktop computers (Tool type: Desktop computers)
+- DJI GS Pro (Tool type: Aircraft guidance systems)
+- Doppler Rayleigh laser imaging ranging and detecting LIDAR systems (Tool type: Radarbased surveillance systems)
+- DroneDeploy (Tool type: Aircraft guidance systems)
+- DroneLogbook (Tool type: Aircraft guidance systems)
+- Fixed wing unmanned aerial vehicles UAV (Tool type: Airships)
+- Global positioning system GPS devices (Tool type: Global positioning system GPS receiver)
+- Ground control targets (Tool type: Landing gear assemblies)
+- Hyperspectral imaging equipment (Tool type: Spectrographs)
+- Landing pad (Tool type: Aircraft guidance systems)
+- Mainframe computers (Tool type: Mainframe computers)
+- Multi-rotor unmanned aerial vehicles UAV (Tool type: Airships)
+- Multimeters (Tool type: Multimeters)
+- Multispectral imaging equipment (Tool type: Infrared spectrometers)
+- Personal computers (Tool type: Personal computers)
+- Power generators (Tool type: Gas generators)
+- Spaceborne imaging systems (Tool type: Aerial cameras)
+- Spectral imaging systems (Tool type: Spectrographs)
+- Spectrum analyzers (Tool type: Frequency analyzers)
+- Synthetic aperture radar SAR (Tool type: Radarbased surveillance systems)
+- Tablet computers (Tool type: Tablet computers)
+- Thermal imaging systems (Tool type: Infrared imagers)
+- Two way radios (Tool type: Two way radios)

@@ -1,0 +1,177 @@
+Job Title: Chemical Equipment Operators and Tenders
+O*NET-SOC Code: 51-9011.00
+
+# DESCRIPTION
+Operate or tend equipment to control chemical changes or reactions in the processing of industrial or consumer products. Equipment used includes devulcanizers, steam-jacketed kettles, and reactor vessels.
+
+# TASKS
+- Observe safety precautions to prevent fires or explosions.
+- Record operational data, such as temperatures, pressures, ingredients used, processing times, or test results.
+- Control or operate equipment in which chemical changes or reactions take place during the processing of industrial or consumer products.
+- Patrol work areas to detect leaks or equipment malfunctions or to monitor operating conditions.
+- Draw samples of products at specified stages so that analyses can be performed.
+- Adjust controls to regulate temperature, pressure, feed, or flow of liquids or gases and times of prescribed reactions, according to knowledge of equipment and processes.
+- Monitor gauges, recording instruments, flowmeters, or products to ensure that specified conditions are maintained.
+- Test product samples for specific gravity, chemical characteristics, pH levels, concentrations, or viscosities, or send them to laboratories for testing.
+- Inspect equipment or units to detect leaks or malfunctions, shutting equipment down, if necessary.
+- Open valves or start pumps, agitators, reactors, blowers, or automatic feed of materials.
+- Read plant specifications to determine products, ingredients, or prescribed modifications of plant procedures.
+- Implement appropriate industrial emergency response procedures.
+- Measure, weigh, and mix chemical ingredients, according to specifications.
+- Dump or scoop prescribed solid, granular, or powdered materials into equipment.
+- Notify maintenance engineers of equipment malfunctions.
+- Estimate materials required for production and manufacturing of products.
+- Add treating or neutralizing agents to products, and pump products through filters or centrifuges to remove impurities or to precipitate products.
+- Observe and compare colors and consistencies of products to instrument readings and to laboratory and standard test results.
+- Direct activities of workers assisting in control or verification of processes or in unloading of materials.
+- Drain equipment, and pump water or other solutions through to flush and clean tanks or equipment.
+- Flush or clean equipment, using steam hoses or mechanical reamers.
+- Make minor repairs, lubricate, and maintain equipment, using hand tools.
+- Inventory supplies received and consumed.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operation and Control (Importance: 3.88/5 | Level: 3.88/7)
+- Operations Monitoring (Importance: 3.88/5 | Level: 3.88/7)
+- Monitoring (Importance: 3.75/5 | Level: 3.12/7)
+- Critical Thinking (Importance: 3.38/5 | Level: 3.12/7)
+- Reading Comprehension (Importance: 3.38/5 | Level: 3.38/7)
+- Judgment and Decision Making (Importance: 3.38/5 | Level: 3.0/7)
+- Active Listening (Importance: 3.38/5 | Level: 3.12/7)
+- Complex Problem Solving (Importance: 3.12/5 | Level: 2.88/7)
+- Speaking (Importance: 3.12/5 | Level: 3.0/7)
+- Troubleshooting (Importance: 3.0/5 | Level: 2.75/7)
+- Time Management (Importance: 3.0/5 | Level: 2.88/7)
+- Quality Control Analysis (Importance: 3.0/5 | Level: 3.12/7)
+- Active Learning (Importance: 3.0/5 | Level: 2.88/7)
+- Writing (Importance: 3.0/5 | Level: 3.0/7)
+- Coordination (Importance: 3.0/5 | Level: 3.12/7)
+- Mathematics (Importance: 2.88/5 | Level: 2.88/7)
+- Equipment Maintenance (Importance: 2.75/5 | Level: 2.62/7)
+- Systems Evaluation (Importance: 2.75/5 | Level: 2.5/7)
+- Systems Analysis (Importance: 2.75/5 | Level: 2.62/7)
+- Learning Strategies (Importance: 2.75/5 | Level: 2.5/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 2.62/7)
+- Instructing (Importance: 2.62/5 | Level: 2.62/7)
+- Science (Importance: 2.62/5 | Level: 2.12/7)
+- Service Orientation (Importance: 2.5/5 | Level: 2.25/7)
+- Management of Personnel Resources (Importance: 2.5/5 | Level: 2.38/7)
+- Equipment Selection (Importance: 2.38/5 | Level: 2.12/7)
+- Repairing (Importance: 2.38/5 | Level: 2.25/7)
+- Persuasion (Importance: 2.12/5 | Level: 1.88/7)
+- Operations Analysis (Importance: 2.0/5 | Level: 1.75/7)
+- Negotiation (Importance: 2.0/5 | Level: 1.62/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.12/7)
+- Technology Design (Importance: 1.75/5 | Level: 0.75/7)
+- Programming (Importance: 1.62/5 | Level: 0.62/7)
+- Management of Financial Resources (Importance: 1.5/5 | Level: 0.5/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- IBM Notes (Tech skill type: Electronic mail software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Operational databases (Tech skill type: Data base user interface and query software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+
+## TOOLS USED
+- Agitator tanks (Tool type: Processing tanks)
+- Air purifying respirators (Tool type: Respirators)
+- Air scrubbers (Tool type: Air scrubbers)
+- Augers (Tool type: Augers)
+- Axial flow fans (Tool type: Fans)
+- Barometers (Tool type: Barometers)
+- Batch dryers (Tool type: Air dryers)
+- Belt conveyors (Tool type: Belt conveyors)
+- Belt dryers (Tool type: Air dryers)
+- Blenders (Tool type: Laboratory blenders or emulsifiers)
+- Blending vessels (Tool type: Chemical tanks)
+- Blowers (Tool type: Blowers)
+- Bourdon tubes (Tool type: Pressure sensors)
+- Brine concentrators (Tool type: Water purification equipment)
+- Bucket elevators (Tool type: Bucket conveyors)
+- Calibrated rods (Tool type: Logging instruments for water wells)
+- Capacitance probes (Tool type: Capacitance meters)
+- Catalytic converters (Tool type: Catalytic converters)
+- Centrifugal fans (Tool type: Fans)
+- Centrifugal pumps (Tool type: Centrifugal pumps)
+- Chain conveyors (Tool type: Chain conveyors)
+- Chemical reactor vessels (Tool type: Chemical tanks)
+- Chemical reactors (Tool type: Reactors or fermenters or digesters)
+- Chemical splash goggles (Tool type: Goggles)
+- Circulation heaters (Tool type: Circulation heaters)
+- Collectors (Tool type: Collection tanks)
+- Colorimeters (Tool type: Colorimeters)
+- Combustion gas turbines (Tool type: Turbine engines)
+- Continuous tray dryers (Tool type: Air dryers)
+- Cooling towers (Tool type: Evaporative coolers)
+- Crystallizers (Tool type: Crystallizers)
+- Demineralizers (Tool type: Deionization or demineralization equipment)
+- Digital surface thermometers (Tool type: Surface thermometers)
+- Distillers (Tool type: Bi distillation units)
+- Drum dryers (Tool type: Air dryers)
+- Extractors (Tool type: Extracting equipment for laboratories)
+- Fermentation chambers (Tool type: Standard fermentation units)
+- Filler presses (Tool type: Filtering machinery)
+- Fire blankets (Tool type: Fire blankets)
+- Fire extinguishers (Tool type: Fire extinguishers)
+- Flame atomic absorption spectrophotometers (Tool type: Spectrophotometers)
+- Flow meters (Tool type: Flowmeters)
+- Fractionators (Tool type: Density gradient fractionators)
+- Gas chromatographs GC (Tool type: Gas chromatographs)
+- Gas expanders (Tool type: Gas recovery machinery)
+- Gas-liquid separators (Tool type: Laboratory separators)
+- Gear pumps (Tool type: Gear pumps)
+- Grease guns (Tool type: Grease guns)
+- Heat exchangers (Tool type: Heat exchangers)
+- Humidifiers (Tool type: Humidifiers)
+- Hydraulic accumulators (Tool type: Hydraulic accumulators)
+- Industrial dryers (Tool type: Air dryers)
+- Industrial filters (Tool type: Air filters)
+- Infrared spectroscopic equipment (Tool type: Spectrometers)
+- Laboratory evaporators (Tool type: Laboratory evaporators)
+- Ladders (Tool type: Ladders)
+- Liquid-liquid separators (Tool type: Laboratory separators)
+- Manometers (Tool type: Manometers)
+- Mechanical reamers (Tool type: Reamer)
+- Media filters (Tool type: Metal fabric media)
+- Neutralizer tanks (Tool type: Processing tanks)
+- Packed towers (Tool type: Air dryers)
+- Personal protective equipment (Tool type: Hazardous material protective apparel)
+- Pipe wrenches (Tool type: Pipe wrenches)
+- Pneumatic conveying dryers (Tool type: Air dryers)
+- Positive displacement pumps (Tool type: Positive displacement pumps)
+- Pressure gauges (Tool type: Pressure sensors)
+- Protective face shields (Tool type: Facial shields)
+- Reactors (Tool type: Reactors)
+- Reciprocating compressors (Tool type: Reciprocating compressors)
+- Reciprocating pumps (Tool type: Reciprocating pumps)
+- Recovery units (Tool type: Gas recovery machinery)
+- Respirators (Tool type: Respirators)
+- Reverse osmosis systems (Tool type: Reverse osmosis equipment)
+- Rotary cylindrical dryers (Tool type: Air dryers)
+- Rotary pumps (Tool type: Rotary pumps)
+- Rotating equipment (Tool type: Rotating shakers)
+- Safety goggles (Tool type: Goggles)
+- Safety shoes (Tool type: Safety shoes)
+- Screw conveyors (Tool type: Screw conveyor)
+- Screwdrivers (Tool type: Screwdrivers)
+- Self-contained breathing apparatus (Tool type: Respiration air supplying self contained breathing apparatus or accessories)
+- Soap-spray storage tanks (Tool type: Storage tanks)
+- Spectrophotometers (Tool type: Spectrophotometers)
+- Spray dryers (Tool type: Spray dryers)
+- Steam hoses (Tool type: Special hoses)
+- Steam turbines (Tool type: Steam engines)
+- Storage drums (Tool type: Storage tanks)
+- Thermocouple temperature probes (Tool type: Thermocouple probes)
+- Thermocouples (Tool type: Thermocouples)
+- Tray towers (Tool type: Evaporative coolers)
+- Two way radios (Tool type: Two way radios)
+- Vacuum pumps (Tool type: Vacuum pumps)
+- Water clarifiers (Tool type: Water purification equipment)
+- Water softeners (Tool type: Water softening accessories)
+- Waxing buffers (Tool type: Power buffers)
+- Welding helmets (Tool type: Welding masks)

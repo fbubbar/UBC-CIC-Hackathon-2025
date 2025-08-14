@@ -1,0 +1,104 @@
+Job Title: Motion Picture Projectionists
+O*NET-SOC Code: 39-3021.00
+
+# DESCRIPTION
+Set up and operate motion picture projection and related sound reproduction equipment.
+
+# TASKS
+- Monitor operations to ensure that standards for sound and image projection quality are met.
+- Start projectors and open shutters to project images onto screens.
+- Open and close facilities according to rules and schedules.
+- Operate equipment to show films in a number of theaters simultaneously.
+- Perform regular maintenance tasks, such as rotating or replacing xenon bulbs, cleaning projectors and lenses, lubricating machinery, and keeping electrical contacts clean and tight.
+- Set up and adjust picture projectors and screens to achieve proper size, illumination, and focus of images, and proper volume and tone of sound.
+- Inspect projection equipment prior to operation to ensure proper working order.
+- Perform minor repairs, such as replacing worn sprockets, or notify maintenance personnel of the need for major repairs.
+- Set up and inspect curtain and screen controls.
+- Coordinate equipment operation with presentation of supplemental material, such as music, oral commentaries, or sound effects.
+- Clean the projection booth.
+- Inspect movie films to ensure that they are complete and in good condition.
+- Remove full take-up reels and run film through rewinding machines to rewind projected films so they may be shown again.
+- Install and connect auxiliary equipment, such as microphones, amplifiers, disc playback machines, and lights.
+- Observe projector operation to anticipate need to transfer operations from one projector to another.
+- Prepare film inspection reports, attendance sheets, and log books.
+- Splice separate film reels, advertisements, and movie trailers together to form a feature-length presentation on one continuous reel.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operations Monitoring (Importance: 3.12/5 | Level: 3.0/7)
+- Speaking (Importance: 3.0/5 | Level: 2.88/7)
+- Active Listening (Importance: 3.0/5 | Level: 3.0/7)
+- Reading Comprehension (Importance: 3.0/5 | Level: 3.0/7)
+- Operation and Control (Importance: 3.0/5 | Level: 2.75/7)
+- Troubleshooting (Importance: 2.88/5 | Level: 2.75/7)
+- Time Management (Importance: 2.88/5 | Level: 2.62/7)
+- Judgment and Decision Making (Importance: 2.88/5 | Level: 2.25/7)
+- Critical Thinking (Importance: 2.88/5 | Level: 2.75/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.25/7)
+- Repairing (Importance: 2.88/5 | Level: 2.25/7)
+- Monitoring (Importance: 2.88/5 | Level: 2.88/7)
+- Coordination (Importance: 2.88/5 | Level: 2.62/7)
+- Complex Problem Solving (Importance: 2.88/5 | Level: 2.25/7)
+- Equipment Maintenance (Importance: 2.75/5 | Level: 2.62/7)
+- Quality Control Analysis (Importance: 2.75/5 | Level: 2.62/7)
+- Service Orientation (Importance: 2.5/5 | Level: 2.5/7)
+- Systems Evaluation (Importance: 2.12/5 | Level: 1.12/7)
+- Persuasion (Importance: 2.12/5 | Level: 2.0/7)
+- Systems Analysis (Importance: 2.12/5 | Level: 1.25/7)
+- Active Learning (Importance: 2.12/5 | Level: 2.12/7)
+- Equipment Selection (Importance: 2.12/5 | Level: 2.0/7)
+- Writing (Importance: 2.12/5 | Level: 2.75/7)
+- Negotiation (Importance: 2.0/5 | Level: 2.0/7)
+- Learning Strategies (Importance: 2.0/5 | Level: 2.0/7)
+- Instructing (Importance: 2.0/5 | Level: 1.88/7)
+- Operations Analysis (Importance: 1.88/5 | Level: 1.62/7)
+- Management of Personnel Resources (Importance: 1.88/5 | Level: 1.62/7)
+- Mathematics (Importance: 1.5/5 | Level: 0.5/7)
+- Management of Material Resources (Importance: 1.5/5 | Level: 0.5/7)
+- Programming (Importance: 1.38/5 | Level: 0.62/7)
+- Installation (Importance: 1.25/5 | Level: 0.5/7)
+- Technology Design (Importance: 1.12/5 | Level: 0.25/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+- Management of Financial Resources (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Apple macOS (Tech skill type: Operating system software)
+- Audio calibration software (Tech skill type: Analytical or scientific software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Avid Technology iNEWS (Tech skill type: Video creation and editing software)
+- Enterprise resource planning ERP software (Tech skill type: Enterprise resource planning ERP software)
+- Facebook (Tech skill type: Web page creation and editing software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft operating system (Tech skill type: Operating system software)
+- Microsoft Outlook (Tech skill type: Word processing software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- 16mm motion picture projectors (Tool type: Film projectors)
+- 8mm motion picture projectors (Tool type: Film projectors)
+- Allen wrenches (Tool type: Allen wrench)
+- Cordless microphones (Tool type: Microphones)
+- Digital movie projectors (Tool type: Video projectors)
+- Emergency lighting (Tool type: Emergency light unit)
+- Film cleaning machines (Tool type: Film washers)
+- Film rewinders (Tool type: Video tape rewinders)
+- Flathead screwdrivers (Tool type: Screwdrivers)
+- Laser disc playback machines (Tool type: Laser disc players)
+- Movie theatre screens (Tool type: Projection screens or displays)
+- Multi-image slide projectors (Tool type: Slide projectors)
+- Opaque slide projectors (Tool type: Slide projectors)
+- Personal computers (Tool type: Personal computers)
+- Phillips screwdrivers (Tool type: Screwdrivers)
+- Portable hard drives (Tool type: High capacity removable media drives)
+- Portable motion picture projectors (Tool type: Film projectors)
+- Portable tape reproducers (Tool type: Tape duplicator)
+- Power amplifiers (Tool type: Audio amplifier)
+- Precision nut drivers (Tool type: Nut drivers)
+- Screen cleaning brushes (Tool type: Cleaning brushes)
+- Splicing machines (Tool type: Film splicers)
+- Spotlights (Tool type: Follow spots)
+- Still image projectors (Tool type: Slide projectors)
+- Theater lights (Tool type: Stage or projection or studio lighting system)

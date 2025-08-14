@@ -1,0 +1,106 @@
+Job Title: Orderlies
+O*NET-SOC Code: 31-1132.00
+
+# DESCRIPTION
+Transport patients to areas such as operating rooms or x-ray rooms using wheelchairs, stretchers, or moveable beds. May maintain stocks of supplies or clean and transport equipment. Psychiatric orderlies are included in Psychiatric Aides.
+
+# TASKS
+- Lift or assist others to lift patients to move them on or off beds, examination tables, surgical tables, or stretchers.
+- Transport patients to treatment units, testing units, operating rooms, or other areas, using wheelchairs, stretchers, or moveable beds.
+- Disinfect or sterilize equipment or supplies, using germicides or sterilizing equipment.
+- Clean equipment, such as wheelchairs, hospital beds, or portable medical equipment, documenting needed repairs or maintenance.
+- Respond to emergency situations, such as emergency medical calls, security calls, or fire alarms.
+- Change soiled linens, such as bed linens, drapes, or cubicle curtains.
+- Carry messages or documents between departments.
+- Transport portable medical equipment or medical supplies between rooms or departments.
+- Clean and sanitize patient rooms, bathrooms, examination rooms, or other patient areas.
+- Collect and transport infectious or hazardous waste in closed containers for sterilization or disposal, in accordance with applicable law, standards, or policies.
+- Transport specimens, laboratory items, or pharmacy items, ensuring proper documentation and delivery to authorized personnel.
+- Collect soiled linen or trash.
+- Provide physical support to patients to assist them to perform daily living activities, such as getting out of bed, bathing, dressing, using the toilet, standing, walking, or exercising.
+- Separate collected materials for disposal, recycling, or reuse, in accordance with environmental policies.
+- Restrain patients to prevent violence or injury or to assist physicians or nurses to administer treatments.
+- Turn or reposition bedridden patients, alone or with assistance, to prevent bedsores.
+- Position or hold patients in position for surgical preparation.
+- Stock utility rooms, nonmedical storage rooms, or cleaning carts with supplies.
+- Answer patient call signals, signal lights, bells, or intercom systems to determine patients' needs.
+- Stock or issue medical supplies, such as dressing packs or treatment trays.
+- Transport bodies to the morgue.
+- Serve or collect food trays.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Social Perceptiveness (Importance: 3.38/5 | Level: 2.5/7)
+- Service Orientation (Importance: 3.38/5 | Level: 2.62/7)
+- Active Listening (Importance: 3.12/5 | Level: 2.5/7)
+- Speaking (Importance: 3.0/5 | Level: 2.12/7)
+- Coordination (Importance: 2.88/5 | Level: 2.62/7)
+- Critical Thinking (Importance: 2.75/5 | Level: 2.12/7)
+- Writing (Importance: 2.62/5 | Level: 2.25/7)
+- Monitoring (Importance: 2.62/5 | Level: 2.0/7)
+- Judgment and Decision Making (Importance: 2.62/5 | Level: 1.62/7)
+- Time Management (Importance: 2.5/5 | Level: 2.12/7)
+- Reading Comprehension (Importance: 2.5/5 | Level: 2.0/7)
+- Negotiation (Importance: 2.38/5 | Level: 1.62/7)
+- Complex Problem Solving (Importance: 2.25/5 | Level: 1.62/7)
+- Persuasion (Importance: 2.25/5 | Level: 1.5/7)
+- Active Learning (Importance: 2.12/5 | Level: 1.88/7)
+- Instructing (Importance: 2.12/5 | Level: 2.25/7)
+- Learning Strategies (Importance: 2.12/5 | Level: 2.0/7)
+- Troubleshooting (Importance: 2.0/5 | Level: 1.62/7)
+- Operations Monitoring (Importance: 2.0/5 | Level: 1.38/7)
+- Operation and Control (Importance: 1.88/5 | Level: 1.25/7)
+- Management of Personnel Resources (Importance: 1.88/5 | Level: 1.62/7)
+- Systems Analysis (Importance: 1.88/5 | Level: 1.25/7)
+- Quality Control Analysis (Importance: 1.88/5 | Level: 1.25/7)
+- Systems Evaluation (Importance: 1.75/5 | Level: 1.0/7)
+- Mathematics (Importance: 1.75/5 | Level: 0.88/7)
+- Equipment Selection (Importance: 1.25/5 | Level: 0.25/7)
+- Management of Material Resources (Importance: 1.25/5 | Level: 0.25/7)
+- Science (Importance: 1.25/5 | Level: 0.25/7)
+- Operations Analysis (Importance: 1.12/5 | Level: 0.12/7)
+- Technology Design (Importance: 1.12/5 | Level: 0.25/7)
+- Equipment Maintenance (Importance: 1.12/5 | Level: 0.12/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Management of Financial Resources (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Electronic medical record EMR software (Tech skill type: Medical software)
+- GE Healthcare Centricity EMR (Tech skill type: Medical software)
+- Medical record charting software (Tech skill type: Medical software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Windows (Tech skill type: Operating system software)
+
+## TOOLS USED
+- Adjustable hospital beds (Tool type: Patient care beds for general use)
+- Automated blood pressure cuffs (Tool type: Electronic blood pressure units)
+- Automated external defibrillators AED (Tool type: Mobile medical services automated external defibrillators AED or hard paddles)
+- Desktop computers (Tool type: Desktop computers)
+- Electronic patient thermometers (Tool type: Electronic medical thermometers)
+- Hydraulic patient lifts (Tool type: Clinical hydraulic lifts)
+- Laptop computers (Tool type: Notebook computers)
+- Manual blood pressure equipment (Tool type: Mercury blood pressure units)
+- Mechanical stethoscopes (Tool type: Medical acoustic stethoscopes)
+- Medical examination protective gloves (Tool type: Medical exam or non surgical procedure gloves)
+- Medical gurneys (Tool type: Gurneys or scissor lifts)
+- Medical scales (Tool type: Patient floor scales)
+- Multi-line telephone systems (Tool type: Special purpose telephones)
+- Oxygen tanks (Tool type: Medical gas cylinders or related devices)
+- Oxygen tents (Tool type: Medical aerosol tents)
+- Oxygen therapy equipment (Tool type: Oxygen therapy delivery system products)
+- Patient bed scales (Tool type: Patient bed or table scales for general use)
+- Patient limb restraints (Tool type: Extremity restraints)
+- Patient transfer boards (Tool type: Patient shifting boards)
+- Patient transport wheelchairs (Tool type: Wheelchairs)
+- Personal computers (Tool type: Personal computers)
+- Portable x ray machines (Tool type: Medical x ray units for general diagnostic use)
+- Protective patient restraints (Tool type: Patient stabilization or fall prevention devices)
+- Safety razors (Tool type: Razors)
+- Shower chairs (Tool type: Shower or bath chairs or seats for the physically challenged)
+- Specimen collection containers (Tool type: Specimen collection container)
+- Therapeutic cold packs (Tool type: Therapeutic heating or cooling pads or compresses or packs)
+- Therapeutic hot packs (Tool type: Therapeutic heating or cooling pads or compresses or packs)

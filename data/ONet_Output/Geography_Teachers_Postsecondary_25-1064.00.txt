@@ -1,0 +1,160 @@
+Job Title: Geography Teachers, Postsecondary
+O*NET-SOC Code: 25-1064.00
+
+# DESCRIPTION
+Teach courses in geography. Includes both teachers primarily engaged in teaching and those who do a combination of teaching and research.
+
+# TASKS
+- Prepare course materials, such as syllabi, homework assignments, and handouts.
+- Prepare and deliver lectures to undergraduate or graduate students on topics such as urbanization, environmental systems, and cultural geography.
+- Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.
+- Evaluate and grade students' class work, assignments, and papers.
+- Compile, administer, and grade examinations, or assign this work to others.
+- Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.
+- Initiate, facilitate, and moderate classroom discussions.
+- Maintain student attendance records, grades, and other required records.
+- Supervise undergraduate or graduate teaching, internship, and research work.
+- Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.
+- Maintain regularly scheduled office hours to advise and assist students.
+- Supervise students' laboratory and field work.
+- Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.
+- Advise students on academic and vocational curricula and on career issues.
+- Collaborate with colleagues to address teaching and research issues.
+- Perform spatial analysis and modeling using geographic information system techniques.
+- Write grant proposals to procure external research funding.
+- Participate in student recruitment, registration, and placement activities.
+- Select and obtain materials and supplies, such as textbooks.
+- Perform administrative duties, such as serving as department head.
+- Maintain geographic information systems laboratories, performing duties such as updating software.
+- Participate in campus and community events.
+- Compile bibliographies of specialized materials for outside reading assignments.
+- Provide professional consulting services to government or industry.
+- Act as advisers to student organizations.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Writing (Importance: 4.12/5 | Level: 4.88/7)
+- Instructing (Importance: 4.12/5 | Level: 4.75/7)
+- Speaking (Importance: 4.12/5 | Level: 4.88/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.75/7)
+- Active Listening (Importance: 4.0/5 | Level: 4.0/7)
+- Learning Strategies (Importance: 3.88/5 | Level: 3.88/7)
+- Active Learning (Importance: 3.88/5 | Level: 4.12/7)
+- Complex Problem Solving (Importance: 3.88/5 | Level: 3.75/7)
+- Critical Thinking (Importance: 3.88/5 | Level: 4.0/7)
+- Judgment and Decision Making (Importance: 3.25/5 | Level: 3.75/7)
+- Time Management (Importance: 3.25/5 | Level: 3.25/7)
+- Social Perceptiveness (Importance: 3.12/5 | Level: 3.25/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.88/7)
+- Science (Importance: 3.12/5 | Level: 3.5/7)
+- Systems Analysis (Importance: 3.0/5 | Level: 3.0/7)
+- Coordination (Importance: 3.0/5 | Level: 3.38/7)
+- Persuasion (Importance: 3.0/5 | Level: 3.12/7)
+- Service Orientation (Importance: 2.88/5 | Level: 3.0/7)
+- Management of Personnel Resources (Importance: 2.88/5 | Level: 3.0/7)
+- Negotiation (Importance: 2.88/5 | Level: 3.0/7)
+- Systems Evaluation (Importance: 2.88/5 | Level: 3.0/7)
+- Mathematics (Importance: 2.75/5 | Level: 3.0/7)
+- Operations Analysis (Importance: 2.5/5 | Level: 2.5/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.25/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.38/7)
+- Programming (Importance: 2.0/5 | Level: 1.38/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.12/7)
+- Operations Monitoring (Importance: 1.38/5 | Level: 0.5/7)
+- Quality Control Analysis (Importance: 1.25/5 | Level: 0.38/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Operation and Control (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adobe Acrobat Reader (Tech skill type: Document management software)
+- Adobe Creative Cloud software (Tech skill type: Graphics or photo imaging software)
+- Blackboard Learn (Tech skill type: Computer based training software)
+- Calendar and scheduling software (Tech skill type: Calendar and scheduling software)
+- Caliper Maptitude (Tech skill type: Geographic information system)
+- Clark Labs CartaLinx (Tech skill type: Map creation software)
+- Clark Labs IDRISI (Tech skill type: Map creation software)
+- Collaborative editing software (Tech skill type: Word processing software)
+- Course management system software (Tech skill type: Computer based training software)
+- Desire2Learn LMS software (Tech skill type: Computer based training software)
+- DOC Cop (Tech skill type: Information retrieval or search software)
+- Email software (Tech skill type: Electronic mail software)
+- ESRI ArcGIS Geostatistical Analyst (Tech skill type: Geographic information system)
+- ESRI ArcGIS software (Tech skill type: Geographic information system)
+- ESRI ArcView (Tech skill type: Geographic information system)
+- ESRI ArcView 3D Analyst (Tech skill type: Geographic information system)
+- Geographic information system GIS software (Tech skill type: Geographic information system)
+- Geographic information system GIS systems (Tech skill type: Geographic information system)
+- Geographic resources analysis support system GRASS (Tech skill type: Map creation software)
+- Google Docs (Tech skill type: Word processing software)
+- HEC-RAS (Tech skill type: Analytical or scientific software)
+- IBM SPSS Statistics (Tech skill type: Analytical or scientific software)
+- Image scanning software (Tech skill type: Optical character reader OCR or scanning software)
+- Insightful S-PLUS (Tech skill type: Analytical or scientific software)
+- Interface definition language IDL (Tech skill type: Development environment software)
+- iParadigms Turnitin (Tech skill type: Information retrieval or search software)
+- ITT Exelis Visual Information Solutions ENVI (Tech skill type: Analytical or scientific software)
+- Learning management system LMS (Tech skill type: Computer based training software)
+- Leica Geosystems ERDAS IMAGINE (Tech skill type: Map creation software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Internet Explorer (Tech skill type: Internet browser software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Publisher (Tech skill type: Desktop publishing software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Mozilla Firefox (Tech skill type: Internet browser software)
+- Sakai CLE (Tech skill type: Computer based training software)
+- The MathWorks MATLAB (Tech skill type: Analytical or scientific software)
+- Tibco S-PLUS (Tech skill type: Analytical or scientific software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Carousel slide projectors (Tool type: Slide projectors)
+- Cathode ray tube CRT projectors (Tool type: Video projectors)
+- Compact digital cameras (Tool type: Digital cameras)
+- Compact disk CD players (Tool type: Compact disk players or recorders)
+- Computer data input scanners (Tool type: Scanners)
+- Computer laser printers (Tool type: Laser printers)
+- Computer projectors (Tool type: Multimedia projectors)
+- Conference telephones (Tool type: Teleconference equipment)
+- Data loggers (Tool type: Portable data input terminals)
+- Desktop computers (Tool type: Desktop computers)
+- Digital calculators (Tool type: Scientific calculator)
+- Digital video cameras (Tool type: Digital camcorders or video cameras)
+- Digital video disk DVD players (Tool type: Digital video disk players or recorders)
+- Digitizers (Tool type: Scanners)
+- Global positioning system GPS receivers (Tool type: Global positioning system GPS receiver)
+- Ground conductivity meters (Tool type: Conductivity meters)
+- Handheld metal detectors (Tool type: Metal detectors)
+- Handheld microphones (Tool type: Microphones)
+- Interactive whiteboard controllers (Tool type: Portable data input terminals)
+- Interactive whiteboards (Tool type: Touch screen monitors)
+- Laptop computers (Tool type: Notebook computers)
+- Laser distance measuring devices (Tool type: Laser measuring systems)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Liquid crystal display LCD projectors (Tool type: Liquid crystal display projector)
+- Liquid crystal display LCD televisions (Tool type: Televisions)
+- Magnetic susceptibility meters (Tool type: Paramagnetic susceptibility analyzers)
+- Microphone podiums (Tool type: Microphone stand)
+- MP3 digital voice recorders (Tool type: MP3 players or recorders)
+- Multi-line telephone systems (Tool type: Special purpose telephones)
+- Multimedia projection equipment (Tool type: Multimedia projectors)
+- Opaque projectors (Tool type: Epidiascopes)
+- Overhead data projectors (Tool type: Overhead projectors)
+- Photocopying equipment (Tool type: Photocopiers)
+- Plotting printers (Tool type: Plotter printers)
+- Portable meteorological stations (Tool type: Weather stations)
+- Poster printers (Tool type: Inkjet printers)
+- Power coring devices (Tool type: Coring equipment)
+- Projector screens (Tool type: Projection screens or displays)
+- Student response systems (Tool type: Portable data input terminals)
+- Tablet computers (Tool type: Tablet computers)
+- Television monitors (Tool type: Televisions)
+- Universal serial bus USB flash drives (Tool type: High capacity removable media drives)
+- Videoconferencing equipment (Tool type: Videoconferencing systems)
+- Webcams (Tool type: Web cameras)
+- Wireless microphones (Tool type: Microphones)

@@ -1,0 +1,128 @@
+Job Title: Treasurers and Controllers
+O*NET-SOC Code: 11-3031.01
+
+# DESCRIPTION
+Direct financial activities, such as planning, procurement, and investments for all or part of an organization.
+
+# TASKS
+- Evaluate needs for procurement of funds and investment of surpluses and make appropriate recommendations.
+- Delegate authority for the receipt, disbursement, banking, protection, and custody of funds, securities, and financial instruments.
+- Develop and maintain relationships with banking, insurance, and external accounting personnel to facilitate financial activities.
+- Monitor financial activities and details, such as cash flow and reserve levels, to ensure that all legal and regulatory requirements are met.
+- Receive, record, and authorize requests for disbursements in accordance with company policies and procedures.
+- Develop internal control policies, guidelines, and procedures for activities, such as budget administration, cash and credit management, and accounting.
+- Coordinate and direct the financial planning, budgeting, procurement, or investment activities of all or part of an organization.
+- Receive cash and checks and make deposits.
+- Prepare or direct preparation of financial statements, business activity reports, financial position forecasts, annual budgets, or reports required by regulatory agencies.
+- Monitor and evaluate the performance of accounting and other financial staff, recommending and implementing personnel actions, such as promotions and dismissals.
+- Analyze the financial details of past, present, and expected operations to identify development opportunities and areas where improvement is needed.
+- Conduct or coordinate audits of company accounts and financial transactions to ensure compliance with state and federal requirements and statutes.
+- Advise management on short-term and long-term financial objectives, policies, and actions.
+- Maintain current knowledge of organizational policies and procedures, federal and state policies and directives, and current accounting standards.
+- Provide direction and assistance to other organizational units regarding accounting and budgeting policies and procedures and efficient control and utilization of financial resources.
+- Lead staff training and development in budgeting and financial management areas.
+- Prepare and file annual tax returns or prepare financial information so that outside accountants can complete tax returns.
+- Supervise employees performing financial reporting, accounting, billing, collections, payroll, and budgeting duties.
+- Perform tax planning work.
+- Compute, withhold, and account for all payroll deductions.
+- Handle all aspects of employee insurance, benefits, and casualty programs, including monitoring changes in health insurance regulations and creating budgets for benefits and worker's compensation.
+- Determine depreciation rates to apply to capitalized items and advise management on actions regarding the purchase, lease, or disposal of such items.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Complex Problem Solving (Importance: 4.12/5 | Level: 4.38/7)
+- Critical Thinking (Importance: 4.12/5 | Level: 4.75/7)
+- Reading Comprehension (Importance: 4.12/5 | Level: 4.25/7)
+- Judgment and Decision Making (Importance: 4.12/5 | Level: 4.62/7)
+- Management of Financial Resources (Importance: 4.0/5 | Level: 5.0/7)
+- Speaking (Importance: 4.0/5 | Level: 4.25/7)
+- Active Listening (Importance: 3.88/5 | Level: 4.25/7)
+- Monitoring (Importance: 3.88/5 | Level: 4.5/7)
+- Mathematics (Importance: 3.75/5 | Level: 4.25/7)
+- Active Learning (Importance: 3.62/5 | Level: 4.25/7)
+- Systems Evaluation (Importance: 3.62/5 | Level: 4.25/7)
+- Writing (Importance: 3.62/5 | Level: 4.12/7)
+- Coordination (Importance: 3.38/5 | Level: 3.62/7)
+- Time Management (Importance: 3.38/5 | Level: 4.0/7)
+- Systems Analysis (Importance: 3.25/5 | Level: 4.25/7)
+- Social Perceptiveness (Importance: 3.12/5 | Level: 3.62/7)
+- Management of Personnel Resources (Importance: 3.12/5 | Level: 3.75/7)
+- Negotiation (Importance: 3.12/5 | Level: 3.12/7)
+- Persuasion (Importance: 3.0/5 | Level: 3.75/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 3.38/7)
+- Instructing (Importance: 2.88/5 | Level: 3.12/7)
+- Service Orientation (Importance: 2.75/5 | Level: 2.75/7)
+- Management of Material Resources (Importance: 2.75/5 | Level: 3.0/7)
+- Operations Analysis (Importance: 2.62/5 | Level: 3.12/7)
+- Operations Monitoring (Importance: 1.88/5 | Level: 1.12/7)
+- Quality Control Analysis (Importance: 1.88/5 | Level: 1.38/7)
+- Programming (Importance: 1.62/5 | Level: 1.0/7)
+- Technology Design (Importance: 1.62/5 | Level: 0.62/7)
+- Science (Importance: 1.25/5 | Level: 0.25/7)
+- Operation and Control (Importance: 1.12/5 | Level: 0.12/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Accounting software (Tech skill type: Accounting software)
+- ADERANT Expert Back Office, Powered by Keystone (Tech skill type: Enterprise resource planning ERP software)
+- ADP software (Tech skill type: Enterprise resource planning ERP software)
+- ADP Workforce Now (Tech skill type: Human resources software)
+- Automatic Data Processing PC payroll for windows PCPW (Tech skill type: Human resources software)
+- Blackbaud The Raiser's Edge (Tech skill type: Customer relationship management CRM software)
+- Corel QuattroPro (Tech skill type: Spreadsheet software)
+- Deltek professional services software (Tech skill type: Enterprise resource planning ERP software)
+- Exact Software Macola ES (Tech skill type: Enterprise resource planning ERP software)
+- FileMaker Pro (Tech skill type: Data base user interface and query software)
+- Fund accounting software (Tech skill type: Accounting software)
+- Hyperion Enterprise (Tech skill type: Accounting software)
+- Hyperion Solutions System 9 Planning (Tech skill type: Enterprise resource planning ERP software)
+- Hypertext markup language HTML (Tech skill type: Web platform development software)
+- IBM Cognos Impromptu (Tech skill type: Business intelligence and data analysis software)
+- IBM Lotus 1-2-3 (Tech skill type: Spreadsheet software)
+- Infor ERP SyteLine (Tech skill type: Enterprise resource planning ERP software)
+- Intuit QuickBooks (Tech skill type: Accounting software)
+- Job costing software (Tech skill type: Accounting software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Dynamics (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Dynamics GP (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Dynamics SL (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft FRx (Tech skill type: Financial analysis software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft SharePoint Server (Tech skill type: Document management software)
+- Microsoft Word (Tech skill type: Word processing software)
+- MYOB Premier Accounting Small Business Suite (Tech skill type: Accounting software)
+- NetSuite ERP (Tech skill type: Enterprise resource planning ERP software)
+- Oracle Business Intelligence Enterprise Edition (Tech skill type: Business intelligence and data analysis software)
+- Oracle E-Business Suite Financials (Tech skill type: Financial analysis software)
+- Oracle Fusion Applications (Tech skill type: Enterprise resource planning ERP software)
+- Oracle Hyperion (Tech skill type: Enterprise resource planning ERP software)
+- Oracle Hyperion Planning (Tech skill type: Financial analysis software)
+- Oracle JD Edwards EnterpriseOne (Tech skill type: Enterprise resource planning ERP software)
+- Oracle PeopleSoft (Tech skill type: Enterprise resource planning ERP software)
+- Oracle PeopleSoft Financials (Tech skill type: Enterprise resource planning ERP software)
+- Oracle Primavera Enterprise Project Portfolio Management (Tech skill type: Project management software)
+- Sage 50 Accounting (Tech skill type: Accounting software)
+- Sage Fixed Asset Solution FAS (Tech skill type: Accounting software)
+- Sage MIP Fund Accounting (Tech skill type: Accounting software)
+- SAP Business Objects (Tech skill type: Enterprise resource planning ERP software)
+- SAP Crystal Reports (Tech skill type: Data base reporting software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Tax software (Tech skill type: Accounting software)
+- Yardi software (Tech skill type: Data base user interface and query software)
+
+## TOOLS USED
+- 10-key calculators (Tool type: Desktop calculator)
+- Desktop computers (Tool type: Desktop computers)
+- Notebook computers (Tool type: Notebook computers)
+- Personal computers (Tool type: Personal computers)
+- Personal digital assistants PDA (Tool type: Personal digital assistant PDAs or organizers)
+- Tablet computers (Tool type: Tablet computers)

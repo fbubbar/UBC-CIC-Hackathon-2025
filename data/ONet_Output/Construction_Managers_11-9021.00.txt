@@ -1,0 +1,152 @@
+Job Title: Construction Managers
+O*NET-SOC Code: 11-9021.00
+
+# DESCRIPTION
+Plan, direct, or coordinate, usually through subordinate supervisory personnel, activities concerned with the construction and maintenance of structures, facilities, and systems. Participate in the conceptual development of a construction project and oversee its organization, scheduling, budgeting, and implementation. Includes managers in specialized construction fields, such as carpentry or plumbing.
+
+# TASKS
+- Plan, schedule, or coordinate construction project activities to meet deadlines.
+- Prepare and submit budget estimates, progress reports, or cost tracking reports.
+- Interpret and explain plans and contract terms to representatives of the owner or developer, including administrative staff, workers, or clients.
+- Direct and supervise construction or related workers.
+- Prepare contracts or negotiate revisions to contractual agreements with architects, consultants, clients, suppliers, or subcontractors.
+- Confer with supervisory personnel, owners, contractors, or design professionals to discuss and resolve matters, such as work procedures, complaints, or construction problems.
+- Plan, organize, or direct activities concerned with the construction or maintenance of structures, facilities, or systems.
+- Study job specifications to determine appropriate construction methods.
+- Inspect or review projects to monitor compliance with building and safety codes or other regulations.
+- Investigate damage, accidents, or delays at construction sites to ensure that proper construction procedures are being followed.
+- Implement new or modified plans in response to delays, bad weather, or construction site emergencies.
+- Develop or implement quality control programs.
+- Requisition supplies or materials to complete construction projects.
+- Determine labor requirements for dispatching workers to construction sites.
+- Contract or oversee craft work, such as painting or plumbing.
+- Inspect or review projects to monitor compliance with environmental regulations.
+- Perform, or contract others to perform, pre-building assessments, such as conceptual cost estimating, rough order of magnitude estimating, feasibility, or energy efficiency, environmental, and sustainability assessments.
+- Develop or implement environmental protection programs.
+- Apply for and obtain all necessary permits or licenses.
+- Evaluate construction methods and determine cost-effectiveness of plans, using computer models.
+- Apply green building strategies to reduce energy costs or minimize carbon output or other sources of harm to the environment.
+- Secure third-party verification from sources, such as Leadership in Energy Efficient Design (LEED), to ensure responsible design and building activities or to achieve favorable LEED ratings for building projects.
+- Develop construction budgets to compare green and non-green construction alternatives, in terms of short-term costs, long-term costs, or environmental impacts.
+- Implement training programs on environmentally responsible building topics to update employee skills and knowledge.
+- Direct acquisition of land for construction projects.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Coordination (Importance: 4.0/5 | Level: 4.12/7)
+- Management of Personnel Resources (Importance: 4.0/5 | Level: 4.25/7)
+- Time Management (Importance: 3.88/5 | Level: 4.0/7)
+- Speaking (Importance: 3.88/5 | Level: 4.12/7)
+- Active Listening (Importance: 3.88/5 | Level: 4.12/7)
+- Monitoring (Importance: 3.88/5 | Level: 4.25/7)
+- Complex Problem Solving (Importance: 3.75/5 | Level: 4.0/7)
+- Critical Thinking (Importance: 3.75/5 | Level: 4.12/7)
+- Reading Comprehension (Importance: 3.75/5 | Level: 4.12/7)
+- Judgment and Decision Making (Importance: 3.75/5 | Level: 4.25/7)
+- Active Learning (Importance: 3.62/5 | Level: 3.88/7)
+- Negotiation (Importance: 3.62/5 | Level: 3.88/7)
+- Social Perceptiveness (Importance: 3.38/5 | Level: 3.62/7)
+- Mathematics (Importance: 3.25/5 | Level: 3.62/7)
+- Writing (Importance: 3.25/5 | Level: 3.88/7)
+- Management of Financial Resources (Importance: 3.25/5 | Level: 4.0/7)
+- Management of Material Resources (Importance: 3.12/5 | Level: 3.88/7)
+- Systems Analysis (Importance: 3.12/5 | Level: 3.62/7)
+- Quality Control Analysis (Importance: 3.12/5 | Level: 3.12/7)
+- Systems Evaluation (Importance: 3.12/5 | Level: 3.88/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 3.12/7)
+- Operations Analysis (Importance: 3.0/5 | Level: 3.5/7)
+- Persuasion (Importance: 3.0/5 | Level: 3.75/7)
+- Instructing (Importance: 3.0/5 | Level: 3.38/7)
+- Service Orientation (Importance: 3.0/5 | Level: 2.88/7)
+- Operations Monitoring (Importance: 2.88/5 | Level: 3.0/7)
+- Troubleshooting (Importance: 2.0/5 | Level: 2.0/7)
+- Science (Importance: 1.88/5 | Level: 1.75/7)
+- Operation and Control (Importance: 1.88/5 | Level: 1.75/7)
+- Technology Design (Importance: 1.62/5 | Level: 0.75/7)
+- Programming (Importance: 1.5/5 | Level: 0.5/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- 3M Post-it App (Tech skill type: Word processing software)
+- Adobe Acrobat (Tech skill type: Document management software)
+- Adobe Creative Cloud software (Tech skill type: Graphics or photo imaging software)
+- AEC Software FastTrack Schedule (Tech skill type: Calendar and scheduling software)
+- ArenaSoft Estimating (Tech skill type: Analytical or scientific software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Autodesk AutoCAD Civil 3D (Tech skill type: Computer aided design CAD software)
+- Autodesk Revit (Tech skill type: Computer aided design CAD software)
+- Axios Systems assyst (Tech skill type: Document management software)
+- Bechtel Software SETROUTE (Tech skill type: Data base user interface and query software)
+- Cadsoft Design/Build (Tech skill type: Computer aided design CAD software)
+- CBS ProLog Manager (Tech skill type: Project management software)
+- Computer aided design and drafting software CADD (Tech skill type: Computer aided design CAD software)
+- CSI WSE CodeBuddy (Tech skill type: Compliance software)
+- Daily Manager (Tech skill type: Document management software)
+- Database software (Tech skill type: Data base user interface and query software)
+- Drone image capturing software (Tech skill type: Graphics or photo imaging software)
+- Dropbox (Tech skill type: Cloud-based data access and sharing software)
+- Email software (Tech skill type: Electronic mail software)
+- Explorer Engineer (Tech skill type: Data base user interface and query software)
+- Google Docs (Tech skill type: Word processing software)
+- Google Drive (Tech skill type: Cloud-based data access and sharing software)
+- HCSS HeavyBid (Tech skill type: Project management software)
+- HCSS HeavyJob (Tech skill type: Project management software)
+- IMPACT software (Tech skill type: Web page creation and editing software)
+- Integrated construction management software (Tech skill type: Data base user interface and query software)
+- Internet browser software (Tech skill type: Internet browser software)
+- ISS Construction Manager (Tech skill type: Data base user interface and query software)
+- Jobber Computer Plus (Tech skill type: Analytical or scientific software)
+- LinkedIn (Tech skill type: Web page creation and editing software)
+- Lombardi Teamworks (Tech skill type: Data base user interface and query software)
+- Loom (Tech skill type: Video creation and editing software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Dynamics (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Internet Explorer (Tech skill type: Internet browser software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Oracle JD Edwards EnterpriseOne (Tech skill type: Enterprise resource planning ERP software)
+- Oracle Primavera Enterprise Project Portfolio Management (Tech skill type: Project management software)
+- Presentation software (Tech skill type: Presentation software)
+- Procore software (Tech skill type: Analytical or scientific software)
+- Profitool GearWatch (Tech skill type: Inventory management software)
+- Profitool software (human resources feature) (Tech skill type: Human resources software)
+- Profitool software (time accounting feature) (Tech skill type: Time accounting software)
+- Project management software (Tech skill type: Project management software)
+- Quantum Software Solutions Quantum Project Manager (Tech skill type: Project management software)
+- QuickBase business management software (Tech skill type: Data base user interface and query software)
+- Sage 100 Contractor (Tech skill type: Data base user interface and query software)
+- Sage 300 Construction and Real Estate (Tech skill type: Data base user interface and query software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Scheduling software (Tech skill type: Calendar and scheduling software)
+- Site Manager (Tech skill type: Document management software)
+- SRC Cash Flow Forecasting (Tech skill type: Accounting software)
+- Supervisory control and data acquisition SCADA software (Tech skill type: Industrial control software)
+- Trimble SketchUp Pro (Tech skill type: Graphics or photo imaging software)
+- UDA Technologies ConstructionSuite (Tech skill type: Data base user interface and query software)
+- VirtualBoss (Tech skill type: Project management software)
+- Yardi software (Tech skill type: Data base user interface and query software)
+
+## TOOLS USED
+- DroneDeploy (Tool type: Aircraft guidance systems)
+- Fixed wing unmanned aerial vehicles UAV (Tool type: Airships)
+- Gas detection sensors (Tool type: Gas detectors)
+- Laptop computers (Tool type: Notebook computers)
+- Large-format scanners (Tool type: Scanners)
+- Laser imaging detection and ranging LIDAR systems (Tool type: Radarbased surveillance systems)
+- Lasers (Tool type: Lasers)
+- Levels (Tool type: Levels)
+- Multi-rotor unmanned aerial vehicles UAV (Tool type: Airships)
+- Personal computers (Tool type: Personal computers)
+- Pocket personal computers PC (Tool type: Personal computers)
+- RGB cameras (Tool type: Digital cameras)
+- Thermal imaging cameras (Tool type: Infrared camera)
+- Transit levels (Tool type: Level sensors or transmitters)

@@ -1,0 +1,99 @@
+Job Title: Refractory Materials Repairers, Except Brickmasons
+O*NET-SOC Code: 49-9045.00
+
+# DESCRIPTION
+Build or repair equipment such as furnaces, kilns, cupolas, boilers, converters, ladles, soaking pits, and ovens, using refractory materials.
+
+# TASKS
+- Reline or repair ladles and pouring spouts with refractory clay, using trowels.
+- Chip slag from linings of ladles or remove linings when beyond repair, using hammers and chisels.
+- Mix specified amounts of sand, clay, mortar powder, and water to form refractory clay or mortar, using shovels or mixing machines.
+- Measure furnace walls to determine dimensions and cut required number of sheets from plastic block, using saws.
+- Dry and bake new linings by placing inverted linings over burners, building fires in ladles, or by using blowtorches.
+- Remove worn or damaged plastic block refractory linings of furnaces, using hand tools.
+- Climb scaffolding, carrying hoses, and spray surfaces of cupolas with refractory mixtures, using spray equipment.
+- Spread mortar on stopper heads and rods, using trowels, and slide brick sleeves over rods to form refractory jackets.
+- Dump and tamp clay in molds, using tamping tools.
+- Transfer clay structures to curing ovens, melting tanks, and drawing kilns, using forklifts.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operations Monitoring (Importance: 3.25/5 | Level: 3.25/7)
+- Repairing (Importance: 3.12/5 | Level: 2.75/7)
+- Equipment Maintenance (Importance: 3.0/5 | Level: 2.75/7)
+- Active Listening (Importance: 3.0/5 | Level: 2.88/7)
+- Operation and Control (Importance: 3.0/5 | Level: 3.0/7)
+- Critical Thinking (Importance: 2.88/5 | Level: 3.0/7)
+- Troubleshooting (Importance: 2.88/5 | Level: 2.88/7)
+- Coordination (Importance: 2.88/5 | Level: 2.75/7)
+- Reading Comprehension (Importance: 2.88/5 | Level: 2.62/7)
+- Time Management (Importance: 2.88/5 | Level: 2.5/7)
+- Judgment and Decision Making (Importance: 2.75/5 | Level: 2.62/7)
+- Speaking (Importance: 2.75/5 | Level: 2.75/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 2.38/7)
+- Monitoring (Importance: 2.75/5 | Level: 2.75/7)
+- Equipment Selection (Importance: 2.62/5 | Level: 1.88/7)
+- Complex Problem Solving (Importance: 2.62/5 | Level: 2.12/7)
+- Quality Control Analysis (Importance: 2.62/5 | Level: 2.75/7)
+- Writing (Importance: 2.5/5 | Level: 2.25/7)
+- Instructing (Importance: 2.5/5 | Level: 2.38/7)
+- Service Orientation (Importance: 2.38/5 | Level: 2.0/7)
+- Active Learning (Importance: 2.38/5 | Level: 2.12/7)
+- Management of Personnel Resources (Importance: 2.25/5 | Level: 1.88/7)
+- Learning Strategies (Importance: 2.25/5 | Level: 2.12/7)
+- Mathematics (Importance: 2.0/5 | Level: 1.75/7)
+- Negotiation (Importance: 2.0/5 | Level: 1.88/7)
+- Persuasion (Importance: 2.0/5 | Level: 1.75/7)
+- Operations Analysis (Importance: 2.0/5 | Level: 1.25/7)
+- Systems Analysis (Importance: 1.88/5 | Level: 1.62/7)
+- Systems Evaluation (Importance: 1.75/5 | Level: 1.38/7)
+- Management of Material Resources (Importance: 1.62/5 | Level: 0.88/7)
+- Technology Design (Importance: 1.62/5 | Level: 0.75/7)
+- Management of Financial Resources (Importance: 1.5/5 | Level: 0.62/7)
+- Installation (Importance: 1.38/5 | Level: 0.38/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Maintenance management software (Tech skill type: Facilities management software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Time tracking software (Tech skill type: Time accounting software)
+
+## TOOLS USED
+- Acid scrubbers (Tool type: Wet scrubbers)
+- Band saws (Tool type: Metal band sawing machine)
+- Boom trucks (Tool type: Conventional truck cranes)
+- Brick cutting saws (Tool type: Power saws)
+- Brick hammers (Tool type: Stonemason hammer)
+- Burner management systems (Tool type: Furnace control console)
+- Conveyor belts (Tool type: Belt conveyors)
+- Cordless power grinders (Tool type: Power grinders)
+- Cordless power nibblers (Tool type: Power nibbler)
+- Cordless saws (Tool type: Power saws)
+- Cutting torches (Tool type: Blow torch)
+- Dump trucks (Tool type: Dump trucks)
+- Electric overhead traveling EOT crane (Tool type: Overhead crane)
+- Feed fired heaters (Tool type: Furnaces)
+- Flat cold chisels (Tool type: Cold chisels)
+- Floor-mounted jib cranes (Tool type: Jib crane)
+- Foundry transfer ladles (Tool type: Foundry ladles)
+- Heavy duty shears (Tool type: Shears)
+- Horizontal helical blade mixers (Tool type: Helical blade mixer)
+- Lift trucks (Tool type: Conventional truck cranes)
+- Masonry trowels (Tool type: Trowels)
+- Mixer trucks (Tool type: Concrete transport truck)
+- Personal computers (Tool type: Personal computers)
+- Puck mills (Tool type: Laboratory crushers or pulverizers)
+- Return idlers (Tool type: Conveyor idlers)
+- Rotary kilns (Tool type: Furnaces)
+- Rotary tools (Tool type: Power grinders)
+- Skid steer tractors (Tool type: Skid steer loaders)
+- Trackhoes (Tool type: Backhoes)
+- Trough finders (Tool type: Rangefinders)
+- Variable speed mortar pumps (Tool type: Mortar pump)
+- Wheeled forklifts (Tool type: Forklifts)
+- Wheeled front-end loaders (Tool type: Front end loaders)

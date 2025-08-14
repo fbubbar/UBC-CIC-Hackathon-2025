@@ -1,0 +1,137 @@
+Job Title: Editors
+O*NET-SOC Code: 27-3041.00
+
+# DESCRIPTION
+Plan, coordinate, revise, or edit written material. May review proposals and drafts for possible publication.
+
+# TASKS
+- Read copy or proof to detect and correct errors in spelling, punctuation, and syntax.
+- Verify facts, dates, and statistics, using standard reference sources.
+- Read, evaluate and edit manuscripts or other materials submitted for publication, and confer with authors regarding changes in content, style or organization, or publication.
+- Develop story or content ideas, considering reader or audience appeal.
+- Prepare, rewrite and edit copy to improve readability, or supervise others who do this work.
+- Oversee publication production, including artwork, layout, computer typesetting, and printing, ensuring adherence to deadlines and budget requirements.
+- Write text, such as stories, articles, editorials, or newsletters.
+- Supervise and coordinate work of reporters and other editors.
+- Confer with management and editorial staff members regarding placement and emphasis of developing news stories.
+- Plan the contents of publications according to the publication's style, editorial policy, and publishing requirements.
+- Review and approve proofs submitted by composing room prior to publication production.
+- Assign topics, events and stories to individual writers or reporters for coverage.
+- Meet frequently with artists, typesetters, layout personnel, marketing directors, and production managers to discuss projects and resolve problems.
+- Monitor news-gathering operations to ensure utilization of all news sources, such as press releases, telephone contacts, radio, television, wire services, and other reporters.
+- Select local, state, national, and international news items received from wire services, based on assessment of items' significance and interest value.
+- Allocate print space for story text, photos, and illustrations according to space parameters and copy significance, using knowledge of layout principles.
+- Make manuscript acceptance or revision recommendations to the publisher.
+- Direct the policies and departments of newspapers, magazines and other publishing establishments.
+- Arrange for copyright permissions.
+- Interview and hire writers and reporters or negotiate contracts, royalties, and payments for authors or freelancers.
+- Read material to determine index items and arrange them alphabetically or topically, indicating page or chapter location.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Reading Comprehension (Importance: 4.88/5 | Level: 5.12/7)
+- Writing (Importance: 4.25/5 | Level: 5.0/7)
+- Active Listening (Importance: 3.88/5 | Level: 4.0/7)
+- Critical Thinking (Importance: 3.88/5 | Level: 4.0/7)
+- Speaking (Importance: 3.75/5 | Level: 4.0/7)
+- Time Management (Importance: 3.38/5 | Level: 4.0/7)
+- Quality Control Analysis (Importance: 3.25/5 | Level: 3.25/7)
+- Systems Analysis (Importance: 3.12/5 | Level: 3.12/7)
+- Social Perceptiveness (Importance: 3.12/5 | Level: 3.5/7)
+- Active Learning (Importance: 3.12/5 | Level: 3.88/7)
+- Complex Problem Solving (Importance: 3.12/5 | Level: 3.12/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 3.38/7)
+- Instructing (Importance: 3.0/5 | Level: 3.12/7)
+- Persuasion (Importance: 3.0/5 | Level: 3.38/7)
+- Management of Personnel Resources (Importance: 3.0/5 | Level: 3.38/7)
+- Coordination (Importance: 3.0/5 | Level: 3.38/7)
+- Monitoring (Importance: 3.0/5 | Level: 3.38/7)
+- Negotiation (Importance: 3.0/5 | Level: 3.5/7)
+- Learning Strategies (Importance: 2.88/5 | Level: 3.0/7)
+- Service Orientation (Importance: 2.62/5 | Level: 2.75/7)
+- Systems Evaluation (Importance: 2.5/5 | Level: 2.75/7)
+- Mathematics (Importance: 2.12/5 | Level: 2.38/7)
+- Operations Analysis (Importance: 2.0/5 | Level: 1.5/7)
+- Operations Monitoring (Importance: 1.88/5 | Level: 1.5/7)
+- Programming (Importance: 1.62/5 | Level: 0.75/7)
+- Technology Design (Importance: 1.62/5 | Level: 0.62/7)
+- Management of Financial Resources (Importance: 1.5/5 | Level: 0.75/7)
+- Management of Material Resources (Importance: 1.38/5 | Level: 0.5/7)
+- Operation and Control (Importance: 1.25/5 | Level: 0.25/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adobe Acrobat (Tech skill type: Document management software)
+- Adobe After Effects (Tech skill type: Video creation and editing software)
+- Adobe Captivate (Tech skill type: Computer based training software)
+- Adobe Creative Cloud software (Tech skill type: Graphics or photo imaging software)
+- Adobe Dreamweaver (Tech skill type: Web page creation and editing software)
+- Adobe FrameMaker (Tech skill type: Desktop publishing software)
+- Adobe Illustrator (Tech skill type: Graphics or photo imaging software)
+- Adobe InCopy (Tech skill type: Word processing software)
+- Adobe InDesign (Tech skill type: Desktop publishing software)
+- Adobe Photoshop (Tech skill type: Graphics or photo imaging software)
+- After the Deadline (Tech skill type: Word processing software)
+- Apple Final Cut Pro (Tech skill type: Video creation and editing software)
+- Apple iWork Keynote (Tech skill type: Presentation software)
+- Apple macOS (Tech skill type: Operating system software)
+- AutoCrit Editing Wizard (Tech skill type: Word processing software)
+- Avid Technology Media Composer (Tech skill type: Video creation and editing software)
+- Cascading style sheets CSS (Tech skill type: Web platform development software)
+- CCI NewsGate (Tech skill type: Web page creation and editing software)
+- Drupal (Tech skill type: Web platform development software)
+- Editor Software Stylewriter (Tech skill type: Word processing software)
+- Elite Minds RightWriter (Tech skill type: Word processing software)
+- Extensible hypertext markup language XHTML (Tech skill type: Web platform development software)
+- Extensible markup language XML (Tech skill type: Enterprise application integration software)
+- Facebook (Tech skill type: Web page creation and editing software)
+- File transfer protocol FTP software (Tech skill type: Internet protocol IP multimedia subsystem software)
+- FileMaker Pro (Tech skill type: Data base user interface and query software)
+- Google Analytics (Tech skill type: Data mining software)
+- Google Docs (Tech skill type: Word processing software)
+- Google Drive (Tech skill type: Cloud-based data access and sharing software)
+- Grammarly Editor (Tech skill type: Word processing software)
+- HP Autonomy TeamSite (Tech skill type: Web page creation and editing software)
+- Hypertext markup language HTML (Tech skill type: Web platform development software)
+- InScribe (Tech skill type: Computer based training software)
+- LexisNexis (Tech skill type: Information retrieval or search software)
+- LinkedIn (Tech skill type: Web page creation and editing software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft Publisher (Tech skill type: Desktop publishing software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Word (Tech skill type: Word processing software)
+- myWriterTools (Tech skill type: Word processing software)
+- Orpheus Technology Pro Writing Aid (Tech skill type: Word processing software)
+- Polycom RealPresence (Tech skill type: Video conferencing software)
+- QuarkXPress (Tech skill type: Desktop publishing software)
+- Social media sites (Tech skill type: Web page creation and editing software)
+- Style guide databases (Tech skill type: Data base user interface and query software)
+- Twitter (Tech skill type: Instant messaging software)
+- Web browser software (Tech skill type: Internet browser software)
+- Web content management system CMS software (Tech skill type: Web page creation and editing software)
+- WhiteSmoke (Tech skill type: Word processing software)
+- WordPress (Tech skill type: Web page creation and editing software)
+- YouTube (Tech skill type: Video creation and editing software)
+
+## TOOLS USED
+- Desktop computers (Tool type: Desktop computers)
+- Digital still cameras (Tool type: Digital cameras)
+- Digital video cameras (Tool type: Digital camcorders or video cameras)
+- Laptop computers (Tool type: Notebook computers)
+- Multi-line telephone systems (Tool type: Special purpose telephones)
+- Personal computers (Tool type: Personal computers)
+- Precision rulers (Tool type: Rulers)
+- Teleconferencing equipment (Tool type: Teleconference equipment)
+- Universal serial bus USB flash drives (Tool type: Flash memory storage card)
+- Video editing equipment (Tool type: Video editors)
+- Videoconferencing equipment (Tool type: Videoconferencing systems)

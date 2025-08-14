@@ -1,0 +1,100 @@
+Job Title: Order Clerks
+O*NET-SOC Code: 43-4151.00
+
+# DESCRIPTION
+Receive and process incoming orders for materials, merchandise, classified ads, or services such as repairs, installations, or rental of facilities. Generally receives orders via mail, phone, fax, or other electronic means. Duties include informing customers of receipt, prices, shipping dates, and delays; preparing contracts; and handling complaints.
+
+# TASKS
+- Review orders for completeness according to reporting procedures and forward incomplete orders for further processing.
+- Obtain customers' names, addresses, and billing information, product numbers, and specifications of items to be purchased, and enter this information on order forms.
+- Recommend merchandise or services that will meet customers' needs.
+- Inspect outgoing work for compliance with customers' specifications.
+- Receive and respond to customer complaints.
+- Check inventory records to determine availability of requested merchandise.
+- Verify customer and order information for correctness, checking it against previously obtained information as necessary.
+- Compute total charges for merchandise or services and shipping charges.
+- Inform customers by mail or telephone of order information, such as unit prices, shipping dates, and any anticipated delays.
+- File copies of orders received, or post orders on records.
+- Notify departments when supplies of specific items are low, or when orders would deplete available supplies.
+- Prepare invoices, shipping documents, and contracts.
+- Confer with production, sales, shipping, warehouse, or common carrier personnel to expedite or trace shipments.
+- Direct specified departments or units to prepare and ship orders to designated locations.
+- Adjust inventory records to reflect product movement.
+- Collect payment for merchandise, record transactions, and send items, such as checks or money orders for further processing.
+- Calculate and compile order-related statistics, and prepare reports for management.
+- Recommend type of packing or labeling needed on order.
+- Attempt to sell additional merchandise or services to prospective or current customers by telephone or through visits.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Active Listening (Importance: 4.0/5 | Level: 3.62/7)
+- Speaking (Importance: 3.88/5 | Level: 3.5/7)
+- Service Orientation (Importance: 3.5/5 | Level: 3.25/7)
+- Reading Comprehension (Importance: 3.5/5 | Level: 3.5/7)
+- Writing (Importance: 3.12/5 | Level: 3.0/7)
+- Critical Thinking (Importance: 3.12/5 | Level: 3.5/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 2.75/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.0/7)
+- Mathematics (Importance: 3.0/5 | Level: 2.75/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 3.0/7)
+- Persuasion (Importance: 3.0/5 | Level: 3.0/7)
+- Active Learning (Importance: 3.0/5 | Level: 3.0/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 2.88/5 | Level: 2.75/7)
+- Negotiation (Importance: 2.88/5 | Level: 2.88/7)
+- Complex Problem Solving (Importance: 2.88/5 | Level: 2.62/7)
+- Learning Strategies (Importance: 2.38/5 | Level: 2.12/7)
+- Instructing (Importance: 2.38/5 | Level: 2.0/7)
+- Systems Analysis (Importance: 2.25/5 | Level: 2.0/7)
+- Quality Control Analysis (Importance: 2.25/5 | Level: 2.25/7)
+- Management of Personnel Resources (Importance: 2.12/5 | Level: 1.62/7)
+- Systems Evaluation (Importance: 2.12/5 | Level: 2.12/7)
+- Management of Material Resources (Importance: 1.75/5 | Level: 1.25/7)
+- Operation and Control (Importance: 1.62/5 | Level: 0.75/7)
+- Operations Monitoring (Importance: 1.62/5 | Level: 0.88/7)
+- Management of Financial Resources (Importance: 1.62/5 | Level: 1.12/7)
+- Operations Analysis (Importance: 1.5/5 | Level: 0.75/7)
+- Troubleshooting (Importance: 1.5/5 | Level: 0.5/7)
+- Programming (Importance: 1.38/5 | Level: 0.38/7)
+- Technology Design (Importance: 1.25/5 | Level: 0.25/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adobe Acrobat (Tech skill type: Document management software)
+- Apple Safari (Tech skill type: Internet browser software)
+- Automated manifest system software (Tech skill type: Data base user interface and query software)
+- Corel WordPerfect Office Suite (Tech skill type: Office suite software)
+- Email software (Tech skill type: Electronic mail software)
+- IBM Sterling Configure, Price, Quote (Tech skill type: Enterprise resource planning ERP software)
+- Intuit QuickBooks (Tech skill type: Accounting software)
+- Inventory management systems (Tech skill type: Inventory management software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Dynamics (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Edge (Tech skill type: Internet browser software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft System Center (Tech skill type: Enterprise system management software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Mozilla Firefox (Tech skill type: Internet browser software)
+- Oracle JD Edwards EnterpriseOne (Tech skill type: Enterprise resource planning ERP software)
+- Order management software (Tech skill type: Procurement software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Warehouse management system WMS (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Belt diverters (Tool type: Package stops)
+- Conveyer belts (Tool type: Belt conveyors)
+- Copy machines (Tool type: Photocopiers)
+- Credit card authorization software (Tool type: Point of sale payment terminal)
+- Electronic cash registers (Tool type: Cash registers)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Multiline telephone systems (Tool type: Special purpose telephones)
+- Personal computers (Tool type: Personal computers)
+- Printing calculators (Tool type: Printer calculator)

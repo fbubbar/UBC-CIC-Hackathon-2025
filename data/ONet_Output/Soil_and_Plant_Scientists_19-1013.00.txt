@@ -1,0 +1,183 @@
+Job Title: Soil and Plant Scientists
+O*NET-SOC Code: 19-1013.00
+
+# DESCRIPTION
+Conduct research in breeding, physiology, production, yield, and management of crops and agricultural plants or trees, shrubs, and nursery stock, their growth in soils, and control of pests; or study the chemical, physical, biological, and mineralogical composition of soils as they relate to plant or crop growth. May classify and map soils and investigate effects of alternative practices on soil and crop productivity.
+
+# TASKS
+- Communicate research or project results to other professionals or the public or teach related courses, seminars, or workshops.
+- Develop methods of conserving or managing soil that can be applied by farmers or forestry companies.
+- Provide information or recommendations to farmers or other landowners regarding ways in which they can best use land, promote plant growth, or avoid or correct problems such as erosion.
+- Conduct experiments to develop new or improved varieties of field crops, focusing on characteristics such as yield, quality, disease resistance, nutritional value, or adaptation to specific soils or climates.
+- Investigate soil problems or poor water quality to determine sources and effects.
+- Investigate responses of soils to specific management practices to determine the use capabilities of soils and the effects of alternative practices on soil productivity.
+- Conduct experiments to investigate the underlying mechanisms of plant growth and response to the environment.
+- Identify degraded or contaminated soils and develop plans to improve their chemical, biological, or physical characteristics.
+- Develop new or improved methods or products for controlling or eliminating weeds, crop diseases, or insect pests.
+- Provide advice regarding the development of regulatory standards for land reclamation or soil conservation.
+- Study soil characteristics to classify soils on the basis of factors such as geographic location, landscape position, or soil properties.
+- Develop improved measurement techniques, soil conservation methods, soil sampling devices, or related technology.
+- Conduct research to determine best methods of planting, spraying, cultivating, harvesting, storing, processing, or transporting horticultural products.
+- Develop environmentally safe methods or products for controlling or eliminating weeds, crop diseases, or pests.
+- Study ways to improve agricultural sustainability, such as the use of new methods of composting.
+- Consult with engineers or other technical personnel working on construction projects about the effects of soil problems and possible solutions to these problems.
+- Perform chemical analyses of the microorganism content of soils to determine microbial reactions or chemical mineralogical relationships to plant growth.
+- Develop ways of altering soils to suit different types of plants.
+- Conduct experiments investigating how soil forms, changes, or interacts with land-based ecosystems or living organisms.
+- Survey undisturbed or disturbed lands for classification, inventory, mapping, environmental impact assessments, environmental protection planning, conservation planning, or reclamation planning.
+- Plan or supervise waste management programs for composting or farming.
+- Research technical requirements or environmental impacts of urban green spaces, such as green roof installations.
+- Conduct experiments regarding causes of bee diseases or factors affecting yields of nectar or pollen.
+- Identify or classify species of insects or allied forms, such as mites or spiders.
+- Study insect distribution or habitat and recommend methods to prevent importation or spread of injurious species.
+- Plan or supervise land conservation or reclamation programs for industrial development projects.
+- Conduct research into the use of plant species as green fuels or in the production of green fuels.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Active Learning (Importance: 4.0/5 | Level: 4.5/7)
+- Speaking (Importance: 4.0/5 | Level: 4.62/7)
+- Science (Importance: 4.0/5 | Level: 4.88/7)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.38/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 5.0/7)
+- Active Listening (Importance: 3.88/5 | Level: 4.12/7)
+- Writing (Importance: 3.88/5 | Level: 4.38/7)
+- Complex Problem Solving (Importance: 3.88/5 | Level: 4.25/7)
+- Judgment and Decision Making (Importance: 3.75/5 | Level: 4.25/7)
+- Systems Evaluation (Importance: 3.5/5 | Level: 3.88/7)
+- Systems Analysis (Importance: 3.5/5 | Level: 3.88/7)
+- Learning Strategies (Importance: 3.25/5 | Level: 3.88/7)
+- Mathematics (Importance: 3.25/5 | Level: 3.88/7)
+- Monitoring (Importance: 3.25/5 | Level: 4.12/7)
+- Instructing (Importance: 3.12/5 | Level: 3.12/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Quality Control Analysis (Importance: 3.0/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 3.0/7)
+- Operations Analysis (Importance: 3.0/5 | Level: 3.75/7)
+- Time Management (Importance: 2.88/5 | Level: 2.88/7)
+- Service Orientation (Importance: 2.88/5 | Level: 2.88/7)
+- Persuasion (Importance: 2.88/5 | Level: 3.12/7)
+- Negotiation (Importance: 2.75/5 | Level: 2.75/7)
+- Operations Monitoring (Importance: 2.75/5 | Level: 2.88/7)
+- Management of Personnel Resources (Importance: 2.75/5 | Level: 2.62/7)
+- Operation and Control (Importance: 2.25/5 | Level: 2.25/7)
+- Programming (Importance: 2.12/5 | Level: 2.0/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 2.0/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.62/7)
+- Technology Design (Importance: 1.75/5 | Level: 1.5/7)
+- Troubleshooting (Importance: 1.75/5 | Level: 1.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- 3dMapper (Tech skill type: Analytical or scientific software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Erosion Productivity Impact Calculator EPIC (Tech skill type: Analytical or scientific software)
+- ESRI ArcGIS software (Tech skill type: Geographic information system)
+- European Soil Erosion Model EUROSEM (Tech skill type: Analytical or scientific software)
+- GAEA Technologies WinSieve (Tech skill type: Categorization or classification software)
+- GEOEAS (Tech skill type: Analytical or scientific software)
+- Geographic information system GIS software (Tech skill type: Geographic information system)
+- Geographic information system GIS systems (Tech skill type: Geographic information system)
+- GSLIB (Tech skill type: Analytical or scientific software)
+- Gstat (Tech skill type: Analytical or scientific software)
+- IBM SPSS Statistics (Tech skill type: Analytical or scientific software)
+- LandSerf (Tech skill type: Analytical or scientific software)
+- Leica Geosystems ERDAS IMAGINE (Tech skill type: Map creation software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Active Server Pages ASP (Tech skill type: Web platform development software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- National Resources Conservation Service NRCS PEDON Description Program PDP (Tech skill type: Data base user interface and query software)
+- National Resources Conservation Service NRCS Soils Explorer (Tech skill type: Data base user interface and query software)
+- National Soil Information System NASIS (Tech skill type: Data base user interface and query software)
+- PC-Progress HYDRUS (Tech skill type: Analytical or scientific software)
+- PedonCE (Tech skill type: Data base user interface and query software)
+- R (Tech skill type: Object or component oriented development software)
+- SAS (Tech skill type: Analytical or scientific software)
+- SGeMS (Tech skill type: Analytical or scientific software)
+- Soil information databases (Tech skill type: Data base user interface and query software)
+- SoilVision Systems SVOFFICE (Tech skill type: Data base user interface and query software)
+- SPAW (Tech skill type: Analytical or scientific software)
+- STATISTICA (Tech skill type: Analytical or scientific software)
+- UNSATFLOW (Tech skill type: Analytical or scientific software)
+- Variogram Estimation and Spatial Prediction plus Error Vesper (Tech skill type: Analytical or scientific software)
+- Water Erosion Prediction Project WEPP (Tech skill type: Analytical or scientific software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Atomic absorption AA spectrometers (Tool type: Atomic absorption AA spectrometers)
+- Autosamplers (Tool type: Autosamplers)
+- Calibrated soil scoops (Tool type: Soil core sampling apparatus)
+- Canopy analyzers (Tool type: Light absorption meters)
+- Cell tissue culture incubators (Tool type: Tissue culture incubators)
+- Circulating water baths (Tool type: Circulating baths)
+- Colorimeters (Tool type: Colorimeters)
+- Conductivity meters (Tool type: Conductivity meters)
+- Dataloggers (Tool type: Portable data input terminals)
+- Desktop computers (Tool type: Desktop computers)
+- Digital cameras (Tool type: Digital cameras)
+- Digital pH meters (Tool type: pH meters)
+- Electron microscopes (Tool type: Electron microscopes)
+- Epifluorescence microscopes (Tool type: Fluorescent microscopes)
+- Erlenmeyer flasks (Tool type: Laboratory flasks)
+- Flame photometers (Tool type: Photometer)
+- Fluorimeters (Tool type: Spectrofluorimeters or fluorimeters)
+- Gamma ray spectrometers (Tool type: Spectrometers)
+- Gel documentation systems (Tool type: Gel documentation systems)
+- Gel dryers (Tool type: Gel dryers)
+- Gel electrophoresis systems (Tool type: Gel documentation systems)
+- Glass beakers (Tool type: Laboratory beakers)
+- Glass flasks (Tool type: Laboratory flasks)
+- Global positioning system GPS receivers (Tool type: Global positioning system GPS receiver)
+- Graduated glass cylinders (Tool type: Laboratory graduated cylinders)
+- Ground penetrating radar GPR (Tool type: Radarbased surveillance systems)
+- Hand augers (Tool type: Augers)
+- Heat flux plates (Tool type: Soil testing kits)
+- High speed centrifuges (Tool type: Benchtop centrifuges)
+- Hot water shaking baths (Tool type: Orbital shaking water baths)
+- Inductively coupled plasma atomic emission spectrometers ICP-AES (Tool type: Inductively coupled plasma ICP spectrometers)
+- Infrared cameras (Tool type: Infrared imagers)
+- Infrared gas analyzers (Tool type: Infra red or ultra violet absorption analyzers)
+- Ion chromatographs (Tool type: Ion chromatographs)
+- Laboratory drying ovens (Tool type: Drying cabinets or ovens)
+- Laboratory grinders (Tool type: Laboratory mills)
+- Laboratory growth chambers (Tool type: Refrigerated and heated reach in environmental or growth chambers)
+- Laboratory mixers (Tool type: Laboratory mixers)
+- Laboratory muffle furnaces (Tool type: Laboratory box furnaces)
+- Laboratory sieves (Tool type: Test sieves)
+- Laboratory test tubes (Tool type: Multipurpose or general test tubes)
+- Laminar flow hoods (Tool type: Laminar flow cabinets or stations)
+- Laptop computers (Tool type: Notebook computers)
+- Laser particle sizers (Tool type: Particle size measuring apparatus)
+- Light detection and ranging LIDAR systems (Tool type: Radarbased surveillance systems)
+- Luminometers (Tool type: Photometer)
+- Lysimeters (Tool type: Precipitation or evaporation recorders)
+- Mass spectrometers (Tool type: Mass spectrometers)
+- Microtiter plate readers (Tool type: Microplate readers)
+- Organic carbon analyzers (Tool type: Organic carbon analyzers)
+- Osmometers (Tool type: Osmometers)
+- Personal computers (Tool type: Personal computers)
+- Personal digital assistants PDA (Tool type: Personal digital assistant PDAs or organizers)
+- pH indicators (Tool type: pH meters)
+- Polarizing microscopes (Tool type: Polarizing microscopes)
+- Polymerase chain reaction PCR equipment (Tool type: Rapid amplification or complementary deoxyribonucleic acid ends RACE technology products)
+- Porometers (Tool type: Permeability or porosity estimation apparatus)
+- Precision balances (Tool type: Laboratory balances)
+- Psychrometers (Tool type: Psychrometers)
+- Reciprocating shaker water baths (Tool type: Reciprocating shaking water baths)
+- Refrigerated microfuges (Tool type: Refrigerated benchtop centrifuges)
+- Sample containers (Tool type: Sample holders)
+- Soil analysis hydrometers (Tool type: Hydrometers)
+- Soil augers (Tool type: Soil core sampling apparatus)
+- Soil moisture neutron probes (Tool type: Moisture meters)
+- Soil thermometers (Tool type: Handheld thermometer)
+- Spectrophotometers (Tool type: Spectrophotometers)
+- Synthetic aperture radar SAR (Tool type: Radarbased surveillance systems)
+- Tensiometers (Tool type: Tensiometers)
+- Thermocouples (Tool type: Thermocouples)
+- X ray fluorescence XRF spectrometers (Tool type: Spectrofluorimeters or fluorimeters)

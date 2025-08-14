@@ -1,0 +1,178 @@
+Job Title: Urban and Regional Planners
+O*NET-SOC Code: 19-3051.00
+
+# DESCRIPTION
+Develop comprehensive plans and programs for use of land and physical facilities of jurisdictions, such as towns, cities, counties, and metropolitan areas.
+
+# TASKS
+- Design, promote, or administer government plans or policies affecting land use, zoning, public utilities, community facilities, housing, or transportation.
+- Advise planning officials on project feasibility, cost-effectiveness, regulatory conformance, or possible alternatives.
+- Create, prepare, or requisition graphic or narrative reports on land use data, including land area maps overlaid with geographic variables, such as population density.
+- Hold public meetings with government officials, social scientists, lawyers, developers, the public, or special interest groups to formulate, develop, or address issues regarding land use or community plans.
+- Mediate community disputes or assist in developing alternative plans or recommendations for programs or projects.
+- Recommend approval, denial, or conditional approval of proposals.
+- Conduct field investigations, surveys, impact studies, or other research to compile and analyze data on economic, social, regulatory, or physical factors affecting land use.
+- Evaluate proposals for infrastructure projects or other development for environmental impact or sustainability.
+- Discuss with planning officials the purpose of land use projects, such as transportation, conservation, residential, commercial, industrial, or community use.
+- Keep informed about economic or legal issues involved in zoning codes, building codes, or environmental regulations.
+- Assess the feasibility of land use proposals and identify necessary changes.
+- Determine the effects of regulatory limitations on land use projects.
+- Review and evaluate environmental impact reports pertaining to private or public planning projects or programs.
+- Supervise or coordinate the work of urban planning technicians or technologists.
+- Develop plans for public or alternative transportation systems for urban or regional locations to reduce carbon output associated with transportation.
+- Identify opportunities or develop plans for sustainability projects or programs to improve energy efficiency, minimize pollution or waste, or restore natural systems.
+- Coordinate work with economic consultants or architects during the formulation of plans or the design of large pieces of infrastructure.
+- Advocate sustainability to community groups, government agencies, the general public, or special interest groups.
+- Investigate property availability for purposes of development.
+- Conduct interviews, surveys and site inspections concerning factors that affect land usage, such as zoning, traffic flow and housing.
+- Prepare reports, using statistics, charts, and graphs, to illustrate planning studies in areas such as population, land use, or zoning.
+- Prepare, develop and maintain maps and databases.
+- Prepare, maintain and update files and records, including land use data and statistics.
+- Research, compile, analyze and organize information from maps, reports, investigations, and books for use in reports and special projects.
+- Respond to public inquiries and complaints.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Speaking (Importance: 4.12/5 | Level: 4.25/7)
+- Judgment and Decision Making (Importance: 4.12/5 | Level: 4.25/7)
+- Active Listening (Importance: 4.12/5 | Level: 4.38/7)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.25/7)
+- Systems Analysis (Importance: 4.0/5 | Level: 4.12/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.38/7)
+- Writing (Importance: 3.88/5 | Level: 4.12/7)
+- Complex Problem Solving (Importance: 3.75/5 | Level: 4.12/7)
+- Systems Evaluation (Importance: 3.75/5 | Level: 4.0/7)
+- Social Perceptiveness (Importance: 3.62/5 | Level: 3.75/7)
+- Negotiation (Importance: 3.38/5 | Level: 3.38/7)
+- Time Management (Importance: 3.25/5 | Level: 3.75/7)
+- Service Orientation (Importance: 3.25/5 | Level: 3.0/7)
+- Active Learning (Importance: 3.25/5 | Level: 4.12/7)
+- Coordination (Importance: 3.25/5 | Level: 3.75/7)
+- Operations Analysis (Importance: 3.12/5 | Level: 3.75/7)
+- Persuasion (Importance: 3.12/5 | Level: 3.75/7)
+- Mathematics (Importance: 3.0/5 | Level: 3.5/7)
+- Management of Personnel Resources (Importance: 3.0/5 | Level: 3.12/7)
+- Monitoring (Importance: 3.0/5 | Level: 3.62/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 2.88/7)
+- Instructing (Importance: 3.0/5 | Level: 2.88/7)
+- Science (Importance: 2.62/5 | Level: 2.75/7)
+- Management of Financial Resources (Importance: 2.5/5 | Level: 2.75/7)
+- Management of Material Resources (Importance: 2.25/5 | Level: 2.25/7)
+- Operations Monitoring (Importance: 1.75/5 | Level: 1.12/7)
+- Programming (Importance: 1.75/5 | Level: 1.38/7)
+- Technology Design (Importance: 1.62/5 | Level: 1.12/7)
+- Quality Control Analysis (Importance: 1.62/5 | Level: 1.25/7)
+- Operation and Control (Importance: 1.38/5 | Level: 0.5/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- 3D urban simulation modeling software (Tech skill type: Computer aided design CAD software)
+- Accela KIVA DMS (Tech skill type: Enterprise resource planning ERP software)
+- Accela PERMITS Plus (Tech skill type: Compliance software)
+- Accela Tidemark Advantage (Tech skill type: Compliance software)
+- Adobe Acrobat (Tech skill type: Document management software)
+- Adobe Creative Cloud software (Tech skill type: Graphics or photo imaging software)
+- Adobe Dreamweaver (Tech skill type: Web page creation and editing software)
+- Adobe FreeHand MX (Tech skill type: Graphics or photo imaging software)
+- Adobe Illustrator (Tech skill type: Graphics or photo imaging software)
+- Adobe InDesign (Tech skill type: Desktop publishing software)
+- Adobe PageMaker (Tech skill type: Desktop publishing software)
+- Adobe Photoshop (Tech skill type: Graphics or photo imaging software)
+- Autodesk 3ds Max Design (Tech skill type: Computer aided design CAD software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Autodesk AutoCAD Map 3D (Tech skill type: Computer aided design CAD software)
+- Bentley MicroStation (Tech skill type: Computer aided design CAD software)
+- Caliper TransCAD (Tech skill type: Computer aided design CAD software)
+- Citilabs TRANPLAN (Tech skill type: Analytical or scientific software)
+- CommunityViz (Tech skill type: Computer aided design CAD software)
+- Computer aided design CAD software (Tech skill type: Computer aided design CAD software)
+- Corel CorelDraw Graphics Suite (Tech skill type: Graphics or photo imaging software)
+- Corel WordPerfect Office Suite (Tech skill type: Office suite software)
+- Criterion Planners INDEX (Tech skill type: Map creation software)
+- Dassault Systemes SolidWorks (Tech skill type: Computer aided design CAD software)
+- Data mining software (Tech skill type: Data mining software)
+- Database software (Tech skill type: Data base user interface and query software)
+- dBASE (Tech skill type: Data base user interface and query software)
+- Desktop publishing software (Tech skill type: Desktop publishing software)
+- e-on VUE (Tech skill type: Computer aided design CAD software)
+- Email software (Tech skill type: Electronic mail software)
+- Enterprise resource planning ERP software (Tech skill type: Enterprise resource planning ERP software)
+- Esri ArcGIS (Tech skill type: Geographic information system)
+- ESRI ArcGIS software (Tech skill type: Geographic information system)
+- ESRI ArcInfo (Tech skill type: Geographic information system)
+- ESRI ArcView (Tech skill type: Geographic information system)
+- ESRI software (Tech skill type: Geographic information system)
+- ESRI What if? (Tech skill type: Geographic information system)
+- Extensible markup language XML (Tech skill type: Enterprise application integration software)
+- Geographic information system GIS software (Tech skill type: Geographic information system)
+- Geographic information system GIS systems (Tech skill type: Geographic information system)
+- Geomechanical design analysis GDA software (Tech skill type: Map creation software)
+- Graphics software (Tech skill type: Graphics or photo imaging software)
+- Hypertext markup language HTML (Tech skill type: Web platform development software)
+- IBM Lotus 1-2-3 (Tech skill type: Spreadsheet software)
+- IBM Lotus Notes (Tech skill type: Electronic mail software)
+- Intergraph MGE (Tech skill type: Map creation software)
+- Interwoven software (Tech skill type: Document management software)
+- ITC Integrated Land and Water Information System ILWIS (Tech skill type: Map creation software)
+- ITSpatial InterSCOPE (Tech skill type: Map creation software)
+- Land management databases (Tech skill type: Data base user interface and query software)
+- Leica Geosystems ERDAS IMAGINE (Tech skill type: Map creation software)
+- Location allocation decision support system LADSS (Tech skill type: Analytical or scientific software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft Word (Tech skill type: Word processing software)
+- MultiGen Paradigm 3D GIS (Tech skill type: Computer aided design CAD software)
+- Oracle Database (Tech skill type: Data base user interface and query software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- Oracle Primavera Systems (Tech skill type: Project management software)
+- PlanGraphics Citywide GIS Utility (Tech skill type: Geographic information system)
+- Presentation software (Tech skill type: Presentation software)
+- RhinoSoft FTP Voyager (Tech skill type: Desktop communications software)
+- RockWare ArcMap (Tech skill type: Map creation software)
+- Sage Timeslips (Tech skill type: Time accounting software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Scientific Software Group ModTech (Tech skill type: Analytical or scientific software)
+- Software development tools (Tech skill type: Development environment software)
+- Spatial decision support systems SDSS software (Tech skill type: Map creation software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- Street address databases (Tech skill type: Data base user interface and query software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Tangible Media Group Luminous Table (Tech skill type: Computer aided design CAD software)
+- Telogis GeoBase (Tech skill type: Map creation software)
+- Transportation planning software (Tech skill type: Analytical or scientific software)
+- Trimble SketchUp Pro (Tech skill type: Computer aided design CAD software)
+- UrbanSim (Tech skill type: Computer aided design CAD software)
+- Web browser software (Tech skill type: Internet browser software)
+- Word processing software (Tech skill type: Word processing software)
+- WorkTech MAXIMO (Tech skill type: Enterprise resource planning ERP software)
+
+## TOOLS USED
+- 10-key calculators (Tool type: Desktop calculator)
+- 35 millimeter cameras (Tool type: Still cameras)
+- Desktop computers (Tool type: Desktop computers)
+- Digital camcorders (Tool type: Digital camcorders or video cameras)
+- Digital cameras (Tool type: Digital cameras)
+- Digitizers (Tool type: Scanners)
+- Drafting scales (Tool type: Scales)
+- Global positioning system GPS receivers (Tool type: Global positioning system GPS receiver)
+- Laptop computers (Tool type: Notebook computers)
+- Laser printers (Tool type: Laser printers)
+- Microfiche readers (Tool type: Microfiche or microfilm viewers)
+- Multi-line telephone systems (Tool type: Special purpose telephones)
+- Notebook computers (Tool type: Notebook computers)
+- Overhead projectors (Tool type: Overhead projectors)
+- Personal computers (Tool type: Personal computers)
+- Photocopiers (Tool type: Photocopiers)
+- Planimeters (Tool type: Map measurers)
+- Plotters (Tool type: Plotter printers)
+- Slide projectors (Tool type: Slide projectors)
+- Two way radios (Tool type: Two way radios)

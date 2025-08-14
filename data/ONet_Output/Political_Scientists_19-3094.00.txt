@@ -1,0 +1,110 @@
+Job Title: Political Scientists
+O*NET-SOC Code: 19-3094.00
+
+# DESCRIPTION
+Study the origin, development, and operation of political systems. May study topics, such as public opinion, political decisionmaking, and ideology. May analyze the structure and operation of governments, as well as various political entities. May conduct public opinion surveys, analyze election results, or analyze public documents.
+
+# TASKS
+- Teach political science.
+- Maintain current knowledge of government policy decisions.
+- Develop and test theories, using information from interviews, newspapers, periodicals, case law, historical papers, polls, or statistical sources.
+- Disseminate research results through academic publications, written reports, or public presentations.
+- Advise political science students.
+- Collect, analyze, and interpret data, such as election results and public opinion surveys, reporting on findings, recommendations, and conclusions.
+- Interpret and analyze policies, public issues, legislation, or the operations of governments, businesses, and organizations.
+- Identify issues for research and analysis.
+- Serve on committees.
+- Forecast political, economic, and social trends.
+- Consult with and advise government officials, civic bodies, research agencies, the media, political parties, and others concerned with political issues.
+- Evaluate programs and policies, and make related recommendations to institutions and organizations.
+- Provide media commentary or criticism related to public policy and political issues and events.
+- Write drafts of legislative proposals, and prepare speeches, correspondence, and policy papers for governmental use.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Reading Comprehension (Importance: 4.25/5 | Level: 4.88/7)
+- Active Learning (Importance: 4.12/5 | Level: 4.12/7)
+- Active Listening (Importance: 4.12/5 | Level: 4.62/7)
+- Speaking (Importance: 4.12/5 | Level: 4.75/7)
+- Writing (Importance: 4.0/5 | Level: 4.62/7)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.75/7)
+- Social Perceptiveness (Importance: 3.75/5 | Level: 3.75/7)
+- Complex Problem Solving (Importance: 3.62/5 | Level: 3.75/7)
+- Judgment and Decision Making (Importance: 3.62/5 | Level: 3.88/7)
+- Instructing (Importance: 3.5/5 | Level: 3.5/7)
+- Learning Strategies (Importance: 3.5/5 | Level: 3.75/7)
+- Systems Evaluation (Importance: 3.12/5 | Level: 3.38/7)
+- Service Orientation (Importance: 3.0/5 | Level: 2.88/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Systems Analysis (Importance: 3.0/5 | Level: 3.5/7)
+- Mathematics (Importance: 3.0/5 | Level: 3.12/7)
+- Monitoring (Importance: 2.88/5 | Level: 3.5/7)
+- Time Management (Importance: 2.88/5 | Level: 2.88/7)
+- Persuasion (Importance: 2.88/5 | Level: 3.0/7)
+- Negotiation (Importance: 2.75/5 | Level: 3.0/7)
+- Science (Importance: 2.62/5 | Level: 3.0/7)
+- Operations Analysis (Importance: 2.5/5 | Level: 2.38/7)
+- Management of Personnel Resources (Importance: 2.12/5 | Level: 2.0/7)
+- Management of Material Resources (Importance: 1.62/5 | Level: 0.75/7)
+- Management of Financial Resources (Importance: 1.62/5 | Level: 0.62/7)
+- Programming (Importance: 1.5/5 | Level: 0.75/7)
+- Technology Design (Importance: 1.5/5 | Level: 0.62/7)
+- Operations Monitoring (Importance: 1.38/5 | Level: 0.38/7)
+- Quality Control Analysis (Importance: 1.38/5 | Level: 0.5/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Operation and Control (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adobe Acrobat (Tech skill type: Document management software)
+- Bare Bones Software BBEdit (Tech skill type: Data base management system software)
+- CQ Press Political Reference Suite (Tech skill type: Data base user interface and query software)
+- Data visualization software (Tech skill type: Analytical or scientific software)
+- DataMystic TextPipe Pro (Tech skill type: Analytical or scientific software)
+- EBSCO Publishing Academic Search Premier (Tech skill type: Information retrieval or search software)
+- EBSCO Publishing Political Science Complete (Tech skill type: Information retrieval or search software)
+- Email software (Tech skill type: Electronic mail software)
+- Europa World Plus (Tech skill type: Information retrieval or search software)
+- FedStats (Tech skill type: Data base user interface and query software)
+- Gale Expanded Academic ASAP PLUS (Tech skill type: Information retrieval or search software)
+- IBM SPSS Statistics (Tech skill type: Analytical or scientific software)
+- IDM Computer Solutions UltraEdit (Tech skill type: Data base management system software)
+- Interuniversity Consortium for Political and Social Research (ICPSR) database (Tech skill type: Data base user interface and query software)
+- JSTOR database (Tech skill type: Information retrieval or search software)
+- JudgeIt II (Tech skill type: Analytical or scientific software)
+- Library of Congress E-resources Online Catalog (Tech skill type: Data base user interface and query software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Active Server Pages ASP (Tech skill type: Web platform development software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Publisher (Tech skill type: Desktop publishing software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Oxford Reference Online (Tech skill type: Information retrieval or search software)
+- ProQuest Public Affairs Information Service (PAIS) database (Tech skill type: Information retrieval or search software)
+- ProQuest Worldwide Political Science Abstracts (Tech skill type: Information retrieval or search software)
+- Python (Tech skill type: Object or component oriented development software)
+- R (Tech skill type: Object or component oriented development software)
+- Sage Reference Online (Tech skill type: Information retrieval or search software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- SAS (Tech skill type: Analytical or scientific software)
+- StataCorp Stata (Tech skill type: Analytical or scientific software)
+- Structure query language SQL (Tech skill type: Data base user interface and query software)
+- Tableau (Tech skill type: Business intelligence and data analysis software)
+- WinBUGS (Tech skill type: Analytical or scientific software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Conference phones (Tool type: Audioconferencing systems)
+- Desktop computers (Tool type: Desktop computers)
+- Digital audio recorders (Tool type: Digital voice recorders)
+- Digital video disk DVD players (Tool type: Digital video disk players or recorders)
+- Handheld calculators (Tool type: Pocket calculator)
+- Laptop computers (Tool type: Notebook computers)
+- Overhead display projectors (Tool type: Overhead projectors)

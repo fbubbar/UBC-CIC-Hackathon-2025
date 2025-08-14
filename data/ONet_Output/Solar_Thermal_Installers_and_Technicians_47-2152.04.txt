@@ -1,0 +1,155 @@
+Job Title: Solar Thermal Installers and Technicians
+O*NET-SOC Code: 47-2152.04
+
+# DESCRIPTION
+Install or repair solar energy systems designed to collect, store, and circulate solar-heated water for residential, commercial or industrial use.
+
+# TASKS
+- Test operation or functionality of mechanical, plumbing, electrical, and control systems.
+- Apply weather seal, such as pipe flashings and sealants, to roof penetrations and structural devices.
+- Install solar collector mounting devices on tile, asphalt, shingle, or built-up gravel roofs, using appropriate materials and penetration methods.
+- Install copper or plastic plumbing using pipes, fittings, pipe cutters, acetylene torches, solder, wire brushes, sand cloths, flux, plastic pipe cleaners, or plastic glue.
+- Identify plumbing, electrical, environmental, or safety hazards associated with solar thermal installations.
+- Demonstrate start-up, shut-down, maintenance, diagnostic, and safety procedures to thermal system owners.
+- Install circulating pumps using pipe, fittings, soldering equipment, electrical supplies, and hand tools.
+- Install flat-plat, evacuated glass, or concentrating solar collectors on mounting devices, using brackets or struts.
+- Install solar thermal system controllers and sensors.
+- Fill water tanks and check tanks, pipes, and fittings for leaks.
+- Design active direct or indirect, passive direct or indirect, or pool solar systems.
+- Determine locations for installing solar subsystem components, including piping, water heaters, valves, and ancillary equipment.
+- Perform routine maintenance or repairs to restore solar thermal systems to baseline operating conditions.
+- Install heat exchangers and heat exchanger fluids according to installation manuals and schematics.
+- Apply operation or identification tags or labels to system components, as required.
+- Connect water heaters and storage tanks to power and water sources.
+- Cut, miter, and glue piping insulation to insulate plumbing pipes and fittings.
+- Install plumbing, such as dip tubes, port fittings, drain tank valves, pressure temperature relief valves, or tanks, according to manufacturer specifications and building codes.
+- Install monitoring system components, such as flow meters, temperature gauges, and pressure gauges, according to system design and manufacturer specifications.
+- Assess collector sites to ensure structural integrity of potential mounting surfaces or the best orientation and tilt for solar collectors.
+- Apply ultraviolet radiation protection to prevent degradation of plumbing.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Installation (Importance: 4.75/5 | Level: 4.12/7)
+- Quality Control Analysis (Importance: 3.38/5 | Level: 3.62/7)
+- Reading Comprehension (Importance: 3.38/5 | Level: 3.25/7)
+- Active Listening (Importance: 3.25/5 | Level: 3.25/7)
+- Operations Monitoring (Importance: 3.25/5 | Level: 3.38/7)
+- Monitoring (Importance: 3.25/5 | Level: 3.25/7)
+- Critical Thinking (Importance: 3.25/5 | Level: 3.5/7)
+- Speaking (Importance: 3.25/5 | Level: 3.12/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 2.88/7)
+- Time Management (Importance: 3.12/5 | Level: 3.0/7)
+- Troubleshooting (Importance: 3.12/5 | Level: 3.25/7)
+- Instructing (Importance: 3.0/5 | Level: 3.25/7)
+- Service Orientation (Importance: 3.0/5 | Level: 3.0/7)
+- Equipment Maintenance (Importance: 3.0/5 | Level: 3.25/7)
+- Complex Problem Solving (Importance: 3.0/5 | Level: 3.0/7)
+- Active Learning (Importance: 3.0/5 | Level: 3.12/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.88/7)
+- Repairing (Importance: 2.88/5 | Level: 3.12/7)
+- Operation and Control (Importance: 2.88/5 | Level: 2.88/7)
+- Equipment Selection (Importance: 2.88/5 | Level: 3.0/7)
+- Coordination (Importance: 2.88/5 | Level: 2.88/7)
+- Writing (Importance: 2.88/5 | Level: 3.12/7)
+- Persuasion (Importance: 2.75/5 | Level: 2.88/7)
+- Negotiation (Importance: 2.75/5 | Level: 2.88/7)
+- Systems Analysis (Importance: 2.75/5 | Level: 2.75/7)
+- Systems Evaluation (Importance: 2.75/5 | Level: 3.12/7)
+- Mathematics (Importance: 2.5/5 | Level: 2.75/7)
+- Learning Strategies (Importance: 2.5/5 | Level: 2.88/7)
+- Management of Personnel Resources (Importance: 2.38/5 | Level: 2.38/7)
+- Technology Design (Importance: 2.25/5 | Level: 1.88/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.38/7)
+- Operations Analysis (Importance: 1.75/5 | Level: 1.12/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 1.12/7)
+- Programming (Importance: 1.62/5 | Level: 0.75/7)
+- Science (Importance: 1.5/5 | Level: 1.12/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- 1CadCam Unigraphics (Tech skill type: Computer aided manufacturing CAM software)
+- Adobe Photoshop (Tech skill type: Graphics or photo imaging software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Computer-aided drafting or design software (Tech skill type: Computer aided design CAD software)
+- Cost estimating software (Tech skill type: Project management software)
+- Dassault Systemes CATIA (Tech skill type: Computer aided design CAD software)
+- Dassault Systemes SolidWorks (Tech skill type: Computer aided design CAD software)
+- Inventory control system software (Tech skill type: Inventory management software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Visual Basic for Applications VBA (Tech skill type: Development environment software)
+- Microsoft Word (Tech skill type: Word processing software)
+- National Instruments LabVIEW (Tech skill type: Development environment software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- Project management software (Tech skill type: Project management software)
+- PTC Pro/ENGINEER Wildfire (Tech skill type: Computer aided design CAD software)
+- Salesforce software (Tech skill type: Customer relationship management CRM software)
+- Word processing software (Tech skill type: Word processing software)
+- Work scheduling software (Tech skill type: Calendar and scheduling software)
+
+## TOOLS USED
+- Acetylene torches (Tool type: Blow torch)
+- Adjustable hand wrenches (Tool type: Adjustable wrenches)
+- Adjustable widemouth pliers (Tool type: Adjustable widemouth pliers)
+- Caulking equipment (Tool type: Caulking guns)
+- Channel lock pliers (Tool type: Locking pliers)
+- Charging pumps (Tool type: Positive displacement pumps)
+- Claw hammers (Tool type: Claw hammer)
+- Cordless drills (Tool type: Power drills)
+- Crimping lugs (Tool type: Wire lug crimping tool)
+- Desktop computers (Tool type: Desktop computers)
+- Diagonal cutting pliers (Tool type: Diagonal cut pliers)
+- Digital multimeters (Tool type: Multimeters)
+- Digital refractometers (Tool type: Handheld refractometers or polarimeters)
+- Directional compasses (Tool type: Geological compasses)
+- Drill bit sets (Tool type: Drill bit set)
+- Extension ladders (Tool type: Ladders)
+- Fall arrest harnesses (Tool type: Safety harnesses or belts)
+- Fiberglass extension ladders (Tool type: Ladders)
+- Filter masks (Tool type: Masks or accessories)
+- Forklifts (Tool type: Forklifts)
+- Global positioning system GPS receivers (Tool type: Global positioning system GPS receiver)
+- Hacksaws (Tool type: Hacksaw)
+- Handheld calculators (Tool type: Pocket calculator)
+- Hole cutters (Tool type: Hole saws)
+- Impact drills (Tool type: Power drills)
+- Inclinometers (Tool type: Pitch measuring instruments)
+- Jig saws (Tool type: Power saws)
+- Laptop computers (Tool type: Notebook computers)
+- Large pipe wrenches (Tool type: Pipe wrenches)
+- Medium pipe wrenches (Tool type: Pipe wrenches)
+- Needlenose pliers (Tool type: Needlenose pliers)
+- Pair of dykes (Tool type: Wire cutters)
+- Personal computers (Tool type: Personal computers)
+- Phillips head screwdrivers (Tool type: Screwdrivers)
+- Pipe taps (Tool type: Threading taps)
+- Protective gloves (Tool type: Protective gloves)
+- Protractors (Tool type: Protractors)
+- Putty knives (Tool type: Putty knives)
+- Rat tail files (Tool type: Round file)
+- Reciprocating saws (Tool type: Power saws)
+- Right-angle drills (Tool type: Power drills)
+- Safety glasses (Tool type: Safety glasses)
+- Small pry bars (Tool type: Pry bars)
+- Socket wrench sets (Tool type: Socket sets)
+- Solar analysis systems (Tool type: Portable data input terminals)
+- Solarimeters (Tool type: Solar radiation surface observing apparatus)
+- Soldering equipment (Tool type: Soldering iron)
+- Steel measuring tapes (Tool type: Tape measures)
+- Straight screwdrivers (Tool type: Screwdrivers)
+- Stud locators (Tool type: Stud finders)
+- Tin snips (Tool type: Tinners snips)
+- Torpedo levels (Tool type: Levels)
+- Transfer pumps (Tool type: Hydraulic pumps)
+- Trenchers (Tool type: Trenching machines)
+- Tubing benders (Tool type: Tube bending machine)
+- Tubing cutters (Tool type: Pipe or tube cutter)
+- Utility knives (Tool type: Utility knives)
+- Utility work machines (Tool type: Front end loaders)
+- Video probe systems (Tool type: Digital camcorders or video cameras)
+- Vise grip pliers (Tool type: Locking pliers)
+- Volt-ohm meters VOM (Tool type: Ohmmeters)
+- Water hoses (Tool type: Water hoses)
+- Wire cutters (Tool type: Wire cutters)
+- Work vans (Tool type: Minivans or vans)

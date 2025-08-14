@@ -1,0 +1,131 @@
+Job Title: Agricultural Inspectors
+O*NET-SOC Code: 45-2011.00
+
+# DESCRIPTION
+Inspect agricultural commodities, processing equipment, and facilities, and fish and logging operations, to ensure compliance with regulations and laws governing health, quality, and safety.
+
+# TASKS
+- Inspect food products and processing procedures to determine whether products are safe to eat.
+- Interpret and enforce government acts and regulations and explain required standards to agricultural workers.
+- Inspect agricultural commodities or related operations, as well as fish or logging operations, for compliance with laws and regulations governing health, quality, and safety.
+- Label and seal graded products and issue official grading certificates.
+- Monitor the operations and sanitary conditions of slaughtering or meat processing plants.
+- Take emergency actions, such as closing production facilities, if product safety is compromised.
+- Verify that transportation and handling procedures meet regulatory requirements.
+- Inspect the cleanliness and practices of establishment employees.
+- Examine, weigh, and measure commodities, such as poultry, eggs, meat, or seafood to certify qualities, grades, and weights.
+- Inspect or test horticultural products or livestock to detect harmful diseases, chemical residues, or infestations and to determine the quality of products or animals.
+- Monitor the grading performed by company employees to verify conformance to standards.
+- Write reports of findings and recommendations and advise farmers, growers, or processors of corrective action to be taken.
+- Collect samples from animals, plants, or products and route them to laboratories for microbiological assessment, ingredient verification, or other testing.
+- Provide consultative services in areas such as equipment or product evaluation, plant construction or layout, or food safety systems.
+- Testify in legal proceedings.
+- Compare product recipes with government-approved formulas or recipes to determine acceptability.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Quality Control Analysis (Importance: 4.12/5 | Level: 3.88/7)
+- Monitoring (Importance: 3.75/5 | Level: 4.12/7)
+- Reading Comprehension (Importance: 3.75/5 | Level: 4.0/7)
+- Active Listening (Importance: 3.75/5 | Level: 3.62/7)
+- Critical Thinking (Importance: 3.62/5 | Level: 4.0/7)
+- Speaking (Importance: 3.5/5 | Level: 3.88/7)
+- Active Learning (Importance: 3.25/5 | Level: 3.38/7)
+- Operations Monitoring (Importance: 3.25/5 | Level: 3.38/7)
+- Judgment and Decision Making (Importance: 3.25/5 | Level: 3.38/7)
+- Systems Evaluation (Importance: 3.12/5 | Level: 3.25/7)
+- Systems Analysis (Importance: 3.12/5 | Level: 3.25/7)
+- Writing (Importance: 3.12/5 | Level: 3.62/7)
+- Complex Problem Solving (Importance: 3.12/5 | Level: 3.25/7)
+- Coordination (Importance: 3.12/5 | Level: 3.0/7)
+- Instructing (Importance: 3.0/5 | Level: 2.88/7)
+- Negotiation (Importance: 2.88/5 | Level: 2.75/7)
+- Learning Strategies (Importance: 2.88/5 | Level: 3.0/7)
+- Time Management (Importance: 2.88/5 | Level: 2.88/7)
+- Persuasion (Importance: 2.88/5 | Level: 2.88/7)
+- Service Orientation (Importance: 2.88/5 | Level: 2.88/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 2.75/7)
+- Science (Importance: 2.75/5 | Level: 2.75/7)
+- Mathematics (Importance: 2.62/5 | Level: 2.75/7)
+- Management of Personnel Resources (Importance: 2.62/5 | Level: 2.25/7)
+- Operation and Control (Importance: 2.5/5 | Level: 2.38/7)
+- Troubleshooting (Importance: 2.0/5 | Level: 1.5/7)
+- Technology Design (Importance: 1.75/5 | Level: 0.75/7)
+- Management of Material Resources (Importance: 1.75/5 | Level: 1.0/7)
+- Operations Analysis (Importance: 1.75/5 | Level: 1.38/7)
+- Management of Financial Resources (Importance: 1.62/5 | Level: 0.75/7)
+- Programming (Importance: 1.5/5 | Level: 0.5/7)
+- Equipment Selection (Importance: 1.12/5 | Level: 0.12/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Image processing software (Tech skill type: Graphics or photo imaging software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Internet Explorer (Tech skill type: Internet browser software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Operational databases (Tech skill type: Data base user interface and query software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Agricultural dividers (Tool type: Sorting machines for seed or grain or dried leguminous vegetables)
+- Bacon bomb samplers (Tool type: Sample preparation bombs)
+- Barley pearlers (Tool type: Grading machines for seed or grain or dried leguminous vegetables)
+- Beam scales (Tool type: Mechanical balances)
+- Bean sack triers (Tool type: Sample holders)
+- Block weights (Tool type: Calibration weights or weight sets)
+- Blust drum samplers (Tool type: Sorting machines for seed or grain or dried leguminous vegetables)
+- Boerner dividers (Tool type: Sorting machines for seed or grain or dried leguminous vegetables)
+- Bulk lot triers (Tool type: Sorting machines for seed or grain or dried leguminous vegetables)
+- Cargo trucks (Tool type: Cargo trucks)
+- Counterpoise weights (Tool type: Calibration weights or weight sets)
+- Dehairing machines (Tool type: Animal shearing or clipping equipment)
+- Desktop computers (Tool type: Desktop computers)
+- Digital cameras (Tool type: Digital cameras)
+- Diverter samplers (Tool type: Sample holders)
+- Dockage testers (Tool type: Grading machines for seed or grain or dried leguminous vegetables)
+- Double tube bag triers (Tool type: Sample holders)
+- Electronic mass comparators (Tool type: Profile projectors)
+- Ellis cup samplers (Tool type: Sample holders)
+- Equal-arm scales (Tool type: Mechanical balances)
+- Extension ladders (Tool type: Ladders)
+- Flour triers (Tool type: Sorting machines for seed or grain or dried leguminous vegetables)
+- Global positioning system GPS receivers (Tool type: Global positioning system GPS receiver)
+- Grain hopper scales (Tool type: Floor or platform scales)
+- Hand sieves (Tool type: Laboratory sifting equipment)
+- Hard hats (Tool type: Hard hats)
+- Light meters (Tool type: Lux or light meter)
+- Moisture detectors (Tool type: Moisture meters)
+- Moisture scales (Tool type: Moisture balances)
+- Near infrared NIR analyzers (Tool type: Infrared imagers)
+- Nuclear magnetic resonance NMR systems (Tool type: Nuclear magnetic resonance NMR spectrometers)
+- Oil samplers (Tool type: Sorting machines for seed or grain or dried leguminous vegetables)
+- Packaging knives (Tool type: Utility knives)
+- Pelican samplers (Tool type: Sample holders)
+- Pipettes (Tool type: Dropping pipettes)
+- Point-type samplers (Tool type: Sample holders)
+- Portable block weights (Tool type: Calibration weights or weight sets)
+- Probe-type samplers (Tool type: Sample holders)
+- Railway track scale test cars (Tool type: Calibration weights or weight sets)
+- Railway track scales (Tool type: Truck or rail scales)
+- Rice bag triers (Tool type: Sample holders)
+- Rice millers (Tool type: Grinding mills)
+- Rice shellers (Tool type: Rice cleaning or hulling equipment)
+- Rice sizers (Tool type: Grading machines for seed or grain or dried leguminous vegetables)
+- Rotary dividers (Tool type: Sorting machines for seed or grain or dried leguminous vegetables)
+- Sealed baskets (Tool type: Calibration weights or weight sets)
+- Single-tube open-ended bag triers (Tool type: Sorting machines for seed or grain or dried leguminous vegetables)
+- Syringes (Tool type: Medical syringes without needle)
+- Tankcar samplers (Tool type: Sample holders)
+- Tapered bag triers (Tool type: Sample holders)
+- Test weight apparatuses (Tool type: Analytical balances)
+- Test weight kits (Tool type: Calibration weights or weight sets)
+- Thermal tape printers (Tool type: Thermal tape printers)
+- Ticket printers (Tool type: Laser printers)
+- Truck probes (Tool type: Sample holders)
+- Vehicle weight scales (Tool type: Truck or rail scales)

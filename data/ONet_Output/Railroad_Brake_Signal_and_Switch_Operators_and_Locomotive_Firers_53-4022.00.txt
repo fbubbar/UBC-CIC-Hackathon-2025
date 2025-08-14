@@ -1,0 +1,142 @@
+Job Title: Railroad Brake, Signal, and Switch Operators and Locomotive Firers
+O*NET-SOC Code: 53-4022.00
+
+# DESCRIPTION
+Operate or monitor railroad track switches or locomotive instruments. May couple or uncouple rolling stock to make up or break up trains. Watch for and relay traffic signals. May inspect couplings, air hoses, journal boxes, and hand brakes. May watch for dragging equipment or obstacles on rights-of-way.
+
+# TASKS
+- Observe train signals along routes and verify their meanings for engineers.
+- Signal locomotive engineers to start or stop trains when coupling or uncoupling cars, using hand signals, lanterns, or radio communication.
+- Pull or push track switches to reroute cars.
+- Observe signals from other crew members so that work activities can be coordinated.
+- Monitor trains as they go around curves to detect dragging equipment and smoking journal boxes.
+- Inspect couplings, air hoses, journal boxes, and handbrakes to ensure that they are securely fastened and functioning properly.
+- Observe tracks from left sides of locomotives to detect obstructions on tracks.
+- Operate locomotives in emergency situations.
+- Raise levers to couple and uncouple cars for makeup and breakup of trains.
+- Climb ladders to tops of cars to set brakes.
+- Receive oral or written instructions from yardmasters or yard conductors indicating track assignments and cars to be switched.
+- Inspect locomotives to detect damaged or worn parts.
+- Signal other workers to set brakes and to throw track switches when switching cars from trains to way stations.
+- Check to see that trains are equipped with supplies such as fuel, water, and sand.
+- Monitor oil, temperature, and pressure gauges on dashboards to determine if engines are operating safely and efficiently.
+- Set flares, flags, lanterns, or torpedoes in front and at rear of trains during emergency stops to warn oncoming trains.
+- Inspect tracks, cars, and engines for defects and to determine service needs, sending engines and cars for repairs as necessary.
+- Start diesel engines to warm engines before runs.
+- Make minor repairs to couplings, air hoses, and journal boxes, using hand tools.
+- Connect air hoses to cars, using wrenches.
+- Operate and drive locomotives, diesel switch engines, dinkey engines, flatcars, and railcars in train yards and at industrial sites.
+- Refuel and lubricate engines.
+- Ride atop cars that have been shunted, and turn handwheels to control speeds or stop cars at specified positions.
+- Record numbers of cars available, numbers of cars sent to repair stations, and types of service needed.
+- Provide passengers with assistance entering and exiting trains.
+- Conduct brake tests to determine the condition of brakes on trains.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Monitoring (Importance: 3.5/5 | Level: 3.12/7)
+- Operations Monitoring (Importance: 3.38/5 | Level: 3.38/7)
+- Operation and Control (Importance: 3.25/5 | Level: 3.25/7)
+- Critical Thinking (Importance: 3.25/5 | Level: 2.88/7)
+- Active Listening (Importance: 3.25/5 | Level: 2.88/7)
+- Reading Comprehension (Importance: 3.12/5 | Level: 3.0/7)
+- Coordination (Importance: 3.0/5 | Level: 3.12/7)
+- Time Management (Importance: 3.0/5 | Level: 2.62/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 2.62/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 2.38/7)
+- Speaking (Importance: 2.88/5 | Level: 2.62/7)
+- Complex Problem Solving (Importance: 2.75/5 | Level: 2.88/7)
+- Instructing (Importance: 2.75/5 | Level: 2.5/7)
+- Quality Control Analysis (Importance: 2.75/5 | Level: 2.25/7)
+- Active Learning (Importance: 2.62/5 | Level: 2.5/7)
+- Writing (Importance: 2.62/5 | Level: 2.62/7)
+- Learning Strategies (Importance: 2.62/5 | Level: 2.5/7)
+- Persuasion (Importance: 2.5/5 | Level: 2.38/7)
+- Service Orientation (Importance: 2.5/5 | Level: 2.25/7)
+- Management of Personnel Resources (Importance: 2.38/5 | Level: 2.38/7)
+- Troubleshooting (Importance: 2.38/5 | Level: 2.0/7)
+- Systems Analysis (Importance: 2.12/5 | Level: 2.0/7)
+- Negotiation (Importance: 2.12/5 | Level: 2.12/7)
+- Mathematics (Importance: 2.12/5 | Level: 1.75/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 2.0/7)
+- Repairing (Importance: 1.88/5 | Level: 1.12/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.0/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 0.75/7)
+- Equipment Maintenance (Importance: 1.75/5 | Level: 1.38/7)
+- Equipment Selection (Importance: 1.5/5 | Level: 0.75/7)
+- Operations Analysis (Importance: 1.25/5 | Level: 0.38/7)
+- Technology Design (Importance: 1.12/5 | Level: 0.12/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Electronic train management system software (Tech skill type: Data base user interface and query software)
+- Electronic train management systems ETMS (Tech skill type: Expert system software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Route mapping software (Tech skill type: Route navigation software)
+- Time tracking software (Tech skill type: Time accounting software)
+
+## TOOLS USED
+- Accelerometers (Tool type: Accelerometers)
+- Air horns (Tool type: Safety horns)
+- Air pressure gauges (Tool type: Pressure indicators)
+- Automatic track switching systems (Tool type: Rail switching systems)
+- Battery gauges (Tool type: Battery hydrometer)
+- Buffer stops (Tool type: Wheel chocks)
+- Car pullers (Tool type: Winches)
+- Circuit breakers (Tool type: Circuit breakers)
+- Clamp-on ammeters (Tool type: Ammeters)
+- Cut-off valves (Tool type: Pilot valves)
+- Derailers (Tool type: Heavy rail turnout switch)
+- Desktop computers (Tool type: Desktop computers)
+- Diesel freight engines (Tool type: Diesel freight locomotives)
+- Diesel powered freight engines (Tool type: Diesel freight locomotives)
+- Diesel powered generators (Tool type: Diesel generators)
+- Diesel switch engines (Tool type: Diesel freight locomotives)
+- Diesel-electric freight engines (Tool type: Electric freight locomotives)
+- Dinkey engines (Tool type: Diesel freight locomotives)
+- Dinky engines (Tool type: Diesel freight locomotives)
+- Dock boards (Tool type: Scaffolding)
+- Dry chemical fire extinguishers (Tool type: Fire extinguishers)
+- Dynamic braking systems (Tool type: Train braking systems)
+- Electric freight engines (Tool type: Electric freight locomotives)
+- Electric powered freight engines (Tool type: Electric freight locomotives)
+- Equipment couplers (Tool type: Rail couplers)
+- Freight car air brakes (Tool type: Train braking systems)
+- Gas turbine-electric freight engines (Tool type: Electric freight locomotives)
+- Generator electrical control panels (Tool type: Electrical control panels for generators)
+- Ground throw switches (Tool type: Heavy rail turnout switch)
+- Hand brakes (Tool type: Train braking systems)
+- Load current indicating meters (Tool type: Voltage or current meters)
+- Locomotive airbrakes (Tool type: Train braking systems)
+- Locomotive wheel chocks (Tool type: Wheel chocks)
+- Manual rail switches (Tool type: Rail switching systems)
+- Mobile radios (Tool type: Two way radios)
+- Mobile scaffolding (Tool type: Scaffolding)
+- Oil pressure gauges (Tool type: Oil gauges)
+- Philips head screwdrivers (Tool type: Screwdrivers)
+- Protective glasses (Tool type: Safety glasses)
+- Rail cargo cars (Tool type: Freight rail cars)
+- Rail flaw detection machines (Tool type: Railway or tramway maintenance or service vehicle)
+- Rail flaw detector cars (Tool type: Railway or tramway maintenance or service vehicle)
+- Railroad track switches (Tool type: Heavy rail turnout switch)
+- Reflective vests (Tool type: Safety vests)
+- Remote control locomotives (Tool type: Diesel freight locomotives)
+- Safety air horns (Tool type: Safety horns)
+- Safety gloves (Tool type: Protective gloves)
+- Signal flags (Tool type: Flags or accessories)
+- Signal flares (Tool type: Flares)
+- Signaling lanterns (Tool type: Kerosene or propane or natural gas or butane lantern)
+- Specialty wrench sets (Tool type: Specialty wrenches)
+- Speed gauges (Tool type: Speedometers)
+- Steam powered train engines (Tool type: Steam engines)
+- Steam pressure gauges (Tool type: Pressure indicators)
+- Steel toe boots (Tool type: Safety boots)
+- Steel-toes boots (Tool type: Safety boots)
+- Straight screwdrivers (Tool type: Screwdrivers)
+- Switch handles (Tool type: Heavy rail turnout switch)
+- Temperature gauges (Tool type: Temperature gauge)
+- Track switches (Tool type: Rail switching systems)
+- Track switching systems (Tool type: Rail switching systems)

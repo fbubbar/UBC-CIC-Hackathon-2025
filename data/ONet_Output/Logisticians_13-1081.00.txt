@@ -1,0 +1,109 @@
+Job Title: Logisticians
+O*NET-SOC Code: 13-1081.00
+
+# DESCRIPTION
+Analyze and coordinate the ongoing logistical functions of a firm or organization. Responsible for the entire life cycle of a product, including acquisition, distribution, internal allocation, delivery, and final disposal of resources.
+
+# TASKS
+- Maintain and develop positive business relationships with a customer's key personnel involved in, or directly relevant to, a logistics activity.
+- Develop an understanding of customers' needs and take actions to ensure that such needs are met.
+- Manage subcontractor activities, reviewing proposals, developing performance specifications, and serving as liaisons between subcontractors and organizations.
+- Develop proposals that include documentation for estimates.
+- Review logistics performance with customers against targets, benchmarks, and service agreements.
+- Direct availability and allocation of materials, supplies, and finished products.
+- Redesign the movement of goods to maximize value and minimize costs.
+- Explain proposed solutions to customers, management, or other interested parties through written proposals and oral presentations.
+- Direct team activities, establishing task priorities, scheduling and tracking work assignments, providing guidance, and ensuring the availability of resources.
+- Perform managerial duties such as hiring and training employees and overseeing facility needs or requirements.
+- Collaborate with other departments as necessary to meet customer requirements, to take advantage of sales opportunities or, in the case of shortages, to minimize negative impacts on a business.
+- Report project plans, progress, and results.
+- Protect and control proprietary materials.
+- Stay informed of logistics technology advances and apply appropriate technology to improve logistics processes.
+- Develop and implement technical project management tools, such as plans, schedules, and responsibility and compliance matrices.
+- Provide project management services, including the provision and analysis of technical data.
+- Manage the logistical aspects of product life cycles, including coordination or provisioning of samples, and the minimization of obsolescence.
+- Perform system lifecycle cost analysis and develop component studies.
+- Plan, organize, and execute logistics support activities, such as maintenance planning, repair analysis, and test equipment recommendations.
+- Participate in the assessment and review of design alternatives and design change proposal impacts.
+- Direct and support the compilation and analysis of technical source data necessary for product development.
+- Support the development of training materials and technical manuals.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.12/7)
+- Monitoring (Importance: 3.88/5 | Level: 4.62/7)
+- Coordination (Importance: 3.88/5 | Level: 4.25/7)
+- Speaking (Importance: 3.88/5 | Level: 4.0/7)
+- Reading Comprehension (Importance: 3.88/5 | Level: 4.12/7)
+- Active Listening (Importance: 3.88/5 | Level: 4.12/7)
+- Complex Problem Solving (Importance: 3.75/5 | Level: 3.88/7)
+- Social Perceptiveness (Importance: 3.62/5 | Level: 3.62/7)
+- Judgment and Decision Making (Importance: 3.62/5 | Level: 4.0/7)
+- Active Learning (Importance: 3.5/5 | Level: 3.5/7)
+- Systems Analysis (Importance: 3.5/5 | Level: 3.88/7)
+- Time Management (Importance: 3.38/5 | Level: 3.75/7)
+- Writing (Importance: 3.38/5 | Level: 3.75/7)
+- Management of Personnel Resources (Importance: 3.25/5 | Level: 3.75/7)
+- Systems Evaluation (Importance: 3.25/5 | Level: 3.88/7)
+- Negotiation (Importance: 3.25/5 | Level: 3.5/7)
+- Persuasion (Importance: 3.25/5 | Level: 3.62/7)
+- Service Orientation (Importance: 3.25/5 | Level: 3.38/7)
+- Operations Analysis (Importance: 3.12/5 | Level: 4.0/7)
+- Instructing (Importance: 3.12/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 3.5/7)
+- Mathematics (Importance: 3.0/5 | Level: 3.38/7)
+- Management of Material Resources (Importance: 2.88/5 | Level: 2.62/7)
+- Management of Financial Resources (Importance: 2.62/5 | Level: 2.25/7)
+- Quality Control Analysis (Importance: 2.25/5 | Level: 2.25/7)
+- Operations Monitoring (Importance: 2.0/5 | Level: 1.62/7)
+- Programming (Importance: 1.88/5 | Level: 1.75/7)
+- Science (Importance: 1.75/5 | Level: 0.88/7)
+- Technology Design (Importance: 1.75/5 | Level: 0.75/7)
+- Operation and Control (Importance: 1.12/5 | Level: 0.12/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Customer relationship management CRM software (Tech skill type: Customer relationship management CRM software)
+- Enterprise resource planning ERP software (Tech skill type: Enterprise resource planning ERP software)
+- IBM Cognos Impromptu (Tech skill type: Business intelligence and data analysis software)
+- IBM Power Systems software (Tech skill type: Enterprise system management software)
+- Intuit QuickBooks (Tech skill type: Accounting software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Dynamics (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft SQL Server (Tech skill type: Data base user interface and query software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Oracle E-Business Suite (Tech skill type: Enterprise resource planning ERP software)
+- Oracle JD Edwards EnterpriseOne (Tech skill type: Enterprise resource planning ERP software)
+- Oracle Primavera Enterprise Project Portfolio Management (Tech skill type: Project management software)
+- Order management software (Tech skill type: Procurement software)
+- Purchasing software (Tech skill type: Procurement software)
+- Radio frequency identification RFID software (Tech skill type: Inventory management software)
+- RedPrairie E2e (Tech skill type: Materials requirements planning logistics and supply chain software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- SmugMug Flickr (Tech skill type: Graphics or photo imaging software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Warehouse management system WMS (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Desktop computers (Tool type: Desktop computers)
+- Laptop computers (Tool type: Notebook computers)
+- Liquid crystal display LCD video projectors (Tool type: Liquid crystal display projector)
+- Personal computer platforms (Tool type: Personal computers)
+- Personal computers (Tool type: Personal computers)
+- Teradyne Catalyst (Tool type: Semiconductor testers)
+- Teradyne J750 testers (Tool type: Semiconductor testers)
+- Universal serial bus USB flash drives (Tool type: High capacity removable media drives)
+- Workstation platforms (Tool type: Personal computers)

@@ -1,0 +1,120 @@
+Job Title: Transportation Planners
+O*NET-SOC Code: 19-3099.01
+
+# DESCRIPTION
+Prepare studies for proposed transportation projects. Gather, compile, and analyze data. Study the use and operation of transportation systems. Develop transportation models or simulations.
+
+# TASKS
+- Define regional or local transportation planning problems or priorities.
+- Participate in public meetings or hearings to explain planning proposals, to gather feedback from those affected by projects, or to achieve consensus on project designs.
+- Prepare reports or recommendations on transportation planning.
+- Collaborate with engineers to research, analyze, or resolve complex transportation design issues.
+- Recommend transportation system improvements or projects, based on economic, population, land-use, or traffic projections.
+- Develop computer models to address transportation planning issues.
+- Analyze information related to transportation, such as land use policies, environmental impact of projects, or long-range planning needs.
+- Interpret data from traffic modeling software, geographic information systems, or associated databases.
+- Design transportation surveys to identify areas of public concern.
+- Collaborate with other professionals to develop sustainable transportation strategies at the local, regional, or national level.
+- Evaluate transportation project needs or costs.
+- Analyze information from traffic counting programs.
+- Review development plans for transportation system effects, infrastructure requirements, or compliance with applicable transportation regulations.
+- Prepare necessary documents to obtain planned project approvals or permits.
+- Produce environmental documents, such as environmental assessments or environmental impact statements.
+- Prepare or review engineering studies or specifications.
+- Develop or test new methods or models of transportation analysis.
+- Evaluate transportation-related consequences of federal or state legislative proposals.
+- Design new or improved transport infrastructure, such as junction improvements, pedestrian projects, bus facilities, or car parking areas.
+- Define or update information such as urban boundaries or classification of roadways.
+- Direct urban traffic counting programs.
+- Represent jurisdictions in the legislative or administrative approval of land development projects.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Writing (Importance: 4.0/5 | Level: 4.12/7)
+- Complex Problem Solving (Importance: 4.0/5 | Level: 4.12/7)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.25/7)
+- Speaking (Importance: 4.0/5 | Level: 4.12/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.25/7)
+- Active Listening (Importance: 4.0/5 | Level: 4.12/7)
+- Judgment and Decision Making (Importance: 3.88/5 | Level: 4.12/7)
+- Systems Evaluation (Importance: 3.75/5 | Level: 4.12/7)
+- Active Learning (Importance: 3.75/5 | Level: 4.12/7)
+- Coordination (Importance: 3.62/5 | Level: 3.75/7)
+- Systems Analysis (Importance: 3.5/5 | Level: 4.0/7)
+- Mathematics (Importance: 3.38/5 | Level: 4.12/7)
+- Operations Analysis (Importance: 3.25/5 | Level: 3.5/7)
+- Time Management (Importance: 3.25/5 | Level: 3.5/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.5/7)
+- Service Orientation (Importance: 3.0/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 3.0/7)
+- Persuasion (Importance: 3.0/5 | Level: 3.38/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 3.0/7)
+- Negotiation (Importance: 3.0/5 | Level: 3.0/7)
+- Instructing (Importance: 2.88/5 | Level: 2.88/7)
+- Management of Personnel Resources (Importance: 2.75/5 | Level: 2.75/7)
+- Management of Material Resources (Importance: 2.38/5 | Level: 2.25/7)
+- Science (Importance: 2.38/5 | Level: 2.25/7)
+- Programming (Importance: 2.25/5 | Level: 2.12/7)
+- Management of Financial Resources (Importance: 2.12/5 | Level: 2.0/7)
+- Operations Monitoring (Importance: 1.88/5 | Level: 1.75/7)
+- Technology Design (Importance: 1.62/5 | Level: 1.0/7)
+- Operation and Control (Importance: 1.62/5 | Level: 0.88/7)
+- Quality Control Analysis (Importance: 1.5/5 | Level: 0.62/7)
+- Equipment Selection (Importance: 1.12/5 | Level: 0.5/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adobe Acrobat (Tech skill type: Document management software)
+- Adobe Illustrator (Tech skill type: Graphics or photo imaging software)
+- Adobe InDesign (Tech skill type: Desktop publishing software)
+- Adobe Photoshop (Tech skill type: Graphics or photo imaging software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Autodesk AutoCAD Civil 3D (Tech skill type: Computer aided design CAD software)
+- Bentley MicroStation (Tech skill type: Computer aided design CAD software)
+- Caliper TransCAD (Tech skill type: Computer aided design CAD software)
+- Citilabs Cube (Tech skill type: Analytical or scientific software)
+- Crash Mapping Analysis Tool CMAT (Tech skill type: Analytical or scientific software)
+- Dowling Associates TRAFFIX (Tech skill type: Analytical or scientific software)
+- ESRI ArcGIS software (Tech skill type: Geographic information system)
+- ESRI ArcView (Tech skill type: Geographic information system)
+- Geographic information system GIS software (Tech skill type: Geographic information system)
+- Geographic information system GIS systems (Tech skill type: Geographic information system)
+- IBM SPSS Statistics (Tech skill type: Analytical or scientific software)
+- Iteris Turbo Architecture (Tech skill type: Analytical or scientific software)
+- MapInfo (Tech skill type: Map creation software)
+- McTrans Center TSIS-CORSIM (Tech skill type: Analytical or scientific software)
+- McTrans HCS+ (Tech skill type: Analytical or scientific software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft Visual Basic (Tech skill type: Development environment software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Oracle Primavera Enterprise Project Portfolio Management (Tech skill type: Project management software)
+- PTV VISUM (Tech skill type: Analytical or scientific software)
+- Quadstone Paramics (Tech skill type: Analytical or scientific software)
+- Roundabout Delay RODEL (Tech skill type: Analytical or scientific software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- SAS (Tech skill type: Analytical or scientific software)
+- Strong Concepts TEAPAC (Tech skill type: Analytical or scientific software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Texas Transportation Institute TTI Progression Analysis and Signal System Evaluation Routine PASSER (Tech skill type: Analytical or scientific software)
+- Traffic signal software (Tech skill type: Industrial control software)
+- Transportation management system TMS software (Tech skill type: Mobile location based services software)
+- TRL Software TRANSYT (Tech skill type: Analytical or scientific software)
+- Visual Solutions VisSIM (Tech skill type: Analytical or scientific software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Blueprint machines (Tool type: Digital image printers)
+- Desktop computers (Tool type: Desktop computers)
+- Laptop computers (Tool type: Notebook computers)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Multi-line telephone systems (Tool type: Special purpose telephones)
+- Personal computers (Tool type: Personal computers)
+- Photocopying equipment (Tool type: Photocopiers)

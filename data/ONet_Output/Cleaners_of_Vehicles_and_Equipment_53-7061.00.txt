@@ -1,0 +1,100 @@
+Job Title: Cleaners of Vehicles and Equipment
+O*NET-SOC Code: 53-7061.00
+
+# DESCRIPTION
+Wash or otherwise clean vehicles, machinery, and other equipment. Use such materials as water, cleaning agents, brushes, cloths, and hoses.
+
+# TASKS
+- Rinse objects and place them on drying racks or use cloth, squeegees, or air compressors to dry surfaces.
+- Apply paints, dyes, polishes, reconditioners, waxes, or masking materials to vehicles to preserve, protect, or restore color or condition.
+- Clean and polish vehicle windows.
+- Drive vehicles to or from workshops or customers' workplaces or homes.
+- Scrub, scrape, or spray machine parts, equipment, or vehicles, using scrapers, brushes, clothes, cleaners, disinfectants, insecticides, acid, abrasives, vacuums, or hoses.
+- Inspect parts, equipment, or vehicles for cleanliness, damage, and compliance with standards or regulations.
+- Mix cleaning solutions, abrasive compositions, or other compounds, according to formulas.
+- Maintain inventories of supplies.
+- Pre-soak or rinse machine parts, equipment, or vehicles by immersing objects in cleaning solutions or water, manually or using hoists.
+- Turn valves or disconnect hoses to eliminate water, cleaning solutions, or vapors from machinery or tanks.
+- Turn valves or handles on equipment to regulate pressure or flow of water, air, steam, or abrasives from sprayer nozzles.
+- Sweep, shovel, or vacuum loose debris or salvageable scrap into containers and remove containers from work areas.
+- Monitor operation of cleaning machines and stop machines or notify supervisors when malfunctions occur.
+- Press buttons to activate cleaning equipment or machines.
+- Connect hoses or lines to pumps or other equipment.
+- Clean the plastic work inside cars, using paintbrushes.
+- Disassemble and reassemble machines or equipment or remove and reattach vehicle parts or trim, using hand tools.
+- Lubricate machinery, vehicles, or equipment or perform minor repairs or adjustments, using hand tools.
+- Transport materials, equipment, or supplies to or from work areas, using carts or hoists.
+- Fit boot spoilers, side skirts, or mud flaps to cars.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operation and Control (Importance: 3.0/5 | Level: 2.75/7)
+- Quality Control Analysis (Importance: 3.0/5 | Level: 2.75/7)
+- Operations Monitoring (Importance: 2.88/5 | Level: 3.0/7)
+- Monitoring (Importance: 2.75/5 | Level: 2.25/7)
+- Time Management (Importance: 2.75/5 | Level: 2.12/7)
+- Speaking (Importance: 2.62/5 | Level: 1.88/7)
+- Active Listening (Importance: 2.5/5 | Level: 2.0/7)
+- Service Orientation (Importance: 2.38/5 | Level: 1.88/7)
+- Systems Analysis (Importance: 2.25/5 | Level: 1.25/7)
+- Reading Comprehension (Importance: 2.25/5 | Level: 1.88/7)
+- Repairing (Importance: 2.25/5 | Level: 2.0/7)
+- Judgment and Decision Making (Importance: 2.25/5 | Level: 1.75/7)
+- Coordination (Importance: 2.25/5 | Level: 1.88/7)
+- Troubleshooting (Importance: 2.25/5 | Level: 1.88/7)
+- Equipment Selection (Importance: 2.25/5 | Level: 1.88/7)
+- Equipment Maintenance (Importance: 2.25/5 | Level: 2.12/7)
+- Critical Thinking (Importance: 2.25/5 | Level: 2.0/7)
+- Social Perceptiveness (Importance: 2.12/5 | Level: 2.0/7)
+- Complex Problem Solving (Importance: 2.12/5 | Level: 1.62/7)
+- Active Learning (Importance: 2.0/5 | Level: 1.5/7)
+- Negotiation (Importance: 2.0/5 | Level: 1.12/7)
+- Management of Personnel Resources (Importance: 2.0/5 | Level: 1.38/7)
+- Instructing (Importance: 2.0/5 | Level: 1.12/7)
+- Persuasion (Importance: 1.88/5 | Level: 1.0/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.0/7)
+- Learning Strategies (Importance: 1.88/5 | Level: 1.0/7)
+- Writing (Importance: 1.88/5 | Level: 1.12/7)
+- Systems Evaluation (Importance: 1.75/5 | Level: 0.88/7)
+- Mathematics (Importance: 1.62/5 | Level: 0.75/7)
+- Installation (Importance: 1.38/5 | Level: 0.38/7)
+- Operations Analysis (Importance: 1.25/5 | Level: 0.25/7)
+- Science (Importance: 1.25/5 | Level: 0.25/7)
+- Management of Financial Resources (Importance: 1.25/5 | Level: 0.5/7)
+- Technology Design (Importance: 1.25/5 | Level: 0.25/7)
+- Programming (Importance: 1.12/5 | Level: 0.12/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Bella FSM Auto Detailing Service Software (Tech skill type: Data base user interface and query software)
+- BookFresh (Tech skill type: Calendar and scheduling software)
+- Green Cloud KleanTRAC (Tech skill type: Data base user interface and query software)
+- Inventory tracking software (Tech skill type: Inventory management software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Thoughtful Systems Scheduling Manager for Auto Detailing (Tech skill type: Calendar and scheduling software)
+
+## TOOLS USED
+- Air blowers (Tool type: Air dryers)
+- Car polishers (Tool type: Polishing wheels)
+- Car vacuums (Tool type: Vacuum cleaners)
+- Carpet dirt extractors (Tool type: Carpet cleaning equipment)
+- Cleaning scrapers (Tool type: Cleaning scrapers)
+- Dashboard brushes (Tool type: Cleaning brushes)
+- Detail brushes (Tool type: Cleaning brushes)
+- Digital tire pressure gauges (Tool type: Tire pressure gauge)
+- Foam wash guns (Tool type: Pressure or steam cleaners)
+- Gas powered generators (Tool type: Gas generators)
+- Handheld digital thermometers (Tool type: Handheld thermometer)
+- High pressure water hoses (Tool type: Water hoses)
+- Hot air guns (Tool type: Heat guns)
+- Paint thickness gauges (Tool type: Thickness measuring devices)
+- Pneumatic sanders (Tool type: Pneumatic sanding machines)
+- Portable air compressors (Tool type: Air compressors)
+- Power finish buffers (Tool type: Power buffers)
+- Pressure washers (Tool type: Pressure or steam cleaners)
+- Rim and engine brushes (Tool type: Cleaning brushes)
+- Steam cleaners (Tool type: Pressure or steam cleaners)
+- Tire brushes (Tool type: Cleaning brushes)
+- Upholstery cleaning brushes (Tool type: Cleaning brushes)
+- Vehicle hoists (Tool type: Hoists)
+- Vehicle squeegees (Tool type: Squeegees or washers)
+- Vent brushes (Tool type: Cleaning brushes)

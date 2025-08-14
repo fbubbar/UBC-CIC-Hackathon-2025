@@ -1,0 +1,144 @@
+Job Title: Audiologists
+O*NET-SOC Code: 29-1181.00
+
+# DESCRIPTION
+Assess and treat persons with hearing and related disorders. May fit hearing aids and provide auditory training. May perform research related to hearing problems.
+
+# TASKS
+- Maintain patient records at all stages, including initial and subsequent evaluation and treatment activities.
+- Evaluate hearing and balance disorders to determine diagnoses and courses of treatment.
+- Fit, dispense, and repair assistive devices, such as hearing aids.
+- Administer hearing tests and examine patients to collect information on type and degree of impairment, using specialized instruments and electronic equipment.
+- Monitor patients' progress and provide ongoing observation of hearing or balance status.
+- Instruct patients, parents, teachers, or employers in communication strategies to maximize effective receptive communication.
+- Counsel and instruct patients and their families in techniques to improve hearing and communication related to hearing loss.
+- Refer patients to additional medical or educational services, if needed.
+- Participate in conferences or training to update or share knowledge of new hearing or balance disorder treatment methods or technologies.
+- Examine and clean patients' ear canals.
+- Recommend assistive devices according to patients' needs or nature of impairments.
+- Advise educators or other medical staff on hearing or balance topics.
+- Program and monitor cochlear implants to fit the needs of patients.
+- Educate and supervise audiology students and health care personnel.
+- Plan and conduct treatment programs for patients' hearing or balance problems, consulting with educators, physicians, nurses, psychologists, speech-language pathologists, and other health care personnel, as necessary.
+- Work with multidisciplinary teams to assess and rehabilitate recipients of implanted hearing devices through auditory training and counseling.
+- Conduct or direct research on hearing or balance topics and report findings to help in the development of procedures, technology, or treatments.
+- Perform administrative tasks, such as managing office functions and finances.
+- Provide information to the public on hearing or balance topics.
+- Engage in marketing activities, such as developing marketing plans, to promote business for private practices.
+- Measure noise levels in workplaces and conduct hearing conservation programs in industry, military, schools, and communities.
+- Develop and supervise hearing screening programs.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Active Listening (Importance: 4.12/5 | Level: 4.5/7)
+- Reading Comprehension (Importance: 4.12/5 | Level: 5.0/7)
+- Active Learning (Importance: 4.0/5 | Level: 4.38/7)
+- Speaking (Importance: 4.0/5 | Level: 4.38/7)
+- Social Perceptiveness (Importance: 4.0/5 | Level: 4.5/7)
+- Writing (Importance: 4.0/5 | Level: 4.25/7)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.25/7)
+- Judgment and Decision Making (Importance: 3.75/5 | Level: 4.0/7)
+- Monitoring (Importance: 3.75/5 | Level: 4.12/7)
+- Service Orientation (Importance: 3.62/5 | Level: 3.75/7)
+- Complex Problem Solving (Importance: 3.62/5 | Level: 3.88/7)
+- Learning Strategies (Importance: 3.38/5 | Level: 3.88/7)
+- Coordination (Importance: 3.38/5 | Level: 3.5/7)
+- Time Management (Importance: 3.25/5 | Level: 3.0/7)
+- Persuasion (Importance: 3.12/5 | Level: 3.0/7)
+- Systems Analysis (Importance: 3.12/5 | Level: 3.12/7)
+- Instructing (Importance: 3.12/5 | Level: 3.88/7)
+- Systems Evaluation (Importance: 3.12/5 | Level: 3.25/7)
+- Quality Control Analysis (Importance: 3.0/5 | Level: 3.12/7)
+- Science (Importance: 3.0/5 | Level: 3.25/7)
+- Operations Monitoring (Importance: 3.0/5 | Level: 3.0/7)
+- Operations Analysis (Importance: 2.88/5 | Level: 3.0/7)
+- Mathematics (Importance: 2.88/5 | Level: 3.0/7)
+- Management of Personnel Resources (Importance: 2.88/5 | Level: 3.0/7)
+- Negotiation (Importance: 2.88/5 | Level: 2.75/7)
+- Troubleshooting (Importance: 2.12/5 | Level: 2.62/7)
+- Equipment Selection (Importance: 2.12/5 | Level: 2.62/7)
+- Repairing (Importance: 2.12/5 | Level: 2.12/7)
+- Equipment Maintenance (Importance: 2.12/5 | Level: 2.0/7)
+- Operation and Control (Importance: 2.12/5 | Level: 2.12/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.5/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.75/7)
+- Management of Financial Resources (Importance: 1.88/5 | Level: 1.62/7)
+- Programming (Importance: 1.75/5 | Level: 1.0/7)
+- Installation (Importance: 1.25/5 | Level: 0.25/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Abacus Data Solutions HearWare (Tech skill type: Medical software)
+- Bio-logic Systems HINT Pro (Tech skill type: Medical software)
+- Chart Links (Tech skill type: Medical software)
+- Computers Unlimited TIMS for Audiology (Tech skill type: Medical software)
+- Customer relationship management CRM software (Tech skill type: Customer relationship management CRM software)
+- Ear measurement software (Tech skill type: Medical software)
+- Ear Works (Tech skill type: Medical software)
+- eClinicalWorks EHR software (Tech skill type: Medical software)
+- Epic Systems (Tech skill type: Medical software)
+- Etymotic Research QuickSIN (Tech skill type: Medical software)
+- GN Otometrics CHARTR EP (Tech skill type: Medical software)
+- Healthcare common procedure coding system HCPCS (Tech skill type: Medical software)
+- HearForm Software HearForm (Tech skill type: Medical software)
+- Hearing aid fitting software (Tech skill type: Medical software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Operating system software (Tech skill type: Operating system software)
+- Patient management software (Tech skill type: Medical software)
+- Practice management software PMS (Tech skill type: Medical software)
+- Real ear measurement REM software (Tech skill type: Medical software)
+- Siemens Hearing Instruments Practice Navigator (Tech skill type: Medical software)
+- Simply Hearing Software Simply Hearing OMS (Tech skill type: Medical software)
+- Starkey Laboratories ProHear (Tech skill type: Medical software)
+- Sycle practice management software (Tech skill type: Medical software)
+- Vestibular diagnostic software (Tech skill type: Medical software)
+- Vestibular Technologies ScreenTRAK (Tech skill type: Medical software)
+
+## TOOLS USED
+- Audiometers (Tool type: Audiometers)
+- Audiometric test booths (Tool type: Audiometric booths or acoustic hearing test chambers)
+- Auditory brainstem response ABR screening systems (Tool type: Auditory function screening units)
+- Automatic impedance audiometers (Tool type: Audiometers)
+- Biofeedback equipment (Tool type: Electromyography EMG units)
+- Caloric irrigators (Tool type: Auditory function screening units)
+- Computerized rotary chairs (Tool type: Neurological diagnostic sets)
+- Desktop computers (Tool type: Desktop computers)
+- Diagnostic tuning forks (Tool type: Medical tuning forks)
+- Digital light bars (Tool type: Freestanding medical exam lights or lamps)
+- Ear probes (Tool type: Aural probes)
+- Electroacoustic impedance bridges (Tool type: Aural probes)
+- Electrocochleography ECOG equipment (Tool type: Electrocochleographs)
+- Electroneurography equipment (Tool type: Evoked response detectors)
+- Electronystagmographs ENG (Tool type: Audiometric bone vibrators or middle ear analyzers)
+- Headband mounted angular velocity sensors (Tool type: Gyroscopic instruments)
+- Hearing aid analyzers (Tool type: Hearing aid analyzers or test systems)
+- Hearing aid repair drills (Tool type: Power drills)
+- Hearing aid repair grinders (Tool type: Power grinders)
+- Hearing aid test boxes (Tool type: Hearing aid analyzers or test systems)
+- Hearing aids (Tool type: Hearing aid)
+- Impression syringes (Tool type: Medical syringes without needle)
+- Jeweler's screwdrivers (Tool type: Screwdrivers)
+- Laptop computers (Tool type: Notebook computers)
+- Operating microscopes (Tool type: Surgical microscopes or loupes or magnifiers)
+- Otoaucoustic emissions OAE screening systems (Tool type: Auditory function screening units)
+- Otoscopes (Tool type: Ophthalmoscopes or otoscopes or scope sets)
+- Personal computers (Tool type: Personal computers)
+- Portable auditory screeners (Tool type: Auditory function screening units)
+- Portable diagnostic middle ear analyzers (Tool type: Audiometric bone vibrators or middle ear analyzers)
+- Posturography dynamic platforms (Tool type: Mats or platforms for rehabilitation or therapy)
+- Potentiometers (Tool type: Potentiometers)
+- Programmable hearing aids (Tool type: Hearing aid)
+- Sensory organization performance test systems (Tool type: Neurological diagnostic sets)
+- Sound level meters (Tool type: Sound measuring apparatus or decibel meter)
+- Speech mapping systems (Tool type: Auditory function screening units)
+- Tablet computers (Tool type: Tablet computers)
+- Two-channel audiometers (Tool type: Audiometers)
+- Tympanometers (Tool type: Tympanometers)
+- Vestibular Evoked Myogenic Potential VEMP testing equipment (Tool type: Evoked response detectors)
+- Video goggles (Tool type: Digital camcorders or video cameras)
+- Video head impulse testing HIT equipment (Tool type: Neurological diagnostic sets)
+- Video nystagmography testing equipment (Tool type: Nystagmographs)
+- Video otoscopes (Tool type: Ophthalmoscopes or otoscopes or scope sets)

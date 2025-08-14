@@ -1,0 +1,150 @@
+Job Title: Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+O*NET-SOC Code: 51-4034.00
+
+# DESCRIPTION
+Set up, operate, or tend lathe and turning machines to turn, bore, thread, form, or face metal or plastic materials, such as wire, rod, or bar stock.
+
+# TASKS
+- Adjust machine controls and change tool settings to keep dimensions within specified tolerances.
+- Move controls to set cutting speeds and depths and feed rates, and to position tools in relation to workpieces.
+- Study blueprints, layouts or charts, and job orders for information on specifications and tooling instructions, and to determine material requirements and operational sequences.
+- Inspect sample workpieces to verify conformance with specifications, using instruments such as gauges, micrometers, and dial indicators.
+- Replace worn tools, and sharpen dull cutting tools and dies, using bench grinders or cutter-grinding machines.
+- Move toolholders manually or by turning handwheels, or engage automatic feeding mechanisms to feed tools to and along workpieces.
+- Compute unspecified dimensions and machine settings, using knowledge of metal properties and shop mathematics.
+- Crank machines through cycles, stopping to adjust tool positions and machine controls to ensure specified timing, clearances, and tolerances.
+- Position, secure, and align cutting tools in toolholders on machines, using hand tools, and verify their positions with measuring instruments.
+- Start lathe or turning machines and observe operations to ensure that specifications are met.
+- Program computer numerical control machines.
+- Refill, change, and monitor the level of fluids, such as oil and coolant, in machines.
+- Clean work area.
+- Lift metal stock or workpieces manually or using hoists, and position and secure them in machines, using fasteners and hand tools.
+- Install holding fixtures, cams, gears, and stops to control stock and tool movement, using hand tools, power tools, and measuring instruments.
+- Select cutting tools and tooling instructions, according to written specifications or knowledge of metal properties and shop mathematics.
+- Mount attachments, such as relieving or tracing attachments, to perform operations, such as duplicating contours of templates or trimming workpieces.
+- Turn valve handles to direct the flow of coolant onto work areas or to coat disks with spinning compounds.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operations Monitoring (Importance: 3.5/5 | Level: 3.0/7)
+- Operation and Control (Importance: 3.38/5 | Level: 3.0/7)
+- Equipment Maintenance (Importance: 3.0/5 | Level: 2.75/7)
+- Active Listening (Importance: 3.0/5 | Level: 2.88/7)
+- Reading Comprehension (Importance: 3.0/5 | Level: 2.88/7)
+- Quality Control Analysis (Importance: 3.0/5 | Level: 3.25/7)
+- Monitoring (Importance: 3.0/5 | Level: 3.0/7)
+- Judgment and Decision Making (Importance: 2.88/5 | Level: 2.25/7)
+- Speaking (Importance: 2.75/5 | Level: 2.62/7)
+- Time Management (Importance: 2.75/5 | Level: 2.25/7)
+- Complex Problem Solving (Importance: 2.62/5 | Level: 2.75/7)
+- Coordination (Importance: 2.62/5 | Level: 2.62/7)
+- Critical Thinking (Importance: 2.62/5 | Level: 2.75/7)
+- Equipment Selection (Importance: 2.62/5 | Level: 2.12/7)
+- Troubleshooting (Importance: 2.62/5 | Level: 2.75/7)
+- Social Perceptiveness (Importance: 2.5/5 | Level: 2.0/7)
+- Repairing (Importance: 2.25/5 | Level: 2.25/7)
+- Writing (Importance: 2.25/5 | Level: 2.0/7)
+- Instructing (Importance: 2.12/5 | Level: 2.0/7)
+- Mathematics (Importance: 2.12/5 | Level: 2.12/7)
+- Service Orientation (Importance: 2.0/5 | Level: 1.62/7)
+- Learning Strategies (Importance: 2.0/5 | Level: 1.88/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 2.0/7)
+- Systems Analysis (Importance: 2.0/5 | Level: 2.0/7)
+- Active Learning (Importance: 2.0/5 | Level: 2.0/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.0/7)
+- Management of Personnel Resources (Importance: 2.0/5 | Level: 1.88/7)
+- Persuasion (Importance: 2.0/5 | Level: 1.25/7)
+- Negotiation (Importance: 1.88/5 | Level: 1.0/7)
+- Management of Financial Resources (Importance: 1.88/5 | Level: 0.88/7)
+- Programming (Importance: 1.88/5 | Level: 1.0/7)
+- Installation (Importance: 1.88/5 | Level: 1.0/7)
+- Science (Importance: 1.75/5 | Level: 0.75/7)
+- Technology Design (Importance: 1.75/5 | Level: 0.75/7)
+- Operations Analysis (Importance: 1.75/5 | Level: 0.88/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Autodesk HSMWorks (Tech skill type: Industrial control software)
+- Computer numerical control CNC editor software (Tech skill type: Industrial control software)
+- G-code (Tech skill type: Object or component oriented development software)
+- Inventory tracking software (Tech skill type: Inventory management software)
+- M-code (Tech skill type: Object or component oriented development software)
+
+## TOOLS USED
+- 1-2-3 blocks (Tool type: Gage block set)
+- Allen wrench sets (Tool type: Allen wrench)
+- Automatic tool changers (Tool type: Tool holders)
+- Automatic turret lathes (Tool type: Turret lathe)
+- Ball peen hammers (Tool type: Ball peen hammer)
+- Bar feeders (Tool type: Conveyor feeders)
+- Bench grinders (Tool type: Bench grinder)
+- Bevel protractors (Tool type: Protractors)
+- Bore gauges (Tool type: Hole gauge)
+- Boring heads (Tool type: Boring tool)
+- Capstan lathes (Tool type: Turret lathe)
+- Carbide cutting inserts (Tool type: Insert carbide)
+- Center finders (Tool type: Tool template sets)
+- Center-cutting end mills (Tool type: End mills)
+- Coaxial indicators (Tool type: Dial indicator or dial gauge)
+- Combination square sets (Tool type: Combination square)
+- Computer numerically controlled CNC lathes (Tool type: Automatic lathe or chucking machine)
+- Coordinate measuring machines CMM (Tool type: Coordinate measuring machines CMM)
+- Crescent wrenches (Tool type: Adjustable wrenches)
+- Cutoff tools (Tool type: Lathe bit)
+- Dial test indicators (Tool type: Dial indicator or dial gauge)
+- Digital micrometers (Tool type: Micrometers)
+- Digital radius gauges (Tool type: Radius gauge)
+- Drill gauge sets (Tool type: Drill gauge)
+- Electric overhead travelling EOT cranes (Tool type: Overhead crane)
+- Electronic edge finders (Tool type: Tool template sets)
+- Face shields (Tool type: Facial shields)
+- Face/turn tools (Tool type: Lathe bit)
+- Fork trucks (Tool type: Forklifts)
+- Gage blocks (Tool type: Gage block set)
+- Gang-tool lathes (Tool type: Automatic lathe or chucking machine)
+- Go/no go gauge sets (Tool type: Go or no go gauge)
+- Groove tools (Tool type: Lathe bit)
+- Hand taps (Tool type: Threading insert)
+- Height setters (Tool type: Tool template sets)
+- Horizontal lathes (Tool type: Horizontal turning center)
+- Inside digital ID calipers (Tool type: Calipers)
+- Jib hoists (Tool type: Hoists)
+- Lathe chucks (Tool type: Chucks)
+- Lubrication guns (Tool type: Grease guns)
+- Machinists' taper gauges (Tool type: Taper gauge)
+- Mechanical edge finders (Tool type: Tool template sets)
+- Mini hacksaws (Tool type: Hacksaw)
+- Mobile radios (Tool type: Two way radios)
+- Multispindle lathes (Tool type: Automatic lathe or chucking machine)
+- Oil dispensing cans (Tool type: Oil can)
+- Open end hand wrenches (Tool type: Open end wrenches)
+- Outside digital OD calipers (Tool type: Calipers)
+- Parting off tool holders (Tool type: Tool holders)
+- Parting off tools (Tool type: Lathe bit)
+- Plug gauges (Tool type: Go or no go gauge)
+- Power hacksaws (Tool type: Power saws)
+- Precision milling vises (Tool type: Milling vise)
+- Profile projectors (Tool type: Comparators)
+- Protective ear plugs (Tool type: Ear plugs)
+- Protective safety glasses (Tool type: Safety glasses)
+- Push-pull rules (Tool type: Tape measures)
+- Rubber mallets (Tool type: Rubber mallet)
+- Safety gloves (Tool type: Protective gloves)
+- Screw pitch gauge (Tool type: Thread pitch gauge)
+- Sine bars (Tool type: Sine bar)
+- Spanner wrenches (Tool type: Spanner wrenches)
+- Steel rules (Tool type: Rulers)
+- Steel squares (Tool type: Squares)
+- Straight edges (Tool type: Straight edges)
+- Straight screwdrivers (Tool type: Screwdrivers)
+- Surface finish comparators (Tool type: Comparators)
+- Swiss turning centers (Tool type: Automatic lathe or chucking machine)
+- Swiss-style lathes (Tool type: Automatic lathe or chucking machine)
+- T handle tap wrenches (Tool type: T handle tap wrenches)
+- Tapping tools (Tool type: Tapping machine attachment)
+- Threading tools (Tool type: Threading machine attachment)
+- Tool probes (Tool type: Tool template sets)
+- Trammels (Tool type: Compasses)
+- Vernier calipers (Tool type: Calipers)
+- Vernier height gauges (Tool type: Height gauges)
+- Vertical machining centers (Tool type: Vertical machining center)
+- Vertical turning centers (Tool type: Vertical turning center)

@@ -1,0 +1,100 @@
+Job Title: Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders
+O*NET-SOC Code: 51-9012.00
+
+# DESCRIPTION
+Set up, operate, or tend continuous flow or vat-type equipment; filter presses; shaker screens; centrifuges; condenser tubes; precipitating, fermenting, or evaporating tanks; scrubbing towers; or batch stills. These machines extract, sort, or separate liquids, gases, or solids from other materials to recover a refined product. Includes dairy processing equipment operators.
+
+# TASKS
+- Dump, pour, or load specified amounts of refined or unrefined materials into equipment or containers for further processing or storage.
+- Operate machines to process materials in compliance with applicable safety, energy, or environmental regulations.
+- Monitor material flow or instruments, such as temperature or pressure gauges, indicators, or meters, to ensure optimal processing conditions.
+- Turn valves or move controls to admit, drain, separate, filter, clarify, mix, or transfer materials.
+- Set up or adjust machine controls to regulate conditions such as material flow, temperature, or pressure.
+- Examine samples to verify qualities such as clarity, cleanliness, consistency, dryness, or texture.
+- Start agitators, shakers, conveyors, pumps, or centrifuge machines.
+- Inspect machines or equipment for hazards, operating efficiency, malfunctions, wear, or leaks.
+- Collect samples of materials or products for laboratory analysis.
+- Communicate processing instructions to other workers.
+- Turn valves to pump sterilizing solutions or rinse water through pipes or equipment or to spray vats with atomizers.
+- Maintain logs of instrument readings, test results, or shift production for entry in computer databases.
+- Remove clogs, defects, or impurities from machines, tanks, conveyors, screens, or other processing equipment.
+- Clean or sterilize tanks, screens, inflow pipes, production areas, or equipment, using hoses, brushes, scrapers, or chemical solutions.
+- Measure or weigh materials to be refined, mixed, transferred, stored, or otherwise processed.
+- Test samples to determine viscosity, acidity, specific gravity, or degree of concentration, using test equipment such as viscometers, pH meters, or hydrometers.
+- Install, maintain, or repair hoses, pumps, filters, or screens to maintain processing equipment, using hand tools.
+- Connect pipes between vats and processing equipment.
+- Assemble fittings, valves, bowls, plates, disks, impeller shafts, or other parts to prepare equipment for operation.
+- Remove full containers from discharge outlets and replace them with empty containers.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operations Monitoring (Importance: 3.75/5 | Level: 3.75/7)
+- Operation and Control (Importance: 3.12/5 | Level: 3.12/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.12/7)
+- Critical Thinking (Importance: 3.12/5 | Level: 3.0/7)
+- Quality Control Analysis (Importance: 3.12/5 | Level: 2.75/7)
+- Time Management (Importance: 3.0/5 | Level: 2.88/7)
+- Reading Comprehension (Importance: 3.0/5 | Level: 2.88/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 2.75/7)
+- Active Listening (Importance: 3.0/5 | Level: 3.0/7)
+- Troubleshooting (Importance: 2.88/5 | Level: 2.62/7)
+- Speaking (Importance: 2.88/5 | Level: 2.88/7)
+- Repairing (Importance: 2.88/5 | Level: 2.62/7)
+- Active Learning (Importance: 2.88/5 | Level: 2.88/7)
+- Writing (Importance: 2.88/5 | Level: 2.88/7)
+- Complex Problem Solving (Importance: 2.88/5 | Level: 2.88/7)
+- Coordination (Importance: 2.88/5 | Level: 2.88/7)
+- Equipment Maintenance (Importance: 2.88/5 | Level: 2.62/7)
+- Learning Strategies (Importance: 2.75/5 | Level: 2.88/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 2.62/7)
+- Management of Personnel Resources (Importance: 2.75/5 | Level: 2.38/7)
+- Instructing (Importance: 2.62/5 | Level: 2.62/7)
+- Mathematics (Importance: 2.62/5 | Level: 2.62/7)
+- Systems Analysis (Importance: 2.62/5 | Level: 2.5/7)
+- Persuasion (Importance: 2.5/5 | Level: 2.12/7)
+- Science (Importance: 2.5/5 | Level: 2.0/7)
+- Service Orientation (Importance: 2.38/5 | Level: 2.12/7)
+- Equipment Selection (Importance: 2.38/5 | Level: 1.88/7)
+- Negotiation (Importance: 2.12/5 | Level: 2.0/7)
+- Installation (Importance: 2.0/5 | Level: 1.75/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 2.12/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.75/7)
+- Management of Financial Resources (Importance: 1.88/5 | Level: 1.38/7)
+- Technology Design (Importance: 1.88/5 | Level: 0.88/7)
+- Programming (Importance: 1.75/5 | Level: 0.75/7)
+- Operations Analysis (Importance: 1.75/5 | Level: 1.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Email software (Tech skill type: Electronic mail software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Adjustable wrenches (Tool type: Adjustable wrenches)
+- Claw hammers (Tool type: Claw hammer)
+- Colorimeters (Tool type: Colorimeters)
+- Desktop computers (Tool type: Desktop computers)
+- Gauging rods (Tool type: Depth indicators)
+- Graduated burets (Tool type: Laboratory burets)
+- Grease guns (Tool type: Grease guns)
+- Handheld refractometers (Tool type: Handheld refractometers or polarimeters)
+- Hydrometers (Tool type: Hydrometers)
+- Industrial platform scales (Tool type: Floor or platform scales)
+- Locking pliers (Tool type: Locking pliers)
+- Personal computers (Tool type: Personal computers)
+- pH indicators (Tool type: pH meters)
+- Phillips head screwdrivers (Tool type: Screwdrivers)
+- Platform scales (Tool type: Floor or platform scales)
+- Power drills (Tool type: Power drills)
+- Ratchets (Tool type: Ratchets)
+- Remote reading electronic thermometers (Tool type: Remote reading thermometers)
+- Socket wrench sets (Tool type: Socket sets)
+- Straight screwdrivers (Tool type: Screwdrivers)
+- Viscosity meters (Tool type: Viscosimeters)
+- Wire brushes (Tool type: Wire brushes)

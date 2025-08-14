@@ -1,0 +1,112 @@
+Job Title: Conveyor Operators and Tenders
+O*NET-SOC Code: 53-7011.00
+
+# DESCRIPTION
+Control or tend conveyors or conveyor systems that move materials or products to and from stockpiles, processing stations, departments, or vehicles. May control speed and routing of materials or products.
+
+# TASKS
+- Inform supervisors of equipment malfunctions that need to be addressed.
+- Observe conveyor operations and monitor lights, dials, and gauges to maintain specified operating levels and to detect equipment malfunctions.
+- Record production data such as weights, types, quantities, and storage locations of materials, as well as equipment performance problems and downtime.
+- Load, unload, or adjust materials or products on conveyors by hand, by using lifts, hoists, and scoops, or by opening gates, chutes, or hoppers.
+- Stop equipment or machinery and clear jams, using poles, bars, and hand tools, or remove damaged materials from conveyors.
+- Distribute materials, supplies, and equipment to work stations, using lifts and trucks.
+- Observe packages moving along conveyors to identify packages, detect defective packaging, and perform quality control.
+- Collect samples of materials or products, checking them to ensure conformance to specifications or sending them to laboratories for analysis.
+- Position deflector bars, gates, chutes, or spouts to divert flow of materials from one conveyor onto another conveyor.
+- Repair or replace equipment components or parts such as blades, rolls, and pumps.
+- Manipulate controls, levers, and valves to start pumps, auxiliary equipment, or conveyors, and to adjust equipment positions, speeds, timing, and material flows.
+- Weigh or measure materials and products, using scales or other measuring instruments, or read scales on conveyors that continually weigh products, to verify specified tonnages and prevent overloads.
+- Read production and delivery schedules, and confer with supervisors, to determine sorting and transfer procedures, arrangement of packages on pallets, and destinations of loaded pallets.
+- Press console buttons to deflect packages to predetermined accumulators or reject lines.
+- Clean, sterilize, and maintain equipment, machinery, and work stations, using hand tools, shovels, brooms, chemicals, hoses, and lubricants.
+- Affix identifying information to materials or products, using hand tools.
+- Move, assemble, and connect hoses or nozzles to material hoppers, storage tanks, conveyor sections or chutes, and pumps.
+- Thread strapping through strapping tools and secure battens with strapping to form protective pallets around extrusions.
+- Contact workers in work stations or other departments to request movement of materials, products, or machinery, or to notify them of incoming shipments and their estimated delivery times.
+- Join sections of conveyor frames at temporary working areas, and connect power units.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operation and Control (Importance: 4.0/5 | Level: 3.88/7)
+- Operations Monitoring (Importance: 4.0/5 | Level: 4.0/7)
+- Monitoring (Importance: 3.38/5 | Level: 3.12/7)
+- Active Listening (Importance: 3.12/5 | Level: 3.0/7)
+- Complex Problem Solving (Importance: 3.0/5 | Level: 2.75/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 2.88/7)
+- Speaking (Importance: 3.0/5 | Level: 2.88/7)
+- Troubleshooting (Importance: 2.88/5 | Level: 2.75/7)
+- Time Management (Importance: 2.88/5 | Level: 2.88/7)
+- Judgment and Decision Making (Importance: 2.88/5 | Level: 2.75/7)
+- Reading Comprehension (Importance: 2.88/5 | Level: 2.88/7)
+- Quality Control Analysis (Importance: 2.88/5 | Level: 2.62/7)
+- Systems Evaluation (Importance: 2.75/5 | Level: 2.5/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 2.62/7)
+- Service Orientation (Importance: 2.75/5 | Level: 2.25/7)
+- Active Learning (Importance: 2.75/5 | Level: 2.62/7)
+- Writing (Importance: 2.75/5 | Level: 2.75/7)
+- Instructing (Importance: 2.75/5 | Level: 2.75/7)
+- Coordination (Importance: 2.62/5 | Level: 2.88/7)
+- Equipment Maintenance (Importance: 2.62/5 | Level: 2.62/7)
+- Systems Analysis (Importance: 2.62/5 | Level: 2.62/7)
+- Management of Personnel Resources (Importance: 2.5/5 | Level: 2.5/7)
+- Persuasion (Importance: 2.5/5 | Level: 2.12/7)
+- Repairing (Importance: 2.5/5 | Level: 2.5/7)
+- Learning Strategies (Importance: 2.12/5 | Level: 2.0/7)
+- Equipment Selection (Importance: 2.12/5 | Level: 1.88/7)
+- Negotiation (Importance: 2.12/5 | Level: 2.12/7)
+- Mathematics (Importance: 2.0/5 | Level: 1.88/7)
+- Operations Analysis (Importance: 2.0/5 | Level: 1.75/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.12/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.0/7)
+- Science (Importance: 1.75/5 | Level: 1.5/7)
+- Management of Financial Resources (Importance: 1.38/5 | Level: 0.38/7)
+- Programming (Importance: 1.25/5 | Level: 0.25/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Control system software (Tech skill type: Industrial control software)
+- Conveyor control software (Tech skill type: Industrial control software)
+- Intelligrated InControlWare (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Sortation software (Tech skill type: Industrial control software)
+
+## TOOLS USED
+- Automatic palletizing equipment (Tool type: Palletizers)
+- Automobiles (Tool type: Automobiles or cars)
+- Belt conveyors systems (Tool type: Belt conveyors)
+- Boom conveyors (Tool type: Belt conveyors)
+- Chain conveyor systems (Tool type: Chain conveyors)
+- Desktop computers (Tool type: Desktop computers)
+- Digital floor scales (Tool type: Floor or platform scales)
+- Digital video cameras (Tool type: Digital camcorders or video cameras)
+- Electric hoists (Tool type: Hoists)
+- Elevator systems (Tool type: Elevators)
+- Gate pumps (Tool type: Hydraulic pumps)
+- Grain conveyors (Tool type: Screw conveyor)
+- Grease dispensing guns (Tool type: Grease guns)
+- Handheld scanners (Tool type: Bar code reader equipment)
+- Hearing protection plugs (Tool type: Ear plugs)
+- Hoppers (Tool type: Batching plants or feeders)
+- Hydraulic booms (Tool type: Hydraulic truck cranes)
+- Hydraulic lifts (Tool type: Lifts)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Light industrial vans (Tool type: Minivans or vans)
+- Mobile radios (Tool type: Two way radios)
+- Oil dispensing cans (Tool type: Oil can)
+- Pallet jacks (Tool type: Pallet trucks)
+- Pickup trucks (Tool type: Light trucks or sport utility vehicles)
+- Portable power saws (Tool type: Power saws)
+- Precision rulers (Tool type: Rulers)
+- Protective safety glasses (Tool type: Safety glasses)
+- Safety gloves (Tool type: Protective gloves)
+- Scoops (Tool type: Forklift or elevator accessories or supplies)
+- Screw conveyors (Tool type: Screw conveyor)
+- Spot welders (Tool type: Spot welding machine)
+- Strapping tools (Tool type: Restraint straps or buckles or supplies)
+- Sump pumps (Tool type: Sump pumps)
+- Vibrating conveyors (Tool type: Vibrating conveyors)
+- Watering hoses (Tool type: Water hoses)
+- Wheeled forklifts (Tool type: Forklifts)

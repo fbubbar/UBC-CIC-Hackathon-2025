@@ -1,0 +1,134 @@
+Job Title: Urologists
+O*NET-SOC Code: 29-1229.03
+
+# DESCRIPTION
+Diagnose, treat, and help prevent benign and malignant medical and surgical disorders of the genitourinary system and the renal glands.
+
+# TASKS
+- Diagnose or treat diseases or disorders of genitourinary organs and tracts including erectile dysfunction (ED), infertility, incontinence, bladder cancer, prostate cancer, urethral stones, or premature ejaculation.
+- Examine patients using equipment, such as radiograph (x-ray) machines or fluoroscopes, to determine the nature and extent of disorder or injury.
+- Order and interpret the results of diagnostic tests, such as prostate specific antigen (PSA) screening, to detect prostate cancer.
+- Document or review patients' histories.
+- Prescribe or administer antibiotics, antiseptics, or compresses to treat infection or injury.
+- Treat urologic disorders using alternatives to traditional surgery such as extracorporeal shock wave lithotripsy, laparoscopy, or laser techniques.
+- Provide urology consultation to physicians or other health care professionals.
+- Treat lower urinary tract dysfunctions using equipment such as diathermy machines, catheters, cystoscopes, or radium emanation tubes.
+- Direct the work of nurses, residents, or other staff to provide patient care.
+- Perform abdominal, pelvic, or retroperitoneal surgeries.
+- Prescribe medications to treat patients with erectile dysfunction (ED), infertility, or ejaculation problems.
+- Refer patients to specialists when condition exceeds experience, expertise, or scope of practice.
+- Teach or train medical and clinical staff.
+- Perform brachytherapy, cryotherapy, high intensity focused ultrasound (HIFU), or photodynamic therapy to treat prostate or other cancers.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Reading Comprehension (Importance: 4.38/5 | Level: 5.0/7)
+- Judgment and Decision Making (Importance: 4.25/5 | Level: 4.25/7)
+- Critical Thinking (Importance: 4.25/5 | Level: 4.5/7)
+- Writing (Importance: 4.12/5 | Level: 4.12/7)
+- Active Listening (Importance: 4.12/5 | Level: 4.62/7)
+- Complex Problem Solving (Importance: 4.0/5 | Level: 4.25/7)
+- Speaking (Importance: 4.0/5 | Level: 4.0/7)
+- Social Perceptiveness (Importance: 3.88/5 | Level: 3.88/7)
+- Monitoring (Importance: 3.88/5 | Level: 4.0/7)
+- Active Learning (Importance: 3.88/5 | Level: 3.88/7)
+- Science (Importance: 3.62/5 | Level: 3.88/7)
+- Time Management (Importance: 3.62/5 | Level: 3.75/7)
+- Systems Analysis (Importance: 3.5/5 | Level: 3.25/7)
+- Coordination (Importance: 3.38/5 | Level: 3.88/7)
+- Service Orientation (Importance: 3.38/5 | Level: 3.88/7)
+- Systems Evaluation (Importance: 3.25/5 | Level: 3.25/7)
+- Learning Strategies (Importance: 3.12/5 | Level: 3.38/7)
+- Management of Personnel Resources (Importance: 3.12/5 | Level: 3.25/7)
+- Instructing (Importance: 3.12/5 | Level: 4.0/7)
+- Operations Monitoring (Importance: 3.0/5 | Level: 3.0/7)
+- Persuasion (Importance: 3.0/5 | Level: 3.25/7)
+- Negotiation (Importance: 2.88/5 | Level: 3.12/7)
+- Mathematics (Importance: 2.75/5 | Level: 3.0/7)
+- Quality Control Analysis (Importance: 2.5/5 | Level: 2.75/7)
+- Operation and Control (Importance: 2.25/5 | Level: 2.38/7)
+- Management of Material Resources (Importance: 2.12/5 | Level: 1.88/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.88/7)
+- Troubleshooting (Importance: 1.88/5 | Level: 1.62/7)
+- Programming (Importance: 1.62/5 | Level: 0.75/7)
+- Equipment Selection (Importance: 1.5/5 | Level: 0.5/7)
+- Technology Design (Importance: 1.38/5 | Level: 0.5/7)
+- Operations Analysis (Importance: 1.25/5 | Level: 0.5/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Allscripts PM (Tech skill type: Medical software)
+- athenahealth athenaCollector (Tech skill type: Medical software)
+- Automatic Data Processing AdvancedMD EHR (Tech skill type: Medical software)
+- Benchmark Systems Benchmark Clinical EHR (Tech skill type: Medical software)
+- Bizmatics PrognoCIS EMR (Tech skill type: Medical software)
+- CareCloud Central (Tech skill type: Medical software)
+- Cerner PowerWorks Practice Management (Tech skill type: Medical software)
+- eClinicalWorks EHR software (Tech skill type: Medical software)
+- Email software (Tech skill type: Electronic mail software)
+- Epic Practice Management (Tech skill type: Medical software)
+- Epic Systems (Tech skill type: Medical software)
+- GalacTek ECLIPSE (Tech skill type: Medical software)
+- GE Healthcare Centricity Practice Solution (Tech skill type: Medical software)
+- Greenway Medical Technologies PrimeSUITE (Tech skill type: Medical software)
+- HealthFusion MediTouch (Tech skill type: Medical software)
+- Henry Schein Medical Systems MicroMD Urology EMR (Tech skill type: Medical software)
+- IOS Health Systems Medios EHR (Tech skill type: Medical software)
+- Kareo Practice Management (Tech skill type: Medical software)
+- McKesson Practice Plus (Tech skill type: Medical software)
+- MEDITECH software (Tech skill type: Medical software)
+- Meditwatch Portaflow Advanced (Tech skill type: Medical software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Modernizing Medicine Practice Management (Tech skill type: Medical software)
+- Nextech EMR (Tech skill type: Medical software)
+- NextGen Healthcare NextGen Practice Management (Tech skill type: Medical software)
+- simplifyMD (Tech skill type: Medical software)
+- SmugMug Flickr (Tech skill type: Graphics or photo imaging software)
+- Vitera Healthcare Solutions Vitera Intergy (Tech skill type: Medical software)
+- WRSHealth EMR (Tech skill type: Medical software)
+
+## TOOLS USED
+- Automated external defibrillators AED (Tool type: Mobile medical services automated external defibrillators AED or hard paddles)
+- Biofeedback equipment (Tool type: Biofeedback devices)
+- Bladder scanners (Tool type: Medical ultrasound or doppler or pulse echocardiograph or echocardiograph units for general diagnostic use)
+- Catheter forceps (Tool type: Surgical clamps or clips or forceps)
+- Catheter trays (Tool type: Urological procedure trays or packs or kits)
+- Cystoscopes or cystourethroscopes (Tool type: Cystoscopes or cystourethroscopes)
+- Desktop computers (Tool type: Desktop computers)
+- Diagnostic ultrasound scanners (Tool type: Medical ultrasound or doppler or pulse echocardiograph or echocardiograph units for general diagnostic use)
+- Dilator catheters (Tool type: Urethral urinary catheters)
+- Electrocardiography EKG machines (Tool type: Electrocardiography EKG units)
+- Electromyographs EMG (Tool type: Electroencephalograph EEGs)
+- Electrosurgical coagulation units (Tool type: Electrosurgical or electrocautery equipment)
+- Erectile dysfunction analyzers (Tool type: Male impotence gages)
+- Hypodermic syringes (Tool type: Medical syringes with needle)
+- Intracorporeal lithotripters (Tool type: Surgical lithotripters)
+- Laparoscopes (Tool type: Laparoscopes or laparoscopic telescopes)
+- Laptop computers (Tool type: Notebook computers)
+- Optical biopsy forceps (Tool type: Endoscopic clamp or dissector or grasper or forceps)
+- Optical graspers (Tool type: Endoscopic clamp or dissector or grasper or forceps)
+- Prostate treatment lasers (Tool type: Surgical lasers)
+- Pulse oximeters (Tool type: Pulse oximeter units)
+- Renal endoscopes (Tool type: Nephroscopes)
+- Resectoscopes (Tool type: Resectoscopes)
+- Semen analyzers (Tool type: Androgeny and fertility automated counter)
+- Sphygmomanometers (Tool type: Mercury blood pressure units)
+- Stone grasping forceps (Tool type: Endoscopic clamp or dissector or grasper or forceps)
+- Surgical lasers (Tool type: Surgical lasers)
+- Surgical microscopes (Tool type: Surgical microscopes or loupes or magnifiers)
+- Surgical scalpels (Tool type: Surgical scalpels or knives or blades or trephines)
+- Surgical scissors (Tool type: Surgical scissors)
+- Tablet computers (Tool type: Tablet computers)
+- Ultrasonic aspirators (Tool type: Surgical suction machine or vacuum extractor or ultrasonic surgical aspirator)
+- Ultrasonic lithotripters (Tool type: Surgical lithotripters)
+- Ureteroscopes (Tool type: Cystoscopes or cystourethroscopes)
+- Urethrotomes (Tool type: Urethrotomes)
+- Urodynamics analyzers (Tool type: Urinalysis analyzers)
+- Uroflowmeters (Tool type: Flowmeters)
+- Urological sheaths (Tool type: Urological sheaths or sets)
+- Vital signs monitors (Tool type: Multiparameter vital sign units)

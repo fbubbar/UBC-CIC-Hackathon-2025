@@ -1,0 +1,124 @@
+Job Title: Foresters
+O*NET-SOC Code: 19-1032.00
+
+# DESCRIPTION
+Manage public and private forested lands for economic, recreational, and conservation purposes. May inventory the type, amount, and location of standing timber, appraise the timber's worth, negotiate the purchase, and draw up contracts for procurement. May determine how to conserve wildlife habitats, creek beds, water quality, and soil stability, and how best to comply with environmental regulations. May devise plans for planting and growing new trees, monitor trees for healthy growth, and determine optimal harvesting schedules.
+
+# TASKS
+- Monitor contract compliance and results of forestry activities to assure adherence to government regulations.
+- Negotiate terms and conditions of agreements and contracts for forest harvesting, forest management and leasing of forest lands.
+- Plan and implement projects for conservation of wildlife habitats and soil and water quality.
+- Establish short- and long-term plans for management of forest lands and forest resources.
+- Plan cutting programs and manage timber sales from harvested areas, assisting companies to achieve production goals.
+- Determine methods of cutting and removing timber with minimum waste and environmental damage.
+- Perform inspections of forests or forest nurseries.
+- Map forest area soils and vegetation to estimate the amount of standing timber and future value and growth.
+- Monitor forest-cleared lands to ensure that they are reclaimed to their most suitable end use.
+- Develop techniques for measuring and identifying trees.
+- Supervise activities of other forestry workers.
+- Plan and direct forest surveys and related studies and prepare reports and recommendations.
+- Provide advice and recommendations, as a consultant on forestry issues, to private woodlot owners, firefighters, government agencies or to companies.
+- Plan and supervise forestry projects, such as determining the type, number and placement of trees to be planted, managing tree nurseries, thinning forest and monitoring growth of new seedlings.
+- Choose and prepare sites for new trees, using controlled burning, bulldozers, or herbicides to clear weeds, brush, and logging debris.
+- Procure timber from private landowners.
+- Subcontract with loggers or pulpwood cutters for tree removal and to aid in road layout.
+- Direct, and participate in, forest fire suppression.
+- Study different tree species' classification, life history, light and soil requirements, adaptation to new environmental conditions and resistance to disease and insects.
+- Analyze effect of forest conditions on tree growth rates and tree species prevalence and the yield, duration, seed production, growth viability, and germination of different species.
+- Plan and direct construction and maintenance of recreation facilities, fire towers, trails, roads and bridges, ensuring that they comply with guidelines and regulations set for forested public lands.
+- Conduct public educational programs on forest care and conservation.
+- Monitor wildlife populations and assess the impacts of forest operations on population and habitats.
+- Contact local forest owners and gain permission to take inventory of the type, amount, and location of all standing timber on the property.
+- Develop new techniques for wood or residue use.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Active Listening (Importance: 4.0/5 | Level: 4.0/7)
+- Complex Problem Solving (Importance: 3.88/5 | Level: 4.12/7)
+- Critical Thinking (Importance: 3.88/5 | Level: 4.0/7)
+- Speaking (Importance: 3.88/5 | Level: 4.0/7)
+- Reading Comprehension (Importance: 3.88/5 | Level: 4.0/7)
+- Writing (Importance: 3.75/5 | Level: 4.12/7)
+- Monitoring (Importance: 3.75/5 | Level: 4.0/7)
+- Judgment and Decision Making (Importance: 3.75/5 | Level: 4.12/7)
+- Systems Evaluation (Importance: 3.62/5 | Level: 3.75/7)
+- Systems Analysis (Importance: 3.62/5 | Level: 4.0/7)
+- Coordination (Importance: 3.5/5 | Level: 3.88/7)
+- Time Management (Importance: 3.5/5 | Level: 3.75/7)
+- Social Perceptiveness (Importance: 3.25/5 | Level: 3.25/7)
+- Negotiation (Importance: 3.25/5 | Level: 3.75/7)
+- Persuasion (Importance: 3.12/5 | Level: 3.38/7)
+- Active Learning (Importance: 3.12/5 | Level: 3.88/7)
+- Management of Personnel Resources (Importance: 3.12/5 | Level: 3.5/7)
+- Management of Material Resources (Importance: 3.12/5 | Level: 2.88/7)
+- Instructing (Importance: 3.0/5 | Level: 3.0/7)
+- Operations Monitoring (Importance: 3.0/5 | Level: 3.0/7)
+- Service Orientation (Importance: 3.0/5 | Level: 3.12/7)
+- Mathematics (Importance: 2.88/5 | Level: 3.62/7)
+- Learning Strategies (Importance: 2.88/5 | Level: 2.88/7)
+- Operation and Control (Importance: 2.88/5 | Level: 3.0/7)
+- Management of Financial Resources (Importance: 2.88/5 | Level: 2.5/7)
+- Operations Analysis (Importance: 2.88/5 | Level: 2.88/7)
+- Science (Importance: 2.75/5 | Level: 3.0/7)
+- Quality Control Analysis (Importance: 2.5/5 | Level: 2.25/7)
+- Equipment Selection (Importance: 2.12/5 | Level: 1.62/7)
+- Technology Design (Importance: 2.12/5 | Level: 1.88/7)
+- Troubleshooting (Importance: 2.0/5 | Level: 1.5/7)
+- Repairing (Importance: 1.62/5 | Level: 0.88/7)
+- Equipment Maintenance (Importance: 1.62/5 | Level: 1.0/7)
+- Programming (Importance: 1.5/5 | Level: 0.75/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- ESRI ArcGIS software (Tech skill type: Geographic information system)
+- ESRI ArcView (Tech skill type: Geographic information system)
+- Forest Metrix (Tech skill type: Inventory management software)
+- Forest vegetation simulators (Tech skill type: Analytical or scientific software)
+- Forest yield software (Tech skill type: Analytical or scientific software)
+- Fountains Forestry TwoDog (Tech skill type: Inventory management software)
+- Geographic information system GIS software (Tech skill type: Geographic information system)
+- Geographic information system GIS systems (Tech skill type: Geographic information system)
+- Global positioning system GPS software (Tech skill type: Mobile location based services software)
+- IBM Notes (Tech skill type: Electronic mail software)
+- Mapping software (Tech skill type: Map creation software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Active Server Pages ASP (Tech skill type: Web platform development software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- SMART service management and route tracking software (Tech skill type: Data base user interface and query software)
+- Trimble CENGEA (Tech skill type: Enterprise resource planning ERP software)
+- Web browser software (Tech skill type: Internet browser software)
+- Work scheduling software (Tech skill type: Calendar and scheduling software)
+
+## TOOLS USED
+- All-terrain vehicles ATV (Tool type: All terrain vehicles tracked or wheeled)
+- Backpack sprayers (Tool type: Sprayers)
+- Brush chippers (Tool type: Power chippers)
+- Bucket trucks (Tool type: Articulating boom lift)
+- Chainsaws (Tool type: Chain saw)
+- Computer data input scanners (Tool type: Scanners)
+- Computer laser printers (Tool type: Laser printers)
+- Digital clinometers (Tool type: Clinometers)
+- Forestry axes (Tool type: Axes)
+- Four wheel drive 4WD vehicles (Tool type: All terrain vehicles tracked or wheeled)
+- Global positioning system GPS devices (Tool type: Global positioning system GPS receiver)
+- Hand pruners (Tool type: Secateurs or pruning shears)
+- Hand saws (Tool type: Saws)
+- Handheld dataloggers (Tool type: Portable data input terminals)
+- Hip chains (Tool type: Tape measures)
+- Laptop computers (Tool type: Notebook computers)
+- Multipurpose front end loaders (Tool type: Front end loaders)
+- Multipurpose skid steer loaders (Tool type: Skid steer loaders)
+- Navigational compasses (Tool type: Direction finding compasses)
+- Personal computers (Tool type: Personal computers)
+- Pole pruners (Tool type: High branch shears)
+- Power loppers (Tool type: Lopper)
+- Power pruners (Tool type: Garden chainsaw)
+- Steel measuring tapes (Tool type: Measuring tapes)
+- Stump grinders (Tool type: Power grinders)
+- Tablet computers (Tool type: Tablet computers)
+- Tree scale sticks (Tool type: Measuring rods)
+- Weed sprayers (Tool type: Sprayers)

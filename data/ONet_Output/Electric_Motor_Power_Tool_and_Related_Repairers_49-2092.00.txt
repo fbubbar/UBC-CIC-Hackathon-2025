@@ -1,0 +1,181 @@
+Job Title: Electric Motor, Power Tool, and Related Repairers
+O*NET-SOC Code: 49-2092.00
+
+# DESCRIPTION
+Repair, maintain, or install electric motors, wiring, or switches.
+
+# TASKS
+- Inspect and test equipment to locate damage or worn parts and diagnose malfunctions, or read work orders or schematic drawings to determine required repairs.
+- Reassemble repaired electric motors to specified requirements and ratings, using hand tools and electrical meters.
+- Measure velocity, horsepower, revolutions per minute (rpm), amperage, circuitry, and voltage of units or parts to diagnose problems, using ammeters, voltmeters, wattmeters, and other testing devices.
+- Repair and rebuild defective mechanical parts in electric motors, generators, and related equipment, using hand tools and power tools.
+- Lift units or parts such as motors or generators, using cranes or chain hoists, or signal crane operators to lift heavy parts or subassemblies.
+- Record repairs required, parts used, and labor time.
+- Disassemble defective equipment so that repairs can be made, using hand tools.
+- Adjust working parts, such as fan belts, contacts, and springs, using hand tools and gauges.
+- Lubricate moving parts.
+- Read service guides to find information needed to perform repairs.
+- Inspect electrical connections, wiring, relays, charging resistance boxes, and storage batteries, following wiring diagrams.
+- Scrape and clean units or parts, using cleaning solvents and equipment such as buffing wheels.
+- Weld, braze, or solder electrical connections.
+- Verify and adjust alignments and dimensions of parts, using gauges and tracing lathes.
+- Steam-clean polishing and buffing wheels to remove abrasives and bonding materials, and spray, brush, or recoat surfaces as necessary.
+- Set machinery for proper performance, using computers.
+- Test equipment for overheating, using speed gauges and thermometers.
+- Reface, ream, and polish commutators and machine parts to specified tolerances, using machine tools.
+- Maintain stocks of parts.
+- Cut and form insulation, and insert insulation into armature, rotor, or stator slots.
+- Assemble electrical parts such as alternators, generators, starting devices, and switches, following schematic drawings and using hand, machine, and power tools.
+- Solder, wrap, and coat wires to ensure proper insulation.
+- Rewire electrical systems, and repair or replace electrical accessories.
+- Clean cells, cell assemblies, glassware, leads, electrical connections, and battery poles, using scrapers, steam, water, emery cloths, power grinders, or acid.
+- Rewind coils on cores in slots, or make replacement coils, using coil-winding machines.
+- Remove and replace defective parts such as coil leads, carbon brushes, and wires, using soldering equipment.
+- Hammer out dents and twists in tools and equipment.
+- Seal joints with putty, mortar, and asbestos, using putty extruders and knives.
+- Repair and operate battery-charging equipment.
+- Sharpen tools such as saws, picks, shovels, screwdrivers, and scoops, either manually or by using bench grinders and emery wheels.
+- Test battery charges, and replace or recharge batteries as necessary.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Repairing (Importance: 4.12/5 | Level: 4.0/7)
+- Troubleshooting (Importance: 3.88/5 | Level: 3.88/7)
+- Equipment Maintenance (Importance: 3.88/5 | Level: 3.75/7)
+- Critical Thinking (Importance: 3.75/5 | Level: 3.38/7)
+- Equipment Selection (Importance: 3.75/5 | Level: 3.0/7)
+- Quality Control Analysis (Importance: 3.75/5 | Level: 3.62/7)
+- Complex Problem Solving (Importance: 3.62/5 | Level: 3.0/7)
+- Operations Monitoring (Importance: 3.5/5 | Level: 3.38/7)
+- Operation and Control (Importance: 3.25/5 | Level: 3.0/7)
+- Active Listening (Importance: 3.12/5 | Level: 3.0/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 3.0/7)
+- Installation (Importance: 3.0/5 | Level: 2.88/7)
+- Systems Analysis (Importance: 3.0/5 | Level: 2.88/7)
+- Speaking (Importance: 3.0/5 | Level: 3.0/7)
+- Reading Comprehension (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 2.88/5 | Level: 2.88/7)
+- Active Learning (Importance: 2.88/5 | Level: 3.12/7)
+- Writing (Importance: 2.88/5 | Level: 2.75/7)
+- Monitoring (Importance: 2.88/5 | Level: 3.12/7)
+- Coordination (Importance: 2.88/5 | Level: 2.88/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 2.75/7)
+- Systems Evaluation (Importance: 2.75/5 | Level: 2.75/7)
+- Learning Strategies (Importance: 2.75/5 | Level: 2.75/7)
+- Service Orientation (Importance: 2.75/5 | Level: 2.75/7)
+- Mathematics (Importance: 2.62/5 | Level: 2.75/7)
+- Instructing (Importance: 2.5/5 | Level: 2.88/7)
+- Persuasion (Importance: 2.5/5 | Level: 2.38/7)
+- Management of Personnel Resources (Importance: 2.38/5 | Level: 2.25/7)
+- Negotiation (Importance: 2.25/5 | Level: 1.75/7)
+- Management of Material Resources (Importance: 2.12/5 | Level: 1.75/7)
+- Science (Importance: 2.12/5 | Level: 2.12/7)
+- Management of Financial Resources (Importance: 1.88/5 | Level: 1.75/7)
+- Programming (Importance: 1.75/5 | Level: 0.88/7)
+- Technology Design (Importance: 1.75/5 | Level: 1.25/7)
+- Operations Analysis (Importance: 1.62/5 | Level: 1.25/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Commutator profiling software (Tech skill type: Analytical or scientific software)
+- Computerized maintenance management system CMMS (Tech skill type: Facilities management software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Motor testing software (Tech skill type: Analytical or scientific software)
+- Python (Tech skill type: Object or component oriented development software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+
+## TOOLS USED
+- Abrasive blasting machines (Tool type: Shot blasting machine)
+- Adjustable hand wrenches (Tool type: Adjustable wrenches)
+- Air grinders (Tool type: Pneumatic grinders)
+- Alignment lasers (Tool type: Laser measuring systems)
+- Analog ohmmeters (Tool type: Ohmmeters)
+- Arbor presses (Tool type: Manual press brake)
+- Armature air gap gauges (Tool type: Feeler gauges)
+- Armature winders (Tool type: Electrical coil winding machine)
+- Automatic wire strippers (Tool type: Stripping tools)
+- Bake ovens (Tool type: Heat treating age hardening furnace)
+- Bar-to-bar testers (Tool type: Armature tester)
+- Bearing puller sets (Tool type: Bearing fitting tool kits)
+- Bearing setting tools (Tool type: Bearing fitting tool kits)
+- Bench ammeters (Tool type: Ammeters)
+- Bench grinders (Tool type: Bench grinder)
+- Bench voltmeters (Tool type: Voltage or current meters)
+- Brazing machines (Tool type: Braze welding machine)
+- Cabinet-tip screwdrivers (Tool type: Screwdrivers)
+- Cable cutters (Tool type: Wire or cable cutter)
+- Carburetor synchronizers (Tool type: Carburetor balancer)
+- Chamfer mills (Tool type: Chamfering machine)
+- Clamp ammeters (Tool type: Ammeters)
+- Clamp voltmeters (Tool type: Voltage or current meters)
+- Coil cut-off machines (Tool type: Sawing and cut-off machine)
+- Commutator grinders (Tool type: Grinders)
+- Commutator undercutters (Tool type: Angle grinder)
+- Conduit-fitting and reaming screwdrivers (Tool type: Screwdrivers)
+- Cordless soldering irons (Tool type: Soldering iron)
+- Core-loss testers (Tool type: Var meter)
+- Dead blow hammers (Tool type: Rubber mallet)
+- Diagonal-cutting pliers (Tool type: Diagonal cut pliers)
+- Digital multimeters (Tool type: Multimeters)
+- Digital ohmmeters (Tool type: Ohmmeters)
+- Digital oscilloscopes (Tool type: Oscilloscopes)
+- Digital tachometers (Tool type: Tachometers)
+- Dip tanks (Tool type: Dip tanks)
+- Dry ice blasters (Tool type: Shot blasting machine)
+- Electric coil winders (Tool type: Electrical coil winding machine)
+- Electric welders (Tool type: Alternating current AC arc welder)
+- Electricians' knives (Tool type: Pocket knives)
+- Electro-brush platers (Tool type: Electrolytic bath machine)
+- Forklift trucks (Tool type: Forklifts)
+- Gas welders (Tool type: Plasma arc welding machine)
+- Growler armature testers (Tool type: Growler tester)
+- Hand saws (Tool type: Saws)
+- Handheld power grinders (Tool type: Power grinders)
+- Handheld wire strippers (Tool type: Stripping tools)
+- Hydraulic wire crimpers (Tool type: Hydraulic hand crimp tool)
+- Insulation resistance testers (Tool type: Insulation resistance meters)
+- Insulation trimmers (Tool type: Cutters)
+- Keystone-tip screwdrivers (Tool type: Screwdrivers)
+- Knurling tool attachments (Tool type: Knurling tool)
+- Lamination tooth straighteners (Tool type: Manual wire straighteners)
+- Light emitting diode LED voltage tester (Tool type: Voltage or current meters)
+- Longnosed pliers (Tool type: Longnose pliers)
+- Measuring tapes (Tool type: Tape measures)
+- Meggers (Tool type: Megohmmeters)
+- Neon voltage testers (Tool type: Voltage or current meters)
+- Nut wrenches (Tool type: Nut drivers)
+- Nylon hammers (Tool type: Rubber mallet)
+- Paint booths (Tool type: Paint application system)
+- Parts washers (Tool type: Aqueous cleaning and washing equipment)
+- Personal computers (Tool type: Personal computers)
+- Phase rotation indicators (Tool type: Phasemeters)
+- Portable vibration testers (Tool type: Vibration testers)
+- Power dynamometers (Tool type: Dynamometers)
+- Pump pliers (Tool type: Adjustable widemouth pliers)
+- Rawhide mallets (Tool type: Mallets)
+- Repairman's stethoscopes (Tool type: Sound detector)
+- Rubber-grip hacksaws (Tool type: Hacksaw)
+- Series solenoid voltage testers (Tool type: Voltage or current meters)
+- Side cutting pliers (Tool type: End cut pliers)
+- Slot cleaning brushes (Tool type: Wire brushes)
+- Slot shavers (Tool type: Chamfering machine)
+- Square-recess tip screwdrivers (Tool type: Screwdrivers)
+- Surge testers (Tool type: Voltage or current meters)
+- Tablet computers (Tool type: Tablet computers)
+- Thermal cameras (Tool type: Thermal imager)
+- Threaders (Tool type: Threading machine)
+- Torpedo levels (Tool type: Levels)
+- Twin wheel wire strippers (Tool type: Stripping tools)
+- Utility knives (Tool type: Utility knives)
+- Vacuum impregnators (Tool type: Vacuum impregnation or porosity sealing device)
+- Vibration analyzers (Tool type: Vibration testers)
+- Volt-ammeters (Tool type: Ammeters)
+- Wedge drivers (Tool type: Wedges)
+- Winder's shears (Tool type: Shears)
+- Winding testers (Tool type: Armature tester)
+- Wire cutters (Tool type: Wire cutters)

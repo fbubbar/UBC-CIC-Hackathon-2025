@@ -1,0 +1,142 @@
+Job Title: Supply Chain Managers
+O*NET-SOC Code: 11-3071.04
+
+# DESCRIPTION
+Direct or coordinate production, purchasing, warehousing, distribution, or financial forecasting services or activities to limit costs and improve accuracy, customer service, or safety. Examine existing procedures or opportunities for streamlining activities to meet product distribution needs. Direct the movement, storage, or processing of inventory.
+
+# TASKS
+- Determine appropriate equipment and staffing levels to load, unload, move, or store materials.
+- Manage activities related to strategic or tactical purchasing, material requirements planning, controlling inventory, warehousing, or receiving.
+- Select transportation routes to maximize economy by combining shipments or consolidating warehousing and distribution.
+- Define performance metrics for measurement, comparison, or evaluation of supply chain factors, such as product cost or quality.
+- Implement new or improved supply chain processes to improve efficiency or performance.
+- Develop procedures for coordination of supply chain management with other functional areas, such as sales, marketing, finance, production, or quality assurance.
+- Confer with supply chain planners to forecast demand or create supply plans that ensure availability of materials or products.
+- Analyze inventories to determine how to increase inventory turns, reduce waste, or optimize customer service.
+- Negotiate prices and terms with suppliers, vendors, or freight forwarders.
+- Analyze information about supplier performance or procurement program success.
+- Monitor suppliers' activities to assess performance in meeting quality or delivery requirements.
+- Design or implement supply chains that support business strategies adapted to changing market conditions, new business opportunities, or cost reduction strategies.
+- Meet with suppliers to discuss performance metrics, to provide performance feedback, or to discuss production forecasts or changes.
+- Monitor forecasts and quotas to identify changes and predict effects on supply chain activities.
+- Participate in the coordination of engineering changes, product line extensions, or new product launches to ensure orderly and timely transitions in material or production flow.
+- Identify or qualify new suppliers in collaboration with other departments, such as procurement, engineering, or quality assurance.
+- Design or implement plant warehousing strategies for production materials or finished products.
+- Design, implement, or oversee product take back or reverse logistics programs to ensure products are recycled, reused, or responsibly disposed.
+- Develop or implement procedures or systems to evaluate or select suppliers.
+- Document physical supply chain processes, such as workflows, cycle times, position responsibilities, or system flows.
+- Diagram supply chain models to help facilitate discussions with customers.
+- Evaluate and select information or other technology solutions to improve tracking and reporting of materials or products distribution, storage, or inventory.
+- Identify opportunities to reuse or recycle materials to minimize consumption of new materials, minimize waste, or to convert wastes to by-products.
+- Review or update supply chain practices in accordance with new or changing environmental policies, standards, regulations, or laws.
+- Design or implement supply chains that support environmental policies.
+- Forecast material costs or develop standard cost lists.
+- Locate or select biodegradable, non-toxic, or other environmentally friendly raw materials for manufacturing processes.
+- Appraise vendor manufacturing capabilities through on-site observations or other measurements.
+- Conduct or oversee the conduct of life cycle analyses to determine the environmental impacts of products, processes, or systems.
+- Investigate or review the carbon footprints and environmental performance records of current or potential storage and distribution service providers.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Monitoring (Importance: 4.0/5 | Level: 4.12/7)
+- Coordination (Importance: 4.0/5 | Level: 4.0/7)
+- Time Management (Importance: 4.0/5 | Level: 4.0/7)
+- Speaking (Importance: 4.0/5 | Level: 4.0/7)
+- Judgment and Decision Making (Importance: 4.0/5 | Level: 4.0/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.0/7)
+- Active Listening (Importance: 4.0/5 | Level: 4.0/7)
+- Writing (Importance: 3.88/5 | Level: 4.0/7)
+- Complex Problem Solving (Importance: 3.88/5 | Level: 4.0/7)
+- Critical Thinking (Importance: 3.88/5 | Level: 4.0/7)
+- Systems Evaluation (Importance: 3.88/5 | Level: 3.88/7)
+- Systems Analysis (Importance: 3.75/5 | Level: 3.75/7)
+- Social Perceptiveness (Importance: 3.75/5 | Level: 3.88/7)
+- Negotiation (Importance: 3.75/5 | Level: 3.75/7)
+- Active Learning (Importance: 3.75/5 | Level: 3.75/7)
+- Management of Material Resources (Importance: 3.75/5 | Level: 3.75/7)
+- Persuasion (Importance: 3.62/5 | Level: 3.62/7)
+- Management of Personnel Resources (Importance: 3.25/5 | Level: 3.88/7)
+- Service Orientation (Importance: 3.12/5 | Level: 3.12/7)
+- Instructing (Importance: 3.12/5 | Level: 3.25/7)
+- Mathematics (Importance: 3.0/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 3.25/7)
+- Management of Financial Resources (Importance: 2.88/5 | Level: 3.0/7)
+- Operations Analysis (Importance: 2.5/5 | Level: 2.38/7)
+- Operations Monitoring (Importance: 2.25/5 | Level: 1.88/7)
+- Technology Design (Importance: 2.12/5 | Level: 1.38/7)
+- Quality Control Analysis (Importance: 2.0/5 | Level: 1.62/7)
+- Programming (Importance: 1.62/5 | Level: 0.88/7)
+- Troubleshooting (Importance: 1.62/5 | Level: 0.88/7)
+- Science (Importance: 1.12/5 | Level: 0.38/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Operation and Control (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adexa Supply Chain Planning (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Advanced business application programming ABAP (Tech skill type: Object or component oriented development software)
+- Aldata Warehouse Management (Tech skill type: Materials requirements planning logistics and supply chain software)
+- CDC Supply Chain (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Dex Warehouse (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Epicor SRM (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Epicor WMS (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Graphics software (Tech skill type: Graphics or photo imaging software)
+- HighJump Software Supply Chain Advantage (Tech skill type: Materials requirements planning logistics and supply chain software)
+- HighJump Warehouse Advantage (Tech skill type: Materials requirements planning logistics and supply chain software)
+- i2 Collaborative Supply Execution (Tech skill type: Materials requirements planning logistics and supply chain software)
+- i2 Intelligence (Tech skill type: Materials requirements planning logistics and supply chain software)
+- i2 Supply Chain Visibility (Tech skill type: Materials requirements planning logistics and supply chain software)
+- IBM ILOG Inventory Analyst (Tech skill type: Inventory management software)
+- IBM ILOG LogicNet Plus XE (Tech skill type: Materials requirements planning logistics and supply chain software)
+- IBS MRP (Tech skill type: Materials requirements planning logistics and supply chain software)
+- IBS Supply Chain Management (Tech skill type: Materials requirements planning logistics and supply chain software)
+- IFS Applications for Supply Chain Management (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Infor Lawson Supply Chain Management (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Infor SCM (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Inventory management systems (Tech skill type: Inventory management software)
+- JDA Master Planning (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Lawson S3 Supply Chain Management (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Manhattan Scale (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Manhattan Supply Chain Process Platform (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Master scheduling software (Tech skill type: Calendar and scheduling software)
+- MEDITECH software (Tech skill type: Medical software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Dynamics (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Dynamics AX (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft SQL Server (Tech skill type: Data base user interface and query software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Minitab (Tech skill type: Analytical or scientific software)
+- NetSuite ERP (Tech skill type: Enterprise resource planning ERP software)
+- Oracle E-Business Suite Financials (Tech skill type: Financial analysis software)
+- Oracle e-Business Suite Supply Chain Management (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Oracle Hyperion (Tech skill type: Enterprise resource planning ERP software)
+- Oracle Inventory (Tech skill type: Inventory management software)
+- Oracle JD Edwards EnterpriseOne (Tech skill type: Enterprise resource planning ERP software)
+- Oracle PeopleSoft (Tech skill type: Enterprise resource planning ERP software)
+- Purchasing software (Tech skill type: Procurement software)
+- QAD Adaptive ERP (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Red Prarie Warehouse Management (Tech skill type: Materials requirements planning logistics and supply chain software)
+- SAP APO (Tech skill type: Analytical or scientific software)
+- SAP business and customer relations management software (Tech skill type: Enterprise resource planning ERP software)
+- SAP BusinessObjects Crystal Reports (Tech skill type: Data base reporting software)
+- SAP SCM (Tech skill type: Materials requirements planning logistics and supply chain software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Simulation and modeling software (Tech skill type: Analytical or scientific software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Swisslog WarehouseManager (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Warehouse management system WMS (Tech skill type: Materials requirements planning logistics and supply chain software)
+
+## TOOLS USED
+- Laptop computers (Tool type: Notebook computers)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Personal computers (Tool type: Personal computers)
+- Radio frequency identification RFID scanners (Tool type: Radio frequency scanners)

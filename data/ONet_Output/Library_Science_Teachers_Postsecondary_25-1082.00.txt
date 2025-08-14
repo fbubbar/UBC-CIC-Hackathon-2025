@@ -1,0 +1,161 @@
+Job Title: Library Science Teachers, Postsecondary
+O*NET-SOC Code: 25-1082.00
+
+# DESCRIPTION
+Teach courses in library science. Includes both teachers primarily engaged in teaching and those who do a combination of teaching and research.
+
+# TASKS
+- Conduct research in a particular field of knowledge and present findings in professional journals, books, electronic media, or at professional conferences.
+- Evaluate and grade students' class work, assignments, and papers.
+- Keep abreast of developments in the field by reading current literature, talking with colleagues, giving presentations at conferences, and serving on committees in professional associations.
+- Prepare and deliver lectures to undergraduate or graduate students on topics such as collection development, archival methods, and indexing and abstracting.
+- Prepare course materials, such as syllabi, homework assignments, and handouts.
+- Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.
+- Initiate, facilitate, and moderate classroom discussions.
+- Compile, administer, and grade examinations, or assign this work to others.
+- Maintain student attendance records, grades, and other required records.
+- Advise students on academic and vocational curricula and on career issues.
+- Select and obtain materials and supplies, such as textbooks.
+- Supervise undergraduate or graduate teaching, internship, and research work.
+- Develop and teach online courses.
+- Collaborate with colleagues to address teaching and research issues.
+- Compile bibliographies of specialized materials for outside reading assignments.
+- Edit manuscripts for professional journals.
+- Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.
+- Maintain regularly scheduled office hours to advise and assist students.
+- Write grant proposals to procure external research funding.
+- Perform administrative duties, such as serving as department head.
+- Participate in student recruitment, registration, and placement activities.
+- Participate in campus and community events.
+- Act as advisers to student organizations.
+- Select and invite guest speakers to speak to classes.
+- Provide professional consulting services to government or industry.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Instructing (Importance: 4.25/5 | Level: 4.12/7)
+- Speaking (Importance: 4.12/5 | Level: 4.75/7)
+- Reading Comprehension (Importance: 4.12/5 | Level: 5.0/7)
+- Active Learning (Importance: 4.0/5 | Level: 4.38/7)
+- Active Listening (Importance: 4.0/5 | Level: 4.62/7)
+- Monitoring (Importance: 4.0/5 | Level: 4.12/7)
+- Learning Strategies (Importance: 4.0/5 | Level: 4.38/7)
+- Writing (Importance: 4.0/5 | Level: 4.75/7)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.12/7)
+- Complex Problem Solving (Importance: 3.62/5 | Level: 3.75/7)
+- Social Perceptiveness (Importance: 3.25/5 | Level: 3.62/7)
+- Judgment and Decision Making (Importance: 3.25/5 | Level: 3.75/7)
+- Systems Analysis (Importance: 3.12/5 | Level: 3.38/7)
+- Systems Evaluation (Importance: 3.12/5 | Level: 3.38/7)
+- Coordination (Importance: 3.12/5 | Level: 3.25/7)
+- Service Orientation (Importance: 3.0/5 | Level: 2.88/7)
+- Time Management (Importance: 3.0/5 | Level: 3.5/7)
+- Management of Personnel Resources (Importance: 2.88/5 | Level: 2.88/7)
+- Persuasion (Importance: 2.75/5 | Level: 2.75/7)
+- Negotiation (Importance: 2.62/5 | Level: 2.62/7)
+- Mathematics (Importance: 2.25/5 | Level: 2.25/7)
+- Science (Importance: 2.12/5 | Level: 2.12/7)
+- Operations Analysis (Importance: 2.0/5 | Level: 1.62/7)
+- Technology Design (Importance: 1.75/5 | Level: 0.75/7)
+- Programming (Importance: 1.75/5 | Level: 0.75/7)
+- Management of Material Resources (Importance: 1.75/5 | Level: 1.38/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 1.25/7)
+- Quality Control Analysis (Importance: 1.62/5 | Level: 0.75/7)
+- Operations Monitoring (Importance: 1.5/5 | Level: 0.5/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Operation and Control (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Amazon Elastic Compute Cloud EC2 (Tech skill type: Data base user interface and query software)
+- Association for Computing Machinery Digital Library (Tech skill type: Data base user interface and query software)
+- Blackboard Learn (Tech skill type: Computer based training software)
+- C++ (Tech skill type: Object or component oriented development software)
+- Calendar and scheduling software (Tech skill type: Calendar and scheduling software)
+- Collaborative editing software (Tech skill type: Word processing software)
+- Course management system software (Tech skill type: Computer based training software)
+- Customer relationship management CRM software (Tech skill type: Customer relationship management CRM software)
+- Database management system software (Tech skill type: Data base management system software)
+- Desire2Learn LMS software (Tech skill type: Computer based training software)
+- DOC Cop (Tech skill type: Information retrieval or search software)
+- EBSCO Information Services Academic Search Premier (Tech skill type: Library software)
+- EBSCO Information Services Library Literature and Information Science Index (Tech skill type: Library software)
+- EBSCO Library, Information Science, and Technology Abstracts LISTSA (Tech skill type: Library software)
+- EBSCO OmniFile FullText Mega (Tech skill type: Library software)
+- Elsevier ScienceDirect (Tech skill type: Library software)
+- Email software (Tech skill type: Electronic mail software)
+- Emerald Insight Emerald Management Xtra (Tech skill type: Library software)
+- Enterprise resource planning ERP software (Tech skill type: Enterprise resource planning ERP software)
+- Extensible markup language XML (Tech skill type: Enterprise application integration software)
+- Extensible stylesheet language transformations XSLT (Tech skill type: Web platform development software)
+- Gale Cengage Learning Associations Unlimited (Tech skill type: Data base user interface and query software)
+- Google Docs (Tech skill type: Word processing software)
+- Hyland OnBase Enterprise Content Management (Tech skill type: Document management software)
+- Image scanning software (Tech skill type: Optical character reader OCR or scanning software)
+- iParadigms Turnitin (Tech skill type: Information retrieval or search software)
+- ITHAKA JSTOR (Tech skill type: Library software)
+- JavaScript (Tech skill type: Web platform development software)
+- Learning management system LMS (Tech skill type: Computer based training software)
+- LexisNexis (Tech skill type: Information retrieval or search software)
+- Library of Congress online databases (Tech skill type: Library software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft Word (Tech skill type: Word processing software)
+- MySQL (Tech skill type: Data base user interface and query software)
+- OCLC ILLiad (Tech skill type: Library software)
+- Online Dictionary for Library and Information Science ODLIS (Tech skill type: Library software)
+- PHP (Tech skill type: Web platform development software)
+- ProQuest ABI/INFORM Global (Tech skill type: Library software)
+- ProQuest ERIC (Tech skill type: Library software)
+- ProQuest Library and Information Science Abstracts LISA (Tech skill type: Library software)
+- Sakai CLE (Tech skill type: Computer based training software)
+- Social networking platforms (Tech skill type: Web page creation and editing software)
+- Splunk Enterprise (Tech skill type: Cloud-based management software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Thomson Reuters Web of Science (Tech skill type: Library software)
+- Ulrichsweb (Tech skill type: Library software)
+- Web browser software (Tech skill type: Internet browser software)
+- Web conferencing software (Tech skill type: Video conferencing software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Carousel slide projectors (Tool type: Slide projectors)
+- Compact digital cameras (Tool type: Digital cameras)
+- Compact disk CD players (Tool type: Compact disk players or recorders)
+- Computer data input scanners (Tool type: Scanners)
+- Computer laser printers (Tool type: Laser printers)
+- Computer projectors (Tool type: Multimedia projectors)
+- Conference telephones (Tool type: Teleconference equipment)
+- Desktop computers (Tool type: Desktop computers)
+- Digital calculators (Tool type: Scientific calculator)
+- Digital video cameras (Tool type: Digital camcorders or video cameras)
+- Digital video disk DVD players (Tool type: Digital video disk players or recorders)
+- Handheld microphones (Tool type: Microphones)
+- Interactive whiteboard controllers (Tool type: Portable data input terminals)
+- Interactive whiteboards (Tool type: Touch screen monitors)
+- Laptop computers (Tool type: Notebook computers)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Liquid crystal display LCD projectors (Tool type: Liquid crystal display projector)
+- Liquid crystal display LCD televisions (Tool type: Televisions)
+- Microphone podiums (Tool type: Microphone stand)
+- MP3 digital voice recorders (Tool type: MP3 players or recorders)
+- Multi-line telephone systems (Tool type: Special purpose telephones)
+- Multimedia projection equipment (Tool type: Multimedia projectors)
+- Opaque projectors (Tool type: Epidiascopes)
+- Overhead data projectors (Tool type: Overhead projectors)
+- Photocopying equipment (Tool type: Photocopiers)
+- Poster printers (Tool type: Inkjet printers)
+- Projector screens (Tool type: Projection screens or displays)
+- Student response systems (Tool type: Portable data input terminals)
+- Tablet computers (Tool type: Tablet computers)
+- Television monitors (Tool type: Televisions)
+- Universal serial bus USB flash drives (Tool type: High capacity removable media drives)
+- Videoconferencing equipment (Tool type: Videoconferencing systems)
+- Webcams (Tool type: Web cameras)
+- Wireless microphones (Tool type: Microphones)

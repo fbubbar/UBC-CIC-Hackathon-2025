@@ -1,0 +1,116 @@
+Job Title: Transportation Engineers
+O*NET-SOC Code: 17-2051.01
+
+# DESCRIPTION
+Develop plans for surface transportation projects, according to established engineering standards and state or federal construction policy. Prepare designs, specifications, or estimates for transportation facilities. Plan modifications of existing streets, highways, or freeways to improve traffic flow.
+
+# TASKS
+- Design or prepare plans for new transportation systems or parts of systems, such as airports, commuter trains, highways, streets, bridges, drainage structures, or roadway lighting.
+- Check construction plans, design calculations, or cost estimations to ensure completeness, accuracy, or conformity to engineering standards or practices.
+- Prepare administrative, technical, or statistical reports on traffic-operation matters, such as accidents, safety measures, or pedestrian volume or practices.
+- Plan alteration or modification of existing transportation structures to improve safety or function.
+- Confer with contractors, utility companies, or government agencies to discuss plans, specifications, or work schedules.
+- Present data, maps, or other information at construction-related public hearings or meetings.
+- Prepare final project layout drawings that include details such as stress calculations.
+- Investigate traffic problems and recommend methods to improve traffic flow or safety.
+- Estimate transportation project costs.
+- Design or engineer drainage, erosion, or sedimentation control systems for transportation projects.
+- Evaluate traffic control devices or lighting systems to determine need for modification or expansion.
+- Prepare project budgets, schedules, or specifications for labor or materials.
+- Inspect completed transportation projects to ensure safety or compliance with applicable standards or regulations.
+- Review development plans to determine potential traffic impact.
+- Evaluate transportation systems or traffic control devices or lighting systems to determine need for modification or expansion.
+- Analyze environmental impact statements for transportation projects.
+- Supervise the maintenance or repair of transportation systems or system components.
+- Model transportation scenarios to evaluate the impacts of activities such as new development or to identify possible solutions to transportation problems.
+- Inspect completed transportation projects to ensure compliance with environmental regulations.
+- Participate in contract bidding, negotiation, or administration.
+- Evaluate construction project materials for compliance with environmental standards.
+- Direct the surveying, staking, or laying-out of construction projects.
+- Design transportation systems or structures with sustainable materials or products, such as porous pavement or bioretention structures.
+- Investigate or test specific construction project materials to determine compliance to specifications or standards.
+- Develop or assist in the development of transportation-related computer software or computer processes.
+- Develop plans to deconstruct damaged or obsolete roadways or other transportation structures in a manner that is environmentally sound or prepares the land for sustainable development.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Writing (Importance: 4.0/5 | Level: 4.12/7)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.0/7)
+- Speaking (Importance: 4.0/5 | Level: 4.12/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.38/7)
+- Mathematics (Importance: 3.88/5 | Level: 4.62/7)
+- Complex Problem Solving (Importance: 3.88/5 | Level: 4.38/7)
+- Time Management (Importance: 3.88/5 | Level: 3.88/7)
+- Judgment and Decision Making (Importance: 3.88/5 | Level: 4.25/7)
+- Systems Evaluation (Importance: 3.75/5 | Level: 3.88/7)
+- Systems Analysis (Importance: 3.75/5 | Level: 3.75/7)
+- Active Listening (Importance: 3.75/5 | Level: 4.0/7)
+- Coordination (Importance: 3.62/5 | Level: 3.75/7)
+- Operations Analysis (Importance: 3.38/5 | Level: 3.88/7)
+- Monitoring (Importance: 3.25/5 | Level: 3.75/7)
+- Active Learning (Importance: 3.25/5 | Level: 3.88/7)
+- Management of Personnel Resources (Importance: 3.25/5 | Level: 3.88/7)
+- Learning Strategies (Importance: 3.12/5 | Level: 3.0/7)
+- Negotiation (Importance: 3.12/5 | Level: 3.12/7)
+- Persuasion (Importance: 3.12/5 | Level: 3.62/7)
+- Instructing (Importance: 3.0/5 | Level: 3.0/7)
+- Service Orientation (Importance: 3.0/5 | Level: 3.0/7)
+- Science (Importance: 3.0/5 | Level: 3.25/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 3.0/7)
+- Management of Material Resources (Importance: 2.88/5 | Level: 3.0/7)
+- Management of Financial Resources (Importance: 2.75/5 | Level: 3.75/7)
+- Technology Design (Importance: 2.75/5 | Level: 2.75/7)
+- Quality Control Analysis (Importance: 2.62/5 | Level: 2.62/7)
+- Operations Monitoring (Importance: 2.0/5 | Level: 2.0/7)
+- Troubleshooting (Importance: 2.0/5 | Level: 2.0/7)
+- Operation and Control (Importance: 2.0/5 | Level: 1.25/7)
+- Programming (Importance: 1.88/5 | Level: 2.12/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Autodesk AutoCAD Civil 3D (Tech skill type: Computer aided design CAD software)
+- Autodesk Land Desktop (Tech skill type: Computer aided design CAD software)
+- Bentley GEOPAK Civil Engineering Suite (Tech skill type: Computer aided design CAD software)
+- Bentley InRoads Suite (Tech skill type: Computer aided design CAD software)
+- Bentley MicroStation (Tech skill type: Computer aided design CAD software)
+- Citilabs Cube (Tech skill type: Analytical or scientific software)
+- Computer aided design and drafting software CADD (Tech skill type: Computer aided design CAD software)
+- Cubic Synchro Studio (Tech skill type: Analytical or scientific software)
+- ESRI ArcGIS software (Tech skill type: Geographic information system)
+- McTrans Center TSIS-CORSIM (Tech skill type: Analytical or scientific software)
+- McTrans HCS+ (Tech skill type: Analytical or scientific software)
+- McTrans TRANSYT-7F (Tech skill type: Analytical or scientific software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft Word (Tech skill type: Word processing software)
+- OpenRoads Designer (Tech skill type: Computer aided design CAD software)
+- Oracle Primavera Enterprise Project Portfolio Management (Tech skill type: Project management software)
+- PTV Vissim (Tech skill type: Analytical or scientific software)
+- Python (Tech skill type: Object or component oriented development software)
+- SIDRA INTERSECTION (Tech skill type: Analytical or scientific software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Trafficware SimTraffic (Tech skill type: Computer aided design CAD software)
+- Trafficware SynchroGreen (Tech skill type: Analytical or scientific software)
+- Transoft Solutions AutoTURN (Tech skill type: Computer aided design CAD software)
+- Visual Solutions VisSIM (Tech skill type: Analytical or scientific software)
+- Warehouse management system WMS (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Web browser software (Tech skill type: Internet browser software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Computer laser printers (Tool type: Laser printers)
+- Desktop computers (Tool type: Desktop computers)
+- Digital cameras (Tool type: Digital cameras)
+- Laptop computers (Tool type: Notebook computers)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Mobile radios (Tool type: Two way radios)
+- Multi-line telephone systems (Tool type: Special purpose telephones)
+- Personal computers (Tool type: Personal computers)
+- Photocopying equipment (Tool type: Photocopiers)

@@ -1,0 +1,42 @@
+Job Title: Lighting Technicians
+O*NET-SOC Code: 27-4015.00
+
+# DESCRIPTION
+Set up, maintain, and dismantle light fixtures, lighting control devices, and the associated lighting electrical and rigging equipment used for photography, television, film, video, and live productions. May focus or operate light fixtures, or attach color filters or other lighting accessories.
+
+# TASKS
+- Assess safety of wiring or equipment set-up to determine the risk of fire or electrical shock.
+- Consult with lighting director or production staff to determine lighting requirements.
+- Disassemble and store equipment after performances.
+- Install color effects or image patterns, such as color filters, onto lighting fixtures.
+- Install electrical cables or wire fixtures.
+- Load, unload, or position lighting equipment.
+- Match light fixture settings, such as brightness and color, to lighting design plans.
+- Notify supervisors when major lighting equipment repairs are needed.
+- Operate manual or automated systems to control lighting throughout productions.
+- Patch or wire lights to dimmers or other electronic consoles.
+- Perform minor repairs or routine maintenance on lighting equipment, such as replacing lamps or damaged color filters.
+- Program lighting consoles or load automated lighting control systems onto consoles.
+- Set up and focus light fixtures to meet requirements of television, theater, concerts, or other productions.
+- Set up scaffolding or cranes to assist with setting up of lighting equipment.
+- Test lighting equipment function and desired lighting effects.
+- Visit and assess structural and electrical layout of locations before setting up lighting equipment.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- No specific skills listed.
+
+# TECHNOLOGY SKILLS & TOOLS
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- FileMaker Pro (Tech skill type: Data base user interface and query software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Internet Explorer (Tech skill type: Internet browser software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Programmable logic controller PLC software (Tech skill type: Industrial control software)
+- Rockwell RSLogix (Tech skill type: Program testing software)
+- SAP Maintenance (Tech skill type: Enterprise resource planning ERP software)
+- No specific tools listed.

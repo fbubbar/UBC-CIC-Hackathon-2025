@@ -1,0 +1,131 @@
+Job Title: Allergists and Immunologists
+O*NET-SOC Code: 29-1229.01
+
+# DESCRIPTION
+Diagnose, treat, and help prevent allergic diseases and disease processes affecting the immune system.
+
+# TASKS
+- Diagnose or treat allergic or immunologic conditions.
+- Educate patients about diagnoses, prognoses, or treatments.
+- Order or perform diagnostic tests such as skin pricks and intradermal, patch, or delayed hypersensitivity tests.
+- Prescribe medication such as antihistamines, antibiotics, and nasal, oral, topical, or inhaled glucocorticosteroids.
+- Interpret diagnostic test results to make appropriate differential diagnoses.
+- Document patients' medical histories.
+- Develop individualized treatment plans for patients, considering patient preferences, clinical data, or the risks and benefits of therapies.
+- Provide therapies, such as allergen immunotherapy or immunoglobin therapy, to treat immune conditions.
+- Conduct physical examinations of patients.
+- Assess the risks and benefits of therapies for allergic and immunologic disorders.
+- Coordinate the care of patients with other health care professionals or support staff.
+- Perform allergen provocation tests such as nasal, conjunctival, bronchial, oral, food, or medication challenges.
+- Engage in self-directed learning and continuing education activities.
+- Provide allergy or immunology consultation or education to physicians or other health care providers.
+- Conduct laboratory or clinical research on allergy or immunology topics.
+- Present research findings at national meetings or in peer-reviewed journals.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Reading Comprehension (Importance: 4.5/5 | Level: 4.75/7)
+- Writing (Importance: 4.12/5 | Level: 4.25/7)
+- Judgment and Decision Making (Importance: 4.12/5 | Level: 4.5/7)
+- Critical Thinking (Importance: 4.12/5 | Level: 4.12/7)
+- Active Listening (Importance: 4.12/5 | Level: 4.0/7)
+- Speaking (Importance: 4.0/5 | Level: 4.0/7)
+- Monitoring (Importance: 4.0/5 | Level: 4.12/7)
+- Active Learning (Importance: 4.0/5 | Level: 4.62/7)
+- Complex Problem Solving (Importance: 4.0/5 | Level: 4.12/7)
+- Science (Importance: 3.88/5 | Level: 3.88/7)
+- Social Perceptiveness (Importance: 3.75/5 | Level: 4.12/7)
+- Time Management (Importance: 3.75/5 | Level: 3.75/7)
+- Service Orientation (Importance: 3.75/5 | Level: 3.75/7)
+- Learning Strategies (Importance: 3.62/5 | Level: 3.75/7)
+- Instructing (Importance: 3.5/5 | Level: 3.62/7)
+- Systems Analysis (Importance: 3.25/5 | Level: 3.12/7)
+- Systems Evaluation (Importance: 3.12/5 | Level: 3.75/7)
+- Negotiation (Importance: 3.0/5 | Level: 3.0/7)
+- Persuasion (Importance: 3.0/5 | Level: 3.62/7)
+- Coordination (Importance: 3.0/5 | Level: 3.5/7)
+- Management of Personnel Resources (Importance: 2.88/5 | Level: 2.88/7)
+- Mathematics (Importance: 2.75/5 | Level: 3.0/7)
+- Operations Monitoring (Importance: 2.12/5 | Level: 1.88/7)
+- Management of Material Resources (Importance: 2.12/5 | Level: 2.12/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.75/7)
+- Quality Control Analysis (Importance: 1.88/5 | Level: 1.62/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.12/7)
+- Troubleshooting (Importance: 1.5/5 | Level: 0.5/7)
+- Programming (Importance: 1.5/5 | Level: 0.75/7)
+- Operations Analysis (Importance: 1.38/5 | Level: 0.5/7)
+- Equipment Selection (Importance: 1.38/5 | Level: 0.5/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Operation and Control (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Allscripts PM (Tech skill type: Medical software)
+- athenahealth athenaCollector (Tech skill type: Medical software)
+- Automatic Data Processing AdvancedMD EHR (Tech skill type: Medical software)
+- Benchmark Systems Benchmark Clinical EHR (Tech skill type: Medical software)
+- Bizmatics PrognoCIS EMR (Tech skill type: Medical software)
+- CareCloud Central (Tech skill type: Medical software)
+- Cerner PowerWorks Practice Management (Tech skill type: Medical software)
+- Crowell Systems Medformix (Tech skill type: Medical software)
+- eClinicalWorks EHR software (Tech skill type: Medical software)
+- Electronic Medical Records and Electronic Health Records Software IMS for Allergists (Tech skill type: Medical software)
+- Email software (Tech skill type: Electronic mail software)
+- Epic Practice Management (Tech skill type: Medical software)
+- FlowJo (Tech skill type: Analytical or scientific software)
+- GalacTek ECLIPSE (Tech skill type: Medical software)
+- GE Healthcare Centricity Practice Solution (Tech skill type: Medical software)
+- GraphPad Software GraphPad Prism (Tech skill type: Analytical or scientific software)
+- Greenway Medical Technologies PrimeSUITE (Tech skill type: Medical software)
+- HealthFusion MediTouch (Tech skill type: Medical software)
+- IOS Health Systems Medios EHR (Tech skill type: Medical software)
+- Kareo Practice Management (Tech skill type: Medical software)
+- McKesson Practice Plus (Tech skill type: Medical software)
+- Meditab Software AllergyEHR (Tech skill type: Medical software)
+- Microscope imaging software (Tech skill type: Analytical or scientific software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Modernizing Medicine Practice Management (Tech skill type: Medical software)
+- ModuleMD Allergy Module (Tech skill type: Medical software)
+- Molecular Devices Softmax Pro (Tech skill type: Analytical or scientific software)
+- Mountainside Software Allergy Lab (Tech skill type: Medical software)
+- NextGen Healthcare NextGen Practice Management (Tech skill type: Medical software)
+- Patient management software (Tech skill type: Medical software)
+- Rosch Visionary Systems Visionary Allergy Tracker (Tech skill type: Medical software)
+- simplifyMD (Tech skill type: Medical software)
+- Vitera Healthcare Solutions Vitera Intergy (Tech skill type: Medical software)
+- Word processing software (Tech skill type: Word processing software)
+- WRSHealth EMR (Tech skill type: Medical software)
+
+## TOOLS USED
+- Automated external defibrillators AED (Tool type: Mobile medical services automated external defibrillators AED or hard paddles)
+- Desktop computers (Tool type: Desktop computers)
+- Digital medical thermometers (Tool type: Electronic medical thermometers)
+- Digital spirometers (Tool type: Spirometers)
+- Electrocardiography EKG machines (Tool type: Electrocardiography EKG units)
+- Flow cytometry equipment (Tool type: Microbiology analyzers)
+- Hypodermic syringes (Tool type: Medical syringes with needle)
+- Immunoassay analyzers (Tool type: Immunology analyzers)
+- Intravenous IV equipment (Tool type: Intravenous tubing with catheter administration kits)
+- Intravenous IV infusion pumps (Tool type: Intravenous infusion pumps for general use)
+- Laryngoscopes (Tool type: Intubation laryngoscopes)
+- Laser scanning confocal microscopes (Tool type: Scanning light or spinning disk or laser scanning microscopes)
+- Magill forceps (Tool type: Intubation forceps)
+- Mechanical stethoscopes (Tool type: Medical acoustic stethoscopes)
+- Medical suction pumps (Tool type: Medical or surgical suction or vacuum appliances)
+- Ophthalmoscopes (Tool type: Ophthalmoscopes or otoscopes or scope sets)
+- Otoscopes (Tool type: Ophthalmoscopes or otoscopes or scope sets)
+- Oxygen cylinders (Tool type: Medical gas cylinders or related devices)
+- Oxygen delivery concentrators (Tool type: Oxygen concentrators)
+- Peak flow meters (Tool type: Peak flowmeters)
+- Phototherapy units (Tool type: Visible light radiators)
+- Portable nebulizers (Tool type: Nebulizers)
+- Pulse oximeters (Tool type: Pulse oximeter units)
+- Sphygmomanometers (Tool type: Mercury blood pressure units)
+- Surgical scissors (Tool type: Surgical scissors)
+- Tablet computers (Tool type: Tablet computers)
+- Ultrasound imaging scanners (Tool type: Medical ultrasound or doppler or pulse echocardiograph or echocardiograph units for general diagnostic use)

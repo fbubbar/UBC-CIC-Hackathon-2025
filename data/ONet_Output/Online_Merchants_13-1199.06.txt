@@ -1,0 +1,168 @@
+Job Title: Online Merchants
+O*NET-SOC Code: 13-1199.06
+
+# DESCRIPTION
+Conduct retail activities of businesses operating exclusively online. May perform duties such as preparing business strategies, buying merchandise, managing inventory, implementing marketing activities, fulfilling and shipping online orders, and balancing financial records.
+
+# TASKS
+- Fill customer orders by packaging sold items and documentation for direct shipping or by transferring orders to manufacturers or third-party distributors.
+- Receive and process payments from customers, using electronic transaction services.
+- Create, manage, or automate orders or invoices, using order management or invoicing software.
+- Deliver e-mail confirmation of completed transactions and shipment.
+- Correspond with online customers via electronic mail, telephone, or other electronic messaging to address questions or complaints about products, policies, or shipping methods.
+- Purchase new or used items from online or physical sources for resale via retail or auction Web site.
+- Determine and set product prices.
+- Calculate purchase subtotals, taxes, and shipping costs for submission to customers.
+- Compose descriptions of merchandise for posting to online storefront, auction sites, or other shopping Web sites.
+- Compose images of products, using video or still cameras, lighting equipment, props, or photo or video editing software.
+- Upload digital media, such as photos, video, or scanned images to online storefront, auction sites, or other shopping Web sites.
+- Calculate revenue, sales, and expenses, using financial accounting or spreadsheet software.
+- Cancel orders based on customer requests or inventory or delivery problems.
+- Prepare or organize online storefront marketing material, including product descriptions or subject lines, optimizing content to search engine criteria.
+- Order or purchase merchandise to maintain optimal inventory levels.
+- Determine location for product listings to maximize exposure to online traffic.
+- Create or maintain database of customer accounts.
+- Promote products in online communities through weblog or discussion-forum postings, e-mail marketing programs, or online advertising.
+- Collaborate with search engine shopping specialists to place marketing content in desired online locations.
+- Investigate products or markets to determine areas for opportunity or viability for merchandising specific products, using online or offline sources.
+- Maintain inventory of shipping supplies, such as boxes, labels, tape, bubble wrap, loose packing materials, or tape guns.
+- Measure and analyze Web site usage data to maximize search engine returns or refine customer interfaces.
+- Develop or revise business plans for online business, emphasizing factors such as product line, pricing, inventory, or marketing strategy.
+- Disclose merchant information and terms and policies of transactions in online or offline materials.
+- Design customer interface of online storefront, using web programming or e-commerce software.
+- Select and purchase technical web services, such as web hosting services, online merchant accounts, shopping cart software, payment gateway software, or spyware.
+- Transfer digital media, such as music, video, or software, to customers via the Internet.
+- Devise, select, or purchase domain name and web address.
+- Initiate online auctions through auction hosting sites or auction management software.
+- Implement security practices to preserve assets, minimize liabilities, or ensure customer privacy, using parallel servers, hardware redundancy, fail-safe technology, information encryption, or firewalls.
+- Investigate sources, such as auctions, estate sales, liquidators, wholesalers, or trade shows for new items, used items, or collectibles.
+- Participate in online forums or conferences to stay abreast of online retailing trends, techniques, or security threats.
+- Integrate online retailing strategy with physical or catalogue retailing operations.
+- Create or distribute offline promotional material, such as brochures, pamphlets, business cards, stationary, or signage.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Reading Comprehension (Importance: 3.62/5 | Level: 3.75/7)
+- Critical Thinking (Importance: 3.5/5 | Level: 3.88/7)
+- Speaking (Importance: 3.5/5 | Level: 3.38/7)
+- Active Listening (Importance: 3.5/5 | Level: 3.62/7)
+- Writing (Importance: 3.38/5 | Level: 3.25/7)
+- Service Orientation (Importance: 3.38/5 | Level: 3.25/7)
+- Persuasion (Importance: 3.38/5 | Level: 3.12/7)
+- Judgment and Decision Making (Importance: 3.25/5 | Level: 3.25/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.62/7)
+- Social Perceptiveness (Importance: 3.12/5 | Level: 2.75/7)
+- Negotiation (Importance: 3.12/5 | Level: 3.12/7)
+- Complex Problem Solving (Importance: 3.0/5 | Level: 3.0/7)
+- Coordination (Importance: 3.0/5 | Level: 2.88/7)
+- Mathematics (Importance: 3.0/5 | Level: 3.12/7)
+- Time Management (Importance: 2.88/5 | Level: 2.62/7)
+- Active Learning (Importance: 2.88/5 | Level: 3.12/7)
+- Management of Financial Resources (Importance: 2.88/5 | Level: 3.38/7)
+- Management of Material Resources (Importance: 2.75/5 | Level: 2.88/7)
+- Management of Personnel Resources (Importance: 2.62/5 | Level: 2.5/7)
+- Systems Analysis (Importance: 2.62/5 | Level: 2.38/7)
+- Systems Evaluation (Importance: 2.62/5 | Level: 3.0/7)
+- Programming (Importance: 2.38/5 | Level: 1.75/7)
+- Learning Strategies (Importance: 2.38/5 | Level: 2.5/7)
+- Instructing (Importance: 2.25/5 | Level: 2.62/7)
+- Operations Analysis (Importance: 2.0/5 | Level: 1.5/7)
+- Operations Monitoring (Importance: 1.88/5 | Level: 1.38/7)
+- Technology Design (Importance: 1.75/5 | Level: 1.12/7)
+- Quality Control Analysis (Importance: 1.62/5 | Level: 1.12/7)
+- Science (Importance: 1.25/5 | Level: 0.25/7)
+- Equipment Selection (Importance: 1.25/5 | Level: 0.75/7)
+- Repairing (Importance: 1.25/5 | Level: 0.25/7)
+- Operation and Control (Importance: 1.25/5 | Level: 0.25/7)
+- Installation (Importance: 1.12/5 | Level: 0.12/7)
+- Troubleshooting (Importance: 1.12/5 | Level: 0.12/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adobe Dreamweaver (Tech skill type: Web page creation and editing software)
+- Adobe Photoshop (Tech skill type: Graphics or photo imaging software)
+- AJAX (Tech skill type: Web platform development software)
+- Apache Solr (Tech skill type: Data base management system software)
+- Apache Struts (Tech skill type: Web platform development software)
+- Apple macOS (Tech skill type: Operating system software)
+- Bing Ads (Tech skill type: Sales and marketing software)
+- Bing for Power BI (Tech skill type: Data mining software)
+- Blogging software (Tech skill type: Web page creation and editing software)
+- C# (Tech skill type: Object or component oriented development software)
+- CCBill (Tech skill type: Point of sale POS software)
+- Content management systems CMS (Tech skill type: Web page creation and editing software)
+- Drupal (Tech skill type: Web platform development software)
+- Dynamic hypertext markup language DHTML (Tech skill type: Web platform development software)
+- e-check software (Tech skill type: Point of sale POS software)
+- Enterprise JavaBeans (Tech skill type: Web platform development software)
+- Extensible hypertext markup language XHTML (Tech skill type: Web platform development software)
+- Extensible markup language XML (Tech skill type: Enterprise application integration software)
+- Facebook (Tech skill type: Web page creation and editing software)
+- Financial accounting software (Tech skill type: Accounting software)
+- Google Ads (Tech skill type: Sales and marketing software)
+- Google Analytics (Tech skill type: Data mining software)
+- Google Checkout (Tech skill type: Point of sale POS software)
+- Hypertext markup language HTML (Tech skill type: Web platform development software)
+- IBM Digital Analytics (Tech skill type: Business intelligence and data analysis software)
+- IBM Domino (Tech skill type: Communications server software)
+- IBM InfoSphere DataStage (Tech skill type: Enterprise application integration software)
+- IBM WebSphere (Tech skill type: Cloud-based management software)
+- Intuit QuickBooks (Tech skill type: Accounting software)
+- Intuit QuickBoooks Payments (Tech skill type: Point of sale POS software)
+- Inventory tracking software (Tech skill type: Inventory management software)
+- JamBoard (Tech skill type: Graphics or photo imaging software)
+- JavaScript (Tech skill type: Web platform development software)
+- jQuery (Tech skill type: Object or component oriented development software)
+- LAMP Stack (Tech skill type: Web platform development software)
+- Linux (Tech skill type: Operating system software)
+- Magento Analytics (Tech skill type: Point of sale POS software)
+- Microsoft .NET Framework (Tech skill type: Development environment software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Dynamics (Tech skill type: Customer relationship management CRM software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft SQL Server (Tech skill type: Data base user interface and query software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Visual Studio (Tech skill type: Development environment software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Mobile application software (Tech skill type: Mobile operator specific application software)
+- MyCommerce RegNow (Tech skill type: Point of sale POS software)
+- MySQL (Tech skill type: Data base management system software)
+- NetSuite ERP (Tech skill type: Enterprise resource planning ERP software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- Oracle JavaServer Pages JSP (Tech skill type: Web platform development software)
+- PayPal (Tech skill type: Point of sale POS software)
+- PayPal Zettle (Tech skill type: Point of sale POS software)
+- PHP (Tech skill type: Web platform development software)
+- ProPay payment processing software (Tech skill type: Point of sale POS software)
+- Relational database management software (Tech skill type: Data base management system software)
+- Screencast-O-Matic (Tech skill type: Video creation and editing software)
+- Search engine marketing SEM software (Tech skill type: Sales and marketing software)
+- Search engine optimization SEO software (Tech skill type: Business intelligence and data analysis software)
+- Search engine results pages SERP software (Tech skill type: Data base user interface and query software)
+- Shipment processing software (Tech skill type: Mailing and shipping software)
+- Shopify software (Tech skill type: Point of sale POS software)
+- Snorasson Holdings CCNow (Tech skill type: Point of sale POS software)
+- Square (Tech skill type: Point of sale POS software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Tax software (Tech skill type: Accounting software)
+- Twitter (Tech skill type: Instant messaging software)
+- Web browser software (Tech skill type: Internet browser software)
+- Webtrends software (Tech skill type: Sales and marketing software)
+- WordPress (Tech skill type: Web page creation and editing software)
+- YouTube (Tech skill type: Video creation and editing software)
+
+## TOOLS USED
+- Credit card machines (Tool type: Magnetic stripe readers and encoders)
+- Desktop computers (Tool type: Desktop computers)
+- Dot matrix printers (Tool type: Dot matrix printers)
+- External hard drives (Tool type: Pen or flash drive)
+- Label printers (Tool type: Band printers)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Personal computers (Tool type: Personal computers)
+- Tablet computers (Tool type: Tablet computers)
+- Thumb drives (Tool type: Pen or flash drive)

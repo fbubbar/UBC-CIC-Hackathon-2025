@@ -1,0 +1,175 @@
+Job Title: Sales Engineers
+O*NET-SOC Code: 41-9031.00
+
+# DESCRIPTION
+Sell business goods or services, the selling of which requires a technical background equivalent to a baccalaureate degree in engineering.
+
+# TASKS
+- Develop, present, or respond to proposals for specific customer requirements, including request for proposal responses and industry-specific solutions.
+- Collaborate with sales teams to understand customer requirements, to promote the sale of company products, and to provide sales support.
+- Create sales or service contracts for products or services.
+- Visit prospective buyers at commercial, industrial, or other establishments to show samples or catalogs, and to inform them about product pricing, availability, and advantages.
+- Keep informed on industry news and trends, products, services, competitors, relevant information about legacy, existing, and emerging technologies, and the latest product-line developments.
+- Identify resale opportunities and support them to achieve sales plans.
+- Confer with customers and engineers to assess equipment needs and to determine system requirements.
+- Plan and modify product configurations to meet customer needs.
+- Prepare and deliver technical presentations that explain products or services to customers and prospective customers.
+- Recommend improved materials or machinery to customers, documenting how such changes will lower costs or increase production.
+- Maintain sales forecasting reports.
+- Document account activities, generate reports, and keep records of business transactions with customers and suppliers.
+- Research and identify potential customers for products or services.
+- Secure and renew orders and arrange delivery.
+- Develop sales plans to introduce products in new markets.
+- Attend trade shows and seminars to promote products or to learn about industry developments.
+- Attend company training seminars to become familiar with product lines.
+- Arrange for demonstrations or trial installations of equipment.
+- Train team members in the customer applications of technologies.
+- Sell products requiring extensive technical expertise and support for installation and use, such as material handling equipment, numerical-control machinery, or computer systems.
+- Provide information needed for the development of custom-made machinery.
+- Provide technical and non-technical support and services to clients or other staff members regarding the use, operation, and maintenance of equipment.
+- Diagnose problems with installed equipment.
+- Write technical documentation for products.
+- Report to supervisors about prospective firms' credit ratings.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Speaking (Importance: 4.12/5 | Level: 4.25/7)
+- Persuasion (Importance: 4.12/5 | Level: 4.25/7)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.0/7)
+- Social Perceptiveness (Importance: 4.0/5 | Level: 3.88/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.88/7)
+- Judgment and Decision Making (Importance: 4.0/5 | Level: 4.0/7)
+- Active Listening (Importance: 4.0/5 | Level: 4.12/7)
+- Negotiation (Importance: 3.88/5 | Level: 4.0/7)
+- Complex Problem Solving (Importance: 3.88/5 | Level: 4.0/7)
+- Active Learning (Importance: 3.75/5 | Level: 4.12/7)
+- Service Orientation (Importance: 3.75/5 | Level: 3.88/7)
+- Writing (Importance: 3.75/5 | Level: 4.0/7)
+- Systems Analysis (Importance: 3.62/5 | Level: 3.88/7)
+- Systems Evaluation (Importance: 3.5/5 | Level: 3.75/7)
+- Time Management (Importance: 3.5/5 | Level: 3.12/7)
+- Instructing (Importance: 3.38/5 | Level: 3.75/7)
+- Coordination (Importance: 3.38/5 | Level: 3.62/7)
+- Mathematics (Importance: 3.0/5 | Level: 3.62/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 3.38/7)
+- Monitoring (Importance: 2.88/5 | Level: 3.5/7)
+- Operations Analysis (Importance: 2.75/5 | Level: 2.75/7)
+- Technology Design (Importance: 2.75/5 | Level: 2.88/7)
+- Management of Personnel Resources (Importance: 2.62/5 | Level: 3.0/7)
+- Management of Financial Resources (Importance: 2.38/5 | Level: 2.38/7)
+- Management of Material Resources (Importance: 2.25/5 | Level: 2.38/7)
+- Science (Importance: 2.12/5 | Level: 2.0/7)
+- Equipment Selection (Importance: 1.88/5 | Level: 1.0/7)
+- Quality Control Analysis (Importance: 1.88/5 | Level: 1.75/7)
+- Operations Monitoring (Importance: 1.88/5 | Level: 1.75/7)
+- Programming (Importance: 1.88/5 | Level: 1.38/7)
+- Troubleshooting (Importance: 1.75/5 | Level: 1.5/7)
+- Operation and Control (Importance: 1.62/5 | Level: 1.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Ab Initio (Tech skill type: Enterprise resource planning ERP software)
+- Amazon Web Services AWS software (Tech skill type: Data base user interface and query software)
+- Ansible software (Tech skill type: Expert system software)
+- Apache Cassandra (Tech skill type: Data base management system software)
+- Apache Hadoop (Tech skill type: Data base management system software)
+- Apache HBase (Tech skill type: Data base management system software)
+- Apache Pig (Tech skill type: Data base management system software)
+- Apache Struts (Tech skill type: Web platform development software)
+- Apple iOS (Tech skill type: Operating system software)
+- Atlassian JIRA (Tech skill type: Content workflow software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Border Gateway Protocol BGP (Tech skill type: Switch or router software)
+- C (Tech skill type: Development environment software)
+- C++ (Tech skill type: Object or component oriented development software)
+- Cisco Systems CiscoWorks (Tech skill type: Administration software)
+- Cisco Systems VPN Client (Tech skill type: Network security or virtual private network VPN management software)
+- Citrix cloud computing software (Tech skill type: Access software)
+- Customer relationship management CRM software (Tech skill type: Customer relationship management CRM software)
+- Dassault Systemes SolidWorks (Tech skill type: Computer aided design CAD software)
+- Database management software (Tech skill type: Data base user interface and query software)
+- Docker (Tech skill type: Application server software)
+- Enterprise application integration EAI software (Tech skill type: Enterprise application integration software)
+- Enterprise JavaBeans (Tech skill type: Web platform development software)
+- Extensible hypertext markup language XHTML (Tech skill type: Web platform development software)
+- Extensible markup language XML (Tech skill type: Enterprise application integration software)
+- Firewall software (Tech skill type: Network security and virtual private network VPN equipment software)
+- Google Cloud software (Tech skill type: Cloud-based management software)
+- Google Workspace software (Tech skill type: Office suite software)
+- Graphics software (Tech skill type: Graphics or photo imaging software)
+- Hewlett Packard HP-UX (Tech skill type: Operating system software)
+- Hyperion Solutions Hyperion System 9 Bi+ (Tech skill type: Enterprise resource planning ERP software)
+- IBM Cognos Business Intelligence (Tech skill type: Business intelligence and data analysis software)
+- IBM Cognos Impromptu (Tech skill type: Business intelligence and data analysis software)
+- IBM DB2 (Tech skill type: Data base user interface and query software)
+- IBM Domino (Tech skill type: Communications server software)
+- Informatica Corporation PowerCenter (Tech skill type: Enterprise resource planning ERP software)
+- JavaScript (Tech skill type: Web platform development software)
+- Kubernetes (Tech skill type: Application server software)
+- Linux (Tech skill type: Operating system software)
+- Management information systems MIS (Tech skill type: Enterprise resource planning ERP software)
+- MapReduce big data software (Tech skill type: Business intelligence and data analysis software)
+- McAfee (Tech skill type: Transaction security and virus protection software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Active Directory (Tech skill type: Internet directory services software)
+- Microsoft Azure software (Tech skill type: Development environment software)
+- Microsoft Dynamics (Tech skill type: Customer relationship management CRM software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Exchange (Tech skill type: Electronic mail software)
+- Microsoft Office Live Meeting (Tech skill type: Video conferencing software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft SQL Server (Tech skill type: Data base user interface and query software)
+- Microsoft Teams (Tech skill type: Project management software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Windows Server (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- MicroStrategy (Tech skill type: Business intelligence and data analysis software)
+- MicroStrategy Desktop (Tech skill type: Enterprise resource planning ERP software)
+- Network directory services software (Tech skill type: Internet directory services software)
+- NortonLifeLock cybersecurity software (Tech skill type: Transaction security and virus protection software)
+- Operating system software (Tech skill type: Operating system software)
+- Oracle Database (Tech skill type: Data base user interface and query software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- Oracle PeopleSoft (Tech skill type: Enterprise resource planning ERP software)
+- Oracle Solaris (Tech skill type: Operating system software)
+- Perl (Tech skill type: Object or component oriented development software)
+- PHP (Tech skill type: Web platform development software)
+- Platform as a service PaaS (Tech skill type: Cloud-based data access and sharing software)
+- Python (Tech skill type: Object or component oriented development software)
+- R (Tech skill type: Object or component oriented development software)
+- React (Tech skill type: Web platform development software)
+- RESTful API (Tech skill type: Web platform development software)
+- Ruby (Tech skill type: Development environment software)
+- Sales analysis software (Tech skill type: Financial analysis software)
+- Salesforce software (Tech skill type: Customer relationship management CRM software)
+- SAP Adaptive Server Enterprise (Tech skill type: Data base user interface and query software)
+- SAP Business Objects (Tech skill type: Enterprise resource planning ERP software)
+- SAP Business One (Tech skill type: Enterprise resource planning ERP software)
+- SAP BusinessObjects Crystal Reports (Tech skill type: Data base reporting software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Scheduling software (Tech skill type: Calendar and scheduling software)
+- Security assertion markup language SAML (Tech skill type: Web platform development software)
+- Shell script (Tech skill type: Operating system software)
+- Single sign-on SSO (Tech skill type: Authentication server software)
+- Software as a service SaaS (Tech skill type: Cloud-based data access and sharing software)
+- Splunk Enterprise (Tech skill type: Cloud-based management software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Teradata Database (Tech skill type: Data base management system software)
+- UNIX (Tech skill type: Operating system software)
+- Virtual private networking VPN software (Tech skill type: Network security and virtual private network VPN equipment software)
+- Voice over internet protocol VoIP system software (Tech skill type: Internet protocol IP multimedia subsystem software)
+- Web browser software (Tech skill type: Internet browser software)
+- WebEx Sales Center (Tech skill type: Presentation software)
+- Wireshark (Tech skill type: Network monitoring software)
+
+## TOOLS USED
+- Desktop computers (Tool type: Desktop computers)
+- Laptop computers (Tool type: Notebook computers)
+- Mainframe computers (Tool type: Mainframe computers)
+- Personal computers (Tool type: Personal computers)

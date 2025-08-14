@@ -1,0 +1,168 @@
+Job Title: Bioinformatics Scientists
+O*NET-SOC Code: 19-1029.01
+
+# DESCRIPTION
+Conduct research using bioinformatics theory and methods in areas such as pharmaceuticals, medical technology, biotechnology, computational biology, proteomics, computer information science, biology and medical informatics. May design databases and develop algorithms for processing and analyzing genomic information, or other biological information.
+
+# TASKS
+- Develop new software applications or customize existing applications to meet specific scientific project needs.
+- Communicate research results through conference presentations, scientific publications, or project reports.
+- Create novel computational approaches and analytical tools as required by research goals.
+- Consult with researchers to analyze problems, recommend technology-based solutions, or determine computational strategies.
+- Analyze large molecular datasets, such as raw microarray data, genomic sequence data, or proteomics data, for clinical or basic research purposes.
+- Keep abreast of new biochemistries, instrumentation, or software by reading scientific literature and attending professional conferences.
+- Develop data models and databases.
+- Compile data for use in activities, such as gene expression profiling, genome annotation, or structural bioinformatics.
+- Design and apply bioinformatics algorithms including unsupervised and supervised machine learning, dynamic programming, or graphic algorithms.
+- Manipulate publicly accessible, commercial, or proprietary genomic, proteomic, or post-genomic databases.
+- Direct the work of technicians and information technology staff applying bioinformatics tools or applications in areas such as proteomics, transcriptomics, metabolomics, or clinical bioinformatics.
+- Provide statistical and computational tools for biologically based activities, such as genetic analysis, measurement of gene expression, or gene function determination.
+- Create or modify web-based bioinformatics tools.
+- Improve user interfaces to bioinformatics software and databases.
+- Confer with departments, such as marketing, business development, or operations, to coordinate product development or improvement.
+- Recommend new systems and processes to improve operations.
+- Instruct others in the selection and use of bioinformatics tools.
+- Collaborate with software developers in the development and modification of commercial bioinformatics software.
+- Test new and updated bioinformatics tools and software.
+- Prepare summary statistics of information regarding human genomes.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Critical Thinking (Importance: 4.12/5 | Level: 4.38/7)
+- Reading Comprehension (Importance: 4.12/5 | Level: 4.88/7)
+- Complex Problem Solving (Importance: 4.0/5 | Level: 4.25/7)
+- Speaking (Importance: 4.0/5 | Level: 4.25/7)
+- Active Listening (Importance: 4.0/5 | Level: 4.38/7)
+- Writing (Importance: 3.88/5 | Level: 4.75/7)
+- Science (Importance: 3.75/5 | Level: 4.12/7)
+- Judgment and Decision Making (Importance: 3.62/5 | Level: 4.25/7)
+- Active Learning (Importance: 3.62/5 | Level: 4.25/7)
+- Mathematics (Importance: 3.5/5 | Level: 4.12/7)
+- Time Management (Importance: 3.38/5 | Level: 3.25/7)
+- Monitoring (Importance: 3.38/5 | Level: 4.12/7)
+- Systems Evaluation (Importance: 3.25/5 | Level: 3.75/7)
+- Systems Analysis (Importance: 3.25/5 | Level: 3.62/7)
+- Social Perceptiveness (Importance: 3.25/5 | Level: 3.5/7)
+- Instructing (Importance: 3.0/5 | Level: 3.25/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 3.62/7)
+- Coordination (Importance: 3.0/5 | Level: 3.5/7)
+- Service Orientation (Importance: 2.88/5 | Level: 3.0/7)
+- Management of Personnel Resources (Importance: 2.88/5 | Level: 3.12/7)
+- Persuasion (Importance: 2.88/5 | Level: 3.5/7)
+- Negotiation (Importance: 2.75/5 | Level: 3.0/7)
+- Technology Design (Importance: 2.25/5 | Level: 2.12/7)
+- Operations Analysis (Importance: 2.25/5 | Level: 2.12/7)
+- Operations Monitoring (Importance: 2.25/5 | Level: 2.5/7)
+- Quality Control Analysis (Importance: 2.12/5 | Level: 2.38/7)
+- Programming (Importance: 2.12/5 | Level: 1.75/7)
+- Management of Material Resources (Importance: 2.12/5 | Level: 2.0/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.75/7)
+- Troubleshooting (Importance: 2.0/5 | Level: 1.88/7)
+- Equipment Selection (Importance: 1.5/5 | Level: 0.62/7)
+- Operation and Control (Importance: 1.25/5 | Level: 0.62/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Accelrys Pipeline Pilot (Tech skill type: Analytical or scientific software)
+- Amazon Web Services AWS software (Tech skill type: Data base user interface and query software)
+- Apache Accumulo (Tech skill type: Data base user interface and query software)
+- Apache Groovy (Tech skill type: Object or component oriented development software)
+- Apache Hadoop (Tech skill type: Data base management system software)
+- Apache HTTP Server (Tech skill type: Portal server software)
+- Bash (Tech skill type: Operating system software)
+- Bioconductor (Tech skill type: Analytical or scientific software)
+- Bioconductor software (Tech skill type: Data base user interface and query software)
+- Biomatters Geneious (Tech skill type: Analytical or scientific software)
+- BioPerl (Tech skill type: Analytical or scientific software)
+- BLAT (Tech skill type: Analytical or scientific software)
+- Bowtie (Tech skill type: Analytical or scientific software)
+- BWA (Tech skill type: Analytical or scientific software)
+- C (Tech skill type: Development environment software)
+- C# (Tech skill type: Object or component oriented development software)
+- C++ (Tech skill type: Object or component oriented development software)
+- Canu (Tech skill type: Analytical or scientific software)
+- ClustalW (Tech skill type: Analytical or scientific software)
+- Cufflinks (Tech skill type: Analytical or scientific software)
+- Cytel StatXact (Tech skill type: Analytical or scientific software)
+- Data visualization software (Tech skill type: Analytical or scientific software)
+- dbSNP (Tech skill type: Analytical or scientific software)
+- Django (Tech skill type: Web platform development software)
+- DNA sequencing software (Tech skill type: Analytical or scientific software)
+- Docker (Tech skill type: Application server software)
+- ENSEMBL (Tech skill type: Analytical or scientific software)
+- Extensible markup language XML (Tech skill type: Enterprise application integration software)
+- Formula translation/translator FORTRAN (Tech skill type: Development environment software)
+- GenBank (Tech skill type: Analytical or scientific software)
+- Genedata Expressionist (Tech skill type: Analytical or scientific software)
+- GenePattern (Tech skill type: Analytical or scientific software)
+- Genome Analysis Toolkit GATK (Tech skill type: Analytical or scientific software)
+- Git (Tech skill type: File versioning software)
+- GitHub (Tech skill type: Application server software)
+- Hypertext markup language HTML (Tech skill type: Web platform development software)
+- IBM SPSS Statistics (Tech skill type: Analytical or scientific software)
+- Illumina Laboratory Information Management System LIMS (Tech skill type: Analytical or scientific software)
+- JavaScript (Tech skill type: Web platform development software)
+- JavaScript Object Notation JSON (Tech skill type: Web platform development software)
+- jQuery (Tech skill type: Object or component oriented development software)
+- Life Technologies SOLiD (Tech skill type: Analytical or scientific software)
+- Life Technologies Vector NTI (Tech skill type: Analytical or scientific software)
+- Linux (Tech skill type: Operating system software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Active Server Pages ASP (Tech skill type: Web platform development software)
+- Microsoft Azure software (Tech skill type: Development environment software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft operating system (Tech skill type: Operating system software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft SQL Server (Tech skill type: Data base management system software)
+- Microsoft SQL Server Reporting Services SSRS (Tech skill type: Object or component oriented development software)
+- Microsoft Visual Basic for Applications VBA (Tech skill type: Development environment software)
+- Microsoft Visual Studio (Tech skill type: Development environment software)
+- MySQL (Tech skill type: Data base management system software)
+- NCBI RefSeq (Tech skill type: Analytical or scientific software)
+- NoSQL (Tech skill type: Data base management system software)
+- Object oriented development environment software (Tech skill type: Object or component oriented development software)
+- Oracle Database (Tech skill type: Data base user interface and query software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- Oracle JavaServer Pages JSP (Tech skill type: Web platform development software)
+- Oracle PL/SQL (Tech skill type: Data base management system software)
+- Perl (Tech skill type: Object or component oriented development software)
+- PHP (Tech skill type: Web platform development software)
+- PostgreSQL (Tech skill type: Object oriented data base management software)
+- Primer3 (Tech skill type: Analytical or scientific software)
+- Public genomic databases (Tech skill type: Analytical or scientific software)
+- Python (Tech skill type: Object or component oriented development software)
+- R (Tech skill type: Object or component oriented development software)
+- Relational database management software (Tech skill type: Data base management system software)
+- RNA sequencing software (Tech skill type: Analytical or scientific software)
+- Roche 454 Life Sciences GS Data Analysis (Tech skill type: Analytical or scientific software)
+- Ruby (Tech skill type: Development environment software)
+- Salesforce software (Tech skill type: Customer relationship management CRM software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- SAS (Tech skill type: Analytical or scientific software)
+- Scala (Tech skill type: Object or component oriented development software)
+- Shell script (Tech skill type: Operating system software)
+- Software development tools (Tech skill type: Development environment software)
+- StataCorp Stata (Tech skill type: Analytical or scientific software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Tableau (Tech skill type: Business intelligence and data analysis software)
+- Teradata software (Tech skill type: Data base user interface and query software)
+- The MathWorks MATLAB (Tech skill type: Analytical or scientific software)
+- Tibco S-PLUS (Tech skill type: Analytical or scientific software)
+- TIBCO Spotfire S+ (Tech skill type: Business intelligence and data analysis software)
+- TopHat (Tech skill type: Analytical or scientific software)
+- UNIX (Tech skill type: Operating system software)
+- User interface design software (Tech skill type: Program testing software)
+- Velvet (Tech skill type: Analytical or scientific software)
+- Web browser software (Tech skill type: Internet browser software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Computer data input scanners (Tool type: Scanners)
+- Computer laser printers (Tool type: Laser printers)
+- Desktop computers (Tool type: Desktop computers)
+- Laptop computers (Tool type: Notebook computers)
+- Personal computers (Tool type: Personal computers)

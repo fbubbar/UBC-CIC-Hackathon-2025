@@ -1,0 +1,154 @@
+Job Title: Industrial Production Managers
+O*NET-SOC Code: 11-3051.00
+
+# DESCRIPTION
+Plan, direct, or coordinate the work activities and resources necessary for manufacturing products in accordance with cost, quality, and quantity specifications.
+
+# TASKS
+- Set and monitor product standards, examining samples of raw products or directing testing during processing, to ensure finished products are of prescribed quality.
+- Direct or coordinate production, processing, distribution, or marketing activities of industrial organizations.
+- Review processing schedules or production orders to make decisions concerning inventory requirements, staffing requirements, work procedures, or duty assignments, considering budgetary limitations and time constraints.
+- Review operations and confer with technical or administrative staff to resolve production or processing problems.
+- Hire, train, evaluate, or discharge staff or resolve personnel grievances.
+- Develop or implement production tracking or quality control systems, analyzing production, quality control, maintenance, or other operational reports to detect production problems.
+- Prepare and maintain production reports or personnel records.
+- Review plans and confer with research or support staff to develop new products or processes.
+- Develop budgets or approve expenditures for supplies, materials, or human resources, ensuring that materials, labor, or equipment are used efficiently to meet production targets.
+- Maintain current knowledge of the quality control field, relying on current literature pertaining to materials use, technological advances, or statistical studies.
+- Coordinate or recommend procedures for facility or equipment maintenance or modification, including the replacement of machines.
+- Initiate or coordinate inventory or cost control programs.
+- Negotiate materials prices with suppliers.
+- Conduct site audits to ensure adherence to safety and environmental regulations.
+- Develop or enforce procedures for normal operation of manufacturing systems.
+- Implement operational and emergency procedures.
+- Maintain records to demonstrate compliance with safety and environmental laws, regulations, or policies.
+- Monitor permit requirements for updates.
+- Optimize operational costs and productivity consistent with safety and environmental rules and regulations.
+- Prepare reports on operations and system productivity or efficiency.
+- Supervise subordinate employees.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Monitoring (Importance: 4.0/5 | Level: 4.88/7)
+- Coordination (Importance: 4.0/5 | Level: 4.0/7)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.0/7)
+- Speaking (Importance: 4.0/5 | Level: 4.0/7)
+- Judgment and Decision Making (Importance: 4.0/5 | Level: 4.38/7)
+- Time Management (Importance: 3.88/5 | Level: 4.12/7)
+- Reading Comprehension (Importance: 3.88/5 | Level: 4.0/7)
+- Management of Personnel Resources (Importance: 3.88/5 | Level: 4.25/7)
+- Active Listening (Importance: 3.88/5 | Level: 4.0/7)
+- Systems Analysis (Importance: 3.75/5 | Level: 3.88/7)
+- Learning Strategies (Importance: 3.75/5 | Level: 4.0/7)
+- Active Learning (Importance: 3.62/5 | Level: 4.0/7)
+- Complex Problem Solving (Importance: 3.62/5 | Level: 3.88/7)
+- Social Perceptiveness (Importance: 3.5/5 | Level: 3.88/7)
+- Systems Evaluation (Importance: 3.38/5 | Level: 3.75/7)
+- Writing (Importance: 3.38/5 | Level: 4.0/7)
+- Management of Financial Resources (Importance: 3.38/5 | Level: 4.0/7)
+- Mathematics (Importance: 3.38/5 | Level: 3.75/7)
+- Negotiation (Importance: 3.25/5 | Level: 3.75/7)
+- Management of Material Resources (Importance: 3.25/5 | Level: 4.0/7)
+- Operations Monitoring (Importance: 3.12/5 | Level: 3.5/7)
+- Persuasion (Importance: 3.12/5 | Level: 3.62/7)
+- Instructing (Importance: 3.12/5 | Level: 3.62/7)
+- Quality Control Analysis (Importance: 3.12/5 | Level: 3.88/7)
+- Service Orientation (Importance: 3.0/5 | Level: 3.12/7)
+- Operations Analysis (Importance: 2.88/5 | Level: 2.88/7)
+- Operation and Control (Importance: 2.75/5 | Level: 3.12/7)
+- Troubleshooting (Importance: 2.25/5 | Level: 2.25/7)
+- Repairing (Importance: 2.12/5 | Level: 1.62/7)
+- Equipment Selection (Importance: 2.12/5 | Level: 2.0/7)
+- Equipment Maintenance (Importance: 2.0/5 | Level: 1.38/7)
+- Programming (Importance: 1.62/5 | Level: 0.75/7)
+- Technology Design (Importance: 1.62/5 | Level: 1.12/7)
+- Science (Importance: 1.62/5 | Level: 1.12/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- ABB Optimize IT Predict & Control (Tech skill type: Facilities management software)
+- Adobe Acrobat (Tech skill type: Document management software)
+- Adobe After Effects (Tech skill type: Video creation and editing software)
+- Adobe InDesign (Tech skill type: Desktop publishing software)
+- Adobe Photoshop (Tech skill type: Graphics or photo imaging software)
+- Apple Final Cut Pro (Tech skill type: Video creation and editing software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- AVEVA InTouch HMI (Tech skill type: Industrial control software)
+- Citect IIM (Tech skill type: Industrial control software)
+- CitectSCADA Reports (Tech skill type: Industrial control software)
+- Clockware (Tech skill type: Human resources software)
+- Computer aided design CAD software (Tech skill type: Computer aided design CAD software)
+- Computer integrated manufacturing CIM software (Tech skill type: Calendar and scheduling software)
+- Computer integrated manufacturing CIM time manager software (Tech skill type: Human resources software)
+- Computer integrated manufacturing CIM warehouse shipping manager software (Tech skill type: Inventory management software)
+- Computerized maintenance management system CMMS (Tech skill type: Facilities management software)
+- Database software (Tech skill type: Data base user interface and query software)
+- Distributed control system DCS (Tech skill type: Industrial control software)
+- Eko (Tech skill type: Desktop communications software)
+- Email software (Tech skill type: Electronic mail software)
+- Employee performance management system (Tech skill type: Human resources software)
+- Employee scheduling software (Tech skill type: Calendar and scheduling software)
+- Exact Software JobBOSS (Tech skill type: Data base user interface and query software)
+- FileMaker Pro (Tech skill type: Data base user interface and query software)
+- Financial planning software (Tech skill type: Financial analysis software)
+- IBM Notes (Tech skill type: Electronic mail software)
+- IBM Rational ClearQuest (Tech skill type: Development environment software)
+- Industrial production manager and stock control software (Tech skill type: Industrial control software)
+- Intuit QuickBooks (Tech skill type: Accounting software)
+- JamBoard (Tech skill type: Graphics or photo imaging software)
+- Landfill gas analysis software (Tech skill type: Analytical or scientific software)
+- Landtec System Software LFG Pro (Tech skill type: Analytical or scientific software)
+- Marel production system MPS (Tech skill type: Industrial control software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Minitab (Tech skill type: Analytical or scientific software)
+- NetSuite ERP (Tech skill type: Enterprise resource planning ERP software)
+- Oracle JD Edwards EnterpriseOne (Tech skill type: Enterprise resource planning ERP software)
+- Oracle PeopleSoft (Tech skill type: Enterprise resource planning ERP software)
+- Plant management software (Tech skill type: Facilities management software)
+- ProcessPro Premier (Tech skill type: Enterprise resource planning ERP software)
+- Prosys Open Platform Communications unified architecture software (Tech skill type: Industrial control software)
+- PTC Creo Parametric (Tech skill type: Computer aided design CAD software)
+- Qlik Tech QlikView (Tech skill type: Business intelligence and data analysis software)
+- QUMAS quality management solution software (Tech skill type: Document management software)
+- SAP Business Objects (Tech skill type: Enterprise resource planning ERP software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Scadex Technologies MAESTRO (Tech skill type: Data base user interface and query software)
+- Schneider Electric CitectSCADA (Tech skill type: Industrial control software)
+- Statistical process control SPC software (Tech skill type: Industrial control software)
+- Supervisory control and data acquisition SCADA software (Tech skill type: Industrial control software)
+- Web browser software (Tech skill type: Internet browser software)
+- WorkSchedule.net (Tech skill type: Calendar and scheduling software)
+- WorkTech MAXIMO (Tech skill type: Enterprise resource planning ERP software)
+- YouTube (Tech skill type: Video creation and editing software)
+
+## TOOLS USED
+- Air samplers (Tool type: Air samplers or collectors)
+- All terrain vehicles ATV (Tool type: All terrain vehicles tracked or wheeled)
+- Combustible gas monitors (Tool type: Combustible or hazardous gas detectors for power generators)
+- Desktop computers (Tool type: Desktop computers)
+- Diesel reciprocating engine generator sets (Tool type: Diesel generators)
+- Enclosed flares (Tool type: Flare or vent stacks)
+- Forklifts (Tool type: Forklifts)
+- Gas leak detectors (Tool type: Gas detectors)
+- Gas reciprocating engine generator sets (Tool type: Gas generators)
+- Micro anemometers (Tool type: Anemometers)
+- Multiple gas monitors (Tool type: Multi gas monitors)
+- Notebook computers (Tool type: Notebook computers)
+- Open flares (Tool type: Flare or vent stacks)
+- Oxygen analyzers (Tool type: Oxygen gas analyzers)
+- Personal computers (Tool type: Personal computers)
+- Personal digital assistants PDA (Tool type: Personal digital assistant PDAs or organizers)
+- Pressure gauges (Tool type: Pressure sensors)
+- Pressure valves (Tool type: Safety valves)
+- Scanners (Tool type: Scanners)
+- Squares (Tool type: Squares)
+- Tablet computers (Tool type: Tablet computers)
+- Tape measures (Tool type: Tape measures)
+- Taper gauges (Tool type: Taper gauge)
+- Utility trucks (Tool type: Light trucks or sport utility vehicles)
+- Vernier calipers (Tool type: Calipers)

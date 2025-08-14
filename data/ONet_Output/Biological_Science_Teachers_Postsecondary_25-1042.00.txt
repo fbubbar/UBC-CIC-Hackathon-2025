@@ -1,0 +1,162 @@
+Job Title: Biological Science Teachers, Postsecondary
+O*NET-SOC Code: 25-1042.00
+
+# DESCRIPTION
+Teach courses in biological sciences. Includes both teachers primarily engaged in teaching and those who do a combination of teaching and research.
+
+# TASKS
+- Evaluate and grade students' class work, laboratory work, assignments, and papers.
+- Prepare and deliver lectures to undergraduate or graduate students on topics such as molecular biology, marine biology, and botany.
+- Plan, evaluate, and revise curricula, course content, and course materials and methods of instruction.
+- Prepare materials for laboratory activities and course materials, such as syllabi, homework assignments, and handouts.
+- Initiate, facilitate, and moderate classroom discussions.
+- Supervise students' laboratory work.
+- Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.
+- Maintain student attendance records, grades, and other required records.
+- Compile, administer, and grade examinations, or assign this work to others.
+- Supervise undergraduate or graduate teaching, internship, and research work.
+- Assist students who need extra help with their coursework outside of class.
+- Advise students on academic and vocational curricula and on career issues.
+- Maintain regularly scheduled office hours to advise and assist students.
+- Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.
+- Collaborate with colleagues to address teaching and research issues.
+- Select and obtain materials and supplies, such as textbooks and laboratory equipment.
+- Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.
+- Provide students course-related experiences, such as field trips, outside the classroom.
+- Write grant proposals to procure external research funding.
+- Review papers for publication in journals.
+- Participate in student recruitment, registration, and placement activities.
+- Maintain or repair lab equipment.
+- Perform administrative duties, such as serving as department head.
+- Compile bibliographies of specialized materials for outside reading assignments.
+- Participate in campus and community events, such as giving presentations to the public.
+- Act as advisers to student organizations.
+- Provide professional consulting services to government or industry.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Speaking (Importance: 4.25/5 | Level: 4.75/7)
+- Instructing (Importance: 4.12/5 | Level: 4.38/7)
+- Learning Strategies (Importance: 4.12/5 | Level: 4.38/7)
+- Active Learning (Importance: 4.0/5 | Level: 4.5/7)
+- Science (Importance: 4.0/5 | Level: 4.0/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 5.12/7)
+- Active Listening (Importance: 4.0/5 | Level: 4.38/7)
+- Writing (Importance: 4.0/5 | Level: 4.75/7)
+- Monitoring (Importance: 3.88/5 | Level: 3.88/7)
+- Critical Thinking (Importance: 3.88/5 | Level: 4.12/7)
+- Judgment and Decision Making (Importance: 3.75/5 | Level: 4.12/7)
+- Time Management (Importance: 3.62/5 | Level: 3.5/7)
+- Complex Problem Solving (Importance: 3.62/5 | Level: 3.75/7)
+- Social Perceptiveness (Importance: 3.25/5 | Level: 3.38/7)
+- Systems Evaluation (Importance: 3.12/5 | Level: 3.25/7)
+- Systems Analysis (Importance: 3.12/5 | Level: 3.25/7)
+- Mathematics (Importance: 3.12/5 | Level: 3.25/7)
+- Service Orientation (Importance: 3.12/5 | Level: 3.12/7)
+- Coordination (Importance: 3.0/5 | Level: 2.88/7)
+- Persuasion (Importance: 2.88/5 | Level: 2.88/7)
+- Negotiation (Importance: 2.88/5 | Level: 2.88/7)
+- Management of Personnel Resources (Importance: 2.5/5 | Level: 2.75/7)
+- Operations Analysis (Importance: 2.38/5 | Level: 2.38/7)
+- Quality Control Analysis (Importance: 1.88/5 | Level: 1.38/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.75/7)
+- Operations Monitoring (Importance: 1.75/5 | Level: 1.0/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 1.5/7)
+- Repairing (Importance: 1.62/5 | Level: 0.88/7)
+- Troubleshooting (Importance: 1.5/5 | Level: 0.88/7)
+- Programming (Importance: 1.5/5 | Level: 0.5/7)
+- Equipment Maintenance (Importance: 1.38/5 | Level: 0.62/7)
+- Technology Design (Importance: 1.38/5 | Level: 0.38/7)
+- Equipment Selection (Importance: 1.25/5 | Level: 0.38/7)
+- Operation and Control (Importance: 1.12/5 | Level: 0.12/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Aipotu (Tech skill type: Analytical or scientific software)
+- Blackboard Learn (Tech skill type: Computer based training software)
+- Blackboard software (Tech skill type: Data base user interface and query software)
+- Calendar and scheduling software (Tech skill type: Calendar and scheduling software)
+- Collaborative editing software (Tech skill type: Word processing software)
+- Course management system software (Tech skill type: Computer based training software)
+- Desire2Learn LMS software (Tech skill type: Computer based training software)
+- DOC Cop (Tech skill type: Information retrieval or search software)
+- Email software (Tech skill type: Electronic mail software)
+- Geographic information system GIS software (Tech skill type: Geographic information system)
+- Google Docs (Tech skill type: Word processing software)
+- Graphics creation software (Tech skill type: Graphics or photo imaging software)
+- IBM SPSS Statistics (Tech skill type: Analytical or scientific software)
+- Image analysis software (Tech skill type: Analytical or scientific software)
+- Image scanning software (Tech skill type: Optical character reader OCR or scanning software)
+- iParadigms Turnitin (Tech skill type: Information retrieval or search software)
+- Learning management system LMS (Tech skill type: Computer based training software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Modeling software (Tech skill type: Analytical or scientific software)
+- Moodle (Tech skill type: Computer based training software)
+- National Instruments LabVIEW (Tech skill type: Development environment software)
+- PLOS Computational Biology (Tech skill type: Analytical or scientific software)
+- Sakai CLE (Tech skill type: Computer based training software)
+- SAS (Tech skill type: Analytical or scientific software)
+- Sound pressure analysis equipment (Tech skill type: Analytical or scientific software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- Statistical software (Tech skill type: Analytical or scientific software)
+- The Gene Explorer (Tech skill type: Analytical or scientific software)
+- The MathWorks MATLAB (Tech skill type: Analytical or scientific software)
+- The Mathworks SimBiology (Tech skill type: Analytical or scientific software)
+- The Protein Investigator (Tech skill type: Analytical or scientific software)
+- The Virtual Genetics Lab (Tech skill type: Analytical or scientific software)
+- Web browser software (Tech skill type: Internet browser software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Anaerobic growth chambers (Tool type: Anaerobic chamber)
+- Benchtop ultracentrifuges (Tool type: Ultracentrifuges)
+- Carbon dioxide analysis equipment (Tool type: Dissolved carbon dioxide analyzers)
+- Carousel slide projectors (Tool type: Slide projectors)
+- Chemiluminescence imaging systems (Tool type: Chemiluminescence or bioluminescence analyzers)
+- Compact digital cameras (Tool type: Digital cameras)
+- Compact disk CD players (Tool type: Compact disk players or recorders)
+- Computer data input scanners (Tool type: Scanners)
+- Computer laser printers (Tool type: Laser printers)
+- Conference telephones (Tool type: Teleconference equipment)
+- Desktop computers (Tool type: Desktop computers)
+- Digital calculators (Tool type: Pocket calculator)
+- Digital video cameras (Tool type: Digital camcorders or video cameras)
+- Digital video disk DVD players (Tool type: Digital video disk players or recorders)
+- Electrophoresis equipment (Tool type: Gel documentation systems)
+- Environmental growth chambers (Tool type: Refrigerated and heated reach in environmental or growth chambers)
+- Field emission scanning electron microscopes (Tool type: Scanning electron microscopes)
+- Fluorescence microscopes (Tool type: Fluorescent microscopes)
+- Handheld microphones (Tool type: Microphones)
+- Interactive whiteboard controllers (Tool type: Portable data input terminals)
+- Interactive whiteboards (Tool type: Touch screen monitors)
+- Laptop computers (Tool type: Notebook computers)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Laser scanning microscopes (Tool type: Scanning light or spinning disk or laser scanning microscopes)
+- Liquid crystal display LCD projectors (Tool type: Liquid crystal display projector)
+- Liquid crystal display LCD televisions (Tool type: Televisions)
+- Low temperature freezers (Tool type: Ultra cold or ultralow upright cabinets or freezers)
+- Matrix-assisted laser desorption/ionization MALDI mass spectrometers (Tool type: Mass spectrometers)
+- Microphone podiums (Tool type: Microphone stand)
+- MP3 digital voice recorders (Tool type: MP3 players or recorders)
+- Multi-line telephone systems (Tool type: Special purpose telephones)
+- Multimedia projection equipment (Tool type: Multimedia projectors)
+- Opaque projectors (Tool type: Epidiascopes)
+- Overhead data projectors (Tool type: Overhead projectors)
+- Oxygen test meters (Tool type: Oxygen gas analyzers)
+- Photocopying equipment (Tool type: Photocopiers)
+- Poster printers (Tool type: Inkjet printers)
+- Projector screens (Tool type: Projection screens or displays)
+- Student response systems (Tool type: Portable data input terminals)
+- Tablet computers (Tool type: Tablet computers)
+- Television monitors (Tool type: Televisions)
+- Thermocyclers (Tool type: Temperature cycling chambers or thermal cyclers)
+- Universal serial bus USB flash drives (Tool type: High capacity removable media drives)
+- Videoconferencing equipment (Tool type: Videoconferencing systems)
+- Webcams (Tool type: Web cameras)
+- Wireless learning calculator systems (Tool type: Portable data input terminals)
+- Wireless microphones (Tool type: Microphones)

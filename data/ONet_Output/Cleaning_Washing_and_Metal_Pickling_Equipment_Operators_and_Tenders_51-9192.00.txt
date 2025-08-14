@@ -1,0 +1,90 @@
+Job Title: Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders
+O*NET-SOC Code: 51-9192.00
+
+# DESCRIPTION
+Operate or tend machines to wash or clean products, such as barrels or kegs, glass items, tin plate, food, pulp, coal, plastic, or rubber, to remove impurities.
+
+# TASKS
+- Add specified amounts of chemicals to equipment at required times to maintain solution levels and concentrations.
+- Observe machine operations, gauges, or thermometers, and adjust controls to maintain specified conditions.
+- Set controls to regulate temperature and length of cycles, and start conveyors, pumps, agitators, and machines.
+- Drain, clean, and refill machines or tanks at designated intervals, using cleaning solutions or water.
+- Operate or tend machines to wash and remove impurities from items such as barrels or kegs, glass products, tin plate surfaces, dried fruit, pulp, animal stock, coal, manufactured articles, plastic, or rubber.
+- Record gauge readings, materials used, processing times, or test results in production logs.
+- Examine and inspect machines to detect malfunctions.
+- Measure, weigh, or mix cleaning solutions, using measuring tanks, calibrated rods or suction tubes.
+- Draw samples for laboratory analysis, or test solutions for conformance to specifications, such as acidity or specific gravity.
+- Adjust, clean, and lubricate mechanical parts of machines, using hand tools and grease guns.
+- Load machines with objects to be processed and unload them after cleaning, placing them on conveyors or racks.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operation and Control (Importance: 3.25/5 | Level: 3.0/7)
+- Operations Monitoring (Importance: 3.12/5 | Level: 2.88/7)
+- Monitoring (Importance: 2.88/5 | Level: 3.0/7)
+- Critical Thinking (Importance: 2.88/5 | Level: 2.12/7)
+- Time Management (Importance: 2.88/5 | Level: 2.5/7)
+- Speaking (Importance: 2.88/5 | Level: 2.25/7)
+- Active Listening (Importance: 2.88/5 | Level: 2.38/7)
+- Coordination (Importance: 2.75/5 | Level: 2.12/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 2.12/7)
+- Reading Comprehension (Importance: 2.75/5 | Level: 2.25/7)
+- Judgment and Decision Making (Importance: 2.62/5 | Level: 2.12/7)
+- Complex Problem Solving (Importance: 2.5/5 | Level: 2.12/7)
+- Quality Control Analysis (Importance: 2.5/5 | Level: 2.25/7)
+- Troubleshooting (Importance: 2.25/5 | Level: 2.12/7)
+- Writing (Importance: 2.25/5 | Level: 2.38/7)
+- Management of Personnel Resources (Importance: 2.25/5 | Level: 2.0/7)
+- Equipment Maintenance (Importance: 2.25/5 | Level: 1.75/7)
+- Learning Strategies (Importance: 2.25/5 | Level: 2.12/7)
+- Active Learning (Importance: 2.12/5 | Level: 2.12/7)
+- Instructing (Importance: 2.12/5 | Level: 2.0/7)
+- Service Orientation (Importance: 2.12/5 | Level: 2.0/7)
+- Negotiation (Importance: 2.0/5 | Level: 2.0/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 1.88/7)
+- Systems Analysis (Importance: 2.0/5 | Level: 1.5/7)
+- Mathematics (Importance: 2.0/5 | Level: 1.12/7)
+- Persuasion (Importance: 2.0/5 | Level: 2.0/7)
+- Equipment Selection (Importance: 1.88/5 | Level: 1.25/7)
+- Repairing (Importance: 1.75/5 | Level: 1.12/7)
+- Science (Importance: 1.5/5 | Level: 0.62/7)
+- Management of Material Resources (Importance: 1.38/5 | Level: 0.38/7)
+- Operations Analysis (Importance: 1.38/5 | Level: 0.38/7)
+- Management of Financial Resources (Importance: 1.25/5 | Level: 0.25/7)
+- Programming (Importance: 1.12/5 | Level: 0.12/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Technology Design (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Word (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Adjustable handwrenches (Tool type: Adjustable wrenches)
+- Air purifying respirators (Tool type: Respirators)
+- Calibrated measuring rods (Tool type: Laboratory stirring rods)
+- Clean in place CIP systems (Tool type: Pipe and tube cleaning machine)
+- Cleaning scrapers (Tool type: Cleaning scrapers)
+- Conveyor systems (Tool type: Conveyor system)
+- Electric pallet jacks (Tool type: Pallet trucks)
+- Eye protection (Tool type: Safety glasses)
+- Floor scrubbers (Tool type: Floor scrubbers)
+- Foamers (Tool type: Hand sprayers)
+- Grease dispensing guns (Tool type: Grease guns)
+- Hearing protection plugs (Tool type: Ear plugs)
+- High speed buffers (Tool type: Power buffers)
+- Hydro blasting equipment (Tool type: Pressure or steam cleaners)
+- Machine thermometers (Tool type: Temperature regulators)
+- Measuring tanks (Tool type: Calibrating tanks)
+- Multipurpose hammers (Tool type: Hammers)
+- Multipurpose screwdrivers (Tool type: Screwdrivers)
+- Personal computers (Tool type: Personal computers)
+- Safety gloves (Tool type: Protective gloves)
+- Scissor lifts (Tool type: Scissor lift or lift table)
+- Steam lines (Tool type: Pressure or steam cleaners)
+- Suction hoses (Tool type: Vacuum hose)
+- Vacuum trucks (Tool type: Vacuum truck)
+- Water agitators (Tool type: Mixers or agitators)
+- Water pumps (Tool type: Water pumps)
+- Wet mops (Tool type: Wet mops)
+- Wheeled forklifts (Tool type: Forklifts)

@@ -1,0 +1,92 @@
+Job Title: Locomotive Engineers
+O*NET-SOC Code: 53-4011.00
+
+# DESCRIPTION
+Drive electric, diesel-electric, steam, or gas-turbine-electric locomotives to transport passengers or freight. Interpret train orders, electronic or manual signals, and railroad rules and regulations.
+
+# TASKS
+- Interpret train orders, signals, or railroad rules and regulations that govern the operation of locomotives.
+- Confer with conductors or traffic control center personnel via radiophones to issue or receive information concerning stops, delays, or oncoming trains.
+- Receive starting signals from conductors and use controls such as throttles or air brakes to drive electric, diesel-electric, steam, or gas turbine-electric locomotives.
+- Monitor gauges or meters that measure speed, amperage, battery charge, or air pressure in brake lines or in main reservoirs.
+- Observe tracks to detect obstructions.
+- Call out train signals to assistants to verify meanings.
+- Operate locomotives to transport freight or passengers between stations or to assemble or disassemble trains within rail yards.
+- Check to ensure that brake examination tests are conducted at shunting stations.
+- Respond to emergency conditions or breakdowns, following applicable safety procedures and rules.
+- Inspect locomotives to verify adequate fuel, sand, water, or other supplies before each run or to check for mechanical problems.
+- Inspect locomotives after runs to detect damaged or defective equipment.
+- Prepare reports regarding any problems encountered, such as accidents, signaling problems, unscheduled stops, or delays.
+- Check to ensure that documentation, such as procedure manuals or logbooks, are in the driver's cab and available for staff use.
+- Monitor train loading procedures to ensure that freight or rolling stock are loaded or unloaded without damage.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operation and Control (Importance: 4.12/5 | Level: 4.12/7)
+- Operations Monitoring (Importance: 4.0/5 | Level: 4.0/7)
+- Active Listening (Importance: 3.75/5 | Level: 3.25/7)
+- Speaking (Importance: 3.62/5 | Level: 3.0/7)
+- Critical Thinking (Importance: 3.62/5 | Level: 3.12/7)
+- Monitoring (Importance: 3.62/5 | Level: 3.75/7)
+- Judgment and Decision Making (Importance: 3.38/5 | Level: 3.0/7)
+- Reading Comprehension (Importance: 3.38/5 | Level: 3.5/7)
+- Time Management (Importance: 3.12/5 | Level: 2.75/7)
+- Active Learning (Importance: 3.12/5 | Level: 3.0/7)
+- Complex Problem Solving (Importance: 3.12/5 | Level: 3.0/7)
+- Writing (Importance: 3.0/5 | Level: 2.88/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 2.88/5 | Level: 3.0/7)
+- Quality Control Analysis (Importance: 2.88/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 2.62/7)
+- Troubleshooting (Importance: 2.75/5 | Level: 2.62/7)
+- Management of Personnel Resources (Importance: 2.5/5 | Level: 2.5/7)
+- Mathematics (Importance: 2.5/5 | Level: 2.62/7)
+- Instructing (Importance: 2.38/5 | Level: 2.62/7)
+- Service Orientation (Importance: 2.38/5 | Level: 1.88/7)
+- Systems Analysis (Importance: 2.25/5 | Level: 2.25/7)
+- Equipment Maintenance (Importance: 2.12/5 | Level: 1.38/7)
+- Systems Evaluation (Importance: 2.12/5 | Level: 2.12/7)
+- Persuasion (Importance: 2.0/5 | Level: 1.75/7)
+- Negotiation (Importance: 2.0/5 | Level: 1.75/7)
+- Repairing (Importance: 1.88/5 | Level: 1.38/7)
+- Operations Analysis (Importance: 1.75/5 | Level: 1.12/7)
+- Management of Material Resources (Importance: 1.75/5 | Level: 0.88/7)
+- Management of Financial Resources (Importance: 1.62/5 | Level: 0.88/7)
+- Equipment Selection (Importance: 1.5/5 | Level: 0.75/7)
+- Science (Importance: 1.38/5 | Level: 0.38/7)
+- Technology Design (Importance: 1.25/5 | Level: 0.25/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Electronic train management systems ETMS (Tech skill type: Expert system software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Route mapping software (Tech skill type: Route navigation software)
+- Time tracking software (Tech skill type: Time accounting software)
+
+## TOOLS USED
+- Adjustable hand wrenches (Tool type: Adjustable wrenches)
+- Adjustable widemouth pliers (Tool type: Adjustable widemouth pliers)
+- Automatic track switching systems (Tool type: Rail switching systems)
+- Car coupling devices (Tool type: Rail couplers)
+- Claw hammers (Tool type: Claw hammer)
+- Desktop computers (Tool type: Desktop computers)
+- Diesel freight engines (Tool type: Diesel freight locomotives)
+- Diesel passenger engines (Tool type: Diesel passenger locomotives)
+- Electric freight engines (Tool type: Electric freight locomotives)
+- Electric passenger engines (Tool type: Electric passenger locomotives)
+- Freight car air brakes (Tool type: Train braking systems)
+- Gas-turbine-electric engines (Tool type: Electric freight locomotives)
+- Locomotive air brakes (Tool type: Train braking systems)
+- Manual rail switches (Tool type: Rail switching systems)
+- On-board computers (Tool type: Thin client computers)
+- Personal computers (Tool type: Personal computers)
+- Phillips head screwdrivers (Tool type: Screwdrivers)
+- Socket wrench sets (Tool type: Socket sets)
+- Steam engines (Tool type: Steam engines)
+- Straight screwdrivers (Tool type: Screwdrivers)
+- Tape measures (Tool type: Tape measures)
+- Two way radios (Tool type: Two way radios)
+- Two-way end of train devices (Tool type: Radio frequency transmitters or receivers)
+- Warning horns (Tool type: Vehicle horns)

@@ -1,0 +1,100 @@
+Job Title: Meat, Poultry, and Fish Cutters and Trimmers
+O*NET-SOC Code: 51-3022.00
+
+# DESCRIPTION
+Use hands or hand tools to perform routine cutting and trimming of meat, poultry, and seafood.
+
+# TASKS
+- Use knives, cleavers, meat saws, bandsaws, or other equipment to perform meat cutting and trimming.
+- Weigh meats and tag containers for weight and contents.
+- Inspect meat products for defects, bruises or blemishes and remove them along with any excess fat.
+- Cut and trim meat to prepare for packing.
+- Separate meats and byproducts into specified containers and seal containers.
+- Process primal parts into cuts that are ready for retail use.
+- Prepare ready-to-heat foods by filleting meat or fish or cutting it into bite-sized pieces, preparing and adding vegetables or applying sauces or breading.
+- Clean, trim, slice, and section carcasses for future processing.
+- Remove parts, such as skin, feathers, scales or bones, from carcass.
+- Obtain and distribute specified meat or carcass.
+- Produce hamburger meat and meat trimmings.
+- Clean and salt hides.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Active Listening (Importance: 3.12/5 | Level: 2.25/7)
+- Monitoring (Importance: 3.0/5 | Level: 2.62/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 2.88/7)
+- Speaking (Importance: 3.0/5 | Level: 2.62/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 2.12/7)
+- Coordination (Importance: 2.88/5 | Level: 2.38/7)
+- Time Management (Importance: 2.88/5 | Level: 2.12/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.38/7)
+- Service Orientation (Importance: 2.75/5 | Level: 2.38/7)
+- Instructing (Importance: 2.62/5 | Level: 2.12/7)
+- Management of Personnel Resources (Importance: 2.62/5 | Level: 2.25/7)
+- Operations Monitoring (Importance: 2.5/5 | Level: 2.38/7)
+- Reading Comprehension (Importance: 2.38/5 | Level: 2.25/7)
+- Complex Problem Solving (Importance: 2.38/5 | Level: 2.12/7)
+- Active Learning (Importance: 2.38/5 | Level: 2.25/7)
+- Troubleshooting (Importance: 2.25/5 | Level: 2.0/7)
+- Persuasion (Importance: 2.25/5 | Level: 2.12/7)
+- Operation and Control (Importance: 2.25/5 | Level: 2.12/7)
+- Negotiation (Importance: 2.25/5 | Level: 2.12/7)
+- Mathematics (Importance: 2.25/5 | Level: 1.88/7)
+- Learning Strategies (Importance: 2.25/5 | Level: 2.25/7)
+- Writing (Importance: 2.12/5 | Level: 2.12/7)
+- Quality Control Analysis (Importance: 2.12/5 | Level: 2.12/7)
+- Equipment Selection (Importance: 2.0/5 | Level: 1.38/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.0/7)
+- Equipment Maintenance (Importance: 1.75/5 | Level: 1.25/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 0.88/7)
+- Repairing (Importance: 1.75/5 | Level: 1.25/7)
+- Systems Analysis (Importance: 1.62/5 | Level: 1.12/7)
+- Systems Evaluation (Importance: 1.62/5 | Level: 1.12/7)
+- Technology Design (Importance: 1.25/5 | Level: 0.25/7)
+- Operations Analysis (Importance: 1.12/5 | Level: 0.12/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Meat inventory software (Tech skill type: Inventory management software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Sales software (Tech skill type: Point of sale POS software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Blast chillers (Tool type: Blast freezers)
+- Bone dusters (Tool type: Commercial use cutlery)
+- Boning knives (Tool type: Commercial use cutlery)
+- Box cutters (Tool type: Razor knives)
+- Butcher knives (Tool type: Commercial use cutlery)
+- Cubing machines (Tool type: Dicing machinery)
+- Derinding machines (Tool type: Cutting machinery)
+- Electric meat grinders (Tool type: Commercial use food grinders)
+- Floor jacks (Tool type: Jacks)
+- Forklifts (Tool type: Forklifts)
+- Gamb sticks (Tool type: Lifting hooks)
+- Hamburger patty makers (Tool type: Forming machine)
+- Hand saws (Tool type: Saws)
+- Hoisting equipment (Tool type: Hoists)
+- Kitchen shears (Tool type: Shears)
+- Knife sharpeners (Tool type: Sharpening stones or tools or kits)
+- Machine rollers (Tool type: Pallet trucks)
+- Manual winches (Tool type: Winches)
+- Materials conveyors (Tool type: Belt conveyors)
+- Meat cleavers (Tool type: Commercial use cutlery)
+- Meat saws (Tool type: Cutting machinery)
+- Meat scales (Tool type: Commercial use scales)
+- Meat shackles (Tool type: Shaft collar)
+- Meat tenderizing tools (Tool type: Commercial use cutlery)
+- Meat-cutting bandsaws (Tool type: Cutting machinery)
+- Needle machines (Tool type: Filling machinery)
+- Personal computers (Tool type: Personal computers)
+- Pneumatic staple guns (Tool type: Staple guns)
+- Pressing machines (Tool type: Forming machine)
+- Pressure washers (Tool type: Pressure or steam cleaners)
+- Pricing guns (Tool type: Label applying machines)
+- Rotary cleaning brushes (Tool type: Cleaning brushes)
+- Shredding machines (Tool type: Cutting machinery)
+- Slicers (Tool type: Slicing machinery)
+- Wrapping machines (Tool type: Wrapping machinery)

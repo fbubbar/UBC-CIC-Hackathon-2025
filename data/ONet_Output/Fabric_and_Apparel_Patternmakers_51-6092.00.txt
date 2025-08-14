@@ -1,0 +1,99 @@
+Job Title: Fabric and Apparel Patternmakers
+O*NET-SOC Code: 51-6092.00
+
+# DESCRIPTION
+Draw and construct sets of precision master fabric patterns or layouts. May also mark and cut fabrics and apparel.
+
+# TASKS
+- Create a master pattern for each size within a range of garment sizes, using charts, drafting instruments, computers, or grading devices.
+- Input specifications into computers to assist with pattern design and pattern cutting.
+- Draw details on outlined parts to indicate where parts are to be joined, as well as the positions of pleats, pockets, buttonholes, and other features, using computers or drafting instruments.
+- Make adjustments to patterns after fittings.
+- Compute dimensions of patterns according to sizes, considering stretching of material.
+- Mark samples and finished patterns with information, such as garment size, section, style, identification, and sewing instructions.
+- Draw outlines of pattern parts by adapting or copying existing patterns, or by drafting new patterns.
+- Test patterns by making and fitting sample garments.
+- Position and cut out master or sample patterns, using scissors and knives, or print out copies of patterns, using computers.
+- Create a paper pattern from which to mass-produce a design concept.
+- Discuss design specifications with designers, and convert their original models of garments into patterns of separate parts that can be laid out on a length of fabric.
+- Examine sketches, sample articles, and design specifications to determine quantities, shapes, and sizes of pattern parts, and to determine the amount of material or fabric required to make a product.
+- Determine the best layout of pattern pieces to minimize waste of material, and mark fabric accordingly.
+- Create design specifications to provide instructions on garment sewing and assembly.
+- Trace outlines of paper onto cardboard patterns, and cut patterns into parts to make templates.
+- Trace outlines of specified patterns onto material, and cut fabric, using scissors.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Critical Thinking (Importance: 3.75/5 | Level: 3.38/7)
+- Active Listening (Importance: 3.38/5 | Level: 3.38/7)
+- Time Management (Importance: 3.25/5 | Level: 3.0/7)
+- Judgment and Decision Making (Importance: 3.25/5 | Level: 3.0/7)
+- Active Learning (Importance: 3.12/5 | Level: 3.0/7)
+- Mathematics (Importance: 3.12/5 | Level: 3.0/7)
+- Speaking (Importance: 3.12/5 | Level: 3.0/7)
+- Reading Comprehension (Importance: 3.12/5 | Level: 3.25/7)
+- Quality Control Analysis (Importance: 3.12/5 | Level: 3.12/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.25/7)
+- Operations Monitoring (Importance: 3.0/5 | Level: 2.88/7)
+- Writing (Importance: 3.0/5 | Level: 2.88/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 3.0/7)
+- Complex Problem Solving (Importance: 3.0/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.88/7)
+- Instructing (Importance: 2.88/5 | Level: 3.0/7)
+- Operations Analysis (Importance: 2.88/5 | Level: 2.75/7)
+- Coordination (Importance: 2.88/5 | Level: 2.88/7)
+- Service Orientation (Importance: 2.88/5 | Level: 2.75/7)
+- Systems Evaluation (Importance: 2.75/5 | Level: 2.38/7)
+- Systems Analysis (Importance: 2.75/5 | Level: 2.75/7)
+- Persuasion (Importance: 2.62/5 | Level: 2.62/7)
+- Operation and Control (Importance: 2.5/5 | Level: 2.5/7)
+- Negotiation (Importance: 2.5/5 | Level: 2.62/7)
+- Troubleshooting (Importance: 2.12/5 | Level: 2.12/7)
+- Technology Design (Importance: 2.12/5 | Level: 1.5/7)
+- Management of Personnel Resources (Importance: 2.12/5 | Level: 2.12/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.88/7)
+- Programming (Importance: 2.0/5 | Level: 1.25/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.62/7)
+- Equipment Selection (Importance: 1.5/5 | Level: 0.62/7)
+- Repairing (Importance: 1.25/5 | Level: 0.38/7)
+- Science (Importance: 1.12/5 | Level: 0.12/7)
+- Equipment Maintenance (Importance: 1.12/5 | Level: 0.12/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adobe Illustrator (Tech skill type: Graphics or photo imaging software)
+- Adobe Photoshop (Tech skill type: Graphics or photo imaging software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Gerber Technology AccuMark (Tech skill type: Computer aided design CAD software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Word (Tech skill type: Word processing software)
+- PatternMaker (Tech skill type: Computer aided design CAD software)
+
+## TOOLS USED
+- Curve sticks (Tool type: Dressmakers ruler)
+- Dress form mannequins (Tool type: Full body form or mannequin)
+- Fabric shears (Tool type: Shears)
+- Hip curve rulers (Tool type: Dressmakers ruler)
+- Industrial sewing machines (Tool type: Sewing machines)
+- Ironing boards (Tool type: Ironing boards)
+- L squares (Tool type: Squares)
+- Measuring tapes (Tool type: Tape measures)
+- Paper scissors (Tool type: Scissors)
+- Pattern boards (Tool type: Pattern cutting mats or boards)
+- Pattern grading rulers (Tool type: Dressmakers ruler)
+- Pattern paper cutters (Tool type: Shears)
+- Pattern punches (Tool type: Punches or nail sets or drifts)
+- Pressing irons (Tool type: Domestic clothing irons)
+- Round knives (Tool type: Utility knives)
+- Scale rulers (Tool type: Dressmakers ruler)
+- Screw punches (Tool type: Punches or nail sets or drifts)
+- Seam allowance gauges (Tool type: Seam gauge)
+- Seam rippers (Tool type: Seam ripper)
+- See-through rulers (Tool type: Dressmakers ruler)
+- Serrated sewing pattern tracing wheels (Tool type: Serrated pattern tracing wheel)
+- Sewing needles (Tool type: Sewing needles)
+- Sewing pattern notchers (Tool type: Pattern notcher)
+- Steel straight pins (Tool type: Straight pins)
+- Yard sticks (Tool type: Dressmakers ruler)

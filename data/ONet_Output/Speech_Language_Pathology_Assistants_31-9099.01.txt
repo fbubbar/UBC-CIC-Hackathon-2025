@@ -1,0 +1,112 @@
+Job Title: Speech-Language Pathology Assistants
+O*NET-SOC Code: 31-9099.01
+
+# DESCRIPTION
+Assist speech-language pathologists in the assessment and treatment of speech, language, voice, and fluency disorders. Implement speech and language programs or activities as planned and directed by speech-language pathologists. Monitor the use of alternative communication devices and systems.
+
+# TASKS
+- Document clients' progress toward meeting established treatment objectives.
+- Implement treatment plans or protocols as directed by speech-language pathologists.
+- Collect and compile data to document clients' performance or assess program quality.
+- Perform support duties, such as preparing materials, keeping records, maintaining supplies, and scheduling activities.
+- Assist speech-language pathologists in the remediation or development of speech and language skills.
+- Select or prepare speech-language instructional materials.
+- Assist speech-language pathologists in the conduct of client screenings or assessments of language, voice, fluency, articulation, or hearing.
+- Prepare charts, graphs, or other visual displays to communicate clients' performance information.
+- Test or maintain equipment to ensure correct performance.
+- Conduct in-service training sessions, or family and community education programs.
+- Assist speech-language pathologists in the conduct of speech-language research projects.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Active Listening (Importance: 4.0/5 | Level: 4.0/7)
+- Speaking (Importance: 3.75/5 | Level: 3.88/7)
+- Reading Comprehension (Importance: 3.75/5 | Level: 4.0/7)
+- Social Perceptiveness (Importance: 3.5/5 | Level: 3.88/7)
+- Service Orientation (Importance: 3.38/5 | Level: 3.38/7)
+- Monitoring (Importance: 3.38/5 | Level: 3.62/7)
+- Complex Problem Solving (Importance: 3.25/5 | Level: 3.12/7)
+- Active Learning (Importance: 3.12/5 | Level: 3.12/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 3.12/7)
+- Writing (Importance: 3.12/5 | Level: 3.25/7)
+- Critical Thinking (Importance: 3.12/5 | Level: 3.62/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 3.5/7)
+- Instructing (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 2.88/5 | Level: 2.88/7)
+- Coordination (Importance: 2.88/5 | Level: 3.0/7)
+- Systems Evaluation (Importance: 2.75/5 | Level: 3.12/7)
+- Negotiation (Importance: 2.62/5 | Level: 2.5/7)
+- Persuasion (Importance: 2.62/5 | Level: 2.62/7)
+- Systems Analysis (Importance: 2.62/5 | Level: 2.62/7)
+- Management of Personnel Resources (Importance: 2.12/5 | Level: 2.0/7)
+- Operations Monitoring (Importance: 2.12/5 | Level: 1.75/7)
+- Science (Importance: 2.0/5 | Level: 1.62/7)
+- Mathematics (Importance: 2.0/5 | Level: 1.88/7)
+- Management of Material Resources (Importance: 1.75/5 | Level: 1.0/7)
+- Technology Design (Importance: 1.75/5 | Level: 1.0/7)
+- Quality Control Analysis (Importance: 1.5/5 | Level: 0.5/7)
+- Management of Financial Resources (Importance: 1.5/5 | Level: 0.62/7)
+- Operations Analysis (Importance: 1.5/5 | Level: 0.75/7)
+- Equipment Maintenance (Importance: 1.38/5 | Level: 0.38/7)
+- Programming (Importance: 1.38/5 | Level: 0.38/7)
+- Operation and Control (Importance: 1.38/5 | Level: 0.38/7)
+- Equipment Selection (Importance: 1.25/5 | Level: 0.25/7)
+- Troubleshooting (Importance: 1.25/5 | Level: 0.25/7)
+- Repairing (Importance: 1.12/5 | Level: 0.12/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adobe Audition (Tech skill type: Music or sound editing software)
+- Biofeedback software (Tech skill type: Medical software)
+- Bungalow Software Aphasia Tutor (Tech skill type: Medical software)
+- ELR Software eLr Extra Language Resources (Tech skill type: Medical software)
+- Email software (Tech skill type: Electronic mail software)
+- KayPENTAX Multi-Speech (Tech skill type: Medical software)
+- Language analysis software (Tech skill type: Analytical or scientific software)
+- Learning Fundamentals Speech Visualization (Tech skill type: Medical software)
+- Micro Video Video Voice Speech Training System (Tech skill type: Medical software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Propeller Multimedia React2 (Tech skill type: Medical software)
+- Signal analysis software (Tech skill type: Analytical or scientific software)
+- Speech analysis software (Tech skill type: Analytical or scientific software)
+- Text to speech software (Tech skill type: Text to speech conversion software)
+- Web browser software (Tech skill type: Internet browser software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Airflow measurement devices (Tool type: Flow sensors)
+- Alternative computer keyboards (Tool type: Keyboards)
+- Circumaural headphones (Tool type: Headphones)
+- Closed circuit television CCTV surveillance systems (Tool type: Closed circuit television CCTV system)
+- Communications boards (Tool type: Letter or symbol boards for the physically challenged)
+- Compact disk CD players (Tool type: Compact disk players or recorders)
+- Compact stereo systems (Tool type: Portable stereo systems)
+- Computer inkjet printers (Tool type: Inkjet printers)
+- Copy machines (Tool type: Photocopiers)
+- Desktop computers (Tool type: Desktop computers)
+- Diagnostic stroboscopes (Tool type: Stroboscopes)
+- Digital audio recorders (Tool type: Digital voice recorders)
+- Digital audiometers (Tool type: Audiometers)
+- Digital still cameras (Tool type: Digital cameras)
+- Digital video stroboscopy systems (Tool type: Stroboscopes)
+- Dynamic display devices (Tool type: Tablet computers)
+- Electroglottographs EGG (Tool type: Sound measuring apparatus or decibel meter)
+- Electromyographs EMG (Tool type: Electroencephalograph EEGs)
+- Handheld digital camcorders (Tool type: Hand held camcorders or video cameras)
+- Infrared switches (Tool type: Adaptive communication switches for the physically challenged)
+- Jellybean switches (Tool type: Adaptive communication switches for the physically challenged)
+- Laptop computers (Tool type: Notebook computers)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Mechanical stethoscopes (Tool type: Medical acoustic stethoscopes)
+- Personal computers (Tool type: Personal computers)
+- Reading pens (Tool type: Scanners)
+- Recording microphones (Tool type: Microphones)
+- Sound booths (Tool type: Audiometric booths or acoustic hearing test chambers)
+- Sound switches (Tool type: Adaptive communication switches for the physically challenged)
+- Speech synthesizers (Tool type: Voice synthesizers for the physically challenged)
+- Speech therapy mirrors (Tool type: Speech mirror)
+- Subglottal air pressure measurement devices (Tool type: Pressure indicators)
+- Touch switches (Tool type: Adaptive communication switches for the physically challenged)

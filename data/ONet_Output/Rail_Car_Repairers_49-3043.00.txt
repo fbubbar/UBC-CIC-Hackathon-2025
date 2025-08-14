@@ -1,0 +1,128 @@
+Job Title: Rail Car Repairers
+O*NET-SOC Code: 49-3043.00
+
+# DESCRIPTION
+Diagnose, adjust, repair, or overhaul railroad rolling stock, mine cars, or mass transit rail cars.
+
+# TASKS
+- Record conditions of cars, and repair and maintenance work performed or to be performed.
+- Inspect components such as bearings, seals, gaskets, wheels, and coupler assemblies to determine if repairs are needed.
+- Repair or replace defective or worn parts such as bearings, pistons, and gears, using hand tools, torque wrenches, power tools, and welding equipment.
+- Inspect the interior and exterior of rail cars coming into rail yards to identify defects and to determine the extent of wear and damage.
+- Remove locomotives, car mechanical units, or other components, using pneumatic hoists and jacks, pinch bars, hand tools, and cutting torches.
+- Test units for operability before and after repairs.
+- Adjust repaired or replaced units as needed to ensure proper operation.
+- Repair, fabricate, and install steel or wood fittings, using blueprints, shop sketches, and instruction manuals.
+- Perform scheduled maintenance, and clean units and components.
+- Examine car roofs for wear and damage, and repair defective sections, using roofing material, cement, nails, and waterproof paint.
+- Paint car exteriors, interiors, and fixtures.
+- Repair and maintain electrical and electronic controls for propulsion and braking systems.
+- Disassemble units such as water pumps, control valves, and compressors so that repairs can be made.
+- Measure diameters of axle wheel seats, using micrometers, and mark dimensions on axles so that wheels can be bored to specified dimensions.
+- Test electrical systems of cars by operating systems and using testing equipment such as ammeters.
+- Replace defective wiring and insulation, and tighten electrical connections, using hand tools.
+- Install and repair interior flooring, fixtures, walls, plumbing, steps, and platforms.
+- Repair window sash frames, attach weather stripping and channels to frames, and replace window glass, using hand tools.
+- Align car sides for installation of car ends and crossties, using width gauges, turnbuckles, and wrenches.
+- Repair car upholstery.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Troubleshooting (Importance: 4.0/5 | Level: 3.75/7)
+- Repairing (Importance: 4.0/5 | Level: 4.0/7)
+- Equipment Maintenance (Importance: 3.75/5 | Level: 3.25/7)
+- Critical Thinking (Importance: 3.25/5 | Level: 3.38/7)
+- Quality Control Analysis (Importance: 3.25/5 | Level: 3.25/7)
+- Operations Monitoring (Importance: 3.25/5 | Level: 3.0/7)
+- Operation and Control (Importance: 3.12/5 | Level: 3.0/7)
+- Speaking (Importance: 3.0/5 | Level: 2.38/7)
+- Active Listening (Importance: 3.0/5 | Level: 3.0/7)
+- Monitoring (Importance: 2.88/5 | Level: 2.75/7)
+- Time Management (Importance: 2.88/5 | Level: 3.0/7)
+- Reading Comprehension (Importance: 2.88/5 | Level: 2.75/7)
+- Writing (Importance: 2.88/5 | Level: 2.75/7)
+- Judgment and Decision Making (Importance: 2.88/5 | Level: 2.75/7)
+- Coordination (Importance: 2.88/5 | Level: 2.62/7)
+- Active Learning (Importance: 2.75/5 | Level: 2.75/7)
+- Complex Problem Solving (Importance: 2.75/5 | Level: 2.62/7)
+- Equipment Selection (Importance: 2.75/5 | Level: 2.38/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 2.25/7)
+- Systems Evaluation (Importance: 2.62/5 | Level: 2.38/7)
+- Systems Analysis (Importance: 2.62/5 | Level: 2.25/7)
+- Installation (Importance: 2.62/5 | Level: 2.5/7)
+- Learning Strategies (Importance: 2.62/5 | Level: 2.25/7)
+- Instructing (Importance: 2.5/5 | Level: 2.25/7)
+- Management of Personnel Resources (Importance: 2.5/5 | Level: 2.25/7)
+- Service Orientation (Importance: 2.38/5 | Level: 2.12/7)
+- Persuasion (Importance: 2.25/5 | Level: 2.12/7)
+- Mathematics (Importance: 2.12/5 | Level: 2.12/7)
+- Negotiation (Importance: 2.12/5 | Level: 2.12/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.0/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.0/7)
+- Science (Importance: 1.75/5 | Level: 1.0/7)
+- Operations Analysis (Importance: 1.75/5 | Level: 1.12/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 0.88/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adobe Acrobat (Tech skill type: Document management software)
+- Disassembler software (Tech skill type: Compiler and decompiler software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Internet Explorer (Tech skill type: Internet browser software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Mozilla Firefox (Tech skill type: Internet browser software)
+- RailTech Software Solutions Rail 21 Management System (Tech skill type: Inventory management software)
+- RailTech Software Systems Mars for the 21st Century (Tech skill type: Accounting software)
+- WheelShop Automation.com Wheel Shop Management Suite (Tech skill type: Data base user interface and query software)
+
+## TOOLS USED
+- Adjustable hand wrenches (Tool type: Adjustable wrenches)
+- Aligning pry bars (Tool type: Pry bars)
+- Arc welders (Tool type: Shielded metal arc welding or stick welding machine)
+- Automated car movers (Tool type: Railway or tramway maintenance or service vehicle)
+- Automatic air brake testers (Tool type: Brake tester)
+- Ball peen hammers (Tool type: Ball peen hammer)
+- Bearing dismounting presses (Tool type: Wheel balancing equipment)
+- Bearing presses (Tool type: Bearing fitting tool kits)
+- Bogie testing benches (Tool type: Railway rolling stock lifting jack)
+- Car hoists (Tool type: Hoists)
+- Combination squares (Tool type: Squares)
+- Combination wrenches (Tool type: Combination wrenches)
+- Cotter pin pullers (Tool type: Pullers)
+- Cutting torches (Tool type: Blow torch)
+- Diagonal-cutting pliers (Tool type: Diagonal cut pliers)
+- Flat cold chisels (Tool type: Cold chisels)
+- Flat head screwdrivers (Tool type: Screwdrivers)
+- Floor-mounted jib cranes (Tool type: Jib crane)
+- Gasket scrapers (Tool type: Cleaning scrapers)
+- Intermodal car jacks (Tool type: Jacks)
+- Locomotive drop table (Tool type: Railway lift table for engine and component)
+- Measuring tapes (Tool type: Tape measures)
+- Mobile cranes (Tool type: Tractor mounted crane)
+- Mobile radios (Tool type: Two way radios)
+- Mounting presses (Tool type: Hydraulic press frames)
+- Nailing hammers (Tool type: Claw hammer)
+- Needlenose pliers (Tool type: Needlenose pliers)
+- Personal computers (Tool type: Personal computers)
+- Phillips head screwdrivers (Tool type: Screwdrivers)
+- Pinch bars (Tool type: Pry bars)
+- Pipe wrenches (Tool type: Pipe wrenches)
+- Pneumatic hoists (Tool type: Hoists)
+- Protective safety glasses (Tool type: Safety glasses)
+- Retarders (Tool type: Train braking systems)
+- Rolling head pry bars (Tool type: Pry bars)
+- Skid steer loaders (Tool type: Skid steer loaders)
+- Socket drive extensions (Tool type: Socket attachments and accessories)
+- Socket wrench handles (Tool type: Socket attachments and accessories)
+- Socket wrenches (Tool type: Sockets)
+- Tablet computers (Tool type: Tablet computers)
+- Torpedo levels (Tool type: Levels)
+- Torque wrenches (Tool type: Torque wrenches)
+- Underfloor lifting systems (Tool type: Railway lift table for engine and component)
+- Wheel lathes (Tool type: Automatic lathe or chucking machine)
+- Wheel shim tables (Tool type: Wheel alignment equipment)
+- Wheeled forklifts (Tool type: Forklifts)

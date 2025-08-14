@@ -1,0 +1,106 @@
+Job Title: Tax Preparers
+O*NET-SOC Code: 13-2082.00
+
+# DESCRIPTION
+Prepare tax returns for individuals or small businesses.
+
+# TASKS
+- Use all appropriate adjustments, deductions, and credits to keep clients' taxes to a minimum.
+- Compute taxes owed or overpaid, using adding machines or personal computers, and complete entries on forms, following tax form instructions and tax tables.
+- Interview clients to obtain additional information on taxable income and deductible expenses and allowances.
+- Review financial records, such as income statements and documentation of expenditures to determine forms needed to prepare tax returns.
+- Prepare or assist in preparing simple to complex tax returns for individuals or small businesses.
+- Check data input or verify totals on forms prepared by others to detect errors in arithmetic, data entry, or procedures.
+- Furnish taxpayers with sufficient information and advice to ensure correct tax form completion.
+- Consult tax law handbooks or bulletins to determine procedures for preparation of atypical returns.
+- Explain federal and state tax laws to individuals and companies.
+- Answer questions and provide future tax planning to clients.
+- Calculate form preparation fees according to return complexity and processing time required.
+- Schedule appointments with clients.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.0/7)
+- Active Listening (Importance: 3.88/5 | Level: 4.0/7)
+- Critical Thinking (Importance: 3.5/5 | Level: 3.62/7)
+- Speaking (Importance: 3.25/5 | Level: 3.5/7)
+- Active Learning (Importance: 3.12/5 | Level: 3.12/7)
+- Mathematics (Importance: 3.12/5 | Level: 3.25/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 2.88/7)
+- Service Orientation (Importance: 3.0/5 | Level: 3.12/7)
+- Writing (Importance: 3.0/5 | Level: 3.0/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 3.0/7)
+- Complex Problem Solving (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 2.88/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 2.75/5 | Level: 3.0/7)
+- Coordination (Importance: 2.75/5 | Level: 2.88/7)
+- Instructing (Importance: 2.75/5 | Level: 3.0/7)
+- Negotiation (Importance: 2.62/5 | Level: 2.62/7)
+- Systems Analysis (Importance: 2.5/5 | Level: 2.75/7)
+- Persuasion (Importance: 2.5/5 | Level: 2.5/7)
+- Systems Evaluation (Importance: 2.25/5 | Level: 2.25/7)
+- Management of Personnel Resources (Importance: 2.0/5 | Level: 1.75/7)
+- Quality Control Analysis (Importance: 1.88/5 | Level: 1.12/7)
+- Management of Financial Resources (Importance: 1.62/5 | Level: 0.88/7)
+- Programming (Importance: 1.62/5 | Level: 0.62/7)
+- Operations Analysis (Importance: 1.62/5 | Level: 0.88/7)
+- Technology Design (Importance: 1.5/5 | Level: 0.5/7)
+- Management of Material Resources (Importance: 1.5/5 | Level: 0.5/7)
+- Operations Monitoring (Importance: 1.38/5 | Level: 0.38/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+- Operation and Control (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- ACI TaskTracker (Tech skill type: Project management software)
+- ATX Total Accounting Office (Tech skill type: Accounting software)
+- ATX Total Tax Office (Tech skill type: Tax preparation software)
+- CCH ProSystem fx TAX (Tech skill type: Tax preparation software)
+- Creative Solutions CPA Depreciation (Tech skill type: Tax preparation software)
+- Creative Solutions UltraTax CS (Tech skill type: Tax preparation software)
+- Datagroup ElectroFile 1040 (Tech skill type: Tax preparation software)
+- Datagroup ElectroFile ELF (Tech skill type: Tax preparation software)
+- Datagroup ElectroFile ST (Tech skill type: Tax preparation software)
+- Datair Employee Benefits Systems (Tech skill type: Financial analysis software)
+- Electronic ToolKit for Tax Preparers (Tech skill type: Tax preparation software)
+- Email software (Tech skill type: Electronic mail software)
+- ExacTax PackageEX (Tech skill type: Tax preparation software)
+- Greatland Corporation Winfiler (Tech skill type: Human resources software)
+- GreatTax (Tech skill type: Tax preparation software)
+- Intellitax financial solutions software (Tech skill type: Tax preparation software)
+- Intuit ProSeries (Tech skill type: Tax preparation software)
+- Intuit QuickBooks (Tech skill type: Accounting software)
+- Intuit TurboTax (Tech skill type: Tax preparation software)
+- Kleinrock Publishing (Tech skill type: Financial analysis software)
+- LaCerte 1040 Tax Analyzer (Tech skill type: Tax preparation software)
+- Laserfiche Avante (Tech skill type: Document management software)
+- M8 Client Billing (Tech skill type: Accounting software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Internet Explorer (Tech skill type: Internet browser software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Petz Enterprises V-Tax (Tech skill type: Tax preparation software)
+- Quicken (Tech skill type: Accounting software)
+- Sage 50 Accounting (Tech skill type: Data base user interface and query software)
+- Sales Tax Tools Sales Tax Researcher (Tech skill type: Financial analysis software)
+- ScheduleVIEW (Tech skill type: Calendar and scheduling software)
+- Sungard Relius (Tech skill type: Financial analysis software)
+- Sync Essentials Trade Accountant (Tech skill type: Financial analysis software)
+- Tax compliance property tax management software (Tech skill type: Compliance software)
+- Tax software (Tech skill type: Accounting software)
+- Thomson GoSystem MyTaxInfo (Tech skill type: Spreadsheet software)
+- Thomson Reuters UltraTax CS (Tech skill type: Tax preparation software)
+- Universal Tax Systems TaxWise (Tech skill type: Tax preparation software)
+- Web page creation and editing software (Tech skill type: Web page creation and editing software)
+
+## TOOLS USED
+- 10-key calculators (Tool type: Desktop calculator)
+- Desktop computers (Tool type: Desktop computers)
+- Notebook computers (Tool type: Notebook computers)

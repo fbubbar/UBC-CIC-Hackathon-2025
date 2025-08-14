@@ -1,0 +1,138 @@
+Job Title: Logistics Engineers
+O*NET-SOC Code: 13-1081.01
+
+# DESCRIPTION
+Design or analyze operational solutions for projects such as transportation optimization, network modeling, process and methods analysis, cost containment, capacity enhancement, routing and shipment optimization, or information management.
+
+# TASKS
+- Propose logistics solutions for customers.
+- Develop logistic metrics, internal analysis tools, or key performance indicators for business units.
+- Conduct logistics studies or analyses, such as time studies, zero-base analyses, rate analyses, network analyses, flow-path analyses, or supply chain analyses.
+- Identify cost-reduction or process-improvement logistic opportunities.
+- Review contractual commitments, customer specifications, or related information to determine logistics or support requirements.
+- Evaluate effectiveness of current or future logistical processes.
+- Prepare logistic strategies or conceptual designs for production facilities.
+- Provide logistics technology or information for effective and efficient support of product, equipment, or system manufacturing or service.
+- Develop or maintain cost estimates, forecasts, or cost models.
+- Analyze or interpret logistics data involving customer service, forecasting, procurement, manufacturing, inventory, transportation, or warehousing.
+- Determine logistics support requirements, such as facility details, staffing needs, or safety or maintenance plans.
+- Direct the work of logistics analysts.
+- Evaluate the use of inventory tracking technology, Web-based warehousing software, or intelligent conveyor systems to maximize plant or distribution center efficiency.
+- Develop specifications for equipment, tools, facility layouts, or material-handling systems.
+- Identify or develop business rules or standard operating procedures to streamline operating processes.
+- Determine requirements for compliance with environmental certification standards.
+- Apply logistics modeling techniques to address issues, such as operational process improvement or facility design or layout.
+- Prepare or validate documentation on automated logistics or maintenance-data reporting or management information systems.
+- Create models or scenarios to predict the impact of changing circumstances, such as fuel costs, road pricing, energy taxes, or carbon emissions legislation.
+- Provide logistical facility or capacity planning analyses for distribution or transportation functions.
+- Design plant distribution centers.
+- Interview key staff or tour facilities to identify efficiency-improvement, cost-reduction, or service-delivery opportunities.
+- Design comprehensive supply chains that minimize environmental impacts or costs.
+- Determine feasibility of designing new facilities or modifying existing facilities, based on factors such as cost, available space, schedule, technical requirements, or ergonomics.
+- Review global, national, or regional transportation or logistics reports for ways to improve efficiency or minimize the environmental impact of logistics activities.
+- Evaluate the use of technologies, such as global positioning systems (GPS), radio-frequency identification (RFID), route navigation software, or satellite linkup systems, to improve transportation efficiency.
+- Develop or document reverse logistics management processes to ensure maximal efficiency of product recycling, reuse, or final disposal.
+- Conduct environmental audits for logistics activities, such as storage, distribution, or transportation.
+- Develop or document procedures to minimize or mitigate carbon output resulting from the movement of materials or products.
+- Assess the environmental impact or energy efficiency of logistics activities, using carbon mitigation software.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Systems Analysis (Importance: 4.12/5 | Level: 4.25/7)
+- Reading Comprehension (Importance: 4.12/5 | Level: 4.38/7)
+- Writing (Importance: 4.0/5 | Level: 4.12/7)
+- Complex Problem Solving (Importance: 4.0/5 | Level: 4.0/7)
+- Judgment and Decision Making (Importance: 4.0/5 | Level: 4.0/7)
+- Active Listening (Importance: 4.0/5 | Level: 4.12/7)
+- Mathematics (Importance: 3.88/5 | Level: 4.0/7)
+- Critical Thinking (Importance: 3.88/5 | Level: 4.25/7)
+- Systems Evaluation (Importance: 3.88/5 | Level: 4.12/7)
+- Time Management (Importance: 3.75/5 | Level: 3.88/7)
+- Speaking (Importance: 3.75/5 | Level: 4.0/7)
+- Active Learning (Importance: 3.75/5 | Level: 3.88/7)
+- Coordination (Importance: 3.38/5 | Level: 3.62/7)
+- Operations Analysis (Importance: 3.38/5 | Level: 3.75/7)
+- Monitoring (Importance: 3.25/5 | Level: 3.88/7)
+- Management of Personnel Resources (Importance: 3.12/5 | Level: 3.62/7)
+- Persuasion (Importance: 3.12/5 | Level: 3.12/7)
+- Social Perceptiveness (Importance: 3.12/5 | Level: 3.5/7)
+- Instructing (Importance: 3.0/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 3.5/7)
+- Service Orientation (Importance: 3.0/5 | Level: 3.0/7)
+- Negotiation (Importance: 2.88/5 | Level: 2.88/7)
+- Technology Design (Importance: 2.75/5 | Level: 2.25/7)
+- Management of Material Resources (Importance: 2.75/5 | Level: 2.88/7)
+- Quality Control Analysis (Importance: 2.75/5 | Level: 2.88/7)
+- Management of Financial Resources (Importance: 2.75/5 | Level: 2.88/7)
+- Programming (Importance: 2.62/5 | Level: 2.25/7)
+- Science (Importance: 2.5/5 | Level: 2.88/7)
+- Operations Monitoring (Importance: 2.5/5 | Level: 2.62/7)
+- Troubleshooting (Importance: 2.38/5 | Level: 2.12/7)
+- Equipment Selection (Importance: 1.75/5 | Level: 1.12/7)
+- Operation and Control (Importance: 1.62/5 | Level: 0.75/7)
+- Repairing (Importance: 1.38/5 | Level: 0.75/7)
+- Equipment Maintenance (Importance: 1.38/5 | Level: 0.75/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- C++ (Tech skill type: Object or component oriented development software)
+- Computer aided design and drafting CADD software (Tech skill type: Computer aided design CAD software)
+- Enterprise resource planning ERP software (Tech skill type: Enterprise resource planning ERP software)
+- Failure modes and effects analysis FMEA software (Tech skill type: Analytical or scientific software)
+- i2 Transportation Modeler (Tech skill type: Materials requirements planning logistics and supply chain software)
+- IBM Cognos Impromptu (Tech skill type: Business intelligence and data analysis software)
+- IBM ILOG CPLEX Optimization Studio (Tech skill type: Analytical or scientific software)
+- IBM Notes (Tech skill type: Electronic mail software)
+- ITEM Software ITEM ToolKit (Tech skill type: Analytical or scientific software)
+- ITEM Software Spare Cost (Tech skill type: Analytical or scientific software)
+- JDA Manugistics (Tech skill type: Materials requirements planning logistics and supply chain software)
+- JMS Software RCM WorkSaver (Tech skill type: Analytical or scientific software)
+- Logistics Cost Estimating Tool (Tech skill type: Analytical or scientific software)
+- Logistics management information LMI database software (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Logistics Support Analysts SmartLogic (Tech skill type: Materials requirements planning logistics and supply chain software)
+- LOGSA COMPASS (Tech skill type: Analytical or scientific software)
+- LOGSA SYSPARS (Tech skill type: Analytical or scientific software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Power BI (Tech skill type: Business intelligence and data analysis software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft SQL Server (Tech skill type: Data base management system software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Visual Basic (Tech skill type: Development environment software)
+- Microsoft Visual Basic for Applications VBA (Tech skill type: Development environment software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Minitab (Tech skill type: Analytical or scientific software)
+- Oracle Database (Tech skill type: Data base user interface and query software)
+- Oracle Hyperion (Tech skill type: Enterprise resource planning ERP software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- Oracle Primavera Enterprise Project Portfolio Management (Tech skill type: Project management software)
+- Prolog (Tech skill type: Development environment software)
+- Python (Tech skill type: Object or component oriented development software)
+- Relex FMEA (Tech skill type: Analytical or scientific software)
+- Reliability centered maintenance RCM software (Tech skill type: Analytical or scientific software)
+- ReliaSoft RCM++ (Tech skill type: Analytical or scientific software)
+- ReliaSoft XFMEA (Tech skill type: Analytical or scientific software)
+- Reliass EAGLE (Tech skill type: Analytical or scientific software)
+- SAP Business Objects (Tech skill type: Enterprise resource planning ERP software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- SAS (Tech skill type: Analytical or scientific software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Tableau (Tech skill type: Business intelligence and data analysis software)
+- Warehouse management system WMS (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Computer laser printers (Tool type: Laser printers)
+- Desktop computers (Tool type: Desktop computers)
+- Digital cameras (Tool type: Digital cameras)
+- Laptop computers (Tool type: Notebook computers)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Multi-line telephone systems (Tool type: Special purpose telephones)
+- Multimedia projection equipment (Tool type: Multimedia projectors)
+- Multimedia projectors (Tool type: Multimedia projectors)
+- Personal computers (Tool type: Personal computers)

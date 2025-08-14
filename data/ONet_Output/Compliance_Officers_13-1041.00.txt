@@ -1,0 +1,99 @@
+Job Title: Compliance Officers
+O*NET-SOC Code: 13-1041.00
+
+# DESCRIPTION
+Examine, evaluate, and investigate eligibility for or conformity with laws and regulations governing contract compliance of licenses and permits, and perform other compliance and enforcement inspection and analysis activities not classified elsewhere.
+
+# TASKS
+- Warn violators of infractions or penalties.
+- Evaluate applications, records, or documents to gather information about eligibility or liability issues.
+- Advise licensees or other individuals or groups concerning licensing, permit, or passport regulations.
+- Prepare reports of activities, evaluations, recommendations, or decisions.
+- Report law or regulation violations to appropriate boards or agencies.
+- Confer with or interview officials, technical or professional specialists, or applicants to obtain information or to clarify facts relevant to licensing decisions.
+- Issue licenses to individuals meeting standards.
+- Collect fees for licenses.
+- Administer oral, written, road, or flight tests to license applicants.
+- Visit establishments to verify that valid licenses or permits are displayed and that licensing standards are being upheld.
+- Score tests and observe equipment operation and control to rate ability of applicants.
+- Prepare correspondence to inform concerned parties of licensing decisions or appeals processes.
+- Identify compliance issues that require follow-up or investigation.
+- Keep informed regarding pending industry changes, trends, or best practices.
+- Provide assistance to internal or external auditors in compliance reviews.
+- Verify that all firm and regulatory policies and procedures have been documented, implemented, and communicated.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Reading Comprehension (Importance: 4.0/5 | Level: 3.75/7)
+- Speaking (Importance: 3.88/5 | Level: 3.62/7)
+- Writing (Importance: 3.75/5 | Level: 3.62/7)
+- Active Listening (Importance: 3.75/5 | Level: 3.88/7)
+- Judgment and Decision Making (Importance: 3.62/5 | Level: 3.25/7)
+- Critical Thinking (Importance: 3.5/5 | Level: 3.62/7)
+- Social Perceptiveness (Importance: 3.5/5 | Level: 3.38/7)
+- Monitoring (Importance: 3.38/5 | Level: 3.62/7)
+- Complex Problem Solving (Importance: 3.25/5 | Level: 2.88/7)
+- Time Management (Importance: 3.25/5 | Level: 3.12/7)
+- Persuasion (Importance: 3.25/5 | Level: 3.12/7)
+- Coordination (Importance: 3.12/5 | Level: 3.12/7)
+- Service Orientation (Importance: 3.12/5 | Level: 3.12/7)
+- Negotiation (Importance: 3.12/5 | Level: 3.12/7)
+- Active Learning (Importance: 3.0/5 | Level: 3.12/7)
+- Learning Strategies (Importance: 2.88/5 | Level: 2.75/7)
+- Instructing (Importance: 2.88/5 | Level: 2.88/7)
+- Systems Analysis (Importance: 2.75/5 | Level: 2.75/7)
+- Management of Personnel Resources (Importance: 2.75/5 | Level: 2.38/7)
+- Systems Evaluation (Importance: 2.62/5 | Level: 2.62/7)
+- Mathematics (Importance: 2.12/5 | Level: 1.88/7)
+- Operations Monitoring (Importance: 2.12/5 | Level: 1.75/7)
+- Quality Control Analysis (Importance: 2.12/5 | Level: 1.25/7)
+- Operation and Control (Importance: 1.88/5 | Level: 1.5/7)
+- Management of Financial Resources (Importance: 1.88/5 | Level: 1.38/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.25/7)
+- Programming (Importance: 1.62/5 | Level: 0.75/7)
+- Troubleshooting (Importance: 1.62/5 | Level: 0.88/7)
+- Technology Design (Importance: 1.38/5 | Level: 0.5/7)
+- Operations Analysis (Importance: 1.25/5 | Level: 0.38/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Commercial driver's license information system CDLIS (Tech skill type: Data base user interface and query software)
+- Computer-assisted testing software (Tech skill type: Data base user interface and query software)
+- Database software (Tech skill type: Data base user interface and query software)
+- Digital imaging system software (Tech skill type: Graphics or photo imaging software)
+- Document scanning software (Tech skill type: Optical character reader OCR or scanning software)
+- Driving simulators (Tech skill type: Computer based training software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- National Driver Register NDR (Tech skill type: Data base user interface and query software)
+- Safety Status Measurement System SafeStat (Tech skill type: Data base user interface and query software)
+- Traffic record databases (Tech skill type: Data base user interface and query software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Barcode scanners (Tool type: Bar code reader equipment)
+- Desktop computers (Tool type: Desktop computers)
+- Digital cameras (Tool type: Digital cameras)
+- Document scanners (Tool type: Scanners)
+- Electric typewriters (Tool type: Typewriters)
+- Facial recognition systems (Tool type: Biometric identification equipment)
+- Fingerprint capture devices (Tool type: Biometric identification equipment)
+- Fingerprint recognition systems (Tool type: Biometric identification equipment)
+- Iris recognition systems (Tool type: Biometric identification equipment)
+- License or identification card printers (Tool type: Multi function printers)
+- Magnetic stripe readers (Tool type: Magnetic stripe readers and encoders)
+- Magnifying glasses (Tool type: Magnifiers)
+- Point of sale POS receipt printers (Tool type: Point of sale POS receipt printers)
+- Snellen eye charts (Tool type: Eye charts or vision cards)
+- Testing workstations (Tool type: Mainframe console or dumb terminals)
+- Ultraviolet UV lights (Tool type: Ultraviolet UV lamps)
+- Vision screening equipment (Tool type: Vision testing stereoscopes)

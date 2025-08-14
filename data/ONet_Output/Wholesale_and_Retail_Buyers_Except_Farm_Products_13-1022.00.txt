@@ -1,0 +1,128 @@
+Job Title: Wholesale and Retail Buyers, Except Farm Products
+O*NET-SOC Code: 13-1022.00
+
+# DESCRIPTION
+Buy merchandise or commodities, other than farm products, for resale to consumers at the wholesale or retail level, including both durable and nondurable goods. Analyze past buying trends, sales records, price, and quality of merchandise to determine value and yield. Select, order, and authorize payment for merchandise according to contractual agreements. May conduct meetings with sales personnel and introduce new products. May negotiate contracts. Includes assistant wholesale and retail buyers of nonfarm products.
+
+# TASKS
+- Buy merchandise or commodities for resale to wholesale or retail consumers.
+- Negotiate prices, discount terms, or transportation arrangements with suppliers.
+- Examine, select, order, or purchase merchandise consistent with quality, quantity, specification requirements, or other factors, such as environmental soundness.
+- Recommend mark-up rates, mark-down rates, or merchandise selling prices.
+- Obtain information about customer needs or preferences by conferring with sales or purchasing personnel.
+- Authorize payment of invoices or return of merchandise.
+- Monitor and analyze sales records, trends, or economic conditions to anticipate consumer buying patterns, company sales, and needed inventory.
+- Collaborate with vendors to obtain or develop desired products.
+- Inspect merchandise or products to determine quality, value, or yield.
+- Conduct sales meetings to introduce new merchandise.
+- Consult with store or merchandise managers about budgets or goods to be purchased.
+- Provide clerks with information to print on price tags, such as price, mark-ups or mark-downs, manufacturer number, season code, or style number.
+- Train or supervise sales or clerical staff.
+- Determine which products should be featured in advertising, the advertising medium to be used, or when the ads should be run.
+- Monitor competitors' sales activities by following their advertisements in newspapers or other media.
+- Analyze environmental aspects of competing merchandise when making buying decisions.
+- Compare transportation options to determine the most energy-efficient options.
+- Develop strategies to advertise green products or merchandise to consumers.
+- Identify opportunities to buy green commodities, such as alternative energy, water, or carbon-neutral products for resale to consumers.
+- Monitor consumer preferences or environmental trends to determine the best way to introduce new green products.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Negotiation (Importance: 4.0/5 | Level: 4.0/7)
+- Speaking (Importance: 3.75/5 | Level: 3.88/7)
+- Persuasion (Importance: 3.75/5 | Level: 4.0/7)
+- Critical Thinking (Importance: 3.75/5 | Level: 4.0/7)
+- Active Listening (Importance: 3.75/5 | Level: 3.88/7)
+- Judgment and Decision Making (Importance: 3.38/5 | Level: 3.75/7)
+- Active Learning (Importance: 3.38/5 | Level: 3.88/7)
+- Management of Financial Resources (Importance: 3.25/5 | Level: 3.38/7)
+- Reading Comprehension (Importance: 3.25/5 | Level: 3.88/7)
+- Complex Problem Solving (Importance: 3.25/5 | Level: 3.12/7)
+- Social Perceptiveness (Importance: 3.25/5 | Level: 3.5/7)
+- Coordination (Importance: 3.12/5 | Level: 3.38/7)
+- Service Orientation (Importance: 3.12/5 | Level: 3.12/7)
+- Mathematics (Importance: 3.12/5 | Level: 3.38/7)
+- Monitoring (Importance: 3.12/5 | Level: 4.0/7)
+- Systems Evaluation (Importance: 3.0/5 | Level: 3.38/7)
+- Time Management (Importance: 3.0/5 | Level: 3.12/7)
+- Writing (Importance: 3.0/5 | Level: 3.38/7)
+- Instructing (Importance: 3.0/5 | Level: 3.12/7)
+- Learning Strategies (Importance: 2.88/5 | Level: 3.25/7)
+- Management of Material Resources (Importance: 2.88/5 | Level: 3.12/7)
+- Management of Personnel Resources (Importance: 2.75/5 | Level: 3.12/7)
+- Systems Analysis (Importance: 2.62/5 | Level: 3.0/7)
+- Quality Control Analysis (Importance: 2.25/5 | Level: 1.75/7)
+- Operations Analysis (Importance: 2.12/5 | Level: 2.0/7)
+- Science (Importance: 1.75/5 | Level: 0.88/7)
+- Operations Monitoring (Importance: 1.75/5 | Level: 1.0/7)
+- Programming (Importance: 1.75/5 | Level: 0.88/7)
+- Technology Design (Importance: 1.62/5 | Level: 0.62/7)
+- Operation and Control (Importance: 1.38/5 | Level: 0.38/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Accounting software (Tech skill type: Accounting software)
+- Advanced Retail Management Systems Retail Pro (Tech skill type: Point of sale POS software)
+- Applicant tracking software (Tech skill type: Human resources software)
+- Biztrak Business Solutions Biztrak (Tech skill type: Enterprise resource planning ERP software)
+- CAM Commerce Solutions Retail STAR Point of Sale POS (Tech skill type: Point of sale POS software)
+- Claritas ConsumerPoint (Tech skill type: Customer relationship management CRM software)
+- Contact management software (Tech skill type: Calendar and scheduling software)
+- Eclipse IDE (Tech skill type: Development environment software)
+- Email software (Tech skill type: Electronic mail software)
+- Enterprise resource planning ERP software (Tech skill type: Enterprise resource planning ERP software)
+- Enterprise risk management software ERMS (Tech skill type: Risk management data and analysis software)
+- Facebook (Tech skill type: Web page creation and editing software)
+- Graphics software (Tech skill type: Graphics or photo imaging software)
+- Infor Supply Chain Management (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Intuit QuickBooks (Tech skill type: Accounting software)
+- Inventory control systems (Tech skill type: Inventory management software)
+- JDA Software Group Advanced Warehouse Replenishment by E3 (Tech skill type: Enterprise resource planning ERP software)
+- JDA Software Group Assortment Planning by Arthur (Tech skill type: Enterprise resource planning ERP software)
+- Kliger-Weiss Infosystems (Tech skill type: Materials requirements planning logistics and supply chain software)
+- LinkedIn (Tech skill type: Web page creation and editing software)
+- Materials requirement planning MRP software (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Internet Explorer (Tech skill type: Internet browser software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Millennium Software Atrex (Tech skill type: Point of sale POS software)
+- Oracle Advanced Procurement (Tech skill type: Procurement software)
+- Oracle Database (Tech skill type: Data base user interface and query software)
+- Oracle JD Edwards EnterpriseOne (Tech skill type: Enterprise resource planning ERP software)
+- Oracle PeopleSoft (Tech skill type: Enterprise resource planning ERP software)
+- Oracle PeopleSoft Enterprise Supply Planning Multi-Site Material Planner (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Oracle Taleo (Tech skill type: Human resources software)
+- Plexis Software Plexis POS (Tech skill type: Point of sale POS software)
+- Point of sale POS software (Tech skill type: Point of sale POS software)
+- POSitive Software POSitive for Windows (Tech skill type: Point of sale POS software)
+- Presentation software (Tech skill type: Presentation software)
+- Product development management software (Tech skill type: Enterprise resource planning ERP software)
+- Project management software (Tech skill type: Project management software)
+- Qlik Tech QlikView (Tech skill type: Business intelligence and data analysis software)
+- Sage ERP Accpac (Tech skill type: Enterprise resource planning ERP software)
+- SAP POS Data Management (Tech skill type: Point of sale POS software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Scheduling software (Tech skill type: Calendar and scheduling software)
+- Sourcing Simulator (Tech skill type: Procurement software)
+- Specialized Business Solutions Keystroke POS (Tech skill type: Point of sale POS software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- Web browser software (Tech skill type: Internet browser software)
+- Windward Software Windward System Five (Tech skill type: Point of sale POS software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- 10-key calculators (Tool type: Desktop calculator)
+- Desktop computers (Tool type: Desktop computers)
+- Personal computers (Tool type: Personal computers)
+- Point of sale POS systems (Tool type: Point of sale POS terminal)

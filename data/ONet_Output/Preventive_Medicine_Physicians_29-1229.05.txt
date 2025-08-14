@@ -1,0 +1,119 @@
+Job Title: Preventive Medicine Physicians
+O*NET-SOC Code: 29-1229.05
+
+# DESCRIPTION
+Apply knowledge of general preventive medicine and public health issues to promote health care to groups or individuals, and aid in the prevention or reduction of risk of disease, injury, disability, or death. May practice population-based medicine or diagnose and treat patients in the context of clinical health promotion and disease prevention.
+
+# TASKS
+- Direct or manage prevention programs in specialty areas such as aerospace, occupational, infectious disease, and environmental medicine.
+- Document or review comprehensive patients' histories with an emphasis on occupation or environmental risks.
+- Identify groups at risk for specific preventable diseases or injuries.
+- Perform epidemiological investigations of acute and chronic diseases.
+- Supervise or coordinate the work of physicians, nurses, statisticians, or other professional staff members.
+- Design or use surveillance tools, such as screening, lab reports, and vital records, to identify health risks.
+- Direct public health education programs dealing with topics such as preventable diseases, injuries, nutrition, food service sanitation, water supply safety, sewage and waste disposal, insect control, and immunizations.
+- Evaluate the effectiveness of prescribed risk reduction measures or other interventions.
+- Provide information about potential health hazards and possible interventions to the media, the public, other health care professionals, or local, state, and federal health authorities.
+- Teach or train medical staff regarding preventive medicine issues.
+- Coordinate or integrate the resources of health care institutions, social service agencies, public safety workers, or other organizations to improve community health.
+- Prepare preventive health reports, including problem descriptions, analyses, alternative solutions, and recommendations.
+- Design, implement, or evaluate health service delivery systems to improve the health of targeted populations.
+- Develop or implement interventions to address behavioral causes of diseases.
+- Deliver presentations to lay or professional audiences.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Reading Comprehension (Importance: 4.38/5 | Level: 5.5/7)
+- Judgment and Decision Making (Importance: 4.25/5 | Level: 5.0/7)
+- Complex Problem Solving (Importance: 4.25/5 | Level: 5.0/7)
+- Speaking (Importance: 4.25/5 | Level: 4.88/7)
+- Critical Thinking (Importance: 4.25/5 | Level: 5.12/7)
+- Active Listening (Importance: 4.25/5 | Level: 4.5/7)
+- Writing (Importance: 4.12/5 | Level: 4.88/7)
+- Monitoring (Importance: 4.12/5 | Level: 4.62/7)
+- Social Perceptiveness (Importance: 4.0/5 | Level: 4.88/7)
+- Active Learning (Importance: 4.0/5 | Level: 4.88/7)
+- Coordination (Importance: 4.0/5 | Level: 4.5/7)
+- Learning Strategies (Importance: 3.75/5 | Level: 4.75/7)
+- Science (Importance: 3.75/5 | Level: 4.62/7)
+- Management of Personnel Resources (Importance: 3.75/5 | Level: 4.25/7)
+- Instructing (Importance: 3.75/5 | Level: 4.62/7)
+- Systems Evaluation (Importance: 3.75/5 | Level: 4.38/7)
+- Systems Analysis (Importance: 3.75/5 | Level: 4.12/7)
+- Service Orientation (Importance: 3.75/5 | Level: 4.62/7)
+- Persuasion (Importance: 3.62/5 | Level: 4.0/7)
+- Time Management (Importance: 3.5/5 | Level: 3.88/7)
+- Mathematics (Importance: 3.12/5 | Level: 3.38/7)
+- Negotiation (Importance: 3.0/5 | Level: 3.12/7)
+- Operations Analysis (Importance: 2.88/5 | Level: 3.12/7)
+- Quality Control Analysis (Importance: 2.38/5 | Level: 2.12/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.75/7)
+- Management of Material Resources (Importance: 1.75/5 | Level: 1.38/7)
+- Operations Monitoring (Importance: 1.62/5 | Level: 0.88/7)
+- Technology Design (Importance: 1.62/5 | Level: 0.62/7)
+- Programming (Importance: 1.5/5 | Level: 0.62/7)
+- Troubleshooting (Importance: 1.5/5 | Level: 0.62/7)
+- Operation and Control (Importance: 1.25/5 | Level: 0.25/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Biostatistical software (Tech skill type: Analytical or scientific software)
+- Centers for Disease Control and Prevention Epi Info (Tech skill type: Analytical or scientific software)
+- Database software (Tech skill type: Data base user interface and query software)
+- Email software (Tech skill type: Electronic mail software)
+- Epidemiological software (Tech skill type: Analytical or scientific software)
+- Insightful S-PLUS (Tech skill type: Analytical or scientific software)
+- Medical surveillance software (Tech skill type: Analytical or scientific software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- NCSS (Tech skill type: Analytical or scientific software)
+- NCSS Power Analysis and Sample Size PASS (Tech skill type: Analytical or scientific software)
+- NetEpi (Tech skill type: Analytical or scientific software)
+- OpenEpi (Tech skill type: Analytical or scientific software)
+- Patient electronic medical record EMR software (Tech skill type: Medical software)
+- R (Tech skill type: Object or component oriented development software)
+- SAS (Tech skill type: Analytical or scientific software)
+- SAS JMP (Tech skill type: Analytical or scientific software)
+- Scheduling software (Tech skill type: Calendar and scheduling software)
+- StataCorp Stata (Tech skill type: Analytical or scientific software)
+- STATISTICA (Tech skill type: Analytical or scientific software)
+- Statistical Solutions BMDP (Tech skill type: Analytical or scientific software)
+- The MathWorks MATLAB (Tech skill type: Analytical or scientific software)
+- Tidepool Scientific Software Comprehensive Environmental Toxicity Information System CETIS (Tech skill type: Data base user interface and query software)
+- Tidepool Scientific Software ToxCalc (Tech skill type: Analytical or scientific software)
+- Web browser software (Tech skill type: Internet browser software)
+- Wolfram Research Mathematica (Tech skill type: Analytical or scientific software)
+
+## TOOLS USED
+- Automated blood pressure cuffs (Tool type: Electronic blood pressure units)
+- Automated external defibrillators AED (Tool type: Mobile medical services automated external defibrillators AED or hard paddles)
+- Breathing protection equipment (Tool type: Mask or respirators filters or accessories)
+- Desktop computers (Tool type: Desktop computers)
+- Digital medical thermometers (Tool type: Electronic medical thermometers)
+- Dosimetry badges (Tool type: Medical radiation films or badges)
+- Emergency eye wash stations (Tool type: Eyewashers or eye wash stations)
+- Emergency shower stations (Tool type: Decontamination shower)
+- Evacuated blood collection tubes (Tool type: Vacuum blood collection tubes or containers)
+- Hearing test equipment (Tool type: Auditory function screening units)
+- Hyperbaric oxygen chambers (Tool type: Medical hyperbaric chambers)
+- Hypodermic syringes (Tool type: Medical syringes with needle)
+- Laptop computers (Tool type: Notebook computers)
+- Manual blood pressure cuffs (Tool type: Mercury blood pressure units)
+- Mechanical stethoscopes (Tool type: Medical acoustic stethoscopes)
+- Medical examination protective gloves (Tool type: Medical exam or non surgical procedure gloves)
+- Medical oxygen masks (Tool type: Medical oxygen masks or parts)
+- Medical protective masks (Tool type: Surgical isolation or surgical masks)
+- Otoscopes (Tool type: Ophthalmoscopes or otoscopes or scope sets)
+- Oxygen hoods (Tool type: Medical head hoods)
+- Percussion hammers (Tool type: Reflex hammers or mallets)
+- Personal computers (Tool type: Personal computers)
+- Safety glasses (Tool type: Safety glasses)
+- Specimen collection containers (Tool type: Specimen collection container)
+- Suturing kits (Tool type: Suturing kits or trays or packs or sets)
+- Vision test equipment (Tool type: Binocular vision test sets)

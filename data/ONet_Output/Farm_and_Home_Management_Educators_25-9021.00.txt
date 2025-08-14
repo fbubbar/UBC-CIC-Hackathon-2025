@@ -1,0 +1,87 @@
+Job Title: Farm and Home Management Educators
+O*NET-SOC Code: 25-9021.00
+
+# DESCRIPTION
+Instruct and advise individuals and families engaged in agriculture, agricultural-related processes, or home management activities. Demonstrate procedures and apply research findings to advance agricultural and home management activities. May develop educational outreach programs. May instruct on either agricultural issues such as agricultural processes and techniques, pest management, and food safety, or on home management issues such as budgeting, nutrition, and child development.
+
+# TASKS
+- Advise farmers and demonstrate techniques in areas such as feeding and health maintenance of livestock, growing and harvesting practices, and financial planning.
+- Conduct classes or deliver lectures on subjects such as nutrition, home management, and farming techniques.
+- Collaborate with producers to diagnose and prevent management and production problems.
+- Research information requested by farmers.
+- Collect and evaluate data to determine community program needs.
+- Act as an advocate for farmers or farmers' groups.
+- Conduct field demonstrations of new products, techniques, or services.
+- Maintain records of services provided and the effects of advice given.
+- Prepare and distribute leaflets, pamphlets, and visual aids for educational and informational purposes.
+- Schedule and make regular visits to farmers.
+- Organize, advise, and participate in community activities and organizations, such as county and state fair events and 4-H Clubs.
+- Conduct agricultural research, analyze data, and prepare research reports.
+- Set and monitor production targets.
+- Collaborate with social service and health care professionals to advise individuals and families on home management practices, such as budget planning, meal preparation, and time management.
+- Provide direct assistance to farmers by performing activities such as purchasing or selling products and supplies, supervising properties, and collecting soil and herbage samples for testing.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Active Listening (Importance: 4.38/5 | Level: 4.12/7)
+- Speaking (Importance: 4.12/5 | Level: 4.25/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.75/7)
+- Writing (Importance: 3.88/5 | Level: 4.25/7)
+- Instructing (Importance: 3.88/5 | Level: 3.88/7)
+- Social Perceptiveness (Importance: 3.88/5 | Level: 4.0/7)
+- Judgment and Decision Making (Importance: 3.88/5 | Level: 4.0/7)
+- Learning Strategies (Importance: 3.75/5 | Level: 4.12/7)
+- Active Learning (Importance: 3.75/5 | Level: 4.5/7)
+- Coordination (Importance: 3.75/5 | Level: 3.88/7)
+- Critical Thinking (Importance: 3.75/5 | Level: 3.88/7)
+- Complex Problem Solving (Importance: 3.75/5 | Level: 4.0/7)
+- Service Orientation (Importance: 3.62/5 | Level: 3.88/7)
+- Systems Analysis (Importance: 3.62/5 | Level: 3.88/7)
+- Systems Evaluation (Importance: 3.62/5 | Level: 4.0/7)
+- Persuasion (Importance: 3.5/5 | Level: 3.88/7)
+- Monitoring (Importance: 3.38/5 | Level: 4.0/7)
+- Time Management (Importance: 3.38/5 | Level: 3.25/7)
+- Negotiation (Importance: 3.12/5 | Level: 3.25/7)
+- Mathematics (Importance: 3.0/5 | Level: 3.5/7)
+- Management of Personnel Resources (Importance: 2.88/5 | Level: 2.88/7)
+- Science (Importance: 2.75/5 | Level: 2.75/7)
+- Management of Financial Resources (Importance: 2.62/5 | Level: 2.75/7)
+- Operations Analysis (Importance: 2.5/5 | Level: 2.5/7)
+- Management of Material Resources (Importance: 2.5/5 | Level: 2.5/7)
+- Operations Monitoring (Importance: 2.25/5 | Level: 2.12/7)
+- Operation and Control (Importance: 2.25/5 | Level: 2.25/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.5/7)
+- Quality Control Analysis (Importance: 1.88/5 | Level: 1.25/7)
+- Programming (Importance: 1.62/5 | Level: 0.88/7)
+- Troubleshooting (Importance: 1.38/5 | Level: 0.5/7)
+- Equipment Selection (Importance: 1.25/5 | Level: 0.25/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adobe Experience Manager (AEM) (Tech skill type: Web page creation and editing software)
+- ESRI ArcGIS software (Tech skill type: Geographic information system)
+- Geographic information system GIS software (Tech skill type: Geographic information system)
+- Image editing software (Tech skill type: Graphics or photo imaging software)
+- Kahoot! (Tech skill type: Multi-media educational software)
+- Microsoft Dynamics (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Internet Explorer (Tech skill type: Internet browser software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Order management software (Tech skill type: Procurement software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- ServiceNow (Tech skill type: Data base user interface and query software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Desktop computers (Tool type: Desktop computers)
+- Digital cameras (Tool type: Digital cameras)
+- Laptop computers (Tool type: Notebook computers)
+- Overhead display projectors (Tool type: Overhead projectors)
+- Personal computers (Tool type: Personal computers)
+- Personal digital assistants PDA (Tool type: Personal digital assistant PDAs or organizers)

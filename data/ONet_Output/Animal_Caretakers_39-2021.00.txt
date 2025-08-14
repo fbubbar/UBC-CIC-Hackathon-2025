@@ -1,0 +1,147 @@
+Job Title: Animal Caretakers
+O*NET-SOC Code: 39-2021.00
+
+# DESCRIPTION
+Feed, water, groom, bathe, exercise, or otherwise provide care to promote and maintain the well-being of pets and other animals that are not raised for consumption, such as dogs, cats, race horses, ornamental fish or birds, zoo animals, and mice. Work in settings such as kennels, animal shelters, zoos, circuses, and aquariums. May keep records of feedings, treatments, and animals received or discharged. May clean, disinfect, and repair cages, pens, or fish tanks.
+
+# TASKS
+- Feed and water animals according to schedules and feeding instructions.
+- Provide treatment to sick or injured animals, or contact veterinarians to secure treatment.
+- Examine and observe animals to detect signs of illness, disease, or injury.
+- Mix food, liquid formulas, medications, or food supplements according to instructions, prescriptions, and knowledge of animal species.
+- Do facility laundry and clean, organize, maintain, and disinfect animal quarters, such as pens and stables, and equipment, such as saddles and bridles.
+- Exercise animals to maintain their physical and mental health.
+- Collect and record animal information, such as weight, size, physical condition, treatments received, medications given, and food intake.
+- Respond to questions from patrons, and provide information about animals, such as behavior, habitat, breeding habits, or facility activities.
+- Answer telephones and schedule appointments.
+- Advise pet owners on how to care for their pets' health.
+- Perform animal grooming duties, such as washing, brushing, clipping, and trimming coats, cutting nails, and cleaning ears.
+- Observe and caution children petting and feeding animals in designated areas to ensure the safety of humans and animals.
+- Clean and disinfect surgical equipment.
+- Find homes for stray or unwanted animals.
+- Discuss with clients their pets' grooming needs.
+- Transfer animals between enclosures to facilitate breeding, birthing, shipping, or rearrangement of exhibits.
+- Adjust controls to regulate specified temperature and humidity of animal quarters, nurseries, or exhibit areas.
+- Anesthetize and inoculate animals, according to instructions.
+- Install, maintain, and repair animal care facility equipment, such as infrared lights, feeding devices, and cages.
+- Train animals to perform certain tasks.
+- Order, unload, and store feed and supplies.
+- Sell pet food and supplies.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Monitoring (Importance: 3.12/5 | Level: 2.88/7)
+- Coordination (Importance: 3.0/5 | Level: 2.5/7)
+- Service Orientation (Importance: 3.0/5 | Level: 2.88/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 2.12/7)
+- Reading Comprehension (Importance: 3.0/5 | Level: 2.88/7)
+- Active Listening (Importance: 3.0/5 | Level: 3.0/7)
+- Speaking (Importance: 2.88/5 | Level: 2.75/7)
+- Writing (Importance: 2.75/5 | Level: 2.5/7)
+- Critical Thinking (Importance: 2.75/5 | Level: 2.88/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 2.25/7)
+- Complex Problem Solving (Importance: 2.62/5 | Level: 2.25/7)
+- Time Management (Importance: 2.5/5 | Level: 2.0/7)
+- Active Learning (Importance: 2.38/5 | Level: 2.12/7)
+- Systems Evaluation (Importance: 2.12/5 | Level: 1.62/7)
+- Instructing (Importance: 2.12/5 | Level: 2.0/7)
+- Systems Analysis (Importance: 2.12/5 | Level: 1.75/7)
+- Management of Personnel Resources (Importance: 2.0/5 | Level: 1.75/7)
+- Negotiation (Importance: 2.0/5 | Level: 1.62/7)
+- Quality Control Analysis (Importance: 2.0/5 | Level: 1.5/7)
+- Learning Strategies (Importance: 2.0/5 | Level: 2.0/7)
+- Mathematics (Importance: 2.0/5 | Level: 1.88/7)
+- Troubleshooting (Importance: 1.88/5 | Level: 1.25/7)
+- Operations Monitoring (Importance: 1.88/5 | Level: 1.38/7)
+- Persuasion (Importance: 1.88/5 | Level: 1.75/7)
+- Management of Material Resources (Importance: 1.75/5 | Level: 0.88/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 0.75/7)
+- Equipment Selection (Importance: 1.62/5 | Level: 0.62/7)
+- Technology Design (Importance: 1.62/5 | Level: 0.62/7)
+- Operation and Control (Importance: 1.62/5 | Level: 0.75/7)
+- Science (Importance: 1.5/5 | Level: 0.5/7)
+- Equipment Maintenance (Importance: 1.5/5 | Level: 0.5/7)
+- Programming (Importance: 1.25/5 | Level: 0.25/7)
+- Repairing (Importance: 1.25/5 | Level: 0.25/7)
+- Installation (Importance: 1.12/5 | Level: 0.12/7)
+- Operations Analysis (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- CEEJS The Pet Groomer's Secretary (Tech skill type: Data base user interface and query software)
+- DaySmart Software 123Pet (Tech skill type: Data base user interface and query software)
+- DaySmart Software Appointment-Plus (Tech skill type: Calendar and scheduling software)
+- Envision Pet Grooming (Tech skill type: Data base user interface and query software)
+- Groom Pro (Tech skill type: Calendar and scheduling software)
+- Groomsoft (Tech skill type: Data base user interface and query software)
+- K9 Bytes K9 Koordinator (Tech skill type: Data base user interface and query software)
+- Kennel Link (Tech skill type: Data base user interface and query software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Mobile Dog Grooming Software mGroomer (Tech skill type: Calendar and scheduling software)
+- Petschedule (Tech skill type: Calendar and scheduling software)
+- The Groomer's Write Hand (Tech skill type: Data base user interface and query software)
+
+## TOOLS USED
+- Air purifying respirators (Tool type: Respirators)
+- Algae scrapers (Tool type: Cleaning scrapers)
+- Ammonia test kits (Tool type: Water testing and sampling kits)
+- Animal cages (Tool type: Cages or its accessories)
+- Animal clippers (Tool type: Electric hair clipper)
+- Animal crates (Tool type: Kennels)
+- Animal handling gloves (Tool type: Protective gloves)
+- Animal handling sleeves (Tool type: Safety sleeves)
+- Animal harnesses (Tool type: Harnesses or its accessories)
+- Animal muzzles (Tool type: Muzzles)
+- Animal nail clippers (Tool type: Veterinary nail trimmers or cutters)
+- Animal nail files (Tool type: Veterinary nail trimmers or cutters)
+- Animal nail grinders (Tool type: Veterinary nail trimmers or cutters)
+- Aquarium filters (Tool type: Water filters)
+- Aquarium heaters (Tool type: Immersion heaters)
+- Aquarium lighting (Tool type: Underwater lighting)
+- Aquarium pumps (Tool type: Water pumps)
+- Aquarium tongs (Tool type: Tongs)
+- Aquarium ultraviolet UV sterilizers (Tool type: Laboratory ultraviolet UV sterilizers)
+- Benchtop electronic toploading balances (Tool type: Electronic toploading balances)
+- Binocular light compound microscopes (Tool type: Binocular light compound microscopes)
+- Blow dryers (Tool type: Domestic hair dryers)
+- Carbonate hardness test kits (Tool type: Water testing and sampling kits)
+- Cat grooming bags (Tool type: Pet grooming products)
+- Coat strippers (Tool type: Pet grooming products)
+- Cordless animal trimmers (Tool type: Electric hair clipper)
+- Digital oxidation reduction potential ORP meters (Tool type: Oxidation reduction tester)
+- Eye droppers (Tool type: Dosing droppers)
+- Fish tanks (Tool type: Aquariums)
+- General hardness GH test kits (Tool type: Water testing and sampling kits)
+- Grooming combs (Tool type: Pet grooming products)
+- Grooming rakes (Tool type: Pet grooming products)
+- Grooming shears (Tool type: Shears)
+- Grooming tables (Tool type: Pet grooming products)
+- Handheld digital refractometers (Tool type: Handheld refractometers or polarimeters)
+- Hydraulic bucket lifts (Tool type: Articulating boom lift)
+- Inflatable rubber motor boats (Tool type: Inflatable rubber boat)
+- Mat breakers (Tool type: Pet grooming products)
+- Nitrate test kits (Tool type: Water testing and sampling kits)
+- Nitrite test kits (Tool type: Water testing and sampling kits)
+- Personal computers (Tool type: Personal computers)
+- Pet bathing brushes (Tool type: Pet grooming products)
+- pH test kits (Tool type: Water testing and sampling kits)
+- pH testers (Tool type: pH meters)
+- Pin brushes (Tool type: Pet grooming products)
+- Portable dissolved oxygen DO meters (Tool type: Dissolved oxygen meters)
+- Pressure sprayers (Tool type: Pressure or steam cleaners)
+- Protein skimmers (Tool type: Water purification equipment)
+- Scaffolding (Tool type: Scaffolding)
+- Scissor lifts (Tool type: Scissor lift or lift table)
+- Self-contained underwater breathing apparatus SCUBA gear (Tool type: Diving instruments or accessories)
+- Shedding blades (Tool type: Pet grooming products)
+- Siphon hoses (Tool type: Special hoses)
+- Slicker brushes (Tool type: Pet grooming products)
+- Slings (Tool type: Slings)
+- Spear guns (Tool type: Compressed air gun)
+- Stepladders (Tool type: Ladders)
+- Underwater cameras (Tool type: Underwater cameras)
+- Wheeled forklifts (Tool type: Forklifts)

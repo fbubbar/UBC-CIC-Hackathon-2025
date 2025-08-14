@@ -1,0 +1,118 @@
+Job Title: Advanced Practice Psychiatric Nurses
+O*NET-SOC Code: 29-1141.02
+
+# DESCRIPTION
+Assess, diagnose, and treat individuals and families with mental health or substance use disorders or the potential for such disorders. Apply therapeutic activities, including the prescription of medication, per state regulations, and the administration of psychotherapy.
+
+# TASKS
+- Assess patients' mental and physical status, based on the presenting symptoms and complaints.
+- Diagnose psychiatric disorders and mental health conditions.
+- Document patients' medical and psychological histories, physical assessment results, diagnoses, treatment plans, prescriptions, or outcomes.
+- Educate patients and family members about mental health and medical conditions, preventive health measures, medications, or treatment plans.
+- Write prescriptions for psychotropic medications as allowed by state regulations and collaborative practice agreements.
+- Monitor patients' medication usage and results.
+- Evaluate patients' behavior to formulate diagnoses or assess treatments.
+- Distinguish between physiologically- and psychologically-based disorders, and diagnose appropriately.
+- Develop and implement treatment plans.
+- Conduct individual, group, or family psychotherapy for those with chronic or acute mental disorders.
+- Participate in activities aimed at professional growth and development, including conferences or continuing education activities.
+- Collaborate with interdisciplinary team members, including psychiatrists, psychologists, or nursing staff, to develop, implement, or evaluate treatment plans.
+- Consult with psychiatrists or other professionals when unusual or complex cases are encountered.
+- Refer patients requiring more specialized or complex treatment to psychiatrists, primary care physicians, or other medical specialists.
+- Participate in treatment team conferences regarding diagnosis or treatment of difficult cases.
+- Interpret diagnostic or laboratory tests, such as electrocardiograms (EKGs) and renal functioning tests.
+- Develop practice protocols for mental health problems, based on review and evaluation of published research.
+- Provide routine physical health screenings to detect or monitor problems such as heart disease and diabetes.
+- Administer medications, including those administered by injection.
+- Develop, implement, or evaluate programs such as outreach activities, community mental health programs, and crisis situation response activities.
+- Monitor the use and status of medical and pharmaceutical supplies.
+- Treat patients for routine physical health problems.
+- Direct or provide home health services.
+- Teach classes in mental health topics, such as stress reduction.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Active Listening (Importance: 4.38/5 | Level: 4.12/7)
+- Social Perceptiveness (Importance: 4.25/5 | Level: 4.88/7)
+- Speaking (Importance: 4.12/5 | Level: 4.0/7)
+- Writing (Importance: 4.0/5 | Level: 4.0/7)
+- Judgment and Decision Making (Importance: 4.0/5 | Level: 4.0/7)
+- Time Management (Importance: 4.0/5 | Level: 3.88/7)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.0/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.25/7)
+- Monitoring (Importance: 4.0/5 | Level: 4.0/7)
+- Active Learning (Importance: 3.88/5 | Level: 4.0/7)
+- Complex Problem Solving (Importance: 3.88/5 | Level: 3.5/7)
+- Learning Strategies (Importance: 3.75/5 | Level: 3.75/7)
+- Service Orientation (Importance: 3.75/5 | Level: 3.88/7)
+- Coordination (Importance: 3.75/5 | Level: 3.88/7)
+- Instructing (Importance: 3.75/5 | Level: 3.25/7)
+- Persuasion (Importance: 3.62/5 | Level: 3.75/7)
+- Negotiation (Importance: 3.62/5 | Level: 3.88/7)
+- Systems Analysis (Importance: 3.38/5 | Level: 3.25/7)
+- Systems Evaluation (Importance: 3.12/5 | Level: 3.12/7)
+- Management of Personnel Resources (Importance: 2.88/5 | Level: 3.0/7)
+- Science (Importance: 2.88/5 | Level: 2.75/7)
+- Mathematics (Importance: 2.75/5 | Level: 2.62/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.88/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 2.0/7)
+- Operations Monitoring (Importance: 2.0/5 | Level: 1.75/7)
+- Programming (Importance: 1.62/5 | Level: 0.75/7)
+- Technology Design (Importance: 1.62/5 | Level: 0.75/7)
+- Operations Analysis (Importance: 1.5/5 | Level: 0.62/7)
+- Quality Control Analysis (Importance: 1.38/5 | Level: 0.38/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+- Operation and Control (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- AUDIT-C (Tech skill type: Medical software)
+- Beck Anxiety Inventory (Tech skill type: Medical software)
+- Beck Depression Inventory (Tech skill type: Medical software)
+- Brief Psychiatric Rating Scale BPRS Nursing Modification (Tech skill type: Medical software)
+- California Verbal Learning Test (Tech skill type: Medical software)
+- Category Fluency Test (Tech skill type: Medical software)
+- Children's Depression Inventory (Tech skill type: Medical software)
+- Controlled Oral Word Association Task (Tech skill type: Medical software)
+- Electroconvulsive therapy equipment (Tech skill type: Medical software)
+- Epic HER (Tech skill type: Medical software)
+- Geriatric Depression Scale (Tech skill type: Medical software)
+- Hendrich Falls Risk Model (Tech skill type: Medical software)
+- Invivo Data EPX ePRO Management System (Tech skill type: Data base user interface and query software)
+- Medical condition coding software (Tech skill type: Medical software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Millon Behavioral Medicine Diagnostic (Tech skill type: Medical software)
+- Minnesota Multiphasic Personality Inventory-2 MMPI-2 (Tech skill type: Medical software)
+- Myers Briggs Type Indicator (Tech skill type: Medical software)
+- NEO PI-R (Tech skill type: Medical software)
+- Patient Health Questionaire (Tech skill type: Medical software)
+- Patient management software (Tech skill type: Medical software)
+- SAS (Tech skill type: Analytical or scientific software)
+- Web browser software (Tech skill type: Internet browser software)
+- Young Mania Rating Scale (Tech skill type: Medical software)
+- Zung Depression Rating Scale (Tech skill type: Medical software)
+
+## TOOLS USED
+- Binocular light compound microscopes (Tool type: Binocular light compound microscopes)
+- Blood pressure cuffs (Tool type: Blood pressure cuff kits)
+- Catheters (Tool type: Peripherally inserted central catheters PICC)
+- Electrocardiogram (Tool type: Holter or wearable EKG monitoring systems or accessories)
+- Handheld thermometers (Tool type: Handheld thermometer)
+- Hypodermic needles (Tool type: Hypodermic needle)
+- Intravenous IV pumps (Tool type: Intravenous infusion pumps for general use)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Mechanical restraints (Tool type: Restraints)
+- Mechanical stethoscopes (Tool type: Medical acoustic stethoscopes)
+- Medication administration systems (Tool type: Medication or pill dispensers)
+- Nebulizers (Tool type: Nebulizers)
+- Personal computers (Tool type: Personal computers)
+- Photocopiers (Tool type: Photocopiers)
+- Sphygmomanometers (Tool type: Blood pressure cuff kits)
+- Transcutaneous electric nerve stimulation TENS equipment (Tool type: Transcutaneous electric nerve stimulation units)

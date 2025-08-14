@@ -1,0 +1,117 @@
+Job Title: Manufacturing Engineers
+O*NET-SOC Code: 17-2112.03
+
+# DESCRIPTION
+Design, integrate, or improve manufacturing systems or related processes. May work with commercial or industrial designers to refine product designs to increase producibility and decrease costs.
+
+# TASKS
+- Troubleshoot new or existing product problems involving designs, materials, or processes.
+- Investigate or resolve operational problems, such as material use variances or bottlenecks.
+- Identify opportunities or implement changes to improve manufacturing processes or products or to reduce costs, using knowledge of fabrication processes, tooling and production equipment, assembly methods, quality control standards, or product design, materials and parts.
+- Apply continuous improvement methods, such as lean manufacturing, to enhance manufacturing quality, reliability, or cost-effectiveness.
+- Provide technical expertise or support related to manufacturing.
+- Incorporate new manufacturing methods or processes to improve existing operations.
+- Review product designs for manufacturability or completeness.
+- Determine root causes of failures or recommend changes in designs, tolerances, or processing methods, using statistical procedures.
+- Prepare reports summarizing information or trends related to manufacturing performance.
+- Prepare documentation for new manufacturing processes or engineering procedures.
+- Design layout of equipment or workspaces to achieve maximum efficiency.
+- Communicate manufacturing capabilities, production schedules, or other information to facilitate production processes.
+- Supervise technicians, technologists, analysts, administrative staff, or other engineers.
+- Design, install, or troubleshoot manufacturing equipment.
+- Evaluate manufactured products according to specifications and quality standards.
+- Estimate costs, production times, or staffing requirements for new designs.
+- Train production personnel in new or existing methods.
+- Design tests of finished products or process capabilities to establish standards or validate process requirements.
+- Analyze the financial impacts of sustainable manufacturing processes or sustainable product manufacturing.
+- Develop sustainable manufacturing technologies to reduce greenhouse gas emissions, minimize raw material use, replace toxic materials with non-toxic materials, replace non-renewable materials with renewable materials, or reduce waste.
+- Purchase equipment, materials, or parts.
+- Evaluate current or proposed manufacturing processes or practices for environmental sustainability, considering factors such as greenhouse gas emissions, air pollution, water pollution, energy use, or waste creation.
+- Read current literature, talk with colleagues, participate in educational programs, attend meetings or workshops, or participate in professional organizations or conferences to keep abreast of developments in the manufacturing field.
+- Redesign packaging for manufactured products to minimize raw material use or waste.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mathematics (Importance: 4.0/5 | Level: 4.5/7)
+- Complex Problem Solving (Importance: 4.0/5 | Level: 4.25/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.75/7)
+- Speaking (Importance: 3.88/5 | Level: 4.12/7)
+- Judgment and Decision Making (Importance: 3.88/5 | Level: 4.62/7)
+- Operations Monitoring (Importance: 3.88/5 | Level: 3.88/7)
+- Active Listening (Importance: 3.88/5 | Level: 4.12/7)
+- Monitoring (Importance: 3.88/5 | Level: 4.62/7)
+- Writing (Importance: 3.75/5 | Level: 4.38/7)
+- Critical Thinking (Importance: 3.75/5 | Level: 4.0/7)
+- Systems Evaluation (Importance: 3.75/5 | Level: 4.5/7)
+- Systems Analysis (Importance: 3.75/5 | Level: 4.62/7)
+- Technology Design (Importance: 3.62/5 | Level: 4.0/7)
+- Active Learning (Importance: 3.62/5 | Level: 4.5/7)
+- Troubleshooting (Importance: 3.5/5 | Level: 3.62/7)
+- Time Management (Importance: 3.5/5 | Level: 3.88/7)
+- Operations Analysis (Importance: 3.25/5 | Level: 3.88/7)
+- Learning Strategies (Importance: 3.25/5 | Level: 3.88/7)
+- Quality Control Analysis (Importance: 3.25/5 | Level: 3.88/7)
+- Persuasion (Importance: 3.12/5 | Level: 3.62/7)
+- Instructing (Importance: 3.12/5 | Level: 3.75/7)
+- Science (Importance: 3.12/5 | Level: 3.75/7)
+- Coordination (Importance: 3.0/5 | Level: 3.62/7)
+- Negotiation (Importance: 3.0/5 | Level: 3.12/7)
+- Management of Material Resources (Importance: 3.0/5 | Level: 3.5/7)
+- Service Orientation (Importance: 3.0/5 | Level: 2.88/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 3.5/7)
+- Management of Personnel Resources (Importance: 2.88/5 | Level: 3.88/7)
+- Management of Financial Resources (Importance: 2.88/5 | Level: 3.62/7)
+- Equipment Selection (Importance: 2.88/5 | Level: 3.62/7)
+- Repairing (Importance: 2.62/5 | Level: 3.0/7)
+- Equipment Maintenance (Importance: 2.62/5 | Level: 3.12/7)
+- Operation and Control (Importance: 2.62/5 | Level: 3.25/7)
+- Installation (Importance: 2.5/5 | Level: 3.0/7)
+- Programming (Importance: 1.88/5 | Level: 2.5/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- C (Tech skill type: Development environment software)
+- CNC Mastercam (Tech skill type: Computer aided manufacturing CAM software)
+- Computer aided manufacturing CAM software (Tech skill type: Computer aided manufacturing CAM software)
+- Computer numerical control CNC software (Tech skill type: Industrial control software)
+- Dassault Systemes CATIA (Tech skill type: Computer aided design CAD software)
+- Dassault Systemes SolidWorks (Tech skill type: Computer aided design CAD software)
+- Eko (Tech skill type: Desktop communications software)
+- Enterprise resource planning ERP software (Tech skill type: Enterprise resource planning ERP software)
+- FileMaker Pro (Tech skill type: Data base user interface and query software)
+- Geometric CAMWorks (Tech skill type: Computer aided manufacturing CAM software)
+- IBM Notes (Tech skill type: Electronic mail software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Exchange (Tech skill type: Electronic mail software)
+- Microsoft Internet Explorer (Tech skill type: Internet browser software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Visual Basic (Tech skill type: Development environment software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Minitab (Tech skill type: Analytical or scientific software)
+- National Instruments LabVIEW (Tech skill type: Development environment software)
+- Product lifecycle management PLM software (Tech skill type: Enterprise resource planning ERP software)
+- Programmable logic controller PLC software (Tech skill type: Industrial control software)
+- PTC Creo Parametric (Tech skill type: Computer aided design CAD software)
+- R (Tech skill type: Object or component oriented development software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Siemens NX (Tech skill type: Computer aided manufacturing CAM software)
+- SolidWorks Enterprise PDM (Tech skill type: Project management software)
+- Supervisory control and data acquisition SCADA software (Tech skill type: Industrial control software)
+- The MathWorks MATLAB (Tech skill type: Analytical or scientific software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Desktop computers (Tool type: Desktop computers)
+- Digital calipers (Tool type: Calipers)
+- Digital micrometers (Tool type: Micrometers)
+- Laptop computers (Tool type: Notebook computers)
+- Optical compound microscopes (Tool type: Binocular light compound microscopes)
+- Personal computers (Tool type: Personal computers)
+- Personal digital assistants PDA (Tool type: Personal digital assistant PDAs or organizers)
+- Scientific calculators (Tool type: Scientific calculator)

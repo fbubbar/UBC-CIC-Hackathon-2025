@@ -1,0 +1,137 @@
+Job Title: Electronics Engineers, Except Computer
+O*NET-SOC Code: 17-2072.00
+
+# DESCRIPTION
+Research, design, develop, or test electronic components and systems for commercial, industrial, military, or scientific use employing knowledge of electronic theory and materials properties. Design electronic circuits and components for use in fields such as telecommunications, aerospace guidance and propulsion control, acoustics, or instruments and controls.
+
+# TASKS
+- Design electronic components, software, products, or systems for commercial, industrial, medical, military, or scientific applications.
+- Operate computer-assisted engineering or design software or equipment to perform electronics engineering tasks.
+- Evaluate project work to ensure effectiveness, technical adequacy, or compatibility in the resolution of complex electronics engineering problems.
+- Direct or coordinate activities concerned with manufacture, construction, installation, maintenance, operation, or modification of electronic equipment, products, or systems.
+- Confer with engineers, customers, vendors, or others to discuss existing or potential electronics engineering projects or products.
+- Provide technical support or instruction to staff or customers regarding electronics equipment standards.
+- Recommend repair or design modifications of electronics components or systems, based on factors such as environment, service, cost, or system capabilities.
+- Prepare documentation containing information such as confidential descriptions or specifications of proprietary hardware or software, product development or introduction schedules, product costs, or information about product performance weaknesses.
+- Develop or perform operational, maintenance, or testing procedures for electronic products, components, equipment, or systems.
+- Analyze electronics system requirements, capacity, cost, or customer needs to determine project feasibility.
+- Prepare, review, or maintain maintenance schedules, design documentation, or operational reports or charts.
+- Inspect electronic equipment, instruments, products, or systems to ensure conformance to specifications, safety standards, or applicable codes or regulations.
+- Determine project material or equipment needs.
+- Prepare necessary criteria, procedures, reports, or plans for successful conduct of the project with consideration given to site preparation, facility validation, installation, quality assurance, or testing.
+- Plan or develop applications or modifications for electronic properties used in components, products, or systems to improve technical performance.
+- Prepare engineering sketches or specifications for construction, relocation, or installation of equipment, facilities, products, or systems.
+- Prepare budget or cost estimates for equipment, construction, or installation projects or control expenditures.
+- Investigate green consumer electronics applications for consumer electronic devices, power saving devices for computers or televisions, or energy efficient power chargers.
+- Represent employer at conferences, meetings, boards, panels, committees, or working groups to present, explain, or defend findings or recommendations, negotiate compromises or agreements, or exchange information.
+- Research or develop new green electronics technologies, such as lighting, optical data storage devices, or energy efficient televisions.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Complex Problem Solving (Importance: 4.0/5 | Level: 4.12/7)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.12/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.12/7)
+- Speaking (Importance: 3.88/5 | Level: 4.0/7)
+- Systems Analysis (Importance: 3.75/5 | Level: 3.88/7)
+- Judgment and Decision Making (Importance: 3.75/5 | Level: 3.88/7)
+- Active Listening (Importance: 3.75/5 | Level: 4.0/7)
+- Writing (Importance: 3.5/5 | Level: 4.0/7)
+- Mathematics (Importance: 3.5/5 | Level: 4.12/7)
+- Systems Evaluation (Importance: 3.38/5 | Level: 4.0/7)
+- Monitoring (Importance: 3.38/5 | Level: 3.75/7)
+- Operations Analysis (Importance: 3.25/5 | Level: 3.5/7)
+- Quality Control Analysis (Importance: 3.12/5 | Level: 3.88/7)
+- Active Learning (Importance: 3.12/5 | Level: 4.0/7)
+- Troubleshooting (Importance: 3.0/5 | Level: 3.12/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 3.0/7)
+- Operations Monitoring (Importance: 3.0/5 | Level: 3.38/7)
+- Technology Design (Importance: 3.0/5 | Level: 3.25/7)
+- Instructing (Importance: 3.0/5 | Level: 3.25/7)
+- Coordination (Importance: 3.0/5 | Level: 3.12/7)
+- Science (Importance: 3.0/5 | Level: 3.25/7)
+- Operation and Control (Importance: 2.88/5 | Level: 3.0/7)
+- Equipment Selection (Importance: 2.88/5 | Level: 3.12/7)
+- Persuasion (Importance: 2.88/5 | Level: 3.0/7)
+- Equipment Maintenance (Importance: 2.88/5 | Level: 3.0/7)
+- Service Orientation (Importance: 2.88/5 | Level: 2.88/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 3.0/7)
+- Time Management (Importance: 2.75/5 | Level: 2.88/7)
+- Management of Personnel Resources (Importance: 2.75/5 | Level: 2.88/7)
+- Management of Material Resources (Importance: 2.75/5 | Level: 2.75/7)
+- Programming (Importance: 2.75/5 | Level: 2.88/7)
+- Negotiation (Importance: 2.75/5 | Level: 3.0/7)
+- Repairing (Importance: 2.75/5 | Level: 3.0/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 2.25/7)
+- Installation (Importance: 1.62/5 | Level: 0.75/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Agile Product Lifecyle Management PLM (Tech skill type: Enterprise resource planning ERP software)
+- Ansoft Simplorer (Tech skill type: Analytical or scientific software)
+- Apache Subversion SVN (Tech skill type: File versioning software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- C (Tech skill type: Development environment software)
+- C++ (Tech skill type: Object or component oriented development software)
+- Cadence PSpice (Tech skill type: Analytical or scientific software)
+- Canu (Tech skill type: Development environment software)
+- Dassault Systemes CATIA (Tech skill type: Computer aided design CAD software)
+- Dassault Systemes SolidWorks (Tech skill type: Computer aided design CAD software)
+- Embarcadero Delphi (Tech skill type: Object or component oriented development software)
+- ESRI ArcGIS software (Tech skill type: Geographic information system)
+- Extensible markup language XML (Tech skill type: Enterprise application integration software)
+- Field programmable gate array FPGA design software (Tech skill type: Computer aided design CAD software)
+- Formula translation/translator FORTRAN (Tech skill type: Development environment software)
+- Graphics software (Tech skill type: Graphics or photo imaging software)
+- Hewlett-Packard HP OpenVMS (Tech skill type: Operating system software)
+- IBM Lotus Notes (Tech skill type: Electronic mail software)
+- Linux (Tech skill type: Operating system software)
+- Magellan Firmware (Tech skill type: Operating system software)
+- Mathsoft Mathcad (Tech skill type: Computer aided design CAD software)
+- MathWorks Simulink (Tech skill type: Analytical or scientific software)
+- McCabe Software TRUEchange (Tech skill type: Project management software)
+- Mentor Graphics PADS (Tech skill type: Computer aided design CAD software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Visual Basic.NET (Tech skill type: Object or component oriented development software)
+- Microsoft Visual C# .NET (Tech skill type: Object or component oriented development software)
+- Microsoft Word (Tech skill type: Word processing software)
+- National Instruments LabVIEW (Tech skill type: Development environment software)
+- Oracle Database (Tech skill type: Data base user interface and query software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- OrCAD Capture (Tech skill type: Computer aided design CAD software)
+- Python (Tech skill type: Object or component oriented development software)
+- Rabbit Semiconductor Dynamic C (Tech skill type: Compiler and decompiler software)
+- Real time operating system RTOS software (Tech skill type: Operating system software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Supervisory control and data acquisition SCADA software (Tech skill type: Industrial control software)
+- Synopsys Saber (Tech skill type: Analytical or scientific software)
+- SystemVerilog (Tech skill type: Development environment software)
+- The MathWorks MATLAB (Tech skill type: Analytical or scientific software)
+- Three-dimensional 3D computer aided design CAD software (Tech skill type: Computer aided design CAD software)
+- Trimble SketchUp Pro (Tech skill type: Graphics or photo imaging software)
+- Two-dimensional 2D computer aided design CAD software (Tech skill type: Computer aided design CAD software)
+- UNIX (Tech skill type: Operating system software)
+- Verilog (Tech skill type: Development environment software)
+- Very high speed integrated circuit VHSIC hardware description language VHDL simulation software (Tech skill type: Analytical or scientific software)
+- Very high-speed integrated circuit VHSIC hardware description language VHDL (Tech skill type: Development environment software)
+- Visual Numerics PV-WAVE (Tech skill type: Analytical or scientific software)
+- Web browser software (Tech skill type: Internet browser software)
+- Xilinx Integrated Software Environment ISE (Tech skill type: Computer aided design CAD software)
+
+## TOOLS USED
+- Communication bus analyzers (Tool type: Network analyzers)
+- Desktop computers (Tool type: Desktop computers)
+- Electronics counters (Tool type: Counters)
+- Electronics probes (Tool type: Electronic measuring probes)
+- Function generators (Tool type: Signal generators)
+- High-power pulsed lasers (Tool type: Lasers)
+- Inductance capacitance resistance LCR meters (Tool type: Capacitance meters)
+- Logic analyzers (Tool type: Integrated circuit testers)
+- Microprocessors (Tool type: Microprocessors)
+- Multimeters (Tool type: Multimeters)
+- Oscilloscopes (Tool type: Oscilloscopes)
+- Personal computers (Tool type: Personal computers)
+- Photometer (Tool type: Photometer)
+- Programmable logic controllers PLC (Tool type: Microcontrollers)
+- Wattmeters (Tool type: Wattmeters)
+- Wave meters (Tool type: Light absorption meters)

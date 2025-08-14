@@ -1,0 +1,124 @@
+Job Title: Security and Fire Alarm Systems Installers
+O*NET-SOC Code: 49-2098.00
+
+# DESCRIPTION
+Install, program, maintain, and repair security and fire alarm wiring and equipment. Ensure that work is in accordance with relevant codes.
+
+# TASKS
+- Install, maintain, or repair security systems, alarm devices, or related equipment, following blueprints of electrical layouts and building plans.
+- Mount and fasten control panels, door and window contacts, sensors, or video cameras, and attach electrical and telephone wiring to connect components.
+- Demonstrate systems for customers and explain details, such as the causes and consequences of false alarms.
+- Test and repair circuits and sensors, following wiring and system specifications.
+- Feed cables through access holes, roof spaces, or cavity walls to reach fixture outlets, positioning and terminating cables, wires, or strapping.
+- Examine systems to locate problems, such as loose connections or broken insulation.
+- Test backup batteries, keypad programming, sirens, or other security features to ensure proper functioning or to diagnose malfunctions.
+- Drill holes for wiring in wall studs, joists, ceilings, or floors.
+- Inspect installation sites and study work orders, building plans, and installation manuals to determine materials requirements and installation procedures.
+- Consult with clients to assess risks and to determine security requirements.
+- Mount raceways and conduits and fasten wires to wood framing, using staplers.
+- Adjust sensitivity of units, based on room structures and manufacturers' recommendations, using programming keypads.
+- Keep informed of new products and developments.
+- Order replacement parts.
+- Prepare documents, such as invoices or warranties.
+- Provide customers with cost estimates for equipment installation.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Critical Thinking (Importance: 3.38/5 | Level: 3.5/7)
+- Speaking (Importance: 3.38/5 | Level: 3.0/7)
+- Installation (Importance: 3.38/5 | Level: 3.12/7)
+- Active Listening (Importance: 3.25/5 | Level: 3.12/7)
+- Complex Problem Solving (Importance: 3.12/5 | Level: 3.0/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 3.0/7)
+- Reading Comprehension (Importance: 3.12/5 | Level: 3.25/7)
+- Quality Control Analysis (Importance: 3.12/5 | Level: 3.12/7)
+- Operations Monitoring (Importance: 3.12/5 | Level: 2.88/7)
+- Troubleshooting (Importance: 3.0/5 | Level: 3.25/7)
+- Time Management (Importance: 3.0/5 | Level: 2.88/7)
+- Repairing (Importance: 3.0/5 | Level: 2.75/7)
+- Monitoring (Importance: 3.0/5 | Level: 3.12/7)
+- Active Learning (Importance: 2.88/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.88/7)
+- Service Orientation (Importance: 2.88/5 | Level: 2.88/7)
+- Operation and Control (Importance: 2.88/5 | Level: 2.75/7)
+- Writing (Importance: 2.88/5 | Level: 2.88/7)
+- Coordination (Importance: 2.88/5 | Level: 2.88/7)
+- Equipment Maintenance (Importance: 2.75/5 | Level: 2.62/7)
+- Instructing (Importance: 2.62/5 | Level: 2.62/7)
+- Systems Evaluation (Importance: 2.62/5 | Level: 2.5/7)
+- Systems Analysis (Importance: 2.62/5 | Level: 2.5/7)
+- Learning Strategies (Importance: 2.38/5 | Level: 2.38/7)
+- Equipment Selection (Importance: 2.25/5 | Level: 2.0/7)
+- Management of Personnel Resources (Importance: 2.12/5 | Level: 2.0/7)
+- Persuasion (Importance: 2.12/5 | Level: 1.88/7)
+- Mathematics (Importance: 2.12/5 | Level: 2.12/7)
+- Negotiation (Importance: 2.0/5 | Level: 1.88/7)
+- Operations Analysis (Importance: 1.88/5 | Level: 1.75/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.0/7)
+- Technology Design (Importance: 1.88/5 | Level: 0.88/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 0.75/7)
+- Science (Importance: 1.75/5 | Level: 1.25/7)
+- Programming (Importance: 1.75/5 | Level: 0.88/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Exacq Technologies software (Tech skill type: Video creation and editing software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Hyperterminal (Tech skill type: Platform interconnectivity software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft operating system (Tech skill type: Operating system software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Operating system software (Tech skill type: Operating system software)
+- Traceroute (Tech skill type: Network monitoring software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Adjustable widemouth pliers (Tool type: Adjustable widemouth pliers)
+- Battery analyzers (Tool type: Battery testers)
+- Bayonet Neill-Concelman BNC cable strippers (Tool type: Stripping tools)
+- Bayonet Neill-Concelman BNC crimpers (Tool type: Lug crimping tool dies)
+- Bubble levels (Tool type: Levels)
+- Butane soldering irons (Tool type: Soldering iron)
+- Channel lock pliers (Tool type: Locking pliers)
+- Claw hammers (Tool type: Claw hammer)
+- Color bar generators (Tool type: Signal generators)
+- Cordless drills (Tool type: Power drills)
+- Crimping lugs (Tool type: Wire lug crimping tool)
+- Decibel meters (Tool type: Sound measuring apparatus or decibel meter)
+- Digital multimeters (Tool type: Multimeters)
+- Digital ohmmeters (Tool type: Ohmmeters)
+- Digital oscilloscopes (Tool type: Oscilloscopes)
+- Digital voltmeters DVM (Tool type: Voltage or current meters)
+- Electric soldering irons (Tool type: Soldering iron)
+- Electrical frequency meters (Tool type: Electrical frequency meters)
+- Extension ladders (Tool type: Ladders)
+- Fiber optics testers (Tool type: Power meters)
+- Field strength meters (Tool type: Field strength measuring equipment)
+- Flat blade screwdrivers (Tool type: Screwdrivers)
+- Flexible wire pullers (Tool type: Fish tape)
+- Hammer drills (Tool type: Power drills)
+- Inductive probes (Tool type: Electronic measuring probes)
+- Jeweler's flat blade screwdrivers (Tool type: Screwdrivers)
+- Jeweler's Phillips screwdrivers (Tool type: Screwdrivers)
+- Laptop computers (Tool type: Notebook computers)
+- Needlenose pliers (Tool type: Needlenose pliers)
+- Offset socket wrench sets (Tool type: Offset socket wrenches)
+- Optical time domain reflectometers OTDR (Tool type: Reflectometers)
+- Personal digital assistants PDA (Tool type: Personal digital assistant PDAs or organizers)
+- Personnel lifts (Tool type: Manlift or personnel lift)
+- Phillips head screwdrivers (Tool type: Screwdrivers)
+- Portable video monitors (Tool type: Video monitors)
+- Precision phasemeters (Tool type: Phasemeters)
+- Razor knives (Tool type: Razor knives)
+- Rolling scaffolds (Tool type: Scaffolding)
+- Spade lugs (Tool type: Wire lug crimping tool)
+- Staple guns (Tool type: Staple guns)
+- Telephone test sets (Tool type: Telephony equipment service observing units)
+- Tone generators (Tool type: Signal generators)
+- Vectorscopes (Tool type: Vectorscope)
+- Volt-ohm meters VOM (Tool type: Ohmmeters)
+- Wire cutting tools (Tool type: Wire cutters)
+- Wire pullers (Tool type: Fish tape)

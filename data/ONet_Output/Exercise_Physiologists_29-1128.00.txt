@@ -1,0 +1,127 @@
+Job Title: Exercise Physiologists
+O*NET-SOC Code: 29-1128.00
+
+# DESCRIPTION
+Assess, plan, or implement fitness programs that include exercise or physical activities such as those designed to improve cardiorespiratory function, body composition, muscular strength, muscular endurance, or flexibility.
+
+# TASKS
+- Develop exercise programs to improve participant strength, flexibility, endurance, or circulatory functioning, in accordance with exercise science standards, regulatory requirements, and credentialing requirements.
+- Provide emergency or other appropriate medical care to participants with symptoms or signs of physical distress.
+- Demonstrate correct use of exercise equipment or performance of exercise routines.
+- Recommend methods to increase lifestyle physical activity.
+- Interpret exercise program participant data to evaluate progress or identify needed program changes.
+- Prescribe individualized exercise programs, specifying equipment, such as treadmill, exercise bicycle, ergometers, or perceptual goggles.
+- Provide clinical oversight of exercise for participants at all risk levels.
+- Explain exercise program or physiological testing procedures to participants.
+- Interview participants to obtain medical history or assess participant goals.
+- Assess physical performance requirements to aid in the development of individualized recovery or rehabilitation exercise programs.
+- Teach behavior modification classes related to topics such as stress management or weight control.
+- Conduct stress tests, using electrocardiograph (EKG) machines.
+- Measure oxygen consumption or lung functioning, using spirometers.
+- Educate athletes or coaches on techniques to improve athletic performance, such as heart rate monitoring, recovery techniques, hydration strategies, or training limits.
+- Evaluate staff performance in leading group exercise or conducting diagnostic tests.
+- Teach group exercise for low-, medium-, or high-risk clients to improve participant strength, flexibility, endurance, or circulatory functioning.
+- Calibrate exercise or testing equipment.
+- Teach courses or seminars related to exercise or diet for patients, athletes, or community groups.
+- Mentor or train staff to lead group exercise.
+- Measure amount of body fat, using such equipment as hydrostatic scale, skinfold calipers, or tape measures.
+- Perform routine laboratory tests of blood samples for cholesterol level or glucose tolerance.
+- Supervise maintenance of exercise or exercise testing equipment.
+- Present exercise knowledge, program information, or research study findings at professional meetings or conferences.
+- Order or recommend diagnostic procedures, such as stress tests, drug screenings, or urinary tests.
+- Plan or conduct exercise physiology research projects.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Speaking (Importance: 4.0/5 | Level: 4.12/7)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.0/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.5/7)
+- Instructing (Importance: 4.0/5 | Level: 3.75/7)
+- Active Listening (Importance: 4.0/5 | Level: 4.0/7)
+- Writing (Importance: 3.88/5 | Level: 4.0/7)
+- Monitoring (Importance: 3.75/5 | Level: 4.0/7)
+- Social Perceptiveness (Importance: 3.75/5 | Level: 3.88/7)
+- Service Orientation (Importance: 3.75/5 | Level: 4.0/7)
+- Judgment and Decision Making (Importance: 3.75/5 | Level: 3.88/7)
+- Complex Problem Solving (Importance: 3.62/5 | Level: 3.5/7)
+- Active Learning (Importance: 3.25/5 | Level: 3.88/7)
+- Learning Strategies (Importance: 3.25/5 | Level: 3.75/7)
+- Systems Analysis (Importance: 3.12/5 | Level: 3.12/7)
+- Coordination (Importance: 3.12/5 | Level: 3.62/7)
+- Systems Evaluation (Importance: 3.12/5 | Level: 3.12/7)
+- Negotiation (Importance: 3.0/5 | Level: 3.0/7)
+- Persuasion (Importance: 3.0/5 | Level: 3.62/7)
+- Time Management (Importance: 3.0/5 | Level: 3.12/7)
+- Mathematics (Importance: 2.88/5 | Level: 3.0/7)
+- Management of Personnel Resources (Importance: 2.88/5 | Level: 3.0/7)
+- Science (Importance: 2.88/5 | Level: 3.0/7)
+- Operations Analysis (Importance: 2.25/5 | Level: 2.12/7)
+- Operations Monitoring (Importance: 2.12/5 | Level: 2.38/7)
+- Quality Control Analysis (Importance: 2.12/5 | Level: 2.0/7)
+- Technology Design (Importance: 2.0/5 | Level: 1.75/7)
+- Operation and Control (Importance: 2.0/5 | Level: 1.75/7)
+- Troubleshooting (Importance: 2.0/5 | Level: 1.25/7)
+- Programming (Importance: 1.88/5 | Level: 1.12/7)
+- Equipment Selection (Importance: 1.75/5 | Level: 1.25/7)
+- Management of Material Resources (Importance: 1.62/5 | Level: 1.12/7)
+- Management of Financial Resources (Importance: 1.5/5 | Level: 1.0/7)
+- Equipment Maintenance (Importance: 1.25/5 | Level: 0.25/7)
+- Installation (Importance: 1.25/5 | Level: 0.25/7)
+- Repairing (Importance: 1.12/5 | Level: 0.25/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Email software (Tech skill type: Electronic mail software)
+- MEDITECH software (Tech skill type: Medical software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Arm crank ergometers (Tool type: Work table or station for rehabilitation or therapy)
+- Automated blood pressure measurement equipment (Tool type: Electronic blood pressure units)
+- Automated external defibrillators AED (Tool type: Mobile medical services automated external defibrillators AED or hard paddles)
+- Bioelectric impedance analyzers (Tool type: Impedance meters)
+- Cholesterol analyzers (Tool type: Cholesterol monitors or meters)
+- Cycle ergometers (Tool type: Stationary bicycles)
+- Desktop computers (Tool type: Desktop computers)
+- Dual energy x ray absorptiometers (Tool type: Mass spectrometers)
+- Echocardiography systems (Tool type: Medical ultrasound or doppler or echocardiograph transducer accessories)
+- Electrocardiography EKG machines (Tool type: Electrocardiography EKG units)
+- Electromyographs EMG (Tool type: Electromyography EMG units)
+- Electronic spirometers (Tool type: Spirometers)
+- Electronic timing systems (Tool type: Clock timers)
+- Exercise treadmills (Tool type: Treadmills)
+- Goniometers or arthrometers (Tool type: Goniometers or arthrometers)
+- Heart rate monitors (Tool type: Cardiac output CO monitoring units)
+- Holter monitors (Tool type: Holter or wearable EKG monitoring systems or accessories)
+- Hydraulic hand dynamometers (Tool type: Grip strengthener)
+- Intravenous IV infusion pumps (Tool type: Intravenous infusion pumps for general use)
+- Isokinetic dynamometers (Tool type: Dynamometers)
+- Lactate analyzers (Tool type: Lactate analyzers)
+- Laptop computers (Tool type: Notebook computers)
+- Manual blood pressure equipment (Tool type: Mercury blood pressure units)
+- Mechanical stethoscopes (Tool type: Medical acoustic stethoscopes)
+- Metabolic carts (Tool type: Calorimeters)
+- Microhematocrits (Tool type: Microcentrifuges)
+- Multi-line telephone systems (Tool type: Special purpose telephones)
+- Muscle strength dynamometers (Tool type: Dynamometers)
+- Near infrared spectrometers (Tool type: Infrared spectrometers)
+- Osmometers (Tool type: Osmometers)
+- Oxygen analyzers (Tool type: Respiratory monitoring kit accessories)
+- Patient weight scales (Tool type: Patient floor scales)
+- Pedometers (Tool type: Pedometers)
+- Perceptual goggles (Tool type: Cognitive or dexterity or perceptual or sensory evaluation or testing products)
+- Personal computers (Tool type: Personal computers)
+- Photocopying equipment (Tool type: Photocopiers)
+- Pulse oximeters (Tool type: Pulse oximeter units)
+- Skinfold calipers (Tool type: Skinfold calipers)
+- Spirometers (Tool type: Spirometers)
+- Stair climbers (Tool type: Climbing devices for rehabilitation or therapy)
+- Strength training equipment (Tool type: Weights or sets for rehabilitation or therapy)
+- Telemetry units (Tool type: Electrocardiography EKG transmitters or telemetry devices)
+- Underwater weighing tanks (Tool type: Bodyweight measuring scales)
+- Urine analysis equipment (Tool type: Urinalysis analyzers)
+- Whole body air plethysmography systems (Tool type: Body plethysmographs)

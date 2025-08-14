@@ -1,0 +1,92 @@
+Job Title: Correspondence Clerks
+O*NET-SOC Code: 43-4021.00
+
+# DESCRIPTION
+Compose letters or electronic correspondence in reply to requests for merchandise, damage claims, credit and other information, delinquent accounts, incorrect billings, or unsatisfactory services. Duties may include gathering data to formulate reply and preparing correspondence.
+
+# TASKS
+- Maintain files and control records to show correspondence activities.
+- Read incoming correspondence to ascertain nature of writers' concerns and to determine disposition of correspondence.
+- Gather records pertinent to specific problems, review them for completeness and accuracy, and attach records to correspondence as necessary.
+- Prepare documents and correspondence, such as damage claims, credit and billing inquiries, invoices, and service complaints.
+- Compile data from records to prepare periodic reports.
+- Compose letters in reply to correspondence concerning such items as requests for merchandise, damage claims, credit information requests, delinquent accounts, incorrect billing, or unsatisfactory service.
+- Route correspondence to other departments for reply.
+- Ensure that money collected is properly recorded and secured.
+- Process orders for goods requested in correspondence.
+- Present clear and concise explanations of governing rules and regulations.
+- Review correspondence for format and typographical accuracy, assemble the information into a prescribed form with the correct number of copies, and submit it to an authorized official for signature.
+- Compute costs of records furnished to requesters, and write letters to obtain payment.
+- Compile data pertinent to manufacture of special products for customers.
+- Type acknowledgment letters to persons sending correspondence.
+- Complete form letters in response to requests or problems identified by correspondence.
+- Confer with company personnel regarding feasibility of complying with writers' requests.
+- Prepare records for shipment by certified mail.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Writing (Importance: 4.0/5 | Level: 4.12/7)
+- Reading Comprehension (Importance: 3.75/5 | Level: 4.0/7)
+- Active Listening (Importance: 3.75/5 | Level: 3.88/7)
+- Speaking (Importance: 3.5/5 | Level: 3.5/7)
+- Critical Thinking (Importance: 3.38/5 | Level: 3.75/7)
+- Judgment and Decision Making (Importance: 3.25/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 3.12/5 | Level: 2.88/7)
+- Time Management (Importance: 3.0/5 | Level: 2.88/7)
+- Service Orientation (Importance: 3.0/5 | Level: 3.0/7)
+- Complex Problem Solving (Importance: 2.88/5 | Level: 2.75/7)
+- Coordination (Importance: 2.88/5 | Level: 2.88/7)
+- Monitoring (Importance: 2.88/5 | Level: 2.75/7)
+- Mathematics (Importance: 2.75/5 | Level: 2.5/7)
+- Persuasion (Importance: 2.75/5 | Level: 2.88/7)
+- Active Learning (Importance: 2.75/5 | Level: 2.75/7)
+- Learning Strategies (Importance: 2.62/5 | Level: 2.38/7)
+- Negotiation (Importance: 2.62/5 | Level: 2.75/7)
+- Management of Personnel Resources (Importance: 2.25/5 | Level: 2.25/7)
+- Instructing (Importance: 2.25/5 | Level: 2.0/7)
+- Systems Analysis (Importance: 2.12/5 | Level: 2.12/7)
+- Systems Evaluation (Importance: 2.12/5 | Level: 2.12/7)
+- Management of Material Resources (Importance: 1.5/5 | Level: 0.5/7)
+- Quality Control Analysis (Importance: 1.5/5 | Level: 0.5/7)
+- Operations Monitoring (Importance: 1.38/5 | Level: 0.38/7)
+- Management of Financial Resources (Importance: 1.38/5 | Level: 0.38/7)
+- Programming (Importance: 1.38/5 | Level: 0.38/7)
+- Technology Design (Importance: 1.25/5 | Level: 0.25/7)
+- Science (Importance: 1.25/5 | Level: 0.25/7)
+- Operations Analysis (Importance: 1.25/5 | Level: 0.25/7)
+- Operation and Control (Importance: 1.12/5 | Level: 0.12/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Electronic data interchange EDI software (Tech skill type: Enterprise application integration software)
+- Electronic health record EHR software (Tech skill type: Medical software)
+- Enterprise resource planning ERP software (Tech skill type: Enterprise resource planning ERP software)
+- Epic Systems (Tech skill type: Medical software)
+- GE Healthcare Centricity EMR (Tech skill type: Medical software)
+- Healthcare common procedure coding system HCPCS (Tech skill type: Medical software)
+- Imaging software (Tech skill type: Graphics or photo imaging software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Computer inkjet printers (Tool type: Inkjet printers)
+- Computer laser printers (Tool type: Laser printers)
+- Copy machines (Tool type: Photocopiers)
+- Document scanners (Tool type: Scanners)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Microfiche viewing equipment (Tool type: Microfiche or microfilm viewers)
+- Multiline telephone systems (Tool type: Special purpose telephones)
+- Paper folding machines (Tool type: Book folding machines)
+- Personal computers (Tool type: Personal computers)

@@ -1,0 +1,155 @@
+Job Title: Computer Science Teachers, Postsecondary
+O*NET-SOC Code: 25-1021.00
+
+# DESCRIPTION
+Teach courses in computer science. May specialize in a field of computer science, such as the design and function of computers or operations and research analysis. Includes both teachers primarily engaged in teaching and those who do a combination of teaching and research.
+
+# TASKS
+- Prepare course materials, such as syllabi, homework assignments, and handouts.
+- Compile, administer, and grade examinations or assign this work to others.
+- Prepare and deliver lectures to undergraduate or graduate students on topics such as programming, data structures, and software design.
+- Evaluate and grade students' class work, laboratory work, assignments, and papers.
+- Maintain student attendance records, grades, and other required records.
+- Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferences.
+- Plan, evaluate, and revise curricula, course content, and course materials and methods of instruction.
+- Maintain regularly scheduled office hours to advise and assist students.
+- Advise students on academic and vocational curricula and on career issues.
+- Initiate, facilitate, and moderate classroom discussions.
+- Develop and maintain Web sites for online courses.
+- Participate in student recruitment, registration, and placement activities.
+- Collaborate with colleagues to address teaching and research issues.
+- Select and obtain materials and supplies, such as textbooks and laboratory equipment.
+- Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.
+- Participate in campus and community events.
+- Direct research of other teachers or of graduate students working for advanced academic degrees.
+- Supervise undergraduate or graduate teaching, internship, and research work.
+- Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.
+- Supervise students' laboratory work.
+- Write grant proposals to procure external research funding.
+- Perform administrative duties, such as serving as department head.
+- Maintain computer equipment used in instruction.
+- Compile bibliographies of specialized materials for outside reading assignments.
+- Provide professional consulting services to government or industry.
+- Act as advisers to student organizations.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Instructing (Importance: 4.12/5 | Level: 4.75/7)
+- Writing (Importance: 4.0/5 | Level: 4.88/7)
+- Speaking (Importance: 4.0/5 | Level: 4.88/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 5.0/7)
+- Active Listening (Importance: 3.88/5 | Level: 4.38/7)
+- Learning Strategies (Importance: 3.88/5 | Level: 4.38/7)
+- Judgment and Decision Making (Importance: 3.88/5 | Level: 3.88/7)
+- Active Learning (Importance: 3.88/5 | Level: 4.12/7)
+- Critical Thinking (Importance: 3.88/5 | Level: 4.5/7)
+- Complex Problem Solving (Importance: 3.75/5 | Level: 4.0/7)
+- Monitoring (Importance: 3.75/5 | Level: 4.0/7)
+- Social Perceptiveness (Importance: 3.62/5 | Level: 3.75/7)
+- Systems Analysis (Importance: 3.38/5 | Level: 3.62/7)
+- Systems Evaluation (Importance: 3.25/5 | Level: 3.38/7)
+- Time Management (Importance: 3.12/5 | Level: 3.62/7)
+- Service Orientation (Importance: 3.12/5 | Level: 3.25/7)
+- Mathematics (Importance: 3.12/5 | Level: 3.5/7)
+- Persuasion (Importance: 3.0/5 | Level: 3.0/7)
+- Coordination (Importance: 3.0/5 | Level: 3.12/7)
+- Programming (Importance: 3.0/5 | Level: 3.12/7)
+- Negotiation (Importance: 3.0/5 | Level: 2.88/7)
+- Management of Personnel Resources (Importance: 2.75/5 | Level: 3.0/7)
+- Science (Importance: 2.75/5 | Level: 2.62/7)
+- Operations Analysis (Importance: 2.25/5 | Level: 2.62/7)
+- Operations Monitoring (Importance: 2.12/5 | Level: 1.25/7)
+- Technology Design (Importance: 2.0/5 | Level: 1.88/7)
+- Quality Control Analysis (Importance: 2.0/5 | Level: 1.62/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.62/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.0/7)
+- Operation and Control (Importance: 1.62/5 | Level: 0.75/7)
+- Equipment Selection (Importance: 1.5/5 | Level: 0.5/7)
+- Equipment Maintenance (Importance: 1.38/5 | Level: 0.38/7)
+- Troubleshooting (Importance: 1.38/5 | Level: 0.38/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adobe Dreamweaver (Tech skill type: Web page creation and editing software)
+- Adobe Photoshop (Tech skill type: Graphics or photo imaging software)
+- Adobe Premiere Pro (Tech skill type: Video creation and editing software)
+- Blackboard Learn (Tech skill type: Computer based training software)
+- Blackboard software (Tech skill type: Data base user interface and query software)
+- C (Tech skill type: Development environment software)
+- C# (Tech skill type: Object or component oriented development software)
+- C++ (Tech skill type: Object or component oriented development software)
+- Calendar and scheduling software (Tech skill type: Calendar and scheduling software)
+- Collaborative editing software (Tech skill type: Word processing software)
+- Course management system software (Tech skill type: Computer based training software)
+- Database software (Tech skill type: Data base user interface and query software)
+- Desire2Learn LMS software (Tech skill type: Computer based training software)
+- DOC Cop (Tech skill type: Information retrieval or search software)
+- Email software (Tech skill type: Electronic mail software)
+- Firewall software (Tech skill type: Network security and virtual private network VPN equipment software)
+- Google Docs (Tech skill type: Word processing software)
+- Hypertext markup language HTML (Tech skill type: Web platform development software)
+- iParadigms Turnitin (Tech skill type: Information retrieval or search software)
+- Learning management system LMS (Tech skill type: Computer based training software)
+- Linux (Tech skill type: Operating system software)
+- Management information systems MIS (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Visual Basic (Tech skill type: Development environment software)
+- Microsoft Visual Basic.NET (Tech skill type: Object or component oriented development software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Moodle (Tech skill type: Computer based training software)
+- Network intrusion detection software (Tech skill type: Network security and virtual private network VPN equipment software)
+- Object oriented programming software (Tech skill type: Object oriented data base management software)
+- OpenAI ChatGPT (Tech skill type: Development environment software)
+- Operating system software (Tech skill type: Operating system software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- PHP (Tech skill type: Web platform development software)
+- Programming languages (Tech skill type: Development environment software)
+- Python (Tech skill type: Object or component oriented development software)
+- Sakai CLE (Tech skill type: Computer based training software)
+- Software development tools (Tech skill type: Development environment software)
+- UNIX (Tech skill type: Operating system software)
+- Virtual private networking VPN software (Tech skill type: Network security or virtual private network VPN management software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Carousel slide projectors (Tool type: Slide projectors)
+- Compact digital cameras (Tool type: Digital cameras)
+- Compact disk CD players (Tool type: Compact disk players or recorders)
+- Computer data input scanners (Tool type: Scanners)
+- Computer laser printers (Tool type: Laser printers)
+- Computer projectors (Tool type: Multimedia projectors)
+- Conference telephones (Tool type: Teleconference equipment)
+- Desktop computers (Tool type: Desktop computers)
+- Digital calculators (Tool type: Pocket calculator)
+- Digital video disk DVD players (Tool type: Digital video disk players or recorders)
+- Digital video editors (Tool type: Video editors)
+- Handheld microphones (Tool type: Microphones)
+- Handheld videocameras (Tool type: Hand held camcorders or video cameras)
+- Interactive whiteboard controllers (Tool type: Portable data input terminals)
+- Interactive whiteboards (Tool type: Touch screen monitors)
+- Laptop computers (Tool type: Notebook computers)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Liquid crystal display LCD projectors (Tool type: Liquid crystal display projector)
+- Liquid crystal display LCD televisions (Tool type: Televisions)
+- Microphone podiums (Tool type: Microphone stand)
+- MP3 digital voice recorders (Tool type: MP3 players or recorders)
+- Multi-line telephone systems (Tool type: Special purpose telephones)
+- Multimedia projection equipment (Tool type: Multimedia projectors)
+- Opaque projectors (Tool type: Epidiascopes)
+- Overhead data projectors (Tool type: Overhead projectors)
+- Packet sniffers (Tool type: Network analyzers)
+- Photocopying equipment (Tool type: Photocopiers)
+- Poster printers (Tool type: Inkjet printers)
+- Projector screens (Tool type: Projection screens or displays)
+- Student response systems (Tool type: Portable data input terminals)
+- Tablet computers (Tool type: Tablet computers)
+- Television monitors (Tool type: Televisions)
+- Universal serial bus USB flash drives (Tool type: High capacity removable media drives)
+- Videoconferencing equipment (Tool type: Videoconferencing systems)
+- Webcams (Tool type: Web cameras)
+- Wireless microphones (Tool type: Microphones)

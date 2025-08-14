@@ -1,0 +1,105 @@
+Job Title: Textile Bleaching and Dyeing Machine Operators and Tenders
+O*NET-SOC Code: 51-6061.00
+
+# DESCRIPTION
+Operate or tend machines to bleach, shrink, wash, dye, or finish textiles or synthetic or glass fibers.
+
+# TASKS
+- Weigh ingredients, such as dye, to be mixed together for use in textile processing.
+- Start and control machines and equipment to wash, bleach, dye, or otherwise process and finish fabric, yarn, thread, or other textile goods.
+- Observe display screens, control panels, equipment, and cloth entering or exiting processes to determine if equipment is operating correctly.
+- Notify supervisors or mechanics of equipment malfunctions.
+- Monitor factors such as temperatures and dye flow rates to ensure that they are within specified ranges.
+- Add dyes, water, detergents, or chemicals to tanks to dilute or strengthen solutions, according to established formulas and solution test results.
+- Examine and feel products to identify defects and variations from coloring and other processing standards.
+- Adjust equipment controls to maintain specified heat, tension, and speed.
+- Soak specified textile products for designated times.
+- Inspect machinery to determine necessary adjustments and repairs.
+- Confer with coworkers to get information about order details, processing plans, or problems that occur.
+- Sew ends of cloth together, by hand or using machines, to form endless lengths of cloth to facilitate processing.
+- Ravel seams that connect cloth ends when processing is completed.
+- Remove dyed articles from tanks and machines for drying and further processing.
+- Study guides, charts, and specification sheets, and confer with supervisors to determine machine setup requirements.
+- Prepare dyeing machines for production runs, and conduct test runs of machines to ensure their proper operation.
+- Key in processing instructions to program electronic equipment.
+- Test solutions used to process textile goods to detect variations from standards.
+- Record production information such as fabric yardage processed, temperature readings, fabric tensions, and machine speeds.
+- Thread ends of cloth or twine through specified sections of equipment prior to processing.
+- Mount rolls of cloth on machines, using hoists, or place textile goods in machines or pieces of equipment.
+- Install, level, and align components such as gears, chains, dies, cutters, and needles.
+- Perform machine maintenance, such as cleaning and oiling equipment, and repair or replace worn or defective parts.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operations Monitoring (Importance: 3.75/5 | Level: 3.75/7)
+- Operation and Control (Importance: 3.38/5 | Level: 3.25/7)
+- Active Listening (Importance: 3.0/5 | Level: 2.88/7)
+- Time Management (Importance: 3.0/5 | Level: 2.38/7)
+- Monitoring (Importance: 3.0/5 | Level: 2.75/7)
+- Critical Thinking (Importance: 2.88/5 | Level: 2.75/7)
+- Speaking (Importance: 2.88/5 | Level: 2.75/7)
+- Judgment and Decision Making (Importance: 2.88/5 | Level: 2.25/7)
+- Reading Comprehension (Importance: 2.88/5 | Level: 2.75/7)
+- Quality Control Analysis (Importance: 2.88/5 | Level: 3.0/7)
+- Coordination (Importance: 2.75/5 | Level: 2.5/7)
+- Complex Problem Solving (Importance: 2.62/5 | Level: 2.12/7)
+- Equipment Maintenance (Importance: 2.62/5 | Level: 2.0/7)
+- Troubleshooting (Importance: 2.62/5 | Level: 2.25/7)
+- Social Perceptiveness (Importance: 2.62/5 | Level: 2.25/7)
+- Repairing (Importance: 2.5/5 | Level: 2.12/7)
+- Writing (Importance: 2.5/5 | Level: 2.5/7)
+- Mathematics (Importance: 2.5/5 | Level: 2.38/7)
+- Equipment Selection (Importance: 2.5/5 | Level: 1.88/7)
+- Active Learning (Importance: 2.12/5 | Level: 2.12/7)
+- Systems Evaluation (Importance: 2.12/5 | Level: 2.0/7)
+- Systems Analysis (Importance: 2.12/5 | Level: 2.0/7)
+- Learning Strategies (Importance: 2.0/5 | Level: 2.0/7)
+- Instructing (Importance: 2.0/5 | Level: 2.12/7)
+- Negotiation (Importance: 2.0/5 | Level: 1.88/7)
+- Management of Personnel Resources (Importance: 2.0/5 | Level: 2.0/7)
+- Persuasion (Importance: 2.0/5 | Level: 1.88/7)
+- Service Orientation (Importance: 2.0/5 | Level: 1.75/7)
+- Management of Material Resources (Importance: 1.75/5 | Level: 0.75/7)
+- Installation (Importance: 1.75/5 | Level: 0.88/7)
+- Science (Importance: 1.62/5 | Level: 0.62/7)
+- Operations Analysis (Importance: 1.62/5 | Level: 1.12/7)
+- Management of Financial Resources (Importance: 1.62/5 | Level: 0.62/7)
+- Technology Design (Importance: 1.62/5 | Level: 0.62/7)
+- Programming (Importance: 1.38/5 | Level: 0.5/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Hewlett-Packard HP OpenVMS (Tech skill type: Operating system software)
+- Linux (Tech skill type: Operating system software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+
+## TOOLS USED
+- Adjustable hand wrenches (Tool type: Adjustable wrenches)
+- Beam dyeing machines (Tool type: Dyeing machines)
+- Bleaching machines (Tool type: Bleaching machines)
+- Continuous dyeing machines (Tool type: Dyeing machines)
+- Digital calipers (Tool type: Calipers)
+- Dye becks (Tool type: Dyeing machines)
+- Dye extractors (Tool type: Dyeing machines)
+- Fine spinning machines (Tool type: Fine spinning machine)
+- Hank reeling machines (Tool type: Winding or reeling or spooling machines)
+- Industrial sewing machines (Tool type: Sewing machines)
+- Jet dyeing machines (Tool type: Dyeing machines)
+- Material hoists (Tool type: Hoists)
+- Measuring tapes (Tool type: Tape measures)
+- Package dyeing machines (Tool type: Dyeing machines)
+- Paddle machines (Tool type: Intensive mixers)
+- Rotary dyeing machines (Tool type: Dyeing machines)
+- Roving machines (Tool type: Spinning machines)
+- Skein dyeing machines (Tool type: Dyeing machines)
+- Textile carding machines (Tool type: Carding machine)
+- Textile combing machines (Tool type: Carding machine)
+- Textile twisting machines (Tool type: Twisting machines)
+- Textile winding machines (Tool type: Winding or reeling or spooling machines)
+- Thickness gauges (Tool type: Thickness measuring devices)
+- Thread winding machines (Tool type: Winding or reeling or spooling machines)
+- Wheeled forklifts (Tool type: Forklifts)

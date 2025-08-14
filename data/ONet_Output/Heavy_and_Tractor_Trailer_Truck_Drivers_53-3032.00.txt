@@ -1,0 +1,139 @@
+Job Title: Heavy and Tractor-Trailer Truck Drivers
+O*NET-SOC Code: 53-3032.00
+
+# DESCRIPTION
+Drive a tractor-trailer combination or a truck with a capacity of at least 26,001 pounds Gross Vehicle Weight (GVW). May be required to unload truck. Requires commercial drivers' license. Includes tow truck drivers.
+
+# TASKS
+- Check all load-related documentation for completeness and accuracy.
+- Inspect loads to ensure that cargo is secure.
+- Check vehicles to ensure that mechanical, safety, and emergency equipment is in good working order.
+- Crank trailer landing gear up or down to safely secure vehicles.
+- Obtain receipts or signatures for delivered goods and collect payment for services when required.
+- Maintain logs of working hours or of vehicle service or repair status, following applicable state and federal regulations.
+- Read bills of lading to determine assignment details.
+- Report vehicle defects, accidents, traffic violations, or damage to the vehicles.
+- Perform basic vehicle maintenance tasks, such as adding oil, fuel, or radiator fluid, performing minor repairs, or washing trucks.
+- Couple or uncouple trailers by changing trailer jack positions, connecting or disconnecting air or electrical lines, or manipulating fifth-wheel locks.
+- Maneuver trucks into loading or unloading positions, following signals from loading crew and checking that vehicle and loading equipment are properly positioned.
+- Collect delivery instructions from appropriate sources, verifying instructions and routes.
+- Drive trucks with capacities greater than 13 tons, including tractor-trailer combinations, to transport and deliver products, livestock, or other materials.
+- Read and interpret maps to determine vehicle routes.
+- Check conditions of trailers after contents have been unloaded to ensure that there has been no damage.
+- Operate equipment, such as truck cab computers, CB radios, phones, or global positioning systems (GPS) equipment to exchange necessary information with bases, supervisors, or other drivers.
+- Drive trucks to weigh stations before and after loading and along routes in compliance with state regulations.
+- Load or unload trucks or help others with loading or unloading, using special loading-related equipment or other equipment as necessary.
+- Plan or adjust routes based on changing conditions, using computer equipment, global positioning systems (GPS) equipment, or other navigation devices, to minimize fuel consumption and carbon emissions.
+- Perform emergency roadside repairs, such as changing tires or installing light bulbs, tire chains, or spark plugs.
+- Remove debris from loaded trailers.
+- Secure cargo for transport, using ropes, blocks, chain, binders, or covers.
+- Follow appropriate safety procedures for transporting dangerous goods.
+- Inventory and inspect goods to be moved to determine quantities and conditions.
+- Follow special cargo-related procedures, such as checking refrigeration systems for frozen foods or providing food or water for livestock.
+- Install or remove special equipment, such as tire chains, grader blades, plow blades, or sanders.
+- Wrap and secure goods using pads, packing paper, containers, or straps.
+- Operate idle reduction systems or auxiliary power systems to generate power from alternative sources, such as fuel cells, to reduce idling time, to heat or cool truck cabins, or to provide power for other equipment.
+- Give directions to laborers who are packing goods and moving them onto trailers.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operation and Control (Importance: 3.75/5 | Level: 3.62/7)
+- Operations Monitoring (Importance: 3.75/5 | Level: 3.12/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.0/7)
+- Troubleshooting (Importance: 3.0/5 | Level: 2.88/7)
+- Time Management (Importance: 3.0/5 | Level: 3.0/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 2.88/7)
+- Speaking (Importance: 3.0/5 | Level: 2.88/7)
+- Reading Comprehension (Importance: 3.0/5 | Level: 3.0/7)
+- Equipment Maintenance (Importance: 2.88/5 | Level: 2.75/7)
+- Repairing (Importance: 2.88/5 | Level: 2.75/7)
+- Judgment and Decision Making (Importance: 2.88/5 | Level: 2.75/7)
+- Active Listening (Importance: 2.88/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 2.38/7)
+- Writing (Importance: 2.75/5 | Level: 2.62/7)
+- Coordination (Importance: 2.75/5 | Level: 2.25/7)
+- Complex Problem Solving (Importance: 2.62/5 | Level: 2.5/7)
+- Quality Control Analysis (Importance: 2.62/5 | Level: 2.5/7)
+- Active Learning (Importance: 2.5/5 | Level: 2.12/7)
+- Service Orientation (Importance: 2.5/5 | Level: 2.0/7)
+- Systems Analysis (Importance: 2.12/5 | Level: 2.0/7)
+- Equipment Selection (Importance: 2.12/5 | Level: 1.88/7)
+- Learning Strategies (Importance: 2.0/5 | Level: 1.75/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 1.88/7)
+- Mathematics (Importance: 2.0/5 | Level: 1.88/7)
+- Negotiation (Importance: 2.0/5 | Level: 2.0/7)
+- Management of Personnel Resources (Importance: 1.88/5 | Level: 1.75/7)
+- Persuasion (Importance: 1.88/5 | Level: 1.75/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.62/7)
+- Instructing (Importance: 1.88/5 | Level: 1.75/7)
+- Installation (Importance: 1.75/5 | Level: 1.0/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 1.38/7)
+- Operations Analysis (Importance: 1.75/5 | Level: 0.88/7)
+- Technology Design (Importance: 1.38/5 | Level: 0.38/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- 3M Post-it App (Tech skill type: Word processing software)
+- ADP ezLaborManager (Tech skill type: Time accounting software)
+- ALK Technologies PC*Miler (Tech skill type: Route navigation software)
+- Computerized inventory tracking software (Tech skill type: Inventory management software)
+- ddlsoftware.com drivers daily log program DDL (Tech skill type: Data base user interface and query software)
+- Eko (Tech skill type: Desktop communications software)
+- Evernote (Tech skill type: Word processing software)
+- Fog Line Software Truckn Pro (Tech skill type: Data base user interface and query software)
+- Inventory tracking software (Tech skill type: Inventory management software)
+- MarcoSoft Quo Vadis (Tech skill type: Route navigation software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Omnitracs Performance Monitoring (Tech skill type: Analytical or scientific software)
+- PeopleNet (Tech skill type: Materials requirements planning logistics and supply chain software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- TruckersHelper (Tech skill type: Data base user interface and query software)
+- YouTube (Tech skill type: Video creation and editing software)
+
+## TOOLS USED
+- 4-ranger tower trucks (Tool type: Tower cranes)
+- Air compressors (Tool type: Air compressors)
+- Blocks and tackle (Tool type: Blocks or pulleys)
+- Boom trucks (Tool type: Track cranes)
+- Cargo hoists (Tool type: Hoists)
+- Cell phones (Tool type: Mobile phones)
+- Dump trucks (Tool type: Dump trucks)
+- Electric handtrucks (Tool type: Hand trucks or accessories)
+- Flatbed trucks (Tool type: Cargo trucks)
+- Forklifts (Tool type: Forklifts)
+- Frequency modulation FM two way radios (Tool type: Two way radios)
+- Front load dumpsters (Tool type: Dump trucks)
+- Global positioning system GPS devices (Tool type: Global positioning system GPS receiver)
+- Global positioning system GPS receivers (Tool type: Global positioning system GPS receiver)
+- Handheld bar code scanners (Tool type: Bar code reader equipment)
+- Handlifts (Tool type: Lifts)
+- Handtrucks (Tool type: Hand trucks or accessories)
+- Hydraulic lifts (Tool type: Lifts)
+- Johnson bars (Tool type: Lifts)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Lowboy trailers (Tool type: Flatbed trailers)
+- Manual lifts (Tool type: Lifts)
+- Notebook computers (Tool type: Notebook computers)
+- On-board computers (Tool type: Thin client computers)
+- Order picker clamp trucks (Tool type: Forklifts)
+- Personal digital assistants PDA (Tool type: Personal digital assistant PDAs or organizers)
+- Plow attachments (Tool type: Snowplow attachments)
+- Pup trailers (Tool type: Container trailers)
+- Ready mix trucks (Tool type: Concrete transport truck)
+- Refuse collection trucks (Tool type: Sludge or sewage handling trucks)
+- Satellite linkup systems (Tool type: Location based messaging service platforms)
+- Scanners (Tool type: Scanners)
+- Sliding fifth wheels (Tool type: Trailer hitches)
+- Sliding tandem axles (Tool type: Trailer hitches)
+- Telescoping boom trucks (Tool type: Telescoping boom lift)
+- Three-point hitches (Tool type: Trailer hitches)
+- Tilt trailers (Tool type: Flatbed trailers)
+- Trucks greater than 26000 pounds (Tool type: Delivery trucks)
+- Two way radios (Tool type: Two way radios)
+- Wheel loaders (Tool type: Wheel loaders)
+- Winches (Tool type: Winches)

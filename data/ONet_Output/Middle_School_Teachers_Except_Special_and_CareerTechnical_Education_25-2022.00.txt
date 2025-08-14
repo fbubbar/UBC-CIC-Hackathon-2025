@@ -1,0 +1,141 @@
+Job Title: Middle School Teachers, Except Special and Career/Technical Education
+O*NET-SOC Code: 25-2022.00
+
+# DESCRIPTION
+Teach one or more subjects to students at the middle, intermediate, or junior high school level.
+
+# TASKS
+- Prepare materials and classrooms for class activities.
+- Observe and evaluate students' performance, behavior, social development, and physical health.
+- Instruct through lectures, discussions, and demonstrations in one or more subjects, such as English, mathematics, or social studies.
+- Prepare, administer, and grade tests and assignments to evaluate students' progress.
+- Establish and enforce rules for behavior and procedures for maintaining order among students.
+- Establish clear objectives for all lessons, units, and projects, and communicate these objectives to students.
+- Assign lessons and correct homework.
+- Assist students who need extra help, such as by tutoring and preparing and implementing remedial programs.
+- Confer with parents or guardians, other teachers, counselors, and administrators to resolve students' behavioral and academic problems.
+- Maintain accurate, complete, and correct student records as required by laws, district policies, and administrative regulations.
+- Plan and conduct activities for a balanced program of instruction, demonstration, and work time that provides students with opportunities to observe, question, and investigate.
+- Adapt teaching methods and instructional materials to meet students' varying needs and interests.
+- Enforce all administration policies and rules governing students.
+- Prepare students for later grades by encouraging them to explore learning opportunities and to persevere with challenging tasks.
+- Use computers, audio-visual aids, and other equipment and materials to supplement presentations.
+- Collaborate with other teachers and administrators in the development, evaluation, and revision of middle school programs.
+- Guide and counsel students with adjustment or academic problems, or special academic interests.
+- Meet or correspond with parents or guardians to discuss children's progress and to determine priorities and resource needs.
+- Instruct and monitor students in the use and care of equipment and materials to prevent injury and damage.
+- Meet with other professionals to discuss individual students' needs and progress.
+- Prepare reports on students and activities as required by administration.
+- Prepare for assigned classes and show written evidence of preparation upon request of immediate supervisors.
+- Prepare objectives and outlines for courses of study, following curriculum guidelines or requirements of states and schools.
+- Attend staff meetings and serve on staff committees, as required.
+- Plan and supervise class projects, field trips, visits by guest speakers, or other experiential activities, and guide students in learning from such activities.
+- Confer with other staff members to plan and schedule lessons promoting learning, following approved curricula.
+- Attend professional meetings, educational conferences, and teacher training workshops to maintain and improve professional competence.
+- Organize and supervise games and other recreational activities to promote physical, mental, and social development.
+- Perform administrative duties, such as school library assistance, hall and cafeteria monitoring, and bus loading and unloading.
+- Coordinate and supervise extracurricular activities, such as clubs, student organizations, and academic contests.
+- Organize and label materials and display students' work.
+- Select, store, order, issue, and inventory classroom equipment, materials, and supplies.
+- Administer standardized ability and achievement tests, and interpret results to determine student strengths and needs.
+- Provide students with disabilities with assistive devices, supportive technology, and assistance accessing facilities, such as restrooms.
+- Supervise, evaluate, and plan assignments for teacher assistants and volunteers.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Instructing (Importance: 4.25/5 | Level: 4.0/7)
+- Learning Strategies (Importance: 4.25/5 | Level: 4.0/7)
+- Speaking (Importance: 4.12/5 | Level: 4.0/7)
+- Active Listening (Importance: 4.0/5 | Level: 3.88/7)
+- Active Learning (Importance: 3.88/5 | Level: 4.0/7)
+- Social Perceptiveness (Importance: 3.88/5 | Level: 4.0/7)
+- Reading Comprehension (Importance: 3.88/5 | Level: 4.0/7)
+- Monitoring (Importance: 3.88/5 | Level: 3.88/7)
+- Writing (Importance: 3.88/5 | Level: 3.88/7)
+- Coordination (Importance: 3.75/5 | Level: 3.75/7)
+- Critical Thinking (Importance: 3.75/5 | Level: 3.88/7)
+- Time Management (Importance: 3.75/5 | Level: 3.75/7)
+- Judgment and Decision Making (Importance: 3.62/5 | Level: 3.0/7)
+- Complex Problem Solving (Importance: 3.62/5 | Level: 3.25/7)
+- Service Orientation (Importance: 3.25/5 | Level: 3.25/7)
+- Persuasion (Importance: 3.12/5 | Level: 3.0/7)
+- Systems Analysis (Importance: 3.0/5 | Level: 3.0/7)
+- Negotiation (Importance: 3.0/5 | Level: 3.0/7)
+- Systems Evaluation (Importance: 3.0/5 | Level: 3.0/7)
+- Management of Personnel Resources (Importance: 2.88/5 | Level: 3.0/7)
+- Mathematics (Importance: 2.88/5 | Level: 2.88/7)
+- Science (Importance: 2.0/5 | Level: 1.25/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.0/7)
+- Operations Monitoring (Importance: 1.88/5 | Level: 1.12/7)
+- Management of Financial Resources (Importance: 1.88/5 | Level: 0.88/7)
+- Technology Design (Importance: 1.75/5 | Level: 0.75/7)
+- Quality Control Analysis (Importance: 1.75/5 | Level: 1.0/7)
+- Programming (Importance: 1.25/5 | Level: 0.25/7)
+- Operations Analysis (Importance: 1.25/5 | Level: 0.25/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+- Operation and Control (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Apple Final Cut Pro (Tech skill type: Video creation and editing software)
+- Apple macOS (Tech skill type: Operating system software)
+- Appletree (Tech skill type: Computer based training software)
+- Blackboard software (Tech skill type: Data base user interface and query software)
+- Children's educational software (Tech skill type: Computer based training software)
+- ClassTag (Tech skill type: Desktop communications software)
+- Common Curriculum (Tech skill type: Computer based training software)
+- Desmos (Tech skill type: Analytical or scientific software)
+- Edmodo (Tech skill type: Desktop communications software)
+- Email software (Tech skill type: Electronic mail software)
+- Facebook (Tech skill type: Web page creation and editing software)
+- Flipgrid (Tech skill type: Video creation and editing software)
+- Google Classroom (Tech skill type: Project management software)
+- Google Docs (Tech skill type: Word processing software)
+- Google Drive (Tech skill type: Cloud-based data access and sharing software)
+- Google Meet (Tech skill type: Video conferencing software)
+- JamBoard (Tech skill type: Graphics or photo imaging software)
+- Kahoot! (Tech skill type: Multi-media educational software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Moodle (Tech skill type: Computer based training software)
+- Nearpod (Tech skill type: Multi-media educational software)
+- Padlet (Tech skill type: Computer based training software)
+- Pear Deck (Tech skill type: Presentation software)
+- Schoology (Tech skill type: Computer based training software)
+- Screencastify (Tech skill type: Video creation and editing software)
+- Seesaw (Tech skill type: Multi-media educational software)
+- Tadpoles (Tech skill type: Desktop communications software)
+- Video editing software (Tech skill type: Video creation and editing software)
+- Web browser software (Tech skill type: Internet browser software)
+- Zoom (Tech skill type: Video conferencing software)
+
+## TOOLS USED
+- Bunsen burners (Tool type: Gas burners)
+- Computer laser printers (Tool type: Laser printers)
+- Desktop computers (Tool type: Desktop computers)
+- Digital video cameras (Tool type: Digital camcorders or video cameras)
+- Dissection scalpels (Tool type: Laboratory scalpels)
+- Document cameras (Tool type: Document camera)
+- Glass beakers (Tool type: Laboratory beakers)
+- Interactive whiteboards (Tool type: Touch screen monitors)
+- Laboratory heating plates (Tool type: Laboratory hotplates)
+- Laptop computers (Tool type: Notebook computers)
+- Liquid crystal display LCD projectors (Tool type: Liquid crystal display projector)
+- Multimedia projection equipment (Tool type: Multimedia projectors)
+- Optical compound microscopes (Tool type: Binocular light compound microscopes)
+- Pencil compasses (Tool type: Compasses)
+- Personal computers (Tool type: Personal computers)
+- Photocopying equipment (Tool type: Photocopiers)
+- Safety gloves (Tool type: Protective gloves)
+- Safety goggles (Tool type: Goggles)
+- Science activity kits (Tool type: Childrens science kits)
+- Television monitors (Tool type: Televisions)
+- Video camcorders (Tool type: Hand held camcorders or video cameras)
+- Video cassette recorders VCR (Tool type: Video cassette players or recorders)

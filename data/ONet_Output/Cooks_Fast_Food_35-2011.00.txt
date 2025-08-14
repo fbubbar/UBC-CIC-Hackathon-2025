@@ -1,0 +1,103 @@
+Job Title: Cooks, Fast Food
+O*NET-SOC Code: 35-2011.00
+
+# DESCRIPTION
+Prepare and cook food in a fast food restaurant with a limited menu. Duties of these cooks are limited to preparation of a few basic items and normally involve operating large-volume single-purpose cooking equipment.
+
+# TASKS
+- Order and take delivery of supplies.
+- Cook the exact number of items ordered by each customer, working on several different orders simultaneously.
+- Prepare specialty foods, such as pizzas, fish and chips, sandwiches, or tacos, following specific methods that usually require short preparation time.
+- Operate large-volume cooking equipment, such as grills, deep-fat fryers, or griddles.
+- Wash, cut, and prepare foods designated for cooking.
+- Prepare and serve beverages, such as coffee or fountain drinks.
+- Clean food preparation areas, cooking surfaces, and utensils.
+- Read food order slips or receive verbal instructions as to food required by patron, and prepare and cook food according to instructions.
+- Serve orders to customers at windows, counters, or tables.
+- Clean, stock, and restock workstations and display cases.
+- Maintain sanitation, health, and safety standards in work areas.
+- Cook and package batches of food, such as hamburgers or fried chicken, prepared to order or kept warm until sold.
+- Prepare dough, following recipe.
+- Take food and drink orders and receive payment from customers.
+- Verify that prepared food meets requirements for quality and quantity.
+- Pre-cook items, such as bacon, to prepare them for later use.
+- Measure ingredients required for specific food items.
+- Mix ingredients, such as pancake or waffle batters.
+- Schedule activities and equipment use with managers, using information about daily menus to help coordinate cooking times.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Active Listening (Importance: 3.0/5 | Level: 2.38/7)
+- Service Orientation (Importance: 3.0/5 | Level: 2.12/7)
+- Coordination (Importance: 2.75/5 | Level: 2.12/7)
+- Speaking (Importance: 2.75/5 | Level: 2.12/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 2.62/7)
+- Critical Thinking (Importance: 2.62/5 | Level: 2.38/7)
+- Monitoring (Importance: 2.62/5 | Level: 2.25/7)
+- Reading Comprehension (Importance: 2.62/5 | Level: 2.62/7)
+- Time Management (Importance: 2.5/5 | Level: 2.12/7)
+- Active Learning (Importance: 2.38/5 | Level: 2.25/7)
+- Judgment and Decision Making (Importance: 2.38/5 | Level: 2.12/7)
+- Persuasion (Importance: 2.25/5 | Level: 2.12/7)
+- Operations Monitoring (Importance: 2.12/5 | Level: 1.75/7)
+- Instructing (Importance: 2.12/5 | Level: 2.0/7)
+- Negotiation (Importance: 2.12/5 | Level: 2.12/7)
+- Systems Analysis (Importance: 2.0/5 | Level: 1.25/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 1.12/7)
+- Writing (Importance: 2.0/5 | Level: 2.0/7)
+- Mathematics (Importance: 2.0/5 | Level: 1.62/7)
+- Management of Personnel Resources (Importance: 2.0/5 | Level: 1.5/7)
+- Complex Problem Solving (Importance: 2.0/5 | Level: 2.12/7)
+- Learning Strategies (Importance: 2.0/5 | Level: 1.62/7)
+- Operation and Control (Importance: 1.75/5 | Level: 1.5/7)
+- Quality Control Analysis (Importance: 1.75/5 | Level: 1.25/7)
+- Management of Financial Resources (Importance: 1.62/5 | Level: 0.62/7)
+- Management of Material Resources (Importance: 1.5/5 | Level: 0.38/7)
+- Technology Design (Importance: 1.25/5 | Level: 0.25/7)
+- Operations Analysis (Importance: 1.25/5 | Level: 0.38/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Aldelo Systems Aldelo for Restaurants Pro (Tech skill type: Point of sale POS software)
+- Foodman Home-Delivery (Tech skill type: Point of sale POS software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Plexis Software Plexis POS (Tech skill type: Point of sale POS software)
+- Point of sale POS software (Tech skill type: Point of sale POS software)
+- RestaurantPlus PRO (Tech skill type: Point of sale POS software)
+
+## TOOLS USED
+- Bakers' peels (Tool type: Domestic wooden oven paddle)
+- Cappuccino makers (Tool type: Cappuccino or espresso machines)
+- Carbonated beverage dispensers (Tool type: Carbonated beverage dispenser)
+- Cash registers (Tool type: Cash registers)
+- Chefs' knives (Tool type: Commercial use cutlery)
+- Commercial coffeemakers (Tool type: Commercial use coffee or iced tea makers)
+- Convection ovens (Tool type: Commercial use convection ovens)
+- Deep fat fryers (Tool type: Commercial use deep fryers)
+- Electric ovens (Tool type: Commercial use ranges)
+- Food scales (Tool type: Commercial use scales)
+- Food warmers (Tool type: Commercial use heat lamps)
+- Gas ovens (Tool type: Commercial use ranges)
+- Griddles (Tool type: Commercial use griddles)
+- Grills (Tool type: Commercial use grills)
+- Hot dog cookers (Tool type: Commercial use hot dog grills)
+- Ice-making machines (Tool type: Ice dispensers)
+- Intercom systems (Tool type: Intercom systems)
+- Juice dispensers (Tool type: Non carbonated beverage dispenser)
+- Milkshake and smoothie machines (Tool type: Milkshake machines)
+- Mixers (Tool type: Commercial use mixers)
+- Pizza ovens (Tool type: Commercial use pizza ovens)
+- Point of sale POS computer terminals (Tool type: Point of sale POS terminal)
+- Restaurant blenders (Tool type: Commercial use blenders)
+- Restaurant food processors (Tool type: Commercial use food processors)
+- Slicing machines (Tool type: Commercial use food slicers)
+- Soft-serve ice cream machines (Tool type: Soft serve machines)
+- Touch screen monitors (Tool type: Touch screen monitors)

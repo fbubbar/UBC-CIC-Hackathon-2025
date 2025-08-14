@@ -1,0 +1,132 @@
+Job Title: Pharmacists
+O*NET-SOC Code: 29-1051.00
+
+# DESCRIPTION
+Dispense drugs prescribed by physicians and other health practitioners and provide information to patients about medications and their use. May advise physicians and other health practitioners on the selection, dosage, interactions, and side effects of medications.
+
+# TASKS
+- Review prescriptions to assure accuracy, to ascertain the needed ingredients, and to evaluate their suitability.
+- Assess the identity, strength, or purity of medications.
+- Provide information and advice regarding drug interactions, side effects, dosage, and proper medication storage.
+- Analyze prescribing trends to monitor patient compliance and to prevent excessive usage or harmful interactions.
+- Maintain records, such as pharmacy files, patient profiles, charge system files, inventories, control records for radioactive nuclei, or registries of poisons, narcotics, or controlled drugs.
+- Collaborate with other health care professionals to plan, monitor, review, or evaluate the quality or effectiveness of drugs or drug regimens, providing advice on drug applications or characteristics.
+- Plan, implement, or maintain procedures for mixing, packaging, or labeling pharmaceuticals, according to policy and legal requirements, to ensure quality, security, and proper disposal.
+- Order and purchase pharmaceutical supplies, medical supplies, or drugs, maintaining stock and storing and handling it properly.
+- Compound and dispense medications as prescribed by doctors and dentists, by calculating, weighing, measuring, and mixing ingredients, or oversee these activities.
+- Contact insurance companies to resolve billing issues.
+- Advise customers on the selection of medication brands, medical equipment, or healthcare supplies.
+- Teach pharmacy students serving as interns in preparation for their graduation or licensure.
+- Provide specialized services to help patients manage conditions, such as diabetes, asthma, smoking cessation, or high blood pressure.
+- Refer patients to other health professionals or agencies when appropriate.
+- Work in hospitals or clinics or for Health Management Organizations (HMOs), dispensing prescriptions, serving as a medical team consultant, or specializing in specific drug therapy areas, such as oncology or nuclear pharmacotherapy.
+- Update or troubleshoot pharmacy information databases.
+- Manage pharmacy operations, hiring or supervising staff, performing administrative duties, or buying or selling non-pharmaceutical merchandise.
+- Prepare sterile solutions or infusions for use in surgical procedures, emergency rooms, or patients' homes.
+- Offer health promotion or prevention activities, such as training people to use blood pressure devices or diabetes monitors.
+- Publish educational information for other pharmacists, doctors, or patients.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Speaking (Importance: 4.0/5 | Level: 4.25/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.75/7)
+- Active Listening (Importance: 4.0/5 | Level: 4.38/7)
+- Writing (Importance: 3.88/5 | Level: 4.0/7)
+- Monitoring (Importance: 3.88/5 | Level: 4.5/7)
+- Critical Thinking (Importance: 3.88/5 | Level: 4.38/7)
+- Judgment and Decision Making (Importance: 3.75/5 | Level: 3.88/7)
+- Time Management (Importance: 3.62/5 | Level: 3.62/7)
+- Social Perceptiveness (Importance: 3.62/5 | Level: 4.0/7)
+- Service Orientation (Importance: 3.62/5 | Level: 3.75/7)
+- Active Learning (Importance: 3.62/5 | Level: 4.12/7)
+- Complex Problem Solving (Importance: 3.62/5 | Level: 3.5/7)
+- Coordination (Importance: 3.38/5 | Level: 3.75/7)
+- Management of Personnel Resources (Importance: 3.38/5 | Level: 3.38/7)
+- Instructing (Importance: 3.38/5 | Level: 3.75/7)
+- Science (Importance: 3.38/5 | Level: 3.75/7)
+- Mathematics (Importance: 3.25/5 | Level: 3.25/7)
+- Learning Strategies (Importance: 3.12/5 | Level: 3.38/7)
+- Systems Analysis (Importance: 3.0/5 | Level: 3.0/7)
+- Systems Evaluation (Importance: 3.0/5 | Level: 3.25/7)
+- Persuasion (Importance: 2.88/5 | Level: 3.12/7)
+- Negotiation (Importance: 2.88/5 | Level: 2.88/7)
+- Management of Material Resources (Importance: 2.75/5 | Level: 2.62/7)
+- Quality Control Analysis (Importance: 2.62/5 | Level: 2.5/7)
+- Operations Analysis (Importance: 2.62/5 | Level: 2.75/7)
+- Management of Financial Resources (Importance: 2.38/5 | Level: 2.25/7)
+- Operations Monitoring (Importance: 2.25/5 | Level: 2.0/7)
+- Troubleshooting (Importance: 1.75/5 | Level: 0.88/7)
+- Technology Design (Importance: 1.62/5 | Level: 1.0/7)
+- Operation and Control (Importance: 1.5/5 | Level: 0.62/7)
+- Programming (Importance: 1.5/5 | Level: 0.62/7)
+- Equipment Selection (Importance: 1.25/5 | Level: 0.38/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Computer records systems (Tech skill type: Data base user interface and query software)
+- eClinicalWorks EHR software (Tech skill type: Medical software)
+- Epic Systems (Tech skill type: Medical software)
+- Freedom MedTEACH (Tech skill type: Computer based training software)
+- Healthprolink MedAtlas (Tech skill type: Data base user interface and query software)
+- Insurance claim processing software (Tech skill type: Accounting software)
+- Label-making software (Tech skill type: Label making software)
+- MEDITECH software (Tech skill type: Medical software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Multitask software (Tech skill type: Calendar and scheduling software)
+- Pyxis MedStation software (Tech skill type: Inventory management software)
+- Recordkeeping software (Tech skill type: Data base user interface and query software)
+- RxKinetics UD Labels for Windows (Tech skill type: Label making software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- TPNassist (Tech skill type: Analytical or scientific software)
+- TTP LabTech comPOUND (Tech skill type: Analytical or scientific software)
+- Web browser software (Tech skill type: Internet browser software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Ampoule filling machines (Tool type: Ampoule filling equipment)
+- Area survey meters (Tool type: Radiation detectors)
+- Automated drug dispensing equipment (Tool type: Sterile or aseptic processing or filling machines)
+- Barcode scanning/prescription tracking systems (Tool type: Bar code reader equipment)
+- Binocular light compound microscopes (Tool type: Binocular light compound microscopes)
+- Capsule counters (Tool type: Tablet counters)
+- Electronic blood pressure monitors (Tool type: Electronic blood pressure units)
+- Electronic toploading balances (Tool type: Electronic toploading balances)
+- Filters for glass containers/ampoules (Tool type: Pharmaceutical filters or ultra filters)
+- Geiger-Muller counters (Tool type: Geiger counters)
+- Glucometers (Tool type: Glucose monitors or meters)
+- Hemacytometers (Tool type: Hemacytometer sets)
+- Horizontal air flow laminar hoods (Tool type: Laminar flow cabinets or stations)
+- Hospital beds (Tool type: Patient care beds for general use)
+- Intravenous IV therapy equipment (Tool type: Intravenous tubing with catheter administration kits)
+- Label-making machines (Tool type: Label making machines)
+- Laminar flow hoods (Tool type: Laminar flow cabinets or stations)
+- Lead shielded drawing stations (Tool type: Medical radiological shielding wall or ceiling or floor installed panels)
+- Lead transport shields (Tool type: Medical radiological shielding freestanding or portable screens or curtains)
+- Manual blood pressure equipment (Tool type: Mercury blood pressure units)
+- Medication pulling/dispensing systems (Tool type: Medication or pill dispensers)
+- Metric graduates (Tool type: Laboratory graduated cylinders)
+- Metric weights (Tool type: Calibration weights or weight sets)
+- Mortars (Tool type: Pestle or mortars)
+- Multiple channel well scintillation counters (Tool type: Liquid scintillation counters)
+- Needles (Tool type: Hypodermic needle)
+- Ostomy products (Tool type: Ostomy starter kits)
+- Oxygen therapy equipment (Tool type: Oxygen therapy delivery system products)
+- Personal computers (Tool type: Personal computers)
+- Pestles (Tool type: Pestle or mortars)
+- Radiation shields for syringes and vials (Tool type: Medical radiological shielding freestanding or portable screens or curtains)
+- Radiochemical fume hood and filter systems (Tool type: Fume hoods or cupboards)
+- Radionucleide dose calibrators (Tool type: Medical radiation dosimeters)
+- Sealing machines (Tool type: Filling or sealing auger dose machines)
+- Single channel well scintillation counters (Tool type: Liquid scintillation counters)
+- Syringes (Tool type: Medical syringes without needle)
+- Tablet computers (Tool type: Tablet computers)
+- Torsion balances (Tool type: Laboratory balances)
+- Vertical air flow laminar hoods (Tool type: Laminar flow cabinets or stations)
+- Wheelchairs (Tool type: Wheelchairs)

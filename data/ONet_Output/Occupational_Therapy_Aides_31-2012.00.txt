@@ -1,0 +1,111 @@
+Job Title: Occupational Therapy Aides
+O*NET-SOC Code: 31-2012.00
+
+# DESCRIPTION
+Under close supervision of an occupational therapist or occupational therapy assistant, perform only delegated, selected, or routine tasks in specific situations. These duties include preparing patient and treatment room.
+
+# TASKS
+- Encourage patients and attend to their physical needs to facilitate the attainment of therapeutic goals.
+- Report to supervisors or therapists, verbally or in writing, on patients' progress, attitudes, attendance, and accomplishments.
+- Observe patients' attendance, progress, attitudes, and accomplishments and record and maintain information in client records.
+- Prepare and maintain work area, materials, and equipment and maintain inventory of treatment and educational supplies.
+- Transport patients to and from the occupational therapy work area.
+- Instruct patients and families in work, social, and living skills, the care and use of adaptive equipment, and other skills to facilitate home and work adjustment to disability.
+- Assist occupational therapists in planning, implementing, and administering therapy programs to restore, reinforce, and enhance performance, using selected activities and special equipment.
+- Demonstrate therapy techniques, such as manual and creative arts and games.
+- Manage intradepartmental infection control and equipment security.
+- Perform clerical, administrative, and secretarial duties, such as answering phones, restocking and ordering supplies, filling out paperwork, and scheduling appointments.
+- Supervise patients in choosing and completing work assignments or arts and crafts projects.
+- Adjust and repair assistive devices and make adaptive changes to other equipment and to environments.
+- Evaluate the living skills and capacities of clients with physical, developmental, or mental health disabilities.
+- Accompany patients on outings, providing transportation when necessary.
+- Assist educational specialists or clinical psychologists in administering situational or diagnostic tests to measure client's abilities or progress.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Service Orientation (Importance: 3.75/5 | Level: 3.75/7)
+- Speaking (Importance: 3.62/5 | Level: 3.5/7)
+- Social Perceptiveness (Importance: 3.62/5 | Level: 3.5/7)
+- Active Listening (Importance: 3.5/5 | Level: 3.62/7)
+- Coordination (Importance: 3.38/5 | Level: 3.0/7)
+- Monitoring (Importance: 3.25/5 | Level: 3.12/7)
+- Critical Thinking (Importance: 3.25/5 | Level: 3.38/7)
+- Writing (Importance: 3.12/5 | Level: 3.0/7)
+- Complex Problem Solving (Importance: 3.12/5 | Level: 2.88/7)
+- Reading Comprehension (Importance: 3.12/5 | Level: 3.38/7)
+- Time Management (Importance: 3.0/5 | Level: 2.88/7)
+- Active Learning (Importance: 3.0/5 | Level: 3.0/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 2.88/7)
+- Instructing (Importance: 3.0/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 3.0/7)
+- Persuasion (Importance: 2.88/5 | Level: 2.88/7)
+- Negotiation (Importance: 2.5/5 | Level: 2.25/7)
+- Operations Monitoring (Importance: 2.38/5 | Level: 2.12/7)
+- Systems Evaluation (Importance: 2.12/5 | Level: 2.12/7)
+- Systems Analysis (Importance: 2.12/5 | Level: 2.12/7)
+- Quality Control Analysis (Importance: 2.12/5 | Level: 1.62/7)
+- Management of Personnel Resources (Importance: 2.12/5 | Level: 2.38/7)
+- Mathematics (Importance: 2.0/5 | Level: 1.75/7)
+- Troubleshooting (Importance: 1.88/5 | Level: 1.12/7)
+- Operation and Control (Importance: 1.88/5 | Level: 1.12/7)
+- Operations Analysis (Importance: 1.88/5 | Level: 1.62/7)
+- Management of Material Resources (Importance: 1.75/5 | Level: 0.88/7)
+- Science (Importance: 1.62/5 | Level: 0.75/7)
+- Repairing (Importance: 1.5/5 | Level: 0.75/7)
+- Technology Design (Importance: 1.5/5 | Level: 0.62/7)
+- Equipment Maintenance (Importance: 1.5/5 | Level: 0.75/7)
+- Management of Financial Resources (Importance: 1.5/5 | Level: 0.5/7)
+- Equipment Selection (Importance: 1.25/5 | Level: 0.38/7)
+- Programming (Importance: 1.12/5 | Level: 0.12/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Billing software (Tech skill type: Accounting software)
+- Electronic medical record EMR software (Tech skill type: Medical software)
+- MEDITECH software (Tech skill type: Medical software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Scheduling software (Tech skill type: Calendar and scheduling software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Adaptive cutlery (Tool type: Cutlery or utensils for the physically challenged)
+- Augmentative communication systems (Tool type: Adaptive communication switches for the physically challenged)
+- Beading needles (Tool type: Bead accessories)
+- Braille writers (Tool type: Braille devices for the physically challenged)
+- Canes (Tool type: Canes)
+- Communication boards (Tool type: Letter or symbol boards for the physically challenged)
+- Crochet hooks (Tool type: Crochet hooks)
+- Crutches (Tool type: Crutches)
+- Desktop computers (Tool type: Desktop computers)
+- Dressing sticks (Tool type: Dressing sticks for the physically challenged)
+- Hand weights (Tool type: Weights or sets for rehabilitation or therapy)
+- Knitting needles (Tool type: Hand sewing needles)
+- Lacing needles (Tool type: Lacing or stringing accessories)
+- Latch hooks (Tool type: Weaving accessories)
+- Leather scissors (Tool type: Leather accessories)
+- Multi-line telephone systems (Tool type: Special purpose telephones)
+- Multi-purpose saw sets (Tool type: Saws)
+- Orthopedic splints (Tool type: Orthopedic splint systems)
+- Personal computers (Tool type: Personal computers)
+- Photocopiers (Tool type: Photocopiers)
+- Power hand sanders (Tool type: Power sanders)
+- Punching awls (Tool type: Awls)
+- Rasps (Tool type: Rasps)
+- Rawhide mallets (Tool type: Mallets)
+- Reachers (Tool type: Reachers for the physically challenged)
+- Rehabilitation training ramps (Tool type: Training ramps for rehabilitation or therapy)
+- Rivet setters (Tool type: Rivet tools)
+- Rotary punches (Tool type: Leather accessories)
+- Scooter boards (Tool type: Balance beams or boards or bolsters or rockers for rehabilitation or therapy)
+- Sewing machines (Tool type: Domestic sewing machines)
+- Sewing needles (Tool type: Sewing needles)
+- Therapeutic balls (Tool type: Therapeutic balls)
+- Transfer belts (Tool type: Gait belts for rehabilitation or therapy)
+- Wheelchairs (Tool type: Wheelchairs)
+- Wheeled walkers (Tool type: Walkers or rollators)
+- Wood chisels (Tool type: Wood chisels)

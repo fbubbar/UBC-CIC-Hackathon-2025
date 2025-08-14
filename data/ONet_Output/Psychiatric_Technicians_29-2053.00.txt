@@ -1,0 +1,113 @@
+Job Title: Psychiatric Technicians
+O*NET-SOC Code: 29-2053.00
+
+# DESCRIPTION
+Care for individuals with mental or emotional conditions or disabilities, following the instructions of physicians or other health practitioners. Monitor patients' physical and emotional well-being and report to medical staff. May participate in rehabilitation and treatment programs, help with personal hygiene, and administer oral or injectable medications.
+
+# TASKS
+- Provide nursing, psychiatric, or personal care to patients with cognitive, intellectual, or developmental disabilities.
+- Encourage patients to develop work skills and to participate in social, recreational, or other therapeutic activities that enhance interpersonal skills or develop social relationships.
+- Restrain violent, potentially violent, or suicidal patients by verbal or physical means as required.
+- Lead prescribed individual or group therapy sessions as part of specific therapeutic procedures.
+- Monitor patients' physical and emotional well-being and report unusual behavior or physical ailments to medical staff.
+- Take and record measures of patients' physical condition, using devices such as thermometers or blood pressure gauges.
+- Observe and influence patients' behavior, communicating and interacting with them and teaching, counseling, or befriending them.
+- Aid patients in performing tasks, such as bathing or keeping beds, clothing, or living areas clean.
+- Collaborate with or assist doctors, psychologists, or rehabilitation therapists in working with patients with cognitive, intellectual, or developmental disabilities to treat, rehabilitate, and return patients to the community.
+- Develop or teach strategies to promote client wellness and independence.
+- Train or instruct new employees on procedures to follow with psychiatric patients.
+- Escort patients to medical appointments.
+- Administer oral medications or hypodermic injections, following physician's prescriptions and hospital procedures.
+- Issue medications from dispensary and maintain records in accordance with specified procedures.
+- Interview new patients to complete admission forms, to assess their mental health status, or to obtain their mental health and treatment history.
+- Contact patients' relatives to arrange family conferences.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Social Perceptiveness (Importance: 4.12/5 | Level: 4.25/7)
+- Monitoring (Importance: 4.0/5 | Level: 4.0/7)
+- Active Listening (Importance: 4.0/5 | Level: 4.0/7)
+- Speaking (Importance: 3.88/5 | Level: 3.88/7)
+- Coordination (Importance: 3.88/5 | Level: 3.25/7)
+- Reading Comprehension (Importance: 3.75/5 | Level: 3.88/7)
+- Critical Thinking (Importance: 3.62/5 | Level: 3.75/7)
+- Service Orientation (Importance: 3.62/5 | Level: 3.5/7)
+- Writing (Importance: 3.25/5 | Level: 3.12/7)
+- Instructing (Importance: 3.25/5 | Level: 3.38/7)
+- Persuasion (Importance: 3.12/5 | Level: 3.12/7)
+- Active Learning (Importance: 3.12/5 | Level: 3.0/7)
+- Complex Problem Solving (Importance: 3.0/5 | Level: 3.0/7)
+- Negotiation (Importance: 3.0/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 3.25/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 2.88/7)
+- Management of Personnel Resources (Importance: 2.75/5 | Level: 2.88/7)
+- Systems Analysis (Importance: 2.75/5 | Level: 3.0/7)
+- Systems Evaluation (Importance: 2.62/5 | Level: 2.75/7)
+- Mathematics (Importance: 2.0/5 | Level: 1.75/7)
+- Troubleshooting (Importance: 2.0/5 | Level: 1.12/7)
+- Operations Monitoring (Importance: 2.0/5 | Level: 1.88/7)
+- Quality Control Analysis (Importance: 2.0/5 | Level: 1.75/7)
+- Science (Importance: 2.0/5 | Level: 1.88/7)
+- Operations Analysis (Importance: 1.88/5 | Level: 1.0/7)
+- Technology Design (Importance: 1.88/5 | Level: 0.75/7)
+- Operation and Control (Importance: 1.62/5 | Level: 1.12/7)
+- Management of Material Resources (Importance: 1.5/5 | Level: 0.5/7)
+- Programming (Importance: 1.5/5 | Level: 0.5/7)
+- Management of Financial Resources (Importance: 1.38/5 | Level: 0.38/7)
+- Equipment Maintenance (Importance: 1.12/5 | Level: 0.12/7)
+- Equipment Selection (Importance: 1.12/5 | Level: 0.12/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- ADL Data Systems OptimumClinicals Electronic Health Record (Tech skill type: Medical software)
+- Allscripts Sunrise (Tech skill type: Medical software)
+- Cerner ProFile (Tech skill type: Medical software)
+- Epic EpicCare Inpatient Clinical System (Tech skill type: Medical software)
+- GE Healthcare Centricity EMR (Tech skill type: Medical software)
+- ICANotes (Tech skill type: Medical software)
+- InfoLogix HealthTrax Engine (Tech skill type: Inventory management software)
+- MEDITECH Behavioral Health Clinicals (Tech skill type: Medical software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Netsmart Technologies Avatar Clinical Workstation CWS (Tech skill type: Medical software)
+
+## TOOLS USED
+- Bag valve mask BVM resuscitators (Tool type: Resuscitation masks)
+- Blood drawing syringes (Tool type: Blood collection syringes)
+- Blood pressure cuffs (Tool type: Blood pressure cuff kits)
+- Cold therapy equipment (Tool type: Therapeutic heating or cooling pads or compresses or packs)
+- Crutches (Tool type: Crutches)
+- Desktop computers (Tool type: Desktop computers)
+- Electronic patient thermometers (Tool type: Electronic medical thermometers)
+- Emergency carts (Tool type: Emergency or resuscitation carts)
+- Enema equipment (Tool type: Enema kits)
+- Evacuated blood collection tubes (Tool type: Vacuum blood collection tubes or containers)
+- Glucometers (Tool type: Glucose monitors or meters)
+- Gurneys (Tool type: Gurneys or scissor lifts)
+- Hazardous material spill kits (Tool type: Spill kits)
+- Heat therapy equipment (Tool type: Therapeutic heating or cooling pads or compresses or packs)
+- Hospital beds (Tool type: Patient care beds for general use)
+- Hypodermic syringes (Tool type: Medical syringes with needle)
+- Intermittent positive pressure breathing IPPB devices (Tool type: Intermittent positive pressure breathing IPPB machines)
+- Lancets (Tool type: Lancets)
+- Mechanical stethoscopes (Tool type: Medical acoustic stethoscopes)
+- Nasogastric tubes (Tool type: Nasogastric tubes)
+- Nebulizers (Tool type: Nebulizers)
+- Notebook computers (Tool type: Notebook computers)
+- Oximeters (Tool type: Pulse oximeter units)
+- Oxygen administration equipment (Tool type: Oxygen therapy delivery system products)
+- Oxygen carts (Tool type: Oxygen therapy delivery system products)
+- Patient restraints (Tool type: Patient stabilization or fall prevention devices)
+- Personal computers (Tool type: Personal computers)
+- Safety gloves (Tool type: Protective gloves)
+- Suction machines (Tool type: Medical or surgical suction or vacuum appliances)
+- Surgical masks (Tool type: Surgical isolation or surgical masks)
+- Tablet computers (Tool type: Tablet computers)
+- Traction equipment (Tool type: Orthopedic traction hardware or weights)
+- Tuberculin TB skin test equipment (Tool type: Tuberculin syringes)
+- Urinary catheters (Tool type: Urinary catheterization kits)
+- Wheelchairs (Tool type: Wheelchairs)

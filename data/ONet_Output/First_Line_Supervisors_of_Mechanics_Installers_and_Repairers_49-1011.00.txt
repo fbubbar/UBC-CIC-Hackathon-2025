@@ -1,0 +1,123 @@
+Job Title: First-Line Supervisors of Mechanics, Installers, and Repairers
+O*NET-SOC Code: 49-1011.00
+
+# DESCRIPTION
+Directly supervise and coordinate the activities of mechanics, installers, and repairers. May also advise customers on recommended services. Excludes team or work leaders.
+
+# TASKS
+- Inspect, test, and measure completed work, using devices such as hand tools or gauges to verify conformance to standards or repair requirements.
+- Inspect and monitor work areas, examine tools and equipment, and provide employee safety training to prevent, detect, and correct unsafe conditions or violations of procedures and safety rules.
+- Interpret specifications, blueprints, or job orders to construct templates and lay out reference points for workers.
+- Monitor employees' work levels and review work performance.
+- Perform skilled repair or maintenance operations, using equipment such as hand or power tools, hydraulic presses or shears, or welding equipment.
+- Compute estimates and actual costs of factors such as materials, labor, or outside contractors.
+- Monitor tool and part inventories and the condition and maintenance of shops to ensure adequate working conditions.
+- Requisition materials and supplies, such as tools, equipment, or replacement parts.
+- Confer with personnel, such as management, engineering, quality control, customer, or union workers' representatives, to coordinate work activities, resolve employee grievances, or identify and review resource needs.
+- Determine schedules, sequences, and assignments for work activities, based on work priority, quantity of equipment, and skill of personnel.
+- Examine objects, systems, or facilities and analyze information to determine needed installations, services, or repairs.
+- Counsel employees about work-related issues and assist employees to correct job-skill deficiencies.
+- Recommend or initiate personnel actions, such as hires, promotions, transfers, discharges, or disciplinary measures.
+- Investigate accidents or injuries and prepare reports of findings.
+- Conduct or arrange for worker training in safety, repair, or maintenance techniques, operational procedures, or equipment use.
+- Develop, implement, or evaluate maintenance policies and procedures.
+- Meet with vendors or suppliers to discuss products used in repair work.
+- Participate in budget preparation and administration, coordinating purchasing and documentation and monitoring departmental expenditures.
+- Review, evaluate, accept, and coordinate completion of work bid from contractors.
+- Compile operational or personnel records, such as time and production records, inventory data, repair or maintenance statistics, or test results.
+- Develop or implement electronic maintenance programs or computer information management systems.
+- Design equipment configurations to meet personnel needs.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Monitoring (Importance: 4.0/5 | Level: 4.0/7)
+- Management of Personnel Resources (Importance: 3.88/5 | Level: 4.0/7)
+- Speaking (Importance: 3.75/5 | Level: 3.88/7)
+- Coordination (Importance: 3.75/5 | Level: 3.75/7)
+- Critical Thinking (Importance: 3.75/5 | Level: 3.88/7)
+- Time Management (Importance: 3.75/5 | Level: 3.88/7)
+- Judgment and Decision Making (Importance: 3.75/5 | Level: 3.75/7)
+- Quality Control Analysis (Importance: 3.62/5 | Level: 3.62/7)
+- Active Listening (Importance: 3.62/5 | Level: 3.75/7)
+- Reading Comprehension (Importance: 3.62/5 | Level: 4.0/7)
+- Operations Monitoring (Importance: 3.38/5 | Level: 3.38/7)
+- Active Learning (Importance: 3.25/5 | Level: 3.75/7)
+- Systems Analysis (Importance: 3.25/5 | Level: 3.75/7)
+- Social Perceptiveness (Importance: 3.12/5 | Level: 3.75/7)
+- Systems Evaluation (Importance: 3.12/5 | Level: 3.0/7)
+- Troubleshooting (Importance: 3.12/5 | Level: 3.75/7)
+- Complex Problem Solving (Importance: 3.12/5 | Level: 3.62/7)
+- Learning Strategies (Importance: 3.12/5 | Level: 3.75/7)
+- Persuasion (Importance: 3.0/5 | Level: 3.5/7)
+- Service Orientation (Importance: 3.0/5 | Level: 3.0/7)
+- Operation and Control (Importance: 3.0/5 | Level: 3.0/7)
+- Negotiation (Importance: 3.0/5 | Level: 3.38/7)
+- Instructing (Importance: 3.0/5 | Level: 3.5/7)
+- Writing (Importance: 3.0/5 | Level: 3.5/7)
+- Repairing (Importance: 2.88/5 | Level: 3.12/7)
+- Mathematics (Importance: 2.88/5 | Level: 3.12/7)
+- Management of Material Resources (Importance: 2.88/5 | Level: 3.75/7)
+- Management of Financial Resources (Importance: 2.88/5 | Level: 3.62/7)
+- Equipment Maintenance (Importance: 2.88/5 | Level: 3.12/7)
+- Equipment Selection (Importance: 2.75/5 | Level: 2.75/7)
+- Operations Analysis (Importance: 2.5/5 | Level: 2.5/7)
+- Programming (Importance: 1.88/5 | Level: 1.12/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.25/7)
+- Science (Importance: 1.75/5 | Level: 1.38/7)
+- Installation (Importance: 1.75/5 | Level: 0.88/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Automated inventory software (Tech skill type: Inventory management software)
+- ComputerEase construction accounting software (Tech skill type: Project management software)
+- Computerized maintenance management system CMMS (Tech skill type: Facilities management software)
+- Cost accounting software (Tech skill type: Accounting software)
+- Database software (Tech skill type: Data base user interface and query software)
+- Email software (Tech skill type: Electronic mail software)
+- HCSS HeavyBid (Tech skill type: Project management software)
+- HCSS HeavyJob (Tech skill type: Project management software)
+- IBM Domino (Tech skill type: Communications server software)
+- IBM Notes (Tech skill type: Electronic mail software)
+- Infor ERP SyteLine (Tech skill type: Enterprise resource planning ERP software)
+- Internet browser software (Tech skill type: Internet browser software)
+- Inventory management software (Tech skill type: Inventory management software)
+- Maintenance management software (Tech skill type: Facilities management software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Dynamics (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Internet Explorer (Tech skill type: Internet browser software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Operating system software (Tech skill type: Operating system software)
+- Oracle JD Edwards EnterpriseOne (Tech skill type: Enterprise resource planning ERP software)
+- Oracle Primavera Enterprise Project Portfolio Management (Tech skill type: Project management software)
+- Payroll software (Tech skill type: Time accounting software)
+- Programmable logic controller PLC software (Tech skill type: Industrial control software)
+- Recordkeeping software (Tech skill type: Data base user interface and query software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Scheduling software (Tech skill type: Calendar and scheduling software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- Supervisory control and data acquisition SCADA software (Tech skill type: Industrial control software)
+- Vehicle management software (Tech skill type: Data base user interface and query software)
+- Word processing software (Tech skill type: Word processing software)
+- WorkTech MAXIMO (Tech skill type: Enterprise resource planning ERP software)
+- Yardi software (Tech skill type: Data base user interface and query software)
+
+## TOOLS USED
+- Calipers (Tool type: Calipers)
+- Desktop computers (Tool type: Desktop computers)
+- Dye penetrant inspection equipment (Tool type: Liquid penetrant examination equipment)
+- Laser printers (Tool type: Laser printers)
+- Mainframe computers (Tool type: Mainframe computers)
+- Measuring tapes (Tool type: Tape measures)
+- Personal computers (Tool type: Personal computers)
+- Plasma cutters (Tool type: Plasma arc welding machine)
+- Portable drills (Tool type: Power drills)
+- Portable welding equipment (Tool type: Spot welding machine)
+- Programmable logic controllers PLC (Tool type: Microcontrollers)
+- Two way radios (Tool type: Two way radios)

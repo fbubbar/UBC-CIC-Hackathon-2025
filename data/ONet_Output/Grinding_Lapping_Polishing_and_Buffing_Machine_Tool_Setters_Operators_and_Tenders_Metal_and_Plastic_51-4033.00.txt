@@ -1,0 +1,102 @@
+Job Title: Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+O*NET-SOC Code: 51-4033.00
+
+# DESCRIPTION
+Set up, operate, or tend grinding and related tools that remove excess material or burrs from surfaces, sharpen edges or corners, or buff, hone, or polish metal or plastic work pieces.
+
+# TASKS
+- Inspect or measure finished workpieces to determine conformance to specifications, using measuring instruments, such as gauges or micrometers.
+- Measure workpieces and lay out work, using precision measuring devices.
+- Observe machine operations to detect any problems, making necessary adjustments to correct problems.
+- Move machine controls to index workpieces, and to adjust machines for pre-selected operational settings.
+- Study blueprints, work orders, or machining instructions to determine product specifications, tool requirements, and operational sequences.
+- Select machine tooling to be used, using knowledge of machine and production requirements.
+- Mount and position tools in machine chucks, spindles, or other tool holding devices, using hand tools.
+- Activate machine start-up switches to grind, lap, hone, debar, shear, or cut workpieces, according to specifications.
+- Set up, operate, or tend grinding and related tools that remove excess material or burrs from surfaces, sharpen edges or corners, or buff, hone, or polish metal or plastic workpieces.
+- Set and adjust machine controls according to product specifications, using knowledge of machine operation.
+- Brush or spray lubricating compounds on workpieces, or turn valve handles and direct flow of coolant against tools and workpieces.
+- Lift and position workpieces, manually or with hoists, and secure them in hoppers or on machine tables, faceplates, or chucks, using clamps.
+- Repair or replace machine parts, using hand tools, or notify engineering personnel when corrective action is required.
+- Compute machine indexings and settings for specified dimensions and base reference points.
+- Maintain stocks of machine parts and machining tools.
+- Thread and hand-feed materials through machine cutters or abraders.
+- Adjust air cylinders and setting stops to set traverse lengths and feed arm strokes.
+- Slide spacers between buffs on spindles to set spacing.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operation and Control (Importance: 4.0/5 | Level: 3.62/7)
+- Operations Monitoring (Importance: 4.0/5 | Level: 3.62/7)
+- Quality Control Analysis (Importance: 3.5/5 | Level: 3.5/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.0/7)
+- Reading Comprehension (Importance: 3.12/5 | Level: 2.88/7)
+- Troubleshooting (Importance: 3.0/5 | Level: 2.62/7)
+- Speaking (Importance: 3.0/5 | Level: 2.5/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 2.88/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 2.88/7)
+- Coordination (Importance: 2.88/5 | Level: 2.5/7)
+- Complex Problem Solving (Importance: 2.88/5 | Level: 2.75/7)
+- Active Listening (Importance: 2.88/5 | Level: 2.62/7)
+- Time Management (Importance: 2.75/5 | Level: 2.25/7)
+- Equipment Selection (Importance: 2.75/5 | Level: 2.12/7)
+- Equipment Maintenance (Importance: 2.75/5 | Level: 2.5/7)
+- Mathematics (Importance: 2.75/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 2.62/5 | Level: 2.25/7)
+- Repairing (Importance: 2.62/5 | Level: 2.5/7)
+- Active Learning (Importance: 2.62/5 | Level: 2.25/7)
+- Systems Analysis (Importance: 2.38/5 | Level: 2.25/7)
+- Writing (Importance: 2.38/5 | Level: 2.0/7)
+- Learning Strategies (Importance: 2.25/5 | Level: 2.0/7)
+- Systems Evaluation (Importance: 2.25/5 | Level: 2.12/7)
+- Instructing (Importance: 2.25/5 | Level: 2.12/7)
+- Management of Personnel Resources (Importance: 2.12/5 | Level: 1.88/7)
+- Management of Material Resources (Importance: 2.12/5 | Level: 1.12/7)
+- Service Orientation (Importance: 2.12/5 | Level: 1.75/7)
+- Persuasion (Importance: 2.0/5 | Level: 1.62/7)
+- Negotiation (Importance: 2.0/5 | Level: 1.38/7)
+- Programming (Importance: 1.75/5 | Level: 0.75/7)
+- Operations Analysis (Importance: 1.62/5 | Level: 1.0/7)
+- Management of Financial Resources (Importance: 1.62/5 | Level: 0.75/7)
+- Technology Design (Importance: 1.62/5 | Level: 0.75/7)
+- Science (Importance: 1.5/5 | Level: 0.5/7)
+- Installation (Importance: 1.5/5 | Level: 0.62/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Manufacturing reporting system (Tech skill type: Inventory management software)
+- Mazak Mazatrol SMART CNC (Tech skill type: Industrial control software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+
+## TOOLS USED
+- Angle grinders (Tool type: Angle grinder)
+- Barrel finishing machines (Tool type: Vibratory or barrel finishing machine)
+- Bench clamps (Tool type: Bench clamp)
+- Bore gauges (Tool type: Hole gauge)
+- Buffing machines (Tool type: Buffing machine)
+- Chuck wrenches (Tool type: Chuck keys)
+- Computer numerical control CNC grinding machines (Tool type: Surface grinding machine)
+- Computerized microscopes (Tool type: Binocular light compound microscopes)
+- Coordinate measuring machines CMM (Tool type: Coordinate measuring machines CMM)
+- Cylinder grinders (Tool type: Surface grinding machine)
+- Digital calipers (Tool type: Calipers)
+- Digital comparators (Tool type: Comparators)
+- Digital micrometers (Tool type: Micrometers)
+- Digital radius gauges (Tool type: Radius gauge)
+- Electric overhead travelling EOT cranes (Tool type: Overhead crane)
+- Gage blocks (Tool type: Gage block set)
+- Gage pins (Tool type: Thickness measuring devices)
+- Hand deburring tools (Tool type: Deburring tool)
+- Inner diameter ID grinders (Tool type: Surface grinding machine)
+- Limit gauges (Tool type: Thickness measuring devices)
+- Metal polishing machines (Tool type: Metal polishing machine)
+- Metalworking surface plates (Tool type: Precision surface plate)
+- Outer diameter OD grinders (Tool type: Surface grinding machine)
+- Pipe chamfering machines (Tool type: Chamfering machine)
+- Power hoists (Tool type: Hoists)
+- Surface grinding machines (Tool type: Surface grinding machine)
+- Universal grinding machines (Tool type: Surface grinding machine)
+- Vernier calipers (Tool type: Calipers)

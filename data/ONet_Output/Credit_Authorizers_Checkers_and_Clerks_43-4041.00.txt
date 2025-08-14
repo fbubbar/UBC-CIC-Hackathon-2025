@@ -1,0 +1,92 @@
+Job Title: Credit Authorizers, Checkers, and Clerks
+O*NET-SOC Code: 43-4041.00
+
+# DESCRIPTION
+Authorize credit charges against customers' accounts. Investigate history and credit standing of individuals or business establishments applying for credit. May interview applicants to obtain personal and financial data, determine credit worthiness, process applications, and notify customers of acceptance or rejection of credit.
+
+# TASKS
+- Keep records of customers' charges and payments.
+- Compile and analyze credit information gathered by investigation.
+- Obtain information about potential creditors from banks, credit bureaus, and other credit services, and provide reciprocal information if requested.
+- Interview credit applicants by telephone or in person to obtain personal and financial data needed to complete credit report.
+- Evaluate customers' computerized credit records and payment histories to decide whether to approve new credit, based on predetermined standards.
+- File sales slips in customers' ledgers for billing purposes.
+- Receive charge slips or credit applications by mail, or receive information from salespeople or merchants by telephone.
+- Mail charge statements to customers.
+- Examine city directories and public records to verify residence property ownership, bankruptcies, liens, arrest record, or unpaid taxes of applicants.
+- Relay credit report information to subscribers by mail or by telephone.
+- Prepare credit cards or charge account plates.
+- Call customers to collect payment on delinquent accounts.
+- Consult with customers to resolve complaints or verify financial or credit transactions.
+- Contact former employers and other acquaintances to verify applicants' references, employment, health history, or social behavior.
+- Prepare reports of findings and recommendations.
+- Review individual or commercial customer files to identify and select delinquent accounts for collection.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Speaking (Importance: 3.62/5 | Level: 3.5/7)
+- Reading Comprehension (Importance: 3.62/5 | Level: 3.5/7)
+- Active Listening (Importance: 3.62/5 | Level: 3.62/7)
+- Critical Thinking (Importance: 3.25/5 | Level: 3.38/7)
+- Writing (Importance: 3.12/5 | Level: 3.12/7)
+- Time Management (Importance: 3.12/5 | Level: 2.75/7)
+- Social Perceptiveness (Importance: 3.12/5 | Level: 3.0/7)
+- Monitoring (Importance: 3.0/5 | Level: 3.0/7)
+- Coordination (Importance: 3.0/5 | Level: 2.75/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 3.25/7)
+- Service Orientation (Importance: 3.0/5 | Level: 3.0/7)
+- Complex Problem Solving (Importance: 2.75/5 | Level: 2.25/7)
+- Instructing (Importance: 2.75/5 | Level: 2.5/7)
+- Persuasion (Importance: 2.62/5 | Level: 2.75/7)
+- Active Learning (Importance: 2.62/5 | Level: 2.62/7)
+- Management of Personnel Resources (Importance: 2.62/5 | Level: 2.38/7)
+- Mathematics (Importance: 2.5/5 | Level: 2.5/7)
+- Learning Strategies (Importance: 2.5/5 | Level: 2.25/7)
+- Negotiation (Importance: 2.38/5 | Level: 2.5/7)
+- Systems Evaluation (Importance: 2.12/5 | Level: 1.62/7)
+- Systems Analysis (Importance: 2.12/5 | Level: 1.75/7)
+- Management of Financial Resources (Importance: 1.88/5 | Level: 1.38/7)
+- Management of Material Resources (Importance: 1.75/5 | Level: 1.25/7)
+- Programming (Importance: 1.62/5 | Level: 0.88/7)
+- Operations Analysis (Importance: 1.25/5 | Level: 0.25/7)
+- Quality Control Analysis (Importance: 1.25/5 | Level: 0.38/7)
+- Science (Importance: 1.12/5 | Level: 0.12/7)
+- Operation and Control (Importance: 1.12/5 | Level: 0.12/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Operations Monitoring (Importance: 1.0/5 | Level: 0.0/7)
+- Technology Design (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Accounting software (Tech skill type: Accounting software)
+- Email software (Tech skill type: Electronic mail software)
+- Equifax software (Tech skill type: Financial analysis software)
+- Experian software (Tech skill type: Financial analysis software)
+- Financial accounting software (Tech skill type: Accounting software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Internet Explorer (Tech skill type: Internet browser software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft Word (Tech skill type: Word processing software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Spreadsheet programs (Tech skill type: Spreadsheet software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Tableau (Tech skill type: Business intelligence and data analysis software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Computer data input scanners (Tool type: Scanners)
+- Computer laser printers (Tool type: Laser printers)
+- Copy machines (Tool type: Photocopiers)
+- Credit card processing machines (Tool type: Magnetic stripe readers and encoders)
+- Electric typewriters (Tool type: Typewriters)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Multiline telephone systems (Tool type: Special purpose telephones)
+- Personal computers (Tool type: Personal computers)
+- Printing calculators (Tool type: Printer calculator)

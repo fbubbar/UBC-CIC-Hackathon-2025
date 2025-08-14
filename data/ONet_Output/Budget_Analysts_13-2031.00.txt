@@ -1,0 +1,125 @@
+Job Title: Budget Analysts
+O*NET-SOC Code: 13-2031.00
+
+# DESCRIPTION
+Examine budget estimates for completeness, accuracy, and conformance with procedures and regulations. Analyze budgeting and accounting reports.
+
+# TASKS
+- Analyze monthly department budgeting and accounting reports to maintain expenditure controls.
+- Provide advice and technical assistance with cost analysis, fiscal allocation, and budget preparation.
+- Review operating budgets to analyze trends affecting budget needs.
+- Compile and analyze accounting records and other data to determine the financial resources required to implement a program.
+- Examine budget estimates for completeness, accuracy, and conformance with procedures and regulations.
+- Summarize budgets and submit recommendations for the approval or disapproval of funds requests.
+- Consult with managers to ensure that budget adjustments are made in accordance with program changes.
+- Direct the preparation of regular and special budget reports.
+- Interpret budget directives and establish policies for carrying out directives.
+- Perform cost-benefit analyses to compare operating programs, review financial requests, or explore alternative financing methods.
+- Match appropriations for specific programs with appropriations for broader programs, including items for emergency funds.
+- Seek new ways to improve efficiency and increase profits.
+- Testify before examining and fund-granting authorities, clarifying and promoting the proposed budgets.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Critical Thinking (Importance: 3.88/5 | Level: 3.88/7)
+- Mathematics (Importance: 3.88/5 | Level: 3.88/7)
+- Complex Problem Solving (Importance: 3.75/5 | Level: 3.62/7)
+- Speaking (Importance: 3.75/5 | Level: 3.38/7)
+- Reading Comprehension (Importance: 3.75/5 | Level: 4.0/7)
+- Active Listening (Importance: 3.75/5 | Level: 4.0/7)
+- Judgment and Decision Making (Importance: 3.75/5 | Level: 3.75/7)
+- Management of Financial Resources (Importance: 3.38/5 | Level: 3.88/7)
+- Active Learning (Importance: 3.25/5 | Level: 3.12/7)
+- Systems Analysis (Importance: 3.12/5 | Level: 3.62/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.12/7)
+- Writing (Importance: 3.12/5 | Level: 3.88/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 3.0/7)
+- Systems Evaluation (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 3.0/7)
+- Coordination (Importance: 2.88/5 | Level: 2.88/7)
+- Instructing (Importance: 2.62/5 | Level: 2.62/7)
+- Negotiation (Importance: 2.62/5 | Level: 2.75/7)
+- Persuasion (Importance: 2.62/5 | Level: 2.88/7)
+- Learning Strategies (Importance: 2.5/5 | Level: 2.62/7)
+- Service Orientation (Importance: 2.5/5 | Level: 2.75/7)
+- Management of Personnel Resources (Importance: 2.38/5 | Level: 2.62/7)
+- Operations Analysis (Importance: 2.25/5 | Level: 2.5/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 2.12/7)
+- Operations Monitoring (Importance: 1.88/5 | Level: 0.88/7)
+- Technology Design (Importance: 1.75/5 | Level: 0.88/7)
+- Programming (Importance: 1.75/5 | Level: 0.88/7)
+- Science (Importance: 1.25/5 | Level: 0.25/7)
+- Quality Control Analysis (Importance: 1.12/5 | Level: 0.25/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Operation and Control (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Accounting software (Tech skill type: Accounting software)
+- Adaptive Planning (Tech skill type: Enterprise resource planning ERP software)
+- Budget monitoring systems (Tech skill type: Financial analysis software)
+- Budgeting, forecasting, and planning software (Tech skill type: Enterprise resource planning ERP software)
+- Business Objects Data Integrator (Tech skill type: Development environment software)
+- Business performance management BPM software (Tech skill type: Enterprise resource planning ERP software)
+- Deltek Costpoint (Tech skill type: Accounting software)
+- Email software (Tech skill type: Electronic mail software)
+- Enterprise resource planning ERP software (Tech skill type: Enterprise resource planning ERP software)
+- Everest Software Advanced (Tech skill type: Enterprise resource planning ERP software)
+- Extensity MPC (Tech skill type: Enterprise resource planning ERP software)
+- Financial reporting software (Tech skill type: Financial analysis software)
+- FRx Software Microsoft Forecaster (Tech skill type: Enterprise resource planning ERP software)
+- Fund accounting software (Tech skill type: Accounting software)
+- Graphics software (Tech skill type: Graphics or photo imaging software)
+- Human resources management system HRMS (Tech skill type: Human resources software)
+- Hyperion Enterprise (Tech skill type: Accounting software)
+- IBM Cognos Business Intelligence (Tech skill type: Business intelligence and data analysis software)
+- IBM Cognos Planning (Tech skill type: Enterprise resource planning ERP software)
+- Lilly Software Associates VISUAL Enterprise (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Dynamics GP (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft FRx (Tech skill type: Financial analysis software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft Visual Basic (Tech skill type: Development environment software)
+- Microsoft Visual Basic.NET (Tech skill type: Object or component oriented development software)
+- Microsoft Word (Tech skill type: Word processing software)
+- NetSuite NetERP (Tech skill type: Enterprise resource planning ERP software)
+- Online analytical processing OLAP software (Tech skill type: Data base user interface and query software)
+- Open Systems TRAVERSE (Tech skill type: Enterprise resource planning ERP software)
+- Oracle E-Business Suite Financials (Tech skill type: Financial analysis software)
+- Oracle Hyperion (Tech skill type: Enterprise resource planning ERP software)
+- Oracle PeopleSoft Enterprise (Tech skill type: Enterprise resource planning ERP software)
+- Oracle PeopleSoft Financials (Tech skill type: Enterprise resource planning ERP software)
+- Oracle Performance Management Suites (Tech skill type: Financial analysis software)
+- OutlookSoft (Tech skill type: Enterprise resource planning ERP software)
+- Payroll software (Tech skill type: Time accounting software)
+- Presentation software (Tech skill type: Presentation software)
+- Relational database software (Tech skill type: Data base user interface and query software)
+- Revelwood (Tech skill type: Enterprise resource planning ERP software)
+- Sage Active Planner (Tech skill type: Enterprise resource planning ERP software)
+- Sage ERP Accpac (Tech skill type: Enterprise resource planning ERP software)
+- Sage MAS 200 ERP (Tech skill type: Enterprise resource planning ERP software)
+- Sage MAS 90 ERP (Tech skill type: Enterprise resource planning ERP software)
+- SAP Business One (Tech skill type: Enterprise resource planning ERP software)
+- SAP BusinessObjects Crystal Reports (Tech skill type: Data base reporting software)
+- SAP Crystal Xcelsius (Tech skill type: Presentation software)
+- Satori Group proCube (Tech skill type: Financial analysis software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- Statistical software (Tech skill type: Analytical or scientific software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Time and attendance software (Tech skill type: Time accounting software)
+- Ultimate Software UltiPro Workplace (Tech skill type: Human resources software)
+- Valiant Vantage (Tech skill type: Time accounting software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Desktop computers (Tool type: Desktop computers)
+- Laser printers (Tool type: Laser printers)
+- Notebook computers (Tool type: Notebook computers)
+- Personal computers (Tool type: Personal computers)

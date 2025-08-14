@@ -1,0 +1,110 @@
+Job Title: Travel Guides
+O*NET-SOC Code: 39-7012.00
+
+# DESCRIPTION
+Plan, organize, and conduct long-distance travel, tours, and expeditions for individuals and groups.
+
+# TASKS
+- Arrange for tour or expedition details such as accommodations, transportation, equipment, and the availability of medical personnel.
+- Plan tour itineraries, applying knowledge of travel routes and destination sites.
+- Resolve any problems with itineraries, service, or accommodations.
+- Attend to special needs of tour participants.
+- Sell travel packages.
+- Evaluate services received on the tour, and report findings to tour organizers.
+- Give advice on sightseeing and shopping.
+- Administer first aid to injured group participants.
+- Explain hunting and fishing laws to groups to ensure compliance.
+- Lead individuals or groups to tour site locations and describe points of interest.
+- Pilot airplanes or drive land and water vehicles to transport tourists to activity or tour sites.
+- Sell or rent equipment, clothing, and supplies related to expeditions.
+- Pay bills and record checks issued.
+- Verify amounts and quality of equipment prior to expeditions or tours.
+- Instruct novices in climbing techniques, mountaineering, and wilderness survival, and demonstrate use of hunting, fishing, and climbing equipment.
+- Set up camps, and prepare meals for tour group members.
+- Provide tourists with assistance in obtaining permits and documents such as visas, passports, and health certificates, and in converting currency.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Service Orientation (Importance: 4.12/5 | Level: 3.88/7)
+- Speaking (Importance: 4.0/5 | Level: 3.25/7)
+- Social Perceptiveness (Importance: 3.88/5 | Level: 3.25/7)
+- Active Listening (Importance: 3.88/5 | Level: 4.0/7)
+- Coordination (Importance: 3.75/5 | Level: 3.62/7)
+- Persuasion (Importance: 3.75/5 | Level: 3.38/7)
+- Time Management (Importance: 3.25/5 | Level: 3.0/7)
+- Reading Comprehension (Importance: 3.25/5 | Level: 3.75/7)
+- Active Learning (Importance: 3.12/5 | Level: 3.0/7)
+- Negotiation (Importance: 3.12/5 | Level: 3.38/7)
+- Writing (Importance: 3.12/5 | Level: 3.25/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 3.0/7)
+- Complex Problem Solving (Importance: 3.12/5 | Level: 3.12/7)
+- Critical Thinking (Importance: 3.12/5 | Level: 3.75/7)
+- Monitoring (Importance: 3.0/5 | Level: 3.12/7)
+- Management of Personnel Resources (Importance: 2.88/5 | Level: 2.75/7)
+- Management of Material Resources (Importance: 2.75/5 | Level: 2.38/7)
+- Learning Strategies (Importance: 2.75/5 | Level: 3.0/7)
+- Instructing (Importance: 2.75/5 | Level: 3.0/7)
+- Systems Analysis (Importance: 2.75/5 | Level: 2.62/7)
+- Management of Financial Resources (Importance: 2.62/5 | Level: 2.38/7)
+- Systems Evaluation (Importance: 2.62/5 | Level: 2.62/7)
+- Mathematics (Importance: 2.5/5 | Level: 2.5/7)
+- Operation and Control (Importance: 2.12/5 | Level: 2.0/7)
+- Quality Control Analysis (Importance: 2.12/5 | Level: 1.5/7)
+- Operations Monitoring (Importance: 2.0/5 | Level: 2.12/7)
+- Operations Analysis (Importance: 2.0/5 | Level: 1.62/7)
+- Programming (Importance: 1.88/5 | Level: 1.0/7)
+- Technology Design (Importance: 1.75/5 | Level: 1.0/7)
+- Equipment Selection (Importance: 1.5/5 | Level: 0.5/7)
+- Troubleshooting (Importance: 1.5/5 | Level: 0.5/7)
+- Repairing (Importance: 1.12/5 | Level: 0.12/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Customer information databases (Tech skill type: Customer relationship management CRM software)
+- Data visualization software (Tech skill type: Analytical or scientific software)
+- Facebook (Tech skill type: Web page creation and editing software)
+- Financial accounting software (Tech skill type: Accounting software)
+- Global positioning system GPS software (Tech skill type: Mobile location based services software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Tableau (Tech skill type: Business intelligence and data analysis software)
+- Travel Agent CMS (Tech skill type: Data base user interface and query software)
+- Web browser software (Tech skill type: Internet browser software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Animal sound lures (Tool type: Animal calls)
+- Camping tents (Tool type: Tents)
+- Climbing carabiners (Tool type: Swivel carabiner)
+- Climbing harnesses (Tool type: Safety harnesses or belts)
+- Climbing helmets (Tool type: Safety helmets)
+- Climbing ropes (Tool type: Lifelines or lifeline equipment)
+- Computer laser printers (Tool type: Laser printers)
+- Cordless microphones (Tool type: Microphones)
+- Digital video cameras (Tool type: Digital camcorders or video cameras)
+- Electronic maps (Tool type: Electronic charts or maps or atlases)
+- Emergency first aid kits (Tool type: Mobile medical services first aid kits)
+- Equipment trailers (Tool type: Flatbed trailers)
+- Hunting rifles (Tool type: Sporting rifles)
+- Hunting shotguns (Tool type: Sporting shotguns)
+- Motor coaches (Tool type: Busses)
+- Navigation equipment (Tool type: Vehicle navigation systems)
+- Passenger vehicles (Tool type: Automobiles or cars)
+- Portable public address PA systems (Tool type: Public address systems)
+- Propane camping stoves (Tool type: Camping or outdoor stoves)
+- Radio frequency RF Receivers (Tool type: Radio frequency transmitters or receivers)
+- Radio frequency RF Transmitters (Tool type: Radio frequency transmitters or receivers)
+- Recreational water vehicles (Tool type: Recreational motorboats)
+- Shuttle buses (Tool type: Busses)
+- Smart phones (Tool type: Mobile phones)
+- Sport fishing reels (Tool type: Fishing reels)
+- Sport fishing rods (Tool type: Fishing rods)
+- Tablet computers (Tool type: Tablet computers)
+- Touring bikes (Tool type: Touring bicycles)

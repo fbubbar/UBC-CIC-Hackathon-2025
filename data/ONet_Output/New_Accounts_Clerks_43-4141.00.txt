@@ -1,0 +1,86 @@
+Job Title: New Accounts Clerks
+O*NET-SOC Code: 43-4141.00
+
+# DESCRIPTION
+Interview persons desiring to open accounts in financial institutions. Explain account services available to prospective customers and assist them in preparing applications.
+
+# TASKS
+- Perform teller duties as required.
+- Compile information about new accounts, enter account information into computers, and file related forms or other documents.
+- Collect and record customer deposits and fees and issue receipts, using computers.
+- Inform customers of procedures for applying for services, such as ATM cards, direct deposit of checks, and certificates of deposit.
+- Answer customers' questions and explain available services, such as deposit accounts, bonds, and securities.
+- Interview customers to obtain information needed for opening accounts or renting safe-deposit boxes.
+- Refer customers to appropriate bank personnel to meet their financial needs.
+- Investigate and correct errors upon customers' request, according to customer and bank records.
+- Execute wire transfers of funds.
+- Issue initial and replacement safe-deposit keys to customers, and admit customers to vaults.
+- Process loan applications.
+- Obtain credit records from reporting agencies.
+- Schedule repairs for locks on safe-deposit boxes.
+- Perform foreign currency transactions and sell traveler's checks.
+- Duplicate records for distribution to branch offices.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Speaking (Importance: 4.0/5 | Level: 3.88/7)
+- Active Listening (Importance: 4.0/5 | Level: 4.0/7)
+- Reading Comprehension (Importance: 3.5/5 | Level: 3.62/7)
+- Service Orientation (Importance: 3.38/5 | Level: 3.38/7)
+- Social Perceptiveness (Importance: 3.25/5 | Level: 3.0/7)
+- Coordination (Importance: 3.12/5 | Level: 2.88/7)
+- Critical Thinking (Importance: 3.12/5 | Level: 3.5/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.0/7)
+- Writing (Importance: 3.0/5 | Level: 3.0/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 3.0/7)
+- Persuasion (Importance: 3.0/5 | Level: 2.88/7)
+- Mathematics (Importance: 2.88/5 | Level: 3.0/7)
+- Time Management (Importance: 2.88/5 | Level: 2.5/7)
+- Active Learning (Importance: 2.75/5 | Level: 2.62/7)
+- Complex Problem Solving (Importance: 2.75/5 | Level: 2.62/7)
+- Learning Strategies (Importance: 2.5/5 | Level: 2.12/7)
+- Systems Analysis (Importance: 2.38/5 | Level: 2.0/7)
+- Negotiation (Importance: 2.38/5 | Level: 2.0/7)
+- Instructing (Importance: 2.38/5 | Level: 2.0/7)
+- Management of Personnel Resources (Importance: 2.12/5 | Level: 1.75/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 2.0/7)
+- Operations Monitoring (Importance: 1.62/5 | Level: 0.75/7)
+- Programming (Importance: 1.62/5 | Level: 0.75/7)
+- Quality Control Analysis (Importance: 1.62/5 | Level: 0.62/7)
+- Management of Financial Resources (Importance: 1.38/5 | Level: 0.5/7)
+- Operations Analysis (Importance: 1.38/5 | Level: 0.38/7)
+- Technology Design (Importance: 1.25/5 | Level: 0.25/7)
+- Operation and Control (Importance: 1.25/5 | Level: 0.25/7)
+- Management of Material Resources (Importance: 1.12/5 | Level: 0.12/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Accounting software (Tech skill type: Accounting software)
+- Corporate Information Factory CIF (Tech skill type: Data base user interface and query software)
+- DCI iCore (Tech skill type: Enterprise resource planning ERP software)
+- Email software (Tech skill type: Electronic mail software)
+- Financial needs analysis software (Tech skill type: Financial analysis software)
+- Fiserv financial services software (Tech skill type: Data base user interface and query software)
+- Harland Financial Solutions DepositPro (Tech skill type: Data base user interface and query software)
+- IBM Lotus Notes (Tech skill type: Electronic mail software)
+- IPS-Sendero Relationship Profitability Manager Catalyst (Tech skill type: Customer relationship management CRM software)
+- Microsoft Dynamics GP (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Internet Explorer (Tech skill type: Internet browser software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Systems Union Group MIS DecisionWare (Tech skill type: Financial analysis software)
+- Web browser software (Tech skill type: Internet browser software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- 10-key calculators (Tool type: Desktop calculator)
+- Personal computers (Tool type: Personal computers)
+- Teller terminals (Tool type: Mainframe console or dumb terminals)

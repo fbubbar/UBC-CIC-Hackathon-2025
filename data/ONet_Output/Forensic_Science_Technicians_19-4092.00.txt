@@ -1,0 +1,187 @@
+Job Title: Forensic Science Technicians
+O*NET-SOC Code: 19-4092.00
+
+# DESCRIPTION
+Collect, identify, classify, and analyze physical evidence related to criminal investigations. Perform tests on weapons or substances, such as fiber, hair, and tissue to determine significance to investigation. May testify as expert witnesses on evidence or crime laboratory techniques. May serve as specialists in area of expertise, such as ballistics, fingerprinting, handwriting, or biochemistry.
+
+# TASKS
+- Collect evidence from crime scenes, storing it in conditions that preserve its integrity.
+- Keep records and prepare reports detailing findings, investigative methods, and laboratory techniques.
+- Use photographic or video equipment to document evidence or crime scenes.
+- Testify in court about investigative or analytical methods or findings.
+- Use chemicals or other substances to examine latent fingerprint evidence and compare developed prints to those of known persons in databases.
+- Measure and sketch crime scenes to document evidence.
+- Visit morgues, examine scenes of crimes, or contact other sources to obtain evidence or information to be used in investigations.
+- Train new technicians or other personnel on forensic science techniques.
+- Operate and maintain laboratory equipment and apparatus.
+- Collect impressions of dust from surfaces to obtain and identify fingerprints.
+- Examine and analyze blood stain patterns at crime scenes.
+- Analyze gunshot residue and bullet paths to determine how shootings occurred.
+- Confer with ballistics, fingerprinting, handwriting, documents, electronics, medical, chemical, or metallurgical experts concerning evidence and its interpretation.
+- Prepare solutions, reagents, or sample formulations needed for laboratory work.
+- Examine footwear, tire tracks, or other types of impressions.
+- Examine physical evidence, such as hair, biological fluids, fiber, wood, or soil residues to obtain information about its source and composition.
+- Reconstruct crime scenes to determine relationships among pieces of evidence.
+- Determine types of bullets and specific weapons used in shootings.
+- Review forensic analysts' reports for technical merit.
+- Interpret laboratory findings or test results to identify and classify substances, materials, or other evidence collected at crime scenes.
+- Compare objects, such as tools, with impression marks to determine whether a specific object is responsible for a specific mark.
+- Identify and quantify drugs or poisons found in biological fluids or tissues, in foods, or at crime scenes.
+- Examine firearms to determine mechanical condition and legal status, performing restoration work on damaged firearms to obtain information, such as serial numbers.
+- Analyze data from computers or other digital media sources for evidence related to criminal activity.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Writing (Importance: 4.0/5 | Level: 4.12/7)
+- Active Listening (Importance: 4.0/5 | Level: 4.12/7)
+- Speaking (Importance: 4.0/5 | Level: 4.12/7)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.12/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.12/7)
+- Complex Problem Solving (Importance: 3.62/5 | Level: 3.62/7)
+- Active Learning (Importance: 3.38/5 | Level: 3.88/7)
+- Judgment and Decision Making (Importance: 3.25/5 | Level: 3.62/7)
+- Social Perceptiveness (Importance: 3.25/5 | Level: 3.25/7)
+- Monitoring (Importance: 3.25/5 | Level: 3.25/7)
+- Science (Importance: 3.25/5 | Level: 3.5/7)
+- Coordination (Importance: 3.12/5 | Level: 3.12/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 3.25/7)
+- Time Management (Importance: 3.0/5 | Level: 3.0/7)
+- Service Orientation (Importance: 3.0/5 | Level: 3.0/7)
+- Systems Evaluation (Importance: 3.0/5 | Level: 2.88/7)
+- Systems Analysis (Importance: 3.0/5 | Level: 3.0/7)
+- Instructing (Importance: 2.75/5 | Level: 3.38/7)
+- Mathematics (Importance: 2.75/5 | Level: 2.88/7)
+- Operations Monitoring (Importance: 2.75/5 | Level: 2.62/7)
+- Persuasion (Importance: 2.75/5 | Level: 2.75/7)
+- Operation and Control (Importance: 2.62/5 | Level: 2.5/7)
+- Management of Personnel Resources (Importance: 2.62/5 | Level: 3.0/7)
+- Quality Control Analysis (Importance: 2.5/5 | Level: 2.5/7)
+- Negotiation (Importance: 2.38/5 | Level: 2.25/7)
+- Equipment Selection (Importance: 2.0/5 | Level: 1.88/7)
+- Troubleshooting (Importance: 2.0/5 | Level: 1.75/7)
+- Equipment Maintenance (Importance: 1.62/5 | Level: 1.0/7)
+- Operations Analysis (Importance: 1.62/5 | Level: 1.12/7)
+- Programming (Importance: 1.5/5 | Level: 0.75/7)
+- Repairing (Importance: 1.5/5 | Level: 0.88/7)
+- Management of Material Resources (Importance: 1.5/5 | Level: 0.62/7)
+- Technology Design (Importance: 1.38/5 | Level: 0.38/7)
+- Management of Financial Resources (Importance: 1.38/5 | Level: 0.38/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adobe Photoshop (Tech skill type: Graphics or photo imaging software)
+- Automated Biometric Identification System ABIS (Tech skill type: Data base user interface and query software)
+- Combined DNA Index System CODIS (Tech skill type: Data base user interface and query software)
+- Computer aided design and drafting CADD software (Tech skill type: Computer aided design CAD software)
+- Corel WordPerfect Office Suite (Tech skill type: Office suite software)
+- DataWorks Plus Digital CrimeScene (Tech skill type: Data base user interface and query software)
+- DesignWare 3D EyeWitness (Tech skill type: Graphics or photo imaging software)
+- DM2 Bills of Lading (Tech skill type: Analytical or scientific software)
+- Eos Systems PhotoModeler (Tech skill type: Graphics or photo imaging software)
+- Graphics software (Tech skill type: Graphics or photo imaging software)
+- IBM Notes (Tech skill type: Electronic mail software)
+- Image enhancement software (Tech skill type: Graphics or photo imaging software)
+- Integrated Automated Fingerprint Identification System IAFIS (Tech skill type: Data base user interface and query software)
+- Laboratory information management system LIMS (Tech skill type: Analytical or scientific software)
+- Linux (Tech skill type: Operating system software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Mideo Systems EZDoc Plus (Tech skill type: Graphics or photo imaging software)
+- Midwest Information Systems PAX-it (Tech skill type: Graphics or photo imaging software)
+- National Crime Information Center (NCIC) database (Tech skill type: Data base user interface and query software)
+- National Integrated Ballistics Information Network NIBIN (Tech skill type: Data base user interface and query software)
+- SmartDraw Legal (Tech skill type: Graphics or photo imaging software)
+- The CAD Zone The Crime Zone (Tech skill type: Graphics or photo imaging software)
+- Trancite Logic Systems ScenePD (Tech skill type: Graphics or photo imaging software)
+- Visual Statement Vista FX3 CSI (Tech skill type: Graphics or photo imaging software)
+- Web browser software (Tech skill type: Internet browser software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- 35 millimeter cameras (Tool type: Still cameras)
+- Benchtop mixers (Tool type: Laboratory mixers)
+- Biohazard suits (Tool type: Hazardous material protective apparel)
+- Blood collection kits (Tool type: Biological evidence collection kits)
+- Body fluid collection kits (Tool type: Biological evidence collection kits)
+- Breathalyzers (Tool type: Alcohol analyzers)
+- Colored camera filters (Tool type: Camera lens)
+- Crime scene evidence flags (Tool type: Flags or accessories)
+- Crime scene tape measures (Tool type: Tape measures)
+- Cyanoacrylate fuming chambers (Tool type: Forensic chemical workstations)
+- Deoxyribonucleic acid DNA collection kits (Tool type: Biological evidence collection kits)
+- Desktop computers (Tool type: Desktop computers)
+- Digital cameras (Tool type: Digital cameras)
+- Digital video cameras (Tool type: Digital camcorders or video cameras)
+- Distance measuring wheels (Tool type: Measuring wheels for distance)
+- Drug testing kits (Tool type: Narcotic test kits)
+- Electronic measuring devices (Tool type: Distance meters)
+- Electronic precision balances (Tool type: Laboratory balances)
+- Electrostatic dust print lifters (Tool type: Footprint lifters)
+- Evidence collection containers (Tool type: Specimen collection container)
+- Evidence scissors (Tool type: Laboratory scissors)
+- Fingerprint brushes (Tool type: Fingerprint applicators or brushes)
+- Fingerprint evidence kits (Tool type: Fingerprint latent print kits)
+- Fingerprint recognition systems (Tool type: Biometric identification equipment)
+- Footwear protectors (Tool type: Footwear covers)
+- Fuming hot plates (Tool type: Laboratory hotplates)
+- Gel lifters (Tool type: Footprint lifters)
+- Glass specimen jars (Tool type: Specimen collection container)
+- Glassware washers (Tool type: Laboratory washing machines)
+- Gunshot residue kits (Tool type: Nitrogen or nitrate or nitrite analyzer)
+- Hand held magnifiers (Tool type: Magnifiers)
+- Handheld digital thermometers (Tool type: Handheld thermometer)
+- Handheld evidence collection computers (Tool type: Portable data input terminals)
+- Impression casting kits (Tool type: Footprint lifters)
+- Infrared light sources (Tool type: Infrared lamps)
+- Insect collection containers (Tool type: Laboratory insect containers)
+- Insect swoop nets (Tool type: Fabric or netting for entomology)
+- Inspection mirrors (Tool type: Inspection mirror)
+- Laboratory benchtop centrifuges (Tool type: Benchtop centrifuges)
+- Laptop computers (Tool type: Notebook computers)
+- Large format cameras (Tool type: Still cameras)
+- Laser trajectory kits (Tool type: Lasers)
+- Long-wave ultraviolet UV lamps (Tool type: Ultraviolet UV lamps)
+- Medical hemostats (Tool type: Endoscopic hemostatic balloons or needles or tubes or accessories)
+- Metal detectors (Tool type: Metal detectors)
+- Microscope slides (Tool type: Microscope slides)
+- Mobile data computers (Tool type: Notebook computers)
+- Navigational compasses (Tool type: Direction finding compasses)
+- Optical compound microscopes (Tool type: Binocular light compound microscopes)
+- Personal computers (Tool type: Personal computers)
+- Photo markers (Tool type: Identification markers)
+- Photographic scales (Tool type: Rulers)
+- Plastic evidence tweezers (Tool type: Laboratory tools)
+- Plastic specimen jars (Tool type: Specimen collection container)
+- Pointed scalpels (Tool type: Laboratory scalpels)
+- Police vans (Tool type: Minivans or vans)
+- Portable generators (Tool type: Gas generators)
+- Portable lasers (Tool type: Lasers)
+- Portable two way radios (Tool type: Two way radios)
+- Postmortem print spoons (Tool type: Postmortem fingerprint or impression materials)
+- Protective latex gloves (Tool type: Protective gloves)
+- Protective masks (Tool type: Surgical isolation or surgical masks)
+- Protractors (Tool type: Protractors)
+- Reciprocating saws (Tool type: Power saws)
+- Rounded scalpels (Tool type: Laboratory scalpels)
+- Safety glasses (Tool type: Safety glasses)
+- Self-contained breathing apparatus (Tool type: Respiration air supplying self contained breathing apparatus or accessories)
+- Sexual assault evidence collection kits (Tool type: Sexual assault determination kits)
+- Shovels (Tool type: Shovels)
+- Sifting screens (Tool type: Laboratory sifting equipment)
+- Spades (Tool type: Spades)
+- Spectrophotometers (Tool type: Spectrophotometers)
+- Stainless steel scissors (Tool type: Laboratory scissors)
+- Stainless steel spatulas (Tool type: Laboratory spatulas)
+- Stainless steel tweezers (Tool type: Laboratory tools)
+- Steam sterilizers (Tool type: Steam autoclaves or sterilizers)
+- Steel measuring tape (Tool type: Tape measures)
+- Thermocyclers (Tool type: Temperature cycling chambers or thermal cyclers)
+- Ultraviolet UV camera lens filters (Tool type: Camera lens)
+- Ultraviolet UV lights (Tool type: Ultraviolet UV lamps)
+- Utility knives (Tool type: Utility knives)
+- UV forensic goggles (Tool type: Goggles)

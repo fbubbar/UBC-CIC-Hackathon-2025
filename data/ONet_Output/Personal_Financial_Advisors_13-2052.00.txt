@@ -1,0 +1,178 @@
+Job Title: Personal Financial Advisors
+O*NET-SOC Code: 13-2052.00
+
+# DESCRIPTION
+Advise clients on financial plans using knowledge of tax and investment strategies, securities, insurance, pension plans, and real estate. Duties include assessing clients' assets, liabilities, cash flow, insurance coverage, tax status, and financial objectives. May also buy and sell financial assets for clients.
+
+# TASKS
+- Interview clients to determine their current income, expenses, insurance coverage, tax status, financial objectives, risk tolerance, or other information needed to develop a financial plan.
+- Analyze financial information obtained from clients to determine strategies for meeting clients' financial objectives.
+- Answer clients' questions about the purposes and details of financial plans and strategies.
+- Review clients' accounts and plans regularly to determine whether life changes, economic changes, environmental concerns, or financial performance indicate a need for plan reassessment.
+- Manage client portfolios, keeping client plans up-to-date.
+- Recommend to clients strategies in cash management, insurance coverage, investment planning, or other areas to help them achieve their financial goals.
+- Recommend financial products, such as stocks, bonds, mutual funds, or insurance.
+- Implement financial planning recommendations, or refer clients to someone who can assist them with plan implementation.
+- Contact clients periodically to determine any changes in their financial status.
+- Prepare or interpret for clients information, such as investment performance reports, financial document summaries, or income projections.
+- Explain to clients the personal financial advisor's responsibilities and the types of services to be provided.
+- Investigate available investment opportunities to determine compatibility with client financial plans.
+- Guide clients in the gathering of information, such as bank account records, income tax returns, life and disability insurance records, pension plans, or wills.
+- Monitor financial market trends to ensure that client plans are responsive.
+- Recruit and maintain client bases.
+- Meet with clients' other advisors, such as attorneys, accountants, trust officers, or investment bankers, to fully understand clients' financial goals and circumstances.
+- Devise debt liquidation plans that include payoff priorities and timelines.
+- Open accounts for clients, and disburse funds from accounts to creditors as agent for clients.
+- Inform clients about tax benefits, government rebates, or other financial benefits of alternative-fuel vehicle purchases or energy-efficient home construction, improvements, or remodeling.
+- Recommend environmentally responsible investments, such as cleantech, alternative energy, or conservation technologies, companies, or funds.
+- Conduct seminars or workshops on financial planning topics, such as retirement planning, estate planning, or the evaluation of severance packages.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Reading Comprehension (Importance: 4.12/5 | Level: 4.0/7)
+- Active Listening (Importance: 4.12/5 | Level: 4.0/7)
+- Speaking (Importance: 4.0/5 | Level: 4.0/7)
+- Writing (Importance: 3.88/5 | Level: 4.0/7)
+- Critical Thinking (Importance: 3.75/5 | Level: 4.12/7)
+- Mathematics (Importance: 3.62/5 | Level: 3.75/7)
+- Complex Problem Solving (Importance: 3.62/5 | Level: 3.75/7)
+- Social Perceptiveness (Importance: 3.62/5 | Level: 3.62/7)
+- Service Orientation (Importance: 3.62/5 | Level: 3.88/7)
+- Judgment and Decision Making (Importance: 3.62/5 | Level: 3.88/7)
+- Systems Evaluation (Importance: 3.38/5 | Level: 3.5/7)
+- Systems Analysis (Importance: 3.38/5 | Level: 3.62/7)
+- Persuasion (Importance: 3.38/5 | Level: 3.5/7)
+- Active Learning (Importance: 3.25/5 | Level: 3.25/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.75/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Negotiation (Importance: 3.0/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 3.0/7)
+- Instructing (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 3.0/7)
+- Management of Financial Resources (Importance: 2.88/5 | Level: 2.88/7)
+- Operations Analysis (Importance: 2.5/5 | Level: 2.38/7)
+- Management of Personnel Resources (Importance: 2.12/5 | Level: 2.12/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.5/7)
+- Quality Control Analysis (Importance: 1.75/5 | Level: 0.88/7)
+- Operations Monitoring (Importance: 1.62/5 | Level: 0.62/7)
+- Programming (Importance: 1.62/5 | Level: 0.62/7)
+- Technology Design (Importance: 1.5/5 | Level: 0.5/7)
+- Science (Importance: 1.38/5 | Level: 0.38/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Operation and Control (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- ACT! ACT4Advisors (Tech skill type: Customer relationship management CRM software)
+- Advent Axys (Tech skill type: Financial analysis software)
+- AdviceAmerica AdvisorVision (Tech skill type: Financial analysis software)
+- Advisory World ICE (Tech skill type: Financial analysis software)
+- ASI Client Acquisition Solution (Tech skill type: Financial analysis software)
+- Asset allocation software (Tech skill type: Financial analysis software)
+- Automatic Data Processing ProxyEdge (Tech skill type: Word processing software)
+- Brentmark Stock Option Risk Analyzer (Tech skill type: Financial analysis software)
+- Cabinet NG CNG-SAFE (Tech skill type: Document management software)
+- Cheshire Financial Planning Suite (Tech skill type: Financial analysis software)
+- ComplianceMAX (Tech skill type: Compliance software)
+- Corel QuattroPro (Tech skill type: Spreadsheet software)
+- Cygnus IncomeMax (Tech skill type: Financial analysis software)
+- DataViz Beyond Contacts (Tech skill type: Customer relationship management CRM software)
+- Education planning software (Tech skill type: Financial analysis software)
+- EISI NaviPlan (Tech skill type: Financial analysis software)
+- eMoneyAdvisor AdvisorPlatform (Tech skill type: Customer relationship management CRM software)
+- Estate Capitol Needs Analysis (Tech skill type: Financial analysis software)
+- Estate planning software (Tech skill type: Financial analysis software)
+- ExpenseWatch (Tech skill type: Financial analysis software)
+- EZ-Data Client Data System (Tech skill type: Customer relationship management CRM software)
+- FileMaker Pro (Tech skill type: Data base user interface and query software)
+- Finance Logix Education Planner (Tech skill type: Financial analysis software)
+- Finance Logix Insurance Planner (Tech skill type: Financial analysis software)
+- Finance Logix Retirement Planner (Tech skill type: Financial analysis software)
+- Financeware AASim (Tech skill type: Financial analysis software)
+- Financeware Finance File Manager (Tech skill type: Document management software)
+- Financeware WealthSimulator (Tech skill type: Financial analysis software)
+- Financial Planning Consultants Practice Builder (Tech skill type: Customer relationship management CRM software)
+- Financial planning presentation software (Tech skill type: Presentation software)
+- Financial planning software (Tech skill type: Financial analysis software)
+- Financial Profiles Profiles+ Professional (Tech skill type: Financial analysis software)
+- Financial report generation software (Tech skill type: Word processing software)
+- Fund accounting software (Tech skill type: Accounting software)
+- Getting Things Done GTD software (Tech skill type: Customer relationship management CRM software)
+- Host Analytics Host Budget (Tech skill type: Financial analysis software)
+- Ibbotson Analyst (Tech skill type: Financial analysis software)
+- Ibbotson Portfolio Strategist (Tech skill type: Financial analysis software)
+- IBM Domino (Tech skill type: Communications server software)
+- IBM Lotus 1-2-3 (Tech skill type: Spreadsheet software)
+- Impact PlanLabX3 (Tech skill type: Financial analysis software)
+- IMPACT Wealth Distribution Analysis (Tech skill type: Financial analysis software)
+- Investigo (Tech skill type: Customer relationship management CRM software)
+- Investment and business valuation template software (Tech skill type: Financial analysis software)
+- Investment tracking software (Tech skill type: Financial analysis software)
+- J&L Financial Planner (Tech skill type: Financial analysis software)
+- Junxure CRM Software (Tech skill type: Customer relationship management CRM software)
+- MasterPlan (Tech skill type: Financial analysis software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Business Contact Manager (Tech skill type: Customer relationship management CRM software)
+- Microsoft Dynamics (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Money (Tech skill type: Financial analysis software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft SQL Server (Tech skill type: Data base user interface and query software)
+- Microsoft Visual Basic (Tech skill type: Development environment software)
+- Microsoft Word (Tech skill type: Word processing software)
+- MoneyTree Silver Financial Planner (financial analysis feature) (Tech skill type: Financial analysis software)
+- MoneyTree Silver Financial Planner (presentation feature) (Tech skill type: Presentation software)
+- Monte Carlo simulation software (Tech skill type: Analytical or scientific software)
+- Morningstar Principia (Tech skill type: Financial analysis software)
+- Needs analysis software (Tech skill type: Financial analysis software)
+- Net Worth Strategies Stock Opter Pro (Tech skill type: Financial analysis software)
+- Optima IAS (Tech skill type: Financial analysis software)
+- Oracle E-Business Suite Financials (Tech skill type: Financial analysis software)
+- Oracle Hyperion (Tech skill type: Enterprise resource planning ERP software)
+- Oracle PeopleSoft Financials (Tech skill type: Enterprise resource planning ERP software)
+- PIE Technologies MoneyGuidePro (Tech skill type: Financial analysis software)
+- Pimlico Software DateBk (Tech skill type: Calendar and scheduling software)
+- PlanPlus Pro (Tech skill type: Financial analysis software)
+- PlanScan Portfolio Pathfinder (Tech skill type: Financial analysis software)
+- Portfolio management software (Tech skill type: Financial analysis software)
+- Practice management software PMS (Tech skill type: Data base user interface and query software)
+- ProTracker Advantage (Tech skill type: Customer relationship management CRM software)
+- Quicken (Tech skill type: Financial analysis software)
+- Redtail Technology Our Business Online (Tech skill type: Customer relationship management CRM software)
+- Retirement planning software (Tech skill type: Financial analysis software)
+- Sage 50 Accounting (Tech skill type: Accounting software)
+- Salesforce software (Tech skill type: Customer relationship management CRM software)
+- Sawhney ExecPlan (Tech skill type: Financial analysis software)
+- ScanSoft PaperPort Pro (Tech skill type: Document management software)
+- ScenarioNow RetireNow (Tech skill type: Financial analysis software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- SunGard Frontier (Tech skill type: Financial analysis software)
+- SunGard LockBox (Tech skill type: Document management software)
+- SunGard PlanningStation (Tech skill type: Financial analysis software)
+- SunGard WebPlaid (Tech skill type: Financial analysis software)
+- Swift (Tech skill type: Object or component oriented development software)
+- Tax planning software (Tech skill type: Financial analysis software)
+- The Omni Group OmniPlan (Tech skill type: Financial analysis software)
+- Thomson ONE Advisor (Tech skill type: Financial analysis software)
+- Torrid Retirement Planner (Tech skill type: Financial analysis software)
+- Unger Software Methusaleh (Tech skill type: Financial analysis software)
+- WealthTec AllocationPro (Tech skill type: Financial analysis software)
+- WealthTec Foundations (Tech skill type: Financial analysis software)
+- WealthTec WealthMaster (Tech skill type: Financial analysis software)
+- Web browser software (Tech skill type: Internet browser software)
+- Web Information Solutions Pocket Informant (Tech skill type: Customer relationship management CRM software)
+- World Software Corporation Worldox (Tech skill type: Document management software)
+
+## TOOLS USED
+- 10-key calculators (Tool type: Desktop calculator)
+- Desktop computers (Tool type: Desktop computers)
+- Notebook computers (Tool type: Notebook computers)
+- Personal computers (Tool type: Personal computers)
+- Personal digital assistants PDA (Tool type: Personal digital assistant PDAs or organizers)
+- Tablet computers (Tool type: Tablet computers)

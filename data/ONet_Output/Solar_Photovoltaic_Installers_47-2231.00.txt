@@ -1,0 +1,139 @@
+Job Title: Solar Photovoltaic Installers
+O*NET-SOC Code: 47-2231.00
+
+# DESCRIPTION
+Assemble, install, or maintain solar photovoltaic (PV) systems on roofs or other structures in compliance with site assessment and schematics. May include measuring, cutting, assembling, and bolting structural framing and solar modules. May perform minor electrical work such as current checks.
+
+# TASKS
+- Install photovoltaic (PV) systems in accordance with codes and standards, using drawings, schematics, and instructions.
+- Check electrical installation for proper wiring, polarity, grounding, or integrity of terminations.
+- Identify electrical, environmental, and safety hazards associated with photovoltaic (PV) installations.
+- Identify installation locations with proper orientation, area, solar access, or structural integrity for photovoltaic (PV) arrays.
+- Assemble solar modules, panels, or support structures, as specified.
+- Apply weather sealing to array, building, or support mechanisms.
+- Install module array interconnect wiring, implementing measures to disable arrays during installation.
+- Install required labels on solar system components and hardware.
+- Diagram layouts and locations for photovoltaic (PV) arrays and equipment, including existing building or site features.
+- Determine materials, equipment, and installation sequences necessary to maximize installation efficiency.
+- Test operating voltages to ensure operation within acceptable limits for power conditioning equipment, such as inverters and controllers.
+- Determine appropriate sizes, ratings, and locations for all system overcurrent devices, disconnect devices, grounding equipment, and surge suppression equipment.
+- Activate photovoltaic (PV) systems to verify system functionality and conformity to performance expectations.
+- Identify and resolve any deficiencies in photovoltaic (PV) system installation or materials.
+- Visually inspect and test photovoltaic (PV) modules or systems.
+- Examine designs to determine current requirements for all parts of the photovoltaic (PV) system electrical circuit.
+- Demonstrate system functionality and performance, including start-up, shut-down, normal operation, and emergency or bypass operations.
+- Identify methods for laying out, orienting, and mounting modules or arrays to ensure efficient installation, electrical configuration, or system maintenance.
+- Measure and analyze system performance and operating parameters to assess operating condition of systems or equipment.
+- Program, adjust, or configure inverters and controls for desired set points and operating modes.
+- Determine connection interfaces for additional subpanels or for connecting photovoltaic (PV) systems with utility services or other power generation sources.
+- Determine photovoltaic (PV) system designs or configurations based on factors such as customer needs, expectations, and site conditions.
+- Select mechanical designs, installation equipment, or installation plans that conform to environmental, architectural, structural, site, and code requirements.
+- Perform routine photovoltaic (PV) system maintenance on modules, arrays, batteries, power conditioning equipment, safety systems, structural systems, weather sealing, or balance of systems equipment.
+- Compile or maintain records of system operation, performance, and maintenance.
+- Install active solar systems, including solar collectors, concentrators, pumps, or fans.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Installation (Importance: 3.38/5 | Level: 3.38/7)
+- Critical Thinking (Importance: 3.25/5 | Level: 3.5/7)
+- Operations Monitoring (Importance: 3.12/5 | Level: 2.88/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 2.88/7)
+- Quality Control Analysis (Importance: 3.12/5 | Level: 3.25/7)
+- Active Listening (Importance: 3.12/5 | Level: 3.0/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.0/7)
+- Reading Comprehension (Importance: 3.0/5 | Level: 3.0/7)
+- Active Learning (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 3.0/7)
+- Troubleshooting (Importance: 3.0/5 | Level: 3.12/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Complex Problem Solving (Importance: 3.0/5 | Level: 3.0/7)
+- Speaking (Importance: 2.88/5 | Level: 3.0/7)
+- Systems Analysis (Importance: 2.75/5 | Level: 2.88/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 2.25/7)
+- Equipment Selection (Importance: 2.75/5 | Level: 2.75/7)
+- Systems Evaluation (Importance: 2.75/5 | Level: 2.88/7)
+- Persuasion (Importance: 2.62/5 | Level: 2.25/7)
+- Repairing (Importance: 2.62/5 | Level: 2.62/7)
+- Operation and Control (Importance: 2.62/5 | Level: 2.88/7)
+- Mathematics (Importance: 2.62/5 | Level: 2.75/7)
+- Management of Personnel Resources (Importance: 2.62/5 | Level: 2.12/7)
+- Learning Strategies (Importance: 2.62/5 | Level: 2.0/7)
+- Instructing (Importance: 2.62/5 | Level: 2.88/7)
+- Equipment Maintenance (Importance: 2.62/5 | Level: 2.88/7)
+- Service Orientation (Importance: 2.5/5 | Level: 2.12/7)
+- Negotiation (Importance: 2.25/5 | Level: 2.12/7)
+- Management of Material Resources (Importance: 2.25/5 | Level: 1.75/7)
+- Writing (Importance: 2.25/5 | Level: 2.88/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.25/7)
+- Operations Analysis (Importance: 1.88/5 | Level: 1.75/7)
+- Science (Importance: 1.88/5 | Level: 1.62/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.38/7)
+- Programming (Importance: 1.5/5 | Level: 0.62/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Computer aided design CAD software (Tech skill type: Computer aided design CAD software)
+- Cost estimating software (Tech skill type: Project management software)
+- Extensible markup language XML (Tech skill type: Enterprise application integration software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Project management software (Tech skill type: Project management software)
+- Salesforce software (Tech skill type: Customer relationship management CRM software)
+- Work scheduling software (Tech skill type: Calendar and scheduling software)
+
+## TOOLS USED
+- Acetylene torches (Tool type: Blow torch)
+- Adjustable hand wrenches (Tool type: Adjustable wrenches)
+- Builders' levels (Tool type: Levels)
+- Caulking equipment (Tool type: Caulking guns)
+- Channel lock pliers (Tool type: Locking pliers)
+- Claw hammers (Tool type: Claw hammer)
+- Cordless drills (Tool type: Power drills)
+- Crimping lugs (Tool type: Wire lug crimping tool)
+- Desktop computers (Tool type: Desktop computers)
+- Digital multimeters (Tool type: Multimeters)
+- Directional compasses (Tool type: Geological compasses)
+- Dirt shovels (Tool type: Shovels)
+- Extension ladders (Tool type: Ladders)
+- Fall arrest harnesses (Tool type: Safety harnesses or belts)
+- Filter masks (Tool type: Masks or accessories)
+- Forklifts (Tool type: Forklifts)
+- Framing squares (Tool type: Squares)
+- Global positioning system GPS receivers (Tool type: Global positioning system GPS receiver)
+- Handheld calculators (Tool type: Pocket calculator)
+- Hex wrenches (Tool type: Hex keys)
+- Impact drills (Tool type: Power drills)
+- Inclinometers (Tool type: Pitch measuring instruments)
+- Laptop computers (Tool type: Notebook computers)
+- Large pipe wrenches (Tool type: Pipe wrenches)
+- Laser line levels (Tool type: Levels)
+- Mallets (Tool type: Mallets)
+- Medium pipe wrenches (Tool type: Pipe wrenches)
+- Pair of dykes (Tool type: Wire cutters)
+- Personal computers (Tool type: Personal computers)
+- Phillips head screwdrivers (Tool type: Screwdrivers)
+- Pipe cutters (Tool type: Pipe or tube cutter)
+- Post hole augers (Tool type: Post hole digger)
+- Protective gloves (Tool type: Protective gloves)
+- Putty knives (Tool type: Putty knives)
+- Rat tail files (Tool type: Round file)
+- Ratchet sets (Tool type: Ratchets)
+- Reciprocating saws (Tool type: Power saws)
+- Safety glasses (Tool type: Safety glasses)
+- Sledgehammers (Tool type: Sledge hammer)
+- Solar analysis systems (Tool type: Portable data input terminals)
+- Solarimeters (Tool type: Solar radiation surface observing apparatus)
+- Steel measuring tapes (Tool type: Tape measures)
+- Straight screwdrivers (Tool type: Screwdrivers)
+- Tin snips (Tool type: Tinners snips)
+- Torpedo levels (Tool type: Levels)
+- Trenchers (Tool type: Trenching machines)
+- Utility knives (Tool type: Utility knives)
+- Utility work machines (Tool type: Front end loaders)
+- Video probe systems (Tool type: Digital camcorders or video cameras)
+- Volt-ohm meters VOM (Tool type: Ohmmeters)
+- Wheelbarrows (Tool type: Wheelbarrows)
+- Wire cutters (Tool type: Wire cutters)
+- Wire strippers (Tool type: Stripping tools)
+- Work vans (Tool type: Minivans or vans)

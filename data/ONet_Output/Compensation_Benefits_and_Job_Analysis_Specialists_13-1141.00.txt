@@ -1,0 +1,172 @@
+Job Title: Compensation, Benefits, and Job Analysis Specialists
+O*NET-SOC Code: 13-1141.00
+
+# DESCRIPTION
+Conduct programs of compensation and benefits and job analysis for employer. May specialize in specific areas, such as position classification and pension programs.
+
+# TASKS
+- Administer employee insurance, pension, and savings plans, working with insurance brokers and plan carriers.
+- Ensure company compliance with federal and state laws, including reporting requirements.
+- Research employee benefit and health and safety practices, and recommend changes or modifications to existing policies.
+- Advise managers and employees on state and federal employment regulations, collective agreements, benefit and compensation policies, personnel procedures, and classification programs.
+- Plan and develop curricula and materials for training programs and conduct training.
+- Assist in preparing and maintaining personnel records and handbooks.
+- Develop and administer compensation programs, such as merit or incentive pay.
+- Evaluate job positions, determining classification, exempt or non-exempt status, and salary.
+- Prepare occupational classifications, job descriptions, and salary scales.
+- Consult with, or serve as, technical liaison between business, industry, government, and union officials.
+- Perform multifactor data and cost analyses that may be used in areas such as support of collective bargaining agreements.
+- Develop, implement, administer, and evaluate personnel and labor relations programs, including performance appraisal, affirmative action, and employment equity programs.
+- Provide advice on the resolution of classification and salary complaints.
+- Negotiate collective agreements on behalf of employers or workers, and mediate labor disputes and grievances.
+- Analyze organizational, occupational, and industrial data to facilitate organizational functions and provide technical information to business, industry, and government.
+- Assess need for and develop job analysis instruments and materials.
+- Observe, interview, and survey employees and conduct focus group meetings to collect job, organizational, and occupational information.
+- Plan, develop, evaluate, improve, and communicate methods and techniques for selecting, promoting, compensating, evaluating, and training workers.
+- Research job and worker requirements, structural and functional relationships among jobs and occupations, and occupational trends.
+- Prepare reports, such as organization and flow charts and career path reports, to summarize job analysis and evaluation and compensation analysis information.
+- Advise staff of individuals' qualifications.
+- Prepare research results for publication in form of journals, books, manuals, and film.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Active Listening (Importance: 3.88/5 | Level: 4.0/7)
+- Speaking (Importance: 3.88/5 | Level: 4.0/7)
+- Reading Comprehension (Importance: 3.88/5 | Level: 4.0/7)
+- Critical Thinking (Importance: 3.75/5 | Level: 3.88/7)
+- Active Learning (Importance: 3.38/5 | Level: 3.75/7)
+- Writing (Importance: 3.38/5 | Level: 3.88/7)
+- Systems Analysis (Importance: 3.12/5 | Level: 3.62/7)
+- Systems Evaluation (Importance: 3.12/5 | Level: 3.62/7)
+- Complex Problem Solving (Importance: 3.12/5 | Level: 3.5/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 3.75/7)
+- Mathematics (Importance: 3.12/5 | Level: 3.12/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.5/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 3.62/7)
+- Service Orientation (Importance: 3.0/5 | Level: 3.0/7)
+- Coordination (Importance: 3.0/5 | Level: 3.12/7)
+- Time Management (Importance: 3.0/5 | Level: 3.0/7)
+- Persuasion (Importance: 3.0/5 | Level: 3.38/7)
+- Negotiation (Importance: 3.0/5 | Level: 3.12/7)
+- Management of Personnel Resources (Importance: 2.88/5 | Level: 2.88/7)
+- Learning Strategies (Importance: 2.88/5 | Level: 3.38/7)
+- Instructing (Importance: 2.88/5 | Level: 3.0/7)
+- Operations Analysis (Importance: 2.5/5 | Level: 2.88/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 2.0/7)
+- Science (Importance: 1.88/5 | Level: 1.38/7)
+- Management of Material Resources (Importance: 1.75/5 | Level: 1.5/7)
+- Programming (Importance: 1.62/5 | Level: 1.0/7)
+- Operations Monitoring (Importance: 1.5/5 | Level: 0.5/7)
+- Technology Design (Importance: 1.5/5 | Level: 0.5/7)
+- Quality Control Analysis (Importance: 1.38/5 | Level: 0.5/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Operation and Control (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Actuarial Systems Corporation AIM (Tech skill type: Human resources software)
+- Actuarial Systems Corporation Compliance Testing System (Tech skill type: Human resources software)
+- Actuarial Systems Corporation Defined Benefit System (Tech skill type: Human resources software)
+- Actuarial Systems Corporation Document Generation and Management System (Tech skill type: Document management software)
+- Actuarial Systems Corporation DV Direct (Tech skill type: Human resources software)
+- ADP Enterprise eTIME (Tech skill type: Time accounting software)
+- ADP Workforce Now (Tech skill type: Human resources software)
+- Apex Business Software iBenefits (Tech skill type: Human resources software)
+- Ascentis Employee Self-Service (Tech skill type: Human resources software)
+- Ascentis HR (Tech skill type: Human resources software)
+- Bargaining Power (Tech skill type: Human resources software)
+- BEMAS PayDirect (Tech skill type: Human resources software)
+- Benaissance COBRApoint (Tech skill type: Human resources software)
+- BenAssist (Tech skill type: Human resources software)
+- Benefit Plan Systems Corporation The Plan Administrator (Tech skill type: Human resources software)
+- Benefit Software Fringe Facts (Tech skill type: Human resources software)
+- BenefitFocus HR in Touch (Tech skill type: Human resources software)
+- BeneLink Connect (Tech skill type: Human resources software)
+- Benelogic (Tech skill type: Human resources software)
+- BeneXL Technologies Pension Administration System (Tech skill type: Human resources software)
+- Byrne Software Technologies Visual HCS (Tech skill type: Human resources software)
+- Callidus TrueComp (Tech skill type: Human resources software)
+- Ceridian Dayforce enterprise HCM (Tech skill type: Human resources software)
+- Clayton Wallis CompGeo Online Professional Forecast Library (Tech skill type: Data base user interface and query software)
+- DataPath dpiSuite (Tech skill type: Human resources software)
+- Document management system software (Tech skill type: Document management software)
+- Ebenefits Solutions Benefits Management (Tech skill type: Human resources software)
+- Employee self-service software (Tech skill type: Human resources software)
+- Halogen eCompensation (Tech skill type: Human resources software)
+- Healthcare common procedure coding system HCPCS (Tech skill type: Medical software)
+- Human resource information system (HRIS) (Tech skill type: Human resources software)
+- Human resource management software HRMS (Tech skill type: Human resources software)
+- Humanic Design Employmee Self-Service (Tech skill type: Human resources software)
+- Humanic Design Human Resources Management System (Tech skill type: Human resources software)
+- IBM Cognos (Tech skill type: Human resources software)
+- IBM Cognos Impromptu (Tech skill type: Business intelligence and data analysis software)
+- IBM SPSS Statistics (Tech skill type: Analytical or scientific software)
+- Incentive management system software (Tech skill type: Human resources software)
+- InfinityHR (Tech skill type: Human resources software)
+- Kronos Workforce Timekeeper (Tech skill type: Time accounting software)
+- Lawson ERP (Tech skill type: Enterprise resource planning ERP software)
+- LinkedIn (Tech skill type: Web page creation and editing software)
+- Lynchval Systems Lvadmin (Tech skill type: Human resources software)
+- Lynchval Systems Lvval (Tech skill type: Human resources software)
+- Lynchval Systems Lvxact (Tech skill type: Human resources software)
+- Medical condition coding software (Tech skill type: Medical software)
+- Medical procedure coding software (Tech skill type: Medical software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Dynamics (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Internet Explorer (Tech skill type: Internet browser software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft SQL Server (Tech skill type: Data base user interface and query software)
+- Microsoft Visual Basic (Tech skill type: Development environment software)
+- Microsoft Word (Tech skill type: Word processing software)
+- MicroStrategy (Tech skill type: Business intelligence and data analysis software)
+- NPKTools Comp Analytics (Tech skill type: Human resources software)
+- NPKTools CompXpert (Tech skill type: Human resources software)
+- O*NET OnLine (Tech skill type: Data base user interface and query software)
+- OnQue Technologies COBRA OnOne (Tech skill type: Human resources software)
+- Oracle E-Business Suite Human Resources Management System (Tech skill type: Human resources software)
+- Oracle Fusion Applications (Tech skill type: Enterprise resource planning ERP software)
+- Oracle HRIS (Tech skill type: Human resources software)
+- Oracle PeopleSoft (Tech skill type: Enterprise resource planning ERP software)
+- Oracle Taleo (Tech skill type: Human resources software)
+- Project planning software (Tech skill type: Project management software)
+- Relational database management software (Tech skill type: Data base management system software)
+- Sage HRMS (Tech skill type: Time accounting software)
+- Salary.com (Tech skill type: Data base user interface and query software)
+- SAP Crystal Reports (Tech skill type: Data base reporting software)
+- SAP ERP Human Capital Management (Tech skill type: Enterprise resource planning ERP software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- SAS (Tech skill type: Analytical or scientific software)
+- SBC Systems Benefits Workstation (Tech skill type: Human resources software)
+- Stroud & Associates Employee Benefits Administration System (Tech skill type: Human resources software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Survey Sense (Tech skill type: Human resources software)
+- Transcend Technologies Group benefitsCONNECT (Tech skill type: Human resources software)
+- Travis Software TravisFlex (Tech skill type: Human resources software)
+- Ultimate Software UltiPro Workplace (Tech skill type: Human resources software)
+- Vebnet FIX&FLEX (Tech skill type: Human resources software)
+- Virtual Benefits Administrator (Tech skill type: Human resources software)
+- Vitech Systems Group V3 Benefits Administration System (Tech skill type: Human resources software)
+- VUE Benefits Manager (Tech skill type: Human resources software)
+- VUE Compensation Management (Tech skill type: Human resources software)
+- Watson Wyatt CompQuest On-Line (Tech skill type: Human resources software)
+- Watson Wyatt Global Grading System (Tech skill type: Human resources software)
+- Watson Wyatt Reward (Tech skill type: Human resources software)
+- Word processing software (Tech skill type: Word processing software)
+- Workday software (Tech skill type: Enterprise resource planning ERP software)
+- Workscape Outsourced Employee Benefits Administration (Tech skill type: Human resources software)
+- Xactly Compel (Tech skill type: Human resources software)
+
+## TOOLS USED
+- 10-key calculators (Tool type: Desktop calculator)
+- Electronic storage devices (Tool type: Hard disk drives)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Personal computers (Tool type: Personal computers)
+- Photocopying equipment (Tool type: Photocopiers)

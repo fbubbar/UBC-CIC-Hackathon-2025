@@ -1,0 +1,138 @@
+Job Title: Neurologists
+O*NET-SOC Code: 29-1217.00
+
+# DESCRIPTION
+Diagnose, manage, and treat disorders and diseases of the brain, spinal cord, and peripheral nerves, with a primarily nonsurgical focus.
+
+# TASKS
+- Interview patients to obtain information, such as complaints, symptoms, medical histories, and family histories.
+- Examine patients to obtain information about functional status of areas, such as vision, physical strength, coordination, reflexes, sensations, language skills, cognitive abilities, and mental status.
+- Perform or interpret the outcomes of procedures or diagnostic tests, such as lumbar punctures, electroencephalography, electromyography, and nerve conduction velocity tests.
+- Order or interpret results of laboratory analyses of patients' blood or cerebrospinal fluid.
+- Diagnose neurological conditions based on interpretation of examination findings, histories, or test results.
+- Prescribe or administer medications, such as anti-epileptic drugs, and monitor patients for behavioral and cognitive side effects.
+- Identify and treat major neurological system diseases and disorders, such as central nervous system infection, cranio spinal trauma, dementia, and stroke.
+- Develop treatment plans based on diagnoses and on evaluation of factors, such as age and general health, or procedural risks and costs.
+- Inform patients or families of neurological diagnoses and prognoses, or benefits, risks and costs of various treatment plans.
+- Prepare, maintain, or review records that include patients' histories, neurological examination findings, treatment plans, or outcomes.
+- Communicate with other health care professionals regarding patients' conditions and care.
+- Counsel patients or others on the background of neurological disorders including risk factors, or genetic or environmental concerns.
+- Interpret the results of neuroimaging studies, such as Magnetic Resonance Imaging (MRI), Single Photon Emission Computed Tomography (SPECT), and Positron Emission Tomography (PET) scans.
+- Determine brain death using accepted tests and procedures.
+- Coordinate neurological services with other health care team activities.
+- Refer patients to other health care practitioners as necessary.
+- Advise other physicians on the treatment of neurological problems.
+- Participate in continuing education activities to maintain and expand competence.
+- Order supportive care services, such as physical therapy, specialized nursing care, and social services.
+- Provide training to medical students or staff members.
+- Supervise medical technicians in the performance of neurological diagnostic or therapeutic activities.
+- Participate in neuroscience research activities.
+- Perform specialized treatments in areas such as sleep disorders, neuroimmunology, neuro-oncology, behavioral neurology, and neurogenetics.
+- Prescribe or administer treatments, such as transcranial magnetic stimulation, vagus nerve stimulation, and deep brain stimulation.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Active Listening (Importance: 4.25/5 | Level: 4.5/7)
+- Complex Problem Solving (Importance: 4.12/5 | Level: 4.62/7)
+- Speaking (Importance: 4.12/5 | Level: 4.38/7)
+- Critical Thinking (Importance: 4.12/5 | Level: 4.88/7)
+- Social Perceptiveness (Importance: 4.12/5 | Level: 4.62/7)
+- Reading Comprehension (Importance: 4.12/5 | Level: 5.5/7)
+- Writing (Importance: 4.0/5 | Level: 4.38/7)
+- Monitoring (Importance: 4.0/5 | Level: 4.62/7)
+- Judgment and Decision Making (Importance: 4.0/5 | Level: 4.5/7)
+- Science (Importance: 3.75/5 | Level: 4.12/7)
+- Active Learning (Importance: 3.75/5 | Level: 4.62/7)
+- Coordination (Importance: 3.75/5 | Level: 3.75/7)
+- Service Orientation (Importance: 3.5/5 | Level: 3.62/7)
+- Instructing (Importance: 3.5/5 | Level: 4.62/7)
+- Persuasion (Importance: 3.5/5 | Level: 3.75/7)
+- Learning Strategies (Importance: 3.38/5 | Level: 4.25/7)
+- Systems Analysis (Importance: 3.38/5 | Level: 3.38/7)
+- Systems Evaluation (Importance: 3.25/5 | Level: 3.62/7)
+- Time Management (Importance: 3.25/5 | Level: 3.88/7)
+- Management of Personnel Resources (Importance: 3.0/5 | Level: 3.38/7)
+- Mathematics (Importance: 2.88/5 | Level: 3.25/7)
+- Negotiation (Importance: 2.75/5 | Level: 2.88/7)
+- Quality Control Analysis (Importance: 2.38/5 | Level: 2.25/7)
+- Operations Analysis (Importance: 2.12/5 | Level: 1.88/7)
+- Operations Monitoring (Importance: 2.12/5 | Level: 2.0/7)
+- Management of Material Resources (Importance: 2.12/5 | Level: 2.0/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.75/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.0/7)
+- Troubleshooting (Importance: 1.75/5 | Level: 1.38/7)
+- Programming (Importance: 1.75/5 | Level: 0.88/7)
+- Equipment Selection (Importance: 1.38/5 | Level: 0.62/7)
+- Operation and Control (Importance: 1.25/5 | Level: 0.5/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Allscripts PM (Tech skill type: Medical software)
+- athenahealth athenaCollector (Tech skill type: Medical software)
+- Automatic Data Processing AdvancedMD EHR (Tech skill type: Medical software)
+- Benchmark Systems Benchmark Clinical EHR (Tech skill type: Medical software)
+- Bizmatics PrognoCIS EMR (Tech skill type: Medical software)
+- CareCloud Central (Tech skill type: Medical software)
+- Cerner PowerWorks Practice Management (Tech skill type: Medical software)
+- e-MDs software (Tech skill type: Medical software)
+- eClinicalWorks EHR software (Tech skill type: Medical software)
+- Email software (Tech skill type: Electronic mail software)
+- Epic Practice Management (Tech skill type: Medical software)
+- Epic Systems (Tech skill type: Medical software)
+- GalacTek ECLIPSE (Tech skill type: Medical software)
+- GE Healthcare Centricity Practice Solution (Tech skill type: Medical software)
+- Greenway Medical Technologies PrimeSUITE (Tech skill type: Medical software)
+- HealthFusion MediTouch (Tech skill type: Medical software)
+- IOS Health Systems Medios EHR (Tech skill type: Medical software)
+- Kareo Practice Management (Tech skill type: Medical software)
+- McKesson Practice Plus (Tech skill type: Medical software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Modernizing Medicine Practice Management (Tech skill type: Medical software)
+- NextGen Healthcare NextGen Practice Management (Tech skill type: Medical software)
+- Nuesoft Technologies NueMD (Tech skill type: Medical software)
+- simplifyMD (Tech skill type: Medical software)
+- Vitera Healthcare Solutions Vitera Intergy (Tech skill type: Medical software)
+- WRSHealth EMR (Tech skill type: Medical software)
+
+## TOOLS USED
+- Audio evoked potential testers (Tool type: Evoked response detectors)
+- Audio stimulators (Tool type: Neurological diagnostic sets)
+- Auditory function screeners (Tool type: Auditory function screening units)
+- Automated external defibrillators AED (Tool type: Mobile medical services automated external defibrillators AED or hard paddles)
+- Automatic blood pressure cuffs (Tool type: Electronic blood pressure units)
+- Babinski hammers (Tool type: Reflex hammers or mallets)
+- Biofeedback units (Tool type: Biofeedback devices)
+- Cerebral oximeters (Tool type: Infrared spectrometers)
+- Computed tomography CT scanners (Tool type: Medical computed tomography CT or CAT scanners or tubes)
+- Diagnostic penlights (Tool type: Medical exam penlights or flashlights)
+- Diagnostic tuning forks (Tool type: Medical tuning forks)
+- Digital audio recorders (Tool type: Digital voice recorders)
+- Digital video cameras (Tool type: Digital camcorders or video cameras)
+- Electroconvulsive therapy ECT units (Tool type: Electroconvulsive devices)
+- Electroencephalogram EEG signal spectrum analyzers (Tool type: Electroencephalographic spectrum analyzers)
+- Electroencephalograph EEG equipment (Tool type: Electroencephalograph EEGs)
+- Electromyographs EMG (Tool type: Electroencephalograph EEGs)
+- Electron beam tomography EBT systems (Tool type: Medical computed tomography CT or CAT ultrafast system components)
+- Electronic stethoscopes (Tool type: Electronic stethoscopes)
+- Facial nerve stimulators (Tool type: Transcutaneous electric nerve stimulation units)
+- Magnetic pulse stimulators (Tool type: Magnetotherapy pulse stimulators)
+- Magnetic resonance imaging MRI equipment (Tool type: Medical magnetic resonance imaging MRI stationary units)
+- Neurological hammers (Tool type: Reflex hammers or mallets)
+- Neuropens (Tool type: Neurological diagnostic sets)
+- Ophthalmoscopes (Tool type: Ophthalmoscopes or otoscopes or scope sets)
+- Otoscopes (Tool type: Ophthalmoscopes or otoscopes or scope sets)
+- Peripheral nerve stimulators (Tool type: Transcutaneous electric nerve stimulation units)
+- Polysomnographs (Tool type: Neurological diagnostic sets)
+- Queen square hammers (Tool type: Reflex hammers or mallets)
+- Radio frequency generators (Tool type: High frequency electromagnetic wave stimulators)
+- Tilting tables (Tool type: Medical exam or procedure tables for general use)
+- Transcranial magnetic stimulators (Tool type: Transcutaneous electric nerve stimulation units)
+- Transcutaneous electric nerve stimulation TENS equipment (Tool type: Transcutaneous electric nerve stimulation units)
+- Ultrasound imaging scanners (Tool type: Medical ultrasound or doppler or pulse echocardiograph or echocardiograph units for general diagnostic use)
+- Variable two-point discriminators (Tool type: Neurological discriminators)
+- Visual stimulators (Tool type: Neurological diagnostic sets)

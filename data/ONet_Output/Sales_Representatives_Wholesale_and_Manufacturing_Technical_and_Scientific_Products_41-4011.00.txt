@@ -1,0 +1,153 @@
+Job Title: Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products
+O*NET-SOC Code: 41-4011.00
+
+# DESCRIPTION
+Sell goods for wholesalers or manufacturers where technical or scientific knowledge is required in such areas as biology, engineering, chemistry, and electronics, normally obtained from at least 2 years of postsecondary education.
+
+# TASKS
+- Negotiate prices or terms of sales or service agreements.
+- Prepare and submit sales contracts for orders.
+- Visit establishments to evaluate needs or to promote product or service sales.
+- Maintain customer records, using automated systems.
+- Answer customers' questions about products, prices, availability, or credit terms.
+- Quote prices, credit terms, or other bid specifications.
+- Contact new or existing customers to discuss how specific products or services can meet their needs.
+- Emphasize product features, based on analyses of customers' needs and on technical knowledge of product capabilities and limitations.
+- Compute customer's installation or production costs and estimate savings from new services, products, or equipment.
+- Select or assist customers in selecting products based on customer needs, product specifications, and applicable regulations.
+- Prepare sales presentations or proposals to explain product specifications or applications.
+- Complete expense reports, sales reports, or other paperwork.
+- Verify that delivery schedules meet project deadlines.
+- Identify prospective customers, using business directories, leads from existing clients, participation in organizations, or trade show or conference attendance.
+- Inform customers of estimated delivery schedules, service contracts, warranties, or other information pertaining to purchased products.
+- Collaborate with colleagues to exchange information, such as selling strategies or marketing information.
+- Provide customers with ongoing technical support.
+- Advise customers on product usage to improve production.
+- Study documentation or other information for new scientific or technical products.
+- Stock or distribute resources, such as samples or promotional or educational materials.
+- Attend sales or trade meetings or read related publications to obtain information about market conditions, business trends, environmental regulations, or industry developments.
+- Sell service contracts for technical or scientific products.
+- Demonstrate the operation or use of technical or scientific products.
+- Provide feedback to product design teams so that products can be tailored to clients' needs.
+- Arrange for installation and testing of products or machinery.
+- Initiate sales campaigns to meet sales and production expectations.
+- Verify accuracy of materials lists.
+- Verify customer credit ratings.
+- Consult with engineers regarding technical problems with products.
+- Sell technical and scientific products that are environmentally sound or designed for environmental remediation.
+- Visit establishments, such as pharmacies, to determine product sales.
+- Present information to customers about the energy efficiency or environmental impact of scientific or technical products.
+- Inform customers about issues related to responsible use and disposal of products, such as waste reduction or product or byproduct recycling or disposal.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Speaking (Importance: 4.25/5 | Level: 4.0/7)
+- Persuasion (Importance: 4.25/5 | Level: 4.0/7)
+- Active Listening (Importance: 4.12/5 | Level: 4.12/7)
+- Negotiation (Importance: 4.0/5 | Level: 4.0/7)
+- Social Perceptiveness (Importance: 3.88/5 | Level: 3.75/7)
+- Service Orientation (Importance: 3.75/5 | Level: 3.38/7)
+- Reading Comprehension (Importance: 3.75/5 | Level: 4.12/7)
+- Coordination (Importance: 3.62/5 | Level: 3.38/7)
+- Active Learning (Importance: 3.5/5 | Level: 3.75/7)
+- Writing (Importance: 3.38/5 | Level: 3.62/7)
+- Critical Thinking (Importance: 3.38/5 | Level: 3.75/7)
+- Complex Problem Solving (Importance: 3.38/5 | Level: 3.12/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.12/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 3.38/7)
+- Time Management (Importance: 3.12/5 | Level: 3.0/7)
+- Mathematics (Importance: 2.88/5 | Level: 2.88/7)
+- Instructing (Importance: 2.88/5 | Level: 3.12/7)
+- Systems Analysis (Importance: 2.88/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 2.75/5 | Level: 3.0/7)
+- Management of Personnel Resources (Importance: 2.62/5 | Level: 2.5/7)
+- Management of Financial Resources (Importance: 2.62/5 | Level: 2.62/7)
+- Management of Material Resources (Importance: 2.5/5 | Level: 2.5/7)
+- Operations Analysis (Importance: 2.12/5 | Level: 2.5/7)
+- Systems Evaluation (Importance: 2.12/5 | Level: 2.62/7)
+- Technology Design (Importance: 2.0/5 | Level: 1.62/7)
+- Operation and Control (Importance: 2.0/5 | Level: 1.25/7)
+- Programming (Importance: 2.0/5 | Level: 1.0/7)
+- Operations Monitoring (Importance: 1.88/5 | Level: 1.62/7)
+- Quality Control Analysis (Importance: 1.88/5 | Level: 1.12/7)
+- Equipment Selection (Importance: 1.62/5 | Level: 0.62/7)
+- Science (Importance: 1.5/5 | Level: 0.62/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Act! (Tech skill type: Customer relationship management CRM software)
+- ActionWare (Tech skill type: Customer relationship management CRM software)
+- AdTrack Customer Acquisition Management CAM (Tech skill type: Customer relationship management CRM software)
+- Amazon Web Services AWS software (Tech skill type: Data base user interface and query software)
+- AMG Teleran SalesInSync (Tech skill type: Customer relationship management CRM software)
+- Apache Hadoop (Tech skill type: Data base management system software)
+- Cegedim Target Software Target SFA Pharmaceutical Suite (Tech skill type: Customer relationship management CRM software)
+- Citrix cloud computing software (Tech skill type: Access software)
+- Customer relationship management CRM software (Tech skill type: Customer relationship management CRM software)
+- Enterprise application integration EAI software (Tech skill type: Enterprise application integration software)
+- FileMaker Pro (Tech skill type: Data base user interface and query software)
+- Google Ads (Tech skill type: Sales and marketing software)
+- Google Analytics (Tech skill type: Data mining software)
+- Google Workspace software (Tech skill type: Office suite software)
+- HEAT Software GoldMine (Tech skill type: Customer relationship management CRM software)
+- HubSpot software (Tech skill type: Sales and marketing software)
+- IBM InfoSphere DataStage (Tech skill type: Enterprise application integration software)
+- IBM Notes (Tech skill type: Electronic mail software)
+- IBM SPSS Statistics (Tech skill type: Analytical or scientific software)
+- Infor ERP SyteLine (Tech skill type: Enterprise resource planning ERP software)
+- InsideSales.com (Tech skill type: Customer relationship management CRM software)
+- Intuit QuickBooks (Tech skill type: Accounting software)
+- Khameleon (Tech skill type: Project management software)
+- LexisNexis (Tech skill type: Information retrieval or search software)
+- LinkedIn (Tech skill type: Web page creation and editing software)
+- Linux (Tech skill type: Operating system software)
+- LogMeIn GoToMeeting (Tech skill type: Video conferencing software)
+- LogMeIn GoToWebinar (Tech skill type: Network conferencing software)
+- McAfee (Tech skill type: Transaction security and virus protection software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Azure software (Tech skill type: Development environment software)
+- Microsoft Dynamics (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Exchange (Tech skill type: Electronic mail software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft Publisher (Tech skill type: Desktop publishing software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft Word (Tech skill type: Word processing software)
+- MicroStrategy (Tech skill type: Business intelligence and data analysis software)
+- NetSuite ERP (Tech skill type: Enterprise resource planning ERP software)
+- NetSuite NetCRM (Tech skill type: Customer relationship management CRM software)
+- NortonLifeLock cybersecurity software (Tech skill type: Transaction security and virus protection software)
+- Oracle Database (Tech skill type: Data base user interface and query software)
+- Oracle Fusion Applications (Tech skill type: Enterprise resource planning ERP software)
+- Oracle Hyperion (Tech skill type: Enterprise resource planning ERP software)
+- Oracle PeopleSoft (Tech skill type: Enterprise resource planning ERP software)
+- Presentation software (Tech skill type: Presentation software)
+- R (Tech skill type: Object or component oriented development software)
+- Salesforce software (Tech skill type: Customer relationship management CRM software)
+- Salesforce.com Salesforce CRM (Tech skill type: Customer relationship management CRM software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- SAP Sybase SQL Anywhere (Tech skill type: Customer relationship management CRM software)
+- SAS (Tech skill type: Analytical or scientific software)
+- Scheduling software (Tech skill type: Calendar and scheduling software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- StataCorp Stata (Tech skill type: Analytical or scientific software)
+- Tax software (Tech skill type: Accounting software)
+- Teradata Database (Tech skill type: Data base management system software)
+- Virtual private networking VPN software (Tech skill type: Network security and virtual private network VPN equipment software)
+- Voice over internet protocol VoIP system software (Tech skill type: Internet protocol IP multimedia subsystem software)
+- Web browser software (Tech skill type: Internet browser software)
+- Word processing software (Tech skill type: Word processing software)
+- YouTube (Tech skill type: Video creation and editing software)
+- Zoom (Tech skill type: Video conferencing software)
+
+## TOOLS USED
+- Laptop computers (Tool type: Notebook computers)
+- Personal computers (Tool type: Personal computers)
+- Personal digital assistants PDA (Tool type: Personal digital assistant PDAs or organizers)
+- Tablet computers (Tool type: Tablet computers)

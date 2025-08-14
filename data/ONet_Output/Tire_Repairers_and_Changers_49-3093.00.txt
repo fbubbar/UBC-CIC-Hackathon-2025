@@ -1,0 +1,159 @@
+Job Title: Tire Repairers and Changers
+O*NET-SOC Code: 49-3093.00
+
+# DESCRIPTION
+Repair and replace tires.
+
+# TASKS
+- Raise vehicles, using hydraulic jacks.
+- Remount wheels onto vehicles.
+- Unbolt and remove wheels from vehicles, using lug wrenches or other hand or power tools.
+- Place wheels on balancing machines to determine counterweights required to balance wheels.
+- Identify tire size and ply and inflate tires accordingly.
+- Replace valve stems and remove puncturing objects.
+- Hammer required counterweights onto rims of wheels.
+- Reassemble tires onto wheels.
+- Seal punctures in tubeless tires by inserting adhesive material and expanding rubber plugs into punctures, using hand tools.
+- Inspect tire casings for defects, such as holes or tears.
+- Locate punctures in tubeless tires by visual inspection or by immersing inflated tires in water baths and observing air bubbles.
+- Glue tire patches over ruptures in tire casings, using rubber cement.
+- Assist mechanics and perform various mechanical duties, such as changing oil or checking and replacing batteries.
+- Rotate tires to different positions on vehicles, using hand tools.
+- Clean and tidy up the shop.
+- Buff defective areas of inner tubes, using scrapers.
+- Order replacements for tires or tubes.
+- Separate tubed tires from wheels, using rubber mallets and metal bars or mechanical tire changers.
+- Inflate inner tubes and immerse them in water to locate leaks.
+- Clean sides of whitewall tires.
+- Prepare rims and wheel drums for reassembly by scraping, grinding, or sandblasting.
+- Apply rubber cement to buffed tire casings prior to vulcanization process.
+- Patch tubes with adhesive rubber patches or seal rubber patches to tubes, using hot vulcanizing plates.
+- Drive automobile or service trucks to industrial sites to provide services or respond to emergency calls.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Critical Thinking (Importance: 3.0/5 | Level: 2.38/7)
+- Active Listening (Importance: 3.0/5 | Level: 2.5/7)
+- Time Management (Importance: 3.0/5 | Level: 2.62/7)
+- Speaking (Importance: 3.0/5 | Level: 2.25/7)
+- Service Orientation (Importance: 3.0/5 | Level: 2.62/7)
+- Monitoring (Importance: 2.88/5 | Level: 2.25/7)
+- Troubleshooting (Importance: 2.88/5 | Level: 2.62/7)
+- Operations Monitoring (Importance: 2.88/5 | Level: 2.75/7)
+- Repairing (Importance: 2.88/5 | Level: 2.75/7)
+- Quality Control Analysis (Importance: 2.88/5 | Level: 2.38/7)
+- Operation and Control (Importance: 2.75/5 | Level: 2.88/7)
+- Complex Problem Solving (Importance: 2.75/5 | Level: 2.25/7)
+- Coordination (Importance: 2.75/5 | Level: 2.12/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 2.25/7)
+- Judgment and Decision Making (Importance: 2.62/5 | Level: 2.12/7)
+- Reading Comprehension (Importance: 2.5/5 | Level: 2.0/7)
+- Management of Personnel Resources (Importance: 2.38/5 | Level: 2.25/7)
+- Equipment Maintenance (Importance: 2.38/5 | Level: 2.0/7)
+- Persuasion (Importance: 2.25/5 | Level: 2.0/7)
+- Active Learning (Importance: 2.25/5 | Level: 2.0/7)
+- Negotiation (Importance: 2.25/5 | Level: 2.12/7)
+- Instructing (Importance: 2.25/5 | Level: 2.25/7)
+- Writing (Importance: 2.25/5 | Level: 2.12/7)
+- Management of Material Resources (Importance: 2.12/5 | Level: 1.62/7)
+- Learning Strategies (Importance: 2.12/5 | Level: 2.25/7)
+- Equipment Selection (Importance: 2.12/5 | Level: 1.62/7)
+- Mathematics (Importance: 2.0/5 | Level: 1.88/7)
+- Systems Analysis (Importance: 2.0/5 | Level: 2.0/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 2.0/7)
+- Installation (Importance: 2.0/5 | Level: 1.0/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 0.75/7)
+- Technology Design (Importance: 1.38/5 | Level: 0.5/7)
+- Operations Analysis (Importance: 1.0/5 | Level: 0.0/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Accounting software (Tech skill type: Accounting software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Project estimation software (Tech skill type: Project management software)
+- Recordkeeping software (Tech skill type: Data base user interface and query software)
+
+## TOOLS USED
+- 4-way tire valve tools (Tool type: Specialty wrenches)
+- Air drills (Tool type: Pneumatic drill)
+- Air spray guns (Tool type: Compressed air gun)
+- Air/steam bags (Tool type: Air bags for loading)
+- Airless spray guns (Tool type: Hand sprayers)
+- Awls (Tool type: Awls)
+- Bail cutting knives (Tool type: Razor knives)
+- Balancing machines (Tool type: Wheel balancing equipment)
+- Bead breakers (Tool type: Wedges)
+- Bead expanders (Tool type: Expanders)
+- Bead seaters (Tool type: Pry bars)
+- Buffers (Tool type: Power buffers)
+- Computerized tire/wheel balancing equipment (Tool type: Wheel balancing equipment)
+- Curved-point scalpel knives (Tool type: Razor knives)
+- Cutting blades (Tool type: Knife blades)
+- Deburring tools (Tool type: Deburring tool)
+- Desktop computers (Tool type: Desktop computers)
+- Duck-billed bead-breaking wedges (Tool type: Wedges)
+- Electric knife heaters (Tool type: Heater elements)
+- Eye protection (Tool type: Safety glasses)
+- Fast-trim vent knives (Tool type: Razor knives)
+- Hammers (Tool type: Hammers)
+- Hand rasps (Tool type: Rasps)
+- Hand rollers for adhesives (Tool type: Adhesive rollers)
+- Handheld extruders (Tool type: Extruders)
+- Hawk bill knives (Tool type: Razor knives)
+- Heavy duty awls (Tool type: Awls)
+- Heavy duty T-handle reamers (Tool type: Hand reamer)
+- Heavy duty T-handle spiral probe cement tools (Tool type: Insertion tool)
+- Holding clamps (Tool type: Hold down clamps)
+- Hot vulcanizing plates (Tool type: Vulcanizing machines)
+- Hub-cap pullers (Tool type: Pullers)
+- Hydraulic jacks (Tool type: Jacks)
+- Hydraulic pumps (Tool type: Hydraulic pumps)
+- Inner-liner scrapers (Tool type: Scrapers)
+- Insertion tools (Tool type: Insertion tool)
+- Insulated heater knives (Tool type: Razor knives)
+- Jacks (Tool type: Jacks)
+- Lug wrenches (Tool type: Wheel nut or lug wrench)
+- Mallets (Tool type: Mallets)
+- Mechanical tire changers (Tool type: Tire changing machines)
+- Mill knives (Tool type: Razor knives)
+- Mold presses (Tool type: Rubber or plastic presses)
+- Notched-blade trim knives (Tool type: Razor knives)
+- Personal computers (Tool type: Personal computers)
+- Pneumatic wrenches (Tool type: Pneumatic impact wrenches)
+- Power grinders (Tool type: Power grinders)
+- Power hoists (Tool type: Hoists)
+- Power tire spreaders (Tool type: Expanders)
+- Pricking awls (Tool type: Awls)
+- Razor knives (Tool type: Razor knives)
+- Regroovers (Tool type: Power routers)
+- Respirators (Tool type: Respirators)
+- Rim clamp tire changers (Tool type: Tire changing machines)
+- Rubber patch guns (Tool type: Hand sprayers)
+- Safety gloves (Tool type: Protective gloves)
+- Safety shoes (Tool type: Safety shoes)
+- Scissors (Tool type: Shears)
+- Scrapers (Tool type: Scrapers)
+- Shears (Tool type: Shears)
+- Square point knives (Tool type: Razor knives)
+- Stickleback rasps (Tool type: Rasps)
+- Taper point knives (Tool type: Razor knives)
+- Thermocutters (Tool type: Razor knives)
+- Tire hammers (Tool type: Hammers)
+- Tire irons (Tool type: Pry bars)
+- Tire knockers (Tool type: Mallets)
+- Tire plug guns (Tool type: Compressed air gun)
+- Tire probing awls (Tool type: Awls)
+- Tire reamers (Tool type: Hand reamer)
+- Tire stands (Tool type: Engine or vehicle stands)
+- Tire tread depth gauges (Tool type: Height gauges)
+- Torque wrenches (Tool type: Torque wrenches)
+- Trimmer shears (Tool type: Shears)
+- Truck lock ring removers (Tool type: Retaining ring pliers)
+- Truck tire spoons (Tool type: Pry bars)
+- Utility knives (Tool type: Utility knives)
+- Vulcanizing machines (Tool type: Vulcanizing machines)
+- Wire brushes (Tool type: Wire brushes)
+- Workshop cranes (Tool type: Workshop cranes)

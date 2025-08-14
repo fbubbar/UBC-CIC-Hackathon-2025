@@ -1,0 +1,102 @@
+Job Title: Credit Counselors
+O*NET-SOC Code: 13-2071.00
+
+# DESCRIPTION
+Advise and educate individuals or organizations on acquiring and managing debt. May provide guidance in determining the best type of loan and explain loan requirements or restrictions. May help develop debt management plans or student financial aid packages. May advise on credit issues, or provide budget, mortgage, bankruptcy, or student financial aid counseling.
+
+# TASKS
+- Calculate clients' available monthly income to meet debt obligations.
+- Explain services or policies to clients, such as debt management program rules, advantages and disadvantages of using services, or creditor concession policies.
+- Create debt management plans, spending plans, or budgets to assist clients to meet financial goals.
+- Prioritize client debt repayment to avoid dire consequences, such as bankruptcy or foreclosure or to reduce overall costs, such as by paying high-interest or short-term loans first.
+- Assess clients' overall financial situations by reviewing income, assets, debts, expenses, credit reports, or other financial information.
+- Recommend strategies for clients to meet their financial goals, such as borrowing money through loans or loan programs, declaring bankruptcy, making budget adjustments, or enrolling in debt management plans.
+- Explain general financial topics to clients, such as credit report ratings, bankruptcy laws, consumer protection laws, wage attachments, or collection actions.
+- Interview clients by telephone or in person to gather financial information.
+- Estimate time for debt repayment, given amount of debt, interest rates, and available funds.
+- Prepare written documents to establish contracts with or communicate financial recommendations to clients.
+- Maintain or update records of client account activity, including financial transactions, counseling session notes, correspondence, document images, or client inquiries.
+- Negotiate with creditors on behalf of clients to arrange for payment adjustments, interest rate reductions, time extensions, or payment plans.
+- Advise clients on housing matters, such as housing rental, homeownership, mortgage delinquency, or foreclosure prevention.
+- Create action plans to assist clients in obtaining permanent housing via rent or mortgage programs.
+- Advise clients or respond to inquiries about financial matters in person or via phone, email, Web site, or Internet chat.
+- Review changes to financial, family, or employment situations to determine whether changes to existing debt management plans, spending plans, or budgets are needed.
+- Recommend educational materials or resources to clients on matters, such as financial planning, budgeting, or credit.
+- Refer clients to social service or community resources for needs beyond those of credit or debt counseling.
+- Explain loan information to clients, such as available loan types, eligibility requirements, or loan restrictions.
+- Teach courses or seminars on topics, such as budgeting, management of personal finances, or financial literacy.
+- Conduct research to help clients avoid repossessions or foreclosures or remove levies or wage garnishments.
+- Disburse funds from client accounts to creditors.
+- Investigate missing checks, payment histories, held funds, returned checks, or other related issues to resolve client or creditor problems.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Speaking (Importance: 4.0/5 | Level: 4.0/7)
+- Active Listening (Importance: 3.88/5 | Level: 4.0/7)
+- Reading Comprehension (Importance: 3.88/5 | Level: 3.88/7)
+- Writing (Importance: 3.75/5 | Level: 3.75/7)
+- Critical Thinking (Importance: 3.75/5 | Level: 3.88/7)
+- Service Orientation (Importance: 3.62/5 | Level: 3.5/7)
+- Active Learning (Importance: 3.62/5 | Level: 3.5/7)
+- Judgment and Decision Making (Importance: 3.5/5 | Level: 3.25/7)
+- Complex Problem Solving (Importance: 3.5/5 | Level: 3.25/7)
+- Persuasion (Importance: 3.38/5 | Level: 3.5/7)
+- Negotiation (Importance: 3.25/5 | Level: 3.25/7)
+- Social Perceptiveness (Importance: 3.12/5 | Level: 3.62/7)
+- Learning Strategies (Importance: 3.12/5 | Level: 3.12/7)
+- Coordination (Importance: 3.12/5 | Level: 3.12/7)
+- Time Management (Importance: 3.12/5 | Level: 3.12/7)
+- Mathematics (Importance: 3.12/5 | Level: 3.0/7)
+- Monitoring (Importance: 3.0/5 | Level: 3.0/7)
+- Systems Evaluation (Importance: 3.0/5 | Level: 2.75/7)
+- Instructing (Importance: 2.88/5 | Level: 3.0/7)
+- Systems Analysis (Importance: 2.88/5 | Level: 3.0/7)
+- Management of Personnel Resources (Importance: 2.12/5 | Level: 2.62/7)
+- Operations Analysis (Importance: 1.88/5 | Level: 1.0/7)
+- Technology Design (Importance: 1.75/5 | Level: 1.0/7)
+- Management of Financial Resources (Importance: 1.62/5 | Level: 0.75/7)
+- Programming (Importance: 1.5/5 | Level: 0.75/7)
+- Quality Control Analysis (Importance: 1.25/5 | Level: 0.25/7)
+- Management of Material Resources (Importance: 1.12/5 | Level: 0.25/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Operations Monitoring (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Operation and Control (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Chat software (Tech skill type: Network conferencing software)
+- Cooperative Processing Resources DMS Professional Suite (Tech skill type: Financial analysis software)
+- CoreLogic DebtorTrace (Tech skill type: Data base user interface and query software)
+- Email software (Tech skill type: Electronic mail software)
+- Freddie Mac Loan Prospector (Tech skill type: Financial analysis software)
+- ICCO CreditSoft (Tech skill type: Financial analysis software)
+- Integrant DebtLogic (Tech skill type: Financial analysis software)
+- LexisNexis (Tech skill type: Information retrieval or search software)
+- LexisNexis Accurint (Tech skill type: Data base user interface and query software)
+- Merlin Information Services databases (Tech skill type: Data base user interface and query software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Dynamics (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Oracle PeopleSoft (Tech skill type: Enterprise resource planning ERP software)
+- Paragon Financial Services Paragon Financial System (Tech skill type: Financial analysis software)
+- Prime Debt Soft Debt Settlement (Tech skill type: Financial analysis software)
+- Prime Debt Software Credit Repair (Tech skill type: Financial analysis software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Financial calculators (Tool type: Scientific calculator)
+- Inkjet printers (Tool type: Inkjet printers)
+- Laptop computers (Tool type: Notebook computers)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Laser printers (Tool type: Laser printers)
+- Multi-line telephone systems (Tool type: Special purpose telephones)
+- Personal computers (Tool type: Personal computers)

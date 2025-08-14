@@ -1,0 +1,128 @@
+Job Title: Automotive Glass Installers and Repairers
+O*NET-SOC Code: 49-3022.00
+
+# DESCRIPTION
+Replace or repair broken windshields and window glass in motor vehicles.
+
+# TASKS
+- Prime all scratches on pinchwelds with primer and allow to dry.
+- Remove all dirt, foreign matter, and loose glass from damaged areas, apply primer along windshield or window edges, and allow primer to dry.
+- Allow all glass parts installed with urethane ample time to cure, taking temperature and humidity into account.
+- Apply a bead of urethane around the perimeter of each pinchweld and dress the remaining urethane on the pinchwelds so that it is of uniform level and thickness.
+- Select appropriate tools, safety equipment, and parts, according to job requirements.
+- Install replacement glass in vehicles.
+- Obtain windshields or windows for specific automobile makes and models from stock and examine them for defects prior to installation.
+- Check for and remove moisture or contamination in damaged areas and keep areas dry until repairs are complete.
+- Replace all moldings, clips, windshield wipers, or other parts that were removed prior to glass replacement or repair.
+- Remove broken or damaged glass windshields or window glass from motor vehicles, using hand tools to remove screws from frames holding glass.
+- Remove moldings, clips, windshield wipers, screws, bolts, and inside A-pillar moldings and lower headliners in preparation for installation or repair work.
+- Install, repair, or replace safety glass and related materials, such as back glass heating elements, on vehicles or equipment.
+- Cool or warm glass in the event of temperature extremes.
+- Replace or adjust motorized or manual window-raising mechanisms.
+- Install new foam dams on pinchwelds, if required.
+- Install rubber channeling strips around edges of glass or frames to weatherproof windows or to prevent rattling.
+- Hold cut or uneven edges of glass against automated abrasive belts to shape or smooth edges.
+- Cut flat safety glass according to specified patterns or perform precision pattern making and glass cutting to custom fit replacement windows.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Installation (Importance: 3.12/5 | Level: 2.75/7)
+- Equipment Selection (Importance: 3.0/5 | Level: 2.38/7)
+- Speaking (Importance: 3.0/5 | Level: 2.62/7)
+- Monitoring (Importance: 2.88/5 | Level: 2.62/7)
+- Critical Thinking (Importance: 2.88/5 | Level: 2.75/7)
+- Time Management (Importance: 2.88/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.62/7)
+- Service Orientation (Importance: 2.88/5 | Level: 2.62/7)
+- Active Listening (Importance: 2.88/5 | Level: 2.75/7)
+- Operation and Control (Importance: 2.75/5 | Level: 2.62/7)
+- Complex Problem Solving (Importance: 2.75/5 | Level: 2.5/7)
+- Coordination (Importance: 2.75/5 | Level: 2.5/7)
+- Judgment and Decision Making (Importance: 2.75/5 | Level: 2.38/7)
+- Quality Control Analysis (Importance: 2.75/5 | Level: 2.75/7)
+- Operations Monitoring (Importance: 2.75/5 | Level: 2.62/7)
+- Active Learning (Importance: 2.62/5 | Level: 2.38/7)
+- Reading Comprehension (Importance: 2.5/5 | Level: 2.5/7)
+- Negotiation (Importance: 2.38/5 | Level: 2.0/7)
+- Instructing (Importance: 2.38/5 | Level: 2.25/7)
+- Learning Strategies (Importance: 2.38/5 | Level: 2.12/7)
+- Repairing (Importance: 2.38/5 | Level: 2.0/7)
+- Writing (Importance: 2.38/5 | Level: 2.38/7)
+- Persuasion (Importance: 2.38/5 | Level: 2.12/7)
+- Troubleshooting (Importance: 2.25/5 | Level: 1.88/7)
+- Systems Analysis (Importance: 2.12/5 | Level: 1.88/7)
+- Equipment Maintenance (Importance: 2.12/5 | Level: 1.75/7)
+- Mathematics (Importance: 2.0/5 | Level: 1.75/7)
+- Management of Personnel Resources (Importance: 2.0/5 | Level: 1.88/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 1.88/7)
+- Management of Material Resources (Importance: 1.75/5 | Level: 1.0/7)
+- Operations Analysis (Importance: 1.75/5 | Level: 1.12/7)
+- Technology Design (Importance: 1.62/5 | Level: 0.62/7)
+- Science (Importance: 1.5/5 | Level: 0.5/7)
+- Management of Financial Resources (Importance: 1.38/5 | Level: 0.5/7)
+- Programming (Importance: 1.12/5 | Level: 0.12/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Accounting software (Tech skill type: Accounting software)
+- Estimating software (Tech skill type: Project management software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Recordkeeping software (Tech skill type: Data base user interface and query software)
+- Workday software (Tech skill type: Enterprise resource planning ERP software)
+
+## TOOLS USED
+- Air compressors (Tool type: Air compressors)
+- Air knives (Tool type: Air dryers)
+- Awls (Tool type: Awls)
+- Buffing wheels (Tool type: Power buffers)
+- Caulking guns (Tool type: Caulking guns)
+- Cold chisels (Tool type: Cold chisels)
+- Cold knives (Tool type: Razor knives)
+- Cordless drills (Tool type: Power drills)
+- Cut-out knives (Tool type: Razor knives)
+- Deburring tools (Tool type: Deburring tool)
+- Desktop computers (Tool type: Desktop computers)
+- Driving wedges (Tool type: Wedges)
+- Gasket scrapers (Tool type: Cleaning scrapers)
+- Glass cutters (Tool type: Glass cutters)
+- Glass holders (Tool type: Hold down clamps)
+- Hammers (Tool type: Hammers)
+- Hook tools (Tool type: J hooks)
+- Hot knife blades (Tool type: Knife blades)
+- Hot knives (Tool type: Utility knives)
+- Infrared digital thermometers (Tool type: Heat tracing equipment)
+- Injection syringes (Tool type: Resin guns)
+- Inspection mirrors (Tool type: Inspection mirror)
+- Knife blades (Tool type: Knife blades)
+- Lacing tools (Tool type: Trim or molding tools)
+- Long knives (Tool type: Razor knives)
+- Measuring tapes (Tool type: Tape measures)
+- Mirror bracket wrenches (Tool type: Specialty wrenches)
+- Moisture evaporators (Tool type: Power blowers)
+- Multimeters (Tool type: Multimeters)
+- Nut drivers (Tool type: Nut drivers)
+- Ohmmeters (Tool type: Ohmmeters)
+- Oscillating power knives (Tool type: Shears)
+- Personal computers (Tool type: Personal computers)
+- Phillips head screwdrivers (Tool type: Screwdrivers)
+- Pliers action clip removers (Tool type: Pullers)
+- Pneumatic windshield removal blades (Tool type: Knife blades)
+- Power caulking guns (Tool type: Power caulking guns)
+- Propane torches (Tool type: Blow torch)
+- Pry bars (Tool type: Pry bars)
+- Punches (Tool type: Punches or nail sets or drifts)
+- Ratcheting screwdrivers (Tool type: Screwdrivers)
+- Ratchets (Tool type: Ratchets)
+- Safety gloves (Tool type: Protective gloves)
+- Scribers (Tool type: Scribers)
+- Single-cut mill saw files (Tool type: Mill saw file)
+- Straightedges (Tool type: Straight edges)
+- Suction cups (Tool type: Suction cups)
+- Torx wrenches (Tool type: Torx keys)
+- Trim tools (Tool type: Trim or molding tools)
+- Ultraviolet UV curing lamps (Tool type: Ultraviolet UV lamps)
+- Ultraviolet UV lights (Tool type: Ultraviolet UV lamps)
+- Upholstery removal tools (Tool type: Pullers)
+- Urethane sealant cutout knives (Tool type: Razor knives)
+- Utility knives (Tool type: Utility knives)
+- Windshield molding removal tools (Tool type: Trim or molding tools)
+- Windshield removal power knives (Tool type: Shears)

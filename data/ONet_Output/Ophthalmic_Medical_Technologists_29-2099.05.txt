@@ -1,0 +1,149 @@
+Job Title: Ophthalmic Medical Technologists
+O*NET-SOC Code: 29-2099.05
+
+# DESCRIPTION
+Assist ophthalmologists by performing ophthalmic clinical functions and ophthalmic photography. Provide instruction and supervision to other ophthalmic personnel. Assist with minor surgical procedures, applying aseptic techniques and preparing instruments. May perform eye exams, administer eye medications, and instruct patients in care and use of corrective lenses.
+
+# TASKS
+- Conduct tonometry or tonography tests to measure intraocular pressure.
+- Take and document patients' medical histories.
+- Take anatomical or functional ocular measurements, such as axial length measurements, of the eye or surrounding tissue.
+- Measure visual acuity, including near, distance, pinhole, or dynamic visual acuity, using appropriate tests.
+- Administer topical ophthalmic or oral medications.
+- Measure and record lens power, using lensometers.
+- Calculate corrections for refractive errors.
+- Collect ophthalmic measurements or other diagnostic information, using ultrasound equipment, such as A-scan ultrasound biometry or B-scan ultrasonography equipment.
+- Perform ophthalmic triage, in the office or by phone, to assess severity of patients' conditions.
+- Clean or sterilize ophthalmic or surgical instruments.
+- Educate patients on ophthalmic medical procedures, conditions of the eye, and appropriate use of medications.
+- Conduct ocular motility tests to measure function of eye muscles.
+- Assess refractive condition of eyes, using retinoscope.
+- Conduct visual field tests to measure field of vision.
+- Measure corneal thickness, using pachymeter or contact ultrasound methods.
+- Measure corneal curvature with keratometers or ophthalmometers to aid in the diagnosis of conditions, such as astigmatism.
+- Supervise or instruct ophthalmic staff.
+- Measure the thickness of the retinal nerve, using scanning laser polarimetry techniques to aid in diagnosis of glaucoma.
+- Assist physicians in performing ophthalmic procedures, including surgery.
+- Perform fluorescein angiography of the eye.
+- Photograph patients' eye areas, using clinical photography techniques, to document retinal or corneal defects.
+- Maintain ophthalmic instruments or equipment.
+- Conduct tests, such as the Amsler Grid test, to measure central visual field used in the early diagnosis of macular degeneration, glaucoma, or diseases of the eye.
+- Conduct binocular disparity tests to assess depth perception.
+- Assess abnormalities of color vision, such as amblyopia.
+- Call patients to inquire about their post-operative status or recovery.
+- Instruct patients in the care and use of contact lenses.
+- Conduct low vision blindness tests.
+- Perform advanced ophthalmic procedures, including electrophysiological, electrophysical, or microbial procedures.
+- Perform slit lamp biomicroscopy procedures to diagnose disorders of the eye, such as retinitis, presbyopia, cataracts, or retinal detachment.
+- Create three-dimensional images of the eye, using computed tomography (CT).
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Speaking (Importance: 3.88/5 | Level: 4.0/7)
+- Active Listening (Importance: 3.88/5 | Level: 4.0/7)
+- Social Perceptiveness (Importance: 3.62/5 | Level: 3.25/7)
+- Service Orientation (Importance: 3.38/5 | Level: 3.12/7)
+- Critical Thinking (Importance: 3.25/5 | Level: 3.62/7)
+- Writing (Importance: 3.12/5 | Level: 3.5/7)
+- Coordination (Importance: 3.12/5 | Level: 3.12/7)
+- Instructing (Importance: 3.12/5 | Level: 3.0/7)
+- Reading Comprehension (Importance: 3.12/5 | Level: 3.88/7)
+- Monitoring (Importance: 3.0/5 | Level: 3.12/7)
+- Time Management (Importance: 3.0/5 | Level: 3.12/7)
+- Active Learning (Importance: 3.0/5 | Level: 3.0/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 3.12/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 3.0/7)
+- Complex Problem Solving (Importance: 3.0/5 | Level: 2.88/7)
+- Management of Personnel Resources (Importance: 2.88/5 | Level: 2.62/7)
+- Persuasion (Importance: 2.75/5 | Level: 2.75/7)
+- Mathematics (Importance: 2.62/5 | Level: 2.62/7)
+- Operations Monitoring (Importance: 2.62/5 | Level: 2.25/7)
+- Negotiation (Importance: 2.38/5 | Level: 2.12/7)
+- Systems Analysis (Importance: 2.38/5 | Level: 2.38/7)
+- Science (Importance: 2.25/5 | Level: 2.75/7)
+- Systems Evaluation (Importance: 2.12/5 | Level: 2.0/7)
+- Troubleshooting (Importance: 2.0/5 | Level: 1.5/7)
+- Operation and Control (Importance: 2.0/5 | Level: 1.88/7)
+- Quality Control Analysis (Importance: 2.0/5 | Level: 1.88/7)
+- Equipment Selection (Importance: 1.62/5 | Level: 1.25/7)
+- Programming (Importance: 1.62/5 | Level: 0.88/7)
+- Management of Financial Resources (Importance: 1.5/5 | Level: 0.5/7)
+- Repairing (Importance: 1.38/5 | Level: 0.38/7)
+- Equipment Maintenance (Importance: 1.38/5 | Level: 0.75/7)
+- Technology Design (Importance: 1.38/5 | Level: 0.38/7)
+- Management of Material Resources (Importance: 1.38/5 | Level: 0.75/7)
+- Operations Analysis (Importance: 1.12/5 | Level: 0.25/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- AcuityPro (Tech skill type: Medical software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Computer aided design and drafting CADD software (Tech skill type: Computer aided design CAD software)
+- Email software (Tech skill type: Electronic mail software)
+- EyeMD EMR Healthcare Systems EyeMD EMR (Tech skill type: Medical software)
+- ezChartWriter (Tech skill type: Medical software)
+- Hypertext preprocessor PHP (Tech skill type: Web platform development software)
+- iChartPlus (Tech skill type: Medical software)
+- JavaScript (Tech skill type: Web platform development software)
+- Medflow Complete (Tech skill type: Medical software)
+- MediPro Medisoft Clinical (Tech skill type: Medical software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft operating system (Tech skill type: Operating system software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Word (Tech skill type: Word processing software)
+- NaviNet Open (Tech skill type: Medical software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Web browser software (Tech skill type: Internet browser software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- A-scan biometers (Tool type: Ultrasonic examination equipment)
+- Amsler grids (Tool type: Eye charts or vision cards)
+- Automated lensometers (Tool type: Ophthalmic lensometers)
+- Autorefractors (Tool type: Keratometers)
+- B-Scan biometers (Tool type: Ultrasonic examination equipment)
+- Bio-microscopes (Tool type: Ultrasonic examination equipment)
+- Brightness acuity testers (Tool type: Ophthalmic spectrophotometers)
+- Color blindness tests (Tool type: Binocular vision test sets)
+- Corneal pachymeters (Tool type: Thickness measuring devices)
+- Corneal topographers (Tool type: Corneal topographers)
+- Digital pupillometers (Tool type: Opticians tools)
+- Electroretinogram equipment (Tool type: Electroretinogram systems)
+- Eye chart projectors (Tool type: Chart projectors)
+- Fundus cameras (Tool type: Photo attachments for microscopes)
+- Handheld occluders (Tool type: Eye occluders)
+- Hertel exophthalmometers (Tool type: Exophthalmometers)
+- Jaeger lid plates (Tool type: Lid plates for ophthalmic surgery)
+- Keratometers (Tool type: Keratometers)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Luedde exophthalmometers (Tool type: Exophthalmometers)
+- Maddox rods (Tool type: Eye occluders)
+- Manual blood pressure cuffs (Tool type: Mercury blood pressure units)
+- Manual lensometers (Tool type: Ophthalmic lensometers)
+- Manual pupillometers (Tool type: Opticians tools)
+- Millimeter rules (Tool type: Opticians tools)
+- Naugle exophthalmometers (Tool type: Exophthalmometers)
+- Ocular transilluminators (Tool type: Ophthalmic transilluminators)
+- Ophthalmic perimeters (Tool type: Ophthalmic perimeters)
+- Ophthalmic retinoscopes (Tool type: Ophthalmic retinoscopes)
+- Ophthalmic slit lamps (Tool type: Ophthalmic slit lamps)
+- Ophthalmic syringes (Tool type: Medical syringes with needle)
+- Ophthalmic tonographers (Tool type: Ophthalmic tonometers)
+- Ophthalmic tonometers (Tool type: Ophthalmic tonometers)
+- Ophthalmoscopes (Tool type: Ophthalmoscopes or otoscopes or scope sets)
+- Optical coherence tomography OCT scanners (Tool type: Medical computed tomography CT or CAT scanners or tubes)
+- Optokinetic drums (Tool type: Opticians tools)
+- Personal computers (Tool type: Personal computers)
+- Phoroptors (Tool type: Phoropter units)
+- Potential acuity meters (Tool type: Chart projectors)
+- Retinal tomography machines (Tool type: Medical computed tomography CT or CAT scanners or tubes)
+- Scanning laser ophthalmoscopes (Tool type: Ophthalmoscopes or otoscopes or scope sets)
+- Snellen eye charts (Tool type: Eye charts or vision cards)
+- Specular microscopes (Tool type: Corneal cameras)
+- Steam autoclaves (Tool type: Steam autoclaves or sterilizers)
+- Stereo vision tests (Tool type: Depth perception apparatus)
+- Tangent screens (Tool type: Tangent screen test objects kits)
+- Titmus vision screeners (Tool type: Vision testing stereoscopes)
+- Visual acuity cards (Tool type: Eye charts or vision cards)
+- Wavefront aberrometers (Tool type: Ophthalmic visual function analyzers)

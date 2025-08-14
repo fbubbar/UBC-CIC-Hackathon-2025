@@ -1,0 +1,186 @@
+Job Title: Telecommunications Engineering Specialists
+O*NET-SOC Code: 15-1241.01
+
+# DESCRIPTION
+Design or configure wired, wireless, and satellite communications systems for voice, video, and data services. Supervise installation, service, and maintenance.
+
+# TASKS
+- Consult with users, administrators, and engineers to identify business and technical requirements for proposed system modifications or technology purchases.
+- Implement system renovation projects in collaboration with technical staff, engineering consultants, installers, and vendors.
+- Keep abreast of changes in industry practices and emerging telecommunications technology by reviewing current literature, talking with colleagues, participating in educational programs, attending meetings or workshops, or participating in professional organizations or conferences.
+- Review and evaluate requests from engineers, managers, and technicians for system modifications.
+- Assess existing facilities' needs for new or modified telecommunications systems.
+- Develop, maintain, or implement telecommunications disaster recovery plans to ensure business continuity.
+- Communicate with telecommunications vendors to obtain pricing and technical specifications for available hardware, software, or services.
+- Inspect sites to determine physical configuration, such as device locations and conduit pathways.
+- Document procedures for hardware and software installation and use.
+- Install, or coordinate installation of, new or modified hardware, software, or programming modules of telecommunications systems.
+- Instruct in use of voice, video, and data communications systems.
+- Implement or perform preventive maintenance, backup, or recovery procedures.
+- Prepare purchase requisitions for computer hardware and software, networking and telecommunications equipment, test equipment, cabling, or tools.
+- Document technical specifications and operating standards for telecommunications equipment.
+- Provide user support by diagnosing network and device problems and implementing technical or procedural solutions.
+- Document user support activity, such as system problems, corrective actions, resolution status, and completed equipment installations.
+- Estimate costs for system or component implementation and operation.
+- Order or maintain inventory of telecommunications equipment for customer premises equipment (CPE), facilities, access networks, or backbone networks.
+- Work with personnel and facilities management staff to install, remove, or relocate user connectivity equipment and devices.
+- Use computer-aided design (CAD) software to prepare or evaluate network diagrams, floor plans, or site configurations for existing facilities, renovations, or new systems.
+- Prepare system activity and performance reports.
+- Implement controls to provide security for operating systems, software, and data.
+- Manage user access to systems and equipment through account management and password administration.
+- Test and evaluate hardware and software to determine efficiency, reliability, or compatibility with existing systems.
+- Monitor and analyze system performance, such as network traffic, security, and capacity.
+- Supervise maintenance of telecommunications equipment.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Active Listening (Importance: 3.62/5 | Level: 3.88/7)
+- Reading Comprehension (Importance: 3.62/5 | Level: 3.88/7)
+- Critical Thinking (Importance: 3.62/5 | Level: 3.75/7)
+- Active Learning (Importance: 3.38/5 | Level: 3.75/7)
+- Speaking (Importance: 3.25/5 | Level: 3.62/7)
+- Writing (Importance: 3.25/5 | Level: 3.75/7)
+- Social Perceptiveness (Importance: 3.12/5 | Level: 3.12/7)
+- Complex Problem Solving (Importance: 3.12/5 | Level: 3.38/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 3.12/7)
+- Systems Analysis (Importance: 3.12/5 | Level: 3.25/7)
+- Systems Evaluation (Importance: 3.12/5 | Level: 3.25/7)
+- Operations Monitoring (Importance: 3.12/5 | Level: 3.0/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.12/7)
+- Service Orientation (Importance: 3.0/5 | Level: 3.0/7)
+- Coordination (Importance: 3.0/5 | Level: 3.38/7)
+- Quality Control Analysis (Importance: 3.0/5 | Level: 3.0/7)
+- Persuasion (Importance: 3.0/5 | Level: 3.12/7)
+- Mathematics (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 3.0/7)
+- Troubleshooting (Importance: 2.88/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 2.88/5 | Level: 2.88/7)
+- Equipment Maintenance (Importance: 2.75/5 | Level: 2.62/7)
+- Instructing (Importance: 2.75/5 | Level: 3.0/7)
+- Negotiation (Importance: 2.75/5 | Level: 2.75/7)
+- Technology Design (Importance: 2.62/5 | Level: 2.75/7)
+- Management of Personnel Resources (Importance: 2.62/5 | Level: 2.88/7)
+- Equipment Selection (Importance: 2.5/5 | Level: 2.25/7)
+- Repairing (Importance: 2.5/5 | Level: 2.25/7)
+- Programming (Importance: 2.38/5 | Level: 2.0/7)
+- Management of Material Resources (Importance: 2.38/5 | Level: 2.38/7)
+- Operations Analysis (Importance: 2.25/5 | Level: 2.25/7)
+- Management of Financial Resources (Importance: 2.25/5 | Level: 2.12/7)
+- Installation (Importance: 2.12/5 | Level: 1.75/7)
+- Operation and Control (Importance: 2.12/5 | Level: 2.12/7)
+- Science (Importance: 1.88/5 | Level: 1.38/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- 2AB iLock Security Services (Tech skill type: Access software)
+- Access management software (Tech skill type: Access software)
+- Antivirus software (Tech skill type: Transaction security and virus protection software)
+- Apache Kafka (Tech skill type: Development environment software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Avaya Identity Engines (Tech skill type: Access software)
+- Call accounting software (Tech skill type: Helpdesk or call center software)
+- Cisco Systems Cisco Traffic Analyzer (Tech skill type: Network monitoring software)
+- Computer aided design CAD software (Tech skill type: Computer aided design CAD software)
+- Firewall software (Tech skill type: Network security and virtual private network VPN equipment software)
+- IBM Domino (Tech skill type: Communications server software)
+- IBM Lotus 1-2-3 (Tech skill type: Spreadsheet software)
+- IBM Notes (Tech skill type: Electronic mail software)
+- IBM Rational Requirements Composer (Tech skill type: Requirements analysis and system architecture software)
+- Interactive voice response software (Tech skill type: Interactive voice response software)
+- KornShell (Tech skill type: Operating system software)
+- Linux (Tech skill type: Operating system software)
+- McAfee (Tech skill type: Transaction security and virus protection software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Exchange (Tech skill type: Electronic mail software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft PowerShell (Tech skill type: Development environment software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft SQL Server (Tech skill type: Data base user interface and query software)
+- Microsoft Teams (Tech skill type: Project management software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Visual Basic Scripting Edition VBScript (Tech skill type: Development environment software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Windows Server (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Nagios (Tech skill type: Network monitoring software)
+- Network management software (Tech skill type: Administration software)
+- NortonLifeLock cybersecurity software (Tech skill type: Transaction security and virus protection software)
+- NovaStor NovaBACKUP (Tech skill type: Backup or archival software)
+- Operating system software (Tech skill type: Operating system software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- Perl (Tech skill type: Object or component oriented development software)
+- Project scheduling software (Tech skill type: Project management software)
+- Python (Tech skill type: Object or component oriented development software)
+- Requirements analysis software (Tech skill type: Requirements analysis and system architecture software)
+- Shell script (Tech skill type: Operating system software)
+- SiteMaster SiteSmart (Tech skill type: Data base user interface and query software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Supervisory control and data acquisition SCADA software (Tech skill type: Industrial control software)
+- UNIX (Tech skill type: Operating system software)
+- Virtual private networking VPN software (Tech skill type: Network security or virtual private network VPN management software)
+- Voice over internet protocol VoIP system software (Tech skill type: Internet protocol IP multimedia subsystem software)
+- Web browser software (Tech skill type: Internet browser software)
+- Web design software (Tech skill type: Web page creation and editing software)
+- Wireshark (Tech skill type: Network monitoring software)
+- Zmanda Amanda (Tech skill type: Backup or archival software)
+
+## TOOLS USED
+- Aerial bucket trucks (Tool type: Articulating boom lift)
+- Amplifier probes (Tool type: Current sensors)
+- Cable analyzers (Tool type: Network analyzers)
+- Cable cutters (Tool type: Wire or cable cutter)
+- Cable plows (Tool type: Trenching machines)
+- Cable tie guns (Tool type: Banders)
+- Circuit testers (Tool type: Circuit tester)
+- Coaxial cable testers (Tool type: Voltage or current meters)
+- Combo crimping tools (Tool type: Wire lug crimping tool)
+- Compaction tampers (Tool type: Tampers)
+- Computer servers (Tool type: Computer servers)
+- Continuity testers (Tool type: Circuit tester)
+- Digger derricks (Tool type: Derricks)
+- Digital power meters (Tool type: Power meters)
+- Electricity monitors (Tool type: Power meters)
+- Fiber optic cable splicers (Tool type: Cable splicing kits)
+- Fiber optic cable strippers (Tool type: Stripping tools)
+- Fiber optic fault locators (Tool type: Fiber optic fault locators)
+- Fiber optic fusion splicers (Tool type: Cable splicing kits)
+- Fiber optic power meters (Tool type: Power meters)
+- Fiber optic strippers (Tool type: Stripping tools)
+- Fiber optic tweezers (Tool type: Tweezers)
+- Fiber scribes (Tool type: Stripping tools)
+- Field inspection microscopes (Tool type: Binocular light compound microscopes)
+- Fish tapes (Tool type: Fish tape)
+- Flat head screwdrivers (Tool type: Screwdrivers)
+- Infrared fiber meters (Tool type: Power meters)
+- Infrared thermometers (Tool type: Heat tracing equipment)
+- Insulation resistance testers (Tool type: Insulation resistance meters)
+- Jack termination tools (Tool type: Wire cutters)
+- Laser printers (Tool type: Laser printers)
+- Local area network LAN analyzers (Tool type: Network analyzers)
+- Multimeters (Tool type: Multimeters)
+- Nut drivers (Tool type: Nut drivers)
+- Open end wrenches (Tool type: Open end wrenches)
+- Optical power meters (Tool type: Power meters)
+- Optical time domain reflectometers OTDR (Tool type: Reflectometers)
+- Personal computers (Tool type: Personal computers)
+- Phillips head screwdrivers (Tool type: Screwdrivers)
+- Pipe benders (Tool type: Pipe bending tools)
+- Polarity testers (Tool type: Multimeters)
+- Portable drills (Tool type: Power drills)
+- Power saws (Tool type: Power saws)
+- Punch down insertion tools (Tool type: Insertion tool)
+- Radio interference detection RID devices (Tool type: Proximity sensors)
+- Scanners (Tool type: Scanners)
+- Soldering irons (Tool type: Soldering iron)
+- Spectrum analyzers (Tool type: Frequency analyzers)
+- Tone generators (Tool type: Signal generators)
+- Tone test sets (Tool type: Signal generators)
+- Trenchers (Tool type: Trenching machines)
+- Voltage testers (Tool type: Voltage or current meters)
+- Winches (Tool type: Winches)
+- Wire locators (Tool type: Electrical power sensors)
+- Wire mappers (Tool type: Voltage or current meters)
+- Wire pullers (Tool type: Fish tape)
+- Wire wrap guns (Tool type: Wire wrapping tool)

@@ -1,0 +1,107 @@
+Job Title: Mixing and Blending Machine Setters, Operators, and Tenders
+O*NET-SOC Code: 51-9023.00
+
+# DESCRIPTION
+Set up, operate, or tend machines to mix or blend materials, such as chemicals, tobacco, liquids, color pigments, or explosive ingredients.
+
+# TASKS
+- Weigh or measure materials, ingredients, or products to ensure conformance to requirements.
+- Read work orders to determine production specifications or information.
+- Observe production or monitor equipment to ensure safe and efficient operation.
+- Mix or blend ingredients by starting machines and mixing for specified times.
+- Stop mixing or blending machines when specified product qualities are obtained and open valves and start pumps to transfer mixtures.
+- Compound or process ingredients or dyes, according to formulas.
+- Examine materials, ingredients, or products visually or with hands to ensure conformance to established standards.
+- Operate or tend machines to mix or blend any of a wide variety of materials, such as spices, dough batter, tobacco, fruit juices, chemicals, livestock feed, food products, color pigments, or explosive ingredients.
+- Dump or pour specified amounts of materials into machinery or equipment.
+- Record operational or production data on specified forms.
+- Collect samples of materials or products for laboratory testing.
+- Unload mixtures into containers or onto conveyors for further processing.
+- Clean work areas.
+- Add or mix chemicals or ingredients for processing, using hand tools or other devices.
+- Tend accessory equipment, such as pumps or conveyors, to move materials or ingredients through production processes.
+- Transfer materials, supplies, or products between work areas, using moving equipment or hand tools.
+- Clean and maintain equipment, using hand tools.
+- Dislodge and clear jammed materials or other items from machinery or equipment, using hand tools.
+- Test samples of materials or products to ensure compliance with specifications, using test equipment.
+- Open valves to drain slurry from mixers into storage tanks.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operation and Control (Importance: 3.62/5 | Level: 3.12/7)
+- Operations Monitoring (Importance: 3.62/5 | Level: 3.25/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.12/7)
+- Troubleshooting (Importance: 3.12/5 | Level: 2.88/7)
+- Critical Thinking (Importance: 3.12/5 | Level: 2.88/7)
+- Equipment Maintenance (Importance: 3.12/5 | Level: 3.0/7)
+- Time Management (Importance: 3.12/5 | Level: 3.0/7)
+- Repairing (Importance: 3.12/5 | Level: 3.0/7)
+- Reading Comprehension (Importance: 3.12/5 | Level: 3.0/7)
+- Quality Control Analysis (Importance: 3.12/5 | Level: 3.0/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Speaking (Importance: 3.0/5 | Level: 2.75/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 2.62/7)
+- Active Listening (Importance: 2.88/5 | Level: 2.88/7)
+- Active Learning (Importance: 2.75/5 | Level: 2.5/7)
+- Writing (Importance: 2.75/5 | Level: 2.62/7)
+- Complex Problem Solving (Importance: 2.75/5 | Level: 2.38/7)
+- Learning Strategies (Importance: 2.62/5 | Level: 2.38/7)
+- Systems Analysis (Importance: 2.62/5 | Level: 2.25/7)
+- Social Perceptiveness (Importance: 2.62/5 | Level: 2.62/7)
+- Mathematics (Importance: 2.38/5 | Level: 2.25/7)
+- Instructing (Importance: 2.12/5 | Level: 2.25/7)
+- Systems Evaluation (Importance: 2.12/5 | Level: 2.0/7)
+- Equipment Selection (Importance: 2.12/5 | Level: 2.0/7)
+- Service Orientation (Importance: 2.0/5 | Level: 2.0/7)
+- Management of Personnel Resources (Importance: 2.0/5 | Level: 2.0/7)
+- Persuasion (Importance: 1.88/5 | Level: 1.75/7)
+- Negotiation (Importance: 1.88/5 | Level: 1.75/7)
+- Science (Importance: 1.88/5 | Level: 1.75/7)
+- Management of Material Resources (Importance: 1.62/5 | Level: 0.75/7)
+- Programming (Importance: 1.38/5 | Level: 0.38/7)
+- Management of Financial Resources (Importance: 1.38/5 | Level: 0.38/7)
+- Technology Design (Importance: 1.38/5 | Level: 0.38/7)
+- Installation (Importance: 1.12/5 | Level: 0.12/7)
+- Operations Analysis (Importance: 1.12/5 | Level: 0.12/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Email software (Tech skill type: Electronic mail software)
+- Enterprise resource planning ERP software (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Operational databases (Tech skill type: Data base user interface and query software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Adjustable wrenches (Tool type: Adjustable wrenches)
+- Claw hammers (Tool type: Claw hammer)
+- Desktop computers (Tool type: Desktop computers)
+- Dollies (Tool type: Dollies)
+- Forklifts (Tool type: Forklifts)
+- Gram scales (Tool type: Bench scales)
+- Handtrucks (Tool type: Hand trucks or accessories)
+- Hydraulic lifts (Tool type: Lifts)
+- Hydrometers (Tool type: Hydrometers)
+- Locking pliers (Tool type: Locking pliers)
+- Measuring sticks (Tool type: Depth indicators)
+- Overhead cranes (Tool type: Track cranes)
+- Pallet movers (Tool type: Pallet trucks)
+- Personal computers (Tool type: Personal computers)
+- pH indicators (Tool type: pH meters)
+- Phillips head screwdrivers (Tool type: Screwdrivers)
+- Platform scales (Tool type: Floor or platform scales)
+- Power drills (Tool type: Power drills)
+- Remote reading electronic thermometers (Tool type: Remote reading thermometers)
+- Safety gloves (Tool type: Protective gloves)
+- Safety goggles (Tool type: Goggles)
+- Safety masks (Tool type: Masks or accessories)
+- Steam cleaning equipment (Tool type: Pressure or steam cleaners)
+- Straight screwdrivers (Tool type: Screwdrivers)
+- Tuggers (Tool type: Hoists)
+- Viscosity meters (Tool type: Viscosimeters)
+- Wire brushes (Tool type: Wire brushes)

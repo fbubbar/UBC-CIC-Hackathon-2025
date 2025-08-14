@@ -1,0 +1,131 @@
+Job Title: Home Appliance Repairers
+O*NET-SOC Code: 49-9031.00
+
+# DESCRIPTION
+Repair, adjust, or install all types of electric or gas household appliances, such as refrigerators, washers, dryers, and ovens.
+
+# TASKS
+- Bill customers for repair work, and collect payment.
+- Observe and examine appliances during operation to detect specific malfunctions such as loose parts or leaking fluid.
+- Talk to customers or refer to work orders to establish the nature of appliance malfunctions.
+- Refer to schematic drawings, product manuals, and troubleshooting guides to diagnose and repair problems.
+- Trace electrical circuits, following diagrams, and conduct tests with circuit testers and other equipment to locate shorts and grounds.
+- Replace worn and defective parts such as switches, bearings, transmissions, belts, gears, circuit boards, or defective wiring.
+- Provide repair cost estimates, and recommend whether appliance repair or replacement is a better choice.
+- Disassemble appliances so that problems can be diagnosed and repairs can be made.
+- Respond to emergency calls for problems such as gas leaks.
+- Service and repair domestic electrical or gas appliances, such as clothes washers, refrigerators, stoves, and dryers.
+- Reassemble units after repairs are made, making adjustments and cleaning and lubricating parts as needed.
+- Record maintenance and repair work performed on appliances.
+- Test and examine gas pipelines and equipment to locate leaks and faulty connections, and to determine the pressure and flow of gas.
+- Light and adjust pilot lights on gas stoves, and examine valves and burners for gas leakage and specified flame.
+- Instruct customers regarding operation and care of appliances, and provide information such as emergency service numbers.
+- Contact supervisors or offices to receive repair assignments.
+- Maintain stocks of parts used in on-site installation, maintenance, and repair of appliances.
+- Level refrigerators, adjust doors, and connect water lines to water pipes for ice makers and water dispensers, using hand tools.
+- Observe and test operation of appliances following installation, and make any initial installation adjustments that are necessary.
+- Set appliance thermostats, and check to ensure that they are functioning properly.
+- Install appliances such as refrigerators, washing machines, and stoves.
+- Level washing machines and connect hoses to water pipes, using hand tools.
+- Clean and reinstall parts.
+- Clean, lubricate, and touch up minor defects on newly installed or repaired appliances.
+- Conserve, recover, and recycle refrigerants used in cooling systems.
+- Install gas pipes and water lines to connect appliances to existing gas lines or plumbing.
+- Take measurements to determine if appliances will fit in installation locations, performing minor carpentry work when necessary to ensure proper installation.
+- Measure, cut, and thread pipe, and connect it to feeder lines and equipment or appliances, using rules and hand tools.
+- Assemble new or reconditioned appliances.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Repairing (Importance: 3.88/5 | Level: 3.88/7)
+- Critical Thinking (Importance: 3.75/5 | Level: 3.25/7)
+- Troubleshooting (Importance: 3.62/5 | Level: 3.62/7)
+- Equipment Maintenance (Importance: 3.62/5 | Level: 3.12/7)
+- Speaking (Importance: 3.5/5 | Level: 3.0/7)
+- Quality Control Analysis (Importance: 3.5/5 | Level: 3.62/7)
+- Operations Monitoring (Importance: 3.5/5 | Level: 3.25/7)
+- Active Listening (Importance: 3.38/5 | Level: 3.12/7)
+- Complex Problem Solving (Importance: 3.12/5 | Level: 3.0/7)
+- Reading Comprehension (Importance: 3.12/5 | Level: 2.88/7)
+- Equipment Selection (Importance: 3.0/5 | Level: 2.88/7)
+- Installation (Importance: 3.0/5 | Level: 2.38/7)
+- Time Management (Importance: 3.0/5 | Level: 3.0/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 3.0/7)
+- Service Orientation (Importance: 3.0/5 | Level: 2.88/7)
+- Active Learning (Importance: 2.88/5 | Level: 2.25/7)
+- Operation and Control (Importance: 2.88/5 | Level: 3.0/7)
+- Monitoring (Importance: 2.88/5 | Level: 2.88/7)
+- Writing (Importance: 2.75/5 | Level: 2.75/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 2.75/7)
+- Persuasion (Importance: 2.75/5 | Level: 2.12/7)
+- Coordination (Importance: 2.75/5 | Level: 2.75/7)
+- Systems Analysis (Importance: 2.62/5 | Level: 2.12/7)
+- Management of Personnel Resources (Importance: 2.5/5 | Level: 2.12/7)
+- Instructing (Importance: 2.25/5 | Level: 2.5/7)
+- Systems Evaluation (Importance: 2.25/5 | Level: 2.0/7)
+- Negotiation (Importance: 2.25/5 | Level: 2.12/7)
+- Learning Strategies (Importance: 2.12/5 | Level: 2.12/7)
+- Management of Material Resources (Importance: 2.12/5 | Level: 1.75/7)
+- Mathematics (Importance: 2.12/5 | Level: 2.0/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.25/7)
+- Operations Analysis (Importance: 1.88/5 | Level: 1.62/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.0/7)
+- Science (Importance: 1.75/5 | Level: 1.25/7)
+- Programming (Importance: 1.62/5 | Level: 0.62/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- dESCO ESC (Tech skill type: Data base user interface and query software)
+- Intac International Wintac (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Parts database software (Tech skill type: Data base user interface and query software)
+- RazorSync (Tech skill type: Data base user interface and query software)
+- Route mapping software (Tech skill type: Route navigation software)
+- ServiceMax (Tech skill type: Data base user interface and query software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Appliance dollies (Tool type: Dollies)
+- Bearing removers (Tool type: Bearing fitting tool kits)
+- Carbon monoxide detectors (Tool type: Carbon monoxide analyzer)
+- Charging hoses (Tool type: Chemical hose)
+- Combustible gas detectors (Tool type: Explosimeters)
+- Condenser brushes (Tool type: Tube brushes)
+- Cordless drills (Tool type: Power drills)
+- Digital multimeters (Tool type: Multimeters)
+- Digital vacuum gauges (Tool type: Vacuum gauges)
+- Dual temperature heat guns (Tool type: Heat guns)
+- Flat cold chisels (Tool type: Cold chisels)
+- Folding hand trucks (Tool type: Hand trucks or accessories)
+- Folding utility knives (Tool type: Utility knives)
+- Hex key sets (Tool type: Hex keys)
+- Hose clamp pliers (Tool type: Locking pliers)
+- Laptop computers (Tool type: Notebook computers)
+- Leak detectors (Tool type: Leak testing equipment)
+- Mechanic's stethoscopes (Tool type: Acoustic sensors)
+- Mini tubing cutters (Tool type: Pipe or tube cutter)
+- Multipurpose screwdrivers (Tool type: Screwdrivers)
+- Multipurpose spanners (Tool type: Spanner wrenches)
+- Portable point of sale terminals (Tool type: Electronic funds transfer point of sale equipment)
+- Precision needle files (Tool type: Precision file)
+- Ratchets (Tool type: Ratchets)
+- Refrigerant recovery units (Tool type: Refrigerant compressors)
+- Sealed burner wrenches (Tool type: Specialty wrenches)
+- Smart phones (Tool type: Mobile phones)
+- Snap-ring pliers (Tool type: Retaining ring pliers)
+- Socket adapters (Tool type: Socket attachments and accessories)
+- Socket extensions (Tool type: Socket attachments and accessories)
+- Socket wrench sets (Tool type: Socket sets)
+- Solder guns (Tool type: Soldering iron)
+- Spanner nut wrenches (Tool type: Specialty wrenches)
+- Stick welders (Tool type: Shielded metal arc welding or stick welding machine)
+- Tablet computers (Tool type: Tablet computers)
+- Telescoping inspection mirrors (Tool type: Inspection mirror)
+- Temperature recorders (Tool type: Temperature gauge)
+- Test charging manifolds (Tool type: Gas gauges)
+- Vacuum pumps (Tool type: Vacuum pumps)
+- Vent brushes (Tool type: Cleaning brushes)
+- Work vans (Tool type: Minivans or vans)

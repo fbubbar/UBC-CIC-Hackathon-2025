@@ -1,0 +1,91 @@
+Job Title: Massage Therapists
+O*NET-SOC Code: 31-9011.00
+
+# DESCRIPTION
+Perform therapeutic massages of soft tissues and joints. May assist in the assessment of range of motion and muscle strength, or propose client therapy plans.
+
+# TASKS
+- Confer with clients about their medical histories and problems with stress or pain to determine how massage will be most helpful.
+- Massage and knead muscles and soft tissues of the body to provide treatment for medical conditions, injuries, or wellness maintenance.
+- Maintain massage areas by restocking supplies or sanitizing equipment.
+- Apply finger and hand pressure to specific points of the body.
+- Develop and propose client treatment plans that specify which types of massage are to be used.
+- Maintain treatment records.
+- Assess clients' soft tissue condition, joint quality and function, muscle strength, and range of motion.
+- Provide clients with guidance and information about techniques for postural improvement and stretching, strengthening, relaxation, and rehabilitative exercises.
+- Treat clients in professional settings or travel to clients' offices and homes.
+- Refer clients to other types of therapists when necessary.
+- Prepare and blend oils and apply the blends to clients' skin.
+- Consult with other health care professionals, such as physiotherapists, chiropractors, physicians, and psychologists, to develop treatment plans for clients.
+- Perform other adjunctive therapies or treatment techniques in addition to massage.
+- Use complementary aids, such as infrared lamps, wet compresses, ice, and whirlpool baths to promote clients' recovery, relaxation, and well-being.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Speaking (Importance: 3.62/5 | Level: 3.62/7)
+- Active Listening (Importance: 3.62/5 | Level: 3.25/7)
+- Social Perceptiveness (Importance: 3.25/5 | Level: 3.25/7)
+- Service Orientation (Importance: 3.25/5 | Level: 3.12/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 2.88/7)
+- Active Learning (Importance: 3.0/5 | Level: 3.0/7)
+- Reading Comprehension (Importance: 3.0/5 | Level: 3.12/7)
+- Monitoring (Importance: 3.0/5 | Level: 3.0/7)
+- Writing (Importance: 3.0/5 | Level: 2.88/7)
+- Complex Problem Solving (Importance: 3.0/5 | Level: 2.75/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 3.25/7)
+- Time Management (Importance: 2.88/5 | Level: 2.38/7)
+- Learning Strategies (Importance: 2.75/5 | Level: 2.88/7)
+- Coordination (Importance: 2.38/5 | Level: 1.88/7)
+- Instructing (Importance: 2.25/5 | Level: 2.25/7)
+- Systems Evaluation (Importance: 2.25/5 | Level: 2.38/7)
+- Systems Analysis (Importance: 2.12/5 | Level: 2.12/7)
+- Mathematics (Importance: 2.0/5 | Level: 1.5/7)
+- Negotiation (Importance: 2.0/5 | Level: 1.75/7)
+- Persuasion (Importance: 2.0/5 | Level: 1.62/7)
+- Technology Design (Importance: 1.75/5 | Level: 1.12/7)
+- Science (Importance: 1.75/5 | Level: 1.0/7)
+- Quality Control Analysis (Importance: 1.75/5 | Level: 1.0/7)
+- Management of Personnel Resources (Importance: 1.75/5 | Level: 0.88/7)
+- Operations Analysis (Importance: 1.62/5 | Level: 1.25/7)
+- Management of Material Resources (Importance: 1.62/5 | Level: 0.88/7)
+- Operations Monitoring (Importance: 1.38/5 | Level: 0.5/7)
+- Management of Financial Resources (Importance: 1.38/5 | Level: 0.5/7)
+- Troubleshooting (Importance: 1.38/5 | Level: 0.38/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Operation and Control (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- AppointmentQuest Online Appointment Manager (Tech skill type: Calendar and scheduling software)
+- ICS Software SammyUSA (Tech skill type: Medical software)
+- Land Software Customer Pro-File (Tech skill type: Medical software)
+- Massage Suite (Tech skill type: Medical software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Scheduling software (Tech skill type: Calendar and scheduling software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- WinCity Custom Software WinCity Massage SOAP Notes (Tech skill type: Medical software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Bath robes (Tool type: Bath robes)
+- Body lotions (Tool type: Hand or body lotion or oil)
+- Bolsters (Tool type: Balance beams or boards or bolsters or rockers for rehabilitation or therapy)
+- Cold packs (Tool type: Therapeutic heating or cooling pads or compresses or packs)
+- Cupping sets (Tool type: Therapeutic heating or cooling pads or compresses or packs)
+- Desktop computers (Tool type: Desktop computers)
+- Heat lamps (Tool type: Medical heat lamps)
+- Hot packs (Tool type: Therapeutic heating or cooling pads or compresses or packs)
+- Hydrotherapy equipment (Tool type: Full body immersion hydrotherapy baths or tanks)
+- Massage chairs (Tool type: Mats or platforms for rehabilitation or therapy)
+- Massage stone sets (Tool type: Therapeutic heating or cooling pads or compresses or packs)
+- Massage stools (Tool type: Mats or platforms for rehabilitation or therapy)
+- Mechanical vibrating massage devices (Tool type: Electric vibrators for rehabilitation or therapy)
+- Notebook computers (Tool type: Notebook computers)
+- Personal computers (Tool type: Personal computers)
+- Portable massage tables (Tool type: Mats or platforms for rehabilitation or therapy)
+- Steam cabinets (Tool type: Therapeutic heating or cooling units or systems)
+- Treatment tables (Tool type: Mats or platforms for rehabilitation or therapy)

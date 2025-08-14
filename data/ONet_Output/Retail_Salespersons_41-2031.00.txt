@@ -1,0 +1,175 @@
+Job Title: Retail Salespersons
+O*NET-SOC Code: 41-2031.00
+
+# DESCRIPTION
+Sell merchandise, such as furniture, motor vehicles, appliances, or apparel to consumers.
+
+# TASKS
+- Greet customers and ascertain what each customer wants or needs.
+- Recommend, select, and help locate or obtain merchandise based on customer needs and desires.
+- Compute sales prices, total purchases, and receive and process cash or credit payment.
+- Prepare merchandise for purchase or rental.
+- Answer questions regarding the store and its merchandise.
+- Maintain knowledge of current sales and promotions, policies regarding payment and exchanges, and security practices.
+- Demonstrate use or operation of merchandise.
+- Describe merchandise and explain use, operation, and care of merchandise to customers.
+- Ticket, arrange, and display merchandise to promote sales.
+- Inventory stock and requisition new stock.
+- Exchange merchandise for customers and accept returns.
+- Watch for and recognize security risks and thefts and know how to prevent or handle these situations.
+- Place special orders or call other stores to find desired items.
+- Clean shelves, counters, and tables.
+- Maintain records related to sales.
+- Open and close cash registers, performing tasks such as counting money, separating charge slips, coupons, and vouchers, balancing cash drawers, and making deposits.
+- Prepare sales slips or sales contracts.
+- Estimate and quote trade-in allowances.
+- Bag or package purchases and wrap gifts.
+- Help customers try on or fit merchandise.
+- Sell or arrange for delivery, insurance, financing, or service contracts for merchandise.
+- Estimate quantity and cost of merchandise required, such as paint or floor covering.
+- Rent merchandise to customers.
+- Estimate cost of repair or alteration of merchandise.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Persuasion (Importance: 3.88/5 | Level: 4.0/7)
+- Speaking (Importance: 3.75/5 | Level: 3.12/7)
+- Service Orientation (Importance: 3.75/5 | Level: 3.88/7)
+- Active Listening (Importance: 3.75/5 | Level: 3.75/7)
+- Social Perceptiveness (Importance: 3.5/5 | Level: 3.12/7)
+- Negotiation (Importance: 3.5/5 | Level: 3.75/7)
+- Critical Thinking (Importance: 3.12/5 | Level: 3.12/7)
+- Active Learning (Importance: 3.0/5 | Level: 2.88/7)
+- Monitoring (Importance: 3.0/5 | Level: 3.12/7)
+- Time Management (Importance: 3.0/5 | Level: 2.88/7)
+- Reading Comprehension (Importance: 3.0/5 | Level: 3.12/7)
+- Writing (Importance: 3.0/5 | Level: 3.0/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Judgment and Decision Making (Importance: 2.88/5 | Level: 2.75/7)
+- Instructing (Importance: 2.88/5 | Level: 2.75/7)
+- Complex Problem Solving (Importance: 2.75/5 | Level: 2.5/7)
+- Mathematics (Importance: 2.62/5 | Level: 2.0/7)
+- Learning Strategies (Importance: 2.62/5 | Level: 2.25/7)
+- Management of Personnel Resources (Importance: 2.38/5 | Level: 2.12/7)
+- Management of Financial Resources (Importance: 2.12/5 | Level: 1.25/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.0/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 2.0/7)
+- Systems Analysis (Importance: 2.0/5 | Level: 1.88/7)
+- Operation and Control (Importance: 2.0/5 | Level: 1.38/7)
+- Quality Control Analysis (Importance: 2.0/5 | Level: 1.25/7)
+- Operations Monitoring (Importance: 2.0/5 | Level: 1.5/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.0/7)
+- Troubleshooting (Importance: 1.75/5 | Level: 0.88/7)
+- Operations Analysis (Importance: 1.5/5 | Level: 0.62/7)
+- Programming (Importance: 1.25/5 | Level: 0.25/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adobe Acrobat (Tech skill type: Document management software)
+- Adobe Creative Cloud software (Tech skill type: Graphics or photo imaging software)
+- Adobe Illustrator (Tech skill type: Graphics or photo imaging software)
+- Adobe InDesign (Tech skill type: Desktop publishing software)
+- Adobe Photoshop (Tech skill type: Graphics or photo imaging software)
+- Advanced Retail Management Systems Retail Pro (Tech skill type: Point of sale POS software)
+- American Precision Instruments Regit (Tech skill type: Point of sale POS software)
+- Apple macOS (Tech skill type: Operating system software)
+- ASI Point of Sale (Tech skill type: Point of sale POS software)
+- Attitude POS itive AccuPOS Retail (Tech skill type: Point of sale POS software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Bibase 4POS Retail (Tech skill type: Point of sale POS software)
+- Blink (Tech skill type: Instant messaging software)
+- CAP Automation SellWise (Tech skill type: Point of sale POS software)
+- Comcash ERP (Tech skill type: Point of sale POS software)
+- CompuTant CounterPoint (Tech skill type: Point of sale POS software)
+- CyberMatrix (Tech skill type: Point of sale POS software)
+- Data entry software (Tech skill type: Data base user interface and query software)
+- Database software (Tech skill type: Data base user interface and query software)
+- Datasym SYMFINITE (Tech skill type: Point of sale POS software)
+- Eclipse IDE (Tech skill type: Development environment software)
+- Exact business software (Tech skill type: Human resources software)
+- EZ Software Solutions (Tech skill type: Point of sale POS software)
+- Facebook (Tech skill type: Web page creation and editing software)
+- FileMaker Pro (Tech skill type: Data base user interface and query software)
+- Gift registry software (Tech skill type: Data base user interface and query software)
+- Google Docs (Tech skill type: Word processing software)
+- Google Drive (Tech skill type: Cloud-based data access and sharing software)
+- Google Meet (Tech skill type: Video conferencing software)
+- GroupMe (Tech skill type: Instant messaging software)
+- Handheld computer device software (Tech skill type: Operating system software)
+- IBM Notes (Tech skill type: Electronic mail software)
+- Infocorp Computer Solutions $mart System (Tech skill type: Point of sale POS software)
+- Infocorp Softwear/POS (Tech skill type: Point of sale POS software)
+- Internet browser software (Tech skill type: Internet browser software)
+- Intuit QuickBooks (Tech skill type: Accounting software)
+- Inventory management systems (Tech skill type: Inventory management software)
+- iQmetrix RQ4 Retail Management System (Tech skill type: Point of sale POS software)
+- LinkedIn (Tech skill type: Web page creation and editing software)
+- LOB RetailPoint (Tech skill type: Point of sale POS software)
+- Logisoft Positive Pos System (Tech skill type: Point of sale POS software)
+- ManageMore Cellular Manager (Tech skill type: Point of sale POS software)
+- Master Merchant Systems Music Store (Tech skill type: Point of sale POS software)
+- MicroBiz (Tech skill type: Point of sale POS software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Dynamics (Tech skill type: Customer relationship management CRM software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Millennium Software Atrex (Tech skill type: Point of sale POS software)
+- Oracle PeopleSoft (Tech skill type: Enterprise resource planning ERP software)
+- Plexis Software Plexis POS (Tech skill type: Point of sale POS software)
+- Point of sale POS bookstore software (Tech skill type: Point of sale POS software)
+- Point of sale POS parts and services software (Tech skill type: Point of sale POS software)
+- Point of sale POS software (Tech skill type: Point of sale POS software)
+- RiscStation POSSum (Tech skill type: Point of sale POS software)
+- Sage 50 Accounting (Tech skill type: Accounting software)
+- Sage 50 Accounting Software (Tech skill type: Point of sale POS software)
+- Salesforce software (Tech skill type: Customer relationship management CRM software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- SBS Keystroke (Tech skill type: Point of sale POS software)
+- Semicron Systems (Tech skill type: Point of sale POS software)
+- SmugMug Flickr (Tech skill type: Graphics or photo imaging software)
+- Social media sites (Tech skill type: Web page creation and editing software)
+- Softpedia ShopInvo (Tech skill type: Point of sale POS software)
+- System3 POS software (Tech skill type: Point of sale POS software)
+- The General Store (Tech skill type: Point of sale POS software)
+- The Retail Solution (Tech skill type: Point of sale POS software)
+- TokenWorks Magnetic Card Reader (Tech skill type: Point of sale POS software)
+- True North Computer Retail Plus (Tech skill type: Point of sale POS software)
+- VeriFone PC Charge Pro (Tech skill type: Point of sale POS software)
+- Vigilant (Tech skill type: Point of sale POS software)
+- Visual Retail Plus (Tech skill type: Point of sale POS software)
+- WinMan SureSell (Tech skill type: Point of sale POS software)
+- YouTube (Tech skill type: Video creation and editing software)
+
+## TOOLS USED
+- Adjustable widemouth pliers (Tool type: Adjustable widemouth pliers)
+- Adjustable wrenches (Tool type: Adjustable wrenches)
+- Barcode scanners (Tool type: Bar code reader equipment)
+- Cash registers (Tool type: Cash registers)
+- Clothing irons (Tool type: Domestic clothing irons)
+- Clothing steamers (Tool type: Garment steamer)
+- Computerized cash registers (Tool type: Cash registers)
+- Credit card processing machines (Tool type: Magnetic stripe readers and encoders)
+- Desktop computers (Tool type: Desktop computers)
+- Electronic funds transfer EFT terminals (Tool type: Electronic funds transfer point of sale equipment)
+- Gas consoles (Tool type: Fluid regulators)
+- Hammers (Tool type: Hammers)
+- Handheld calculators (Tool type: Pocket calculator)
+- Ladders (Tool type: Ladders)
+- Lottery machines (Tool type: Ticket dispensing machines)
+- Magnetic card readers (Tool type: Magnetic stripe readers and encoders)
+- Personal computers (Tool type: Personal computers)
+- Point of sale POS computer terminals (Tool type: Point of sale POS terminal)
+- Price guns (Tool type: Label dispensers)
+- Screwdrivers (Tool type: Screwdrivers)
+- Sewing machines (Tool type: Domestic sewing machines)
+- Tape measures (Tool type: Tape measures)
+- Telecheck processing terminals (Tool type: Point of sale payment terminal)

@@ -1,0 +1,125 @@
+Job Title: Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters
+O*NET-SOC Code: 47-3011.00
+
+# DESCRIPTION
+Help brickmasons, blockmasons, stonemasons, or tile and marble setters by performing duties requiring less skill. Duties include using, supplying, or holding materials or tools, and cleaning work area and equipment.
+
+# TASKS
+- Mix mortar, plaster, and grout, manually or using machines, according to standard formulas.
+- Erect scaffolding or other installation structures.
+- Cut materials to specified sizes for installation, using power saws or tile cutters.
+- Modify material moving, mixing, grouting, grinding, polishing, or cleaning procedures, according to installation or material requirements.
+- Transport materials, tools, or machines to installation sites, manually or using conveyance equipment.
+- Provide assistance in the preparation, installation, repair, or rebuilding of tile, brick, or stone surfaces.
+- Locate and supply materials to masons for installation, following drawings or numbered sequences.
+- Arrange or store materials, machines, tools, or equipment.
+- Clean installation surfaces, equipment, tools, work sites, or storage areas, using water, chemical solutions, oxygen lances, or polishing machines.
+- Move or position materials such as marble slabs, using cranes, hoists, or dollies.
+- Remove excess grout or residue from tile or brick joints, using sponges or trowels.
+- Apply grout between joints of bricks or tiles, using grouting trowels.
+- Apply caulk, sealants, or other agents to installed surfaces.
+- Remove damaged tile, brick, or mortar, and clean or prepare surfaces, using pliers, hammers, chisels, drills, wire brushes, or metal wire anchors.
+- Correct surface imperfections or fill chipped, cracked, or broken bricks or tiles, using fillers, adhesives, or grouting materials.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operation and Control (Importance: 3.0/5 | Level: 2.38/7)
+- Monitoring (Importance: 3.0/5 | Level: 2.62/7)
+- Coordination (Importance: 3.0/5 | Level: 3.12/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 2.38/7)
+- Time Management (Importance: 3.0/5 | Level: 2.5/7)
+- Judgment and Decision Making (Importance: 2.88/5 | Level: 2.38/7)
+- Active Listening (Importance: 2.88/5 | Level: 2.25/7)
+- Troubleshooting (Importance: 2.75/5 | Level: 2.25/7)
+- Speaking (Importance: 2.75/5 | Level: 2.0/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 2.25/7)
+- Operations Monitoring (Importance: 2.75/5 | Level: 2.5/7)
+- Complex Problem Solving (Importance: 2.62/5 | Level: 2.38/7)
+- Instructing (Importance: 2.5/5 | Level: 2.38/7)
+- Quality Control Analysis (Importance: 2.5/5 | Level: 2.38/7)
+- Reading Comprehension (Importance: 2.38/5 | Level: 2.12/7)
+- Active Learning (Importance: 2.38/5 | Level: 2.12/7)
+- Equipment Maintenance (Importance: 2.38/5 | Level: 2.0/7)
+- Equipment Selection (Importance: 2.38/5 | Level: 1.88/7)
+- Learning Strategies (Importance: 2.25/5 | Level: 2.12/7)
+- Repairing (Importance: 2.25/5 | Level: 2.0/7)
+- Mathematics (Importance: 2.25/5 | Level: 2.0/7)
+- Writing (Importance: 2.0/5 | Level: 1.75/7)
+- Service Orientation (Importance: 2.0/5 | Level: 1.75/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 1.62/7)
+- Systems Analysis (Importance: 2.0/5 | Level: 1.75/7)
+- Technology Design (Importance: 1.88/5 | Level: 0.88/7)
+- Negotiation (Importance: 1.88/5 | Level: 1.5/7)
+- Management of Material Resources (Importance: 1.88/5 | Level: 1.5/7)
+- Persuasion (Importance: 1.88/5 | Level: 1.62/7)
+- Management of Personnel Resources (Importance: 1.88/5 | Level: 1.75/7)
+- Operations Analysis (Importance: 1.88/5 | Level: 0.88/7)
+- Management of Financial Resources (Importance: 1.62/5 | Level: 0.62/7)
+- Installation (Importance: 1.25/5 | Level: 0.25/7)
+- Science (Importance: 1.25/5 | Level: 0.25/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Accounting software (Tech skill type: Accounting software)
+- Autodesk Revit (Tech skill type: Computer aided design CAD software)
+- Aya Associates Comp-U-Floor (Tech skill type: Data base user interface and query software)
+- Computer aided design and drafting CADD software (Tech skill type: Computer aided design CAD software)
+- Construction Management Software ProEst (Tech skill type: Analytical or scientific software)
+- CPR Visual Estimator (Tech skill type: Project management software)
+- Daystar iStructural.com (Tech skill type: Project management software)
+- EasyCAD Iris 2D (Tech skill type: Computer aided design CAD software)
+- Intuit QuickBooks (Tech skill type: Accounting software)
+- Measure Square FloorEstimate Pro (Tech skill type: Project management software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft Visio (Tech skill type: Process mapping and design software)
+- Microsoft Word (Tech skill type: Word processing software)
+- RISA Technologies RISAMasonry (Tech skill type: Project management software)
+- TileGem (Tech skill type: Computer aided design CAD software)
+- Tradesman's Software Master Estimator (Tech skill type: Project management software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Air compressors (Tool type: Air compressors)
+- Caulking guns (Tool type: Caulking guns)
+- Claw hammers (Tool type: Claw hammer)
+- Concrete mixers (Tool type: Concrete mixers or plants)
+- Concrete saws (Tool type: Power saws)
+- Concrete vibrators (Tool type: Concrete vibrators)
+- Dollies (Tool type: Dollies)
+- Forklifts (Tool type: Forklifts)
+- Grout floats (Tool type: Floats)
+- Grouting machines (Tool type: Grouting machines)
+- Grouting spatulas (Tool type: Spatulas)
+- Grouting trowels (Tool type: Trowels)
+- Heating torches (Tool type: Blow torch)
+- Hydraulic booms (Tool type: Hydraulic truck cranes)
+- Jackhammers (Tool type: Pneumatic hammer)
+- Ladders (Tool type: Ladders)
+- Locking pliers (Tool type: Locking pliers)
+- Material moving cranes (Tool type: Tower cranes)
+- Measuring tapes (Tool type: Tape measures)
+- Mortar mixers (Tool type: Plaster or mortar mixers)
+- Notebook computers (Tool type: Notebook computers)
+- Oxygen lances (Tool type: Blow torch)
+- Personal computers (Tool type: Personal computers)
+- Polishing machines (Tool type: Grinding or polishing machines)
+- Portable cranes (Tool type: Workshop cranes)
+- Power chippers (Tool type: Power chippers)
+- Power drills (Tool type: Power drills)
+- Power grinders (Tool type: Power grinders)
+- Power hoists (Tool type: Hoists)
+- Power saws (Tool type: Power saws)
+- Pry bars (Tool type: Pry bars)
+- Safety boots (Tool type: Safety boots)
+- Sandblasters (Tool type: Pneumatic sanding machines)
+- Scaffolding (Tool type: Scaffolding)
+- Steam cleaning equipment (Tool type: Pressure or steam cleaners)
+- Tile-cutting saws (Tool type: Power saws)
+- Trowels (Tool type: Trowels)
+- Winches (Tool type: Winches)
+- Wire brushes (Tool type: Wire brushes)
+- Wood chisels (Tool type: Wood chisels)

@@ -1,0 +1,141 @@
+Job Title: Payroll and Timekeeping Clerks
+O*NET-SOC Code: 43-3051.00
+
+# DESCRIPTION
+Compile and record employee time and payroll data. May compute employees' time worked, production, and commission. May compute and post wages and deductions, or prepare paychecks.
+
+# TASKS
+- Verify attendance, hours worked, and pay adjustments, and post information onto designated records.
+- Process and issue employee paychecks and statements of earnings and deductions.
+- Compute wages and deductions, and enter data into computers.
+- Process paperwork for new employees and enter employee information into the payroll system.
+- Prepare and balance period-end reports, and reconcile issued payrolls to bank statements.
+- Review time sheets, work charts, wage computation, and other information to detect and reconcile payroll discrepancies.
+- Distribute and collect timecards each pay period.
+- Record employee information, such as exemptions, transfers, and resignations, to maintain and update payroll records.
+- Issue and record adjustments to pay related to previous errors or retroactive increases.
+- Keep track of leave time, such as vacation, personal, and sick leave, for employees.
+- Compile employee time, production, and payroll data from time sheets and other records.
+- Keep informed about changes in tax and deduction laws that apply to the payroll process.
+- Complete time sheets showing employees' arrival and departure times.
+- Provide information to employees and managers on payroll matters, tax issues, benefit plans, and collective agreement provisions.
+- Conduct verifications of employment.
+- Prepare and file payroll tax returns.
+- Compile statistical reports, statements, and summaries related to pay and benefits accounts, and submit them to appropriate departments.
+- Balance cash and payroll accounts.
+- Complete, verify, and process forms and documentation for administration of benefits, such as pension plans, and unemployment and medical insurance.
+- Train employees on organizations' timekeeping systems.
+- Coordinate special programs, such as United Way campaigns, that involve payroll deductions.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Reading Comprehension (Importance: 3.88/5 | Level: 3.75/7)
+- Active Listening (Importance: 3.75/5 | Level: 3.38/7)
+- Mathematics (Importance: 3.25/5 | Level: 3.12/7)
+- Writing (Importance: 3.12/5 | Level: 3.12/7)
+- Critical Thinking (Importance: 3.12/5 | Level: 3.12/7)
+- Speaking (Importance: 3.12/5 | Level: 3.12/7)
+- Complex Problem Solving (Importance: 3.0/5 | Level: 3.0/7)
+- Service Orientation (Importance: 3.0/5 | Level: 2.75/7)
+- Monitoring (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 2.88/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.88/7)
+- Judgment and Decision Making (Importance: 2.88/5 | Level: 2.88/7)
+- Active Learning (Importance: 2.75/5 | Level: 2.88/7)
+- Coordination (Importance: 2.75/5 | Level: 2.12/7)
+- Learning Strategies (Importance: 2.25/5 | Level: 2.62/7)
+- Instructing (Importance: 2.25/5 | Level: 2.12/7)
+- Systems Analysis (Importance: 2.12/5 | Level: 2.25/7)
+- Management of Personnel Resources (Importance: 2.0/5 | Level: 2.0/7)
+- Negotiation (Importance: 2.0/5 | Level: 2.0/7)
+- Persuasion (Importance: 2.0/5 | Level: 2.0/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 1.88/7)
+- Operations Monitoring (Importance: 1.88/5 | Level: 1.0/7)
+- Programming (Importance: 1.88/5 | Level: 1.0/7)
+- Quality Control Analysis (Importance: 1.62/5 | Level: 0.75/7)
+- Technology Design (Importance: 1.38/5 | Level: 0.38/7)
+- Management of Financial Resources (Importance: 1.25/5 | Level: 0.25/7)
+- Operations Analysis (Importance: 1.25/5 | Level: 0.38/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+- Management of Material Resources (Importance: 1.0/5 | Level: 0.0/7)
+- Operation and Control (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Accounting software (Tech skill type: Accounting software)
+- ADP Enterprise HR (Tech skill type: Human resources software)
+- ADP eTIME (Tech skill type: Time accounting software)
+- ADP PC/Payroll (Tech skill type: Time accounting software)
+- ADP Workforce Now (Tech skill type: Data base user interface and query software)
+- API Navigator (Tech skill type: Human resources software)
+- Asure Software HCM (Tech skill type: Time accounting software)
+- Automated payroll software (Tech skill type: Time accounting software)
+- Automated timekeeping software (Tech skill type: Time accounting software)
+- BMH Open4 Payroll (Tech skill type: Time accounting software)
+- BSI ComplianceFactory (Tech skill type: Compliance software)
+- CyberShift Workforce Management 3G Time and Attendance (Tech skill type: Time accounting software)
+- Data entry software (Tech skill type: Data base user interface and query software)
+- EBS On Line InstaPay (Tech skill type: Time accounting software)
+- Email software (Tech skill type: Electronic mail software)
+- Fund accounting software (Tech skill type: Accounting software)
+- Galaxy Technologies TimeStar Enterprise (Tech skill type: Time accounting software)
+- Human resource management software HRMS (Tech skill type: Human resources software)
+- Human Resource MicroSystems HR Entre (Tech skill type: Human resources software)
+- IBM Cognos Impromptu (Tech skill type: Business intelligence and data analysis software)
+- IBM Notes (Tech skill type: Electronic mail software)
+- Intuit QuickBooks (Tech skill type: Accounting software)
+- isolved Time (Tech skill type: Time accounting software)
+- Jantek Jupiter Time Attendance (Tech skill type: Time accounting software)
+- Kronos Workforce Payroll (Tech skill type: Time accounting software)
+- Kronos Workforce Timekeeper (Tech skill type: Time accounting software)
+- MicroFocus GroupWise (Tech skill type: Electronic mail software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Dynamics (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Dynamics GP (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Great Plains Personal Data Keeper (Tech skill type: Time accounting software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Netscape Navigator (Tech skill type: Internet browser software)
+- NetSuite ERP (Tech skill type: Enterprise resource planning ERP software)
+- NuView EBS (Tech skill type: Time accounting software)
+- Oracle E-Business Suite Financials (Tech skill type: Financial analysis software)
+- Oracle Fusion Applications (Tech skill type: Enterprise resource planning ERP software)
+- Oracle HRIS (Tech skill type: Human resources software)
+- Oracle JD Edwards EnterpriseOne (Tech skill type: Enterprise resource planning ERP software)
+- Oracle PeopleSoft (Tech skill type: Enterprise resource planning ERP software)
+- Oracle PeopleSoft Payroll for North America (Tech skill type: Time accounting software)
+- Paychex payroll software (Tech skill type: Time accounting software)
+- PayData Advanced HR (Tech skill type: Time accounting software)
+- Payroll software (Tech skill type: Human resources software)
+- PDS Vista (Tech skill type: Time accounting software)
+- Penta software (Tech skill type: Accounting software)
+- Quicken (Tech skill type: Accounting software)
+- RSM McGladrey Clear Pay (Tech skill type: Time accounting software)
+- Sage 50 Accounting (Tech skill type: Accounting software)
+- Sage HRMS (Tech skill type: Human resources software)
+- SAP Americas mySAP ERP Human Capital Management HCM (Tech skill type: Time accounting software)
+- SAP Crystal Reports (Tech skill type: Data base reporting software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- Tax software (Tech skill type: Accounting software)
+- TimePlus Payroll (Tech skill type: Time accounting software)
+- Ultimate Software UltiPro Workplace (Tech skill type: Human resources software)
+- UNITIME (Tech skill type: Time accounting software)
+- Virtual Software Virtual Timecard (Tech skill type: Time accounting software)
+- Web browser software (Tech skill type: Internet browser software)
+- Word processing software (Tech skill type: Word processing software)
+- Workday software (Tech skill type: Enterprise resource planning ERP software)
+- WorkForce Software EmpCenter Time and Attendance (Tech skill type: Time accounting software)
+
+## TOOLS USED
+- 10-key calculators (Tool type: Desktop calculator)
+- Computer terminals (Tool type: Mainframe console or dumb terminals)
+- Desktop computers (Tool type: Desktop computers)
+- Personal computers (Tool type: Personal computers)

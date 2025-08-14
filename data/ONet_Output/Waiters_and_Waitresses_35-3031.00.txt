@@ -1,0 +1,95 @@
+Job Title: Waiters and Waitresses
+O*NET-SOC Code: 35-3031.00
+
+# DESCRIPTION
+Take orders and serve food and beverages to patrons at tables in dining establishment.
+
+# TASKS
+- Take orders from patrons for food or beverages.
+- Check with customers to ensure that they are enjoying their meals, and take action to correct any problems.
+- Check patrons' identification to ensure that they meet minimum age requirements for consumption of alcoholic beverages.
+- Collect payments from customers.
+- Write patrons' food orders on order slips, memorize orders, or enter orders into computers for transmittal to kitchen staff.
+- Prepare checks that itemize and total meal costs and sales taxes.
+- Present menus to patrons and answer questions about menu items, making recommendations upon request.
+- Remove dishes and glasses from tables or counters, and take them to kitchen for cleaning.
+- Serve food or beverages to patrons, and prepare or serve specialty dishes at tables as required.
+- Clean tables or counters after patrons have finished dining.
+- Prepare tables for meals, including setting up items such as linens, silverware, and glassware.
+- Explain how various menu items are prepared, describing ingredients and cooking methods.
+- Assist host or hostess by answering phones to take reservations or to-go orders, and by greeting, seating, and thanking guests.
+- Escort customers to their tables.
+- Perform cleaning duties, such as sweeping and mopping floors, vacuuming carpet, tidying up server station, taking out trash, or checking and cleaning bathroom.
+- Inform customers of daily specials.
+- Prepare hot, cold, and mixed drinks for patrons, and chill bottles of wine.
+- Roll silverware, set up food stations, or set up dining areas to prepare for the next shift or for large parties.
+- Stock service areas with supplies such as coffee, food, tableware, and linens.
+- Bring wine selections to tables with appropriate glasses, and pour the wines for customers.
+- Fill salt, pepper, sugar, cream, condiment, and napkin containers.
+- Describe and recommend wines to customers.
+- Perform food preparation duties, such as preparing salads, appetizers, and cold dishes, portioning desserts, and brewing coffee.
+- Provide guests with information about local areas, including directions.
+- Garnish and decorate dishes in preparation for serving.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Active Listening (Importance: 3.75/5 | Level: 2.88/7)
+- Service Orientation (Importance: 3.62/5 | Level: 2.88/7)
+- Speaking (Importance: 3.62/5 | Level: 2.5/7)
+- Social Perceptiveness (Importance: 3.5/5 | Level: 2.75/7)
+- Coordination (Importance: 3.12/5 | Level: 2.75/7)
+- Monitoring (Importance: 3.0/5 | Level: 2.75/7)
+- Active Learning (Importance: 2.88/5 | Level: 2.12/7)
+- Judgment and Decision Making (Importance: 2.88/5 | Level: 2.25/7)
+- Persuasion (Importance: 2.88/5 | Level: 2.12/7)
+- Critical Thinking (Importance: 2.88/5 | Level: 2.75/7)
+- Complex Problem Solving (Importance: 2.88/5 | Level: 2.12/7)
+- Time Management (Importance: 2.75/5 | Level: 2.25/7)
+- Reading Comprehension (Importance: 2.75/5 | Level: 2.38/7)
+- Negotiation (Importance: 2.62/5 | Level: 2.12/7)
+- Instructing (Importance: 2.38/5 | Level: 2.12/7)
+- Learning Strategies (Importance: 2.38/5 | Level: 2.12/7)
+- Management of Personnel Resources (Importance: 2.12/5 | Level: 2.12/7)
+- Mathematics (Importance: 2.12/5 | Level: 1.75/7)
+- Quality Control Analysis (Importance: 2.0/5 | Level: 1.25/7)
+- Systems Analysis (Importance: 2.0/5 | Level: 1.25/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 1.38/7)
+- Writing (Importance: 2.0/5 | Level: 2.12/7)
+- Operations Monitoring (Importance: 1.88/5 | Level: 1.38/7)
+- Troubleshooting (Importance: 1.62/5 | Level: 0.62/7)
+- Operation and Control (Importance: 1.62/5 | Level: 0.75/7)
+- Management of Material Resources (Importance: 1.5/5 | Level: 0.5/7)
+- Management of Financial Resources (Importance: 1.5/5 | Level: 0.62/7)
+- Programming (Importance: 1.12/5 | Level: 0.12/7)
+- Technology Design (Importance: 1.12/5 | Level: 0.12/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+- Operations Analysis (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Blink (Tech skill type: Instant messaging software)
+- Compris Advanced Manager's Workstation (Tech skill type: Point of sale POS software)
+- Compris software (Tech skill type: Point of sale POS software)
+- Facebook (Tech skill type: Web page creation and editing software)
+- Hospitality Control Solutions Aloha Point-of-Sale (Tech skill type: Point of sale POS software)
+- Intuit QuickBooks Point of Sale (Tech skill type: Point of sale POS software)
+- MICROS Systems HSI Profits Series (Tech skill type: Point of sale POS software)
+- NCR Advanced Checkout Solution (Tech skill type: Point of sale POS software)
+- NCR NeighborhoodPOS (Tech skill type: Point of sale POS software)
+- Point of sale POS software (Tech skill type: Point of sale POS software)
+- The General Store (Tech skill type: Point of sale POS software)
+
+## TOOLS USED
+- Alphanumeric paging equipment (Tool type: Paging controllers)
+- Carving knives (Tool type: Commercial use cutlery)
+- Cash registers (Tool type: Cash registers)
+- Credit card processing machines (Tool type: Magnetic stripe readers and encoders)
+- Personal digital assistants PDA (Tool type: Personal digital assistant PDAs or organizers)
+- Point of sale POS printers (Tool type: Point of sale POS receipt printers)
+- Point of sale POS terminals (Tool type: Point of sale POS terminal)
+- Point of service workstations (Tool type: Point of sale POS terminal)
+- Portable bar code scanners (Tool type: Bar code reader equipment)
+- Touch screen monitors (Tool type: Touch screen monitors)

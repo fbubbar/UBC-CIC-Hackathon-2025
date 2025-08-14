@@ -1,0 +1,159 @@
+Job Title: Photographic Process Workers and Processing Machine Operators
+O*NET-SOC Code: 51-9151.00
+
+# DESCRIPTION
+Perform work involved in developing and processing photographic images from film or digital media. May perform precision tasks such as editing photographic negatives and prints.
+
+# TASKS
+- Select digital images for printing, specify number of images to be printed, and direct to printer, using computer software.
+- Create prints according to customer specifications and laboratory protocols.
+- Produce color or black-and-white photographs, negatives, or slides, applying standard photographic reproduction techniques and procedures.
+- Set or adjust machine controls, according to specifications, type of operation, or material requirements.
+- Review computer-processed digital images for quality.
+- Operate scanners or related computer equipment to digitize negatives, photographic prints, or other images.
+- Fill tanks of processing machines with solutions such as developer, dyes, stop-baths, fixers, bleaches, or washes.
+- Measure and mix chemicals to prepare solutions for processing, according to formulas.
+- Load digital images onto computers directly from cameras or from storage devices, such as flash memory cards or universal serial bus (USB) devices.
+- Operate special equipment to perform tasks such as transferring film to videotape or producing photographic enlargements.
+- Examine developed prints for defects, such as broken lines, spots, or blurs.
+- Read work orders to determine required processes, techniques, materials, or equipment.
+- Load circuit boards, racks or rolls of film, negatives, or printing paper into processing or printing machines.
+- Insert processed negatives and prints into envelopes for delivery to customers.
+- Reprint originals for enlargement or in sections to be pieced together.
+- Clean or maintain photoprocessing or darkroom equipment, using ultrasonic equipment or cleaning and rinsing solutions.
+- Monitor equipment operation to detect malfunctions.
+- Maintain records, such as quantities or types of processing completed, materials used, or customer charges.
+- Immerse film, negatives, paper, or prints in developing solutions, fixing solutions, and water to complete photographic development processes.
+- Examine quality of film fades or dissolves for potential color corrections, using color analyzers.
+- Thread filmstrips through densitometers or sensitometers and expose film to light to determine density of film, necessary color corrections, or light sensitivity.
+- Examine drawings, negatives, or photographic prints to determine coloring, shading, accenting, or other changes required for retouching or restoration.
+- Place sensitized paper in frames of projection printers, photostats, or other reproduction machines.
+- Upload digital images onto Web sites for customers.
+- Produce timed prints with separate densities or color settings for each scene of a production.
+- Splice broken or separated film and mount film on reels.
+- Retouch photographic negatives or original prints to correct defects.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operations Monitoring (Importance: 3.5/5 | Level: 3.12/7)
+- Quality Control Analysis (Importance: 3.38/5 | Level: 2.75/7)
+- Active Listening (Importance: 3.38/5 | Level: 3.38/7)
+- Speaking (Importance: 3.25/5 | Level: 3.0/7)
+- Service Orientation (Importance: 3.25/5 | Level: 3.0/7)
+- Reading Comprehension (Importance: 3.25/5 | Level: 3.25/7)
+- Operation and Control (Importance: 3.12/5 | Level: 2.88/7)
+- Complex Problem Solving (Importance: 3.12/5 | Level: 2.75/7)
+- Critical Thinking (Importance: 3.12/5 | Level: 3.12/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.25/7)
+- Time Management (Importance: 3.0/5 | Level: 2.88/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 2.75/7)
+- Negotiation (Importance: 2.88/5 | Level: 2.62/7)
+- Troubleshooting (Importance: 2.88/5 | Level: 2.5/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 3.0/7)
+- Persuasion (Importance: 2.88/5 | Level: 2.75/7)
+- Active Learning (Importance: 2.88/5 | Level: 2.88/7)
+- Instructing (Importance: 2.75/5 | Level: 2.75/7)
+- Equipment Selection (Importance: 2.75/5 | Level: 2.62/7)
+- Coordination (Importance: 2.75/5 | Level: 2.88/7)
+- Equipment Maintenance (Importance: 2.75/5 | Level: 2.5/7)
+- Systems Analysis (Importance: 2.75/5 | Level: 2.75/7)
+- Writing (Importance: 2.75/5 | Level: 2.88/7)
+- Learning Strategies (Importance: 2.5/5 | Level: 2.88/7)
+- Systems Evaluation (Importance: 2.5/5 | Level: 2.75/7)
+- Repairing (Importance: 2.38/5 | Level: 2.25/7)
+- Programming (Importance: 2.38/5 | Level: 1.62/7)
+- Management of Personnel Resources (Importance: 2.25/5 | Level: 2.12/7)
+- Management of Material Resources (Importance: 2.12/5 | Level: 1.88/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.75/7)
+- Technology Design (Importance: 2.0/5 | Level: 1.5/7)
+- Mathematics (Importance: 2.0/5 | Level: 2.25/7)
+- Science (Importance: 1.62/5 | Level: 1.0/7)
+- Operations Analysis (Importance: 1.5/5 | Level: 1.25/7)
+- Installation (Importance: 1.38/5 | Level: 0.62/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Adobe Creative Cloud software (Tech skill type: Graphics or photo imaging software)
+- Adobe Illustrator (Tech skill type: Graphics or photo imaging software)
+- Adobe InDesign (Tech skill type: Desktop publishing software)
+- Adobe Photoshop (Tech skill type: Graphics or photo imaging software)
+- Amazon Web Services AWS software (Tech skill type: Data base user interface and query software)
+- Camera Bits Photo Mechanic (Tech skill type: Graphics or photo imaging software)
+- Cascading style sheets CSS (Tech skill type: Web platform development software)
+- Docker (Tech skill type: Application server software)
+- ExpressDigital Labtricity (Tech skill type: Graphics or photo imaging software)
+- Git (Tech skill type: File versioning software)
+- HeliconSoft Helicon Focus (Tech skill type: Graphics or photo imaging software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Publisher (Tech skill type: Desktop publishing software)
+- Microsoft Word (Tech skill type: Word processing software)
+- MongoDB (Tech skill type: Data base management system software)
+- MySQL (Tech skill type: Data base user interface and query software)
+- Phase One Capture One (Tech skill type: Graphics or photo imaging software)
+- RESTful API (Tech skill type: Web platform development software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- TypeScript (Tech skill type: Object or component oriented development software)
+
+## TOOLS USED
+- Artists' brushes (Tool type: Paint brushes)
+- Automatic photo printers (Tool type: Offset film processors)
+- Barcode scanners (Tool type: Bar code reader equipment)
+- Cement splicers (Tool type: Film splicers)
+- Chemical stirrers (Tool type: Laboratory stirring rods)
+- Color testing equipment (Tool type: Colorimeters)
+- Contrast filters (Tool type: Camera lens)
+- Darkroom beakers (Tool type: Laboratory beakers)
+- Darkroom densitometers (Tool type: Densitometers)
+- Darkroom hydrometers (Tool type: Hydrometers)
+- Darkroom thermometers (Tool type: Handheld thermometer)
+- Darkroom timers (Tool type: Clock timers)
+- Daylight splicers (Tool type: Film splicers)
+- Developing spirals (Tool type: Developing trays)
+- Digital cameras (Tool type: Digital cameras)
+- Digital minilabs (Tool type: Offset film processors)
+- Drum scanners (Tool type: Scanners)
+- Drying cabinets (Tool type: Film driers)
+- Film developing trays (Tool type: Developing trays)
+- Film pickers (Tool type: Offset darkroom equipment)
+- Film plates (Tool type: Printing plates)
+- Film processing tongs (Tool type: Developing tongs)
+- Film refrigerators (Tool type: General purpose refrigerators or refrigerator freezers)
+- Film winders (Tool type: Offset darkroom equipment)
+- Flatbed scanners (Tool type: Scanners)
+- Hand mixers (Tool type: Laboratory mixers)
+- Infrared goggles (Tool type: Light enhancing cameras or vision devices)
+- Infrared scanners (Tool type: Thermographs)
+- Laser photo printers (Tool type: Laser printers)
+- Leader cards (Tool type: Offset darkroom equipment)
+- Manual photo printers (Tool type: Offset film processors)
+- Measuring cylinders (Tool type: Laboratory graduated cylinders)
+- Mechanical air dryers (Tool type: Hot air blowers)
+- Minilab processors (Tool type: Offset film processors)
+- Mounting presses (Tool type: Laminators)
+- MultiMediaCard storage devices (Tool type: High capacity removable media drives)
+- Paper cutters (Tool type: Printing guillotines)
+- Personal computers (Tool type: Personal computers)
+- Photo drying squeegees (Tool type: Squeegees or washers)
+- Photo printers (Tool type: Inkjet printer for commercial printing applications)
+- Photo retouching air brushes (Tool type: Air brushes)
+- Photo scissors (Tool type: Photo cutters or trimmers)
+- Photographic developing tanks (Tool type: Developing tanks)
+- Photographic print enlargers (Tool type: Photographic enlargers)
+- Power mixers (Tool type: Laboratory mixers)
+- Roller transport film processors (Tool type: Offset film processors)
+- Rotary drum processors (Tool type: Offset film processors)
+- Secure digital (SD) cards (Tool type: Flash memory storage card)
+- Sensitometers (Tool type: Reflectometers)
+- Silver recovery systems (Tool type: Cathodes or emitters)
+- Solid ink printers (Tool type: Thermal transfer printer for commercial printing applications)
+- Tape splicers (Tool type: Film splicers)
+- Thermal dye sublimation printers (Tool type: Dye sublimination printers)
+- Ultrasonic cleaners (Tool type: Ultrasonic cleaning equipment)
+- Ultrasonic film splicers (Tool type: Film splicers)
+- Universal serial bus USB flash drives (Tool type: High capacity removable media drives)
+- Water flow meters (Tool type: Flowmeters)
+- Water recirculation pumps (Tool type: Water pumps)

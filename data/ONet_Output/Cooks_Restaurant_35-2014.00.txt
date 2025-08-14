@@ -1,0 +1,107 @@
+Job Title: Cooks, Restaurant
+O*NET-SOC Code: 35-2014.00
+
+# DESCRIPTION
+Prepare, season, and cook dishes such as soups, meats, vegetables, or desserts in restaurants. May order supplies, keep records and accounts, price items on menu, or plan menu.
+
+# TASKS
+- Inspect and clean food preparation areas, such as equipment, work surfaces, and serving areas, to ensure safe and sanitary food-handling practices.
+- Ensure freshness of food and ingredients by checking for quality, keeping track of old and new items, and rotating stock.
+- Ensure food is stored and cooked at correct temperature by regulating temperature of ovens, broilers, grills, and roasters.
+- Season and cook food according to recipes or personal judgment and experience.
+- Turn or stir foods to ensure even cooking.
+- Observe and test foods to determine if they have been cooked sufficiently, using methods such as tasting, smelling, or piercing them with utensils.
+- Portion, arrange, and garnish food, and serve food to waiters or patrons.
+- Weigh, measure, and mix ingredients according to recipes or personal judgment, using various kitchen utensils and equipment.
+- Bake, roast, broil, and steam meats, fish, vegetables, and other foods.
+- Wash, peel, cut, and seed fruits and vegetables to prepare them for consumption.
+- Coordinate and supervise work of kitchen staff.
+- Estimate expected food consumption, requisition or purchase supplies, or procure food from storage.
+- Substitute for or assist other cooks during emergencies or rush periods.
+- Consult with supervisory staff to plan menus, taking into consideration factors such as costs and special event needs.
+- Prepare relishes and hors d'oeuvres.
+- Carve and trim meats such as beef, veal, ham, pork, and lamb for hot or cold service, or for sandwiches.
+- Bake breads, rolls, cakes, and pastries.
+- Butcher and dress animals, fowl, or shellfish, or cut and bone meat prior to cooking.
+- Keep records and accounts.
+- Plan and price menu items.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Monitoring (Importance: 3.12/5 | Level: 3.12/7)
+- Time Management (Importance: 3.0/5 | Level: 3.0/7)
+- Coordination (Importance: 3.0/5 | Level: 3.12/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 3.0/7)
+- Active Listening (Importance: 3.0/5 | Level: 3.0/7)
+- Speaking (Importance: 3.0/5 | Level: 3.0/7)
+- Judgment and Decision Making (Importance: 2.88/5 | Level: 2.62/7)
+- Reading Comprehension (Importance: 2.88/5 | Level: 2.38/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.88/7)
+- Quality Control Analysis (Importance: 2.75/5 | Level: 2.5/7)
+- Active Learning (Importance: 2.75/5 | Level: 2.75/7)
+- Operations Monitoring (Importance: 2.75/5 | Level: 2.38/7)
+- Management of Personnel Resources (Importance: 2.62/5 | Level: 2.5/7)
+- Mathematics (Importance: 2.5/5 | Level: 2.25/7)
+- Service Orientation (Importance: 2.38/5 | Level: 2.38/7)
+- Negotiation (Importance: 2.38/5 | Level: 2.25/7)
+- Persuasion (Importance: 2.38/5 | Level: 2.12/7)
+- Systems Analysis (Importance: 2.25/5 | Level: 2.0/7)
+- Systems Evaluation (Importance: 2.25/5 | Level: 2.12/7)
+- Operation and Control (Importance: 2.25/5 | Level: 2.0/7)
+- Management of Material Resources (Importance: 2.25/5 | Level: 2.12/7)
+- Complex Problem Solving (Importance: 2.25/5 | Level: 2.12/7)
+- Writing (Importance: 2.25/5 | Level: 2.5/7)
+- Management of Financial Resources (Importance: 2.12/5 | Level: 1.75/7)
+- Learning Strategies (Importance: 2.12/5 | Level: 2.38/7)
+- Instructing (Importance: 2.12/5 | Level: 2.5/7)
+- Troubleshooting (Importance: 2.0/5 | Level: 1.25/7)
+- Equipment Selection (Importance: 1.75/5 | Level: 1.12/7)
+- Operations Analysis (Importance: 1.62/5 | Level: 0.75/7)
+- Science (Importance: 1.25/5 | Level: 0.38/7)
+- Technology Design (Importance: 1.25/5 | Level: 0.25/7)
+- Programming (Importance: 1.12/5 | Level: 0.12/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Facebook (Tech skill type: Web page creation and editing software)
+- Food safety labeling systems (Tech skill type: Compliance software)
+- Inventory management software (Tech skill type: Inventory management software)
+- Menu planning software (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Point of sale POS restaurant software (Tech skill type: Point of sale POS software)
+- Recipe cost control software (Tech skill type: Materials requirements planning logistics and supply chain software)
+
+## TOOLS USED
+- Blenders (Tool type: Commercial use blenders)
+- Boning knives (Tool type: Commercial use cutlery)
+- Charbroilers (Tool type: Commercial use broilers)
+- Chefs' knives (Tool type: Commercial use cutlery)
+- Cimeter knives (Tool type: Domestic knives)
+- Commercial microwave ovens (Tool type: Commercial use microwave ovens)
+- Convection ovens (Tool type: Commercial use convection ovens)
+- Conveyor ovens (Tool type: Commercial use ovens)
+- Filet knives (Tool type: Domestic knives)
+- Food slicing machines (Tool type: Commercial use food slicers)
+- Food steamers (Tool type: Commercial use steamers)
+- Fryers (Tool type: Commercial use deep fryers)
+- Gas grills (Tool type: Commercial use grills)
+- Griddles (Tool type: Commercial use griddles)
+- Grinders (Tool type: Commercial use food grinders)
+- Meat and cheese slicing machines (Tool type: Slicing machinery)
+- Meat saws (Tool type: Cutting machinery)
+- Paring knives (Tool type: Commercial use cutlery)
+- Pasta cookers (Tool type: Commercial use pasta cookers)
+- Personal computers (Tool type: Personal computers)
+- Pizza ovens (Tool type: Commercial use pizza ovens)
+- Point of sale POS computer terminals (Tool type: Point of sale POS terminal)
+- Rotating rack ovens (Tool type: Commercial use ovens)
+- Rotisserie ovens (Tool type: Commercial use rotisseries)
+- Salamander ovens (Tool type: Commercial use ovens)
+- Smoking cabinets (Tool type: Commercial use smokers or smoke ovens)
+- Utility cutlery (Tool type: Domestic knives)
+- Wok ranges (Tool type: Commercial use ranges)

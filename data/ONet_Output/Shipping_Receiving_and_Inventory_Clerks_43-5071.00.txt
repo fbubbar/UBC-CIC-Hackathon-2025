@@ -1,0 +1,127 @@
+Job Title: Shipping, Receiving, and Inventory Clerks
+O*NET-SOC Code: 43-5071.00
+
+# DESCRIPTION
+Verify and maintain records on incoming and outgoing shipments involving inventory. Duties include verifying and recording incoming merchandise or material and arranging for the transportation of products. May prepare items for shipment.
+
+# TASKS
+- Examine shipment contents and compare with records, such as manifests, invoices, or orders, to verify accuracy.
+- Requisition and store shipping materials and supplies to maintain inventory of stock.
+- Prepare documents, such as work orders, bills of lading, or shipping orders, to route materials.
+- Pack, seal, label, or affix postage to prepare materials for shipping, using hand tools, power tools, or postage meter.
+- Record shipment data, such as weight, charges, space availability, damages, or discrepancies, for reporting, accounting, or recordkeeping purposes.
+- Confer or correspond with establishment representatives to rectify problems, such as damages, shortages, or nonconformance to specifications.
+- Deliver or route materials to departments using handtruck, conveyor, or sorting bins.
+- Contact carrier representatives to make arrangements or to issue instructions for shipping and delivery of materials.
+- Determine shipping methods, routes, or rates for materials to be shipped.
+- Compute amounts, such as space available, shipping, storage, or demurrage charges, using computer or price list.
+- Compare shipping routes or methods to determine which have the least environmental impact.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Speaking (Importance: 3.25/5 | Level: 3.0/7)
+- Reading Comprehension (Importance: 3.12/5 | Level: 3.12/7)
+- Active Listening (Importance: 3.12/5 | Level: 3.0/7)
+- Monitoring (Importance: 3.0/5 | Level: 3.0/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 2.38/7)
+- Complex Problem Solving (Importance: 2.88/5 | Level: 2.25/7)
+- Coordination (Importance: 2.88/5 | Level: 2.88/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.5/7)
+- Judgment and Decision Making (Importance: 2.88/5 | Level: 2.75/7)
+- Persuasion (Importance: 2.75/5 | Level: 2.12/7)
+- Writing (Importance: 2.62/5 | Level: 2.75/7)
+- Service Orientation (Importance: 2.62/5 | Level: 2.25/7)
+- Instructing (Importance: 2.5/5 | Level: 2.25/7)
+- Negotiation (Importance: 2.38/5 | Level: 2.12/7)
+- Active Learning (Importance: 2.38/5 | Level: 2.12/7)
+- Mathematics (Importance: 2.25/5 | Level: 2.25/7)
+- Operations Monitoring (Importance: 2.25/5 | Level: 2.12/7)
+- Management of Personnel Resources (Importance: 2.12/5 | Level: 2.12/7)
+- Systems Evaluation (Importance: 2.12/5 | Level: 1.62/7)
+- Systems Analysis (Importance: 2.12/5 | Level: 2.25/7)
+- Quality Control Analysis (Importance: 2.12/5 | Level: 2.0/7)
+- Learning Strategies (Importance: 2.12/5 | Level: 2.25/7)
+- Troubleshooting (Importance: 2.0/5 | Level: 1.25/7)
+- Operation and Control (Importance: 2.0/5 | Level: 2.0/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.12/7)
+- Management of Financial Resources (Importance: 1.88/5 | Level: 1.12/7)
+- Technology Design (Importance: 1.88/5 | Level: 0.88/7)
+- Programming (Importance: 1.62/5 | Level: 0.62/7)
+- Operations Analysis (Importance: 1.38/5 | Level: 0.62/7)
+- Equipment Selection (Importance: 1.25/5 | Level: 0.25/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Accuship Star System (Tech skill type: Materials requirements planning logistics and supply chain software)
+- ADi SmartBOL (Tech skill type: Materials requirements planning logistics and supply chain software)
+- AES MailSTAR (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Aestiva Purchase Order (Tech skill type: Procurement software)
+- Barcode labeling software (Tech skill type: Label making software)
+- Bill of lading software (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Citrix cloud computing software (Tech skill type: Access software)
+- CMS Consultants WorldLink (Tech skill type: Materials requirements planning logistics and supply chain software)
+- DM2 Bills of Lading (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Dydacomp Mail Order Manager (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Electronic Data Interchange EDI systems (Tech skill type: Enterprise application integration software)
+- Endicia Internet Postage (Tech skill type: Label making software)
+- Enterprise Systems RFID Data Management (Tech skill type: Optical character reader OCR or scanning software)
+- Exact MAX (Tech skill type: Enterprise resource planning ERP software)
+- FedEx Ship Manager (Tech skill type: Materials requirements planning logistics and supply chain software)
+- FileMaker Pro (Tech skill type: Data base user interface and query software)
+- Freight+ (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Harvey Software CPS (Tech skill type: Materials requirements planning logistics and supply chain software)
+- IBM Notes (Tech skill type: Electronic mail software)
+- Infor ERP Visual (Tech skill type: Enterprise resource planning ERP software)
+- Inventory management systems (Tech skill type: Inventory management software)
+- Inventory tracking software (Tech skill type: Inventory management software)
+- Kewill Clippership (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Kewill Compliance Partner (Tech skill type: Compliance software)
+- Kewill Javelin Distribution Ship (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Laser Substrates PostalXport (Tech skill type: Label making software)
+- Microsoft Dynamics GP (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- MSR Visual Exporter (Tech skill type: Data base user interface and query software)
+- MSR Visual Exporter Document Library (Tech skill type: Document management software)
+- MSR Visual Exporter Enterprise Integrator (Tech skill type: Enterprise application integration software)
+- Oracle JD Edwards EnterpriseOne (Tech skill type: Enterprise resource planning ERP software)
+- Pitney Bowes ShipStream Manager (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Precision TRA/X (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Sage 50 Accounting (Tech skill type: Accounting software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- Shipping and freight management software (Tech skill type: Materials requirements planning logistics and supply chain software)
+- ShipWorks (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Universal parcel shipping software (Tech skill type: Materials requirements planning logistics and supply chain software)
+- UPS Intelliverse (Tech skill type: Materials requirements planning logistics and supply chain software)
+- UPS WorldShip (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Varsity ShipSoft Supply Chain Execution Suite (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Warehouse management system WMS (Tech skill type: Materials requirements planning logistics and supply chain software)
+- Web browser software (Tech skill type: Internet browser software)
+- WindowBook Postal Package Partner (Tech skill type: Materials requirements planning logistics and supply chain software)
+
+## TOOLS USED
+- Barcode printers (Tool type: Bag tag printer)
+- Box cutters (Tool type: Razor knives)
+- Desktop computers (Tool type: Desktop computers)
+- Fixed radio frequency identification device RFID readers (Tool type: Radio frequency identification devices)
+- Forklifts (Tool type: Forklifts)
+- Hand trucks (Tool type: Hand trucks or accessories)
+- Handheld bar code scanners (Tool type: Bar code reader equipment)
+- Handheld scanners (Tool type: Radio frequency identification devices)
+- High-speed/moving object scanning devices (Tool type: Bar code reader equipment)
+- Notebook computers (Tool type: Notebook computers)
+- Package scales (Tool type: Electronic toploading balances)
+- Pillow packing machines (Tool type: Form or fill or seal machinery)
+- Pneumatic box staplers (Tool type: Staple guns)
+- Postage meters (Tool type: Franking or postage machines)
+- Radio frequency identification RFID devices (Tool type: Radio frequency identification devices)
+- Reinforced tape dispensers (Tool type: Box sealing tape dispensers)
+- Shrink wrap packaging vacuums (Tool type: Packaging vacuum)
+- Taping machines (Tool type: Form or fill or seal machinery)

@@ -1,0 +1,99 @@
+Job Title: Physical Therapist Aides
+O*NET-SOC Code: 31-2022.00
+
+# DESCRIPTION
+Under close supervision of a physical therapist or physical therapy assistant, perform only delegated, selected, or routine tasks in specific situations. These duties include preparing the patient and the treatment area.
+
+# TASKS
+- Clean and organize work area and disinfect equipment after treatment.
+- Secure patients into or onto therapy equipment.
+- Instruct, motivate, safeguard, or assist patients practicing exercises or functional activities, under direction of medical staff.
+- Confer with physical therapy staff or others to discuss and evaluate patient information for planning, modifying, or coordinating treatment.
+- Observe patients during treatment to compile and evaluate data on patients' responses and progress and report to physical therapist.
+- Change linens, such as bed sheets and pillow cases.
+- Administer active or passive manual therapeutic exercises, therapeutic massage, or heat, light, sound, water, or electrical modality treatments, such as ultrasound.
+- Transport patients to and from treatment areas, using wheelchairs or providing standing support.
+- Perform clerical duties, such as taking inventory, ordering supplies, answering telephone, taking messages, or filling out forms.
+- Schedule patient appointments with physical therapists and coordinate therapists' schedules.
+- Arrange treatment supplies to keep them in order.
+- Assist patients to dress, undress, or put on and remove supportive devices, such as braces, splints, or slings.
+- Maintain equipment or furniture to keep it in good working condition, including performing the assembly or disassembly of equipment or accessories.
+- Record treatment given and equipment used.
+- Measure patient's range-of-joint motion, body parts, or vital signs to determine effects of treatments or for patient evaluations.
+- Train patients to use orthopedic braces, prostheses, or supportive devices.
+- Administer traction to relieve neck or back pain, using intermittent or static traction equipment.
+- Fit patients for orthopedic braces, prostheses, or supportive devices, adjusting fit as needed.
+- Participate in patient care tasks, such as assisting with passing food trays, feeding residents, or bathing residents on bed rest.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Active Listening (Importance: 3.62/5 | Level: 3.0/7)
+- Monitoring (Importance: 3.25/5 | Level: 3.12/7)
+- Service Orientation (Importance: 3.25/5 | Level: 3.0/7)
+- Coordination (Importance: 3.12/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 3.12/5 | Level: 3.38/7)
+- Reading Comprehension (Importance: 3.12/5 | Level: 3.0/7)
+- Active Learning (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 2.38/7)
+- Speaking (Importance: 3.0/5 | Level: 3.0/7)
+- Writing (Importance: 3.0/5 | Level: 3.0/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 3.12/7)
+- Instructing (Importance: 3.0/5 | Level: 2.88/7)
+- Complex Problem Solving (Importance: 2.88/5 | Level: 2.62/7)
+- Persuasion (Importance: 2.88/5 | Level: 2.25/7)
+- Judgment and Decision Making (Importance: 2.75/5 | Level: 2.12/7)
+- Learning Strategies (Importance: 2.62/5 | Level: 2.88/7)
+- Negotiation (Importance: 2.25/5 | Level: 2.12/7)
+- Systems Analysis (Importance: 2.25/5 | Level: 2.12/7)
+- Management of Personnel Resources (Importance: 2.12/5 | Level: 2.12/7)
+- Operations Monitoring (Importance: 2.12/5 | Level: 2.0/7)
+- Troubleshooting (Importance: 2.0/5 | Level: 1.62/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 2.12/7)
+- Quality Control Analysis (Importance: 2.0/5 | Level: 1.88/7)
+- Mathematics (Importance: 2.0/5 | Level: 1.88/7)
+- Science (Importance: 1.88/5 | Level: 1.38/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.12/7)
+- Operations Analysis (Importance: 1.62/5 | Level: 0.75/7)
+- Operation and Control (Importance: 1.62/5 | Level: 1.25/7)
+- Equipment Maintenance (Importance: 1.5/5 | Level: 0.5/7)
+- Management of Material Resources (Importance: 1.5/5 | Level: 0.5/7)
+- Management of Financial Resources (Importance: 1.38/5 | Level: 0.38/7)
+- Equipment Selection (Importance: 1.25/5 | Level: 0.25/7)
+- Programming (Importance: 1.25/5 | Level: 0.38/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Epic Systems (Tech skill type: Medical software)
+- Medical procedure coding software (Tech skill type: Medical software)
+- MEDITECH software (Tech skill type: Medical software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Patient record maintenance software (Tech skill type: Medical software)
+- Scheduling software (Tech skill type: Calendar and scheduling software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Anti-embolism elastic stockings (Tool type: Vascular or compression apparel or support)
+- Blood pressure cuffs (Tool type: Blood pressure cuff kits)
+- Canes (Tool type: Canes)
+- Cold packs (Tool type: Therapeutic heating or cooling pads or compresses or packs)
+- Crutches (Tool type: Crutches)
+- Electrical stimulation equipment (Tool type: Electrotherapy combination units)
+- Electronic blood pressure units (Tool type: Electronic blood pressure units)
+- Gait belts (Tool type: Gait belts for rehabilitation or therapy)
+- Hot packs (Tool type: Therapeutic heating or cooling pads or compresses or packs)
+- Hydraulic lifts (Tool type: Clinical hydraulic lifts)
+- Hydrotherapy immersion baths (Tool type: Full body immersion hydrotherapy baths or tanks)
+- Lower extremity prosthetic devices (Tool type: Lower extremity prosthetic devices)
+- Notebook computers (Tool type: Notebook computers)
+- Orthopedic splint sets (Tool type: Orthopedic splint systems)
+- Orthotic devices (Tool type: Orthotics or foot care products)
+- Parallel bars (Tool type: Parallel bars for rehabilitation or therapy)
+- Personal computers (Tool type: Personal computers)
+- Therapeutic ultrasound equipment (Tool type: Ultrasonic therapy apparatus or supplies)
+- Upper extremity prosthetic devices (Tool type: Upper extremity prosthetic devices)
+- Walkers (Tool type: Walkers or rollators)
+- Wheelchairs (Tool type: Wheelchairs)

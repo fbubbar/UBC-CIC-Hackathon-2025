@@ -1,0 +1,140 @@
+Job Title: Statisticians
+O*NET-SOC Code: 15-2041.00
+
+# DESCRIPTION
+Develop or apply mathematical or statistical theory and methods to collect, organize, interpret, and summarize numerical data to provide usable information. May specialize in fields such as biostatistics, agricultural statistics, business statistics, or economic statistics. Includes mathematical and survey statisticians.
+
+# TASKS
+- Analyze and interpret statistical data to identify significant differences in relationships among sources of information.
+- Evaluate the statistical methods and procedures used to obtain data to ensure validity, applicability, efficiency, and accuracy.
+- Report results of statistical analyses, including information in the form of graphs, charts, and tables.
+- Determine whether statistical methods are appropriate, based on user needs or research questions of interest.
+- Prepare data for processing by organizing information, checking for inaccuracies, and adjusting and weighting the raw data.
+- Develop and test experimental designs, sampling techniques, and analytical methods.
+- Identify relationships and trends in data, as well as any factors that could affect the results of research.
+- Present statistical and nonstatistical results, using charts, bullets, and graphs, in meetings or conferences to audiences such as clients, peers, and students.
+- Design research projects that apply valid scientific techniques, and use information obtained from baselines or historical data to structure uncompromised and efficient analyses.
+- Adapt statistical methods to solve specific problems in many fields, such as economics, biology, and engineering.
+- Evaluate sources of information to determine any limitations, in terms of reliability or usability.
+- Process large amounts of data for statistical modeling and graphic analysis, using computers.
+- Develop software applications or programming for statistical modeling and graphic analysis.
+- Report results of statistical analyses in peer-reviewed papers and technical manuals.
+- Plan data collection methods for specific projects, and determine the types and sizes of sample groups to be used.
+- Apply sampling techniques, or use complete enumeration bases to determine and define groups to be surveyed.
+- Examine theories, such as those of probability and inference, to discover mathematical bases for new or improved methods of obtaining and evaluating numerical data.
+- Supervise and provide instructions for workers collecting and tabulating data.
+- Prepare and structure data warehouses for storing data.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Mathematics (Importance: 4.88/5 | Level: 5.38/7)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.5/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.88/7)
+- Complex Problem Solving (Importance: 3.88/5 | Level: 4.12/7)
+- Speaking (Importance: 3.88/5 | Level: 4.25/7)
+- Active Listening (Importance: 3.88/5 | Level: 4.0/7)
+- Active Learning (Importance: 3.75/5 | Level: 3.88/7)
+- Writing (Importance: 3.75/5 | Level: 4.25/7)
+- Science (Importance: 3.5/5 | Level: 3.88/7)
+- Judgment and Decision Making (Importance: 3.38/5 | Level: 3.88/7)
+- Learning Strategies (Importance: 3.12/5 | Level: 3.0/7)
+- Programming (Importance: 3.0/5 | Level: 3.12/7)
+- Time Management (Importance: 3.0/5 | Level: 3.0/7)
+- Systems Evaluation (Importance: 3.0/5 | Level: 3.12/7)
+- Systems Analysis (Importance: 3.0/5 | Level: 3.12/7)
+- Monitoring (Importance: 3.0/5 | Level: 3.0/7)
+- Operations Analysis (Importance: 2.88/5 | Level: 3.5/7)
+- Coordination (Importance: 2.88/5 | Level: 3.0/7)
+- Instructing (Importance: 2.88/5 | Level: 3.12/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 3.0/7)
+- Persuasion (Importance: 2.5/5 | Level: 2.62/7)
+- Service Orientation (Importance: 2.25/5 | Level: 2.12/7)
+- Management of Personnel Resources (Importance: 2.25/5 | Level: 2.38/7)
+- Quality Control Analysis (Importance: 2.0/5 | Level: 1.12/7)
+- Negotiation (Importance: 2.0/5 | Level: 2.0/7)
+- Operations Monitoring (Importance: 1.88/5 | Level: 1.0/7)
+- Management of Financial Resources (Importance: 1.88/5 | Level: 1.0/7)
+- Management of Material Resources (Importance: 1.75/5 | Level: 0.75/7)
+- Technology Design (Importance: 1.62/5 | Level: 0.62/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+- Operation and Control (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Amazon Redshift (Tech skill type: Data base user interface and query software)
+- Angoss KnowledgeSEEKER (Tech skill type: Data mining software)
+- Apache Hadoop (Tech skill type: Data base management system software)
+- Apache Pig (Tech skill type: Data base management system software)
+- Apache Spark (Tech skill type: Business intelligence and data analysis software)
+- Aptech Systems GAUSS (Tech skill type: Analytical or scientific software)
+- Automatic Forecasting Systems Autobox (Tech skill type: Analytical or scientific software)
+- C++ (Tech skill type: Object or component oriented development software)
+- Camfit Data Limited Microfit (Tech skill type: Analytical or scientific software)
+- Common business oriented language COBOL (Tech skill type: Development environment software)
+- Cytel StatXact (Tech skill type: Analytical or scientific software)
+- DataDescription DataDesk (Tech skill type: Analytical or scientific software)
+- Econometric Software LIMDEP (Tech skill type: Analytical or scientific software)
+- Extensible markup language XML (Tech skill type: Enterprise application integration software)
+- Formula translation/translator FORTRAN (Tech skill type: Development environment software)
+- GraphPad Software GraphPad Prism (Tech skill type: Analytical or scientific software)
+- IBM DB2 (Tech skill type: Data base user interface and query software)
+- IBM SPSS Amos (Tech skill type: Analytical or scientific software)
+- IBM SPSS AnswerTree (Tech skill type: Analytical or scientific software)
+- IBM SPSS Statistics (Tech skill type: Analytical or scientific software)
+- Insightful S-PLUS (Tech skill type: Analytical or scientific software)
+- Linux (Tech skill type: Operating system software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft SQL Server (Tech skill type: Data base user interface and query software)
+- Microsoft Visual Basic (Tech skill type: Development environment software)
+- Microsoft Visual Basic for Applications VBA (Tech skill type: Development environment software)
+- Microsoft Visual FoxPro (Tech skill type: Object oriented data base management software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Minitab (Tech skill type: Analytical or scientific software)
+- Muthen & Muthen Mplus (Tech skill type: Analytical or scientific software)
+- NCR Teradata Warehouse Miner (Tech skill type: Data mining software)
+- NCSS Power Analysis and Sample Size PASS (Tech skill type: Analytical or scientific software)
+- Python (Tech skill type: Object or component oriented development software)
+- Qlik Tech QlikView (Tech skill type: Business intelligence and data analysis software)
+- Quantitative Micro Software EViews (Tech skill type: Analytical or scientific software)
+- R (Tech skill type: Object or component oriented development software)
+- RAT-STATS (Tech skill type: Analytical or scientific software)
+- SAP PowerBuilder (Tech skill type: Object or component oriented development software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- SAS (Tech skill type: Analytical or scientific software)
+- SAS Enterprise Miner (Tech skill type: Data mining software)
+- SAS JMP (Tech skill type: Analytical or scientific software)
+- SAS/CONNECT (Tech skill type: Enterprise application integration software)
+- Scientific Software International SSI Hierarchical Linear and Non-Linear Modeling HLM (Tech skill type: Analytical or scientific software)
+- Scientific Software International SSI LISREL (Tech skill type: Analytical or scientific software)
+- Stat-Ease Design-Ease (Tech skill type: Analytical or scientific software)
+- Stat-Ease Design-Expert (Tech skill type: Analytical or scientific software)
+- StataCorp Stata (Tech skill type: Analytical or scientific software)
+- STATISTICA (Tech skill type: Analytical or scientific software)
+- Statistical software (Tech skill type: Analytical or scientific software)
+- Statistical Solutions BMDP (Tech skill type: Analytical or scientific software)
+- StatPoint STATGRAPHICS Centurion (Tech skill type: Analytical or scientific software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Sun Microsystems Java (Tech skill type: Object or component oriented development software)
+- SuperANOVA (Tech skill type: Analytical or scientific software)
+- Systat Software SigmaPlot (Tech skill type: Analytical or scientific software)
+- Systat Software SigmaStat (Tech skill type: Analytical or scientific software)
+- Tableau (Tech skill type: Business intelligence and data analysis software)
+- Teradata Database (Tech skill type: Data base management system software)
+- The MathWorks MATLAB (Tech skill type: Analytical or scientific software)
+- UNISTAT Statistical Package (Tech skill type: Analytical or scientific software)
+- UNIX (Tech skill type: Operating system software)
+- Visual Numerics TS-WAVE (Tech skill type: Analytical or scientific software)
+- Wolfram Research Mathematica (Tech skill type: Analytical or scientific software)
+- XGobi (Tech skill type: Analytical or scientific software)
+- XLISP-STAT (Tech skill type: Analytical or scientific software)
+
+## TOOLS USED
+- Desktop computers (Tool type: Desktop computers)
+- Laptop computers (Tool type: Notebook computers)
+- Personal computers (Tool type: Personal computers)

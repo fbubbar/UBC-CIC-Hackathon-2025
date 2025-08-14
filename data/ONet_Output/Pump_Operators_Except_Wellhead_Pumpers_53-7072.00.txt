@@ -1,0 +1,110 @@
+Job Title: Pump Operators, Except Wellhead Pumpers
+O*NET-SOC Code: 53-7072.00
+
+# DESCRIPTION
+Tend, control, or operate power-driven, stationary, or portable pumps and manifold systems to transfer gases, oil, other liquids, slurries, or powdered materials to and from various vessels and processes.
+
+# TASKS
+- Monitor gauges and flowmeters and inspect equipment to ensure that tank levels, temperatures, chemical amounts, and pressures are at specified levels, reporting abnormalities as necessary.
+- Record operating data such as products and quantities pumped, stocks used, gauging results, and operating times.
+- Plan movement of products through lines to processing, storage, and shipping units, using knowledge of interconnections and capacities of pipelines, valve manifolds, pumps, and tankage.
+- Turn valves and start pumps to start or regulate flows of substances such as gases, liquids, slurries, or powdered materials.
+- Communicate with other workers, using signals, radios, or telephones, to start and stop flows of materials or substances.
+- Connect hoses and pipelines to pumps and vessels prior to material transfer, using hand tools.
+- Tend vessels that store substances such as gases, liquids, slurries, or powdered materials, checking levels of substances by using calibrated rods or by reading mercury gauges and tank charts.
+- Clean, lubricate, and repair pumps and vessels, using hand tools and equipment.
+- Read operating schedules or instructions or receive verbal orders to determine amounts to be pumped.
+- Test materials and solutions, using testing equipment.
+- Tend auxiliary equipment such as water treatment and refrigeration units, and heat exchangers.
+- Add chemicals and solutions to tanks to ensure that specifications are met.
+- Collect and deliver sample solutions for laboratory analysis.
+- Pump two or more materials into one tank to blend mixtures.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operations Monitoring (Importance: 3.88/5 | Level: 3.75/7)
+- Operation and Control (Importance: 3.5/5 | Level: 3.25/7)
+- Monitoring (Importance: 3.5/5 | Level: 3.38/7)
+- Critical Thinking (Importance: 3.12/5 | Level: 3.12/7)
+- Speaking (Importance: 3.12/5 | Level: 2.88/7)
+- Reading Comprehension (Importance: 3.12/5 | Level: 3.0/7)
+- Active Listening (Importance: 3.12/5 | Level: 3.0/7)
+- Troubleshooting (Importance: 3.0/5 | Level: 2.88/7)
+- Time Management (Importance: 3.0/5 | Level: 2.88/7)
+- Judgment and Decision Making (Importance: 3.0/5 | Level: 3.0/7)
+- Quality Control Analysis (Importance: 2.88/5 | Level: 2.75/7)
+- Active Learning (Importance: 2.88/5 | Level: 2.88/7)
+- Writing (Importance: 2.88/5 | Level: 2.75/7)
+- Complex Problem Solving (Importance: 2.88/5 | Level: 2.88/7)
+- Coordination (Importance: 2.88/5 | Level: 3.0/7)
+- Equipment Maintenance (Importance: 2.88/5 | Level: 2.75/7)
+- Instructing (Importance: 2.88/5 | Level: 2.62/7)
+- Repairing (Importance: 2.75/5 | Level: 2.75/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 2.25/7)
+- Management of Personnel Resources (Importance: 2.62/5 | Level: 2.25/7)
+- Mathematics (Importance: 2.38/5 | Level: 2.62/7)
+- Systems Analysis (Importance: 2.38/5 | Level: 2.12/7)
+- Persuasion (Importance: 2.38/5 | Level: 2.12/7)
+- Service Orientation (Importance: 2.38/5 | Level: 2.12/7)
+- Management of Material Resources (Importance: 2.25/5 | Level: 1.75/7)
+- Negotiation (Importance: 2.25/5 | Level: 2.12/7)
+- Equipment Selection (Importance: 2.25/5 | Level: 2.12/7)
+- Learning Strategies (Importance: 2.12/5 | Level: 2.25/7)
+- Systems Evaluation (Importance: 2.12/5 | Level: 2.12/7)
+- Science (Importance: 2.0/5 | Level: 1.38/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.12/7)
+- Operations Analysis (Importance: 1.88/5 | Level: 1.0/7)
+- Technology Design (Importance: 1.88/5 | Level: 0.88/7)
+- Programming (Importance: 1.75/5 | Level: 0.75/7)
+- Installation (Importance: 1.12/5 | Level: 0.12/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Computerized maintenance management system CMMS (Tech skill type: Facilities management software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Operational databases (Tech skill type: Data base user interface and query software)
+- Supervisory control and data acquisition SCADA software (Tech skill type: Industrial control software)
+
+## TOOLS USED
+- Adjustable wrench sets (Tool type: Adjustable wrenches)
+- Air compressors (Tool type: Air compressors)
+- Air hammers (Tool type: Pneumatic hammer)
+- Auxiliary cooling systems (Tool type: Chilling units or cold water circulators)
+- Boom trucks (Tool type: Conventional truck cranes)
+- Calibrated well rods (Tool type: Logging instruments for water wells)
+- Chlorine analyzers (Tool type: Single gas monitors)
+- Concrete boom pumps (Tool type: Concrete pump truck)
+- Concrete line pumps (Tool type: Concrete pump truck)
+- Cordless drills (Tool type: Power drills)
+- Crane trucks (Tool type: Hydraulic truck cranes)
+- Digital densitometers (Tool type: Densitometers)
+- Digital flowmeters (Tool type: Flowmeters)
+- Dump trucks (Tool type: Dump trucks)
+- Fire pumper apparatus (Tool type: Fire pump sets)
+- Fluid pumps (Tool type: Water pumps)
+- Hard hats (Tool type: Hard hats)
+- Level instruments (Tool type: Depth indicators)
+- Manifold systems (Tool type: Air manifolds)
+- Mobile radios (Tool type: Two way radios)
+- Multipurpose hammers (Tool type: Hammers)
+- Nitrogen pumps (Tool type: Cryogenic pumps)
+- Personal computers (Tool type: Personal computers)
+- Pickup trucks (Tool type: Light trucks or sport utility vehicles)
+- Portable gas powered generators (Tool type: Gas generators)
+- Portable pumps (Tool type: Water pumps)
+- Pressure testers (Tool type: Pressure gauge)
+- Programmable logic controllers PLC (Tool type: Microcontrollers)
+- Safety goggles (Tool type: Goggles)
+- Stationary gas powered generators (Tool type: Gas generators)
+- Stationary pumps (Tool type: Water pumps)
+- Steel-toed safety boots (Tool type: Safety boots)
+- Telemetry equipment (Tool type: Telemetry systems)
+- Turbidity meters (Tool type: Water meters)
+- Turbine pumps (Tool type: Turbine pumps)
+- Wastewater lift stations (Tool type: Sewage pumps)
+- Water flow meters (Tool type: Water meters)
+- Water retention tanks (Tool type: Water storage tanks)
+- Welding equipment (Tool type: Gas welding or brazing or cutting apparatus)
+- Wheeled forklifts (Tool type: Forklifts)

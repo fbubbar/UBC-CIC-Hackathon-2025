@@ -1,0 +1,97 @@
+Job Title: Fiberglass Laminators and Fabricators
+O*NET-SOC Code: 51-2051.00
+
+# DESCRIPTION
+Laminate layers of fiberglass on molds to form boat decks and hulls, bodies for golf carts, automobiles, or other products.
+
+# TASKS
+- Release air bubbles and smooth seams, using rollers.
+- Spray chopped fiberglass, resins, and catalysts onto prepared molds or dies using pneumatic spray guns with chopper attachments.
+- Mix catalysts into resins, and saturate cloth and mats with mixtures, using brushes.
+- Check completed products for conformance to specifications and for defects by measuring with rulers or micrometers, by checking them visually, or by tapping them to detect bubbles or dead spots.
+- Pat or press layers of saturated mat or cloth into place on molds, using brushes or hands, and smooth out wrinkles and air bubbles with hands or squeegees.
+- Select precut fiberglass mats, cloth, and wood-bracing materials as required by projects being assembled.
+- Bond wood reinforcing strips to decks and cabin structures of watercraft, using resin-saturated fiberglass.
+- Trim excess materials from molds, using hand shears or trimming knives.
+- Apply layers of plastic resin to mold surfaces prior to placement of fiberglass mats, repeating layers until products have the desired thicknesses and plastics have jelled.
+- Inspect, clean, and assemble molds before beginning work.
+- Cure materials by letting them set at room temperature, placing them under heat lamps, or baking them in ovens.
+- Apply lacquers and waxes to mold surfaces to facilitate assembly and removal of laminated parts.
+- Repair or modify damaged or defective glass-fiber parts, checking thicknesses, densities, and contours to ensure a close fit after repair.
+- Mask off mold areas not to be laminated, using cellophane, wax paper, masking tape, or special sprays containing mold-release substances.
+- Check all dies, templates, and cutout patterns to be used in the manufacturing process to ensure that they conform to dimensional data, photographs, blueprints, samples, or customer specifications.
+- Trim cured materials by sawing them with diamond-impregnated cutoff wheels.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Monitoring (Importance: 3.12/5 | Level: 3.12/7)
+- Operations Monitoring (Importance: 3.12/5 | Level: 3.0/7)
+- Complex Problem Solving (Importance: 3.0/5 | Level: 2.88/7)
+- Speaking (Importance: 3.0/5 | Level: 2.62/7)
+- Reading Comprehension (Importance: 3.0/5 | Level: 2.75/7)
+- Active Listening (Importance: 3.0/5 | Level: 2.88/7)
+- Active Learning (Importance: 2.88/5 | Level: 2.75/7)
+- Time Management (Importance: 2.88/5 | Level: 2.62/7)
+- Quality Control Analysis (Importance: 2.88/5 | Level: 2.88/7)
+- Operation and Control (Importance: 2.88/5 | Level: 3.0/7)
+- Writing (Importance: 2.88/5 | Level: 2.5/7)
+- Instructing (Importance: 2.88/5 | Level: 2.75/7)
+- Coordination (Importance: 2.88/5 | Level: 2.62/7)
+- Critical Thinking (Importance: 2.88/5 | Level: 2.88/7)
+- Judgment and Decision Making (Importance: 2.88/5 | Level: 2.62/7)
+- Social Perceptiveness (Importance: 2.75/5 | Level: 2.38/7)
+- Learning Strategies (Importance: 2.62/5 | Level: 2.75/7)
+- Negotiation (Importance: 2.38/5 | Level: 2.25/7)
+- Mathematics (Importance: 2.38/5 | Level: 2.12/7)
+- Troubleshooting (Importance: 2.38/5 | Level: 2.25/7)
+- Management of Personnel Resources (Importance: 2.38/5 | Level: 2.25/7)
+- Service Orientation (Importance: 2.38/5 | Level: 2.12/7)
+- Persuasion (Importance: 2.38/5 | Level: 2.5/7)
+- Systems Analysis (Importance: 2.25/5 | Level: 2.0/7)
+- Systems Evaluation (Importance: 2.12/5 | Level: 2.12/7)
+- Equipment Selection (Importance: 2.12/5 | Level: 1.5/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.5/7)
+- Management of Financial Resources (Importance: 1.88/5 | Level: 0.88/7)
+- Equipment Maintenance (Importance: 1.88/5 | Level: 1.12/7)
+- Technology Design (Importance: 1.88/5 | Level: 0.88/7)
+- Science (Importance: 1.75/5 | Level: 1.0/7)
+- Repairing (Importance: 1.62/5 | Level: 1.12/7)
+- Operations Analysis (Importance: 1.12/5 | Level: 0.25/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Enterprise resource planning ERP software (Tech skill type: Enterprise resource planning ERP software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Chopper guns (Tool type: Resin guns)
+- Curing ovens (Tool type: Paint systems ovens)
+- Cutoff saws (Tool type: Power saws)
+- Fiber reinforced polymer FRP rollers (Tool type: Feed or drive rollers)
+- Hand shears (Tool type: Shears)
+- Heat lamps (Tool type: Laboratory heaters)
+- High-volume low-pressure HVLP spray guns (Tool type: Paint sprayers)
+- Ladders (Tool type: Ladders)
+- Micrometers (Tool type: Micrometers)
+- Paint application brushes (Tool type: Paint brushes)
+- Paint application rollers (Tool type: Paint rollers)
+- Paint spray guns (Tool type: Paint sprayers)
+- Personal computers (Tool type: Personal computers)
+- Pneumatic spray guns (Tool type: Paint sprayers)
+- Power drills (Tool type: Power drills)
+- Power drivers (Tool type: Power screwguns)
+- Power grinders (Tool type: Power grinders)
+- Power sanders (Tool type: Power sanders)
+- Pressure-fed roller applicators (Tool type: Feed or drive rollers)
+- Respirators (Tool type: Respirators)
+- Rotating mandrels (Tool type: Bending machines)
+- Rulers (Tool type: Rulers)
+- Scaffolding (Tool type: Scaffolding)
+- Squeegees (Tool type: Squeegees or washers)
+- Trimming knives (Tool type: Utility knives)
+- Vacuum bags (Tool type: Glass vacuum moldings)
+- Vacuum pumps (Tool type: Vacuum pumps)

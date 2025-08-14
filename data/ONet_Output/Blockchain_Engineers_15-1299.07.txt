@@ -1,0 +1,81 @@
+Job Title: Blockchain Engineers
+O*NET-SOC Code: 15-1299.07
+
+# DESCRIPTION
+Maintain and support distributed and decentralized blockchain-based networks or block-chain applications such as cryptocurrency exchange, payment processing, document sharing, and digital voting. Design and deploy secure block-chain design patterns and solutions over geographically distributed networks using advanced technologies. May assist with infrastructure setup and testing for application transparency and security.
+
+# TASKS
+- Assess blockchain threats, such as untested code and unprotected keys.
+- Automate the deployment of software updates over geographically distributed network nodes.
+- Design and deploy blockchain design patterns to make transactions secure, transparent, and immutable.
+- Design and develop blockchain technologies for industries such as finance and music.
+- Design and implement dashboard and data visualizations to meet customer reporting needs.
+- Design and implement data repositories to integrate data.
+- Design and verify cryptographic protocols to protect private information.
+- Determine specifications for, or implement, logging.
+- Develop a maintainable code base using object-oriented design principles, practices, or patterns.
+- Discuss and plan systems with solution architects, system engineers, or cybersecurity experts to meet customer requirements.
+- Discuss data needs with engineers, product managers, or data scientists to identify blockchain requirements.
+- Evaluate blockchain processes or risks based on security assessments or control matrix reviews.
+- Evaluate new blockchain technologies and vendor products.
+- Implement catastrophic failure handlers to identify security breaches and prevent serious damage.
+- Run infrastructure tests to examine the behavior of large peer-to-peer networks.
+- Test the security and performance of blockchain infrastructures.
+- Update client and server applications responsible for integration and business logic.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- No specific skills listed.
+
+# TECHNOLOGY SKILLS & TOOLS
+- Amazon Elastic Container Service ECS (Tech skill type: Application server software)
+- Amazon Kinesis (Tech skill type: Data base management system software)
+- Amazon Simple Storage Service S3 (Tech skill type: Storage networking software)
+- Amazon Web Services AWS CloudFormation (Tech skill type: Cloud-based management software)
+- Amazon Web Services AWS software (Tech skill type: Data base user interface and query software)
+- Ansible software (Tech skill type: Expert system software)
+- Apache Kafka (Tech skill type: Development environment software)
+- Atlassian Confluence (Tech skill type: Project management software)
+- Atlassian JIRA (Tech skill type: Content workflow software)
+- C# (Tech skill type: Object or component oriented development software)
+- C++ (Tech skill type: Object or component oriented development software)
+- Docker (Tech skill type: Application server software)
+- Enterprise application integration EAI software (Tech skill type: Enterprise application integration software)
+- Git (Tech skill type: File versioning software)
+- GitHub (Tech skill type: Application server software)
+- Go (Tech skill type: Development environment software)
+- Google Angular (Tech skill type: Web platform development software)
+- Grafana Labs Grafana Cloud (Tech skill type: Graphical user interface development software)
+- IBM Terraform (Tech skill type: Configuration management software)
+- JavaScript (Tech skill type: Web platform development software)
+- Jenkins CI (Tech skill type: Enterprise application integration software)
+- Kotlin (Tech skill type: Development environment software)
+- Kubernetes (Tech skill type: Application server software)
+- Linux (Tech skill type: Operating system software)
+- Low-level virtual machine LLVM compilers (Tech skill type: Compiler and decompiler software)
+- Microservices Architecture (Tech skill type: Application server software)
+- Microsoft Azure software (Tech skill type: Development environment software)
+- MongoDB (Tech skill type: Data base management system software)
+- MySQL (Tech skill type: Data base management system software)
+- Node.js (Tech skill type: Web platform development software)
+- NoSQL (Tech skill type: Data base management system software)
+- Operating system software (Tech skill type: Operating system software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- Oracle Java Message Service JMS (Tech skill type: Object or component oriented development software)
+- PostgreSQL (Tech skill type: Object oriented data base management software)
+- Python (Tech skill type: Object or component oriented development software)
+- RabbitMQ (Tech skill type: Object or component oriented development software)
+- React (Tech skill type: Web platform development software)
+- RESTful API (Tech skill type: Web platform development software)
+- Rust programming language (Tech skill type: Development environment software)
+- Software as a service SaaS (Tech skill type: Cloud-based data access and sharing software)
+- Software libraries (Tech skill type: Development environment software)
+- Solidity (Tech skill type: Development environment software)
+- Source code editor software (Tech skill type: Program testing software)
+- Splunk Enterprise (Tech skill type: Enterprise system management software)
+- Spring Boot (Tech skill type: Application server software)
+- Spring Framework (Tech skill type: Web platform development software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- TypeScript (Tech skill type: Object or component oriented development software)
+- Web framework software (Tech skill type: Web platform development software)
+- No specific tools listed.

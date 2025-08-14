@@ -1,0 +1,76 @@
+Job Title: Subway and Streetcar Operators
+O*NET-SOC Code: 53-4041.00
+
+# DESCRIPTION
+Operate subway or elevated suburban trains with no separate locomotive, or electric-powered streetcar, to transport passengers. May handle fares.
+
+# TASKS
+- Monitor lights indicating obstructions or other trains ahead and watch for car and truck traffic at crossings to stay alert to potential hazards.
+- Operate controls to open and close transit vehicle doors.
+- Drive and control rail-guided public transportation, such as subways, elevated trains, and electric-powered streetcars, trams, or trolleys, to transport passengers.
+- Report delays, mechanical problems, and emergencies to supervisors or dispatchers, using radios.
+- Regulate vehicle speed and the time spent at each stop to maintain schedules.
+- Make announcements to passengers, such as notifications of upcoming stops or schedule delays.
+- Direct emergency evacuation procedures.
+- Complete reports, including shift summaries and incident or accident reports.
+- Greet passengers, provide information, and answer questions concerning fares, schedules, transfers, and routings.
+- Attend meetings on driver and passenger safety to learn ways in which job performance might be affected.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operation and Control (Importance: 3.88/5 | Level: 3.88/7)
+- Operations Monitoring (Importance: 3.88/5 | Level: 3.75/7)
+- Active Listening (Importance: 3.62/5 | Level: 3.0/7)
+- Speaking (Importance: 3.38/5 | Level: 2.75/7)
+- Monitoring (Importance: 3.25/5 | Level: 3.12/7)
+- Service Orientation (Importance: 3.12/5 | Level: 2.88/7)
+- Reading Comprehension (Importance: 3.12/5 | Level: 3.12/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 2.88/7)
+- Time Management (Importance: 3.0/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 2.88/7)
+- Active Learning (Importance: 3.0/5 | Level: 3.0/7)
+- Critical Thinking (Importance: 3.0/5 | Level: 3.25/7)
+- Complex Problem Solving (Importance: 3.0/5 | Level: 2.88/7)
+- Coordination (Importance: 3.0/5 | Level: 2.38/7)
+- Writing (Importance: 2.75/5 | Level: 2.5/7)
+- Persuasion (Importance: 2.75/5 | Level: 2.12/7)
+- Learning Strategies (Importance: 2.62/5 | Level: 2.62/7)
+- Negotiation (Importance: 2.62/5 | Level: 2.12/7)
+- Troubleshooting (Importance: 2.62/5 | Level: 2.12/7)
+- Quality Control Analysis (Importance: 2.5/5 | Level: 2.0/7)
+- Mathematics (Importance: 2.38/5 | Level: 2.0/7)
+- Instructing (Importance: 2.38/5 | Level: 2.5/7)
+- Equipment Maintenance (Importance: 2.25/5 | Level: 2.12/7)
+- Management of Personnel Resources (Importance: 2.12/5 | Level: 2.0/7)
+- Repairing (Importance: 2.12/5 | Level: 2.12/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 2.0/7)
+- Systems Analysis (Importance: 2.0/5 | Level: 1.12/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.62/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.0/7)
+- Equipment Selection (Importance: 2.0/5 | Level: 1.75/7)
+- Operations Analysis (Importance: 1.75/5 | Level: 0.88/7)
+- Science (Importance: 1.0/5 | Level: 0.0/7)
+- Programming (Importance: 1.0/5 | Level: 0.0/7)
+- Technology Design (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Microsoft Office software (Tech skill type: Office suite software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Customer-to-operator two-way communication systems (Tool type: Intercom systems)
+- Deadman pedals (Tool type: Train braking systems)
+- Diesel powered train engines (Tool type: Diesel passenger locomotives)
+- Door opening controls (Tool type: Door openers)
+- Electric train engines (Tool type: Electric passenger locomotives)
+- In-train public address systems (Tool type: Public address systems)
+- Multipurpose fire extinguishers (Tool type: Fire extinguishers)
+- Portable two way radios (Tool type: Two way radios)
+- Railcar defrosting systems (Tool type: Train defrosting or defogging systems)
+- Streetcars (Tool type: Streetcars or tramway cars)
+- Track switches (Tool type: Rail switching systems)
+- Trolley bell foot pedals (Tool type: Vehicle horns)
+- Trolleys (Tool type: Streetcars or tramway cars)
+- Wheelchair exit or entrance ramps (Tool type: Wheelchair ramps)
+- Whistle pulls (Tool type: Vehicle horns)

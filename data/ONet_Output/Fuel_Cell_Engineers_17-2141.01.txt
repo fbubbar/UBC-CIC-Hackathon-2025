@@ -1,0 +1,142 @@
+Job Title: Fuel Cell Engineers
+O*NET-SOC Code: 17-2141.01
+
+# DESCRIPTION
+Design, evaluate, modify, or construct fuel cell components or systems for transportation, stationary, or portable applications.
+
+# TASKS
+- Plan or conduct experiments to validate new materials, optimize startup protocols, reduce conditioning time, or examine contaminant tolerance.
+- Provide technical consultation or direction related to the development or production of fuel cell systems.
+- Characterize component or fuel cell performances by generating operating maps, defining operating conditions, identifying design refinements, or executing durability assessments.
+- Plan or implement fuel cell cost reduction or product improvement projects in collaboration with other engineers, suppliers, support personnel, or customers.
+- Conduct fuel cell testing projects, using fuel cell test stations, analytical instruments, or electrochemical diagnostics, such as cyclic voltammetry or impedance spectroscopy.
+- Analyze fuel cell or related test data, using statistical software.
+- Conduct post-service or failure analyses, using electromechanical diagnostic principles or procedures.
+- Define specifications for fuel cell materials.
+- Recommend or implement changes to fuel cell system designs.
+- Validate design of fuel cells, fuel cell components, or fuel cell systems.
+- Read current literature, attend meetings or conferences, or talk with colleagues to stay abreast of new technology or competitive products.
+- Prepare test stations, instrumentation, or data acquisition systems for use in specific tests of fuel cell components or systems.
+- Develop fuel cell materials or fuel cell test equipment.
+- Fabricate prototypes of fuel cell components, assemblies, stacks, or systems.
+- Manage fuel cell battery hybrid system architecture, including sizing of components, such as fuel cells, energy storage units, or electric drives.
+- Design or implement fuel cell testing or development programs.
+- Write technical reports or proposals related to engineering projects.
+- Simulate or model fuel cell, motor, or other system information, using simulation software programs.
+- Design fuel cell systems, subsystems, stacks, assemblies, or components, such as electric traction motors or power electronics.
+- Identify or define vehicle and system integration challenges for fuel cell vehicles.
+- Calculate the efficiency or power output of a fuel cell system or process.
+- Coordinate fuel cell engineering or test schedules with departments outside engineering, such as manufacturing.
+- Authorize release of fuel cell parts, components, or subsystems for production.
+- Evaluate the power output, system cost, or environmental impact of new hydrogen or non-hydrogen fuel cell system designs.
+- Integrate electric drive subsystems with other vehicle systems to optimize performance or mitigate faults.
+- Develop or evaluate systems or methods of hydrogen storage for fuel cell applications.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.25/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.75/7)
+- Writing (Importance: 3.75/5 | Level: 4.12/7)
+- Speaking (Importance: 3.75/5 | Level: 4.0/7)
+- Science (Importance: 3.75/5 | Level: 4.0/7)
+- Monitoring (Importance: 3.62/5 | Level: 4.0/7)
+- Systems Evaluation (Importance: 3.62/5 | Level: 4.12/7)
+- Systems Analysis (Importance: 3.62/5 | Level: 4.12/7)
+- Active Listening (Importance: 3.62/5 | Level: 4.12/7)
+- Active Learning (Importance: 3.62/5 | Level: 4.0/7)
+- Judgment and Decision Making (Importance: 3.62/5 | Level: 4.0/7)
+- Mathematics (Importance: 3.5/5 | Level: 4.12/7)
+- Complex Problem Solving (Importance: 3.25/5 | Level: 3.88/7)
+- Learning Strategies (Importance: 3.12/5 | Level: 3.12/7)
+- Operations Monitoring (Importance: 3.12/5 | Level: 3.5/7)
+- Quality Control Analysis (Importance: 3.12/5 | Level: 3.12/7)
+- Operations Analysis (Importance: 3.0/5 | Level: 3.12/7)
+- Troubleshooting (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 2.88/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Instructing (Importance: 3.0/5 | Level: 3.12/7)
+- Technology Design (Importance: 2.88/5 | Level: 3.12/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 3.0/7)
+- Operation and Control (Importance: 2.75/5 | Level: 2.88/7)
+- Persuasion (Importance: 2.75/5 | Level: 2.88/7)
+- Service Orientation (Importance: 2.62/5 | Level: 2.62/7)
+- Negotiation (Importance: 2.62/5 | Level: 2.75/7)
+- Equipment Selection (Importance: 2.62/5 | Level: 2.75/7)
+- Management of Material Resources (Importance: 2.5/5 | Level: 2.62/7)
+- Programming (Importance: 2.5/5 | Level: 2.38/7)
+- Management of Personnel Resources (Importance: 2.5/5 | Level: 3.0/7)
+- Repairing (Importance: 2.38/5 | Level: 2.75/7)
+- Equipment Maintenance (Importance: 2.12/5 | Level: 2.12/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 1.38/7)
+- Installation (Importance: 1.62/5 | Level: 0.75/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Ansoft Simplorer (Tech skill type: Analytical or scientific software)
+- Ansys Fluent (Tech skill type: Analytical or scientific software)
+- ASPEN PLUS (Tech skill type: Analytical or scientific software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- C (Tech skill type: Development environment software)
+- C++ (Tech skill type: Object or component oriented development software)
+- Enterprise resource planning ERP software (Tech skill type: Enterprise resource planning ERP software)
+- FactSage (Tech skill type: Analytical or scientific software)
+- Failure mode and effects analysis FMEA software (Tech skill type: Analytical or scientific software)
+- Gaussian GaussView (Tech skill type: Analytical or scientific software)
+- Gaussian software (Tech skill type: Analytical or scientific software)
+- GE Energy GateCycle (Tech skill type: Analytical or scientific software)
+- IBM Cloud (Tech skill type: Data base user interface and query software)
+- Maplesoft Maple (Tech skill type: Analytical or scientific software)
+- MathWorks Simulink (Tech skill type: Analytical or scientific software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Minitab (Tech skill type: Analytical or scientific software)
+- National Instruments LabVIEW (Tech skill type: Development environment software)
+- Oracle Database (Tech skill type: Data base user interface and query software)
+- Statistical software (Tech skill type: Analytical or scientific software)
+- Supervisory control and data acquisition SCADA software (Tech skill type: Industrial control software)
+- The MathWorks MATLAB (Tech skill type: Analytical or scientific software)
+- Wind River Systems C/C++ Compiler Suite (Tech skill type: Development environment software)
+- Wolfram Research Mathematica (Tech skill type: Analytical or scientific software)
+
+## TOOLS USED
+- Desktop computers (Tool type: Desktop computers)
+- Differential scanning calorimeters (Tool type: Calorimeters)
+- Digital sonifiers (Tool type: Homogenizers)
+- Dilatometers (Tool type: Volumeters)
+- Flame ionization detectors FID (Tool type: Flame ionization analyzers)
+- Flow reactors (Tool type: Reactors or fermenters or digesters)
+- Fluorescence detectors (Tool type: Chemiluminescence or bioluminescence analyzers)
+- Fourier transfer infrared FTIR spectrometers (Tool type: Infrared spectrometers)
+- Frequency response analyzers (Tool type: Frequency analyzers)
+- Fuel cell test stands (Tool type: Engine or component test stands)
+- Gas chromatography equipment (Tool type: Gas chromatographs)
+- Gravity convection ovens (Tool type: Laboratory mechanical convection ovens)
+- High pressure liquid chromatographs HPLC (Tool type: High pressure liquid chromatograph chromatography)
+- High temperature tube furnaces (Tool type: Tube furnaces)
+- Induction furnaces (Tool type: Crucible furnaces)
+- Infrared IR spectrophotometers (Tool type: Infrared spectrometers)
+- Laboratory ball mills (Tool type: Laboratory mills)
+- Laboratory glove boxes (Tool type: Isolation glove boxes)
+- Laboratory vacuum ovens (Tool type: Vacuum ovens)
+- Laptop computers (Tool type: Notebook computers)
+- Load boxes (Tool type: Power meters)
+- Mass spectrometers (Tool type: Mass spectrometers)
+- Microbalances (Tool type: Laboratory balances)
+- Molding presses (Tool type: Forming machine)
+- Personal computers (Tool type: Personal computers)
+- Portable emissions analyzers (Tool type: Multi gas monitors)
+- Power analyzers (Tool type: Power meters)
+- Programmable logic controllers PLC (Tool type: Microcontrollers)
+- Scanning electron microscopes SEM (Tool type: Scanning electron microscopes)
+- Scanning spectrophotometers (Tool type: Spectrophotometers)
+- Surface area analyzers (Tool type: Chemical absorption gas analyzers)
+- Thermal gravimetric analyzers (Tool type: Thermo gravimetry analyzers)
+- Thermovolumetric analyzers TVA (Tool type: Thermal differential analyzers)
+- Transmission electron microscopes TEM (Tool type: Transmission electron microscopes)
+- Ultrasonic blenders (Tool type: Homogenizers)
+- X ray crystallography equipment (Tool type: X ray diffraction equipment)
+- X ray fluorescence XRF spectrometers (Tool type: Spectrofluorimeters or fluorimeters)
+- X ray photoelectric spectroscopes (Tool type: Spectrometers)

@@ -1,0 +1,167 @@
+Job Title: Intelligence Analysts
+O*NET-SOC Code: 33-3021.06
+
+# DESCRIPTION
+Gather, analyze, or evaluate information from a variety of sources, such as law enforcement databases, surveillance, intelligence networks or geographic information systems. Use intelligence data to anticipate and prevent organized crime activities, such as terrorism.
+
+# TASKS
+- Validate known intelligence with data from other sources.
+- Gather, analyze, correlate, or evaluate information from a variety of resources, such as law enforcement databases.
+- Evaluate records of communications, such as telephone calls, to plot activity and determine the size and location of criminal groups and members.
+- Gather intelligence information by field observation, confidential information sources, or public records.
+- Analyze intelligence data to identify patterns and trends in criminal activity.
+- Prepare comprehensive written reports, presentations, maps, or charts, based on research, collection, and analysis of intelligence data.
+- Collaborate with representatives from other government and intelligence organizations to share information or coordinate intelligence activities.
+- Link or chart suspects to criminal organizations or events to determine activities and interrelationships.
+- Establish criminal profiles to aid in connecting criminal organizations with their members.
+- Identify gaps in information.
+- Design, use, or maintain databases and software applications, such as geographic information systems (GIS) mapping and artificial intelligence tools.
+- Predict future gang, organized crime, or terrorist activity, using analyses of intelligence data.
+- Study activities relating to narcotics, money laundering, gangs, auto theft rings, terrorism, or other national security threats.
+- Study the assets of criminal suspects to determine the flow of money from or to targeted groups.
+- Conduct presentations of analytic findings.
+- Develop defense plans or tactics, using intelligence and other information.
+- Interview, interrogate, or interact with witnesses or crime suspects to collect human intelligence.
+- Prepare plans to intercept foreign communications transmissions.
+- Study communication code languages or foreign languages to translate intelligence.
+- Gather and evaluate information, using tools such as aerial photographs, radar equipment, or sensitive radio equipment.
+- Operate cameras, radios, or other surveillance equipment to intercept communications or document activities.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Reading Comprehension (Importance: 4.25/5 | Level: 4.88/7)
+- Active Listening (Importance: 4.12/5 | Level: 4.12/7)
+- Writing (Importance: 4.0/5 | Level: 4.0/7)
+- Speaking (Importance: 4.0/5 | Level: 4.12/7)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.38/7)
+- Active Learning (Importance: 3.62/5 | Level: 4.0/7)
+- Complex Problem Solving (Importance: 3.62/5 | Level: 3.62/7)
+- Monitoring (Importance: 3.25/5 | Level: 3.38/7)
+- Judgment and Decision Making (Importance: 3.12/5 | Level: 3.75/7)
+- Coordination (Importance: 3.12/5 | Level: 3.5/7)
+- Persuasion (Importance: 3.0/5 | Level: 3.12/7)
+- Systems Evaluation (Importance: 3.0/5 | Level: 3.0/7)
+- Instructing (Importance: 3.0/5 | Level: 3.12/7)
+- Learning Strategies (Importance: 3.0/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 3.12/7)
+- Negotiation (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 3.0/7)
+- Service Orientation (Importance: 2.88/5 | Level: 2.88/7)
+- Systems Analysis (Importance: 2.88/5 | Level: 2.88/7)
+- Mathematics (Importance: 2.75/5 | Level: 2.88/7)
+- Management of Personnel Resources (Importance: 2.0/5 | Level: 2.12/7)
+- Operations Analysis (Importance: 2.0/5 | Level: 2.12/7)
+- Science (Importance: 1.88/5 | Level: 1.75/7)
+- Operations Monitoring (Importance: 1.75/5 | Level: 1.38/7)
+- Programming (Importance: 1.75/5 | Level: 1.38/7)
+- Technology Design (Importance: 1.62/5 | Level: 0.75/7)
+- Management of Material Resources (Importance: 1.5/5 | Level: 0.5/7)
+- Management of Financial Resources (Importance: 1.5/5 | Level: 0.5/7)
+- Quality Control Analysis (Importance: 1.12/5 | Level: 0.12/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Operation and Control (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Amazon Simple Storage Service S3 (Tech skill type: Storage networking software)
+- Amazon Web Services AWS software (Tech skill type: Data base user interface and query software)
+- Apache Hadoop (Tech skill type: Data base management system software)
+- Apache Hive (Tech skill type: Data base management system software)
+- Apache Kafka (Tech skill type: Development environment software)
+- Apache Pig (Tech skill type: Data base management system software)
+- Apache Spark (Tech skill type: Business intelligence and data analysis software)
+- Arrival Departure Information System ADIS (Tech skill type: Data base user interface and query software)
+- Automated Targeting System ATS (Tech skill type: Data base user interface and query software)
+- Bing (Tech skill type: Data base user interface and query software)
+- Biometric Storage System BSS (Tech skill type: Data base user interface and query software)
+- C++ (Tech skill type: Object or component oriented development software)
+- Chatbot software (Tech skill type: Industrial control software)
+- Computer Linked Application Information Management System CLAIMS (Tech skill type: Data base user interface and query software)
+- Consular Consolidated Database CCD (Tech skill type: Data base user interface and query software)
+- Data mining software (Tech skill type: Data mining software)
+- Data visualization software (Tech skill type: Analytical or scientific software)
+- Django (Tech skill type: Web platform development software)
+- Email software (Tech skill type: Electronic mail software)
+- Encryption software (Tech skill type: Transaction security and virus protection software)
+- Enforcement Case Tracking System ENFORCE (Tech skill type: Data base user interface and query software)
+- ESRI ArcGIS software (Tech skill type: Geographic information system)
+- ESRI ArcView (Tech skill type: Geographic information system)
+- Facebook (Tech skill type: Web page creation and editing software)
+- Firewall software (Tech skill type: Network security and virtual private network VPN equipment software)
+- Flowcharting software (Tech skill type: Process mapping and design software)
+- Geographic information system GIS software (Tech skill type: Geographic information system)
+- Geographic information system GIS systems (Tech skill type: Geographic information system)
+- Google (Tech skill type: Data base user interface and query software)
+- Google Cloud software (Tech skill type: Cloud-based management software)
+- Google Earth Pro (Tech skill type: Geographic information system)
+- Graphics creation software (Tech skill type: Graphics or photo imaging software)
+- Hypertext markup language HTML (Tech skill type: Web platform development software)
+- IBM i2 Analyst's Notebook (Tech skill type: Data base user interface and query software)
+- JavaScript (Tech skill type: Web platform development software)
+- LexisNexis (Tech skill type: Information retrieval or search software)
+- Link analysis software (Tech skill type: Analytical or scientific software)
+- LinkedIn (Tech skill type: Web page creation and editing software)
+- Linux (Tech skill type: Operating system software)
+- McAfee (Tech skill type: Transaction security and virus protection software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Azure software (Tech skill type: Development environment software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft PowerShell (Tech skill type: Development environment software)
+- Microsoft SharePoint (Tech skill type: Document management software)
+- Microsoft SQL Server (Tech skill type: Data base user interface and query software)
+- Microsoft Visio (Tech skill type: Graphics or photo imaging software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Myspace (Tech skill type: Web page creation and editing software)
+- National Crime Information Center (NCIC) database (Tech skill type: Data base user interface and query software)
+- NortonLifeLock cybersecurity software (Tech skill type: Transaction security and virus protection software)
+- Operating system software (Tech skill type: Operating system software)
+- Oracle Business Intelligence Enterprise Edition (Tech skill type: Business intelligence and data analysis software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- Oracle PeopleSoft (Tech skill type: Enterprise resource planning ERP software)
+- Palantir Intelligence (Tech skill type: Data base user interface and query software)
+- Photo enhancement software (Tech skill type: Graphics or photo imaging software)
+- Python (Tech skill type: Object or component oriented development software)
+- R (Tech skill type: Object or component oriented development software)
+- Refugee, Asylum and Parole System RAPS (Tech skill type: Data base user interface and query software)
+- Relational database management software (Tech skill type: Data base management system software)
+- SAP software (Tech skill type: Enterprise resource planning ERP software)
+- SAS (Tech skill type: Analytical or scientific software)
+- Snort (Tech skill type: Network monitoring software)
+- Splunk Enterprise (Tech skill type: Cloud-based management software)
+- Statistical analysis software (Tech skill type: Analytical or scientific software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Student and Exchange Visitor Information System SEVIS (Tech skill type: Data base user interface and query software)
+- Tableau (Tech skill type: Business intelligence and data analysis software)
+- Telephone analysis software (Tech skill type: Analytical or scientific software)
+- Telephone records software (Tech skill type: Data base user interface and query software)
+- TensorFlow (Tech skill type: Analytical or scientific software)
+- Teradata Database (Tech skill type: Data base management system software)
+- Text mining software (Tech skill type: Data mining software)
+- Thomson Reuters CLEAR (Tech skill type: Data base user interface and query software)
+- Timeline software (Tech skill type: Charting software)
+- Treasury Enforcement Communications System TECS (Tech skill type: Data base user interface and query software)
+- UNIX (Tech skill type: Operating system software)
+- Veritas NetBackup (Tech skill type: Backup or archival software)
+- Web browser software (Tech skill type: Internet browser software)
+- Wireshark (Tech skill type: Network monitoring software)
+
+## TOOLS USED
+- Color copiers (Tool type: Photocopiers)
+- Color laser printers (Tool type: Laser printers)
+- Computer laser printers (Tool type: Laser printers)
+- Desktop computers (Tool type: Desktop computers)
+- Digital still cameras (Tool type: Digital cameras)
+- Digital video cameras (Tool type: Digital camcorders or video cameras)
+- Document scanners (Tool type: Scanners)
+- Laptop computers (Tool type: Notebook computers)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Multimedia presentation projectors (Tool type: Multimedia projectors)
+- Plotting printers (Tool type: Plotter printers)
+- Smart phones (Tool type: Mobile phones)
+- Statistical calculators (Tool type: Scientific calculator)

@@ -1,0 +1,141 @@
+Job Title: Telecommunications Equipment Installers and Repairers, Except Line Installers
+O*NET-SOC Code: 49-2022.00
+
+# DESCRIPTION
+Install, set up, rearrange, or remove switching, distribution, routing, and dialing equipment used in central offices or headends. Service or repair telephone, cable television, Internet, and other communications equipment on customers' property. May install communications equipment or communications wiring in buildings.
+
+# TASKS
+- Demonstrate equipment to customers and explain its use, responding to any inquiries or complaints.
+- Test circuits and components of malfunctioning telecommunications equipment to isolate sources of malfunctions, using test meters, circuit diagrams, polarity probes, and other hand tools.
+- Test repaired, newly installed, or updated equipment to ensure that it functions properly and conforms to specifications, using test equipment and observation.
+- Climb poles and ladders, use truck-mounted booms, and enter areas such as manholes and cable vaults to install, maintain, or inspect equipment.
+- Assemble and install communication equipment such as data and telephone communication lines, wiring, switching equipment, wiring frames, power apparatus, computer systems, and networks.
+- Run wires between components and to outside cable systems, connecting them to wires from telephone poles or underground cable accesses.
+- Test connections to ensure that power supplies are adequate and that communications links function.
+- Note differences in wire and cable colors so that work can be performed correctly.
+- Inspect equipment on a regular basis to ensure proper functioning.
+- Collaborate with other workers to locate and correct malfunctions.
+- Remove loose wires and other debris after work is completed.
+- Repair or replace faulty equipment, such as defective and damaged telephones, wires, switching system components, and associated equipment.
+- Maintain computer and manual records pertaining to facilities and equipment.
+- Communicate with bases, using telephones or two-way radios to receive instructions or technical advice, or to report equipment status.
+- Remove and remake connections to change circuit layouts, following work orders or diagrams.
+- Clean and maintain tools, test equipment, and motor vehicles.
+- Perform database verifications, using computers.
+- Request support from technical service centers when on-site procedures fail to solve installation or maintenance problems.
+- Analyze test readings, computer printouts, and trouble reports to determine equipment repair needs and required repair methods.
+- Adjust or modify equipment to enhance equipment performance or to respond to customer requests.
+- Remove and replace plug-in circuit equipment.
+- Refer to manufacturers' manuals to obtain maintenance instructions pertaining to specific malfunctions.
+- Dig holes or trenches as necessary for equipment installation and access.
+- Review manufacturer's instructions, manuals, technical specifications, building permits, and ordinances to determine communication equipment requirements and procedures.
+- Drive crew trucks to and from work areas.
+- Route and connect cables and lines to switches, switchboard equipment, and distributing frames, using wire-wrap guns or soldering irons to connect wires to terminals.
+- Designate cables available for use.
+- Diagnose and correct problems from remote locations, using special switchboards to find the sources of problems.
+- Program computerized switches and switchboards to provide requested features.
+- Enter codes needed to correct electronic switching system programming.
+- Examine telephone transmission facilities to determine requirements for new or additional telephone services.
+- Measure distances from landmarks to identify exact installation sites for equipment.
+- Install updated software and programs that maintain existing software or provide requested features, such as time-correlated call routing.
+- Perform routine maintenance on equipment, including adjusting and lubricating components and painting worn or exposed areas.
+- Determine viability of sites through observation, and discuss site locations and construction requirements with customers.
+- Install telephone station equipment, such as intercommunication systems, transmitters, receivers, relays, and ringers, and related apparatus, such as coin collectors, telephone booths, and switching-key equipment.
+- Clean switches and replace contact points, using vacuum hoses, solvents, and hand tools.
+- Provide input into the design and manufacturing of new equipment.
+- Address special issues or situations, such as illegal or unauthorized use of equipment, or cases of electrical or acoustic shock.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Troubleshooting (Importance: 3.88/5 | Level: 3.75/7)
+- Repairing (Importance: 3.88/5 | Level: 3.25/7)
+- Critical Thinking (Importance: 3.62/5 | Level: 3.75/7)
+- Quality Control Analysis (Importance: 3.62/5 | Level: 3.62/7)
+- Operations Monitoring (Importance: 3.62/5 | Level: 3.25/7)
+- Equipment Maintenance (Importance: 3.5/5 | Level: 3.25/7)
+- Active Listening (Importance: 3.5/5 | Level: 3.38/7)
+- Monitoring (Importance: 3.38/5 | Level: 3.25/7)
+- Complex Problem Solving (Importance: 3.38/5 | Level: 3.25/7)
+- Reading Comprehension (Importance: 3.38/5 | Level: 3.62/7)
+- Operation and Control (Importance: 3.25/5 | Level: 3.25/7)
+- Installation (Importance: 3.25/5 | Level: 3.25/7)
+- Speaking (Importance: 3.25/5 | Level: 3.12/7)
+- Judgment and Decision Making (Importance: 3.25/5 | Level: 3.0/7)
+- Systems Analysis (Importance: 3.12/5 | Level: 3.0/7)
+- Active Learning (Importance: 3.12/5 | Level: 3.0/7)
+- Equipment Selection (Importance: 3.12/5 | Level: 3.12/7)
+- Writing (Importance: 3.0/5 | Level: 3.12/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 3.0/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 2.75/7)
+- Service Orientation (Importance: 2.88/5 | Level: 3.0/7)
+- Systems Evaluation (Importance: 2.88/5 | Level: 3.12/7)
+- Instructing (Importance: 2.88/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 2.88/5 | Level: 2.88/7)
+- Persuasion (Importance: 2.62/5 | Level: 2.62/7)
+- Negotiation (Importance: 2.5/5 | Level: 2.25/7)
+- Management of Personnel Resources (Importance: 2.5/5 | Level: 2.38/7)
+- Mathematics (Importance: 2.25/5 | Level: 2.25/7)
+- Programming (Importance: 2.0/5 | Level: 1.62/7)
+- Science (Importance: 2.0/5 | Level: 2.0/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.38/7)
+- Operations Analysis (Importance: 1.88/5 | Level: 1.75/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 0.75/7)
+- Management of Material Resources (Importance: 1.75/5 | Level: 0.88/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Apache Struts (Tech skill type: Web platform development software)
+- Autodesk AutoCAD (Tech skill type: Computer aided design CAD software)
+- Cisco IOS (Tech skill type: Operating system software)
+- Firewall software (Tech skill type: Network security and virtual private network VPN equipment software)
+- Fluke ClearSight Analyzer (Tech skill type: Analytical or scientific software)
+- Fluke Networks Fluke TechEXPERT (Tech skill type: Expert system software)
+- Fluke Networks TechAdvisor Field Access System (Tech skill type: Analytical or scientific software)
+- Geographic information system GIS systems (Tech skill type: Geographic information system)
+- IBM Domino (Tech skill type: Communications server software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Operating system software (Tech skill type: Operating system software)
+- Supervisory control and data acquisition SCADA software (Tech skill type: Industrial control software)
+- Voice over internet protocol VoIP system software (Tech skill type: Internet protocol IP multimedia subsystem software)
+
+## TOOLS USED
+- Adjustable hand wrenches (Tool type: Adjustable wrenches)
+- Analog probes (Tool type: Voltage or current meters)
+- Battery-powered punchdown tools (Tool type: Network punchdown tool)
+- Bridge tap detectors (Tool type: Voice data video cable tester)
+- Cable cutters (Tool type: Wire or cable cutter)
+- Cable fault finders (Tool type: GFI circuit testers)
+- Cable splicer knives (Tool type: Cable splicing kits)
+- Diagonal-cutting pliers (Tool type: Diagonal cut pliers)
+- Digital multimeters (Tool type: Multimeters)
+- Double-ended screwstarters (Tool type: Screwdrivers)
+- Double-sided magnetic tape measures (Tool type: Tape measures)
+- Electricians' scissors (Tool type: Insulated scissors)
+- Fiberoptic cable testers (Tool type: Fiber optic fault locators)
+- Handheld dataloggers (Tool type: Portable data input terminals)
+- Hex key sets (Tool type: Hex keys)
+- In-line modular adapters (Tool type: Circuit tester)
+- Insulated screwdrivers (Tool type: Insulated screwdriver)
+- Longnosed pliers (Tool type: Longnose pliers)
+- Modem verification units (Tool type: Voice data video cable tester)
+- Multifunction cable testers (Tool type: Voice data video cable tester)
+- Nut wrenches (Tool type: Nut drivers)
+- Penlights (Tool type: Flashlight)
+- Personal computers (Tool type: Personal computers)
+- Pocket toners (Tool type: Voice data video cable tester)
+- Polarity testers (Tool type: Circuit tester)
+- Receptacle analyzers (Tool type: GFI circuit testers)
+- Slip joint pliers (Tool type: Slip joint pliers)
+- Stepladders (Tool type: Ladders)
+- T-strippers (Tool type: Stripping tools)
+- Tablet computers (Tool type: Tablet computers)
+- Telecom test sets (Tool type: Voice data video cable tester)
+- Telephone function test sets (Tool type: Telephone test set)
+- Tone generator kits (Tool type: Circuit tracers)
+- Utility knives (Tool type: Utility knives)
+- Wire cutters (Tool type: Wire cutters)
+- Wire strippers (Tool type: Wire-stripping pliers)

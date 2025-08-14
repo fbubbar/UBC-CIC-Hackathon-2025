@@ -1,0 +1,194 @@
+Job Title: Radiologists
+O*NET-SOC Code: 29-1224.00
+
+# DESCRIPTION
+Diagnose and treat diseases and injuries using medical imaging techniques, such as x rays, magnetic resonance imaging (MRI), nuclear medicine, and ultrasounds. May perform minimally invasive medical procedures and tests.
+
+# TASKS
+- Prepare comprehensive interpretive reports of findings.
+- Perform or interpret the outcomes of diagnostic imaging procedures including magnetic resonance imaging (MRI), computer tomography (CT), positron emission tomography (PET), nuclear cardiology treadmill studies, mammography, or ultrasound.
+- Document the performance, interpretation, or outcomes of all procedures performed.
+- Communicate examination results or diagnostic information to referring physicians, patients, or families.
+- Obtain patients' histories from electronic records, patient interviews, dictated reports, or by communicating with referring clinicians.
+- Review or transmit images and information using picture archiving or communications systems.
+- Confer with medical professionals regarding image-based diagnoses.
+- Recognize or treat complications during and after procedures, including blood pressure problems, pain, oversedation, or bleeding.
+- Develop or monitor procedures to ensure adequate quality control of images.
+- Provide counseling to radiologic patients to explain the processes, risks, benefits, or alternative treatments.
+- Establish or enforce standards for protection of patients or personnel.
+- Coordinate radiological services with other medical activities.
+- Instruct radiologic staff in desired techniques, positions, or projections.
+- Participate in continuing education activities to maintain and develop expertise.
+- Participate in quality improvement activities including discussions of areas where risk of error is high.
+- Perform interventional procedures such as image-guided biopsy, percutaneous transluminal angioplasty, transhepatic biliary drainage, or nephrostomy catheter placement.
+- Develop treatment plans for radiology patients.
+- Administer radioisotopes to clinical patients or research subjects.
+- Advise other physicians of the clinical indications, limitations, assessments, or risks of diagnostic and therapeutic applications of radioactive materials.
+- Calculate, measure, or prepare radioisotope dosages.
+- Check and approve the quality of diagnostic images before patients are discharged.
+- Compare nuclear medicine procedures with other types of procedures, such as computed tomography, ultrasonography, nuclear magnetic resonance imaging, and angiography.
+- Direct nuclear medicine technologists or technicians regarding desired dosages, techniques, positions, and projections.
+- Establish and enforce radiation protection standards for patients and staff.
+- Formulate plans and procedures for nuclear medicine departments.
+- Monitor handling of radioactive materials to ensure that established procedures are followed.
+- Prescribe radionuclides and dosages to be administered to individual patients.
+- Review procedure requests and patients' medical histories to determine applicability of procedures and radioisotopes to be used.
+- Teach nuclear medicine, diagnostic radiology, or other specialties at graduate educational level.
+- Test dosage evaluation instruments and survey meters to ensure they are operating properly.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Speaking (Importance: 4.25/5 | Level: 4.25/7)
+- Reading Comprehension (Importance: 4.25/5 | Level: 5.12/7)
+- Active Listening (Importance: 4.25/5 | Level: 4.38/7)
+- Writing (Importance: 4.12/5 | Level: 4.38/7)
+- Judgment and Decision Making (Importance: 4.12/5 | Level: 4.25/7)
+- Critical Thinking (Importance: 4.12/5 | Level: 4.88/7)
+- Complex Problem Solving (Importance: 4.0/5 | Level: 4.25/7)
+- Social Perceptiveness (Importance: 4.0/5 | Level: 4.12/7)
+- Monitoring (Importance: 4.0/5 | Level: 4.25/7)
+- Active Learning (Importance: 3.88/5 | Level: 4.25/7)
+- Science (Importance: 3.75/5 | Level: 3.75/7)
+- Service Orientation (Importance: 3.62/5 | Level: 3.62/7)
+- Time Management (Importance: 3.5/5 | Level: 3.62/7)
+- Instructing (Importance: 3.38/5 | Level: 4.12/7)
+- Learning Strategies (Importance: 3.25/5 | Level: 3.88/7)
+- Coordination (Importance: 3.25/5 | Level: 3.5/7)
+- Operations Monitoring (Importance: 3.12/5 | Level: 3.38/7)
+- Quality Control Analysis (Importance: 3.12/5 | Level: 3.0/7)
+- Management of Personnel Resources (Importance: 3.0/5 | Level: 3.12/7)
+- Systems Evaluation (Importance: 3.0/5 | Level: 3.25/7)
+- Systems Analysis (Importance: 3.0/5 | Level: 3.38/7)
+- Mathematics (Importance: 2.88/5 | Level: 3.0/7)
+- Operation and Control (Importance: 2.88/5 | Level: 3.0/7)
+- Persuasion (Importance: 2.88/5 | Level: 2.88/7)
+- Negotiation (Importance: 2.75/5 | Level: 2.88/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.88/7)
+- Troubleshooting (Importance: 2.0/5 | Level: 1.62/7)
+- Management of Financial Resources (Importance: 1.75/5 | Level: 1.5/7)
+- Equipment Selection (Importance: 1.62/5 | Level: 1.0/7)
+- Operations Analysis (Importance: 1.62/5 | Level: 1.0/7)
+- Repairing (Importance: 1.5/5 | Level: 0.62/7)
+- Equipment Maintenance (Importance: 1.5/5 | Level: 0.62/7)
+- Technology Design (Importance: 1.5/5 | Level: 0.75/7)
+- Programming (Importance: 1.38/5 | Level: 0.5/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- ACOM Solutions RAPID EMR (Tech skill type: Medical software)
+- Advanced Data Systems MedicsRis (Tech skill type: Medical software)
+- Allscripts PM (Tech skill type: Medical software)
+- Allscripts Professional EHR (Tech skill type: Medical software)
+- Alteer Office (Tech skill type: Medical software)
+- athenahealth athenaCollector (Tech skill type: Medical software)
+- Automatic Data Processing AdvancedMD EHR (Tech skill type: Medical software)
+- Avreo Radiology Workflow Solutions (Tech skill type: Medical software)
+- Benchmark Systems Benchmark Clinical EHR (Tech skill type: Medical software)
+- Bizmatics PrognoCIS EMR (Tech skill type: Medical software)
+- CareCloud Central (Tech skill type: Medical software)
+- Cerner PowerWorks Practice Management (Tech skill type: Medical software)
+- Computer aided image analysis software (Tech skill type: Medical software)
+- Digital image processing software (Tech skill type: Graphics or photo imaging software)
+- Digital Imaging Communications in Medicine DICOM medical imaging software (Tech skill type: Medical software)
+- eClinicalWorks EHR software (Tech skill type: Medical software)
+- Email software (Tech skill type: Electronic mail software)
+- Epic Practice Management (Tech skill type: Medical software)
+- Epic Systems (Tech skill type: Medical software)
+- Fujifilm Synapse (Tech skill type: Medical software)
+- GalacTek ECLIPSE (Tech skill type: Medical software)
+- GE Healthcare Centricity EMR (Tech skill type: Medical software)
+- GE Healthcare Centricity Practice Solution (Tech skill type: Medical software)
+- GE Healthcare ViewPoint for Radiology (Tech skill type: Medical software)
+- Greenway Medical Technologies PrimeSUITE (Tech skill type: Medical software)
+- HealthFusion MediTouch (Tech skill type: Medical software)
+- Hosted PACS Solutions (Tech skill type: Medical software)
+- Infinite Radiology Opal-RAD (Tech skill type: Medical software)
+- IOS Health Systems Medios EHR (Tech skill type: Medical software)
+- Kareo Practice Management (Tech skill type: Medical software)
+- Maplewood Software StaffReady (Tech skill type: Medical software)
+- McKesson Practice Plus (Tech skill type: Medical software)
+- McKesson Radiology Manager (Tech skill type: Medical software)
+- MEDITECH software (Tech skill type: Medical software)
+- medQ Q/ris (Tech skill type: Medical software)
+- Merge Healthcare Merge RIS (Tech skill type: Medical software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Word (Tech skill type: Word processing software)
+- MIM Software MIMcardiac (Tech skill type: Medical software)
+- MIM Software MIMfusion (Tech skill type: Medical software)
+- MIM Software MIMneuro (Tech skill type: Medical software)
+- Modernizing Medicine Practice Management (Tech skill type: Medical software)
+- Motion correction software (Tech skill type: Medical software)
+- mPlexus DICOM RadiX (Tech skill type: Medical software)
+- NextGen Healthcare Information Systems EMR (Tech skill type: Medical software)
+- NextGen Healthcare NextGen Practice Management (Tech skill type: Medical software)
+- Patient electronic medical record EMR software (Tech skill type: Medical software)
+- Patient management software (Tech skill type: Medical software)
+- Radiopharmacy inventory databases (Tech skill type: Medical software)
+- RamSoft PowerServer RIS/PACS (Tech skill type: Medical software)
+- Scheduling software (Tech skill type: Calendar and scheduling software)
+- simplifyMD (Tech skill type: Medical software)
+- SOAPware EMR (Tech skill type: Medical software)
+- Vitera Healthcare Solutions Vitera Intergy (Tech skill type: Medical software)
+- Voice recognition software (Tech skill type: Voice recognition software)
+- Web browser software (Tech skill type: Internet browser software)
+- WRSHealth EMR (Tech skill type: Medical software)
+
+## TOOLS USED
+- Automated blood pressure cuffs (Tool type: Electronic blood pressure units)
+- Beta vial shields (Tool type: Medical radiological shielding portable containers for radioactive materials)
+- Bone densitometers (Tool type: Gamma bone densitometers)
+- Computed tomography CT equipment (Tool type: Medical computed tomography CT or CAT stationary units)
+- Computed tomography CT systems (Tool type: Medical computed tomography CT or CAT stationary units)
+- Cone-beam collimators (Tool type: X ray diffraction equipment)
+- Converging collimators (Tool type: X ray diffraction equipment)
+- Desktop computers (Tool type: Desktop computers)
+- Diagnostic ultrasound equipment (Tool type: Medical ultrasound or doppler or pulse echocardiograph or echocardiograph units for general diagnostic use)
+- Digital ratemeters (Tool type: Radiation detectors)
+- Diverging collimators (Tool type: X ray diffraction equipment)
+- Dose calibrators (Tool type: Medical radiation dosimeters)
+- Dosimetry badges (Tool type: Medical radiation films or badges)
+- Electrocardiography EKG machines (Tool type: Electrocardiography EKG units)
+- Exercise bicycles (Tool type: Pedal exercisers for rehabilitation or therapy)
+- Fan-beam collimators (Tool type: X ray diffraction equipment)
+- Fluoroscopic imaging systems (Tool type: Medical radiology and fluoroscopy RF units)
+- Gamma cameras (Tool type: Medical gamma cameras for general use)
+- Gamma ray cameras (Tool type: Medical gamma cameras for general use)
+- Glass beakers (Tool type: Laboratory beakers)
+- Hypodermic syringes (Tool type: Medical syringes with needle)
+- Intravenous IV sets (Tool type: Intravenous tubing with catheter administration kits)
+- Laboratory test tubes (Tool type: Multipurpose or general test tubes)
+- Laboratory transfer pipettes (Tool type: Pasteur or transfer pipettes)
+- Laptop computers (Tool type: Notebook computers)
+- Magnetic resonance imaging MRI equipment (Tool type: Medical magnetic resonance imaging MRI stationary units)
+- Magnetic resonance imaging MRI systems (Tool type: Medical magnetic resonance imaging MRI scanners)
+- Mechanical stethoscopes (Tool type: Medical acoustic stethoscopes)
+- Medical examination protective gloves (Tool type: Medical exam or non surgical procedure gloves)
+- Medical picture archiving computer systems PACS (Tool type: Medical picture archiving computer systems PACS)
+- Medical positron emission tomography PET scanners (Tool type: Medical positron emission tomography PET units)
+- Medical radiation monitors (Tool type: Medical radiation dosimeters)
+- Medical safety masks (Tool type: Surgical isolation or surgical masks)
+- Medical single photo emission computed tomography SPECT equipment (Tool type: Medical single photon emission computed tomography SPECT units)
+- Medical ultrasound scanners (Tool type: Medical ultrasound or doppler or pulse echocardiograph or echocardiograph units for general diagnostic use)
+- Mercury blood pressure measuring equipment (Tool type: Mercury blood pressure units)
+- Metal laboratory tongs (Tool type: Laboratory tongs)
+- Microhematocrit centrifuges (Tool type: Microcentrifuges)
+- Novarad NovaPacs (Tool type: Medical x ray film archiving system software)
+- Parallel-hole collimators (Tool type: X ray diffraction equipment)
+- Patient radiation shields (Tool type: Medical radiological shielding aprons or masks or drapes)
+- Personal computers (Tool type: Personal computers)
+- Pinhole collimators (Tool type: X ray diffraction equipment)
+- Portable radiation survey meters (Tool type: Radiation detectors)
+- Positron emission tomography PET equipment (Tool type: Medical positron emission tomography PET units)
+- Radiation measurement phantoms (Tool type: Phantom dosimeters)
+- Radiation shielding gloves (Tool type: Medical radiological shielding gloves)
+- Safety goggles (Tool type: Goggles)
+- Scintillation probes (Tool type: Radiation detectors)
+- Semiautomated or automatic external defibrillators AED (Tool type: Mobile medical services automated external defibrillators AED or hard paddles)
+- Single position emission computed tomography/computed tomography SPECT/CT imaging equipment (Tool type: Medical single photon emission computed tomography SPECT units)
+- Single-photon emission computed tomography SPECT cameras (Tool type: Medical computed tomography CT or CAT ultrafast system components)
+- Slant-hole collimators (Tool type: X ray diffraction equipment)
+- Stress treadmill machines (Tool type: Treadmills)
+- Tablet computers (Tool type: Tablet computers)
+- Ultrasound bone density scanners (Tool type: Medical ultrasound bone densitometers)
+- Well counters (Tool type: Liquid scintillation counters)
+- X ray machines (Tool type: Medical x ray units for general diagnostic use)

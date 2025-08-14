@@ -1,0 +1,126 @@
+Job Title: Nuclear Monitoring Technicians
+O*NET-SOC Code: 19-4051.02
+
+# DESCRIPTION
+Collect and test samples to monitor results of nuclear experiments and contamination of humans, facilities, and environment.
+
+# TASKS
+- Brief workers on radiation levels in work areas.
+- Calculate safe radiation exposure times for personnel using plant contamination readings and prescribed safe levels of radiation.
+- Monitor personnel to determine the amounts and intensities of radiation exposure.
+- Inform supervisors when individual exposures or area radiation levels approach maximum permissible limits.
+- Provide initial response to abnormal events or to alarms from radiation monitoring equipment.
+- Determine intensities and types of radiation in work areas, equipment, or materials, using radiation detectors or other instruments.
+- Instruct personnel in radiation safety procedures and demonstrate use of protective clothing and equipment.
+- Collect samples of air, water, gases, or solids to determine radioactivity levels of contamination.
+- Analyze samples, such as air or water samples, for contaminants or other elements.
+- Determine or recommend radioactive decontamination procedures, according to the size and nature of equipment and the degree of contamination.
+- Set up equipment that automatically detects area radiation deviations and test detection equipment to ensure its accuracy.
+- Prepare reports describing contamination tests, material or equipment decontaminated, or methods used in decontamination processes.
+- Place radioactive waste, such as sweepings or broken sample bottles, into containers for shipping or disposal.
+- Decontaminate objects by cleaning with soap or solvents or by abrading with wire brushes, buffing wheels, or sandblasting machines.
+- Enter data into computers to record characteristics of nuclear events or to locate coordinates of particles.
+- Calibrate and maintain chemical instrumentation sensing elements and sampling system equipment, using calibration instruments and hand tools.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Active Listening (Importance: 3.88/5 | Level: 3.88/7)
+- Monitoring (Importance: 3.88/5 | Level: 4.0/7)
+- Critical Thinking (Importance: 3.88/5 | Level: 4.0/7)
+- Operations Monitoring (Importance: 3.75/5 | Level: 3.62/7)
+- Reading Comprehension (Importance: 3.75/5 | Level: 4.0/7)
+- Speaking (Importance: 3.5/5 | Level: 3.38/7)
+- Judgment and Decision Making (Importance: 3.38/5 | Level: 3.38/7)
+- Instructing (Importance: 3.25/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 3.12/5 | Level: 3.25/7)
+- Science (Importance: 3.12/5 | Level: 3.12/7)
+- Quality Control Analysis (Importance: 3.12/5 | Level: 3.12/7)
+- Mathematics (Importance: 3.12/5 | Level: 3.12/7)
+- Complex Problem Solving (Importance: 3.12/5 | Level: 3.12/7)
+- Writing (Importance: 3.12/5 | Level: 3.62/7)
+- Social Perceptiveness (Importance: 3.0/5 | Level: 2.88/7)
+- Systems Analysis (Importance: 3.0/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 3.12/7)
+- Active Learning (Importance: 3.0/5 | Level: 3.12/7)
+- Coordination (Importance: 3.0/5 | Level: 3.0/7)
+- Service Orientation (Importance: 2.88/5 | Level: 2.75/7)
+- Persuasion (Importance: 2.88/5 | Level: 2.75/7)
+- Negotiation (Importance: 2.75/5 | Level: 2.75/7)
+- Troubleshooting (Importance: 2.75/5 | Level: 2.75/7)
+- Operation and Control (Importance: 2.75/5 | Level: 2.88/7)
+- Management of Personnel Resources (Importance: 2.75/5 | Level: 2.75/7)
+- Systems Evaluation (Importance: 2.5/5 | Level: 2.88/7)
+- Equipment Maintenance (Importance: 2.12/5 | Level: 1.25/7)
+- Management of Financial Resources (Importance: 2.0/5 | Level: 1.12/7)
+- Management of Material Resources (Importance: 2.0/5 | Level: 1.12/7)
+- Repairing (Importance: 1.62/5 | Level: 0.75/7)
+- Technology Design (Importance: 1.62/5 | Level: 0.62/7)
+- Equipment Selection (Importance: 1.5/5 | Level: 0.5/7)
+- Programming (Importance: 1.5/5 | Level: 0.62/7)
+- Operations Analysis (Importance: 1.25/5 | Level: 0.25/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- AVEVA InTouch HMI (Tech skill type: Industrial control software)
+- Connectivity software (Tech skill type: Platform interconnectivity software)
+- Gamma waste assay system GWAS (Tech skill type: Analytical or scientific software)
+- Google Compute Engine (GCE) (Tech skill type: Application server software)
+- Microsoft Azure software (Tech skill type: Development environment software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Windows Server (Tech skill type: Operating system software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- Radiological assessment display and control system RADACS (Tech skill type: Analytical or scientific software)
+- RESRAD (Tech skill type: Analytical or scientific software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- Supervisory control and data acquisition SCADA software (Tech skill type: Industrial control software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Air purifying respirators (Tool type: Respirators)
+- Air sampling devices (Tool type: Air samplers or collectors)
+- Airline respirators (Tool type: Respirators)
+- Alpha air monitors (Tool type: Radiation detectors)
+- Alpha/beta counting systems (Tool type: Radiation detectors)
+- Alpha/beta surface contamination monitors (Tool type: Radiation detectors)
+- Area gamma monitors (Tool type: Gamma counters)
+- Atmosphere supplying respirators (Tool type: Respirators)
+- Contamination probes (Tool type: Radiation detectors)
+- Cryogenic microcalorimeters (Tool type: Calorimeters)
+- Cryostats (Tool type: Cryostats)
+- Desktop computers (Tool type: Desktop computers)
+- Digital ratemeters (Tool type: Radiation detectors)
+- Digital signal analyzers (Tool type: Frequency analyzers)
+- Digital spectrum analyzers (Tool type: Frequency analyzers)
+- Dose rate monitors (Tool type: Dosimeters)
+- Electron microscopes (Tool type: Electron microscopes)
+- Gamma ray detectors (Tool type: Gamma counters)
+- Gamma ray spectrometers (Tool type: Spectrometers)
+- Geiger-Muller counters (Tool type: Geiger counters)
+- Ionization chambers (Tool type: Ionization chambers)
+- Liquid scintillation counters (Tool type: Liquid scintillation counters)
+- Multichannel analyzers (Tool type: Spectrometers)
+- Neutron detectors (Tool type: Radiation detectors)
+- Neutron dose-rate meters (Tool type: Dosimeters)
+- Neutron spectrometers (Tool type: Atomic absorption AA spectrometers)
+- Nuclear moisture/density gauges (Tool type: Industrial nucleonic moisture measuring systems)
+- Personal computers (Tool type: Personal computers)
+- Portable data collectors (Tool type: Portable data input terminals)
+- Portable spectroscopes (Tool type: Spectrometers)
+- Portable survey radiation meters (Tool type: Radiation detectors)
+- Portal monitors (Tool type: Radiation detectors)
+- Pressure demand respirators (Tool type: Respirators)
+- Proportional counters (Tool type: Ion analyzers)
+- Protective coveralls (Tool type: Protective coveralls)
+- Protective gloves (Tool type: Protective gloves)
+- Protective shoe covers (Tool type: Footwear covers)
+- Radiological detectors (Tool type: Radiation detectors)
+- Self-contained breathing apparatus (Tool type: Respiration air supplying self contained breathing apparatus or accessories)
+- Sodium Iodide NaI scintillation detectors (Tool type: Gamma counters)
+- Thermoluminescent dosimeters (Tool type: Radiation detectors)
+- Tritium/Noble gas monitors (Tool type: Beta gauge measuring systems)
+- Whole body counters (Tool type: Dosimeters)

@@ -1,0 +1,133 @@
+Job Title: Clinical Research Coordinators
+O*NET-SOC Code: 11-9121.01
+
+# DESCRIPTION
+Plan, direct, or coordinate clinical research projects. Direct the activities of workers engaged in clinical research projects to ensure compliance with protocols and overall clinical objectives. May evaluate and analyze clinical data.
+
+# TASKS
+- Schedule subjects for appointments, procedures, or inpatient stays as required by study protocols.
+- Perform specific protocol procedures such as interviewing subjects, taking vital signs, and performing electrocardiograms.
+- Assess eligibility of potential subjects through methods such as screening interviews, reviews of medical records, or discussions with physicians and nurses.
+- Prepare study-related documentation, such as protocol worksheets, procedural manuals, adverse event reports, institutional review board documents, or progress reports.
+- Inform patients or caregivers about study aspects and outcomes to be expected.
+- Record adverse event and side effect data and confer with investigators regarding the reporting of events to oversight agencies.
+- Monitor study activities to ensure compliance with protocols and with all relevant local, federal, and state regulatory and institutional polices.
+- Oversee subject enrollment to ensure that informed consent is properly obtained and documented.
+- Maintain required records of study activity including case report forms, drug dispensation records, or regulatory forms.
+- Identify protocol problems, inform investigators of problems, or assist in problem resolution efforts, such as protocol revisions.
+- Review proposed study protocols to evaluate factors such as sample collection processes, data management plans, or potential subject risks.
+- Collaborate with investigators to prepare presentations or reports of clinical study procedures, results, and conclusions.
+- Track enrollment status of subjects and document dropout information such as dropout causes and subject contact efforts.
+- Code, evaluate, or interpret collected study data.
+- Direct the requisition, collection, labeling, storage, or shipment of specimens.
+- Instruct research staff in scientific and procedural aspects of studies including standards of care, informed consent procedures, or documentation procedures.
+- Maintain contact with sponsors to schedule and coordinate site visits or to answer questions about issues such as incomplete data.
+- Prepare for or participate in quality assurance audits conducted by study sponsors, federal agencies, or specially designated review groups.
+- Order drugs or devices necessary for study completion.
+- Contact outside health care providers and communicate with subjects to obtain follow-up information.
+- Participate in the development of study protocols including guidelines for administration or data collection procedures.
+- Confer with health care professionals to determine the best recruitment practices for studies.
+- Communicate with laboratories or investigators regarding laboratory findings.
+- Review scientific literature, participate in continuing education activities, or attend conferences and seminars to maintain current knowledge of clinical studies affairs and issues.
+- Organize space for study equipment and supplies.
+- Develop advertising and other informational materials to be used in subject recruitment.
+- Dispense medical devices or drugs, and calculate dosages and provide instructions as necessary.
+- Arrange for research study sites and determine staff or equipment availability.
+- Interpret protocols and advise treating physicians on appropriate dosage modifications or treatment calculations based on patient characteristics.
+- Contact industry representatives to ensure equipment and software specifications necessary for successful study completion.
+- Register protocol patients with appropriate statistical centers as required.
+- Solicit industry-sponsored trials through contacts and professional organizations.
+- Participate in preparation and management of research budgets and monetary disbursements.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Writing (Importance: 4.0/5 | Level: 4.0/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.25/7)
+- Active Listening (Importance: 4.0/5 | Level: 4.0/7)
+- Coordination (Importance: 3.88/5 | Level: 4.12/7)
+- Speaking (Importance: 3.88/5 | Level: 4.0/7)
+- Critical Thinking (Importance: 3.75/5 | Level: 4.0/7)
+- Complex Problem Solving (Importance: 3.62/5 | Level: 3.62/7)
+- Social Perceptiveness (Importance: 3.62/5 | Level: 3.75/7)
+- Judgment and Decision Making (Importance: 3.62/5 | Level: 3.62/7)
+- Monitoring (Importance: 3.62/5 | Level: 3.75/7)
+- Management of Personnel Resources (Importance: 3.5/5 | Level: 3.5/7)
+- Time Management (Importance: 3.5/5 | Level: 3.62/7)
+- Active Learning (Importance: 3.38/5 | Level: 4.0/7)
+- Instructing (Importance: 3.12/5 | Level: 3.0/7)
+- Learning Strategies (Importance: 3.12/5 | Level: 3.38/7)
+- Service Orientation (Importance: 3.0/5 | Level: 3.75/7)
+- Science (Importance: 3.0/5 | Level: 3.0/7)
+- Persuasion (Importance: 3.0/5 | Level: 3.25/7)
+- Systems Analysis (Importance: 2.88/5 | Level: 2.88/7)
+- Negotiation (Importance: 2.88/5 | Level: 3.38/7)
+- Mathematics (Importance: 2.88/5 | Level: 3.0/7)
+- Systems Evaluation (Importance: 2.88/5 | Level: 3.38/7)
+- Management of Material Resources (Importance: 2.75/5 | Level: 2.75/7)
+- Management of Financial Resources (Importance: 2.38/5 | Level: 2.25/7)
+- Quality Control Analysis (Importance: 1.75/5 | Level: 1.12/7)
+- Operations Monitoring (Importance: 1.75/5 | Level: 1.25/7)
+- Operations Analysis (Importance: 1.62/5 | Level: 1.12/7)
+- Technology Design (Importance: 1.62/5 | Level: 0.75/7)
+- Programming (Importance: 1.62/5 | Level: 0.88/7)
+- Troubleshooting (Importance: 1.38/5 | Level: 0.38/7)
+- Operation and Control (Importance: 1.12/5 | Level: 0.12/7)
+- Equipment Selection (Importance: 1.12/5 | Level: 0.12/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- 5AM Glassbox Translational Research (Tech skill type: Data base user interface and query software)
+- Budgeting software (Tech skill type: Accounting software)
+- ClearTrial (Tech skill type: Data base user interface and query software)
+- Clinical data management system CDMS (Tech skill type: Data base user interface and query software)
+- Clinical trial management software (Tech skill type: Data base user interface and query software)
+- Drug coding software (Tech skill type: Categorization or classification software)
+- DZS Software Solutions ClinPlus (Tech skill type: Data base user interface and query software)
+- Electronic data capture EDC software (Tech skill type: Analytical or scientific software)
+- ePharmaSolutions eMVR (Tech skill type: Data base user interface and query software)
+- FileMaker Pro (Tech skill type: Data base user interface and query software)
+- Google Meet (Tech skill type: Video conferencing software)
+- IBM SPSS Statistics (Tech skill type: Analytical or scientific software)
+- InferMed MACRO Electronic Data Capture (Tech skill type: Analytical or scientific software)
+- InforSense InforSense (Tech skill type: Data base user interface and query software)
+- Invivo Data EPX ePRO Management System (Tech skill type: Data base user interface and query software)
+- KIKA Veracity (Tech skill type: Data base user interface and query software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Outlook (Tech skill type: Electronic mail software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Project (Tech skill type: Project management software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Minitab (Tech skill type: Analytical or scientific software)
+- Online data collection systems (Tech skill type: Data base user interface and query software)
+- OpenClinica (Tech skill type: Data base user interface and query software)
+- Oracle Clinical (Tech skill type: Data base user interface and query software)
+- Patient tracking software (Tech skill type: Medical software)
+- PercipEnz Technologies OnCore-Clinical Research Management OnCore-CRM (Tech skill type: Data base user interface and query software)
+- Phase Forward InForm GTM (Tech skill type: Data base user interface and query software)
+- PPD eLoader (Tech skill type: Data base user interface and query software)
+- PPD Patient Profiles (Tech skill type: Data base user interface and query software)
+- Project management software (Tech skill type: Project management software)
+- Python (Tech skill type: Object or component oriented development software)
+- Qualitative analysis software (Tech skill type: Analytical or scientific software)
+- R (Tech skill type: Object or component oriented development software)
+- SAS (Tech skill type: Analytical or scientific software)
+- Scheduling software (Tech skill type: Calendar and scheduling software)
+- Sierra Scientific Software CRIS (Tech skill type: Data base user interface and query software)
+- StataCorp Stata (Tech skill type: Analytical or scientific software)
+- StudyManager Sponsor Edition (Tech skill type: Data base user interface and query software)
+- SyMetric Sciences SyMetric (Tech skill type: Data base user interface and query software)
+- The MathWorks MATLAB (Tech skill type: Analytical or scientific software)
+- TOPAZ Enterprise Software Suite (Tech skill type: Data base user interface and query software)
+- Web browser software (Tech skill type: Internet browser software)
+
+## TOOLS USED
+- Digital video equipment (Tool type: Digital camcorders or video cameras)
+- Laptop computers (Tool type: Notebook computers)
+- Laser facsimile machines (Tool type: Laser fax machine)
+- Personal computers (Tool type: Personal computers)
+- Photocopiers (Tool type: Photocopiers)
+- Smartphones (Tool type: Mobile phones)

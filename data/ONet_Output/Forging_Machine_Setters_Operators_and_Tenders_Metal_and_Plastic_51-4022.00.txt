@@ -1,0 +1,118 @@
+Job Title: Forging Machine Setters, Operators, and Tenders, Metal and Plastic
+O*NET-SOC Code: 51-4022.00
+
+# DESCRIPTION
+Set up, operate, or tend forging machines to taper, shape, or form metal or plastic parts.
+
+# TASKS
+- Read work orders or blueprints to determine specified tolerances and sequences of operations for machine setup.
+- Position and move metal wires or workpieces through a series of dies that compress and shape stock to form die impressions.
+- Measure and inspect machined parts to ensure conformance to product specifications.
+- Set up, operate, or tend presses and forging machines to perform hot or cold forging by flattening, straightening, bending, cutting, piercing, or other operations to taper, shape, or form metal.
+- Turn handles or knobs to set pressures and depths of ram strokes and to synchronize machine operations.
+- Install, adjust, and remove dies, synchronizing cams, forging hammers, and stop guides, using overhead cranes or other hoisting devices, and hand tools.
+- Start machines to produce sample workpieces, and observe operations to detect machine malfunctions and to verify that machine setups conform to specifications.
+- Confer with other workers about machine setups and operational specifications.
+- Trim and compress finished forgings to specified tolerances.
+- Remove dies from machines when production runs are finished.
+- Repair, maintain, and replace parts on dies.
+- Select, align, and bolt positioning fixtures, stops, and specified dies to rams and anvils, forging rolls, or presses and hammers.
+- Sharpen cutting tools and drill bits, using bench grinders.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Operations Monitoring (Importance: 3.25/5 | Level: 3.0/7)
+- Operation and Control (Importance: 3.12/5 | Level: 3.0/7)
+- Monitoring (Importance: 3.12/5 | Level: 3.12/7)
+- Reading Comprehension (Importance: 3.12/5 | Level: 2.88/7)
+- Active Listening (Importance: 3.12/5 | Level: 3.0/7)
+- Time Management (Importance: 3.0/5 | Level: 2.62/7)
+- Troubleshooting (Importance: 2.88/5 | Level: 2.75/7)
+- Critical Thinking (Importance: 2.88/5 | Level: 2.88/7)
+- Speaking (Importance: 2.88/5 | Level: 2.88/7)
+- Social Perceptiveness (Importance: 2.88/5 | Level: 2.38/7)
+- Quality Control Analysis (Importance: 2.88/5 | Level: 2.88/7)
+- Writing (Importance: 2.75/5 | Level: 2.75/7)
+- Coordination (Importance: 2.75/5 | Level: 2.62/7)
+- Judgment and Decision Making (Importance: 2.75/5 | Level: 2.62/7)
+- Equipment Maintenance (Importance: 2.75/5 | Level: 2.25/7)
+- Complex Problem Solving (Importance: 2.62/5 | Level: 2.75/7)
+- Repairing (Importance: 2.5/5 | Level: 2.12/7)
+- Management of Personnel Resources (Importance: 2.38/5 | Level: 2.25/7)
+- Persuasion (Importance: 2.38/5 | Level: 2.12/7)
+- Active Learning (Importance: 2.38/5 | Level: 2.12/7)
+- Learning Strategies (Importance: 2.38/5 | Level: 2.25/7)
+- Instructing (Importance: 2.25/5 | Level: 2.25/7)
+- Negotiation (Importance: 2.25/5 | Level: 2.12/7)
+- Service Orientation (Importance: 2.12/5 | Level: 2.12/7)
+- Mathematics (Importance: 2.12/5 | Level: 2.12/7)
+- Systems Evaluation (Importance: 2.0/5 | Level: 1.75/7)
+- Equipment Selection (Importance: 2.0/5 | Level: 1.75/7)
+- Systems Analysis (Importance: 2.0/5 | Level: 1.75/7)
+- Operations Analysis (Importance: 1.88/5 | Level: 1.12/7)
+- Technology Design (Importance: 1.88/5 | Level: 0.88/7)
+- Installation (Importance: 1.62/5 | Level: 1.0/7)
+- Management of Material Resources (Importance: 1.5/5 | Level: 0.5/7)
+- Science (Importance: 1.38/5 | Level: 0.62/7)
+- Management of Financial Resources (Importance: 1.38/5 | Level: 0.38/7)
+- Programming (Importance: 1.25/5 | Level: 0.25/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Email software (Tech skill type: Electronic mail software)
+- Inventory tracking software (Tech skill type: Inventory management software)
+- Machine control software (Tech skill type: Industrial control software)
+
+## TOOLS USED
+- Automatic conveyors (Tool type: Belt conveyors)
+- Automatic roll forging machines (Tool type: Roll forging machines)
+- Band cutters (Tool type: Metal cutters)
+- Beam type torque wrenches (Tool type: Torque wrenches)
+- Bench grinders (Tool type: Bench grinder)
+- Bevel protractors (Tool type: Protractors)
+- Blanking presses (Tool type: Metal shearing machine)
+- Digital micrometers (Tool type: Micrometers)
+- Disc grinders (Tool type: Power grinders)
+- Drill presses (Tool type: Drill press or radial drill)
+- Electric overhead traveling EOT cranes (Tool type: Overhead crane)
+- Face shields (Tool type: Facial shields)
+- Flanging machines (Tool type: Hydraulic press brake)
+- Forging dies (Tool type: Forge die)
+- Forging tongs (Tool type: Tongs)
+- Gas furnaces (Tool type: Furnaces)
+- Hammer forging machinery (Tool type: Air hammer forging machine)
+- Hand mallets (Tool type: Mallets)
+- Hoisting devices (Tool type: Hoists)
+- Hydraulic drop forging hammers (Tool type: Drop hammer forging machine)
+- Hydraulic forging presses (Tool type: Impression and closed die forging press)
+- Hydraulic roll forging machines (Tool type: Roll forging machines)
+- Hydraulic trim presses (Tool type: Trim press)
+- Layout squares (Tool type: Squares)
+- Magnifying glasses (Tool type: Magnifying glass)
+- Mechanical forging presses (Tool type: Impression and closed die forging press)
+- Metal band sawing machines (Tool type: Metal band sawing machine)
+- Metal cutting routers (Tool type: Power routers)
+- Oil furnaces (Tool type: Furnaces)
+- Planishing hammers (Tool type: Hammers)
+- Pneumatic power drills (Tool type: Pneumatic drill)
+- Portable anvils (Tool type: Anvils)
+- Power nibblers (Tool type: Nibblers)
+- Power riveters (Tool type: Power riveter)
+- Power sanders (Tool type: Power sanders)
+- Precision rulers (Tool type: Rulers)
+- Protective ear plugs (Tool type: Ear plugs)
+- Protective shoes (Tool type: Safety shoes)
+- Punch presses (Tool type: Drill press or radial drill)
+- Radial gauges (Tool type: Radius gauge)
+- Safety gloves (Tool type: Protective gloves)
+- Safety goggles (Tool type: Goggles)
+- Shears (Tool type: Shears)
+- Sheet metal press brakes (Tool type: Hydraulic press brake)
+- Sheet metal rolls (Tool type: Hydraulic press brake)
+- Sheet metal shearing machines (Tool type: Metal shearing machine)
+- Slotted screwdrivers (Tool type: Screwdrivers)
+- Stationary drill presses (Tool type: Drill press or radial drill)
+- Straight tinners snips (Tool type: Tinners snips)
+- Tapered feeler gauges (Tool type: Feeler gauges)
+- Turret punches (Tool type: Drill press or radial drill)
+- Variable speed routers (Tool type: Power routers)
+- Vernier calipers (Tool type: Calipers)

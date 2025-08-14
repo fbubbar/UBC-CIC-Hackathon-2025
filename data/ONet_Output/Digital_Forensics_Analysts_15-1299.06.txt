@@ -1,0 +1,99 @@
+Job Title: Digital Forensics Analysts
+O*NET-SOC Code: 15-1299.06
+
+# DESCRIPTION
+Conduct investigations on computer-based crimes establishing documentary or physical evidence, such as digital media and logs associated with cyber intrusion incidents. Analyze digital evidence and investigate computer security incidents to derive information in support of system and network vulnerability mitigation. Preserve and present computer-related evidence in support of criminal, fraud, counterintelligence, or law enforcement investigations.
+
+# TASKS
+- Adhere to legal policies and procedures related to handling digital media.
+- Analyze log files or other digital information to identify the perpetrators of network intrusions.
+- Conduct predictive or reactive analyses on security measures to support cyber security initiatives.
+- Create system images or capture network settings from information technology environments to preserve as evidence.
+- Develop plans for investigating alleged computer crimes, violations, or suspicious activity.
+- Develop policies or requirements for data collection, processing, or reporting.
+- Duplicate digital evidence to use for data recovery and analysis procedures.
+- Identify or develop reverse-engineering tools to improve system capabilities or detect vulnerabilities.
+- Maintain cyber defense software or hardware to support responses to cyber incidents.
+- Maintain knowledge of laws, regulations, policies or other issuances pertaining to digital forensics or information privacy.
+- Perform file signature analysis to verify files on storage media or discover potential hidden files.
+- Perform forensic investigations of operating or file systems.
+- Perform web service network traffic analysis or waveform analysis to detect anomalies, such as unusual events or trends.
+- Preserve and maintain digital forensic evidence for analysis.
+- Recommend cyber defense software or hardware to support responses to cyber incidents.
+- Recover data or decrypt seized data.
+- Write and execute scripts to automate tasks, such as parsing large data files.
+- Write cyber defense recommendations, reports, or white papers using research or experience.
+- Write reports, sign affidavits, or give depositions for legal proceedings.
+- Write technical summaries to report findings.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- No specific skills listed.
+
+# TECHNOLOGY SKILLS & TOOLS
+- AccessData FTK (Tech skill type: Network monitoring software)
+- Amazon Simple Storage Service S3 (Tech skill type: Storage networking software)
+- Amazon Web Services AWS software (Tech skill type: Data base user interface and query software)
+- Ansible software (Tech skill type: Expert system software)
+- Apple iOS (Tech skill type: Operating system software)
+- Apple macOS (Tech skill type: Operating system software)
+- Bash (Tech skill type: Operating system software)
+- Border Gateway Protocol BGP (Tech skill type: Switch or router software)
+- C (Tech skill type: Development environment software)
+- C# (Tech skill type: Object or component oriented development software)
+- C++ (Tech skill type: Object or component oriented development software)
+- Cisco Systems Cisco NetFlow Collection Engine (Tech skill type: Network monitoring software)
+- Computer forensic software (Tech skill type: Filesystem software)
+- Enterprise application integration EAI software (Tech skill type: Enterprise application integration software)
+- Extensible markup language XML (Tech skill type: Enterprise application integration software)
+- Firewall software (Tech skill type: Network security and virtual private network VPN equipment software)
+- Geographic information system GIS systems (Tech skill type: Geographic information system)
+- Go (Tech skill type: Development environment software)
+- Google Workspace software (Tech skill type: Office suite software)
+- Graphical user interface GUI design software (Tech skill type: Graphical user interface development software)
+- Guidance Software EnCase Enterprise (Tech skill type: Analytical or scientific software)
+- Hypertext markup language HTML (Tech skill type: Web platform development software)
+- IBM QRadar SIEM (Tech skill type: Network monitoring software)
+- IBM Terraform (Tech skill type: Configuration management software)
+- Intrusion detection system IDS (Tech skill type: Network security or virtual private network VPN management software)
+- JavaScript (Tech skill type: Web platform development software)
+- Kali Linux (Tech skill type: Program testing software)
+- Kubernetes (Tech skill type: Application server software)
+- Linux (Tech skill type: Operating system software)
+- Management information systems MIS (Tech skill type: Enterprise resource planning ERP software)
+- Metasploit (Tech skill type: Transaction security and virus protection software)
+- Microsoft Access (Tech skill type: Data base user interface and query software)
+- Microsoft Active Directory (Tech skill type: Internet directory services software)
+- Microsoft Azure software (Tech skill type: Development environment software)
+- Microsoft Defender Antivirus (Tech skill type: Transaction security and virus protection software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft PowerShell (Tech skill type: Development environment software)
+- Microsoft Windows (Tech skill type: Operating system software)
+- Microsoft Windows Server (Tech skill type: Operating system software)
+- MITRE ATT&CK software (Tech skill type: Program testing software)
+- Network directory services software (Tech skill type: Internet directory services software)
+- OpenVAS (Tech skill type: Transaction security and virus protection software)
+- Operating system software (Tech skill type: Operating system software)
+- Oracle Java (Tech skill type: Object or component oriented development software)
+- Perl (Tech skill type: Object or component oriented development software)
+- PHP (Tech skill type: Web platform development software)
+- Platform as a service PaaS (Tech skill type: Cloud-based data access and sharing software)
+- Portswigger BurP Suite (Tech skill type: Transaction security and virus protection software)
+- Python (Tech skill type: Object or component oriented development software)
+- R (Tech skill type: Object or component oriented development software)
+- Ruby (Tech skill type: Development environment software)
+- Security assertion markup language SAML (Tech skill type: Web platform development software)
+- ServiceNow (Tech skill type: Data base user interface and query software)
+- Single sign-on SSO (Tech skill type: Authentication server software)
+- Slack (Tech skill type: Cloud-based data access and sharing software)
+- Snort (Tech skill type: Network monitoring software)
+- Splunk Enterprise (Tech skill type: Enterprise system management software)
+- Structured query language SQL (Tech skill type: Data base user interface and query software)
+- System testing software (Tech skill type: Program testing software)
+- Tenable Nessus (Tech skill type: Transaction security and virus protection software)
+- UNIX (Tech skill type: Operating system software)
+- Web server software (Tech skill type: Transaction server software)
+- Wireshark (Tech skill type: Network monitoring software)
+- No specific tools listed.

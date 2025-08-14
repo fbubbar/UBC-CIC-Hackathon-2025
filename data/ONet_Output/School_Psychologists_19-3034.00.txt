@@ -1,0 +1,106 @@
+Job Title: School Psychologists
+O*NET-SOC Code: 19-3034.00
+
+# DESCRIPTION
+Diagnose and implement individual or schoolwide interventions or strategies to address educational, behavioral, or developmental issues that adversely impact educational functioning in a school. May address student learning and behavioral problems and counsel students or families. May design and implement performance plans, and evaluate performance. May consult with other school-based personnel.
+
+# TASKS
+- Compile and interpret students' test results, along with information from teachers and parents, to diagnose conditions and to help assess eligibility for special services.
+- Maintain student records, including special education reports, confidential records, records of services provided, and behavioral data.
+- Report any pertinent information to the proper authorities in cases of child endangerment, neglect, or abuse.
+- Select, administer, and score psychological tests.
+- Interpret test results and prepare psychological reports for teachers, administrators, and parents.
+- Assess an individual child's needs, limitations, and potential, using observation, review of school records, and consultation with parents and school personnel.
+- Develop individualized educational plans in collaboration with teachers and other staff members.
+- Counsel children and families to help solve conflicts and problems in learning and adjustment.
+- Collect and analyze data to evaluate the effectiveness of academic programs and other services, such as behavioral management systems.
+- Provide consultation to parents, teachers, administrators, and others on topics such as learning styles and behavior modification techniques.
+- Collaborate with other educational professionals to develop teaching strategies and school programs.
+- Design classes and programs to meet the needs of special students.
+- Promote an understanding of child development and its relationship to learning and behavior.
+- Attend workshops, seminars, or professional meetings to remain informed of new developments in school psychology.
+- Refer students and their families to appropriate community agencies for medical, vocational, or social services.
+- Serve as a resource to help families and schools deal with crises, such as separation and loss.
+- Initiate and direct efforts to foster tolerance, understanding, and appreciation of diversity in school communities.
+- Provide educational programs on topics such as classroom management, teaching strategies, or parenting skills.
+- Conduct research to generate new knowledge that can be used to address learning and behavior issues.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Active Listening (Importance: 4.38/5 | Level: 4.5/7)
+- Speaking (Importance: 4.25/5 | Level: 4.25/7)
+- Reading Comprehension (Importance: 4.25/5 | Level: 4.75/7)
+- Writing (Importance: 4.0/5 | Level: 4.12/7)
+- Monitoring (Importance: 4.0/5 | Level: 4.0/7)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.12/7)
+- Social Perceptiveness (Importance: 4.0/5 | Level: 5.0/7)
+- Judgment and Decision Making (Importance: 3.88/5 | Level: 4.0/7)
+- Complex Problem Solving (Importance: 3.75/5 | Level: 4.0/7)
+- Service Orientation (Importance: 3.75/5 | Level: 3.88/7)
+- Active Learning (Importance: 3.62/5 | Level: 3.88/7)
+- Coordination (Importance: 3.62/5 | Level: 3.62/7)
+- Learning Strategies (Importance: 3.5/5 | Level: 3.88/7)
+- Persuasion (Importance: 3.5/5 | Level: 3.5/7)
+- Negotiation (Importance: 3.38/5 | Level: 3.38/7)
+- Time Management (Importance: 3.38/5 | Level: 3.62/7)
+- Instructing (Importance: 3.25/5 | Level: 3.5/7)
+- Systems Analysis (Importance: 3.12/5 | Level: 3.38/7)
+- Systems Evaluation (Importance: 3.12/5 | Level: 3.5/7)
+- Mathematics (Importance: 2.75/5 | Level: 2.38/7)
+- Management of Personnel Resources (Importance: 2.75/5 | Level: 2.88/7)
+- Science (Importance: 2.0/5 | Level: 1.75/7)
+- Operations Analysis (Importance: 1.75/5 | Level: 1.12/7)
+- Operations Monitoring (Importance: 1.75/5 | Level: 0.88/7)
+- Programming (Importance: 1.75/5 | Level: 0.75/7)
+- Technology Design (Importance: 1.62/5 | Level: 0.62/7)
+- Quality Control Analysis (Importance: 1.38/5 | Level: 0.38/7)
+- Troubleshooting (Importance: 1.0/5 | Level: 0.0/7)
+- Management of Financial Resources (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Equipment Selection (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Management of Material Resources (Importance: 1.0/5 | Level: 0.0/7)
+- Operation and Control (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Centris Group IEP Direct (Tech skill type: Data base user interface and query software)
+- Centris Group RTIm Direct (Tech skill type: Data base user interface and query software)
+- Chalkware Education Solutions IEPPro (Tech skill type: Data base user interface and query software)
+- Email software (Tech skill type: Electronic mail software)
+- Ewing Solutions QuickWriter (Tech skill type: Word processing software)
+- Global Education Technologies EXCENT (Tech skill type: Data base user interface and query software)
+- Google Meet (Tech skill type: Video conferencing software)
+- Instructional software (Tech skill type: Computer based training software)
+- MediaNet Solutions e-IEP PRO (Tech skill type: Data base user interface and query software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft PowerPoint (Tech skill type: Presentation software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Oasys structural design and analysis software (Tech skill type: Data base user interface and query software)
+- PowerSchool Group PowerSchool SIS (Tech skill type: Data base user interface and query software)
+- Presentation software (Tech skill type: Presentation software)
+- Psychsoft !Observe (Tech skill type: Data base user interface and query software)
+- Smart Solutions IEP Anywhere (Tech skill type: Data base user interface and query software)
+- Spectrum K12 School Solutions Encore (Tech skill type: Data base user interface and query software)
+- SpED Forms (Tech skill type: Data base user interface and query software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- SunGard Pentamation IEPplus (Tech skill type: Data base user interface and query software)
+- Technical Perspectives CLASS IEP Program (Tech skill type: Data base user interface and query software)
+- Test scoring software (Tech skill type: Optical character reader OCR or scanning software)
+- Testing software (Tech skill type: Analytical or scientific software)
+- Vision Management Consulting IEP PlaNET (Tech skill type: Data base user interface and query software)
+- Web browser software (Tech skill type: Internet browser software)
+- Word processing software (Tech skill type: Word processing software)
+- Xperts iep.online (Tech skill type: Data base user interface and query software)
+- Zoom (Tech skill type: Video conferencing software)
+
+## TOOLS USED
+- Computer scanners (Tool type: Scanners)
+- Desktop computers (Tool type: Desktop computers)
+- Laptop computers (Tool type: Notebook computers)
+- Multi-line telephone systems (Tool type: Special purpose telephones)
+- Overhead projectors (Tool type: Overhead projectors)
+- Personal computers (Tool type: Personal computers)
+- Personal digital assistants PDA (Tool type: Personal digital assistant PDAs or organizers)
+- Tablet computers (Tool type: Tablet computers)

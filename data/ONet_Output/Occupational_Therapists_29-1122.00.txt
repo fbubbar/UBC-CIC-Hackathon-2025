@@ -1,0 +1,148 @@
+Job Title: Occupational Therapists
+O*NET-SOC Code: 29-1122.00
+
+# DESCRIPTION
+Assess, plan, and organize rehabilitative programs that help build or restore vocational, homemaking, and daily living skills, as well as general independence, to persons with disabilities or developmental delays. Use therapeutic techniques, adapt the individual's environment, teach skills, and modify specific tasks that present barriers to the individual.
+
+# TASKS
+- Test and evaluate patients' physical and mental abilities and analyze medical data to determine realistic rehabilitation goals for patients.
+- Complete and maintain necessary records.
+- Plan, organize, and conduct occupational therapy programs in hospital, institutional, or community settings to help rehabilitate persons with disabilities because of illness, injury or psychological or developmental problems.
+- Plan and implement programs and social activities to help patients learn work or school skills and adjust to handicaps.
+- Select activities that will help individuals learn work and life-management skills within limits of their mental or physical capabilities.
+- Evaluate patients' progress and prepare reports that detail progress.
+- Train caregivers in providing for the needs of a patient during and after therapy.
+- Lay out materials such as puzzles, scissors and eating utensils for use in therapy, and clean and repair these tools after therapy sessions.
+- Consult with rehabilitation team to select activity programs or coordinate occupational therapy with other therapeutic activities.
+- Design and create, or requisition, special supplies and equipment, such as splints, braces, and computer-aided adaptive equipment.
+- Recommend changes in patients' work or living environments, consistent with their needs and capabilities.
+- Develop and participate in health promotion programs, group activities, or discussions to promote client health, facilitate social adjustment, alleviate stress, and prevent physical or mental disability.
+- Provide training and supervision in therapy techniques and objectives for students or nurses and other medical staff.
+- Help clients improve decision making, abstract reasoning, memory, sequencing, coordination, and perceptual skills, using computer programs.
+- Conduct research in occupational therapy.
+- Advise on health risks in the workplace or on health-related transition to retirement.
+- Provide patients with assistance in locating or holding jobs.
+
+# SKILLS
+(Scale definitions: Importance is rated 1-5. Level is rated 0-7.)
+- Monitoring (Importance: 4.12/5 | Level: 4.0/7)
+- Service Orientation (Importance: 4.12/5 | Level: 4.0/7)
+- Active Listening (Importance: 4.12/5 | Level: 4.0/7)
+- Writing (Importance: 4.0/5 | Level: 4.0/7)
+- Speaking (Importance: 4.0/5 | Level: 4.0/7)
+- Social Perceptiveness (Importance: 4.0/5 | Level: 4.0/7)
+- Critical Thinking (Importance: 4.0/5 | Level: 4.0/7)
+- Reading Comprehension (Importance: 4.0/5 | Level: 4.0/7)
+- Instructing (Importance: 4.0/5 | Level: 4.0/7)
+- Judgment and Decision Making (Importance: 4.0/5 | Level: 3.88/7)
+- Active Learning (Importance: 3.88/5 | Level: 3.88/7)
+- Learning Strategies (Importance: 3.88/5 | Level: 3.88/7)
+- Coordination (Importance: 3.75/5 | Level: 3.88/7)
+- Time Management (Importance: 3.75/5 | Level: 3.88/7)
+- Complex Problem Solving (Importance: 3.25/5 | Level: 3.75/7)
+- Systems Analysis (Importance: 3.12/5 | Level: 3.12/7)
+- Operations Analysis (Importance: 3.12/5 | Level: 3.0/7)
+- Systems Evaluation (Importance: 3.12/5 | Level: 3.12/7)
+- Persuasion (Importance: 3.0/5 | Level: 3.12/7)
+- Negotiation (Importance: 3.0/5 | Level: 2.88/7)
+- Management of Personnel Resources (Importance: 3.0/5 | Level: 3.0/7)
+- Science (Importance: 2.75/5 | Level: 2.75/7)
+- Management of Financial Resources (Importance: 2.25/5 | Level: 1.62/7)
+- Operations Monitoring (Importance: 2.12/5 | Level: 2.12/7)
+- Quality Control Analysis (Importance: 2.12/5 | Level: 1.75/7)
+- Management of Material Resources (Importance: 2.12/5 | Level: 2.0/7)
+- Mathematics (Importance: 2.0/5 | Level: 2.0/7)
+- Troubleshooting (Importance: 1.88/5 | Level: 1.0/7)
+- Technology Design (Importance: 1.88/5 | Level: 1.38/7)
+- Programming (Importance: 1.75/5 | Level: 1.0/7)
+- Operation and Control (Importance: 1.62/5 | Level: 1.0/7)
+- Equipment Selection (Importance: 1.25/5 | Level: 0.25/7)
+- Equipment Maintenance (Importance: 1.0/5 | Level: 0.0/7)
+- Repairing (Importance: 1.0/5 | Level: 0.0/7)
+- Installation (Importance: 1.0/5 | Level: 0.0/7)
+
+# TECHNOLOGY SKILLS & TOOLS
+- Bizmatics PrognoCIS EMR (Tech skill type: Medical software)
+- Casamba Smart (Tech skill type: Medical software)
+- Computer drawing software (Tech skill type: Graphics or photo imaging software)
+- Crick Software Clicker 4 (Tech skill type: Word processing software)
+- Duxbury Braille Translator (Tech skill type: Optical character reader OCR or scanning software)
+- eClinicalWorks EHR software (Tech skill type: Medical software)
+- Email software (Tech skill type: Electronic mail software)
+- Facebook (Tech skill type: Web page creation and editing software)
+- Fifth Walk BillingTracker (Tech skill type: Accounting software)
+- FileMaker Pro (Tech skill type: Data base user interface and query software)
+- HMS (Tech skill type: Medical software)
+- Internet browser software (Tech skill type: Internet browser software)
+- Language arts educational software (Tech skill type: Computer based training software)
+- Lexrotech LxPediatric (Tech skill type: Medical software)
+- Math educational software (Tech skill type: Computer based training software)
+- Mayer-Johnson Boardmaker (Tech skill type: Graphics or photo imaging software)
+- Microsoft Excel (Tech skill type: Spreadsheet software)
+- Microsoft Office software (Tech skill type: Office suite software)
+- Microsoft Word (Tech skill type: Word processing software)
+- Music software (Tech skill type: Music or sound editing software)
+- OpenOffice WRITER (Tech skill type: Word processing software)
+- Physical education educational software (Tech skill type: Computer based training software)
+- Rehab Documentation Company ReDoc Suite (Tech skill type: Medical software)
+- Science educational software (Tech skill type: Computer based training software)
+- Screen magnification software (Tech skill type: Device drivers or system software)
+- Screen reader software (Tech skill type: Device drivers or system software)
+- Social studies educational software (Tech skill type: Computer based training software)
+- Special education educational software (Tech skill type: Computer based training software)
+- Speech recognition software (Tech skill type: Voice recognition software)
+- Spreadsheet software (Tech skill type: Spreadsheet software)
+- Synapse Adaptive Connect Outloud (Tech skill type: Internet browser software)
+- Tactile graphic production kits software (Tech skill type: Pattern design software)
+- Text reader software (Tech skill type: Computer based training software)
+- Text scanning software (Tech skill type: Optical character reader OCR or scanning software)
+- Text to speech software (Tech skill type: Computer based training software)
+- Word processing software (Tech skill type: Word processing software)
+
+## TOOLS USED
+- Adaptive cutlery (Tool type: Cutlery or utensils for the physically challenged)
+- Adjustable beds (Tool type: Patient care beds for general use)
+- Alternative computer keyboards (Tool type: Keyboards)
+- Braille printers (Tool type: Braille devices for the physically challenged)
+- Computer switch interfaces (Tool type: Adaptive communication switches for the physically challenged)
+- Drill presses (Tool type: Drilling machines)
+- Electric knives (Tool type: Domestic electric knives)
+- Electric wheelchairs (Tool type: Wheelchairs)
+- Electronic blood pressure units (Tool type: Electronic blood pressure units)
+- Exercise balls (Tool type: Therapeutic balls)
+- Gait and transfer belts (Tool type: Gait belts for rehabilitation or therapy)
+- Goniometers or arthrometers (Tool type: Goniometers or arthrometers)
+- Hoists (Tool type: Patient ceiling hoists)
+- Joy sticks (Tool type: Game pads or joy sticks)
+- Laptop computers (Tool type: Notebook computers)
+- Lathes (Tool type: Tracer or duplicating or contouring lathe)
+- Lift chairs (Tool type: Patient lifts)
+- Looms (Tool type: Hand looms)
+- Manual blood pressure cuffs (Tool type: Mercury blood pressure units)
+- Mechanical stethoscopes (Tool type: Medical acoustic stethoscopes)
+- Orthotics (Tool type: Orthotics or foot care products)
+- Personal computers (Tool type: Personal computers)
+- Personal digital assistants PDA (Tool type: Personal digital assistant PDAs or organizers)
+- Portable scanning pens (Tool type: Scanners)
+- Power drills (Tool type: Power drills)
+- Power sanders (Tool type: Power sanders)
+- Pressure care garments (Tool type: Vascular or compression apparel or support)
+- Pulleys (Tool type: Pulleys for rehabilitation or therapy)
+- Resistive exercise bands (Tool type: Resistive exercise bands or putty or tubing for rehabilitation or therapy)
+- Saws (Tool type: Saws)
+- Scooters (Tool type: Patient scooters)
+- Sewing machines (Tool type: Domestic sewing machines)
+- Single-cut mill saw files (Tool type: Mill saw file)
+- Soldering irons (Tool type: Soldering iron)
+- Splints (Tool type: Orthopedic splint systems)
+- Switch use tools (Tool type: Adaptive communication switches for the physically challenged)
+- Tongue switches (Tool type: Headpointers or mouthsticks for the physically challenged)
+- Trackballs (Tool type: Computer mouse)
+- Trackpads (Tool type: Touch pads)
+- Video cameras (Tool type: Hand held camcorders or video cameras)
+- Video magnifiers (Tool type: Visual presenters)
+- Voice output communication aids (Tool type: Voice synthesizers for the physically challenged)
+- Weights (Tool type: Weights or sets for rehabilitation or therapy)
+- Wheelchairs (Tool type: Wheelchairs)
+- Wheeled walkers (Tool type: Walkers or rollators)
+- Wobble switches (Tool type: Adaptive communication switches for the physically challenged)
